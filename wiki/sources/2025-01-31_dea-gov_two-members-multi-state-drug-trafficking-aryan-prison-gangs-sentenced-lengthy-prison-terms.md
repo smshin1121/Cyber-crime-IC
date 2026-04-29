@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/01/31/two-members-multi-
 created: 2026-04-25
 raw_path: raw/press-releases/2025-01-31_dea-gov_two-members-multi-state-drug-trafficking-aryan-prison-gangs-sentenced-lengthy-prison-terms.md
 text_status: parsed
-content_hash: sha256:e5b562b78293d23c59ad72662878ad766da70c0ede93aeec5993edabfd7b6fec
-word_count: 5764
-extraction_date: 2026-04-25
-last_fetcher: jina
+content_hash: sha256:5c54a0f8e3bcb2e7fa3dcf57c1b559dd6b69f39f8461348c477be7e0ff869ac9
+word_count: 216
+extraction_date: 2026-04-29
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

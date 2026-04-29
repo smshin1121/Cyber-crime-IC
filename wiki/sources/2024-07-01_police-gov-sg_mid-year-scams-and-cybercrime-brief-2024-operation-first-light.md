@@ -19,10 +19,11 @@ key_findings:
 collection_url: https://www.police.gov.sg/-/media/B560DF9AB68441A0B5AEAEEEF9ADCB6A.ashx
 created: 2026-04-23
 text_status: parsed
-content_hash: sha256:278dd7ab30f1ef34a04c00e646563df43f800fd375b4a66e55c9e026d2e14582
-word_count: 8935
-extraction_date: 2026-04-25
+content_hash: sha256:fe80895e43230817575d2e9befab37d8942c895ae53706762a43f0f0b6ba8d84
+word_count: 8901
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

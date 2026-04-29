@@ -34,4 +34,4 @@ On 24 July 2017, DOJ announced that Abudullah Almashwali was sentenced to six an
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2017-07-24_edca_almashwali-alphabay-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2017-07-24_edca_almashwali-alphabay-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

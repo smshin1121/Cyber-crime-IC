@@ -29,4 +29,4 @@ On 7 September 2023, the Department of Justice unsealed three indictments in thr
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2023-09-07_ndoh-mdtn-sdca_trickbot-conti-indictments.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2023-09-07_ndoh-mdtn-sdca_trickbot-conti-indictments.md`, preserving traceable review without classifying the page as a placeholder.

@@ -17,11 +17,12 @@ key_findings:
   - "Operation Secreto, led by the Spanish National Police and U.S. Secret Service with coordination by Europol, dismantled a credit card fraud and money laundering organization that targeted U.S.-based banks. The operation resulted in the arrest of 105 individuals across Spain, the United States, Austria, Denmark, and Greece. The criminal network had caused over EUR 12 million in damages through fraudulent use of stolen credit card data."
 collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks"
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:2d4ae838c3a123703e12aa77c839afd1fa2e30560ff7272a73f1cbb099b356c3
-word_count: 243
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:f423e10cfbb83f36ad388bea710c5b49fb37b7f7c089f2a453cd53031d58d454
+word_count: 708
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Operation Secreto, led by the Spanish National Police and U.S. Secret Service wi
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks.md`, preserving traceable review without classifying the page as a placeholder.

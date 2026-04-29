@@ -12,26 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:a97968587e00587fddfd928a6ea95e07158a707acc48e8da79a915cc1365bf05
-word_count: 1400
-extraction_date: 2026-04-25
+content_hash: sha256:11078da2a3460cf15c588c40098100aaebb52b96145d75b2800ef5ea5eb1d3c6
+word_count: 1367
+extraction_date: 2026-04-29
 source_page: wiki/sources/2026-04-17_justice-gov_trickbot-conti-sdca-indictment-pdf.md
+parser: jina_markdown
 ---
 ## Summary
 
 United States v. Galochkin et al. encompasses three indictments unsealed on 7 September 2023 across three federal districts, charging nine Russian nationals with conspiracies related to the TrickBot malware and Conti ransomware operations. Two additional defendants (Dunaev and Witte) were charged separately and have been convicted and sentenced. The case demonstrates the sustained prosecution approach required when initial technical disruption (October 2020) fails to permanently disable a botnet.
 
 ## Extracted Text
-
-Title: Indictment U.S. v. Galochkin, 23CR1166-LAB
-
-URL Source: https://www.justice.gov/d9/2023-09/trickbot_conti_sdca_indictment.pdf
-
-Published Time: Thu, 07 Sep 2023 12:37:48 GMT
-
-Number of Pages: 5
-
-Markdown Content:
 
 FILED
 
@@ -183,7 +174,8 @@ That the foregoin g document
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:44:39+00:00
+- normalized_at: 2026-04-28T16:03:47+00:00
 - final_url: https://www.justice.gov/d9/2023-09/trickbot_conti_sdca_indictment.pdf
+- cleanup: jina navigation trim

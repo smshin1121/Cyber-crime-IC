@@ -27,4 +27,4 @@ On 16 May 2019, the US Attorney's Office for the Western District of Pennsylvani
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2019-05-16_wdpa_goznym-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2019-05-16_wdpa_goznym-indictment.md`, preserving traceable review without classifying the page as a placeholder.

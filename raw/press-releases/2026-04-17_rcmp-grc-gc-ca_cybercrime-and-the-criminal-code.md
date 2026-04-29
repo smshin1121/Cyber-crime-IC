@@ -12,24 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:1f46faf40e3df72470bcb9337659e3a93040fd79c91b3a28dce4a626b986accc
-word_count: 410
-extraction_date: 2026-04-25
+content_hash: sha256:f78f59ee85fbe6d3de4bb17948706ff4a84daa6e994ae00bc038a73529b0cc43
+word_count: 190
+extraction_date: 2026-04-29
 source_page: wiki/sources/2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code.md
+parser: jina_markdown
 ---
 ## Summary
 
 Canada signed the [[budapest-convention|Budapest Convention on Cybercrime]] on 23 November 2001 — the day it was opened for signature — and completed ratification on **8 July 2015** after passing the **Protecting Canadians from Online Crime Act (Bill C-13, 2014)** which introduced the procedural tools required by Budapest Convention Articles 16-21 [1][2].
-
-## Extracted Text
-
-Title: Royal Canadian Mounted Police | Royal Canadian Mounted Police
-
-URL Source: https://www.rcmp-grc.gc.ca/en/nc3
-
-Markdown Content:
-
-![Image 1](https://rcmp.ca/sites/default/files/styles/hero_banner_1920x960/public/home-accueil.jpg?h=2538f4e7&itok=MZDapu8y)
 
 ## Royal Canadian Mounted Police
 
@@ -121,9 +112,84 @@ We work with partners to protect Canada from serious criminal threats.
 
 * More: [About the RCMP](https://rcmp.ca/en/corporate-information/about-rcmp)
 
+## Extracted Text
+
+## Royal Canadian Mounted Police
+
+Serving with excellence
+
+## Most requested
+
+Security screening portal
+
+Firearms services for individuals
+
+Firearms services for businesses
+
+Firearms services for public agents
+
+Firearms Reference Table
+
+First-time firearms licence application for individuals
+
+Criminal record checks
+
+Report fraud and cybercrime
+
+## Services and information
+
+### Firearms
+
+Firearms are regulated by law. We issue licences, register firearms, and provide safety training.
+
+### Federal Policing
+
+We protect Canada from major threats like organized crime and cybercrime.
+
+### Cybercrime
+
+We fight cybercrime to protect Canadians online and keep data secure.
+
+### Border integrity
+
+We protect Canada's borders between entry points to stop criminal threats.
+
+### Relationship violence
+
+Violence in relationships can be physical, emotional, financial, sexual, or neglect.
+
+### Missing persons
+
+Each year, 70,000 to 80,000 Canadians go missing. We work to find them.
+
+### Scams and frauds
+
+Canadians lose millions yearly to fraud. The Anti-Fraud Centre helps stop scams.
+
+### Human trafficking
+
+Human trafficking is a crime that exploits victims for sex or forced labour.
+
+## Focus on
+
+### Youth
+
+We help youth stay safe, make positive choices, and build life skills.
+
+### National security
+
+We work with partners to protect Canada from serious criminal threats.
+
+## About the RCMP
+
+Accessibility
+
+Campaigns
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:21:32+00:00
+- normalized_at: 2026-04-28T16:03:47+00:00
 - final_url: https://www.rcmp-grc.gc.ca/en/nc3
+- cleanup: jina navigation trim

@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2024/10/25/washington-man-sen
 created: 2026-04-25
 raw_path: raw/press-releases/2024-10-25_dea-gov_washington-man-sentenced-10-years-right-hand-man-deadly-drug-distribution-ring.md
 text_status: parsed
-content_hash: sha256:dc5c1316e782ac259b771d05b6cd50e1a83cfa4aeeff4c3e519630e9b016a862
-word_count: 5600
-extraction_date: 2026-04-25
+content_hash: sha256:a402aff9094052f657c2642fadfd180a11fdcb1d7968af2958631e3e5c83c47a
+word_count: 721
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

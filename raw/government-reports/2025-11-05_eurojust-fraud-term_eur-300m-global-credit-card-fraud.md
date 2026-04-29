@@ -4,7 +4,7 @@ collection_source: Eurojust
 collection_url: "https://www.eurojust.europa.eu/term/fraud?page=6"
 final_url: "https://www.eurojust.europa.eu/term/fraud?page=6"
 collection_domain: eurojust.europa.eu
-collection_date: 2026-04-28
+collection_date: 2026-04-29
 publish_date: 2025-11-05
 language: en
 status: materialized
@@ -13,8 +13,8 @@ storage_mode: source-digest
 source_type: government
 source_page: wiki/sources/2025-11-05_eurojust-fraud-term_eur-300m-global-credit-card-fraud.md
 word_count: 122
-content_hash: sha256:8fa2a2bd42d382a5ba03dbb72e056aa6478cf6a32305f946da29636edad81e8a
-extraction_date: 2026-04-28
+content_hash: sha256:12bb3f4daad5e17e2ecfa5d9d44b0d7cb3cd9dc1ccb00b8a9379d010f471fabe
+extraction_date: 2026-04-29
 license_basis: official_public_record
 ---
 ## Source Archive Record
@@ -42,5 +42,5 @@ Eurojust's fraud topic page lists the global credit-card-fraud operation. This s
 
 - storage_mode: source-digest
 - source_page: wiki/sources/2025-11-05_eurojust-fraud-term_eur-300m-global-credit-card-fraud.md
-- generated_at: 2026-04-28T13:54:20+00:00
+- generated_at: 2026-04-28T16:02:26+00:00
 - full_text: not fetched in this materialization pass

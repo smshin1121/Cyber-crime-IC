@@ -91,7 +91,7 @@ sources:
   - "[[2021-03-30_justice-gov_lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest]]"
 summary: "Jack R. Dove III's March 30, 2021 guilty plea was a U.S. follow-on prosecution arising from the Welcome To Video international takedown. The collected references document a South Korea server seizure, Bitcoin-based account/payment evidence, and cooperation among HSI, IRS-CI, the UK NCA, and Korean National Police; the prior page summary was therefore materially incomplete."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 

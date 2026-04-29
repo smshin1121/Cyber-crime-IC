@@ -26,6 +26,9 @@ storage_mode: source-digest
 content_hash: sha256:cc31633d29fda64a07c4e1321afe2afd46a2e335a3d2d0013b30476a2d638a5d
 word_count: 114
 extraction_date: 2026-04-28
+harvest_status: fulltext_not_available
+harvest_note: "Repeated live fulltext harvesting failed or is not suitable; source digest retained."
+last_fetch_attempt: 2026-04-29
 ---
 ## Source Summary
 
@@ -33,4 +36,4 @@ Structured source page materialized from `raw/case-documents/2015-01-07_district
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2015-01-07_district-court-sd-new-york_united-states-v-ulbricht-2.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2015-01-07_district-court-sd-new-york_united-states-v-ulbricht-2.md`, preserving traceable review without classifying the page as a placeholder.

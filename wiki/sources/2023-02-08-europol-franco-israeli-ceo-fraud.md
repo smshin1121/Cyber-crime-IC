@@ -21,6 +21,12 @@ key_findings:
   - "Money laundering route through EU, China, and Israel bank accounts"
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted
 created: 2026-04-08
+text_status: parsed
+content_hash: sha256:51b0301e0462cb95fdfa8d880fe254c3426b2ac92239bfdcf3ed7ff77091d3ab
+word_count: 4145
+extraction_date: 2026-04-29
+last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Summary
 

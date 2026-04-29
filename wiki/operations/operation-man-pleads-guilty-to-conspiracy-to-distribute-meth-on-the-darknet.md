@@ -64,11 +64,13 @@ sources:
   - "[[2022-07-12_justice-gov_man-sentenced-for-conspiracy-to-distribute-meth-on-the-darknet]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-pleads-guilty-to-conspiracy-to-distribute-meth-on-the-darknet]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-pleads-guilty-to-conspiracy-to-distribute-meth-on-the-darknet]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

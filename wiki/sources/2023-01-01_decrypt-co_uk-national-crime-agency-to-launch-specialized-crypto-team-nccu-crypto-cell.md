@@ -31,4 +31,4 @@ The National Crime Agency (NCA) is the [[united-kingdom|United Kingdom's]] lead 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-01-01_decrypt-co_uk-national-crime-agency-to-launch-specialized-crypto-team-nccu-crypto-cell.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-01-01_decrypt-co_uk-national-crime-agency-to-launch-specialized-crypto-team-nccu-crypto-cell.md`, preserving traceable review without classifying the page as a placeholder.

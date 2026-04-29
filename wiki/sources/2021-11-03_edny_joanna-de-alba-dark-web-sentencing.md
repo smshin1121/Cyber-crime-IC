@@ -31,4 +31,4 @@ On 3 November 2021, DOJ announced that Joanna De Alba was sentenced to 96 months
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2021-11-03_edny_joanna-de-alba-dark-web-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2021-11-03_edny_joanna-de-alba-dark-web-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

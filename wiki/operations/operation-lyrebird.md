@@ -17,6 +17,8 @@ enforcement_type:
 
 lead_agency: "[[interpol]]"
 legal_basis:
+  - "Moroccan domestic criminal process"
+  - "INTERPOL operational coordination channel"
 
 lessons_learned:
 
@@ -40,6 +42,9 @@ period: 2
 related_cases:
 
 related_operations:
+  - "[[operation-falcon]]"
+  - "[[operation-killer-bee]]"
+  - "[[operation-delilah]]"
 
 results:
   arrests: 1
@@ -75,7 +80,7 @@ timeframe:
 title: "Operation Lyrebird"
 title_ko: "라이어버드 작전"
 type: operation
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 ## Summary
 

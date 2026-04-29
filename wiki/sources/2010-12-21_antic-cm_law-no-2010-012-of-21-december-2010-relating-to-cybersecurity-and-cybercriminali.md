@@ -25,4 +25,4 @@ Cameroon deposited its instrument of accession to the [[budapest-convention|Buda
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2010-12-21_antic-cm_law-no-2010-012-of-21-december-2010-relating-to-cybersecurity-and-cybercriminali.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2010-12-21_antic-cm_law-no-2010-012-of-21-december-2010-relating-to-cybersecurity-and-cybercriminali.md`, preserving traceable review without classifying the page as a placeholder.

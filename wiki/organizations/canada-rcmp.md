@@ -31,6 +31,7 @@ operations_participated:
   - "[[operation-power-off]]"
   - "[[vpnlab-takedown]]"
   - "[[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]]"
+  - "[[operation-morpheus]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
 source_count: 3

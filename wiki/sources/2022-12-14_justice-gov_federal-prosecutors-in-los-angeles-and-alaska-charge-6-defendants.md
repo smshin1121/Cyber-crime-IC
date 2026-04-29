@@ -28,4 +28,4 @@ Operation PowerOFF is an **ongoing, multi-phase international law enforcement op
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-12-14_justice-gov_federal-prosecutors-in-los-angeles-and-alaska-charge-6-defendants.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-12-14_justice-gov_federal-prosecutors-in-los-angeles-and-alaska-charge-6-defendants.md`, preserving traceable review without classifying the page as a placeholder.

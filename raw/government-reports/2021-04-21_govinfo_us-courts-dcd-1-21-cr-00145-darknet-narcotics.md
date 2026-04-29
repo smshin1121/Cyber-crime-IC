@@ -15,28 +15,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:7852a5ef55b5893bef9d01c1fc20bcbf884dda65460e8c4d6d3deb2ba0cb0505
-word_count: 5088
-extraction_date: 2026-04-25
+content_hash: sha256:8f4f6686619465e135d97b93aa9c4b6615f55d02c1ca7d1ea6260a223957ca4a
+word_count: 5052
+extraction_date: 2026-04-29
 source_page: wiki/sources/2021-04-21_govinfo_us-courts-dcd-1-21-cr-00145.md
+parser: jina_markdown
 ---
 GPO/govinfo PDF of court filing in U.S. v. Teixeira-Spencer et al., 1:21-cr-00145 (D.D.C.).
 
 ## Extracted Text
-
-Title: USCOURTS-dcd-1_21-cr-00145-0.pdf
-
-URL Source: https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_21-cr-00145/pdf/USCOURTS-dcd-1_21-cr-00145-0.pdf
-
-Published Time: Thu, 29 Jan 2026 00:57:45 GMT
-
-Number of Pages: 15
-
-Markdown Content:
-
-1
-
-UNITED STATES DISTRICT COURT
 
 FOR THE DISTRICT OF COLUMBIA
 
@@ -204,7 +191,8 @@ Case 1:21-cr-00145-JDB Document 13 Filed 04/19/21 Page 15 of 15
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:17:17+00:00
+- normalized_at: 2026-04-28T16:03:44+00:00
 - final_url: https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_21-cr-00145/pdf/USCOURTS-dcd-1_21-cr-00145-0.pdf
+- cleanup: jina navigation trim

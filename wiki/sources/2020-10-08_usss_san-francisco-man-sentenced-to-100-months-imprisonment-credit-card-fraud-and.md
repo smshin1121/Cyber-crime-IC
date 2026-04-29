@@ -17,11 +17,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2020/10/san-francisco-man-sentenced-100-months-imprisonment-credit-card-fraud-and
 created: 2026-04-25
 raw_path: raw/press-releases/2020-10-08_usss_san-francisco-man-sentenced-to-100-months-imprisonment-credit-card-fraud-and.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:73287333bc3a4fe29830d19ad3dfabccab58e3a9a1e491041a0ed7db4a482ff8
-word_count: 129
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:8a2c3c2e12bf6eca2bc959add89a7115b1734f94d59611485345479ef2831b93
+word_count: 723
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

@@ -18,12 +18,13 @@ key_findings:
 collection_url: https://arstechnica.com/tech-policy/2016/08/nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams/
 created: 2026-04-23
 text_status: summarized
-content_hash: sha256:2837fea28eca026a55a5a190eb65f6330f2e5bb5e72f90dec4f08f792187cc44
-word_count: 756
+content_hash: sha256:4ad23a81e8f58b33caade849e6d774b7490e802a5fc6f60175e7e6c9c5640a0a
+word_count: 133
 stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-29
 last_fetcher: urllib
 copyright_policy: summary-only
+storage_mode: summary-only
 ---
 ## Source Summary
 

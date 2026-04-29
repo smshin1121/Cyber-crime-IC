@@ -31,4 +31,4 @@ The **Ministry of Science and ICT (과학기술정보통신부, MSIT)** is South
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_namu-wiki_ea-b3-bc-ed-95-99-ea-b8-b0-ec-88-a0-ec-a0-95-eb-b3-b4-ed-86-b5-ec-8b-a0-eb-b6-80.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_namu-wiki_ea-b3-bc-ed-95-99-ea-b8-b0-ec-88-a0-ec-a0-95-eb-b3-b4-ed-86-b5-ec-8b-a0-eb-b6-80.md`, preserving traceable review without classifying the page as a placeholder.

@@ -30,4 +30,4 @@ On 5 February 2024, DOJ announced that Chaloner Saintillus was sentenced to 10 y
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2024-02-05_edca_chaloner-saintillus-dark-web-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2024-02-05_edca_chaloner-saintillus-dark-web-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

@@ -23,7 +23,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_four-members-notorious-cybercrime-group-fin9-charged-roles-attacking-us-companies]]"
 created: 2026-04-18
-updated: 2026-04-28
+updated: 2026-04-29
 summary: "Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attacking U.S. Companies is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -51,8 +51,6 @@ Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attac
 
 - US DOJ USAO has a parsed source text of 1258 words available for further review.
 
-
-
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage
@@ -71,6 +69,9 @@ Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attac
 - US DOJ USAO, 2024-06-20: FBI Newark’s Cyber Task Force and our law enforcement partners use precision and innovative techniques to expose these people for what they are – simple thieves.
 - US DOJ USAO, 2024-06-20: In an effort to hide their own identities, the defendants would, at times, use that information in furtherance of the conspiracy by, for example, registering online accounts at cryptocurrency exchanges or server hosting companies in the names of individuals whose identities were stolen.
 - US DOJ USAO, 2024-06-20: Tai, Xuyen, and Truong sold stolen gift cards to third parties, including through an account registered with a fake name on a peer-to-peer cryptocurrency marketplace, in order to conceal and disguise the source of the stolen money.
+- US DOJ USAO, 2024-06-20: Tai, Quoc, Xuyen, and Truong are charged with one count of conspiracy to commit fraud, extortion, and related activity in connection with computers; one count of conspiracy to commit wire fraud; and two counts of intentional damage to a protected computer.
+- US DOJ USAO, 2024-06-20: Tai, Xuyen, and Truong were charged with one count of conspiracy to commit money laundering, which carries a mandatory maximum penalty of 20 years in prison.
+- US DOJ USAO, 2024-06-20: Tai and Quoc were also charged with one count of aggravated identity theft, which carries a mandatory consecutive term of two years in prison, and one count of conspiracy to commit identity fraud, which carries a maximum penalty of 15 years in prison.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

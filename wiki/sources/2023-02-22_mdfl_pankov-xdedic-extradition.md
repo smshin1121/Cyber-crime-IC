@@ -35,4 +35,4 @@ On 22 February 2023, the U.S. Attorney's Office for the Middle District of Flori
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2023-02-22_mdfl_pankov-xdedic-extradition.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2023-02-22_mdfl_pankov-xdedic-extradition.md`, preserving traceable review without classifying the page as a placeholder.

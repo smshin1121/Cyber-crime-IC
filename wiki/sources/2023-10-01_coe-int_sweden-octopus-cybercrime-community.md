@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/-/sweden
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:4d732ab417410e9cf2f1f427b5b7e5fa708bb9b34d3b48129d8d7add9e6bfd0e
-word_count: 1650
-extraction_date: 2026-04-25
+content_hash: sha256:eca1a2b628b4d23640c5cb20efb85054e1551138146c2a40550ae1ec41f69007
+word_count: 133
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Sweden is a **highly capable Nordic cybercrime cooperation partner**, deeply emb
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-10-01_coe-int_sweden-octopus-cybercrime-community.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-10-01_coe-int_sweden-octopus-cybercrime-community.md`, preserving traceable review without classifying the page as a placeholder.

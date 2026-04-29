@@ -25,11 +25,12 @@ key_findings:
   - "Operation not publicly named in the Eurojust release; descriptive slug used in wiki"
 collection_url: https://www.eurojust.europa.eu/news/cryptocurrency-mixing-service-used-launder-money-taken-down
 created: 2026-04-14
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:e842e405784a224ed13d25e429c1ee9360fe29103d9b4cae3c40e6550c6fef3f
-word_count: 254
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:903333d703844719ee6cc78487b8a43d2aab3441f4432303799cca568d72617a
+word_count: 500
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Summary
 

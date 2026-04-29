@@ -64,11 +64,13 @@ sources:
   - "[[2026-04-18_justice-gov_international-money-launderer-sentenced-over-11-years-federal-prison-laundering]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

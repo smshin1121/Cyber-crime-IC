@@ -22,6 +22,9 @@ storage_mode: source-digest
 content_hash: sha256:cfb8ef08de5bc953cade2cc7b9fbb5650c7bddf5e02d947d408a1e9fc0764651
 word_count: 147
 extraction_date: 2026-04-28
+harvest_status: fulltext_not_available
+harvest_note: "Repeated live fulltext harvesting failed or is not suitable; source digest retained."
+last_fetch_attempt: 2026-04-29
 ---
 ## Source Summary
 
@@ -29,4 +32,4 @@ Norway's National Criminal Investigation Service — hosts the NC3 cybercrime ce
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_politiet-no_official-website.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_politiet-no_official-website.md`, preserving traceable review without classifying the page as a placeholder.

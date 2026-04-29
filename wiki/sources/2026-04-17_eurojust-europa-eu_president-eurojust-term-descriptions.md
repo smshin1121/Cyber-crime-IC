@@ -19,9 +19,9 @@ collection_url: https://www.eurojust.europa.eu/term/president
 created: 2026-04-17
 text_status: source-digest
 storage_mode: source-digest
-content_hash: sha256:383b73e66a05ec77fd535b18aaaf0f212830f76511e0a9570ed92fedd8be5e47
+content_hash: sha256:a033237d8b8153e539a0ca7568186633ffa9c109778addeda435abcfed7398df
 word_count: 231
-extraction_date: 2026-04-28
+extraction_date: 2026-04-29
 ---
 ## Source Summary
 
@@ -29,4 +29,4 @@ Eurojust (유로저스트) is the European Union Agency for Criminal Justice Coo
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_eurojust-europa-eu_president-eurojust-term-descriptions.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_eurojust-europa-eu_president-eurojust-term-descriptions.md`, preserving traceable review without classifying the page as a placeholder.

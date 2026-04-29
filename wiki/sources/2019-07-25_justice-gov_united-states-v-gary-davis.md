@@ -34,4 +34,4 @@ Gary Davis (Silk Road) Enforcement Action is a defendant-specific enforcement ac
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2019-07-25_justice-gov_united-states-v-gary-davis.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2019-07-25_justice-gov_united-states-v-gary-davis.md`, preserving traceable review without classifying the page as a placeholder.

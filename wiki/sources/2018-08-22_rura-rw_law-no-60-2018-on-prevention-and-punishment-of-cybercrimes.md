@@ -31,4 +31,4 @@ Rwanda is a recent **[[budapest-convention|Budapest Convention]] party**, having
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-08-22_rura-rw_law-no-60-2018-on-prevention-and-punishment-of-cybercrimes.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-08-22_rura-rw_law-no-60-2018-on-prevention-and-punishment-of-cybercrimes.md`, preserving traceable review without classifying the page as a placeholder.

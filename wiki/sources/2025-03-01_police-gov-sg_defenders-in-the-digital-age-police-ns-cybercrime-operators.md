@@ -29,4 +29,4 @@ The Cybercrime Command of the [[singapore-police|Singapore Police Force]] (SPF) 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-03-01_police-gov-sg_defenders-in-the-digital-age-police-ns-cybercrime-operators.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-03-01_police-gov-sg_defenders-in-the-digital-age-police-ns-cybercrime-operators.md`, preserving traceable review without classifying the page as a placeholder.

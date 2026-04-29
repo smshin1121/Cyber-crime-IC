@@ -35,13 +35,17 @@ participating_agencies:
   - "[[romanian-police]]"
   - "[[kaspersky-lab]]"
 legal_basis:
-  []
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "Spanish domestic cybercrime investigation authority"
 mechanisms_used:
   - "[[informal-cooperation]]"
 related_cases:
   []
 related_operations:
-  []
+  - "[[operation-nightfury]]"
+  - "[[operation-endgame]]"
+  - "[[dridex-operations]]"
 results:
   arrests: 1
   servers_seized: 0
@@ -75,7 +79,7 @@ sources:
   - "[[2018-03-26_securityweek_ukrainian-suspected-leading-carbanak-gang-arrested-spain]]"
 summary: "Spanish authorities, supported by Europol and other international partners, arrested the alleged mastermind behind the Carbanak/Cobalt bank-fraud campaigns in Spain. The arrest narrative is official; the technical understanding of the campaign still depends heavily on Kaspersky's earlier reporting."
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 ## Summary
 

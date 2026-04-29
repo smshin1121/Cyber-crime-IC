@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://rm.coe.int/octocom-legal-profile-albania/1680a248cd
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:d604c94e685a03d32a8ffbb9a642791c7a999b469ff00af297b1bf99a7c3334f
-word_count: 9603
-extraction_date: 2026-04-25
+content_hash: sha256:de87a4cc3d011b6729ba6de3b8fdfb84e58905079226a28a4bcc8a843cbb941c
+word_count: 9585
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Albania was among the earliest ratifiers of the [[budapest-convention|Budapest C
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-01-01_rm-coe-int_octocom-legal-profile-albania.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-01-01_rm-coe-int_octocom-legal-profile-albania.md`, preserving traceable review without classifying the page as a placeholder.

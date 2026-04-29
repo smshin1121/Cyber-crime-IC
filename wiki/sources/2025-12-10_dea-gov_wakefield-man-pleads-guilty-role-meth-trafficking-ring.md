@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/12/10/wakefield-man-plea
 created: 2026-04-25
 raw_path: raw/press-releases/2025-12-10_dea-gov_wakefield-man-pleads-guilty-role-meth-trafficking-ring.md
 text_status: parsed
-content_hash: sha256:0d4049bab093624fa598768a270ff5e5cba783d9de76ed741db475358c3d37f3
-word_count: 5365
-extraction_date: 2026-04-25
+content_hash: sha256:ee4472b1b8e1dfaa9804ec605a57d7937ac3f640118a4b5ce2c6951728150b75
+word_count: 566
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

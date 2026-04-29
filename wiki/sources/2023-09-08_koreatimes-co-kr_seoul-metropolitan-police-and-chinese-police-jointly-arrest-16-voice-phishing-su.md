@@ -29,4 +29,4 @@ The Seoul Metropolitan Police Agency (SMPA), in cooperation with Chinese police 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-09-08_koreatimes-co-kr_seoul-metropolitan-police-and-chinese-police-jointly-arrest-16-voice-phishing-su.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-09-08_koreatimes-co-kr_seoul-metropolitan-police-and-chinese-police-jointly-arrest-16-voice-phishing-su.md`, preserving traceable review without classifying the page as a placeholder.

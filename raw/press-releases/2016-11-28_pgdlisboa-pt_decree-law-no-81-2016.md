@@ -12,14 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:d255c8a35512d457e93ce08aeadf163404848e3626ae2fb6442f2dd5b4900c1c
-word_count: 1768
-extraction_date: 2026-04-26
+content_hash: sha256:56499de7c69de1102e41bfa460f2335659c3a650dc6f8baca7d5c8308685ef55
+word_count: 1698
+extraction_date: 2026-04-29
 source_page: wiki/sources/2016-11-28_pgdlisboa-pt_decree-law-no-81-2016.md
 storage_mode: fulltext
 license_basis: official_legal_text
 attribution_required: true
 attribution_url: "https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=2608&tabela=leis"
+parser: jina_markdown
 ---
 ## Summary
 
@@ -30,14 +31,6 @@ The **Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica 
 Title: Procuradoria-Geral Distrital de Lisboa URL Source: https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1137 Markdown Content: # Procuradoria-Geral Distrital de Lisboa [![Image 2: Início](https://www.pgdlisboa.pt/images-mp/mplogo_desktop.png)](https://www.pgdlisboa.pt/) [Área reservada](https://www.pgdlisboa.pt/pgd_login.php?modulo=JUR_main)[SIMP](https://simp.pgr.pt/) ![Image 3: PGR Lisboa](https://www.pgdlisboa.pt/images-mp/lisboa-157-c.jpg) # [Procuradoria-Geral Regional _de_**Lisboa**](https://www.pgdlisboa.pt/) PGR Lisboa * [PGRL](https://pgreg-lisboa.ministeriopublico.pt/) * [Legislação](https://www.pgdlisboa.pt/leis/lei_main.php) * [Jurisprudência](https://www.pgdlisboa.pt/jurel/jurisprudencia_main.php) * [Contactos](https://pgreg-lisboa.ministeriopublico.pt/contactos) # Legislação **Assunto:**- [x] A expressão exacta **Diploma - tipo:**nº ano- [x] Só o registo principal **Diploma - nome:**- [x] Só o registo principal - [x] Resultados por diplomas - [x] Resultados por artigos de diplomas [![Image 4](https://www.pgdlisboa.pt/imagens/refresh.gif)Ver todos](https://www.pgdlisboa.pt/leis/lei_main.php?so_miolo=) Para mais conteúdos...
 
 ## Extracted Text
-
-Title: :::DL n.º 81/2016, de 28 de Novembro
-
-URL Source: https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=2608&tabela=leis
-
-Markdown Content:
-
-[Nº de artigos:**8]**
 
 DL n.º 81/2016, de 28 de Novembro (versão actualizada)
 
@@ -87,7 +80,7 @@ Artigo 2.º
 
 Alteração à Lei n.º 37/2008, de 6 de agosto
 
-O artigo 28.º da [Lei n.º 37/2008, de 6 de agosto](https://pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1004&tabela=leis&ficha=1&pagina=1), alterada pela Lei n.º 26/2010, de 30 de agosto, e pela Lei n.º 103/2015, de 24 de agosto, passa a ter a seguinte redação:
+O artigo 28.º da Lei n.º 37/2008, de 6 de agosto, alterada pela Lei n.º 26/2010, de 30 de agosto, e pela Lei n.º 103/2015, de 24 de agosto, passa a ter a seguinte redação:
 
 «Artigo 28.º
 
@@ -109,7 +102,7 @@ Artigo 3.º
 
 Alteração ao Decreto-Lei n.º 42/2009, de 12 de fevereiro
 
-Os artigos 2.º, 7.º e 10.º do [Decreto-Lei n.º 42/2009, de 12 de fevereiro](https://pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1050&tabela=leis&ficha=1&pagina=1), passam a ter a seguinte redação:
+Os artigos 2.º, 7.º e 10.º do Decreto-Lei n.º 42/2009, de 12 de fevereiro, passam a ter a seguinte redação:
 
 «Artigo 2.º
 
@@ -161,7 +154,7 @@ Artigo 4.º
 
 Aditamento ao Decreto-Lei n.º 42/2009, de 12 de fevereiro
 
-É aditado ao [Decreto-Lei n.º 42/2009, de 12 de fevereiro](https://pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1050&tabela=leis&ficha=1&pagina=1), o artigo 9.º-A, com a seguinte redação:
+É aditado ao Decreto-Lei n.º 42/2009, de 12 de fevereiro, o artigo 9.º-A, com a seguinte redação:
 
 «Artigo 9.º-A
 
@@ -261,10 +254,8 @@ Mapa de pessoal dirigente
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T16:20:11+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=2608&tabela=leis
-- storage_mode: fulltext
-- license_basis: official_legal_text
-- attribution_url: https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=2608&tabela=leis
+- cleanup: jina navigation trim

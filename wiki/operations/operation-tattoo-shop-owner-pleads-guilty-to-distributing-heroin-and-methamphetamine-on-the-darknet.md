@@ -64,11 +64,13 @@ sources:
   - "[[2022-02-17_justice-gov_tattoo-shop-owner-sentenced-7-years-prison-distributing-heroin-methamphetamine]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tattoo-shop-owner-pleads-guilty-to-distributing-heroin-and-methamphetamine-on-the-darknet]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tattoo-shop-owner-pleads-guilty-to-distributing-heroin-and-methamphetamine-on-the-darknet]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

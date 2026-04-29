@@ -26,6 +26,12 @@ key_findings:
   - "7 countries participated with 15 agencies; struck at the start of the ransomware attack chain"
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source
 created: 2026-04-08
+text_status: parsed
+content_hash: sha256:5cfbd865d7f365069081d11c10446bcc0fe1838ea2b726c0bfefb64dc105af3e
+word_count: 890
+extraction_date: 2026-04-29
+last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Summary
 

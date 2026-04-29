@@ -35,7 +35,8 @@ participating_agencies:
 organizations:
   - "[[us-doj]]"
   - "[[fbi]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[electronic-evidence]]"
 results:
@@ -48,7 +49,8 @@ results:
   victims_notified: 0
   other:
     - "Absorbed plea-stage follow-on; canonical case is [[us-v-kevin-james-strutz]]"
-edges: []
+edges:
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
@@ -57,15 +59,16 @@ related_cases:
   - "[[us-v-kevin-james-strutz]]"
 related_operations:
   - "[[operation-us-v-kevin-james-strutz]]"
-challenges_encountered: []
+challenges_encountered:
+
 lessons_learned:
   - "Plea-stage and sentencing-stage DOJ press releases for the same defendant should resolve to one canonical case page."
 source_count: 1
 sources:
-  - "[[2023-05-22_justice-gov_ceres-man-pleads-guilty-to-cyberstalking-two-victims]]"
+  - "[[2023-11-13_justice-gov_ceres-man-sentenced-cyberstalking-two-victims]]"
 summary: "Absorbed domestic plea-stage follow-on for [[us-v-kevin-james-strutz]]. The plea is part of the same U.S. cyberstalking case and does not document an international-cooperation mechanism."
 created: 2026-04-18
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 ## Summary
 
@@ -88,4 +91,4 @@ The canonical, enriched case record is:
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Ceres Man Pleads Guilty to Cyberstalking Two Victims | US DOJ USAO EDCA | 2023-05-22 | https://www.justice.gov/usao-edca/pr/ceres-man-pleads-guilty-cyberstalking-two-victims |
+| [1] | Ceres Man Sentenced for Cyberstalking Two Victims | US DOJ (Eastern District of California) | 2023-11-13 | https://www.justice.gov/usao-edca/pr/ceres-man-sentenced-cyberstalking-two-victims |

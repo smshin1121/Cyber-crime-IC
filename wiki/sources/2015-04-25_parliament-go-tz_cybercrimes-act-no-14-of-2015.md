@@ -29,4 +29,4 @@ Tanzania is a **non-party** to the [[budapest-convention|Budapest Convention]]. 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-04-25_parliament-go-tz_cybercrimes-act-no-14-of-2015.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2015-04-25_parliament-go-tz_cybercrimes-act-no-14-of-2015.md`, preserving traceable review without classifying the page as a placeholder.

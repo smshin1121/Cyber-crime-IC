@@ -20,10 +20,11 @@ collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-crimi
 created: 2026-04-25
 raw_path: raw/government-reports/2024-09-19_fda_two-tulsa-men-indicted-introducing-misbranded-drugs-interstate-commerce.md
 text_status: parsed
-content_hash: sha256:c3331bcd812351d73a9371d814ee0f15c31fffe05df2a451cb822928f922ccab
-word_count: 1503
-extraction_date: 2026-04-25
+content_hash: sha256:014b70e6232addd8fa0482f3fd27dc13f1b881eef2dd1f3d816e422451b98e58
+word_count: 661
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

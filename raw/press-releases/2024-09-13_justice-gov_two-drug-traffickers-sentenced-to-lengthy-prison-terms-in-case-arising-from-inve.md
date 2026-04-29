@@ -2,24 +2,43 @@
 title: "Two drug traffickers sentenced to lengthy prison terms in case arising from investigation of Aryan Family prison gang"
 collection_source: "US DOJ USAO"
 collection_url: https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan
+final_url: https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan
 collection_domain: justice.gov
-collection_date: 2026-04-17
+collection_date: 2026-04-29
 publish_date: 2024-09-13
 language: en
 status: collected
-final_url: https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan
 text_status: parsed
+storage_mode: fulltext
+source_type: press-release
+source_page: wiki/sources/2024-09-13_justice-gov_two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-inve.md
+word_count: 1285
+content_hash: sha256:d1a5c305e1ed66e9dc5e1d639fc546d63a08ca7ffac691632a64ff14eb771514
+extraction_date: 2026-04-29
+license_basis: official_public_record
 fetcher: doj_fetch
 http_status: 200
 content_type: text/html
-content_hash: sha256:5c43f36e28f6f7010b53dd99e146ced3ee8f45c161124a0663ddb97554c0818d
-word_count: 1291
-extraction_date: 2026-04-25
-source_page: wiki/sources/2024-09-13_justice-gov_two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-inve.md
 ---
-## Summary
+## Source Archive Record
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-investigation-of-aryan-family-pris]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+This record preserves the source metadata and source-page digest so the source corpus has a separate addressable record for this reference.
+
+## Source Digest
+
+- Title: Two drug traffickers sentenced to lengthy prison terms in case arising from investigation of Aryan Family prison gang
+- Publisher: US DOJ USAO
+- Source type: press-release
+- Publication date: 2024-09-13
+- URL: https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan
+- Linked pages: operation-two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-investigation-of-aryan-family-pris
+
+### Key Findings
+- This domestic-only U.S. follow-on record has been absorbed into the canonical case page two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-investigation-of-aryan-family-pris. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+### Source Page Summary
+
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-investigation-of-aryan-family-pris. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation. The source supports operation-two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-investigation-of-aryan-family-pris in the operations corpus.
 
 ## Extracted Text
 
@@ -227,23 +246,21 @@ USAO - Washington, Western
 
 Related Content
 
+Seattle man sentenced to more than 27 years in prison for violent car-jacking spree
+
+Seattle – A 25-year-old Seattle man was sentenced today in U.S. District Court in Seattle to more than 27 years in prison for multiple counts of carjacking and using a...
+
+April 27, 2026
+
+Man who shut down I-90 with hand-held explosive device sentenced to prison
+
+Seattle – A 42-year-old King County resident was sentenced today in U.S. District Court in Seattle to 18 months in prison for his unlawful possession of a destructive device which...
+
 Mexican National, illegally present in the U.S., sentenced to prison for unlawful firearms possession
 
 Seattle – A 25-year-old Mexican national was sentenced today in U.S. District Court in Seattle to two years in prison for unlawful possession of a firearm, announced First Assistant U.S...
 
 April 24, 2026
-
-Honduran national sentenced to 54 months in prison for drug trafficking and returning after removal
-
-Seattle – A 30-year-old Honduran citizen was sentenced today in U.S District Court in Seattle to 54 months in prison for his role in a significant drug deal and for...
-
-April 21, 2026
-
-Second defendant linked to drug trafficking in notorious “Jungle” homeless camp sentenced to prison
-
-Seattle – A 43-year-old Seattle man as sentenced today in U.S. District Court in Seattle to 75 months in prison for his years long activity dealing meth and fentanyl in...
-
-April 15, 2026
 
 Seattle Main Office:
 
@@ -295,5 +312,5 @@ Top
 
 - parser: document
 - fetcher: doj_fetch
-- fetched_at: 2026-04-25T14:20:10+00:00
+- fetched_at: 2026-04-28T16:11:58+00:00
 - final_url: https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan

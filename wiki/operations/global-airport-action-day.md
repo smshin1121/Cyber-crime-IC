@@ -14,10 +14,15 @@ enforcement_type:
 
 lead_agency: "[[interpol]]"
 legal_basis:
+  - "INTERPOL and Europol operational coordination"
+  - "domestic payment-card fraud authorities of participating countries"
 
 lessons_learned:
 
 mechanisms_used:
+  - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
+  - "airline and payment-sector intelligence sharing"
   - "[[public-private-cooperation]]"
 
 missing_fields:
@@ -40,6 +45,9 @@ period: 1
 related_cases:
 
 related_operations:
+  - "[[operation-first-light-2024]]"
+  - "[[operation-haechi-iii]]"
+  - "[[operation-haechi-iv]]"
 
 results:
   arrests: 193
@@ -72,7 +80,7 @@ timeframe:
 title: "Global Airport Action Day"
 title_ko: "Global Airport Action Day (항공권 사기 국제 공조 단속)"
 type: operation
-updated: 2026-04-28
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "The Global Airport Action Day, conducted from October 10-15, 2016, was an international operation coordinated by INTERPOL, Europol, Ameripol, and Frontex across 189 airports in 43 countries. The operation targeted airline ticket fraud perpetrated using stolen or hacked payment card information, detaining 193 suspects. The investigation revealed connections between airline ticket fraud and broader criminal activities including illegal immigration, human trafficking, drug trafficking, cybercrime, and terrorism support."

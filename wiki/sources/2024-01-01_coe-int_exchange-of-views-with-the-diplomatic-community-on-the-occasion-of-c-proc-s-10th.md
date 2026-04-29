@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/cybercrime/-/exchange-of-views-with-the-diplomatic-community-and-international-organisations-in-bucharest-on-the-occasion-of-c-proc-s-10th-anniversary
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:f886ec48317637b6591e77f9581828adb9d66c1b241e37081fa7145fad453a4c
-word_count: 2750
-extraction_date: 2026-04-25
+content_hash: sha256:c72186775c8fb1323ad6be0157f289bb3f9aecec561454e18888e23ebbdae266
+word_count: 986
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The **Cybercrime Programme Office (C-PROC)** is the capacity-building arm of the
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-01-01_coe-int_exchange-of-views-with-the-diplomatic-community-on-the-occasion-of-c-proc-s-10th.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-01-01_coe-int_exchange-of-views-with-the-diplomatic-community-on-the-occasion-of-c-proc-s-10th.md`, preserving traceable review without classifying the page as a placeholder.

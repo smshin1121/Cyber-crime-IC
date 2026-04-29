@@ -32,6 +32,9 @@ content_hash: sha256:b623bd8f68c65ca68214b8e14486329e247efd3be8c2ba8f02f25624882
 word_count: 322
 extraction_date: 2026-04-27
 copyright_policy: summary-only
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/coordinated-action-cuts-access-to-vpn-service-used-ransomware-groups
+collection_domain: europol.europa.eu
+updated: 2026-04-29
 ---
 ## Source
 

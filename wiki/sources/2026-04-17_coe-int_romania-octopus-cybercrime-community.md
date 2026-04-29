@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/country-wiki-ap/-/asset_publisher/hFPA5fbKjyCJ/content/romania
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:9f7b8e1e779beff9042ae29d7145cb3b369b149fb4ae027b5051eb2aa7a2e91d
-word_count: 6254
-extraction_date: 2026-04-25
+content_hash: sha256:68e4626117c2ea82f801a759ff901b1955bb39a228897df091b32ac2f67518e8
+word_count: 533
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Romania is a major European cybercrime cooperation partner. It is a **[[budapest
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_romania-octopus-cybercrime-community.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_romania-octopus-cybercrime-community.md`, preserving traceable review without classifying the page as a placeholder.

@@ -64,11 +64,13 @@ sources:
   - "[[2015-02-05_dea-gov_ross-ulbricht-creator-and-owner-silk-road-website-found-guilty-manhattan]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ross-ulbricht-found-guilty-on-all-counts]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ross-ulbricht-found-guilty-on-all-counts]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2023-05-18_doj_us-v-garrison-23-cr-597-lak-sdny-case-page]]"
+  - "[[2026-04-18_justice-gov_wisconsin-man-sentenced-prison-hacking-fantasy-sports-and-betting-website]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-to-prison-for-hacking-and-wisconsin-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-to-prison-for-hacking-and-wisconsin-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | US v. Garrison, 23-CR-597 (LAK) — SDNY case page | U.S. Attorney's Office, SDNY | 2023-05-18 | https://www.justice.gov/usao-sdny/us-v-garrison-23-cr-597-lak |
+| [1] | Wisconsin Man Sentenced To Prison For Hacking Fantasy Sports And Betting Website | US DOJ USAO | 2024-01-31 | https://www.justice.gov/usao-sdny/pr/wisconsin-man-sentenced-prison-hacking-fantasy-sports-and-betting-website |

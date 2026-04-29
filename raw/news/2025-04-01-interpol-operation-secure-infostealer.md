@@ -1,11 +1,11 @@
 ---
 title: "Operation Secure"
 collection_source: INTERPOL
-collection_url: ""
-final_url: ""
-collection_domain: ""
+collection_url: https://www.interpol.int/en/News-and-Events/News/2025/20-000-malicious-IPs-and-domains-taken-down-in-INTERPOL-infostealer-crackdown
+final_url: https://www.interpol.int/en/News-and-Events/News/2025/20-000-malicious-IPs-and-domains-taken-down-in-INTERPOL-infostealer-crackdown
+collection_domain: interpol.int
 collection_date: 2026-04-27
-publish_date: 2025-04-01
+publish_date: 2025-06-11
 language: en
 status: materialized
 text_status: summarized

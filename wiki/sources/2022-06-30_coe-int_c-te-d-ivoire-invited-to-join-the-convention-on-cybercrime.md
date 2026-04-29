@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/cybercrime/-/cote-d-ivoire-invited-to-join-the-budapest-convention-on-cybercrime
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:d3ec272863f9cd6b63247ea82b1d46b7ff2fe83a526f290f1967cf87979154aa
-word_count: 2045
-extraction_date: 2026-04-25
+content_hash: sha256:09655123afd896cf0d263d31ce6b6d70088f00fc4ad432cab11b95d366c30094
+word_count: 297
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Côte d'Ivoire adopted a comprehensive cybercrime law in 2013 — **Loi n° 2013
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-06-30_coe-int_c-te-d-ivoire-invited-to-join-the-convention-on-cybercrime.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-06-30_coe-int_c-te-d-ivoire-invited-to-join-the-convention-on-cybercrime.md`, preserving traceable review without classifying the page as a placeholder.

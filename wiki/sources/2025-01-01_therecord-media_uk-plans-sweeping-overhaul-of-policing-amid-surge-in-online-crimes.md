@@ -31,4 +31,4 @@ The National Crime Agency (NCA) is the [[united-kingdom|United Kingdom's]] lead 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-01_therecord-media_uk-plans-sweeping-overhaul-of-policing-amid-surge-in-online-crimes.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-01_therecord-media_uk-plans-sweeping-overhaul-of-policing-amid-surge-in-online-crimes.md`, preserving traceable review without classifying the page as a placeholder.

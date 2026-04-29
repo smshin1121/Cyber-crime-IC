@@ -26,6 +26,9 @@ storage_mode: source-digest
 content_hash: sha256:c05934dac879b48e8e7e2374fa653b7891d16c8512b7aed473e23fe48c3c19cc
 word_count: 115
 extraction_date: 2026-04-28
+harvest_status: fulltext_not_available
+harvest_note: "Repeated live fulltext harvesting failed or is not suitable; source digest retained."
+last_fetch_attempt: 2026-04-29
 ---
 ## Source Summary
 
@@ -33,4 +36,4 @@ Structured source page materialized from `raw/case-documents/2017-05-31_court-of
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht-2.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht-2.md`, preserving traceable review without classifying the page as a placeholder.

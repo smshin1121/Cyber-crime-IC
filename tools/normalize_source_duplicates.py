@@ -6,8 +6,10 @@ import datetime as dt
 import re
 from collections import defaultdict
 from dataclasses import dataclass
+from datetime import date
 from pathlib import Path
 from typing import Any
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 import frontmatter
 
@@ -17,7 +19,7 @@ from source_canonical_map import score_source, word_count
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_DIR = ROOT / "wiki" / "sources"
 WORKSPACE = ROOT / "_workspace"
-REPORT_PATH = ROOT / "wiki" / "analysis" / "source-duplicate-normalization-2026-04-26.md"
+DEFAULT_DATE = date.today().isoformat()
 
 
 @dataclass
@@ -28,6 +30,7 @@ class SourceCandidate:
     publisher: str
     publish_date: str
     collection_url: str
+    normalized_collection_url: str
     content_hash: str
     duplicate_of: str
     score: int
@@ -72,6 +75,23 @@ def scalar_text(value: Any) -> str:
     return str(value or "").strip()
 
 
+def normalize_url(url: str) -> str:
+    if not url:
+        return ""
+    parts = urlsplit(url.strip())
+    query_pairs = []
+    for key, value in parse_qsl(parts.query, keep_blank_values=True):
+        low = key.lower()
+        if low.startswith("utm_") or low in {"fbclid", "gclid", "ref", "source"}:
+            continue
+        query_pairs.append((key, value))
+    host = parts.netloc.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    path = parts.path.rstrip("/") or "/"
+    return urlunsplit((parts.scheme.lower(), host, path, urlencode(query_pairs), ""))
+
+
 def load_sources() -> list[SourceCandidate]:
     rows: list[SourceCandidate] = []
     for path in sorted(SOURCES_DIR.glob("*.md")):
@@ -81,6 +101,7 @@ def load_sources() -> list[SourceCandidate]:
         meta = post.metadata
         body_words = word_count(post.content or "")
         score, _ = score_source(path.stem, meta, body_words)
+        collection_url = str(meta.get("collection_url") or "").strip()
         rows.append(
             SourceCandidate(
                 slug=path.stem,
@@ -88,7 +109,8 @@ def load_sources() -> list[SourceCandidate]:
                 title=str(meta.get("title") or path.stem),
                 publisher=str(meta.get("publisher") or ""),
                 publish_date=str(meta.get("publish_date") or ""),
-                collection_url=str(meta.get("collection_url") or "").strip(),
+                collection_url=collection_url,
+                normalized_collection_url=normalize_url(collection_url),
                 content_hash=str(meta.get("content_hash") or "").strip(),
                 duplicate_of=wikilink_slug(meta.get("duplicate_of")),
                 score=score,
@@ -115,16 +137,40 @@ def grouped(rows: list[SourceCandidate], field: str) -> list[tuple[str, list[Sou
 def choose_canonical(members: list[SourceCandidate], alias_slugs: set[str]) -> SourceCandidate:
     active = [row for row in members if not row.duplicate_of and row.slug not in alias_slugs]
     pool = active or members
-    return sorted(pool, key=lambda row: (-row.score, -row.word_count_value, -row.body_words, row.slug))[0]
+    return sorted(
+        pool,
+        key=lambda row: (
+            canonical_penalty(row),
+            -row.score,
+            -row.word_count_value,
+            -row.body_words,
+            row.slug,
+        ),
+    )[0]
 
 
-def mark_alias(row: SourceCandidate, canonical: SourceCandidate, reason: str, key: str, apply: bool) -> SourceAlias | None:
+def canonical_penalty(row: SourceCandidate) -> int:
+    text = f"{row.slug} {row.title}".lower()
+    if "google-vignette" in text or "#google" in text:
+        return 1
+    return 0
+
+
+def mark_alias(
+    row: SourceCandidate,
+    canonical: SourceCandidate,
+    reason: str,
+    key: str,
+    run_date: str,
+    apply: bool,
+) -> SourceAlias | None:
     meta = row.post.metadata
+    normalized_at = scalar_text(meta.get("duplicate_normalized_at")) or run_date
     expected = {
         "duplicate_of": wikilink(canonical.slug),
         "duplicate_reason": reason,
         "duplicate_key": key,
-        "duplicate_normalized_at": "2026-04-26",
+        "duplicate_normalized_at": normalized_at,
     }
 
     changed = any(scalar_text(meta.get(field)) != value for field, value in expected.items())
@@ -179,17 +225,17 @@ def update_frontmatter_fields(path: Path, fields: dict[str, str]) -> None:
     path.write_text(text[: match.start("frontmatter")] + "\n".join(updated_lines) + tail, encoding="utf-8")
 
 
-def normalize(rows: list[SourceCandidate], apply: bool, include_hash: bool) -> list[SourceAlias]:
+def normalize(rows: list[SourceCandidate], run_date: str, apply: bool, include_hash: bool) -> list[SourceAlias]:
     aliases: list[SourceAlias] = []
     alias_slugs = {row.slug for row in rows if row.duplicate_of}
     by_slug = {row.slug: row for row in rows}
 
-    for url, members in grouped(rows, "collection_url"):
+    for url, members in grouped(rows, "normalized_collection_url"):
         canonical = choose_canonical(members, alias_slugs)
         for row in members:
-            if row.slug == canonical.slug:
+            if row.slug == canonical.slug or row.duplicate_of:
                 continue
-            alias = mark_alias(row, canonical, "same_collection_url", url, apply)
+            alias = mark_alias(row, canonical, "same_collection_url", url, run_date, apply)
             alias_slugs.add(row.slug)
             if alias:
                 aliases.append(alias)
@@ -200,11 +246,14 @@ def normalize(rows: list[SourceCandidate], apply: bool, include_hash: bool) -> l
     # After URL aliases are assigned, resolve only the remaining active exact-content duplicates.
     active_rows = [row for row in rows if row.slug not in alias_slugs and not row.duplicate_of]
     for content_hash, members in grouped(active_rows, "content_hash"):
+        normalized_urls = {row.normalized_collection_url for row in members if row.normalized_collection_url}
+        if len(normalized_urls) > 1:
+            continue
         canonical = choose_canonical(members, alias_slugs)
         for row in members:
             if row.slug == canonical.slug:
                 continue
-            alias = mark_alias(row, canonical, "same_content_hash", content_hash, apply)
+            alias = mark_alias(row, canonical, "same_content_hash", content_hash, run_date, apply)
             alias_slugs.add(row.slug)
             if alias:
                 aliases.append(alias)
@@ -214,8 +263,8 @@ def normalize(rows: list[SourceCandidate], apply: bool, include_hash: bool) -> l
     return aliases
 
 
-def write_csv(aliases: list[SourceAlias]) -> Path:
-    path = WORKSPACE / "source_duplicate_normalization_2026-04-26.csv"
+def write_csv(aliases: list[SourceAlias], run_date: str) -> Path:
+    path = WORKSPACE / f"source_duplicate_normalization_{run_date}.csv"
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle)
@@ -234,8 +283,8 @@ def write_csv(aliases: list[SourceAlias]) -> Path:
     return path
 
 
-def render_report(rows: list[SourceCandidate], aliases: list[SourceAlias], apply: bool, include_hash: bool) -> str:
-    url_groups = grouped(rows, "collection_url")
+def render_report(rows: list[SourceCandidate], aliases: list[SourceAlias], run_date: str, apply: bool, include_hash: bool) -> str:
+    url_groups = grouped(rows, "normalized_collection_url")
     hash_groups = grouped(rows, "content_hash")
     url_aliases = [alias for alias in aliases if alias.reason == "same_collection_url"]
     hash_aliases = [alias for alias in aliases if alias.reason == "same_content_hash"]
@@ -243,10 +292,10 @@ def render_report(rows: list[SourceCandidate], aliases: list[SourceAlias], apply
 
     lines = [
         "---",
-        "title: Source Duplicate Normalization (2026-04-26)",
+        f"title: Source Duplicate Normalization ({run_date})",
         "type: analysis",
-        "created: 2026-04-26",
-        "updated: 2026-04-26",
+        f"created: {run_date}",
+        f"updated: {run_date}",
         'summary: "Canonical/alias normalization of duplicate source records."',
         "source_count: 0",
         "---",
@@ -278,13 +327,14 @@ def render_report(rows: list[SourceCandidate], aliases: list[SourceAlias], apply
         )
 
     if len(aliases) > 200:
-        lines.append(f"| ... | ... | ... | ... | +{len(aliases) - 200} more aliases in `_workspace/source_duplicate_normalization_2026-04-26.csv` |")
+        lines.append(f"| ... | ... | ... | ... | +{len(aliases) - 200} more aliases in `_workspace/source_duplicate_normalization_{run_date}.csv` |")
 
     return "\n".join(lines) + "\n"
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Mark duplicate wiki source pages as canonical aliases.")
+    parser.add_argument("--date", default=DEFAULT_DATE)
     parser.add_argument("--apply", action="store_true", help="Write duplicate_of metadata. Omit for dry-run.")
     parser.add_argument(
         "--include-hash",
@@ -294,16 +344,20 @@ def main() -> None:
     args = parser.parse_args()
 
     rows = load_sources()
-    aliases = normalize(rows, apply=args.apply, include_hash=args.include_hash)
-    csv_path = write_csv(aliases)
-    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    REPORT_PATH.write_text(render_report(rows, aliases, apply=args.apply, include_hash=args.include_hash), encoding="utf-8")
+    aliases = normalize(rows, run_date=args.date, apply=args.apply, include_hash=args.include_hash)
+    csv_path = write_csv(aliases, args.date)
+    report_path = ROOT / "wiki" / "analysis" / f"source-duplicate-normalization-{args.date}.md"
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    report_path.write_text(
+        render_report(rows, aliases, run_date=args.date, apply=args.apply, include_hash=args.include_hash),
+        encoding="utf-8",
+    )
 
     print(f"Mode: {'apply' if args.apply else 'dry-run'}")
     print(f"Sources scanned: {len(rows)}")
     print(f"Aliases new/updated: {len(aliases)}")
     print(f"CSV: {csv_path}")
-    print(f"Report: {REPORT_PATH}")
+    print(f"Report: {report_path}")
 
 
 if __name__ == "__main__":

@@ -56,7 +56,7 @@ source_count: 1
 sources:
   - "[[2023-09-07_ndoh-mdtn-sdca_trickbot-conti-indictments]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[trickbot-operations]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-galochkin-trickbot-conti]]. No visible cross-border mechanism is documented at the operation-page level, so it is not treated as a separate international-cooperation operation."

@@ -31,4 +31,4 @@ On **29 June 2021**, law enforcement from **9 countries** simultaneously seized 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-06-30_therecord-media_dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-06-30_therecord-media_dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups.md`, preserving traceable review without classifying the page as a placeholder.

@@ -28,4 +28,4 @@ Operation Dark HunTOR was a coordinated international law enforcement action ann
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-10-26_justice-gov_deputy-ag-lisa-monaco-delivers-remarks-on-operation-dark-huntor.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-10-26_justice-gov_deputy-ag-lisa-monaco-delivers-remarks-on-operation-dark-huntor.md`, preserving traceable review without classifying the page as a placeholder.

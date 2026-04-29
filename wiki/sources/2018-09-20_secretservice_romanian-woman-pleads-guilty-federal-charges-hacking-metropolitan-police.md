@@ -17,11 +17,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/press/releases/2018/09/romanian-woman-pleads-guilty-federal-charges-hacking-metropolitan-police
 created: 2026-04-25
 raw_path: raw/press-releases/2018-09-20_secretservice_romanian-woman-pleads-guilty-federal-charges-hacking-metropolitan-police.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:127a12fc06f838cf918491f9e71d4084a44ca0bbd9d0323c2b084551e58f3ddb
-word_count: 122
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:eeb0479d71ecef997d7bf08047af5f63e24dd3a0b198c97a659c7305911e01fb
+word_count: 773
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

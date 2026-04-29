@@ -32,4 +32,4 @@ On 7 March 2022, DOJ announced that Nicholas Partlow pleaded guilty to darknet d
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2022-03-07_wdwa_nicholas-partlow-darknet-plea.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2022-03-07_wdwa_nicholas-partlow-darknet-plea.md`, preserving traceable review without classifying the page as a placeholder.

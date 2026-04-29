@@ -20,11 +20,12 @@ created: 2026-04-17
 defendant_names:
   - "Multiple Foreign Nationals"
 updated: 2026-04-18
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:5b4b0009753a00ce34fe5d6d411f0a70ea3a21710dab456947c24c444f08a3dc
-word_count: 288
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:ac66fe947acaabafe28265ec966723740bc790dcc9505afaafc60b9942c02087
+word_count: 1544
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -32,4 +33,4 @@ The TrickBot disruption was a multi-pronged effort in October 2020 involving bot
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-09-07_secretservice-gov_multiple-foreign-nationals-charged-in-connection-with-trickbot-and-conti.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-09-07_secretservice-gov_multiple-foreign-nationals-charged-in-connection-with-trickbot-and-conti.md`, preserving traceable review without classifying the page as a placeholder.

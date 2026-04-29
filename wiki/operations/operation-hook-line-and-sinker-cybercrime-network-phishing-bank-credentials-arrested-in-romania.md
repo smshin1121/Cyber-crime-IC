@@ -46,29 +46,31 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

@@ -17,11 +17,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2023/06/russian-nationals-charged-hacking-one-cryptocurrency-exchange-and
 created: 2026-04-25
 raw_path: raw/press-releases/2023-06-09_usss_russian-nationals-charged-hacking-one-cryptocurrency-exchange-and.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:cdad8b3425ec0fb433fb974b4d71b92d069b6246dc9c20749f83f32a4522c658
-word_count: 145
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:10663c4b184f8d45c29b1e9ef3d97063a50d607cf91d6145bdb2ff4066a41197
+word_count: 1729
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

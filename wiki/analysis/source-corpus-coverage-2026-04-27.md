@@ -43,8 +43,8 @@ This audit checks whether every `wiki/sources` page has a separate raw/source-co
 
 | Item | Count |
 |---|---:|
-| press-release | 2693 |
-| news | 1807 |
+| press-release | 2692 |
+| news | 1808 |
 | court-document | 104 |
 | case-document | 23 |
 | government-report | 20 |

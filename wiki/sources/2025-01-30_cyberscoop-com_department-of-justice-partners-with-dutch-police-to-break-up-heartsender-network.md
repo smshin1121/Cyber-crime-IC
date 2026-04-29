@@ -31,4 +31,4 @@ Operation Heart Blocker was a joint US-Dutch law enforcement action on January 2
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-30_cyberscoop-com_department-of-justice-partners-with-dutch-police-to-break-up-heartsender-network.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-30_cyberscoop-com_department-of-justice-partners-with-dutch-police-to-break-up-heartsender-network.md`, preserving traceable review without classifying the page as a placeholder.

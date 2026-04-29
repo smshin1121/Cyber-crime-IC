@@ -18,10 +18,11 @@ key_findings:
 collection_url: "https://www.interpol.int/content/download/21048/file/AJFOC_Africa%20Cyberthreat%20Assessment%20Report_2024.pdf"
 created: 2026-04-23
 text_status: parsed
-content_hash: sha256:43ee37cc61041a7fd1d310c20f9fc4338c48fbde73bd4fd3174df1eee66c8ab6
-word_count: 15965
-extraction_date: 2026-04-25
+content_hash: sha256:7ef7e410e3b6312bb59f65ede5d4ef4d7a840c9be410bec2450c25156db8664b
+word_count: 15928
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

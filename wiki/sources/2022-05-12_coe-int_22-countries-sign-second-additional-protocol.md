@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/cybercrime/second-additional-protocol/-/asset_publisher/isHU0Xq21lhu/content/opening-coecyber2ap
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:6c95a02dba89190e9b2bbe9e3100d85a38734a4a0f9607ed3c2daeabdfa03f25
-word_count: 1555
-extraction_date: 2026-04-25
+content_hash: sha256:c67488a759d6a2cfaa30de3cbda1d1564360e8c161fe45e95c0e4c69e4665534
+word_count: 1169
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Belgium ratified the [[budapest-convention|Budapest Convention on Cybercrime]] o
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-05-12_coe-int_22-countries-sign-second-additional-protocol.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-05-12_coe-int_22-countries-sign-second-additional-protocol.md`, preserving traceable review without classifying the page as a placeholder.

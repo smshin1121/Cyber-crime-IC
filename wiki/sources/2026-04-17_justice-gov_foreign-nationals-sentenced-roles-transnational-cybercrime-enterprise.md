@@ -34,4 +34,4 @@ United States v. Bondarenko et al. is the prosecution of 36 members of the Infra
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise.md`, preserving traceable review without classifying the page as a placeholder.

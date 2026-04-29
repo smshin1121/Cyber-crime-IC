@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2018-11-29_cbspittsburgh_russian-man-charged-hacking-pittsburgh-national-golf-course]]"
+  - "[[2026-04-18_justice-gov_russian-national-charged-hacking-scheme-targeting-pittsburgh-national-golf-course]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-russian-national]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-russian-national]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Feds Charge Russian Man Accused Of Hacking Into Pittsburgh National Golf Club Computer | CBS Pittsburgh / KDKA | 2018-11-29 | https://www.cbsnews.com/pittsburgh/news/russian-man-charged-hacking-pittsburgh-national-golf-course/ |
+| [1] | Russian National Charged in Hacking Scheme Targeting Pittsburgh National Golf Course | US DOJ USAO | 2018-11-29 | https://www.justice.gov/usao-wdpa/pr/russian-national-charged-hacking-scheme-targeting-pittsburgh-national-golf-course |

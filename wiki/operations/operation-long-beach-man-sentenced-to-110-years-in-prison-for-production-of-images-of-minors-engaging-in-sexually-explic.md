@@ -64,11 +64,13 @@ sources:
   - "[[2026-04-18_justice-gov_long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[long-beach-man-sentenced-to-110-years-in-prison-for-production-of-images-of-minors-engaging-in-sexually-explic]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[long-beach-man-sentenced-to-110-years-in-prison-for-production-of-images-of-minors-engaging-in-sexually-explic]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

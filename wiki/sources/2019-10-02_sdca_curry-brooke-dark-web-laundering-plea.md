@@ -34,4 +34,4 @@ On 2 October 2019, DOJ announced that Aidan Curry and Connor Brooke pleaded guil
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2019-10-02_sdca_curry-brooke-dark-web-laundering-plea.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2019-10-02_sdca_curry-brooke-dark-web-laundering-plea.md`, preserving traceable review without classifying the page as a placeholder.

@@ -64,7 +64,7 @@ sources:
   - "[[2026-04-17_ice_foreign-nationals-sentenced-roles-transnational-cybercrime-hsi-las-vegas]]"
 summary: "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 

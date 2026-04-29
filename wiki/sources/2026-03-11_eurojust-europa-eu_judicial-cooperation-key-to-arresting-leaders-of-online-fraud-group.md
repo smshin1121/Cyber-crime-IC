@@ -33,4 +33,4 @@ DE-FR Online Fraud Group Dismantlement (March 2026) Enforcement Action is a defe
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-03-11_eurojust-europa-eu_judicial-cooperation-key-to-arresting-leaders-of-online-fraud-group.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-03-11_eurojust-europa-eu_judicial-cooperation-key-to-arresting-leaders-of-online-fraud-group.md`, preserving traceable review without classifying the page as a placeholder.

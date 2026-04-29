@@ -122,16 +122,16 @@ lessons_learned:
   - "FBI-NCA bilateral cooperation is a model for US-UK cybercrime investigations"
 source_count: 8
 sources:
-  - "[1] DOJ: Bugat Botnet Administrator Arrested and Malware Disabled (2015-10-13)"
-  - "[2] FBI: Bugat Botnet Administrator Arrested (2015-10-13)"
-  - "[3] DOJ: Russian National Charged with Decade-Long Series of Hacking (2019-12-05)"
-  - "[4] US Treasury: Sanctions Evil Corp (2019-12-05)"
-  - "[5] NCA: International law enforcement operation exposes the world's most harmful cyber crime group (2019-12-05)"
-  - "[6] DOJ: Moldovan Sentenced for Distributing Multifunction Malware Package (2018-12-06)"
-  - "[7] The Hacker News: FBI Puts $5 Million Bounty (2019-12-05)"
-  - "[8] Dell SecureWorks: Dridex (Bugat v5) Botnet Takeover Operation (2015-10)"
+  - "[[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]]"
+  - "[[2015-10-13_fbi-gov_bugat-botnet-administrator-arrested-and-malware-disabled]]"
+  - "[[2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud]]"
+  - "[[2019-12-05_home-treasury-gov_treasury-sanctions-evil-corp-the-russia-based-cybercriminal-group-behind-dridex]]"
+  - "[[2019-12-05_nca-newsroom-prgloo-com_international-law-enforcement-operation-exposes-the-world-s-most-harmful-cyber-c]]"
+  - "[[2017-03-14_wdpa_moldovan-sentenced-distributing-multifunction-malware-package]]"
+  - "[[2015-10-01_sophos-com_dridex-bugat-v5-botnet-takeover-operation]]"
+  - "[[2019-12-05_thehackernews-com_fbi-puts-5-million-bounty-on-russian-hackers-behind-dridex-banking-malware]]"
 created: 2026-04-10
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the [[fbi-cyber-division|FBI]] and [[uk-nca|UK National Crime Agency (NCA)]]; and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated between the [[us-doj|US DOJ]], [[us-treasury|US Treasury (OFAC)]], and NCA."
@@ -351,13 +351,13 @@ This keeps the canonical record analytically bounded and reproducible.
 
 ## References
 
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
 | [1] | Bugat Botnet Administrator Arrested and Malware Disabled | US DOJ | 2015-10-13 | https://www.justice.gov/opa/pr/bugat-botnet-administrator-arrested-and-malware-disabled |
 | [2] | Bugat Botnet Administrator Arrested and Malware Disabled | FBI Pittsburgh | 2015-10-13 | https://www.fbi.gov/contact-us/field-offices/pittsburgh/news/press-releases/bugat-botnet-administrator-arrested-and-malware-disabled |
-| [3] | Russian National Charged with Decade-Long Series of Hacking and Bank Fraud | US DOJ | 2019-12-05 | https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens |
+| [3] | Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian National Charged with Involvement in Deployment of “Bugat” Malware | US DOJ | 2019-12-05 | https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens |
 | [4] | Treasury Sanctions Evil Corp, the Russia-Based Cybercriminal Group Behind Dridex Malware | US Treasury | 2019-12-05 | https://home.treasury.gov/news/press-releases/sm845 |
 | [5] | International law enforcement operation exposes the world's most harmful cyber crime group | NCA | 2019-12-05 | https://nca-newsroom.prgloo.com/news/international-law-enforcement-operation-exposes-the-worlds-most-harmful-cyber-crime-group |
-| [6] | Moldovan Sentenced for Distributing Multifunction Malware Package | US DOJ WDPA | 2018-12-06 | https://www.justice.gov/usao-wdpa/pr/moldovan-sentenced-distributing-multifunction-malware-package |
-| [7] | Dridex (Bugat v5) Botnet Takeover Operation | Dell SecureWorks (Sophos) | 2015-10 | https://www.sophos.com/en-us/research/dridex-bugat-v5-botnet-takeover-operation |
+| [6] | Moldovan Sentenced for Distributing Multifunction Malware Package | U.S. Attorney's Office, Western District of Pennsylvania | 2017-03-14 | https://www.justice.gov/usao-wdpa/pr/moldovan-sentenced-distributing-multifunction-malware-package |
+| [7] | Dridex (Bugat v5) Botnet Takeover Operation | Dell SecureWorks (Sophos) | 2015-10-01 | https://www.sophos.com/en-us/research/dridex-bugat-v5-botnet-takeover-operation |
 | [8] | FBI Puts $5 Million Bounty On Russian Hackers Behind Dridex Banking Malware | The Hacker News | 2019-12-05 | https://thehackernews.com/2019/12/dridex-russian-hackers-wanted-by-fbi.html |

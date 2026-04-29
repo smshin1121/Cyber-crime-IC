@@ -31,4 +31,4 @@ Spain is a **key EU cybercrime cooperation partner**, with two specialised natio
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_itlaw-fandom-com_cybercrime-central-unit-of-the-guardia-civil.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_itlaw-fandom-com_cybercrime-central-unit-of-the-guardia-civil.md`, preserving traceable review without classifying the page as a placeholder.

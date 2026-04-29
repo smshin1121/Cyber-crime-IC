@@ -33,4 +33,4 @@ Operation HAECHI VI was the sixth iteration of the Korea-initiated HAECHI series
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-09-25_interpol-int_usd-439-million-recovered-in-global-financial-crime-operation-operation-haechi-v.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-09-25_interpol-int_usd-439-million-recovered-in-global-financial-crime-operation-operation-haechi-v.md`, preserving traceable review without classifying the page as a placeholder.

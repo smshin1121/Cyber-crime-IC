@@ -56,7 +56,7 @@ source_count: 1
 sources:
   - "[[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[operation-onymous]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-farrell-silk-road-2]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -70,6 +70,8 @@ crime_types:
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-farrell-silk-road-2]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

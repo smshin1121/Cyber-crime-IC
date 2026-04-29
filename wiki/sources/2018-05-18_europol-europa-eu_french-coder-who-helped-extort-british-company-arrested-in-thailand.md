@@ -20,11 +20,12 @@ created: 2026-04-17
 defendant_names:
   - "Helped Extort British Company"
 updated: 2026-04-18
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:52567371db41dd893983bd1834b75588a4eefe9442151b40b6d953f6d1e34fb9
-word_count: 223
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:c2be96bae6b69cc4931fc7dcfd10565bd324502aa528b257395f43ba603d8a83
+word_count: 635
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -32,4 +33,4 @@ UK, French, and Thai law enforcement, coordinated by Europol and the Joint Cyber
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand.md`, preserving traceable review without classifying the page as a placeholder.

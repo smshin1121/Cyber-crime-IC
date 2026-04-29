@@ -26,9 +26,9 @@ participating_countries:
 participating_agencies:
   - "[[indonesia-immigration|Indonesia Immigration Supervision and Enforcement Directorate]]"
 legal_basis:
-
+  - "Indonesian immigration law / visa misuse enforcement"
 mechanisms_used:
-
+  - "domestic immigration enforcement"
 results:
   arrests: 103
   indictments: 0
@@ -40,17 +40,19 @@ results:
     - "Dozens of laptops, printers, routers seized"
     - "Identity cards confiscated"
     - "All 103 suspects ordered deported (not criminally charged)"
-source_count: 5
+source_count: 3
 sources:
-  - "[1] Al Jazeera (2024-06-28)"
-  - "[2] BenarNews / RFA (2024-06-28)"
-  - "[3] Taipei Times (2024-06-29)"
-  - "[4] AP / VOA (2024-06-27)"
-  - "[5] The Record (2024-06-28)"
+  - "[[2024-06-28_aljazeera-com_indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali]]"
+  - "[[2024-06-28_therecord-media_indonesia-arrests-over-100-foreigners-in-bali-suspected-of-participating-in-cybe]]"
+  - "[[2024-06-29_taipeitimes-com_103-taiwanese-detained-in-bali-cybercrime-raid]]"
 created: 2026-04-10
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
+related_operations:
+  - "[[myanmar-kokang-scam-compound-crackdown]]"
+  - "[[zambia-golden-top-call-center]]"
+  - "[[korea-cambodia-scam-repatriation]]"
 summary: "On June 26, 2024, Indonesian immigration officials raided a villa in the Marga subdistrict of Tabanan regency, Bali, detaining 103 foreign nationals — 91 men and 12 women — suspected of conducting cybercrimes targeting victims in other countries, including Malaysia. The operation was led by the Bali Immigration Directorate and resulted in the seizure of approximately 450 mobile phones and dozens of laptops, printers, routers, and identity cards. Because the alleged victims were located outside Indonesia, authorities determined they could not pursue criminal charges under Indonesian jurisdiction and instead opted for deportation on immigration violations (visa misuse). The raid was described as the largest immigration arrest in Indonesia in 2024."
 jurisdictions:
   - "[[indonesia]]"
@@ -82,7 +84,7 @@ Taiwan, China, and several Southeast Asian countries have faced growing challeng
 Indonesia (enforcement only — no foreign partner agency involvement confirmed)
 
 **Suspect Nationalities:**
-- Taiwan's Ministry of Foreign Affairs initially disputed the characterization, stating that of the 103 arrested, only 14 were suspected of being Taiwanese; the remainder were likely Chinese nationals or others.
+- Taiwan's Ministry of Foreign Affairs initially disputed the characterization, stating that of the 103 arrested, only 14 were suspected of being Taiwanese; the remainder may have been PRC nationals or other nationalities.
 
 > [!note] Nationality Dispute
 > Multiple sources (Al Jazeera, Reuters, AP) reported "103 Taiwanese" based on Indonesian immigration officials' statements. However, Taiwan's MOFA stated its de facto embassy was told only 14 of the 103 were suspected Taiwanese. This discrepancy was not fully resolved in public reporting.
@@ -119,7 +121,7 @@ No international legal framework was formally invoked. Indonesian authorities ac
 
 **Limitations:**
 - Suspects were not prosecuted for the underlying cybercrimes
-- Seized evidence was likely not shared with victim countries for prosecution
+- No public source confirms that seized evidence was shared with victim countries for prosecution
 - Deportation does not prevent suspects from resuming operations elsewhere
 - No reported follow-up investigation by Malaysian authorities (the reported victim country)
 
@@ -146,13 +148,13 @@ This represents a missed opportunity for cooperative enforcement: had Indonesian
 
 4. **Absence of international cooperation** — No bilateral or multilateral mechanism was activated, despite clear cross-border elements. This may reflect capacity limitations, diplomatic considerations around Taiwan's political status, or the speed at which immigration decisions were made.
 
-5. **Evidence preservation** — It is unclear whether digital forensic evidence from seized devices was preserved in a manner suitable for potential future prosecution by victim-country authorities.
+5. **Evidence preservation** — Public sources do not state whether digital forensic evidence from seized devices was preserved in a manner suitable for potential future prosecution by victim-country authorities.
 
 ## Lessons Learned
 
 1. **Immigration enforcement is a poor substitute for criminal prosecution** in cybercrime cases. While it provides immediate disruption, it offers no deterrence and no justice for victims.
 
-2. **Pre-established cooperation channels** with likely victim countries would enable rapid case referral when a scam center is discovered.
+2. **Pre-established cooperation channels** with identified victim countries would enable rapid case referral when a scam center is discovered.
 
 3. **Digital forensic capacity** at the point of arrest is critical — evidence from seized devices must be preserved even if the arresting country cannot prosecute.
 
@@ -176,7 +178,7 @@ No known Korean involvement in this operation. However, the case is relevant to 
 > [!warning] Nationality Contradiction
 > **Claim A** (Source: Indonesian immigration officials, Al Jazeera [1]): All 103 detained were Taiwanese nationals.
 > **Claim B** (Source: Taiwan MOFA, Taipei Times [3]): Only 14 of the 103 were suspected of being Taiwanese.
-> **Assessment**: The discrepancy is *likely* due to Indonesian officials treating all ROC travel document holders as "Taiwanese" without verifying whether some were PRC nationals using different documentation, or due to the political sensitivity of distinguishing between Chinese and Taiwanese nationals.
+> **Assessment**: The discrepancy may reflect Indonesian officials treating all ROC travel document holders as "Taiwanese" without verifying whether some were PRC nationals using different documentation, or it may reflect the political sensitivity of distinguishing between Chinese and Taiwanese nationals.
 
 **Open Questions:**
 1. Were the seized electronic devices subjected to forensic analysis? If so, was evidence shared with Malaysian authorities?
@@ -231,10 +233,9 @@ This keeps the canonical record analytically bounded and reproducible.
 <!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Indonesia says will deport 103 Taiwanese suspected of cybercrimes in Bali | Al Jazeera | 2024-06-28 | [원본](https://www.aljazeera.com/news/2024/6/28/indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali) |
-| [2] | Indonesia plans to expel 103 Taiwanese caught in cybersecurity crackdown | BenarNews / RFA | 2024-06-28 | [원본](https://www.benarnews.org/english/news/indonesian/cyber-crackdown-06282024144757.html) |
-| [3] | 103 Taiwanese detained in Bali cybercrime raid | Taipei Times | 2024-06-29 | [원본](https://www.taipeitimes.com/News/taiwan/archives/2024/06/29/2003820060) |
-| [4] | Indonesia detains 103 foreigners in a raid in Bali involving suspected cybercrime | AP / VOA | 2024-06-27 | [원본](https://www.voanews.com/a/indonesia-detains-103-foreigners-in-a-raid-in-bali-involving-suspected-cybercrime-/7675613.html) |
-| [5] | Indonesia arrests over 100 foreigners in Bali suspected of participating in cybercrime | The Record | 2024-06-28 | [원본](https://therecord.media/indonesia-bali-arrests-foreigners-cybercrime) |
+|---|---|---|---|---|
+| [1] | Indonesia says will deport 103 Taiwanese suspected of cybercrimes in Bali | Al Jazeera | 2024-06-28 | https://www.aljazeera.com/news/2024/6/28/indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali |
+| [2] | Indonesia arrests over 100 foreigners in Bali suspected of participating in cybercrime | The Record | 2024-06-28 | https://therecord.media/indonesia-bali-arrests-foreigners-cybercrime |
+| [3] | 103 Taiwanese detained in Bali cybercrime raid | Taipei Times | 2024-06-29 | https://www.taipeitimes.com/News/taiwan/archives/2024/06/29/2003820060 |

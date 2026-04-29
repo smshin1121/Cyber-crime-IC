@@ -22,9 +22,9 @@ duplicate_key: https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenc
 duplicate_normalized_at: 2026-04-26
 text_status: source-digest
 storage_mode: source-digest
-content_hash: sha256:080e9bec67a508505e2d3994203cea426f4114bf046d4af4625d53bd61d98ce0
+content_hash: sha256:bffabc9930025beee500fe363f489a08fe70603aba086e310e6960ccd8257476
 word_count: 133
-extraction_date: 2026-04-28
+extraction_date: 2026-04-29
 ---
 ## Source Summary
 

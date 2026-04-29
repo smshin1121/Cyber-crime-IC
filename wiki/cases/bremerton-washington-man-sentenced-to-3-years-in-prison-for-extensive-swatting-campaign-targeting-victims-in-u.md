@@ -40,7 +40,7 @@ sources:
   - "[[2024-06-05_apnews_washington-man-sentenced-for-20-swatting-calls-of-false-threats-in-us-canada]]"
   - "[[2023-03-30_ap_man-charged-in-20-plus-calls-of-false-threats-in-us-canada]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 summary: "This case tracks the federal prosecution of Ashton Connor Garcia for a swatting campaign that targeted victims in the United States and Canada, culminating in a three-year prison sentence in June 2024."
 ---
 ## Summary
@@ -54,6 +54,8 @@ DOJ and AP reporting describe at least 20 false emergency calls that triggered l
 ## International Cooperation Elements
 
 The prosecution itself was domestic, but the underlying victim pattern crossed into Canada. That gives the case cross-border significance even without a published extradition or MLAT component.
+
+The international element should therefore be read as cross-border victimization and emergency-response harm, not as a formal mutual-legal-assistance or extradition case. The source set supports U.S. prosecution in the Western District of Washington, Canadian victim geography, and repeated false emergency reports; it does not support adding a separate foreign arrest or treaty process.
 
 ## Legal Analysis
 
@@ -81,11 +83,11 @@ This is not a precedent-heavy published judicial opinion case, but it is still u
 - The indictment release frames the campaign as a three-month swatting spree affecting victims across the United States and Canada.
 - The release anchors the earliest public charging stage of the Garcia prosecution.
 - This DOJ release is the charging-stage anchor for the Bremerton swatting case.
-- gov. Updated March 30, 2023 Topic Cybercrime Component USAO - Washington, Western...Content Press Release Dark web fentanyl distributor sentenced to 42 months in prison
 - The defendant pleaded guilty to four federal felonies tied to the swatting campaign.
 - The release names Ashton Connor Garcia and bridges the indictment and sentencing stages.
 - This plea-stage DOJ release provides the procedural midpoint for the Bremerton swatting prosecution.
-- According to...recommendation and can impose any sentence allowed by law.
+- The release states that Ashton Connor Garcia was sentenced to three years in prison for a swatting campaign affecting victims in the United States and Canada.
+- The sentencing release anchors the final public procedural stage of the case.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

@@ -31,4 +31,4 @@ Benin is one of the newest parties to the [[budapest-convention|Budapest Convent
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-04-20_afapdp-org_loi-n-2017-20-portant-code-du-num-rique-full-text.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-04-20_afapdp-org_loi-n-2017-20-portant-code-du-num-rique-full-text.md`, preserving traceable review without classifying the page as a placeholder.

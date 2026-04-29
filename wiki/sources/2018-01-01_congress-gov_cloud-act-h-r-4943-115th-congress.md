@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.congress.gov/bill/115th-congress/house-bill/4943
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:7a46a67afa0c284489be90a782b441539b91a59a97683803e2e970a92079f4a1
-word_count: 3677
-extraction_date: 2026-04-25
+content_hash: sha256:f5eaf364de24211c10eb3c5032f7fb5d367ac452356fbe34557fde20f3d119b2
+word_count: 2610
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The **Direct Provider Request** mechanism allows law enforcement to obtain user 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-01-01_congress-gov_cloud-act-h-r-4943-115th-congress.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-01-01_congress-gov_cloud-act-h-r-4943-115th-congress.md`, preserving traceable review without classifying the page as a placeholder.

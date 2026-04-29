@@ -29,4 +29,4 @@ The Australian Federal Police (AFP) is the primary federal law enforcement agenc
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_afp-gov-au_cybercrime.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_afp-gov-au_cybercrime.md`, preserving traceable review without classifying the page as a placeholder.

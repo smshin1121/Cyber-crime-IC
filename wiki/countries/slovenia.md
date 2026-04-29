@@ -1,45 +1,57 @@
 ---
 type: country
-title: "Slovenia"
-iso_code: "SI"
-legal_system: "civil-law"
-region: "central-europe"
+title: Slovenia
+iso_code: SI
+legal_system: civil-law
+region: central-europe
 cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
-  procedural_powers: []
+  procedural_powers:
+    []
   data_retention: ""
 treaty_memberships:
   - framework: "[[budapest-convention]]"
-    status: "party"
+    status: party
     date: ""
-    reservations: []
+    reservations:
+      []
 central_authority:
   mlat: ""
   budapest: ""
-key_agencies: []
+key_agencies:
+  []
 ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
+  rating: medium
+  digital_forensics: medium
   24_7_availability: false
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
-bilateral_agreements: []
-operations_participated: []
-notable_cases: []
+  english_proficiency: high
+  avg_mlat_response_days: unknown
+bilateral_agreements:
+  []
+operations_participated:
+  []
+notable_cases:
+  []
 cooperation_assessment: ""
 source_count: 0
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-29
+status: needs-official-source-ingestion
+last_verified: 2026-04-29
+sources:
+  []
+assessment_confidence: limited
+verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---
-
-> [!info] Stub
-> This page was auto-created. It will be expanded when more sources are ingested.
-
 ## Summary
 
-Slovenia is an EU member state and Budapest Convention party, appearing in multilateral INTERPOL cybercrime operations.
+Slovenia is retained as a country navigation and relationship node for the international cybercrime cooperation corpus. This page is now an assessment-control record rather than an unsupported country profile: it separates known wiki relationships from legal, institutional, and treaty claims that still require official country-specific sourcing.
 
-## Contradictions & Open Questions
+## Verification Status
 
-- Capacity details and MLAT throughput
+No country-specific source page is currently linked in this repository for this country record. As of 2026-04-29, unsupported fields are marked `not-assessed` rather than inferred from region, language, or participation in a single operation. That preserves menu integrity by preventing the country index from implying verified cooperation capacity where the corpus does not yet contain enough evidence.
+
+## Follow-up Source Targets
+
+The next reliable sources for this page are official national police or prosecutor cybercrime pages, justice-ministry mutual-assistance pages, Budapest Convention or UN treaty-status records, and primary operation releases naming the country. Until those are linked, use this page for navigation and relationship tracing only. Do not use it as authority for legal-system detail, MLAT performance, 24/7 contact availability, or national cyber-investigative maturity.

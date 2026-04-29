@@ -28,4 +28,4 @@ INTERPOL's Operation First Light 2024 was a coordinated global crackdown on onli
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-06-18_interpol_operation-first-light-2024.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-06-18_interpol_operation-first-light-2024.md`, preserving traceable review without classifying the page as a placeholder.

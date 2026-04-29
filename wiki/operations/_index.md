@@ -14,7 +14,7 @@ updated: 2026-04-14
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
 | [[silk-road-takedown]] | CYB-2013-001 | 1 | completed | umbrella | 7 | 4.50 | 1 |
-| [[operation-onymous]] | CYB-2014-001 | 1 | completed | umbrella | 5 | 4.00 | 1 |
+| [[operation-onymous]] | CYB-2014-001 | 1 | completed | umbrella | 4 | 4.00 | 1 |
 | [[operation-shrouded-horizon]] | CYB-2015-001 | 1 | completed | umbrella | 5 | 3.62 | 2 |
 | [[cyber-fraud-international-2015]] | CYB-2015-002 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[ramnit-botnet-takedown]] | CYB-2015-002 | 1 | completed | umbrella | 5 | 4.00 | 2 |
@@ -44,7 +44,7 @@ updated: 2026-04-14
 | [[operation-falcon]] | CYB-2020-001 | 2 | completed | umbrella | 5 | 3.62 | 2 |
 | [[operation-goldfish-alpha-night-fury]] | CYB-2020-002 | 2 | completed | umbrella | 5 | 2.28 | 2 |
 | [[2bagoldmule-qqaazz]] | CYB-2020-003 | 2 | completed | umbrella | 5 | 2.28 | 2 |
-| [[trickbot-operations]] | CYB-2020-003 | 2 | completed | umbrella | 5 | 4.50 | 1 |
+| [[trickbot-operations]] | CYB-2020-003 | 2 | completed | umbrella | 4 | 4.50 | 1 |
 | [[operation-nova]] | CYB-2020-050 | 2 | completed | umbrella | 5 | 2.55 | 3 |
 | [[operation-nightfury]] | CYB-2020-051 | 2 | completed | umbrella | 6 | 2.55 | 3 |
 | [[qqaazz-money-laundering-takedown]] | CYB-2020-052 | 2 | completed | umbrella | 5 | 1.88 | 3 |
@@ -66,7 +66,7 @@ updated: 2026-04-14
 | [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | umbrella | 5 | 1.88 | 3 |
 | [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[hive-ransomware-takedown]] | CYB-2023-006 | 3 | completed | umbrella | 5 | 3.25 | 2 |
-| [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | umbrella | 5 | 3.80 | 2 |
+| [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | umbrella | 2 | 3.80 | 2 |
 | [[africa-cyber-surge-ii]] | CYB-2023-050 | 3 | completed | umbrella | 5 | 4.12 | 1 |
 | [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | umbrella | 5 | 4.12 | 1 |
 | [[operation-nervone]] | CYB-2023-052 | 3 | completed | umbrella | 5 | 4.18 | 1 |
@@ -114,14 +114,14 @@ updated: 2026-04-14
 | [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | umbrella | 5 | 4.40 | 2 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |
-| [[bali-villa-cybercrime-raid-2024]] | — | 3 | completed | umbrella | 5 | — | — |
-| [[bidencash-takedown]] | — | 3 | completed | umbrella | 5 | 4.50 | 1 |
+| [[bali-villa-cybercrime-raid-2024]] | — | 3 | completed | umbrella | 3 | — | — |
+| [[bidencash-takedown]] | — | 3 | completed | umbrella | 4 | 4.50 | 1 |
 | [[carding-action-2020]] | — | 2 | completed | umbrella | 6 | 3.50 | 2 |
 | [[cyberbunker-takedown]] | — | 2 | completed | umbrella | 5 | 4.00 | 1 |
 | [[nemesis-market-takedown]] | — | 3 | completed | umbrella | 5 | — | — |
 | [[operation-endgame]] | — | 3 | ongoing | umbrella | 9 | — | — |
-| [[operation-heart-blocker]] | — | 3 | completed | umbrella | 5 | — | — |
-| [[operation-kraken-ghost-platform]] | — | 3 | completed | umbrella | 6 | — | — |
+| [[operation-heart-blocker]] | — | 3 | completed | umbrella | 4 | — | — |
+| [[operation-kraken-ghost-platform]] | — | 3 | completed | umbrella | 1 | — | — |
 | [[operation-rewired]] | — | 2 | completed | umbrella | 5 | 4.50 | 1 |
 | [[operation-trojan-shield]] | — | 2 | completed | umbrella | 6 | 4.80 | 1 |
 

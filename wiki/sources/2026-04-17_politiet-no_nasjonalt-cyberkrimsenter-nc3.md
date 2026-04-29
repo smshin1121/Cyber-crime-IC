@@ -22,6 +22,9 @@ storage_mode: source-digest
 content_hash: sha256:12e3072f847530d54a97cc5837b93f42561bfb75011b983cd028c4a5ce0ac8d6
 word_count: 142
 extraction_date: 2026-04-28
+harvest_status: fulltext_not_available
+harvest_note: "Repeated live fulltext harvesting failed or is not suitable; source digest retained."
+last_fetch_attempt: 2026-04-29
 ---
 ## Source Summary
 
@@ -29,4 +32,4 @@ Norway's National Cybercrime Centre, established within Kripos; investigates ser
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_politiet-no_nasjonalt-cyberkrimsenter-nc3.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_politiet-no_nasjonalt-cyberkrimsenter-nc3.md`, preserving traceable review without classifying the page as a placeholder.

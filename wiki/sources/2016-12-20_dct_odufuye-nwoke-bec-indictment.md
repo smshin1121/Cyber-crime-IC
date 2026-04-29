@@ -30,4 +30,4 @@ On 22 December 2016, the U.S. Attorney's Office for the District of Connecticut 
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2016-12-20_dct_odufuye-nwoke-bec-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2016-12-20_dct_odufuye-nwoke-bec-indictment.md`, preserving traceable review without classifying the page as a placeholder.

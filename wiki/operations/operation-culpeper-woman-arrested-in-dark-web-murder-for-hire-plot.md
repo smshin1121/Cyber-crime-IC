@@ -64,11 +64,13 @@ sources:
   - "[[2024-05-09_justice-gov_woman-sentenced-to-9-years-in-dark-web-murder-for-hire-plot]]"
 summary: "Culpeper Woman Arrested in Dark Web Murder-for-Hire Plot Enforcement Action is a domestic-only U.S. follow-on record absorbed into [[culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

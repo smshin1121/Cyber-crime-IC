@@ -18,11 +18,12 @@ key_findings:
 collection_url: https://www.eurojust.europa.eu/news/150-arrested-dark-web-drug-bust-police-seize-eur-26-million
 created: 2026-04-25
 raw_path: raw/press-releases/2021-10-26_eurojust_150-arrested-dark-web-drug-bust-police-seize-eur-26-million.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:52afbd01cb6c06ea18dc5b5e2b85ea9227af0147a84532c31729e0db349fdf0c
-word_count: 220
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:445d01a84d9816996288d4d4f6536c76203311d4f1de1d8496e6c8436b52a5c4
+word_count: 903
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

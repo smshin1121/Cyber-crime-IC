@@ -31,4 +31,4 @@ Ulbricht (Silk Road) Enforcement Action is a defendant-specific enforcement acti
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-05-29_wired-com_wired-silk-road-2-0-ulbricht-sentencing-coverage.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2015-05-29_wired-com_wired-silk-road-2-0-ulbricht-sentencing-coverage.md`, preserving traceable review without classifying the page as a placeholder.

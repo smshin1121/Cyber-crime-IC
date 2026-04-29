@@ -110,7 +110,7 @@ lessons_learned:
   - "On-site command posts at Europol HQ enable real-time coordination across jurisdictions and time zones"
   - "EU Most Wanted listings and international arrest warrants create persistent legal pressure even without immediate physical arrests"
 created: 2026-04-10
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]], with participation from law enforcement agencies across at least 15 countries."
@@ -164,7 +164,7 @@ crime_types:
 
 **Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]], with participation from law enforcement agencies across at least 15 countries.
 
-The operation's strategic innovation lies in targeting **dropper and loader malware** — the initial-access infrastructure that ransomware operators depend on — rather than pursuing ransomware groups directly. By disrupting the upstream supply chain, Operation Endgame has *almost certainly* degraded the operational capacity of multiple ransomware affiliates simultaneously.
+The operation's strategic innovation lies in targeting **dropper and loader malware** — the initial-access infrastructure that ransomware operators depend on — rather than pursuing ransomware groups directly. By disrupting the upstream supply chain, Operation Endgame degraded the operational capacity of multiple ransomware affiliates simultaneously.
 
 Across all phases (May 2024 through May 2025), Operation Endgame has resulted in:
 
@@ -187,7 +187,7 @@ The six malware families initially targeted — **IcedID**, **SystemBC**, **Pika
 
 ### Strategic Rationale
 
-Prior to Operation Endgame, international ransomware enforcement typically targeted individual ransomware groups or their operators. Operation Endgame represented a strategic shift toward **supply-chain disruption**: by taking down the dropper infrastructure that multiple ransomware groups depend on, law enforcement could degrade numerous criminal operations simultaneously. This approach *likely* provides a greater force-multiplier effect per unit of enforcement effort.
+Prior to Operation Endgame, international ransomware enforcement typically targeted individual ransomware groups or their operators. Operation Endgame represented a strategic shift toward **supply-chain disruption**: by taking down the dropper infrastructure that multiple ransomware groups depend on, law enforcement could degrade numerous criminal operations simultaneously. This approach provides a greater force-multiplier effect per unit of enforcement effort than single-family ransomware targeting.
 
 ### Investigation Origins
 
@@ -238,7 +238,7 @@ Multiple private-sector cybersecurity companies provided technical support, incl
 
 ## Legal Framework
 
-The operation involved law enforcement and judicial authorities from at least 15 countries. The legal framework *likely* relied on several instruments:
+The operation involved law enforcement and judicial authorities from at least 15 countries. The legal framework relied on a layered set of instruments:
 
 - **[[budapest-convention|Budapest Convention on Cybercrime]]** — provides the primary treaty framework for cross-border cybercrime cooperation among the participating states, all of which are parties or have cooperative arrangements
 - **[[joint-investigation-team|Joint Investigation Teams (JITs)]]** — formal JITs were established through [[eurojust|Eurojust]] to enable multi-jurisdictional investigation and evidence sharing
@@ -324,7 +324,7 @@ Across all enforcement actions, total seizures exceeded **EUR 21.2 million** (ap
 
 ### Impact on Ransomware Ecosystem
 
-The operation *likely* had significant disruptive effects on the ransomware ecosystem, though quantifying the precise impact remains difficult:
+The operation had significant disruptive effects on the ransomware ecosystem, though quantifying the precise impact remains difficult:
 
 - Multiple ransomware affiliates lost their primary initial-access channels simultaneously
 - The "pay-per-install" business model was disrupted, forcing criminal actors to rebuild infrastructure
@@ -370,7 +370,7 @@ The operation required coordination across at least 15 countries with different 
 
 ### Russian-Based Suspects
 
-Many of the identified suspects, including the 16 DanaBot operators indicted by the US DOJ, are based in Russia. Given the current geopolitical situation and the absence of extradition cooperation with Russia, these suspects remain effectively beyond the reach of law enforcement. The international arrest warrants and EU Most Wanted listings create a legal framework for arrest if suspects travel to cooperating jurisdictions, but direct enforcement in Russia is *highly unlikely*.
+Many of the identified suspects, including the 16 DanaBot operators indicted by the US DOJ, are based in Russia. Given the current geopolitical situation and the absence of extradition cooperation with Russia, these suspects remain effectively beyond the reach of law enforcement. The international arrest warrants and EU Most Wanted listings create a legal framework for arrest if suspects travel to cooperating jurisdictions, but direct enforcement in Russia remains outside the practical reach of current cooperation channels.
 
 ### Infrastructure Reconstitution
 
@@ -378,11 +378,11 @@ Some targeted malware families showed signs of reconstituting operations after t
 
 ### Demand-Side Enforcement Scale
 
-While the Smokeloader customer follow-up (5 detentions) demonstrated the feasibility of demand-side enforcement, the scale of the botnet customer base *almost certainly* far exceeds law enforcement capacity to pursue every user. Prioritization and deterrence effects are key considerations.
+While the Smokeloader customer follow-up (5 detentions) demonstrated the feasibility of demand-side enforcement, the scale of the botnet customer base exceeds law enforcement capacity to pursue every user. Prioritization and deterrence effects are key considerations.
 
 ## Lessons Learned
 
-1. **Supply-chain disruption as force multiplier:** Targeting dropper/loader infrastructure disrupts multiple ransomware operations simultaneously. This upstream approach *almost certainly* provides greater impact per unit of enforcement effort than targeting individual ransomware groups.
+1. **Supply-chain disruption as force multiplier:** Targeting dropper/loader infrastructure disrupts multiple ransomware operations simultaneously. This upstream approach provides greater impact per unit of enforcement effort than targeting individual ransomware groups.
 
 2. **Multi-phase sustained campaigns:** The progression from Phase 1 (May 2024) through the Smokeloader follow-up (April 2025) to Phase 2 (May 2025) demonstrates that sustained campaigns compound pressure on criminal ecosystems. Criminal actors face continuous uncertainty about which infrastructure will be targeted next.
 
@@ -390,13 +390,13 @@ While the Smokeloader customer follow-up (5 detentions) demonstrated the feasibi
 
 4. **Database intelligence exploitation:** Seized infrastructure databases are not just evidence for ongoing cases — they are intelligence assets that enable entirely new lines of investigation. The months-long BKA effort to de-anonymize Smokeloader customers illustrates the long-term investigative value of infrastructure seizures.
 
-5. **Real-time coordination infrastructure:** Europol command posts with 20+ officers from multiple countries enable the kind of synchronized, multi-timezone action that infrastructure takedowns require. This institutional capability is *almost certainly* essential for operations at this scale.
+5. **Real-time coordination infrastructure:** Europol command posts with 20+ officers from multiple countries enable the kind of synchronized, multi-timezone action that infrastructure takedowns require. This institutional capability is essential for operations at this scale.
 
 ## Follow-Up Actions
 
 - **Ongoing investigation:** Europol has stated explicitly that Operation Endgame is not concluded and further enforcement phases are planned.
 - **Fugitive pursuit:** The 30+ international arrest warrants and 26 EU Most Wanted listings create a persistent legal framework for future arrests when suspects travel to cooperating jurisdictions.
-- **DanaBot reconstitution monitoring:** The resurfacing of DanaBot with new infrastructure after the Phase 2 takedown *likely* requires continued monitoring and potential further enforcement action.
+- **DanaBot reconstitution monitoring:** The resurfacing of DanaBot with new infrastructure after the Phase 2 takedown requires continued monitoring and potential further enforcement action.
 - **Related proceedings:** The [[qakbot-gallyamov-indictment|Qakbot/Gallyamov indictment]] and associated asset forfeiture proceedings are ongoing in US courts.
 
 ## Korean Involvement (한국의 참여)

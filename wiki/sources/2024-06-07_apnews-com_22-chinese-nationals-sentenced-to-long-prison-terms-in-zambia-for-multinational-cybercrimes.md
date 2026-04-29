@@ -19,12 +19,13 @@ key_findings:
   - "The story described the call-center fraud setup, seized SIM cards, and multinational victim base."
 created: 2026-04-23
 text_status: summarized
-content_hash: sha256:2b19468cb48903c2193c8ecdab03e3c9c13353fe85283b51fa2977ae071f162c
-word_count: 1116
+content_hash: sha256:3fe94e59b691e07a22e0f16c2b2c4902465ecddf39be5a098294dc8adc69b7be
+word_count: 145
 stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-29
 last_fetcher: urllib
 copyright_policy: summary-only
+storage_mode: summary-only
 ---
 ## Source Summary
 

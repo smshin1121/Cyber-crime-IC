@@ -18,11 +18,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2025/03/united-states-secures-forfeiture-over-5-million-traceable-business-email
 created: 2026-04-25
 raw_path: raw/press-releases/2025-03-26_secret-service_forfeiture-5m-bec-massachusetts-workers-union.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:4f1e8925dc6ea4cb54da1318ec3363a1d61738803eb6c83db8ccc4dc14ad4b69
-word_count: 164
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:dbd790fe4843196b209493544206bc4abca9c9cf1ab0382baa16acf9737c137b
+word_count: 501
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

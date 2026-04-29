@@ -26,6 +26,12 @@ key_findings:
   - "Europol organized 27 operational meetings and 4 technical sprints; 1,000+ SIENA messages exchanged"
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation
 created: 2026-04-08
+text_status: parsed
+content_hash: sha256:87c456696edbd3819c3687b838101dc21abdf7dd789163a94143a15e4787a1fb
+word_count: 1343
+extraction_date: 2026-04-29
+last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Summary
 

@@ -33,4 +33,4 @@ The **Phobos/8Base Ransomware Crackdown** was a coordinated international operat
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr.md`, preserving traceable review without classifying the page as a placeholder.

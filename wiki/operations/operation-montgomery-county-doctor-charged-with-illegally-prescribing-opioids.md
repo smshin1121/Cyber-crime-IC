@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2019-08-02_cbsnews-philadelphia_montgomery-county-doctor-charged]]"
+  - "[[2026-04-18_justice-gov_montgomery-county-doctor-charged-illegally-prescribing-opioids]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[montgomery-county-doctor-charged-with-illegally-prescribing-opioids]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[montgomery-county-doctor-charged-with-illegally-prescribing-opioids]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Montgomery County Doctor Charged For Illegally Prescribing Opioids, Prosecutors Say | CBS News Philadelphia (KYW-TV) | 2019-08-02 | https://www.cbsnews.com/philadelphia/news/montgomery-county-doctor-charged-for-illegally-prescribing-opioids-prosecutors-say/ |
+| [1] | Montgomery County Doctor Charged with Illegally Prescribing Opioids | US DOJ USAO | 2019-08-02 | https://www.justice.gov/usao-edpa/pr/montgomery-county-doctor-charged-illegally-prescribing-opioids |

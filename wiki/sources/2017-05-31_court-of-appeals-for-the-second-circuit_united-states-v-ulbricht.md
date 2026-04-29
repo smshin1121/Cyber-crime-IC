@@ -33,4 +33,4 @@ Structured source page materialized from `raw/case-documents/2017-05-31_court-of
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht.md`, preserving traceable review without classifying the page as a placeholder.

@@ -19,11 +19,12 @@ key_findings:
   - "700+ house searches, 800+ arrests, 8 tons cocaine, 22 tons cannabis, 250 firearms, $48M+ seized."
   - "AN0M platform: 12,000+ devices, 300+ criminal syndicates across 100+ countries, 27 million messages reviewed over 18 months."
 created: 2026-04-14
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:9e457e7934fbbe6d34bc623d03549fe99fb9c4f225a059180fd5859fe5d5727d
-word_count: 152
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:45a191269b15e9a4f653bc5de1856c7332269ff8a9f3bef1ae3d5af9f25d4081
+word_count: 1621
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Summary
 

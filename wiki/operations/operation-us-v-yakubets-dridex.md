@@ -74,7 +74,7 @@ sources:
   - "[[2019-12-05_wdpa_yakubets-turashev-dridex-indictment]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-yakubets-dridex]]. No visible cross-border mechanism is documented at the operation-page level, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 

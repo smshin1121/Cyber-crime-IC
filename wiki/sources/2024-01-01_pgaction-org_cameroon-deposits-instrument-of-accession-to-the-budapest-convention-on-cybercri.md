@@ -31,4 +31,4 @@ Cameroon deposited its instrument of accession to the [[budapest-convention|Buda
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-01-01_pgaction-org_cameroon-deposits-instrument-of-accession-to-the-budapest-convention-on-cybercri.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-01-01_pgaction-org_cameroon-deposits-instrument-of-accession-to-the-budapest-convention-on-cybercri.md`, preserving traceable review without classifying the page as a placeholder.

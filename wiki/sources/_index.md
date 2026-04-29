@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (4765)
+# Sources (4784)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -15,6 +15,11 @@ updated: 2026-04-14
 | [[2026-04-14_eurojust_cryptocurrency-mixing-service-used-to-launder-money-taken-do]] | press-release | Eurojust | ? | high | ? |
 | [[2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to]] | press-release | Eurojust | ? | high | ? |
 | [[2524-01-01_techtarget-com_doj-breaks-up-infraud-organization-with-some-help]] | press-release | techtarget.com | ? | medium | ? |
+| [[2026-04-29_uscode-house-gov_18-usc-1962-rico]] | legal-text | Office of the Law Revision Counsel, U.S. House of Representatives | ? | high | ? |
+| [[2026-04-29_nanet-go-kr_korea-china-mlat-foreign-law-index]] | treaty-index | National Assembly Library of Korea | ? | medium | ? |
+| [[2026-04-29_asd-gov-au_cyber-security]] | official-guidance | Australian Signals Directorate | 2 | high | ? |
+| [[2026-04-29_asd-gov-au_about-australian-signals-directorate]] | official-guidance | Australian Signals Directorate | 2 | high | ? |
+| [[2026-04-29_uscode-house-gov_18-usc-1030-computer-fraud-and-abuse-act]] | legal-text | Office of the Law Revision Counsel, U.S. House of Representatives | ? | high | ? |
 | [[2026-04-18_politie-be_internetcriminaliteit-fccu-contact]] | official-guidance | Lokale Politie Gent | 3 | medium | ? |
 | [[2026-04-18_politie-be_djsoc-fccu]] | official-guidance | Federale Politie | 2 | high | ? |
 | [[2026-04-18_policia-es_bcit]] | official-guidance | Policía Nacional | 2 | high | ? |
@@ -276,7 +281,11 @@ updated: 2026-04-14
 | [[2025-03-05_opa_wu-haibo-isoon-indictment]] | court-document | U.S. District Court for the District of Columbia | ? | high | ? |
 | [[2025-01-29_sdtx_heartsender-seizure]] | court-document | U.S. District Court for the Southern District of Texas | ? | high | ? |
 | [[2024-20-01_unodc-org_united-nations-convention-against-cybercrime-home]] | press-release | UNODC | ? | medium | ? |
+| [[2026-04-29_uscode-house-gov_18-usc-924-firearms-penalties]] | legal-text | Office of the Law Revision Counsel, U.S. House of Representatives | ? | high | ? |
 | [[2026-04-15_globalsecurity_two-us-nationals-sentenced-dprk-it-worker-5m-revenue]] | government-report | GlobalSecurity.org (DOJ document archive) | ? | high | ? |
+| [[2026-04-29_uscode-house-gov_21-usc-841-controlled-substances]] | legal-text | Office of the Law Revision Counsel, U.S. House of Representatives | ? | high | ? |
+| [[2026-04-29_uscode-house-gov_18-usc-1956-money-laundering]] | legal-text | Office of the Law Revision Counsel, U.S. House of Representatives | ? | high | ? |
+| [[2026-04-29_uscode-house-gov_18-usc-1343-wire-fraud]] | legal-text | Office of the Law Revision Counsel, U.S. House of Representatives | ? | high | ? |
 | [[2026-04-07_eurekaherald_kansas-farmer-pled-guilty-to-crop-insurance-fraud]] | news | Eureka Herald | ? | medium | ? |
 | [[2026-04-06_newsis-com_3]] | press-release | 뉴시스 | ? | medium | ? |
 | [[2026-04-06_newsis-com_]] | press-release | 뉴시스 | ? | medium | ? |
@@ -668,6 +677,7 @@ updated: 2026-04-14
 | [[2025-10-14_tordaily_chinodrug-sentenced-15-years-oxycodone-darknet]] | news | Tor Daily | ? | low | ? |
 | [[2025-10-14_inquirer_dark-web-drug-trafficker-25m-bitcoin-15-years-chinodrug]] | news | The Philadelphia Inquirer | ? | medium | ? |
 | [[2025-10-09_aol_miami-businessman-former-molly-dealer-trafficking-fake-xanax]] | news | AOL News (Miami Herald wire) | ? | medium | ? |
+| [[2026-04-29_uscode-house-gov_18-usc-922-firearms-unlawful-acts]] | legal-text | Office of the Law Revision Counsel, U.S. House of Representatives | ? | high | ? |
 | [[2025-10-01_unodc-org_the-united-nations-convention-against-cybercrime-opens-for-signature-in-hanoi]] | press-release | UN Office of Legal Affairs | ? | medium | ? |
 | [[2025-10-01_unodc-org_seventy-two-nations-sign-first-un-treaty-to-fight-cybercrime]] | press-release | UNODC | ? | medium | ? |
 | [[2025-10-01_unodc-org_hanoi-convention-homepage]] | press-release | UN / Vietnam | ? | medium | ? |
@@ -880,6 +890,7 @@ updated: 2026-04-14
 | [[2025-06-23_interpol_africa-cyberthreat-assessment-report-2025]] | report | INTERPOL | ? | high | ? |
 | [[2025-06-23_goldenstatetoday_sacramento-woman-pleads-guilty-distributing-fentanyl]] | news | Golden State Today | ? | low | ? |
 | [[2025-06-23_dea-gov_mexican-national-sentenced-prison-role-drug-ring-courier]] | press-release | DEA | ? | high | ? |
+| [[2026-04-29_uscode-house-gov_18-usc-1957-monetary-transactions]] | legal-text | Office of the Law Revision Counsel, U.S. House of Representatives | ? | high | ? |
 | [[2026-04-18_justice-gov_michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2025-06-13_justice-gov_michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2026-04-18_justice-gov_indictment-charges-waterbury-man-drug-and-gun-offenses]] | press-release | US DOJ USAO | ? | high | ? |
@@ -891,6 +902,7 @@ updated: 2026-04-14
 | [[2025-06-11_justice-gov_honduran-national-indicted-for-illegal-re-entry]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-06-11_justice-gov_dominican-national-indicted-for-illegal-re-entry]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-06-11_justice-gov_district-man-indicted-for-distributing-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2025-04-01-interpol-operation-secure-infostealer]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-06-10_americanbanker_anatomy-of-a-39-5-million-pig-butchering-scam]] | news | American Banker | ? | medium-high | ? |
 | [[the-cyber-express-marketplace-a-dekhtyarchuk-indictment]] | news | The Cyber Express | 3 | medium | ? |
 | [[2025-06-06_justice-gov_united-states-v-gregory-castillo-rosario-joseph-james-vasquez-joshua-william-vas]] | press-release | US DOJ (Eastern District of Virginia) | ? | high | ? |
@@ -979,7 +991,6 @@ updated: 2026-04-14
 | [[2025-05-22_doj_qakbot-gallyamov-indictment]] | press-release | US DOJ | ? | high | ? |
 | [[2025-05-22_crowdstrike_partners-doj-disrupt-danabot-malware-operators]] | news | CrowdStrike | ? | medium | ? |
 | [[2025-05-22_cdca_qakbot-gallyamov-indictment]] | court-document | US DOJ (OPA) | ? | high | ? |
-| [[2025-05-22-europol-endgame-follow-up]] | press-release | Europol | ? | high | ? |
 | [[2025-05-22-doj-qakbot-gallyamov-indictment]] | press-release | US Department of Justice | ? | high | ? |
 | [[2026-04-18_justice-gov_justice-department-seizes-domains-behind-major-information-stealing-malware-operation]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2025-05-21_wired-com_lumma-stealer-takedown-disrupted]] | news | WIRED | ? | medium | ? |
@@ -1122,6 +1133,7 @@ updated: 2026-04-14
 | [[2025-04-10_justice-gov_man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-04-10_justice-gov_dark-web-fentanyl-distributor-sentenced-to-more-than-15-years-in-federal-prison]] | press-release | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2026-04-18_justice-gov_previously-convicted-felon-sentenced-more-26-years-federal-prison-possessing-firearm]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2025-05-22-europol-endgame-follow-up]] | press-release | Europol | ? | high | ? |
 | [[2025-04-09_newportdispatch_2-stamford-men-indicted-on-fentanyl-trafficking-charges]] | news | Newport Dispatch | ? | medium | ? |
 | [[2025-04-09_justice-gov_previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well]] | press-release | Europol | ? | high | ? |
@@ -1140,13 +1152,13 @@ updated: 2026-04-14
 | [[2025-04-07_seoul-co-kr_asia-6-country-crackdown-on-online-child-sexual-abuse-material]] | press-release | Seoul Shinmun | ? | medium | ? |
 | [[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam]] | press-release | Korea Policy Briefing / Seoul Shinmun | ? | medium | ? |
 | [[2025-04-07_korea-kr_operation-cyber-guardian-asia-6-country-joint-crackdown-on-child-sexual-abuse-ma]] | press-release | Korea Policy Briefing | ? | medium | ? |
-| [[2025-04-07-korea-npa-operation-cyber-guardian]] | press-release | Korea Policy Briefing (korea.kr) / Seoul Shinmun | ? | high | ? |
+| [[2025-04-07-korea-npa-operation-cyber-guardian]] | press-release | Korean National Police Agency / Korea Policy Briefing | ? | high | ? |
 | [[2025-04-04_trmlabs-com_europol-and-german-authorities-lead-global-takedown-of-darknet-child-exploitatio]] | press-release | TRM Labs | ? | high | ? |
 | [[2025-04-04_securityaffairs-com_operation-stream-kidflix]] | press-release | Security Affairs / TRM Labs | ? | medium | ? |
 | [[2025-04-04_securityaffairs-com_europol-led-operation-stream-takes-down-kidflix-csam-platform]] | press-release | Security Affairs / Europol-centered collected source | ? | high | ? |
 | [[2025-04-04_myleaderpaper_mayberry-gets-17-year-prison-sentence-for-selling-child-porn]] | news | Leader Publications | ? | medium | ? |
 | [[2025-04-04_europol_operation-stream-kidflix-takedown]] | press-release | Europol / Security Affairs / TRM Labs | ? | high | ? |
-| [[2025-04-04-europol-operation-stream-kidflix]] | news | Security Affairs / TRM Labs | ? | medium | ? |
+| [[2025-04-04-europol-operation-stream-kidflix]] | news | Security Affairs | ? | medium | ? |
 | [[2025-04-03_politie-nl_kinderpornografisch-platform-kidflix-offline-gehaald]] | press-release | Dutch National Police | ? | medium | ? |
 | [[2025-04-03_politie-nl_kidflix-offline-gehaald]] | press-release | Dutch National Police | ? | high | ? |
 | [[2025-04-03_doj-edmo_registered-sex-offender-sentenced-17-years-prison-possessing-child-pornography]] | press-release | US DOJ USAO Eastern District of Missouri | ? | high | ? |
@@ -1158,7 +1170,6 @@ updated: 2026-04-14
 | [[2025-04-01_kaspersky-com_kaspersky-supports-interpol-operation-secure]] | press-release | Kaspersky | ? | medium | ? |
 | [[2025-04-01_japan-npa_operation-cyber-guardian]] | report | National Police Agency of Japan | ? | high | ? |
 | [[2025-04-01_helpnetsecurity-com_operation-secure-disrupts-global-infostealer-malware-operations]] | news | Help Net Security | ? | medium | ? |
-| [[2025-04-01-interpol-operation-secure-infostealer]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-03-28_dia-interno-gov-it_operazione-pereira23-irish-high-risk-criminal-network]] | government | Direzione Investigativa Antimafia | ? | high | ? |
 | [[2025-03-28_cde-ual-es_12-members-of-an-irish-high-risk-criminal-network-arrested]] | report | Centro de Documentacion Europea - Universidad de Almeria | ? | medium | ? |
 | [[2026-04-18_justice-gov_justice-department-disrupts-hamas-terrorist-financing-scheme-through-seizure]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1566,7 +1577,7 @@ updated: 2026-04-14
 | [[2024-12-02_ice-hsi_fourth-co-conspirator-sentenced-dark-web-drug-trafficking-houston]] | press-release | U.S. ICE - Homeland Security Investigations | ? | high | ? |
 | [[2024-12-02_hoodline_houston-man-sentenced-10-years-dark-web-meth-adderall]] | news | Hoodline | ? | medium | ? |
 | [[2024-12-02-interpol-operation-haechi-v]] | press-release | INTERPOL | ? | high | ? |
-| [[2024-12-02-digwatch-interpol-korea-5500-arrests]] | news | DigWatch | ? | medium | ? |
+| [[2024-12-02-digwatch-interpol-korea-5500-arrests]] | news | Digital Watch Observatory | ? | medium | ? |
 | [[2024-12-01_moneylaunderingnews-com_fifth-circuit-rejects-ofac-designation-of-tornado-cash-immutable-smart-contracts]] | press-release | Money Laundering Watch | ? | medium | ? |
 | [[2026-04-18_justice-gov_thurston-county-man-caught-twice-drugs-and-firearms-sentenced-7-years-prison]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_california-teenager-pleads-guilty-florida-making-hundreds-swatting-calls-across-united]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1970,6 +1981,7 @@ updated: 2026-04-14
 | [[2024-06-02_justice-gov_woman-accused-of-murder-for-hire-admits-to-using-the-dark-web-to-carry-out-the-c]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-06-01_wxpm_dealer-sentenced-deadly-disguised-drugs]] | news | WXPM 98.5-X | ? | low | ? |
 | [[2024-06-01_doj-edpa_west-chester-drug-dealer-sentenced-6-5-years-fentanyl]] | press-release | U.S. Department of Justice — Eastern District of Pennsylvania | ? | high | ? |
+| [[the-hacker-news-911-s5-botnet-dismantling]] | news | The Hacker News | ? | medium-high | ? |
 | [[2026-04-18_justice-gov_king-county-couple-indicted-drug-and-illegal-weapons-possession]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_former-king-county-jail-guard-pleads-guilty-bribery-and-drug-distribution]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-05-30_yahoo-news_king-county-couple-indicted-drug-lab-illegal-weapons-possession-yahoo]] | news | Yahoo News (KIRO 7 syndication) | ? | medium | ? |
@@ -2164,6 +2176,7 @@ updated: 2026-04-14
 | [[2024-03-25_cybernews_darknet-marketplace-nemesis-market-brought-down-by-authorities]] | news | Cybernews | ? | medium | ? |
 | [[2024-03-24_clickondetroit_leader-dark-web-trafficking-ring-pleads-guilty-drug-charges]] | news | WDIV ClickOnDetroit | ? | medium | ? |
 | [[2024-03-23_frankonfraud_how-an-online-group-scammed-retailers-out-of-millions]] | news | FrankOnFraud | ? | medium | ? |
+| [[bleeping-computer-nemesis-market-takedown]] | news | BleepingComputer | ? | medium-high | ? |
 | [[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |
 | [[2024-03-22_justice-gov_former-privacy-consultant-convicted-of-cyberstalking-campaign-against-former-roo]] | press-release | US DOJ USAO | ? | high | ? |
@@ -2538,6 +2551,8 @@ updated: 2026-04-14
 | [[2023-10-12_cincinnati-enquirer_leaders-of-drug-trafficking-group-pillcosby-sentenced]] | news | Cincinnati Enquirer | ? | medium | ? |
 | [[2026-04-18_justice-gov_odessa-man-charged-producing-and-distributing-child-sexual-abuse-material]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2023-10-04_justice-gov_oldsmar-man-charged-with-producing-and-distributing-child-sexual-abuse-material]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2026-04-29_pdpc-gov-sg_personal-data-protection-act-overview]] | official-guidance | Personal Data Protection Commission Singapore | ? | high | ? |
+| [[2026-04-29_justice-gov_cloud-act-executive-agreements]] | official-guidance | U.S. Department of Justice | ? | high | ? |
 | [[2023-10-01_police-gov-sg_beyond-borders-tackling-cybercrime-on-the-international-front]] | press-release | Singapore Police Force | ? | medium | ? |
 | [[2023-10-01_coe-int_sweden-octopus-cybercrime-community]] | press-release | Council of Europe | ? | medium | ? |
 | [[2023-09-29_seattletimes_linchpin-amazon-marketplace-bribery-scheme-sentenced-seattle]] | news | Seattle Times | ? | high | ? |
@@ -2633,6 +2648,7 @@ updated: 2026-04-14
 | [[2023-08-21_hoodline_dark-web-steroid-kingpin-juicepal-receives-8-year-sentence-san-diego]] | news | Hoodline | ? | medium | ? |
 | [[2023-08-21_10news_steroid-distributor-sentenced-san-diego-8-years-prison]] | news | 10News San Diego | ? | medium | ? |
 | [[the-record-africa-cyber-surge-ii]] | news | The Record (by Recorded Future) | 3 | medium-high | ? |
+| [[cybertalk-africa-cyber-surge-ii]] | press-release | INTERPOL | ? | high | ? |
 | [[bbc-africa-cyber-surge-ii]] | press-release | INTERPOL | 1 | high | ? |
 | [[2026-04-18_justice-gov_computer-crime-and-intellectual-property-section-ccips-news]] | press-release | US DOJ | ? | high | ? |
 | [[2023-08-18_usa-kaspersky-com_kaspersky-assists-interpol-in-operation-to-disrupt-cybercrime-in-african-countri]] | press-release | Kaspersky | ? | high | ? |
@@ -3070,6 +3086,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_california-man-indicted-cryptocurrency-money-laundering-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2022-10-07_justice-gov_california-man-indicted-in-cryptocurrency-money-laundering-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_former-hacker-sentenced-stealing-computer-power-mine-cryptocurrency-and-stealing]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2026-04-29_justice-gov_us-uk-data-access-agreement-enters-force]] | press-release | U.S. Department of Justice | ? | high | ? |
 | [[2022-10-01_ice-hsi_darknet-fentanyl-dealer-indicted-dallas-bitcoin]] | press-release | U.S. ICE - Homeland Security Investigations | ? | high | ? |
 | [[2022-09-27_seattletimes_ex-nigerian-official-5-years-unemployment-fraud-scams]] | news | Seattle Times | ? | medium | ? |
 | [[2022-09-27_foxnews_ex-nigerian-official-sentenced-5-years-pandemic-fraud-us]] | news | FOX News | ? | medium | ? |
@@ -3231,8 +3248,10 @@ updated: 2026-04-14
 | [[2022-05-26_justice-gov_darknet-vendor-of-fentanyl-laced-pills-pleads-guilty]] | press-release | US DOJ (Eastern District of Virginia) | ? | high | ? |
 | [[2022-05-26_edva_kancharla-darknet-vendor-plea]] | court-document | US DOJ (Eastern District of Virginia) | ? | high | ? |
 | [[2022-05-26_dariknews_kancharla-tampa-fentanyl-plea]] | news | Darik News | ? | low | ? |
+| [[the-hacker-news-operation-delilah]] | news | The Hacker News | ? | medium-high | ? |
 | [[group-ib-operation-delilah-silverterrier-bec]] | press-release | Group-IB | 2 | medium-high | ? |
 | [[cyberscoop-operation-delilah-silverterrier-bec]] | news | CyberScoop | 3 | medium-high | ? |
+| [[cyberscoop-operation-delilah]] | news | CyberScoop | 3 | medium-high | ? |
 | [[2022-05-27_doj_telusma-infraud-sentencing]] | court-document | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2022-05-25_unit42-paloaltonetworks-com_operation-delilah-business-email-compromise-actor]] | research | Palo Alto Networks Unit 42 | 2 | medium-high | ? |
 | [[2022-05-25_justice-gov_united-states-v-john-telusma]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
@@ -3660,6 +3679,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_two-men-charged-multi-million-dollar-darknet-drug-distribution-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-02-12_justice-gov_two-men-charged-in-multi-million-dollar-darknet-drug-distribution-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-02-12_healthcarefraudgroup_two-tennessee-men-indicted-on-drug-distribution-scheme-charges]] | news | Healthcare Fraud Group LLC | ? | medium | ? |
+| [[the-record-operation-secreto]] | press-release | CISO MAG | ? | high | ? |
 | [[2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group]] | news | CISO MAG | 3 | medium | ? |
 | [[2021-02-09_cisomag-com_operation-secreto-europol-busts-international-cybercriminal-group]] | press-release | CISO MAG | ? | high | ? |
 | [[2021-02-04_greekreporter_greek-led-crime-ring-busted-for-stealing-millions-from-us-banks]] | news | Greek Reporter | 3 | medium | ? |
@@ -3733,10 +3753,12 @@ updated: 2026-04-14
 | [[2020-11-27_pmnewsnigeria_operation-falcon-three-nigerians-busted-for-cybercrime]] | news | PM News Nigeria | 3 | medium | ? |
 | [[2020-11-27_pmnewsnigeria-com_interpol-3-nigerians-busted-for-cyber-crime-operate-in-150-countries]] | press-release | pmnewsnigeria.com | ? | medium | ? |
 | [[2020-11-27_guardian-ng_operation-falcon-nigerian-police-join-interpol-group-ib-to-arrest-three-suspected-tmt-fraudsters]] | news | The Guardian Nigeria | 3 | medium | ? |
+| [[the-hacker-news-operation-falcon]] | news | The Hacker News | ? | medium-high | ? |
 | [[2020-11-26_ukfinance-org-uk_dcpcu-works-with-europol-on-operation-carding-action-2020]] | government | UK Finance | ? | medium | ? |
 | [[2020-11-26_group-ib-com_carding-action-2020]] | press-release | Group-IB | ? | medium | ? |
 | [[2020-11-26_europol-europa-eu_officers-foil-fraudsters-stealing-eur-40-million-in-payment-card-scam]] | government | Europol | ? | high | ? |
 | [[cyberscoop-operation-falcon]] | news | CyberScoop | 3 | medium-high | ? |
+| [[bleeping-computer-operation-falcon]] | news | BleepingComputer | ? | medium-high | ? |
 | [[2020-11-25_group-ib_operation-falcon-group-ib-helps-interpol-identify-nigerian-bec-ring-members]] | press-release | Group-IB | 2 | medium-high | ? |
 | [[2026-04-18_justice-gov_firebomb-attack-plotters-sentenced-combined-over-23-years-prison]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2020-11-20_washingtontimes_pair-sentenced-nebraska-pharmacy-fire-bomb-plot]] | news | Washington Times | ? | medium | ? |
@@ -4097,6 +4119,7 @@ updated: 2026-04-14
 | [[2019-05-22_justice-gov_third-nigerian-national-admits-role-business-email-compromise-scheme]] | press-release | U.S. Attorney's Office, District of Connecticut | ? | high | ? |
 | [[2019-05-22_dailyvoice_third-person-admits-to-role-in-email-scheme-targeting-cfos-controllers]] | news | Fairfield Daily Voice | ? | medium | ? |
 | [[europol-goznym-malware-network-dismantling]] | press-release | Europol | 2 | high | ? |
+| [[bleeping-computer-goznym-takedown]] | news | BleepingComputer | 3 | medium-high | ? |
 | [[bbc-goznym-malware-network-dismantling]] | news | BBC News | 3 | medium-high | ? |
 | [[2019-05-16_wdpa_goznym-indictment]] | court-document | US DOJ (W.D. Pa.) | ? | high | ? |
 | [[2019-05-16_theregister_goznym-malware-bust-five-suspects]] | news | The Register | ? | medium | ? |
@@ -4109,6 +4132,7 @@ updated: 2026-04-14
 | [[2019-05-08_techcrunch_justice-department-charges-deep-dot-web-administrators-with-money-laundering]] | news | TechCrunch | ? | medium-high | ? |
 | [[2019-05-08_justice-gov_administrators-of-deepdotweb-indicted-for-money-laundering-conspiracy-relating-t]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_three-germans-who-allegedly-operated-dark-web-marketplace-over-1-million-users-face-us]] | press-release | US DOJ USAO | ? | high | ? |
+| [[europol-goznym-takedown]] | press-release | Europol | ? | high | ? |
 | [[2019-05-01_pcmag-com_europol-dismantles-global-cybercrime-network]] | press-release | PCMag | ? | medium | ? |
 | [[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]] | press-release | Europol | ? | high | ? |
 | [[2019-05-01_bbc-com_technology-48294788]] | press-release | BBC | ? | medium | ? |
@@ -4372,6 +4396,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_bristol-man-sentenced-10-years-federal-prison-distributing-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
 | [[portswigger-911-s5-botnet-dismantling]] | news | PortSwigger (The Daily Swig) | 3 | medium-high | ? |
 | [[europol-andromeda-botnet-dismantling]] | press-release | Europol | 2 | high | ? |
+| [[bleeping-computer-andromeda-botnet-takedown]] | press-release | BleepingComputer | ? | medium | ? |
 | [[2017-12-04_microsoft-com_microsoft-assists-law-enforcement-to-help-disrupt-the-andromeda-botnet]] | press-release | Microsoft | ? | medium | ? |
 | [[2017-12-04_microsoft-com_microsoft-assists-law-enforcement-help-disrupt-andromeda-botnet]] | corporate-blog | Microsoft | 3 | medium | ? |
 | [[2017-12-04_europol-europa-eu_andromeda-botnet-dismantled-in-international-cyber-operation]] | press-release | Europol | ? | high | ? |
@@ -4751,27 +4776,21 @@ updated: 2026-04-14
 | [[2012-01-01_143bis-ch_swiss-coordination-unit-for-cybercrime-control-cyco-annual-report]] | press-release | Fedpol | ? | medium | ? |
 | [[2010-12-21_antic-cm_law-no-2010-012-of-21-december-2010-relating-to-cybersecurity-and-cybercriminali]] | press-release | Republic of Cameroon / ANTIC | ? | medium | ? |
 | [[2009-09-15_dre-pt_lei-n-109-2009-lei-do-cibercrime]] | press-release | Assembleia da República | ? | medium | ? |
+| [[2026-04-29_congress-gov_us-netherlands-mlat-eu-executive-report-110-13]] | executive-report | Congress.gov | ? | high | ? |
 | [[2007-01-01_samuiforsale-com_computer-crime-act-b-e-2550-2007-english-translation]] | press-release | Thailand Law Online | ? | medium | ? |
 | [[2005-01-01_paragraf-rs_law-on-organization-and-competence-for-high-tech-crime-2005]] | press-release | Republic of Serbia | ? | medium | ? |
+| [[2026-04-29_congress-gov_us-germany-mlat-treaty-document-108-27]] | treaty-document | Congress.gov | ? | high | ? |
+| [[2026-04-29_congress-gov_us-japan-mlat-treaty-document-108-12]] | treaty-document | Congress.gov | ? | high | ? |
 | [[2003-04-19_legislatie-just-ro_law-no-161-2003-title-iii]] | press-release | Romanian Government | ? | medium | ? |
 | [[2003-01-28_coe-int_treaty-text-and-status-chart]] | press-release | Council of Europe | ? | medium | ? |
 | [[2001-01-01_zakon-rada-gov-ua_criminal-code-of-ukraine-section-xvi-cyber-offences]] | press-release | Verkhovna Rada | ? | medium | ? |
+| [[2026-04-29_congress-gov_us-australia-mlat-treaty-document-105-27]] | treaty-document | Congress.gov | ? | high | ? |
+| [[2026-04-29_congress-gov_korea-us-mlat-treaty-document-104-1]] | treaty-document | Congress.gov | ? | high | ? |
 | [[unodc-alphabay-true-crime-story]] | government-report | UN Office on Drugs and Crime (UNODC) | ? | high | ? |
 | [[uk-nca-operation-morpheus-cobalt-strike-takedown]] | press-release | UK NCA | 2 | high | ? |
-| [[the-record-operation-secreto]] | news | — | ? | — | ? |
-| [[the-hacker-news-operation-falcon]] | news | — | ? | — | ? |
-| [[the-hacker-news-operation-delilah]] | news | — | ? | — | ? |
-| [[the-hacker-news-911-s5-botnet-dismantling]] | news | — | ? | — | ? |
 | [[polish-radio-911-s5-botnet-dismantling]] | news | Polish Radio | 4 | medium | ? |
 | [[kaspersky-operation-avalanche]] | news | Kaspersky | 3 | medium | ? |
 | [[interpol-operation-haechi-ii]] | press-release | INTERPOL | 2 | high | ? |
 | [[interpol-operation-falcon]] | press-release | INTERPOL | 2 | high | ? |
 | [[europol-romania-phishing-network-takedown]] | press-release | Europol | 2 | high | ? |
 | [[europol-operation-endgame-phase-2-ransomware-kill-chain-disruption]] | press-release | Europol | 2 | high | ? |
-| [[europol-goznym-takedown]] | news | — | ? | — | ? |
-| [[cybertalk-africa-cyber-surge-ii]] | news | — | ? | — | ? |
-| [[cyberscoop-operation-delilah]] | news | — | ? | — | ? |
-| [[bleeping-computer-operation-falcon]] | news | — | ? | — | ? |
-| [[bleeping-computer-nemesis-market-takedown]] | news | — | ? | — | ? |
-| [[bleeping-computer-goznym-takedown]] | news | — | ? | — | ? |
-| [[bleeping-computer-andromeda-botnet-takedown]] | news | — | ? | — | ? |

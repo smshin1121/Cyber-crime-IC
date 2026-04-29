@@ -66,11 +66,13 @@ sources:
   - "[[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]]"
 summary: "This page was a parser-error duplicate of [[operation-us-v-benthall-silk-road-2]]. It has been normalized to Blake Benthall and retained only to preserve existing links."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This page was a parser-error duplicate of [[operation-us-v-benthall-silk-road-2]]. It has been normalized to Blake Benthall and retained only to preserve existing links.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

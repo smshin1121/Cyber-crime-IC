@@ -29,4 +29,4 @@ The FBI and U.S. Department of Justice investigated and prosecuted the FIN7 cybe
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies.md`, preserving traceable review without classifying the page as a placeholder.

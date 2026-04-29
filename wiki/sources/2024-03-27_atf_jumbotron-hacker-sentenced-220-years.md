@@ -19,10 +19,11 @@ collection_url: https://www.atf.gov/news/press-releases/jumbotron-hacker-and-pro
 created: 2026-04-25
 raw_path: raw/press-releases/2024-03-27_atf_jumbotron-hacker-sentenced-220-years.md
 text_status: parsed
-content_hash: sha256:e30b8457e2a39c187e8bba66f88b3fe815f0e7494865b072f58ef58e4a628af9
-word_count: 3875
-extraction_date: 2026-04-25
+content_hash: sha256:9d86d1004ec3c31bdcb6458eff8a8ac5bbb913b2aa2cbdd4f8eccb12ff60a2ec
+word_count: 1084
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

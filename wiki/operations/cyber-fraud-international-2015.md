@@ -34,8 +34,13 @@ participating_agencies:
   - "[[polizia-di-stato]]"
   - "[[spanish-national-police]]"
 legal_basis:
-
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic fraud and cybercrime authorities"
 mechanisms_used:
+  - "[[mlat-process]]"
+  - "[[informal-cooperation]]"
+  - "[[search-seizure]]"
 
 results:
   arrests: 49
@@ -62,11 +67,12 @@ edges:
 credibility_index: 2.28
 source_tier: 2
 missing_fields:
-  - legal_basis
-  - mechanisms_used
 related_cases:
 
 related_operations:
+  - "[[bec-nigeria-2016]]"
+  - "[[operation-falcon]]"
+  - "[[2bagoldmule-qqaazz]]"
 
 challenges_encountered:
 
@@ -80,7 +86,7 @@ sources:
   - "[[2015-06-12_infosecuritymagazine_europol-busts-operation-triangle-in-six-nation-raid]]"
   - "[[2015-06-12_securityaffairs_law-enforcement-dismantled-gang-behind-operation-triangle-phishing-campaign]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "In June 2015, an international law enforcement operation coordinated by Europol and Eurojust dismantled a criminal group engaged in cyber fraud through email account intrusion and financial fraud. The operation resulted in 49 arrests across Italy, Spain, Poland, the United Kingdom, Belgium, and Georgia, with 58 premises searched and criminal proceeds including cash, credit cards, and forged documents seized."

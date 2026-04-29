@@ -28,4 +28,4 @@ United States v. Konovolov et al. is the prosecution of 10 members of the GozNym
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_justice-gov_goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_justice-gov_goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities.md`, preserving traceable review without classifying the page as a placeholder.

@@ -18,11 +18,12 @@ key_findings:
   - "Eurojust's year-end roundup recapped the EUR 300 million global credit card fraud action."
   - "The recap highlighted the multinational coordination and 18 arrests."
 created: 2026-04-23
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:8d1ca9793aee2a4aea94eca099d22e80c1b3238c41e92042dadcc960ba32dd95
-word_count: 132
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:9163cdd1ff98144391bb4f98c43de23f5ee81752abcc974afcc26fbc3d26d404
+word_count: 816
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

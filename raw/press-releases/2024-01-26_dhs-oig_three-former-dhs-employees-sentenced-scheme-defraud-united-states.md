@@ -15,30 +15,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:8702970057555cc8187ecefccb50134431f9f130d6439f4e839fbe6f6d5c991e
-word_count: 576
-extraction_date: 2026-04-25
+content_hash: sha256:194c853b314e27413fc2cddb84bc904aee27dd01eceb09f798019fe3cc22b7cf
+word_count: 517
+extraction_date: 2026-04-29
 source_page: wiki/sources/2024-01-26_dhs-oig_three-former-dhs-employees-sentenced-scheme-defraud.md
+parser: jina_markdown
 ---
 DHS-OIG mirror of the DOJ press release for the sentencing of Charles K. Edwards, Murali Y. Venkata, and Sonal Patel for conspiracy to steal proprietary DHS-OIG and USPS-OIG software and databases for use in a commercial venture.
 
 ## Extracted Text
-
-Title: Three Former Department of Homeland Security Employees Sentenced in Scheme to Defraud the United States
-
-URL Source: https://www.oig.dhs.gov/sites/default/files/assets/pr/2024/dojpr-012624-three-former-department-homeland-security-employees-sentenced-scheme-defraud-united.pdf
-
-Published Time: Tue, 30 Jan 2024 16:33:08 GMT
-
-Number of Pages: 2
-
-Markdown Content:
-
-PRESS RELEASE
-
-# Three Former Department of Homeland
-
-# Security Employees Sentenced in Scheme
 
 # to Defraud the United States
 
@@ -90,7 +75,8 @@ Attorney David Kent, and Paralegal Specialist Michon Tart.
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:42:16+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.oig.dhs.gov/sites/default/files/assets/pr/2024/dojpr-012624-three-former-department-homeland-security-employees-sentenced-scheme-defraud-united.pdf
+- cleanup: jina navigation trim

@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2019/06/03/nicaraguan-nationa
 created: 2026-04-25
 raw_path: raw/press-releases/2019-06-03_dea-gov_nicaraguan-national-pleads-guilty-cocaine-marijuana-darknet.md
 text_status: parsed
-content_hash: sha256:27fcd5562ff15eaa2b3735eac266c1cf5821e149275109397e26431c1bc17af2
-word_count: 5152
-extraction_date: 2026-04-25
+content_hash: sha256:b0df79075815a96a3676517406297d3cc4189614b9c6639e389fbb261f5974dc
+word_count: 330
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

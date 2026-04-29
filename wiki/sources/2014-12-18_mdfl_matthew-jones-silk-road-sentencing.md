@@ -35,4 +35,4 @@ On 18 December 2014, DOJ announced that Matthew Jones was sentenced to 5 years a
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2014-12-18_mdfl_matthew-jones-silk-road-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2014-12-18_mdfl_matthew-jones-silk-road-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

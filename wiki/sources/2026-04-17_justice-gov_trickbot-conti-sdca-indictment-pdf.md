@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.justice.gov/d9/2023-09/trickbot_conti_sdca_indictment.pdf
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:a97968587e00587fddfd928a6ea95e07158a707acc48e8da79a915cc1365bf05
-word_count: 1400
-extraction_date: 2026-04-25
+content_hash: sha256:11078da2a3460cf15c588c40098100aaebb52b96145d75b2800ef5ea5eb1d3c6
+word_count: 1367
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ United States v. Galochkin et al. encompasses three indictments unsealed on 7 Se
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_justice-gov_trickbot-conti-sdca-indictment-pdf.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_justice-gov_trickbot-conti-sdca-indictment-pdf.md`, preserving traceable review without classifying the page as a placeholder.

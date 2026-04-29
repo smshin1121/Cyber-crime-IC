@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2024/09/09/pierce-county-man-
 created: 2026-04-25
 raw_path: raw/press-releases/2024-09-09_dea-gov_pierce-county-man-sentenced-seven-years-prison-drug-gun-crimes.md
 text_status: parsed
-content_hash: sha256:610bc2dc42a542a0a192db01e2a1cdb01751ace7f29ca6e64622e75695e3721a
-word_count: 5319
-extraction_date: 2026-04-25
+content_hash: sha256:157d91cbef549e9bcac8c54a6760747c9396caf86f2cdf3f82d4484b3f63a35d
+word_count: 496
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

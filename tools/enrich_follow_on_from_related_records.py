@@ -33,11 +33,15 @@ def ensure_wikilink(slug: str) -> str:
     return f"[[{slug}]]"
 
 
+def is_existing_source_slug(slug: str) -> bool:
+    return bool(slug) and (SOURCES_DIR / f"{slug}.md").exists()
+
+
 def parse_sources(meta: dict[str, Any]) -> list[str]:
     out: list[str] = []
     for value in as_list(meta.get("sources")):
         slug = wikilink_slug(value)
-        if slug:
+        if is_existing_source_slug(slug):
             out.append(slug)
     return out
 

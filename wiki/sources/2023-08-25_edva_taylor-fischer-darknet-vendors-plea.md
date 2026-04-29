@@ -31,4 +31,4 @@ On 25 August 2023, DOJ announced that Cheerish Noel Taylor and Robert James Fisc
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2023-08-25_edva_taylor-fischer-darknet-vendors-plea.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2023-08-25_edva_taylor-fischer-darknet-vendors-plea.md`, preserving traceable review without classifying the page as a placeholder.

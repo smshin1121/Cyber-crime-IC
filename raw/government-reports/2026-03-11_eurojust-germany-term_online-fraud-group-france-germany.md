@@ -4,7 +4,7 @@ collection_source: Eurojust
 collection_url: https://www.eurojust.europa.eu/term/germany
 final_url: https://www.eurojust.europa.eu/term/germany
 collection_domain: eurojust.europa.eu
-collection_date: 2026-04-28
+collection_date: 2026-04-29
 publish_date: 2026-03-11
 language: en
 status: materialized
@@ -13,8 +13,8 @@ storage_mode: source-digest
 source_type: government
 source_page: wiki/sources/2026-03-11_eurojust-germany-term_online-fraud-group-france-germany.md
 word_count: 118
-content_hash: sha256:de5b113d43652cfe957bc5072e2ae3ab4a03847fceaa0777ab7c76cb42822576
-extraction_date: 2026-04-28
+content_hash: sha256:cc4959ca7967365fc520a441cda19c0ae610892f037d294cca854b2eb7052fff
+extraction_date: 2026-04-29
 license_basis: official_public_record
 ---
 ## Source Archive Record
@@ -42,5 +42,5 @@ Eurojust's Germany topic page includes the France-Germany online fraud operation
 
 - storage_mode: source-digest
 - source_page: wiki/sources/2026-03-11_eurojust-germany-term_online-fraud-group-france-germany.md
-- generated_at: 2026-04-28T13:54:21+00:00
+- generated_at: 2026-04-28T16:02:26+00:00
 - full_text: not fetched in this materialization pass

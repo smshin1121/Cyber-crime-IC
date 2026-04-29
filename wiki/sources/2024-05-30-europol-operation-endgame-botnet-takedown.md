@@ -26,6 +26,12 @@ key_findings:
   - "Malware droppers linked to at least 15 ransomware groups including BlackBasta, REvil, Conti"
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem
 created: 2026-04-08
+text_status: parsed
+content_hash: sha256:19184f133c6f139d1d1943208341950c7f3a7ac6bf2fde58d8e3064d8f2ee794
+word_count: 1364
+extraction_date: 2026-04-29
+last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Summary
 

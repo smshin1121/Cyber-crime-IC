@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/country-wiki-ap/-/asset_publisher/CmDb7M4RGb4Z/content/belgium
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:ce69a1d2406ab833015ea6f268b77b57a46439bb42222038f59858af8764897e
-word_count: 1344
-extraction_date: 2026-04-25
+content_hash: sha256:90a7e802997ded4b9a05a361e2dba416a00c98216d3f7ea9901dfd49d99be7a6
+word_count: 1231
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Belgium ratified the [[budapest-convention|Budapest Convention on Cybercrime]] o
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-01-01_coe-int_belgium-country-profile-octopus-cybercrime-community.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-01-01_coe-int_belgium-country-profile-octopus-cybercrime-community.md`, preserving traceable review without classifying the page as a placeholder.

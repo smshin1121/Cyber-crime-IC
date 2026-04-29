@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/-/spain
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:48064cae5b71a66d68dbf3c64c83f94a6534081d3cf3b92efb8bc91ff5ff43e3
-word_count: 2426
-extraction_date: 2026-04-25
+content_hash: sha256:264352b729b16a98525edb89b255cdb6d601fe69e344b239df49838be7a21bb2
+word_count: 253
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

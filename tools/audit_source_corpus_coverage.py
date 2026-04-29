@@ -19,7 +19,8 @@ TOOLS_DIR = ROOT / "tools"
 if str(TOOLS_DIR) not in sys.path:
     sys.path.insert(0, str(TOOLS_DIR))
 
-from harvest_linked_source_text import first_url, has_extracted_text, is_official_url  # noqa: E402
+from harvest_linked_source_text import first_url, has_extracted_text, is_listing_or_topic_url, is_official_url, normalize_url  # noqa: E402
+from harvest_linked_source_text import TERMINAL_HARVEST_STATUSES  # noqa: E402
 
 
 SOURCES_DIR = ROOT / "wiki" / "sources"
@@ -111,8 +112,40 @@ def classify_raw(raw_path: Path, source_meta: dict[str, Any]) -> tuple[str, str,
     return raw_status, storage_mode, text_status, word_count, body_chars, content_hash
 
 
+def terminal_harvest(raw_path: Path, source_meta: dict[str, Any]) -> bool:
+    raw_status = ""
+    if raw_path.exists():
+        try:
+            raw_status = str(frontmatter.load(raw_path).metadata.get("harvest_status") or "").lower()
+        except Exception:
+            raw_status = ""
+    source_status = str(source_meta.get("harvest_status") or "").lower()
+    return raw_status in TERMINAL_HARVEST_STATUSES or source_status in TERMINAL_HARVEST_STATUSES
+
+
+def fetched_url_index() -> set[str]:
+    done: set[str] = set()
+    for path in sorted(SOURCES_DIR.glob("*.md")):
+        if path.name.startswith("_"):
+            continue
+        try:
+            post = frontmatter.load(path)
+        except Exception:
+            continue
+        meta = post.metadata
+        url = first_url(meta)
+        raw_path_value = str(meta.get("raw_path") or "").strip()
+        if not url or not raw_path_value:
+            continue
+        raw_path = ROOT / raw_path_value
+        if terminal_harvest(raw_path, meta) or has_extracted_text(raw_path, min_chars=1200):
+            done.add(normalize_url(url))
+    return done
+
+
 def load_rows() -> list[SourceCoverage]:
     rows: list[SourceCoverage] = []
+    fetched_urls = fetched_url_index()
     for path in sorted(SOURCES_DIR.glob("*.md")):
         if path.name.startswith("_"):
             continue
@@ -125,10 +158,16 @@ def load_rows() -> list[SourceCoverage]:
             classify_raw(raw_path, meta) if raw_path_value else ("missing_raw_path", "", "", 0, 0, "")
         )
         needs_fetch = False
-        if raw_path_value:
-            needs_fetch = not has_extracted_text(raw_path, min_chars=1200)
+        if url and is_listing_or_topic_url(url):
+            needs_fetch = False
+        elif raw_path_value:
+            needs_fetch = (
+                normalize_url(url) not in fetched_urls
+                and not terminal_harvest(raw_path, meta)
+                and not has_extracted_text(raw_path, min_chars=1200)
+            )
         elif url:
-            needs_fetch = True
+            needs_fetch = normalize_url(url) not in fetched_urls
         rows.append(
             SourceCoverage(
                 slug=path.stem,

@@ -38,8 +38,13 @@ participating_agencies:
   - "[[nigeria-efcc]]"
   - "[[trend-micro]]"
 legal_basis:
-
+  - "Nigerian domestic criminal process"
+  - "INTERPOL ASEAN Cybercrime Operations Desk coordination"
+  - "Japan-ASEAN Integration Fund 2.0 capacity-building support"
 mechanisms_used:
+  - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
+  - "cross-regional operational coordination"
 
 results:
   arrests: 3
@@ -66,11 +71,12 @@ edges:
 credibility_index: 2.28
 source_tier: 2
 missing_fields:
-  - legal_basis
-  - mechanisms_used
 related_cases:
 
 related_operations:
+  - "[[operation-falcon]]"
+  - "[[operation-lyrebird]]"
+  - "[[operation-red-card]]"
 
 challenges_encountered:
 
@@ -84,7 +90,7 @@ sources:
   - "[[2022-05-30_interpol-es_operation-killer-bee]]"
   - "[[2022-05-30_cybersecurity-review_online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL's Operation Killer Bee, conducted in coordination with the Nigerian Economic and Financial Crimes Commission (EFCC) and ASEAN member state law enforcement agencies, targeted cybercriminals using Agent Tesla malware for financial fraud and Business Email Compromise (BEC). The operation resulted in the arrest of 3 Nigerian nationals who had been using the malware to reroute financial transactions and steal confidential business data. Trend Micro and other cybersecurity firms provided technical support."
@@ -168,8 +174,8 @@ Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Nigeria, Philippines, Sing
 
 - INTERPOL announced Operation Killer Bee on 30 May 2022, reporting three arrests in simultaneous raids in Lagos and Benin City, Nigeria against a BEC scheme using Agent Tesla Remote Access Trojan (RAT) to reroute financial transactions
 - The targeted group stole corporate online-banking credentials from victims in Southeast Asia, the Middle East, and North Africa; one suspect (Hendrix Omorume, age 38) was convicted on three counts of serious financial fraud and sentenced to 12 months imprisonment
-- Operation scope: 11 countries in Southeast Asia ??Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Nigeria, Philippines, Singapore, Thailand, and Vietnam (Nigeria as origin country, 10 ASEAN/adjacent as affected countries)
-- Lead coordination: INTERPOL's ASEAN Cybercrime Operations Desk, funded by the Japan-ASEAN Integration Fund 2.0 and supported by the Singapore government ??a distinctive funding pattern worth noting for capacity-building analysis
+- Operation scope: 11 countries in Southeast Asia, including Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Nigeria, Philippines, Singapore, Thailand, and Vietnam (Nigeria as origin country, 10 ASEAN/adjacent as affected countries)
+- Lead coordination: INTERPOL's ASEAN Cybercrime Operations Desk, funded by the Japan-ASEAN Integration Fund 2.0 and supported by the Singapore government, a distinctive funding pattern worth noting for capacity-building analysis
 - Private-sector intelligence contribution: Trend Micro provided the original Agent Tesla malware telemetry that seeded the investigation, illustrating the public-private threat-intelligence pipeline
 - All three arrested suspects were aged 31-38 and possessed fake documents including fraudulent invoices and forged official letters — evidence of the social-engineering sophistication typical of West African BEC actors
 - Operation Killer Bee is a reference example of INTERPOL's ASEAN Cybercrime Operations Desk executing cross-region (Africa→ASEAN) enforcement with Japanese funding support
@@ -200,7 +206,7 @@ Operational results captured for the canonical record: 3 arrests; Agent Tesla ma
 
 The canonical source set contains 5 reference(s): Interpol Operation Killer Bee, 2022 05 30 Trendmicro Operation Killer Bee Agent Tesla Bec Actors, 2022 10 18 Mha Gov Sg Interpol Global Cybercrime Conference Killer Bee, 2022 05 30 Interpol Es Operation Killer Bee, 2022 05 30 Cybersecurity Review Online Scamming Fraud Three Nigerians Arrested In Interpol Operation Killer Bee.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
-Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+Known metadata gaps still carried by this page: none recorded after the 2026-04-29 metadata repair.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
 When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
 This keeps the canonical record analytically bounded and reproducible.

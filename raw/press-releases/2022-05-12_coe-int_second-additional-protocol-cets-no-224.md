@@ -12,22 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:e5f20f0bd9012c6cb974bd4896c48facad906a742e71583eeed23ef11de8982f
-word_count: 1464
-extraction_date: 2026-04-25
+content_hash: sha256:20137231f31b402812e13ec07f1fa65d29782108f600cd1c51fcbaf2ade4f3e0
+word_count: 1444
+extraction_date: 2026-04-29
 source_page: wiki/sources/2022-05-12_coe-int_second-additional-protocol-cets-no-224.md
+parser: jina_markdown
 ---
 ## Summary
 
 The Budapest Convention on Cybercrime is the **first and most significant binding international treaty** dedicated to combating cybercrime through harmonized criminal law, common investigative powers, and international cooperation mechanisms. Adopted by the Council of Europe in 2001 and in force since 2004, it had grown to **81 states parties as of August 2025** (with Ireland and South Africa as signatory-only states), including major non-European states such as the United States, Canada, Japan, Australia, and — since 2024 — South Korea.
 
 ## Extracted Text
-
-Title: Second Additional Protocol - Cybercrime - www.coe.int
-
-URL Source: https://www.coe.int/en/web/cybercrime/second-additional-protocol
-
-Markdown Content:
 
 Navigation
 
@@ -177,7 +172,7 @@ signatories in total*
 
 countries have ratified the Protocol (out of the 52 signatories)*
 
-* See the full list on the Treaty Office webpage
+See the full list on the Treaty Office webpage
 
 TIMELINE
 
@@ -299,7 +294,8 @@ We collect and process your data on this site to better understand how it is use
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:19:40+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://www.coe.int/en/web/cybercrime/second-additional-protocol
+- cleanup: jina navigation trim

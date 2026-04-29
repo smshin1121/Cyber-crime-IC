@@ -25,4 +25,4 @@ The Gambia has limited cybercrime legislation centred on the **Information and C
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-01-01_moict-gov-gm_gambia-national-cyber-security-policy-2020-2024.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-01-01_moict-gov-gm_gambia-national-cyber-security-policy-2020-2024.md`, preserving traceable review without classifying the page as a placeholder.

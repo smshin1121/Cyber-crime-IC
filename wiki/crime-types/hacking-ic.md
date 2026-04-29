@@ -1,52 +1,60 @@
 ---
 aliases:
-- hacking
-- computer intrusion
-- unauthorized access
-- state-sponsored hacking
-- APT
+  - hacking
+  - "computer intrusion"
+  - "unauthorized access"
+  - "state-sponsored hacking"
+  - APT
 created: 2026-04-08
 crime_category: cyber-dependent
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
-  problem_jurisdictions: []
-estimated_annual_loss: ''
+  problem_jurisdictions:
+    []
+estimated_annual_loss: ""
 key_organizations:
-- '[[fbi-cyber-division]]'
-notable_cases: []
+  - "[[fbi-cyber-division]]"
+notable_cases:
+  []
 notable_operations:
-- '[[isoon-apt27-indictment]]'
-- '[[proxy-service-takedown-2026-03]]'
+  - "[[isoon-apt27-indictment]]"
+  - "[[proxy-service-takedown-2026-03]]"
 relevant_legal_frameworks:
-- '[[budapest-convention]]'
-source_count: 1
+  - "[[budapest-convention]]"
+source_count: 2
 sources:
-- '[[2025-03-05-doj-isoon-chinese-hackers-charges]]'
-- '[[2026-03-12-eurojust-proxy-service-takedown]]'
-title: Hacking / Computer Intrusion — International Cooperation Perspective
+  - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
+  - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
-typical_ic_challenges: []
-typical_mechanisms: []
-updated: 2026-04-14
+typical_ic_challenges:
+  - "state sheltering"
+  - "proxy infrastructure"
+  - "victim and evidence distribution"
+typical_mechanisms:
+  - "[[electronic-evidence]]"
+  - "[[domain-seizure]]"
+  - "[[extradition]]"
+  - "[[mutual-legal-assistance]]"
+updated: 2026-04-29
+status: active
 ---
-
 ## Summary
 
-Hacking and computer intrusion encompass unauthorized access to computer systems, networks, and data. From an international cooperation perspective, hacking includes both criminal hacking (financially motivated) and state-sponsored cyber espionage. The latter presents unique IC challenges as the perpetrators are often shielded by state actors, making traditional law enforcement cooperation impossible.
+Hacking and computer intrusion cover unauthorized access to computers, networks, accounts, devices, and data. In international-cooperation analysis this category includes financially motivated intrusion, contractor or state-directed intrusion, credential theft, vulnerability exploitation, and infrastructure abuse used to hide the actor's location.
 
-> [!info] Stub
-> This page was auto-created during integration of the i-Soon/APT27 indictment. It will be expanded when more sources are ingested.
+## Cooperation Pattern
 
-## Notable Operations
+The cooperation problem depends on the actor model. Criminal intrusion cases may progress through provider records, seized servers, exchange records, extradition, and coordinated searches. State-directed or state-sheltered cases are harder: public charges may identify actors and infrastructure, but custody and evidence collection can be blocked by the suspect's location or by the sponsoring state's non-cooperation. Proxy-service takedowns add a second pattern, where the immediate target is infrastructure used by many intruders rather than one intrusion crew.
 
-- **[[isoon-apt27-indictment|i-Soon/APT27 Indictment]]** (2025): US charges against 12 Chinese nationals for state-directed hacking targeting foreign governments including South Korea
+## Menu Use
 
-## Korean Context (한국 상황)
+Use this category when unauthorized access is the core conduct. Use [[malware-ic]] when the record focuses on malware deployment or botnet infrastructure, [[cybercrime-infrastructure-ic]] when the main target is a criminal enabling service, and [[data-sovereignty]] or [[jurisdictional-conflicts]] where the central issue is legal conflict over data access rather than the intrusion itself.
 
-Korea has been a target of state-sponsored hacking, particularly from the DPRK (North Korea) and China. The i-Soon/APT27 case revealed that South Korea's foreign ministry was among the victims of Chinese contract hacking operations.
+## References
 
-## Contradictions & Open Questions
-
-- How should international cooperation frameworks address state-sponsored hacking differently from criminal hacking?
-- What enforcement mechanisms are effective against state-backed actors?
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | [[2025-03-05-doj-isoon-chinese-hackers-charges|Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns]] | US Department of Justice | 2025-03-05 | https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global |
+| [2] | [[2026-03-12-eurojust-proxy-service-takedown|Servers used for cybercrime around the world taken down]] | Eurojust | 2026-03-12 | https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down |

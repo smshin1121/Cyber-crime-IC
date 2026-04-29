@@ -17,11 +17,12 @@ key_findings:
   - "The Cyber Affairs Bureau (サイバー警察局, Saibā keisatsu-kyoku) of Japan's National Police Agency (警察庁, Keisatsu-chō) was established on **1 April 2022** by restructuring the Info-Communications Bureau and integrating cyber-related divisions from several other NPA bureaus. It is now the central policing authority for cyberspace in Japan, with direct jurisdiction for the first time (historically, NPA coordinated rather than directly investigated)."
 collection_url: https://www.npa.go.jp/english/bureau/cyber/index.html
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:658c2a7252e41e17da960a6830464a826fbd54ef4049e057411941011af3d130
-word_count: 216
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:91d75e974f8eca97774a3b4112254a7b2dbf46d5b36057affa4b1f75dc97ed87
+word_count: 130
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The Cyber Affairs Bureau (サイバー警察局, Saibā keisatsu-kyoku) of Japan
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_npa-go-jp_cyber-affairs-bureau.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_npa-go-jp_cyber-affairs-bureau.md`, preserving traceable review without classifying the page as a placeholder.

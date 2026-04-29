@@ -23,10 +23,11 @@ key_findings:
 created: 2026-04-18
 raw_path: raw/press-releases/2017-06-09_politie-be_oproep-aan-slachtoffers-wannacry.md
 text_status: parsed
-content_hash: sha256:a6ca1b67bf50a7cf20c5ddd23be1ea30d9ef3ff93a273960928bd6a648015197
-word_count: 1423
-extraction_date: 2026-04-25
+content_hash: sha256:3dd33cb40a9c15ce9503b1f0eb770ea6c319744110d308b31d7c93abde0e8f99
+word_count: 418
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

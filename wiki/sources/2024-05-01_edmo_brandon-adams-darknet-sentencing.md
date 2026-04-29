@@ -30,4 +30,4 @@ On 1 May 2024, DOJ announced that Brandon Adams was sentenced to 24 months in pr
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2024-05-01_edmo_brandon-adams-darknet-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2024-05-01_edmo_brandon-adams-darknet-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

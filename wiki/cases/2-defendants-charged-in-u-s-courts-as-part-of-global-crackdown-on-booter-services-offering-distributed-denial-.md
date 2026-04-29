@@ -35,7 +35,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering]]"
 created: 2026-04-18
-updated: 2026-04-28
+updated: 2026-04-29
 summary: "2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘Booter’ Services Offering Distributed Denial-of-Service Attacks is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -83,6 +83,8 @@ summary: "2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘
 - US DOJ USAO, 2024-12-11: The websites targeted in this operation were used to launch millions of actual or attempted DDoS attacks targeting victims worldwide.
 - US DOJ USAO, 2024-12-11: “Booter services facilitate cyberattacks that harm victims and compromise everyone’s ability to access the internet,” said United States Attorney Martin Estrada for the Central District of California.
 - US DOJ USAO, 2024-12-11: “This week’s sweeping law enforcement activity is a major step in our ongoing efforts to eradicate criminal conduct that threatens the internet’s infrastructure and our ability to function in a digital world.
+- US DOJ USAO, 2024-12-11: “Because of the scope of the threat, we have partnered with law enforcement in the United States and abroad to achieve meaningful disruptions of these services in order to protect critical internet infrastructure and services.” “Whether you launch a DDoS attack or hire a DDoS service to do it for you, the FBI considers it a crime.
+- US DOJ USAO, 2024-12-11: Cybercriminals are increasingly targeting essential services and our critical infrastructure with DDoS attacks that can cost victims valuable time, money and reputational harm,” said Akil Davis, Assistant Director in Charge of the FBI Los Angeles Field Office.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

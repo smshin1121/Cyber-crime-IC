@@ -32,4 +32,4 @@ Operation Checkmate was a coordinated international operation to disrupt the **B
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-08-11_justice-gov_coordinated-disruption-actions-against-blacksuit-royal-ransomware-operation-chec.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-08-11_justice-gov_coordinated-disruption-actions-against-blacksuit-royal-ransomware-operation-chec.md`, preserving traceable review without classifying the page as a placeholder.

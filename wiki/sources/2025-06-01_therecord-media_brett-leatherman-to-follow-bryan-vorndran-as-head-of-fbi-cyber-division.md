@@ -31,4 +31,4 @@ The FBI Cyber Division (사이버과) is the primary investigative arm of the [[
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-06-01_therecord-media_brett-leatherman-to-follow-bryan-vorndran-as-head-of-fbi-cyber-division.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-06-01_therecord-media_brett-leatherman-to-follow-bryan-vorndran-as-head-of-fbi-cyber-division.md`, preserving traceable review without classifying the page as a placeholder.

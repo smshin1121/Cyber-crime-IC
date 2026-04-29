@@ -64,11 +64,13 @@ sources:
   - "[[2022-05-31_dea_monroe-father-and-son-sentenced-prison-money-laundering-illegal-marijuana]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kenneth-warren-rhule-and-kenneth-john-rule]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kenneth-warren-rhule-and-kenneth-john-rule]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

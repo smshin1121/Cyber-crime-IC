@@ -1,9 +1,9 @@
 ---
 title: "INTERPOL-Korea operation reporting"
-collection_source: DigWatch
-collection_url: ""
-final_url: ""
-collection_domain: ""
+collection_source: "Digital Watch Observatory"
+collection_url: https://dig.watch/updates/interpol-and-south-korea-lead-operation-arresting-over-5500-cybercrime-suspects
+final_url: https://dig.watch/updates/interpol-and-south-korea-lead-operation-arresting-over-5500-cybercrime-suspects
+collection_domain: dig.watch
 collection_date: 2026-04-27
 publish_date: 2024-12-02
 language: en

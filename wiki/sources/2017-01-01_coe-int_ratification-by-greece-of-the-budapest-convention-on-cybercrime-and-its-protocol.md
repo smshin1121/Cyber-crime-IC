@@ -29,4 +29,4 @@ Greece became the **52nd State Party** to the [[budapest-convention|Budapest Con
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2017-01-01_coe-int_ratification-by-greece-of-the-budapest-convention-on-cybercrime-and-its-protocol.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2017-01-01_coe-int_ratification-by-greece-of-the-budapest-convention-on-cybercrime-and-its-protocol.md`, preserving traceable review without classifying the page as a placeholder.

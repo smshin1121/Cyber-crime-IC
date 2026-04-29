@@ -15,38 +15,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:ef884c5842bdfba1c51224b06a47052ba743f98b8bec71c02ceda842fc15d6e3
-word_count: 781
-extraction_date: 2026-04-25
+content_hash: sha256:6d78a05bf258e88cd2ed1d54eabab246d9c1300fe721524a627f382cbc54c8e5
+word_count: 698
+extraction_date: 2026-04-29
 source_page: wiki/sources/2022-05-03_oig-dhs_nigerian-citizen-pleads-guilty-covid-19-unemployment-fraud-washington-17-states.md
+parser: jina_markdown
 ---
 DHS Office of Inspector General release covering the codefendant Ambali guilty plea, the lead-in to the Lawal case.
 
 ## Extracted Text
-
-Title: Nigerian citizen pleads guilty to COVID-19 unemployment fraud on Washington and 17 other states
-
-URL Source: https://www.oig.dhs.gov/sites/default/files/assets/pr/2022/dojpr-050322-nigerian-citizen-pleads-guilty-covid-19-unemployment-fraud-washington-and-17-other-states.pdf
-
-Published Time: Wed, 04 May 2022 14:39:40 GMT
-
-Number of Pages: 2
-
-Markdown Content:
-
-> 1/2
-
-FOR IMMEDIATE RELEASE Tuesday, May 3, 2022
-
-U.S. Attorneys » Western District of Washington » News
-
-Department of Justice
-
-U.S. Attorney’s Office
-
-Western District of Washington
-
-# Nigerian citizen pleads guilty to COVID-19 unemployment fraud
 
 # on Washington and 17 other states
 
@@ -166,7 +143,8 @@ Emily.Langlie@usdoj.gov.
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:38:28+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://www.oig.dhs.gov/sites/default/files/assets/pr/2022/dojpr-050322-nigerian-citizen-pleads-guilty-covid-19-unemployment-fraud-washington-and-17-other-states.pdf
+- cleanup: jina navigation trim

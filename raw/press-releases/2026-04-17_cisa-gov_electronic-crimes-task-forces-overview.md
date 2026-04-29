@@ -12,26 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:9661bf0ce6627f0577fbe20a7066e0aa6439b5a6d789179aa9cfbd1813082060
-word_count: 543
-extraction_date: 2026-04-25
+content_hash: sha256:7ff295826a494c1ca79da3a6c16a9e65d5e51fc95f7998b8b417ed861546880b
+word_count: 502
+extraction_date: 2026-04-29
 source_page: wiki/sources/2026-04-17_cisa-gov_electronic-crimes-task-forces-overview.md
+parser: jina_markdown
 ---
 ## Summary
 
 The United States Secret Service (USSS) operates the **Cyber Fraud Task Forces (CFTFs)**, announced in **July 2020** as the unified successor to the Electronic Crimes Task Forces (ECTFs, first created in New York in 1995) and Financial Crimes Task Forces (FCTFs). The merger reflects the growing convergence of cyber and traditional financial crimes.
 
 ## Extracted Text
-
-Title: United StateS Secret Service electronic crimeS taSk ForceS
-
-URL Source: https://www.cisa.gov/sites/default/files/publications/USSS%20Electronic%20Crimes%20Task%20Forces.pdf
-
-Published Time: Thu, 08 Aug 2019 11:20:43 GMT
-
-Number of Pages: 2
-
-Markdown Content:
 
 United StateS Secret Service electronic crimeS taSk ForceS
 
@@ -81,7 +72,8 @@ www.dhs.gov/stopthinkconnect
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:20:51+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.cisa.gov/sites/default/files/publications/USSS%20Electronic%20Crimes%20Task%20Forces.pdf
+- cleanup: jina navigation trim

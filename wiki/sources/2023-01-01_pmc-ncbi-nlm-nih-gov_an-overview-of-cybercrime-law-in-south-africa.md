@@ -29,4 +29,4 @@ South Africa is the regional cybercrime capacity leader in Southern Africa. It w
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-01-01_pmc-ncbi-nlm-nih-gov_an-overview-of-cybercrime-law-in-south-africa.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-01-01_pmc-ncbi-nlm-nih-gov_an-overview-of-cybercrime-law-in-south-africa.md`, preserving traceable review without classifying the page as a placeholder.

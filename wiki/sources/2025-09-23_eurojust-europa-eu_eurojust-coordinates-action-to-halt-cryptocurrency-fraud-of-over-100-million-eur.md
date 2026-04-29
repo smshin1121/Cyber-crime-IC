@@ -17,11 +17,12 @@ key_findings:
   - "At the request of Spanish and Portuguese authorities, Eurojust coordinated a major 2025 action against a cryptocurrency investment-fraud network that defrauded victims in at least 23 countries of over EUR 100 million. The action day produced five arrests, searches across five countries and multiple asset-freezing measures."
 collection_url: https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:5e3ade4a14a98a5c32b31949cc5168a1353c3fcd5f2e0a47c88e4441d7fa6a36
-word_count: 187
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:bf39bd40dfa629a1e5deb5abab0cba02d2667cd7d74de47cfa41dbeaa396e51e
+word_count: 639
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

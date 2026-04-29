@@ -12,26 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:2618d95f6e28bd2b4e5058da76631a4785e0baa12d937feb79d5c9711cb305b1
-word_count: 646
-extraction_date: 2026-04-25
+content_hash: sha256:d7c41ad55913853a3adf2eb045ff92a196b1e5691f589188b9b0d6c18fbaaabb
+word_count: 624
+extraction_date: 2026-04-29
 source_page: wiki/sources/2020-04-29_rm-coe-int_bucharest-cybercrime-unit-presentation-marius-cuciurianu.md
+parser: jina_markdown
 ---
 ## Summary
 
 The **Service for Combating Cybercrime** (Serviciul de Combatere a Criminalității Informatice) is the specialized cybercrime unit within the **Directorate for Countering Organized Criminality (DCCO)** of the **General Inspectorate of the Romanian Police (GIRP)**. It functions as Romania's principal police-level cybercrime investigative body, working alongside the prosecutorial [[romania-diicot|DIICOT]] cybercrime service.
 
 ## Extracted Text
-
-Title: PowerPoint Presentation
-
-URL Source: https://rm.coe.int/ro-police-cybercrime-unit-marius-cuciurianu-29-april-2020-final/16809e41ee
-
-Number of Pages: 9
-
-Markdown Content:
-
-ROMANIAN NATIONAL POLICE a a
 
 Bucharest Cybercrime Unit
 
@@ -109,37 +100,37 @@ C-PROC – Glacy + Project - Council of Europe webinar on the Establishment and 
 
 1. On -line Frauds and frauds committed with electronic payment instruments :
 
-- Electronic commerce related - Internet frauds,
+Electronic commerce related - Internet frauds,
 
-- Credit card related – skimming , phishing , card not present fraud
+Credit card related – skimming , phishing , card not present fraud
 
 2. Digital Forensics : - Forensic examination / digital data extraction
 
-- Live a ccess to a computer sistem
+Live a ccess to a computer sistem
 
-- Data preservation requests and processing internet traffic
+Data preservation requests and processing internet traffic
 
 3. On –line Child Abuse : - Child Pornography by use of computer
 
-- Producing of CSEM
+Producing of CSEM
 
-- Offering, making available, promoting of CSEM
+Offering, making available, promoting of CSEM
 
-- Distributing or transmitting of CSEM
+Distributing or transmitting of CSEM
 
-- Procuring for oneself or another of CSEM
+Procuring for oneself or another of CSEM
 
-- Possessing, without right, oc CSEM with in a computer system or data storage device
+Possessing, without right, oc CSEM with in a computer system or data storage device
 
 4. Computer – related crimes : - Crimes against / through computer systems; unauthorized computer / data access or transfer
 
 > -
 
-- Illegal interception of data transmitted by a computer or data which is not publicly available
+Illegal interception of data transmitted by a computer or data which is not publicly available
 
-- Illegal alteration, deletion or deterioration of a electronic data or restriction of access at that data
+Illegal alteration, deletion or deterioration of a electronic data or restriction of access at that data
 
-- Serious hindering of a computer operation system by introducing , transmitting , altering, deleting or
+Serious hindering of a computer operation system by introducing , transmitting , altering, deleting or
 
 restricting the access to the electronic data ROMANIAN NATIONAL POLICE a a
 
@@ -227,7 +218,8 @@ Thank you for your attention!
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:43:25+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://rm.coe.int/ro-police-cybercrime-unit-marius-cuciurianu-29-april-2020-final/16809e41ee
+- cleanup: jina navigation trim

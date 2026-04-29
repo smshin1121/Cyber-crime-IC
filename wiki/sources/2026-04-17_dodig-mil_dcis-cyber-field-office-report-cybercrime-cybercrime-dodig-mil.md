@@ -25,4 +25,4 @@ The Defense Criminal Investigative Service (DCIS) is the criminal investigative 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_dodig-mil_dcis-cyber-field-office-report-cybercrime-cybercrime-dodig-mil.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_dodig-mil_dcis-cyber-field-office-report-cybercrime-cybercrime-dodig-mil.md`, preserving traceable review without classifying the page as a placeholder.

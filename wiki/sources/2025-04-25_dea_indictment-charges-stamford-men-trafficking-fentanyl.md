@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/04/25/indictment-charges
 created: 2026-04-25
 raw_path: raw/press-releases/2025-04-25_dea_indictment-charges-stamford-men-trafficking-fentanyl.md
 text_status: parsed
-content_hash: sha256:dad8d4f5fbceb44fc173308a49bfa31bbfb8bee09877701bccf78c904771a029
-word_count: 5167
-extraction_date: 2026-04-25
+content_hash: sha256:200b051eec819a15e3dee8a22d59ed6774fdf6594a4f3d019035be05e99fd28a
+word_count: 463
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

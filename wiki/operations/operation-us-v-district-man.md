@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2019-06-19_washingtonpost_ex-senate-staffer-sentenced-4-years-doxing-gop-senators-kavanaugh-confirmation]]"
+  - "[[2026-04-18_justice-gov_restricted-personal-information-us-senators-website]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-district-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-district-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Ex-Senate staffer sentenced to 4 years for 'doxing' GOP senators in Kavanaugh confirmation fight | Washington Post | 2019-06-19 | https://www.washingtonpost.com/local/legal-issues/ex-senate-staffer-sentenced-to-4-years-for-doxing-gop-senators-in-kavanaugh-confirmation-fight/2019/06/19/31a977a8-92aa-11e9-b58a-a6a9afaa0e3e_story.html |
+| [1] | District Man Charged in Investigation of Illegal Posting of Restricted Personal Information of U.S. Senators on Website | US DOJ USAO | 2018-10-04 | https://www.justice.gov/usao-dc/pr/restricted-personal-information-us-senators-website |

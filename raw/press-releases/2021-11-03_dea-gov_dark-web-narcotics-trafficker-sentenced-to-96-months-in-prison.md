@@ -12,56 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:d850ec3d8ca472ea448f4697dc53b1228e85727c67299dcff861363025f0f412
-word_count: 5527
-extraction_date: 2026-04-25
+content_hash: sha256:2f5133346de39eb75b9bab656daa408a26dcadc32f8dc0f6973e1e5d76b8bca2
+word_count: 680
+extraction_date: 2026-04-29
 source_page: wiki/sources/2021-11-03_dea-gov_dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison.md
+parser: jina_markdown
 ---
 ## Summary
 
 This page captures the defendant-specific enforcement sequence against Joanna De Alba, also known as `RaptureReloaded`, for selling narcotics over the Wall Street Market dark-web marketplace in exchange for cryptocurrency. The public record shows a progression from indictment in January 2020 to guilty plea in April 2021 and sentencing in November 2021.
-
-## Extracted Text
-
-Title: Dark Web Narcotics Trafficker Sentenced to 96 Months in Prison
-
-URL Source: https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison
-
-Markdown Content:
-
-# Dark Web Narcotics Trafficker Sentenced to 96 Months in Prison
-
-[Skip to main content](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison#main-content)
-
-![Image 2: U.S. flag](https://www.dea.gov/themes/custom/ohana/dist/img/us_flag_small.png)
-
-Here’s how you know
-
-![Image 3: Dot gov](https://www.dea.gov/themes/custom/ohana/dist/img/icon-dot-gov.svg)
-
-**Official websites use .gov**
-
-A **.gov** website belongs to an official government organization in the United States.
-
-![Image 4: Https](https://www.dea.gov/themes/custom/ohana/dist/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS**
-
-A **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-# [United States Drug Enforcement Administration](https://www.dea.gov/ "Home")
-
-* [Get Updates](https://public.govdelivery.com/accounts/USDOJDEA/subscriber/new?qsp=CODE_RED)
-
-* [Scam Alert](https://www.dea.gov/scam-alert)
-
-* [Full Menu](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison#fullmenu)
-
-* [![Image 5: en](https://cdn.gtranslate.net/flags/svg/en-us.svg) English](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison#) [![Image 6: en](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) English](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "English")[![Image 7: ar](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) العربية](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "العربية")[![Image 8: bg](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Български](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Български")[![Image 9: zh-CN](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) 简体中文](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "简体中文")[![Image 10: zh-TW](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) 繁體中文](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "繁體中文")[![Image 11: hr](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Hrvatski](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Hrvatski")[![Image 12: cs](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Čeština‎](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Čeština‎")[![Image 13: da](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Dansk](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Dansk")[![Image 14: nl](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Nederlands](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Nederlands")[![Image 15: fi](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Suomi](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Suomi")[![Image 16: fr](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Français](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Français")[![Image 17: de](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Deutsch](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Deutsch")[![Image 18: el](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Ελληνικά](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Ελληνικά")[![Image 19: hi](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) हिन्दी](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "हिन्दी")[![Image 20: it](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Italiano](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Italiano")[![Image 21: ja](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) 日本語](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "日本語")[![Image 22: ko](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) 한국어](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "한국어")[![Image 23: no](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Norsk bokmål](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Norsk bokmål")[![Image 24: pl](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Polski](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Polski")[![Image 25: pt](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Português](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Português")[![Image 26: ro](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Română](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Română")[![Image 27: ru](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Русский](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Русский")[![Image 28: es](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Español](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Español")[![Image 29: sv](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Svenska](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Svenska")[![Image 30: ca](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Català](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Català")[![Image 31: tl](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Filipino](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Filipino")[![Image 32: iw](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) עִבְרִית](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "עִבְרִית")[![Image 33: id](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Bahasa Indonesia](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Bahasa Indonesia")[![Image 34: lv](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Latviešu valoda](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Latviešu valoda")[![Image 35: lt](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Lietuvių kalba](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Lietuvių kalba")[![Image 36: sr](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Српски језик](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Српски језик")[![Image 37: sk](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Slovenčina](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Slovenčina")[![Image 38: sl](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Slovenščina](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Slovenščina")[![Image 39: uk](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Українська](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Українська")[![Image 40: vi](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Tiếng Việt](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Tiếng Việt")[![Image 41: sq](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Shqip](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Shqip")[![Image 42: et](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Eesti](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Eesti")[![Image 43: gl](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Galego](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Galego")[![Image 44: hu](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Magyar](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Magyar")[![Image 45: mt](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Maltese](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Maltese")[![Image 46: th](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) ไทย](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "ไทย")[![Image 47: tr](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Türkçe](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Türkçe")[![Image 48: fa](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) فارسی](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "فارسی")[![Image 49: af](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Afrikaans](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Afrikaans")[![Image 50: ms](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Bahasa Melayu](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Bahasa Melayu")[![Image 51: sw](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Kiswahili](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Kiswahili")[![Image 52: ga](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Gaeilge](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Gaeilge")[![Image 53: cy](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Cymraeg](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Cymraeg")[![Image 54: be](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Беларуская мова](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Беларуская мова")[![Image 55: is](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Íslenska](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Íslenska")[![Image 56: mk](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Македонски јазик](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Македонски јазик")[![Image 57: yi](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) יידיש](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "יידיש")[![Image 58: hy](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Հայերեն](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Հայերեն")[![Image 59: az](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Azərbaycan dili](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Azərbaycan dili")[![Image 60: eu](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Euskara](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Euskara")[![Image 61: ka](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) ქართული](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "ქართული")[![Image 62: ht](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Kreyol ayisyen](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Kreyol ayisyen")[![Image 63: ur](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) اردو](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "اردو")[![Image 64: bn](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) বাংলা](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "বাংলা")[![Image 65: bs](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Bosanski](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Bosanski")[![Image 66: ceb](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Cebuano](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Cebuano")[![Image 67: eo](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Esperanto](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Esperanto")[![Image 68: gu](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) ગુજરાતી](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "ગુજરાતી")[![Image 69: ha](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Harshen Hausa](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Harshen Hausa")[![Image 70: hmn](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Hmong](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Hmong")[![Image 71: ig](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Igbo](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Igbo")[![Image 72: jw](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Basa Jawa](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Basa Jawa")[![Image 73: kn](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) ಕನ್ನಡ](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "ಕನ್ನಡ")[![Image 74: km](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) ភាសាខ្មែរ](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "ភាសាខ្មែរ")[![Image 75: lo](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) ພາສາລາວ](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "ພາສາລາວ")[![Image 76: la](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Latin](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Latin")[![Image 77: mi](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Te Reo Māori](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Te Reo Māori")[![Image 78: mr](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) मराठी](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "मराठी")[![Image 79: mn](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Монгол](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Монгол")[![Image 80: ne](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) नेपाली](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "नेपाली")[![Image 81: pa](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) ਪੰਜਾਬੀ](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "ਪੰਜਾਬੀ")[![Image 82: so](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Afsoomaali](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Afsoomaali")[![Image 83: ta](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) தமிழ்](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "தமிழ்")[![Image 84: te](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) తెలుగు](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "తెలుగు")[![Image 85: yo](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Yorùbá](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Yorùbá")[![Image 86: zu](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Zulu](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Zulu")[![Image 87: my](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) ဗမာစာ](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "ဗမာစာ")[![Image 88: ny](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Chichewa](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Chichewa")[![Image 89: kk](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Қазақ тілі](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Қазақ тілі")[![Image 90: mg](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Malagasy](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Malagasy")[![Image 91: ml](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) മലയാളം](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "മലയാളം")[![Image 92: si](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) සිංහල](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "සිංහල")[![Image 93: st](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Sesotho](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Sesotho")[![Image 94: su](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Basa Sunda](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Basa Sunda")[![Image 95: tg](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Тоҷикӣ](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Тоҷикӣ")[![Image 96: uz](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) O‘zbekcha](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "O‘zbekcha")[![Image 97: am](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) አማርኛ](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "አማርኛ")[![Image 98: co](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Corsu](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Corsu")[![Image 99: haw](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Ōlelo Hawaiʻi](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Ōlelo Hawaiʻi")[![Image 100: ku](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) كوردی‎](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "كوردی‎")[![Image 101: ky](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Кыргызча](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Кыргызча")[![Image 102: lb](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Lëtzebuergesch](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Lëtzebuergesch")[![Image 103: ps](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) پښتو](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "پښتو")[![Image 104: sm](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Samoan](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Samoan")[![Image 105: gd](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Gàidhlig](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Gàidhlig")[![Image 106: sn](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Shona](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Shona")[![Image 107: sd](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) سنڌي](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "سنڌي")[![Image 108: fy](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) Frysk](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "Frysk")[![Image 109: xh](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison) isiXhosa](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison# "isiXhosa")
-
-* [English](https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison)
-
-* [Español](https://www.dea.gov/es/node/203786)
 
 ## Main Menu
 
@@ -505,9 +464,106 @@ DEA.gov is an official site of the [U.S. Department of Justice](https://www.just
 
 ![Image 119: dot image pixel](https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2025%20Apr%202026%2014%3A19%3A10%20GMT&n=0&b=Dark%20Web%20Narcotics%20Trafficker%20Sentenced%20to%2096%20Months%20in%20Prison&.yp=10207861&f=https%3A%2F%2Fwww.dea.gov%2Fpress-releases%2F2021%2F11%2F03%2Fdark-web-narcotics-trafficker-sentenced-96-months-prison&enc=UTF-8&yv=1.16.6&tagmgr=gtm)
 
+## Extracted Text
+
+## Dark Web Narcotics Trafficker Sentenced to 96 Months in Prison
+
+November 03, 2021
+
+|
+
+Share Article
+
+Download Press Release
+
+For Immediate Release
+
+Contact: Kenneth M. Heino
+
+Phone Number: 862-373-3557
+
+### Defendant Received Cryptocurrencies as Payment for Illegal Narcotics
+
+**BROOKLYN, NY –** Earlier today, at the federal courthouse in Brooklyn, Joanna De Alba was sentenced by United States District Judge Dora L. Irizarry to 96 months in prison for distributing, and possessing with intent to distribute, illegal drugs over the “dark web.” De Alba distributed an array of illegal drugs—including fentanyl, heroin, MDMA, cocaine, methamphetamine, oxycodone and methadone—over the dark web in exchange for Bitcoin and other cryptocurrency. De Alba pleaded guilty in April 2021.
+
+Breon Peace, United States Attorney for the Eastern District of New York, and Ray Donovan, Special Agent in Charge, Drug Enforcement Administration, New York Division, announced the sentence.
+
+“The prison sentence imposed on De Alba today demonstrates that her clandestine use of the dark web to distribute a potentially lethal array of powerful drugs like fentanyl, heroin and oxycodone in exchange for cryptocurrency was a failure,” stated United States Attorney Peace. “This investigation and vigorous prosecution show that we will not allow the dark web to be a haven for drug traffickers.”
+
+“This sentencing demonstrates that drug traffickers are not untouchable by dealing in the dark web,” stated DEA Special Agent in Charge Ray Donovan. “Attempting to hide through anonymity, De Alba became a parent’s worst nightmare by pushing fentanyl, heroin and other dangerous drugs into homes across our many communities. I applaud the DEA Cyber Investigative Unit- New York Division and the U.S. Attorney's Office Eastern District of New York for their commendable work throughout this investigation.”
+
+The internet contains online marketplaces for narcotics and other contraband on the “dark web,” a part of the internet located beyond the reach of traditional internet browsers and accessible only through networks designed to conceal user identities. The “Wall Street Market” was a global dark web marketplace that required its users to trade in digital currencies, primarily Bitcoin.
+
+Between June 2018 and May 2019, De Alba advertised and sold illegal narcotics on the Wall Street Market. These narcotics included opioids—including fentanyl (concealed as oxycodone pills) and heroin—as well as other potent illegal drugs including oxycodone, cocaine, methamphetamine, ecstasy and other substances containing MDMA. De Alba took various measures to operate anonymously and conceal her identity, including using the online alias “RaptureReloaded,” using fake company names and shipping addresses, using the name of her deceased husband to receive packages from her suppliers and using credit cards in her deceased husband’s name to fund the tracking of her shipments. De Alba also directed customers to contact her through encrypted email and messaging services and pay her with cryptocurrency. De Alba offered free shipping to addresses in the United States and free tracking of all orders.
+
+De Alba participated in over 600 transactions on the Wall Street Market in which she sold more than: 840 grams of heroin; 190 grams of methamphetamine; 1,250 pills of MDMA**;**and 280 pills of oxycodone. De Alba also sold more than 750 fake oxycodone pills—pills that actually contained fentanyl, but were concealed and disguised as oxycodone. De Alba received payment in the cryptocurrencies Bitcoin and Monero, and pocketed approximately 16.32 BTC and 400 XMR, which together are worth more than $1 million today.
+
+The government’s case is being handled by the Office’s International Narcotics and Money Laundering Section. Assistant United States Attorneys Saritha Komatireddy and Francisco J. Navarro are in charge of the prosecution.
+
+**The Defendant:**
+
+JOANNA DE ALBA (also known as “RaptureReloaded”)
+
+Age: 40
+
+Tijuana, Mexico
+
+E.D.N.Y. Docket No. 19-CR-563 (DLI)
+
+###
+
+FentanylEcstasy/MDMAMethamphetamineHeroinCocaineMethadoneOxycodone
+
+#### Drug Enforcement Administration
+
+Frank A. Tarentino III Special Agent in Charge - New York
+
+@DEANewYorkDiv
+
+Domestic Divisions
+
+Foreign Offices
+
+Drug Prevention
+
+Diversion Control Division
+
+Forensic Sciences
+
+Employee Assistance Program
+
+Publications
+
+VWAP
+
+Doing Business with the DEA
+
+Overview
+
+Current Vendors
+
+Prospective Vendors
+
+Security Clauses
+
+Security Forms
+
+Small Business Program
+
+Vendor Engagement Request
+
+Policies
+
+Accessibility & Policy
+
+Legal Policies & Disclaimers
+
+No FEAR Act
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:19:38+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison
+- cleanup: jina navigation trim

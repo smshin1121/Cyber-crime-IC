@@ -64,7 +64,7 @@ sources:
   - "[[2022-11-22_justice-gov_united-states-v-alexandru-habasescu]]"
 summary: "Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain Enforcement Action is a defendant-specific xDedic follow-on retained as an operation-side pointer to [[moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain]] and the umbrella [[xdedic-marketplace-takedown]] record."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 

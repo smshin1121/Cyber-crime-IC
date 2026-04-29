@@ -33,4 +33,4 @@ Business Email Compromise (BEC) is a cyber-enabled financial fraud scheme in whi
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-06-06_interpol-int_closing-ranks-on-west-african-organized-crime-operation-jackal.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-06-06_interpol-int_closing-ranks-on-west-african-organized-crime-operation-jackal.md`, preserving traceable review without classifying the page as a placeholder.

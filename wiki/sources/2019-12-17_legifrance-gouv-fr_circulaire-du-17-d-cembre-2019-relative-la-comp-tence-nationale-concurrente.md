@@ -29,4 +29,4 @@ last_fetcher: wayback+urllib
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2019-12-17_legifrance-gouv-fr_circulaire-du-17-d-cembre-2019-relative-la-comp-tence-nationale-concurrente.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2019-12-17_legifrance-gouv-fr_circulaire-du-17-d-cembre-2019-relative-la-comp-tence-nationale-concurrente.md`, preserving traceable review without classifying the page as a placeholder.

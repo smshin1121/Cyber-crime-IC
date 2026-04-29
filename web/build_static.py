@@ -109,6 +109,14 @@ def build() -> None:
             _save(client, f"/wiki/{slug}", f"wiki/{slug}.html")
             routes_built += 1
 
+    # Copy hand-built analysis assets that are linked from generated pages.
+    analysis_assets = WIKI_DIR / "analysis" / "sna"
+    if analysis_assets.exists():
+        analysis_assets_dst = OUTPUT_DIR / "wiki" / "analysis" / "sna"
+        if analysis_assets_dst.exists():
+            shutil.rmtree(analysis_assets_dst)
+        shutil.copytree(analysis_assets, analysis_assets_dst)
+
     # Build client-side search index consumed by search.html
     print("Building search index...")
     import json

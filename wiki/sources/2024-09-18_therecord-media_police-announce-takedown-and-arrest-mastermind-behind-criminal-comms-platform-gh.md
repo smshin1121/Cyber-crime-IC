@@ -18,12 +18,13 @@ key_findings:
 collection_url: https://therecord.media/ghost-encrypted-criminal-communications-takedown-arrests
 created: 2026-04-17
 text_status: summarized
-content_hash: sha256:b84f1389926c55a1c0a02ff776cb5b3acb938c2ade0b771ef3aee6bb0cfc5d39
-word_count: 814
+content_hash: sha256:4c0c9784410c79d75e7b8eca8b4bd62f72b052759721ed95278ba764e4514de8
+word_count: 247
 stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-29
 last_fetcher: urllib
 copyright_policy: summary-only
+storage_mode: summary-only
 ---
 ## Source Summary
 
@@ -31,4 +32,4 @@ Operation Kraken was a multinational law enforcement operation led by the [[aust
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh.md`, preserving traceable review without classifying the page as a placeholder.

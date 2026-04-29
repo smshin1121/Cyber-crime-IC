@@ -48,6 +48,7 @@ operations_participated:
   - "[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]"
   - "[[operation-us-v-monroeville-man]]"
   - "[[operation-us-v-banmeet-singh-dark-web]]"
+  - "[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

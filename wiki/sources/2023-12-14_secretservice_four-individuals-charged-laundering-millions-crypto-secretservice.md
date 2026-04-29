@@ -17,11 +17,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2023/12/four-individuals-charged-laundering-millions-cryptocurrency-investment
 created: 2026-04-25
 raw_path: raw/press-releases/2023-12-14_secretservice_four-individuals-charged-laundering-millions-crypto-secretservice.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:2e3002bafa442da766391a56f36fe9852f23ed5896bc624dc1ba36cb7c918f77
-word_count: 115
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:c3cb3d08478696639693cba7b4f41b1979c6f62f6e4c429a5d419da0ca11769f
+word_count: 783
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

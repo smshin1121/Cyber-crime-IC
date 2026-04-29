@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2024/11/18/thurston-county-ma
 created: 2026-04-25
 raw_path: raw/press-releases/2024-11-18_dea-gov_thurston-county-man-caught-twice-drugs-firearms-sentenced-7-years-prison.md
 text_status: parsed
-content_hash: sha256:bb78c2e1ee89d1f25153534747cdbb6f989e87a1197ca25e23b45167799f4359
-word_count: 5306
-extraction_date: 2026-04-25
+content_hash: sha256:0771a20a94c479fdc9f16b5917694f5d484b3f8b8a54ee0b5bce3aba448fadbf
+word_count: 463
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

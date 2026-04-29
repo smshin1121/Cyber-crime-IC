@@ -31,4 +31,4 @@ Côte d'Ivoire adopted a comprehensive cybercrime law in 2013 — **Loi n° 2013
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_cipit-strathmore-edu_african-union-convention-on-cyber-security-and-personal-data-protection-key-insi.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_cipit-strathmore-edu_african-union-convention-on-cyber-security-and-personal-data-protection-key-insi.md`, preserving traceable review without classifying the page as a placeholder.

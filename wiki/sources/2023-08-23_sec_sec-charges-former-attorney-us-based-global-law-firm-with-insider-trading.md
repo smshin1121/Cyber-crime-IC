@@ -19,10 +19,11 @@ collection_url: https://www.sec.gov/newsroom/press-releases/2023-158
 created: 2026-04-25
 raw_path: raw/press-releases/2023-08-23_sec_sec-charges-former-attorney-us-based-global-law-firm-with-insider-trading.md
 text_status: parsed
-content_hash: sha256:ad6de03586eaba2d833da835ff7059a26542f23ab1ec22bc929e4af6df75918e
-word_count: 1700
-extraction_date: 2026-04-25
+content_hash: sha256:74b63fd57b1386adcb5f7b658b82cf34dd413a540854a6bca74cadb9dc71fcb5
+word_count: 552
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

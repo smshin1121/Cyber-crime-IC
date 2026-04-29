@@ -12,25 +12,18 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:78ebf1579e9e499e863f1daf124b14a0f2d42cd9cdf854f195528b1f62695ba6
-word_count: 642
-extraction_date: 2026-04-28
+content_hash: sha256:30c9d31f8bb0a89da546b6dd68f8dfc80d4a39b47bba48d92e3d8c0de6ac0806
+word_count: 626
+extraction_date: 2026-04-29
 storage_mode: fulltext
 source_page: wiki/sources/2026-04-17_rm-coe-int_about-c-proc.md
+parser: jina_markdown
 ---
 ## Summary
 
 The **Cybercrime Programme Office (C-PROC)** is the capacity-building arm of the Council of Europe dedicated to cybercrime and electronic evidence. Based in **Bucharest, Romania**, it became operational on **7 April 2014** following a Memorandum of Understanding between the Council of Europe and the Government of Romania signed in October 2013. C-PROC marked its 10th anniversary in 2024.
 
 ## Extracted Text
-
-Title: 1680762b41
-
-URL Source: https://rm.coe.int/cproc-about/1680762b41
-
-Number of Pages: 2
-
-Markdown Content:
 
 About C -PROC
 
@@ -150,7 +143,8 @@ Website: www.coe.int/cybercrime
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-27T15:04:03+00:00
+- normalized_at: 2026-04-28T16:03:47+00:00
 - final_url: https://rm.coe.int/cproc-about/1680762b41
+- cleanup: jina navigation trim

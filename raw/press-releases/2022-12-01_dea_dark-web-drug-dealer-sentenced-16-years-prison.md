@@ -15,54 +15,13 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:264f0bf18ab129030e41d6a35025a2a77e4126dc27406c55e5da99863050c928
-word_count: 5436
-extraction_date: 2026-04-25
+content_hash: sha256:8af63f6bf50ae21726fa502aaeec7625d7799c59b1e4d8b3afebeeab75b39a36
+word_count: 580
+extraction_date: 2026-04-29
 source_page: wiki/sources/2022-12-01_dea_dark-web-drug-dealer-sentenced-16-years-prison.md
+parser: jina_markdown
 ---
 DEA press release on Anton Peck's December 1, 2022 sentencing (16 years federal prison). Investigating agencies listed: DEA, FBI, USPS Office of Inspector General, U.S. Postal Inspection Service, and Palm Beach County Sheriff's Office. Peck distributed fentanyl, methamphetamine, and heroin via dark web markets under the vendor name "Syntropy" with cryptocurrency payments and USPS shipping.
-
-## Extracted Text
-
-Title: Dark Web Drug Dealer Sentenced to 16 Years in Prison
-
-URL Source: https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison
-
-Markdown Content:
-
-# Dark Web Drug Dealer Sentenced to 16 Years in Prison
-
-[Skip to main content](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison#main-content)
-
-![Image 2: U.S. flag](https://www.dea.gov/themes/custom/ohana/dist/img/us_flag_small.png)
-
-Here’s how you know
-
-![Image 3: Dot gov](https://www.dea.gov/themes/custom/ohana/dist/img/icon-dot-gov.svg)
-
-**Official websites use .gov**
-
-A **.gov** website belongs to an official government organization in the United States.
-
-![Image 4: Https](https://www.dea.gov/themes/custom/ohana/dist/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS**
-
-A **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-# [United States Drug Enforcement Administration](https://www.dea.gov/ "Home")
-
-* [Get Updates](https://public.govdelivery.com/accounts/USDOJDEA/subscriber/new?qsp=CODE_RED)
-
-* [Scam Alert](https://www.dea.gov/scam-alert)
-
-* [Full Menu](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison#fullmenu)
-
-* [![Image 5: en](https://cdn.gtranslate.net/flags/svg/en-us.svg) English](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison#) [![Image 6: en](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) English](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "English")[![Image 7: ar](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) العربية](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "العربية")[![Image 8: bg](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Български](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Български")[![Image 9: zh-CN](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) 简体中文](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "简体中文")[![Image 10: zh-TW](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) 繁體中文](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "繁體中文")[![Image 11: hr](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Hrvatski](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Hrvatski")[![Image 12: cs](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Čeština‎](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Čeština‎")[![Image 13: da](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Dansk](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Dansk")[![Image 14: nl](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Nederlands](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Nederlands")[![Image 15: fi](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Suomi](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Suomi")[![Image 16: fr](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Français](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Français")[![Image 17: de](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Deutsch](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Deutsch")[![Image 18: el](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Ελληνικά](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Ελληνικά")[![Image 19: hi](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) हिन्दी](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "हिन्दी")[![Image 20: it](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Italiano](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Italiano")[![Image 21: ja](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) 日本語](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "日本語")[![Image 22: ko](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) 한국어](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "한국어")[![Image 23: no](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Norsk bokmål](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Norsk bokmål")[![Image 24: pl](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Polski](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Polski")[![Image 25: pt](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Português](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Português")[![Image 26: ro](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Română](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Română")[![Image 27: ru](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Русский](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Русский")[![Image 28: es](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Español](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Español")[![Image 29: sv](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Svenska](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Svenska")[![Image 30: ca](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Català](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Català")[![Image 31: tl](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Filipino](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Filipino")[![Image 32: iw](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) עִבְרִית](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "עִבְרִית")[![Image 33: id](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Bahasa Indonesia](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Bahasa Indonesia")[![Image 34: lv](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Latviešu valoda](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Latviešu valoda")[![Image 35: lt](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Lietuvių kalba](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Lietuvių kalba")[![Image 36: sr](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Српски језик](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Српски језик")[![Image 37: sk](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Slovenčina](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Slovenčina")[![Image 38: sl](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Slovenščina](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Slovenščina")[![Image 39: uk](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Українська](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Українська")[![Image 40: vi](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Tiếng Việt](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Tiếng Việt")[![Image 41: sq](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Shqip](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Shqip")[![Image 42: et](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Eesti](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Eesti")[![Image 43: gl](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Galego](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Galego")[![Image 44: hu](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Magyar](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Magyar")[![Image 45: mt](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Maltese](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Maltese")[![Image 46: th](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) ไทย](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "ไทย")[![Image 47: tr](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Türkçe](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Türkçe")[![Image 48: fa](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) فارسی](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "فارسی")[![Image 49: af](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Afrikaans](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Afrikaans")[![Image 50: ms](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Bahasa Melayu](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Bahasa Melayu")[![Image 51: sw](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Kiswahili](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Kiswahili")[![Image 52: ga](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Gaeilge](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Gaeilge")[![Image 53: cy](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Cymraeg](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Cymraeg")[![Image 54: be](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Беларуская мова](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Беларуская мова")[![Image 55: is](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Íslenska](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Íslenska")[![Image 56: mk](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Македонски јазик](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Македонски јазик")[![Image 57: yi](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) יידיש](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "יידיש")[![Image 58: hy](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Հայերեն](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Հայերեն")[![Image 59: az](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Azərbaycan dili](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Azərbaycan dili")[![Image 60: eu](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Euskara](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Euskara")[![Image 61: ka](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) ქართული](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "ქართული")[![Image 62: ht](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Kreyol ayisyen](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Kreyol ayisyen")[![Image 63: ur](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) اردو](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "اردو")[![Image 64: bn](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) বাংলা](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "বাংলা")[![Image 65: bs](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Bosanski](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Bosanski")[![Image 66: ceb](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Cebuano](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Cebuano")[![Image 67: eo](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Esperanto](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Esperanto")[![Image 68: gu](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) ગુજરાતી](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "ગુજરાતી")[![Image 69: ha](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Harshen Hausa](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Harshen Hausa")[![Image 70: hmn](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Hmong](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Hmong")[![Image 71: ig](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Igbo](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Igbo")[![Image 72: jw](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Basa Jawa](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Basa Jawa")[![Image 73: kn](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) ಕನ್ನಡ](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "ಕನ್ನಡ")[![Image 74: km](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) ភាសាខ្មែរ](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "ភាសាខ្មែរ")[![Image 75: lo](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) ພາສາລາວ](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "ພາສາລາວ")[![Image 76: la](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Latin](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Latin")[![Image 77: mi](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Te Reo Māori](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Te Reo Māori")[![Image 78: mr](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) मराठी](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "मराठी")[![Image 79: mn](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Монгол](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Монгол")[![Image 80: ne](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) नेपाली](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "नेपाली")[![Image 81: pa](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) ਪੰਜਾਬੀ](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "ਪੰਜਾਬੀ")[![Image 82: so](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Afsoomaali](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Afsoomaali")[![Image 83: ta](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) தமிழ்](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "தமிழ்")[![Image 84: te](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) తెలుగు](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "తెలుగు")[![Image 85: yo](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Yorùbá](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Yorùbá")[![Image 86: zu](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Zulu](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Zulu")[![Image 87: my](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) ဗမာစာ](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "ဗမာစာ")[![Image 88: ny](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Chichewa](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Chichewa")[![Image 89: kk](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Қазақ тілі](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Қазақ тілі")[![Image 90: mg](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Malagasy](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Malagasy")[![Image 91: ml](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) മലയാളം](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "മലയാളം")[![Image 92: si](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) සිංහල](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "සිංහල")[![Image 93: st](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Sesotho](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Sesotho")[![Image 94: su](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Basa Sunda](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Basa Sunda")[![Image 95: tg](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Тоҷикӣ](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Тоҷикӣ")[![Image 96: uz](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) O‘zbekcha](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "O‘zbekcha")[![Image 97: am](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) አማርኛ](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "አማርኛ")[![Image 98: co](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Corsu](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Corsu")[![Image 99: haw](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Ōlelo Hawaiʻi](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Ōlelo Hawaiʻi")[![Image 100: ku](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) كوردی‎](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "كوردی‎")[![Image 101: ky](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Кыргызча](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Кыргызча")[![Image 102: lb](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Lëtzebuergesch](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Lëtzebuergesch")[![Image 103: ps](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) پښتو](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "پښتو")[![Image 104: sm](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Samoan](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Samoan")[![Image 105: gd](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Gàidhlig](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Gàidhlig")[![Image 106: sn](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Shona](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Shona")[![Image 107: sd](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) سنڌي](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "سنڌي")[![Image 108: fy](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) Frysk](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "Frysk")[![Image 109: xh](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison) isiXhosa](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison# "isiXhosa")
-
-* [English](https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison)
-
-* [Español](https://www.dea.gov/es/node/212591)
 
 ## Main Menu
 
@@ -496,9 +455,96 @@ DEA.gov is an official site of the [U.S. Department of Justice](https://www.just
 
 ![Image 119](https://container.orionplatform.com/track/pixel?account=355&type=dv360_page_view&id=14431394&url=https%3A%2F%2Fwww.dea.gov%2Fpress-releases%2F2022%2F12%2F01%2Fdark-web-drug-dealer-sentenced-16-years-prison)
 
+## Extracted Text
+
+## Dark Web Drug Dealer Sentenced to 16 Years in Prison
+
+December 01, 2022
+
+|
+
+Share Article
+
+Download Press Release
+
+For Immediate Release
+
+Contact:
+
+Phone Number: (571) 362-3364 - Option 5
+
+**MIAMI** — Anton Peck, 29, of Boca Raton, Fla., has been sentenced by U.S. District Judge Donald M. Middlebrooks to 16 years in prison for conspiring to possess with intent to distribute controlled substances. Peck previously pled guilty to one count of conspiring to possess with intent to distribute fentanyl, methamphetamine, and heroin.
+
+According to court records, between May 2021 and May 2022, Peck distributed narcotics from various dark web markets using the vendor profile “Syntropy.” After the transactions were carried out using cryptocurrency, Peck and co-conspirators Kevin Fusco and Vincent Banner mailed parcels containing fentanyl, heroin, and methamphetamine to cities around the country using the United States Postal Service.
+
+Law enforcement agents were able to recover kilogram quantities of fentanyl, cocaine, methamphetamine, and heroin from business and storage locations in West Palm Beach, Boca Raton, and New York City. Peck, the leader of the operation, obtained bulk amounts of narcotics, advertised them using the Syntropy vendor profile, orchestrated distribution, and collected customer payments. He possessed a list of more than 6,000 customers living in every part of the U.S.
+
+On November 4, 2022, Fusco, 34, of West Palm Beach, Fla., was sentenced by U.S. District Judge Robin L. Rosenberg to 11 years in prison for conspiring to distribute fentanyl, heroin and methamphetamine. Banner, 31, of Boynton Beach, Fla., is scheduled to be sentenced on February 10, 2023, after pleading guilty to one count of conspiracy to possess with intent to distribute fentanyl, methamphetamine and heroin.
+
+Juan Antonio Gonzalez, U.S. Attorney for the Southern District of Florida; Special Agent in Charge Deanne L. Reuter, Drug Enforcement Administration (DEA), Miami Field Division; acting Special Agent in Charge Robert M. DeWitt, Federal Bureau of Investigation (FBI), Miami Field Office; Special Agent in Charge Scott Pierce, U.S. Postal Service, Office of Inspector General (USPS-OIG), acting Inspector in Charge Juan A. Vargas, U.S. Postal Inspection Service (USPIS), Miami Division, and Palm Beach County Sheriff Ric Bradshaw announced the sentence.
+
+This case was investigated by the DEA Miami Field Division West Palm Beach District Office, the FBI Miami Field Office, the USPS-OIG, the USPIS Miami Division, and Palm Beach County Sheriff’s Office. It was prosecuted by the U.S. Attorney’s Office for the Southern District of Florida. More information about this case can be found at www.flsd.uscourts.gov or http://pacer.flsd.uscourts.gov .
+
+If you are aware of controlled substance violations in your community, please submit your anonymous tip through the DEA online Tip Line at Submit a Tip | DEA.gov. Concerns about prescription drug abuse or diversion can be reported to the DEA through this link: RX Abuse Online Reporting (usdoj.gov).
+
+The DEA encourages parents, teachers, care givers, guardians, and children to educate themselves about the dangers of drugs by visiting DEA’s interactive websites at www.JustThinkTwice.com , www.GetSmartAboutDrugs.com , www.CampusDrugPrevention.gov , and www.dea.gov.
+
+Follow DEA Miami via Twitter at @DEAMIAMIDIV
+
+###
+
+FentanylMethamphetamineHeroin
+
+#### Drug Enforcement Administration
+
+Miles D. Aley Special Agent in Charge - Miami
+
+@deamiamidiv
+
+Domestic Divisions
+
+Foreign Offices
+
+Drug Prevention
+
+Diversion Control Division
+
+Forensic Sciences
+
+Employee Assistance Program
+
+Publications
+
+VWAP
+
+Doing Business with the DEA
+
+Overview
+
+Current Vendors
+
+Prospective Vendors
+
+Security Clauses
+
+Security Forms
+
+Small Business Program
+
+Vendor Engagement Request
+
+Policies
+
+Accessibility & Policy
+
+Legal Policies & Disclaimers
+
+No FEAR Act
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:38:45+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison
+- cleanup: jina navigation trim

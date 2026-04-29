@@ -35,4 +35,4 @@ On 26 September 2025, DOJ announced that Trevor Stephen Haahr and Kaeli Arielle 
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2025-09-26_wdwa_haahr-albert-dark-web-plea.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2025-09-26_wdwa_haahr-albert-dark-web-plea.md`, preserving traceable review without classifying the page as a placeholder.

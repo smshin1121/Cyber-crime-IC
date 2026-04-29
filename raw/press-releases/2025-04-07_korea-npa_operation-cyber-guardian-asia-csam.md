@@ -1,16 +1,16 @@
 ---
 title: "Operation Cyber Guardian: Asia 6-Country Joint Crackdown on Child Sexual Abuse Material"
-collection_source: "Korea Policy Briefing / Seoul Shinmun"
+collection_source: "Korean National Police Agency / Korea Policy Briefing"
 collection_url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866"
-collection_domain: "korea.kr"
-collection_date: "2026-04-08"
-publish_date: "2025-04-07"
-language: "ko"
+collection_domain: korea.kr
+collection_date: 2026-04-08
+publish_date: 2025-04-07
+language: ko
 source_tier: 2
 translated: true
-status: "collected"
+status: collected
+final_url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866"
 ---
-
 # Operation Cyber Guardian (사이버 가디언 작전) — Asia 6-Country CSAM Crackdown
 
 ## Summary

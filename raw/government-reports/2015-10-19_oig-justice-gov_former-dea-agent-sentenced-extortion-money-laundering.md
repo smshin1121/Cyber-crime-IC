@@ -15,32 +15,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:5f4de229e17828a7fd82f747f984d106c998a4de33072dab2f15c8370253a1df
-word_count: 780
-extraction_date: 2026-04-25
+content_hash: sha256:baa8cf57216cd693f82acfb658bb8de91e5503f6f79ee53a1a1b1159c4f67a85
+word_count: 719
+extraction_date: 2026-04-29
 source_page: wiki/sources/2015-10-19_oig-justice-gov_former-dea-agent-sentenced-extortion-money-laundering.md
+parser: jina_markdown
 ---
 DOJ Office of the Inspector General companion press release confirming the sentencing of former DEA Special Agent Carl Mark Force IV to 78 months in federal prison. The OIG conducted a parallel internal investigation that overlapped with the U.S. Attorney's Office for the Northern District of California prosecution. The release notes coordination with the Department of Homeland Security OIG and the FBI.
 
 ## Extracted Text
-
-Title: Former DEA Agent Sentenced for Extortion, Money Laundering and Obstruction Related to Silk Road Investigation
-
-URL Source: https://oig.justice.gov/sites/default/files/2019-12/2015-10-19b.pdf
-
-Published Time: Thu, 28 Oct 2021 22:31:19 GMT
-
-Number of Pages: 2
-
-Markdown Content:
-
-______________________________________________________________________________
-
-FOR IMMEDIATE RELEASE CRM
-
-MONDAY, OCTOBER 19, 2015 (202) 514-2007
-
-WWW.JUSTICE.GOV TTY (866) 544-5309
 
 FORMER DEA AGENT SENTENCED FOR EXTORTION, MONEY LAUNDERING AND OBSTRUCTION RELATED TO SILK ROAD INVESTIGATION
 
@@ -100,7 +83,8 @@ Public Integrity Section. Assistant U.S. Attorney Arvon Perteet of the Northern 
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:17:15+00:00
+- normalized_at: 2026-04-28T16:03:44+00:00
 - final_url: https://oig.justice.gov/sites/default/files/2019-12/2015-10-19b.pdf
+- cleanup: jina navigation trim

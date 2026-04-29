@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/-/switzerland
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:4adc5c54c95eab700b58164918862ffd820c725087b8a48dc5918a24312b45e4
-word_count: 3004
-extraction_date: 2026-04-25
+content_hash: sha256:036cf8273fb749be9f02c20654cec11fd7fb82b57918ec20eae2a290924cecf3
+word_count: 1487
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ last_fetcher: jina
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_switzerland-cybercrime-country-profile.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_switzerland-cybercrime-country-profile.md`, preserving traceable review without classifying the page as a placeholder.

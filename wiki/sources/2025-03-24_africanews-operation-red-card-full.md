@@ -24,6 +24,10 @@ content_hash: sha256:56a8f4aabe0ef2e7c4ec8aac115a94e1c3aa96609bc3730a5d972c04e5d
 word_count: 137
 extraction_date: 2026-04-27
 copyright_policy: summary-only
+duplicate_of: "[[2025-03-24_africanews-com_cybercrime-crackdown-306-arrested-in-africa-wide-operation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation"
+duplicate_normalized_at: 2026-04-29
 ---
 ## Source Summary
 

@@ -30,8 +30,13 @@ participating_agencies:
   - "[[eurojust]]"
   - "[[europol-ec3]]"
   - "[[netherlands-politie]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  - "[[mutual-legal-assistance]]"
+  - "Belgian and Dutch domestic fraud investigation authorities"
+mechanisms_used:
+  - "[[europol-jit]]"
+  - "[[mlat-process]]"
+  - "[[informal-cooperation]]"
 results:
   arrests: 8
   indictments: 0
@@ -58,11 +63,12 @@ edges:
 credibility_index: 4.22
 source_tier: 1
 missing_fields:
-  - legal_basis
-  - mechanisms_used
   - lead_agency
 related_cases: []
-related_operations: []
+related_operations:
+  - "[[franco-israeli-ceo-fraud]]"
+  - "[[operation-heart-blocker]]"
+  - "[[operation-first-light-2024]]"
 challenges_encountered: []
 lessons_learned:
   - "Cross-border fraud crews can be disrupted faster when judicial coordination and police action are synchronized."
@@ -75,7 +81,7 @@ sources:
   - "[[2024-12-09_securityweek_eight-suspected-phishers-arrested-in-belgium-netherlands]]"
   - "[[2024-12-06_nu-nl_politie-ontmantelt-cybercrimenetwerk-dat-miljoenen-buitmaakte-met-phishing]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Belgian and Dutch authorities, supported by Eurojust and Europol, dismantled a phone-phishing and bank-helpdesk fraud network in December 2024 through coordinated arrests and searches across both countries."

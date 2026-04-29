@@ -20,9 +20,9 @@ key_findings:
 raw_path: raw/news/2024-06-11_lusakatimes-com_22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes.md
 text_status: summarized
 storage_mode: summary-only
-content_hash: sha256:60ff2642907b3f25b4c6210058ace750a0f6ad6c5cc448d511a3f5e7b2ff9ca7
+content_hash: sha256:76d54be4c1ab0fea43cc7d4b0ca25d30bde62ca80039656b20834424aba128da
 word_count: 138
-extraction_date: 2026-04-27
+extraction_date: 2026-04-29
 copyright_policy: summary-only
 ---
 ## Source Summary

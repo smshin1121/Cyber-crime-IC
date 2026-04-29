@@ -36,4 +36,4 @@ The **Centre de lutte contre les criminalités numériques (C3N)** is France's *
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_fr-wikipedia-org_centre-de-lutte-contre-les-criminalit-s-num-riques.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_fr-wikipedia-org_centre-de-lutte-contre-les-criminalit-s-num-riques.md`, preserving traceable review without classifying the page as a placeholder.

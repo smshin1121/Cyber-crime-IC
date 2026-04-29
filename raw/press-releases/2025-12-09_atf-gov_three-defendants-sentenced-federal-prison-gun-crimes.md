@@ -15,196 +15,13 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:b7adc87344efbb2fef2c33022e6986084e10b48f4aa5874e72b742e9f5fd53d8
-word_count: 3303
-extraction_date: 2026-04-25
+content_hash: sha256:f0cb6867732b1020a1fbbdb1ea3ded050bc1a9c85f59d60db83045bd94550305
+word_count: 570
+extraction_date: 2026-04-29
 source_page: wiki/sources/2025-12-09_atf-gov_three-defendants-sentenced-federal-prison-gun-crimes.md
+parser: jina_markdown
 ---
 ATF parallel press release on the three-defendant gun/drug sentencing roll-up.
-
-## Extracted Text
-
-Title: Three Defendants Sentenced to Federal Prison for Gun Crimes
-
-URL Source: https://www.atf.gov/news/press-releases/three-defendants-sentenced-federal-prison-gun-crimes
-
-Markdown Content:
-
-# Three Defendants Sentenced to Federal Prison for Gun Crimes | ATF
-
-[Skip to main content](https://www.atf.gov/news/press-releases/three-defendants-sentenced-federal-prison-gun-crimes#main-content)
-
-![Image 1: U.S. flag](https://www.atf.gov/themes/custom/athena/assets/img/us_flag_small.png)
-
-Here’s how you know
-
-![Image 2](https://www.atf.gov/themes/custom/athena/assets/img/icon-dot-gov.svg)
-
-**Official websites use .gov**
-
-A **.gov** website belongs to an official government organization in the United States.
-
-![Image 3](https://www.atf.gov/themes/custom/athena/assets/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS**
-
-A **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-![Image 4: ATF Seal image](https://www.atf.gov/themes/custom/athena/assets/atf/images/atf-seal-72x72.png)
-
-_## [ATF](https://www.atf.gov/ "ATF")_
-
-_##### Bureau of Alcohol, Tobacco, Firearms and Explosives_
-
-Menu
-
-![Image 5](https://www.atf.gov/themes/custom/athena/assets/img/usa-icons/close.svg)
-
-Search ![Image 6: Search](https://www.atf.gov/themes/custom/athena/assets/img/usa-icons-bg/search--white.svg)
-
-* Who We Are
-
-**[About](https://www.atf.gov/about)**
-
-* [Leadership](https://www.atf.gov/about/leadership)
-
-* [Organization Structure](https://www.atf.gov/about/organization-structure)
-
-**[Contact](https://www.atf.gov/contact)**
-
-* [Submit a Tip](https://www.atf.gov/contact/submit-a-tip)
-
-* [Hotlines](https://www.atf.gov/contact/hotlines)
-
-* [Licensing and Other Services](https://www.atf.gov/contact/licensing-and-other-services)
-
-* [Victim/Witness Program](https://www.atf.gov/contact/victim/witness-assistance-program)
-
-**[Careers](https://www.atf.gov/careers)**
-
-* [Special Agent](https://www.atf.gov/careers/special-agents)
-
-* [Industry Operations Investigator](https://www.atf.gov/careers/industry-operations-investigators)
-
-* [Forensics and STEM](https://www.atf.gov/careers/careers-forensics-and-stem)
-
-* [Professional/Technical](https://www.atf.gov/careers/professional-and-technical-careers)
-
-* [Students and Recent Grads](https://www.atf.gov/careers/student-and-recent-graduates)
-
-**[Locations](https://www.atf.gov/contact/locations)**
-
-* [HQ Offices](https://www.atf.gov/contact/contact-atf-headquarters)
-
-* [Field Divisions](https://www.atf.gov/contact/atf-field-divisions)
-
-* [Local Offices](https://www.atf.gov/contact/local-atf-offices)
-
-* [International](https://www.atf.gov/contact/international-offices)
-
-* What We Do
-
-**[Mission Areas](https://www.atf.gov/mission-areas)**
-
-* [Firearms](https://www.atf.gov/firearms)
-
-* [Explosives](https://www.atf.gov/explosives)
-
-* [Arson](https://www.atf.gov/arson)
-
-* [Alcohol and Tobacco](https://www.atf.gov/alcohol-tobacco)
-
-**[Enforcement](https://www.atf.gov/firearms/tools-services-law-enforcement)**
-
-* [Crime Gun Tracing](https://www.atf.gov/firearms/national-tracing-center)
-
-* [Bomb and Arson Incidents](https://www.atf.gov/explosives/us-bomb-data-center)
-
-* [Rapid Response Teams](https://www.atf.gov/careers/rapid-response-teams)
-
-* [Training for Law Enforcement](https://www.atf.gov/careers/learning-and-training)
-
-**[Regulations](https://www.atf.gov/rules-and-regulations)**
-
-* [Laws](https://www.atf.gov/rules-and-regulations/laws-alcohol-tobacco-firearms-and-explosives)
-
-* [Regulations](https://www.atf.gov/rules-and-regulations/regulations-alcohol-tobacco-firearms-and-explosives)
-
-* [Federal Register](https://www.atf.gov/rules-and-regulations/federal-register-actions)
-
-* [Rulings](https://www.atf.gov/rules-and-regulations/rulings)
-
-**[News](https://www.atf.gov/news)**
-
-* [Media/Congressional Contacts](https://www.atf.gov/news/media-and-congressional-contacts)
-
-* [Press Releases](https://www.atf.gov/news/press-releases)
-
-* [Advisories](https://www.atf.gov/news/advisories)
-
-* [Social Media](https://www.atf.gov/news/social-media)
-
-**[Laboratories](https://www.atf.gov/laboratories)**
-
-* [Fire Research Laboratory](https://www.atf.gov/laboratories/fire-research-laboratory)
-
-* [Firearms Examiner Academy](https://www.atf.gov/laboratories/national-firearms-examiner-academy)
-
-* [Forensic Laboratories](https://www.atf.gov/laboratories/forensic-laboratories)
-
-* [Laboratory Publications and Resources](https://www.atf.gov/laboratories/laboratory-publications-and-resources)
-
-* Resources
-
-**[Forms](https://www.atf.gov/resource-center/forms)**
-
-* [Order Paper Forms](https://www.atf.gov/resource-center/forms/distribution-center-order-form)
-
-**[Publications](https://www.atf.gov/resource-center/publications)**
-
-* [Fact Sheets](https://www.atf.gov/resource-center/fact-sheets)
-
-* [Regulations Library](https://www.atf.gov/rules-and-regulations/rules-and-regulations-library)
-
-* [FOIA](https://www.atf.gov/resource-center/freedom-information-act-foia)
-
-**[Questions & Answers](https://www.atf.gov/resource-center/questions-and-answers)**
-
-* [Firearms](https://www.atf.gov/questions-and-answers/firearms-qas)
-
-* [Explosives](https://www.atf.gov/questions-and-answers/explosives-qas)
-
-* [Alcohol and Tobacco](https://www.atf.gov/questions-and-answers/alcohol-and-tobacco-qas)
-
-* [Careers](https://www.atf.gov/questions-and-answers/careers-qas)
-
-**[Data and Statistics](https://www.atf.gov/resource-center/data-statistics)**
-
-* [U.S. Firearms Commerce Report](https://www.atf.gov/resource-center/docs/report/2024firearmscommercereportpdf/download)
-
-* [AFMER](https://www.atf.gov/media/15716/download)
-
-**[Asset Forfeiture](https://www.atf.gov/asset-forfeiture)**
-
-* [Unclaimed Property](https://www.atf.gov/asset-forfeiture/unclaimed-property)
-
-* [eRegs](https://regulations.atf.gov/)
-
-* [Careers](https://www.atf.gov/careers)
-
-* [Locations](https://www.atf.gov/contact/locations/local-atf-offices)
-
-* [Contact Us](https://www.atf.gov/contact)
-
-Search ![Image 7: Search](https://www.atf.gov/themes/custom/athena/assets/img/usa-icons-bg/search--white.svg)
-
-1. [ATF](https://www.atf.gov/)
-
-2. [News](https://www.atf.gov/news)
-
-3. [Press Releases](https://www.atf.gov/news/press-releases)
-
-4. Three Defendants Sentenc...
 
 ## News Menu
 
@@ -604,9 +421,56 @@ Looking for U.S. government information and services?
 
 [Visit USA.gov](https://www.usa.gov/)
 
+## Extracted Text
+
+## Three Defendants Sentenced to Federal Prison for Gun Crimes
+
+Charleston, W.Va. – Three defendants were sentenced to federal prison today for gun crimes, announced in United States Attorney Mike Stuart.
+
+“We are prosecuting record numbers of gun crimes aimed at keeping guns out of the wrong hands,” said United States Attorney Mike Stuart. “If you violate federal gun laws, whether you are a prohibited person, a gun-toting drug dealer, you steal firearms or possess illegal weapons, we will prosecute you to the fullest extent of the law.”
+
+Jeffery Turley, 31, of Lincoln County, was sentenced to 84 months in prison for using an unregistered sawed off shotgun when he stole a car. Turley previously admitted that he possessed a sawed off shotgun that was not registered with the National Firearms Registration and Transfer Record. Turley had a long history of prior convictions and was prohibited from being in possession of a gun. The Lincoln County Sheriff’s Office, the West Virginia State Police, and the Bureau of Alcohol, Tobacco, and Firearms (ATF) conducted the investigation. United States District Judge Irene Berger presided over the hearing. Assistant United States Attorney Christopher Arthur handled the prosecution.
+
+Joseph Keith Abshire, 33, of Dunbar was sentenced to 16 months in prison for being felon in possession of a firearm. Abshire previously admitted that on March 18, 2018, he was pulled over for his reckless driving in St. Albans, while following members of the Last Rebels Motorcycle Club. A St. Albans Police Officer smelled alcohol on his breath. With permission, the officer began to conduct a field sobriety test. Pursuant to the officer’s request, Abshire acknowledged that he had a knife on his belt. When the officer lifted Abshire’s shirt to take possession of the knife, a handgun in his waistband was observed. A loaded Para Ordnance, model p12-45, semi-automatic pistol was recovered. In addition to the knife and gun, the officer removed a sharpened deer antler from Abshire’s boot. Inside of Abshire’s truck, the officer found a magazine and holster to a separate firearm, as well as a denim cut typical of a prospect in the Last Rebels Motorcycle Club. Abshire had previously been convicted of a misdemeanor offense of domestic battery in Kanawha County Circuit Court and was therefore prohibited from possessing a firearm. The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) and the St. Albans Police Department conducted the investigation. United States District Judge Irene C. Berger presided over the hearing. Assistant United States Attorney L. Alexander Hamner handled the prosecution.
+
+Keanna Carter, of Charleston, was sentenced to 60 months in prison for possession of a firearm in furtherance of drug trafficking.Carter previously admitted that she possessed 251 oxycodone pills at her house to be distributed for money. She further admitted that she possessed firearms in the house for the purpose of assisting her with drug trafficking. The Metropolitan Drug Enforcement Network Team (MDENT) and the Charleston Police Department conducted the investigation. United States District Judge Joseph R. Goodwin imposed the sentence. Assistant United States Attorney Christopher Arthur handled the prosecution.
+
+###
+
+Louisville Field Division
+
+Return to top
+
+### Subscribe for ATF updates
+
+Enter your email address Sign Up Sign Up
+
+Submit an anonymous tip
+
+1-888-ATF-TIPS
+
+atftips@atf.gov
+
+ATF.gov
+
+An official website of the U.S. Department of Justice
+
+About DOJ
+
+Accessibility support
+
+FOIA requests
+
+Legal policies and disclaimers
+
+Office of the Inspector General
+
+Performance reports
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:18:33+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.atf.gov/news/press-releases/three-defendants-sentenced-federal-prison-gun-crimes
+- cleanup: jina navigation trim

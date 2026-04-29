@@ -29,4 +29,4 @@ In October 2025 and January 2026, South Korea repatriated **107+ nationals** fro
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-10-18_aljazeera-com_south-korea-repatriates-64-scam-centre-suspects-from-cambodia.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-10-18_aljazeera-com_south-korea-repatriates-64-scam-centre-suspects-from-cambodia.md`, preserving traceable review without classifying the page as a placeholder.

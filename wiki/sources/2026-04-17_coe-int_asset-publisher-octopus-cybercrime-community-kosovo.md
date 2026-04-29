@@ -18,10 +18,11 @@ key_findings:
 collection_url: "https://www.coe.int/en/web/octopus/country-wiki-ap/-/asset_publisher/CmDb7M4RGb4Z/content/kosovo-/pop_up?_101_INSTANCE_CmDb7M4RGb4Z_viewMode=print&_101_INSTANCE_CmDb7M4RGb4Z_languageId=en_GB"
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:a5a79724145ce0431fb2f56dcec44ad1269b2e5dc2ef1f7e13c716494f2ca7e1
-word_count: 1626
-extraction_date: 2026-04-25
+content_hash: sha256:ad97a2ed4efd0fb464355636681b90ad6021915740f36f211d61fedfc1ab1c00
+word_count: 1458
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Kosovo is **not a party** to the [[budapest-convention|Budapest Convention]]. As
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_asset-publisher-octopus-cybercrime-community-kosovo.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_asset-publisher-octopus-cybercrime-community-kosovo.md`, preserving traceable review without classifying the page as a placeholder.

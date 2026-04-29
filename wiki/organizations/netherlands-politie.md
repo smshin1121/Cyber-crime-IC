@@ -1,25 +1,25 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: "[[netherlands]]"
 created: 2026-04-08
 established: 2007
 frameworks_administered:
-  []
+
 headquarters: "Driebergen-Rijsenburg, Netherlands"
 key_roles:
-  []
+
 last_verified: 2026-04-18
 mandate: "Investigate complex and high-impact cybercrime cases with national and international dimensions."
 mechanisms_operated:
-  []
+
 member_states: 0
 notable_cases:
-  []
+
 official_name: "Politie - Team High Tech Crime"
 official_name_ko: ""
 operations_participated:
@@ -48,6 +48,9 @@ operations_participated:
   - "[[operation-weleakinfo-to-and-related-domain-names-seized]]"
   - "[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]"
   - "[[operation-us-v-monroeville-man]]"
+  - "[[fake-shopping-sites-takedown-2024]]"
+  - "[[operation-morpheus]]"
+  - "[[proxy-service-takedown-2026-03]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

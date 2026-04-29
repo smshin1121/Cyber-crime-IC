@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/es/node/145876
 created: 2026-04-25
 raw_path: raw/government-reports/2019-06-03_dea-gov_press-releases-index-nicaraguan-national-darknet.md
 text_status: parsed
-content_hash: sha256:f973ef3f4e2c2b0bada0000873c3b19ea26a82525585f63037994a49aca5be55
-word_count: 6176
-extraction_date: 2026-04-25
+content_hash: sha256:c15c9b93956c711099feffda823057334b6cd3a56fd7a9a8067f717c2285092c
+word_count: 876
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

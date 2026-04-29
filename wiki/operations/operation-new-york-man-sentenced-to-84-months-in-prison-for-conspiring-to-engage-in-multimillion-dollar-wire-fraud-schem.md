@@ -64,11 +64,13 @@ sources:
   - "[[2024-10-01_justice-gov-usao-nj_new-york-man-admits-conspiring-engage-multimillion-dollar-wire-fraud-scheme]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-york-man-sentenced-to-84-months-in-prison-for-conspiring-to-engage-in-multimillion-dollar-wire-fraud-schem]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-york-man-sentenced-to-84-months-in-prison-for-conspiring-to-engage-in-multimillion-dollar-wire-fraud-schem]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

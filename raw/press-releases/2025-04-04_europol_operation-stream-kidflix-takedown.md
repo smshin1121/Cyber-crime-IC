@@ -1,6 +1,6 @@
 ---
 title: "Europol-led Operation Stream Takes Down Kidflix CSAM Platform"
-collection_source: "Europol / Security Affairs / TRM Labs"
+collection_source: "Security Affairs"
 collection_url: https://securityaffairs.com/176154/cyber-crime/europol-led-op-shuts-down-csam-platform-kidflix.html
 collection_domain: securityaffairs.com
 collection_date: 2026-04-08

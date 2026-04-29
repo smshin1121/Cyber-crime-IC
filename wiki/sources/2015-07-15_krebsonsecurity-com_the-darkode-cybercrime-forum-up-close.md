@@ -31,4 +31,4 @@ In July 2015, the FBI, in coordination with Europol and law enforcement from app
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-07-15_krebsonsecurity-com_the-darkode-cybercrime-forum-up-close.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2015-07-15_krebsonsecurity-com_the-darkode-cybercrime-forum-up-close.md`, preserving traceable review without classifying the page as a placeholder.

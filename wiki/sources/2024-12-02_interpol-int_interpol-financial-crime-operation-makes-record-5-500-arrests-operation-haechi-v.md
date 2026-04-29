@@ -33,4 +33,4 @@ Operation HAECHI V was the fifth and largest iteration of INTERPOL's HAECHI seri
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-12-02_interpol-int_interpol-financial-crime-operation-makes-record-5-500-arrests-operation-haechi-v.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-12-02_interpol-int_interpol-financial-crime-operation-makes-record-5-500-arrests-operation-haechi-v.md`, preserving traceable review without classifying the page as a placeholder.

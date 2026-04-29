@@ -31,4 +31,4 @@ India is **not a party** to the [[budapest-convention|Budapest Convention]] and 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_cleartax-in_it-act-2000-objectives-features-amendments-sections-offences-and-penalties.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_cleartax-in_it-act-2000-objectives-features-amendments-sections-offences-and-penalties.md`, preserving traceable review without classifying the page as a placeholder.

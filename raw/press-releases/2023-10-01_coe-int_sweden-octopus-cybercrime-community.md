@@ -12,158 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:4d732ab417410e9cf2f1f427b5b7e5fa708bb9b34d3b48129d8d7add9e6bfd0e
-word_count: 1650
-extraction_date: 2026-04-25
+content_hash: sha256:eca1a2b628b4d23640c5cb20efb85054e1551138146c2a40550ae1ec41f69007
+word_count: 133
+extraction_date: 2026-04-29
 source_page: wiki/sources/2023-10-01_coe-int_sweden-octopus-cybercrime-community.md
+parser: jina_markdown
 ---
 ## Summary
 
 Sweden is a **highly capable Nordic cybercrime cooperation partner**, deeply embedded in EU and Nordic cooperation networks. Its cybercrime law is primarily found in the **Brottsbalken (Penal Code)** rather than in a standalone cybercrime statute. Sweden was one of the **original 30 signatories** of the [[budapest-convention|Budapest Convention]] on 23 November 2001.
-
-## Extracted Text
-
-Title: Sweden
-
-URL Source: https://www.coe.int/en/web/octopus/-/sweden
-
-Markdown Content:
-
-# Sweden - Octopus Cybercrime Community
-
-# Navigation
-
-* [Skip to Content](https://www.coe.int/en/web/octopus/-/sweden#main-content)
-
-[](https://www.coe.int/en/web/octopus/-/sweden#top "Back to top")
-
-![Image 4: Council of Europe](https://static.coe.int/pics/logos/mobile/subsite-en.svg)
-
-[WWW.COE.INT](https://www.coe.int/)
-
-[Human Rights](https://www.coe.int/web/portal/human-rights-navigation)[Democracy](https://www.coe.int/web/portal/democracy-navigation)[Rule of Law](https://www.coe.int/web/portal/rule-of-law-navigation)
-
-[About us](https://www.coe.int/en/web/octopus/-/sweden)
-
-[Council of Europe at a glance](https://www.coe.int/web/portal/the-council-of-europe-at-a-glance)
-
-[The Council of Europe: key facts](https://www.coe.int/web/portal/the-council-of-europe-key-facts)
-
-[Achievements and History](https://www.coe.int/web/about-us/who-we-are)
-
-[Jobs and Traineeships](https://www.coe.int/web/jobs)
-
-[Home](https://www.coe.int/)
-
-[Human Rights](https://www.coe.int/web/portal/human-rights)
-
-[Democracy](https://www.coe.int/web/portal/democracy-navigation)
-
-[Rule of Law](https://www.coe.int/web/portal/rule-of-law-navigation)
-
-[Administrative entities](https://www.coe.int/web/portal/organisation-navigation)
-
-[Secretary General](https://www.coe.int/web/secretary-general/home)
-
-[Deputy Secretary General](https://www.coe.int/web/deputy-secretary-general/home)
-
-[Chairmanship](https://www.coe.int/web/portal/chairmanship)
-
-[Committee of Ministers](https://www.coe.int/cm)
-
-[Parliamentary Assembly](http://assembly.coe.int/nw/Home-EN.asp)
-
-[Congress of Local and Regional Authorities](https://www.coe.int/web/congress)
-
-[European Court of Human Rights](http://www.echr.coe.int/Pages/home.aspx?p=home&c=)
-
-[Commissioner for Human Rights](https://www.coe.int/web/commissioner)
-
-[Conference of INGOs](https://www.coe.int/web/ingo)
-
-[Monitoring bodies](https://www.coe.int/web/portal/monitoring-bodies)
-
-[Private Office](https://www.coe.int/web/secretary-general/private-office)
-
-[Treaty Office](https://www.coe.int/web/conventions/)
-
-[46 Member States](https://www.coe.int/web/portal/46-members-states)
-
-[Theme files](https://www.coe.int/web/portal/files)
-
-[Newsroom](https://www.coe.int/web/portal/newsroom)
-
-[Events](https://www.coe.int/web/portal/events)
-
-[Bookshop](https://book.coe.int/eur/)
-
-[Online resources](https://edoc.coe.int/)
-
-[Contact](https://www.coe.int/web/about-us/contacts)
-
-[Intranet](https://www.coe.int/web/portal/extranet)
-
-[English](https://www.coe.int/en/web/octopus/-/sweden#)
-
-Choose language
-
-[English](https://www.coe.int/en/web/octopus/-/sweden)
-
-[Français](https://www.coe.int/en/c/portal/update_language?p_l_id=64861683&redirect=%2Fen%2Fweb%2Foctopus%2F-%2Fsweden&languageId=fr_FR)
-
-[Connect](https://www.coe.int/en/c/portal/login?p_l_id=64861683)
-
-[Search](https://search.coe.int/public)
-
-[![Image 5: logo Council of Europe](https://static.coe.int/pics/logos/desktop/logo-coe.svg)](https://www.coe.int/)
-
-![Image 6](https://static.coe.int/pics/logos/print/logo-coe.svg) Avenue de l'Europe
-
-F-67075 Strasbourg Cedex
-
-Tel. +33 (0)3 88 41 20 00
-
-www.coe.int
-
-# [Octopus Cybercrime Community](https://www.coe.int/en/web/octopus)
-
-* [Home](https://www.coe.int/en/web/octopus/home)
-
-* [Country Wiki](https://www.coe.int/en/web/octopus/country-wiki)
-
-* [Materials](https://www.coe.int/en/web/octopus/training)
-
-* [Public/Private cooperation](https://www.coe.int/en/web/octopus/5)
-
-* Back
-
-* [Information on Parties](https://www.coe.int/en/web/octopus/information-on-parties)
-
-* [Cybercrime website](https://www.coe.int/en/web/cybercrime/home)
-
-You are here:
-
-1. [Octopus Cybercrime Community](https://www.coe.int/en/web/octopus)
-
-2. [Country Wiki](https://www.coe.int/en/web/octopus/country-wiki)
-
-3. [Country Wiki AP](https://www.coe.int/en/web/octopus/country-wiki-ap)
-
-4. Sweden
-
-[](https://bsky.app/intent/compose?text=https://www.coe.int/en/web/octopus/-/sweden "Share on Bluesky")[](https://x.com/intent/post?text=https://www.coe.int/en/web/octopus/-/sweden "Share on X (Twitter)")[](https://www.facebook.com/sharer.php?u=https://www.coe.int/en/web/octopus/-/sweden "Share on Facebook")[](http://www.linkedin.com/shareArticle?mini=true&url=https://www.coe.int/en/web/octopus/-/sweden "Share on Linkedin")[](mailto:?body=https://www.coe.int/en/web/octopus/-/sweden "Send this page")
-
-[Back](javascript:;) Sweden
-
-![Image 7:
-
-Status regarding Budapest Convention
-
-](https://static.coe.int/pics/flags/47-member-states/sweden.svg)
-
-#### Status regarding Budapest Convention
-
-**Status :** Party **Declarations and reservations :** Declarations regarding Articles 24, 27 Reservations regarding Articles 14, 29 [See legal profile](https://rm.coe.int/octocom-legal-profile-sweden/16809ed733)
 
 ## Cybercrime policies/strategies
 
@@ -317,9 +174,76 @@ Avenue de l'Europe F-67075 Strasbourg Cedex, France -
 
 [Disclaimer - © Council of Europe 2026 - © Photo credit](https://www.coe.int/web/portal/disclaimer) - [Contact](https://www.coe.int/web/portal/contacts)
 
+## Extracted Text
+
+Print Sweden;)
+
+These profiles do not necessarily reflect official positions of the States covered or of the Council of Europe.
+
+Contribute
+
+Are you aware of the latest legislative or policy developments on cybercrime and electronic evidence?
+
+Share this information with us helping to keep this platform up to date.
+
+Useful links
+
+Template: Mutual Legal Assistance Request for subscriber information (Art. 31 Budapest Convention).English and bilingual versions available.
+
+Template: Data Preservation Request (Articles 29 and 30 Budapest Convention). English and bilingual versions available.
+
+Hidden
+
+Council of Europe Portal
+
+### About
+
+Who we are
+
+Human Rights
+
+Democracy
+
+Rule of Law
+
+European Convention on Human Rights
+
+Jobs and Traineeships
+
+Visit us
+
+### Follow us
+
+Bluesky
+
+X (Twitter)
+
+LinkedIn
+
+Instagram
+
+Facebook
+
+YouTube
+
+Flickr
+
+Podcasts
+
+### Contacts
+
+Private office of the Secretary General
+
+Contact for the media
+
+External offices
+
+Newsletters
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:43:30+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://www.coe.int/en/web/octopus/-/sweden
+- cleanup: jina navigation trim

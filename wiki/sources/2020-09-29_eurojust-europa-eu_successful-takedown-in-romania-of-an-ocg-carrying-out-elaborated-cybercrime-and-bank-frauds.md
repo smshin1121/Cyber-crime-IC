@@ -18,11 +18,12 @@ key_findings:
   - "The release confirmed a JIT, four coordination meetings, three arrests, and four house searches."
 collection_url: https://www.eurojust.europa.eu/news/eurojust-supports-successful-takedown-romania-ocg-carrying-out-elaborated-cybercrime-and-bank
 created: 2026-04-23
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:2293f194daf58e0392fd61fd09394eef4277b451fc9cd53eacdca75e91900f25
-word_count: 153
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:3bbc4392ff5e16c042bbe4b31a30a3202b57f3397807ef3a23dc663a0b7b3651
+word_count: 716
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

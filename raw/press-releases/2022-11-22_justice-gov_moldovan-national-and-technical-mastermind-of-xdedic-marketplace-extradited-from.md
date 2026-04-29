@@ -2,24 +2,43 @@
 title: "Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain"
 collection_source: "US DOJ (Middle District of Florida)"
 collection_url: https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain
+final_url: https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain
 collection_domain: justice.gov
-collection_date: 2026-04-17
+collection_date: 2026-04-29
 publish_date: 2022-11-22
 language: en
 status: collected
-final_url: https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain
 text_status: parsed
+storage_mode: fulltext
+source_type: press-release
+source_page: wiki/sources/2022-11-22_justice-gov_moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from.md
+word_count: 999
+content_hash: sha256:bb117fe07906189622a2ae22dc27839a7ccc7fdc4f871056c31af3182c505a84
+extraction_date: 2026-04-29
+license_basis: official_public_record
 fetcher: doj_fetch
 http_status: 200
 content_type: text/html
-content_hash: sha256:bb117fe07906189622a2ae22dc27839a7ccc7fdc4f871056c31af3182c505a84
-word_count: 999
-extraction_date: 2026-04-25
-source_page: wiki/sources/2022-11-22_justice-gov_moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from.md
 ---
-## Summary
+## Source Archive Record
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+This record preserves the source metadata and source-page digest so the source corpus has a separate addressable record for this reference.
+
+## Source Digest
+
+- Title: Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain
+- Publisher: US DOJ (Middle District of Florida)
+- Source type: press-release
+- Publication date: 2022-11-22
+- URL: https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain
+- Linked pages: operation-moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain
+
+### Key Findings
+- This domestic-only U.S. follow-on record has been absorbed into the canonical case page moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+### Source Page Summary
+
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation. The source supports operation-moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain in the operations corpus.
 
 ## Extracted Text
 
@@ -285,5 +304,5 @@ Top
 
 - parser: document
 - fetcher: doj_fetch
-- fetched_at: 2026-04-25T14:19:40+00:00
+- fetched_at: 2026-04-28T16:10:39+00:00
 - final_url: https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain

@@ -4,7 +4,7 @@ collection_source: "Lusaka Times"
 collection_url: https://www.lusakatimes.com/2024/06/11/22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes/
 final_url: https://www.lusakatimes.com/2024/06/11/22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes/
 collection_domain: lusakatimes.com
-collection_date: 2026-04-27
+collection_date: 2026-04-29
 publish_date: 2024-06-11
 language: en
 status: materialized
@@ -13,8 +13,8 @@ storage_mode: summary-only
 source_type: news
 source_page: wiki/sources/2024-06-11_lusakatimes-com_22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes.md
 word_count: 138
-content_hash: sha256:60ff2642907b3f25b4c6210058ace750a0f6ad6c5cc448d511a3f5e7b2ff9ca7
-extraction_date: 2026-04-27
+content_hash: sha256:76d54be4c1ab0fea43cc7d4b0ca25d30bde62ca80039656b20834424aba128da
+extraction_date: 2026-04-29
 copyright_policy: summary-only
 ---
 ## Source Archive Record
@@ -42,6 +42,6 @@ Lusaka Times reported on sentencing in the Golden Top cybercrime case. This sour
 
 - storage_mode: summary-only
 - source_page: wiki/sources/2024-06-11_lusakatimes-com_22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes.md
-- generated_at: 2026-04-27T13:52:24+00:00
+- generated_at: 2026-04-28T16:02:26+00:00
 - full_text: not fetched in this materialization pass
 - rights_mode: summary-only public corpus record

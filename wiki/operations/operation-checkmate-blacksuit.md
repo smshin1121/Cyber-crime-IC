@@ -33,8 +33,6 @@ edges:
     legal_basis: unknown
     direction: undirected
 missing_fields:
-  - legal_basis
-  - mechanisms_used
   - specific_international_agencies
 timeframe:
   announced: 2025-08-11
@@ -53,8 +51,13 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
 legal_basis:
-
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic ransomware disruption and seizure authorities"
 mechanisms_used:
+  - "[[mlat-process]]"
+  - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
 
 results:
   arrests: 0
@@ -70,6 +73,9 @@ results:
 related_cases:
 
 related_operations:
+  - "[[blackcat-lockeroga-kelvin-security-2023]]"
+  - "[[hive-ransomware-takedown]]"
+  - "[[operation-cronos-phase1]]"
 
 challenges_encountered:
 
@@ -84,7 +90,7 @@ sources:
   - "[[2025-07-25_bitdefender-com_after-500-million-in-ransom-demands-law-enforcement-seizes-blacksuit-site]]"
   - "[[2025-07-28_techradar-com_top-ransomware-group-blacksuit-has-dark-web-extortion-sites-seized-and-shut-down]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Checkmate was a coordinated international operation to disrupt the **BlackSuit (formerly Royal) ransomware group**, announced by the US Department of Justice on 11 August 2025. The operation culminated in the takedown of **4 servers and 9 domains** on 24 July 2025. The seized domains were used by BlackSuit to leak stolen data and communicate with victims for ransom negotiations. **USD 1,091,453** in virtual currency was seized."

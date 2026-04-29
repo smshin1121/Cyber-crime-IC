@@ -14,6 +14,9 @@ enforcement_type:
 
 lead_agency: "[[uk-nca]]"
 legal_basis:
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic unauthorized-access and malware-disruption authorities"
 
 lessons_learned:
 
@@ -48,6 +51,9 @@ period: 3
 related_cases:
 
 related_operations:
+  - "[[operation-nova]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-endgame]]"
 
 results:
   arrests: 0
@@ -81,7 +87,7 @@ timeframe:
 title: "Operation Morpheus (Cobalt Strike Takedown)"
 title_ko: "모르페우스 작전 (코발트 스트라이크 소탕)"
 type: operation
-updated: 2026-04-28
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Morpheus** was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of **Cobalt Strike**, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes. The operation resulted in the takedown of **593 Cobalt Strike servers** across **27 countries**."

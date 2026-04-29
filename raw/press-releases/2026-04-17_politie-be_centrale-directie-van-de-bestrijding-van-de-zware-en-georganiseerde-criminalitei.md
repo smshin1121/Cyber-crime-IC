@@ -12,50 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:66c48a1ae0692a29a905ad4e7a135ec928a8797c9e7ec6e5272b614ea71a5ca5
-word_count: 1062
-extraction_date: 2026-04-25
+content_hash: sha256:87f995c162aa4bbb4591cad69a1f79eeaa75fc52785825b7a97a090f98d651b3
+word_count: 727
+extraction_date: 2026-04-29
 source_page: wiki/sources/2026-04-17_politie-be_centrale-directie-van-de-bestrijding-van-de-zware-en-georganiseerde-criminalitei.md
+parser: jina_markdown
 ---
 ## Summary
 
 The **Federal Computer Crime Unit (FCCU)** is Belgium's specialized national cybercrime police unit within the federal judicial police structure. It sits inside the broader serious-and-organized-crime directorate and provides Belgium's national-level cybercrime investigative capability.
 
 ## Extracted Text
-
-Title: Centrale directie van de bestrijding van de zware en georganiseerde criminaliteit
-
-URL Source: https://www.politie.be/5998/nl/over-ons/federale-politie/federale-gerechtelijke-politie/centrale-directie-van-de-bestrijding-van
-
-Markdown Content:
-
-Teaser
-
-De Centrale directie van de bestrijding van de zware en georganiseerde criminaliteit (DJSOC) is belast met het uitvoeren van gespecialiseerde gerechtelijke politieopdrachten en het ondersteunen van deze opdrachten in verband met zware en georganiseerde criminaliteit.
-
-### Opdrachten en actieterrein
-
-**Gespecialiseerde ondersteuning**
-
-DJSOC biedt hooggespecialiseerde ondersteuning aan de Geïntegreerde Politie-eenheden en aan andere externe nationale en internationale partners, zoals de douane, de brandweer, Europol enz. De specialisten van DJSOC houden zich bezig met het opsporen en het verbaliseren van kinderpornografie, het identificeren van voertuigen of voertuigonderdelen, het veiligstellen en ontmantelen van plaatsen waar drugs worden geproduceerd.
-
-**Onderzoeken**
-
-DJSOC is belast met het verrichten van autonome onderzoeken op gebieden die onder de bevoegdheid vallen van de Centrale dienst voor de bestrijding van corruptie (CDBC) (overheidscorruptie, fraude bij overheidsopdrachten …), de Centrale dienst voor de bestrijding van de georganiseerde economische en financiële delinquentie (CDGEFID) en de Federal Computer Crime Unit (FCCU; computercriminaliteit, in het bijzonder aanvallen op kritieke infrastructuur). DJSOC verleent ook ondersteuning in geval van computercriminaliteit. De dienst van de gerechtelijke politie in militair milieu voert eveneens autonome onderzoeken uit in het militaire milieu.
-
-**Intelligence**
-
-DJSOC zorgt ervoor dat de Geïntegreerde Politie beschikt over een strategische en operationele duurzame expertise met betrekking tot de fenomenen op het vlak van georganiseerde criminaliteit (Centrex). Ze is ook verantwoordelijk voor de uitvoering en coördinatie van de door DGJ ontwikkelde 'Intel'-strategie.
-
-**En nog veel meer ...**
-
-DJSOC is belast met de operationele misdrijfanalyse en het ontwikkelen van normen (opleiding, werkinstrumenten) in dit kader, om te zorgen voor samenhang bij de uitvoering van de taken die zijn toegewezen aan de operationele misdrijfanalisten van de Geïntegreerde Politie.
-
-DJSOC beschikt over strategisch analisten die zich bezighouden met de verschillende criminele fenomenen die ze bestrijdt.
-
-DJSOC is het aanspreekpunt van de Federale Politie op vele andere gebieden: illegale kunsthandel, sportfraude, phishing ...
-
-### Werking
 
 De Centrale directie van de bestrijding van de zware en georganiseerde criminaliteit bestaat uit 3 afdelingen:
 
@@ -67,21 +34,21 @@ Deze sectie is het enige operationele aanspreekpunt voor de directie. Ze beheert
 
 Daarnaast verleent ze operationele ondersteuning aan de andere diensten van de directie, meer bepaald:
 
-* de functies BTS/LIB/CTI (speciale technieken, informantenbeheer, telefoontaps);
+de functies BTS/LIB/CTI (speciale technieken, informantenbeheer, telefoontaps);
 
-* de operationele misdrijfanalyse;
+de operationele misdrijfanalyse;
 
-* het recherchemanagement;
+het recherchemanagement;
 
-* de internationale politiesamenwerking (IPS).
+de internationale politiesamenwerking (IPS).
 
 De volgende eenheden bieden gespecialiseerde ondersteuning:
 
-* Child abuse;
+Child abuse;
 
-* Car identification;
+Car identification;
 
-* CRU (Clan Lab Response Unit);
+CRU (Clan Lab Response Unit);
 
 ##### **CDBC - Centrale dienst voor de bestrijding van corruptie**
 
@@ -107,15 +74,15 @@ Het National Intelligence Center (NIC) operationaliseert de strategische Intel-d
 
 De taken van het NIC zijn:
 
-* De opvolging, coördinatie en ondersteuning van de 'Intel'-projecten en -initiatieven binnen de gerechtelijke component verzekeren.
+De opvolging, coördinatie en ondersteuning van de 'Intel'-projecten en -initiatieven binnen de gerechtelijke component verzekeren.
 
-* Bijdragen aan een permanente, dynamische, strategische en tactische beeldvorming van de georganiseerde misdaad.
+Bijdragen aan een permanente, dynamische, strategische en tactische beeldvorming van de georganiseerde misdaad.
 
-* Innovatieve technologische oplossingen ontwikkelen voor het exploiteren van de gegevens en informatie van de gerechtelijke component.
+Innovatieve technologische oplossingen ontwikkelen voor het exploiteren van de gegevens en informatie van de gerechtelijke component.
 
-* Het netwerk van de 'Intel'-officieren DGJ (IO's) coördineren.
+Het netwerk van de 'Intel'-officieren DGJ (IO's) coördineren.
 
-* De bij DGJ geïdentificeerde Intel-community's stimuleren.
+De bij DGJ geïdentificeerde Intel-community's stimuleren.
 
 ##### **CENTREX**
 
@@ -137,15 +104,16 @@ DJSOC werkt samen met vele partners, en per afdeling/sectie zijn die heel divers
 
 Tijdens aanwervingen bij DJSOC worden er tal van profielen gezocht zoals financieel experts, computeringenieurs, bachelors in de informatica, boekhouders, masters in de economische wetenschappen, in de rechten, masters islamkunde (islamologie), Turkse studies (turkologie) en/of oosterse filosofieën.
 
-Voor een functie als CALog kunt u rechtstreeks solliciteren via de website[www.jobpol.be](http://www.jobpol.be/).
+Voor een functie als CALog kunt u rechtstreeks solliciteren via de websitewww.jobpol.be.
 
-Hebt u interesse voor een operationele functie? Kom dan bij ons werken als hoofdinspecteur met een bijzondere specialisatie in ICT of Ecofin (vacatures om de twee of drie jaar op [www.jobpol.be](http://www.jobpol.be/)).
+Hebt u interesse voor een operationele functie? Kom dan bij ons werken als hoofdinspecteur met een bijzondere specialisatie in ICT of Ecofin (vacatures om de twee of drie jaar op www.jobpol.be).
 
 Er zijn ook vele interne mogelijkheden voor alle graden: inspecteur, hoofdinspecteur, commissaris en hoofdcommissaris.
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:44:45+00:00
+- normalized_at: 2026-04-28T16:03:47+00:00
 - final_url: https://www.politie.be/5998/nl/over-ons/federale-politie/federale-gerechtelijke-politie/centrale-directie-van-de-bestrijding-van
+- cleanup: jina navigation trim

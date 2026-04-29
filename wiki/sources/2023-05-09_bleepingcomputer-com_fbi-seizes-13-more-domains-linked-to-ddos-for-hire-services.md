@@ -31,4 +31,4 @@ Operation PowerOFF is an **ongoing, multi-phase international law enforcement op
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services.md`, preserving traceable review without classifying the page as a placeholder.

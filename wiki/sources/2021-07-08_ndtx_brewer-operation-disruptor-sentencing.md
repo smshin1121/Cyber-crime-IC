@@ -34,4 +34,4 @@ On 8 July 2021, DOJ announced that Aaron Brewer, a dark web cocaine and heroin t
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2021-07-08_ndtx_brewer-operation-disruptor-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2021-07-08_ndtx_brewer-operation-disruptor-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

@@ -21,6 +21,9 @@ key_findings:
   - "Triggered by intelligence from Chile's cybercrime unit and Buenos Aires prosecutor's office"
 created: 2026-04-08
 copyright_policy: summary-only
+collection_url: https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America
+collection_domain: interpol.int
+updated: 2026-04-29
 ---
 # Operation Orion International: South America CSAM Crackdown
 

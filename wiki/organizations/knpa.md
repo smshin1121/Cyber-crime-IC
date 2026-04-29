@@ -26,19 +26,21 @@ cooperation_partners:
   - "[[europol-ec3]]"
   - "[[fbi-cyber-division]]"
 frameworks_administered:
-  []
+
 mechanisms_operated:
-  []
+
 operations_participated:
   - "[[operation-haechi-iii]]"
+  - "[[korea-cambodia-scam-repatriation]]"
+  - "[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"
 notable_cases:
-  []
+
 contact_point_for:
   - network: "[[interpol-i24-7]]"
     role: "NCB Korea"
 source_count: 2
 sources:
-  []
+
 created: 2026-04-10
 updated: 2026-04-10
 last_verified: 2026-04-10

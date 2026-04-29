@@ -17,11 +17,12 @@ key_findings:
 collection_url: https://www.govinfo.gov/app/details/USCOURTS-pawd-2_24-cr-00214/USCOURTS-pawd-2_24-cr-00214-0
 created: 2026-04-25
 raw_path: raw/case-documents/2024-08-15_govinfo_usa-v-vlastos-2-24-cr-00214-pawd.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:ea63cf7e87cfe4b3f5c507c20b2be0d978046cff8034c133c61fadc37f95a668
-word_count: 109
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:974e2621ef4b1576869bf3cd350dc4ae82f59f437e1be041da6c66e2862a9612
+word_count: 328
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

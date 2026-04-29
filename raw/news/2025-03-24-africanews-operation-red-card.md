@@ -1,9 +1,9 @@
 ---
 title: "Operation Red Card reporting"
 collection_source: Africanews
-collection_url: ""
-final_url: ""
-collection_domain: ""
+collection_url: https://www.africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation/
+final_url: https://www.africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation/
+collection_domain: africanews.com
 collection_date: 2026-04-27
 publish_date: 2025-03-24
 language: en

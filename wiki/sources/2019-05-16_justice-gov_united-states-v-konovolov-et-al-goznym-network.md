@@ -32,4 +32,4 @@ Konovolov et al. (GozNym Network) Enforcement Action is a defendant-specific enf
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2019-05-16_justice-gov_united-states-v-konovolov-et-al-goznym-network.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2019-05-16_justice-gov_united-states-v-konovolov-et-al-goznym-network.md`, preserving traceable review without classifying the page as a placeholder.

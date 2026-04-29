@@ -18,11 +18,12 @@ key_findings:
   - "Eurojust's financial crime topic page indexed the laundering-service operation."
   - "The listing confirms the case's classification as financial crime."
 raw_path: raw/government-reports/2025-01-27_eurojust-financial-crime-term_illegal-financial-service-laundering.md
-text_status: parsed
-content_hash: sha256:fcd31fcd505d6a720592574c86302bbc599adb33b104f7420778f1224a2c5f8f
-word_count: 2158
-extraction_date: 2026-04-25
+text_status: source-digest
+content_hash: sha256:a526ac2d5b38092367ee9bfede56f8171e41e13b9eefb6b6d08dfc1a98e06141
+word_count: 114
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: source-digest
 ---
 ## Source Summary
 

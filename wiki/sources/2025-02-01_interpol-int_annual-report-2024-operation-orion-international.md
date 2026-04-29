@@ -20,10 +20,11 @@ key_findings:
   - "The report repeated the 144-arrest and 20-child-rescue figures."
 raw_path: raw/government-reports/2025-02-01_interpol-int_annual-report-2024-operation-orion-international.md
 text_status: parsed
-content_hash: sha256:78f2503cc2e50fd19d7af94b4611d63a178a4d44982d191ba98b1c316de7cb3a
-word_count: 4094
-extraction_date: 2026-04-25
+content_hash: sha256:258f9e679790fc5e80ae2532cc86909cee276140ac4ff4399aab61dadf1221f0
+word_count: 4060
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

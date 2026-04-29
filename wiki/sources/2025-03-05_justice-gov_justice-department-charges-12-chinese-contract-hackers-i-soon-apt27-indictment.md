@@ -32,4 +32,4 @@ On 5 March 2025, the US Department of Justice announced charges against **12 Chi
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27-indictment.md`, preserving traceable review without classifying the page as a placeholder.

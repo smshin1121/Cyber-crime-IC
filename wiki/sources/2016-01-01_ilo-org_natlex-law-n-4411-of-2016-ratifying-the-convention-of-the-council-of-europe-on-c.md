@@ -25,4 +25,4 @@ Greece became the **52nd State Party** to the [[budapest-convention|Budapest Con
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2016-01-01_ilo-org_natlex-law-n-4411-of-2016-ratifying-the-convention-of-the-council-of-europe-on-c.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2016-01-01_ilo-org_natlex-law-n-4411-of-2016-ratifying-the-convention-of-the-council-of-europe-on-c.md`, preserving traceable review without classifying the page as a placeholder.

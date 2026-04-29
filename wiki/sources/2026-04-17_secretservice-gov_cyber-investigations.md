@@ -17,11 +17,12 @@ key_findings:
   - "The United States Secret Service (USSS) operates the **Cyber Fraud Task Forces (CFTFs)**, announced in **July 2020** as the unified successor to the Electronic Crimes Task Forces (ECTFs, first created in New York in 1995) and Financial Crimes Task Forces (FCTFs). The merger reflects the growing convergence of cyber and traditional financial crimes."
 collection_url: https://www.secretservice.gov/investigations/cyber
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:17ee733043191c862d62c501f3d5a0458f56d8009bd2a75ea9982531f87fa7cf
-word_count: 198
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:9013a9d37cc152a6bc65154217b3c04b1ce6b730a383956a2f56d3fcbb517887
+word_count: 607
+extraction_date: 2026-04-29
+last_fetcher: wayback+curl_cffi
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The United States Secret Service (USSS) operates the **Cyber Fraud Task Forces (
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_secretservice-gov_cyber-investigations.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_secretservice-gov_cyber-investigations.md`, preserving traceable review without classifying the page as a placeholder.

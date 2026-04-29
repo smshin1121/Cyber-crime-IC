@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/cybercrime/parties-observers
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:14b9443aec78d9ebbca40eb2e41bd4e74f48941ffa872abf5aaa905b2e0b64f9
-word_count: 3107
-extraction_date: 2026-04-25
+content_hash: sha256:c889a08c255b0b85402efcbd53dba260dd166b0284d9bf4d80b7e8b98ba2a6c8
+word_count: 391
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Tanzania is a **non-party** to the [[budapest-convention|Budapest Convention]]. 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-01_coe-int_parties-observers-to-the-budapest-convention.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-01_coe-int_parties-observers-to-the-budapest-convention.md`, preserving traceable review without classifying the page as a placeholder.

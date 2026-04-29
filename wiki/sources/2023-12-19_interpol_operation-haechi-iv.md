@@ -28,4 +28,4 @@ INTERPOL's Operation HAECHI IV, the fourth iteration of the Korea-initiated HAEC
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-12-19_interpol_operation-haechi-iv.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-12-19_interpol_operation-haechi-iv.md`, preserving traceable review without classifying the page as a placeholder.

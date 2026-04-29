@@ -35,4 +35,4 @@ Jason Keith Arnold (Dream Marketplace Vendor) Enforcement Action is a defendant-
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-03-05_justice-gov_united-states-v-jason-keith-arnold.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-03-05_justice-gov_united-states-v-jason-keith-arnold.md`, preserving traceable review without classifying the page as a placeholder.

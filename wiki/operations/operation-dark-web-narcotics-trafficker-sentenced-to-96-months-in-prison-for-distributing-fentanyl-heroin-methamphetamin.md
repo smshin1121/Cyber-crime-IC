@@ -55,17 +55,17 @@ results:
     - "Public filings linked package interception activity to shipments routed from the Netherlands and Canada."
     - "The offense conduct involved more than 600 Wall Street Market transactions."
 edges:
-  []
+
 credibility_index: 4.21
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Dark-web narcotics cases often require stitching together marketplace evidence, cryptocurrency payments, and cross-border package interception."
   - "Follow-on operation pages should preserve indictment and plea context rather than only the sentencing headline."
@@ -74,7 +74,7 @@ sources:
   - "[[2021-11-03_justice-gov_united-states-v-joanna-de-alba]]"
 summary: "This follow-on operation captures the indictment-to-sentencing enforcement sequence against Joanna De Alba for selling narcotics over Wall Street Market in exchange for cryptocurrency."
 created: 2026-04-18
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 > [!note] Source basis
 > This follow-on action now uses both indictment and sentencing releases from DOJ and DEA, plus independent legal and media corroboration, so the page no longer rests on a single sentencing headline.

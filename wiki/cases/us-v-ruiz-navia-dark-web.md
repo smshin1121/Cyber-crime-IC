@@ -43,7 +43,7 @@ source_count: 1
 sources:
   - "[[2025-01-13_cdca_ruiz-navia-darknet-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-28
+updated: 2026-04-29
 summary: "United States v. Ruiz and Navia is a darknet fentanyl supply case involving more than 1,000 customers nationwide and sentences of roughly 18 and 15 years."
 ---
 ## Summary
@@ -91,6 +91,8 @@ United States v. Ruiz and Navia is a darknet fentanyl supply case involving more
 - US DOJ (Central District of California), 2025-01-13: Navia and Ruiz admitted in their plea agreements that, from at least August 2021 to December 2022, they supplied fentanyl-laced pills to Michael Ta, 26, of Westminster, and Rajiv Srinivasan, 38, of Houston, who used the darknet and encrypted messaging applications to sell more than 120,000 fentanyl-laced pills and other drugs to more.
 - US DOJ (Central District of California), 2025-01-13: Srinivasan operated the account “redlightlabs” on multiple darknet marketplaces, including the site “Dark0de.” Srinivasan and Ta used the redlightlabs account to advertise and sell counterfeit M30 oxycodone pills containing fentanyl and other illicit drugs.
 - US DOJ (Central District of California), 2025-01-13: Srinivasan received virtual currency as payment for the drugs and then routed that virtual currency through cryptocurrency exchanges.
+- US DOJ (Central District of California), 2025-01-13: The investigation in this matter was conducted under the auspices of the FBI-led Joint Criminal Opioid Darknet Enforcement Team (JCODE), which targets darknet vendors by using sophisticated, high-tech techniques to identify drug traffickers who wrongly believe the dark web allows them to engage in criminal conduct with anonymity.
+- US DOJ (Central District of California), 2025-01-13: Since its inception in 2018, JCODE investigations have resulted in the arrest of more than 300 darknet drug traffickers, as well as the seizure of more than $42 million in drug-tainted proceeds, over 800 kilograms of narcotics, and approximately 145 firearms.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

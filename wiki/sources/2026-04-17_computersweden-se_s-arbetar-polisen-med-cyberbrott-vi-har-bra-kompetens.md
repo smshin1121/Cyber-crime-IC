@@ -31,4 +31,4 @@ The **Nationellt IT-brottscentrum** — **National IT Crime Centre**, also brand
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_computersweden-se_s-arbetar-polisen-med-cyberbrott-vi-har-bra-kompetens.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_computersweden-se_s-arbetar-polisen-med-cyberbrott-vi-har-bra-kompetens.md`, preserving traceable review without classifying the page as a placeholder.

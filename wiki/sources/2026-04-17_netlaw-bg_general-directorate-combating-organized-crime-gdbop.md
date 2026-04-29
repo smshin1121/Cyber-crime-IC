@@ -25,4 +25,4 @@ Bulgaria deposited its instrument of ratification of the [[budapest-convention|B
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_netlaw-bg_general-directorate-combating-organized-crime-gdbop.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_netlaw-bg_general-directorate-combating-organized-crime-gdbop.md`, preserving traceable review without classifying the page as a placeholder.

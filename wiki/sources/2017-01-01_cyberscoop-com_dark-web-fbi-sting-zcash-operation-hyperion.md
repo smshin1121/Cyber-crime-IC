@@ -31,4 +31,4 @@ copyright_policy: summary-only
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2017-01-01_cyberscoop-com_dark-web-fbi-sting-zcash-operation-hyperion.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2017-01-01_cyberscoop-com_dark-web-fbi-sting-zcash-operation-hyperion.md`, preserving traceable review without classifying the page as a placeholder.

@@ -16,6 +16,9 @@ word_count: 228
 content_hash: sha256:65782bcdaec13f6bfa98d4a634614289c8fe1e7958e82b70c5c2cb53875d5e65
 extraction_date: 2026-04-28
 license_basis: official_public_record
+harvest_status: fulltext_not_available
+harvest_note: "Repeated live fulltext harvesting failed or is not suitable; source digest retained."
+last_fetch_attempt: 2026-04-29
 ---
 ## Source Archive Record
 

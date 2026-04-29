@@ -12,48 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:b68b19d5d5dabea0a37e8985e6b83890404efec7b02b2e02b6bec3af357f1dfc
-word_count: 5753
-extraction_date: 2026-04-25
+content_hash: sha256:e722761c562d0eef4a04ed507f6ede0da1332bf6546ce7a05e4d6f0ab7dcb334
+word_count: 291
+extraction_date: 2026-04-29
 source_page: wiki/sources/2026-04-17_fiscalia-gov-co_cartilla-metodol-gica-de-atenci-n-de-delitos-inform-ticos.md
+parser: jina_markdown
 ---
 ## Summary
 
 Colombia deposited its instrument of accession to the [[budapest-convention|Budapest Convention on Cybercrime]] on **16 March 2020**, becoming the 65th Party [1][2]. Its substantive cybercrime law is **Ley 1273 de 2009 "De la protección de la información y de los datos"**, which amended the Criminal Code to create a new protected legal good ("protection of information and data") and established comprehensive substantive offences [3][4].
-
-## Extracted Text
-
-Title: Cartilla-Metodologica-de-Atencion-de-Delitos-Informaticos.pdf
-
-URL Source: https://www.fiscalia.gov.co/colombia/wp-content/uploads/Cartilla-Metodologica-de-Atencion-de-Delitos-Informaticos.pdf
-
-Published Time: Wed, 29 May 2024 15:07:19 GMT
-
-Number of Pages: 23
-
-Markdown Content:
-
-CARTILLA METODOLÓGICA DE ATENCIÓN DE DELITOS INFORMÁTICOS 3CARTILLA METODOLÓGICA DE ATENCIÓN DE DELITOS INFORMÁTICOS
-
-# Contenido
-
-1. PROBLEMÁTICA ...................................................................................4 2. OBJETIVO ............................................................................................4 3. ALCANCE ...........................................................................................4 4. ACTORES Y ROLES ...............................................................................5 5. DEFINICIONES Y SIGLAS .....................................................................6 6. MARCO LEGAL O NORMATIVO ......................................................... 10 7. DESARROLLO .....................................................................................10 8. MODALIDADES Y MODOS ................................................................. 10 9. RUTA PARA LA ATENCIÓN DEL DELITO .............................................. 14 10. ACTORES INTERVINIENTES .............................................................. 15 11. INICIATIVA INVESTIGATIVA .............................................................. 16 12. PROCEDIMIENTOS REALIZADOS EN CADA ETAPA DEL PROCESO .... 17 13. NORMATIVIDAD QUE LO FUNDAMENTA ......................................... 21 14. ANEXOS ..........................................................................................22 4CARTILLA METODOLÓGICA DE ATENCIÓN DE DELITOS INFORMÁTICOS
-
-# 1. PROBLEMÁTICA
-
-Aumento en las denuncias ciudadanas por la afectación a la información y a los datos, como consecuencia del necesario aumento en el uso de las tecnologías de la información y las comunicaciones en la vida cotidiana.
-
-# 2. OBJETIVO
-
-Unificar conceptos sobre los delitos informáticos contenidos en la Ley 1273 de 2009, sus modalidades y caracterización, con el fin de servir de orientación a los servidores de la
-
-Fiscalía General de la Nación y a los funcionarios de policía judicial de la Policía Nacional
-
-de Colombia, para la correcta recepción de denuncias en materia de delitos informáticos y diseñar la ruta de atención sobre el tratamiento del cibercrimen.
-
-# 3. ALCANCE
-
-Está dirigida a los servidores de la Fiscalía General de la Nación y funcionarios de policía judicial de las unidades de la Policía Nacional de Colombia, encargados del ingreso, registro y análisis de las noticias criminales e información administrativa sobre delitos informáticos, caracterizacio -nes y sus modalidades. 5CARTILLA METODOLÓGICA DE ATENCIÓN DE DELITOS INFORMÁTICOS
 
 ## USUARIO POLICÍA JUDICIAL PERITOS PROGRAMA METODOLÓGICO VÍCTIMA FISCAL
 
@@ -703,9 +670,60 @@ Posada Maya, Ricardo. “Los cibercrímenes: Un nuevo paradigma de criminalidad�
 
 po Editorial Ibañez, 2017.
 
+## Extracted Text
+
+un artículo 242B a la Ley 906 de 2004: Artículo 242B. 22 CARTILLA METODOLÓGICA DE ATENCIÓN DE DELITOS INFORMÁTICOS
+
+MANUAL DE POLICÍA JUDICIAL
+
+18.3 Aspectos relevantes. 2.4.1. Actos urgentes.
+
+RESOLUCIÓN NRO. 0260 DEL 25 DE ENERO DE 2023, “Por la cual se define la estructura orgánica de la Dirección de Investigación Criminal e INTERPOL, se determinan
+
+las funciones de sus dependencias internas”.
+
+# 14. ANEXOS
+
+REFERENCIAS BIBLIOGRAFICAS.
+
+Plan de Contingencia y Continuidad de Negocio. Obtenido de:
+
+https://www.incibe.es/protege-tu-empresa/que-te-interesa/plan-contingencia-continuidad-negocio
+
+Departamento Nacional de Planeación. (14 de Julio de 2011). Obtenido de CONPES 3701
+
+https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3701.pdf
+
+Departamento Nacional de Planeación. (1 de julio de 2020). Obtenido de CONPES 3995:
+
+https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3995.pdf
+
+Departamento Nacional de Planeación. (11 de abril de 2016). Obtenido de CONPES 3854:
+
+https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf
+
+OAS. (23 de 11 de 2001). Organización de estados americanos. Obtenido de https://www.oas. org/juridico/english/cyb_pry_convenio.pdf
+
+Senado. (1 de Enero de 2009). Obtenido de secretariasenado: http://www.secretariasenado.gov. co/senado/basedoc/ley_1273_2009.html
+
+Senado (2018), Ley 1928 de 2018, por medio de la cual se aprueba el “Convenio sobre la Ci -
+
+berdelincuencia”, adoptado el 23 de noviembre de 2001, recuperado de https://www.senado. gov.co/.
+
+Nir (2021), Ingeniería social, claves y precauciones desde la seguridad informática, https:// www.unir.net/ingenieria/revista/ingenieria-social/
+
+INCIBE (2020), El ataque del “Man in the middle” en la empresa, riesgos y formas de evitarlo
+
+recuperado de https://www.incibe.es/protege-tu-empresa/blog/el-ataque-del-man-middle-empre-sa-riesgos-y-formas-evitarlo.
+
+Posada Maya, Ricardo. “Los cibercrímenes: Un nuevo paradigma de criminalidad”. Bogotá, Gru -
+
+po Editorial Ibañez, 2017.
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:44:38+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.fiscalia.gov.co/colombia/wp-content/uploads/Cartilla-Metodologica-de-Atencion-de-Delitos-Informaticos.pdf
+- cleanup: jina navigation trim

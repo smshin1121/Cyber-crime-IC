@@ -21,11 +21,12 @@ key_findings:
   - "Confirms EJCN as a recurring semi-formal liaison/information-sharing platform administered by Eurojust"
 collection_url: https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary
 created: 2026-04-14
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:cdad9ac10f4f840eb0817a3fb9bfc78f508d4ba0127ef43c23f8d77af8b65f0f
-word_count: 223
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:1bb717bebda3e1b9b2ae2cf7bcf9ed239b18a961cc1bc5154ccc19e50ef997cc
+word_count: 428
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Summary
 

@@ -2,7 +2,7 @@
 created: 2026-04-08
 title: International Cooperation on Cyber Crime - Overview
 type: overview
-updated: '2026-04-28'
+updated: '2026-04-29'
 ---
 
 # State of International Cooperation on Cyber Crime
@@ -77,7 +77,7 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 | Total servers seized | 2,997+ | Primarily Europol operations |
 | Total domains seized | 812,161+ | Canonical operations |
 | Unique participating countries | 153+ | Canonical operations |
-| Sources with dedicated pages | 4765 | US DOJ USAO 1198, INTERPOL 92, Europol 87, US DOJ 69, Council of Europe 64 |
+| Sources with dedicated pages | 4784 | US DOJ USAO 1198, INTERPOL 93, Europol 88, US DOJ 69, BleepingComputer 67 |
 | Crime types documented | 24 | All documented types |
 
 ## Recent Activity
@@ -86,7 +86,7 @@ See [[log]] for wiki activity history.
 
 ## References
 
-Operational statistics in this overview aggregate the 111 canonical operation pages. The wiki also retains 974 absorbed follow-on records for traceability, for 1085 total operation records, plus 4765 source pages. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
+Operational statistics in this overview aggregate the 111 canonical operation pages. The wiki also retains 974 absorbed follow-on records for traceability, for 1085 total operation records, plus 4784 source pages. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|

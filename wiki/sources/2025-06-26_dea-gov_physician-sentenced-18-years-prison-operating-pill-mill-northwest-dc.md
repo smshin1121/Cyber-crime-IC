@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/06/26/physician-sentence
 created: 2026-04-25
 raw_path: raw/press-releases/2025-06-26_dea-gov_physician-sentenced-18-years-prison-operating-pill-mill-northwest-dc.md
 text_status: parsed
-content_hash: sha256:be6e23063b0eb2a3a1d08a7ed61d5d99672785df02e49c8eb50314cb6ed82d67
-word_count: 5478
-extraction_date: 2026-04-25
+content_hash: sha256:ca1c7aa64322d6bae258fdea34f7c7913b621f24600028013538021c0bcfd50e
+word_count: 650
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

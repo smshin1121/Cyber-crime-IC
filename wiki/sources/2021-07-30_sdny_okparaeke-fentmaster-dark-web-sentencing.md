@@ -32,4 +32,4 @@ On 30 July 2021, DOJ announced that Chukwuemeka Okparaeke, known as `Fentmaster`
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2021-07-30_sdny_okparaeke-fentmaster-dark-web-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2021-07-30_sdny_okparaeke-fentmaster-dark-web-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

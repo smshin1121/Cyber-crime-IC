@@ -52,25 +52,25 @@ results:
     - "Follow-on charging action derived from the Nemesis infrastructure seizure"
     - "Parallel OFAC sanctions action taken in March 2025"
 edges:
-  []
+
 credibility_index: 4.25
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-parsarad-nemesis]]"
 related_operations:
   - "[[nemesis-market-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
-  - "[[2025-04-17_opa_parsarad-nemesis-indictment]]"
+  - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
 summary: "This follow-on enforcement action captures the post-seizure charging and sanctions phase directed at Behrouz Parsarad after the Nemesis infrastructure seizure."
 created: 2026-04-17
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 ## Summary
 
@@ -134,4 +134,4 @@ The operation-side value of this page is that it preserves the shift from techni
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Page not found | U.S. Department of Justice | 2025-04-17 | https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace |
+| [1] | Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet | Bundeskriminalamt / ZIT Frankfurt | 2024-03-21 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html |

@@ -12,14 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:38474bfd7ec12cfc1f1f2640cedfc1076888636ab9394f2eb470633671200aa5
-word_count: 7270
-extraction_date: 2026-04-26
+content_hash: sha256:9b5fc23eae82d95d9d99473e8233e11dcd0516a684d7bf256b6fc815293c05ea
+word_count: 6588
+extraction_date: 2026-04-29
 storage_mode: fulltext
 source_page: wiki/sources/2009-09-15_dre-pt_lei-n-109-2009-lei-do-cibercrime.md
 license_basis: official_legal_text
 attribution_required: true
 attribution_url: "https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=1137&tabela=leis"
+parser: jina_markdown
 ---
 ## Summary
 
@@ -27,75 +28,7 @@ Portugal is an EU member state and **[[budapest-convention|Budapest Convention]]
 
 ## Extracted Text
 
-Title: :::Lei n.º 109/2009, de 15 de Setembro
-
-URL Source: https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=1137&tabela=leis
-
-Markdown Content:
-
-[Nº de artigos:**40]**
-
-Lei n.º 109/2009, de 15 de Setembro (versão actualizada)
-
-LEI DO CIBERCRIME
-
-Contém as seguintes alterações:
-
-- Lei n.º 79/2021, de 24 de Novembro
-
-- DL n.º 125/2025, de 04 de Dezembro
-
-SUMÁRIO
-
-Aprova a Lei do Cibercrime, transpondo para a ordem jurídica interna a Decisão Quadro n.º 2005/222/JAI, do Conselho, de 24 de Fevereiro, relativa a ataques contra sistemas de informação, e adapta o direito interno à Convenção sobre Cibercrime do Conselho da Europa
-
-__________________________
-
-Lei n.º 109/2009
-
-de 15 de Setembro
-
-Aprova a Lei do Cibercrime, transpondo para a ordem jurídica interna a Decisão Quadro n.º 2005/222/JAI, do Conselho, de 24 de Fevereiro, relativa a ataques contra sistemas de informação, e adapta o direito interno à Convenção sobre Cibercrime do Conselho da Europa.
-
-A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
-
-CAPÍTULO I
-
-Objecto e definições
-
-Artigo 1.º
-
-Objecto
-
-**A presente lei estabelece as disposições penais materiais e processuais, bem como as disposições relativas à cooperação internacional em matéria penal, relativas ao domínio do cibercrime e da recolha de prova em suporte electrónico, transpondo para a ordem jurídica interna a Decisão Quadro n.º 2005/222/JAI, do Conselho, de 24 de Fevereiro, relativa a ataques contra sistemas de informação, e adaptando o direito interno à Convenção sobre Cibercrime do Conselho da Europa.
-
-Artigo 2.º
-
-Definições
-
-Para efeitos da presente lei, considera-se:
-
-a) «Sistema informático», qualquer dispositivo ou conjunto de dispositivos interligados ou associados, em que um ou mais de entre eles desenvolve, em execução de um programa, o tratamento automatizado de dados informáticos, bem como a rede que suporta a comunicação entre eles e o conjunto de dados informáticos armazenados, tratados, recuperados ou transmitidos por aquele ou aqueles dispositivos, tendo em vista o seu funcionamento, utilização, protecção e manutenção;
-
-b) «Dados informáticos», qualquer representação de factos, informações ou conceitos sob uma forma susceptível de processamento num sistema informático, incluindo os programas aptos a fazerem um sistema informático executar uma função;
-
-c) «Dados de tráfego», os dados informáticos relacionados com uma comunicação efectuada por meio de um sistema informático, gerados por este sistema como elemento de uma cadeia de comunicação, indicando a origem da comunicação, o destino, o trajecto, a hora, a data, o tamanho, a duração ou o tipo do serviço subjacente;
-
-d) «Fornecedor de serviço», qualquer entidade, pública ou privada, que faculte aos utilizadores dos seus serviços a possibilidade de comunicar por meio de um sistema informático, bem como qualquer outra entidade que trate ou armazene dados informáticos em nome e por conta daquela entidade fornecedora de serviço ou dos respectivos utilizadores;
-
-e) «Intercepção», o acto destinado a captar informações contidas num sistema informático, através de dispositivos electromagnéticos, acústicos, mecânicos ou outros;
-
-f) «Topografia», uma série de imagens ligadas entre si, independentemente do modo como são fixadas ou codificadas, que representam a configuração tridimensional das camadas que compõem um produto semicondutor e na qual cada imagem reproduz o desenho, ou parte dele, de uma superfície do produto semicondutor, independentemente da fase do respectivo fabrico;
-
-g) «Produto semicondutor», a forma final ou intermédia de qualquer produto, composto por um substrato que inclua uma camada de material semicondutor e constituído por uma ou várias camadas de matérias condutoras, isolantes ou semicondutoras, segundo uma disposição conforme a uma configuração tridimensional e destinada a cumprir, exclusivamente ou não, uma função electrónica.
-
-h) ‘Vulnerabilidade’, uma fragilidade, suscetibilidade ou falha, que afeta redes e sistemas de informação, produtos ou serviços de tecnologias da informação ou comunicação, passível de ser explorada por uma ciberameaça, definida na aceção do ponto 8 do artigo 2.º do Regulamento (UE) 2019/881, do Parlamento Europeu e do Conselho, de 17 de abril de 2019.
-
-_Contém as alterações introduzidas pelos seguintes diplomas:_
-
--DL n.º 125/2025, de 04 de Dezembro _Versões anteriores deste artigo:_
-
-- 1ª versão:Lei n.º 109/2009, de 15 de Setembro
+1ª versão:Lei n.º 109/2009, de 15 de Setembro
 
 CAPÍTULO II
 
@@ -665,10 +598,8 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T16:20:10+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=1137&tabela=leis
-- storage_mode: fulltext
-- license_basis: official_legal_text
-- attribution_url: https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=1137&tabela=leis
+- cleanup: jina navigation trim

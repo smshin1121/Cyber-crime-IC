@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/-/netherlands
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:e8aa4209f396188f7989c159e796cdbfbee6980abea2bee2b7a9092abc59a980
-word_count: 3772
-extraction_date: 2026-04-25
+content_hash: sha256:da681c284f3beab054f720d2d4cf9f65a97c56b84b6c9b999958e62a5eebc38c
+word_count: 133
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

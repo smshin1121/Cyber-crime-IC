@@ -12,40 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:963a217b83421b1e937ac239238f7fb3c54a1accb4228e7c0f427f876c973a09
-word_count: 2841
-extraction_date: 2026-04-25
+content_hash: sha256:5353a0e3eb08b9d0a4593deae9e370f7d81185fe5f4a251e4620b169e73e961f
+word_count: 890
+extraction_date: 2026-04-29
 source_page: wiki/sources/2024-05-30_bmi-bund-de_worldwide-investigation-against-cyber-crime-crowned-by-success.md
+parser: jina_markdown
 ---
 ## Summary
 
 **Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]], with participation from law enforcement agencies across at least 15 countries.
-
-## Extracted Text
-
-Title: Worldwide investigation against cyber crime crowned by success
-
-URL Source: https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html
-
-Published Time: 2024-06-04T09:48:29+0200
-
-Markdown Content:
-
-# BMI - News - Worldwide investigation against cyber crime crowned by success
-
-[read out](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=6788&lang=en_us&readid=content&url=https%3A%2F%2Fwww.bmi.bund.de%2FSharedDocs%2Fkurzmeldungen%2FEN%2F2024%2F05%2Fendgame.html&charset=UTF-8 "Listen to this page using ReadSpeaker")
-
-[](https://www.bmi.bund.de/)
-
-# Navigation and service
-
-_Go to:_
-
-* [Content](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html#content)
-
-* [Main Menu](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html#navPrimary)
-
-* [Search](https://www.bmi.bund.de/SiteGlobals/Forms/suche/EN/expertensuche-formular.html)
 
 ## A notice about cookies
 
@@ -351,9 +326,134 @@ Seiteninformation
 
 Schließen![Image 26: Schließen](https://www.bmi.bund.de/SiteGlobals/Frontend/Images/icons/close.svg?__blob=normal&v=1)
 
+## Extracted Text
+
+# Worldwide investigation against cyber crime crowned by success
+
+type: News, Topic: IT & Internet policy, Date: 30 May 2024
+
+Together with international partner agencies, the Federal Criminal Police Office (BKA) has staged operation "Endgame", delivering the hardest blow to date against malware groups
+
+Source: BKA
+
+**External link Information about Operation "Endgame"**
+
+to the website")
+
+In a joint international operation on 28 and 29 May 2024, the Central Office for the Fight against Cyber Crime (ZIT) at the Frankfurt (Main) Public Prosecutor General’s Office and the Federal Criminal Police Office, together with law enforcement agencies in the Netherlands, France, Denmark, the United Kingdom, Austria and the United States and with support from Europol") and Eurojust, took down some of the most powerful malware families.
+
+### quote:
+
+> “This major success in the fight against online crime shows that even on the internet, criminals cannot feels safe.”
+
+Federal Minister of the Interior Nancy Faeser
+
+On the basis of international legal assistance, law enforcement authorities from Portugal, Ukraine, Switzerland, Lithuania, Romania, Bulgaria and Armenia were also involved in the operation
+
+## 100 servers seized, 1,300 domains bocked and 10 arrest warrants issued
+
+Operation "Endgame" was aimed at combating global cyber crime in the long term, focusing especially on the technical and financial infrastructures used by criminals and taking concerted action against members of several criminal groups that partly cooperated with each other. This way, the law enforcement agencies managed to take down several malware families simultaneously.
+
+Seizure Banner Operation Endgame (Larger version opens in new window) ")Source: BKA
+
+Across the world, 100 servers were seized, 1,300 domains used for criminal purposes were blocked, 10 international arrest warrants were issued and four individuals were temporarily detained. Eight arrest warrants were issued in Germany alone.
+
+Furthermore, an order for the seizure of assets totalling 69 million euros was issued against an identified operator and administrator, and 99 crypto wallets with a current total volume of more than 70 million euros were blocked at various cryptocurrency exchanges.
+
+All in all, 16 premises were searched in Armenia, the Netherlands, Portugal and Ukraine, resulting in the seizure of an abundant amount of evidence.
+
+"With today’s police operation we have dismantled the infrastructure that has been used by criminals around the globe to launch massive ransomware attacks to steal and encrypt data with a view to blackmailing the victims," Federal Minister of the Interior Nancy Faeser said. The Minister added that ransomware attacks were causing massive economic damage to Germany and that the extent of the investigation’s success had shown "that we are striking back hard and that the dimensions of this type of crime are huge."
+
+## The investigations focused on ransomware
+
+The current investigations were primarily targeted at the groups behind the six malware families IcedID, SystemBC, Bumblebee, Smokeloader, Pikabot and Trickbot, which were connected to at least 15 ransomware groups as "droppers"
+
+### "Droppers" - malware
+
+"Droppers" are malware variants that are used by cyber criminals as door-openers to install other malware on target systems. This enables criminals to infect the target systems without being detected and to load other malware. The aim is to get hold of personal data such as user names and passwords or to encrypt infected systems/networks with a view to extorting ransom money.
+
+> “With the international operation ‘Endgame’, our investigating authorities have dealt the most powerful strike against cyber crime to date. I would like to congratulate the Federal Criminal Police Office, the Frankfurt (Main) Public Prosecutor’s Office and our many international partners.”
+
+### Search for wanted suspects
+
+Germany’s authorities have issued arrest warrants against eight suspects. On this basis, the Federal Criminal Police Office and the Central Office for the Fight against Cyber Crime are searching for seven identified individuals who are strongly suspected of membership in a criminal organisation engaging in the distribution of the Trickbot malware. Furthermore, the authorities are searching for another individual who is strongly suspected of being the ringleader of a group behind the Smokeloader malware. Photographs and descriptions of the suspects can be found on the BKA website at: www.bka.de/endgame_fahndung
+
+All news
+
+# Footer
+
+## This Page
+
+Recommend page
+
+Print
+
+Close
+
+### Share contents
+
+E-Mail
+
+tweet
+
+share
+
+If you click on the buttons below, data will be transmitted to Facebook, Twitter or WhatsApp and may be stored there.
+
+The BMI has no influence over how these social networks collect or use data.
+
+You will find further information on data privacy in our .
+
+to top
+
+## Visit us on
+
+[](https://www.instagram.com/bmi_bund "External link: Instagram (Opens new window)")
+
+[](https://www.linkedin.com/company/bundesinnenministerium "External link: LinkedIn (Opens new window)")
+
+[](https://social.bund.de/@bmi "External link: Mastodon (Opens new window)")
+
+[](https://www.twitter.com/BMI_Bund "External link: X / Twitter (Opens new window)")
+
+[](https://www.youtube.com/channel/UCEj9_d1bBphisn1KSv96TZA "External link: YouTube (Opens new window)")
+
+## Contact
+
+Contact Public Enquiry Service
+
+Contact Press Office
+
+## Public enquiry
+
+service
+
+For general questions regarding the ID card and the eID, please contact the public enquiry service.
+
+Mondays to Thursdays: from 8 a.m. to 5 p.m.
+
+Fridays: from 8 a.m. to 3 p.m.
+
++49 30 18 681 23333[](tel:+49 "Call number")
+
+## Government service
+
+number 115
+
+For all questions related to public administration, please contact the public administration's customer service.
+
+Mondays to Fridays: from 8 a.m. to 6 p.m.
+
+**+49-115**
+
+Seiteninformation
+
+Publication Data
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:43:49+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html
+- cleanup: jina navigation trim

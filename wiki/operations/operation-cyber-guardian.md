@@ -33,9 +33,12 @@ participating_agencies:
   - "[[knpa-cyber-bureau]]"
   - "[[japan-npa]]"
 legal_basis:
-
+  - "domestic CSAM enforcement authorities of participating jurisdictions"
+  - "cross-border police cooperation"
 mechanisms_used:
   - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
+  - "technical intelligence sharing"
 results:
   arrests: 544
   indictments: 0
@@ -56,7 +59,11 @@ sources:
   - "[[2025-04-07_seoul-co-kr_asia-6-country-crackdown-on-online-child-sexual-abuse-material]]"
   - "[[2025-04-08_police-gov-sg_cross-border-operation-targeting-online-child-sexual-exploitation-activities]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
+related_operations:
+  - "[[operation-synergia-ii]]"
+  - "[[operation-secure-interpol]]"
+  - "[[operation-endgame]]"
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Cyber Guardian was a Singapore-initiated six-jurisdiction crackdown on online child sexual exploitation crimes in Asia, producing 544 identified suspects or arrests across South Korea, Japan, Singapore, Malaysia, Thailand, and Hong Kong."

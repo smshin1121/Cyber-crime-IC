@@ -18,11 +18,12 @@ key_findings:
 collection_url: https://www.eurojust.europa.eu/news/51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups
 created: 2026-04-25
 raw_path: raw/press-releases/2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:8cdc757324c8d0537f1f3c40f06815a070f65b2eec0ca5b014a37f3d08749818
-word_count: 193
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:92734996b5818a1062def965ae8e0c06c70adb38359a9d65588a7361a20dfbf0
+word_count: 707
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

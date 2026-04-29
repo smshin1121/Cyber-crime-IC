@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/-/armenia
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:881547cb473a53387928c0ce2da5fb5636c16b0a2e4cf9a9c5eaec44c635b8eb
-word_count: 3788
-extraction_date: 2026-04-25
+content_hash: sha256:d85e130591eb6f6c0873557596903dbff677d2d58af83363eda794a1e929a515
+word_count: 133
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The **Division for Combating High-Tech Crime** of the Police of the Republic of 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_armenia-cybercrime-country-profile.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_armenia-cybercrime-country-profile.md`, preserving traceable review without classifying the page as a placeholder.

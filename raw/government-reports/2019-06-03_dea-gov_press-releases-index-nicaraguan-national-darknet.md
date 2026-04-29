@@ -12,60 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:f973ef3f4e2c2b0bada0000873c3b19ea26a82525585f63037994a49aca5be55
-word_count: 6176
-extraction_date: 2026-04-25
+content_hash: sha256:c15c9b93956c711099feffda823057334b6cd3a56fd7a9a8067f717c2285092c
+word_count: 876
+extraction_date: 2026-04-29
 source_page: wiki/sources/2019-06-03_dea-gov_press-releases-index-nicaraguan-national-darknet.md
+parser: jina_markdown
 ---
 ## Summary
 
 Source text harvested from https://www.dea.gov/es/node/145876.
-
-## Extracted Text
-
-Title: Press Releases
-
-URL Source: https://www.dea.gov/es/node/145876
-
-Published Time: Fri, 24 Apr 2026 22:48:35 GMT
-
-Markdown Content:
-
-# Press Releases | DEA.gov
-
-[Pasar al contenido principal](https://www.dea.gov/es/node/145876#main-content)
-
-![Image 2: U.S. flag](https://www.dea.gov/themes/custom/ohana/dist/img/us_flag_small.png)
-
-Un sitio oficial del Gobierno de Estados Unidos
-
-Así es como usted puede verificarlo
-
-![Image 3: Dot gov](https://www.dea.gov/themes/custom/ohana/dist/img/icon-dot-gov.svg)
-
-**Los sitios web oficiales usan .gov**
-
-Un sitio web **.gov** pertenece a una organización oficial del Gobierno de Estados Unidos.
-
-![Image 4: Https](https://www.dea.gov/themes/custom/ohana/dist/img/icon-https.svg)
-
-**Los sitios web seguros .gov usan HTTPS**
-
-Un **candado** ( ) o **https://**significa que usted se conectó de forma segura a un sitio web .gov. Comparta información sensible sólo en sitios web oficiales y seguros.
-
-# [United States Drug Enforcement Administration](https://www.dea.gov/es "Inicio")
-
-* [Recibir Actualizaciones](https://public.govdelivery.com/accounts/USDOJDEA/subscriber/new?qsp=CODE_RED)
-
-* [Scam Alert](https://www.dea.gov/scam-alert)
-
-* [Menú Completo](https://www.dea.gov/es/node/145876#fullmenu)
-
-* Powered by [![Image 5: Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/) [![Image 6: es](https://cdn.gtranslate.net/flags/svg/es-mx.svg) Español](https://www.dea.gov/es/node/145876#) [![Image 7: en](https://www.dea.gov/es/node/145876) English](https://www.dea.gov/es/node/145876# "English")[![Image 8: ar](https://www.dea.gov/es/node/145876) العربية](https://www.dea.gov/es/node/145876# "العربية")[![Image 9: bg](https://www.dea.gov/es/node/145876) Български](https://www.dea.gov/es/node/145876# "Български")[![Image 10: zh-CN](https://www.dea.gov/es/node/145876) 简体中文](https://www.dea.gov/es/node/145876# "简体中文")[![Image 11: zh-TW](https://www.dea.gov/es/node/145876) 繁體中文](https://www.dea.gov/es/node/145876# "繁體中文")[![Image 12: hr](https://www.dea.gov/es/node/145876) Hrvatski](https://www.dea.gov/es/node/145876# "Hrvatski")[![Image 13: cs](https://www.dea.gov/es/node/145876) Čeština‎](https://www.dea.gov/es/node/145876# "Čeština‎")[![Image 14: da](https://www.dea.gov/es/node/145876) Dansk](https://www.dea.gov/es/node/145876# "Dansk")[![Image 15: nl](https://www.dea.gov/es/node/145876) Nederlands](https://www.dea.gov/es/node/145876# "Nederlands")[![Image 16: fi](https://www.dea.gov/es/node/145876) Suomi](https://www.dea.gov/es/node/145876# "Suomi")[![Image 17: fr](https://www.dea.gov/es/node/145876) Français](https://www.dea.gov/es/node/145876# "Français")[![Image 18: de](https://www.dea.gov/es/node/145876) Deutsch](https://www.dea.gov/es/node/145876# "Deutsch")[![Image 19: el](https://www.dea.gov/es/node/145876) Ελληνικά](https://www.dea.gov/es/node/145876# "Ελληνικά")[![Image 20: hi](https://www.dea.gov/es/node/145876) हिन्दी](https://www.dea.gov/es/node/145876# "हिन्दी")[![Image 21: it](https://www.dea.gov/es/node/145876) Italiano](https://www.dea.gov/es/node/145876# "Italiano")[![Image 22: ja](https://www.dea.gov/es/node/145876) 日本語](https://www.dea.gov/es/node/145876# "日本語")[![Image 23: ko](https://www.dea.gov/es/node/145876) 한국어](https://www.dea.gov/es/node/145876# "한국어")[![Image 24: no](https://www.dea.gov/es/node/145876) Norsk bokmål](https://www.dea.gov/es/node/145876# "Norsk bokmål")[![Image 25: pl](https://www.dea.gov/es/node/145876) Polski](https://www.dea.gov/es/node/145876# "Polski")[![Image 26: pt](https://www.dea.gov/es/node/145876) Português](https://www.dea.gov/es/node/145876# "Português")[![Image 27: ro](https://www.dea.gov/es/node/145876) Română](https://www.dea.gov/es/node/145876# "Română")[![Image 28: ru](https://www.dea.gov/es/node/145876) Русский](https://www.dea.gov/es/node/145876# "Русский")[![Image 29: es](https://www.dea.gov/es/node/145876) Español](https://www.dea.gov/es/node/145876# "Español")[![Image 30: sv](https://www.dea.gov/es/node/145876) Svenska](https://www.dea.gov/es/node/145876# "Svenska")[![Image 31: ca](https://www.dea.gov/es/node/145876) Català](https://www.dea.gov/es/node/145876# "Català")[![Image 32: tl](https://www.dea.gov/es/node/145876) Filipino](https://www.dea.gov/es/node/145876# "Filipino")[![Image 33: iw](https://www.dea.gov/es/node/145876) עִבְרִית](https://www.dea.gov/es/node/145876# "עִבְרִית")[![Image 34: id](https://www.dea.gov/es/node/145876) Bahasa Indonesia](https://www.dea.gov/es/node/145876# "Bahasa Indonesia")[![Image 35: lv](https://www.dea.gov/es/node/145876) Latviešu valoda](https://www.dea.gov/es/node/145876# "Latviešu valoda")[![Image 36: lt](https://www.dea.gov/es/node/145876) Lietuvių kalba](https://www.dea.gov/es/node/145876# "Lietuvių kalba")[![Image 37: sr](https://www.dea.gov/es/node/145876) Српски језик](https://www.dea.gov/es/node/145876# "Српски језик")[![Image 38: sk](https://www.dea.gov/es/node/145876) Slovenčina](https://www.dea.gov/es/node/145876# "Slovenčina")[![Image 39: sl](https://www.dea.gov/es/node/145876) Slovenščina](https://www.dea.gov/es/node/145876# "Slovenščina")[![Image 40: uk](https://www.dea.gov/es/node/145876) Українська](https://www.dea.gov/es/node/145876# "Українська")[![Image 41: vi](https://www.dea.gov/es/node/145876) Tiếng Việt](https://www.dea.gov/es/node/145876# "Tiếng Việt")[![Image 42: sq](https://www.dea.gov/es/node/145876) Shqip](https://www.dea.gov/es/node/145876# "Shqip")[![Image 43: et](https://www.dea.gov/es/node/145876) Eesti](https://www.dea.gov/es/node/145876# "Eesti")[![Image 44: gl](https://www.dea.gov/es/node/145876) Galego](https://www.dea.gov/es/node/145876# "Galego")[![Image 45: hu](https://www.dea.gov/es/node/145876) Magyar](https://www.dea.gov/es/node/145876# "Magyar")[![Image 46: mt](https://www.dea.gov/es/node/145876) Maltese](https://www.dea.gov/es/node/145876# "Maltese")[![Image 47: th](https://www.dea.gov/es/node/145876) ไทย](https://www.dea.gov/es/node/145876# "ไทย")[![Image 48: tr](https://www.dea.gov/es/node/145876) Türkçe](https://www.dea.gov/es/node/145876# "Türkçe")[![Image 49: fa](https://www.dea.gov/es/node/145876) فارسی](https://www.dea.gov/es/node/145876# "فارسی")[![Image 50: af](https://www.dea.gov/es/node/145876) Afrikaans](https://www.dea.gov/es/node/145876# "Afrikaans")[![Image 51: ms](https://www.dea.gov/es/node/145876) Bahasa Melayu](https://www.dea.gov/es/node/145876# "Bahasa Melayu")[![Image 52: sw](https://www.dea.gov/es/node/145876) Kiswahili](https://www.dea.gov/es/node/145876# "Kiswahili")[![Image 53: ga](https://www.dea.gov/es/node/145876) Gaeilge](https://www.dea.gov/es/node/145876# "Gaeilge")[![Image 54: cy](https://www.dea.gov/es/node/145876) Cymraeg](https://www.dea.gov/es/node/145876# "Cymraeg")[![Image 55: be](https://www.dea.gov/es/node/145876) Беларуская мова](https://www.dea.gov/es/node/145876# "Беларуская мова")[![Image 56: is](https://www.dea.gov/es/node/145876) Íslenska](https://www.dea.gov/es/node/145876# "Íslenska")[![Image 57: mk](https://www.dea.gov/es/node/145876) Македонски јазик](https://www.dea.gov/es/node/145876# "Македонски јазик")[![Image 58: yi](https://www.dea.gov/es/node/145876) יידיש](https://www.dea.gov/es/node/145876# "יידיש")[![Image 59: hy](https://www.dea.gov/es/node/145876) Հայերեն](https://www.dea.gov/es/node/145876# "Հայերեն")[![Image 60: az](https://www.dea.gov/es/node/145876) Azərbaycan dili](https://www.dea.gov/es/node/145876# "Azərbaycan dili")[![Image 61: eu](https://www.dea.gov/es/node/145876) Euskara](https://www.dea.gov/es/node/145876# "Euskara")[![Image 62: ka](https://www.dea.gov/es/node/145876) ქართული](https://www.dea.gov/es/node/145876# "ქართული")[![Image 63: ht](https://www.dea.gov/es/node/145876) Kreyol ayisyen](https://www.dea.gov/es/node/145876# "Kreyol ayisyen")[![Image 64: ur](https://www.dea.gov/es/node/145876) اردو](https://www.dea.gov/es/node/145876# "اردو")[![Image 65: bn](https://www.dea.gov/es/node/145876) বাংলা](https://www.dea.gov/es/node/145876# "বাংলা")[![Image 66: bs](https://www.dea.gov/es/node/145876) Bosanski](https://www.dea.gov/es/node/145876# "Bosanski")[![Image 67: ceb](https://www.dea.gov/es/node/145876) Cebuano](https://www.dea.gov/es/node/145876# "Cebuano")[![Image 68: eo](https://www.dea.gov/es/node/145876) Esperanto](https://www.dea.gov/es/node/145876# "Esperanto")[![Image 69: gu](https://www.dea.gov/es/node/145876) ગુજરાતી](https://www.dea.gov/es/node/145876# "ગુજરાતી")[![Image 70: ha](https://www.dea.gov/es/node/145876) Harshen Hausa](https://www.dea.gov/es/node/145876# "Harshen Hausa")[![Image 71: hmn](https://www.dea.gov/es/node/145876) Hmong](https://www.dea.gov/es/node/145876# "Hmong")[![Image 72: ig](https://www.dea.gov/es/node/145876) Igbo](https://www.dea.gov/es/node/145876# "Igbo")[![Image 73: jw](https://www.dea.gov/es/node/145876) Basa Jawa](https://www.dea.gov/es/node/145876# "Basa Jawa")[![Image 74: kn](https://www.dea.gov/es/node/145876) ಕನ್ನಡ](https://www.dea.gov/es/node/145876# "ಕನ್ನಡ")[![Image 75: km](https://www.dea.gov/es/node/145876) ភាសាខ្មែរ](https://www.dea.gov/es/node/145876# "ភាសាខ្មែរ")[![Image 76: lo](https://www.dea.gov/es/node/145876) ພາສາລາວ](https://www.dea.gov/es/node/145876# "ພາສາລາວ")[![Image 77: la](https://www.dea.gov/es/node/145876) Latin](https://www.dea.gov/es/node/145876# "Latin")[![Image 78: mi](https://www.dea.gov/es/node/145876) Te Reo Māori](https://www.dea.gov/es/node/145876# "Te Reo Māori")[![Image 79: mr](https://www.dea.gov/es/node/145876) मराठी](https://www.dea.gov/es/node/145876# "मराठी")[![Image 80: mn](https://www.dea.gov/es/node/145876) Монгол](https://www.dea.gov/es/node/145876# "Монгол")[![Image 81: ne](https://www.dea.gov/es/node/145876) नेपाली](https://www.dea.gov/es/node/145876# "नेपाली")[![Image 82: pa](https://www.dea.gov/es/node/145876) ਪੰਜਾਬੀ](https://www.dea.gov/es/node/145876# "ਪੰਜਾਬੀ")[![Image 83: so](https://www.dea.gov/es/node/145876) Afsoomaali](https://www.dea.gov/es/node/145876# "Afsoomaali")[![Image 84: ta](https://www.dea.gov/es/node/145876) தமிழ்](https://www.dea.gov/es/node/145876# "தமிழ்")[![Image 85: te](https://www.dea.gov/es/node/145876) తెలుగు](https://www.dea.gov/es/node/145876# "తెలుగు")[![Image 86: yo](https://www.dea.gov/es/node/145876) Yorùbá](https://www.dea.gov/es/node/145876# "Yorùbá")[![Image 87: zu](https://www.dea.gov/es/node/145876) Zulu](https://www.dea.gov/es/node/145876# "Zulu")[![Image 88: my](https://www.dea.gov/es/node/145876) ဗမာစာ](https://www.dea.gov/es/node/145876# "ဗမာစာ")[![Image 89: ny](https://www.dea.gov/es/node/145876) Chichewa](https://www.dea.gov/es/node/145876# "Chichewa")[![Image 90: kk](https://www.dea.gov/es/node/145876) Қазақ тілі](https://www.dea.gov/es/node/145876# "Қазақ тілі")[![Image 91: mg](https://www.dea.gov/es/node/145876) Malagasy](https://www.dea.gov/es/node/145876# "Malagasy")[![Image 92: ml](https://www.dea.gov/es/node/145876) മലയാളം](https://www.dea.gov/es/node/145876# "മലയാളം")[![Image 93: si](https://www.dea.gov/es/node/145876) සිංහල](https://www.dea.gov/es/node/145876# "සිංහල")[![Image 94: st](https://www.dea.gov/es/node/145876) Sesotho](https://www.dea.gov/es/node/145876# "Sesotho")[![Image 95: su](https://www.dea.gov/es/node/145876) Basa Sunda](https://www.dea.gov/es/node/145876# "Basa Sunda")[![Image 96: tg](https://www.dea.gov/es/node/145876) Тоҷикӣ](https://www.dea.gov/es/node/145876# "Тоҷикӣ")[![Image 97: uz](https://www.dea.gov/es/node/145876) O‘zbekcha](https://www.dea.gov/es/node/145876# "O‘zbekcha")[![Image 98: am](https://www.dea.gov/es/node/145876) አማርኛ](https://www.dea.gov/es/node/145876# "አማርኛ")[![Image 99: co](https://www.dea.gov/es/node/145876) Corsu](https://www.dea.gov/es/node/145876# "Corsu")[![Image 100: haw](https://www.dea.gov/es/node/145876) Ōlelo Hawaiʻi](https://www.dea.gov/es/node/145876# "Ōlelo Hawaiʻi")[![Image 101: ku](https://www.dea.gov/es/node/145876) كوردی‎](https://www.dea.gov/es/node/145876# "كوردی‎")[![Image 102: ky](https://www.dea.gov/es/node/145876) Кыргызча](https://www.dea.gov/es/node/145876# "Кыргызча")[![Image 103: lb](https://www.dea.gov/es/node/145876) Lëtzebuergesch](https://www.dea.gov/es/node/145876# "Lëtzebuergesch")[![Image 104: ps](https://www.dea.gov/es/node/145876) پښتو](https://www.dea.gov/es/node/145876# "پښتو")[![Image 105: sm](https://www.dea.gov/es/node/145876) Samoan](https://www.dea.gov/es/node/145876# "Samoan")[![Image 106: gd](https://www.dea.gov/es/node/145876) Gàidhlig](https://www.dea.gov/es/node/145876# "Gàidhlig")[![Image 107: sn](https://www.dea.gov/es/node/145876) Shona](https://www.dea.gov/es/node/145876# "Shona")[![Image 108: sd](https://www.dea.gov/es/node/145876) سنڌي](https://www.dea.gov/es/node/145876# "سنڌي")[![Image 109: fy](https://www.dea.gov/es/node/145876) Frysk](https://www.dea.gov/es/node/145876# "Frysk")[![Image 110: xh](https://www.dea.gov/es/node/145876) isiXhosa](https://www.dea.gov/es/node/145876# "isiXhosa")
-
-* [English](https://www.dea.gov/what-we-do/news/press-releases)
-
-* [Español](https://www.dea.gov/es/node/145876)
 
 ## Main Menu
 
@@ -537,9 +492,168 @@ Your feedback will be used to help improve Google Translate
 
 ![Image 116: dot image pixel](https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2025%20Apr%202026%2013%3A40%3A24%20GMT&n=0&b=Press%20Releases%20%7C%20DEA.gov&.yp=10207861&f=https%3A%2F%2Fwww.dea.gov%2Fes%2Fnode%2F145876&enc=UTF-8&yv=1.16.6&tagmgr=gtm)
 
+## Extracted Text
+
+PRESS RELEASE
+
+### DEA Part of Historic Cocaine Seizure in the Dominican Republic
+
+San Juan, Puerto Rico — On April 17, 2026, the Drug Enforcement Administration (DEA) Caribbean Division, in close coordination with its international and interagency partners, supported a significant narcotics interdiction operation conducted by the Dirección Nacional de Control de Drogas (DNCD) that resulted in the seizure of 1,707 kilograms (1.7...
+
+### Major Drug Trafficker Charged Following Historic Fentanyl and Meth Seizures in New Jersey History
+
+NEW YORK – United States Drug Enforcement Administration (“DEA”) New York Task Force Division Special Agent in Charge Chrsitopher Roberts, United States Attorney for the District if New Jersey Robert Frazer, New York City Police Department (“NYPD”) Commissioner Jessica S. Tisch, and New York State Police (“NYSP”) Superintendent Stephen James...
+
+### Three St. Louis Area Residents Admit Selling Fentanyl, Other Drugs Via Social Media
+
+ST. LOUIS – Three St. Louis area residents have admitted selling fentanyl and other drugs via social media, including drugs that caused one fatal and one nonfatal overdose. Aeman Ali, 23, pleaded guilty in U.S. District Court in St. Louis Tuesday to aiding and abetting the maintaining of a drug-involved...
+
+### Columbia, Missouri Doctor Arrested, Accused of Health Care Fraud, Illegally Prescribing Drugs
+
+ST. LOUIS – A medical doctor and owner of an urgent care clinic in Columbia, Missouri was arrested Wednesday on an indictment that accuses him of defrauding Medicare and Medicaid and providing prescription drugs to friends, people suffering from substance use disorders and those with whom he had sexual relationships...
+
+### Little River Woman Pleads Guilty to Concealing the Laundering of Drug Proceeds
+
+FLORENCE, S.C.— Kayla Tisdale, 37, of Little River, has pleaded guilty to misprision of felony based on her concealment of a scheme to launder assets purchased with funds that she knew were derived from drug trafficking. Evidence presented during her change of plea hearing demonstrated that Tisdale was formerly in...
+
+### Mexican Illegal Alien Faces Federal Charges for Trafficking Methamphetamine
+
+ATLANTA - Edgar Zamarron-Cobos, an illegal alien from Mexico, faces federal charges after law enforcement seized over 130 pounds of methamphetamine from his vehicle. Zamarron-Cobos was arrested after he fled from troopers and crashed into innocent motorists at a DeKalb County intersection. “Fleeing from law enforcement with a large quantity...
+
+### DEA Hosts the 30th National Prescription Drug Take Back Day on Saturday, April 25th
+
+WASHINGTON – The U.S. Drug Enforcement Administration will host the 30th National Prescription Drug Take Back Day on Saturday, April 25, 2026, from 10 a.m. to 2 p.m. at nearly 4,200 locations nationwide. Twice a year, DEA joins forces with local law enforcement and community groups to host DEA’s National...
+
+### Perry Man Indicted for Gun & Drug Crimes
+
+Tallahassee, Fla. – Deontae David Bernard Watkins, 43, of Perry, Fla., has been indicted in federal court for two counts of possession with intent to distribute multiple illegal drugs, possession of a firearm in furtherance of a drug-trafficking crime, and possession of a firearm by a convicted felon. John P...
+
+### Saugus Man Sentenced To 10 Years in Prison for Conspiracy to Distribute Thousands of Pills Containing Meth and Fentanyl
+
+BOSTON – A Saugus man has been sentenced in federal court in Boston for his role in a drug trafficking conspiracy involving thousands of counterfeit pills containing methamphetamine and fentanyl. George Krabey, 47, was sentenced by U.S. District Court Judge Angel Kelley to 10 years in prison, to be followed...
+
+### Newtonville Man Pleads Guilty To Cocaine Distribution
+
+BOSTON – A Newtonville man pleaded guilty in federal court in Boston to a drug distribution offense involving cocaine. Trevor Headley, 32, pleaded guilty to one count of possession with intent to distribute 500 grams or more of cocaine and two counts of distribution of and possession with intent to...
+
+#### Paginación
+
+Current page 1
+
+Page 2
+
+Page 3
+
+Page 4
+
+Page 5
+
+Page 6
+
+Page 7
+
+Page 8
+
+Page 9
+
+Siguiente
+
+Última página»
+
+Quienes Somos
+
+Sobre
+
+Museo DEA
+
+Ley de Libertad de Información (FOIA)
+
+Publicaciones
+
+Políticas
+
+Accesibilidad, Complementos y Política
+
+Políticas Legales y Descargos de Responsabilidad
+
+Antidiscriminación y Represalias Acto
+
+Política de Privacidad
+
+Política de Igualdad de Oportunidades en el Empleo del U.S. DOJ
+
+USA.gov
+
+Protección de Denunciantes
+
+Your Rights as a Federal Employee
+
+### United States Drug Enforcement Administration
+
+DEA.gov is an official site of the U.S. Department of Justice
+
+FacebookXLinkedInInstagram
+
+### DEA Contact Center
+
+(202) 307-1000
+
+Contact the Webmaster
+
+# United States Drug Enforcement Administration[](https://www.dea.gov/es/node/145876#mm-14)
+
+[Quiénes somos](https://www.dea.gov/es/node/145876#mm-3)
+
+[Recursos](https://www.dea.gov/es/node/145876#mm-9)
+
+[](https://www.dea.gov/es/node/145876#mm-1)Back
+
+[Divisiones Nacionales](https://www.dea.gov/es/node/145876#mm-5)
+
+[Contáctenos](https://www.dea.gov/es/node/145876#mm-7)
+
+[](https://www.dea.gov/es/node/145876#mm-3)Back
+
+Operational Divisions
+
+Submit a Tip
+
+Extortion Scam
+
+Public Affairs
+
+Social Media Directory
+
+[Ley de Libertad de Información](https://www.dea.gov/es/node/145876#mm-11)
+
+[Programa de Asistencia a Testigos para Víctimas](https://www.dea.gov/es/node/145876#mm-13)
+
+[](https://www.dea.gov/es/node/145876#mm-9)Back
+
+Fee Waiver
+
+Human Trafficking Prevention
+
+Submit A Tip +
+
+Get Updates
+
+* English
+
+Español
+
+[](https://www.dea.gov/es/node/145876#mm-14)
+
+Original text
+
+Rate this translation
+
+Your feedback will be used to help improve Google Translate
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:17:16+00:00
+- normalized_at: 2026-04-28T16:03:44+00:00
 - final_url: https://www.dea.gov/es/node/145876
+- cleanup: jina navigation trim

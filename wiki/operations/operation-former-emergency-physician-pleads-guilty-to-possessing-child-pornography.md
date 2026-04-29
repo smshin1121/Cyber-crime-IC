@@ -64,7 +64,7 @@ sources:
   - "[[2024-09-24_highlandcountypress_former-ohio-emergency-physician-pleads-guilty-possessing-child-pornography]]"
 summary: "Former emergency physician pleads guilty to possessing child pornography Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[former-emergency-physician-pleads-guilty-to-possessing-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 

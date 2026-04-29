@@ -64,11 +64,13 @@ sources:
   - "[[2026-04-18_justice-gov_us-attorney-heap-announces-forfeiture-cryptocurrency-and-return-fraud-proceeds-victim]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-proceeds-to-victim]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-proceeds-to-victim]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

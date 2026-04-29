@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2023-08-04_kttn_missouri-man-sentenced-71-months-rape-threats-five-women]]"
+  - "[[2026-04-18_justice-gov_st-louis-man-sentenced-71-months-making-rape-threats-five-women]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[st-louis-man-sentenced-to-71-months-for-making-rape-threats-to-five-women]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[st-louis-man-sentenced-to-71-months-for-making-rape-threats-to-five-women]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Missouri man sentenced to 71 months in prison for making rape threats to five women | KTTN | 2023-08-04 | https://www.kttn.com/missouri-man-sentenced-to-71-months-in-prison-for-making-rape-threats-to-five-women/ |
+| [1] | St. Louis Man Sentenced to 71 Months for Making Rape Threats to Five Women | US DOJ USAO | 2023-08-03 | https://www.justice.gov/usao-edmo/pr/st-louis-man-sentenced-71-months-making-rape-threats-five-women |

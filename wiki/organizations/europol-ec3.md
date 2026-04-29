@@ -97,6 +97,8 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[operation-talent]]"
   - "[[phobos-8base-crackdown]]"
+  - "[[global-airport-action-day]]"
+  - "[[operation-shrouded-horizon]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2017-12-28_justice-gov_two-romanian-suspects-charged-with-hacking-of-metropolitan-police-department-sur]]"
+  - "[[2026-04-18_justice-gov_romanian-woman-pleads-guilty-federal-charges-hacking-metropolitan-police-department]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[romanian-woman-pleads-guilty-to-federal-charges-in-hacking-of-metropolitan-police-department-surveillance-came]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[romanian-woman-pleads-guilty-to-federal-charges-in-hacking-of-metropolitan-police-department-surveillance-came]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Two Romanian Suspects Charged With Hacking of Metropolitan Police Department Surveillance Cameras in Connection with Ransomware Scheme | US DOJ USAO | 2017-12-28 | https://www.justice.gov/usao-dc/pr/two-romanian-suspects-charged-hacking-metropolitan-police-department-surveillance-cameras |
+| [1] | Romanian Woman Pleads Guilty to Federal Charges in Hacking of Metropolitan Police Department Surveillance Cameras | US DOJ USAO | 2018-09-20 | https://www.justice.gov/usao-dc/pr/romanian-woman-pleads-guilty-federal-charges-hacking-metropolitan-police-department |

@@ -17,11 +17,12 @@ key_findings:
   - "Eurojust (유로저스트) is the European Union Agency for Criminal Justice Cooperation, headquartered in The Hague alongside Europol EC3. Established in 2002, Eurojust provides the **judicial coordination** dimension of cross-border criminal investigations. While Europol EC3 provides operational and analytical support (the police side), Eurojust handles the prosecutorial and judicial side: ensuring that evidence is admissible, mutual legal assistance requests are properly channeled, Joint Investigation."
 collection_url: https://www.eurojust.europa.eu/news/stepping-judicial-cooperation-against-cybercrime
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:c8257d3d896b9d22f6d14eee0682839d92b27dafd4908fcf5820ff182cb6ad4b
-word_count: 233
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:4f8f12d594c52845ecf2c7c7801a1a5701d3fa3d37eca5561702a4f67bfde5a8
+word_count: 1604
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Eurojust (유로저스트) is the European Union Agency for Criminal Justice Coo
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_eurojust-europa-eu_stepping-up-judicial-cooperation-against-cybercrime.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_eurojust-europa-eu_stepping-up-judicial-cooperation-against-cybercrime.md`, preserving traceable review without classifying the page as a placeholder.

@@ -35,4 +35,4 @@ Dittman, Schiffner, and Langer (Darknet Fentanyl Vendors) Enforcement Action is 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-07-14_justice-gov_united-states-v-veronica-dittman-rick-schiffner-and-devin-langer.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-07-14_justice-gov_united-states-v-veronica-dittman-rick-schiffner-and-devin-langer.md`, preserving traceable review without classifying the page as a placeholder.

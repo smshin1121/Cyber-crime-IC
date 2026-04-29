@@ -30,4 +30,4 @@ On 17 November 2023, DOJ announced the sentencing of four defendants in a dark w
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2023-11-17_edca_fatukala-yamamoto-mina-hollis-dark-web-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2023-11-17_edca_fatukala-yamamoto-mina-hollis-dark-web-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

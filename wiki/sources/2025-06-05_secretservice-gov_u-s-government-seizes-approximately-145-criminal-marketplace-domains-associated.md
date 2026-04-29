@@ -17,11 +17,12 @@ key_findings:
   - "On 5 June 2025, the US Attorney's Office for the Eastern District of Virginia announced the seizure of approximately 145 domains (both darknet and clearnet) and cryptocurrency funds associated with the BidenCash criminal marketplace. The operation was led by the US Secret Service Frankfurt Resident Office and Cyber Investigative Section, together with the FBI Albuquerque Field Office, and coordinated by the US Department of Justice. International partners included the Dutch National High Tech."
 collection_url: https://www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:7a10288d7a38d2b47656f19ddb2d2deee0a266ae10a893c5941c77ab8fde0116
-word_count: 297
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:bf565d8949ac458f73b4dae949ad5c8c0fc3fb60e270fac36a6fa2b3e2e40c9f
+word_count: 493
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

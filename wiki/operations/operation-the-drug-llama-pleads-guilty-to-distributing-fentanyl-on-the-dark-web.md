@@ -64,11 +64,13 @@ sources:
   - "[[2020-02-12_justice-gov_dark-web-fentanyl-trafficker-known-as-the-drug-llama-sentenced-to-13-years-in-fe]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[the-drug-llama-pleads-guilty-to-distributing-fentanyl-on-the-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[the-drug-llama-pleads-guilty-to-distributing-fentanyl-on-the-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

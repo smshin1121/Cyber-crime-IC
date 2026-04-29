@@ -55,9 +55,9 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
+  - "[[europol-2bagoldmule-qqaazz-takedown]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[qqaazz-money-laundering-takedown]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nazarovi-qqaazz]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -72,6 +72,8 @@ crime_types:
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nazarovi-qqaazz]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
+
 ## Canonical Record
 
 - [[us-v-nazarovi-qqaazz]]
@@ -80,4 +82,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | OFFICIALS ANNOUNCE INTERNATIONAL OPERATION TARGETING TRANSNATIONAL CRIMINAL ORGANIZATION QQAAZZ THAT PROVIDED MONEY LAUNDERING SERVICES TO HIGH-LEVEL CYBERCRIMINALS | US DOJ (Western District of Pennsylvania) | 2020-09-29 | https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal |
+| [1] | Europol: 20 Arrests in QQAAZZ Multi-Million Money Laundering Case | Europol | 2020-10-15 | https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case |

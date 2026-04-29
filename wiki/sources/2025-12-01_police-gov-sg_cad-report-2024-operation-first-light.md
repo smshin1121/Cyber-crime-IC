@@ -20,10 +20,11 @@ key_findings:
 collection_url: https://www.police.gov.sg/-/media/SPF/Media-Room/Publications/CAD-Report-2024/CAD-Report-2024.pdf
 created: 2026-04-23
 text_status: parsed
-content_hash: sha256:8ef42d64cecdae9adf7134ecc10fe80ae9c3a133c8b944a525d20f9f0b100228
-word_count: 30812
-extraction_date: 2026-04-25
+content_hash: sha256:c6db6150b0e5216b4352a8b909a0e00b9059ca8080690b7088323474ffaeb43e
+word_count: 27348
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

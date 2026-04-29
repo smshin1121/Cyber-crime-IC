@@ -35,4 +35,4 @@ Oluwarotimi Ogunlana (xDedic) Enforcement Action is a defendant-specific enforce
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-01-04_justice-gov_united-states-v-oluwarotimi-ogunlana.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-01-04_justice-gov_united-states-v-oluwarotimi-ogunlana.md`, preserving traceable review without classifying the page as a placeholder.

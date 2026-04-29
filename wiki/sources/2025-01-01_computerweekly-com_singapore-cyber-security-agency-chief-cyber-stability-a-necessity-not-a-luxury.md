@@ -31,4 +31,4 @@ The **Cyber Security Agency of Singapore (CSA)** is Singapore's lead national cy
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-01_computerweekly-com_singapore-cyber-security-agency-chief-cyber-stability-a-necessity-not-a-luxury.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-01_computerweekly-com_singapore-cyber-security-agency-chief-cyber-stability-a-necessity-not-a-luxury.md`, preserving traceable review without classifying the page as a placeholder.

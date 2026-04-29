@@ -12,122 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:ff447b592923f53b7e1d7e4a02667c9e5e77c996c741b2a7c842d21a8638be1f
-word_count: 608
-extraction_date: 2026-04-25
+content_hash: sha256:a42a386e32e15ef6f68475188167ed2639216aaaadadc4619c3e5750aa285ef5
+word_count: 184
+extraction_date: 2026-04-29
 source_page: wiki/sources/2024-06-20_fincen_gov_supplemental-advisory-on-fentanyl-related-financial-activity.md
+parser: jina_markdown
 ---
 ## Summary
 
 Source text harvested from https://www.fincen.gov/system/files/advisory/2024-06-20/FinCEN-Supplemental-Advisory-on-Fentanyl-Related-Financial-Activity-508C.pdf.
-
-## Extracted Text
-
-Title: FinCEN.gov
-
-URL Source: https://www.fincen.gov/system/files/advisory/2024-06-20/FinCEN-Supplemental-Advisory-on-Fentanyl-Related-Financial-Activity-508C.pdf
-
-Warning: Target URL returned error 404: Not Found
-
-Markdown Content:
-
-# Page Not Found | FinCEN.gov
-
-[Skip to main content](https://www.fincen.gov/system/files/advisory/2024-06-20/FinCEN-Supplemental-Advisory-on-Fentanyl-Related-Financial-Activity-508C.pdf#main-content)
-
-![Image 3: U.S. flag](https://www.fincen.gov/libraries/uswds/dist/img/us_flag_small.png)
-
-Here’s how you know
-
-![Image 4: Dot gov](https://www.fincen.gov/libraries/uswds/dist/img/icon-dot-gov.svg)
-
-**The .gov means it’s official.**
-
-Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
-
-![Image 5: Https](https://www.fincen.gov/libraries/uswds/dist/img/icon-https.svg)
-
-**The site is secure.**
-
-The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
-
-[![Image 6: Financial Crimes Enforcement Network seal](https://www.fincen.gov/themes/custom/fincen/logo.png)Financial Crimes Enforcement Network](https://www.fincen.gov/ "Home")
-
-Menu
-
-![Image 7: close](https://www.fincen.gov/themes/custom/gallatin2/img/close-white.svg)
-
-* About FinCEN
-
-* [About FinCEN](https://www.fincen.gov/about-fincen)
-
-* [Mission](https://www.fincen.gov/about-fincen/mission)
-
-* [What We Do](https://www.fincen.gov/about-fincen/what-we-do)
-
-* [Insignia](https://www.fincen.gov/about-fincen/insignia)
-
-* [EEO](https://www.fincen.gov/about-fincen/equal-employment-opportunity)
-
-* [Contract Opportunities](https://www.fincen.gov/about-fincen/contract-opportunities)
-
-* [FinCEN Year In Review](https://www.fincen.gov/about-fincen/fincen-year-review)
-
-* Resources
-
-* [Resources](https://www.fincen.gov/resources)
-
-* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets)
-
-* [Bank Secrecy Act Filing Information](https://www.fincen.gov/resources/filing-information)
-
-* [Beneficial Ownership Information Reporting](https://www.fincen.gov/boi)
-
-* [Financial Trend Analyses](https://www.fincen.gov/resources/financial-trend-analyses)
-
-* [Financial Institutions](https://www.fincen.gov/resources/financial-institutions)
-
-* [FinCEN Exchange](https://www.fincen.gov/resources/fincen-exchange)
-
-* [Innovation](https://www.fincen.gov/resources/innovation)
-
-* [International](https://www.fincen.gov/resources/international-programs)
-
-* [Law Enforcement](https://www.fincen.gov/resources/law-enforcement)
-
-* [Ransomware](https://www.fincen.gov/resources/fincen-combats-ransomware)
-
-* [Residential Real Estate Reporting](https://www.fincen.gov/rre)
-
-* [Suspicious Activity Report (SAR)](https://www.fincen.gov/resources/suspicious-activity-report-sar-advisory-key-terms)
-
-* [Scams](https://www.fincen.gov/resources/scams)
-
-* [Statutes and Regulations](https://www.fincen.gov/resources/fincens-legal-authorities)
-
-* [Whistleblower Program](https://www.fincen.gov/whistleblower-program)
-
-* [Advisories](https://www.fincen.gov/resources/advisoriesbulletinsfact-sheets/advisories)
-
-* News
-
-* [News](https://www.fincen.gov/news)
-
-* [Press Releases](https://www.fincen.gov/news/press-releases)
-
-* [Readouts](https://www.fincen.gov/news/readouts)
-
-* [Speeches](https://www.fincen.gov/news/speeches)
-
-* [Testimony](https://www.fincen.gov/news/testimony)
-
-* [Enforcement Actions](https://www.fincen.gov/news/enforcement-actions)
-
-* [SAR Technical Bulletins](https://www.fincen.gov/news/sar-technical-bulletins)
-
-* Search
-
-Enter Search Term(s):
 
 ## Breadcrumb
 
@@ -149,9 +42,108 @@ The requested page could not be found.
 
 [![Image 9: Facebook Icon](https://www.fincen.gov/system/files/shared/facebook.svg)](https://www.facebook.com/fincentreasury)[![Image 10: Linkedin Icon](https://www.fincen.gov/system/files/shared/linkedin.svg)](https://www.linkedin.com/company/fincen)[![Image 11: X Icon](https://www.fincen.gov/system/files/shared/x.svg)](https://twitter.com/FinCENnews)
 
+## Extracted Text
+
+# Page Not Found | FinCEN.gov
+
+Here’s how you know
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Financial Crimes Enforcement Network
+
+Menu
+
+About FinCEN
+
+Mission
+
+What We Do
+
+Insignia
+
+EEO
+
+Contract Opportunities
+
+FinCEN Year In Review
+
+Resources
+
+Alerts/Advisories/Notices/ Bulletins/Fact Sheets
+
+Bank Secrecy Act Filing Information
+
+Beneficial Ownership Information Reporting
+
+Financial Trend Analyses
+
+Financial Institutions
+
+FinCEN Exchange
+
+Innovation
+
+International
+
+Law Enforcement
+
+Ransomware
+
+Residential Real Estate Reporting
+
+Suspicious Activity Report (SAR)
+
+Scams
+
+Statutes and Regulations
+
+Whistleblower Program
+
+Advisories
+
+News
+
+Press Releases
+
+Readouts
+
+Speeches
+
+Testimony
+
+Enforcement Actions
+
+SAR Technical Bulletins
+
+Enter Search Term(s):
+
+## Breadcrumb
+
+1. Home
+
+2. Page Not Found
+
+# Page Not Found
+
+The requested page could not be found.
+
+Contact • Subscribe to FinCEN News Updates
+
+Careers • Freedom of Information Act (FOIA) • Site Policies and Notices
+
+Treasury.gov • IRS.gov • Regulations.gov • USA.gov • Vote.gov
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:17:26+00:00
+- normalized_at: 2026-04-28T16:03:44+00:00
 - final_url: https://www.fincen.gov/system/files/advisory/2024-06-20/FinCEN-Supplemental-Advisory-on-Fentanyl-Related-Financial-Activity-508C.pdf
+- cleanup: jina navigation trim

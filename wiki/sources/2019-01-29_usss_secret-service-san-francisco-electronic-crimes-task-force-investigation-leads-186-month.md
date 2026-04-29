@@ -18,11 +18,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/press/releases/2019/01/secret-service-san-francisco-electronic-crimes-task-force-investigation
 created: 2026-04-25
 raw_path: raw/press-releases/2019-01-29_usss_secret-service-san-francisco-electronic-crimes-task-force-investigation-leads-186-month.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:d1ef582e69ec9e8e7d590da4a3b9b70511473674b63cb964064c9ae3454001df
-word_count: 170
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:2e44f5ffb914f866051c09ae116784217ebd50544a49be6516b941740b24f25d
+word_count: 585
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

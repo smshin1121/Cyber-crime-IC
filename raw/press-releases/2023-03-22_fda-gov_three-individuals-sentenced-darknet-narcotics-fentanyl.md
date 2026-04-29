@@ -15,54 +15,13 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:50c77b851012ea5893ff38a4c0ce302adae615da17af62501372598d6abb1e6f
-word_count: 1544
-extraction_date: 2026-04-25
+content_hash: sha256:e4d12da29d80d45c4359e4829e5b06c0729a2813e5784505bcc446ef5771e346
+word_count: 696
+extraction_date: 2026-04-29
 source_page: wiki/sources/2023-03-22_fda-gov_three-individuals-sentenced-darknet-narcotics-fentanyl.md
+parser: jina_markdown
 ---
 FDA-OCI parallel-agency mirror of the DOJ sentencing announcement, confirming FDA-OCI's role in the Ogando / Dawodu / Spencer darknet fentanyl prosecution.
-
-## Extracted Text
-
-Title: Three Individuals Sentenced in Darknet Narcotics Trafficking Conspiracy Involving Distribution of Pills Pressed with Fentanyl
-
-URL Source: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills
-
-Published Time: Wed, 03/22/2023 - 15:09
-
-Markdown Content:
-
-# Three Individuals Sentenced in Darknet Narcotics Trafficking Conspiracy Involving Distribution of Pills Pressed with Fentanyl | FDA
-
-* [Skip to main content](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills#main-content)
-
-* [Skip to FDA Search](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills#search-form)
-
-* [Skip to in this section menu](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills#section-nav)
-
-* [Skip to footer links](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills#footer)
-
-![Image 2: U.S. flag](https://www.fda.gov/themes/custom/preview/assets/images/US_Flag.png)An official website of the United States government[Here’s how you know](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills#)
-
-![Image 3: Dot gov](https://www.fda.gov/themes/custom/preview/assets/images/icon-dot-gov.svg)
-
-**The .gov means it’s official.**
-
-Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
-
-![Image 4: SSL](https://www.fda.gov/themes/custom/preview/assets/images/icon-https.svg)
-
-**The site is secure.**
-
-The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
-
-[![Image 5: Food and Drug Administration Logo](https://www.fda.gov/themes/custom/preview/assets/images/FDA_Logo_Icon_White.svg)](https://www.fda.gov/ "FDA Homepage")
-
-* Search
-
-* Menu
-
-Search FDA Submit search
 
 ## Featured
 
@@ -340,9 +299,190 @@ Overall Experience *
 
 OMB Approval #0910-0360 · Expiration Date 07/08/2026
 
+## Extracted Text
+
+# Three Individuals Sentenced in Darknet Narcotics Trafficking Conspiracy Involving Distribution of Pills Pressed with Fentanyl
+
+DOJ Press Releases involving FDA-OCI
+
+Department of Justice
+
+U.S. Attorney’s Office
+
+District of Columbia
+
+_**FOR IMMEDIATE RELEASE**
+
+Wednesday, March 22, 2023_
+
+_**The Conspiracy Involved Multiple Kilograms of Pills Purchased with Bitcoin**_
+
+WASHINGTON – The last of three defendants was sentenced Friday in the U.S. District Court for the District of Columbia for illegal sales of opioids on various Darknet markets. The Honorable John D. Bates sentenced Alex Ogando to 12 years. Olatunji Dawodu and Luis Spencer were previously sentenced to 12 years and 12 ½ years, respectively. All three defendants were convicted of conspiracy to distribute 400 grams or more of a mixture and substance containing fentanyl.
+
+The Darknet operations pumped kilograms of fentanyl pills into communities across the nation over the course of four years, using Darknet markets including AlphaBay, Dream, Wall Street, and Empire to reach a broad customer base. The defendants also used encrypted messaging services to communicate with and sell pills directly to customers. In exchange for cryptocurrency, the defendants sold fentanyl pills that were shipped via the U.S. Postal Service to buyers in the District of Columbia and all 50 states. The conspiracies relied on sophisticated technology to distribute and profit from a staggering quantity of pills pressed with fentanyl.
+
+The case was prosecuted by former Assistant U.S. Attorney Laura Crane and Assistant U.S. Attorney Connor Mullin. The investigation was conducted by the FBI’s Hi-Tech Opioid Task Force, which is composed of FBI agents, analysts, and task force partners, including special agents and officers of the Food and Drug Administration’s Office of Criminal Investigations, DEA, U.S. Postal Inspection Service, and detectives from local assisting police agencies. Additional assistance was provided by the United States Attorney’s Offices for the District of Rhode Island and the Southern District of Florida, the FBI’s Miami and Boston Field Offices, and the IRS-CI Cyber Crimes Unit.
+
+**Topic(s):**
+
+Opioids
+
+Drug Trafficking
+
+**Component(s):**
+
+Drug Enforcement Administration (DEA)
+
+Federal Bureau of Investigation (FBI)
+
+USAO - District of Columbia
+
+USAO - Florida, Southern
+
+USAO - Rhode Island
+
+**Press Release Number:**
+
+23-164
+
+## Content current as of:
+
+03/22/2023
+
+# Feedback form
+
+## Success
+
+Thank you. Your feedback has been received.
+
+## Error
+
+alert message
+
+Was this page helpful? *
+
+Yes
+
+No
+
+Submit
+
+An official form of the United States government. Provided by Touchpoints
+
+Feedback
+
+FDA Archive
+
+Accessibility
+
+Visitor Information
+
+Website Policies / Privacy
+
+No FEAR Act
+
+Vulnerability Disclosure Policy
+
+FOIA
+
+HHS.gov
+
+USA.gov
+
+Contact FDAFollow FDA on FacebookFollow FDA on XFollow FDA on Instagram
+
+Follow FDA on LinkedInView FDA videos on YouTubeSubscribe to FDA RSS feeds
+
+Contact Number 1-888-INFO-FDA (1-888-463-6332)
+
+Back to Top
+
+# .png)
+
+FDA.gov Site Customer Feedback
+
+Help us improve FDA.gov! We will use your responses to improve the experience for millions of people who visit FDA.gov.
+
+A red asterisk (*) indicates a required field.
+
+1. Which of the following best categorizes the information you were looking for on FDA.gov today? *
+
+2. Which of the following best describes the information you were looking for on FDA.gov today? *
+
+3. Did you find the information you were looking for on FDA.gov today? *
+
+Partially. I found some of the information I was looking for.
+
+I'm still looking
+
+4. For this visit to the FDA site, which of the following roles best describes you? If you are a consultant or an attorney, please select the role of the individual or organization that you represent. *
+
+5. How frequently do you visit FDA.gov? *
+
+This is my first time
+
+About once a year
+
+A couple of times a year
+
+Monthly
+
+Weekly
+
+Daily
+
+6. On a scale from 0-10, based on your experience today, how likely are you to recommend this website to a friend or colleague? *
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+7) Overall, how satisfied or dissatisfied were you with your experience on the FDA website today?
+
+Navigation *
+
+Very satisfied
+
+Somewhat satisfied
+
+Neither satisfied or dissatisfied
+
+Somewhat dissatisfied
+
+Very dissatisfied
+
+Look & Feel *
+
+Using FDA’s search feature *
+
+Understandability of the content *
+
+Overall Experience *
+
+OMB Approval #0910-0360 · Expiration Date 07/08/2026
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:42:00+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills
+- cleanup: jina navigation trim

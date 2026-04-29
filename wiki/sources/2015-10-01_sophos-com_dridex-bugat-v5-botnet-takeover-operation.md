@@ -31,4 +31,4 @@ The Dridex/Evil Corp disruption and prosecution was a **multi-year international
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-10-01_sophos-com_dridex-bugat-v5-botnet-takeover-operation.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2015-10-01_sophos-com_dridex-bugat-v5-botnet-takeover-operation.md`, preserving traceable review without classifying the page as a placeholder.

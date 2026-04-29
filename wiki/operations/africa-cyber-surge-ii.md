@@ -33,8 +33,13 @@ participating_countries:
 participating_agencies:
   - "[[interpol]]"
   - "[[afripol]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  - "INTERPOL-AFRIPOL operational cooperation"
+  - "domestic cybercrime authorities of participating countries"
+mechanisms_used:
+  - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
+  - "regional capacity-building coordination"
 results:
   arrests: 14
   indictments: 0
@@ -56,11 +61,12 @@ edges:
 credibility_index: 4.12
 source_tier: 1
 missing_fields:
-  - legal_basis
-  - mechanisms_used
   - complete_participating_countries
 related_cases: []
-related_operations: []
+related_operations:
+  - "[[operation-red-card]]"
+  - "[[operation-first-light-2024]]"
+  - "[[operation-jackal]]"
 challenges_encountered: []
 lessons_learned:
   - "Pan-African cyber operations need both operational takedown capacity and sustained training support."
@@ -73,7 +79,7 @@ sources:
   - "[[2023-08-18_kaspersky_assists-interpol-in-operation-to-disrupt-cybercrime-in-african-countries]]"
   - "[[2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Africa Cyber Surge II was an INTERPOL-AFRIPOL operation across 25 African countries that produced 14 arrests, mapped more than 20,000 suspicious networks, and linked over USD 40 million in losses to cyber-enabled crime."

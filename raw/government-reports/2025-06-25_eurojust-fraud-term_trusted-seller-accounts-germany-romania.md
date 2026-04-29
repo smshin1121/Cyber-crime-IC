@@ -4,7 +4,7 @@ collection_source: Eurojust
 collection_url: "https://www.eurojust.europa.eu/term/fraud?page=7"
 final_url: "https://www.eurojust.europa.eu/term/fraud?page=7"
 collection_domain: eurojust.europa.eu
-collection_date: 2026-04-28
+collection_date: 2026-04-29
 publish_date: 2025-06-25
 language: en
 status: materialized
@@ -13,8 +13,8 @@ storage_mode: source-digest
 source_type: government
 source_page: wiki/sources/2025-06-25_eurojust-fraud-term_trusted-seller-accounts-germany-romania.md
 word_count: 120
-content_hash: sha256:c43bdff19a741c75a3bbc36f2e778e57561beb90af86dd347b2e715d1518e3a2
-extraction_date: 2026-04-28
+content_hash: sha256:38e0b82564540cc38a955da28ebd6855814f9869ad8db327022f5f9cd815e033
+extraction_date: 2026-04-29
 license_basis: official_public_record
 ---
 ## Source Archive Record
@@ -42,5 +42,5 @@ Eurojust's fraud topic page includes the trusted-seller account fraud operation.
 
 - storage_mode: source-digest
 - source_page: wiki/sources/2025-06-25_eurojust-fraud-term_trusted-seller-accounts-germany-romania.md
-- generated_at: 2026-04-28T13:54:19+00:00
+- generated_at: 2026-04-28T16:02:26+00:00
 - full_text: not fetched in this materialization pass

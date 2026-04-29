@@ -17,11 +17,12 @@ key_findings:
   - "Latvia's national Computer Emergency Response Team; hosted by the University of Latvia under MoD mandate. For detailed facts, see the official source [1]."
 collection_url: https://cert.lv/en
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:9de039464633faf7ccb8cba01f82ef30134b7b4502cd8ce19d044ce73f40d5b4
-word_count: 135
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:7edcc840411725c6cc66e62d6148b74240711f223a6394312ced77595652f873
+word_count: 196
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Latvia's national Computer Emergency Response Team; hosted by the University of 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_cert-lv_official-website.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_cert-lv_official-website.md`, preserving traceable review without classifying the page as a placeholder.

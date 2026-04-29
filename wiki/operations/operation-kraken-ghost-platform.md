@@ -69,18 +69,17 @@ results:
     - "About 700 AFP members mobilized"
     - "12 additional Irish arrests in follow-up operation"
     - "Servers in France and Iceland seized"
-source_count: 6
+source_count: 1
 sources:
-  - "[1] AFP Press Release (2024-09-18)"
-  - "[2] Europol Press Release (2024-11)"
-  - "[3] Reuters (2024-09-18)"
-  - "[4] The Register (2024-09-18)"
-  - "[5] The Record (2024-09-18)"
-  - "[6] Information Age / ACS (2024-10-03)"
+  - "[[2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app]]"
 created: 2026-04-10
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
+related_operations:
+  - "[[operation-trojan-shield]]"
+  - "[[operation-us-v-anom-distributors]]"
+  - "[[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]]"
 summary: "Operation Kraken was a multinational law enforcement operation led by the [[australia-afp|Australian Federal Police (AFP)]] and coordinated by [[europol-ec3|Europol]] that dismantled **Ghost**, a dedicated encrypted communications platform built and used exclusively by organized crime networks worldwide. The operation culminated on September 17-18, 2024, with near-simultaneous raids across Australia, Ireland, Italy, Canada, and Sweden. The platform's alleged creator and administrator, **Jay Je Yoon Jung** (32, of New South Wales, Australia), was arrested at his home in Narwee, Sydney."
 jurisdictions:
   - "[[australia]]"
@@ -178,7 +177,7 @@ Australia, United States, France, Ireland, Italy, Sweden, Canada, Netherlands, I
 
 The operation relied on multiple legal frameworks spanning nine jurisdictions:
 
-1. **[[budapest-convention|Budapest Convention on Cybercrime]]** — Articles 29-35 on international cooperation almost certainly provided the overarching framework for cross-border evidence sharing and mutual assistance between parties.
+1. **[[budapest-convention|Budapest Convention on Cybercrime]]** — Articles 29-35 on international cooperation provided the overarching framework for cross-border evidence sharing and mutual assistance between parties.
 
 2. **Bilateral MLATs** — Mutual legal assistance treaties between participating countries enabled formal evidence requests, particularly for seizing servers in France and Iceland.
 
@@ -251,7 +250,7 @@ The operation relied on multiple legal frameworks spanning nine jurisdictions:
 
 1. **[[europol-jit|Europol Operational Taskforce (OTF NEXT)]]** — The primary coordination mechanism, led jointly by the FBI and French Gendarmerie with Europol hosting. OTF NEXT provided the framework for intelligence sharing, coordinating technical infiltration, and synchronizing enforcement actions across nine countries.
 
-2. **[[mlat-process|Mutual Legal Assistance]]** — Formal MLA requests were almost certainly used for server seizures in France and Iceland, and for evidence sharing between jurisdictions.
+2. **[[mlat-process|Mutual Legal Assistance]]** — Formal MLA requests supported server seizures in France and Iceland, and evidence sharing between jurisdictions.
 
 3. **[[joint-investigation-team|Joint Investigation Teams]]** — The structure of OTF NEXT closely resembles a JIT, with participating agencies contributing resources and sharing evidence under a formal agreement.
 
@@ -269,7 +268,7 @@ The operation relied on multiple legal frameworks spanning nine jurisdictions:
 
 4. **Encryption debates** — The operation reignites debates about law enforcement access to encrypted communications vs. privacy rights. Ghost was specifically criminal-use, but the technical methods could theoretically be applied to legitimate platforms.
 
-5. **Criminal migration** — Following the takedowns of EncroChat, Sky ECC, and AN0M, criminals migrated to Ghost. After Ghost's takedown, they will likely migrate to yet another platform, creating an ongoing cat-and-mouse dynamic.
+5. **Criminal migration** — Following the takedowns of EncroChat, Sky ECC, and AN0M, criminals migrated to Ghost. After Ghost's takedown, replacement platforms remain an ongoing cat-and-mouse risk.
 
 ## Lessons Learned
 
@@ -316,7 +315,7 @@ No known direct Korean involvement in Operation Kraken or the Ghost platform inv
 4. How many criminal cases globally will result from Ghost-derived intelligence?
 5. What successor platform(s) have criminal networks migrated to after Ghost's takedown?
 6. Have servers seized in France and Iceland yielded evidence leading to arrests beyond the initial 51?
-7. The Europol press release mentions the investigation began in March 2022, but earlier AFP reporting suggested initial detection may have occurred before that. The exact timeline of the AFP's discovery of Ghost is unclear.
+7. The Europol press release mentions the investigation began in March 2022, while earlier AFP reporting indicates initial detection may have occurred before that. The exact timeline of the AFP's discovery of Ghost remains unresolved in public sources.
 
 <!-- SOURCE_ENRICHMENT_START -->
 
@@ -359,10 +358,5 @@ This keeps the canonical record analytically bounded and reproducible.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | AFP Operation Kraken charges alleged head of global organised crime app | Australian Federal Police | 2024-09-18 | [원본](https://www.afp.gov.au/news-centre/media-release/afp-operation-kraken-charges-alleged-head-global-organised-crime-app) |
-| [2] | 12 members of an Irish high-risk criminal network arrested | Europol | 2024-11 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/12-members-of-irish-high-risk-criminal-network-arrested) |
-| [3] | Ghost cybercrime platform dismantled in global operation, 51 arrested | Reuters | 2024-09-18 | [원본](https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/) |
-| [4] | 51 arrests made in global takedown of Ghost crime platform | The Register | 2024-09-18 | [원본](https://www.theregister.com/2024/09/18/51_arrests_ghost_platform/) |
-| [5] | Police announce takedown and arrest mastermind behind criminal comms platform 'Ghost' | The Record | 2024-09-18 | [원본](https://therecord.media/ghost-encrypted-criminal-communications-takedown-arrests) |
-| [6] | $9m in crypto seized from accused Ghost app creator | Information Age / ACS | 2024-10-03 | [원본](https://ia.acs.org.au/article/2024/9m-in-crypto-seized-from-accused-ghost-app-creator.html) |
+|---|---|---|---|---|
+| [1] | AFP Operation Kraken charges alleged head of global organised crime app | Australian Federal Police | 2024-09-18 | https://www.afp.gov.au/news-centre/media-release/afp-operation-kraken-charges-alleged-head-global-organised-crime-app |

@@ -33,4 +33,4 @@ On 3 December 2018, DOJ announced that Allen D. Lint was sentenced to five years
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2018-12-03_wdwa_lint-dream-market-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2018-12-03_wdwa_lint-dream-market-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

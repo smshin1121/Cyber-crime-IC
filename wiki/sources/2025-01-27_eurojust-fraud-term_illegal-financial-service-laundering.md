@@ -20,9 +20,10 @@ key_findings:
 raw_path: raw/government-reports/2025-01-27_eurojust-fraud-term_illegal-financial-service-laundering.md
 text_status: source-digest
 storage_mode: source-digest
-content_hash: sha256:b01790bb456a37e6be70203b709f61396d785a8239503fd5f94cdf2fab8e63aa
+content_hash: sha256:79679aca17ef7530fb27c4c383383c8aa20e7e8ac0765b1392e92a1af0f0f7e3
 word_count: 121
-extraction_date: 2026-04-28
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

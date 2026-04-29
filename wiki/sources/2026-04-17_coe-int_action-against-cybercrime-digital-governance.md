@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/digital-governance/cybercrime
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:85c3232e14151b296e99c5c43b78ab68c83974b3988272dbea307de5eeb96161
-word_count: 1161
-extraction_date: 2026-04-25
+content_hash: sha256:6769598ec5c8023206b9f37bf1be7e93ded710729b7c8a562e30a98bf8cbc585
+word_count: 972
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Georgia acceded to the **[[budapest-convention|Budapest Convention on Cybercrime
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_action-against-cybercrime-digital-governance.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_action-against-cybercrime-digital-governance.md`, preserving traceable review without classifying the page as a placeholder.

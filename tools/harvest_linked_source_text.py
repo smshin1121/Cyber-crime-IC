@@ -175,6 +175,11 @@ CHALLENGE_SIGNATURES = (
     "access denied",
     "akamai",
 )
+TERMINAL_HARVEST_STATUSES = {
+    "fetch_failed_terminal",
+    "fulltext_not_available",
+    "not_suitable_for_fulltext",
+}
 
 
 @dataclass(frozen=True)
@@ -362,6 +367,9 @@ def has_extracted_text(path: Path, min_chars: int) -> bool:
         post = frontmatter.load(path)
     except Exception:
         return False
+    harvest_status = str(post.metadata.get("harvest_status") or "").lower()
+    if harvest_status in TERMINAL_HARVEST_STATUSES:
+        return True
     text_status = str(post.metadata.get("text_status") or "").lower()
     if text_status in {"parsed", "summarized"} and len(post.content.strip()) >= 200:
         return True
@@ -408,7 +416,7 @@ def source_candidates(args: argparse.Namespace, raw_by_url: dict[str, Path]) -> 
             raw_path = computed_raw_path(source_path, str(meta.get("title") or source_path.stem), source_type, url)
             reason = "missing_raw_path"
         existing_chars = raw_body_chars(raw_path)
-        needs_fetch = args.force or not has_extracted_text(raw_path, args.min_existing_chars)
+        needs_fetch = False if is_listing_or_topic_url(url) else args.force or not has_extracted_text(raw_path, args.min_existing_chars)
         candidates.append(
             Candidate(
                 url=url,
@@ -426,6 +434,15 @@ def source_candidates(args: argparse.Namespace, raw_by_url: dict[str, Path]) -> 
             )
         )
     return candidates
+
+
+def is_listing_or_topic_url(url: str) -> bool:
+    parts = urlsplit(url)
+    path = parts.path.lower()
+    host = host_for(url)
+    if host == "eurojust.europa.eu" and path.startswith("/term/"):
+        return True
+    return False
 
 
 def inline_url_candidates(raw_by_url: dict[str, Path], known_urls: set[str], args: argparse.Namespace) -> list[Candidate]:
@@ -805,6 +822,71 @@ def fetch(candidate: Candidate, args: argparse.Namespace, smart_fetcher: Any, do
     return last
 
 
+def should_attempt(candidate: Candidate, args: argparse.Namespace) -> bool:
+    if not candidate.needs_fetch:
+        return False
+    if not candidate.official and not args.include_nonofficial and args.nonofficial_mode == "skip":
+        return False
+    if not candidate.official and args.nonofficial_mode == "skip":
+        return False
+    return True
+
+
+def unique_fallback_urls(candidate: Candidate, fetch_result: FetchResult) -> list[str]:
+    urls: list[str] = []
+    for raw in (fetch_result.final_url, candidate.url):
+        if not raw:
+            continue
+        for variant in url_variants(raw):
+            if variant not in urls:
+                urls.append(variant)
+    return urls
+
+
+def improve_low_word_extract(
+    candidate: Candidate,
+    args: argparse.Namespace,
+    fetch_result: FetchResult,
+    title: str,
+    text: str,
+    parser: str,
+) -> tuple[FetchResult, str, str, str, int]:
+    best_result = fetch_result
+    best_title = title
+    best_text = text
+    best_parser = parser
+    best_words = word_count(text)
+
+    fallback_fetches = []
+    if args.jina_fallback:
+        fallback_fetches.append(jina_fetch)
+    if args.wayback_fallback:
+        fallback_fetches.append(wayback_fetch)
+
+    for fallback_fetch in fallback_fetches:
+        for url in unique_fallback_urls(candidate, fetch_result):
+            result = acceptable_fetch_result(fallback_fetch(url, args.timeout), args, url)
+            if not result:
+                continue
+            next_title, next_text, next_parser = extract_readable_text(
+                result.body,
+                result.content_type,
+                result.final_url or url,
+                candidate.title,
+            )
+            next_words = word_count(next_text)
+            if next_words > best_words:
+                best_result = result
+                best_title = next_title
+                best_text = next_text
+                best_parser = next_parser
+                best_words = next_words
+            if best_words >= args.min_parse_words:
+                return best_result, best_title, best_text, best_parser, best_words
+
+    return best_result, best_title, best_text, best_parser, best_words
+
+
 def looks_like_pdf_body(body: str) -> bool:
     return body.lstrip().startswith("%PDF-")
 
@@ -873,6 +955,11 @@ def clean_text(text: str) -> str:
 def extract_readable_text(body: str, content_type: str, url: str, fallback_title: str) -> tuple[str, str, str]:
     if "application/pdf" in content_type.lower() or looks_like_pdf_body(body):
         return extract_title(body), "", "pdf_binary_unparsed"
+    if body.startswith("Title: ") and "\nMarkdown Content:" in body:
+        title = extract_title(body) or fallback_title
+        markdown = body.split("Markdown Content:", 1)[1]
+        text = strip_jina_markdown(markdown, title, fallback_title, url)
+        return title, postprocess_text(text, title, url), "jina_markdown"
     if content_type.startswith("text/plain") or body.startswith("Title: "):
         title = extract_title(body) or fallback_title
         return title, postprocess_text(clean_text(body), title, url), "plain"
@@ -881,6 +968,88 @@ def extract_readable_text(body: str, content_type: str, url: str, fallback_title
     candidates = html_scope_candidates(body)
     parser, text = max(candidates, key=lambda row: len(row[1]))
     return title, postprocess_text(text, title, url), parser
+
+
+def strip_jina_markdown(markdown: str, title: str, fallback_title: str, url: str) -> str:
+    markdown = re.sub(r"!\[[^\]]*\]\([^)]+\)", " ", markdown)
+    markdown = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", markdown)
+    markdown = re.sub(r"`([^`]+)`", r"\1", markdown)
+    markdown = re.sub(r"^[ \t]*[*+-]\s+", "", markdown, flags=re.M)
+    text = clean_text(markdown)
+    paragraphs = split_paragraphs(text)
+    paragraphs = trim_jina_navigation(paragraphs, title, fallback_title, url)
+    return "\n\n".join(paragraphs).strip()
+
+
+def trim_jina_navigation(paragraphs: list[str], title: str, fallback_title: str, url: str) -> list[str]:
+    if not paragraphs:
+        return paragraphs
+
+    start = find_article_heading_start(paragraphs, title)
+    if start is None and fallback_title and fallback_title != title:
+        start = find_article_heading_start(paragraphs, fallback_title)
+    if start is None:
+        start = 0
+
+    out: list[str] = []
+    for idx, paragraph in enumerate(paragraphs[start:]):
+        if idx > 0 and is_jina_stop_marker(paragraph, url):
+            break
+        if is_low_value_jina_line(paragraph):
+            continue
+        out.append(paragraph)
+    return out
+
+
+def find_article_heading_start(paragraphs: list[str], title: str) -> int | None:
+    title_norm = normalize_heading(title)
+    if not title_norm:
+        return None
+    matches: list[int] = []
+    for idx, paragraph in enumerate(paragraphs):
+        heading = normalize_heading(paragraph)
+        if not heading:
+            continue
+        if heading == title_norm or title_norm in heading or (heading in title_norm and len(heading) >= 12):
+            matches.append(idx)
+    return matches[-1] if matches else None
+
+
+def normalize_heading(text: str) -> str:
+    text = re.sub(r"^#+\s*", "", text.strip())
+    text = re.sub(r"\s*\|\s*(europol|eurojust|interpol|department of justice|justice)\s*$", "", text, flags=re.I)
+    text = re.sub(r"[^A-Za-z0-9]+", " ", text).strip().lower()
+    return re.sub(r"\s+", " ", text)
+
+
+def is_low_value_jina_line(paragraph: str) -> bool:
+    norm = normalize_space(re.sub(r"^#+\s*", "", paragraph)).lower()
+    return norm in {
+        "accept all cookies",
+        "accept only essential cookies",
+        "skip to main content",
+        "search",
+        "main navigation",
+        "main navigation responsive",
+        "back",
+    }
+
+
+def is_jina_stop_marker(paragraph: str, url: str) -> bool:
+    norm = normalize_space(re.sub(r"^#+\s*", "", paragraph)).lower()
+    exact = {
+        "article type press release",
+        "press release/news",
+        "related news",
+        "related content",
+        "media contact",
+        "contact us",
+        "main navigation responsive",
+        "share this page",
+    }
+    if norm in exact:
+        return True
+    return norm.startswith("article type ") or norm.startswith("tags ")
 
 
 def postprocess_text(text: str, title: str, url: str) -> str:
@@ -1188,6 +1357,15 @@ def harvest_one(candidate: Candidate, args: argparse.Namespace, smart_fetcher: A
     )
     words = word_count(text)
     if words < args.min_parse_words:
+        fetch_result, title, text, parser, words = improve_low_word_extract(
+            candidate,
+            args,
+            fetch_result,
+            title,
+            text,
+            parser,
+        )
+    if words < args.min_parse_words:
         return HarvestOutcome(
             candidate.url,
             candidate.target_raw_path,
@@ -1266,7 +1444,7 @@ def worker_harvest(item: Candidate, args: argparse.Namespace) -> HarvestOutcome:
 def main() -> int:
     args = parse_args()
     queue = build_queue(args)
-    actionable = [item for item in queue if item.needs_fetch]
+    actionable = [item for item in queue if should_attempt(item, args)]
     selected = actionable[: args.limit]
 
     outcomes: list[HarvestOutcome] = []

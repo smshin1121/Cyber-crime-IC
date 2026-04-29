@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:d850ec3d8ca472ea448f4697dc53b1228e85727c67299dcff861363025f0f412
-word_count: 5527
-extraction_date: 2026-04-25
+content_hash: sha256:2f5133346de39eb75b9bab656daa408a26dcadc32f8dc0f6973e1e5d76b8bca2
+word_count: 680
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

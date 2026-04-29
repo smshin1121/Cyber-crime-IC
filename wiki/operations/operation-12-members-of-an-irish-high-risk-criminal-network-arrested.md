@@ -68,7 +68,7 @@ sources:
   - "[[2025-03-28_cde-ual-es_12-members-of-an-irish-high-risk-criminal-network-arrested]]"
 summary: "12 members of an Irish high-risk criminal network arrested Follow-On Action is a follow-on operation catalog record derived from [[12-members-of-an-irish-high-risk-criminal-network-arrested]]."
 created: 2026-04-18
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 ## Summary
 

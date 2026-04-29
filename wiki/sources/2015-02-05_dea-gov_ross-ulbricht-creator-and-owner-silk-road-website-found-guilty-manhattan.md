@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2015/02/05/ross-ulbricht-crea
 created: 2026-04-25
 raw_path: raw/press-releases/2015-02-05_dea-gov_ross-ulbricht-creator-and-owner-silk-road-website-found-guilty-manhattan.md
 text_status: parsed
-content_hash: sha256:6f1a9a2116d410c87e5ad6860c55fd72330afa413753de81f80714b6fd65c388
-word_count: 6209
-extraction_date: 2026-04-25
+content_hash: sha256:8c2a5ffa056a9b388632f1785af78a8984ade4120d7cb897a76252fe10635a16
+word_count: 1369
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2024-01-25_postgazette_scott-man-indicted-on-federal-cyberstalking-charge]]"
+  - "[[2026-04-18_justice-gov_pittsburgh-man-indicted-cyberstalking-charge]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pittsburgh-man-indicted-on-cyberstalking-charge]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pittsburgh-man-indicted-on-cyberstalking-charge]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Scott man indicted on federal cyberstalking charge, accused of sending ex thousands of threatening messages over 3 years | Pittsburgh Post-Gazette | 2024-01-25 | https://post-gazette.com/news/crime-courts/2024/01/25/allegheny-county-cyberstalking-federal-grand-jury/stories/202401250121 |
+| [1] | Pittsburgh Man Indicted on Cyberstalking Charge | US DOJ USAO | 2024-01-25 | https://www.justice.gov/usao-wdpa/pr/pittsburgh-man-indicted-cyberstalking-charge |

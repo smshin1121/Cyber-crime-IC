@@ -1,36 +1,37 @@
 ---
 aliases:
-- CBZC
-- Polish Central Bureau for Combating Cybercrime
-contact_point_for: []
-country: '[[poland]]'
+  - CBZC
+  - "Polish Central Bureau for Combating Cybercrime"
+contact_point_for:
+  []
+country: "[[poland]]"
 created: 2026-04-10
-established: '2022-01-12'
-headquarters: ul. Wąwozowa 18, Warsaw, Poland
+established: 2022-01-12
+headquarters: "ul. Wąwozowa 18, Warsaw, Poland"
 key_roles:
-- Nationwide cybercrime investigation
-- Cooperation with Europol EC3 and Interpol
-- Prevention of IT-system-related criminal offences
-- Target staffing of 1,800 officers by 2025
-last_verified: '2026-04-10'
-mandate: Polish police service with nationwide competence to recognize and combat
-  crimes committed using IT systems, teleinformatic systems, or teleinformatic networks,
-  and to prevent, detect and prosecute cybercrime perpetrators.
-notable_cases: []
-official_name: Centralne Biuro Zwalczania Cyberprzestępczości
+  - "Nationwide cybercrime investigation"
+  - "Cooperation with Europol EC3 and Interpol"
+  - "Prevention of IT-system-related criminal offences"
+  - "Target staffing of 1,800 officers by 2025"
+last_verified: 2026-04-10
+mandate: "Polish police service with nationwide competence to recognize and combat"
+notable_cases:
+  []
+official_name: "Centralne Biuro Zwalczania Cyberprzestępczości"
 operations_participated:
-- '[[phobos-8base-crackdown]]'
+  - "[[phobos-8base-crackdown]]"
+  - "[[fake-shopping-sites-takedown-2024]]"
+  - "[[operation-morpheus]]"
 org_type: national-unit
-parent_org: Komenda Główna Policji (Police Headquarters, Ministry of Interior and
-  Administration, Poland)
+parent_org: "Komenda Główna Policji (Police Headquarters, Ministry of Interior and"
 source_count: 3
-sources: []
+sources:
+  []
 status: active
-title: Central Bureau for Combating Cybercrime (CBZC) — Poland
+title: "Central Bureau for Combating Cybercrime (CBZC) — Poland"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-09
 ---
-
 ## Summary
 
 The **Centralne Biuro Zwalczania Cyberprzestępczości (CBZC — Central Bureau for Combating Cybercrime)** is Poland's national police cybercrime bureau, created by the law of **17 December 2021** and entering into force on **12 January 2022** [1][2]. CBZC is an organizational unit of the Polish Police with nationwide competence over crimes committed using IT systems, teleinformatic systems, or teleinformatic networks [1][3].

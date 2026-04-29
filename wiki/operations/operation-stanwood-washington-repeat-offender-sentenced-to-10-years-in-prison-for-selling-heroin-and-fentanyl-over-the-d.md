@@ -64,11 +64,13 @@ sources:
   - "[[2026-04-18_justice-gov_stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[stanwood-washington-repeat-offender-sentenced-to-10-years-in-prison-for-selling-heroin-and-fentanyl-over-the-d]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[stanwood-washington-repeat-offender-sentenced-to-10-years-in-prison-for-selling-heroin-and-fentanyl-over-the-d]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

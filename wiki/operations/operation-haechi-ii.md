@@ -14,6 +14,8 @@ enforcement_type:
 
 lead_agency: "[[interpol]]"
 legal_basis:
+  - "INTERPOL National Central Bureau cooperation"
+  - "domestic financial-fraud authorities of participating countries"
 
 lessons_learned:
 
@@ -53,6 +55,9 @@ period: 2
 related_cases:
 
 related_operations:
+  - "[[operation-haechi-iii]]"
+  - "[[operation-haechi-iv]]"
+  - "[[operation-first-light-2024]]"
 
 results:
   arrests: 1003
@@ -85,7 +90,7 @@ timeframe:
 title: "Operation HAECHI-II"
 title_ko: "Operation HAECHI-II (사이버 금융범죄 국제 단속)"
 type: operation
-updated: 2026-04-28
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and Hong Kong/Macau, was a four-month operation targeting online fraud, illegal online gambling, and money laundering. The operation resulted in over 1,000 arrests and the interception of more than $27 million in illicit funds. Over 2,350 bank accounts linked to criminal proceeds were frozen."

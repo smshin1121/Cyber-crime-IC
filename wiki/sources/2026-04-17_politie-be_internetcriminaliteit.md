@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.politie.be/5415/vragen/criminaliteit-op-internet/internetcriminaliteit
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:5736e44394bb787089822ef56b54982c2567f86f02f6b6be4885e829049d25a2
-word_count: 10858
-extraction_date: 2026-04-25
+content_hash: sha256:41e06c70b261b71432efcc2afe9675a45b14e63501c85907ac533dd373670cc2
+word_count: 9008
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

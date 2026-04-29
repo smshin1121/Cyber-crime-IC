@@ -31,4 +31,4 @@ Serbia is a **[[budapest-convention|Budapest Convention]] party** since 2009 and
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2005-01-01_paragraf-rs_law-on-organization-and-competence-for-high-tech-crime-2005.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2005-01-01_paragraf-rs_law-on-organization-and-competence-for-high-tech-crime-2005.md`, preserving traceable review without classifying the page as a placeholder.

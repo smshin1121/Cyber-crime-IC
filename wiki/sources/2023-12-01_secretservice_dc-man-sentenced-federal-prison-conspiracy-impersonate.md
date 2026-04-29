@@ -17,11 +17,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2023/12/dc-man-sentenced-federal-prison-carrying-out-conspiracy-impersonate
 created: 2026-04-25
 raw_path: raw/press-releases/2023-12-01_secretservice_dc-man-sentenced-federal-prison-conspiracy-impersonate.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:64e2d6a2d1bb4a401d5ae52bcdb37a41c4df3372dc1c1ed15ffb0b873ecba296
-word_count: 126
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:aacb9cdfd2172964fb31c135023dec4101b104cd674b54ad25e084a54f15e79f
+word_count: 1113
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

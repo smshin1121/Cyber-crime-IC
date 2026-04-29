@@ -30,4 +30,4 @@ Switzerland is a **high-capability cybercrime cooperation partner**, particularl
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_cybercrime-policies-strategies-switzerland.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_cybercrime-policies-strategies-switzerland.md`, preserving traceable review without classifying the page as a placeholder.

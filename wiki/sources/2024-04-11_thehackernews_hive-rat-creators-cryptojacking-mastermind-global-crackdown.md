@@ -19,12 +19,13 @@ collection_url: https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryp
 created: 2026-04-25
 raw_path: raw/news/2024-04-11_thehackernews_hive-rat-creators-cryptojacking-mastermind-global-crackdown.md
 text_status: summarized
-content_hash: sha256:f810ec6313a1d8db5725c49b3ed3aab08a10cc06f8b1b9545e6906c881718a26
-word_count: 1308
+content_hash: sha256:373823782dfc3a122f6e33cbf1ab7a4219b202e65da58f85b339bf82699aaee2
+word_count: 149
 stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-29
 last_fetcher: urllib
 copyright_policy: summary-only
+storage_mode: summary-only
 ---
 ## Source Summary
 

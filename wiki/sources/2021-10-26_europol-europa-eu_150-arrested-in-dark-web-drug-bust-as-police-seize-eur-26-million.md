@@ -17,11 +17,12 @@ key_findings:
   - "Operation Dark HunTOR was a coordinated international law enforcement action announced on 26 October 2021 that resulted in the arrest of 150 suspected dark web drug traffickers across nine countries. The operation seized approximately EUR 26.7 million (~USD 31 million) in cash and cryptocurrency, 234 kg of drugs, and 45 firearms. Coordinated by Europol's European Cybercrime Centre (EC3) and Eurojust, Dark HunTOR is almost certainly the largest follow-on enforcement action stemming from a single."
 collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/150-arrested-in-dark-web-drug-bust-police-seize-%E2%82%AC26-million"
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:20b2e5c0f10f35f42af897a68f70cb64c4be7209f5c54fd2d37e60f7b83944c4
-word_count: 270
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:8c3b02c96ee1d4647ab44efd145d55f8083d01ce6d2cf24daeedc6704c0adaff
+word_count: 990
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Operation Dark HunTOR was a coordinated international law enforcement action ann
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-10-26_europol-europa-eu_150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-10-26_europol-europa-eu_150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million.md`, preserving traceable review without classifying the page as a placeholder.

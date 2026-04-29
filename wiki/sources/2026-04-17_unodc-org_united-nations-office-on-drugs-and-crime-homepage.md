@@ -22,6 +22,9 @@ storage_mode: source-digest
 content_hash: sha256:65782bcdaec13f6bfa98d4a634614289c8fe1e7958e82b70c5c2cb53875d5e65
 word_count: 228
 extraction_date: 2026-04-28
+harvest_status: fulltext_not_available
+harvest_note: "Repeated live fulltext harvesting failed or is not suitable; source digest retained."
+last_fetch_attempt: 2026-04-29
 ---
 ## Source Summary
 
@@ -29,4 +32,4 @@ The **United Nations Office on Drugs and Crime (UNODC)** is the UN's lead agency
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_unodc-org_united-nations-office-on-drugs-and-crime-homepage.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_unodc-org_united-nations-office-on-drugs-and-crime-homepage.md`, preserving traceable review without classifying the page as a placeholder.

@@ -12,26 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:c23745a304a37bcc693854868de9de48e8888e9c5499975ea862765669de0e85
-word_count: 6745
-extraction_date: 2026-04-25
+content_hash: sha256:30449a2bfd0b46fdfc63fd406a8a81623345defe77fbfd6bb16ebe3d696c9c99
+word_count: 6712
+extraction_date: 2026-04-29
 source_page: wiki/sources/2026-04-18_justice-gov_23-1164-battle-born-invest-co-kb-pdf.md
+parser: jina_markdown
 ---
 ## Summary
 
 purchasing il- legal narcotics on darknet markets”). On October 1, 2013, a grand...the South- ern District of New York indicted the creator of Silk Road, Ross Ulbricht
 
 ## Extracted Text
-
-Title: Battle Born Investments v. United States
-
-URL Source: https://www.justice.gov/d9/2024-09/23-1164_battle_born_invest_co_kb.pdf
-
-Published Time: Tue, 17 Sep 2024 15:52:55 GMT
-
-Number of Pages: 25
-
-Markdown Content:
 
 No. 23-1164
 
@@ -843,7 +834,7 @@ the 1HQ3 wallet on the publicly accessible block-
 
 chain.com, found in Ngan’s possession ”—“[a]t best,
 
-* * * establish [ed] that [petitioners] have ownership
+* * establish [ed] that [petitioners] have ownership
 
 rights to the bankruptcy estate of Ngan,” and “pro-
 
@@ -1557,7 +1548,8 @@ JULY 2024
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:44:54+00:00
+- normalized_at: 2026-04-28T16:03:47+00:00
 - final_url: https://www.justice.gov/d9/2024-09/23-1164_battle_born_invest_co_kb.pdf
+- cleanup: jina navigation trim

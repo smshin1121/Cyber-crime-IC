@@ -20,10 +20,11 @@ collection_url: https://www.dea.gov/press-releases/2023/04/20/six-indicted-part-
 created: 2026-04-25
 raw_path: raw/press-releases/2023-04-20_dea_six-indicted-whatcom-county-fentanyl-trafficking-organization.md
 text_status: parsed
-content_hash: sha256:c4edda7c0db0a1206e3469798c8fdacc957b2415b60f149c8d86492aabc6015f
-word_count: 5654
-extraction_date: 2026-04-25
+content_hash: sha256:22020ab2c817e90b8bbfbc949d63c1a98973ae9c4ea61034ec91f9e476bb8542
+word_count: 829
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

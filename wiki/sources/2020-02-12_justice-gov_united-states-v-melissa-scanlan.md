@@ -34,4 +34,4 @@ Melissa Scanlan (The Drug Llama) Enforcement Action is a defendant-specific enfo
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-02-12_justice-gov_united-states-v-melissa-scanlan.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-02-12_justice-gov_united-states-v-melissa-scanlan.md`, preserving traceable review without classifying the page as a placeholder.

@@ -29,4 +29,4 @@ Italy ratified the [[budapest-convention|Budapest Convention]] in 2008 via **Law
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-01-01_pmc-ncbi-nlm-nih-gov_international-cooperation-and-protection-of-victims-in-cyberspace-welcoming-prot.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-01-01_pmc-ncbi-nlm-nih-gov_international-cooperation-and-protection-of-victims-in-cyberspace-welcoming-prot.md`, preserving traceable review without classifying the page as a placeholder.

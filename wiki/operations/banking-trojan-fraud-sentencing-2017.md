@@ -56,7 +56,7 @@ timeframe:
 title: "Banking Trojan Fraud Sentencing"
 title_ko: "뱅킹 트로이목마 사기 판결"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[zeus-spyeye-jit-takedown]]"
 summary: "A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes."

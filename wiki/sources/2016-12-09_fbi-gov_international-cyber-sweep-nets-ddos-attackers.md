@@ -29,4 +29,4 @@ From December 5 to 9, 2016, Europol, the FBI, and law enforcement from 13 countr
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers.md`, preserving traceable review without classifying the page as a placeholder.

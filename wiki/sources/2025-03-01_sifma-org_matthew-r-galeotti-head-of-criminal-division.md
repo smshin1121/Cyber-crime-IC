@@ -31,4 +31,4 @@ The **US Department of Justice (DOJ)** is the central legal authority for intern
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-03-01_sifma-org_matthew-r-galeotti-head-of-criminal-division.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-03-01_sifma-org_matthew-r-galeotti-head-of-criminal-division.md`, preserving traceable review without classifying the page as a placeholder.

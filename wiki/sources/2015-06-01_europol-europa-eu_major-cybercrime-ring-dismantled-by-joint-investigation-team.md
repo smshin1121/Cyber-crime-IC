@@ -17,11 +17,12 @@ key_findings:
   - "In June 2015, Europol and Eurojust coordinated a Joint Investigation Team (JIT) operation involving Austria, Belgium, Ukraine, and at least 6 other European countries that dismantled a major cybercrime ring using Zeus and SpyEye banking trojans. The group had hacked online banking systems across Europe and laundered the stolen funds. Five suspects were arrested in Ukraine and computer equipment was seized."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/major-cybercrime-ring-dismantled-joint-investigation-team
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:c1762d1e395c5ff1be72ecb93bc5f7e94c5f0fef2da9f3e35ab4ca6bbd6dfb3f
-word_count: 221
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:517982e59272e36baafdbde1ac41c372880bc387986d29edea0f5619e405c124
+word_count: 844
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ In June 2015, Europol and Eurojust coordinated a Joint Investigation Team (JIT) 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-06-01_europol-europa-eu_major-cybercrime-ring-dismantled-by-joint-investigation-team.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2015-06-01_europol-europa-eu_major-cybercrime-ring-dismantled-by-joint-investigation-team.md`, preserving traceable review without classifying the page as a placeholder.

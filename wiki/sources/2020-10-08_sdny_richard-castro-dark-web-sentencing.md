@@ -34,4 +34,4 @@ On 8 October 2020, DOJ announced that Richard Castro, known through several moni
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2020-10-08_sdny_richard-castro-dark-web-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2020-10-08_sdny_richard-castro-dark-web-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

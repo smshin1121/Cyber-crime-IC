@@ -64,11 +64,13 @@ sources:
   - "[[2026-04-18_justice-gov_parma-men-among-those-charged-part-crackdown-darknet-vendors]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[parma-men-among-those-charged-as-part-of-crackdown-on-darknet-vendors]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[parma-men-among-those-charged-as-part-of-crackdown-on-darknet-vendors]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

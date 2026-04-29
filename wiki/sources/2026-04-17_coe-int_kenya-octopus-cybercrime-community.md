@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/-/kenya
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:93e4edef0b5d361b4938c1b60718a707f9b1d81c3bf3adbc348afc3183e5bb13
-word_count: 2317
-extraction_date: 2026-04-25
+content_hash: sha256:4fcaa1200be164d69c3a151ad135fa398cf5d513067a98585c340eafd1c01327
+word_count: 133
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Kenya enacted its first comprehensive cybercrime legislation, the **Computer Mis
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_kenya-octopus-cybercrime-community.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_kenya-octopus-cybercrime-community.md`, preserving traceable review without classifying the page as a placeholder.

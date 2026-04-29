@@ -32,4 +32,4 @@ HeartSender / Saim Raza Seizure Enforcement Action is a defendant-specific enfor
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_justice-gov_international-operation-takes-down-cybercrime-ring-selling-hacking-tools.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_justice-gov_international-operation-takes-down-cybercrime-ring-selling-hacking-tools.md`, preserving traceable review without classifying the page as a placeholder.

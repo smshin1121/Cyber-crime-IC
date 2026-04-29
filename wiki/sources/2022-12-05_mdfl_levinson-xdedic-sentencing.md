@@ -35,4 +35,4 @@ On 5 December 2022, the U.S. Attorney's Office for the Middle District of Florid
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2022-12-05_mdfl_levinson-xdedic-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2022-12-05_mdfl_levinson-xdedic-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

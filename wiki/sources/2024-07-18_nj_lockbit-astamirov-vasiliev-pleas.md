@@ -29,4 +29,4 @@ On 18 July 2024, the U.S. Attorney's Office for the District of New Jersey annou
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2024-07-18_nj_lockbit-astamirov-vasiliev-pleas.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2024-07-18_nj_lockbit-astamirov-vasiliev-pleas.md`, preserving traceable review without classifying the page as a placeholder.

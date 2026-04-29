@@ -395,7 +395,6 @@ operations_participated:
   - "[[operation-us-v-auburn-man]]"
   - "[[operation-us-v-beresford-man]]"
   - "[[operation-us-v-brought-against-bay-area]]"
-  - "[[operation-us-v-bugat-botnet-administrator]]"
   - "[[operation-us-v-california-teenager]]"
   - "[[operation-us-v-charges-hartford-man]]"
   - "[[operation-us-v-charges-man]]"
@@ -949,6 +948,8 @@ operations_participated:
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[rydox-marketplace-takedown]]"
   - "[[operation-talent]]"
+  - "[[operation-shrouded-horizon]]"
+  - "[[proxy-service-takedown-2026-03]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

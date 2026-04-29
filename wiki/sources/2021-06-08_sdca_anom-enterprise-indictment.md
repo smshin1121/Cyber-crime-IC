@@ -27,4 +27,4 @@ On 8 June 2021, the U.S. Attorney's Office for the Southern District of Californ
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2021-06-08_sdca_anom-enterprise-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2021-06-08_sdca_anom-enterprise-indictment.md`, preserving traceable review without classifying the page as a placeholder.

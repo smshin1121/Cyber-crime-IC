@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht]]"
+  - "[[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ulbricht]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ulbricht]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Ulbricht | Court of Appeals for the Second Circuit | 2017-05-31 | https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/ |
+| [1] | Manhattan U.S. Attorney Announces The Indictment Of Ross Ulbricht, The Creator And Owner Of The “Silk Road” Website | DOJ SDNY | 2014-02-04 | https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-indictment-ross-ulbricht-creator-and-owner-silk-road |

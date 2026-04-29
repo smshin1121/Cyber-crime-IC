@@ -1,27 +1,28 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 country: "[[france]]"
 created: 2026-04-10
 established: 2019
 headquarters: "Paris, France"
 key_roles:
-  []
+
 last_verified: 2026-04-10
 mandate: "Specialized French national jurisdiction with concurrent nationwide competence"
 notable_cases:
-  []
+
 official_name: "Juridiction Nationale de Lutte contre la Criminalité Organisée"
 operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase2]]"
+  - "[[proxy-service-takedown-2026-03]]"
 org_type: prosecution-office
 parent_org: "Parquet de Paris (Paris Public Prosecutor's Office)"
 source_count: 2
 sources:
-  []
+
 status: active
 title: "JUNALCO — National Jurisdiction for the Fight against Organized Crime (Cybercrime"
 type: organization

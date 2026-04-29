@@ -1,27 +1,44 @@
 ---
 type: mechanism
 title: "European Arrest Warrant"
-status: "stub"
+status: corpus-linked
 created: 2026-04-10
-updated: 2026-04-14
+updated: 2026-04-29
 last_verified: 2026-04-10
-source_count: 0
-sources: []
+source_count: 1
+sources:
+  - "[[europol-fraudulent-shopping-sites-takedown]]"
+mechanism_type: cooperation-or-enforcement-mechanism
 ---
-
-> [!info] Stub
-> Auto-created to resolve a wikilink. Expand when sources are ingested.
-
 ## Summary
-(To be expanded.)
 
-## Legal Basis
-The European Arrest Warrant is grounded in EU law and operates as a regional surrender mechanism that replaces traditional extradition between participating member states.
+European Arrest Warrant is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work.
 
-## How It Works
-One judicial authority issues the warrant and another member state's authority executes it under streamlined timelines and limited refusal grounds compared with classic extradition.
+Current corpus coverage links this node to **4 operation records**, **1 case records**, and **1 source records**. Representative linked records include: [[de-fr-online-fraud-group-2026|de-fr-online-fraud-group-2026]], [[fake-shopping-sites-takedown-2024|fake-shopping-sites-takedown-2024]], [[operation-de-fr-online-fraud-group-2026|operation-de-fr-online-fraud-group-2026]], [[operation-eur-100m-crypto-investment-fraud-2025|operation-eur-100m-crypto-investment-fraud-2025]].
+
+## International-Cooperation Relevance
+
+Mechanism pages are important because the same operation can involve several procedural layers: urgent preservation, intelligence exchange, formal MLA, joint coordination, infrastructure seizure, and post-takedown remediation.
+
+## Corpus Links
+
+| Record | Type | Why it matters here |
+|---|---|---|
+| [[de-fr-online-fraud-group-2026|de-fr-online-fraud-group-2026]] | case | Case record using this node for charging, offence, evidence, or subject-matter classification. |
+| [[fake-shopping-sites-takedown-2024|fake-shopping-sites-takedown-2024]] | operation | Operation record using this menu node in its legal, crime-type, or cooperation metadata. |
+| [[operation-de-fr-online-fraud-group-2026|operation-de-fr-online-fraud-group-2026]] | operation | Operation record using this menu node in its legal, crime-type, or cooperation metadata. |
+| [[operation-eur-100m-crypto-investment-fraud-2025|operation-eur-100m-crypto-investment-fraud-2025]] | operation | Operation record using this menu node in its legal, crime-type, or cooperation metadata. |
+| [[operation-germany-romania-trusted-seller-fraud-2025|operation-germany-romania-trusted-seller-fraud-2025]] | operation | Operation record using this menu node in its legal, crime-type, or cooperation metadata. |
+| [[europol-fraudulent-shopping-sites-takedown|europol-fraudulent-shopping-sites-takedown]] | source | Source record that explicitly mentions or classifies the node. |
+
+## Data Quality Notes
+
+The examples below show corpus usage. They should not be read as proof that every listed operation used the mechanism in exactly the same formal legal posture.
+
+This page was expanded from a structural link-preservation stub during the 2026-04-29 menu-data audit. The references below are drawn from already ingested source pages attached to linked operations, cases, or source records.
 
 ## References
 
 | # | Source | Publisher | Date | URL |
-|---|---|---|---|---|
+|---|--------|-----------|------|-----|
+| 1 | [[europol-fraudulent-shopping-sites-takedown|Europol: Fraudulent Shopping Sites Tied to Cybercrime Marketplace Taken Offline]] | Europol | 2024-12-05 | https://www.europol.europa.eu/media-press/newsroom/news/fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline |

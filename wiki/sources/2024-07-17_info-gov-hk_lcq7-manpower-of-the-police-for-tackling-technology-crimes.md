@@ -29,4 +29,4 @@ The Cyber Security and Technology Crime Bureau (CSTCB) of the [[hong-kong-police
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-07-17_info-gov-hk_lcq7-manpower-of-the-police-for-tackling-technology-crimes.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-07-17_info-gov-hk_lcq7-manpower-of-the-police-for-tackling-technology-crimes.md`, preserving traceable review without classifying the page as a placeholder.

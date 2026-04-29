@@ -19,10 +19,11 @@ collection_url: https://www.fincen.gov/system/files/advisory/2024-06-20/FinCEN-S
 created: 2026-04-25
 raw_path: raw/government-reports/2024-06-20_fincen_gov_supplemental-advisory-on-fentanyl-related-financial-activity.md
 text_status: parsed
-content_hash: sha256:ff447b592923f53b7e1d7e4a02667c9e5e77c996c741b2a7c842d21a8638be1f
-word_count: 608
-extraction_date: 2026-04-25
+content_hash: sha256:a42a386e32e15ef6f68475188167ed2639216aaaadadc4619c3e5750aa285ef5
+word_count: 184
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

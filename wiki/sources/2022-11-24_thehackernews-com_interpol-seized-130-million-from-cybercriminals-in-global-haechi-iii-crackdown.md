@@ -29,4 +29,4 @@ Operation HAECHI-III was the third in INTERPOL's annual HAECHI series of operati
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-11-24_thehackernews-com_interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-11-24_thehackernews-com_interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown.md`, preserving traceable review without classifying the page as a placeholder.

@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2024-11-13_trmlabs_lichtenstein-sentenced-bitfinex-hack-razzlekhan-10-billion]]"
+  - "[[2026-04-18_justice-gov_united-states-v-ilya-lichtenstein-and-heather-morgan]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ilya-lichtenstein-and-heather-morgan]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ilya-lichtenstein-and-heather-morgan]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Ilya Lichtenstein and Heather Razzlekhan Morgan Sentenced In The Bitfinex Case As Government Recovers $10 Billion in Stolen Funds | TRM Labs | 2024-11-13 | https://www.trmlabs.com/resources/blog/ilya-lichtenstein-sentenced-for-role-in-bitfinex-hack-in-razzlekhan-case-as-government-recovers-about-10-billion-in-stolen-funds |
+| [1] | United States v. Ilya Lichtenstein and Heather Morgan | US DOJ USAO | 2024-10-31 | https://www.justice.gov/usao-dc/case/united-states-v-ilya-lichtenstein-and-heather-morgan |

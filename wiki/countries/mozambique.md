@@ -1,21 +1,28 @@
 ---
 type: country
-title: "Mozambique"
-status: stub
+title: Mozambique
+status: needs-official-source-ingestion
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-04-29
 source_count: 0
-sources: []
+sources:
+  []
+last_verified: 2026-04-29
+legal_system: not-assessed
+ic_capacity: not-assessed
+treaty_memberships:
+  - not-assessed
+assessment_confidence: limited
+verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---
-
-> [!info] Stub
-> Created during the 2026-04-26 integrity pass to resolve existing wikilinks. Expand with verified sources before substantive use.
-
 ## Summary
 
-This page is a structural placeholder for Mozambique.
+Mozambique is retained as a country navigation and relationship node for the international cybercrime cooperation corpus. This page is now an assessment-control record rather than an unsupported country profile: it separates known wiki relationships from legal, institutional, and treaty claims that still require official country-specific sourcing.
 
-## References
+## Verification Status
 
-| # | Source | Publisher | Date | URL |
-|---|---|---|---|---|
+No country-specific source page is currently linked in this repository for this country record. As of 2026-04-29, unsupported fields are marked `not-assessed` rather than inferred from region, language, or participation in a single operation. That preserves menu integrity by preventing the country index from implying verified cooperation capacity where the corpus does not yet contain enough evidence.
+
+## Follow-up Source Targets
+
+The next reliable sources for this page are official national police or prosecutor cybercrime pages, justice-ministry mutual-assistance pages, Budapest Convention or UN treaty-status records, and primary operation releases naming the country. Until those are linked, use this page for navigation and relationship tracing only. Do not use it as authority for legal-system detail, MLAT performance, 24/7 contact availability, or national cyber-investigative maturity.

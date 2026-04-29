@@ -30,8 +30,12 @@ participating_agencies:
   - "[[uk-nca]]"
   - "[[fbi-cyber-division]]"
 legal_basis:
-
+  - "[[mutual-legal-assistance]]"
+  - "UK and US domestic money-laundering authorities"
 mechanisms_used:
+  - "[[mlat-process]]"
+  - "[[informal-cooperation]]"
+  - "financial intelligence sharing"
 
 results:
   arrests: 84
@@ -54,14 +58,15 @@ edges:
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - legal_basis
-  - mechanisms_used
   - complete_participating_countries
   - financial_amounts
   - url
 related_cases:
 
 related_operations:
+  - "[[2bagoldmule-qqaazz]]"
+  - "[[cryptex-pm2btc-sanctions]]"
+  - "[[operation-eur-100m-illegal-financial-service-laundering-2025]]"
 
 challenges_encountered:
 
@@ -76,7 +81,7 @@ sources:
   - "[[2024-12-04_wired_operation-destabilise-money-laundering]]"
   - "[[2024-12-04_computerweekly-com_nca-takes-out-network-that-laundered-ransomware-payments]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Destabilise** was a major NCA-FBI joint operation targeting **money laundering networks** that facilitated ransomware and cybercrime proceeds. The operation resulted in over **84 arrests** and the disruption of Russian-speaking money laundering networks that served as the financial backbone for cybercriminal groups."

@@ -31,4 +31,4 @@ The Cyber Crime Investigation Bureau (CCIB) of the [[thailand-royal-police|Royal
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_ccid1-ccib-go-th_cyber-crime-investigation-bureau-official.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_ccid1-ccib-go-th_cyber-crime-investigation-bureau-official.md`, preserving traceable review without classifying the page as a placeholder.

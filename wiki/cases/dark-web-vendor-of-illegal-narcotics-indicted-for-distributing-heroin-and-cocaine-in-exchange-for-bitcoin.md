@@ -34,7 +34,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_dark-web-vendor-illegal-narcotics-indicted-distributing-heroin-and-cocaine-exchange]]"
 created: 2026-04-18
-updated: 2026-04-28
+updated: 2026-04-29
 summary: "Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocaine in Exchange for Bitcoin is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -62,8 +62,6 @@ Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocain
 
 - US DOJ USAO has a parsed source text of 1525 words available for further review.
 
-
-
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage
@@ -82,6 +80,11 @@ Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocain
 - US DOJ USAO, 2022-07-13: Today, the defendants learned the hard way that once their crimes left the dark web and entered the real world, Postal Inspectors and our law enforcement partners were there waiting to take them down.
 - US DOJ USAO, 2022-07-13: All of these sites were large global dark web marketplaces that functioned like conventional e-commerce websites but were geared towards the trafficking of contraband.
 - US DOJ USAO, 2022-07-13: These dark web marketplaces required users to trade in digital currencies, primarily Bitcoin, and the marketplaces did not allow for transactions in official, government-backed fiat currency.
+- US DOJ USAO, 2022-07-13: Vendors and buyers on dark web marketplaces typically operated under anonymous monikers.
+- US DOJ USAO, 2022-07-13: Edison Hernandez’s Dark Web Vendor Operation As alleged, defendant Edison Hernandez was a highly rated vendor of illegal narcotics on Silk Road, AlphaBay, Dream Market and Wall Street Market.
+- US DOJ USAO, 2022-07-13: From January 2013 until April 2019, Hernandez advertised and sold heroin and cocaine to customers in the United States through these dark web marketplaces.
+- US DOJ USAO, 2022-07-13: The Defendants’ Operation of a Door-to-Door Drug Delivery Service As charged in the indictment and the complaint, between February 2019 and January 2022, defendants Edison Hernandez, Michael Caruso, Raymer Ynoa and Irvin Hernandez separately operated a door-to-door drug delivery service in the New York City area.
+- US DOJ USAO, 2022-07-13: The government’s case is being handled by the Office’s International Narcotics and Money Laundering Section.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

@@ -27,8 +27,10 @@ participating_agencies:
   - "[[romanian-police]]"
   - "[[romanian-prosecution]]"
 legal_basis:
-
+  - "Romanian criminal procedure"
+  - "Europol operational support"
 mechanisms_used:
+  - "[[informal-cooperation]]"
 
 results:
   arrests: 16
@@ -55,6 +57,9 @@ missing_fields:
 related_cases:
 
 related_operations:
+  - "[[operation-chakra-iii]]"
+  - "[[operation-falcon]]"
+  - "[[operation-lyrebird]]"
 
 challenges_encountered:
 
@@ -68,7 +73,7 @@ sources:
   - "[[2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals]]"
   - "[[2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Europol and Romanian police and prosecutors conducted a joint operation that resulted in the arrest of 16 members of a cybercrime network in Romania that had been phishing bank credentials and conducting illegal fund transfers. The operation, which ran from 2023 to early 2024, dismantled the criminal network responsible for stealing banking credentials through phishing attacks and transferring victims' funds to accounts controlled by the group."

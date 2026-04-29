@@ -12,22 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:6fc7cc47103abf754ab38dc64a124ca8b6fa7bcc5f2f928ae1fd78600148a548
-word_count: 1257
-extraction_date: 2026-04-25
+content_hash: sha256:a7d983ade59f2563e9823203eef14ccba5e16e84b848abb1a9148ece9b855c2b
+word_count: 1232
+extraction_date: 2026-04-29
 source_page: wiki/sources/2024-06-07_fbi-gov_inside-the-fbi-podcast-the-911-s5-cyber-threat.md
+parser: jina_markdown
 ---
 ## Summary
 
 The U.S. Department of Justice and FBI, in cooperation with Germany, Singapore, and Thailand, dismantled the 911 S5 botnet -- the world's largest botnet, which had infected over 19 million IP addresses across nearly 200 countries. The administrator, YunHe Wang, was arrested. The botnet had been used to facilitate large-scale fraud, identity theft, child sexual exploitation, bomb threats, and illegal financial transactions.
 
 ## Extracted Text
-
-Title: Inside the FBI Podcast: The 911 S5 Cyber Threat | Federal Bureau of Investigation
-
-URL Source: https://www.fbi.gov/news/podcasts/inside-the-fbi-podcast-the-911-s5-cyber-threat
-
-Markdown Content:
 
 _[An energetic track featuring pulsating synthesizers begins.]_
 
@@ -53,17 +48,17 @@ Narrator: According to court documents, YunHe Wang—one of the masterminds behi
 
 First, he allegedly used virtual private network (or VPN) programs to connect to the 911 S5 service. The six VPNs were:
 
-* MaskVPN
+MaskVPN
 
-* DewVPN
+DewVPN
 
-* PaladinVPN
+PaladinVPN
 
-* ProxyGate
+ProxyGate
 
-* ShieldVPN; and
+ShieldVPN; and
 
-* ShineVPN
+ShineVPN
 
 He also stands accused of distributing his malware through pay-per-install services. He allegedly did this by bundling the malware with other program files, including pirated versions of licensed software or copyrighted materials—such as video games.
 
@@ -115,7 +110,8 @@ On behalf of the FBI’s Office of Public Affairs, thanks for listening.
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:20:27+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.fbi.gov/news/podcasts/inside-the-fbi-podcast-the-911-s5-cyber-threat
+- cleanup: jina navigation trim

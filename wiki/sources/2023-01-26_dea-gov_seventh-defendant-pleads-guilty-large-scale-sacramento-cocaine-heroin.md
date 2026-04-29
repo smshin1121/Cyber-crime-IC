@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2023/01/26/seventh-defendant-
 created: 2026-04-25
 raw_path: raw/press-releases/2023-01-26_dea-gov_seventh-defendant-pleads-guilty-large-scale-sacramento-cocaine-heroin.md
 text_status: parsed
-content_hash: sha256:06879cffbcadacfb0824c1462bc8681cc91bf4301546b472761ce5deb1f6e0e2
-word_count: 5578
-extraction_date: 2026-04-25
+content_hash: sha256:d397cb6804605ca4e0f110943eafe6762c4980808abb6e9ea97ad04402fdbc00
+word_count: 746
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

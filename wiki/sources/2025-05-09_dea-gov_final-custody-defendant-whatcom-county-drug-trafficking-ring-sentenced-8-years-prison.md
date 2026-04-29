@@ -21,10 +21,11 @@ collection_url: https://www.dea.gov/press-releases/2025/05/09/final-custody-defe
 created: 2026-04-25
 raw_path: raw/press-releases/2025-05-09_dea_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years.md
 text_status: parsed
-content_hash: sha256:6adfe079fb639c15a18e85a8369b916462ef540f9181dbaa4f2c4fb026bf2da6
-word_count: 5502
-extraction_date: 2026-04-25
+content_hash: sha256:5c92df1c5b30a32135346145065491236cf10d0145544f08e594c167ffc4cded
+word_count: 671
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

@@ -57,7 +57,7 @@ source_count: 1
 sources:
   - "[[2021-09-15_mdfl_odedeyi-davies-xdedic-indictment]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"
 summary: "Odedeyi and Davies (xDedic U.K. Extradition Case) Enforcement Action is a defendant-specific xDedic follow-on retained as an operation-side pointer to [[us-v-odedeyi-davies-xdedic]] and the umbrella [[xdedic-marketplace-takedown]] record."

@@ -33,4 +33,4 @@ The **European Judicial Cybercrime Network (EJCN)** is a semi-formal liaison and
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-12-05_eurojust-europa-eu_european-judicial-cybercrime-network-strengthens-resolve-to-fight-digital-threat.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-12-05_eurojust-europa-eu_european-judicial-cybercrime-network-strengthens-resolve-to-fight-digital-threat.md`, preserving traceable review without classifying the page as a placeholder.

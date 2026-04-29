@@ -15,196 +15,13 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:e30b8457e2a39c187e8bba66f88b3fe815f0e7494865b072f58ef58e4a628af9
-word_count: 3875
-extraction_date: 2026-04-25
+content_hash: sha256:9d86d1004ec3c31bdcb6458eff8a8ac5bbb913b2aa2cbdd4f8eccb12ff60a2ec
+word_count: 1084
+extraction_date: 2026-04-29
 source_page: wiki/sources/2024-03-27_atf_jumbotron-hacker-sentenced-220-years.md
+parser: jina_markdown
 ---
 ATF press release on the Thompson sentencing, confirming ATF's parallel agency role in the case (firearm possession by convicted felon count) alongside FBI Jacksonville and US Marshals.
-
-## Extracted Text
-
-Title: Jumbotron Hacker and Prolific Child Molester Sentenced to 220 Years in Federal Prison
-
-URL Source: https://www.atf.gov/news/press-releases/jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison
-
-Markdown Content:
-
-# Jumbotron Hacker and Prolific Child Molester Sentenced to 220 Years in Federal Prison | ATF
-
-[Skip to main content](https://www.atf.gov/news/press-releases/jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison#main-content)
-
-![Image 3: U.S. flag](https://www.atf.gov/themes/custom/athena/assets/img/us_flag_small.png)
-
-Here’s how you know
-
-![Image 4](https://www.atf.gov/themes/custom/athena/assets/img/icon-dot-gov.svg)
-
-**Official websites use .gov**
-
-A **.gov** website belongs to an official government organization in the United States.
-
-![Image 5](https://www.atf.gov/themes/custom/athena/assets/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS**
-
-A **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-![Image 6: ATF Seal image](https://www.atf.gov/themes/custom/athena/assets/atf/images/atf-seal-72x72.png)
-
-_## [ATF](https://www.atf.gov/ "ATF")_
-
-_##### Bureau of Alcohol, Tobacco, Firearms and Explosives_
-
-Menu
-
-![Image 7](https://www.atf.gov/themes/custom/athena/assets/img/usa-icons/close.svg)
-
-Search ![Image 8: Search](https://www.atf.gov/themes/custom/athena/assets/img/usa-icons-bg/search--white.svg)
-
-* Who We Are
-
-**[About](https://www.atf.gov/about)**
-
-* [Leadership](https://www.atf.gov/about/leadership)
-
-* [Organization Structure](https://www.atf.gov/about/organization-structure)
-
-**[Contact](https://www.atf.gov/contact)**
-
-* [Submit a Tip](https://www.atf.gov/contact/submit-a-tip)
-
-* [Hotlines](https://www.atf.gov/contact/hotlines)
-
-* [Licensing and Other Services](https://www.atf.gov/contact/licensing-and-other-services)
-
-* [Victim/Witness Program](https://www.atf.gov/contact/victim/witness-assistance-program)
-
-**[Careers](https://www.atf.gov/careers)**
-
-* [Special Agent](https://www.atf.gov/careers/special-agents)
-
-* [Industry Operations Investigator](https://www.atf.gov/careers/industry-operations-investigators)
-
-* [Forensics and STEM](https://www.atf.gov/careers/careers-forensics-and-stem)
-
-* [Professional/Technical](https://www.atf.gov/careers/professional-and-technical-careers)
-
-* [Students and Recent Grads](https://www.atf.gov/careers/student-and-recent-graduates)
-
-**[Locations](https://www.atf.gov/contact/locations)**
-
-* [HQ Offices](https://www.atf.gov/contact/contact-atf-headquarters)
-
-* [Field Divisions](https://www.atf.gov/contact/atf-field-divisions)
-
-* [Local Offices](https://www.atf.gov/contact/local-atf-offices)
-
-* [International](https://www.atf.gov/contact/international-offices)
-
-* What We Do
-
-**[Mission Areas](https://www.atf.gov/mission-areas)**
-
-* [Firearms](https://www.atf.gov/firearms)
-
-* [Explosives](https://www.atf.gov/explosives)
-
-* [Arson](https://www.atf.gov/arson)
-
-* [Alcohol and Tobacco](https://www.atf.gov/alcohol-tobacco)
-
-**[Enforcement](https://www.atf.gov/firearms/tools-services-law-enforcement)**
-
-* [Crime Gun Tracing](https://www.atf.gov/firearms/national-tracing-center)
-
-* [Bomb and Arson Incidents](https://www.atf.gov/explosives/us-bomb-data-center)
-
-* [Rapid Response Teams](https://www.atf.gov/careers/rapid-response-teams)
-
-* [Training for Law Enforcement](https://www.atf.gov/careers/learning-and-training)
-
-**[Regulations](https://www.atf.gov/rules-and-regulations)**
-
-* [Laws](https://www.atf.gov/rules-and-regulations/laws-alcohol-tobacco-firearms-and-explosives)
-
-* [Regulations](https://www.atf.gov/rules-and-regulations/regulations-alcohol-tobacco-firearms-and-explosives)
-
-* [Federal Register](https://www.atf.gov/rules-and-regulations/federal-register-actions)
-
-* [Rulings](https://www.atf.gov/rules-and-regulations/rulings)
-
-**[News](https://www.atf.gov/news)**
-
-* [Media/Congressional Contacts](https://www.atf.gov/news/media-and-congressional-contacts)
-
-* [Press Releases](https://www.atf.gov/news/press-releases)
-
-* [Advisories](https://www.atf.gov/news/advisories)
-
-* [Social Media](https://www.atf.gov/news/social-media)
-
-**[Laboratories](https://www.atf.gov/laboratories)**
-
-* [Fire Research Laboratory](https://www.atf.gov/laboratories/fire-research-laboratory)
-
-* [Firearms Examiner Academy](https://www.atf.gov/laboratories/national-firearms-examiner-academy)
-
-* [Forensic Laboratories](https://www.atf.gov/laboratories/forensic-laboratories)
-
-* [Laboratory Publications and Resources](https://www.atf.gov/laboratories/laboratory-publications-and-resources)
-
-* Resources
-
-**[Forms](https://www.atf.gov/resource-center/forms)**
-
-* [Order Paper Forms](https://www.atf.gov/resource-center/forms/distribution-center-order-form)
-
-**[Publications](https://www.atf.gov/resource-center/publications)**
-
-* [Fact Sheets](https://www.atf.gov/resource-center/fact-sheets)
-
-* [Regulations Library](https://www.atf.gov/rules-and-regulations/rules-and-regulations-library)
-
-* [FOIA](https://www.atf.gov/resource-center/freedom-information-act-foia)
-
-**[Questions & Answers](https://www.atf.gov/resource-center/questions-and-answers)**
-
-* [Firearms](https://www.atf.gov/questions-and-answers/firearms-qas)
-
-* [Explosives](https://www.atf.gov/questions-and-answers/explosives-qas)
-
-* [Alcohol and Tobacco](https://www.atf.gov/questions-and-answers/alcohol-and-tobacco-qas)
-
-* [Careers](https://www.atf.gov/questions-and-answers/careers-qas)
-
-**[Data and Statistics](https://www.atf.gov/resource-center/data-statistics)**
-
-* [U.S. Firearms Commerce Report](https://www.atf.gov/resource-center/docs/report/2024firearmscommercereportpdf/download)
-
-* [AFMER](https://www.atf.gov/media/15716/download)
-
-**[Asset Forfeiture](https://www.atf.gov/asset-forfeiture)**
-
-* [Unclaimed Property](https://www.atf.gov/asset-forfeiture/unclaimed-property)
-
-* [eRegs](https://regulations.atf.gov/)
-
-* [Careers](https://www.atf.gov/careers)
-
-* [Locations](https://www.atf.gov/contact/locations/local-atf-offices)
-
-* [Contact Us](https://www.atf.gov/contact)
-
-Search ![Image 9: Search](https://www.atf.gov/themes/custom/athena/assets/img/usa-icons-bg/search--white.svg)
-
-1. [ATF](https://www.atf.gov/)
-
-2. [News](https://www.atf.gov/news)
-
-3. [Press Releases](https://www.atf.gov/news/press-releases)
-
-4. Jumbotron Hacker and Pro...
 
 ## News Menu
 
@@ -624,9 +441,76 @@ Looking for U.S. government information and services?
 
 [Visit USA.gov](https://www.usa.gov/)
 
+## Extracted Text
+
+## Jumbotron Hacker and Prolific Child Molester Sentenced to 220 Years in Federal Prison
+
+JACKSONVILLE, Fla. — U.S. District Judge Brian J. Davis has sentenced Samuel Arthur Thompson, 53, of St. Augustine, to 220 years in federal prison, followed by a lifetime of supervised release, for producing, receiving and possessing child sex abuse material (CSAM), producing CSAM while required to register as a sex offender, violating the Sex Offender Registration and Notification Act (SORNA), sending unauthorized damaging commands to a protected computer and possessing a firearm as a convicted felon. The court also ordered Thompson to forfeit computers and a firearm that were used in the offenses. Thompson was convicted by a federal jury on Nov. 17, 2023.
+
+According to court documents and information presented at trial and sentencing, Thompson was convicted of sodomizing of a 14-year-old male child in Alabama in 1998 and was therefore a convicted felon and required to register as a sex offender, including reporting his international travel. Thompson was also prohibited from possessing firearms as a convicted felon.
+
+Thompson was hired as a contractor by the Jacksonville Jaguars around 2013 to consult on the design and installation of the Jaguars’ new video board network, referred to as a Jumbotron, and later to operate the Jumbotron on gamedays. Thompson’s contract with the Jaguars required him to report his conviction, but he did not. In January 2018, the Jaguars determined not to renew Thompson’s contract after learning of his conviction and status as a registered sex offender.
+
+Before the expiration of Thompson’s contract in March 2018, Thompson installed remote access software on a spare server in the Jaguars’ server room. Thompson then remotely accessed computers that controlled the Jumbotron during three 2018 season NFL games, causing the video boards to repeatedly malfunction.
+
+Image
+
+After conducting an investigation, the Jaguars determined that the outages were being caused by a malicious actor sending commands via the spare server. On Dec. 16, 2018, the Jaguars set up a “honeypot” by putting the server on its own network and removing its access to the other computers that controlled the jumbotron. During the next NFL game, the spare server was again remotely accessed and attempted to be used to send commands to computers controlling the Jumbotron. The Jaguars were able to capture the Internet Protocol (IP) address of the intruder – which the Federal Bureau of Investigation (FBI) traced to Thompson’s residence.
+
+In July 2019, the FBI executed a federal search warrant at Thompson’s home and seized a number of his computers. They also seized a firearm from Thompson’s nightstand, which he was prohibited from possessing as a convicted felon.
+
+Log files from Thompson’s iPhone, iPad and two laptops showed that each of those devices had been used to remotely access the spare server. Additionally, the FBI found thousands of images and hundreds of videos on Thompson’s personal devices depicting CSAM, including images and videos depicting the sexual abuse of young children, bondage and torture of children and bestiality. The CSAM also included a video and series of photos that Thompson had produced in June 2019. Thompson’s voice could be heard speaking to the children at the beginning of the video, which was taken in Thompson’s living room. A review of Thompson’s iPad further revealed that he had been searching the dark web for CSAM at the time the FBI knocked on his door with the search warrant.
+
+Subsequent interviews of three male children known to Thompson in 2019 revealed that Thompson had molested two of the children, exposed himself to them, exposed the children to CSAM, spoke to the children about sex and masturbation and had encouraged the children to play a “game” wherein the children were required to take off their clothes and run around. It was while the children were playing the “game” that Thompson produced CSAM. The children were 7, 8 and 10 years old at the time.
+
+Thompson traveled to The Bahamas on a work trip from July 6 - 14, 2019. On July 15, 2019, Thompson registered as a sex offender and failed to report this travel as required by the Sex Offender Registration and Notification Act (SORNA). That same day, Thompson also received CSAM via the dark web.
+
+On July 27, 2019, Thompson fled to the Philippines – once again failing to report his travel. Thompson’s passport was revoked, and he was deported from the Philippines on Jan. 31, 2020, and was arrested by the FBI upon arrival in the U.S. and later ordered detained pending trial.
+
+Further investigation by the FBI revealed that Thompson had sexually exploited two additional children, including one child that Thompson encountered as he was fleeing from prosecution in July 2019.
+
+“This case exemplifies the unrelenting tenacity of investigators who pursue justice for innocent victims of crime,” said FBI Jacksonville’s Acting Special Agent in Charge Coult Markovsky. “Samuel Thompson repeatedly abused and exploited innocent children, inflicting immeasurable hurt on his victims. He also abused and exploited his employer by installing malicious software to manipulate their systems, which could have caused significantly more damage if not detected. Let this sentence serve as a pledge to all victims of crime that the FBI and our partners will doggedly pursue those who prey on them.”
+
+This case was investigated by FBI, the U.S. Marshals Service, the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) and the St. Johns County Sheriff’s Office. It was prosecuted by Assistant U.S. Attorneys Laura Cofer Taylor, Brenna Falzetta and Adam Duso. The asset forfeiture is being handled by Assistant U.S. Attorneys Mai Tran and Jennifer Harrington.
+
+This case was brought as part of Project Safe Childhood, a nationwide initiative launched in May 2006 by the Department of Justice to combat the growing epidemic of child sexual exploitation and abuse. Led by United States Attorneys’ Offices and the Criminal Division’s Child Exploitation and Obscenity Section (CEOS), Project Safe Childhood marshals federal, state, and local resources to locate, apprehend, and prosecute individuals who sexually exploit children, and to identify and rescue victims. For more information about Project Safe Childhood, please visitwww.justice.gov/psc.
+
+###
+
+Tampa Field Division
+
+Return to top
+
+### Subscribe for ATF updates
+
+Enter your email address Sign Up Sign Up
+
+Submit an anonymous tip
+
+1-888-ATF-TIPS
+
+atftips@atf.gov
+
+ATF.gov
+
+An official website of the U.S. Department of Justice
+
+About DOJ
+
+Accessibility support
+
+FOIA requests
+
+Legal policies and disclaimers
+
+Office of the Inspector General
+
+Performance reports
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:47:09+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.atf.gov/news/press-releases/jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison
+- cleanup: jina navigation trim

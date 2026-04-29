@@ -19,11 +19,12 @@ key_findings:
   - "Emotet operated as a 'loader' MaaS delivering ransomware and banking trojans."
   - "Hundreds of C2 servers seized; described as a novel 'from the inside' infrastructure takedown."
 created: 2026-04-14
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:211d397c2de94463f8dfea79956ae91befd2ac4bc8c093d0044ed6b599a26751
-word_count: 140
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:bcf500e8168d9414d051a35a29c7b382c6d7316b9621be01ac6958dba6a3cbfe
+word_count: 1035
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Summary
 

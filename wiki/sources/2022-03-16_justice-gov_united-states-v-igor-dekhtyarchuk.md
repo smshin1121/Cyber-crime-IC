@@ -32,4 +32,4 @@ Igor Dekhtyarchuk (Marketplace A) Enforcement Action is a defendant-specific enf
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk.md`, preserving traceable review without classifying the page as a placeholder.

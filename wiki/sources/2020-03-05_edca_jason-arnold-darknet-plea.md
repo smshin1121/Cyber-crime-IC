@@ -31,4 +31,4 @@ On 5 March 2020, DOJ announced that Jason Keith Arnold pleaded guilty to distrib
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2020-03-05_edca_jason-arnold-darknet-plea.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2020-03-05_edca_jason-arnold-darknet-plea.md`, preserving traceable review without classifying the page as a placeholder.

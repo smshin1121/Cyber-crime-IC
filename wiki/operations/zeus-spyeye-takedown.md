@@ -35,7 +35,6 @@ participating_countries:
   - "[[poland]]"
   - "[[ukraine]]"
   - "[[united-states]]"
-
 participating_agencies:
   - "[[europol-ec3]]"
   - "[[eurojust]]"
@@ -45,7 +44,6 @@ legal_basis:
 mechanisms_used:
   - "[[joint-investigation-team]]"
   - "[[eurojust-coordination-meeting]]"
-
 results:
   arrests: 5
   indictments: 0
@@ -81,9 +79,9 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
+  - "[[2015-06-30_news-sophos-com_zeus-and-spyeye-crime-syndicate-taken-down-by-europol]]"
 created: 2026-04-08
-updated: 2026-04-28
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[zeus-spyeye-jit-takedown]]"
 summary: "Alias page absorbed into [[zeus-spyeye-jit-takedown]], the canonical Joint Investigation Team record for the June 2015 Zeus/SpyEye banking-trojan action."
@@ -113,4 +111,4 @@ Use [[zeus-spyeye-jit-takedown]] for structured analysis of the June 2015 Zeus/S
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Europol: Major Cybercrime Ring Dismantled by Joint Investigation Team | Europol | 2015-06-25 | https://www.europol.europa.eu/media-press/newsroom/news/major-cybercrime-ring-dismantled-joint-investigation-team |
+| [1] | Zeus and SpyEye crime syndicate taken down by Europol | Sophos | 2015-06-30 | https://news.sophos.com/en-us/2015/06/30/zeus-and-spyeye-crime-syndicate-taken-down-by-europol/ |

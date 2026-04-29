@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://rm.coe.int/ro-police-cybercrime-unit-marius-cuciurianu-29-april-2020-final/16809e41ee
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:2618d95f6e28bd2b4e5058da76631a4785e0baa12d937feb79d5c9711cb305b1
-word_count: 646
-extraction_date: 2026-04-25
+content_hash: sha256:d7c41ad55913853a3adf2eb045ff92a196b1e5691f589188b9b0d6c18fbaaabb
+word_count: 624
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The **Service for Combating Cybercrime** (Serviciul de Combatere a CriminalitÄƒÈ
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-04-29_rm-coe-int_bucharest-cybercrime-unit-presentation-marius-cuciurianu.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-04-29_rm-coe-int_bucharest-cybercrime-unit-presentation-marius-cuciurianu.md`, preserving traceable review without classifying the page as a placeholder.

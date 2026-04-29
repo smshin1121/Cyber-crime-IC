@@ -34,4 +34,4 @@ On 28 August 2018, the U.S. Attorney's Office for the Southern District of Flori
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2018-08-28_sdfl_vallerius-dream-market-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2018-08-28_sdfl_vallerius-dream-market-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

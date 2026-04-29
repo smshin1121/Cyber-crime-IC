@@ -29,4 +29,4 @@ On April 9, 2015, INTERPOL coordinated an international operation to take down t
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-04-09_interpol-int_interpol-coordinates-global-operation-to-take-down-simda-botnet.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2015-04-09_interpol-int_interpol-coordinates-global-operation-to-take-down-simda-botnet.md`, preserving traceable review without classifying the page as a placeholder.

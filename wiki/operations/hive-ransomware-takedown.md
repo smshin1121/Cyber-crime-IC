@@ -17,10 +17,16 @@ enforcement_type:
 
 lead_agency: "[[fbi]]"
 legal_basis:
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic ransomware disruption and victim-remediation authorities"
 
 lessons_learned:
 
 mechanisms_used:
+  - "[[mlat-process]]"
+  - "[[public-private-cooperation]]"
+  - "[[informal-cooperation]]"
 
 missing_fields:
 
@@ -52,6 +58,9 @@ period: 3
 related_cases:
 
 related_operations:
+  - "[[blackcat-lockeroga-kelvin-security-2023]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-checkmate-blacksuit]]"
 
 results:
   arrests: 0
@@ -83,7 +92,7 @@ timeframe:
 title: "Hive Ransomware Infrastructure Takedown"
 title_ko: "명시되지 않음 (Hive 랜섬웨어 인프라 해체)"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 ## Summary
 

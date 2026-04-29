@@ -52,25 +52,25 @@ results:
   other:
     - "Follow-on arrest derived from the DarkMarket marketplace seizure"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 2
 missing_fields:
-  []
+
 related_cases:
   - "[[australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]"
 related_operations:
   - "[[darkmarket-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma]]"
 summary: "This follow-on action captures the arrest component of the DarkMarket takedown for the unidentified Australian alleged operator."
 created: 2026-04-18
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 ## Summary
 

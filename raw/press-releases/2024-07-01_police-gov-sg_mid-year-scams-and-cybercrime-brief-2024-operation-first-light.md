@@ -13,26 +13,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:278dd7ab30f1ef34a04c00e646563df43f800fd375b4a66e55c9e026d2e14582
-word_count: 8935
-extraction_date: 2026-04-25
+content_hash: sha256:fe80895e43230817575d2e9befab37d8942c895ae53706762a43f0f0b6ba8d84
+word_count: 8901
+extraction_date: 2026-04-29
 source_page: wiki/sources/2024-07-01_police-gov-sg_mid-year-scams-and-cybercrime-brief-2024-operation-first-light.md
+parser: jina_markdown
 ---
 ## Summary
 
 Singapore Police Force's Mid-Year Scams and Cybercrime Brief 2024 states that SPF participated in INTERPOL's Operation First Light during the first half of 2024. The brief records more than 1,100 persons investigated in Singapore, over 3,500 bank accounts frozen, more than SGD 16.7 million recovered, and over SGD 203,000 of virtual assets blocked.
 
 ## Extracted Text
-
-Title: Mid-Year Scams and Cybercrime Brief 2024.pdf
-
-URL Source: https://www.police.gov.sg/-/media/B560DF9AB68441A0B5AEAEEEF9ADCB6A.ashx
-
-Published Time: Thu, 22 Aug 2024 06:39:27 GMT
-
-Number of Pages: 28
-
-Markdown Content:
 
 Page 1 of 28
 
@@ -1958,7 +1949,8 @@ Note: Total amount cheated may not tally due to rounding.
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:20:08+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.police.gov.sg/-/media/B560DF9AB68441A0B5AEAEEEF9ADCB6A.ashx
+- cleanup: jina navigation trim

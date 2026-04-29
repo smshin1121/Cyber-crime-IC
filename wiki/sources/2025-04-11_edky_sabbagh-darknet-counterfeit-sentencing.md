@@ -30,4 +30,4 @@ On 11 April 2025, DOJ announced that Alessandro Sabbagh was sentenced to 78 mont
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2025-04-11_edky_sabbagh-darknet-counterfeit-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2025-04-11_edky_sabbagh-darknet-counterfeit-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

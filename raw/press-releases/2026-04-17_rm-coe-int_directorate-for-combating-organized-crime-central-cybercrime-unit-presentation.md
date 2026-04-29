@@ -12,26 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:56d273956bb9459c7079e65e18edac90c2fc31b20385815d52ab1f2381e7f32b
-word_count: 207
-extraction_date: 2026-04-25
+content_hash: sha256:a5d92adfa57f57584dcfa6fb1d3f2791a8600d13cc8d4bd9985f1da66c500a46
+word_count: 184
+extraction_date: 2026-04-29
 source_page: wiki/sources/2026-04-17_rm-coe-int_directorate-for-combating-organized-crime-central-cybercrime-unit-presentation.md
+parser: jina_markdown
 ---
 ## Summary
 
 The **Service for Combating Cybercrime** (Serviciul de Combatere a Criminalității Informatice) is the specialized cybercrime unit within the **Directorate for Countering Organized Criminality (DCCO)** of the **General Inspectorate of the Romanian Police (GIRP)**. It functions as Romania's principal police-level cybercrime investigative body, working alongside the prosecutorial [[romania-diicot|DIICOT]] cybercrime service.
 
 ## Extracted Text
-
-Title: PowerPoint Presentation
-
-URL Source: https://rm.coe.int/romania-daniela-matei/1680addf4f
-
-Number of Pages: 10
-
-Markdown Content:
-
-Directorate for Co mbating Organized Crime
 
 Central Cybercrime Unit
 
@@ -115,7 +106,8 @@ Octopus Conference 2023
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:48:03+00:00
+- normalized_at: 2026-04-28T16:03:47+00:00
 - final_url: https://rm.coe.int/romania-daniela-matei/1680addf4f
+- cleanup: jina navigation trim

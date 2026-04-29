@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2023-08-29_fox23_bartlesville-man-sentenced-stalking-threatening-rep-kevin-hern-wife]]"
+  - "[[2026-04-18_justice-gov_man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Bartlesville man sentenced for stalking and threatening U.S. Rep. Kevin Hern and wife | Fox23 Tulsa | 2023-08-29 | https://www.fox23.com/news/bartlesville-man-sentenced-for-stalking-and-threatening-u-s-rep-kevin-hern-and-wife/article_638041d2-46cc-11ee-a450-7f2af0677085.html |
+| [1] | Man Sentenced for Stalking and Threatening Congressman Kevin Hern and his Wife | US DOJ USAO | 2023-08-29 | https://www.justice.gov/usao-ndok/pr/man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife |

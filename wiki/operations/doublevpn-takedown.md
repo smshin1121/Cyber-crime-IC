@@ -45,6 +45,8 @@ participating_agencies:
 legal_basis:
   - "[[empact|EMPACT (European Multidisciplinary Platform Against Criminal Threats)]]"
 mechanisms_used:
+  - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
 
 results:
   arrests: 0
@@ -88,6 +90,9 @@ missing_fields:
 related_cases:
 
 related_operations:
+  - "[[vpnlab-takedown]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-morpheus]]"
 
 challenges_encountered:
 
@@ -104,7 +109,7 @@ sources:
   - "[[2021-06-30_nationalcrimeagency-gov-uk_doublevpn-takedown-nca-takes-uk-server-of-criminal-network-offline]]"
   - "[[2021-06-30_therecord-media_dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "On **29 June 2021**, law enforcement from **9 countries** simultaneously seized the infrastructure of **DoubleVPN**, a virtual private network service heavily marketed on Russian- and English-language cybercrime forums as a tool for concealing criminal activity, particularly ransomware operations. The operation was led by the [[netherlands-politie|Dutch National Police]] under the jurisdiction of the Dutch National Public Prosecutor's Office, with international coordination by [[europol-ec3|Europol EC3]] and [[eurojust|Eurojust]]."

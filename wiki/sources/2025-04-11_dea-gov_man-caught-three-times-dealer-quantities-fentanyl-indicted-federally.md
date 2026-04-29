@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/04/11/man-caught-three-t
 created: 2026-04-25
 raw_path: raw/press-releases/2025-04-11_dea-gov_man-caught-three-times-dealer-quantities-fentanyl-indicted-federally.md
 text_status: parsed
-content_hash: sha256:73f5b6acb66356e4f1a1ac1fdea149894034acdb41a6eacb89f3e4d94a76c3bc
-word_count: 5587
-extraction_date: 2026-04-25
+content_hash: sha256:cd80d111100347f9c6bde4464264a883dd93913677628ea00b9bf1d5aa679202
+word_count: 768
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

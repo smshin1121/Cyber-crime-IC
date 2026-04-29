@@ -1,34 +1,35 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: "[[bulgaria]]"
 created: 2026-04-10
 established: 2013
 frameworks_administered:
-  []
+
 headquarters: "Sofia, Bulgaria"
 key_roles:
-  []
+
 last_verified: 2026-04-10
 mandate: "Specialized cybercrime directorate within Bulgaria's General Directorate"
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "Главна дирекция 'Борба с организираната престъпност' — Киберпрестъпност"
 official_name_ko: "불가리아 조직범죄대응 총국 사이버범죄국"
 operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
+  - "[[proxy-service-takedown-2026-03]]"
 org_type: national-unit
 parent_org: "[[bulgaria-ministry-of-interior]]"
 source_count: 2
 sources:
-  []
+
 status: active
 title: "GDBOP Cybercrime Directorate"
 type: organization

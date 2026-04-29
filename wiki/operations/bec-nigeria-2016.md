@@ -65,6 +65,10 @@ missing_fields:
 related_cases:
 
 related_operations:
+  - "[[operation-falcon]]"
+  - "[[operation-killer-bee]]"
+  - "[[operation-jackal]]"
+  - "[[black-axe-bec-2021]]"
 
 challenges_encountered:
 
@@ -78,7 +82,7 @@ sources:
   - "[[2016-08-01_dw_nigerian-arrested-for-international-60-million-dollar-online-fraud]]"
   - "[[2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL and Nigeria's EFCC arrested the alleged leader of a transnational online-fraud network in Port Harcourt, Nigeria. The official INTERPOL record attributes more than USD 60 million in BEC, payment-diversion, CEO-fraud, and romance-scam activity to the network, which used actors and laundering contacts across multiple countries."

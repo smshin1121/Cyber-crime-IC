@@ -30,6 +30,7 @@ operations_participated:
   - "[[darkmarket-takedown]]"
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-power-off]]"
+  - "[[operation-morpheus]]"
 org_type: national-agency
 parent_org: ""
 source_count: 6

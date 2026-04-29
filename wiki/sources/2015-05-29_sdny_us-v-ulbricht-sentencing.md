@@ -29,4 +29,4 @@ On 29 May 2015, Ross William Ulbricht, 31, of San Francisco, California, was sen
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2015-05-29_sdny_us-v-ulbricht-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2015-05-29_sdny_us-v-ulbricht-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

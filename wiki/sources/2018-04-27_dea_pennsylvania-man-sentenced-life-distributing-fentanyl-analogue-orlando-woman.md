@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2018/04/27/pennsylvania-man-s
 created: 2026-04-25
 raw_path: raw/press-releases/2018-04-27_dea_pennsylvania-man-sentenced-life-distributing-fentanyl-analogue-orlando-woman.md
 text_status: parsed
-content_hash: sha256:ec7710363e0ba06926f541440c4389e5814576dbde63194ed69dce39e11ef868
-word_count: 5255
-extraction_date: 2026-04-25
+content_hash: sha256:5f06197d7e29f0f5dc328173a1b3ab24dec71c463748bc5d8481e82b78b05248
+word_count: 403
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

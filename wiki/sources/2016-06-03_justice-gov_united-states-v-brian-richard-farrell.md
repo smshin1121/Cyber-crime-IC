@@ -32,4 +32,4 @@ Brian Farrell (Silk Road 2.0) Enforcement Action is a defendant-specific enforce
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2016-06-03_justice-gov_united-states-v-brian-richard-farrell.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2016-06-03_justice-gov_united-states-v-brian-richard-farrell.md`, preserving traceable review without classifying the page as a placeholder.

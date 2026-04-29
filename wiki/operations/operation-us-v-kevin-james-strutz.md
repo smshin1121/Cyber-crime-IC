@@ -35,7 +35,8 @@ participating_agencies:
 organizations:
   - "[[us-doj]]"
   - "[[fbi]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[electronic-evidence]]"
 results:
@@ -49,15 +50,18 @@ results:
   other:
     - "Absorbed domestic follow-on record; canonical case is [[us-v-kevin-james-strutz]]"
     - "Sentence: 40 months in federal prison, three years supervised release, USD 1,773 restitution"
-edges: []
+edges:
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
   - court_case_number
 related_cases:
   - "[[us-v-kevin-james-strutz]]"
-related_operations: []
-challenges_encountered: []
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "Domestic DOJ cybercrime press releases should not be treated as international-cooperation operations unless a cross-border mechanism is documented."
 source_count: 1
@@ -65,7 +69,7 @@ sources:
   - "[[2023-11-13_justice-gov_ceres-man-sentenced-cyberstalking-two-victims]]"
 summary: "Absorbed domestic sentencing follow-on for [[us-v-kevin-james-strutz]]. Kevin James Strutz was sentenced for cyberstalking, but no MLAT, extradition, foreign evidence channel, foreign arrest, or other international-cooperation mechanism is documented."
 created: 2026-04-18
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 ## Summary
 
@@ -89,4 +93,4 @@ Kevin James Strutz was sentenced in the Eastern District of California to **40 m
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Ceres Man Sentenced for Cyberstalking Two Victims | US DOJ USAO EDCA | 2023-11-27 | https://www.justice.gov/usao-edca/pr/ceres-man-sentenced-cyberstalking-two-victims |
+| [1] | Ceres Man Sentenced for Cyberstalking Two Victims | US DOJ (Eastern District of California) | 2023-11-13 | https://www.justice.gov/usao-edca/pr/ceres-man-sentenced-cyberstalking-two-victims |

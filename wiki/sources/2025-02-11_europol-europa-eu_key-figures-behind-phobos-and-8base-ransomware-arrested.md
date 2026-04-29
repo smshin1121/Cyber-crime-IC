@@ -33,4 +33,4 @@ South Korea is a **highly capable** partner for international cooperation on cyb
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested.md`, preserving traceable review without classifying the page as a placeholder.

@@ -21,10 +21,11 @@ collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-crimi
 created: 2026-04-25
 raw_path: raw/press-releases/2023-03-22_fda-gov_three-individuals-sentenced-darknet-narcotics-fentanyl.md
 text_status: parsed
-content_hash: sha256:50c77b851012ea5893ff38a4c0ce302adae615da17af62501372598d6abb1e6f
-word_count: 1544
-extraction_date: 2026-04-25
+content_hash: sha256:e4d12da29d80d45c4359e4829e5b06c0729a2813e5784505bcc446ef5771e346
+word_count: 696
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

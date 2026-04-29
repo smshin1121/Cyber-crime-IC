@@ -18,11 +18,12 @@ key_findings:
 collection_url: "https://www.justice.gov/usao-edca/pr?f%5B0%5D=facet_topics:1201&page=1"
 created: 2026-04-25
 raw_path: raw/press-releases/2023-07-13_justice-gov-archives_two-indictments-international-travel-illicit-sexual-activity-minors.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:14bad2369462194307cabf749103498750735f05c5ee57606b49d3c91de8f52d
-word_count: 143
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:c5375e8382739b90cbd4ffe7702d00a8236d7c9469baf35a4da9b0a6a5619488
+word_count: 654
+extraction_date: 2026-04-29
+last_fetcher: wayback+curl_cffi
 ---
 ## Source Summary
 

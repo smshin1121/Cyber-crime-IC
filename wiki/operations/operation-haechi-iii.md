@@ -59,6 +59,9 @@ participating_agencies:
   - "[[interpol-igci|INTERPOL IGCI]]"
   - "[[knpa|Korea National Police Agency (KNPA)]]"
 legal_basis:
+  - "INTERPOL National Central Bureau cooperation"
+  - "INTERPOL Anti-Money Laundering Rapid Response Protocol"
+  - "Domestic criminal and asset-freeze authorities of participating countries"
 
 mechanisms_used:
   - "INTERPOL I-24/7 Network"
@@ -113,7 +116,6 @@ edges:
 credibility_index: 3.5
 source_tier: 2
 missing_fields:
-  - legal_basis
 related_cases:
 
 related_operations:
@@ -137,7 +139,7 @@ sources:
   - "[[2022-11-01_gbhackers-com_operation-haechi-iii-interpol-arrested-1000-cyber-criminals-seized-130-million]]"
   - "[[2022-11-01_therecord-media_almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-milli]]"
 created: 2026-04-10
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI-III was the third in INTERPOL's annual HAECHI series of operations targeting cyber-enabled financial crime. Running from **28 June to 23 November 2022**, it was coordinated by INTERPOL's Financial Crime and Anti-Corruption Centre (IFCACC) and involved **30 countries** acting through their respective INTERPOL National Central Bureaus (NCBs). The operation resulted in **975 arrests**, the resolution of **1,600+ cases**, and the seizure/interception of approximately **USD 130 million** in virtual assets and illicit funds."
@@ -185,7 +187,7 @@ crime_types:
 
 Operation HAECHI-III was the third in INTERPOL's annual HAECHI series of operations targeting cyber-enabled financial crime. Running from **28 June to 23 November 2022**, it was coordinated by INTERPOL's Financial Crime and Anti-Corruption Centre (IFCACC) and involved **30 countries** acting through their respective INTERPOL National Central Bureaus (NCBs). The operation resulted in **975 arrests**, the resolution of **1,600+ cases**, and the seizure/interception of approximately **USD 130 million** in virtual assets and illicit funds.
 
-HAECHI-III is highly likely the most significant operation in the HAECHI series for institutional innovation: it marked the operational launch of INTERPOL's **Anti-Money Laundering Rapid Response Protocol (ARRP)**, a new global stop-payment mechanism that enables near-real-time cross-border requests to restrain criminal proceeds. The ARRP has since recovered over USD 120 million and represents a qualitative advance in the speed of international asset recovery.
+HAECHI-III is the most significant HAECHI-series operation for institutional innovation in the current corpus: it marked the operational launch of INTERPOL's **Anti-Money Laundering Rapid Response Protocol (ARRP)**, a new global stop-payment mechanism that enables near-real-time cross-border requests to restrain criminal proceeds. The ARRP has since recovered over USD 120 million and represents a qualitative advance in the speed of international asset recovery.
 
 ## Background
 
@@ -303,8 +305,8 @@ Korea's leadership role in the HAECHI series is consistent with its broader comm
 ## Contradictions & Open Questions
 
 1. **Arrest count discrepancy**: INTERPOL's official press release states "975 individuals" arrested. Some secondary sources (GBHackers, Heimdal Security) report "approximately 1,000" or "nearly 1,000." This page uses the INTERPOL primary figure of 975.
-2. **ARRP formal launch date**: INTERPOL states ARRP was "piloted" from January 2022 and deployed during HAECHI-III, but it is unclear whether ARRP was formally "launched" during or before the operation. The USD 120 million ARRP recovery figure appears to include recoveries from other operations beyond HAECHI-III.
-3. **Participating country count**: INTERPOL confirms 30 countries. The list in the INTERPOL press release includes "Hong Kong (China)" which is a Special Administrative Region, not a sovereign state. The count of "30" appears to include Hong Kong as one of the 30 participants.
+2. **ARRP formal launch date**: INTERPOL states ARRP was "piloted" from January 2022 and deployed during HAECHI-III, but public sources do not resolve whether ARRP was formally "launched" during or before the operation. The USD 120 million ARRP recovery figure includes recoveries from other operations beyond HAECHI-III.
+3. **Participating country count**: INTERPOL confirms 30 countries. The list in the INTERPOL press release includes "Hong Kong (China)" which is a Special Administrative Region, not a sovereign state. The count of "30" includes Hong Kong as one of the 30 participants in INTERPOL's operational tally.
 
 ## Follow-Up Actions
 

@@ -15,46 +15,13 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:473a15faf7740a0da9f6326fa34a6ac3fc34699ccce9517d1eb5ad6554c99221
-word_count: 788
-extraction_date: 2026-04-25
+content_hash: sha256:cb301c99a740eeb3fe28b14377ae41e8537e11cd7cbf9bbd2d9b389db741184a
+word_count: 134
+extraction_date: 2026-04-29
 source_page: wiki/sources/2020-07-10_fda_darknet-vendor-pharmacist-firebomb-plea.md
+parser: jina_markdown
 ---
 FDA Office of Criminal Investigations parallel press release confirming the EDVA prosecution and July 10, 2020 plea agreements of William Burgamy IV (Maryland darknet vendor) and Hyrum T. Wilson (Nebraska pharmacist) for the conspiracy to firebomb the Auburn, Nebraska competitor pharmacy. FDA-OCI participated in the multi-agency investigation alongside the FBI and Postal Inspectors.
-
-## Extracted Text
-
-Title: Page Not Found | FDA
-
-URL Source: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/darknet-vendor-and-pharmacist-plead-guilty-firebomb-attack-plot
-
-Warning: Target URL returned error 404: Not Found
-
-Markdown Content:
-
-# Page Not Found | FDA
-
-![Image 1: U.S. flag](https://www.fda.gov/themes/custom/preview/assets/images/US_Flag.png)An official website of the United States government[Here’s how you know](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/darknet-vendor-and-pharmacist-plead-guilty-firebomb-attack-plot)
-
-![Image 2: Dot gov](https://www.fda.gov/themes/custom/preview/assets/images/icon-dot-gov.svg)
-
-**The .gov means it’s official.**
-
-Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
-
-![Image 3: SSL](https://www.fda.gov/themes/custom/preview/assets/images/icon-https.svg)
-
-**The site is secure.**
-
-The**https://**ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
-
-[![Image 4: Food and Drug Administration Logo](https://www.fda.gov/themes/custom/preview/assets/images/FDA_Logo_Icon_White.svg)](https://www.fda.gov/ "FDA Homepage")
-
-* Search
-
-* Menu
-
-Search FDA Submit search
 
 ## Featured
 
@@ -188,9 +155,74 @@ Contact Number 1-888-INFO-FDA (1-888-463-6332)
 
 [Back to Top](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/darknet-vendor-and-pharmacist-plead-guilty-firebomb-attack-plot)
 
+## Extracted Text
+
+# Page Not Found
+
+We’re sorry. The page you are looking for is not available for one of the following reasons.
+
+The link to this page may not be correct or is out-of-date.
+
+You have bookmarked a page that has moved.
+
+Try one of these options:
+
+Search FDA.govCheck the FDA ArchiveContact FDA
+
+* *
+
+Or try one of these helpful links to FDA topics:
+
+FDA.gov Homepage
+
+Food
+
+Human Drugs
+
+Medical Devices
+
+Radiation-Emitting Products
+
+Vaccines, Blood, and Biologics
+
+Animal and Veterinary
+
+Cosmetics
+
+Tobacco Products
+
+## Footer Links
+
+FDA Archive
+
+Accessibility
+
+Visitor Information
+
+Website Policies / Privacy
+
+No FEAR Act
+
+Vulnerability Disclosure Policy
+
+FOIA
+
+HHS.gov
+
+USA.gov
+
+Contact FDAFollow FDA on FacebookFollow FDA on XFollow FDA on Instagram
+
+Follow FDA on LinkedInView FDA videos on YouTubeSubscribe to FDA RSS feeds
+
+Contact Number 1-888-INFO-FDA (1-888-463-6332)
+
+Back to Top
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:38:17+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/darknet-vendor-and-pharmacist-plead-guilty-firebomb-attack-plot
+- cleanup: jina navigation trim

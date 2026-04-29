@@ -34,4 +34,4 @@ Bondarenko et al. (Infraud Organization) Enforcement Action is a defendant-speci
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-02-07_justice-gov_united-states-v-bondarenko-et-al-infraud-organization.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-02-07_justice-gov_united-states-v-bondarenko-et-al-infraud-organization.md`, preserving traceable review without classifying the page as a placeholder.

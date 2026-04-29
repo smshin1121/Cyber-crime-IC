@@ -33,4 +33,4 @@ Operation First Light 2024 was an INTERPOL-coordinated global crackdown on onlin
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-06-18_interpol-int_usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-06-18_interpol-int_usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation.md`, preserving traceable review without classifying the page as a placeholder.

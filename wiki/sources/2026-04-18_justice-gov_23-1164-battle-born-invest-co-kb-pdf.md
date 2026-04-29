@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.justice.gov/d9/2024-09/23-1164_battle_born_invest_co_kb.pdf
 created: 2026-04-18
 text_status: parsed
-content_hash: sha256:c23745a304a37bcc693854868de9de48e8888e9c5499975ea862765669de0e85
-word_count: 6745
-extraction_date: 2026-04-25
+content_hash: sha256:30449a2bfd0b46fdfc63fd406a8a81623345defe77fbfd6bb16ebe3d696c9c99
+word_count: 6712
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

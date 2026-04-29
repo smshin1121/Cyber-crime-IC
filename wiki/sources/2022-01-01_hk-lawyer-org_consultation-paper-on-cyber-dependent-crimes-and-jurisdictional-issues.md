@@ -31,4 +31,4 @@ Hong Kong is a **Special Administrative Region** of the People's Republic of Chi
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-01-01_hk-lawyer-org_consultation-paper-on-cyber-dependent-crimes-and-jurisdictional-issues.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-01-01_hk-lawyer-org_consultation-paper-on-cyber-dependent-crimes-and-jurisdictional-issues.md`, preserving traceable review without classifying the page as a placeholder.

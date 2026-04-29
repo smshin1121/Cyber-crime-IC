@@ -20,10 +20,11 @@ collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-crimi
 created: 2026-04-25
 raw_path: raw/press-releases/2024-03-05_fda_pennsylvania-family-pleads-guilty-fentanyl-trafficking.md
 text_status: parsed
-content_hash: sha256:2424c714b0b9dc6ce5c55bd6d987e4d56d416b90c0998a9971c8f957cab5e7a0
-word_count: 1679
-extraction_date: 2026-04-25
+content_hash: sha256:8629bc953a840b047a7a0fefc4b032546fe9f018003cfaa3dec962d3880dc1aa
+word_count: 827
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

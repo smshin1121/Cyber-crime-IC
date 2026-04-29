@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2017/10/17/justice-department
 created: 2026-04-25
 raw_path: raw/press-releases/2017-10-17_dea_first-ever-indictments-against-designated-chinese-manufacturers-fentanyl.md
 text_status: parsed
-content_hash: sha256:a2075f371db8a8febb791cd07001be4f77811ef6b03b14ab8fd2b9d818f4d704
-word_count: 6351
-extraction_date: 2026-04-25
+content_hash: sha256:157b84d34abe49bd905362a57dc37cebf7c4cba02752dce3f27e09e26b0290d3
+word_count: 1531
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

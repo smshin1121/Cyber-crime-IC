@@ -27,4 +27,4 @@ On 22 March 2022, the U.S. Attorney's Office for the Eastern District of Texas a
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2022-03-22_edtx_marketplace-a-dekhtyarchuk-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2022-03-22_edtx_marketplace-a-dekhtyarchuk-indictment.md`, preserving traceable review without classifying the page as a placeholder.

@@ -22,6 +22,9 @@ storage_mode: source-digest
 content_hash: sha256:5d2df619596a03e9614b2f0238c3a852ca6e340a0919c75131b90c77c6740019
 word_count: 142
 extraction_date: 2026-04-28
+harvest_status: fulltext_not_available
+harvest_note: "Repeated live fulltext harvesting failed or is not suitable; source digest retained."
+last_fetch_attempt: 2026-04-29
 ---
 ## Source Summary
 

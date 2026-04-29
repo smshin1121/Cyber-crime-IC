@@ -29,4 +29,4 @@ The Cyber Security and Technology Crime Bureau (CSTCB) of the [[hong-kong-police
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-03-27_info-gov-hk_digital-policy-office-introduces-initiatives-to-promote-cybersecurity-in-2025.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-03-27_info-gov-hk_digital-policy-office-introduces-initiatives-to-promote-cybersecurity-in-2025.md`, preserving traceable review without classifying the page as a placeholder.

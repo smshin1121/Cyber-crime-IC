@@ -2,36 +2,44 @@
 title: "Nigerian authorities arrest alleged mastermind of $60M worth of online scams"
 collection_source: "Ars Technica"
 collection_url: https://arstechnica.com/tech-policy/2016/08/nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams/
+final_url: https://arstechnica.com/tech-policy/2016/08/nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams/
 collection_domain: arstechnica.com
-collection_date: 2026-04-23
+collection_date: 2026-04-29
 publish_date: 2016-08-01
 language: en
-status: collected
-related_operation: bec-nigeria-2016
-final_url: https://arstechnica.com/tech-policy/2016/08/nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams/
+status: materialized
 text_status: summarized
-fetcher: urllib
-http_status: 200
-content_type: text/html
-content_hash: sha256:2837fea28eca026a55a5a190eb65f6330f2e5bb5e72f90dec4f08f792187cc44
-word_count: 756
-stored_word_count: 80
-extraction_date: 2026-04-25
-copyright_policy: summary-only
+storage_mode: summary-only
+source_type: news
 source_page: wiki/sources/2016-08-01_arstechnica_nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams.md
+word_count: 133
+content_hash: sha256:4ad23a81e8f58b33caade849e6d774b7490e802a5fc6f60175e7e6c9c5640a0a
+extraction_date: 2026-04-29
+copyright_policy: summary-only
 ---
-## Summary
+## Source Archive Record
 
-Ars Technica reported that Nigerian authorities arrested the alleged mastermind of a USD 60 million fraud network after an INTERPOL-EFCC operation in Port Harcourt. The article highlighted that the suspect, known as Mike, allegedly ran a 40-person network across Nigeria, Malaysia and South Africa and used business email compromise and other online fraud techniques.
+This record preserves the source metadata and source-page digest so the source corpus has a separate addressable record for this reference.
 
-## Extracted Summary
+## Source Digest
 
-Nigerian authorities arrest alleged mastermind of $60M worth of online scams - Ars Technica Skip to content Ars Technica home Sections Forum Search AI Biz & IT Cars Culture Gaming Health Policy Science Security Space Tech Feature Reviews Story text Size Small Standard Large Width * Wide Links Orange * Subscribers only Learn more Pin to story Theme HyperLight Day & Night Dark System Sign In Sign in dialog... 419 never dies Nigerian authorities arrest alleged mastermind of $60M worth...
+- Title: Nigerian authorities arrest alleged mastermind of $60M worth of online scams
+- Publisher: Ars Technica
+- Source type: news
+- Publication date: 2016-08-01
+- URL: https://arstechnica.com/tech-policy/2016/08/nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams/
+
+### Key Findings
+- Ars Technica summarized the Port Harcourt arrest and the alleged transnational structure of the online-fraud network.
+
+### Source Page Summary
+
+This article adds independent reporting and some contextual detail about the suspect network and fraud methods. The source helps corroborate the Nigeria 2016 BEC arrest from outside official police channels.
 
 ## Extraction Notes
 
-- parser: document
-- fetcher: urllib
-- fetched_at: 2026-04-25T14:58:02+00:00
-- final_url: https://arstechnica.com/tech-policy/2016/08/nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams/
 - storage_mode: summary-only
+- source_page: wiki/sources/2016-08-01_arstechnica_nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams.md
+- generated_at: 2026-04-28T16:02:26+00:00
+- full_text: not fetched in this materialization pass
+- rights_mode: summary-only public corpus record

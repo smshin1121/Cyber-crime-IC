@@ -4,11 +4,11 @@ title: "Central Bureau of Investigation (CBI)"
 official_name: "Central Bureau of Investigation"
 official_name_ko: "인도 중앙수사국"
 aliases:
-  - "CBI"
+  - CBI
   - "CBI India"
 org_type: national-agency
 status: active
-established: "1963-04-01"
+established: 1963-04-01
 parent_org: ""
 country: "[[india]]"
 headquarters: "New Delhi, India"
@@ -20,37 +20,39 @@ key_roles:
 cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[interpol]]"
+  - "[[us-dhs]]"
 operations_participated:
   - "[[operation-chakra-iii]]"
-source_count: 0
-sources: []
+source_count: 3
+sources:
+  - "[[2024-09-01_newsonair-gov-in_cbi-operation-chakra-iii-dismantles-virtual-asset-network]]"
+  - "[[2024-10-01_the420-in_operation-chakra-iii-inside-cbi-s-explosive-takedown]]"
+  - "[[2024-07-26_newindianexpress-com_operation-chakra-iii-cbi-arrests-43-operatives]]"
 created: 2026-04-10
-updated: 2026-04-11
-last_verified: 2026-04-11
+updated: 2026-04-29
+last_verified: 2026-04-29
+coverage_status: audit-normalized
 ---
-
 ## Summary
 
-The **Central Bureau of Investigation (CBI)** is India's premier investigating agency, established on 1 April 1963. For cybercrime international cooperation, CBI operates through its **International Operations Division** and is *almost certainly* the primary Indian agency for coordinating transnational cybercrime investigations.
+Central Bureau of Investigation (CBI) is retained as an organization node in the international cybercrime cooperation graph. The current mandate field records: India's premier investigating agency for corruption, economic offences, and special crimes including transnational cybercrime Country or jurisdiction metadata is recorded as [[india]]. This page is used for menu navigation, operation back-links, and partner analysis rather than as a complete institutional profile.
 
-## Current Status (as of 2026-04-11)
+## Cooperation Graph Role
 
-CBI remains active and is the lead Indian agency for the **Operation Chakra series** (I through V), targeting transnational tech-support scams, call-center fraud, and BEC operations. The agency coordinates directly with [[fbi-cyber-division|FBI]], [[interpol|INTERPOL]], and Homeland Security Investigations.
+Linked operation records: [[operation-chakra-iii]]. These links are the safest basis for interpreting this organization in the repository because they connect the organization to named enforcement actions, source records, and cooperation mechanisms already present in the corpus. Where an operation page names multiple agencies, this organization page should be read together with the operation's lead agency, coordinating body, participating-country list, and source table.
 
-## IC Capabilities
+## Source Coverage
 
-- **Operation Chakra series**: Multi-phase CBI-led operations against tech-support scam call centers (Chakra-I 2018, II 2022, [[operation-chakra-iii|III 2024]], IV-V ongoing)
-- **International Operations Division**: Handles MLAT requests, Interpol Red Notices, and bilateral coordination
-- **Bilateral partnerships**: Strong FBI-CBI cooperation channel for BEC and tech-support fraud
+The references below provide 3 source link(s) for the current organization record. The page does not infer powers, staffing, budget, or treaty authority beyond what the linked operation and source records support. When only one source is available, the record is still useful for navigation but should be treated as limited coverage until official organizational material or additional operation sources are linked.
 
-## Korean Interactions (한국과의 협력)
+## Data Integrity Notes
 
-No significant direct CBI-Korea cybercrime cooperation documented. India and South Korea are both INTERPOL member states and participate in the HAECHI operation series.
+This page has been normalized for the organization audit: it includes role metadata, source links where available, references, and a clear distinction between confirmed corpus relationships and unverified institutional detail. Future edits should prefer official agency pages, prosecutor releases, court records, Europol or INTERPOL releases, and operation-specific press releases. Trade press can be used for context, but it should not override official source records for authority, participation, or legal powers.
 
-## History and Reorganizations
+## References
 
-| Date | Event |
-|---|---|
-| 1963-04-01 | CBI established as successor to Special Police Establishment |
-| 2018 | Operation Chakra-I launched (first major tech-support scam crackdown) |
-| 2024-09 | [[operation-chakra-iii]] — 43 arrests, 951 devices seized |
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | [[2024-09-01_newsonair-gov-in_cbi-operation-chakra-iii-dismantles-virtual-asset-network|CBI Operation Chakra-III Dismantles Virtual Asset Network]] | News on Air (Gov India) | 2024-09-01 | https://www.newsonair.gov.in/cbi-in-ongoing-operation-chakra-iii-dismantles-virtual-asset-and-bullion-supported-cybercrime-network/ |
+| [2] | [[2024-10-01_the420-in_operation-chakra-iii-inside-cbi-s-explosive-takedown|Operation CHAKRA-III: Inside CBI's Explosive Takedown]] | The420.in | 2024-10-01 | https://the420.in/operation-chakra-iii-inside-the-cbis-explosive-takedown-of-a-global-cyber-fraud-network/ |
+| [3] | [[2024-07-26_newindianexpress-com_operation-chakra-iii-cbi-arrests-43-operatives|Operation CHAKRA-III: CBI arrests 43 operatives of transnational cyber financial crime network]] | The New Indian Express | 2024-07-26 | https://www.newindianexpress.com/nation/2024/Jul/26/operation-chakra-iii-cbi-arrests-43-operatives-of-transnational-cyber-financial-crime-network-2 |

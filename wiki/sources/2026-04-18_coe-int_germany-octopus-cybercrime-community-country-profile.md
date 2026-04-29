@@ -21,10 +21,11 @@ key_findings:
 created: 2026-04-18
 raw_path: raw/press-releases/2026-04-18_coe-int_germany-octopus-cybercrime-community-country-profile.md
 text_status: parsed
-content_hash: sha256:4de78e1ddd135dc3eeab02e888b5141278de189e576b3d06fe3cad25709bac28
-word_count: 2421
-extraction_date: 2026-04-25
+content_hash: sha256:24115c6b53a2e930c9631424d1942977d670b9b7aac2b30fc157ec142d4a0e9f
+word_count: 1258
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

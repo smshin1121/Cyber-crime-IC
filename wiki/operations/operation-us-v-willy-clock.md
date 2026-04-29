@@ -64,11 +64,13 @@ sources:
   - "[[2014-12-30_krebsonsecurity_alleged-counterfeiter-willy-clock-arrested]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-willy-clock]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-willy-clock]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

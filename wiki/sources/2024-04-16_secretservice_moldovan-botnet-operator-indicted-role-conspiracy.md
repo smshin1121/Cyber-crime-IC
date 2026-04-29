@@ -18,11 +18,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2024/04/moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access
 created: 2026-04-25
 raw_path: raw/press-releases/2024-04-16_secretservice_moldovan-botnet-operator-indicted-role-conspiracy.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:87fd8e841ecfe59471827ff58dc70c7c5390bedfb458357e07d9fc35daf765d7
-word_count: 138
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:868745724110e51cdf18fe00c07bef09feb1083e798a08b74b1056a9ed497a4e
+word_count: 785
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

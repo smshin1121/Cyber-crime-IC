@@ -1,48 +1,52 @@
 ---
-aliases: []
+aliases:
+  - "DPCI"
+  - "The Hawks"
 contact_point_for: []
-cooperation_partners: []
-country: '[[south-africa]]'
+cooperation_partners:
+  - "[[south-africa-saps]]"
+country: "[[south-africa]]"
 created: 2026-04-10
-established: ''
+established: ""
 frameworks_administered: []
-headquarters: ''
-key_roles: []
-last_verified: '2026-04-10'
-mandate: South African Police Service specialized unit investigating organized crime,
-  economic crime, and serious cybercrime.
+headquarters: "South Africa"
+key_roles:
+  - "SAPS specialized unit for organized crime, economic crime, and serious cybercrime."
+  - "Primary South African police-side node for serious cybercrime investigation when DPCI is named."
+last_verified: 2026-04-29
+mandate: "South African Police Service specialized unit investigating organized crime, economic crime, and serious cybercrime."
 mechanisms_operated: []
 notable_cases: []
-official_name: Directorate for Priority Crime Investigation (DPCI)
+official_name: "Directorate for Priority Crime Investigation (DPCI)"
 operations_participated: []
 org_type: national-unit
-parent_org: ''
-source_count: 1
-sources: []
+parent_org: "[[south-africa-saps]]"
+source_count: 2
+sources:
+  - "[[2026-04-17_saps-gov-za_official-website]]"
+  - "[[2026-04-17_coe-int_south-africa-octopus-cybercrime-community]]"
 status: active
-title: The Hawks
+title: "The Hawks"
 type: organization
-updated: 2026-04-10
+updated: 2026-04-29
 ---
-
-> [!info] Stub
-> This page was auto-created to resolve a wikilink. It will be expanded when more sources are ingested.
 
 ## Summary
 
-South African Police Service specialized unit investigating organized crime, economic crime, and serious cybercrime. For detailed facts, see the official source [1].
+**The Hawks**, formally the Directorate for Priority Crime Investigation (DPCI), are the SAPS specialized unit for priority crime. In the cybercrime corpus, this page should be used where sources identify serious cybercrime, organized crime, or economic-crime investigation by DPCI.
 
 ## Mandate and Authority
 
-South African Police Service specialized unit investigating organized crime, economic crime, and serious cybercrime.
+The official SAPS/DPCI source identifies the unit's serious-crime mandate. The Council of Europe country profile provides broader South African cybercrime legal and institutional context.
 
 ## Contradictions & Open Questions
 
-- Specific cybercrime caseload and operational data not yet recorded.
-- Year established, headquarters, and structural details require further research.
+- Specific serious-cybercrime operation examples should be added when primary South African sources are available.
+- The boundary between Hawks, SAPS cyber units, prosecutors, and CSIRT functions remains under-sourced.
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Official website | The Hawks | — | https://www.saps.gov.za/dpci/ |
+| 1 | [[2026-04-17_saps-gov-za_official-website|DPCI official website]] | SAPS / The Hawks | 2026-04-17 | https://www.saps.gov.za/dpci/ |
+| 2 | [[2026-04-17_coe-int_south-africa-octopus-cybercrime-community|South Africa cybercrime country profile]] | Council of Europe | 2026-04-17 | https://www.coe.int/ |

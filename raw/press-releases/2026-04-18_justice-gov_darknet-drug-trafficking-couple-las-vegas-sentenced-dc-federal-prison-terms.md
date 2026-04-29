@@ -4,7 +4,7 @@ collection_source: "US DOJ USAO"
 collection_url: https://www.justice.gov/usao-dc/pr/darknet-drug-trafficking-couple-las-vegas-sentenced-dc-federal-prison-terms
 final_url: https://www.justice.gov/usao-dc/pr/darknet-drug-trafficking-couple-las-vegas-sentenced-dc-federal-prison-terms
 collection_domain: justice.gov
-collection_date: 2026-04-28
+collection_date: 2026-04-29
 publish_date: 2025-02-13
 language: en
 status: materialized
@@ -13,8 +13,8 @@ storage_mode: source-digest
 source_type: press-release
 source_page: wiki/sources/2026-04-18_justice-gov_darknet-drug-trafficking-couple-las-vegas-sentenced-dc-federal-prison-terms.md
 word_count: 132
-content_hash: sha256:d26d502e15bce1eaacb64aaeff41a94796d6df10e3ee6259672eaf65a8345f5a
-extraction_date: 2026-04-28
+content_hash: sha256:5c7e8b8e47334ba408799ae54f6c166080579c5d23289ae2612e85605db22646
+extraction_date: 2026-04-29
 license_basis: official_public_record
 ---
 ## Source Archive Record
@@ -37,5 +37,5 @@ both of Las Vegas, Nevada, were sentenced today in U.S. District Court to 51...p
 
 - storage_mode: source-digest
 - source_page: wiki/sources/2026-04-18_justice-gov_darknet-drug-trafficking-couple-las-vegas-sentenced-dc-federal-prison-terms.md
-- generated_at: 2026-04-28T13:54:23+00:00
+- generated_at: 2026-04-28T16:02:26+00:00
 - full_text: not fetched in this materialization pass

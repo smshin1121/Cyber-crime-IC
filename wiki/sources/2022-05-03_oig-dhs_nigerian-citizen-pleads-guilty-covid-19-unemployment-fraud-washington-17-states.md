@@ -19,10 +19,11 @@ collection_url: https://www.oig.dhs.gov/sites/default/files/assets/pr/2022/dojpr
 created: 2026-04-25
 raw_path: raw/press-releases/2022-05-03_oig-dhs_nigerian-citizen-pleads-guilty-covid-19-unemployment-fraud-washington-17-states.md
 text_status: parsed
-content_hash: sha256:ef884c5842bdfba1c51224b06a47052ba743f98b8bec71c02ceda842fc15d6e3
-word_count: 781
-extraction_date: 2026-04-25
+content_hash: sha256:6d78a05bf258e88cd2ed1d54eabab246d9c1300fe721524a627f382cbc54c8e5
+word_count: 698
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

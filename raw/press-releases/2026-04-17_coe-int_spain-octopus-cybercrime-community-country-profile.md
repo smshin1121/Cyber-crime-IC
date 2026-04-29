@@ -12,34 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:48064cae5b71a66d68dbf3c64c83f94a6534081d3cf3b92efb8bc91ff5ff43e3
-word_count: 2426
-extraction_date: 2026-04-25
+content_hash: sha256:264352b729b16a98525edb89b255cdb6d601fe69e344b239df49838be7a21bb2
+word_count: 253
+extraction_date: 2026-04-29
 source_page: wiki/sources/2026-04-17_coe-int_spain-octopus-cybercrime-community-country-profile.md
+parser: jina_markdown
 ---
 ## Summary
 
 The **Grupo de Delitos Telematicos (GDT)** is the Guardia Civil's specialized cybercrime unit and one of the two main national cybercrime actors in Spain's dual law-enforcement model.
-
-## Extracted Text
-
-Title: Spain
-
-URL Source: https://www.coe.int/en/web/octopus/-/spain
-
-Markdown Content:
-
-Spain
-
-![Image 1:
-
-Status regarding Budapest Convention
-
-](https://static.coe.int/pics/flags/47-member-states/spain.svg)
-
-#### Status regarding Budapest Convention
-
-**Status :** Party **Declarations and reservations :** Declaration in the instrument of ratification deposited on 3 June 2010. Original English. In case the present Convention on Cybercrime is extended by the United Kingdom to Gibraltar, the Kingdom of Spain would like to make the following declaration: 1. Gibraltar is a Non-Self-Governing Territory for whose external relations the United Kingdom is responsible and which is undergoing a process of decolonization in accordance with the relevant decisions and resolutions of the United Nations General Assembly. 2. The Gibraltar authorities are local ones and exercise exclusively internal powers which have their origin and basis in the distribution and attribution of powers made by the United Kingdom, in accordance with the provisions of its domestic legislation, as a sovereign State on which the said Non-Self-Governing Territory depends. 3. Accordingly, any participation by the Gibraltar authorities in the application of this Convention shall be considered as taking place solely within the domestic jurisdiction of Gibraltar and shall not be deemed to involve any change in respect of the preceding two paragraphs. Period of effect: 1/10/2010. Declaration set out in a letter deposited with the instrument of ratification on 3 June 2010. Original: English. In accordance with articles 24 and 27 of the Convention, Spain declares that the designated central authority is the Subdirectorate General for International Legal Cooperation of the Ministry of Justice. The above statement refers to articles 24, 27. Declaration made in a letter deposited together with the instrument of ratification on 3 June 2010. In accordance with article 35 of the Convention, Spain declares that the designated contact point of the 24/7 network is the General Commissariat of the Judicial Police of the Ministry of the Interior. Period of effect: 1/10/2010. The above declaration refers to article 35. [See legal profile](https://rm.coe.int/octocom-legal-profile-spainmjus-def/16809e5df7)
 
 ## Specialised institutions
 
@@ -171,9 +152,28 @@ Other issues:
 
 * [Law 23/2014](https://www.boe.es/eli/es/l/2014/11/20/23/con), 20th November on the mutual recognition of criminal decisions in the European Union
 
+## Extracted Text
+
+Law 34/2002, of 11 July, on information society services and electronic commerce, regulates which service providers are established in Spain.
+
+Organic Law 3/2018 of 5 December on the Protection of Personal Data and the Guarantee of Digital Rights.
+
+Royal Legislative Decree 1/1996, 12 thApril 1996, approving the revised text of the Law on Intellectual Property, regularizing, clarifying and harmonizing the legal provisions in force on the subject. (Law 2/2019, 1th March which amends the revised text of the Intellectual Property regularizing, clarifying and harmonizing the legal provisions in force on the subject. (Law 2/2019, 1th March which amends the revised text of the Intellectual Property Law, approved by Royal Legislative Decree 1/1996, 12 th April, 1996, and which incorporates into Spanish law Directive 2014/26/EU of the European Parliament and Council, of February 26, 2014, and Directive (EU) 2017/1564 of the European Parliament and Council, 13 th September).
+
+Law 8/2011 of 28 April establishing measures for the protection of critical infrastructures.
+
+Law 25/2007, 18th October, on the conservation of data relating to electronic communications and public communications networks.
+
+Royal Decree-Law 12/2018, 7 th September, on network and information systems security
+
+Instrument of ratification of the Second Additional Protocol to the European Convention on Mutual Assistance in Criminal Matters, done at Strasbourg on 8 November 2001 https://www.boe.es/eli/es/ai/2001/11/08/(1)
+
+Law 23/2014, 20th November on the mutual recognition of criminal decisions in the European Union
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:44:27+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.coe.int/en/web/octopus/-/spain
+- cleanup: jina navigation trim

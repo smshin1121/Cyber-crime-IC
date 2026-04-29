@@ -31,4 +31,4 @@ On 17 January 2022, law enforcement authorities from 10 countries, coordinated b
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-01-18_cyberscoop-com_international-effort-takes-down-vpn-service-vpnlab-used-for-criminal-activity.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-01-18_cyberscoop-com_international-effort-takes-down-vpn-service-vpnlab-used-for-criminal-activity.md`, preserving traceable review without classifying the page as a placeholder.

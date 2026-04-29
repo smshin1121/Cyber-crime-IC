@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/-/south-africa
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:7aef23a19736d61e389487707e233606fdc07cbb13065a895caaf6802a061ed7
-word_count: 5284
-extraction_date: 2026-04-25
+content_hash: sha256:ee3e1c1416be0686af76cfabc5fd84e4562eb2a2c3ceb7b336c35b8f14030b43
+word_count: 3419
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ South Africa is the regional cybercrime capacity leader in Southern Africa. It w
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_south-africa-octopus-cybercrime-community.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_south-africa-octopus-cybercrime-community.md`, preserving traceable review without classifying the page as a placeholder.

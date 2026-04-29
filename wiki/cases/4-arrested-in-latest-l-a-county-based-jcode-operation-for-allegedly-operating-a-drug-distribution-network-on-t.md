@@ -34,7 +34,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_4-arrested-latest-la-county-based-jcode-operation-allegedly-operating-drug]]"
 created: 2026-04-18
-updated: 2026-04-28
+updated: 2026-04-29
 summary: "4 Arrested in Latest L.A. County-Based “JCODE” Operation for Allegedly Operating a Drug Distribution Network on the Darknet is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -62,8 +62,6 @@ summary: "4 Arrested in Latest L.A. County-Based “JCODE” Operation for Alleg
 
 - US DOJ USAO has a parsed source text of 1248 words available for further review.
 
-
-
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage
@@ -82,6 +80,12 @@ summary: "4 Arrested in Latest L.A. County-Based “JCODE” Operation for Alleg
 - US DOJ USAO, 2025-04-10: All four defendants are charged with one count of conspiracy to distribute and possess with intent to distribute cocaine, methamphetamine, ketamine, and MDMA (Ecstasy).
 - US DOJ USAO, 2025-04-10: Avalyan is charged with one count of distribution of cocaine, one count of distribution of MDMA, and one count of distribution of distribution of methamphetamine.
 - US DOJ USAO, 2025-04-10: Gevorgyan is charged with one count of possession with intent to distribute MDMA and one count of possession with intent to distribute ketamine.
+- US DOJ USAO, 2025-04-10: Grigoryan is charged with one count of possession with intent to distribute methamphetamine.
+- US DOJ USAO, 2025-04-10: Nersesyan is charged with three counts of possession with intent to distribute methamphetamine, one count of possession with intent to distribute cocaine, and one count of possession with intent to distribute MDMA.
+- US DOJ USAO, 2025-04-10: According to the indictment, from September 2018 to February 2025, various vendors operating under the names JoyInc, LaFarmacia, WhiteDoc, JanesAddiction, DaShop, WhiteRepublic, Tomorowland, PlanetHollywood, DopeValley, and Major2Minor sold cocaine, methamphetamine, MDMA, and ketamine to drug customers on darknet markets in exchange for.
+- US DOJ USAO, 2025-04-10: The Justice Department established the FBI-led JCODE team to lead and coordinate government efforts to detect, disrupt, and dismantle major criminal enterprises reliant on the darknet for trafficking opioids and other illicit narcotics, along with identifying and dismantling their supply chains.
+- US DOJ USAO, 2025-04-10: During yesterday’s arrests and searches, assistance was provided by the Los Angeles Police Department.
+- US DOJ USAO, 2025-04-10: This case is part of Operation Take Back America, a nationwide initiative that marshals the full resources of the Department of Justice to repel the invasion of illegal immigration, achieve the total elimination of cartels and transnational criminal organizations (TCOs), and protect our communities from the perpetrators of violent crime.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

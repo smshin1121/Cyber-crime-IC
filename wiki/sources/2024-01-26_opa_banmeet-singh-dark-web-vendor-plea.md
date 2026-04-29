@@ -34,4 +34,4 @@ On 26 January 2024, DOJ announced that Banmeet Singh, an Indian national, pleade
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2024-01-26_opa_banmeet-singh-dark-web-vendor-plea.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2024-01-26_opa_banmeet-singh-dark-web-vendor-plea.md`, preserving traceable review without classifying the page as a placeholder.

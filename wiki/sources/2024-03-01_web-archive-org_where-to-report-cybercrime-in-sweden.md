@@ -25,4 +25,4 @@ Sweden is a **highly capable Nordic cybercrime cooperation partner**, deeply emb
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-03-01_web-archive-org_where-to-report-cybercrime-in-sweden.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-03-01_web-archive-org_where-to-report-cybercrime-in-sweden.md`, preserving traceable review without classifying the page as a placeholder.

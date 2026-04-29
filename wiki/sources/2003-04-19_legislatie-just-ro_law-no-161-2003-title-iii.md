@@ -25,4 +25,4 @@ Romania is a major European cybercrime cooperation partner. It is a **[[budapest
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2003-04-19_legislatie-just-ro_law-no-161-2003-title-iii.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2003-04-19_legislatie-just-ro_law-no-161-2003-title-iii.md`, preserving traceable review without classifying the page as a placeholder.

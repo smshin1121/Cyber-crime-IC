@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/07/21/sacramento-man-sen
 created: 2026-04-25
 raw_path: raw/press-releases/2025-07-21_dea-gov_sacramento-man-sentenced-9-years-fentanyl-meth-trafficking.md
 text_status: parsed
-content_hash: sha256:30113d3f9ba283c9e6ac7c4450daa12810fb9c14a9569312029df2a8a19c5e94
-word_count: 5230
-extraction_date: 2026-04-25
+content_hash: sha256:dfeee049e2de701d5049be6563219bc4d5bbafa4c941f19f3bdc92e4e7eb3b88
+word_count: 509
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

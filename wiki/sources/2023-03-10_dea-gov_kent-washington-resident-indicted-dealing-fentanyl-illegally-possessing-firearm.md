@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2023/03/10/kent-washington-re
 created: 2026-04-25
 raw_path: raw/press-releases/2023-03-10_dea-gov_kent-washington-resident-indicted-dealing-fentanyl-illegally-possessing-firearm.md
 text_status: parsed
-content_hash: sha256:5b1ae94d0edc1c94a43145eca4da8a77a1304b534380e81b49144b0c5c66692f
-word_count: 5206
-extraction_date: 2026-04-25
+content_hash: sha256:872235acd8b51d9047e4008825b7193e10faa000bd7a2ad6d99ff99a69be93a4
+word_count: 397
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

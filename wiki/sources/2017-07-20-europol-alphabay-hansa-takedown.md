@@ -19,11 +19,12 @@ key_findings:
   - "Main suspect arrested in Thailand; two Hansa administrators arrested in Germany."
   - "Servers seized in Canada, Netherlands, Germany, and Lithuania; millions in cryptocurrencies frozen."
 created: 2026-04-14
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:e4606ca538a1ac447b21b5376b2202bf31522503bbcaf24b8ff93978730405bc
-word_count: 151
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:60d66364e5f763bf6badbde532bc9dd50545e4df8c767f32c56015273b4a9858
+word_count: 1523
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Summary
 

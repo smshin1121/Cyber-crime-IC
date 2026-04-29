@@ -17,11 +17,12 @@ key_findings:
   - "Eurojust coordinated a major operation against a global credit-card fraud scheme worth at least **EUR 300 million**, with fraud attempted against 19 million accounts in 193 countries. German payment-service infrastructure and UK-linked shell-company structures were central to the case."
 collection_url: https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:3ee9e9a94a625d44902b50e7d58424a2112b9b82415b150e6949cabb260f2d4c
-word_count: 173
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:66386c2a53d7dcf739b657322266bd0737bd559bec8aca4aae6e115caf4be1a3
+word_count: 1124
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

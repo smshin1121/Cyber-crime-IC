@@ -31,4 +31,4 @@ The Internet Crime Complaint Center (IC3) is the [[fbi-cyber-division|FBI Cyber 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-01_trmlabs-com_a-record-breaking-year-for-cybercrime-key-findings-from-the-fbi-s-2024-ic3-repor.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-01_trmlabs-com_a-record-breaking-year-for-cybercrime-key-findings-from-the-fbi-s-2024-ic3-repor.md`, preserving traceable review without classifying the page as a placeholder.

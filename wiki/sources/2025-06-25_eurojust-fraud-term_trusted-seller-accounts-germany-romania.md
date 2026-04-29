@@ -20,9 +20,10 @@ key_findings:
 raw_path: raw/government-reports/2025-06-25_eurojust-fraud-term_trusted-seller-accounts-germany-romania.md
 text_status: source-digest
 storage_mode: source-digest
-content_hash: sha256:c43bdff19a741c75a3bbc36f2e778e57561beb90af86dd347b2e715d1518e3a2
+content_hash: sha256:38e0b82564540cc38a955da28ebd6855814f9869ad8db327022f5f9cd815e033
 word_count: 120
-extraction_date: 2026-04-28
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

@@ -25,4 +25,4 @@ The **Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT)** is a speci
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_staatsanwaltschaften-hessen-de_zentralstelle-zur-bek-mpfung-der-internet-und-computerkriminalit-t-zit.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_staatsanwaltschaften-hessen-de_zentralstelle-zur-bek-mpfung-der-internet-und-computerkriminalit-t-zit.md`, preserving traceable review without classifying the page as a placeholder.

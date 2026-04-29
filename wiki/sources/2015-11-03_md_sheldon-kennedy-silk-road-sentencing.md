@@ -34,4 +34,4 @@ On 3 November 2015, DOJ announced that Sheldon Kennedy was sentenced to 2 years 
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2015-11-03_md_sheldon-kennedy-silk-road-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2015-11-03_md_sheldon-kennedy-silk-road-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

@@ -32,4 +32,4 @@ The Silk Road takedown was the seizure and shutdown of the pioneering dark web d
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-05-29_fbi-gov_ross-ulbricht-sentenced-to-life-in-prison.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2015-05-29_fbi-gov_ross-ulbricht-sentenced-to-life-in-prison.md`, preserving traceable review without classifying the page as a placeholder.

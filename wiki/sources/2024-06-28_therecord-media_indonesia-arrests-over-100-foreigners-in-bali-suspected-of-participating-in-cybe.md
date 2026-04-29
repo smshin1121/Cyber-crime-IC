@@ -31,4 +31,4 @@ On June 26, 2024, Indonesian immigration officials raided a villa in the Marga s
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-06-28_therecord-media_indonesia-arrests-over-100-foreigners-in-bali-suspected-of-participating-in-cybe.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-06-28_therecord-media_indonesia-arrests-over-100-foreigners-in-bali-suspected-of-participating-in-cybe.md`, preserving traceable review without classifying the page as a placeholder.

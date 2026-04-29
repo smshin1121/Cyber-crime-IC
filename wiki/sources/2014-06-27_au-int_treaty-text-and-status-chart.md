@@ -34,4 +34,4 @@ The Malabo Convention was adopted by the African Union in June 2014 and entered 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2014-06-27_au-int_treaty-text-and-status-chart.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2014-06-27_au-int_treaty-text-and-status-chart.md`, preserving traceable review without classifying the page as a placeholder.

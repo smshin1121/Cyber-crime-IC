@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-me
 created: 2026-04-25
 raw_path: raw/press-releases/2024-02-29_dea-gov_dark-web-dealer-meth-heroin-heads-prison.md
 text_status: parsed
-content_hash: sha256:7312346c6e976799638dac13b9ae66d318eb5a2bbedf9dc09161fab755234be2
-word_count: 5191
-extraction_date: 2026-04-25
+content_hash: sha256:a072d8f5779df988800e3c621ed926254ca62c1cab4378bd2c8d0d6ede1ec84f
+word_count: 377
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

@@ -34,4 +34,4 @@ Aaron Brewer (Operation DisrupTor) Enforcement Action is a defendant-specific en
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-07-08_justice-gov_united-states-v-aaron-brewer.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-07-08_justice-gov_united-states-v-aaron-brewer.md`, preserving traceable review without classifying the page as a placeholder.

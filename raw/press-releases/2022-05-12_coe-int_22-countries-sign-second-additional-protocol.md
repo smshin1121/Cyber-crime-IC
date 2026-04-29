@@ -12,108 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:6c95a02dba89190e9b2bbe9e3100d85a38734a4a0f9607ed3c2daeabdfa03f25
-word_count: 1555
-extraction_date: 2026-04-25
+content_hash: sha256:c67488a759d6a2cfaa30de3cbda1d1564360e8c161fe45e95c0e4c69e4665534
+word_count: 1169
+extraction_date: 2026-04-29
 source_page: wiki/sources/2022-05-12_coe-int_22-countries-sign-second-additional-protocol.md
+parser: jina_markdown
 ---
 ## Summary
 
 Belgium ratified the [[budapest-convention|Budapest Convention on Cybercrime]] on 20 August 2012 [1]. Its substantive cybercrime law pre-dates the Convention: the **Law of 28 November 2000 on Computer Crime** introduced new offences into the Penal Code including computer forgery (Article 210bis), computer fraud (Article 504quater), hacking (Article 550bis), and data/system interference (Article 550ter) [2]. Procedural amendments through 2016 brought Belgian procedural law into full alignment with the Budapest Convention, including provisions on expedited preservation and partial disclosure of traffic data [3].
 
 ## Extracted Text
-
-Title: Enhanced co-operation and disclosure of electronic evidence: 22 countries open the way by signing the Second Additional Protocol to the Cybercrime Convention
-
-URL Source: https://www.coe.int/en/web/cybercrime/second-additional-protocol/-/asset_publisher/isHU0Xq21lhu/content/opening-coecyber2ap
-
-Published Time: 2022-05-13T18:00:00+00:00
-
-Markdown Content:
-
-Navigation
-
-Skip to Content
-
-WWW.COE.INT
-
-HUMAN RIGHTS
-
-DEMOCRACY
-
-RULE OF LAW
-
-ABOUT US
-
-English
-
-Connect
-
-Cybercrime
-
-Homepage
-
-Convention on Cybercrime
-
-Convention Committee
-
-C-PROC & Capacity Building
-
-Octopus Conference
-
-Resources
-
-CYBOX
-
-You are here: Cybercrime Convention on Cybercrime Second Additional Protocol Enhanced co-operation and disclosure of electronic evidence: 22 countries open the way by signing the Second Additional Protocol to the Cybercrime Convention
-
-Second Additional Protocol to the Cybercrime Convention on enhanced co-operation and disclosure of electronic evidence (CETS No. 224)
-
-Official text and translations
-
-Treaty Office: English Second Additional Protocol
-
-Treaty Office: French Second Additional Protocol
-
-Treaty Office: Official and non-official languages
-
-Council of Europe Publications
-
-PDF Booklets (Convention, Protocols and Guidance notes ) EN / FR / ES / PT / ARA
-
-Special edition of the Second Additional Protocol
-
-While cybercrime is proliferating and the complexity of obtaining electronic evidence that may be stored in foreign, multiple, shifting or unknown jurisdictions is increasing, the powers of law enforcement are limited by territorial boundaries. As a result, only a very small share of cybercrime that is reported to criminal justice authorities is leading to prosecutions or court decisions.
-
-The Protocol responds to this challenge and provides tools for enhanced co-operation and disclosure of electronic evidence - such as direct cooperation with service providers and registrars, effective means to obtain subscriber information and traffic data, immediate co-operation in emergencies or joint investigations - that are subject to a system of human rights and rule of law, including data protection safeguards.
-
-What is the Second additional Protocol?
-
-Watch the video in FR or ES
-
-Tools of the Second Additional Protocol
-
-Direct requests to registrars in other jurisdictions to obtain domain name registration information
-
-Direct co-operation with service providers in other jurisdictions to obtain subscriber information
-
-More effective means to obtain subscriber information and traffic data through government-to-government co-operation
-
-Expeditious co-operation in emergency situations
-
-Joint investigation teams and joint investigations
-
-Video conferencing
-
-A strong system of human rights and rule of law safeguards, including for the protection of personal data
-
-Protocol negotiations
-
-Protocol consultations
-
-Opening for signature
-
-LATEST NEWS
 
 Enhanced co-operation and disclosure of electronic evidence: 22 countries open the way by signing the Second Additional Protocol to the Cybercrime Convention
 
@@ -157,7 +66,7 @@ signatories in total*
 
 countries have ratified the Protocol (out of the 52 signatories)*
 
-* See the full list on the Treaty Office webpage
+See the full list on the Treaty Office webpage
 
 TIMELINE
 
@@ -275,7 +184,8 @@ Disclaimer - © Council of Europe 2026 - © Photo credit - Contact
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:19:38+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://www.coe.int/en/web/cybercrime/second-additional-protocol/-/asset_publisher/isHU0Xq21lhu/content/opening-coecyber2ap
+- cleanup: jina navigation trim

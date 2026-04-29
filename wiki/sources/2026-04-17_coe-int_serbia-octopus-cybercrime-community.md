@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/country-wiki-ap/-/asset_publisher/hFPA5fbKjyCJ/content/serbia
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:0e4d09648622b2c8e8eb99e6558bcfe4dd9936037eb84e22e72ed8f469559ee0
-word_count: 6316
-extraction_date: 2026-04-25
+content_hash: sha256:4d82090b18f39040ce71fb0df08b5e64eef2f06db0c8522069f1356a8cadae9e
+word_count: 533
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Serbia is a **[[budapest-convention|Budapest Convention]] party** since 2009 and
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_serbia-octopus-cybercrime-community.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_serbia-octopus-cybercrime-community.md`, preserving traceable review without classifying the page as a placeholder.

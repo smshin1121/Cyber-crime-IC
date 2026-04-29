@@ -23,7 +23,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_canadian-hacker-who-conspired-and-aided-russian-fsb-officers-pleads-guilty]]"
 created: 2026-04-18
-updated: 2026-04-28
+updated: 2026-04-29
 summary: "Canadian Hacker Who Conspired With And Aided Russian FSB Officers Pleads Guilty is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -71,6 +71,8 @@ Canadian Hacker Who Conspired With And Aided Russian FSB Officers Pleads Guilty 
 - US DOJ USAO, 2017-11-28: “With the assistance of our law enforcement partners in Canada, we were able to track down and apprehend a prolific criminal hacker who had sold his services to Russian government agents.
 - US DOJ USAO, 2017-11-28: “Today’s plea exemplifies the Department’s commitment to pursuing, arresting, and bringing to justice even those hackers who work for a foreign law enforcement or intelligence organization.
 - US DOJ USAO, 2017-11-28: We wish to thank the Canadian authorities for their skillful assistance in the investigation and arrest of Baratov and to acknowledge the contributions of the other nations and law enforcement services that provided invaluable assistance.
+- US DOJ USAO, 2017-11-28: “Today’s guilty plea illustrates how the FBI continues to work relentlessly with our private sector, law enforcement, and international partners to identify and hold accountable those who conduct cyber attacks against our nation, no matter who they’re working with or where they attempt to hide.
+- US DOJ USAO, 2017-11-28: With the help of our law enforcement partners around the world, we were able to expose this type of criminal behavior and bring them to justice.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

@@ -19,10 +19,11 @@ collection_url: https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_21-cr-00145/p
 created: 2026-04-25
 raw_path: raw/government-reports/2021-04-21_govinfo_us-courts-dcd-1-21-cr-00145-darknet-narcotics.md
 text_status: parsed
-content_hash: sha256:7852a5ef55b5893bef9d01c1fc20bcbf884dda65460e8c4d6d3deb2ba0cb0505
-word_count: 5088
-extraction_date: 2026-04-25
+content_hash: sha256:8f4f6686619465e135d97b93aa9c4b6615f55d02c1ca7d1ea6260a223957ca4a
+word_count: 5052
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

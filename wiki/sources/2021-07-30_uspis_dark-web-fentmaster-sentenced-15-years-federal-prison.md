@@ -18,10 +18,11 @@ collection_url: https://www.uspis.gov/news/news-article/dark-web-fentmaster-sent
 created: 2026-04-25
 raw_path: raw/press-releases/2021-07-30_uspis_dark-web-fentmaster-sentenced-15-years-federal-prison.md
 text_status: parsed
-content_hash: sha256:1a5aea5c42ab466099260e32991072c1a66df1ff73b7b41c332310aca3f74ff7
-word_count: 934
-extraction_date: 2026-04-25
+content_hash: sha256:01e75a867e94dfc9007c3abc3d918f4cb7bddd9bfa12289546a152dacd12f014
+word_count: 122
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

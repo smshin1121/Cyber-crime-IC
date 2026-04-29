@@ -18,11 +18,12 @@ key_findings:
   - "Europol announced Carding Action 2020 as an operation targeting compromised card-data traders."
   - "The operation analysed about 90,000 card records and prevented an estimated EUR 40 million in losses."
 raw_path: raw/government-reports/2020-11-26_europol-europa-eu_officers-foil-fraudsters-stealing-eur-40-million-in-payment-card-scam.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:b8d660e4082cbd04b608546227a30872390c3b884918c80ac5d84e50efab080d
-word_count: 128
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:808f0ba598cff1147b3de5df843becf9656894db20e84a030d347e7e62fa94ca
+word_count: 694
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

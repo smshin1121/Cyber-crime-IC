@@ -31,4 +31,4 @@ On 5 March 2025, the US Department of Justice announced coordinated efforts to d
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-03-05_doj_isoon-chinese-hackers-charges.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-03-05_doj_isoon-chinese-hackers-charges.md`, preserving traceable review without classifying the page as a placeholder.

@@ -42,6 +42,7 @@ class AuditRow:
     score: int
     source_count: int
     operation_role: str
+    status: str
     countries: int
     reasons: list[str]
 
@@ -85,10 +86,23 @@ def audit_operation(path: Path) -> AuditRow:
     meta = post.metadata
     body = post.content or ""
     title = str(meta.get("title") or path.stem)
+    status = str(meta.get("status") or "")
     score = 0
     reasons: list[str] = []
 
     source_count = int(meta.get("source_count") or 0)
+    if status == "absorbed":
+        return AuditRow(
+            slug=path.stem,
+            title=title,
+            score=0,
+            source_count=source_count,
+            operation_role=str(meta.get("operation_role") or ""),
+            status=status,
+            countries=len(meta.get("participating_countries") or []),
+            reasons=["absorbed_wrapper"],
+        )
+
     if source_count < 5:
         gap = 5 - source_count
         score += min(20, gap * 4)
@@ -142,6 +156,7 @@ def audit_operation(path: Path) -> AuditRow:
         score=score,
         source_count=source_count,
         operation_role=str(meta.get("operation_role") or ""),
+        status=status,
         countries=len(countries),
         reasons=reasons,
     )
@@ -151,13 +166,14 @@ def render(rows: list[AuditRow]) -> str:
     high = [row for row in rows if row.score >= 35]
     medium = [row for row in rows if 20 <= row.score < 35]
     low = [row for row in rows if row.score < 20]
+    absorbed = [row for row in rows if row.status == "absorbed"]
 
     lines = [
         "---",
         "title: Operation Audit Queue (April 2026)",
         "type: analysis",
         "created: 2026-04-19",
-        "updated: 2026-04-19",
+        "updated: 2026-04-29",
         'summary: "Priority queue for human-style review of all operation pages, ranked by source density, structure, international-cooperation fit, and content risk."',
         "source_count: 0",
         "---",
@@ -178,6 +194,7 @@ def render(rows: list[AuditRow]) -> str:
         "## Queue Summary",
         "",
         f"- Total operations audited: **{len(rows)}**",
+        f"- Absorbed wrapper records treated as low-risk continuity pages: **{len(absorbed)}**",
         f"- High priority (`score >= 35`): **{len(high)}**",
         f"- Medium priority (`20-34`): **{len(medium)}**",
         f"- Lower priority (`< 20`): **{len(low)}**",

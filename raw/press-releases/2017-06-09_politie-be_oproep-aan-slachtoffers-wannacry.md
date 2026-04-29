@@ -12,30 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:a6ca1b67bf50a7cf20c5ddd23be1ea30d9ef3ff93a273960928bd6a648015197
-word_count: 1423
-extraction_date: 2026-04-25
+content_hash: sha256:3dd33cb40a9c15ce9503b1f0eb770ea6c319744110d308b31d7c93abde0e8f99
+word_count: 418
+extraction_date: 2026-04-29
 source_page: wiki/sources/2017-06-09_politie-be_oproep-aan-slachtoffers-wannacry.md
+parser: jina_markdown
 ---
 ## Summary
 
 Source text harvested from https://www.politie.be/5998/nl/nieuws/oproep-aan-slachtoffers-wannacry.
-
-## Extracted Text
-
-Title: Oproep aan slachtoffers WannaCry
-
-URL Source: https://www.politie.be/5998/nl/nieuws/oproep-aan-slachtoffers-wannacry
-
-Published Time: 2017-06-09T16:32:32+02:00
-
-Markdown Content:
-
-# Oproep aan slachtoffers WannaCry | Federale Politie
-
-[Overslaan en naar de inhoud gaan](https://www.politie.be/5998/nl/nieuws/oproep-aan-slachtoffers-wannacry#main-content)
-
-![Image 1](https://www.politie.be/themes/base_police/icons/cookies.svg)
 
 ## Deze website gebruikt cookies
 
@@ -241,9 +226,78 @@ U kan deze video ook bekijken op [YouTube](https://youtu.be/4FvcafPTga0)
 
 © 2026 Politie.be
 
+## Extracted Text
+
+[](https://www.facebook.com/sharer/sharer.php?u=https://www.politie.be/5998/nl/nieuws/oproep-aan-slachtoffers-wannacry)[](https://www.linkedin.com/shareArticle?mini=true&url=https://www.politie.be/5998/nl/nieuws/oproep-aan-slachtoffers-wannacry)[](http://twitter.com/share?text=&url=https://www.politie.be/5998/nl/nieuws/oproep-aan-slachtoffers-wannacry&hashtags=Federale%20Politie)[](mailto:?subject=Oproep%20aan%20slachtoffers%20WannaCry&body=Oproep%20aan%20slachtoffers%20WannaCry%20-%20url:%20https://www.politie.be/5998/nl/nieuws/oproep-aan-slachtoffers-wannacry)
+
+De Federal Computer Crime Unit van de federale politie doet een oproep aan alle slachtoffers van de ransomware aanval van 12 mei om zich te melden.
+
+Bij één van de grootste cyberaanvallen ooit, maakte de ransomware WannaCry wereldwijd meer dan 200 000 slachtoffers. In België zijn 6 slachtoffers gekend, maar volgens de politie is dat maar het topje van de ijsberg. De meldingen zijn belangrijk om de daders te kunnen opsporen.
+
+De daders blijven immers doorgaan met het maken van nieuwe versies en nieuwe campagnes. Een identificatie van de daders is belangrijk om de aanval te stoppen.
+
+Werd u slachtoffer van de WannaCry ransomware, dan kan u zich melden door een mail sturen naar opsporingen@police.belgium.eu of ga langs bij uw lokaal politiekantoor.
+
+Voor meer informatie over ransomware, kan u terecht op de website van het Centrum voor Cyber Security België..
+
+Ook op www.nomoreransom.org vindt u advies over ransomware, alsook decryptiesleutels van gekende ransomware aanvallen (momenteel zijn er nog geen sleutels beschikbaar voor WannaCry)."
+
+## Labels
+
+Nieuws
+
+Klik hier om uw toestemming te geven voor cookies van derden
+
+Hier staat ingevoegde content uit een social netwerk dat cookies plaatst. Bekijk ons **cookiebeleid.**
+
+U kan deze video ook bekijken op YouTube
+
+## Lees ook
+
+### Flitsmarathon: van de 1 361 657 gecontroleerde bestuurders reed 3,28% te snel Wo 22.04.2026 - 15:25 Lees meer over Flitsmarathon: van de 1 361 657 gecontroleerde bestuurders reed 3,28% te snel
+
+### Crime as a service: leverancier phishingpanelen aan phishingbendes opgepakt Wo 22.04.2026 - 13:49 Lees meer over Crime as a service: leverancier phishingpanelen aan phishingbendes opgepakt
+
+## Laatste nieuws
+
+### Flitsmarathon: van de 1 361 657 gecontroleerde bestuurders reed 3,28% te snel Wo 22.04.2026 - 15:25
+
+### Crime as a service: leverancier phishingpanelen aan phishingbendes opgepakt Wo 22.04.2026 - 13:49
+
+Downloads
+
+Pers
+
+Statistieken
+
+Campagnes
+
+[](https://www.facebook.com/BelgianFederalPolice)
+
+[](https://twitter.com/federalepolitie)
+
+[](https://www.instagram.com/belgianfederalpolice)
+
+[](https://www.linkedin.com/showcase/belgianfederalpolice)
+
+[](https://www.youtube.com/user/fedpolbelgium)
+
+[](https://www.politie.be/5998/nl/nieuws.rss)
+
+Disclaimer
+
+Privacy
+
+Cookies
+
+Toegankelijkheid
+
+© 2026 Politie.be
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:41:59+00:00
+- normalized_at: 2026-04-28T16:03:45+00:00
 - final_url: https://www.politie.be/5998/nl/nieuws/oproep-aan-slachtoffers-wannacry
+- cleanup: jina navigation trim

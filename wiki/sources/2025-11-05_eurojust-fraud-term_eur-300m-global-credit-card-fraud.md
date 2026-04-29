@@ -24,9 +24,10 @@ duplicate_normalized_at: 2026-04-26
 raw_path: raw/government-reports/2025-11-05_eurojust-fraud-term_eur-300m-global-credit-card-fraud.md
 text_status: source-digest
 storage_mode: source-digest
-content_hash: sha256:8fa2a2bd42d382a5ba03dbb72e056aa6478cf6a32305f946da29636edad81e8a
+content_hash: sha256:12bb3f4daad5e17e2ecfa5d9d44b0d7cb3cd9dc1ccb00b8a9379d010f471fabe
 word_count: 122
-extraction_date: 2026-04-28
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

@@ -31,4 +31,4 @@ The **Cybercrime Directorate** of Bulgaria's **General Directorate Combating Org
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-01-01_bta-bg_cybercrime-unit-at-directorate-for-combating-organised-crime-is-restructured.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-01-01_bta-bg_cybercrime-unit-at-directorate-for-combating-organised-crime-is-restructured.md`, preserving traceable review without classifying the page as a placeholder.

@@ -31,4 +31,4 @@ The Cyber Affairs Bureau (サイバー警察局, Saibā keisatsu-kyoku) of Japan
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-01_centerforcybersecuritypolicy-org_japan-s-new-active-cyber-defense-law-a-strategic-evolution.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-01_centerforcybersecuritypolicy-org_japan-s-new-active-cyber-defense-law-a-strategic-evolution.md`, preserving traceable review without classifying the page as a placeholder.

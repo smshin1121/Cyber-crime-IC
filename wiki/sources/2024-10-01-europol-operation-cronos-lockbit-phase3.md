@@ -26,6 +26,12 @@ key_findings:
   - "Cumulative Operation Cronos arrests: 6 (Phase 1: 2, Phase 3: 4)"
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates
 created: 2026-04-08
+text_status: parsed
+content_hash: sha256:f00af3653d87c7501288277e5348f55ede65941f1a5f17ffa598fcce63c0af4c
+word_count: 1031
+extraction_date: 2026-04-29
+last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Summary
 

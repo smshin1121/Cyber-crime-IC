@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2022/04/29/fentanyl-dealer-pl
 created: 2026-04-25
 raw_path: raw/press-releases/2022-04-29_dea_fentanyl-dealer-pleads-guilty-distributing-narcotics.md
 text_status: parsed
-content_hash: sha256:e827786de18709fb7b68edf2b56eba811234ad6249e57d1bde63837b83b43c12
-word_count: 5313
-extraction_date: 2026-04-25
+content_hash: sha256:8db3e589961f7b2639ecb035546f9056fd60654323c20e7bf132d24d6cbebe92
+word_count: 467
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

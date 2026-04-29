@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/cybercrime/second-additional-protocol
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:e5f20f0bd9012c6cb974bd4896c48facad906a742e71583eeed23ef11de8982f
-word_count: 1464
-extraction_date: 2026-04-25
+content_hash: sha256:20137231f31b402812e13ec07f1fa65d29782108f600cd1c51fcbaf2ade4f3e0
+word_count: 1444
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The Budapest Convention on Cybercrime is the **first and most significant bindin
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-05-12_coe-int_second-additional-protocol-cets-no-224.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-05-12_coe-int_second-additional-protocol-cets-no-224.md`, preserving traceable review without classifying the page as a placeholder.

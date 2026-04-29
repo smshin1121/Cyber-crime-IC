@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/06/23/mexican-national-s
 created: 2026-04-25
 raw_path: raw/press-releases/2025-06-23_dea-gov_mexican-national-sentenced-prison-role-drug-ring-courier.md
 text_status: parsed
-content_hash: sha256:3642604843ac0ed3c6f866cc6fbe59ceaa0d810dcebdd65655951bfd56cbdf26
-word_count: 5292
-extraction_date: 2026-04-25
+content_hash: sha256:3fa39783be2ad163a3cf81ae824a66aae066bcc947e51eeb109a12ee7f3f3861
+word_count: 466
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

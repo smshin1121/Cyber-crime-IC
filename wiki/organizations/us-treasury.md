@@ -27,6 +27,7 @@ operations_participated:
   - "[[operation-wirewire]]"
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[dridex-operations]]"
+  - "[[911-s5-botnet-takedown]]"
 org_type: national-agency
 parent_org: "[[us-federal-government]]"
 source_count: 8

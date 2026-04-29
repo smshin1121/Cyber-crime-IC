@@ -15,26 +15,13 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:4e2c0cbe1f66c1f06cb9b659f0776d088370fb56190ea1a324b65a58d54ca559
-word_count: 1329
-extraction_date: 2026-04-25
+content_hash: sha256:173b6d390c72185a03c3f2a36c3f37c273420b9f44484bc46cda6b776b21ac86
+word_count: 192
+extraction_date: 2026-04-29
 source_page: wiki/sources/2025-02-10_europol_key-figures-phobos-8base-ransomware-arrested-international-crackdown.md
+parser: jina_markdown
 ---
 Europol announced a coordinated international operation that arrested key figures of the Phobos and 8Base ransomware groups. The complex international operation, supported by Europol and Eurojust, involved law enforcement agencies from 14 countries including the FBI, German police, and other international partners. Authorities disrupted over 100 servers associated with the criminal network and warned more than 400 companies worldwide of ongoing or imminent ransomware attacks. Phobos and 8Base were among the most active ransomware groups of 2024.
-
-## Extracted Text
-
-Title: 404 Not Found | Europol
-
-URL Source: https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-international-cybercrime-crackdown
-
-Warning: Target URL returned error 404: Not Found
-
-Markdown Content:
-
-* [About Europol](https://www.europol.europa.eu/about-europol)
-
-* [How we work](https://www.europol.europa.eu/how-we-work)
 
 ## [How we work](https://www.europol.europa.eu/how-we-work)
 
@@ -304,9 +291,162 @@ Our procurement, employment packages, open vacancies and how to apply to them.
 
 We can't seem to find the content you are looking for.
 
+## Extracted Text
+
+About Europol
+
+How we work
+
+## How we work
+
+Operations, analysis projects, prevention guides and special initiatives.
+
+Digital challenges
+
+SIRIUS project
+
+EU Policy Cycle - EMPACT
+
+Services & Support
+
+## Services & Support
+
+Operational coordination & support
+
+Operational information services (EIS & QUEST)
+
+Secure Information Exchange (SIENA & LFE)
+
+Knowledge sharing platform (EPE)
+
+Interoperability with EU large-scale IT systems
+
+Strategic Analysis
+
+Intelligence Analysis
+
+Forensics
+
+Training and Capacity Building
+
+Major international events support
+
+Victim Identification Taskforce (VIDTF)
+
+Operations
+
+Public Awareness and Prevention Guides
+
+Stop Child Abuse – Trace an Object
+
+Innovation Lab
+
+Eastern Partnership Project - EAP
+
+Europol Analysis Projects
+
+Grants
+
+## Grants
+
+Principles for Europol Participation to Grant projects
+
+Requests for Europol participation in grants awarded by other entities
+
+EU Most Wanted
+
+Crime areas
+
+Partners & collaboration
+
+Member States
+
+## Member States
+
+Austria
+
+Belgium
+
+Bulgaria
+
+Croatia
+
+Cyprus
+
+Czech Republic
+
+Denmark
+
+Estonia
+
+Finland
+
+France
+
+Germany
+
+Greece
+
+Hungary
+
+Ireland
+
+Italy
+
+Latvia
+
+Lithuania
+
+Luxembourg
+
+Malta
+
+Netherlands
+
+Poland
+
+Portugal
+
+Romania
+
+Slovakia
+
+Slovenia
+
+Spain
+
+Sweden
+
+Agreements & Working Arrangements
+
+Networks
+
+## Networks
+
+InterCOP
+
+ENFAST
+
+ATLAS Network
+
+Europol Data Protection Experts Network (EDEN)
+
+Joint Investigation Teams - JITs
+
+Justice and Home Affairs (JHA) agencies' network
+
+Police2Peer
+
+Work with us
+
+## Work with us
+
+Our procurement, employment packages, open vacancies and how to apply to them.
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:18:20+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-international-cybercrime-crackdown
+- cleanup: jina navigation trim

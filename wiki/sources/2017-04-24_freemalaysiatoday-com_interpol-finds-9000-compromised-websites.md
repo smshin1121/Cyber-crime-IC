@@ -31,4 +31,4 @@ Operation Secure was an INTERPOL-led operation conducted from January to April 2
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2017-04-24_freemalaysiatoday-com_interpol-finds-9000-compromised-websites.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2017-04-24_freemalaysiatoday-com_interpol-finds-9000-compromised-websites.md`, preserving traceable review without classifying the page as a placeholder.

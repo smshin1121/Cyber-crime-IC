@@ -32,4 +32,4 @@ The Department of Justice announced on May 29, 2024 that a federal grand jury in
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2024-05-29_opa_yunhe-wang-911-s5-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2024-05-29_opa_yunhe-wang-911-s5-indictment.md`, preserving traceable review without classifying the page as a placeholder.

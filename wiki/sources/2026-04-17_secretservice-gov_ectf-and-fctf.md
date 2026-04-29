@@ -33,4 +33,4 @@ The United States Secret Service (USSS) operates the **Cyber Fraud Task Forces (
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_secretservice-gov_ectf-and-fctf.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_secretservice-gov_ectf-and-fctf.md`, preserving traceable review without classifying the page as a placeholder.

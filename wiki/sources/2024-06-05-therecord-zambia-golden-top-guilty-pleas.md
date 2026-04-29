@@ -26,6 +26,10 @@ stored_word_count: 80
 extraction_date: 2026-04-25
 last_fetcher: urllib
 copyright_policy: summary-only
+duplicate_of: "[[2024-06-05_therecord-media_chinese-nationals-plead-guilty-to-running-zambia-scam-operation]]"
+duplicate_reason: same_content_hash
+duplicate_key: "sha256:b110724bcfd20174e810ff207731560dc9ecdf9a7f07bc9d9c536084153ed228"
+duplicate_normalized_at: 2026-04-29
 ---
 ## Summary
 

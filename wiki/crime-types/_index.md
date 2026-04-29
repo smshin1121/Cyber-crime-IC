@@ -10,27 +10,27 @@ updated: 2026-04-27
 
 | Crime Type | Category | Broadly Criminalized | Key Mechanisms | Notable Operations | Sources |
 |------------|----------|----------------------|----------------|--------------------|---------|
-| [[access-device-fraud]] | — | — | — | — | 0 |
-| [[bank-fraud-ic]] | — | — | — | — | 0 |
-| [[banking-trojan-ic]] | cyber-dependent | Yes | — | zeus-spyeye-jit-takedown, banking-trojan-fraud-sentencing-2017 | 0 |
-| [[bec-crime-ic]] | — | — | — | — | 0 |
+| [[access-device-fraud]] | — | — | — | — | 4 |
+| [[bank-fraud-ic]] | — | — | — | — | 4 |
+| [[banking-trojan-ic]] | cyber-dependent | Yes | mutual-legal-assistance, extradition, asset-freezing | zeus-spyeye-jit-takedown, banking-trojan-fraud-sentencing-2017 | 4 |
+| [[bec-crime-ic]] | — | — | — | — | 1 |
 | [[bec-ic]] | cyber-enabled | Yes | — | franco-israeli-ceo-fraud, operation-jackal, operation-jackal-iii | 6 |
-| [[carding-fraud-ic]] | — | — | — | — | 0 |
-| [[counterfeit-goods]] | — | — | — | — | 0 |
-| [[csam-ic]] | content-related | Yes | — | — | 0 |
-| [[cybercrime-forum-ic]] | cyber-dependent | Yes | — | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 0 |
-| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | — | doublevpn-takedown, operation-nova | 0 |
-| [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request | — | 0 |
-| [[dark-web-ic]] | — | — | — | — | 0 |
-| [[ddos-extortion]] | — | — | — | — | 0 |
-| [[ddos-ic]] | cyber-dependent | Yes | — | ddos-for-hire-sweep-2016, operation-pleiades | 0 |
-| [[drug-trafficking]] | — | — | — | — | 0 |
-| [[extortion-ic]] | — | — | — | — | 0 |
-| [[hacking-ic]] | cyber-dependent | Yes | — | — | 1 |
-| [[identity-theft]] | — | — | — | — | 0 |
-| [[malware-ic]] | cyber-dependent | Yes | — | operation-avalanche, andromeda-botnet-takedown, simda-botnet-takedown | 0 |
+| [[carding-fraud-ic]] | — | — | — | — | 1 |
+| [[counterfeit-goods]] | — | — | — | — | 4 |
+| [[csam-ic]] | content-related | Yes | interpol-icse-database\|INTERPOL ICSE Database, europol-vidtf\|Europol Victim Identification Task Force | operation-stream-kidflix, operation-cyber-guardian, operation-orion-international | 3 |
+| [[cybercrime-forum-ic]] | cyber-dependent | Yes | search-seizure, domain-seizure, extradition | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 4 |
+| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova | 4 |
+| [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | — | 3 |
+| [[dark-web-ic]] | — | — | — | — | 4 |
+| [[ddos-extortion]] | — | — | — | — | 1 |
+| [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades | 4 |
+| [[drug-trafficking]] | — | — | — | — | 4 |
+| [[extortion-ic]] | — | — | — | — | 1 |
+| [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03 | 2 |
+| [[identity-theft]] | — | — | — | — | 4 |
+| [[malware-ic]] | cyber-dependent | Yes | sinkholing, domain-seizure, search-seizure | operation-avalanche, andromeda-botnet-takedown, simda-botnet-takedown | 4 |
 | [[money-laundering-ic]] | cyber-enabled | Yes | mlat-process, europol-jit | de-ch-crypto-mixer-takedown-2025, 2bagoldmule-qqaazz, cryptex-pm2btc-sanctions | 1 |
 | [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 8 |
-| [[organized-crime-ic]] | — | — | — | — | 0 |
+| [[organized-crime-ic]] | — | — | — | — | 4 |
 | [[ransomware-ic]] | cyber-dependent | Yes | — | operation-cronos-phase1, operation-endgame-phase1, operation-cronos-phase3 | 8 |
 | [[voice-phishing-ic]] | cyber-enabled | Yes | — | korea-china-voice-phishing-qingdao, operation-haechi-iv, operation-haechi-v | 5 |

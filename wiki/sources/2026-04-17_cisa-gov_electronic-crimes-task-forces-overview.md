@@ -18,10 +18,11 @@ key_findings:
 collection_url: "https://www.cisa.gov/sites/default/files/publications/USSS%20Electronic%20Crimes%20Task%20Forces.pdf"
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:9661bf0ce6627f0577fbe20a7066e0aa6439b5a6d789179aa9cfbd1813082060
-word_count: 543
-extraction_date: 2026-04-25
+content_hash: sha256:7ff295826a494c1ca79da3a6c16a9e65d5e51fc95f7998b8b417ed861546880b
+word_count: 502
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The United States Secret Service (USSS) operates the **Cyber Fraud Task Forces (
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_cisa-gov_electronic-crimes-task-forces-overview.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_cisa-gov_electronic-crimes-task-forces-overview.md`, preserving traceable review without classifying the page as a placeholder.

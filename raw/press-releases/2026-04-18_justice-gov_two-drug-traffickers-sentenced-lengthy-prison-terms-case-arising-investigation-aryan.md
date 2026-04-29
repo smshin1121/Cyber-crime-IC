@@ -4,7 +4,7 @@ collection_source: "US DOJ USAO"
 collection_url: https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan
 final_url: https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan
 collection_domain: justice.gov
-collection_date: 2026-04-28
+collection_date: 2026-04-29
 publish_date: 2024-09-13
 language: en
 status: materialized
@@ -13,8 +13,8 @@ storage_mode: source-digest
 source_type: press-release
 source_page: wiki/sources/2026-04-18_justice-gov_two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan.md
 word_count: 133
-content_hash: sha256:080e9bec67a508505e2d3994203cea426f4114bf046d4af4625d53bd61d98ce0
-extraction_date: 2026-04-28
+content_hash: sha256:bffabc9930025beee500fe363f489a08fe70603aba086e310e6960ccd8257476
+extraction_date: 2026-04-29
 license_basis: official_public_record
 ---
 ## Source Archive Record
@@ -37,5 +37,5 @@ associated with an Aryan prison gang were sentenced today in U.S. District Court
 
 - storage_mode: source-digest
 - source_page: wiki/sources/2026-04-18_justice-gov_two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan.md
-- generated_at: 2026-04-28T13:54:28+00:00
+- generated_at: 2026-04-28T16:02:26+00:00
 - full_text: not fetched in this materialization pass

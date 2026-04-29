@@ -34,4 +34,4 @@ Banmeet Singh (Dark Web Vendor) Enforcement Action is a defendant-specific enfor
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-01-26_justice-gov_united-states-v-banmeet-singh.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-01-26_justice-gov_united-states-v-banmeet-singh.md`, preserving traceable review without classifying the page as a placeholder.

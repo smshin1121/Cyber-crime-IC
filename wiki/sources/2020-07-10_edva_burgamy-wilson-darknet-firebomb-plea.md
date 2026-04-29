@@ -31,4 +31,4 @@ On 10 July 2020, DOJ announced that darknet vendor William Anderson Burgamy IV a
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2020-07-10_edva_burgamy-wilson-darknet-firebomb-plea.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2020-07-10_edva_burgamy-wilson-darknet-firebomb-plea.md`, preserving traceable review without classifying the page as a placeholder.

@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2023-06-23_krebsonsecurity_uk-cyber-thug-plugwalkjoe-gets-5-years-in-prison]]"
+  - "[[2026-04-18_justice-gov_uk-citizen-sentenced-five-years-cybercrime-offenses]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-to-five-years-for]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-to-five-years-for]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | U.K. Cyber Thug PlugwalkJoe Gets 5 Years in Prison | KrebsOnSecurity | 2023-06-23 | https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/ |
+| [1] | U.K. Citizen Sentenced To Five Years For Cybercrime Offenses | US DOJ USAO | 2023-06-23 | https://www.justice.gov/usao-ndca/pr/uk-citizen-sentenced-five-years-cybercrime-offenses |

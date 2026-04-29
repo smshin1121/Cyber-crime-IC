@@ -19,10 +19,11 @@ collection_url: https://www.oig.dhs.gov/sites/default/files/assets/pr/2024/dojpr
 created: 2026-04-25
 raw_path: raw/press-releases/2024-01-26_dhs-oig_three-former-dhs-employees-sentenced-scheme-defraud-united-states.md
 text_status: parsed
-content_hash: sha256:8702970057555cc8187ecefccb50134431f9f130d6439f4e839fbe6f6d5c991e
-word_count: 576
-extraction_date: 2026-04-25
+content_hash: sha256:194c853b314e27413fc2cddb84bc904aee27dd01eceb09f798019fe3cc22b7cf
+word_count: 517
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

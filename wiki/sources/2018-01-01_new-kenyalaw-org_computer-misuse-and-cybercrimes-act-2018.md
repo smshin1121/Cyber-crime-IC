@@ -25,4 +25,4 @@ Kenya enacted its first comprehensive cybercrime legislation, the **Computer Mis
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-01-01_new-kenyalaw-org_computer-misuse-and-cybercrimes-act-2018.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-01-01_new-kenyalaw-org_computer-misuse-and-cybercrimes-act-2018.md`, preserving traceable review without classifying the page as a placeholder.

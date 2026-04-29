@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2023/12/21/slovakian-man-accu
 created: 2026-04-25
 raw_path: raw/press-releases/2023-12-21_dea_slovakian-man-accused-running-darknet-market-selling-drugs-and-personal-information.md
 text_status: parsed
-content_hash: sha256:8c8c84fc478386ba3b49e2f926dc6dff5c7b2dd3d1e6ca798a0fd8788afc093e
-word_count: 5421
-extraction_date: 2026-04-25
+content_hash: sha256:39b0ecc6719e398a6a1ff97a9b19b0293122f4a106988187836479c378fdbeba
+word_count: 587
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

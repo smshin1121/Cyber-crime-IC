@@ -2,7 +2,7 @@
 type: operation
 title: "Europol: Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain (Carbanak/Cobalt) Enforcement Action"
 aliases:
-  - 'Europol: "Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain (Carbanak/Cobalt)"'
+  - "Europol: \"Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain (Carbanak/Cobalt)\""
 case_id: CYB-FUP-545
 period: 1
 operation_role: follow-on
@@ -64,11 +64,13 @@ sources:
   - "[[europol-carbanakcobalt-mastermind-arrest]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

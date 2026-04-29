@@ -20,11 +20,12 @@ created: 2026-04-17
 defendant_names:
   - "Billion Cyber Bank Robbery"
 updated: 2026-04-18
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:e7c2f87428f22522f12a44d3e772ee7b3c039d09a2c234b91e58faba82b8bc1d
-word_count: 240
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:f1282f38e04937519ff4e7d1b7dd851f67dbe4ca3f54ac3d2a08638ed3c4c0a3
+word_count: 927
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -32,4 +33,4 @@ The Spanish National Police, in cooperation with Europol, the FBI, Romanian poli
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain.md`, preserving traceable review without classifying the page as a placeholder.

@@ -37,8 +37,13 @@ participating_agencies:
   - "[[eurojust]]"
   - "[[australia-afp]]"
 legal_basis:
-
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic malware and unlawful access authorities"
 mechanisms_used:
+  - "[[europol-jit]]"
+  - "[[mlat-process]]"
+  - "[[public-private-cooperation]]"
 
 results:
   arrests: 13
@@ -66,11 +71,12 @@ edges:
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - legal_basis
-  - mechanisms_used
 related_cases:
 
 related_operations:
+  - "[[operation-bakovia]]"
+  - "[[operation-lyrebird]]"
+  - "[[operation-falcon]]"
 
 challenges_encountered:
 
@@ -85,7 +91,7 @@ sources:
   - "[[2019-12-01_aspi-org-au_national-security-wrap-186]]"
   - "[[2019-12-02_wired-gov-net_cybercrime-site-selling-hacking-tool-taken-down]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "In November-December 2019, [[europol-ec3|Europol]] coordinated an international operation that dismantled the infrastructure of **Imminent Monitor**, a Remote Access Trojan (RAT) sold commercially as a legitimate tool but widely used for cybercrime. The operation involved law enforcement from 8 countries and resulted in **13 arrests** and the seizure of **430 devices**. Investigators identified **14,500 buyers** of the RAT across **124 countries**."

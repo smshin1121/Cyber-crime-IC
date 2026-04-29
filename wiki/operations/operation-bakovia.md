@@ -36,8 +36,13 @@ participating_agencies:
   - "[[netherlands-politie]]"
   - "McAfee Advanced Threat Research"
 legal_basis:
-
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic ransomware investigation authorities"
 mechanisms_used:
+  - "[[europol-jit]]"
+  - "[[mlat-process]]"
+  - "[[public-private-cooperation]]"
 
 results:
   arrests: 5
@@ -70,12 +75,13 @@ edges:
 credibility_index: 2.0
 source_tier: 3
 missing_fields:
-  - legal_basis
-  - mechanisms_used
   - exact_arrest_details
 related_cases:
 
 related_operations:
+  - "[[andromeda-botnet-takedown]]"
+  - "[[imminent-monitor-rat-takedown]]"
+  - "[[operation-endgame]]"
 
 challenges_encountered:
 
@@ -90,7 +96,7 @@ sources:
   - "[[2017-12-20_portswigger-daily-swig_arrests-made-in-connection-with-ctb-locker-cerber-ransomware]]"
   - "[[2017-12-20_thehackernews_romanian-police-arrest-5-people-for-spreading-ctb-locker-and-cerber-ransomware]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Bakovia** was a joint international law-enforcement action targeting distributors of the CTB-Locker and Cerber ransomware families. The operation culminated in Romania in December 2017 with five arrests, six house searches, and evidence seizures, supported by Europol, Dutch and British investigators, U.S. authorities, and McAfee's malware-analysis team."

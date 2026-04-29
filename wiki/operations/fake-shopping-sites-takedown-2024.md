@@ -14,6 +14,9 @@ enforcement_type:
 
 lead_agency: "[[german-police]]"
 legal_basis:
+  - "[[european-arrest-warrant]]"
+  - "[[mutual-legal-assistance]]"
+  - "German domestic fraud and cybercrime authorities"
 
 lessons_learned:
 
@@ -44,6 +47,9 @@ period: 3
 related_cases:
 
 related_operations:
+  - "[[operation-heart-blocker]]"
+  - "[[operation-first-light-2024]]"
+  - "[[belgium-netherlands-phishing-gang]]"
 
 results:
   arrests: 2
@@ -76,7 +82,7 @@ timeframe:
 title: "Fraudulent Shopping Sites Takedown"
 title_ko: "명시되지 않음 (가짜 쇼핑 사이트 단속)"
 type: operation
-updated: 2026-04-28
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Europol and German police from Hannover, with the Verden prosecution office and European partner countries, took down Manson Market and a network of fraudulent online shopping sites tied to phishing-driven stolen data. The investigation began in autumn 2022 and culminated in the seizure of 50+ servers, the arrest of 2 key suspects, and the recovery of over 200 TB of digital evidence. The operation involved cooperation from Austria, Czechia, Finland, the Netherlands, and Poland."

@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.fbi.gov/news/podcasts/inside-the-fbi-podcast-the-911-s5-cyber-threat
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:6fc7cc47103abf754ab38dc64a124ca8b6fa7bcc5f2f928ae1fd78600148a548
-word_count: 1257
-extraction_date: 2026-04-25
+content_hash: sha256:a7d983ade59f2563e9823203eef14ccba5e16e84b848abb1a9148ece9b855c2b
+word_count: 1232
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

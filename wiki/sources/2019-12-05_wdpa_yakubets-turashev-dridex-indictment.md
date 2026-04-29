@@ -29,4 +29,4 @@ On 5 December 2019, the United States and United Kingdom jointly announced crimi
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2019-12-05_wdpa_yakubets-turashev-dridex-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2019-12-05_wdpa_yakubets-turashev-dridex-indictment.md`, preserving traceable review without classifying the page as a placeholder.

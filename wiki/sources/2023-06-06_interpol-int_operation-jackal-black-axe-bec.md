@@ -33,4 +33,4 @@ Source referenced by ic-statistics-dashboard.
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-06-06_interpol-int_operation-jackal-black-axe-bec.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-06-06_interpol-int_operation-jackal-black-axe-bec.md`, preserving traceable review without classifying the page as a placeholder.

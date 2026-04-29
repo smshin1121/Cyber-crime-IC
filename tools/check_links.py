@@ -24,6 +24,7 @@ def check_all() -> dict:
     for html_file in sorted(DOCS_DIR.rglob("*.html")):
         rel_path = html_file.relative_to(DOCS_DIR).as_posix()
         content = html_file.read_text(encoding="utf-8", errors="replace")
+        content = re.sub(r"<!--.*?-->", "", content, flags=re.S)
         hrefs = re.findall(r'href="([^"]*)"', content)
 
         for href in hrefs:

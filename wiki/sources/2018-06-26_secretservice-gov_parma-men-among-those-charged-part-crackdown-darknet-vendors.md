@@ -19,11 +19,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2018/06/parma-men-among-those-charged-part-crackdown-darknet-vendors
 created: 2026-04-25
 raw_path: raw/press-releases/2018-06-26_secretservice-gov_parma-men-among-those-charged-part-crackdown-darknet-vendors.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:e77d72db72670a2799466c7b886a7fcc22cea28d2a2b117870532a671baf3a64
-word_count: 172
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:ae897e5c6d304b1f9db8eaf38ac10f1823177c48b9ad2e4dc383d80cfabeffd0
+word_count: 2330
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

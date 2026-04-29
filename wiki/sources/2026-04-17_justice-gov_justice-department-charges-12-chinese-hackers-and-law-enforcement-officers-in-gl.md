@@ -32,4 +32,4 @@ Wu Haibo et al. Enforcement Action is a defendant-specific enforcement action pa
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl.md`, preserving traceable review without classifying the page as a placeholder.

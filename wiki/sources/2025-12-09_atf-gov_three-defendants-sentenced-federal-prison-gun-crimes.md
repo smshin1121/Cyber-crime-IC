@@ -19,10 +19,11 @@ collection_url: https://www.atf.gov/news/press-releases/three-defendants-sentenc
 created: 2026-04-25
 raw_path: raw/press-releases/2025-12-09_atf-gov_three-defendants-sentenced-federal-prison-gun-crimes.md
 text_status: parsed
-content_hash: sha256:b7adc87344efbb2fef2c33022e6986084e10b48f4aa5874e72b742e9f5fd53d8
-word_count: 3303
-extraction_date: 2026-04-25
+content_hash: sha256:f0cb6867732b1020a1fbbdb1ea3ded050bc1a9c85f59d60db83045bd94550305
+word_count: 570
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

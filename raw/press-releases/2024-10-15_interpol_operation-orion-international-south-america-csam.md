@@ -1,16 +1,16 @@
 ---
 title: "Operation Orion International: 144 Arrested in Major Child Abuse Operation Across South America"
-collection_source: "INTERPOL"
-collection_url: "https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America"
-collection_domain: "interpol.int"
-collection_date: "2026-04-08"
-publish_date: "2024-10-15"
-language: "en"
+collection_source: INTERPOL
+collection_url: https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America
+collection_domain: interpol.int
+collection_date: 2026-04-08
+publish_date: 2024-10-15
+language: en
 source_tier: 2
 translated: false
-status: "collected"
+status: collected
+final_url: https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America
 ---
-
 # Operation Orion International — South America CSAM Crackdown
 
 ## Summary

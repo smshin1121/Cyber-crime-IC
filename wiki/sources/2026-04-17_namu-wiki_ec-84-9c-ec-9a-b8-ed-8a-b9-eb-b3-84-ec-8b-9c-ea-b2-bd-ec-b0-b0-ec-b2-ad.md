@@ -31,4 +31,4 @@ The Seoul Metropolitan Police Agency (서울특별시경찰청, SMPA) is the met
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_namu-wiki_ec-84-9c-ec-9a-b8-ed-8a-b9-eb-b3-84-ec-8b-9c-ea-b2-bd-ec-b0-b0-ec-b2-ad.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_namu-wiki_ec-84-9c-ec-9a-b8-ed-8a-b9-eb-b3-84-ec-8b-9c-ea-b2-bd-ec-b0-b0-ec-b2-ad.md`, preserving traceable review without classifying the page as a placeholder.

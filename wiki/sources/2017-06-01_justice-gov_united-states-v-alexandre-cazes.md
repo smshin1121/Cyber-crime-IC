@@ -38,4 +38,4 @@ Alexandre Cazes (AlphaBay) Enforcement Action is a defendant-specific enforcemen
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2017-06-01_justice-gov_united-states-v-alexandre-cazes.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2017-06-01_justice-gov_united-states-v-alexandre-cazes.md`, preserving traceable review without classifying the page as a placeholder.

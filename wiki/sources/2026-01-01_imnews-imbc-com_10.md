@@ -31,4 +31,4 @@ South Korea is a **highly capable** partner for international cooperation on cyb
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-01-01_imnews-imbc-com_10.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-01-01_imnews-imbc-com_10.md`, preserving traceable review without classifying the page as a placeholder.

@@ -25,4 +25,4 @@ copyright_policy: summary-only
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-07-05_group-ib-com_interpol-led-operation-takes-down-prolific-cybercriminal.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-07-05_group-ib-com_interpol-led-operation-takes-down-prolific-cybercriminal.md`, preserving traceable review without classifying the page as a placeholder.

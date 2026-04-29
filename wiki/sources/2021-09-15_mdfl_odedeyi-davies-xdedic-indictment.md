@@ -35,4 +35,4 @@ On 15 September 2021, the U.S. Attorney's Office for the Middle District of Flor
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2021-09-15_mdfl_odedeyi-davies-xdedic-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2021-09-15_mdfl_odedeyi-davies-xdedic-indictment.md`, preserving traceable review without classifying the page as a placeholder.

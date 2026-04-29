@@ -35,4 +35,4 @@ On 23 July 2024, the U.S. Attorney's Office for the Middle District of Florida a
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2024-07-23_mdfl_omotosho-xdedic-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2024-07-23_mdfl_omotosho-xdedic-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

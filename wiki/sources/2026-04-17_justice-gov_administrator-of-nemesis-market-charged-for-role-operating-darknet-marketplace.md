@@ -32,4 +32,4 @@ This DOJ source page covers the 17 April 2025 announcement charging Behrouz Pars
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace.md` and corrected to reflect the actual DOJ press-release content.
+The `raw_path` metadata points to the corrected Nemesis Market DOJ press-release digest; this record now reflects the public charging announcement content.

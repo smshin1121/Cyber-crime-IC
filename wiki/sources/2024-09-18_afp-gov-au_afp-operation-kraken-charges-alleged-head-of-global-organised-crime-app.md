@@ -29,4 +29,4 @@ Operation Kraken was a multinational law enforcement operation led by the [[aust
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app.md`, preserving traceable review without classifying the page as a placeholder.

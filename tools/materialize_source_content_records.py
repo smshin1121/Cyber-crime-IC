@@ -401,6 +401,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", default=DEFAULT_DATE)
     parser.add_argument("--refresh", action="store_true", help="Rewrite existing raw records.")
+    parser.add_argument("--source-glob", default="*.md", help="Glob under wiki/sources to process.")
     parser.add_argument(
         "--only-status",
         default="",
@@ -414,7 +415,7 @@ def main() -> None:
     args = parse_args()
     only_statuses = {item.strip() for item in args.only_status.split(",") if item.strip()}
     results: list[MaterializeResult] = []
-    for source_path in sorted(SOURCES_DIR.glob("*.md")):
+    for source_path in sorted(SOURCES_DIR.glob(args.source_glob)):
         if source_path.name.startswith("_"):
             continue
         results.append(materialize_one(source_path, args.date, args.refresh, args.dry_run, only_statuses))

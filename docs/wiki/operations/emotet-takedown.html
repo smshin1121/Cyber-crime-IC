@@ -67,7 +67,7 @@
         
         
           <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-27
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-29
           </span>
         
         
@@ -170,7 +170,7 @@
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Operation LadyBird was a multinational law enforcement operation that disrupted the <strong>Emotet botnet</strong> -- described by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> as "the world's most dangerous malware" -- on <strong>27 January 2021</strong>. The operation was coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a> and <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>, with the <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Dutch National Police (NHTCU)</a> and Germany's Bundeskriminalamt (BKA) serving as the primary operational leads.</p>
 <p>Law enforcement agencies from <strong>eight countries</strong> -- the <a href="../../wiki/countries/netherlands.html" class="wikilink">Netherlands</a>, <a href="../../wiki/countries/germany.html" class="wikilink">Germany</a>, the <a href="../../wiki/countries/united-states.html" class="wikilink">United States</a>, the <a href="../../wiki/countries/united-kingdom.html" class="wikilink">United Kingdom</a>, <a href="../../wiki/countries/france.html" class="wikilink">France</a>, <a href="../../wiki/countries/ukraine.html" class="wikilink">Ukraine</a>, <a href="../../wiki/countries/canada.html" class="wikilink">Canada</a>, and <a href="../../wiki/countries/lithuania.html" class="wikilink">Lithuania</a> -- simultaneously seized control of approximately <strong>700 command-and-control (C2) servers</strong> and over <strong>2,000 domains</strong>, redirecting infected machines to law enforcement-controlled infrastructure.</p>
-<p>The operation is <em>almost certainly</em> one of the most technically innovative botnet takedowns in history: rather than simply shutting down infrastructure, law enforcement used Emotet's own update mechanism to deploy an uninstall module to infected machines worldwide, which activated on <strong>25 April 2021</strong> to remove the malware. However, the outcome is assessed as <strong>partial</strong> because Emotet resurfaced approximately 10 months later in November 2021, rebuilt using TrickBot infrastructure.</p>
+<p>The operation is one of the most technically innovative botnet takedowns in the public record: rather than simply shutting down infrastructure, law enforcement used Emotet's own update mechanism to deploy an uninstall module to infected machines worldwide, which activated on <strong>25 April 2021</strong> to remove the malware. However, the outcome is assessed as <strong>partial</strong> because Emotet resurfaced approximately 10 months later in November 2021, rebuilt using TrickBot infrastructure.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
 <h3 id="emotets-evolution">Emotet's Evolution</h3>
 <p>Emotet first appeared in <strong>2014</strong> as a banking trojan targeting financial institutions. By 2017, it had evolved into a sophisticated <strong>malware-as-a-service (MaaS) platform</strong> -- a "loader" that provided initial access to compromised systems, which was then sold to other cybercriminal groups. Key characteristics:</p>
@@ -383,7 +383,7 @@
 <h3 id="strategic-impact">Strategic Impact</h3>
 <ol>
 <li><strong>Temporary disruption of MaaS ecosystem:</strong> Emotet's takedown deprived ransomware operators (Ryuk, Conti) of their primary initial access vector for approximately 10 months</li>
-<li><strong>Pioneering victim remediation:</strong> The deployment of a law enforcement-controlled update to clean infected machines was <em>almost certainly</em> unprecedented in scale and set a new operational template</li>
+<li><strong>Pioneering victim remediation:</strong> The deployment of a law enforcement-controlled update to clean infected machines was unprecedented in scale and set a new operational template</li>
 <li><strong>Intelligence harvest:</strong> The seized infrastructure and credentials database provided extensive intelligence on the broader cybercrime ecosystem</li>
 <li><strong>Credential notification:</strong> Dutch police created an online tool allowing potential victims to check if their email credentials were compromised</li>
 </ol>
@@ -415,7 +415,7 @@
 </tr>
 <tr>
 <td><a href="../../wiki/mechanisms/24-7-network.html" class="wikilink">24-7-network</a></td>
-<td><em>Likely</em> used for urgent preservation requests during infrastructure mapping phase</td>
+<td>Available for urgent preservation requests during infrastructure mapping phase</td>
 </tr>
 <tr>
 <td>DNS Sinkholing</td>
@@ -433,7 +433,7 @@
 <li>Was pushed to infected machines after C2 infrastructure was seized</li>
 <li>Contained a time-delayed activation set for <strong>25 April 2021</strong> (giving a ~3 month window for ISPs and CERTs to notify affected organizations)</li>
 <li>On activation, it deleted all Emotet-related services, removed registry keys, terminated running processes, and self-deleted</li>
-<li>This approach was <em>almost certainly</em> the first operational use of "police malware" deployed through a botnet's own infrastructure to protect victims at scale</li>
+<li>This approach was the first widely documented operational use of a law enforcement-controlled update deployed through a botnet's own infrastructure to protect victims at scale</li>
 </ol>
 <h2 id="challenges-and-friction-points"><span class="heading-ko">과제 및 마찰 요인</span><span class="heading-en">Challenges and Friction Points</span></h2>
 <ul>
@@ -454,7 +454,7 @@
 <p>South Korea was <strong>not among the eight participating countries</strong> in Operation LadyBird. However, the operation is relevant to Korean cybersecurity interests in several ways:</p>
 <ul>
 <li><strong>Emotet infections in Korea:</strong> South Korea was among the countries where Emotet C2 infrastructure was identified, though it was not a primary hosting location</li>
-<li><strong>Downstream ransomware impact:</strong> Emotet served as the primary delivery mechanism for Ryuk and Conti ransomware, which <em>likely</em> affected Korean organizations</li>
+<li><strong>Downstream ransomware impact:</strong> Emotet served as the primary delivery mechanism for Ryuk and Conti ransomware, creating exposure for Korean organizations</li>
 <li><strong>TrickBot connection:</strong> An alleged developer of TrickBot -- the malware used to rebuild Emotet after the takedown -- was arrested in South Korea in 2022, demonstrating Korea's role in the broader cybercrime enforcement ecosystem</li>
 <li><strong>Operational template:</strong> The cooperation model demonstrated in Operation LadyBird has been applied in subsequent operations where Korea participated, such as the <a href="../../wiki/operations/phobos-8base-crackdown.html" class="wikilink">Phobos/8Base crackdown</a> (2025) coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a></li>
 </ul>
@@ -462,13 +462,13 @@
 <h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ol>
 <li>
-<p><strong>Arrest count discrepancy:</strong> Europol and DOJ press releases focus on "disruption" without specifying a precise arrest count. Ukrainian Cyberpolice reported 2 arrests in Kharkiv, but some media sources reported higher numbers. The 2 arrests figure is <em>likely</em> correct based on primary source consistency.</p>
+<p><strong>Arrest count discrepancy:</strong> Europol and DOJ press releases focus on "disruption" without specifying a precise arrest count. Ukrainian Cyberpolice reported 2 arrests in Kharkiv, but some media sources reported higher numbers. The 2 arrests figure is the best-supported count based on primary source consistency.</p>
 </li>
 <li>
-<p><strong>Server count variation:</strong> Europol reported "hundreds of servers," the UK NCA cited approximately 700, and the BKA reported 17 in Germany specifically. These figures are <em>likely</em> compatible (700 total, 17 in Germany), but the exact count may vary depending on whether backup/relay nodes are included.</p>
+<p><strong>Server count variation:</strong> Europol reported "hundreds of servers," the UK NCA cited approximately 700, and the BKA reported 17 in Germany specifically. These figures are compatible (700 total, 17 in Germany), but the exact count may vary depending on whether backup/relay nodes are included.</p>
 </li>
 <li>
-<p><strong>Emotet's resurgence and operator identity:</strong> The same operators behind the original Emotet <em>likely</em> rebuilt the botnet using TrickBot/Conti infrastructure. If so, the 2 Ukrainian arrests did not capture the core development team. The relationship between Emotet operators and the Conti group remains an open question.</p>
+<p><strong>Emotet's resurgence and operator identity:</strong> The same operators behind the original Emotet may have rebuilt the botnet using TrickBot/Conti infrastructure. If so, the 2 Ukrainian arrests did not capture the core development team. The relationship between Emotet operators and the Conti group remains an open question.</p>
 </li>
 <li>
 <p><strong>Legal authority for victim remediation:</strong> The legal basis for deploying an uninstall module to victim machines varies by jurisdiction. No public legal challenge has been reported, but the practice raises unresolved questions about proportionality and authority.</p>
@@ -838,8 +838,8 @@ This keeps the canonical record analytically bounded and reproducible.</p>
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-27 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-27">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-29 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-29">
     </span>
   </div>
 

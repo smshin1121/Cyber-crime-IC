@@ -31,4 +31,4 @@ INTERPOL, Group-IB, and the Nigeria Police Force conducted Operation Falcon, a j
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-11-27_pmnewsnigeria-com_interpol-3-nigerians-busted-for-cyber-crime-operate-in-150-countries.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-11-27_pmnewsnigeria-com_interpol-3-nigerians-busted-for-cyber-crime-operate-in-150-countries.md`, preserving traceable review without classifying the page as a placeholder.

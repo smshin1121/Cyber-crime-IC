@@ -1,33 +1,34 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: "[[romania]]"
 created: 2026-04-10
 established: 2004
 frameworks_administered:
-  []
+
 headquarters: "Bucharest, Romania"
 key_roles:
-  []
+
 last_verified: 2026-04-10
 mandate: "Romanian specialized prosecutor's office investigating and prosecuting organized"
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "Direcția de Investigare a Infracțiunilor de Criminalitate Organizată"
 official_name_ko: ""
 operations_participated:
   - "[[operation-bakovia]]"
+  - "[[proxy-service-takedown-2026-03]]"
 org_type: prosecution-office
 parent_org: "[[romania-public-ministry]]"
 source_count: 0
 sources:
-  []
+
 status: active
 title: "Directorate for Investigating Organized Crime and Terrorism (DIICOT)"
 type: organization

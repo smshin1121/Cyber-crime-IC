@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2023-04-20_komonews_6-drug-ring-traveled-seattle-bellingham-indicted-trafficking-fentanyl]]"
+  - "[[2026-04-18_justice-gov_significant-member-whatcom-county-fentanyl-trafficking-ring-sentenced-4-years-prison]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-natasha-parkhill]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-natasha-parkhill]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | 6 in drug ring that traveled from Seattle to Bellingham indicted for trafficking fentanyl | KOMO News (Seattle) | 2023-04-20 | https://komonews.com/news/local/seattle-fentanyl-drug-ring-bellingham-gun-firearm-crime-violence-whatcom-county-stolen-organization-arrest-custody-indicted-operation-washington-king-charges-unlawful-doj-court |
+| [1] | Significant member of a Whatcom County fentanyl trafficking ring sentenced to 4 years in prison | US DOJ USAO | 2024-07-15 | https://www.justice.gov/usao-wdwa/pr/significant-member-whatcom-county-fentanyl-trafficking-ring-sentenced-4-years-prison |

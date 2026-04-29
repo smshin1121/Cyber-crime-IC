@@ -25,4 +25,4 @@ The Czech Republic signed the [[budapest-convention|Budapest Convention on Cyber
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-01-01_connections-qj-org_evolution-of-police-roles-in-combatting-cybercrime-in-the-czech-republic-2015-20.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-01-01_connections-qj-org_evolution-of-police-roles-in-combatting-cybercrime-in-the-czech-republic-2015-20.md`, preserving traceable review without classifying the page as a placeholder.

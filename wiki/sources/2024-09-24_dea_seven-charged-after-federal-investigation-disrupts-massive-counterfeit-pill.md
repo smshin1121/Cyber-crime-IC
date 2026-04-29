@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2024/09/24/seven-charged-afte
 created: 2026-04-25
 raw_path: raw/press-releases/2024-09-24_dea_seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill.md
 text_status: parsed
-content_hash: sha256:c630346b7dc0af91d367d1309636b9769ce98db82974ddcfee0b33d00e7e2f3a
-word_count: 6254
-extraction_date: 2026-04-25
+content_hash: sha256:e604ac31fcc7a59b91dd964cba5396d9d3626cff5053246b7ba02a0b84e92a77
+word_count: 1420
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

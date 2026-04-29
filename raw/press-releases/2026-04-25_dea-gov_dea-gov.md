@@ -12,56 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:8026d9192842a99268e0d0d8d70cc41a3d86b8bba9f82c718fbd1fe4b9fa0cb1
-word_count: 4194
-extraction_date: 2026-04-25
+content_hash: sha256:e8255dfcabe1c56202f6176625c8c5b8e5c5ae90b7551daf0251c13a11be7819
+word_count: 567
+extraction_date: 2026-04-29
 source_page: wiki/cases/150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million.md
+parser: jina_markdown
 ---
 ## Summary
 
 Source text harvested from https://www.dea.gov/.
-
-## Extracted Text
-
-Title: Home
-
-URL Source: https://www.dea.gov/
-
-Markdown Content:
-
-# Home | DEA.gov
-
-[Skip to main content](https://www.dea.gov/#main-content)
-
-![Image 4: U.S. flag](https://www.dea.gov/themes/custom/ohana/dist/img/us_flag_small.png)
-
-Here’s how you know
-
-![Image 5: Dot gov](https://www.dea.gov/themes/custom/ohana/dist/img/icon-dot-gov.svg)
-
-**Official websites use .gov**
-
-A **.gov** website belongs to an official government organization in the United States.
-
-![Image 6: Https](https://www.dea.gov/themes/custom/ohana/dist/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS**
-
-A **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-# [United States Drug Enforcement Administration](https://www.dea.gov/ "Home")
-
-* [Get Updates](https://public.govdelivery.com/accounts/USDOJDEA/subscriber/new?qsp=CODE_RED)
-
-* [Scam Alert](https://www.dea.gov/scam-alert)
-
-* [Full Menu](https://www.dea.gov/#fullmenu)
-
-* [![Image 7: en](https://cdn.gtranslate.net/flags/svg/en-us.svg) English](https://www.dea.gov/#) [![Image 8: en](https://www.dea.gov/) English](https://www.dea.gov/# "English")[![Image 9: ar](https://www.dea.gov/) العربية](https://www.dea.gov/# "العربية")[![Image 10: bg](https://www.dea.gov/) Български](https://www.dea.gov/# "Български")[![Image 11: zh-CN](https://www.dea.gov/) 简体中文](https://www.dea.gov/# "简体中文")[![Image 12: zh-TW](https://www.dea.gov/) 繁體中文](https://www.dea.gov/# "繁體中文")[![Image 13: hr](https://www.dea.gov/) Hrvatski](https://www.dea.gov/# "Hrvatski")[![Image 14: cs](https://www.dea.gov/) Čeština‎](https://www.dea.gov/# "Čeština‎")[![Image 15: da](https://www.dea.gov/) Dansk](https://www.dea.gov/# "Dansk")[![Image 16: nl](https://www.dea.gov/) Nederlands](https://www.dea.gov/# "Nederlands")[![Image 17: fi](https://www.dea.gov/) Suomi](https://www.dea.gov/# "Suomi")[![Image 18: fr](https://www.dea.gov/) Français](https://www.dea.gov/# "Français")[![Image 19: de](https://www.dea.gov/) Deutsch](https://www.dea.gov/# "Deutsch")[![Image 20: el](https://www.dea.gov/) Ελληνικά](https://www.dea.gov/# "Ελληνικά")[![Image 21: hi](https://www.dea.gov/) हिन्दी](https://www.dea.gov/# "हिन्दी")[![Image 22: it](https://www.dea.gov/) Italiano](https://www.dea.gov/# "Italiano")[![Image 23: ja](https://www.dea.gov/) 日本語](https://www.dea.gov/# "日本語")[![Image 24: ko](https://www.dea.gov/) 한국어](https://www.dea.gov/# "한국어")[![Image 25: no](https://www.dea.gov/) Norsk bokmål](https://www.dea.gov/# "Norsk bokmål")[![Image 26: pl](https://www.dea.gov/) Polski](https://www.dea.gov/# "Polski")[![Image 27: pt](https://www.dea.gov/) Português](https://www.dea.gov/# "Português")[![Image 28: ro](https://www.dea.gov/) Română](https://www.dea.gov/# "Română")[![Image 29: ru](https://www.dea.gov/) Русский](https://www.dea.gov/# "Русский")[![Image 30: es](https://www.dea.gov/) Español](https://www.dea.gov/# "Español")[![Image 31: sv](https://www.dea.gov/) Svenska](https://www.dea.gov/# "Svenska")[![Image 32: ca](https://www.dea.gov/) Català](https://www.dea.gov/# "Català")[![Image 33: tl](https://www.dea.gov/) Filipino](https://www.dea.gov/# "Filipino")[![Image 34: iw](https://www.dea.gov/) עִבְרִית](https://www.dea.gov/# "עִבְרִית")[![Image 35: id](https://www.dea.gov/) Bahasa Indonesia](https://www.dea.gov/# "Bahasa Indonesia")[![Image 36: lv](https://www.dea.gov/) Latviešu valoda](https://www.dea.gov/# "Latviešu valoda")[![Image 37: lt](https://www.dea.gov/) Lietuvių kalba](https://www.dea.gov/# "Lietuvių kalba")[![Image 38: sr](https://www.dea.gov/) Српски језик](https://www.dea.gov/# "Српски језик")[![Image 39: sk](https://www.dea.gov/) Slovenčina](https://www.dea.gov/# "Slovenčina")[![Image 40: sl](https://www.dea.gov/) Slovenščina](https://www.dea.gov/# "Slovenščina")[![Image 41: uk](https://www.dea.gov/) Українська](https://www.dea.gov/# "Українська")[![Image 42: vi](https://www.dea.gov/) Tiếng Việt](https://www.dea.gov/# "Tiếng Việt")[![Image 43: sq](https://www.dea.gov/) Shqip](https://www.dea.gov/# "Shqip")[![Image 44: et](https://www.dea.gov/) Eesti](https://www.dea.gov/# "Eesti")[![Image 45: gl](https://www.dea.gov/) Galego](https://www.dea.gov/# "Galego")[![Image 46: hu](https://www.dea.gov/) Magyar](https://www.dea.gov/# "Magyar")[![Image 47: mt](https://www.dea.gov/) Maltese](https://www.dea.gov/# "Maltese")[![Image 48: th](https://www.dea.gov/) ไทย](https://www.dea.gov/# "ไทย")[![Image 49: tr](https://www.dea.gov/) Türkçe](https://www.dea.gov/# "Türkçe")[![Image 50: fa](https://www.dea.gov/) فارسی](https://www.dea.gov/# "فارسی")[![Image 51: af](https://www.dea.gov/) Afrikaans](https://www.dea.gov/# "Afrikaans")[![Image 52: ms](https://www.dea.gov/) Bahasa Melayu](https://www.dea.gov/# "Bahasa Melayu")[![Image 53: sw](https://www.dea.gov/) Kiswahili](https://www.dea.gov/# "Kiswahili")[![Image 54: ga](https://www.dea.gov/) Gaeilge](https://www.dea.gov/# "Gaeilge")[![Image 55: cy](https://www.dea.gov/) Cymraeg](https://www.dea.gov/# "Cymraeg")[![Image 56: be](https://www.dea.gov/) Беларуская мова](https://www.dea.gov/# "Беларуская мова")[![Image 57: is](https://www.dea.gov/) Íslenska](https://www.dea.gov/# "Íslenska")[![Image 58: mk](https://www.dea.gov/) Македонски јазик](https://www.dea.gov/# "Македонски јазик")[![Image 59: yi](https://www.dea.gov/) יידיש](https://www.dea.gov/# "יידיש")[![Image 60: hy](https://www.dea.gov/) Հայերեն](https://www.dea.gov/# "Հայերեն")[![Image 61: az](https://www.dea.gov/) Azərbaycan dili](https://www.dea.gov/# "Azərbaycan dili")[![Image 62: eu](https://www.dea.gov/) Euskara](https://www.dea.gov/# "Euskara")[![Image 63: ka](https://www.dea.gov/) ქართული](https://www.dea.gov/# "ქართული")[![Image 64: ht](https://www.dea.gov/) Kreyol ayisyen](https://www.dea.gov/# "Kreyol ayisyen")[![Image 65: ur](https://www.dea.gov/) اردو](https://www.dea.gov/# "اردو")[![Image 66: bn](https://www.dea.gov/) বাংলা](https://www.dea.gov/# "বাংলা")[![Image 67: bs](https://www.dea.gov/) Bosanski](https://www.dea.gov/# "Bosanski")[![Image 68: ceb](https://www.dea.gov/) Cebuano](https://www.dea.gov/# "Cebuano")[![Image 69: eo](https://www.dea.gov/) Esperanto](https://www.dea.gov/# "Esperanto")[![Image 70: gu](https://www.dea.gov/) ગુજરાતી](https://www.dea.gov/# "ગુજરાતી")[![Image 71: ha](https://www.dea.gov/) Harshen Hausa](https://www.dea.gov/# "Harshen Hausa")[![Image 72: hmn](https://www.dea.gov/) Hmong](https://www.dea.gov/# "Hmong")[![Image 73: ig](https://www.dea.gov/) Igbo](https://www.dea.gov/# "Igbo")[![Image 74: jw](https://www.dea.gov/) Basa Jawa](https://www.dea.gov/# "Basa Jawa")[![Image 75: kn](https://www.dea.gov/) ಕನ್ನಡ](https://www.dea.gov/# "ಕನ್ನಡ")[![Image 76: km](https://www.dea.gov/) ភាសាខ្មែរ](https://www.dea.gov/# "ភាសាខ្មែរ")[![Image 77: lo](https://www.dea.gov/) ພາສາລາວ](https://www.dea.gov/# "ພາສາລາວ")[![Image 78: la](https://www.dea.gov/) Latin](https://www.dea.gov/# "Latin")[![Image 79: mi](https://www.dea.gov/) Te Reo Māori](https://www.dea.gov/# "Te Reo Māori")[![Image 80: mr](https://www.dea.gov/) मराठी](https://www.dea.gov/# "मराठी")[![Image 81: mn](https://www.dea.gov/) Монгол](https://www.dea.gov/# "Монгол")[![Image 82: ne](https://www.dea.gov/) नेपाली](https://www.dea.gov/# "नेपाली")[![Image 83: pa](https://www.dea.gov/) ਪੰਜਾਬੀ](https://www.dea.gov/# "ਪੰਜਾਬੀ")[![Image 84: so](https://www.dea.gov/) Afsoomaali](https://www.dea.gov/# "Afsoomaali")[![Image 85: ta](https://www.dea.gov/) தமிழ்](https://www.dea.gov/# "தமிழ்")[![Image 86: te](https://www.dea.gov/) తెలుగు](https://www.dea.gov/# "తెలుగు")[![Image 87: yo](https://www.dea.gov/) Yorùbá](https://www.dea.gov/# "Yorùbá")[![Image 88: zu](https://www.dea.gov/) Zulu](https://www.dea.gov/# "Zulu")[![Image 89: my](https://www.dea.gov/) ဗမာစာ](https://www.dea.gov/# "ဗမာစာ")[![Image 90: ny](https://www.dea.gov/) Chichewa](https://www.dea.gov/# "Chichewa")[![Image 91: kk](https://www.dea.gov/) Қазақ тілі](https://www.dea.gov/# "Қазақ тілі")[![Image 92: mg](https://www.dea.gov/) Malagasy](https://www.dea.gov/# "Malagasy")[![Image 93: ml](https://www.dea.gov/) മലയാളം](https://www.dea.gov/# "മലയാളം")[![Image 94: si](https://www.dea.gov/) සිංහල](https://www.dea.gov/# "සිංහල")[![Image 95: st](https://www.dea.gov/) Sesotho](https://www.dea.gov/# "Sesotho")[![Image 96: su](https://www.dea.gov/) Basa Sunda](https://www.dea.gov/# "Basa Sunda")[![Image 97: tg](https://www.dea.gov/) Тоҷикӣ](https://www.dea.gov/# "Тоҷикӣ")[![Image 98: uz](https://www.dea.gov/) O‘zbekcha](https://www.dea.gov/# "O‘zbekcha")[![Image 99: am](https://www.dea.gov/) አማርኛ](https://www.dea.gov/# "አማርኛ")[![Image 100: co](https://www.dea.gov/) Corsu](https://www.dea.gov/# "Corsu")[![Image 101: haw](https://www.dea.gov/) Ōlelo Hawaiʻi](https://www.dea.gov/# "Ōlelo Hawaiʻi")[![Image 102: ku](https://www.dea.gov/) كوردی‎](https://www.dea.gov/# "كوردی‎")[![Image 103: ky](https://www.dea.gov/) Кыргызча](https://www.dea.gov/# "Кыргызча")[![Image 104: lb](https://www.dea.gov/) Lëtzebuergesch](https://www.dea.gov/# "Lëtzebuergesch")[![Image 105: ps](https://www.dea.gov/) پښتو](https://www.dea.gov/# "پښتو")[![Image 106: sm](https://www.dea.gov/) Samoan](https://www.dea.gov/# "Samoan")[![Image 107: gd](https://www.dea.gov/) Gàidhlig](https://www.dea.gov/# "Gàidhlig")[![Image 108: sn](https://www.dea.gov/) Shona](https://www.dea.gov/# "Shona")[![Image 109: sd](https://www.dea.gov/) سنڌي](https://www.dea.gov/# "سنڌي")[![Image 110: fy](https://www.dea.gov/) Frysk](https://www.dea.gov/# "Frysk")[![Image 111: xh](https://www.dea.gov/) isiXhosa](https://www.dea.gov/# "isiXhosa")
-
-* [English](https://www.dea.gov/)
-
-* [Español](https://www.dea.gov/es)
 
 ## Main Menu
 
@@ -587,9 +546,180 @@ Continue
 
 ![Image 121](https://container.orionplatform.com/track/pixel?account=355&type=dv360_page_view&id=14431394&url=https%3A%2F%2Fwww.dea.gov%2F)
 
+## Extracted Text
+
+# Home
+
+### DEA National Prescription Take Back Day
+
+Turn in Unneeded Medication for Safe Disposal
+
+Find a location near you at www.DEATakeBack.com
+
+## DEA is Accepting 5,000 Applications for Diversion Investigators
+
+The Diversion Investigator position is a core series position within the DEA. Diversion Investigators enforce the Controlled Substances Act (CSA) and the Chemical Diversion and Trafficking Act (CDTA) regarding the manufacture, distribution and dispensing of legally produced controlled substances and listed chemicals in order to prevent diversion of controlled substances and listed chemicals into the illicit market, while ensuring an adequate, uninterrupted supply of pharmaceutical controlled substances and listed chemicals to meet the legitimate medical, commercial and scientific needs of the public.
+
+Learn MoreHow to Apply
+
+* *
+
+### DEA 2026 Drug Seizures
+
+761,787 Pills Seized
+
+204 Powder Seized
+
+Fentanyl
+
+70,584 Pills Seized
+
+3,264 Total Seized
+
+Methamphetamine
+
+3,519 Powder Seized
+
+Cocaine
+
+Updated on March 30, 2026
+
+## About the DEA
+
+The mission of the Drug Enforcement Administration (DEA) is to ensure the safety and health of American communities by combating criminal drug networks bringing harm, violence, overdoses, and poisonings to the United States. To accomplish this mission, the DEA employs approximately 10,000 personnel throughout the world – Special Agents, Diversion Investigators, Intelligence Analysts, Chemists, and professional staff – across 241 domestic offices in 23 Divisions and 93 foreign offices across the globe.
+
+Learn More About Us
+
+### Featured Resources
+
+DEA is committed to tackling the nationwide drug overdose and poisoning crisis that is driven by criminal drug networks. This work includes a critical focus on outreach, prevention, engagement, and education with law enforcement partners and communities across the nation.
+
+[](https://www.dea.gov/takebackday "Take Back Day")
+
+### Take Back Day
+
+[](https://www.dea.gov/fentanylfree "Fentanyl Free America ")
+
+### Fentanyl Free America
+
+[](https://www.dea.gov/onepill "One Pill Can Kill")
+
+### One Pill Can Kill
+
+[](https://www.dea.gov/togetherforfamilies "Together for Families")
+
+### Together for Families
+
+Proposed Rescheduling of Marijuana
+
+### Recent News Releases
+
+PRESS RELEASE
+
+### DEA Part of Historic Cocaine Seizure in the Dominican Republic
+
+April 24, 2026
+
+### Major Drug Trafficker Charged Following Historic Fentanyl and Meth Seizures in New Jersey History
+
+April 23, 2026
+
+### Three St. Louis Area Residents Admit Selling Fentanyl, Other Drugs Via Social Media
+
+April 22, 2026
+
+### Columbia, Missouri Doctor Arrested, Accused of Health Care Fraud, Illegally Prescribing Drugs
+
+View All News Releases
+
+### Community Outreach
+
+DEA’s Community Outreach strategy is to develop and disseminate effective drug information for teens, parents, caregivers, and educators, and to increase the public’s awareness about the dangers associated with using drugs.
+
+[](https://www.operationprevention.com/ "Drug Prevention Education")
+
+### Drug Prevention Education
+
+[](https://www.getsmartaboutdrugs.gov/ "Parents, Educators & Caregivers")
+
+### Parents, Educators & Caregivers
+
+[](https://www.campusdrugprevention.gov/ "College Campus Communities")
+
+### College Campus Communities
+
+[](https://www.justthinktwice.gov/ "Teens")
+
+### Teens
+
+### Most Wanted Fugitives
+
+DEA publishes a list of the most wanted fugitives wanted for alleged federal violations of controlled substances laws to help capture and bring them to justice.
+
+### Yulian Andony Archaga Carias
+
+**AKA:** Alexander Mendoza, Porky, Gordo
+
+**Reward:** $5,000,000
+
+### Jesus Alfredo Guzman-Salazar
+
+**AKA:** Alfredillo
+
+**Reward:** UP TO $10 MILLION
+
+### Ivan Archivaldo Guzman-Salazar
+
+**AKA:** El Chapito
+
+View Most Wanted Fugitives
+
+### DEA on Instagram
+
+Domestic Divisions
+
+Foreign Offices
+
+Drug Prevention
+
+Diversion Control Division
+
+Forensic Sciences
+
+Employee Assistance Program
+
+Publications
+
+VWAP
+
+Doing Business with the DEA
+
+Overview
+
+Current Vendors
+
+Prospective Vendors
+
+Security Clauses
+
+Security Forms
+
+Small Business Program
+
+Vendor Engagement Request
+
+Policies
+
+Accessibility & Policy
+
+Legal Policies & Disclaimers
+
+No FEAR Act
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:22:01+00:00
+- normalized_at: 2026-04-28T16:03:47+00:00
 - final_url: https://www.dea.gov/
+- cleanup: jina navigation trim

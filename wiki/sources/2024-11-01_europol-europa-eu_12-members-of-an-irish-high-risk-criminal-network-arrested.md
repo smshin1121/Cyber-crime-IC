@@ -17,11 +17,12 @@ key_findings:
   - "Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled **Ghost**, a dedicated encrypted communications platform built and used exclusively by organized crime networks worldwide. The operation culminated on September 17-18, 2024, with near-simultaneous raids across Australia, Ireland, Italy, Canada, and Sweden. The platform's alleged creator and administrator, **Jay Je Yoon Jung** (32, of New South."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/12-members-of-irish-high-risk-criminal-network-arrested
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:45aa3e4a4458ff3a9f35f9c071671d8bf9b9e5ce9608f03b7063b318b3202e03
-word_count: 244
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:d7291110ed8645bffde9a06c85d60da4668d2e4d2845d3a288a8e4da373aa2ac
+word_count: 621
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Operation Kraken was a multinational law enforcement operation led by the [[aust
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested.md`, preserving traceable review without classifying the page as a placeholder.

@@ -32,4 +32,4 @@ Operation LadyBird was a multinational law enforcement operation that disrupted 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-01-27_justice-gov_emotet-botnet-disrupted-in-international-cyber-operation.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-01-27_justice-gov_emotet-botnet-disrupted-in-international-cyber-operation.md`, preserving traceable review without classifying the page as a placeholder.

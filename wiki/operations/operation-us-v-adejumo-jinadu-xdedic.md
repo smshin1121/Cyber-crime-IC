@@ -57,7 +57,7 @@ source_count: 1
 sources:
   - "[[2023-11-29_mdfl_adejumo-jinadu-xdedic-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"
 summary: "Adejumo and Jinadu (xDedic Tax-Fraud Proceeds) Enforcement Action is a defendant-specific xDedic follow-on retained as an operation-side pointer to [[us-v-adejumo-jinadu-xdedic]] and the umbrella [[xdedic-marketplace-takedown]] record."

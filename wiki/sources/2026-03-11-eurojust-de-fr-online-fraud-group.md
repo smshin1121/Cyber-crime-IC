@@ -24,11 +24,12 @@ key_findings:
   - "Operation/case is not publicly named in the Eurojust release"
 collection_url: https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group
 created: 2026-04-14
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:4fa00bb35692c67d61467ad2a11ff7e8ec4ed2e6efb9b3c47db1fe38956d9cd0
-word_count: 238
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:573c7ba5d3c48254a17bb52b275b6a690f23231b5f24da9e30f24ed2328a45db
+word_count: 418
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Summary
 

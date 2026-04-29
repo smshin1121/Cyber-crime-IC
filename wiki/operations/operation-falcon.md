@@ -14,6 +14,8 @@ enforcement_type:
 
 lead_agency: "[[interpol]]"
 legal_basis:
+  - "Nigerian domestic criminal process"
+  - "INTERPOL operational coordination channel"
 
 lessons_learned:
 
@@ -37,6 +39,9 @@ period: 2
 related_cases:
 
 related_operations:
+  - "[[operation-lyrebird]]"
+  - "[[operation-killer-bee]]"
+  - "[[operation-delilah]]"
 
 results:
   arrests: 3
@@ -69,7 +74,7 @@ timeframe:
 title: "Operation Falcon"
 title_ko: "Operation Falcon (나이지리아 BEC 조직 단속)"
 type: operation
-updated: 2026-04-28
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL, Group-IB, and the Nigeria Police Force conducted Operation Falcon, a joint investigation that resulted in the arrest of 3 Nigerian nationals in November 2020. The suspects were part of a prolific cybercrime group that used 26 different types of malware including AgentTesla, Loki, Azorult, Spartan, Nanocore, and Remcos to conduct phishing attacks and Business Email Compromise (BEC) schemes targeting government organizations and private companies in over 150 countries."

@@ -18,11 +18,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2022/08/tulsa-man-sentenced-30-months-prison-sending-emails-threatening-kill
 created: 2026-04-25
 raw_path: raw/press-releases/2022-08-16_secretservice_tulsa-man-sentenced-30-months-prison-threatening-kill-biden.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:e86c3b04bd1adb5e0aaf6f13f56c4a164c82a878f0087d43d6117efef6b090db
-word_count: 119
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:5bbfb6537845a6bc991ca4e8e2a1a2f85b426bd1a4c6f37d696358592f67a53d
+word_count: 746
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

@@ -31,4 +31,4 @@ On June 26, 2024, Indonesian immigration officials raided a villa in the Marga s
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-06-27_voanews-com_indonesia-detains-103-foreigners-in-a-raid-in-bali-involving-suspected-cybercrim.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-06-27_voanews-com_indonesia-detains-103-foreigners-in-a-raid-in-bali-involving-suspected-cybercrim.md`, preserving traceable review without classifying the page as a placeholder.

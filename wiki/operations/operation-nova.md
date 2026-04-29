@@ -18,10 +18,16 @@ enforcement_type:
 
 lead_agency: "[[germany-bka]]"
 legal_basis:
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic cybercrime infrastructure-seizure authorities"
 
 lessons_learned:
 
 mechanisms_used:
+  - "[[mlat-process]]"
+  - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
 
 missing_fields:
 
@@ -41,6 +47,9 @@ period: 2
 related_cases:
 
 related_operations:
+  - "[[vpnlab-takedown]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-morpheus]]"
 
 results:
   arrests: 0
@@ -72,7 +81,7 @@ timeframe:
 title: "Operation Nova (Safe-Inet VPN Takedown)"
 title_ko: "노바 작전 (Safe-Inet VPN 소탕)"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 ## Summary
 

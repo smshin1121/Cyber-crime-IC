@@ -85,15 +85,14 @@ lessons_learned:
   - "Military cyber capabilities (Cyber Command) can complement civilian law enforcement operations"
   - "Botnet disruption is rarely permanent; sustained pressure and follow-on prosecutions are required"
   - "International arrest cooperation (South Korea extradition) demonstrates global reach of US cybercrime enforcement"
-source_count: 5
+source_count: 4
 sources:
-  - "[Microsoft Blog — New action to combat ransomware (2020-10-12)](https://blogs.microsoft.com/on-the-issues/2020/10/12/trickbot-ransomware-cyberthreat-us-elections/)"
-  - "[Microsoft Blog — Update on disruption (2020-10-20)](https://blogs.microsoft.com/on-the-issues/2020/10/20/trickbot-ransomware-disruption-update/)"
-  - "[CyberScoop — Cyber Command, Microsoft take action (2020-10-12)](https://cyberscoop.com/trickbot-takedown-cyber-command-microsoft/)"
-  - "[DOJ — Multiple Foreign Nationals Charged (2023-09-07)](https://www.secretservice.gov/newsroom/releases/2023/09/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti)"
-  - "[BleepingComputer — Dunaev sentenced (2024-01)](https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)"
+  - "[[2020-10-12_cyberscoop-com_cyber-command-microsoft-take-action-against-trickbot]]"
+  - "[[2020-10-20_blogs-microsoft-com_an-update-on-disruption-of-trickbot]]"
+  - "[[2023-09-07_justice-gov_multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti]]"
+  - "[[2024-01-01_bleepingcomputer-com_russian-trickbot-malware-dev-sentenced-to-64-months-in-prison]]"
 created: 2026-04-10
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "The TrickBot disruption was a multi-pronged effort in October 2020 involving both U.S. military cyber operations and a private-sector-led legal action to disable one of the world's largest and most persistent botnets. U.S. Cyber Command conducted offensive operations to interfere with TrickBot's command-and-control (C2) infrastructure, while Microsoft, acting under a court order from the U.S. District Court for the Eastern District of Virginia, took down 120 of 128 identified TrickBot servers in the first week. The urgency was driven by concerns that TrickBot-deployed ransomware could disrupt U.S. election infrastructure ahead of the November 2020 presidential election. While the initial disruption was temporary — TrickBot operators eventually rebuilt portions of their infrastructure — the operation was followed by a sustained law enforcement campaign that produced arrests and indictments through 2024, including the arrest of developer Vladimir Dunaev in [[south-korea|South Korea]] and the indictment of nine Russian nationals."
@@ -294,10 +293,9 @@ This keeps the canonical record analytically bounded and reproducible.
 
 ## References
 
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
-| 1 | New action to combat ransomware ahead of U.S. elections | Microsoft | 2020-10-12 | [Link](https://blogs.microsoft.com/on-the-issues/2020/10/12/trickbot-ransomware-cyberthreat-us-elections/) |
-| 2 | An update on disruption of Trickbot | Microsoft | 2020-10-20 | [Link](https://blogs.microsoft.com/on-the-issues/2020/10/20/trickbot-ransomware-disruption-update/) |
-| 3 | Cyber Command, Microsoft take action against Trickbot | CyberScoop | 2020-10-12 | [Link](https://cyberscoop.com/trickbot-takedown-cyber-command-microsoft/) |
-| 4 | Multiple Foreign Nationals Charged in Connection with Trickbot and Conti | U.S. Secret Service / DOJ | 2023-09-07 | [Link](https://www.secretservice.gov/newsroom/releases/2023/09/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti) |
-| 5 | Russian TrickBot malware dev sentenced to 64 months in prison | BleepingComputer | 2024-01 | [Link](https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/) |
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | Cyber Command, Microsoft take action against Trickbot | CyberScoop | 2020-10-12 | https://cyberscoop.com/trickbot-takedown-cyber-command-microsoft/ |
+| [2] | An update on disruption of Trickbot | Microsoft | 2020-10-20 | https://blogs.microsoft.com/on-the-issues/2020/10/20/trickbot-ransomware-disruption-update/ |
+| [3] | Multiple Foreign Nationals Charged in Connection with Trickbot Malware and Conti Ransomware Conspiracies | US DOJ USAO | 2023-09-07 | https://www.justice.gov/usao-ndoh/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware |
+| [4] | Russian TrickBot malware dev sentenced to 64 months in prison | BleepingComputer | 2024-01-01 | https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/ |

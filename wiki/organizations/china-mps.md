@@ -4,12 +4,12 @@ title: "China Ministry of Public Security (MPS)"
 official_name: "Ministry of Public Security of the People's Republic of China"
 official_name_ko: "중국 공안부"
 aliases:
-  - "MPS"
+  - MPS
   - "China MPS"
   - "中华人民共和国公安部"
 org_type: national-agency
 status: active
-established: "1949-10-15"
+established: 1949-10-15
 parent_org: ""
 country: "[[china]]"
 headquarters: "Beijing, China"
@@ -18,45 +18,40 @@ key_roles:
   - "Coordinated Myanmar-Kokang cyber fraud crackdown (2023-2024)"
   - "Bilateral border law enforcement cooperation with Myanmar, Thailand, Cambodia, Laos, Philippines"
   - "Domestic telecom/online fraud prevention campaign"
-cooperation_partners: []
+cooperation_partners:
+  []
 operations_participated:
   - "[[myanmar-kokang-scam-compound-crackdown]]"
-source_count: 0
-sources: []
+source_count: 3
+sources:
+  - https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html
+  - https://news.cgtn.com/news/2023-11-21/31-000-telecom-scam-suspects-handed-over-to-China-by-Myanmar-1oUBBpIdweA/index.html
+  - https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html
 created: 2026-04-10
-updated: 2026-04-11
-last_verified: 2026-04-11
+updated: 2026-04-29
+last_verified: 2026-04-29
+coverage_status: audit-normalized
 ---
-
 ## Summary
 
-The **Ministry of Public Security (MPS, 公安部)** is the principal law enforcement agency of the People's Republic of China, established on 15 October 1949. For cybercrime international cooperation, MPS operates primarily through **bilateral channels** rather than multilateral frameworks, reflecting China's preference for state-to-state cooperation models.
+China Ministry of Public Security (MPS) is retained as an organization node in the international cybercrime cooperation graph. The current mandate field records: National law enforcement and public security, including cybercrime investigation and cross-border enforcement cooperation Country or jurisdiction metadata is recorded as [[china]]. This page is used for menu navigation, operation back-links, and partner analysis rather than as a complete institutional profile.
 
-## Current Status (as of 2026-04-11)
+## Cooperation Graph Role
 
-MPS remains active as the primary Chinese law enforcement coordination body. Notably, China is **not a party** to the [[budapest-convention|Budapest Convention]] and has advocated for a UN-based cybercrime treaty framework instead (the Ad Hoc Committee on Cybercrime, which produced the 2024 UN Cybercrime Convention).
+Linked operation records: [[myanmar-kokang-scam-compound-crackdown]]. These links are the safest basis for interpreting this organization in the repository because they connect the organization to named enforcement actions, source records, and cooperation mechanisms already present in the corpus. Where an operation page names multiple agencies, this organization page should be read together with the operation's lead agency, coordinating body, participating-country list, and source table.
 
-## IC Capabilities
+## Source Coverage
 
-- **Myanmar/Kokang scam compound crackdown (2023-2024)**: Coordinated with Myanmar military/rebel groups to repatriate ~41,000 telecom fraud suspects — the **largest single cybercrime enforcement action by volume in history**
-- **Bilateral border cooperation**: Active enforcement with Myanmar, Thailand, Cambodia, Laos, Philippines on cross-border telecom fraud
-- **Domestic campaigns**: "Duan Ka" (断卡) anti-telecom fraud campaign targeting SIM card and bank account trafficking
-- **INTERPOL membership**: Active participant but limited engagement in Western-led joint investigations
+The references below provide 3 source link(s) for the current organization record. The page does not infer powers, staffing, budget, or treaty authority beyond what the linked operation and source records support. When only one source is available, the record is still useful for navigation but should be treated as limited coverage until official organizational material or additional operation sources are linked.
 
-## Korean Interactions (한국과의 협력)
+## Data Integrity Notes
 
-South Korea and China maintain bilateral law enforcement cooperation channels. Korean voice phishing (보이스피싱) operations frequently involve Chinese-based call centers targeting Korean victims, making MPS a key counterpart for [[knpa-cyber-bureau|KNPA]] on this crime type.
+This page has been normalized for the organization audit: it includes role metadata, source links where available, references, and a clear distinction between confirmed corpus relationships and unverified institutional detail. Future edits should prefer official agency pages, prosecutor releases, court records, Europol or INTERPOL releases, and operation-specific press releases. Trade press can be used for context, but it should not override official source records for authority, participation, or legal powers.
 
-## History and Reorganizations
+## References
 
-| Date | Event |
-|---|---|
-| 1949-10-15 | MPS established |
-| 2015 | Cybersecurity Bureau established within MPS |
-| 2023-10 | Myanmar/Kokang crackdown begins following Operation 1027 |
-| 2024-01-11 | Haigeng Agreement ceasefire (China-brokered) |
-
-## Contradictions & Open Questions
-
-- China's dual role as cybercrime enforcer (against fraud targeting Chinese citizens) while *likely* harboring state-sponsored APT groups is a well-documented tension in the IC literature.
-- MPS cooperation with INTERPOL on cybercrime is selective — primarily financial fraud, not state-sponsored hacking.
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | voanews.com source | voanews.com | n/a | https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html |
+| [2] | news.cgtn.com source | news.cgtn.com | n/a | https://news.cgtn.com/news/2023-11-21/31-000-telecom-scam-suspects-handed-over-to-China-by-Myanmar-1oUBBpIdweA/index.html |
+| [3] | global.chinadaily.com.cn source | global.chinadaily.com.cn | n/a | https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html |

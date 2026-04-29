@@ -21,10 +21,11 @@ collection_url: https://www.dea.gov/press-releases/2024/07/15/member-fentanyl-tr
 created: 2026-04-25
 raw_path: raw/press-releases/2024-07-15_dea_member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl.md
 text_status: parsed
-content_hash: sha256:858485c2c71ab8dff0768d046401369fb4945d65420a5e1918c987c19f45473f
-word_count: 5521
-extraction_date: 2026-04-25
+content_hash: sha256:cb448c305916043ad7bdb27f54920c5d41333252d3f6c6e0062042dc020ed740
+word_count: 684
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

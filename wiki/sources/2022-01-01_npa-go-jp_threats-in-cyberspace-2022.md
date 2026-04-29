@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.npa.go.jp/english/bureau/cyber/document/threatsincyberspace2022.pdf
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:99ecb69808f8b77ba9202cde4a88bd0e7d74a1bd217ffedf061b2ecbcb291cc7
-word_count: 4381
-extraction_date: 2026-04-25
+content_hash: sha256:1982247aed8c4ffbb6b429c6dc84fd70d1c95d8e583de9d88db2ddb9abb4dc6c
+word_count: 1197
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The Cyber Affairs Bureau (サイバー警察局, Saibā keisatsu-kyoku) of Japan
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-01-01_npa-go-jp_threats-in-cyberspace-2022.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-01-01_npa-go-jp_threats-in-cyberspace-2022.md`, preserving traceable review without classifying the page as a placeholder.

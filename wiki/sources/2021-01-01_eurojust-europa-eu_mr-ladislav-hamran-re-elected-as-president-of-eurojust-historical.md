@@ -17,11 +17,12 @@ key_findings:
   - "Eurojust (유로저스트) is the European Union Agency for Criminal Justice Cooperation, headquartered in The Hague alongside Europol EC3. Established in 2002, Eurojust provides the **judicial coordination** dimension of cross-border criminal investigations. While Europol EC3 provides operational and analytical support (the police side), Eurojust handles the prosecutorial and judicial side: ensuring that evidence is admissible, mutual legal assistance requests are properly channeled, Joint Investigation."
 collection_url: https://www.eurojust.europa.eu/news/mr-ladislav-hamran-re-elected-president-eurojust
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:af5ca3b8165991c2a58e4daa1b9e642d345c21847a121eb0ae82378337f676c4
-word_count: 236
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:6f182365d9e44d89add078e7b17d1a9a7ad5ee33d0eeae3bbc4223f810e80d38
+word_count: 699
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Eurojust (유로저스트) is the European Union Agency for Criminal Justice Coo
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-01-01_eurojust-europa-eu_mr-ladislav-hamran-re-elected-as-president-of-eurojust-historical.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-01-01_eurojust-europa-eu_mr-ladislav-hamran-re-elected-as-president-of-eurojust-historical.md`, preserving traceable review without classifying the page as a placeholder.

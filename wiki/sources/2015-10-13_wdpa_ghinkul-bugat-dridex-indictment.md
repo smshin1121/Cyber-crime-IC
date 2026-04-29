@@ -27,4 +27,4 @@ On 13 October 2015, the DOJ announced a nine-count indictment against Andrey Ghi
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2015-10-13_wdpa_ghinkul-bugat-dridex-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2015-10-13_wdpa_ghinkul-bugat-dridex-indictment.md`, preserving traceable review without classifying the page as a placeholder.

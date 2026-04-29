@@ -32,4 +32,4 @@ DOJ announced on 17 April 2025 that Behrouz Parsarad was charged for founding an
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2025-04-17_opa_parsarad-nemesis-indictment.md` and corrected to reflect the actual DOJ announcement rather than the page chrome that had been ingested previously.
+The `raw_path` metadata points to the corrected Parsarad/Nemesis indictment digest; this record now reflects the actual DOJ announcement rather than previously ingested page chrome.

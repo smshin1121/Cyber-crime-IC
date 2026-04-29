@@ -4,7 +4,7 @@ collection_source: Eurojust
 collection_url: "https://www.eurojust.europa.eu/term/fraud?page=6"
 final_url: "https://www.eurojust.europa.eu/term/fraud?page=6"
 collection_domain: eurojust.europa.eu
-collection_date: 2026-04-28
+collection_date: 2026-04-29
 publish_date: 2026-03-11
 language: en
 status: materialized
@@ -13,8 +13,8 @@ storage_mode: source-digest
 source_type: government
 source_page: wiki/sources/2026-03-11_eurojust-fraud-term_online-fraud-group-france-germany.md
 word_count: 130
-content_hash: sha256:2384ad796519c5c56327de2210e6d303cea652a7809a4565d779da97a2686c8c
-extraction_date: 2026-04-28
+content_hash: sha256:7a6b464e25e10a62c207ce7576292baeb3a3b4de1b0d42207e0ecf11d1c0d75c
+extraction_date: 2026-04-29
 license_basis: official_public_record
 ---
 ## Source Archive Record
@@ -42,5 +42,5 @@ Eurojust's fraud topic listing includes the France-Germany online fraud operatio
 
 - storage_mode: source-digest
 - source_page: wiki/sources/2026-03-11_eurojust-fraud-term_online-fraud-group-france-germany.md
-- generated_at: 2026-04-28T13:54:21+00:00
+- generated_at: 2026-04-28T16:02:26+00:00
 - full_text: not fetched in this materialization pass

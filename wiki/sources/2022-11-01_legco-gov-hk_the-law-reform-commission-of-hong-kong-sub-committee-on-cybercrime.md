@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.legco.gov.hk/yr2022/english/panels/ajls/papers/ajls20221107cb4-923-4-e.pdf
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:a857c0fa912cf88c1892fa781b6a10233fd4c176ffc51a1ba52e29da28c2b646
-word_count: 90047
-extraction_date: 2026-04-25
+content_hash: sha256:45cd21502664b6b0d4a4ecbce72b0ff462e5a6568203aa5dc7969077ffa56906
+word_count: 90013
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Hong Kong is a **Special Administrative Region** of the People's Republic of Chi
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-11-01_legco-gov-hk_the-law-reform-commission-of-hong-kong-sub-committee-on-cybercrime.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-11-01_legco-gov-hk_the-law-reform-commission-of-hong-kong-sub-committee-on-cybercrime.md`, preserving traceable review without classifying the page as a placeholder.

@@ -22,11 +22,12 @@ duplicate_of: "[[2026-04-17_unodc-org_united-nations-convention-against-cybercri
 duplicate_reason: same_collection_url
 duplicate_key: https://www.unodc.org/unodc/cybercrime/convention/home.html
 duplicate_normalized_at: 2026-04-26
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:6abdb90e6bad72ef4483f1e42489eaee27071ae3f2dc61bf1dce84e68821c4c5
-word_count: 231
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:f0debdb37c0469e45cd0c95609258c2600ee2bf9328bcda66d85965aa1fb447c
+word_count: 374
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -34,4 +35,4 @@ The **United Nations Office on Drugs and Crime (UNODC)** is the UN's lead agency
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-20-01_unodc-org_united-nations-convention-against-cybercrime-home.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-20-01_unodc-org_united-nations-convention-against-cybercrime-home.md`, preserving traceable review without classifying the page as a placeholder.

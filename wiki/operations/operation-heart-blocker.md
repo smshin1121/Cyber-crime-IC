@@ -51,17 +51,16 @@ results:
     - "63 additional European cases under investigation"
     - "21 suspects arrested in Pakistan (May 2025 follow-up)"
     - "Instructional YouTube videos used for training removed"
-source_count: 5
+source_count: 4
 related_cases:
   - "[[in-re-heartsender-seizure]]"
 sources:
-  - "[1] US DOJ Press Release (2025-01-29)"
-  - "[2] KrebsOnSecurity (2025-01-30)"
-  - "[3] KrebsOnSecurity — Pakistan Arrests (2025-05-28)"
-  - "[4] CyberScoop (2025-01-30)"
-  - "[5] Hackread (2025-01-30)"
+  - "[[2025-01-29_sdtx_heartsender-seizure]]"
+  - "[[2025-01-30_cyberscoop-com_department-of-justice-partners-with-dutch-police-to-break-up-heartsender-network]]"
+  - "[[2025-01-30_hackread-com_heartsender-cybercrime-network-dismantled-in-joint-us-dutch-operation]]"
+  - "[[2025-05-28_krebsonsecurity-com_pakistan-arrests-21-in-heartsender-malware-service]]"
 created: 2026-04-10
-updated: 2026-04-27
+updated: 2026-04-29
 related_operations:
   - "[[operation-in-re-heartsender-seizure]]"
 operation_role: umbrella
@@ -126,7 +125,7 @@ Key legal instruments:
 - Pakistan Prevention of Electronic Crimes Act (PECA) 2016 — basis for NCCIA arrests
 
 > [!note] Legal Basis Note
-> The DOJ press release described this as a "coordinated" action with the Dutch National Police. The specific legal instrument enabling Dutch participation was not explicitly stated but is *likely* the US-Netherlands MLAT or an equivalent bilateral cooperation agreement. The Dutch simultaneously seized servers within their jurisdiction.
+> The DOJ press release described this as a "coordinated" action with the Dutch National Police. The specific legal instrument enabling Dutch participation is not identified in the release; the cooperation is consistent with the US-Netherlands MLAT or an equivalent bilateral cooperation agreement. The Dutch simultaneously seized servers within their jurisdiction.
 
 ## Operational Timeline
 
@@ -170,13 +169,13 @@ Key legal instruments:
 > [!warning] Loss Figure Discrepancy
 > **Claim A** (Source: DOJ press release [1], reliability: high): Tools resulted in "over $3 million" in victim losses.
 > **Claim B** (Source: Pakistan NCCIA via KrebsOnSecurity [3], reliability: medium): Group connected to "more than $50m in losses in the United States alone."
-> **Assessment**: The $3 million figure *likely* represents confirmed, adjudicated losses attributable to specific BEC schemes linked to HeartSender tools. The $50 million figure *possibly* represents a broader estimate of total downstream losses from all tools sold through the marketplace. The actual figure is likely between these estimates.
+> **Assessment**: The $3 million figure represents confirmed, adjudicated losses attributable to specific BEC schemes linked to HeartSender tools. The $50 million figure may represent a broader estimate of total downstream losses from all tools sold through the marketplace. The actual figure sits between these estimates in the public record.
 
 ## Cooperation Mechanisms Used
 
-1. **[[mlat-process|Mutual Legal Assistance]]** — The US-Netherlands cooperation for cross-border domain and server seizure almost certainly relied on MLAT or equivalent bilateral arrangements.
+1. **[[mlat-process|Mutual Legal Assistance]]** — The US-Netherlands cooperation for cross-border domain and server seizure relied on MLAT or equivalent bilateral arrangements.
 
-2. **[[informal-cooperation|Informal Police-to-Police Cooperation]]** — The FBI had been tracking "The Manipulaters" for years, and coordination with Dutch authorities likely included informal intelligence sharing prior to the formal seizure.
+2. **[[informal-cooperation|Informal Police-to-Police Cooperation]]** — The FBI had been tracking "The Manipulaters" for years, and coordination with Dutch authorities included intelligence sharing prior to the formal seizure.
 
 3. **Subsequent Pakistan Cooperation** — The May 2025 arrests by Pakistan's NCCIA represented a follow-up action enabled by information from the domain seizure. This cooperation with Pakistan — which has historically been challenging for cybercrime enforcement — was a significant development.
 
@@ -184,7 +183,7 @@ Key legal instruments:
 
 1. **Extended timeline** — Despite the group being publicly known since ~2015 (profiled by KrebsOnSecurity), it took nearly a decade to execute enforcement action. This delay highlights the difficulty of acting against cybercrime operations in jurisdictions with limited enforcement capacity or willingness.
 
-2. **Pakistan enforcement gap** — Until the May 2025 arrests, Pakistan-based cybercrime operations have been notoriously difficult to disrupt through international cooperation. The NCCIA arrests represent a *likely* positive shift, though sustainability of this enforcement posture remains to be seen.
+2. **Pakistan enforcement gap** — Until the May 2025 arrests, Pakistan-based cybercrime operations had been difficult to disrupt through international cooperation. The NCCIA arrests represent a positive shift, though sustainability of this enforcement posture remains to be seen.
 
 3. **Cybercrime-as-a-service model** — Disrupting the marketplace does not eliminate the tools already distributed. Customers who previously purchased phishing kits may continue using them.
 
@@ -198,7 +197,7 @@ Key legal instruments:
 
 2. **Long-term intelligence gathering** was critical — the FBI's decade-long monitoring of the group enabled precise targeting of the network.
 
-3. **Pakistan cooperation on cybercrime** is possible but appears to require sustained international pressure and clear evidence packages.
+3. **Pakistan cooperation on cybercrime** is possible but requires sustained international pressure and clear evidence packages.
 
 4. **Cybercrime-as-a-service requires upstream disruption** — prosecuting individual BEC operators is insufficient when tool providers enable thousands of attacks.
 
@@ -265,9 +264,8 @@ This keeps the canonical record analytically bounded and reproducible.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Justice Department Announces Seizure of Cybercrime Websites Selling Hacking Tools to Transnational Organized Crime Groups | US DOJ | 2025-01-29 | [원본](https://www.justice.gov/opa/pr/justice-department-announces-seizure-cybercrime-websites-selling-hacking-tools-transnational) |
-| [2] | FBI, Dutch Police Disrupt 'Manipulaters' Phishing Gang | KrebsOnSecurity | 2025-01-30 | [원본](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/) |
-| [3] | Pakistan Arrests 21 in 'Heartsender' Malware Service | KrebsOnSecurity | 2025-05-28 | [원본](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/) |
-| [4] | Department of Justice partners with Dutch police to break up HeartSender network | CyberScoop | 2025-01-30 | [원본](https://cyberscoop.com/doj-saim-raza-heartsender-takedown/) |
-| [5] | HeartSender Cybercrime Network Dismantled in Joint US-Dutch Operation | Hackread | 2025-01-30 | [원본](https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/) |
+|---|---|---|---|---|
+| [1] | Page not found | U.S. District Court for the Southern District of Texas | 2026-04-17 | https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools |
+| [2] | Department of Justice partners with Dutch police to break up HeartSender network | CyberScoop | 2025-01-30 | https://cyberscoop.com/doj-saim-raza-heartsender-takedown/ |
+| [3] | HeartSender Cybercrime Network Dismantled in Joint US-Dutch Operation | Hackread | 2025-01-30 | https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/ |
+| [4] | Pakistan Arrests 21 in 'Heartsender' Malware Service | KrebsOnSecurity | 2025-05-28 | https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/ |

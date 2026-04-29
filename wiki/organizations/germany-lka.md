@@ -19,6 +19,7 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[cyberbunker-takedown]]"
   - "[[vpnlab-takedown]]"
+  - "[[proxy-service-takedown-2026-03]]"
 org_type: national-agency
 parent_org: "Interior Ministry of each of Germany's 16 federal states (Länder)"
 source_count: 3

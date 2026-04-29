@@ -32,8 +32,6 @@ edges:
     legal_basis: unknown
     direction: undirected
 missing_fields:
-  - legal_basis
-  - mechanisms_used
 timeframe:
   announced: 2025-05-23
   start: 2025-05-19
@@ -68,8 +66,14 @@ participating_agencies:
   - "[[us-dcis]]"
   - "[[us-doj]]"
 legal_basis:
-
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic cybercrime seizure and asset-freeze authorities"
 mechanisms_used:
+  - "[[europol-jit]]"
+  - "[[mlat-process]]"
+  - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
 
 results:
   arrests: 0
@@ -103,7 +107,7 @@ sources:
   - "[[2024-05-30_krebsonsecurity-com_operation-endgame-hits-malware-delivery-platforms]]"
   - "[[2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame Phase 2** was the second major phase of the international campaign against ransomware-enabling infrastructure, conducted between 19 and 22 May 2025. The operation achieved an unprecedented scale of infrastructure disruption: **300 servers taken down**, **650 domains neutralized**, and **EUR 3.5 million in cryptocurrency seized** (bringing total Operation Endgame seizures to over EUR 21.2 million)."
@@ -208,14 +212,14 @@ Canada, Denmark, France, Germany, Netherlands, United Kingdom, United States
 
 ## Lessons Learned
 
-1. **Infrastructure over individuals:** Even without immediate arrests, taking down 300 servers and 650 domains *almost certainly* caused significant operational disruption to the ransomware ecosystem.
+1. **Infrastructure over individuals:** Even without immediate arrests, taking down 300 servers and 650 domains caused significant operational disruption to the ransomware ecosystem.
 2. **Cumulative financial impact:** The EUR 21.2M+ cumulative cryptocurrency seizures demonstrate that sustained campaigns compound financial disruption over time.
 3. **Warrant-first approach:** Issuing 20 international arrest warrants and EU Most Wanted listings creates a legal framework for future arrests when suspects travel to cooperative jurisdictions.
-4. **Sustained campaigns:** The 12-month gap between Phase 1 and Phase 2 suggests an ongoing operational model rather than one-off actions.
+4. **Sustained campaigns:** The 12-month gap between Phase 1 and Phase 2 demonstrates an ongoing operational model rather than one-off actions.
 
 ## Follow-Up Actions
 
-The issuance of 20 international arrest warrants and 18 EU Most Wanted listings *almost certainly* indicates that further phases are planned, likely targeting the identified individuals when opportunities for arrest arise.
+The issuance of 20 international arrest warrants and 18 EU Most Wanted listings indicates sustained follow-on pressure, targeting the identified individuals when opportunities for arrest arise.
 
 ## Korean Involvement (한국의 참여)
 

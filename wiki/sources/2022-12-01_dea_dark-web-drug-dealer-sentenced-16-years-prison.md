@@ -18,10 +18,11 @@ collection_url: https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-deal
 created: 2026-04-25
 raw_path: raw/press-releases/2022-12-01_dea_dark-web-drug-dealer-sentenced-16-years-prison.md
 text_status: parsed
-content_hash: sha256:264f0bf18ab129030e41d6a35025a2a77e4126dc27406c55e5da99863050c928
-word_count: 5436
-extraction_date: 2026-04-25
+content_hash: sha256:8af63f6bf50ae21726fa502aaeec7625d7799c59b1e4d8b3afebeeab75b39a36
+word_count: 580
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

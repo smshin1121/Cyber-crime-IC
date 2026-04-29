@@ -18,9 +18,9 @@ key_findings:
 collection_url: "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185"
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:c9c0021f43a5c9a9308752816c2c9854ef867e8082d18bf960660b3d6bdd8a0a
-word_count: 4817
-extraction_date: 2026-04-26
+content_hash: sha256:25dea898a58af8a732174cb6639dfd9f592b291ba888ed488c0597dc703c974f
+word_count: 1019
+extraction_date: 2026-04-29
 last_fetcher: jina
 storage_mode: fulltext
 license_basis: treaty_status_public_record
@@ -37,4 +37,4 @@ Poland is a European Union member and **[[budapest-convention|Budapest Conventio
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-01_coe-int_chart-of-signatures-and-ratifications-of-treaty-185.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-01_coe-int_chart-of-signatures-and-ratifications-of-treaty-185.md`, preserving traceable review without classifying the page as a placeholder.

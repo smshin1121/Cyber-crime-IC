@@ -26,6 +26,10 @@ stored_word_count: 80
 extraction_date: 2026-04-25
 last_fetcher: urllib
 copyright_policy: summary-only
+duplicate_of: "[[2024-04-15_bitdefender-com_zambia-arrests-77-people-in-swoop-on-scam-call-centre]]"
+duplicate_reason: same_content_hash
+duplicate_key: "sha256:a836c2f89a1eb2cbd352c4eb23b2c189cd018057557137c2e7283c434dffedbe"
+duplicate_normalized_at: 2026-04-29
 ---
 ## Summary
 

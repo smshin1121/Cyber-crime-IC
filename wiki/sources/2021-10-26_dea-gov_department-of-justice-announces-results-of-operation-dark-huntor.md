@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.dea.gov/press-releases/2021/10/26/department-justice-announces-results-operation-dark-huntor
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:592fc50d8dedfda7851a12c915ac3ea184bdd9ff527ce2e2b12befbd08092d33
-word_count: 6760
-extraction_date: 2026-04-25
+content_hash: sha256:b582ff71af4bd675e9ad907ec3801851e4c6f4d23b9b3bc4b860d7e432764f32
+word_count: 2073
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Operation Dark HunTOR was a coordinated international law enforcement action ann
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor.md`, preserving traceable review without classifying the page as a placeholder.

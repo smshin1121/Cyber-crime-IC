@@ -17,11 +17,12 @@ key_findings:
   - "Belgian and Dutch authorities, supported by Eurojust and Europol EC3, disrupted a cross-border phone-phishing and bank-helpdesk fraud group in December 2024. The suspects mainly targeted Belgian victims while operating from Rotterdam and other Dutch locations, and the action combined synchronized arrests, searches, and judicial coordination."
 collection_url: https://www.eurojust.europa.eu/news/action-against-phone-phishing-gang-belgium-and-netherlands-eight-arrests
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:2fc5d3dc90eef1291d30c0443d3076a655bd097dadf4faf5344350f3befb2a1b
-word_count: 183
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:f5511edd0c23adb89a74217a6b0007f8ebaaa04a5e5b7bb79768442d0dc5c9d1
+word_count: 709
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

@@ -18,11 +18,12 @@ key_findings:
   - "Eurojust's announcement confirming its JIT (Joint Investigation Team) facilitation role."
   - "Judicial coordination between Netherlands, Germany, and other EU participants."
 created: 2026-04-14
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:ce83d192edcb4d5984b8dedbe2baf9fa47c56c5d9a14ece253d9cf0614b99405
-word_count: 119
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:01e31a3e8cfccd6e52283b1f6707637531d879ba12d827beba75cb6e78b4f093
+word_count: 675
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Summary
 

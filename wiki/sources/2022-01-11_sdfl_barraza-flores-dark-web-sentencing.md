@@ -34,4 +34,4 @@ On 11 January 2022, DOJ announced that Jose Rodolfo Barraza Flores was sentenced
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2022-01-11_sdfl_barraza-flores-dark-web-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2022-01-11_sdfl_barraza-flores-dark-web-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

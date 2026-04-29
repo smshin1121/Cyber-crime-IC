@@ -22,6 +22,9 @@ storage_mode: source-digest
 content_hash: sha256:bee48e8cd43f949c3c6db2de0a1d71badcf0e9d41837974a4cc093500183dc89
 word_count: 207
 extraction_date: 2026-04-28
+harvest_status: fulltext_not_available
+harvest_note: "Repeated live fulltext harvesting failed or is not suitable; source digest retained."
+last_fetch_attempt: 2026-04-29
 ---
 ## Source Summary
 
@@ -29,4 +32,4 @@ Operation Bayonet was a multinational law enforcement operation that dismantled 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_unodc-org_true-crime-story-alphabay.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_unodc-org_true-crime-story-alphabay.md`, preserving traceable review without classifying the page as a placeholder.

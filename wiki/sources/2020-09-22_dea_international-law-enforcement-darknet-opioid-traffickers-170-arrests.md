@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2020/09/22/international-law-
 created: 2026-04-25
 raw_path: raw/press-releases/2020-09-22_dea_international-law-enforcement-darknet-opioid-traffickers-170-arrests.md
 text_status: parsed
-content_hash: sha256:c7a708d9da571a43a637e74eab876762c3425016e6627696dfc0b3c2de3a2f60
-word_count: 7447
-extraction_date: 2026-04-25
+content_hash: sha256:e81e06acd70017524048c0760417696f77b802479b01776c280c2d6bf3b24b7d
+word_count: 2418
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

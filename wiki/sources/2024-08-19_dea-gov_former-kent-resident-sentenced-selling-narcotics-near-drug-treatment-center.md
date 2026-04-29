@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2024/08/19/former-kent-reside
 created: 2026-04-25
 raw_path: raw/press-releases/2024-08-19_dea-gov_former-kent-resident-sentenced-selling-narcotics-near-drug-treatment-center.md
 text_status: parsed
-content_hash: sha256:0dc132b0e4936fabd52d77f148e7efbc93ac5c675b9ffaefdf0c83b265a2aae2
-word_count: 5190
-extraction_date: 2026-04-25
+content_hash: sha256:168e4dab28dc0c5fc45a382f10653230fd7b4b01c11cd85ee3cda00bec4d8bbd
+word_count: 371
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

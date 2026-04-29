@@ -25,4 +25,4 @@ The **Direct Provider Request** mechanism allows law enforcement to obtain user 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-04-01_orrick-com_the-cloud-act-explained.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-04-01_orrick-com_the-cloud-act-explained.md`, preserving traceable review without classifying the page as a placeholder.

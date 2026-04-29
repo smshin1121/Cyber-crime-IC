@@ -18,10 +18,11 @@ collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-crimi
 created: 2026-04-25
 raw_path: raw/press-releases/2020-07-10_fda_darknet-vendor-pharmacist-firebomb-plea.md
 text_status: parsed
-content_hash: sha256:473a15faf7740a0da9f6326fa34a6ac3fc34699ccce9517d1eb5ad6554c99221
-word_count: 788
-extraction_date: 2026-04-25
+content_hash: sha256:cb301c99a740eeb3fe28b14377ae41e8537e11cd7cbf9bbd2d9b389db741184a
+word_count: 134
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

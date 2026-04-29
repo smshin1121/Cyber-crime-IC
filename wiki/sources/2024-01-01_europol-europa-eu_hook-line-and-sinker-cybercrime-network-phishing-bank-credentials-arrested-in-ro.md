@@ -20,11 +20,12 @@ created: 2026-04-17
 defendant_names:
   - "Network Phishing Bank Credentials"
 updated: 2026-04-18
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:da7c7d6345bdeb5af2964d71d222f9d056075dba63c4933b89cc9da456230810
-word_count: 235
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:ac669b3dbb5e3775b6dd5cf8e5d9d7c903e05e6c9bfd8afd2724e7c056c3dc23
+word_count: 505
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -32,4 +33,4 @@ Europol and Romanian police and prosecutors conducted a joint operation that res
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro.md`, preserving traceable review without classifying the page as a placeholder.

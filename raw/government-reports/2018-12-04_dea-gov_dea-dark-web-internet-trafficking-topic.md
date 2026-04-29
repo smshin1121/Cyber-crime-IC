@@ -15,54 +15,13 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:679d6ee28b465ff688ba31efe07b419adf27f834a08e30c839e17d679b427fa1
-word_count: 4934
-extraction_date: 2026-04-25
+content_hash: sha256:7e3b06b0d5ab3e06b43b3e510bf3225a5b621ef24c6a0301a87f1072d04f042b
+word_count: 689
+extraction_date: 2026-04-29
 source_page: wiki/sources/2018-12-04_dea-gov_dea-dark-web-internet-trafficking-topic.md
+parser: jina_markdown
 ---
 DEA topic resource page that aggregates dark-web drug trafficking enforcement actions including the Allen Lint Dream Market vendor case. Reflects ongoing DEA Seattle and HSI partnership against darknet narcotics distribution.
-
-## Extracted Text
-
-Title: Dark Web- Internet Trafficking | DEA.gov
-
-URL Source: https://www.dea.gov/taxonomy/term/771
-
-Markdown Content:
-
-# Dark Web- Internet Trafficking | DEA.gov
-
-[Skip to main content](https://www.dea.gov/taxonomy/term/771#main-content)
-
-![Image 2: U.S. flag](https://www.dea.gov/themes/custom/ohana/dist/img/us_flag_small.png)
-
-Here’s how you know
-
-![Image 3: Dot gov](https://www.dea.gov/themes/custom/ohana/dist/img/icon-dot-gov.svg)
-
-**Official websites use .gov**
-
-A **.gov** website belongs to an official government organization in the United States.
-
-![Image 4: Https](https://www.dea.gov/themes/custom/ohana/dist/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS**
-
-A **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-# [United States Drug Enforcement Administration](https://www.dea.gov/ "Home")
-
-* [Get Updates](https://public.govdelivery.com/accounts/USDOJDEA/subscriber/new?qsp=CODE_RED)
-
-* [Scam Alert](https://www.dea.gov/scam-alert)
-
-* [Full Menu](https://www.dea.gov/taxonomy/term/771#fullmenu)
-
-* [![Image 5: en](https://cdn.gtranslate.net/flags/svg/en-us.svg) English](https://www.dea.gov/taxonomy/term/771#) [![Image 6: en](https://www.dea.gov/taxonomy/term/771) English](https://www.dea.gov/taxonomy/term/771# "English")[![Image 7: ar](https://www.dea.gov/taxonomy/term/771) العربية](https://www.dea.gov/taxonomy/term/771# "العربية")[![Image 8: bg](https://www.dea.gov/taxonomy/term/771) Български](https://www.dea.gov/taxonomy/term/771# "Български")[![Image 9: zh-CN](https://www.dea.gov/taxonomy/term/771) 简体中文](https://www.dea.gov/taxonomy/term/771# "简体中文")[![Image 10: zh-TW](https://www.dea.gov/taxonomy/term/771) 繁體中文](https://www.dea.gov/taxonomy/term/771# "繁體中文")[![Image 11: hr](https://www.dea.gov/taxonomy/term/771) Hrvatski](https://www.dea.gov/taxonomy/term/771# "Hrvatski")[![Image 12: cs](https://www.dea.gov/taxonomy/term/771) Čeština‎](https://www.dea.gov/taxonomy/term/771# "Čeština‎")[![Image 13: da](https://www.dea.gov/taxonomy/term/771) Dansk](https://www.dea.gov/taxonomy/term/771# "Dansk")[![Image 14: nl](https://www.dea.gov/taxonomy/term/771) Nederlands](https://www.dea.gov/taxonomy/term/771# "Nederlands")[![Image 15: fi](https://www.dea.gov/taxonomy/term/771) Suomi](https://www.dea.gov/taxonomy/term/771# "Suomi")[![Image 16: fr](https://www.dea.gov/taxonomy/term/771) Français](https://www.dea.gov/taxonomy/term/771# "Français")[![Image 17: de](https://www.dea.gov/taxonomy/term/771) Deutsch](https://www.dea.gov/taxonomy/term/771# "Deutsch")[![Image 18: el](https://www.dea.gov/taxonomy/term/771) Ελληνικά](https://www.dea.gov/taxonomy/term/771# "Ελληνικά")[![Image 19: hi](https://www.dea.gov/taxonomy/term/771) हिन्दी](https://www.dea.gov/taxonomy/term/771# "हिन्दी")[![Image 20: it](https://www.dea.gov/taxonomy/term/771) Italiano](https://www.dea.gov/taxonomy/term/771# "Italiano")[![Image 21: ja](https://www.dea.gov/taxonomy/term/771) 日本語](https://www.dea.gov/taxonomy/term/771# "日本語")[![Image 22: ko](https://www.dea.gov/taxonomy/term/771) 한국어](https://www.dea.gov/taxonomy/term/771# "한국어")[![Image 23: no](https://www.dea.gov/taxonomy/term/771) Norsk bokmål](https://www.dea.gov/taxonomy/term/771# "Norsk bokmål")[![Image 24: pl](https://www.dea.gov/taxonomy/term/771) Polski](https://www.dea.gov/taxonomy/term/771# "Polski")[![Image 25: pt](https://www.dea.gov/taxonomy/term/771) Português](https://www.dea.gov/taxonomy/term/771# "Português")[![Image 26: ro](https://www.dea.gov/taxonomy/term/771) Română](https://www.dea.gov/taxonomy/term/771# "Română")[![Image 27: ru](https://www.dea.gov/taxonomy/term/771) Русский](https://www.dea.gov/taxonomy/term/771# "Русский")[![Image 28: es](https://www.dea.gov/taxonomy/term/771) Español](https://www.dea.gov/taxonomy/term/771# "Español")[![Image 29: sv](https://www.dea.gov/taxonomy/term/771) Svenska](https://www.dea.gov/taxonomy/term/771# "Svenska")[![Image 30: ca](https://www.dea.gov/taxonomy/term/771) Català](https://www.dea.gov/taxonomy/term/771# "Català")[![Image 31: tl](https://www.dea.gov/taxonomy/term/771) Filipino](https://www.dea.gov/taxonomy/term/771# "Filipino")[![Image 32: iw](https://www.dea.gov/taxonomy/term/771) עִבְרִית](https://www.dea.gov/taxonomy/term/771# "עִבְרִית")[![Image 33: id](https://www.dea.gov/taxonomy/term/771) Bahasa Indonesia](https://www.dea.gov/taxonomy/term/771# "Bahasa Indonesia")[![Image 34: lv](https://www.dea.gov/taxonomy/term/771) Latviešu valoda](https://www.dea.gov/taxonomy/term/771# "Latviešu valoda")[![Image 35: lt](https://www.dea.gov/taxonomy/term/771) Lietuvių kalba](https://www.dea.gov/taxonomy/term/771# "Lietuvių kalba")[![Image 36: sr](https://www.dea.gov/taxonomy/term/771) Српски језик](https://www.dea.gov/taxonomy/term/771# "Српски језик")[![Image 37: sk](https://www.dea.gov/taxonomy/term/771) Slovenčina](https://www.dea.gov/taxonomy/term/771# "Slovenčina")[![Image 38: sl](https://www.dea.gov/taxonomy/term/771) Slovenščina](https://www.dea.gov/taxonomy/term/771# "Slovenščina")[![Image 39: uk](https://www.dea.gov/taxonomy/term/771) Українська](https://www.dea.gov/taxonomy/term/771# "Українська")[![Image 40: vi](https://www.dea.gov/taxonomy/term/771) Tiếng Việt](https://www.dea.gov/taxonomy/term/771# "Tiếng Việt")[![Image 41: sq](https://www.dea.gov/taxonomy/term/771) Shqip](https://www.dea.gov/taxonomy/term/771# "Shqip")[![Image 42: et](https://www.dea.gov/taxonomy/term/771) Eesti](https://www.dea.gov/taxonomy/term/771# "Eesti")[![Image 43: gl](https://www.dea.gov/taxonomy/term/771) Galego](https://www.dea.gov/taxonomy/term/771# "Galego")[![Image 44: hu](https://www.dea.gov/taxonomy/term/771) Magyar](https://www.dea.gov/taxonomy/term/771# "Magyar")[![Image 45: mt](https://www.dea.gov/taxonomy/term/771) Maltese](https://www.dea.gov/taxonomy/term/771# "Maltese")[![Image 46: th](https://www.dea.gov/taxonomy/term/771) ไทย](https://www.dea.gov/taxonomy/term/771# "ไทย")[![Image 47: tr](https://www.dea.gov/taxonomy/term/771) Türkçe](https://www.dea.gov/taxonomy/term/771# "Türkçe")[![Image 48: fa](https://www.dea.gov/taxonomy/term/771) فارسی](https://www.dea.gov/taxonomy/term/771# "فارسی")[![Image 49: af](https://www.dea.gov/taxonomy/term/771) Afrikaans](https://www.dea.gov/taxonomy/term/771# "Afrikaans")[![Image 50: ms](https://www.dea.gov/taxonomy/term/771) Bahasa Melayu](https://www.dea.gov/taxonomy/term/771# "Bahasa Melayu")[![Image 51: sw](https://www.dea.gov/taxonomy/term/771) Kiswahili](https://www.dea.gov/taxonomy/term/771# "Kiswahili")[![Image 52: ga](https://www.dea.gov/taxonomy/term/771) Gaeilge](https://www.dea.gov/taxonomy/term/771# "Gaeilge")[![Image 53: cy](https://www.dea.gov/taxonomy/term/771) Cymraeg](https://www.dea.gov/taxonomy/term/771# "Cymraeg")[![Image 54: be](https://www.dea.gov/taxonomy/term/771) Беларуская мова](https://www.dea.gov/taxonomy/term/771# "Беларуская мова")[![Image 55: is](https://www.dea.gov/taxonomy/term/771) Íslenska](https://www.dea.gov/taxonomy/term/771# "Íslenska")[![Image 56: mk](https://www.dea.gov/taxonomy/term/771) Македонски јазик](https://www.dea.gov/taxonomy/term/771# "Македонски јазик")[![Image 57: yi](https://www.dea.gov/taxonomy/term/771) יידיש](https://www.dea.gov/taxonomy/term/771# "יידיש")[![Image 58: hy](https://www.dea.gov/taxonomy/term/771) Հայերեն](https://www.dea.gov/taxonomy/term/771# "Հայերեն")[![Image 59: az](https://www.dea.gov/taxonomy/term/771) Azərbaycan dili](https://www.dea.gov/taxonomy/term/771# "Azərbaycan dili")[![Image 60: eu](https://www.dea.gov/taxonomy/term/771) Euskara](https://www.dea.gov/taxonomy/term/771# "Euskara")[![Image 61: ka](https://www.dea.gov/taxonomy/term/771) ქართული](https://www.dea.gov/taxonomy/term/771# "ქართული")[![Image 62: ht](https://www.dea.gov/taxonomy/term/771) Kreyol ayisyen](https://www.dea.gov/taxonomy/term/771# "Kreyol ayisyen")[![Image 63: ur](https://www.dea.gov/taxonomy/term/771) اردو](https://www.dea.gov/taxonomy/term/771# "اردو")[![Image 64: bn](https://www.dea.gov/taxonomy/term/771) বাংলা](https://www.dea.gov/taxonomy/term/771# "বাংলা")[![Image 65: bs](https://www.dea.gov/taxonomy/term/771) Bosanski](https://www.dea.gov/taxonomy/term/771# "Bosanski")[![Image 66: ceb](https://www.dea.gov/taxonomy/term/771) Cebuano](https://www.dea.gov/taxonomy/term/771# "Cebuano")[![Image 67: eo](https://www.dea.gov/taxonomy/term/771) Esperanto](https://www.dea.gov/taxonomy/term/771# "Esperanto")[![Image 68: gu](https://www.dea.gov/taxonomy/term/771) ગુજરાતી](https://www.dea.gov/taxonomy/term/771# "ગુજરાતી")[![Image 69: ha](https://www.dea.gov/taxonomy/term/771) Harshen Hausa](https://www.dea.gov/taxonomy/term/771# "Harshen Hausa")[![Image 70: hmn](https://www.dea.gov/taxonomy/term/771) Hmong](https://www.dea.gov/taxonomy/term/771# "Hmong")[![Image 71: ig](https://www.dea.gov/taxonomy/term/771) Igbo](https://www.dea.gov/taxonomy/term/771# "Igbo")[![Image 72: jw](https://www.dea.gov/taxonomy/term/771) Basa Jawa](https://www.dea.gov/taxonomy/term/771# "Basa Jawa")[![Image 73: kn](https://www.dea.gov/taxonomy/term/771) ಕನ್ನಡ](https://www.dea.gov/taxonomy/term/771# "ಕನ್ನಡ")[![Image 74: km](https://www.dea.gov/taxonomy/term/771) ភាសាខ្មែរ](https://www.dea.gov/taxonomy/term/771# "ភាសាខ្មែរ")[![Image 75: lo](https://www.dea.gov/taxonomy/term/771) ພາສາລາວ](https://www.dea.gov/taxonomy/term/771# "ພາສາລາວ")[![Image 76: la](https://www.dea.gov/taxonomy/term/771) Latin](https://www.dea.gov/taxonomy/term/771# "Latin")[![Image 77: mi](https://www.dea.gov/taxonomy/term/771) Te Reo Māori](https://www.dea.gov/taxonomy/term/771# "Te Reo Māori")[![Image 78: mr](https://www.dea.gov/taxonomy/term/771) मराठी](https://www.dea.gov/taxonomy/term/771# "मराठी")[![Image 79: mn](https://www.dea.gov/taxonomy/term/771) Монгол](https://www.dea.gov/taxonomy/term/771# "Монгол")[![Image 80: ne](https://www.dea.gov/taxonomy/term/771) नेपाली](https://www.dea.gov/taxonomy/term/771# "नेपाली")[![Image 81: pa](https://www.dea.gov/taxonomy/term/771) ਪੰਜਾਬੀ](https://www.dea.gov/taxonomy/term/771# "ਪੰਜਾਬੀ")[![Image 82: so](https://www.dea.gov/taxonomy/term/771) Afsoomaali](https://www.dea.gov/taxonomy/term/771# "Afsoomaali")[![Image 83: ta](https://www.dea.gov/taxonomy/term/771) தமிழ்](https://www.dea.gov/taxonomy/term/771# "தமிழ்")[![Image 84: te](https://www.dea.gov/taxonomy/term/771) తెలుగు](https://www.dea.gov/taxonomy/term/771# "తెలుగు")[![Image 85: yo](https://www.dea.gov/taxonomy/term/771) Yorùbá](https://www.dea.gov/taxonomy/term/771# "Yorùbá")[![Image 86: zu](https://www.dea.gov/taxonomy/term/771) Zulu](https://www.dea.gov/taxonomy/term/771# "Zulu")[![Image 87: my](https://www.dea.gov/taxonomy/term/771) ဗမာစာ](https://www.dea.gov/taxonomy/term/771# "ဗမာစာ")[![Image 88: ny](https://www.dea.gov/taxonomy/term/771) Chichewa](https://www.dea.gov/taxonomy/term/771# "Chichewa")[![Image 89: kk](https://www.dea.gov/taxonomy/term/771) Қазақ тілі](https://www.dea.gov/taxonomy/term/771# "Қазақ тілі")[![Image 90: mg](https://www.dea.gov/taxonomy/term/771) Malagasy](https://www.dea.gov/taxonomy/term/771# "Malagasy")[![Image 91: ml](https://www.dea.gov/taxonomy/term/771) മലയാളം](https://www.dea.gov/taxonomy/term/771# "മലയാളം")[![Image 92: si](https://www.dea.gov/taxonomy/term/771) සිංහල](https://www.dea.gov/taxonomy/term/771# "සිංහල")[![Image 93: st](https://www.dea.gov/taxonomy/term/771) Sesotho](https://www.dea.gov/taxonomy/term/771# "Sesotho")[![Image 94: su](https://www.dea.gov/taxonomy/term/771) Basa Sunda](https://www.dea.gov/taxonomy/term/771# "Basa Sunda")[![Image 95: tg](https://www.dea.gov/taxonomy/term/771) Тоҷикӣ](https://www.dea.gov/taxonomy/term/771# "Тоҷикӣ")[![Image 96: uz](https://www.dea.gov/taxonomy/term/771) O‘zbekcha](https://www.dea.gov/taxonomy/term/771# "O‘zbekcha")[![Image 97: am](https://www.dea.gov/taxonomy/term/771) አማርኛ](https://www.dea.gov/taxonomy/term/771# "አማርኛ")[![Image 98: co](https://www.dea.gov/taxonomy/term/771) Corsu](https://www.dea.gov/taxonomy/term/771# "Corsu")[![Image 99: haw](https://www.dea.gov/taxonomy/term/771) Ōlelo Hawaiʻi](https://www.dea.gov/taxonomy/term/771# "Ōlelo Hawaiʻi")[![Image 100: ku](https://www.dea.gov/taxonomy/term/771) كوردی‎](https://www.dea.gov/taxonomy/term/771# "كوردی‎")[![Image 101: ky](https://www.dea.gov/taxonomy/term/771) Кыргызча](https://www.dea.gov/taxonomy/term/771# "Кыргызча")[![Image 102: lb](https://www.dea.gov/taxonomy/term/771) Lëtzebuergesch](https://www.dea.gov/taxonomy/term/771# "Lëtzebuergesch")[![Image 103: ps](https://www.dea.gov/taxonomy/term/771) پښتو](https://www.dea.gov/taxonomy/term/771# "پښتو")[![Image 104: sm](https://www.dea.gov/taxonomy/term/771) Samoan](https://www.dea.gov/taxonomy/term/771# "Samoan")[![Image 105: gd](https://www.dea.gov/taxonomy/term/771) Gàidhlig](https://www.dea.gov/taxonomy/term/771# "Gàidhlig")[![Image 106: sn](https://www.dea.gov/taxonomy/term/771) Shona](https://www.dea.gov/taxonomy/term/771# "Shona")[![Image 107: sd](https://www.dea.gov/taxonomy/term/771) سنڌي](https://www.dea.gov/taxonomy/term/771# "سنڌي")[![Image 108: fy](https://www.dea.gov/taxonomy/term/771) Frysk](https://www.dea.gov/taxonomy/term/771# "Frysk")[![Image 109: xh](https://www.dea.gov/taxonomy/term/771) isiXhosa](https://www.dea.gov/taxonomy/term/771# "isiXhosa")
-
-* [English](https://www.dea.gov/taxonomy/term/771)
-
-* [Español](https://www.dea.gov/es/taxonomy/term/771)
 
 ## Main Menu
 
@@ -496,9 +455,112 @@ DEA.gov is an official site of the [U.S. Department of Justice](https://www.just
 
 ![Image 114: dot image pixel](https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2025%20Apr%202026%2014%3A17%3A03%20GMT&n=0&b=Dark%20Web-%20Internet%20Trafficking%20%7C%20DEA.gov&.yp=10207861&f=https%3A%2F%2Fwww.dea.gov%2Ftaxonomy%2Fterm%2F771&enc=UTF-8&yv=1.16.6&tagmgr=gtm)
 
+## Extracted Text
+
+# Dark Web- Internet Trafficking
+
+# Dark Web- Internet Trafficking Content
+
+**29** Results - Showing **1 to 10**
+
+PRESS RELEASE
+
+### Darknet Vendor Sentenced for Conspiracy to Sell Counterfeit Drugs
+
+LONDON, Ky. – A Lebanese and Italian national, Alessandro Sabbagh, 27, was sentenced on Friday, April 11, 2025 by U.S. District Judge Robert Wier to 78 months in prison, for conspiracy to sell counterfeit drugs and knowingly causing the sale of a counterfeit drug. According to his plea agreement, between...
+
+### Dark Web Drug Vendor and Clandestine Lab Manufacturer Sentenced to Prison for Trafficking in Meth and Fentanyl
+
+MIAMI – On May 17, an Orange County, California, resident, Tenzin Orgil, 24, was sentenced to 168 months in federal prison for participating in a drug trafficking enterprise that included the sale of methamphetamine and fentanyl on the dark web, as well as the manufacture of ecstasy (also known as...
+
+### Darknet Vendor Who Sold Millions of Fake Xanax Pills Sentenced
+
+ST. LOUIS – U.S. District Judge Matthew T. Schelp on Wednesday sentenced a man who sold millions of counterfeit Xanax pills on the Darknet to two years in prison, fined him $10,000 and ordered him to forfeit nearly $1 million. Brandon Adams, 27, will also be on supervised release for...
+
+### Seattle Man Sentenced for Buying 630,000 Counterfeit Pills on the Dark Web
+
+ST. LOUIS – U.S. District Court Judge Stephen R. Clark on Thursday sentenced a man who bought 630,000 counterfeit Xanax and other pills on the dark web to five years in prison and ordered him to pay a $10,000 fine. Maximillian Gregory Verbowski will also be on supervised release for...
+
+### Dark Web Dealer of Meth, Heroin Heads to Prison
+
+KANSAS CITY, Mo. – A Kansas City, Mo., man was sentenced in federal court today for selling methamphetamine and heroin on the dark web. John M. LeCoque, 35, was sentenced by U.S. District Judge Greg Kays to 10 years in federal prison without parole. The court also ordered LeCoque to...
+
+### Slovakian Man Accused of Running Darknet Market Selling Drugs and Personal Information
+
+ST. LOUIS – A Slovakian man was indicted this week on charges that accuse him of running a darknet market that sold drugs and stolen personal information. Investigators have shut down the market. Alan Bill, 30, of Bratislava, was charged by complaint in U.S. District Court in St. Louis Dec...
+
+### Seattle Man Admits Buying 630,000 Counterfeit Pills on the Dark Web
+
+ST. LOUIS – A man from Seattle, Wash., on Thursday admitted buying 630,000 counterfeit Xanax and other pills on the dark web. Maximillian Gregory Verbowski, 28, pleaded guilty to one count each of conspiracy to sell counterfeit drugs, selling counterfeit drugs and using a fictitious name on mail to commit...
+
+### DEA Operation Last Mile Tracks Down Sinaloa and Jalisco Cartel Associates Operating within the United States
+
+El Paso, Texas – On Friday, the U.S. Drug Enforcement Administration announced the results of a year-long national operation, “Operation Last Mile,” targeting operatives, associates, and distributors affiliated with the Sinaloa and Jalisco Cartels responsible for the last mile of fentanyl and methamphetamine distribution on our streets and on social...
+
+### Indictment Charges Alleged Darknet Marketplace Fentanyl Dealer
+
+WASHINGTON – An indictment, unsealed today, charges a Coraopolis, Pennsylvania man with running a counterfeit drug conspiracy that sold fentanyl and methamphetamine disguised as Oxycontin, Xanax and Adderall on a Darknet Marketplace. Jacob Blair, 25, is also charged in a parallel indictment in the Western District of Pennsylvania with possession...
+
+### Dark Web Drug Dealer Sentenced to 16 Years in Prison
+
+MIAMI — Anton Peck, 29, of Boca Raton, Fla., has been sentenced by U.S. District Judge Donald M. Middlebrooks to 16 years in prison for conspiring to possess with intent to distribute controlled substances. Peck previously pled guilty to one count of conspiring to possess with intent to distribute fentanyl...
+
+#### Pagination
+
+Current page 1
+
+Page 2
+
+Page 3
+
+Next
+
+Last page»
+
+Domestic Divisions
+
+Foreign Offices
+
+Drug Prevention
+
+Diversion Control Division
+
+Forensic Sciences
+
+Employee Assistance Program
+
+Publications
+
+VWAP
+
+Doing Business with the DEA
+
+Overview
+
+Current Vendors
+
+Prospective Vendors
+
+Security Clauses
+
+Security Forms
+
+Small Business Program
+
+Vendor Engagement Request
+
+Policies
+
+Accessibility & Policy
+
+Legal Policies & Disclaimers
+
+No FEAR Act
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:17:30+00:00
+- normalized_at: 2026-04-28T16:03:44+00:00
 - final_url: https://www.dea.gov/taxonomy/term/771
+- cleanup: jina navigation trim

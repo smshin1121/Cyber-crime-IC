@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.europol.europa.eu/cms/sites/default/files/documents/carbanakcobalt.pdf
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:c932172493a36af71e29982953a30d7df8f95d23939a21603581664cc3492e59
-word_count: 167
-extraction_date: 2026-04-25
+content_hash: sha256:362073915eb0ccc8be317f8cff0b2eb5950e357076e51b481ee3ed693197f0e2
+word_count: 145
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

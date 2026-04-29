@@ -12,24 +12,17 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:c932172493a36af71e29982953a30d7df8f95d23939a21603581664cc3492e59
-word_count: 167
-extraction_date: 2026-04-25
+content_hash: sha256:362073915eb0ccc8be317f8cff0b2eb5950e357076e51b481ee3ed693197f0e2
+word_count: 145
+extraction_date: 2026-04-29
 source_page: wiki/sources/2026-04-17_europol-europa-eu_carbanak-cobalt-infographic.md
+parser: jina_markdown
 ---
 ## Summary
 
 Spanish authorities, supported by Europol and other international partners, arrested the alleged mastermind behind the Carbanak/Cobalt bank-fraud campaigns in Spain. The arrest narrative is official; the technical understanding of the campaign still depends heavily on Kaspersky's earlier reporting.
 
 ## Extracted Text
-
-Title: CarbanakCobalt
-
-URL Source: https://www.europol.europa.eu/cms/sites/default/files/documents/carbanakcobalt.pdf
-
-Number of Pages: 1
-
-Markdown Content:
 
 A global threat to financial institutions
 
@@ -65,7 +58,8 @@ The criminal transfers the money into their account or foreign bank accounts Inf
 
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:44:34+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.europol.europa.eu/cms/sites/default/files/documents/carbanakcobalt.pdf
+- cleanup: jina navigation trim

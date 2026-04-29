@@ -25,4 +25,4 @@ The Royal Malaysia Police (Polis Diraja Malaysia, **PDRM**) handles cybercrime i
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-11-08_malaymail-com_pdrm-cripples-transnational-cybercrime-syndicate-through-joint-intelligence-shar.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-11-08_malaymail-com_pdrm-cripples-transnational-cybercrime-syndicate-through-joint-intelligence-shar.md`, preserving traceable review without classifying the page as a placeholder.

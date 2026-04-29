@@ -29,4 +29,4 @@ In February 2018, the US Department of Justice announced the takedown of the **I
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2524-01-01_techtarget-com_doj-breaks-up-infraud-organization-with-some-help.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2524-01-01_techtarget-com_doj-breaks-up-infraud-organization-with-some-help.md`, preserving traceable review without classifying the page as a placeholder.

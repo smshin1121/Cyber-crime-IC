@@ -35,4 +35,4 @@ In DOJ's 4 January 2024 xDedic investigation roundup and on the associated victi
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2024-01-04_mdfl_kharmanskyi-xdedic-summary.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2024-01-04_mdfl_kharmanskyi-xdedic-summary.md`, preserving traceable review without classifying the page as a placeholder.

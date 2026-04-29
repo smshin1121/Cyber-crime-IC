@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/cybercrime/national-police-am
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:e59fb29d2acfd4b2ed88214118c539a60b244b6952bc1e1c8e9b28858d03b932
-word_count: 1895
-extraction_date: 2026-04-25
+content_hash: sha256:dd76aa5daa2e312f0e43c035719d2a2e33c60f238072c82d6b9eb643d1fcbeea
+word_count: 606
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The **Division for Combating High-Tech Crime** of the Police of the Republic of 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_national-police-am-cybercrime.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_national-police-am-cybercrime.md`, preserving traceable review without classifying the page as a placeholder.

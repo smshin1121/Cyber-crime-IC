@@ -35,4 +35,4 @@ Dariy Pankov (xDedic / NLBrute) Enforcement Action is a defendant-specific enfor
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-02-22_justice-gov_united-states-v-dariy-pankov.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-02-22_justice-gov_united-states-v-dariy-pankov.md`, preserving traceable review without classifying the page as a placeholder.

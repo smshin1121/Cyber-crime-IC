@@ -32,4 +32,4 @@ On March 5, 2025, DOJ announced charges against Wu Haibo and other i-Soon employ
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2025-03-05_opa_wu-haibo-isoon-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2025-03-05_opa_wu-haibo-isoon-indictment.md`, preserving traceable review without classifying the page as a placeholder.

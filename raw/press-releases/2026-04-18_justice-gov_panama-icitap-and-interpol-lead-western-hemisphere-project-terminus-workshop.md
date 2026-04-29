@@ -2,23 +2,37 @@
 title: "Panama: ICITAP and INTERPOL Lead Western Hemisphere Project Terminus Workshop, Strengthening Border Security, Regional Coordination, and U.S. Counterterrorism Capabilities"
 collection_source: "US DOJ"
 collection_url: https://www.justice.gov/criminal/criminal-icitap/blog/panama-icitap-and-interpol-lead-western-hemisphere-project-terminus-workshop
+final_url: https://www.justice.gov/criminal/criminal-icitap/blog/panama-icitap-and-interpol-lead-western-hemisphere-project-terminus-workshop
 collection_domain: justice.gov
-collection_date: 2026-04-18
+collection_date: 2026-04-29
 publish_date: 2026-02-23
 language: en
 status: collected
-updated: 2026-04-18
-final_url: https://www.justice.gov/criminal/criminal-icitap/blog/panama-icitap-and-interpol-lead-western-hemisphere-project-terminus-workshop
 text_status: parsed
+storage_mode: fulltext
+source_type: press-release
+source_page: wiki/sources/2026-04-18_justice-gov_panama-icitap-and-interpol-lead-western-hemisphere-project-terminus-workshop.md
+word_count: 716
+content_hash: sha256:45f4a05c428dab85a3d931443842ff68d3aa7a25415664bd76b85c6b1b218a75
+extraction_date: 2026-04-29
+license_basis: official_public_record
 fetcher: doj_fetch
 http_status: 200
 content_type: text/html
-content_hash: sha256:45f4a05c428dab85a3d931443842ff68d3aa7a25415664bd76b85c6b1b218a75
-word_count: 716
-extraction_date: 2026-04-25
-source_page: wiki/sources/2026-04-18_justice-gov_panama-icitap-and-interpol-lead-western-hemisphere-project-terminus-workshop.md
 ---
-## Summary
+## Source Archive Record
+
+This record preserves the source metadata and source-page digest so the source corpus has a separate addressable record for this reference.
+
+## Source Digest
+
+- Title: Panama: ICITAP and INTERPOL Lead Western Hemisphere Project Terminus Workshop, Strengthening Border Security, Regional Coordination, and U.S. Counterterrorism Capabilities
+- Publisher: US DOJ
+- Source type: press-release
+- Publication date: 2026-02-23
+- URL: https://www.justice.gov/criminal/criminal-icitap/blog/panama-icitap-and-interpol-lead-western-hemisphere-project-terminus-workshop
+
+### Source Page Summary
 
 2026 Press Release Uruguayan Man Pleads Guilty to Agreeing to Move Money into...Venezuelan Officials A Uruguayan man pleaded guilty today to agreeing to use an unlicensed
 
@@ -252,5 +266,5 @@ Top
 
 - parser: document
 - fetcher: doj_fetch
-- fetched_at: 2026-04-25T14:21:41+00:00
+- fetched_at: 2026-04-28T16:23:36+00:00
 - final_url: https://www.justice.gov/criminal/criminal-icitap/blog/panama-icitap-and-interpol-lead-western-hemisphere-project-terminus-workshop

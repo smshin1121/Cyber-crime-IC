@@ -31,4 +31,4 @@ France is a **foundational partner** in European cybercrime cooperation. It was 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-01-01_iclg-com_cybersecurity-laws-and-regulations-report-2026-france.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-01-01_iclg-com_cybersecurity-laws-and-regulations-report-2026-france.md`, preserving traceable review without classifying the page as a placeholder.

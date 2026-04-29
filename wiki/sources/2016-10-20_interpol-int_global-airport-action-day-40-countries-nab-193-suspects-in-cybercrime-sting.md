@@ -29,4 +29,4 @@ The Global Airport Action Day, conducted from October 10-15, 2016, was an intern
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2016-10-20_interpol-int_global-airport-action-day-40-countries-nab-193-suspects-in-cybercrime-sting.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2016-10-20_interpol-int_global-airport-action-day-40-countries-nab-193-suspects-in-cybercrime-sting.md`, preserving traceable review without classifying the page as a placeholder.

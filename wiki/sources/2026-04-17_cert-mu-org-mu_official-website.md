@@ -22,6 +22,9 @@ storage_mode: source-digest
 content_hash: sha256:8d76bc3a7523e1481e8894497b8707b69b68d42c279803e1d3a856741d15f918
 word_count: 131
 extraction_date: 2026-04-28
+harvest_status: fulltext_not_available
+harvest_note: "Repeated live fulltext harvesting failed or is not suitable; source digest retained."
+last_fetch_attempt: 2026-04-29
 ---
 ## Source Summary
 
@@ -29,4 +32,4 @@ National cybersecurity incident response body operated by the National Computer 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_cert-mu-org-mu_official-website.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_cert-mu-org-mu_official-website.md`, preserving traceable review without classifying the page as a placeholder.

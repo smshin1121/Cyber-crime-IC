@@ -28,8 +28,13 @@ participating_countries:
 participating_agencies:
   - "[[interpol]]"
   - "[[afripol]]"
-legal_basis: ""
-mechanisms_used: ""
+legal_basis:
+  - "[[mutual-legal-assistance]]"
+  - "domestic bank-fraud and cybercrime authorities"
+mechanisms_used:
+  - "[[informal-cooperation]]"
+  - "[[mlat-process]]"
+  - "financial intelligence sharing"
 results:
   arrests: 1
   indictments: 0
@@ -56,11 +61,12 @@ edges:
 credibility_index: 4.18
 source_tier: 1
 missing_fields:
-  - legal_basis
-  - mechanisms_used
   - complete_participating_countries
 related_cases: ""
-related_operations: ""
+related_operations:
+  - "[[operation-falcon]]"
+  - "[[operation-delilah]]"
+  - "[[operation-jackal]]"
 challenges_encountered: ""
 lessons_learned:
   - "Private-sector threat intelligence materially improves international operational targeting."
@@ -72,7 +78,7 @@ sources:
   - "[[2023-07-05_group-ib_top-investigations_operation-nervone]]"
   - "[[2023-07-05_group-ib-fr_operation-nervone]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Nervone was an INTERPOL-led action against the OPERA1ER group that culminated in the arrest of a key suspect in Côte d’Ivoire."

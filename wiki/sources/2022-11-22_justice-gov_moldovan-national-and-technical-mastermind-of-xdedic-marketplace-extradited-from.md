@@ -20,8 +20,9 @@ created: 2026-04-17
 text_status: parsed
 content_hash: sha256:bb117fe07906189622a2ae22dc27839a7ccc7fdc4f871056c31af3182c505a84
 word_count: 999
-extraction_date: 2026-04-25
+extraction_date: 2026-04-29
 last_fetcher: doj_fetch
+storage_mode: fulltext
 ---
 ## Source Summary
 

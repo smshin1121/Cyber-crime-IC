@@ -27,4 +27,4 @@ On 22 May 2025, the Department of Justice unsealed an indictment charging Rustam
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2025-05-22_cdca_qakbot-gallyamov-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2025-05-22_cdca_qakbot-gallyamov-indictment.md`, preserving traceable review without classifying the page as a placeholder.

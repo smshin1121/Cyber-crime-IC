@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/05/28/drug-trafficker-we
 created: 2026-04-25
 raw_path: raw/press-releases/2025-05-28_dea-gov_drug-trafficker-western-washington-caught-twice-kilos-drugs-firearms-10-years.md
 text_status: parsed
-content_hash: sha256:c0ea7c192d71d9d44b2dc751cd43b699c7c545e04539b0c439303e8ccd8bb8cd
-word_count: 5663
-extraction_date: 2026-04-25
+content_hash: sha256:555ecfac035104707010fe929a82a348396d442874c9e2bb2f615ba34ad2a178
+word_count: 802
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

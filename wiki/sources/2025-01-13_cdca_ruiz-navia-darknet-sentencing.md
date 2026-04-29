@@ -31,4 +31,4 @@ On 13 January 2025, DOJ announced that Adan Ruiz was sentenced to 215 months and
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2025-01-13_cdca_ruiz-navia-darknet-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2025-01-13_cdca_ruiz-navia-darknet-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

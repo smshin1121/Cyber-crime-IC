@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2024/01/05/seattle-man-who-di
 created: 2026-04-25
 raw_path: raw/press-releases/2024-01-05_dea-gov_seattle-man-distributed-thousands-fentanyl-pills-whatcom-county-sentenced-six-years.md
 text_status: parsed
-content_hash: sha256:c3ebc6cf2533174f377263cb98ae9ae7cfb94370e2813dca31c47266e5d01d2e
-word_count: 5816
-extraction_date: 2026-04-25
+content_hash: sha256:90380959e4d21605e652e6296bba8850deab32876779741c18b529d5311aab6b
+word_count: 935
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

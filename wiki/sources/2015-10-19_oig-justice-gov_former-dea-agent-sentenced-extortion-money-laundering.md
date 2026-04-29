@@ -19,10 +19,11 @@ collection_url: https://oig.justice.gov/sites/default/files/2019-12/2015-10-19b.
 created: 2026-04-25
 raw_path: raw/government-reports/2015-10-19_oig-justice-gov_former-dea-agent-sentenced-extortion-money-laundering.md
 text_status: parsed
-content_hash: sha256:5f4de229e17828a7fd82f747f984d106c998a4de33072dab2f15c8370253a1df
-word_count: 780
-extraction_date: 2026-04-25
+content_hash: sha256:baa8cf57216cd693f82acfb658bb8de91e5503f6f79ee53a1a1b1159c4f67a85
+word_count: 719
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

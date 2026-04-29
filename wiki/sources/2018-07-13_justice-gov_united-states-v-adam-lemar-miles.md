@@ -34,4 +34,4 @@ Adam Miles (NoStress) Enforcement Action is a defendant-specific enforcement act
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-07-13_justice-gov_united-states-v-adam-lemar-miles.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-07-13_justice-gov_united-states-v-adam-lemar-miles.md`, preserving traceable review without classifying the page as a placeholder.

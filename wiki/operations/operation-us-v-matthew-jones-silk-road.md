@@ -53,9 +53,9 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2014-12-18_mdfl_matthew-jones-silk-road-sentencing]]"
+  - "[[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-matthew-jones-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -70,6 +70,8 @@ crime_types:
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-matthew-jones-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
+
 ## Canonical Record
 
 - [[us-v-matthew-jones-silk-road]]
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Texas Business Executive Sentenced To Prison For Illegally Selling Oxycodone On Silk Road | US DOJ (Middle District of Florida) | 2014-12-18 | https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road |
+| [1] | Manhattan U.S. Attorney Announces The Indictment Of Ross Ulbricht, The Creator And Owner Of The “Silk Road” Website | DOJ SDNY | 2014-02-04 | https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-indictment-ross-ulbricht-creator-and-owner-silk-road |

@@ -55,7 +55,7 @@ source_count: 1
 sources:
   - "[[2024-01-04_mdfl_mckinzie-xdedic-summary]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"
 summary: "Harold McKinzie (xDedic) Enforcement Action is a defendant-specific xDedic follow-on retained as an operation-side pointer to [[us-v-mckinzie-xdedic]] and the umbrella [[xdedic-marketplace-takedown]] record."

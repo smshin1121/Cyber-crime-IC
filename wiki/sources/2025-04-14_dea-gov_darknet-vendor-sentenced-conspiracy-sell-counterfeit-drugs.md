@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/04/14/darknet-vendor-sen
 created: 2026-04-25
 raw_path: raw/press-releases/2025-04-14_dea-gov_darknet-vendor-sentenced-conspiracy-sell-counterfeit-drugs.md
 text_status: parsed
-content_hash: sha256:04c19c37493c3ddf9316bfd410eec9637d7439546ea6a413269794523d76a655
-word_count: 5221
-extraction_date: 2026-04-25
+content_hash: sha256:1bd80634d2b525e4fd680c2bc38c4877800ea105b2958b747883d27e3d84abae
+word_count: 423
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

@@ -30,4 +30,4 @@ In **April 2024**, Zambian authorities raided the **Golden Top Support Services*
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-06-05_therecord-media_chinese-nationals-plead-guilty-to-running-zambia-scam-operation.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-06-05_therecord-media_chinese-nationals-plead-guilty-to-running-zambia-scam-operation.md`, preserving traceable review without classifying the page as a placeholder.

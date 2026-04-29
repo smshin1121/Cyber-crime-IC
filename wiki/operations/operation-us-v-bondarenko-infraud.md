@@ -55,9 +55,9 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2018-02-07_nv_infraud-organization-indictment]]"
+  - "[[wired-infraud-organization-takedown]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[infraud-organization-takedown]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-bondarenko-infraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -72,6 +72,8 @@ crime_types:
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-bondarenko-infraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
+
 ## Canonical Record
 
 - [[us-v-bondarenko-infraud]]
@@ -80,4 +82,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Thirty-Six Defendants Indicted For Alleged Roles In Transnational Criminal Organization Responsible For More Than $530 Million In Losses From Cybercrimes | US DOJ (District of Nevada) | 2018-02-07 | https://www.justice.gov/usao-nv/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization |
+| [1] | Wired: Inside the Takedown of Infraud, the Notorious Cybercrime Forum | Wired | 2018-02-08 | https://www.wired.com/story/infraud-feds-takedown-cybercrime/ |

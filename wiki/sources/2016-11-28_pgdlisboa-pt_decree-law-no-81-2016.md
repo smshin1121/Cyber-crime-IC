@@ -19,9 +19,9 @@ collection_url: "https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=2608&tab
 original_collection_url: "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1137"
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:d255c8a35512d457e93ce08aeadf163404848e3626ae2fb6442f2dd5b4900c1c
-word_count: 1768
-extraction_date: 2026-04-26
+content_hash: sha256:56499de7c69de1102e41bfa460f2335659c3a650dc6f8baca7d5c8308685ef55
+word_count: 1698
+extraction_date: 2026-04-29
 last_fetcher: jina
 storage_mode: fulltext
 license_basis: official_legal_text
@@ -35,4 +35,4 @@ The **Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2016-11-28_pgdlisboa-pt_decree-law-no-81-2016.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2016-11-28_pgdlisboa-pt_decree-law-no-81-2016.md`, preserving traceable review without classifying the page as a placeholder.

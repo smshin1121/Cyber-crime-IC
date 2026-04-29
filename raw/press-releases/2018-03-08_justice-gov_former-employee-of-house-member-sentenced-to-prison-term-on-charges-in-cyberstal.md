@@ -2,24 +2,43 @@
 title: "Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case"
 collection_source: "US DOJ USAO"
 collection_url: https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case
+final_url: https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case
 collection_domain: justice.gov
-collection_date: 2026-04-17
+collection_date: 2026-04-29
 publish_date: 2018-03-08
 language: en
 status: collected
-final_url: https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case
 text_status: parsed
+storage_mode: fulltext
+source_type: press-release
+source_page: wiki/sources/2018-03-08_justice-gov_former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstal.md
+word_count: 1144
+content_hash: sha256:f4051c53e89ee469c0b90a945c13fb31e74cfb10c733e62f1f04c856ebb46457
+extraction_date: 2026-04-29
+license_basis: official_public_record
 fetcher: doj_fetch
 http_status: 200
 content_type: text/html
-content_hash: sha256:f4051c53e89ee469c0b90a945c13fb31e74cfb10c733e62f1f04c856ebb46457
-word_count: 1144
-extraction_date: 2026-04-25
-source_page: wiki/sources/2018-03-08_justice-gov_former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstal.md
 ---
-## Summary
+## Source Archive Record
 
-Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action is a defendant-specific enforcement action page derived from [[former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This record preserves the source metadata and source-page digest so the source corpus has a separate addressable record for this reference.
+
+## Source Digest
+
+- Title: Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case
+- Publisher: US DOJ USAO
+- Source type: press-release
+- Publication date: 2018-03-08
+- URL: https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case
+- Linked pages: operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case
+
+### Key Findings
+- Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action is a defendant-specific enforcement action page derived from former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+
+### Source Page Summary
+
+Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action is a defendant-specific enforcement action page derived from former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action. The source supports operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case in the operations corpus.
 
 ## Extracted Text
 
@@ -299,5 +318,5 @@ Top
 
 - parser: document
 - fetcher: doj_fetch
-- fetched_at: 2026-04-25T14:19:02+00:00
+- fetched_at: 2026-04-28T16:08:57+00:00
 - final_url: https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case

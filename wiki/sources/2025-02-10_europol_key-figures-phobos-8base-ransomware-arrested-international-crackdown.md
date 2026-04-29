@@ -19,10 +19,11 @@ collection_url: https://www.europol.europa.eu/media-press/newsroom/news/key-figu
 created: 2026-04-25
 raw_path: raw/press-releases/2025-02-10_europol_key-figures-phobos-8base-ransomware-arrested-international-crackdown.md
 text_status: parsed
-content_hash: sha256:4e2c0cbe1f66c1f06cb9b659f0776d088370fb56190ea1a324b65a58d54ca559
-word_count: 1329
-extraction_date: 2026-04-25
+content_hash: sha256:173b6d390c72185a03c3f2a36c3f37c273420b9f44484bc46cda6b776b21ac86
+word_count: 192
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

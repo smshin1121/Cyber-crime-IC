@@ -18,9 +18,9 @@ key_findings:
 collection_url: https://rm.coe.int/cproc-about/1680762b41
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:78ebf1579e9e499e863f1daf124b14a0f2d42cd9cdf854f195528b1f62695ba6
-word_count: 642
-extraction_date: 2026-04-28
+content_hash: sha256:30c9d31f8bb0a89da546b6dd68f8dfc80d4a39b47bba48d92e3d8c0de6ac0806
+word_count: 626
+extraction_date: 2026-04-29
 last_fetcher: jina
 storage_mode: fulltext
 ---
@@ -30,4 +30,4 @@ The **Cybercrime Programme Office (C-PROC)** is the capacity-building arm of the
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_rm-coe-int_about-c-proc.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_rm-coe-int_about-c-proc.md`, preserving traceable review without classifying the page as a placeholder.

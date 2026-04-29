@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2023-12-14_nbcnews_four-charged-feds-80-million-pig-butchering-scheme]]"
+  - "[[2026-04-18_justice-gov_four-individuals-charged-laundering-millions-cryptocurrency-investment-scams-known-pig]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-lu-zhang-and-justin-walker]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-lu-zhang-and-justin-walker]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Four charged by feds, accused of running an $80 million 'pig butchering' scheme | NBC News | 2023-12-14 | https://www.nbcnews.com/news/us-news/four-charged-feds-accused-running-80-million-pig-butchering-scheme-rcna129811 |
+| [1] | Four Individuals Charged with Laundering Millions from Cryptocurrency Investment Scams Known as ‘Pig Butchering’ | US DOJ USAO | 2023-12-14 | https://www.justice.gov/usao-cdca/pr/four-individuals-charged-laundering-millions-cryptocurrency-investment-scams-known-pig |

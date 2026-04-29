@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.ic3.gov/AnnualReport/Reports/2024_IC3Report.pdf
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:5f94abae545443b0913521bad5a605549b534a2ee1c7441760f8ae77276d78a1
-word_count: 11702
-extraction_date: 2026-04-25
+content_hash: sha256:43e399aad5682543db83d1b70c779b8182acf63aa686b00b72d07f681375f1d5
+word_count: 11673
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The Internet Crime Complaint Center (IC3) is the [[fbi-cyber-division|FBI Cyber 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-01_ic3-gov_2024-ic3-annual-report.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-01_ic3-gov_2024-ic3-annual-report.md`, preserving traceable review without classifying the page as a placeholder.

@@ -19,10 +19,11 @@ key_findings:
   - "Co-lead with FBI on US side of operation."
 created: 2026-04-14
 text_status: parsed
-content_hash: sha256:9716a600f8f14229cdab923e46d6e8b082fd69a799ac5ffcad3af6c609eec392
-word_count: 6425
-extraction_date: 2026-04-25
+content_hash: sha256:001dcacec09e8c1f5d0e564f6a42a1aa90afc81bb23845ea16b6e62ace841ee1
+word_count: 1577
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Summary
 

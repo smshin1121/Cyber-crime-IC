@@ -27,6 +27,12 @@ key_findings:
   - "Prior related arrest in Italy (2023) on French warrant; demonstrates sustained multi-year investigation"
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown
 created: 2026-04-08
+text_status: parsed
+content_hash: sha256:3ebbb77ee0de42847e20bb597f75b9c715633323bb87cd59bfea885cea3b5616
+word_count: 961
+extraction_date: 2026-04-29
+last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Summary
 

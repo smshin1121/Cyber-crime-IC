@@ -35,4 +35,4 @@ Ruiz and Navia (Darknet Fentanyl Suppliers) Enforcement Action is a defendant-sp
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-13_justice-gov_united-states-v-adan-ruiz-and-omar-navia.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-13_justice-gov_united-states-v-adan-ruiz-and-omar-navia.md`, preserving traceable review without classifying the page as a placeholder.

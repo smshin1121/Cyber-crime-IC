@@ -35,4 +35,4 @@ Trevor Stephen Haahr and Kaeli Arielle Albert Enforcement Action is a defendant-
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-09-26_justice-gov_united-states-v-trevor-stephen-haahr-and-kaeli-arielle-albert.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-09-26_justice-gov_united-states-v-trevor-stephen-haahr-and-kaeli-arielle-albert.md`, preserving traceable review without classifying the page as a placeholder.

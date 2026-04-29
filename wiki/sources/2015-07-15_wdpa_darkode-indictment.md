@@ -27,4 +27,4 @@ On 15 July 2015, the Department of Justice announced the dismantlement of the co
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2015-07-15_wdpa_darkode-indictment.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2015-07-15_wdpa_darkode-indictment.md`, preserving traceable review without classifying the page as a placeholder.

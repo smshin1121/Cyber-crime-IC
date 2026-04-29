@@ -1,11 +1,11 @@
 ---
 title: "Operation Endgame Follow-up"
 collection_source: Europol
-collection_url: ""
-final_url: ""
-collection_domain: ""
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns
+final_url: https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns
+collection_domain: europol.europa.eu
 collection_date: 2026-04-27
-publish_date: 2025-05-22
+publish_date: 2025-04-09
 language: en
 status: materialized
 text_status: summarized

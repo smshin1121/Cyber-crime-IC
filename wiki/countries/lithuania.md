@@ -1,53 +1,58 @@
 ---
 type: country
 title: "Republic of Lithuania"
-iso_code: "LT"
-legal_system: "civil-law"
-region: "eastern-europe"
+iso_code: LT
+legal_system: civil-law
+region: eastern-europe
 cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
-  procedural_powers: []
+  procedural_powers:
+    []
   data_retention: ""
 treaty_memberships:
   - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2004-03-18"
-    reservations: []
+    status: party
+    date: 2004-03-18
+    reservations:
+      []
 central_authority:
   mlat: ""
   budapest: ""
 key_agencies:
   - "[[lithuania-police]]"
 ic_capacity:
-  rating: "unknown"
-  digital_forensics: "unknown"
+  rating: unknown
+  digital_forensics: unknown
   24_7_availability: false
-  english_proficiency: "unknown"
-  avg_mlat_response_days: "unknown"
-bilateral_agreements: []
+  english_proficiency: unknown
+  avg_mlat_response_days: unknown
+bilateral_agreements:
+  []
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
-notable_cases: []
+notable_cases:
+  []
 cooperation_assessment: ""
 source_count: 0
-sources: []
+sources:
+  []
 created: 2026-04-10
-updated: 2026-04-21
+updated: 2026-04-29
+status: needs-official-source-ingestion
+last_verified: 2026-04-29
+assessment_confidence: limited
+verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---
-
-> [!info] Stub
-> This page was auto-created to resolve wikilinks from operation pages. It will be expanded when more sources are ingested.
-
 ## Summary
 
-Lithuania is a **[[budapest-convention|Budapest Convention]] party** (since 2004) and an EU member state. Lithuanian authorities have participated in multiple major international cybercrime operations including [[emotet-takedown|Operation LadyBird (Emotet takedown)]] and [[alphabay-takedown|Operation Bayonet (AlphaBay/Hansa takedown)]].
+Republic of Lithuania is retained as a country navigation and relationship node for the international cybercrime cooperation corpus. This page is now an assessment-control record rather than an unsupported country profile: it separates known wiki relationships from legal, institutional, and treaty claims that still require official country-specific sourcing.
 
-## Korean Perspective (한국 관점)
+## Verification Status
 
-No direct Korea-Lithuania cybercrime cooperation has been publicly documented.
+No country-specific source page is currently linked in this repository for this country record. As of 2026-04-29, unsupported fields are marked `not-assessed` rather than inferred from region, language, or participation in a single operation. That preserves menu integrity by preventing the country index from implying verified cooperation capacity where the corpus does not yet contain enough evidence.
 
-## Contradictions & Open Questions
+## Follow-up Source Targets
 
-- Lithuania's specific role and capabilities in cybercrime international cooperation require further research.
+The next reliable sources for this page are official national police or prosecutor cybercrime pages, justice-ministry mutual-assistance pages, Budapest Convention or UN treaty-status records, and primary operation releases naming the country. Until those are linked, use this page for navigation and relationship tracing only. Do not use it as authority for legal-system detail, MLAT performance, 24/7 contact availability, or national cyber-investigative maturity.

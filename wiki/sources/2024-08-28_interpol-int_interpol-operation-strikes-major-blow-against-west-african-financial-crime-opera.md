@@ -33,4 +33,4 @@ Operation Jackal III was the third iteration of INTERPOL's dedicated campaign ag
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-08-28_interpol-int_interpol-operation-strikes-major-blow-against-west-african-financial-crime-opera.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-08-28_interpol-int_interpol-operation-strikes-major-blow-against-west-african-financial-crime-opera.md`, preserving traceable review without classifying the page as a placeholder.

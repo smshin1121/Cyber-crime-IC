@@ -20,9 +20,9 @@ key_findings:
 raw_path: raw/government-reports/2026-03-11_eurojust-fraud-term_online-fraud-group-france-germany.md
 text_status: source-digest
 storage_mode: source-digest
-content_hash: sha256:2384ad796519c5c56327de2210e6d303cea652a7809a4565d779da97a2686c8c
+content_hash: sha256:7a6b464e25e10a62c207ce7576292baeb3a3b4de1b0d42207e0ecf11d1c0d75c
 word_count: 130
-extraction_date: 2026-04-28
+extraction_date: 2026-04-29
 ---
 ## Source Summary
 

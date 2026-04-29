@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:963a217b83421b1e937ac239238f7fb3c54a1accb4228e7c0f427f876c973a09
-word_count: 2841
-extraction_date: 2026-04-25
+content_hash: sha256:5353a0e3eb08b9d0a4593deae9e370f7d81185fe5f4a251e4620b169e73e961f
+word_count: 890
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ last_fetcher: jina
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-05-30_bmi-bund-de_worldwide-investigation-against-cyber-crime-crowned-by-success.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-05-30_bmi-bund-de_worldwide-investigation-against-cyber-crime-crowned-by-success.md`, preserving traceable review without classifying the page as a placeholder.

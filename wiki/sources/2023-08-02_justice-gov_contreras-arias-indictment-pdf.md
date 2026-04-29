@@ -18,11 +18,12 @@ key_findings:
 collection_url: "https://www.justice.gov/usao-wdwa/file/1308711/dl?inline="
 created: 2026-04-25
 raw_path: raw/case-documents/2023-08-02_justice-gov_contreras-arias-indictment-pdf.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:cc9303126d6c313c898a34d1e476d6b6459c5d6ab9f7131a46389005a4edfff4
-word_count: 147
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:a8d3d24b51bb289d2063d818ba701ca5bf16ea2b995b3707e30a6b56f91e889c
+word_count: 391
+extraction_date: 2026-04-29
+last_fetcher: wayback+curl_cffi
 ---
 ## Source Summary
 

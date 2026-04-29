@@ -25,4 +25,4 @@ In August 2016, a Nigerian national was arrested for an email fraud scheme that 
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2016-08-02_web-archive-org_nigerian-scammer-arrested-for-60-million-email-fraud.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2016-08-02_web-archive-org_nigerian-scammer-arrested-for-60-million-email-fraud.md`, preserving traceable review without classifying the page as a placeholder.

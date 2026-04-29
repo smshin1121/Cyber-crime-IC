@@ -1,21 +1,46 @@
 ---
 type: source
-title: bleeping-computer-goznym-takedown
-status: stub
+title: "Alias resolved: GozNym Cybercrime Group Behind $100 Million Damages Dismantled"
+status: alias-resolved
 source_type: news
-created: 2026-04-10
+publisher: BleepingComputer
+author: ""
+publish_date: 2019-05-16
+ingest_date: 2026-04-23
+updated: 2026-04-29
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
+source_tier: 3
+collection_url: https://www.bleepingcomputer.com/news/security/goznym-cybercrime-group-behind-100-million-damages-dismantled/
+collection_domain: bleepingcomputer.com
 raw_path: raw/news/bleeping-computer-goznym-takedown.md
 text_status: summarized
 storage_mode: summary-only
-content_hash: sha256:17ef1aa5677f2dfb5d7ee93996c8e556f7e0e4f5c130447e7240e646222890e2
-word_count: 87
-extraction_date: 2026-04-27
 copyright_policy: summary-only
+duplicate_of: "[[2019-05-16_bleepingcomputer-com_goznym-cybercrime-group-behind-100-million-damages-dismantled]]"
+duplicate_reason: source_alias_resolved_from_menu_audit
+alias_resolution: "same article already exists as a dated BleepingComputer source page"
+pages_updated:
+  - goznym-takedown
+key_findings:
+  - "BleepingComputer summarized the GozNym takedown and the 10 defendants charged across multiple countries."
 ---
-> [!info] Stub
-> This source page was referenced from another source's cross-reference but was never created with content. Stub maintains link integrity.
+## Source Alias Resolution
+
+This menu-audit record was resolved to [[2019-05-16_bleepingcomputer-com_goznym-cybercrime-group-behind-100-million-damages-dismantled]]. The alias is kept so older links remain valid, but the dated source page is the canonical record for collection metadata, source reliability, and operation linkage.
+
+## Source Summary
+
+BleepingComputer summarized the GozNym takedown and the 10 defendants charged across multiple countries.
+
+## Relevance to IC
+
+The alias points to the same source family used in the international-cooperation corpus. Keeping it as an explicit alias prevents duplicate source records from appearing as missing or unverified while preserving traceability to [[2019-05-16_bleepingcomputer-com_goznym-cybercrime-group-behind-100-million-damages-dismantled]].
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
+| [1] | [[2019-05-16_bleepingcomputer-com_goznym-cybercrime-group-behind-100-million-damages-dismantled]] | BleepingComputer | 2019-05-16 | https://www.bleepingcomputer.com/news/security/goznym-cybercrime-group-behind-100-million-damages-dismantled/ |

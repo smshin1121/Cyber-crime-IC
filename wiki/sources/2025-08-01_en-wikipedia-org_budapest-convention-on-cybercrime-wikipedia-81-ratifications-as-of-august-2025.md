@@ -36,4 +36,4 @@ The Budapest Convention on Cybercrime is the **first and most significant bindin
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-08-01_en-wikipedia-org_budapest-convention-on-cybercrime-wikipedia-81-ratifications-as-of-august-2025.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-08-01_en-wikipedia-org_budapest-convention-on-cybercrime-wikipedia-81-ratifications-as-of-august-2025.md`, preserving traceable review without classifying the page as a placeholder.

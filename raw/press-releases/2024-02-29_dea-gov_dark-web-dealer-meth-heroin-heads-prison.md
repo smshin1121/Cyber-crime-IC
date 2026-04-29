@@ -12,58 +12,15 @@ text_status: parsed
 fetcher: jina
 http_status: 200
 content_type: "text/plain; charset=utf-8"
-content_hash: sha256:7312346c6e976799638dac13b9ae66d318eb5a2bbedf9dc09161fab755234be2
-word_count: 5191
-extraction_date: 2026-04-25
+content_hash: sha256:a072d8f5779df988800e3c621ed926254ca62c1cab4378bd2c8d0d6ede1ec84f
+word_count: 377
+extraction_date: 2026-04-29
 source_page: wiki/sources/2024-02-29_dea-gov_dark-web-dealer-meth-heroin-heads-prison.md
+parser: jina_markdown
 ---
 ## Summary
 
 Source text harvested from https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison.
-
-## Extracted Text
-
-Title: Dark Web Dealer of Meth, Heroin Heads to Prison
-
-URL Source: https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison
-
-Published Time: Fri, 24 Apr 2026 23:58:58 GMT
-
-Markdown Content:
-
-# Dark Web Dealer of Meth, Heroin Heads to Prison
-
-[Skip to main content](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison#main-content)
-
-![Image 2: U.S. flag](https://www.dea.gov/themes/custom/ohana/dist/img/us_flag_small.png)
-
-Here’s how you know
-
-![Image 3: Dot gov](https://www.dea.gov/themes/custom/ohana/dist/img/icon-dot-gov.svg)
-
-**Official websites use .gov**
-
-A **.gov** website belongs to an official government organization in the United States.
-
-![Image 4: Https](https://www.dea.gov/themes/custom/ohana/dist/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS**
-
-A **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-# [United States Drug Enforcement Administration](https://www.dea.gov/ "Home")
-
-* [Get Updates](https://public.govdelivery.com/accounts/USDOJDEA/subscriber/new?qsp=CODE_RED)
-
-* [Scam Alert](https://www.dea.gov/scam-alert)
-
-* [Full Menu](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison#fullmenu)
-
-* [![Image 5: en](https://cdn.gtranslate.net/flags/svg/en-us.svg) English](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison#) [![Image 6: en](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) English](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "English")[![Image 7: ar](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) العربية](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "العربية")[![Image 8: bg](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Български](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Български")[![Image 9: zh-CN](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) 简体中文](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "简体中文")[![Image 10: zh-TW](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) 繁體中文](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "繁體中文")[![Image 11: hr](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Hrvatski](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Hrvatski")[![Image 12: cs](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Čeština‎](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Čeština‎")[![Image 13: da](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Dansk](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Dansk")[![Image 14: nl](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Nederlands](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Nederlands")[![Image 15: fi](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Suomi](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Suomi")[![Image 16: fr](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Français](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Français")[![Image 17: de](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Deutsch](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Deutsch")[![Image 18: el](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Ελληνικά](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Ελληνικά")[![Image 19: hi](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) हिन्दी](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "हिन्दी")[![Image 20: it](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Italiano](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Italiano")[![Image 21: ja](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) 日本語](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "日本語")[![Image 22: ko](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) 한국어](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "한국어")[![Image 23: no](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Norsk bokmål](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Norsk bokmål")[![Image 24: pl](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Polski](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Polski")[![Image 25: pt](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Português](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Português")[![Image 26: ro](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Română](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Română")[![Image 27: ru](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Русский](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Русский")[![Image 28: es](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Español](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Español")[![Image 29: sv](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Svenska](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Svenska")[![Image 30: ca](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Català](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Català")[![Image 31: tl](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Filipino](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Filipino")[![Image 32: iw](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) עִבְרִית](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "עִבְרִית")[![Image 33: id](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Bahasa Indonesia](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Bahasa Indonesia")[![Image 34: lv](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Latviešu valoda](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Latviešu valoda")[![Image 35: lt](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Lietuvių kalba](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Lietuvių kalba")[![Image 36: sr](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Српски језик](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Српски језик")[![Image 37: sk](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Slovenčina](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Slovenčina")[![Image 38: sl](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Slovenščina](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Slovenščina")[![Image 39: uk](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Українська](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Українська")[![Image 40: vi](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Tiếng Việt](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Tiếng Việt")[![Image 41: sq](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Shqip](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Shqip")[![Image 42: et](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Eesti](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Eesti")[![Image 43: gl](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Galego](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Galego")[![Image 44: hu](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Magyar](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Magyar")[![Image 45: mt](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Maltese](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Maltese")[![Image 46: th](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) ไทย](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "ไทย")[![Image 47: tr](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Türkçe](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Türkçe")[![Image 48: fa](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) فارسی](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "فارسی")[![Image 49: af](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Afrikaans](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Afrikaans")[![Image 50: ms](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Bahasa Melayu](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Bahasa Melayu")[![Image 51: sw](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Kiswahili](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Kiswahili")[![Image 52: ga](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Gaeilge](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Gaeilge")[![Image 53: cy](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Cymraeg](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Cymraeg")[![Image 54: be](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Беларуская мова](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Беларуская мова")[![Image 55: is](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Íslenska](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Íslenska")[![Image 56: mk](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Македонски јазик](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Македонски јазик")[![Image 57: yi](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) יידיש](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "יידיש")[![Image 58: hy](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Հայերեն](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Հայերեն")[![Image 59: az](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Azərbaycan dili](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Azərbaycan dili")[![Image 60: eu](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Euskara](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Euskara")[![Image 61: ka](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) ქართული](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "ქართული")[![Image 62: ht](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Kreyol ayisyen](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Kreyol ayisyen")[![Image 63: ur](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) اردو](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "اردو")[![Image 64: bn](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) বাংলা](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "বাংলা")[![Image 65: bs](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Bosanski](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Bosanski")[![Image 66: ceb](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Cebuano](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Cebuano")[![Image 67: eo](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Esperanto](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Esperanto")[![Image 68: gu](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) ગુજરાતી](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "ગુજરાતી")[![Image 69: ha](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Harshen Hausa](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Harshen Hausa")[![Image 70: hmn](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Hmong](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Hmong")[![Image 71: ig](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Igbo](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Igbo")[![Image 72: jw](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Basa Jawa](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Basa Jawa")[![Image 73: kn](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) ಕನ್ನಡ](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "ಕನ್ನಡ")[![Image 74: km](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) ភាសាខ្មែរ](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "ភាសាខ្មែរ")[![Image 75: lo](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) ພາສາລາວ](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "ພາສາລາວ")[![Image 76: la](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Latin](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Latin")[![Image 77: mi](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Te Reo Māori](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Te Reo Māori")[![Image 78: mr](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) मराठी](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "मराठी")[![Image 79: mn](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Монгол](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Монгол")[![Image 80: ne](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) नेपाली](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "नेपाली")[![Image 81: pa](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) ਪੰਜਾਬੀ](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "ਪੰਜਾਬੀ")[![Image 82: so](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Afsoomaali](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Afsoomaali")[![Image 83: ta](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) தமிழ்](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "தமிழ்")[![Image 84: te](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) తెలుగు](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "తెలుగు")[![Image 85: yo](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Yorùbá](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Yorùbá")[![Image 86: zu](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Zulu](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Zulu")[![Image 87: my](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) ဗမာစာ](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "ဗမာစာ")[![Image 88: ny](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Chichewa](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Chichewa")[![Image 89: kk](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Қазақ тілі](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Қазақ тілі")[![Image 90: mg](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Malagasy](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Malagasy")[![Image 91: ml](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) മലയാളം](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "മലയാളം")[![Image 92: si](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) සිංහල](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "සිංහල")[![Image 93: st](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Sesotho](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Sesotho")[![Image 94: su](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Basa Sunda](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Basa Sunda")[![Image 95: tg](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Тоҷикӣ](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Тоҷикӣ")[![Image 96: uz](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) O‘zbekcha](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "O‘zbekcha")[![Image 97: am](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) አማርኛ](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "አማርኛ")[![Image 98: co](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Corsu](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Corsu")[![Image 99: haw](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Ōlelo Hawaiʻi](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Ōlelo Hawaiʻi")[![Image 100: ku](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) كوردی‎](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "كوردی‎")[![Image 101: ky](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Кыргызча](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Кыргызча")[![Image 102: lb](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Lëtzebuergesch](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Lëtzebuergesch")[![Image 103: ps](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) پښتو](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "پښتو")[![Image 104: sm](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Samoan](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Samoan")[![Image 105: gd](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Gàidhlig](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Gàidhlig")[![Image 106: sn](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Shona](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Shona")[![Image 107: sd](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) سنڌي](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "سنڌي")[![Image 108: fy](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) Frysk](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "Frysk")[![Image 109: xh](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison) isiXhosa](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison# "isiXhosa")
-
-* [English](https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison)
-
-* [Español](https://www.dea.gov/es/node/223301)
 
 ## Main Menu
 
@@ -497,9 +454,96 @@ DEA.gov is an official site of the [U.S. Department of Justice](https://www.just
 
 ![Image 119: dot image pixel](https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2025%20Apr%202026%2014%3A42%3A02%20GMT&n=0&b=Dark%20Web%20Dealer%20of%20Meth%2C%20Heroin%20Heads%20to%20Prison&.yp=10207861&f=https%3A%2F%2Fwww.dea.gov%2Fpress-releases%2F2024%2F02%2F29%2Fdark-web-dealer-meth-heroin-heads-prison&enc=UTF-8&yv=1.16.6&tagmgr=gtm)
 
+## Extracted Text
+
+## Dark Web Dealer of Meth, Heroin Heads to Prison
+
+February 29, 2024
+
+|
+
+Share Article
+
+Download Press Release
+
+For Immediate Release
+
+Contact:
+
+Phone Number: (571) 362-5149
+
+KANSAS CITY, Mo. – A Kansas City, Mo., man was sentenced in federal court today for selling methamphetamine and heroin on the dark web.
+
+John M. LeCoque, 35, was sentenced by U.S. District Judge Greg Kays to 10 years in federal prison without parole. The court also ordered LeCoque to forfeit to the government $22,000, representing proceeds obtained from his illegal drug trafficking.
+
+On Aug. 16, 2023, LeCoque pleaded guilty to conspiracy to distribute methamphetamine and heroin.
+
+LeCoque admitted that he sold illegal drugs over the dark web via an online marketplace called White House Market from May 15, 2020, to Aug. 6, 2021.
+
+Federal agents used cryptocurrency to purchase methamphetamine and heroin from LeCoque through an undercover account on two occasions in 2021. Agents executed a search warrant at LeCoque’s residence on May 27, 2021. Agents seized methamphetamine and heroin from his apartment. Agents also found a Smith & Wesson 9mm handgun and ammunition inside a locked safe.
+
+Federal agents executed a search warrant of LeCoque’s online vendor account and located information for 279 orders of illegal drugs from May 2020 to May 2021, including a total of 604 grams of methamphetamine and 234 grams of heroin.
+
+Several months later, in August 2021, LeCoque advertised a “final sale” on his dark web vendor account.
+
+According to court documents, LeCoque advertised his product to countless users, marketing his methamphetamine as “Rural Mos finest crystal methamphetamine” and advertising his heroin as “high-potency brown powder heroin, cut with just enough lactose to make it easy to snort and prevent clumping.” Records from LeCoque’s account and statements made by LeCoque indicate he was grossing over $10,000 per month through his online drug sales.
+
+This case was investigated by the Drug Enforcement Administration.
+
+###
+
+MethamphetamineHeroin
+
+#### Drug Enforcement Administration
+
+Michael A. Davis Special Agent in Charge - St. Louis
+
+@DEAStLouisDiv
+
+Domestic Divisions
+
+Foreign Offices
+
+Drug Prevention
+
+Diversion Control Division
+
+Forensic Sciences
+
+Employee Assistance Program
+
+Publications
+
+VWAP
+
+Doing Business with the DEA
+
+Overview
+
+Current Vendors
+
+Prospective Vendors
+
+Security Clauses
+
+Security Forms
+
+Small Business Program
+
+Vendor Engagement Request
+
+Policies
+
+Accessibility & Policy
+
+Legal Policies & Disclaimers
+
+No FEAR Act
+
 ## Extraction Notes
 
-- parser: plain
+- parser: jina_markdown
 - fetcher: jina
-- fetched_at: 2026-04-25T14:42:19+00:00
+- normalized_at: 2026-04-28T16:03:46+00:00
 - final_url: https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison
+- cleanup: jina navigation trim

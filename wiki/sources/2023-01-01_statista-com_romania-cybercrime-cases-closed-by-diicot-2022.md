@@ -31,4 +31,4 @@ copyright_policy: summary-only
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-01-01_statista-com_romania-cybercrime-cases-closed-by-diicot-2022.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-01-01_statista-com_romania-cybercrime-cases-closed-by-diicot-2022.md`, preserving traceable review without classifying the page as a placeholder.

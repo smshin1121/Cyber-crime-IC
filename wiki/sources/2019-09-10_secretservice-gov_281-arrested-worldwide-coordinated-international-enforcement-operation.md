@@ -21,11 +21,12 @@ key_findings:
 created: 2026-04-23
 updated: 2026-04-23
 raw_path: raw/press-releases/2019-09-10_secretservice-gov_281-arrested-worldwide-coordinated-international-enforcement-operation.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:27da6327fb16551aedfaf4c27e2ec53ca5d00fcfe8644d3afbf85c0d5ea3ebf9
-word_count: 158
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:97fcf8c64471c6c1811c22ee6811a1616a9d9e4391f05530bfa93a805f5cc0c1
+word_count: 2615
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Summary
 

@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://rm.coe.int/romania-daniela-matei/1680addf4f
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:56d273956bb9459c7079e65e18edac90c2fc31b20385815d52ab1f2381e7f32b
-word_count: 207
-extraction_date: 2026-04-25
+content_hash: sha256:a5d92adfa57f57584dcfa6fb1d3f2791a8600d13cc8d4bd9985f1da66c500a46
+word_count: 184
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The **Service for Combating Cybercrime** (Serviciul de Combatere a CriminalitÄƒÈ
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_rm-coe-int_directorate-for-combating-organized-crime-central-cybercrime-unit-presentation.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_rm-coe-int_directorate-for-combating-organized-crime-central-cybercrime-unit-presentation.md`, preserving traceable review without classifying the page as a placeholder.

@@ -107,15 +107,14 @@ lessons_learned:
   - "Undercover infiltration of marketplace staff provides critical intelligence"
   - "Large-scale coordinated takedowns send a strong deterrence signal but may not permanently suppress darknet markets"
   - "Investigation methods that exploit Tor vulnerabilities raise significant research ethics and civil liberties concerns"
-source_count: 5
+source_count: 4
 sources:
-  - "[Europol IOCTA 2015 — Darknets](https://www.europol.europa.eu/iocta/2015/darknets.html)"
-  - "[Wikipedia — Operation Onymous](https://en.wikipedia.org/wiki/Operation_Onymous)"
-  - "[FBI press release — Silk Road 2.0 Charged](https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court)"
-  - "[ICE press release — International probe leads to arrest](https://www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20)"
-  - "[GDPO Situation Analysis (Jan 2015)](https://www.swansea.ac.uk/media/Operation-Onymous.pdf)"
+  - "[[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]"
+  - "[[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]]"
+  - "[[2015-01-01_swansea-ac-uk_gdpo-situation-analysis-operation-onymous]]"
+  - "[[2026-04-17_en-wikipedia-org_operation-onymous]]"
 created: 2026-04-10
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Onymous was a joint international law enforcement operation conducted on 5-6 November 2014 by the [[fbi-cyber-division|FBI]], [[europol-ec3|Europol]], [[eurojust|Eurojust]], and the [[us-dhs|U.S. Department of Homeland Security]], targeting darknet markets and other hidden services on the Tor network. The operation resulted in the seizure of 267 .onion addresses across 27 distinct websites — including Silk Road 2.0, Cloud 9, and Hydra — the arrest of 17 individuals, and the seizure of approximately USD 1 million in Bitcoin along with cash, drugs, weapons, and computers. Blake Benthall, the alleged operator of Silk Road 2.0 (pseudonym \"Defcon\"), was arrested in San Francisco. The operation involved 17 European countries plus the United States and represented the largest coordinated action against Tor hidden services at the time. However, it also generated significant controversy regarding the methods used to deanonymize Tor hidden services, including questions about a possible Carnegie Mellon University research exploit."
@@ -328,10 +327,9 @@ This keeps the canonical record analytically bounded and reproducible.
 
 ## References
 
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
-| 1 | IOCTA 2015 — Darknets | Europol | 2015 | [Link](https://www.europol.europa.eu/iocta/2015/darknets.html) |
-| 2 | Operation Onymous | Wikipedia | (ongoing) | [Link](https://en.wikipedia.org/wiki/Operation_Onymous) |
-| 3 | Operator of Silk Road 2.0 Website Charged in Manhattan Federal Court | FBI | 2014-11-06 | [Link](https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court) |
-| 4 | International probe leads to the arrest of the alleged operator of "Silk Road 2.0" | ICE / HSI | 2014-11-06 | [Link](https://www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20) |
-| 5 | GDPO Situation Analysis — Operation Onymous | Swansea University | 2015-01 | [Link](https://www.swansea.ac.uk/media/Operation-Onymous.pdf) |
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | Operator of Silk Road 2.0 Website Charged in Manhattan Federal Court | FBI | 2014-11-06 | https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court |
+| [2] | International probe leads to the arrest of the alleged operator of "Silk Road 2.0" | ICE / HSI | 2014-11-06 | https://www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20 |
+| [3] | GDPO Situation Analysis — Operation Onymous | Swansea University | 2015-01-01 | https://www.swansea.ac.uk/media/Operation-Onymous.pdf |
+| [4] | Operation Onymous | Wikipedia | 2026-04-17 | https://en.wikipedia.org/wiki/Operation_Onymous |

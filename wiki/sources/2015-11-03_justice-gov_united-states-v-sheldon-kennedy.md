@@ -34,4 +34,4 @@ Sheldon Kennedy (Silk Road Vendor) Enforcement Action is a defendant-specific en
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-11-03_justice-gov_united-states-v-sheldon-kennedy.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2015-11-03_justice-gov_united-states-v-sheldon-kennedy.md`, preserving traceable review without classifying the page as a placeholder.

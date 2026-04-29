@@ -34,4 +34,4 @@ On 17 July 2019, DOJ announced that Brandon Arias, one of the people behind the 
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2019-07-17_sdil_brandon-arias-dark-web-plea.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2019-07-17_sdil_brandon-arias-dark-web-plea.md`, preserving traceable review without classifying the page as a placeholder.

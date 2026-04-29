@@ -55,9 +55,9 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2023-02-22_mdfl_pankov-xdedic-extradition]]"
+  - "[[2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"
 summary: "Dariy Pankov (xDedic / NLBrute) Enforcement Action is a defendant-specific xDedic follow-on retained as an operation-side pointer to [[us-v-pankov-xdedic]] and the umbrella [[xdedic-marketplace-takedown]] record."
@@ -87,4 +87,4 @@ United States v. Pankov is an xDedic-related prosecution focused on a major sell
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Russian Malware Developer Arrested And Extradited To The United States | US DOJ (Middle District of Florida) | 2023-02-22 | https://www.justice.gov/usao-mdfl/pr/russian-malware-developer-arrested-and-extradited-united-states |
+| [1] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-04 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |

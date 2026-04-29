@@ -18,11 +18,12 @@ key_findings:
 collection_url: https://oig.ssa.gov/news-releases/2026-01-28-slovakian-man-admits-aiding-darknet-market-that-sold-drugs-and-stolen-personal-information/
 created: 2026-04-25
 raw_path: raw/press-releases/2026-01-28_ssa-oig_slovakian-man-admits-aiding-darknet-market-that-sold-drugs-and-stolen-personal-information.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:5b5f66e7d2a6e1a9b2f01d18899b02b9daf9dc7a4bafcc5314c2531dc19cd420
-word_count: 150
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:5dac61dad6314ed6f36db5e9a4bceec9545ce1b50681822ace24922a94f13ce2
+word_count: 435
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

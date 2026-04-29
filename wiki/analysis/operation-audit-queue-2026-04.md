@@ -2,7 +2,7 @@
 title: Operation Audit Queue (April 2026)
 type: analysis
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-29
 summary: "Priority queue for human-style review of all operation pages, ranked by source density, structure, international-cooperation fit, and content risk."
 source_count: 0
 ---
@@ -23,164 +23,165 @@ This queue ranks every operation page for manual review using the following sign
 ## Queue Summary
 
 - Total operations audited: **1085**
-- High priority (`score >= 35`): **957**
-- Medium priority (`20-34`): **61**
-- Lower priority (`< 20`): **67**
+- Absorbed wrapper records treated as low-risk continuity pages: **974**
+- High priority (`score >= 35`): **0**
+- Medium priority (`20-34`): **0**
+- Lower priority (`< 20`): **1085**
 
 ## Top 150 Review Queue
 
 | Rank | Operation | Score | Sources | Role | Countries | Risk signals |
 |---|---|---:|---:|---|---:|---|
-| 1 | [[operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide]] | 55 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title, thin_cooperation_metadata |
-| 2 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]] | 55 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title, thin_cooperation_metadata |
-| 3 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]] | 55 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title, thin_cooperation_metadata |
-| 4 | [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | 51 | 1 | follow-on | 1 | low_sources:1, thin_body_structure, domestic_follow_on |
-| 5 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 6 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-4]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 7 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-5]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 8 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-6]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 9 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 10 | [[operation-foreign-national-indicted-in-wire-fraud-scheme]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 11 | [[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 12 | [[operation-foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 13 | [[operation-foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 14 | [[operation-former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 15 | [[operation-former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 16 | [[operation-former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 17 | [[operation-former-emergency-physician-pleads-guilty-to-possessing-child-pornography]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 18 | [[operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 19 | [[operation-former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 20 | [[operation-independence-pair-indicted-for-drug-and-firearms-offenses]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 21 | [[operation-individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency-mixer]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 22 | [[operation-international-crypto-vendor-sentenced-for-money-laundering-conspiracy]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 23 | [[operation-international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 24 | [[operation-international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 25 | [[operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 26 | [[operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 27 | [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 28 | [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-other-drugs-and-money-laundering-]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 29 | [[operation-irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 30 | [[operation-issaquah-washington-man-sentenced-to-7-years-in-prison-for-dealing-fentanyl-and-other-drugs-on-the-darknet]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 31 | [[operation-jefferson-county-man-sentenced-to-6-12-years-in-prison-for-possession-of-child-pornography]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 32 | [[operation-jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 33 | [[operation-kansas-city-woman-indicted-for-fraudulent-tax-returns]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 34 | [[operation-kansas-farmer-indicted-for-insurance-fraud]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 35 | [[operation-kansas-man-pleads-guilty-to-child-pornography-possession]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 36 | [[operation-kansas-woman-indicted-for-defrauding-elderly-victims]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 37 | [[operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 38 | [[operation-kent-washington-resident-indicted-for-dealing-fentanyl-while-illegally-possessing-firearm]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 39 | [[operation-kentucky-man-pleads-guilty-to-advertising-child-pornography]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 40 | [[operation-kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 41 | [[operation-key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-in-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 42 | [[operation-key-player-in-silk-road-2-0-sentenced-to-eight-years-in-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 43 | [[operation-king-county-couple-indicted-for-drug-and-illegal-weapons-possession]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 44 | [[operation-king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 45 | [[operation-kirkwood-resident-pleads-guilty-for-identity-theft]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 46 | [[operation-knox-county-man-sentenced-to-60-years-imprisonment-for-two-counts-of-production-of-child-pornography]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 47 | [[operation-kosovo-national-pleads-guilty-to-operating-an-online-criminal-marketplace]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 48 | [[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 49 | [[operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 50 | [[operation-laredo-professor-charged-with-distribution-and-production-of-child-pornography]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 51 | [[operation-latvian-national-charged-for-alleged-role-in-transnational-cybercrime-organization]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 52 | [[operation-leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 53 | [[operation-leader-of-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-to-11-years-imprisonment]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 54 | [[operation-leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 55 | [[operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 56 | [[operation-ledyard-man-charged-with-child-exploitation-offense]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 57 | [[operation-ledyard-man-pleads-guilty-to-child-exploitation-offense]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 58 | [[operation-lewis-county-man-charged-federally-with-unlawful-weapons-possession]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 59 | [[operation-lone-american-indicted-in-international-drug-trafficking-investigation-sentenced-to-five-years-in-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 60 | [[operation-long-beach-man-pleads-guilty-to-production-and-distribution-of-images-of-minors-engaging-in-sexually-explicit-]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 61 | [[operation-long-beach-man-sentenced-to-110-years-in-prison-for-production-of-images-of-minors-engaging-in-sexually-explic]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 62 | [[operation-los-angeles-county-woman-pleads-guilty-to-conspiring-to-distribute-heroin-methamphetamine-and-cocaine-on-the-d]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 63 | [[operation-madison-county-sex-offender-indicted-for-failure-to-register]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 64 | [[operation-man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 65 | [[operation-man-charged-with-threatening-and-cyberstalking-congressman]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 66 | [[operation-man-from-grays-harbor-county-washington-pleads-guilty-to-possession-of-narcotics-with-intent-to-distribute]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 67 | [[operation-man-pleads-guilty-to-charges-of-stealing-senate-information-illegally-posting-restricted-personal-information-]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 68 | [[operation-man-pleads-guilty-to-conspiracy-to-distribute-meth-on-the-darknet]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 69 | [[operation-man-sentenced-for-conspiracy-to-distribute-meth-on-the-darknet]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 70 | [[operation-man-sentenced-for-stalking-and-threatening-congressman-kevin-hern-and-his-wife]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 71 | [[operation-man-sentenced-for-stealing-over-712-bitcoin-subject-to-forfeiture]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 72 | [[operation-man-sentenced-for-transnational-cybercrime-enterprise]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 73 | [[operation-man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-community-service-for-passport-fraud]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 74 | [[operation-marion-county-man-pleads-guilty-to-production-of-child-sex-abuse-material]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 75 | [[operation-maryland-man-sentenced-to-30-months-in-prison-for-cyberstalking-former-girlfriend-and-threatening-workplace-vi]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 76 | [[operation-maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 77 | [[operation-massachusetts-man-pleads-guilty-to-firearm-offenses-and-unlawful-entry-into-the-u-s]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 78 | [[operation-massachusetts-man-pleads-guilty-to-knowingly-concealing-the-source-of-material-support-or-resources-to-isis]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 79 | [[operation-massachusetts-man-sentenced-for-knowingly-concealing-the-source-of-material-support-or-resources-to-isis]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 80 | [[operation-member-of-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-to-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 81 | [[operation-member-of-lummi-nation-indicted-for-distributing-fentanyl]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 82 | [[operation-member-of-russian-cybercrime-group-charged-in-ohio]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 83 | [[operation-members-of-seattle-drug-trafficking-organization-indicted-for-distribution-of-heroin]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 84 | [[operation-men-indicted-for-crimes-related-to-securities-fraud]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 85 | [[operation-mexican-national-sentenced-to-prison-for-role-as-drug-ring-courier]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 86 | [[operation-michigan-man-indicted-on-wire-fraud-and-aggravated-identity-theft-charges]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 87 | [[operation-michigan-man-sentenced-to-312-years-in-prison-for-role-in-sim-swapping-that-led-to-account-takeovers-and-122-0]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 88 | [[operation-michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse-material-on-a-military-base]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 89 | [[operation-middlesex-county-man-charged-with-production-and-possession-of-child-pornography]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 90 | [[operation-minnesota-man-pleads-guilty-to-stalking-and-interstate-communications]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 91 | [[operation-mississippi-county-sheriff-indicted-on-charges-of-identity-theft]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 92 | [[operation-missouri-man-sentenced-for-advertising-child-pornography-on-the-dark-web]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 93 | [[operation-moldovan-botnet-operator-indicted-for-role-in-conspiracy-to-unlawfully-access-thousands-of-infected-computers-]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 94 | [[operation-moldovan-sentenced-for-distributing-multifunction-malware-package]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 95 | [[operation-monroe-washington-man-sentenced-to-10-years-in-prison-for-role-as-right-hand-man-in-deadly-drug-distribution-r]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 96 | [[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 97 | [[operation-montgomery-county-doctor-charged-with-illegally-prescribing-opioids]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 98 | [[operation-monticello-man-indicted-for-attempted-enticement-of-a-minor]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 99 | [[operation-mountain-view-resident-charged-with-production-of-child-pornography-and-cyberstalking]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 100 | [[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-and-conti]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 101 | [[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 102 | [[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies-2]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 103 | [[operation-natchitoches-man-sentenced-for-possession-of-child-pornography]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 104 | [[operation-nebraska-businessman-indicted-for-fraud]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 105 | [[operation-nebraska-man-pleads-guilty-in-multi-million-dollar-cryptojacking-case]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 106 | [[operation-nevada-woman-sentenced-to-5-years-prison-for-hiring-hitman-on-dark-web-to-kill-her-ex-husband]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 107 | [[operation-new-britain-man-sentenced-to-10-years-in-prison-for-distributing-fentanyl]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 108 | [[operation-new-britain-man-sentenced-to-66-months-in-prison-for-distributing-fentanyl]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 109 | [[operation-new-jersey-man-sentenced-for-prescription-opioid-conspiracy]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 110 | [[operation-new-jersey-man-sentenced-to-prison-after-pleading-guilty-to-posting-restricted-information-to-social-media]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 111 | [[operation-new-york-man-indicted-in-st-louis-accused-of-selling-counterfeit-xanax-on-dark-web]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 112 | [[operation-new-york-man-sentenced-to-24-months-in-prison-for-internet-offenses-including-doxing-swatting-making-a-false-b]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 113 | [[operation-new-york-man-sentenced-to-54-months-in-prison-for-selling-counterfeit-xanax-on-dark-web]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 114 | [[operation-new-york-man-sentenced-to-84-months-in-prison-for-conspiring-to-engage-in-multimillion-dollar-wire-fraud-schem]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 115 | [[operation-newport-news-man-sentenced-for-prolific-card-swiping-operation]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 116 | [[operation-nicaraguan-national-pleads-guilty-to-conspiring-to-distribute-cocaine-and-marijuana-on-the-darknet]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 117 | [[operation-nigerian-citizen-extradited-from-the-u-k-arraigned-on-indictment-for-wire-fraud-involving-stolen-tax-informati]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 118 | [[operation-nigerian-national-pleads-guilty-to-1-25-million-business-email-compromise-scam-impacting-u-s-company]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 119 | [[operation-nigerian-national-pleads-guilty-to-multi-million-dollar-cyber-fraud-scheme-targeting-tulsa-company-and-four-ot]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 120 | [[operation-nigerian-national-sentenced-to-more-than-12-years-in-federal-prison-for-cyber-scams]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 121 | [[operation-nigerian-national-sentenced-to-more-than-six-years-in-federal-prison-for-international-tax-fraud-scheme]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 122 | [[operation-nigerian-nationals-charged-with-operating-business-compromise-scheme]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 123 | [[operation-nigerian-state-official-sentenced-to-5-years-in-prison-for-stealing-u-s-disaster-aid-and-taxpayer-refunds]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 124 | [[operation-north-carolina-man-sentenced-to-federal-prison-for-distributing-opioids-through-the-dark-web]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 125 | [[operation-north-philadelphia-pill-mill-doctor-sentenced-to-five-years-in-prison-for-illegal-opioid-distribution]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 126 | [[operation-north-reading-man-indicted-for-possession-of-child-pornography]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 127 | [[operation-norton-shores-dark-web-drug-dealer-sentenced-to-30-months-in-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 128 | [[operation-notorious-hacker-sentenced-to-18-months-in-prison]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 129 | [[operation-nurse-charged-with-tampering-with-vials-of-fentanyl]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 130 | [[operation-o-c-and-houston-men-sentenced-to-decades-in-prison-for-supplying-fentanyl-and-other-drugs-sold-on-darknet-and-]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 131 | [[operation-ocala-man-sentenced-to-federal-prison-for-attempting-to-meet-a-13-year-old-to-engage-in-sexual-activity]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 132 | [[operation-odessa-man-indicted-for-stealing-more-than-250-000-in-ppp-funds]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 133 | [[operation-ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-to-forfeiture-in-brothers-pendi]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 134 | [[operation-ohio-resident-pleads-guilty-to-operating-darknet-based-bitcoin-mixer-that-laundered-over-300-million]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 135 | [[operation-oklahoma-man-sentenced-to-30-years-in-prison-for-sexually-exploiting-children]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 136 | [[operation-oldsmar-man-charged-with-producing-and-distributing-child-sexual-abuse-material]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 137 | [[operation-one-defendant-sentenced-to-prison-and-another-ordered-detained-pretrial-this-week-in-separate-cyberstalking-ca]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 138 | [[operation-operator-of-helix-darknet-cryptocurrency-mixer-sentenced-in-money-laundering-conspiracy-involving-hundreds-of-]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 139 | [[operation-operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 140 | [[operation-orange-county-man-pleads-guilty-to-stalking-charge-for-harassment-campaign-against-professional-online-gamer]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 141 | [[operation-orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 142 | [[operation-oregon-man-sentenced-to-federal-prison-for-attempting-to-sell-cocaine-purchased-from-the-dark-web]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 143 | [[operation-overland-park-men-indicted-for-investment-fraud-scheme]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 144 | [[operation-owners-of-empire-market-charged-in-chicago-with-operating-430-million-dark-web-marketplace]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 145 | [[operation-palm-beach-county-man-sentenced-for-cyberstalking-two-victims]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 146 | [[operation-parma-men-among-those-charged-as-part-of-crackdown-on-darknet-vendors]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 147 | [[operation-parolee-indicted-for-illegal-possession-of-a-firearm]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 148 | [[operation-pasadena-man-who-cyberstalked-and-made-threats-to-injure-rape-and-kill-sentenced-to-more-than-3-years-in-feder]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 149 | [[operation-pennsylvania-family-pleads-guilty-to-fentanyl-trafficking]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
-| 150 | [[operation-pennsylvania-man-convicted-of-distributing-fentanyl-analogue-that-killed-orlando-woman]] | 49 | 1 | follow-on | 1 | low_sources:1, domestic_follow_on, procedural_title |
+| 1 | [[operation-orion-international]] | 12 | 5 | umbrella | 12 | weak_connectivity, thin_cooperation_metadata |
+| 2 | [[operation-pleiades]] | 12 | 5 | umbrella | 10 | weak_connectivity, thin_cooperation_metadata |
+| 3 | [[operation-secreto]] | 12 | 5 | umbrella | 5 | weak_connectivity, thin_cooperation_metadata |
+| 4 | [[operation-secure-interpol]] | 12 | 5 | umbrella | 6 | weak_connectivity, thin_cooperation_metadata |
+| 5 | [[operation-source]] | 12 | 5 | umbrella | 3 | weak_connectivity, thin_cooperation_metadata |
+| 6 | [[operation-synergia-ii]] | 12 | 5 | umbrella | 5 | weak_connectivity, thin_cooperation_metadata |
+| 7 | [[operation-talent]] | 12 | 5 | umbrella | 8 | weak_connectivity, thin_cooperation_metadata |
+| 8 | [[phobos-8base-crackdown]] | 12 | 5 | umbrella | 15 | weak_connectivity, thin_cooperation_metadata |
+| 9 | [[ramnit-botnet-takedown]] | 12 | 5 | umbrella | 4 | weak_connectivity, thin_cooperation_metadata |
+| 10 | [[rex-mundi-takedown]] | 12 | 5 | umbrella | 3 | weak_connectivity, thin_cooperation_metadata |
+| 11 | [[simda-botnet-takedown]] | 12 | 5 | umbrella | 7 | weak_connectivity, thin_cooperation_metadata |
+| 12 | [[cryptex-pm2btc-sanctions]] | 12 | 6 | umbrella | 2 | weak_connectivity, thin_cooperation_metadata |
+| 13 | [[ddos-for-hire-sweep-2016]] | 12 | 6 | umbrella | 13 | weak_connectivity, thin_cooperation_metadata |
+| 14 | [[operation-contender-2]] | 12 | 6 | umbrella | 4 | weak_connectivity, thin_cooperation_metadata |
+| 15 | [[operation-nightfury]] | 12 | 6 | umbrella | 2 | weak_connectivity, thin_cooperation_metadata |
+| 16 | [[operation-red-card]] | 12 | 6 | umbrella | 7 | weak_connectivity, thin_cooperation_metadata |
+| 17 | [[operation-stream-kidflix]] | 12 | 6 | umbrella | 2 | weak_connectivity, thin_cooperation_metadata |
+| 18 | [[zeus-spyeye-jit-takedown]] | 12 | 6 | umbrella | 13 | weak_connectivity, thin_cooperation_metadata |
+| 19 | [[operation-avalanche]] | 12 | 7 | umbrella | 29 | weak_connectivity, thin_cooperation_metadata |
+| 20 | [[silk-road-takedown]] | 12 | 7 | umbrella | 5 | heavy_hedging:6 |
+| 21 | [[zambia-golden-top-call-center]] | 12 | 8 | umbrella | 2 | weak_connectivity, thin_cooperation_metadata |
+| 22 | [[operation-chakra-iii]] | 10 | 5 | umbrella | 2 | heavy_hedging:5 |
+| 23 | [[operation-onymous]] | 10 | 5 | umbrella | 17 | heavy_hedging:5 |
+| 24 | [[bali-villa-cybercrime-raid-2024]] | 8 | 5 | umbrella | 1 | single_country_umbrella |
+| 25 | [[bec-nigeria-2016]] | 8 | 5 | umbrella | 1 | single_country_umbrella |
+| 26 | [[doublevpn-takedown]] | 8 | 5 | umbrella | 9 | heavy_hedging:4 |
+| 27 | [[operation-falcon]] | 8 | 5 | umbrella | 1 | single_country_umbrella |
+| 28 | [[operation-lyrebird]] | 8 | 5 | umbrella | 1 | single_country_umbrella |
+| 29 | [[romania-phishing-takedown-2024]] | 8 | 5 | umbrella | 1 | single_country_umbrella |
+| 30 | [[carding-action-2020]] | 8 | 6 | umbrella | 3 | heavy_hedging:4 |
+| 31 | [[operation-hyperion]] | 8 | 6 | umbrella | 1 | single_country_umbrella |
+| 32 | [[operation-power-off]] | 8 | 7 | umbrella | 15 | heavy_hedging:4 |
+| 33 | [[dridex-operations]] | 8 | 8 | umbrella | 5 | heavy_hedging:4 |
+| 34 | [[911-s5-botnet-takedown]] | 6 | 5 | umbrella | 4 | thin_cooperation_metadata |
+| 35 | [[black-axe-bec-2021]] | 6 | 5 | umbrella | 6 | weak_connectivity |
+| 36 | [[darkode-takedown]] | 6 | 5 | umbrella | 6 | thin_cooperation_metadata |
+| 37 | [[fin7-takedown]] | 6 | 5 | umbrella | 4 | thin_cooperation_metadata |
+| 38 | [[korea-china-voice-phishing-qingdao]] | 6 | 5 | umbrella | 2 | thin_cooperation_metadata |
+| 39 | [[lumma-stealer-takedown]] | 6 | 5 | umbrella | 2 | weak_connectivity |
+| 40 | [[nemesis-market-takedown]] | 6 | 5 | umbrella | 3 | thin_cooperation_metadata |
+| 41 | [[operation-cronos-phase3]] | 6 | 5 | umbrella | 12 | thin_cooperation_metadata |
+| 42 | [[operation-endgame-phase1]] | 6 | 5 | umbrella | 13 | thin_cooperation_metadata |
+| 43 | [[operation-eur-100m-crypto-investment-fraud-2025]] | 6 | 5 | umbrella | 6 | weak_connectivity |
+| 44 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | 6 | 5 | umbrella | 4 | weak_connectivity |
+| 45 | [[operation-eur-300m-global-credit-card-fraud-2025]] | 6 | 5 | umbrella | 10 | weak_connectivity |
+| 46 | [[operation-eur-3m-online-investment-fraud-2025]] | 6 | 5 | umbrella | 7 | weak_connectivity |
+| 47 | [[operation-eur-600m-crypto-scam-network-2025]] | 6 | 5 | umbrella | 5 | weak_connectivity |
+| 48 | [[operation-first-light-2024]] | 6 | 5 | umbrella | 3 | weak_connectivity |
+| 49 | [[operation-germany-romania-trusted-seller-fraud-2025]] | 6 | 5 | umbrella | 3 | weak_connectivity |
+| 50 | [[operation-haechi-iv]] | 6 | 5 | umbrella | 8 | thin_cooperation_metadata |
+| 51 | [[operation-haechi-v]] | 6 | 5 | umbrella | 2 | thin_cooperation_metadata |
+| 52 | [[operation-haechi-vi]] | 6 | 5 | umbrella | 32 | thin_cooperation_metadata |
+| 53 | [[operation-jackal]] | 6 | 5 | umbrella | 21 | thin_cooperation_metadata |
+| 54 | [[operation-jackal-iii]] | 6 | 5 | umbrella | 3 | thin_cooperation_metadata |
+| 55 | [[operation-sentinel-africa]] | 6 | 5 | umbrella | 19 | thin_cooperation_metadata |
+| 56 | [[operation-serengeti]] | 6 | 5 | umbrella | 19 | thin_cooperation_metadata |
+| 57 | [[operation-shrouded-horizon]] | 6 | 5 | umbrella | 20 | weak_connectivity |
+| 58 | [[operation-wirewire]] | 6 | 5 | umbrella | 5 | thin_cooperation_metadata |
+| 59 | [[qakbot-gallyamov-indictment]] | 6 | 5 | umbrella | 7 | thin_cooperation_metadata |
+| 60 | [[qqaazz-money-laundering-takedown]] | 6 | 5 | umbrella | 7 | thin_cooperation_metadata |
+| 61 | [[isoon-apt27-indictment]] | 6 | 6 | umbrella | 2 | thin_cooperation_metadata |
+| 62 | [[operation-cronos-phase1]] | 6 | 7 | umbrella | 14 | thin_cooperation_metadata |
+| 63 | [[banking-trojan-fraud-sentencing-2017]] | 0 | 1 | follow-on | 0 | absorbed_wrapper |
+| 64 | [[infraud-telusma-sentencing]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 65 | [[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]] | 0 | 1 | follow-on | 5 | absorbed_wrapper |
+| 66 | [[operation-12-members-of-an-irish-high-risk-criminal-network-arrested]] | 0 | 1 | follow-on | 5 | absorbed_wrapper |
+| 67 | [[operation-150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 68 | [[operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 69 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 70 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 71 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 72 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-4]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 73 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-5]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 74 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-6]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 75 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 76 | [[operation-administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 77 | [[operation-alleged-russian-cryptocurrency-money-launderer-extradited-to-united-states]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 78 | [[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 79 | [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | 0 | 1 | follow-on | 4 | absorbed_wrapper |
+| 80 | [[operation-brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 81 | [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | 0 | 1 | follow-on | 2 | absorbed_wrapper |
+| 82 | [[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 83 | [[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 84 | [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 85 | [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] | 0 | 1 | follow-on | 4 | absorbed_wrapper |
+| 86 | [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 87 | [[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 88 | [[operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 89 | [[operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 90 | [[operation-emotet-disruption-ladybird]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 91 | [[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 92 | [[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 93 | [[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]] | 0 | 1 | follow-on | 6 | absorbed_wrapper |
+| 94 | [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | 0 | 1 | follow-on | 4 | absorbed_wrapper |
+| 95 | [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 96 | [[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 97 | [[operation-florida-computer-programmer-arrested-for-hacking]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 98 | [[operation-florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 99 | [[operation-foreign-national-indicted-in-wire-fraud-scheme]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 100 | [[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]] | 0 | 1 | follow-on | 2 | absorbed_wrapper |
+| 101 | [[operation-foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 102 | [[operation-foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 103 | [[operation-former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 104 | [[operation-former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 105 | [[operation-former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 106 | [[operation-former-emergency-physician-pleads-guilty-to-possessing-child-pornography]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 107 | [[operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 108 | [[operation-former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 109 | [[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 110 | [[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 111 | [[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | 0 | 1 | follow-on | 2 | absorbed_wrapper |
+| 112 | [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 113 | [[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 114 | [[operation-greene-county-man-indicted-cyberstalking-and-interstate-threats]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 115 | [[operation-hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 116 | [[operation-illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 117 | [[operation-in-re-bidencash-marketplace-seizure]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 118 | [[operation-in-re-heartsender-seizure]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 119 | [[operation-independence-pair-indicted-for-drug-and-firearms-offenses]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 120 | [[operation-individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency-mixer]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 121 | [[operation-international-crypto-vendor-sentenced-for-money-laundering-conspiracy]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 122 | [[operation-international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 123 | [[operation-international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 124 | [[operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 125 | [[operation-interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 126 | [[operation-interpol-seized-130-million-from]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 127 | [[operation-interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 128 | [[operation-interpol-seized-130-million-from-cybercriminals-worldwide]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 129 | [[operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 130 | [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 131 | [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-other-drugs-and-money-laundering-]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 132 | [[operation-irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 133 | [[operation-issaquah-washington-man-sentenced-to-7-years-in-prison-for-dealing-fentanyl-and-other-drugs-on-the-darknet]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 134 | [[operation-jefferson-county-man-sentenced-to-6-12-years-in-prison-for-possession-of-child-pornography]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 135 | [[operation-jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 136 | [[operation-jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-prison]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 137 | [[operation-justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 138 | [[operation-justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 139 | [[operation-justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 140 | [[operation-justice-dept-seizes-over-112m-in-funds-linked-to-cryptocurrency-investment-schemes-with-over-half-seized-in-lo]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 141 | [[operation-kansas-city-woman-indicted-for-fraudulent-tax-returns]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 142 | [[operation-kansas-farmer-indicted-for-insurance-fraud]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 143 | [[operation-kansas-man-pleads-guilty-to-child-pornography-possession]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 144 | [[operation-kansas-woman-indicted-for-defrauding-elderly-victims]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 145 | [[operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 146 | [[operation-kent-washington-resident-indicted-for-dealing-fentanyl-while-illegally-possessing-firearm]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 147 | [[operation-kentucky-man-pleads-guilty-advertising-child-pornography]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 148 | [[operation-kentucky-man-pleads-guilty-to-advertising-child-pornography]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 149 | [[operation-kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
+| 150 | [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested]] | 0 | 1 | follow-on | 1 | absorbed_wrapper |
 
 ## Notes
 

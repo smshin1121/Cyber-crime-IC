@@ -61,26 +61,26 @@ results:
     - "EUR 406,000 in cash and 14 high-end vehicles were seized."
     - "19 European arrest warrants were executed."
 edges:
-  []
+
 credibility_index: 4.18
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Payment-card fraud schemes targeting U.S. banks can rely on shell companies and apparently legitimate transaction history rather than malware alone."
   - "Cross-border fraud operations benefit from paired Europol and U.S. Secret Service coordination when both European laundering routes and U.S. payment infrastructure are involved."
 source_count: 1
 sources:
-  - "[[2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]]"
+  - "[[2021-02-03_secretservice-gov_105-arrested-stealing-over-eu12-million-us-based-banks]]"
 summary: "This follow-on operation page captures the public enforcement results of Operation Secreto, a Europol-coordinated and U.S. Secret Service-supported action against a transatlantic payment-card fraud and laundering network."
 created: 2026-04-18
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 > [!note] Source basis
 > This page now rests on Europol, U.S. Secret Service, and Spanish National Police releases, plus two secondary reports that preserve the Operation Secreto naming and Greek-network framing.
@@ -163,4 +163,4 @@ The public record shows a hybrid financial-crime cooperation model. Europol hand
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | 105 Arrested for Stealing Over EUR 12 Million from US-Based Banks | Europol | 2021-02-01 | https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks |
+| [1] | 105 Arrested for Stealing Over EUR 12 Million from U.S.-based Banks | United States Secret Service | 2021-02-03 | https://www.secretservice.gov/newsroom/releases/2021/02/105-arrested-stealing-over-eu12-million-us-based-banks |

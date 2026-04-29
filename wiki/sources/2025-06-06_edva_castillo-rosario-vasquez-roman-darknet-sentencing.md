@@ -31,4 +31,4 @@ On 6 June 2025, DOJ announced sentences for four men who manufactured and distri
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2025-06-06_edva_castillo-rosario-vasquez-roman-darknet-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2025-06-06_edva_castillo-rosario-vasquez-roman-darknet-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

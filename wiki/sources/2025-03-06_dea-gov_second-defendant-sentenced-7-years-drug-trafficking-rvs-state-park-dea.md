@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2025/03/06/second-defendant-s
 created: 2026-04-25
 raw_path: raw/press-releases/2025-03-06_dea-gov_second-defendant-sentenced-7-years-drug-trafficking-rvs-state-park-dea.md
 text_status: parsed
-content_hash: sha256:44b5bb3fa67f442b1d630edd3379fbab29772bd7e0a6f171d30e945ccf06ff78
-word_count: 4760
-extraction_date: 2026-04-25
+content_hash: sha256:4c4bb327ed80cbc992e6950780afae7863cae6dc59eaeab764c4ad2c2ca55f2e
+word_count: 133
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

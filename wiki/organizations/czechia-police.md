@@ -1,33 +1,34 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: "[[czech-republic]]"
 created: 2026-04-10
 established: 2023-01-01
 frameworks_administered:
-  []
+
 headquarters: "Prague, Czech Republic"
 key_roles:
-  []
+
 last_verified: 2026-04-10
 mandate: "National unit of the Police of the Czech Republic responsible for combating"
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "Národní centrála proti terorismu, extremismu a kybernetické kriminalitě"
 official_name_ko: "체코 국립 테러·극단주의·사이버범죄 대응센터"
 operations_participated:
   - "[[vpnlab-takedown]]"
+  - "[[fake-shopping-sites-takedown-2024]]"
 org_type: national-unit
 parent_org: "[[czech-police]]"
 source_count: 2
 sources:
-  []
+
 status: active
 title: "National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)"
 type: organization

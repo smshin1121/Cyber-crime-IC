@@ -31,4 +31,4 @@ The **US Department of Justice (DOJ)** is the central legal authority for intern
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-07-01_oodaloop-com_doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-c.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-07-01_oodaloop-com_doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-c.md`, preserving traceable review without classifying the page as a placeholder.

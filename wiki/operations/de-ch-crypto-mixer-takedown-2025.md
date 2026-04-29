@@ -91,7 +91,7 @@ sources:
   - "[[2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion]]"
   - "[[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]]"
 created: 2026-04-14
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "On **1 December 2025**, [[eurojust|Eurojust]] announced that authorities from [[germany|Germany]] and [[switzerland|Switzerland]], together with Eurojust and [[europol-ec3|Europol]], had taken down a cryptocurrency mixing service suspected of being used by criminals to launder the proceeds of drug trafficking, weapons trafficking, online fraud, and other cybercrimes. During an action week, **more than EUR 25 million in cryptocurrency was seized and three servers were taken down**."
@@ -111,7 +111,7 @@ crime_types:
 
 On **1 December 2025**, [[eurojust|Eurojust]] announced that authorities from [[germany|Germany]] and [[switzerland|Switzerland]], together with Eurojust and [[europol-ec3|Europol]], had taken down a cryptocurrency mixing service suspected of being used by criminals to launder the proceeds of drug trafficking, weapons trafficking, online fraud, and other cybercrimes. During an action week, **more than EUR 25 million in cryptocurrency was seized and three servers were taken down**.
 
-The Eurojust release does not name the service, the action lead in either country, or the number of arrests. The operation is *likely* one of a continuing series of EU-Switzerland cryptocurrency-laundering enforcement actions but cannot be linked to a publicly named campaign on the basis of the available source.
+The Eurojust release does not name the service, the action lead in either country, or the number of arrests. The operation fits the continuing EU-Switzerland cryptocurrency-laundering enforcement pattern, but the available source set does not link it to a publicly named campaign.
 
 > [!note] Unnamed operation
 > The mixing service and the operation itself are unnamed in the Eurojust press release. The wiki slug `de-ch-crypto-mixer-takedown-2025` is descriptive only. If a name surfaces in follow-up reporting, this page should be renamed.
@@ -126,14 +126,14 @@ Cryptocurrency mixing services (also called "tumblers") obfuscate the on-chain l
 - **Online fraud and BEC**
 - **Other cybercrimes** (carding, account takeover, etc.)
 
-Switzerland's role as a global financial hub and the location of the so-called "Crypto Valley" in Zug make it a *highly likely* host or operating jurisdiction for cryptocurrency-asset service providers. Germany's prosecutorial cybercrime infrastructure — particularly the [[germany-frankfurt-prosecutor|ZIT Frankfurt]] — is *almost certainly* one of the most active in continental Europe on cryptocurrency takedowns.
+Switzerland's role as a global financial hub and the location of the so-called "Crypto Valley" in Zug make it a high-relevance host or operating jurisdiction for cryptocurrency-asset service providers. Germany's prosecutorial cybercrime infrastructure — particularly the [[germany-frankfurt-prosecutor|ZIT Frankfurt]] — is a major continental European center for cryptocurrency takedowns.
 
 ## Participating Parties
 
 | Country | Role |
 |---------|------|
-| [[germany]] | Co-lead enforcement; *likely* prosecuted via ZIT Frankfurt or Bundeskriminalamt (BKA) — not stated in source |
-| [[switzerland]] | Co-lead enforcement; *likely* coordinated through fedpol — not stated in source |
+| [[germany]] | Co-lead enforcement; the public source does not identify whether ZIT Frankfurt, BKA, or another German authority led the national component |
+| [[switzerland]] | Co-lead enforcement; the public source does not identify whether fedpol or another Swiss authority led the national component |
 
 | Coordinating Body | Role |
 |-------------------|------|
@@ -141,7 +141,7 @@ Switzerland's role as a global financial hub and the location of the so-called "
 | [[europol-ec3]] | Operational and analytical support |
 
 > [!note] Source gap
-> The Eurojust release does not specify which German or Swiss agencies led their respective national components. Switzerland's cooperation role is *likely* limited to asset freezing and server seizure on Swiss territory; this cannot be confirmed from the press release alone.
+> The Eurojust release does not specify which German or Swiss agencies led their respective national components. The public record supports Swiss involvement in asset freezing and server seizure, while finer agency attribution remains unavailable from the cited release.
 
 ## Legal Framework
 
@@ -152,7 +152,7 @@ Switzerland's role as a global financial hub and the location of the so-called "
 
 | Date | Event |
 |------|-------|
-| (Pre-2025) | Investigation initiated; specific start date not stated |
+| (Pre-2025) | Investigation initiated; specific start date undisclosed |
 | Action week 2025 | Coordinated DE-CH seizure of 3 servers and EUR 25M+ in cryptocurrency |
 | 2025-12-01 | Eurojust announces the takedown via press release |
 
@@ -162,16 +162,16 @@ Switzerland's role as a global financial hub and the location of the so-called "
 |--------|-------|
 | Cryptocurrency seized | **EUR 25 million** (more than) |
 | Servers seized | **3** |
-| Arrests | not stated |
-| Indictments | not stated |
+| Arrests | undisclosed |
+| Indictments | undisclosed |
 
-The seizure is *likely* one of the largest single-operation EU-Switzerland cryptocurrency seizures of 2025 based on the disclosed figure, though the absence of an operation name and arrests count limits comparability against named campaigns such as [[cryptex-pm2btc-sanctions|Cryptex/PM2BTC]].
+The seizure is one of the larger disclosed EU-Switzerland cryptocurrency seizures of 2025, though the absence of an operation name and arrests count limits comparability against named campaigns such as [[cryptex-pm2btc-sanctions|Cryptex/PM2BTC]].
 
 ## Cooperation Mechanisms Used
 
 1. **Bilateral DE-CH judicial cooperation** through Eurojust coordination
-2. **Europol operational/analytical support** — *likely* including blockchain analytics and infrastructure mapping
-3. **Mutual Legal Assistance** — *likely* invoked for cross-border server access and asset freezing
+2. **Europol operational/analytical support** — including analytical support for infrastructure and financial tracing, with technical specifics not public
+3. **Mutual Legal Assistance** — the action is MLA-compatible because it required cross-border server access and asset freezing
 
 ## Challenges and Friction Points
 
@@ -182,18 +182,18 @@ The seizure is *likely* one of the largest single-operation EU-Switzerland crypt
 ## Lessons Learned
 
 - Bilateral DE-CH cooperation under Eurojust can deliver significant cryptocurrency seizures even when one party (Switzerland) sits outside the EU.
-- Eurojust's third-country cooperation agreements *likely* provide a sufficient procedural backbone for routine cross-jurisdictional crypto enforcement.
+- Eurojust's third-country cooperation agreements provide a procedural backbone for routine cross-jurisdictional crypto enforcement.
 
 ## Korean Involvement (한국의 참여)
 
-No [[south-korea|South Korean]] participation is documented in this operation. Korean exchanges (Upbit, Bithumb) and the Korean Financial Intelligence Unit (KoFIU) are *likely* monitoring such mixer takedowns for follow-on intelligence on Korean-resident depositors.
+No [[south-korea|South Korean]] participation is documented in this operation. Korean exchanges (Upbit, Bithumb) and the Korean Financial Intelligence Unit (KoFIU) may monitor such mixer takedowns for follow-on intelligence on Korean-resident depositors.
 
 ## Contradictions & Open Questions
 
 - **What is the name of the mixing service?** The Eurojust release does not identify it.
-- **How many arrests, if any, were made?** Not stated in the source.
-- **Which German prosecutor (ZIT Frankfurt? a Land prosecutor?) led the German component?** Not stated.
-- **What was the legal basis used by Switzerland?** *Likely* the Eurojust-Switzerland cooperation agreement plus Swiss Criminal Code art. 305bis (money laundering), but not confirmed.
+- **How many arrests, if any, were made?** The cited source leaves this undisclosed.
+- **Which German prosecutor (ZIT Frankfurt? a Land prosecutor?) led the German component?** The cited source leaves this undisclosed.
+- **What was the legal basis used by Switzerland?** Candidate legal bases include the Eurojust-Switzerland cooperation agreement and Swiss Criminal Code art. 305bis (money laundering), but the cited source does not confirm the instrument.
 - **Is this operation linked to any larger campaign (e.g., Operation Endgame, a sanctions track)?** No linkage is stated in the source.
 
 

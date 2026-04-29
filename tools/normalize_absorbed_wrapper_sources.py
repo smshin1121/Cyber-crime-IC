@@ -309,10 +309,16 @@ def render_report(changes: list[WrapperChange], applied: bool) -> str:
 
 
 def main() -> None:
+    global TODAY, REPORT_PATH
+
     parser = argparse.ArgumentParser(description="Normalize absorbed wrapper pages to one representative source.")
     parser.add_argument("--apply", action="store_true", help="Write changes. Omit for dry-run.")
     parser.add_argument("--limit", type=int, default=0, help="Maximum number of pages to process.")
+    parser.add_argument("--date", default=TODAY, help="Run date used in report names and updated metadata.")
     args = parser.parse_args()
+
+    TODAY = args.date
+    REPORT_PATH = WIKI_DIR / "analysis" / f"absorbed-wrapper-source-normalization-{TODAY}.md"
 
     changes: list[WrapperChange] = []
     for path in page_paths():

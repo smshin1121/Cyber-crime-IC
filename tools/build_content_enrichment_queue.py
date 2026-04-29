@@ -23,6 +23,8 @@ def recommendation(row: dict[str, Any], all_multisource: bool = False) -> str:
         return "dedupe_same_url_references_then_enrich"
     if has_issue(row, "source_rich_thin_body") and row.get("source_words", 0) >= 1200:
         return "enrich_from_existing_raw_sources"
+    if has_issue(row, "raw_available_underused") and row.get("source_words", 0) >= 1200:
+        return "enrich_from_existing_raw_sources"
     if row.get("placeholder_hits", 0):
         return "replace_placeholder_or_absorb_wrapper"
     if has_issue(row, "possible_crime_type_mismatch"):
@@ -63,6 +65,7 @@ def select_rows(rows: list[dict[str, Any]], limit: int, all_multisource: bool, m
             for row in rows
             if int(row.get("score") or 0) >= 45
             or has_issue(row, "source_rich_thin_body")
+            or has_issue(row, "raw_available_underused")
             or has_issue(row, "duplicate_source_url_refs")
         ]
     selected = sorted(candidates, key=sort_key)

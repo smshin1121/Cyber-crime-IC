@@ -102,6 +102,7 @@ operations_participated:
   - "[[operation-us-v-parsarad-nemesis]]"
   - "[[operation-talent]]"
   - "[[phobos-8base-crackdown]]"
+  - "[[infraud-organization-takedown]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

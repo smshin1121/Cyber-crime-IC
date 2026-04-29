@@ -20,9 +20,10 @@ key_findings:
 raw_path: raw/government-reports/2026-03-11_eurojust-cybercrime-term_online-fraud-group-france-germany.md
 text_status: source-digest
 storage_mode: source-digest
-content_hash: sha256:1b7a87d504b3d8de625c55c5529f97f15e75de77b8d1b59bd8b4e35b74f83ce6
+content_hash: sha256:e4a85eb916a836e59ee247dc94e14e1e045f1e10a1c7e068e596f9ded3bf9d99
 word_count: 121
-extraction_date: 2026-04-28
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

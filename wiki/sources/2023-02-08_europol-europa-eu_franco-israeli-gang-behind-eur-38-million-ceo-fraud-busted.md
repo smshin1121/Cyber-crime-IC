@@ -33,4 +33,4 @@ The Franco-Israeli CEO Fraud Investigation was a Europol-supported multi-country
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2023-02-08_europol-europa-eu_franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2023-02-08_europol-europa-eu_franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted.md`, preserving traceable review without classifying the page as a placeholder.

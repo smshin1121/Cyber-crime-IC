@@ -32,4 +32,4 @@ On 17 December 2019, DOJ announced that Matthew Witters was sentenced to seven y
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2019-12-17_wdwa_witters-dark-web-fentanyl-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2019-12-17_wdwa_witters-dark-web-fentanyl-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

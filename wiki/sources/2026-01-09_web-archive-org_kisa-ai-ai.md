@@ -29,4 +29,4 @@ The Korea Internet & Security Agency (KISA, 한국인터넷진흥원) is the sub
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-01-09_web-archive-org_kisa-ai-ai.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-01-09_web-archive-org_kisa-ai-ai.md`, preserving traceable review without classifying the page as a placeholder.

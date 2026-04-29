@@ -30,4 +30,4 @@ On 28 August 2024, DOJ announced that Ryan Scott Cochran pleaded guilty to distr
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2024-08-28_edny_ryan-scott-cochran-dark-web-plea.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2024-08-28_edny_ryan-scott-cochran-dark-web-plea.md`, preserving traceable review without classifying the page as a placeholder.

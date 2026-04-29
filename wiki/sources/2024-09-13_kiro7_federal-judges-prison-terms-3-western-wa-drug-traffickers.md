@@ -18,12 +18,13 @@ collection_url: https://www.kiro7.com/news/local/federal-judges-hand-down-prison
 created: 2026-04-25
 raw_path: raw/news/2024-09-13_kiro7_federal-judges-prison-terms-3-western-wa-drug-traffickers.md
 text_status: summarized
-content_hash: sha256:1785fd7bf610f30f73390ade938086e7a90e33d1e24f74172d26a9855141ab78
-word_count: 131
+content_hash: sha256:f1277c5480b02566d59ccf26587e9b45b1bb9cc357daf89ab920a93ea4811f7a
+word_count: 128
 stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-29
 last_fetcher: urllib
 copyright_policy: summary-only
+storage_mode: summary-only
 ---
 ## Source Summary
 

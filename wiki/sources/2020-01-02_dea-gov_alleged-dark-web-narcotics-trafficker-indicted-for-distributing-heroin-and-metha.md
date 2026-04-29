@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.dea.gov/press-releases/2020/01/02/alleged-dark-web-narcotics-trafficker-indicted-for-distributing-heroin
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:d4912daace0921120be3a203c623347eb3a89a26ffd3c3bc97d3477bad34cf4b
-word_count: 5582
-extraction_date: 2026-04-25
+content_hash: sha256:4d15d4b92c3d971cb8b1402059a2cfb3832b2631c0135a553d5bdbc36aed56d5
+word_count: 755
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

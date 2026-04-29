@@ -24,6 +24,10 @@ stored_word_count: 80
 extraction_date: 2026-04-25
 last_fetcher: urllib
 copyright_policy: summary-only
+duplicate_of: "[[2025-04-04-europol-operation-stream-kidflix]]"
+duplicate_reason: same_content_hash
+duplicate_key: "sha256:456c9e68d8e8375a1aa2401c8c16d9cb30b8ddaa4edd46268c2ef956b1f5d426"
+duplicate_normalized_at: 2026-04-29
 ---
 ## Source Summary
 
@@ -31,4 +35,4 @@ copyright_policy: summary-only
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-04-04_europol_operation-stream-kidflix-takedown.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-04-04_europol_operation-stream-kidflix-takedown.md`, preserving traceable review without classifying the page as a placeholder.

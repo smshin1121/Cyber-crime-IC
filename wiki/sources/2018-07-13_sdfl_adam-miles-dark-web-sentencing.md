@@ -34,4 +34,4 @@ On 13 July 2018, DOJ announced that Adam Lemar Miles, known as "NoStress," was s
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2018-07-13_sdfl_adam-miles-dark-web-sentencing.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2018-07-13_sdfl_adam-miles-dark-web-sentencing.md`, preserving traceable review without classifying the page as a placeholder.

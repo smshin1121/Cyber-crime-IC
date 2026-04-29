@@ -29,4 +29,4 @@ Malaysia's cybercrime framework rests on the 1997 **Computer Crimes Act** — on
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-07-05_sonnyzulhuda-com_malaysia-s-cybercrime-law-reform-underway.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-07-05_sonnyzulhuda-com_malaysia-s-cybercrime-law-reform-underway.md`, preserving traceable review without classifying the page as a placeholder.

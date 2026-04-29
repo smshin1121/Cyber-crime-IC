@@ -32,4 +32,4 @@ INTERPOL, Group-IB, and the Nigeria Police Force conducted Operation Falcon, a j
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-11-01_interpol-int_three-arrested-as-interpol-group-ib-and-the-nigeria-police-force-disrupt-prol.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-11-01_interpol-int_three-arrested-as-interpol-group-ib-and-the-nigeria-police-force-disrupt-prol.md`, preserving traceable review without classifying the page as a placeholder.

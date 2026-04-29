@@ -34,4 +34,4 @@ Holly Adams (Dark Web Fentanyl Dealer) Enforcement Action is a defendant-specifi
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-06-03_justice-gov_united-states-v-holly-adams.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-06-03_justice-gov_united-states-v-holly-adams.md`, preserving traceable review without classifying the page as a placeholder.

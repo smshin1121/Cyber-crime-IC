@@ -52,14 +52,18 @@ participating_agencies:
   - "[[german-bka]]"
   - "[[microsoft]]"
 legal_basis:
-  []
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic malware disruption and seizure authorities"
 mechanisms_used:
   - "[[sinkholing]]"
   - "[[informal-cooperation]]"
 related_cases:
   []
 related_operations:
-  []
+  - "[[emotet-takedown]]"
+  - "[[operation-avalanche]]"
+  - "[[operation-endgame]]"
 results:
   arrests: 1
   servers_seized: 0
@@ -93,7 +97,7 @@ sources:
   - "[[portswigger-911-s5-botnet-dismantling]]"
 summary: "The Andromeda/Gamarue takedown combined Europol and FBI coordination, German and Belarusian enforcement action, and Microsoft-backed sinkhole support to disrupt a long-running malware ecosystem in late 2017."
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 ## Summary
 

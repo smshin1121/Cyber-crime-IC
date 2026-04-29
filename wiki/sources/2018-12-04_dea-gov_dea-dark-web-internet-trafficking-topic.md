@@ -18,10 +18,11 @@ collection_url: https://www.dea.gov/taxonomy/term/771
 created: 2026-04-25
 raw_path: raw/government-reports/2018-12-04_dea-gov_dea-dark-web-internet-trafficking-topic.md
 text_status: parsed
-content_hash: sha256:679d6ee28b465ff688ba31efe07b419adf27f834a08e30c839e17d679b427fa1
-word_count: 4934
-extraction_date: 2026-04-25
+content_hash: sha256:7e3b06b0d5ab3e06b43b3e510bf3225a5b621ef24c6a0301a87f1072d04f042b
+word_count: 689
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

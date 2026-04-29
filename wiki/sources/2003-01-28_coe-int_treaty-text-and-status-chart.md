@@ -18,10 +18,11 @@ key_findings:
 collection_url: "https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=189"
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:5b34634fd9dac15c39cad4ee063c0d3dc97b03dfc42733c587caa1e584ce9386
-word_count: 2529
-extraction_date: 2026-04-25
+content_hash: sha256:25e0b1c20d718d8746af461513deefa637507f8c26953c75874dcf19d1d98fef
+word_count: 671
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ CETS 189 is the First Additional Protocol to the Budapest Convention, criminalis
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2003-01-28_coe-int_treaty-text-and-status-chart.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2003-01-28_coe-int_treaty-text-and-status-chart.md`, preserving traceable review without classifying the page as a placeholder.

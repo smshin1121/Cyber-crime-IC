@@ -2,7 +2,7 @@
 type: operation
 title: "INTERPOL: Online Scamming Fraud \"Three Nigerians Arrested in Operation Killer Bee\" Enforcement Action"
 aliases:
-  - 'INTERPOL: Online Scamming Fraud "Three Nigerians Arrested in Operation Killer Bee"'
+  - "INTERPOL: Online Scamming Fraud \"Three Nigerians Arrested in Operation Killer Bee\""
 case_id: CYB-FUP-571
 period: 2
 operation_role: follow-on
@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2022-05-30_cybersecurity-review_online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee]]"
+  - "[[interpol-operation-killer-bee]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Online scamming fraud: three Nigerians arrested in INTERPOL Operation Killer Bee | Cyber Security Review | 2022-05-30 | https://www.cybersecurity-review.com/online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee/ |
+| [1] | INTERPOL: Online Scamming Fraud — Three Nigerians Arrested in Operation Killer Bee | INTERPOL | 2022-05-30 | https://www.interpol.int/News-and-Events/News/2022/Online-scamming-fraud-three-Nigerians-arrested-in-INTERPOL-Operation-Killer-Bee |

@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/cybercrime/the-budapest-convention
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:2ccf1020d5c4e71416bd4a64a88fba80e9f327889f0eae8eaaf26b38d3a90020
-word_count: 3694
-extraction_date: 2026-04-25
+content_hash: sha256:047f1f164cce7c777f5c280f0d0676f5b3839f04a1994d5bab98e06b40c15074
+word_count: 774
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The Budapest Convention on Cybercrime is the **first and most significant bindin
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_about-the-convention-budapest-convention.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_about-the-convention-budapest-convention.md`, preserving traceable review without classifying the page as a placeholder.

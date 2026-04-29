@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2023-11-28_yahoo_british-nigerian-hacker-pleads-guilty-to-6m-fraud-in-us-court]]"
+  - "[[2026-04-18_justice-gov_united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-united-kingdom-national]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-united-kingdom-national]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | British-Nigerian hacker pleads guilty to $6m fraud in US court | Yahoo News (AFP) | 2023-11-28 | https://news.yahoo.com/british-nigerian-hacker-pleads-guilty-104012144.html |
+| [1] | United Kingdom National Pleads Guilty to Hacking, Securities Fraud, and other Cybercrimes | US DOJ USAO | 2023-11-28 | https://www.justice.gov/usao-edny/pr/united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes |

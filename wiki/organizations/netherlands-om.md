@@ -4,7 +4,7 @@ title: "Netherlands Public Prosecution Service - Landelijk Parket"
 official_name: "Openbaar Ministerie - Landelijk Parket"
 official_name_ko: ""
 aliases:
-  - "OM"
+  - OM
   - "Landelijk Parket"
 org_type: prosecution-office
 status: active
@@ -21,13 +21,17 @@ key_roles:
 cooperation_partners:
   - "[[netherlands-politie]]"
   - "[[eurojust]]"
-frameworks_administered: []
+frameworks_administered:
+  []
 mechanisms_operated:
   - "[[24-7-network]]"
 operations_participated:
   - "[[qakbot-gallyamov-indictment]]"
-notable_cases: []
-contact_point_for: []
+  - "[[proxy-service-takedown-2026-03]]"
+notable_cases:
+  []
+contact_point_for:
+  []
 source_count: 3
 sources:
   - "[[2026-04-18_om-nl_internationale-samenwerking]]"

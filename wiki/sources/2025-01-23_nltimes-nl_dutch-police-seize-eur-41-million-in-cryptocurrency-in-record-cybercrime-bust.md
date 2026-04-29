@@ -31,4 +31,4 @@ The **Fiscale Inlichtingen- en Opsporingsdienst (FIOD)** is the investigation se
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-01-23_nltimes-nl_dutch-police-seize-eur-41-million-in-cryptocurrency-in-record-cybercrime-bust.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-01-23_nltimes-nl_dutch-police-seize-eur-41-million-in-cryptocurrency-in-record-cybercrime-bust.md`, preserving traceable review without classifying the page as a placeholder.

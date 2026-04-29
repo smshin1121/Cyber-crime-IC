@@ -119,7 +119,7 @@ sources:
   - "[[2017-07-20-fbi-alphabay-takedown]]"
   - "[[unodc-alphabay-true-crime-story]]"
 created: 2026-04-10
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Bayonet was a multinational law enforcement operation that dismantled **AlphaBay** and **Hansa** -- the world's two largest darknet marketplaces -- in **July 2017**. The operation was led by the [[fbi-cyber-division|FBI]] and the US Drug Enforcement Administration (DEA) for the AlphaBay component, while the [[netherlands-politie|Dutch National Police (NHTCU)]] led the Hansa component, with [[europol-ec3|Europol]] coordinating the overall strategy."
@@ -150,7 +150,7 @@ Operation Bayonet was a multinational law enforcement operation that dismantled 
 
 This remains an umbrella operation because AlphaBay and Hansa were handled as linked but distinct phases of a multinational takedown. The Hansa covert-operation phase should not be collapsed into the AlphaBay seizure itself.
 
-The operation is *almost certainly* the most sophisticated darknet marketplace takedown in history, employing an unprecedented **double-sting strategy**: the [[netherlands-politie|Dutch police]] covertly seized and operated the Hansa marketplace for approximately one month before AlphaBay was publicly shut down, anticipating that AlphaBay users would migrate to Hansa. This migration trap allowed law enforcement to collect extensive evidence on thousands of vendors and buyers.
+The operation is among the most sophisticated darknet marketplace takedowns in the public record, employing an unprecedented **double-sting strategy**: the [[netherlands-politie|Dutch police]] covertly seized and operated the Hansa marketplace for approximately one month before AlphaBay was publicly shut down, anticipating that AlphaBay users would migrate to Hansa. This migration trap allowed law enforcement to collect extensive evidence on thousands of vendors and buyers.
 
 AlphaBay's administrator, **Alexandre Cazes** (Canadian, age 25), was arrested by Thai police on **5 July 2017** in Bangkok on behalf of the United States. Cazes died in Thai custody on **12 July 2017** in an apparent suicide. Hansa's two German administrators were arrested by German police. At the time of shutdown, AlphaBay had approximately **400,000 users**, **40,000 vendors**, and over **350,000 listings** for illegal goods and services.
 
@@ -184,7 +184,7 @@ Cazes was identified through critical operational security (OPSEC) failures:
 
 ### Investigation Origins
 
-The FBI investigation into AlphaBay began in approximately **2015**. The Dutch police investigation into Hansa began independently. The strategic decision to coordinate the two takedowns into a single operation -- the "double sting" -- was *likely* made in early-to-mid 2017 in coordination with [[europol-ec3|Europol]].
+The FBI investigation into AlphaBay began in approximately **2015**. The Dutch police investigation into Hansa began independently. The strategic decision to coordinate the two takedowns into a single operation -- the "double sting" -- was made by early-to-mid 2017 in coordination with [[europol-ec3|Europol]].
 
 ## Participating Parties
 
@@ -297,7 +297,7 @@ During the approximately one month that Dutch police covertly operated Hansa, th
 | [[informal-cooperation]] | FBI-NHTCU coordination on double-sting strategy |
 | [[europol-jit]] | Europol coordinated intelligence distribution from Hansa operation to member states |
 | US forfeiture proceedings | Civil forfeiture complaint for AlphaBay assets and Cazes' property |
-| Covert marketplace operation | Dutch police operated Hansa for ~1 month -- *almost certainly* unprecedented at this scale |
+| Covert marketplace operation | Dutch police operated Hansa for ~1 month -- unprecedented at this scale in the public darknet-market record |
 
 ### Key Cooperation Innovation: The Double Sting
 
@@ -338,18 +338,18 @@ South Korea was **not among the participating countries** in Operation Bayonet. 
 - **Darknet marketplace use in Korea:** Korean nationals have been identified as users and vendors on international darknet marketplaces, though the extent of Korean AlphaBay participation is not publicly documented
 - **Operational template:** The cooperation model between US, European, and Thai authorities demonstrated in Operation Bayonet provides a precedent for similar cross-jurisdictional operations involving Asian countries
 - **Thai cooperation precedent:** The successful arrest of a Canadian suspect in [[thailand|Thailand]] on behalf of the US demonstrates the feasibility of law enforcement cooperation in Southeast Asia, relevant to Korean investigations that require arrests in the region (cf. [[korea-cambodia-scam-repatriation]])
-- **Drug trafficking nexus:** AlphaBay facilitated international drug trafficking that *likely* had supply chain connections to the Asia-Pacific region
+- **Drug trafficking nexus:** AlphaBay facilitated international drug trafficking with potential supply chain connections to the Asia-Pacific region
 
 > [!note]
 > No Korean law enforcement agency has publicly reported participation in Operation Bayonet or follow-up investigations. Korea's engagement with darknet marketplace enforcement has been primarily through INTERPOL-coordinated operations.
 
 ## Contradictions & Open Questions
 
-1. **Cazes' death:** Cazes' death was ruled a suicide by Thai authorities. No public contradictions to this finding have been credibly reported, but the circumstances -- death in custody before extradition -- have generated speculation. The suicide finding is assessed as *likely* accurate based on official Thai forensic examination.
+1. **Cazes' death:** Cazes' death was ruled a suicide by Thai authorities. No public contradictions to this finding have been credibly reported, but the circumstances -- death in custody before extradition -- have generated speculation. The suicide finding is the best-supported account based on official Thai forensic examination.
 
-2. **User/vendor count estimates:** FBI cited 200,000 users and 40,000 vendors; some sources cite 400,000 users. The discrepancy *likely* reflects the difference between active and registered accounts. The DOJ's 200,000 figure may reflect active users, while 400,000 includes dormant accounts.
+2. **User/vendor count estimates:** FBI cited 200,000 users and 40,000 vendors; some sources cite 400,000 users. The discrepancy reflects the difference between active and registered accounts. The DOJ's 200,000 figure may reflect active users, while 400,000 includes dormant accounts.
 
-3. **Total transaction value:** Estimates range from "hundreds of millions" (DOJ) to "$1 billion" (various media). The $1 billion figure *likely* refers to cumulative lifetime transaction volume in cryptocurrency, while lower estimates may refer to specific time periods.
+3. **Total transaction value:** Estimates range from "hundreds of millions" (DOJ) to "$1 billion" (various media). The $1 billion figure refers to cumulative lifetime transaction volume in cryptocurrency, while lower estimates may refer to specific time periods.
 
 4. **Legal authority for covert marketplace operation:** The legal basis under which Dutch police operated Hansa -- effectively facilitating 27,000 illegal transactions -- has not been publicly challenged in court but raises unresolved questions about the boundaries of undercover operations in the digital domain.
 

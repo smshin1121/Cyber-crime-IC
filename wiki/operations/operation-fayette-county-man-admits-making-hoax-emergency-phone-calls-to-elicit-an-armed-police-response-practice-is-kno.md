@@ -20,7 +20,7 @@ timeframe:
 crime_type: "[[online-fraud-ic]]"
 crime_types:
   - "[[online-fraud-ic]]"
-target_entity: "Fayette County Man Admits Making Hoax Emergency Phone Calls to Elicit an Armed Police Response: Practice is Known as ??watting??"
+target_entity: "Fayette County Man Admits Making Hoax Emergency Phone Calls to Elicit an Armed Police Response: Practice is Known as Swatting"
 lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
@@ -64,11 +64,13 @@ sources:
   - "[[2026-04-18_justice-gov_fayette-county-man-admits-making-hoax-emergency-phone-calls-elicit-armed-police]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

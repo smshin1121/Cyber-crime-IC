@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2024/03/29/bellingham-washing
 created: 2026-04-25
 raw_path: raw/press-releases/2024-03-29_dea-gov_bellingham-washington-drug-dealer-sentenced-10-years-prison-distributing-fentanyl-fir.md
 text_status: parsed
-content_hash: sha256:61443f355b30cd4a1c13fc506200a53ff6060c369ebba26ff38962369044244a
-word_count: 5458
-extraction_date: 2026-04-25
+content_hash: sha256:3c56d3079a97b0067b7addb9e7331cf21e692f7becde0eea752ccfdb81d9f900
+word_count: 627
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

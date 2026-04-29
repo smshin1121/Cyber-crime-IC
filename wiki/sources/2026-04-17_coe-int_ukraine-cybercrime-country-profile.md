@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/-/ukraine
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:797aaf08ae1f4235b70be6bbf9b77787e79c260add86a255e1d0a5a7be554f13
-word_count: 4654
-extraction_date: 2026-04-25
+content_hash: sha256:2c395d219594799058dbad9a62b829fc29cc43b1cf7228d9ab9eea25e694e768
+word_count: 133
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The **Cyber Police Department of the National Police of Ukraine** (Департ�
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_ukraine-cybercrime-country-profile.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_ukraine-cybercrime-country-profile.md`, preserving traceable review without classifying the page as a placeholder.

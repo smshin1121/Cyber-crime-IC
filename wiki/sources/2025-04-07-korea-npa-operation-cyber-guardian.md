@@ -3,7 +3,7 @@ type: source
 title: "Operation Cyber Guardian: Asia 6-Country CSAM Crackdown"
 raw_path: raw/press-releases/2025-04-07_korea-npa_operation-cyber-guardian-asia-csam.md
 source_type: press-release
-publisher: "Korea Policy Briefing (korea.kr) / Seoul Shinmun"
+publisher: "Korean National Police Agency / Korea Policy Briefing"
 author: "Korean National Police Agency"
 publish_date: 2025-04-07
 ingest_date: 2026-04-08
@@ -21,6 +21,9 @@ key_findings:
   - "49% of Korean suspects were teenagers; AI deepfake CSAM production prosecuted"
 created: 2026-04-08
 copyright_policy: summary-only
+collection_url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866"
+collection_domain: korea.kr
+updated: 2026-04-29
 ---
 # Operation Cyber Guardian: Asia 6-Country CSAM Crackdown
 

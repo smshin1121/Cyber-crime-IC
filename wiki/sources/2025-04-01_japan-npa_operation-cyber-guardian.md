@@ -19,10 +19,11 @@ key_findings:
 collection_url: https://www.npa.go.jp/policy_area/no_cp/uploads/jointoperation_2025_04_eng.pdf
 created: 2026-04-19
 text_status: parsed
-content_hash: sha256:3ee9dddd82bcb1a4cc863171ac83c99bc6f67ce602da6c3c9c72c0cd5eae2577
-word_count: 469
-extraction_date: 2026-04-25
+content_hash: sha256:0825cfc778342ba8a3fed36e173d598b63104b9ebe5cd69c67f509ca4defae34
+word_count: 323
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Summary
 

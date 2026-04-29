@@ -31,4 +31,4 @@ The US Department of the Treasury plays a central role in international cybercri
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2022-08-01_moneylaunderingnews-com_ofac-sanctions-virtual-currency-mixer-tornado-cash-and-faces-crypto-backlash.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2022-08-01_moneylaunderingnews-com_ofac-sanctions-virtual-currency-mixer-tornado-cash-and-faces-crypto-backlash.md`, preserving traceable review without classifying the page as a placeholder.

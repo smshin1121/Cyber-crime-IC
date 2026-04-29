@@ -27,8 +27,9 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
 legal_basis:
-
+  - "U.S. domestic undercover authority and criminal process"
 mechanisms_used:
+  - "undercover operation"
 
 results:
   arrests: 0
@@ -57,6 +58,9 @@ missing_fields:
 related_cases:
 
 related_operations:
+  - "[[silk-road-takedown]]"
+  - "[[alphabay-takedown]]"
+  - "[[operation-dark-huntor]]"
 
 challenges_encountered:
 
@@ -71,7 +75,7 @@ sources:
   - "[[2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion]]"
   - "[[2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Hyperion** was an FBI-led sting operation targeting criminal activity on the dark web, with a particular focus on the use of **Zcash** cryptocurrency for illicit transactions. The operation represented law enforcement's evolving capability to investigate privacy-focused cryptocurrencies used by dark web criminals."

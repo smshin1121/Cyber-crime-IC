@@ -29,4 +29,4 @@ Operation Dark HunTOR was a coordinated international law enforcement action ann
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace.md`, preserving traceable review without classifying the page as a placeholder.

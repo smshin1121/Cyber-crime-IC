@@ -31,8 +31,6 @@ edges:
     legal_basis: unknown
     direction: undirected
 missing_fields:
-  - legal_basis
-  - mechanisms_used
 timeframe:
   announced: 2023-02-08
   start: 2022-01
@@ -59,8 +57,12 @@ participating_agencies:
   - "Portugal Policia Judiciaria"
   - "Spain Policia Nacional"
 legal_basis:
-
+  - "[[mutual-legal-assistance]]"
+  - "French and Israeli domestic fraud investigation authorities"
 mechanisms_used:
+  - "[[europol-jit]]"
+  - "[[mlat-process]]"
+  - "[[informal-cooperation]]"
 
 results:
   arrests: 8
@@ -78,6 +80,9 @@ results:
 related_cases:
 
 related_operations:
+  - "[[operation-heart-blocker]]"
+  - "[[belgium-netherlands-phishing-gang]]"
+  - "[[bec-nigeria-2016]]"
 
 challenges_encountered:
 
@@ -92,7 +97,7 @@ sources:
   - "[[2023-02-17_helpnetsecurity_authorities-break-up-gang-responsible-for-eur-38-million-ceo-fraud]]"
   - "[[2023-02-18_occrp_police-dismantle-franco-israeli-crime-network-behind-theft-of-eur38-million]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "The Franco-Israeli CEO Fraud Investigation was a Europol-supported multi-country operation that dismantled a criminal network using business email compromise (BEC) and CEO fraud to divert corporate payments. Five action days between January 2022 and January 2023 led to 8 arrests in France and Israel, while parallel asset tracing in Portugal, Hungary, Croatia, and Spain produced about EUR 5.5 million in seizures."

@@ -28,4 +28,4 @@ In early February 2025, a coordinated international law enforcement action resul
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-02-11_europol_phobos-8base-ransomware-arrests.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-02-11_europol_phobos-8base-ransomware-arrests.md`, preserving traceable review without classifying the page as a placeholder.

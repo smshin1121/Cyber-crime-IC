@@ -17,6 +17,8 @@ enforcement_type:
 
 lead_agency: "[[interpol]]"
 legal_basis:
+  - "Nigerian domestic criminal process"
+  - "INTERPOL operational coordination"
 
 lessons_learned:
 
@@ -44,6 +46,9 @@ period: 2
 related_cases:
 
 related_operations:
+  - "[[operation-falcon]]"
+  - "[[operation-killer-bee]]"
+  - "[[bec-nigeria-2016]]"
 
 results:
   arrests: 1
@@ -79,7 +84,7 @@ timeframe:
 title: "Operation Delilah (SilverTerrier BEC)"
 title_ko: "들릴라 작전 (SilverTerrier BEC)"
 type: operation
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 ## Summary
 

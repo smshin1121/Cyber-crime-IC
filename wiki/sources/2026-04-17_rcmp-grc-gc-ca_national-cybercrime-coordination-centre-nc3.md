@@ -33,4 +33,4 @@ Canada signed the [[budapest-convention|Budapest Convention on Cybercrime]] on 2
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_rcmp-grc-gc-ca_national-cybercrime-coordination-centre-nc3.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_rcmp-grc-gc-ca_national-cybercrime-coordination-centre-nc3.md`, preserving traceable review without classifying the page as a placeholder.

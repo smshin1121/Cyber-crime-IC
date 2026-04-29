@@ -31,4 +31,4 @@ The Royal Malaysia Police (Polis Diraja Malaysia, **PDRM**) handles cybercrime i
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-07-05_sonnyzulhuda-com_malaysia-s-cybercrime-law-reform-underway-notes-from-cydes-2025.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-07-05_sonnyzulhuda-com_malaysia-s-cybercrime-law-reform-underway-notes-from-cydes-2025.md`, preserving traceable review without classifying the page as a placeholder.

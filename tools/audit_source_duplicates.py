@@ -1,10 +1,13 @@
 from __future__ import annotations
 
+import argparse
 import csv
 from collections import defaultdict
 from dataclasses import dataclass
+from datetime import date
 from pathlib import Path
 from typing import Any
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 import frontmatter
 
@@ -12,7 +15,7 @@ import frontmatter
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_DIR = ROOT / "wiki" / "sources"
 WORKSPACE = ROOT / "_workspace"
-REPORT_PATH = ROOT / "wiki" / "analysis" / "source-duplicate-audit-2026-04-26.md"
+DEFAULT_DATE = date.today().isoformat()
 
 
 @dataclass(frozen=True)
@@ -63,8 +66,25 @@ def grouped(rows: list[SourceRow], field: str) -> list[tuple[str, list[SourceRow
     )
 
 
-def write_csv(rows: list[SourceRow]) -> Path:
-    path = WORKSPACE / "source_duplicate_audit_2026-04-26.csv"
+def normalize_url(url: str) -> str:
+    if not url:
+        return ""
+    parts = urlsplit(url.strip())
+    query_pairs = []
+    for key, value in parse_qsl(parts.query, keep_blank_values=True):
+        low = key.lower()
+        if low.startswith("utm_") or low in {"fbclid", "gclid", "ref", "source"}:
+            continue
+        query_pairs.append((key, value))
+    host = parts.netloc.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    path = parts.path.rstrip("/") or "/"
+    return urlunsplit((parts.scheme.lower(), host, path, urlencode(query_pairs), ""))
+
+
+def write_csv(rows: list[SourceRow], run_date: str) -> Path:
+    path = WORKSPACE / f"source_duplicate_audit_{run_date}.csv"
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as fh:
         writer = csv.writer(fh)
@@ -98,22 +118,32 @@ def write_csv(rows: list[SourceRow]) -> Path:
     return path
 
 
-def render_report(rows: list[SourceRow]) -> str:
+def render_report(rows: list[SourceRow], run_date: str) -> str:
     all_url_dupes = grouped(rows, "collection_url")
     all_hash_dupes = grouped(rows, "content_hash")
     active_rows = [row for row in rows if not row.duplicate_of]
     active_url_dupes = grouped(active_rows, "collection_url")
-    active_hash_dupes = grouped(active_rows, "content_hash")
+    active_hash_review = grouped(active_rows, "content_hash")
+    active_hash_dupes = [
+        (content_hash, members)
+        for content_hash, members in active_hash_review
+        if len({normalize_url(row.collection_url) for row in members if row.collection_url}) <= 1
+    ]
+    review_hash_only = [
+        (content_hash, members)
+        for content_hash, members in active_hash_review
+        if len({normalize_url(row.collection_url) for row in members if row.collection_url}) > 1
+    ]
     active_duplicate_pages = sorted({row.slug for _, members in active_url_dupes + active_hash_dupes for row in members})
     alias_rows = [row for row in rows if row.duplicate_of]
     alias_url_groups = grouped(alias_rows, "collection_url")
 
     lines = [
         "---",
-        "title: Source Duplicate Audit (2026-04-26)",
+        f"title: Source Duplicate Audit ({run_date})",
         "type: analysis",
-        "created: 2026-04-26",
-        "updated: 2026-04-26",
+        f"created: {run_date}",
+        f"updated: {run_date}",
         'summary: "Audit of duplicate source records by collection URL and content hash."',
         "source_count: 0",
         "---",
@@ -126,7 +156,8 @@ def render_report(rows: list[SourceRow]) -> str:
         f"- Total duplicate URL groups including aliases: **{len(all_url_dupes)}**",
         f"- Active duplicate URL groups: **{len(active_url_dupes)}**",
         f"- Total duplicate content-hash groups including aliases: **{len(all_hash_dupes)}**",
-        f"- Active duplicate content-hash groups: **{len(active_hash_dupes)}**",
+        f"- Active duplicate content-hash groups after URL normalization: **{len(active_hash_dupes)}**",
+        f"- Review-only identical content-hash groups with distinct URLs: **{len(review_hash_only)}**",
         f"- Active source pages in at least one unresolved duplicate group: **{len(active_duplicate_pages)}**",
         "",
         "## Active Duplicate URL Groups",
@@ -148,6 +179,13 @@ def render_report(rows: list[SourceRow]) -> str:
             pages += f"<br>... +{len(members) - 20} more"
         lines.append(f"| {idx} | {len(members)} | `{content_hash}` | {pages} |")
 
+    lines.extend(["", "## Review-Only Content-Hash Groups With Distinct URLs", "", "| Rank | Count | Hash | Source pages |", "|---:|---:|---|---|"])
+    for idx, (content_hash, members) in enumerate(review_hash_only[:100], 1):
+        pages = "<br>".join(f"[[{row.slug}]]" for row in members[:20])
+        if len(members) > 20:
+            pages += f"<br>... +{len(members) - 20} more"
+        lines.append(f"| {idx} | {len(members)} | `{content_hash}` | {pages} |")
+
     lines.extend(["", "## Preserved Alias URL Groups", "", "| Rank | Count | URL | Alias pages |", "|---:|---:|---|---|"])
     for idx, (url, members) in enumerate(alias_url_groups[:100], 1):
         pages = "<br>".join(f"[[{row.slug}]] -> {row.duplicate_of}" for row in members[:20])
@@ -159,17 +197,28 @@ def render_report(rows: list[SourceRow]) -> str:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--date", default=DEFAULT_DATE)
+    args = parser.parse_args()
     rows = load_sources()
-    csv_path = write_csv(rows)
-    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    REPORT_PATH.write_text(render_report(rows), encoding="utf-8")
+    csv_path = write_csv(rows, args.date)
+    report_path = ROOT / "wiki" / "analysis" / f"source-duplicate-audit-{args.date}.md"
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    report_path.write_text(render_report(rows, args.date), encoding="utf-8")
     print(f"CSV: {csv_path}")
-    print(f"Report: {REPORT_PATH}")
+    print(f"Report: {report_path}")
     print(f"Sources audited: {len(rows)}")
     active_rows = [row for row in rows if not row.duplicate_of]
+    active_hash_review = grouped(active_rows, "content_hash")
+    active_hash_dupes = [
+        (content_hash, members)
+        for content_hash, members in active_hash_review
+        if len({normalize_url(row.collection_url) for row in members if row.collection_url}) <= 1
+    ]
     print(f"Alias-marked source pages: {len(rows) - len(active_rows)}")
     print(f"Active duplicate URL groups: {len(grouped(active_rows, 'collection_url'))}")
-    print(f"Active duplicate content-hash groups: {len(grouped(active_rows, 'content_hash'))}")
+    print(f"Active duplicate content-hash groups: {len(active_hash_dupes)}")
+    print(f"Review-only content-hash groups: {len(active_hash_review) - len(active_hash_dupes)}")
 
 
 if __name__ == "__main__":

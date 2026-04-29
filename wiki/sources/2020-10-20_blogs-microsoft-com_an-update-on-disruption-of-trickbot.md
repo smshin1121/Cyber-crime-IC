@@ -31,4 +31,4 @@ The TrickBot disruption was a multi-pronged effort in October 2020 involving bot
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2020-10-20_blogs-microsoft-com_an-update-on-disruption-of-trickbot.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2020-10-20_blogs-microsoft-com_an-update-on-disruption-of-trickbot.md`, preserving traceable review without classifying the page as a placeholder.

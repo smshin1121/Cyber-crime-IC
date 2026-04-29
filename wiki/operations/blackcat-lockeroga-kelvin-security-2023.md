@@ -34,8 +34,13 @@ participating_agencies:
   - "[[europol-ec3]]"
   - "[[eurojust]]"
 legal_basis:
-
+  - "[[budapest-convention]]"
+  - "[[mutual-legal-assistance]]"
+  - "domestic ransomware disruption and seizure authorities"
 mechanisms_used:
+  - "[[europol-jit]]"
+  - "[[mlat-process]]"
+  - "[[public-private-cooperation]]"
 
 results:
   arrests: 1
@@ -58,12 +63,13 @@ edges:
 credibility_index: 4.12
 source_tier: 1
 missing_fields:
-  - legal_basis
-  - mechanisms_used
   - exact_seizure_counts
 related_cases:
 
 related_operations:
+  - "[[hive-ransomware-takedown]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-checkmate-blacksuit]]"
 
 challenges_encountered:
 
@@ -77,7 +83,7 @@ sources:
   - "[[2023-12-19_cisa-gov_stopransomware-alphv-blackcat]]"
   - "[[2023-12-19_bleepingcomputer_fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
 summary: "This page groups three separate official enforcement actions announced in late November and December 2023 that respectively targeted ALPHV/BlackCat, a LockerGoga-linked ransomware affiliate group, and Kelvin Security."

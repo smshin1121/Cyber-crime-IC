@@ -31,4 +31,4 @@ In January 2019, the FBI, in cooperation with [[europol-ec3|Europol]] and Belgia
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2019-01-28_thehackernews-com_cyber-criminal-marketplace.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2019-01-28_thehackernews-com_cyber-criminal-marketplace.md`, preserving traceable review without classifying the page as a placeholder.

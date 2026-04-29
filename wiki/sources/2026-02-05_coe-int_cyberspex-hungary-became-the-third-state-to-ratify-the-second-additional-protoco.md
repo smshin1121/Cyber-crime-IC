@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/cybercrime/-/cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protocol-to-the-convention-on-cybercrime-1
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:d944806ab30635c46adaa3ec292e27ccf17d3d7a9b899b33023f1bfb3ae3e4b8
-word_count: 2091
-extraction_date: 2026-04-25
+content_hash: sha256:3025580dee5112888e84f36cb7974b6f78f184496efe8fb9943c4db149e77e66
+word_count: 272
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ The Budapest Convention on Cybercrime is the **first and most significant bindin
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-02-05_coe-int_cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protoco.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-02-05_coe-int_cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protoco.md`, preserving traceable review without classifying the page as a placeholder.

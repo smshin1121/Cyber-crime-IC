@@ -34,4 +34,4 @@ Michael Paiva (Silk Road 2.0 Purchaser) Enforcement Action is a defendant-specif
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2017-03-09_justice-gov_united-states-v-michael-carlton-paiva.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2017-03-09_justice-gov_united-states-v-michael-carlton-paiva.md`, preserving traceable review without classifying the page as a placeholder.

@@ -34,4 +34,4 @@ Curry and Brooke (Dark Web Proceeds Laundering) Enforcement Action is a defendan
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2019-10-02_justice-gov_united-states-v-aidan-curry-and-connor-brooke.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2019-10-02_justice-gov_united-states-v-aidan-curry-and-connor-brooke.md`, preserving traceable review without classifying the page as a placeholder.

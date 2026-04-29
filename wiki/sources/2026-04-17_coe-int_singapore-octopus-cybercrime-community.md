@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.coe.int/en/web/octopus/-/singapore
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:dc7e8be95d51cfd2856b5d65da81eea81871f6447c081a934a615c72a196c393
-word_count: 2972
-extraction_date: 2026-04-25
+content_hash: sha256:61973274388c978bf7b4a97ac15d7b4010047941c1088fa91eaf0bf3522623be
+word_count: 1664
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Singapore is *highly likely* the leading cybercrime cooperation hub in Southeast
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_coe-int_singapore-octopus-cybercrime-community.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_coe-int_singapore-octopus-cybercrime-community.md`, preserving traceable review without classifying the page as a placeholder.

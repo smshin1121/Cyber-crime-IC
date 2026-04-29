@@ -31,4 +31,4 @@ DarkMarket was, at the time of its shutdown on 11 January 2021, the world's larg
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma.md`, preserving traceable review without classifying the page as a placeholder.

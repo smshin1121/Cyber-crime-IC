@@ -56,6 +56,8 @@ operations_participated:
   - "[[operation-us-v-parsarad-nemesis]]"
   - "[[blackcat-lockeroga-kelvin-security-2023]]"
   - "[[phobos-8base-crackdown]]"
+  - "[[global-airport-action-day]]"
+  - "[[zeus-spyeye-takedown]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

@@ -18,11 +18,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2022/06/st-louis-man-sentenced-aggravated-id-theft-other-charges
 created: 2026-04-25
 raw_path: raw/press-releases/2022-06-29_secret-service_st-louis-man-sentenced-aggravated-id-theft-other-charges.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:aa236075479b72f816388eb97faffee21531e3dfe82d06e1601c42d3f6a2b45c
-word_count: 123
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:ea1f66774bbaf17cecd372e6fb5fb12ba53013556adaae94a7b5e2f1be2d19d1
+word_count: 435
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

@@ -35,4 +35,4 @@ DOJ's 4 January 2024 xDedic roundup identifies Oluwarotimi Ogunlana of Texas as 
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2024-01-04_mdfl_ogunlana-xdedic-summary.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2024-01-04_mdfl_ogunlana-xdedic-summary.md`, preserving traceable review without classifying the page as a placeholder.

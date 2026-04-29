@@ -17,11 +17,12 @@ key_findings:
   - "In December 2015, Europol, the FBI, and law enforcement from 10+ countries conducted Operation Pleiades targeting the DD4BC (DDoS for Bitcoin) cybercriminal group. DD4BC had launched DDoS attacks against companies in the online gambling, financial services, and entertainment sectors, extorting Bitcoin payments. Key members of the group were arrested, significantly disrupting the DDoS-for-Bitcoin extortion network."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:d11a28b670806a65687c2835fc465421b4ad4ed47215b32722eb4750ee97d793
-word_count: 207
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:cdda612345b86f90e6dd042b968fa24c2aab5b615ebbcb4df8b3cc62dadfa9a5
+word_count: 664
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ In December 2015, Europol, the FBI, and law enforcement from 10+ countries condu
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-12-01_europol-europa-eu_international-action-against-dd4bc-cybercriminal-group.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2015-12-01_europol-europa-eu_international-action-against-dd4bc-cybercriminal-group.md`, preserving traceable review without classifying the page as a placeholder.

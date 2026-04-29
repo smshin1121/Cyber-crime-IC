@@ -20,6 +20,11 @@ collection_url: https://mynewsla.com/crime/2024/04/29/two-men-get-lengthy-prison
 created: 2026-04-25
 raw_path: raw/news/2024-04-29_mynewsla_two-men-lengthy-prison-terms-drug-trafficking.md
 copyright_policy: summary-only
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:f618919721a31fa392c59b2bc76532c6a16b3dc5706a9556e72ecc444081b127
+word_count: 132
+extraction_date: 2026-04-29
 ---
 ## Source Summary
 

@@ -11,9 +11,9 @@ total: 61
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
-| 🇦🇪 | [[united-arab-emirates]] | mixed | — | unknown | unknown | 1 |
+| 🇦🇪 | [[united-arab-emirates]] | mixed | — | unknown | unknown | 0 |
 | 🇦🇱 | [[albania]] | civil-law | — | medium | unknown | 3 |
-| 🇦🇲 | [[armenia]] | civil-law | — | unknown | unknown | 0 |
+| 🇦🇲 | [[armenia]] | civil-law | listed | unknown | unknown | 2 |
 | 🇦🇷 | [[argentina]] | civil-law | — | unknown | unknown | 0 |
 | 🇦🇹 | [[austria]] | civil-law | — | unknown | unknown | 1 |
 | 🇦🇺 | [[australia]] | common-law | — | high | 90-180 | 0 |
@@ -23,7 +23,7 @@ total: 61
 | 🇧🇬 | [[bulgaria]] | civil-law | — | medium | 90-180 | 4 |
 | 🇧🇯 | [[benin]] | civil-law | — | low | unknown | 4 |
 | 🇧🇴 | [[bolivia]] | civil-law | — | unknown | unknown | 0 |
-| 🇧🇷 | [[brazil]] | civil-law | — | unknown | unknown | 0 |
+| 🇧🇷 | [[brazil]] | civil-law | listed | unknown | unknown | 4 |
 | 🇧🇾 | [[belarus]] | civil-law | — | unknown | unknown | 0 |
 | 🇧🇿 | [[belize]] | common-law | — | unknown | unknown | 0 |
 | 🇨🇦 | [[canada]] | mixed | — | high | 90-180 | 5 |
@@ -34,13 +34,13 @@ total: 61
 | 🇨🇳 | [[china]] | civil-law | — | high | 180+ | 0 |
 | 🇨🇴 | [[colombia]] | civil-law | — | medium | unknown | 5 |
 | 🇨🇷 | [[costa-rica]] | civil-law | — | unknown | unknown | 0 |
-| 🇨🇾 | [[cyprus]] | civil-law | — | unknown | unknown | 0 |
+| 🇨🇾 | [[cyprus]] | civil-law | listed | unknown | unknown | 1 |
 | 🇨🇿 | [[czech-republic]] | civil-law | — | medium | 90-180 | 4 |
 | 🇨🇿 | [[czechia]] | civil-law | — | unknown | unknown | 0 |
 | 🇩🇪 | [[germany]] | civil-law | — | high | 90-180 | 5 |
-| 🇩🇰 | [[denmark]] | civil-law | — | unknown | unknown | 0 |
+| 🇩🇰 | [[denmark]] | civil-law | listed | unknown | unknown | 1 |
 | 🇪🇨 | [[ecuador]] | civil-law | — | unknown | unknown | 0 |
-| 🇪🇪 | [[estonia]] | civil-law | listed | high | unknown | 0 |
+| 🇪🇪 | [[estonia]] | civil-law | listed | high | unknown | 3 |
 | 🇪🇸 | [[spain]] | civil-law | — | high | 90-180 | 6 |
 | 🇫🇮 | [[finland]] | civil-law | — | high | 90-180 | 6 |
 | 🇫🇷 | [[france]] | civil-law | — | high | 90-180 | 6 |
@@ -52,30 +52,30 @@ total: 61
 | 🇬🇾 | [[guyana]] | common-law | — | unknown | unknown | 0 |
 | 🇭🇰 | [[hong-kong]] | common-law | — | high | unknown | 0 |
 | 🇭🇷 | [[croatia]] | civil-law | — | unknown | unknown | 0 |
-| 🇭🇺 | [[hungary]] | civil-law | — | unknown | unknown | 0 |
+| 🇭🇺 | [[hungary]] | civil-law | listed | unknown | unknown | 1 |
 | 🇮🇩 | [[indonesia]] | civil-law | — | medium | 180+ | 0 |
 | 🇮🇪 | [[ireland]] | common-law | — | unknown | unknown | 0 |
-| 🇮🇱 | [[israel]] | mixed | — | unknown | unknown | 0 |
+| 🇮🇱 | [[israel]] | mixed | listed | unknown | unknown | 4 |
 | 🇮🇳 | [[india]] | common-law | — | medium | 180+ | 0 |
-|  | [[international]] | mixed | — | variable | variable | 0 |
+|  | [[international]] | mixed | listed | variable | variable | 4 |
 | 🇮🇸 | [[iceland]] | civil-law | — | unknown | unknown | 0 |
 | 🇮🇹 | [[italy]] | civil-law | — | high | 90-180 | 6 |
 | 🇯🇵 | [[japan]] | civil-law | — | high | 90-180 | 0 |
 | 🇰🇪 | [[kenya]] | mixed | — | medium | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | civil-law | — | low | unknown | 0 |
 | 🇰🇷 | [[south-korea]] | civil-law | — | high | 60-120 | 17 |
-| 🇰🇿 | [[kazakhstan]] | civil-law | — | unknown | unknown | 1 |
+| 🇰🇿 | [[kazakhstan]] | civil-law | — | unknown | unknown | 0 |
 | 🇱🇦 | [[laos]] | civil-law | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | civil-law | listed | unknown | unknown | 0 |
 | 🇱🇺 | [[luxembourg]] | civil-law | — | unknown | unknown | 0 |
 | 🇱🇻 | [[latvia]] | civil-law | — | medium | unknown | 0 |
 | 🇲🇦 | [[morocco]] | mixed | — | medium | unknown | 0 |
-| 🇲🇩 | [[moldova]] | civil-law | — | unknown | unknown | 0 |
+| 🇲🇩 | [[moldova]] | civil-law | listed | unknown | unknown | 4 |
 | 🇲🇪 | [[montenegro]] | civil-law | — | unknown | unknown | 0 |
 | 🇲🇰 | [[macedonia]] | civil-law | — | unknown | unknown | 0 |
-| 🇲🇲 | [[myanmar]] | mixed | — | unknown | unknown | 0 |
+| 🇲🇲 | [[myanmar]] | mixed | listed | unknown | unknown | 1 |
 | 🇲🇺 | [[mauritius]] | mixed | — | medium | unknown | 0 |
-| 🇲🇽 | [[mexico]] | — | — | unknown | unknown | 0 |
+| 🇲🇽 | [[mexico]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇾 | [[malaysia]] | mixed | — | medium | unknown | 0 |
 | 🇳🇬 | [[nigeria]] | mixed | — | medium | 180+ | 0 |
 | 🇳🇱 | [[netherlands]] | civil-law | — | high | 60-120 | 5 |
@@ -88,7 +88,7 @@ total: 61
 | 🇵🇾 | [[paraguay]] | civil-law | — | unknown | unknown | 0 |
 | 🇷🇴 | [[romania]] | civil-law | — | high | unknown | 4 |
 | 🇷🇸 | [[serbia]] | civil-law | — | medium | unknown | 3 |
-| 🇷🇺 | [[russia]] | civil-law | listed | low | 180+ | 0 |
+| 🇷🇺 | [[russia]] | civil-law | listed | low | 180+ | 4 |
 | 🇷🇼 | [[rwanda]] | mixed | — | medium | unknown | 3 |
 | 🇸🇪 | [[sweden]] | civil-law | — | high | 90-180 | 0 |
 | 🇸🇬 | [[singapore]] | common-law | — | high | unknown | 0 |
@@ -97,27 +97,27 @@ total: 61
 | 🇹🇬 | [[togo]] | civil-law | — | low | unknown | 3 |
 | 🇹🇭 | [[thailand]] | civil-law | — | medium | unknown | 3 |
 | 🇹🇷 | [[turkey]] | civil-law | — | unknown | unknown | 0 |
-| 🇹🇼 | [[taiwan]] | civil-law | — | unknown | unknown | 0 |
+| 🇹🇼 | [[taiwan]] | civil-law | listed | unknown | unknown | 2 |
 | 🇹🇿 | [[tanzania]] | common-law | — | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | — | high | unknown | 3 |
 | 🇺🇸 | [[united-states]] | common-law | — | high | 180+ | 1 |
 | 🇺🇾 | [[uruguay]] | civil-law | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | civil-law | — | unknown | unknown | 0 |
-| 🇻🇳 | [[vietnam]] | civil-law | — | low | unknown | 0 |
+| 🇻🇳 | [[vietnam]] | civil-law | listed | low | unknown | 1 |
 | 🇽🇰 | [[kosovo]] | civil-law | — | low | unknown | 0 |
 | 🇿🇦 | [[south-africa]] | mixed | — | medium | unknown | 0 |
 | 🇿🇲 | [[zambia]] | common-law | — | low | unknown | 2 |
-|  | [[algeria]] | — | — | unknown | unknown | 0 |
-|  | [[angola]] | — | — | unknown | unknown | 0 |
-|  | [[brunei]] | — | — | unknown | unknown | 0 |
-|  | [[democratic-republic-of-the-congo]] | — | — | unknown | unknown | 0 |
-|  | [[gabon]] | — | — | unknown | unknown | 0 |
-|  | [[macau]] | — | — | unknown | unknown | 0 |
-|  | [[madagascar]] | — | — | unknown | unknown | 0 |
-|  | [[mongolia]] | — | — | unknown | unknown | 0 |
-|  | [[mozambique]] | — | — | unknown | unknown | 0 |
-|  | [[namibia]] | — | — | unknown | unknown | 0 |
-|  | [[new-zealand]] | — | — | unknown | unknown | 0 |
-|  | [[senegal]] | — | — | unknown | unknown | 0 |
-|  | [[tunisia]] | — | — | unknown | unknown | 0 |
-|  | [[zimbabwe]] | — | — | unknown | unknown | 0 |
+|  | [[algeria]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[angola]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[brunei]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[democratic-republic-of-the-congo]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[gabon]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[macau]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[madagascar]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[mongolia]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[mozambique]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[namibia]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[new-zealand]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[senegal]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[tunisia]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[zimbabwe]] | not-assessed | — | unknown | unknown | 0 |

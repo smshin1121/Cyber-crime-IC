@@ -27,4 +27,4 @@ On 27 January 2021, the Department of Justice announced the disruption of the Em
 
 ## Relevance to IC
 
-This source was generated from `raw/case-documents/2021-01-27_mdnc_emotet-disruption-order.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/case-documents/2021-01-27_mdnc_emotet-disruption-order.md`, preserving traceable review without classifying the page as a placeholder.

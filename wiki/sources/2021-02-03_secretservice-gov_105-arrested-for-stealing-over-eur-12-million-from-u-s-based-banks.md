@@ -17,11 +17,12 @@ key_findings:
   - "This page captures the public enforcement results of **Operation Secreto**, a Europol-coordinated and U.S. Secret Service-supported action against a fraud and money laundering network that targeted U.S.-based banks through shell companies, payment-card abuse, and cross-border laundering channels."
 collection_url: https://www.secretservice.gov/newsroom/releases/2021/02/105-arrested-stealing-over-eu12-million-us-based-banks
 created: 2026-04-17
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:146dc76c601510d8d304622d8d80921ae0641217578ee64008f0f00d7bdcc66d
-word_count: 179
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:0ab8b98adb29ea0ca4792fd0d94b4c1acd055552361202d22483765a9ac50045
+word_count: 530
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

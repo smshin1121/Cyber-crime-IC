@@ -1,27 +1,40 @@
 ---
 type: crime-type
 title: "Extortion — IC Perspective"
-status: "stub"
+status: corpus-linked
 created: 2026-04-10
-updated: 2026-04-14
+updated: 2026-04-29
 last_verified: 2026-04-10
-source_count: 0
-sources: []
+source_count: 1
+sources:
+  - "[[europol-operation-pleiades]]"
+category: cybercrime-related
+broadly_criminalized: varies-by-jurisdiction
 ---
-
-> [!info] Stub
-> Auto-created to resolve a wikilink. Expand when sources are ingested.
-
 ## Summary
-(To be expanded.)
 
-## Criminalization Landscape
-Cyber-enabled extortion is commonly prosecuted through extortion, coercion, blackmail, computer misuse, and proceeds-of-crime statutes rather than a single harmonized offense.
+Extortion — IC Perspective is a crime-type node used to group source-backed operations and cases by the cybercrime conduct at issue.
 
-## Typical IC Scenarios
-The international dimension often arises when threats, communications platforms, payment channels, and target organizations are distributed across multiple jurisdictions.
+Current corpus coverage links this node to **0 operation records**, **0 case records**, and **1 source records**. Representative linked records include: [[europol-operation-pleiades|europol-operation-pleiades]].
+
+## International-Cooperation Relevance
+
+Crime-type grouping supports comparison across jurisdictions: it shows which offences repeatedly require cross-border evidence, platform cooperation, asset tracing, extradition, or synchronized enforcement.
+
+## Corpus Links
+
+| Record | Type | Why it matters here |
+|---|---|---|
+| [[europol-operation-pleiades|europol-operation-pleiades]] | source | Source record that explicitly mentions or classifies the node. |
+
+## Data Quality Notes
+
+Classification is source-driven. A page may be linked here because the conduct, charge, target service, or operational objective fits the category even when the source uses a different label.
+
+This page was expanded from a structural link-preservation stub during the 2026-04-29 menu-data audit. The references below are drawn from already ingested source pages attached to linked operations, cases, or source records.
 
 ## References
 
 | # | Source | Publisher | Date | URL |
-|---|---|---|---|---|
+|---|--------|-----------|------|-----|
+| 1 | [[europol-operation-pleiades|Europol: International Action Against DD4BC Cybercriminal Group (Operation Pleiades)]] | Europol | 2016-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group |

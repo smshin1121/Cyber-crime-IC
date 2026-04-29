@@ -67,7 +67,7 @@
         
         
           <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-26
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-29
           </span>
         
         
@@ -83,13 +83,17 @@
 <p>This page tracks the publicly reported arrest of the unidentified Australian alleged operator of DarkMarket. The public record is stronger for the arrest and infrastructure seizure than for later court proceedings, so the page preserves only the parts clearly supported by current sources.</p>
 <h2 id="facts">Facts</h2>
 <p>Europol and corroborating media sources reported that the alleged operator was a 34-year-old Australian national arrested near the German-Danish border when DarkMarket was taken down in January 2021. The same public record ties the arrest to server seizures in Moldova and Ukraine and to the intelligence haul that later supported Operation Dark HunTOR.</p>
+<p>DarkMarket is modeled here as a marketplace-infrastructure case rather than a single-vendor prosecution. The reported arrest identifies an alleged administrator, while the seized servers represent the evidence base that could connect vendors, buyers, wallets, messages, listings, and marketplace records. That distinction matters for later graph analysis because the named public subject is an alleged operator, but much of the source value comes from infrastructure and intelligence reuse.</p>
+<p>The available sources also justify keeping the case separate from a finished sentencing record. They are strong on the takedown date, suspected role, arrest geography, and server geography, but they do not identify a reliable public defendant name or final German court outcome. The page therefore treats the arrest as a documented procedural event inside <a href="../../wiki/operations/darkmarket-takedown.html" class="wikilink">darkmarket-takedown</a>, not as a completed adjudication.</p>
 <h2 id="international-cooperation-elements">International Cooperation Elements</h2>
 <p>This case is useful because it sits at the intersection of physical arrest and transnational electronic-evidence seizure:</p>
 <ul>
-<li>the arrest occurred in Germany</li>
-<li>the seized infrastructure sat in Moldova and Ukraine</li>
 <li>Europol coordinated the multinational exchange around the takedown</li>
+<li>German authorities led the arrest component, while the server seizures in Moldova and Ukraine created a cross-border evidence chain.</li>
+<li>United States and United Kingdom law-enforcement references are relevant as partner signals and as later users of DarkMarket-derived intelligence, not as proof that the arrested suspect was transferred to either country.</li>
+<li>Operation Dark HunTOR is linked only as a downstream enforcement wave that used darknet-market intelligence after the DarkMarket takedown.</li>
 </ul>
+<p>From an international-cooperation perspective, the case is useful precisely because it combines three separate enforcement layers: arrest jurisdiction, evidence-hosting jurisdictions, and later intelligence exploitation. Many darknet-market records collapse those layers into a single "takedown" label; this page keeps them separated so that extradition, server seizure, and investigative-intelligence reuse are not confused.</p>
 <h2 id="proceedings-timeline">Proceedings Timeline</h2>
 <table>
 <thead>
@@ -118,8 +122,22 @@
 <p>For graph purposes, the strongest structured link is between the suspect, Germany as arrest jurisdiction, and the Moldova/Ukraine server-seizure evidence path. Later Dark HunTOR material is relevant only as downstream use of marketplace data.</p>
 <h2 id="legal-analysis">Legal Analysis</h2>
 <p>The page avoids overstating later procedure. Current public materials in the repo do not provide a strong, named public docket trail for the arrested Australian suspect. The arrest itself is well supported; the post-arrest prosecution path is not.</p>
+<p>The strongest legal characterization is therefore electronic-evidence preservation and coordinated marketplace disruption. DarkMarket's alleged scale makes the case important, but the evidentiary model should remain conservative: public sources support seizure of infrastructure and arrest of an alleged operator, while charging details, plea posture, and sentence remain outside the current verified record.</p>
+<p>For repository integrity, this case should not inherit facts from unrelated darknet-market prosecutions simply because they share a market category. It should inherit only the DarkMarket takedown relationship and the later Dark HunTOR intelligence link. That constraint prevents the case from acquiring unsupported defendant names, penalties, or forum details during automated enrichment.</p>
 <h2 id="source-coverage">Source Coverage</h2>
 <p>Europol is the primary source for the enforcement action. RFE/RL and SBS provide corroborating public reporting on server geography and the Australian suspect framing. The Dark HunTOR reference is retained only to show the later intelligence use of seized darknet-market data; it is not treated as proof of this suspect's sentence or final procedural outcome.</p>
+<!-- SOURCE_ENRICHMENT_START -->
+
+<h2 id="source-coverage_1">Source Coverage</h2>
+<ul>
+<li>Europol, 2021-01-12: DarkMarket: world's largest illegal dark web marketplace taken down.</li>
+<li>The Hacker News, 2021-01-12: Authorities Take Down World's Largest Illegal Dark Web Marketplace.</li>
+<li>RFE/RL, 2021-01-12: Servers Seized In Ukraine, Moldova As Germany Takes Down 'World's Largest' Illegal Darknet Marketplace.</li>
+<li>SBS News, 2021-01-12: Australian man arrested in Germany accused of running 'world's largest' Darknet marketplace.</li>
+<li>US DOJ/DEA, 2021-10-26: Department of Justice Announces Results of Operation Dark HunTor.</li>
+</ul>
+<!-- SOURCE_ENRICHMENT_END -->
+
 <h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <table class="reference-table"><colgroup><col class="col-ref-num"><col class="col-ref-source"><col class="col-ref-publisher"><col class="col-ref-date"><col class="col-ref-url"></colgroup>
 <thead>
@@ -328,8 +346,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-26 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-26">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-29 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-29">
     </span>
   </div>
 

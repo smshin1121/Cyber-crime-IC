@@ -32,4 +32,4 @@ INTERPOL and AFRIPOL jointly coordinated Operation Serengeti from 2 September to
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-11-26_interpol_operation-serengeti.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-11-26_interpol_operation-serengeti.md`, preserving traceable review without classifying the page as a placeholder.

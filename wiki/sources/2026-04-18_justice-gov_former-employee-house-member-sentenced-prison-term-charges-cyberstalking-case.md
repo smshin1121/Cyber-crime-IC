@@ -24,9 +24,9 @@ duplicate_key: https://www.justice.gov/usao-dc/pr/former-employee-house-member-s
 duplicate_normalized_at: 2026-04-26
 text_status: source-digest
 storage_mode: source-digest
-content_hash: sha256:1e2a0029f689eb36e730d331d00749371cc4e56fd9311f3ce9b743622e97019a
+content_hash: sha256:13a8f1ac170035c345e30b39f36706247448da29e80f055afab0ebd28e2a74f0
 word_count: 108
-extraction_date: 2026-04-28
+extraction_date: 2026-04-29
 ---
 ## Source Summary
 

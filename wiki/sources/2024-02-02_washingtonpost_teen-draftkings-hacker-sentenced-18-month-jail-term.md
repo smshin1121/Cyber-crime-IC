@@ -19,12 +19,13 @@ collection_url: https://www.washingtonpost.com/sports/2024/02/02/draftkings-hack
 created: 2026-04-25
 raw_path: raw/news/2024-02-02_washingtonpost_teen-draftkings-hacker-sentenced-18-month-jail-term.md
 text_status: summarized
-content_hash: sha256:7ac55ba7ce6ba360c6968a869ebc58704c122595576e9f1571df3987e9146350
-word_count: 2016
+content_hash: sha256:bad788ba2fd532380a71176984e158301222aef850dbb0e808f0a4fdc6e32e90
+word_count: 111
 stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-29
 last_fetcher: jina
 copyright_policy: summary-only
+storage_mode: summary-only
 ---
 ## Source Summary
 

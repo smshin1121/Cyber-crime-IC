@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2022/05/31/monroe-father-and-
 created: 2026-04-25
 raw_path: raw/press-releases/2022-05-31_dea_monroe-father-and-son-sentenced-prison-money-laundering-illegal-marijuana.md
 text_status: parsed
-content_hash: sha256:60328d0a1038cd8369e29f2fb2f2359ba4f133fcc447dcc04e394e776a977337
-word_count: 5471
-extraction_date: 2026-04-25
+content_hash: sha256:82e6300814a38b3a5cd63fa1ce92f5fc32933c790d7f9361c3b18c1755ae3dd7
+word_count: 663
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

@@ -57,7 +57,7 @@ source_count: 1
 sources:
   - "[[2021-09-08_mdfl_ivanov-tolpintsev-xdedic-extradition]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-29
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"
 summary: "Ivanov-Tolpintsev (xDedic Credentials Seller) Enforcement Action is a defendant-specific xDedic follow-on retained as an operation-side pointer to [[us-v-ivanov-tolpintsev-xdedic]] and the umbrella [[xdedic-marketplace-takedown]] record."

@@ -64,7 +64,7 @@ sources:
   - "[[2022-04-04_justice-gov-archives_two-individuals-sentenced-conspiracy-sale-fraudulent-identity-documents-darknet]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-evan-hayes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 top_up_callout: 2026-04-25
 ---
 ## Summary

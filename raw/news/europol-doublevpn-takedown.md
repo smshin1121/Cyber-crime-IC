@@ -1,9 +1,9 @@
 ---
 title: "Europol: Coordinated action cuts off access to VPN service used by ransomware groups"
 collection_source: Europol
-collection_url: ""
-final_url: ""
-collection_domain: ""
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/coordinated-action-cuts-access-to-vpn-service-used-ransomware-groups
+final_url: https://www.europol.europa.eu/media-press/newsroom/news/coordinated-action-cuts-access-to-vpn-service-used-ransomware-groups
+collection_domain: europol.europa.eu
 collection_date: 2026-04-27
 publish_date: 2021-06-30
 language: en

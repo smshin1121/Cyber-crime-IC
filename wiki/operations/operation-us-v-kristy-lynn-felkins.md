@@ -61,14 +61,16 @@ lessons_learned:
 
 source_count: 1
 sources:
-  - "[[2023-07-21_lasvegassun_nevada-woman-hired-hitman-using-bitcoin-five-years-prison]]"
+  - "[[2026-04-18_justice-gov_nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kristy-lynn-felkins]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kristy-lynn-felkins]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
@@ -78,4 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | A Nevada woman who hired a hitman using bitcoin to kill her ex-husband gets five years in prison | Las Vegas Sun (AP) | 2023-07-21 | https://lasvegassun.com/news/2023/jul/21/a-nevada-woman-who-hired-a-hitman-using-bitcoin-to/ |
+| [1] | Nevada Woman Sentenced to 5 Years Prison for Hiring Hitman on Dark Web to Kill Her Ex-Husband | US DOJ USAO | 2023-07-21 | https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband |

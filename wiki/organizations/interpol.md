@@ -53,6 +53,8 @@ operations_participated:
   - "[[operation-usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]]"
   - "[[black-axe-bec-2021]]"
   - "[[africa-cyber-surge-ii]]"
+  - "[[operation-delilah]]"
+  - "[[operation-lyrebird]]"
 org_type: international-org
 parent_org: ""
 source_count: 4

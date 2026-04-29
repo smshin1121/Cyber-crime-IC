@@ -31,4 +31,4 @@ Togo is a **non-party** to the [[budapest-convention|Budapest Convention]] but i
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2018-12-07_ancy-gouv-tg_loi-n-2018-026-relative-la-cybers-curit-et-la-lutte-contre-la-cybercriminalit.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2018-12-07_ancy-gouv-tg_loi-n-2018-026-relative-la-cybers-curit-et-la-lutte-contre-la-cybercriminalit.md`, preserving traceable review without classifying the page as a placeholder.

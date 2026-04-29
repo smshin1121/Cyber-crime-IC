@@ -15,7 +15,7 @@ pages_updated:
   - operation-red-card
 key_findings:
   - "Africanews source referenced by Operation Red Card"
-collection_url: ""
+collection_url: https://www.africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation/
 created: 2026-04-17
 text_status: summarized
 storage_mode: summary-only
@@ -23,6 +23,8 @@ content_hash: sha256:444761a95caae5b1192c8839b60c2177f104ef718606342148c53fb272b
 word_count: 90
 extraction_date: 2026-04-27
 copyright_policy: summary-only
+collection_domain: africanews.com
+updated: 2026-04-29
 ---
 ## Summary
 

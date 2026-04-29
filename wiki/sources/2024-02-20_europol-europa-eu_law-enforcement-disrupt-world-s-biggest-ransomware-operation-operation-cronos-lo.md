@@ -33,4 +33,4 @@ extraction_date: 2026-04-28
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo.md`, preserving traceable review without classifying the page as a placeholder.

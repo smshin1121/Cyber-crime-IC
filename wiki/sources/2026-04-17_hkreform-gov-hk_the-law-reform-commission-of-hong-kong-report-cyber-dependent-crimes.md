@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.hkreform.gov.hk/en/docs/rcybercrime_e.pdf
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:3728dea5a9b00e8bac3f1c564a6777e816c370757f7b5ee9244fb075ee0934fa
-word_count: 65452
-extraction_date: 2026-04-25
+content_hash: sha256:31d20e1879e92a9de157e3c879e644abebbc654e6a8a56e5ecefd88aba2d42a2
+word_count: 65421
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Hong Kong is a **Special Administrative Region** of the People's Republic of Chi
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_hkreform-gov-hk_the-law-reform-commission-of-hong-kong-report-cyber-dependent-crimes.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_hkreform-gov-hk_the-law-reform-commission-of-hong-kong-report-cyber-dependent-crimes.md`, preserving traceable review without classifying the page as a placeholder.

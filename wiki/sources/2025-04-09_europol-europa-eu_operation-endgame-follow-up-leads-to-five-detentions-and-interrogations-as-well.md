@@ -21,11 +21,12 @@ duplicate_of: "[[2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-
 duplicate_reason: same_collection_url
 duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns
 duplicate_normalized_at: 2026-04-26
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:7c537940fa0645875d3c6385f4864b906f7013595f5183f6da694d255e21b7f0
-word_count: 205
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:007216f8fc643270ad7c949e82503faf3ec2b44f6d752fc1805cfbf9c22c4ec0
+word_count: 824
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 
@@ -33,4 +34,4 @@ extraction_date: 2026-04-28
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well.md`, preserving traceable review without classifying the page as a placeholder.

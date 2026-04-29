@@ -18,11 +18,12 @@ key_findings:
 collection_url: https://www.secretservice.gov/newsroom/releases/2022/08/woodmere-man-sentenced-prison-obtaining-stolen-credit-card-information
 created: 2026-04-25
 raw_path: raw/press-releases/2022-08-25_secretservice_woodmere-man-sentenced-stolen-credit-card-gasoline.md
-text_status: source-digest
-storage_mode: source-digest
-content_hash: sha256:fc78a17c369609a584b22271d7ac1e22fa4843c9bfb7c8d059757ef806718629
-word_count: 127
-extraction_date: 2026-04-28
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:637d35b20e53ab8f9327fdcc5c6869f3e7a2d8c329256f23bfc7ff56b0793554
+word_count: 356
+extraction_date: 2026-04-29
+last_fetcher: jina
 ---
 ## Source Summary
 

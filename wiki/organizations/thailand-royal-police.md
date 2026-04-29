@@ -1,47 +1,48 @@
 ---
 aliases:
-- CCIB
-- RTP CCIB
-- Thai CCIB
-- กองบัญชาการตำรวจสืบสวนสอบสวนอาชญากรรมทางเทคโนโลยี
-contact_point_for: []
+  - CCIB
+  - "RTP CCIB"
+  - "Thai CCIB"
+  - "กองบัญชาการตำรวจสืบสวนสอบสวนอาชญากรรมทางเทคโนโลยี"
+contact_point_for:
+  []
 cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[interpol-igci]]'
-- '[[australia-afp]]'
-- '[[aseanapol]]'
-country: '[[thailand]]'
+  - "[[fbi-cyber-division]]"
+  - "[[interpol-igci]]"
+  - "[[australia-afp]]"
+  - "[[aseanapol]]"
+country: "[[thailand]]"
 created: 2026-04-10
-established: '2020-09-09'
-frameworks_administered: []
-headquarters: Bangkok, Thailand
+established: 2020-09-09
+frameworks_administered:
+  []
+headquarters: "Bangkok, Thailand"
 key_roles:
-- National lead on cybercrime investigation in Thailand
-- Handles approximately 800 victim complaints daily
-- Specialized crypto-tracing and blockchain investigation
-- Cooperation with US, Europol, INTERPOL, and regional partners on scam compound cases
-- Capacity-building partnerships with TRM Labs and other private-sector crypto intelligence
-  providers
-last_verified: '2026-04-10'
-mandate: Protect Thai citizens and businesses from online fraud, scams, and cybercrime.
-  Investigate cybercrime cases exceeding local police capacity, including defamation,
-  threats, fake news, online gambling, illegal trade, cryptocurrency-facilitated crime,
-  and money laundering. Lead Thailand's international cybercrime cooperation.
-mechanisms_operated: []
-notable_cases: []
-official_name: Royal Thai Police, Cyber Crime Investigation Bureau
+  - "National lead on cybercrime investigation in Thailand"
+  - "Handles approximately 800 victim complaints daily"
+  - "Specialized crypto-tracing and blockchain investigation"
+  - "Cooperation with US, Europol, INTERPOL, and regional partners on scam compound cases"
+  - "Capacity-building partnerships with TRM Labs and other private-sector crypto intelligence"
+last_verified: 2026-04-10
+mandate: "Protect Thai citizens and businesses from online fraud, scams, and cybercrime."
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Royal Thai Police, Cyber Crime Investigation Bureau"
 operations_participated:
-- '[[phobos-8base-crackdown]]'
+  - "[[phobos-8base-crackdown]]"
+  - "[[infraud-organization-takedown]]"
 org_type: national-agency
-parent_org: '[[thailand-royal-police]]'
+parent_org: "[[thailand-royal-police]]"
 source_count: 8
-sources: []
+sources:
+  []
 status: active
-title: Royal Thai Police — Cyber Crime Investigation Bureau
+title: "Royal Thai Police — Cyber Crime Investigation Bureau"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-09
 ---
-
 ## Summary
 
 The Cyber Crime Investigation Bureau (CCIB) of the [[thailand-royal-police|Royal Thai Police]] was established on **9 September 2020** and began operations on **22 December 2020**. It is Thailand's first dedicated national-level cybercrime police bureau and was created in response to the surge in online fraud, scam compounds, and cryptocurrency-enabled financial crime affecting Thai citizens and the region.

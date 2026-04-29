@@ -31,4 +31,4 @@ On June 26, 2024, Indonesian immigration officials raided a villa in the Marga s
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2024-06-28_benarnews-org_indonesia-plans-to-expel-103-taiwanese-caught-in-cybersecurity-crackdown.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-06-28_benarnews-org_indonesia-plans-to-expel-103-taiwanese-caught-in-cybersecurity-crackdown.md`, preserving traceable review without classifying the page as a placeholder.

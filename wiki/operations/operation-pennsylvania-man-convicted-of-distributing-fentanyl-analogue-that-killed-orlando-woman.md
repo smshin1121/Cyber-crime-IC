@@ -64,11 +64,13 @@ sources:
   - "[[2018-04-27_dea_pennsylvania-man-sentenced-life-distributing-fentanyl-analogue-orlando-woman]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pennsylvania-man-convicted-of-distributing-fentanyl-analogue-that-killed-orlando-woman]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-29
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pennsylvania-man-convicted-of-distributing-fentanyl-analogue-that-killed-orlando-woman]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 

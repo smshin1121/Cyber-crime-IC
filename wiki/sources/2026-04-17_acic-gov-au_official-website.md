@@ -18,10 +18,11 @@ key_findings:
 collection_url: https://www.acic.gov.au/
 created: 2026-04-17
 text_status: parsed
-content_hash: sha256:0ff69f6751b3434be90c3276ddb271d19eee9ac262b8736503285744d9caa214
-word_count: 847
-extraction_date: 2026-04-25
+content_hash: sha256:8554156dcfb85d0275263f9f323d67a9da625cbd0d345163a1068074285a0a10
+word_count: 282
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 
@@ -29,4 +30,4 @@ Australia's national criminal intelligence agency; supports cybercrime investiga
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_acic-gov-au_official-website.md` to make the raw corpus addressable from the source index.
+The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_acic-gov-au_official-website.md`, preserving traceable review without classifying the page as a placeholder.

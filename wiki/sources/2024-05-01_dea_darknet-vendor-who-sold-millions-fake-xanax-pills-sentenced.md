@@ -19,10 +19,11 @@ collection_url: https://www.dea.gov/press-releases/2024/05/01/darknet-vendor-who
 created: 2026-04-25
 raw_path: raw/press-releases/2024-05-01_dea_darknet-vendor-who-sold-millions-fake-xanax-pills-sentenced.md
 text_status: parsed
-content_hash: sha256:6dbf098f5794b0392a1766b2283848805f63cad7a5698afd098e8f76035a4059
-word_count: 5189
-extraction_date: 2026-04-25
+content_hash: sha256:512f2afa3e824dabf2934c652ed63abb72546a04b6f85b1fe43dffaf7a1d91b1
+word_count: 483
+extraction_date: 2026-04-29
 last_fetcher: jina
+storage_mode: fulltext
 ---
 ## Source Summary
 

@@ -19,8 +19,9 @@ updated: 2026-04-18
 text_status: parsed
 content_hash: sha256:45f4a05c428dab85a3d931443842ff68d3aa7a25415664bd76b85c6b1b218a75
 word_count: 716
-extraction_date: 2026-04-25
+extraction_date: 2026-04-29
 last_fetcher: doj_fetch
+storage_mode: fulltext
 ---
 ## Source Summary
 
