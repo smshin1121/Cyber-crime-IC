@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
   []
 country: ""
+jurisdiction: "international"
 created: 2026-04-10
 established: 1997
 frameworks_administered:
@@ -32,7 +33,7 @@ sources:
 status: active
 title: "United Nations Office on Drugs and Crime (UNODC)"
 type: organization
-updated: 2026-04-10
+updated: "2026-04-29"
 ---
 ## Summary
 

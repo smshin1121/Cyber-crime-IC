@@ -7,6 +7,7 @@ aliases:
   - CSA Singapore
   - CSA
 country: '[[singapore]]'
+jurisdiction: [[singapore]]
 org_type: national-agency
 parent_org: '[[singapore-mddi]]'
 headquarters: Singapore
@@ -36,9 +37,8 @@ contact_point_for: []
 source_count: 4
 sources: []
 created: 2026-04-10
-updated: '2026-04-10'
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 The **Cyber Security Agency of Singapore (CSA)** is Singapore's lead national cybersecurity agency. Established on **1 April 2015**, CSA is responsible for protecting Singapore's cyberspace, operating SingCERT, regulating Critical Information Infrastructure (CII) under the [[cybersecurity-act-2018|Cybersecurity Act 2018]], licensing cybersecurity service providers, and coordinating Singapore's response to major cyber incidents.

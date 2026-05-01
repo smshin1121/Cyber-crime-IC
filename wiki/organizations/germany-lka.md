@@ -4,6 +4,7 @@ aliases:
 contact_point_for:
 
 country: "[[germany]]"
+jurisdiction: [[germany]]
 created: 2026-04-10
 established: "varies by Land"
 headquarters: "One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf,"
@@ -28,7 +29,7 @@ sources:
 status: active
 title: "Landeskriminalamt (LKA) — German State Criminal Police Offices (Collective)"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 > [!info] Collective reference
 > This page is a **collective reference** for Germany's 16 state-level **Landeskriminalämter (LKAs)**, not a single agency. Each LKA is an independent authority subordinate to its Land's interior ministry. For specific LKAs (e.g. LKA Bayern, LKA Baden-Württemberg), dedicated pages should be created when needed.

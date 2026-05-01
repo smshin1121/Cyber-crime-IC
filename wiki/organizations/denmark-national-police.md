@@ -3,10 +3,11 @@ type: organization
 title: "Denmark National Police"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police-parent
 country: "[[denmark]]"
+jurisdiction: [[denmark]]
 mandate: "Parent Danish police organization for cybercrime functions housed through the National Special Crime Unit and NC3."
 key_roles:
   - "Parent organization for [[denmark-police|Denmark NC3 / National Special Crime Unit cybercrime work]]."
@@ -25,7 +26,6 @@ sources:
   - "[[2026-04-17_politi-dk_national-special-crime-unit]]"
   - "[[2024-05-30_europol_operation-endgame-botnet-takedown]]"
 ---
-
 ## Summary
 
 **Denmark National Police** is the parent entry for Danish police cybercrime functions. The specialist cybercrime detail belongs on [[denmark-police]], which tracks NC3 inside Denmark's National Special Crime Unit.

@@ -5,6 +5,7 @@ contact_point_for: []
 cooperation_partners:
   - "[[maroc-cert]]"
 country: "[[morocco]]"
+jurisdiction: [[morocco]]
 created: 2026-04-10
 established: ""
 frameworks_administered: []
@@ -28,9 +29,8 @@ sources:
 status: active
 title: "DGST"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **DGST** is Morocco's General Directorate for Territorial Surveillance. In this corpus it is relevant only where sources connect Moroccan security or arrest activity to cybercrime investigations; otherwise Morocco's technical response context belongs on [[maroc-cert]].

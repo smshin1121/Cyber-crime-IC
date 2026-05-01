@@ -3,10 +3,11 @@ type: organization
 title: "Korea Ministry of the Interior and Safety"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: ministry
 country: "[[south-korea]]"
+jurisdiction: [[south-korea]]
 official_name: "Ministry of the Interior and Safety"
 mandate: "Korean interior ministry context for national police administration and future serious-crime investigation structures."
 key_roles:
@@ -21,7 +22,6 @@ sources:
   - "[[2026-04-17_police-go-kr_]]"
   - "[[2026-01-01_spo-go-kr_2026]]"
 ---
-
 ## Summary
 
 The **Korea Ministry of the Interior and Safety** is the ministry context for Korea's national police structure in this repository. Cybercrime investigation detail belongs on [[knpa]] and [[knpa-cyber-bureau]], but this page is useful for parent-ministry and reform context.

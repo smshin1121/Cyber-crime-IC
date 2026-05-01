@@ -3,10 +3,11 @@ type: organization
 title: "US Federal Government"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: government-umbrella
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 official_name: "United States Federal Government"
 mandate: "Umbrella entry for US federal cybercrime enforcement, prosecution, cyber-fraud, and incident-reporting institutions."
 key_roles:
@@ -33,7 +34,6 @@ sources:
   - "[[2025-06-05_secretservice-gov_u-s-government-seizes-approximately-145-criminal-marketplace-domains-associated]]"
   - "[[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]]"
 ---
-
 ## Summary
 
 **US Federal Government** is an umbrella page for cases where source material attributes an action to the US government broadly or where multiple federal agencies share the cybercrime role. It should not replace named agency pages; it is a routing page for whole-of-government actions and multi-agency federal architecture.

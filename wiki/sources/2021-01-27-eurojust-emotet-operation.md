@@ -12,12 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 source_url: https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems
+collection_url: "https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems"
 pages_updated:
   - "[[emotet-takedown]]"
 key_findings:
   - "Eurojust's announcement confirming its JIT (Joint Investigation Team) facilitation role."
   - "Judicial coordination between Netherlands, Germany, and other EU participants."
 created: 2026-04-14
+updated: "2026-04-29"
 text_status: parsed
 storage_mode: fulltext
 content_hash: sha256:01e31a3e8cfccd6e52283b1f6707637531d879ba12d827beba75cb6e78b4f093

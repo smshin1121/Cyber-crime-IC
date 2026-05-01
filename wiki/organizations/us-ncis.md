@@ -8,6 +8,7 @@ cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[us-treasury]]"
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 created: 2026-04-10
 established: ""
 frameworks_administered:
@@ -35,7 +36,7 @@ sources:
 status: active
 title: NCIS
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

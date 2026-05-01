@@ -9,6 +9,7 @@ status: active
 established: 1975
 parent_org: ""
 country: "[[pakistan]]"
+jurisdiction: [[pakistan]]
 headquarters: "Islamabad, Pakistan"
 mandate: "Investigation of federal crimes including cybercrime, immigration offences, and organized crime."
 key_roles:
@@ -22,10 +23,9 @@ source_count: 1
 sources:
   - "[[2025-05-28_krebsonsecurity-com_pakistan-arrests-21-in-heartsender-malware-service]]"
 created: 2026-04-12
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 ---
-
 ## Summary
 
 The **Federal Investigation Agency (FIA)** is Pakistan's federal investigative body for cybercrime and other federal offences. In the local corpus it is currently anchored to [[operation-heart-blocker]], which involved Pakistani arrests tied to the HeartSender malware-service ecosystem.

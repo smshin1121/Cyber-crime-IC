@@ -9,6 +9,7 @@ status: active
 established: ""
 parent_org: ""
 country: "[[italy]]"
+jurisdiction: [[italy]]
 headquarters: "Rome, Italy"
 mandate: "Central coordination of anti-drug operations in Italy, including darknet or encrypted-platform investigations with a narcotics component."
 key_roles:
@@ -27,7 +28,7 @@ sources:
   - https://www.afp.gov.au/news-centre/media-release/afp-operation-kraken-charges-alleged-head-global-organised-crime-app
   - https://www.europol.europa.eu/media-press/newsroom/news/12-members-of-irish-high-risk-criminal-network-arrested
 created: 2026-04-12
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 coverage_status: audit-normalized
 ---

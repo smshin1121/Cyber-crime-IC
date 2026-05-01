@@ -7,6 +7,7 @@ cooperation_partners:
   - "[[thailand-royal-police]]"
   - "[[thai-royal-police]]"
 country: "[[thailand]]"
+jurisdiction: [[thailand]]
 created: 2026-04-10
 established: unknown
 frameworks_administered: []
@@ -32,9 +33,8 @@ parent_org: "[[thailand-royal-police]]"
 status: active
 title: "Thai Cybercrime Police (general reference)"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **Thai Cybercrime Police** is a variant/alias page for sources that mention Thai cybercrime police or Thailand police without specifying a unit. The substantive page for the dedicated cybercrime bureau is [[thailand-royal-police]].

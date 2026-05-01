@@ -3,10 +3,11 @@ type: organization
 title: KrCERT/CC
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-cert
 country: "[[south-korea]]"
+jurisdiction: [[south-korea]]
 parent_org: "[[kisa]]"
 mandate: "National computer emergency response and coordination function for South Korea under KISA."
 key_roles:

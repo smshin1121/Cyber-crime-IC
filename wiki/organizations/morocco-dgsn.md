@@ -6,6 +6,7 @@ cooperation_partners:
   - "[[morocco-dgst]]"
   - "[[maroc-cert]]"
 country: "[[morocco]]"
+jurisdiction: [[morocco]]
 created: 2026-04-10
 established: ""
 frameworks_administered: []
@@ -30,9 +31,8 @@ sources:
 status: active
 title: "DGSN"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **DGSN** is Morocco's National Security Directorate. In this corpus, it provides police-side context for Moroccan cybercrime investigation and arrests, while [[maroc-cert]] covers the technical incident-response role and [[morocco-dgst]] covers intelligence/security-service context.

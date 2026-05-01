@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
   []
 country: "[[portugal]]"
+jurisdiction: [[portugal]]
 created: 2026-04-10
 established: 2016
 frameworks_administered:
@@ -32,7 +33,7 @@ sources:
 status: active
 title: "National Unit for Combating Cybercrime and Technological Crime (UNC3T)"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

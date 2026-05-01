@@ -10,6 +10,7 @@ operations_participated:
   - "[[operation-secure-interpol]]"
   - "[[operation-synergia-ii]]"
 org_type: private-sector-partner
+jurisdiction: "private-sector"
 key_roles:
   - "Private-sector threat-intelligence and cybercrime investigation partner."
   - "Provides telemetry, attribution support, and investigative leads to INTERPOL and national law-enforcement operations."
@@ -27,9 +28,8 @@ sources:
 status: active
 title: "Group-IB"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **Group-IB** is a private-sector cybercrime intelligence and investigation partner. In this corpus it appears as a recurring source of technical intelligence for INTERPOL-led and national operations, especially BEC, carding, and malicious infrastructure cases.

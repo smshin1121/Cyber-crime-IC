@@ -3,10 +3,11 @@ type: organization
 title: "Office of International Affairs"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: justice-international-cooperation-office
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 official_name: "Office of International Affairs"
 abbreviation: "OIA"
 parent_org: "[[us-doj]]"
@@ -32,7 +33,6 @@ sources:
   - "[[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]]"
   - "[[2023-07-01_oodaloop-com_doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-c]]"
 ---
-
 ## Summary
 
 The **Office of International Affairs (OIA)** is the DOJ Criminal Division component that carries much of the United States' formal cross-border legal process in cybercrime matters. In this corpus, OIA is not usually the technical investigator; it is the legal-cooperation mechanism that makes foreign evidence collection, search requests, arrests, extraditions, and evidence sharing usable in US prosecutions.

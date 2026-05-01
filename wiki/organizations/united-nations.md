@@ -3,10 +3,11 @@ type: organization
 title: "United Nations"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: international-organization
 country: ""
+jurisdiction: "international"
 mandate: "Global intergovernmental organization; cybercrime relevance in this corpus centers on the UN Cybercrime Convention process."
 key_roles:
   - "Provides the institutional framework for UNGA, UNODC, and the UN Cybercrime Convention process."
@@ -21,7 +22,6 @@ sources:
   - "[[2025-10-01_unodc-org_hanoi-convention-homepage]]"
   - "[[2026-04-17_unodc-org_united-nations-convention-against-cybercrime-home]]"
 ---
-
 ## Summary
 
 The **United Nations (UN)** is the institutional frame for the UN cybercrime treaty ecosystem in this repository. Its concrete cybercrime relevance is handled through [[unga]] as the adopting political body, [[unodc]] as the crime-and-drugs secretariat actor, and [[un-cybercrime-convention-2024]] as the treaty record.

@@ -41,7 +41,6 @@ sources:
 created: 2026-04-08
 updated: 2026-04-08
 ---
-
 ## Summary
 
 Ransomware is *almost certainly* the single most significant cybercrime type driving international cooperation in the 2020s. Ransomware attacks encrypt victims' data and demand payment (typically in cryptocurrency) for decryption keys. The Ransomware-as-a-Service (RaaS) model, where developers provide tools to affiliates in exchange for a share of ransom payments, has created a complex criminal ecosystem that spans multiple jurisdictions and requires coordinated international responses.

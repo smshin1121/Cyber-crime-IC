@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
   - "[[latvia-state-police]]"
 country: "[[latvia]]"
+jurisdiction: [[latvia]]
 created: 2026-04-10
 established: ""
 frameworks_administered:
@@ -31,7 +32,7 @@ sources:
 status: active
 title: CERT.LV
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

@@ -3,10 +3,11 @@ type: organization
 title: "France Gendarmerie Nationale"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-gendarmerie
 country: "[[france]]"
+jurisdiction: [[france]]
 official_name: "Gendarmerie nationale"
 mandate: "French national gendarmerie with judicial-police and cybercrime capabilities through its cyber command and C3N."
 key_roles:
@@ -29,7 +30,6 @@ sources:
   - "[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqu-teurs-pour-traquer-les-cyber-criminels]]"
   - "[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]"
 ---
-
 ## Summary
 
 The **Gendarmerie nationale** is one of France's two major national law-enforcement institutions. In the cybercrime corpus it is the parent institution for [[france-gendarmerie|C3N]] and the broader Gendarmerie cyber architecture, including COMCyberGEND and the regional investigative network.

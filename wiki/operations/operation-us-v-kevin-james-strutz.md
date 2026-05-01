@@ -73,7 +73,7 @@ updated: 2026-04-29
 ---
 ## Summary
 
-This is **not a separate international-cooperation operation**. It is a domestic U.S. sentencing follow-on, previously surfaced as **Kevin James Strutz Enforcement Action**, generated from source ingestion and now absorbed into the canonical case page:
+This is **not a separate international-cooperation operation**. It is a domestic U.S. sentencing follow-on, previously surfaced as **Kevin James Strutz Enforcement Action**, created during source ingestion and now absorbed into the canonical case page:
 
 - [[us-v-kevin-james-strutz]]
 

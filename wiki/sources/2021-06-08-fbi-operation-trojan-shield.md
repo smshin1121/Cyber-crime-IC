@@ -12,6 +12,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 source_url: https://www.fbi.gov/news/stories/fbi-global-partners-announce-results-of-operation-trojan-shield-060821
+collection_url: "https://www.fbi.gov/news/stories/fbi-global-partners-announce-results-of-operation-trojan-shield-060821"
 pages_updated:
   - "[[operation-trojan-shield]]"
 key_findings:
@@ -19,6 +20,7 @@ key_findings:
   - "Over 800 arrests across 16+ countries; 27 million encrypted messages reviewed."
   - "FBI-AFP joint-developed AN0M encrypted device platform; 12,000+ devices distributed."
 created: 2026-04-14
+updated: "2026-04-29"
 text_status: parsed
 content_hash: sha256:f36c29f175587d2564ef4dbb356d01587f3d3ff546a5dd93309a23c4270a2cd1
 word_count: 1257

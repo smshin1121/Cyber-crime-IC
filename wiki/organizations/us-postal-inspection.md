@@ -3,10 +3,11 @@ type: organization
 title: "US Postal Inspection Service"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: federal-law-enforcement
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 official_name: "United States Postal Inspection Service"
 abbreviation: "USPIS"
 mandate: "US federal law-enforcement agency protecting the postal system and investigating crimes that use mail, parcels, and related logistics."
@@ -29,7 +30,6 @@ sources:
   - "[[2021-07-30_uspis_dark-web-fentmaster-sentenced-15-years-federal-prison]]"
   - "[[2021-10-26_dea_department-justice-announces-results-operation-dark-huntor]]"
 ---
-
 ## Summary
 
 The **United States Postal Inspection Service (USPIS)** is the federal law-enforcement agency that connects cyber-enabled crime to the physical mail and parcel layer. In this corpus it is especially relevant to darknet drug trafficking, counterfeit pills, fentanyl distribution, and BEC/fraud operations where money mules, mailed goods, or delivery infrastructure become investigative evidence.

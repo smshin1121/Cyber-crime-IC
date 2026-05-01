@@ -37,7 +37,6 @@ sources:
 created: 2026-04-08
 updated: 2026-04-08
 ---
-
 ## Summary
 
 Business Email Compromise (BEC) is a cyber-enabled financial fraud scheme in which criminals impersonate business executives, vendors, or trusted entities via email to trick victims into transferring funds to accounts under the criminals' control. BEC is *almost certainly* one of the highest-loss cybercrime types globally, with the FBI reporting USD 2.9 billion in US losses alone in 2023. From an international cooperation perspective, BEC presents unique challenges due to the rapid cross-border movement of stolen funds and the involvement of transnational criminal organizations, particularly West African groups such as Black Axe.

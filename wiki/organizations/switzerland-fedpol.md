@@ -4,6 +4,7 @@ aliases:
 contact_point_for:
   []
 country: "[[switzerland]]"
+jurisdiction: [[switzerland]]
 created: 2026-04-10
 established: 2000-07-01
 headquarters: "Bern, Switzerland"
@@ -27,7 +28,7 @@ sources:
 status: active
 title: "Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

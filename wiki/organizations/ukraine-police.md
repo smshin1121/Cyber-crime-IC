@@ -4,6 +4,7 @@ aliases:
 contact_point_for:
 
 country: "[[ukraine]]"
+jurisdiction: [[ukraine]]
 created: 2026-04-10
 established: 2015-10-11
 headquarters: "Kyiv, Ukraine"
@@ -28,7 +29,7 @@ sources:
 status: active
 title: "Cyber Police of Ukraine — Department of Cyber Police"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

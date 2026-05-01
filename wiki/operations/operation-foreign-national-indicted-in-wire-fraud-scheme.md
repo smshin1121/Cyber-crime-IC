@@ -61,7 +61,6 @@ summary: "Foreign National Indicted In Wire Fraud Scheme Enforcement Action is a
 created: 2026-04-18
 updated: "2026-04-26"
 ---
-
 ## Summary
 
 Foreign National Indicted In Wire Fraud Scheme Enforcement Action is a follow-on operation catalog record tied to [[foreign-national-indicted-in-wire-fraud-scheme]]. It preserves the operation-side pointer for the related case record.

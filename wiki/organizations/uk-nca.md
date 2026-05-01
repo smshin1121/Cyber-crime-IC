@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-kingdom]]"
+jurisdiction: [[united-kingdom]]
 created: 2026-04-08
 established: 2013-10-07
 frameworks_administered:
@@ -61,7 +62,7 @@ sources:
 status: active
 title: "UK National Crime Agency (NCA)"
 type: organization
-updated: 2026-04-18
+updated: "2026-04-29"
 ---
 ## Summary
 

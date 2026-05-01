@@ -3,10 +3,11 @@ type: organization
 title: "Japan National Police Agency Headquarters"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police-headquarters
 country: "[[japan]]"
+jurisdiction: [[japan]]
 mandate: "National headquarters for Japan's police administration and national cyber policing structure."
 key_roles:
   - "Parent organization for the National Police Agency Cyber Affairs Bureau."
@@ -23,7 +24,6 @@ sources:
   - "[[2026-04-17_npa-go-jp_cyber-affairs-bureau]]"
   - "[[2025-04-01_japan-npa_operation-cyber-guardian]]"
 ---
-
 ## Summary
 
 **Japan National Police Agency Headquarters** is the parent institutional entry for Japan's national police organization. The more operational cybercrime detail belongs on [[japan-npa|Japan NPA - Cyber Affairs Bureau]], but this page preserves the hierarchy between the NPA headquarters and its cyber-specific bureau.

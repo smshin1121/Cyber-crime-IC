@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[romania]]"
+jurisdiction: [[romania]]
 created: 2026-04-10
 established: 2004
 frameworks_administered:
@@ -32,7 +33,7 @@ sources:
 status: active
 title: "Directorate for Investigating Organized Crime and Terrorism (DIICOT)"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

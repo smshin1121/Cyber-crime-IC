@@ -3,7 +3,7 @@ type: concept
 title: "Cobalt Strike (Adversary Simulation Tool)"
 status: active
 created: 2026-04-10
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-10
 source_count: 1
 sources:
@@ -21,6 +21,14 @@ Operation Morpheus-style records show why a dual-use tool can become a cooperati
 ## Menu Use
 
 Use this page when a source explicitly turns on Cobalt Strike infrastructure, beacons, cracked copies, or law-enforcement disruption of unauthorized servers. Use [[malware-ic]] for the broader malware case and [[cybercrime-infrastructure-ic]] when Cobalt Strike is only one component in a larger hosting or loader ecosystem.
+
+## Analytical Use
+
+Within this wiki, **Cobalt Strike (Adversary Simulation Tool)** is a control node for comparing records that describe the analytical vocabulary used to compare operations, cases, and source records. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

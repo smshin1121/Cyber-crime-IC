@@ -3,6 +3,7 @@ aliases: []
 contact_point_for: []
 cooperation_partners: []
 country: "[[indonesia]]"
+jurisdiction: [[indonesia]]
 created: 2026-04-17
 established: ""
 frameworks_administered: []
@@ -28,9 +29,8 @@ sources:
 status: active
 title: "Indonesia Police"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **Indonesia Police** is a compatibility page for Indonesian police references in regional cybercrime operations. It is separate from [[indonesia-immigration]], which should be used when immigration detention, visa enforcement, or deportation is the central mechanism.

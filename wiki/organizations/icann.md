@@ -3,6 +3,7 @@ aliases: []
 contact_point_for: []
 cooperation_partners: []
 country: ""
+jurisdiction: "international"
 created: 2026-04-17
 established: ""
 frameworks_administered: []
@@ -28,9 +29,8 @@ sources:
 status: active
 title: "ICANN"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **ICANN** appears in this wiki as an infrastructure-governance actor relevant to domain disruption, sinkholing, and abuse handling. It is not a police agency, but domain governance can matter when malware infrastructure relies on large-scale domain generation or abused registration channels.

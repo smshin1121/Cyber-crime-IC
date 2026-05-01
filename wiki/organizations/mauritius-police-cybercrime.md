@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
   - "[[cert-mu]]"
 country: "[[mauritius]]"
+jurisdiction: [[mauritius]]
 created: 2026-04-10
 established: ""
 frameworks_administered:
@@ -31,7 +32,7 @@ sources:
 status: active
 title: "Mauritius Police Cybercrime Unit"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

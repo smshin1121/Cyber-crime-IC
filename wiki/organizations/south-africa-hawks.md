@@ -6,6 +6,7 @@ contact_point_for: []
 cooperation_partners:
   - "[[south-africa-saps]]"
 country: "[[south-africa]]"
+jurisdiction: [[south-africa]]
 created: 2026-04-10
 established: ""
 frameworks_administered: []
@@ -28,9 +29,8 @@ sources:
 status: active
 title: "The Hawks"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **The Hawks**, formally the Directorate for Priority Crime Investigation (DPCI), are the SAPS specialized unit for priority crime. In the cybercrime corpus, this page should be used where sources identify serious cybercrime, organized crime, or economic-crime investigation by DPCI.

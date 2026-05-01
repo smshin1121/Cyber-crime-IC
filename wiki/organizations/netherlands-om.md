@@ -11,6 +11,7 @@ status: active
 established: ""
 parent_org: ""
 country: "[[netherlands]]"
+jurisdiction: [[netherlands]]
 headquarters: "Rotterdam / Amsterdam / Zwolle / Den Bosch / Zoetermeer, Netherlands"
 mandate: "National prosecutorial component for internationally organized and serious crime, including cybercrime."
 member_states: 0
@@ -38,7 +39,7 @@ sources:
   - "[[2026-04-18_om-nl_landelijk-parket]]"
   - "[[2023-08-29_om-nl_qakbot-onschadelijk-gemaakt]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: "2026-04-29"
 last_verified: 2026-04-18
 ---
 ## Summary

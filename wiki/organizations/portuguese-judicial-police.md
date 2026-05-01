@@ -9,6 +9,7 @@ cooperation_partners:
   - "[[fbi]]"
   - "[[spanish-national-police]]"
 country: "[[portugal]]"
+jurisdiction: [[portugal]]
 created: 2026-04-17
 established: ""
 frameworks_administered:
@@ -38,7 +39,7 @@ sources:
 status: active
 title: "Portuguese Judicial Police"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

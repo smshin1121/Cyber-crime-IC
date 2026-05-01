@@ -3,10 +3,11 @@ type: organization
 title: "Polizia di Stato"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police
 country: "[[italy]]"
+jurisdiction: [[italy]]
 official_name: "Polizia di Stato"
 mandate: "Italian State Police parent institution for the Postal Police and cyber security service."
 key_roles:
@@ -26,7 +27,6 @@ sources:
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker-della-polizia-postale-di-catania]]"
   - "[[europol-doublevpn-takedown]]"
 ---
-
 ## Summary
 
 **Polizia di Stato** is the Italian State Police institution that houses Italy's core cybercrime police service, [[italy-polizia-postale|Servizio Polizia postale e per la sicurezza cibernetica]]. Use this page for parent-institution attribution and broad State Police participation; use the Postal Police page when a source specifically discusses the cyber service or CNAIPIC.

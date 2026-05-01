@@ -12,6 +12,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 source_url: https://www.europol.europa.eu/media-press/newsroom/news/800-criminals-arrested-in-biggest-ever-law-enforcement-operation-against-encrypted-communication
+collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/800-criminals-arrested-in-biggest-ever-law-enforcement-operation-against-encrypted-communication"
 pages_updated:
   - "[[operation-trojan-shield]]"
 key_findings:
@@ -19,6 +20,7 @@ key_findings:
   - "700+ house searches, 800+ arrests, 8 tons cocaine, 22 tons cannabis, 250 firearms, $48M+ seized."
   - "AN0M platform: 12,000+ devices, 300+ criminal syndicates across 100+ countries, 27 million messages reviewed over 18 months."
 created: 2026-04-14
+updated: "2026-04-29"
 text_status: parsed
 storage_mode: fulltext
 content_hash: sha256:45a191269b15e9a4f653bc5de1856c7332269ff8a9f3bef1ae3d5af9f25d4081

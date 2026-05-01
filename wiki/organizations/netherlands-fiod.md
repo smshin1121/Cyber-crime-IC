@@ -6,6 +6,7 @@ aliases:
 - FACT (Financial Advanced Cyber Team — internal)
 contact_point_for: []
 country: '[[netherlands]]'
+jurisdiction: [[netherlands]]
 created: 2026-04-10
 established: unknown
 headquarters: Utrecht, Netherlands (multiple offices nationally)
@@ -29,9 +30,8 @@ sources: []
 status: active
 title: FIOD — Dutch Fiscal Information and Investigation Service
 type: organization
-updated: 2026-04-10
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 The **Fiscale Inlichtingen- en Opsporingsdienst (FIOD)** is the investigation service of the **Dutch Ministry of Finance**, responsible for combating financial fraud, money laundering, cybercrime and corruption [1]. Unlike the Dutch National Police cyber units, FIOD operates with financial-crime jurisdiction and specializes in the monetary and cryptocurrency dimensions of cybercrime.

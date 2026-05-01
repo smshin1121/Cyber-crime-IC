@@ -9,6 +9,7 @@ status: active
 established: ""
 parent_org: ""
 country: "[[spain]]"
+jurisdiction: [[spain]]
 headquarters: "Madrid, Spain"
 mandate: "National Police cybercrime capability centered on the Brigada Central de Investigacion Tecnologica."
 member_states: 0
@@ -30,10 +31,9 @@ sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-18_policia-es_bcit]]"
 created: 2026-04-10
-updated: 2026-04-18
+updated: "2026-04-29"
 last_verified: 2026-04-18
 ---
-
 ## Summary
 
 The **Spanish National Police** is one of Spain's two core national cybercrime actors. Its **Brigada Central de Investigacion Tecnologica (BCIT)** is the specialized unit that addresses a broad range of cyber-enabled crime, including child-exploitation offences, internet fraud, communications fraud, cyber attacks, and piracy.

@@ -5,6 +5,7 @@ contact_point_for: []
 cooperation_partners:
   - "[[us-dcis]]"
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 created: 2026-04-10
 established: ""
 frameworks_administered: []
@@ -28,9 +29,8 @@ sources:
 status: active
 title: "DoD Office of Inspector General"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 The **DoD Office of Inspector General** is the parent oversight organization for [[us-dcis|Defense Criminal Investigative Service]]. In cybercrime IC, this page is mainly useful for organizational hierarchy; operational cybercrime detail belongs on [[us-dcis]].

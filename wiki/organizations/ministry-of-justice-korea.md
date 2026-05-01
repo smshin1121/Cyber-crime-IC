@@ -3,10 +3,11 @@ type: organization
 title: "Korea Ministry of Justice"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: ministry
 country: "[[south-korea]]"
+jurisdiction: [[south-korea]]
 official_name: "Ministry of Justice"
 mandate: "Korean justice ministry context for prosecution, mutual legal assistance, extradition, and treaty engagement."
 key_roles:
@@ -21,7 +22,6 @@ sources:
   - "[[2026-01-01_spo-go-kr_2026]]"
   - "[[2025-10-01_unodc-org_hanoi-convention-homepage]]"
 ---
-
 ## Summary
 
 The **Korea Ministry of Justice** is the ministry context for prosecutor-side international cooperation, treaty engagement, mutual legal assistance, and extradition. In this corpus, the operational prosecutor-side detail remains on [[supreme-prosecutors-office-korea]] and [[spo-international-cooperation]].

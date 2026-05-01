@@ -7,6 +7,7 @@ aliases:
 contact_point_for: []
 cooperation_partners: []
 country: '[[south-korea]]'
+jurisdiction: [[south-korea]]
 created: 2026-04-10
 established: '2017-07-26'
 frameworks_administered: []
@@ -33,9 +34,8 @@ sources: []
 status: renamed
 title: Ministry of Science and ICT (Korea)
 type: organization
-updated: 2026-04-10
+updated: "2026-04-29"
 ---
-
 > [!warning] Status — Renamed and restructured
 > The current **과학기술정보통신부 (Ministry of Science and ICT, MSIT)** was created in its present form on **2017-07-26** under the Moon Jae-in administration, inheriting the functions of the prior **미래창조과학부 (Ministry of Science, ICT and Future Planning, MSIP, 2013–2017)**, which itself was created by merging parts of the earlier **정보통신부 (Ministry of Information and Communication)** and other bodies. The English short form has occasionally been confused with "Ministry of Science, ICT and Future Planning" or miswritten as "과학수사정보통신부" (an incorrect form conflating 과학수사 and 과기정통부). The correct current name is **과학기술정보통신부 / Ministry of Science and ICT** [1][2].
 >

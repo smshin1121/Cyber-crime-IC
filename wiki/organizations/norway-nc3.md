@@ -7,6 +7,7 @@ cooperation_partners:
   - "[[norway-kripos]]"
   - "[[norway-nsm]]"
 country: "[[norway]]"
+jurisdiction: [[norway]]
 created: 2026-04-10
 established: ""
 frameworks_administered:
@@ -32,7 +33,7 @@ sources:
 status: active
 title: "Norway NC3"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

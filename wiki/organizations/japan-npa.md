@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[japan]]"
+jurisdiction: [[japan]]
 created: 2026-04-10
 established: 2022-04-01
 frameworks_administered:
@@ -36,7 +37,7 @@ sources:
 status: active
 title: "Japan National Police Agency — Cyber Affairs Bureau"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

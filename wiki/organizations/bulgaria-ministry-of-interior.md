@@ -3,10 +3,11 @@ type: organization
 title: "Bulgaria Ministry of Interior"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: ministry
 country: "[[bulgaria]]"
+jurisdiction: [[bulgaria]]
 mandate: "Bulgarian internal-security ministry and parent institution for GDBOP/GDCOC high-tech crime functions."
 key_roles:
   - "Parent organization for [[bulgaria-police|Bulgarian cybercrime police / GDBOP]] functions."
@@ -23,7 +24,6 @@ sources:
   - "[[2026-04-17_netlaw-bg_general-directorate-combating-organized-crime-ministry-of-interior-bulgaria]]"
   - "[[2023-01-01_bta-bg_cybercrime-unit-at-directorate-for-combating-organised-crime-is-restructured]]"
 ---
-
 ## Summary
 
 The **Bulgaria Ministry of Interior** is the parent institution for Bulgaria's organized-crime and high-tech-crime policing structure. In the cybercrime corpus, the specialist entry is [[bulgaria-police]], covering the Cybercrime Directorate/GDBOP line.

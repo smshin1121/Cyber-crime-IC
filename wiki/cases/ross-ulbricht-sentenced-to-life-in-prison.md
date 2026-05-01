@@ -89,7 +89,7 @@ Ross Ulbricht Sentenced to Life in Prison is documented in the linked source mat
 
 - FBI New York, 2015-05-29: Additional victims included Bryan B., a 25-year old from Boston, Massachusetts, and Scott W., a 36-year old from Australia, who both died as a result of heroin purchased from Silk Road, and Jacob B., a 22-year old from Australia, who died from health complications that were aggravated by the use of drugs purchased from Silk Road.
 - FBI New York, 2015-05-29: Using the online moniker “Dread Pirate Roberts,” or “DPR,” ULBRICHT controlled and oversaw every aspect of Silk Road, and managed a staff of paid, online administrators and computer programmers who assisted with the day-to-day operation of the site.
-- FBI New York, 2015-05-29: Through his ownership and operation of Silk Road, ULBRICHT reaped commissions worth more than $13 million generated from the illicit sales conducted through the site.
+- FBI New York, 2015-05-29: Through his ownership and operation of Silk Road, ULBRICHT reaped commissions worth more than $13 million derived from the illicit sales conducted through the site.
 - FBI New York, 2015-05-29: Bharara praised the outstanding investigative work of the Federal Bureau of Investigation and its New York Special Operations and Cyber Division, as well as the outstanding investigative work of the DEA’s New York Organized Crime Drug Enforcement Strike Force, which comprises agents and officers of the DEA, the IRS, the New York City.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->

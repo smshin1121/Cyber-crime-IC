@@ -8,6 +8,7 @@ cooperation_partners:
 - '[[interpol-igci]]'
 - '[[unodc]]'
 country: '[[romania]]'
+jurisdiction: [[romania]]
 created: 2026-04-10
 established: '2014-04-07'
 frameworks_administered:
@@ -37,9 +38,8 @@ sources: []
 status: active
 title: Cybercrime Programme Office (C-PROC)
 type: organization
-updated: 2026-04-10
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 The **Cybercrime Programme Office (C-PROC)** is the capacity-building arm of the Council of Europe dedicated to cybercrime and electronic evidence. Based in **Bucharest, Romania**, it became operational on **7 April 2014** following a Memorandum of Understanding between the Council of Europe and the Government of Romania signed in October 2013. C-PROC marked its 10th anniversary in 2024.

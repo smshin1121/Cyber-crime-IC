@@ -35,7 +35,6 @@ sources:
 created: 2026-04-14
 updated: 2026-04-14
 ---
-
 ## Summary
 
 Money laundering — particularly **cryptocurrency-enabled money laundering** through mixing services, illicit exchanges, and obfuscation tooling — is a cross-cutting cybercrime enabler that converts the proceeds of nearly every other cybercrime category (ransomware, online fraud, drug trafficking, weapons trafficking, BEC) into spendable value. It is *almost certainly* the most internationally interconnected category of cybercrime activity, because illicit cryptocurrency flows by their nature cross every border with each on-chain hop.

@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[netherlands]]"
+jurisdiction: [[netherlands]]
 created: 2026-04-08
 established: 2007
 frameworks_administered:
@@ -62,7 +63,7 @@ sources:
 status: active
 title: "Dutch National Police - Team High Tech Crime (THTC)"
 type: organization
-updated: 2026-04-18
+updated: "2026-04-29"
 ---
 ## Summary
 

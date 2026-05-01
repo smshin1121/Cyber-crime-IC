@@ -3,10 +3,11 @@ type: organization
 title: "US Secret Service Headquarters"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: federal-law-enforcement-headquarters
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 headquarters: "Washington, D.C., United States"
 mandate: "Parent headquarters for the United States Secret Service, including financial-cyber investigative functions."
 key_roles:
@@ -27,7 +28,6 @@ sources:
   - "[[2026-04-17_secretservice-gov_cyber-investigations]]"
   - "[[2025-06-05_secretservice-gov_u-s-government-seizes-approximately-145-criminal-marketplace-domains-associated]]"
 ---
-
 ## Summary
 
 **US Secret Service Headquarters** is the parent organization entry for Secret Service cyber-financial investigations. The operational cybercrime details are maintained on [[us-secret-service|US Secret Service - Cyber Fraud Task Forces]], while this page preserves the headquarters and parent-agency context.

@@ -7,6 +7,7 @@ contact_point_for: []
 cooperation_partners:
 - '[[interpol-igci]]'
 country: '[[hong-kong]]'
+jurisdiction: [[hong-kong]]
 created: 2026-04-10
 established: '2015-01-01'
 frameworks_administered: []
@@ -34,9 +35,8 @@ sources: []
 status: active
 title: Hong Kong Police Force — Cyber Security and Technology Crime Bureau
 type: organization
-updated: 2026-04-10
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 The Cyber Security and Technology Crime Bureau (CSTCB) of the [[hong-kong-police|Hong Kong Police Force]] is the primary unit responsible for maintaining Hong Kong's cyber security and preventing and detecting technology crimes. CSTCB was established on **1 January 2015** when the Technology Crime Division of the Commercial Crime Bureau was upgraded to a full bureau, reflecting the growing significance of cybercrime as a law enforcement priority.

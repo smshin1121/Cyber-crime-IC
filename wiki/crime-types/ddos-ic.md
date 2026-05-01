@@ -39,7 +39,7 @@ sources:
   - "[[2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks]]"
   - "[[2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages]]"
 created: 2026-04-17
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -53,6 +53,14 @@ The 2016 international DDoS-for-hire sweep shows the older pattern: arrests and 
 ## Menu Use
 
 Use this crime-type page when the source record is about DDoS extortion, booter services, stresser marketplaces, or DDoS-for-hire infrastructure. Use [[cybercrime-infrastructure-ic]] for broader infrastructure takedowns where DDoS is only one service among many, and use [[extortion-ic]] when the dominant conduct is ransom demand or coercion rather than traffic flooding.
+
+## Analytical Use
+
+Within this wiki, **DDoS Operations in International Cooperation** is a control node for comparing records that describe the offense pattern, evidence sources, and cross-border investigative pressure points. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

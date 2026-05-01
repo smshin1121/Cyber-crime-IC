@@ -3,10 +3,11 @@ type: organization
 title: "RCMP Federal Policing"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police-division
 country: "[[canada]]"
+jurisdiction: [[canada]]
 parent_org: "Royal Canadian Mounted Police"
 mandate: "Federal policing branch responsible for national, serious, organized, and cross-border crime functions within the RCMP."
 key_roles:
@@ -27,7 +28,6 @@ sources:
   - "[[2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code]]"
   - "[[2026-04-17_rcmp-grc-gc-ca_national-cybercrime-coordination-centre]]"
 ---
-
 ## Summary
 
 **RCMP Federal Policing** is the parent operational context for Canada's federal cybercrime coordination function, including the [[canada-rcmp|National Cybercrime Coordination Centre (NC3)]]. The local RCMP source set ties Canadian cybercrime cooperation to the Budapest Convention framework and describes NC3 as the federal government's cybercrime coordination hub under the RCMP.

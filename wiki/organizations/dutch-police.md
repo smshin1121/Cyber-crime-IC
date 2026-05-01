@@ -9,6 +9,7 @@ cooperation_partners:
   - "[[usdoj]]"
   - "[[german-bka]]"
 country: "[[netherlands]]"
+jurisdiction: [[netherlands]]
 created: 2026-04-17
 established: ""
 frameworks_administered:
@@ -38,7 +39,7 @@ sources:
 status: active
 title: "Dutch Police"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

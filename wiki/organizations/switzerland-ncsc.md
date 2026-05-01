@@ -8,6 +8,7 @@ contact_point_for:
 cooperation_partners:
   []
 country: "[[switzerland]]"
+jurisdiction: [[switzerland]]
 created: 2026-04-10
 established: ""
 frameworks_administered:
@@ -34,7 +35,7 @@ sources:
 status: active
 title: "Swiss NCSC"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

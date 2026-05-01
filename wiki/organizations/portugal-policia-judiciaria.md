@@ -3,10 +3,11 @@ type: organization
 title: "Portugal Policia Judiciaria"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-criminal-police
 country: "[[portugal]]"
+jurisdiction: [[portugal]]
 official_name: "Policia Judiciaria"
 headquarters: "Lisbon, Portugal"
 mandate: "Portugal's criminal investigation police, including the national cybercrime and technological-crime unit UNC3T."
@@ -28,7 +29,6 @@ sources:
   - "[[2016-11-18_portugal-gov-pt_pj-com-unidade-de-combate-ao-cibercrime]]"
   - "[[2024-07-23_policiajudiciaria-pt_pj-participa-na-fase-iii-da-operacao-jackal]]"
 ---
-
 ## Summary
 
 **Policia Judiciaria (PJ)** is Portugal's criminal investigation police. For cybercrime analysis, its most important component is [[portugal-police|UNC3T]], the national unit for cybercrime and technological criminality.

@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
   []
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 created: 2026-04-10
 established: 2000-05
 frameworks_administered:
@@ -30,7 +31,7 @@ sources:
 status: active
 title: "Internet Crime Complaint Center (IC3)"
 type: organization
-updated: 2026-04-10
+updated: "2026-04-29"
 ---
 ## Summary
 

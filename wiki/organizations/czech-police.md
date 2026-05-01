@@ -3,10 +3,11 @@ type: organization
 title: "Police of the Czech Republic"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police-parent
 country: "[[czech-republic]]"
+jurisdiction: [[czech-republic]]
 official_name: "Policie Ceske republiky"
 mandate: "Parent national police organization for Czech cybercrime enforcement, including the national cybercrime center."
 key_roles:
@@ -24,7 +25,6 @@ sources:
   - "[[2026-04-17_cs-wikipedia-org_n-rodn-centr-la-proti-terorismu-extremismu-a-kybernetick-kriminalit]]"
   - "[[2013-01-01_coe-int_the-czech-republic-joins-budapest-convention]]"
 ---
-
 ## Summary
 
 The **Police of the Czech Republic** is the parent national police organization for Czech cybercrime enforcement. The cyber-specific detail is maintained on [[czechia-police]], which tracks the national cybercrime center structure.

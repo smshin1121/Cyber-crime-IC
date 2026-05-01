@@ -3,10 +3,11 @@ type: organization
 title: "ZIT Frankfurt"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: prosecutor-cybercrime-unit
 country: "[[germany]]"
+jurisdiction: [[germany]]
 headquarters: "Frankfurt am Main, Germany"
 parent_org: "[[germany-frankfurt-prosecutor]]"
 mandate: "Specialized central office for internet and computer crime within the General Public Prosecutor's Office Frankfurt am Main."
@@ -26,7 +27,6 @@ sources:
   - "[[2026-04-17_staatsanwaltschaften-hessen-de_zentralstelle-zur-bek-mpfung-der-internet-und-computerkriminalit-t-zit]]"
   - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
 ---
-
 ## Summary
 
 **ZIT Frankfurt** is the cybercrime-focused prosecutorial unit associated with the General Public Prosecutor's Office Frankfurt am Main in Hessen. The official Hessen source identifies ZIT as a specialized central office for internet crime, established on **1 January 2010** and later relocated to Frankfurt am Main in July 2019.

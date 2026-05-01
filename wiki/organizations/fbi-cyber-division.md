@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 created: 2026-04-08
 established: 2002
 frameworks_administered:
@@ -111,7 +112,7 @@ sources:
 status: active
 title: "FBI Cyber Division"
 type: organization
-updated: 2026-04-17
+updated: "2026-04-29"
 ---
 ## Current Status (as of 2026-04-10)
 

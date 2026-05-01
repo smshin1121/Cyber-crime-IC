@@ -3,6 +3,7 @@ aliases: []
 contact_point_for: []
 cooperation_partners: []
 country: "[[netherlands]]"
+jurisdiction: [[netherlands]]
 created: 2026-04-17
 established: ""
 frameworks_administered: []
@@ -31,9 +32,8 @@ sources:
 status: active
 title: "Dutch NHTCU"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **Dutch NHTCU** is a legacy compatibility page for references to the Dutch National High Tech Crime Unit. The canonical Dutch policing page is [[netherlands-politie]], which should be preferred for current institutional context.

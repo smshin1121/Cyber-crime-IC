@@ -29,7 +29,7 @@ sources:
   - "[[2026-04-29_uscode-house-gov_18-usc-1030-computer-fraud-and-abuse-act]]"
   - "[[2026-04-29_uscode-house-gov_18-usc-1343-wire-fraud]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -43,6 +43,14 @@ A state may assert territorial jurisdiction because a victim system, bank, serve
 ## Boundary Notes
 
 Use this page when the source turns on domestic location. Use [[effects-doctrine]] for domestic harm from foreign conduct and [[extraterritorial-jurisdiction]] for broader assertions of authority beyond territory.
+
+## Analytical Use
+
+Within this wiki, **Territoriality Principle** is a control node for comparing records that describe the analytical vocabulary used to compare operations, cases, and source records. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

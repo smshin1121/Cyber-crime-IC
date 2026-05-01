@@ -4,6 +4,7 @@ aliases:
 contact_point_for:
 
 country: "[[sweden]]"
+jurisdiction: [[sweden]]
 created: 2026-04-10
 established: 2015-10-01
 headquarters: "Stockholm, Sweden"
@@ -27,7 +28,7 @@ sources:
 status: active
 title: "Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

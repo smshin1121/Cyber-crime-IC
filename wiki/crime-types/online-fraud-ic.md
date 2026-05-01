@@ -39,7 +39,6 @@ sources:
 created: 2026-04-08
 updated: 2026-04-14
 ---
-
 ## Summary
 
 Online fraud encompasses a broad spectrum of cyber-enabled financial crimes, including voice phishing (보이스피싱), romance scams, business email compromise (BEC), investment fraud, online gambling fraud, and e-commerce fraud. From an international cooperation perspective, online fraud is *almost certainly* the highest-volume cybercrime type requiring cross-border cooperation, affecting millions of victims annually across all regions.

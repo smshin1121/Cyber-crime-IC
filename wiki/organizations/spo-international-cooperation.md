@@ -11,6 +11,7 @@ cooperation_partners:
 - '[[europol-ec3]]'
 - '[[council-of-europe]]'
 country: '[[south-korea]]'
+jurisdiction: [[south-korea]]
 created: 2026-04-10
 dissolved_date: '2026-10-02'
 established: unknown
@@ -41,9 +42,8 @@ status: reorganized
 successor: 공소청 (likely) and/or 중대범죄수사청
 title: Supreme Prosecutors' Office — International Cooperation Division
 type: organization
-updated: 2026-04-10
+updated: "2026-04-29"
 ---
-
 > [!warning] Status — Reorganized (effective 2026-10-02)
 > The parent [[supreme-prosecutors-office-korea|대검찰청]] is scheduled to be **abolished on 2026-10-02** under the 공소청법 and 중수청법 enacted in early 2026 [5][6]. As a consequence, the **국제협력단 / 국제협력담당관실** — the unit this page documents — **will cease to exist in its current form** on the same date. Functions are *highly likely* to be split as follows:
 >

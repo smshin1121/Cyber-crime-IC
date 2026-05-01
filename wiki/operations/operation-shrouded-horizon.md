@@ -103,7 +103,6 @@ title_ko: Operation Shrouded Horizon (Darkode 포럼 해체)
 type: operation
 updated: 2026-04-28
 ---
-
 ## Summary
 
 Operation Shrouded Horizon was the FBI-led takedown of Darkode, an invitation-only English-language cybercrime forum used to trade malware, botnet access, stolen personally identifiable information, credit-card data, hacked-server credentials, spam infrastructure and related criminal services. The public action was announced on 2015-07-15 after an 18-month FBI infiltration of the forum.

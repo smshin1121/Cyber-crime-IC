@@ -9,6 +9,7 @@ status: active
 established: 2002
 parent_org: "[[belgium-federal-police]]"
 country: "[[belgium]]"
+jurisdiction: [[belgium]]
 headquarters: "Brussels, Belgium"
 mandate: "National-level specialized cybercrime unit of the Belgian Federal Judicial Police."
 member_states: 0
@@ -35,7 +36,7 @@ sources:
   - "[[2017-06-09_politie-be_oproep-aan-slachtoffers-wannacry]]"
   - "[[2026-04-18_politie-be_internetcriminaliteit-fccu-contact]]"
 created: 2026-04-10
-updated: 2026-04-18
+updated: "2026-04-29"
 last_verified: 2026-04-18
 ---
 ## Summary

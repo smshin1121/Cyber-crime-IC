@@ -12,6 +12,7 @@ reliability: medium
 credibility: probably-true
 sensitivity: public
 source_url: https://www.bitdefender.com/en-us/blog/hotforsecurity/zambia-arrests-77-people-in-swoop-on-scam-call-centre
+collection_url: "https://www.bitdefender.com/en-us/blog/hotforsecurity/zambia-arrests-77-people-in-swoop-on-scam-call-centre"
 pages_updated:
   - "[[zambia-golden-top-call-center]]"
 key_findings:
@@ -19,6 +20,7 @@ key_findings:
   - "Seizures: vehicles, firearms, 97 desktop PCs, 13,000+ SIM cards, 11 SIM boxes, 6 properties."
   - "Drug Enforcement Commission (DEC) led raid with police, immigration, anti-terrorism unit."
 created: 2026-04-14
+updated: "2026-04-29"
 text_status: summarized
 content_hash: sha256:a836c2f89a1eb2cbd352c4eb23b2c189cd018057557137c2e7283c434dffedbe
 word_count: 472

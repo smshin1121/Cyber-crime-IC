@@ -36,7 +36,7 @@ sources:
   - "[[2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking]]"
   - "[[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her]]"
 created: 2026-04-27
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -50,6 +50,14 @@ The linked cyberstalking sources show a victim-centered investigative pattern. I
 ## Menu Use
 
 Use this category for stalking, coercive harassment, sextortion-like harassment, and threat campaigns directed at identifiable victims. Use [[extortion-ic]] when the dominant feature is a payment demand, [[online-fraud-ic]] when deception for money is central, and [[csam-ic]] when production, distribution, or possession of abuse material is the core offense.
+
+## Analytical Use
+
+Within this wiki, **Cyberstalking / Online Coercion** is a control node for comparing records that describe the offense pattern, evidence sources, and cross-border investigative pressure points. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

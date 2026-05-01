@@ -12,6 +12,7 @@ reliability: medium
 credibility: probably-true
 sensitivity: public
 source_url: https://therecord.media/zambia-guilty-pleas-chinese-nationals-scam-call-center
+collection_url: "https://therecord.media/zambia-guilty-pleas-chinese-nationals-scam-call-center"
 pages_updated:
   - "[[zambia-golden-top-call-center]]"
 key_findings:
@@ -19,6 +20,7 @@ key_findings:
   - "22 Chinese nationals pled guilty to computer-related misrepresentation, identity crimes, illegal network operation."
   - "Victims targeted in Singapore, Peru, UAE, and other African nations."
 created: 2026-04-14
+updated: "2026-04-29"
 text_status: summarized
 content_hash: sha256:b110724bcfd20174e810ff207731560dc9ecdf9a7f07bc9d9c536084153ed228
 word_count: 545

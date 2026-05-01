@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[germany]]"
+jurisdiction: [[germany]]
 created: 2026-04-08
 established: 1951-03-08
 frameworks_administered:
@@ -57,7 +58,7 @@ sources:
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization
-updated: 2026-04-18
+updated: "2026-04-29"
 ---
 ## Summary
 

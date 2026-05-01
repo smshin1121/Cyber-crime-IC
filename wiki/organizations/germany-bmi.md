@@ -3,10 +3,11 @@ type: organization
 title: "German Federal Ministry of the Interior"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: ministry
 country: "[[germany]]"
+jurisdiction: [[germany]]
 official_name: "Bundesministerium des Innern und fuer Heimat"
 mandate: "German federal ministry responsible for internal security policy, including oversight context for federal law-enforcement cybercrime work."
 key_roles:
@@ -24,7 +25,6 @@ source_count: 1
 sources:
   - "[[2024-05-30_bmi-bund-de_worldwide-investigation-against-cyber-crime-crowned-by-success]]"
 ---
-
 ## Summary
 
 The **German Federal Ministry of the Interior** (BMI) is Germany's federal internal-security ministry. In this corpus it is most important as the parent policy context for [[germany-bka|BKA]] cybercrime enforcement and as an official ministry-level source for Germany's participation in large international operations.

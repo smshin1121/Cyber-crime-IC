@@ -3,10 +3,11 @@ type: organization
 title: "INTERPOL ICSE Database"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: investigative-database
 country: ""
+jurisdiction: "international"
 parent_org: "[[interpol]]"
 mandate: "International Child Sexual Exploitation database mechanism supporting victim identification and cross-border investigative coordination."
 key_roles:
@@ -23,7 +24,6 @@ sources:
   - "[[2025-02-01_interpol-int_annual-report-2024-operation-orion-international]]"
   - "[[2024-10-15_interpol-int_operation-orion-international-144-arrested-in-major-child-abuse-operation-across]]"
 ---
-
 ## Summary
 
 The **INTERPOL ICSE Database** is the corpus entry for INTERPOL's International Child Sexual Exploitation database. It is best understood as an investigative mechanism, not a conventional organization: it supports victim identification, duplicate-material deconfliction, and cross-border routing of child sexual exploitation leads.

@@ -3,6 +3,7 @@ aliases: []
 contact_point_for: []
 cooperation_partners: []
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 created: 2026-04-17
 established: ""
 frameworks_administered: []
@@ -30,9 +31,8 @@ sources:
 status: active
 title: "Microsoft"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **Microsoft** appears in this wiki as a private-sector technical partner supporting botnet and malware disruptions. It is not a law-enforcement agency; its role is typically telemetry, sinkholing, malware analysis, or platform-side disruption support.

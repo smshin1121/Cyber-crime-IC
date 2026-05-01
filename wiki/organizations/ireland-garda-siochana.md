@@ -3,10 +3,11 @@ type: organization
 title: "Garda Siochana"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police
 country: "[[ireland]]"
+jurisdiction: [[ireland]]
 mandate: "Ireland's national police and security service, including domestic enforcement support for international cyber-enabled fraud investigations."
 key_roles:
   - "Conducts Irish-side searches, arrests, charging activity, bank-account blocking, and recovery work in fraud and laundering operations."
@@ -22,7 +23,6 @@ sources:
   - "[[2023-08-10_garda-ie_interpol-operation-jackal-ireland-operation-skein-update-august-2023]]"
   - "[[2024-07-16_garda-ie_interpol-operation-jackal-ireland-operation-skein-july-2024]]"
 ---
-
 ## Summary
 
 **An Garda Siochana** is Ireland's national police service. In the current cybercrime corpus, its strongest source-backed role is Ireland's domestic contribution to INTERPOL's **Operation Jackal** series, locally branded as **Operation Skein**.

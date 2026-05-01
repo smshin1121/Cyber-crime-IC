@@ -5,9 +5,10 @@ official_name: "Directorate General of Immigration, Indonesia"
 org_type: immigration-enforcement
 status: active
 created: 2026-04-18
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 country: "[[indonesia]]"
+jurisdiction: [[indonesia]]
 mandate: "Indonesian immigration enforcement authority relevant to visa, deportation, and foreign-national cybercrime-compound actions."
 key_roles:
   - "Leads immigration-law enforcement where foreign nationals are suspected of cybercrime but domestic prosecution is constrained by victim geography or jurisdiction."
@@ -25,7 +26,6 @@ sources:
   - "[[2024-06-28_therecord-media_indonesia-arrests-over-100-foreigners-in-bali-suspected-of-participating-in-cybe]]"
   - "[[2024-06-29_taipeitimes-com_103-taiwanese-detained-in-bali-cybercrime-raid]]"
 ---
-
 ## Summary
 
 **Indonesia Immigration** is relevant to the corpus because the Bali villa raid was handled through immigration enforcement rather than a completed Indonesian cybercrime prosecution. Public reporting describes the detention of 103 foreign nationals in Bali suspected of cybercrime activity, followed by planned deportation because the alleged victims were outside Indonesia.

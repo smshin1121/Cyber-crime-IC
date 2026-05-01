@@ -3,10 +3,11 @@ type: organization
 title: "Council of Europe"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: international-organization
 country: ""
+jurisdiction: "international"
 headquarters: "Strasbourg, France"
 mandate: "European intergovernmental organization that administers cybercrime treaty cooperation and global capacity-building programmes."
 key_roles:
@@ -26,7 +27,6 @@ sources:
   - "[[2026-04-17_coe-int_treaty-185-signatures-chart]]"
   - "[[2026-04-17_coe-int_cybercrime-programme-office-c-proc]]"
 ---
-
 ## Summary
 
 The **Council of Europe** is the institutional home of the [[budapest-convention|Budapest Convention on Cybercrime]] and a central non-police actor in cybercrime international cooperation. Its relevance to this corpus is treaty architecture: harmonized criminal offences, investigative powers, expedited preservation, production and search powers, and cross-border cooperation channels that make cybercrime investigations legally interoperable.

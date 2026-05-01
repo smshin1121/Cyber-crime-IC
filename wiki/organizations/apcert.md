@@ -3,10 +3,11 @@ type: organization
 title: "APCERT"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: regional-cert-network
 country: ""
+jurisdiction: "regional"
 mandate: "Asia-Pacific computer emergency response team cooperation network."
 key_roles:
   - "Provides regional CERT-to-CERT coordination context for incident response and cyber-security capacity building."
@@ -21,7 +22,6 @@ sources:
   - "[[2026-04-17_aseanrokfund-org_korea-internet-and-security-agency-kisa]]"
   - "[[2026-04-17_krcert-or-kr_krcert-cc-english]]"
 ---
-
 ## Summary
 
 **APCERT** is the Asia-Pacific CERT cooperation network referenced in the repository through national cyber-security agency profiles. It should be treated as an incident-response coordination forum rather than a law-enforcement arresting body.

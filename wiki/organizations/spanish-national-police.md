@@ -9,6 +9,7 @@ cooperation_partners:
   - "[[usdoj]]"
   - "[[fbi]]"
 country: "[[spain]]"
+jurisdiction: [[spain]]
 created: 2026-04-17
 established: ""
 frameworks_administered:
@@ -41,7 +42,7 @@ sources:
 status: active
 title: "Spanish National Police"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

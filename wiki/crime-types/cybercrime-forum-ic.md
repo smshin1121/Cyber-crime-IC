@@ -40,7 +40,7 @@ sources:
   - "[[2018-02-07_justice-gov_thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organ]]"
   - "[[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation]]"
 created: 2026-04-17
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -54,6 +54,14 @@ Darkode, Infraud, and Operation Talent show three useful patterns. Darkode was a
 ## Menu Use
 
 Use this page when the source focuses on a forum, marketplace community, or criminal service board. Use [[dark-web-ic]] where the main fact is Tor or darknet marketplace access, and use [[cybercrime-infrastructure-ic]] where the primary target is hosting, proxying, VPN, botnet, or malware delivery infrastructure rather than the social marketplace layer.
+
+## Analytical Use
+
+Within this wiki, **Cybercrime Forum Operations** is a control node for comparing records that describe the offense pattern, evidence sources, and cross-border investigative pressure points. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

@@ -11,6 +11,7 @@ status: active
 established: 1998
 parent_org: ""
 country: "[[italy]]"
+jurisdiction: [[italy]]
 headquarters: "Rome, Italy"
 mandate: "National cybercrime and communications-security police service within the Italian State Police structure, including the CNAIPIC critical-infrastructure mission."
 member_states: 0
@@ -34,7 +35,7 @@ sources:
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
   - "[[2022-06-22_fondosicurezzainterna-interno-gov-it_un-territorio-cyber-sicuro-tra-pubblico-e-privato]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: "2026-04-29"
 last_verified: 2026-04-18
 ---
 ## Summary

@@ -10,6 +10,7 @@ status: active
 established: 1997
 parent_org: "[[spain-guardia-civil]]"
 country: "[[spain]]"
+jurisdiction: [[spain]]
 headquarters: "Madrid, Spain"
 mandate: "Specialized cybercrime investigation unit of the Spanish Guardia Civil."
 member_states: 0
@@ -36,7 +37,7 @@ sources:
   - "[[2026-04-18_guardiacivil-es_gdt]]"
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
 created: 2026-04-10
-updated: 2026-04-18
+updated: "2026-04-29"
 last_verified: 2026-04-18
 ---
 ## Summary

@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: ""
+jurisdiction: "international"
 created: 2026-04-08
 established: 1923-09-07
 frameworks_administered:
@@ -63,7 +64,7 @@ sources:
 status: active
 title: "INTERPOL (International Criminal Police Organization)"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Current Status (as of 2026-04-10)
 

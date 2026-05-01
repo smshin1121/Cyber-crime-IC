@@ -37,7 +37,7 @@ typical_ic_challenges:
 typical_mechanisms:
   - "[[interpol-icse-database|INTERPOL ICSE Database]]"
   - "[[europol-vidtf|Europol Victim Identification Task Force]]"
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -51,6 +51,14 @@ Operation Orion International, Operation Stream/Kidflix, and Operation Cyber Gua
 ## Boundary Notes
 
 Use this page where CSAM is the principal crime type. Use [[dark-web-ic]] when the record is mainly about darknet marketplace infrastructure, [[electronic-evidence]] for provider/device evidence, and [[interpol-icse-database]] where the source specifically concerns victim-identification data sharing.
+
+## Analytical Use
+
+Within this wiki, **CSAM (Child Sexual Abuse Material) — International Cooperation Perspective** is a control node for comparing records that describe the offense pattern, evidence sources, and cross-border investigative pressure points. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

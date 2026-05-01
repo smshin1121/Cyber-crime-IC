@@ -5,9 +5,10 @@ official_name: "German Police Authorities"
 org_type: law-enforcement-umbrella
 status: active
 created: 2026-04-18
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 country: "[[germany]]"
+jurisdiction: [[germany]]
 canonical_page: "[[germany-bka]]"
 mandate: "Umbrella entry for German police participation where sources do not isolate BKA, LKA, or a state-level police authority."
 key_roles:
@@ -25,7 +26,6 @@ sources:
   - "[[2026-04-17_en-wikipedia-org_landeskriminalamt]]"
   - "[[europol-fraudulent-shopping-sites-takedown]]"
 ---
-
 ## Summary
 
 **German Police** is an umbrella page for operation records that use a generic German police label. Germany's cybercrime enforcement structure is federal: [[germany-bka|BKA]] handles federal coordination and international cybercrime cooperation, while state criminal police offices (LKA) may lead or execute specific investigations depending on venue and jurisdiction.

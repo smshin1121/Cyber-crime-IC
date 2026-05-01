@@ -4,6 +4,7 @@ aliases:
 contact_point_for:
   []
 country: "[[lithuania]]"
+jurisdiction: [[lithuania]]
 created: 2026-04-10
 established: unknown
 headquarters: "Saltoniškių g. 19, Vilnius 08105, Lithuania"
@@ -25,7 +26,7 @@ sources:
 status: active
 title: "Lithuanian Criminal Police Bureau — Cybercrime Unit"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

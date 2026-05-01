@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 created: 2026-04-10
 established: 1789
 frameworks_administered:
@@ -36,7 +37,7 @@ sources:
 status: active
 title: "US Department of the Treasury — OFAC and FinCEN (Cyber)"
 type: organization
-updated: 2026-04-17
+updated: "2026-04-29"
 ---
 ## Current Status (as of 2026-04-10)
 

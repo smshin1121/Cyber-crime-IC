@@ -12,6 +12,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 source_url: https://www.justice.gov/opa/pr/alphabay-largest-online-dark-market-shut-down
+collection_url: "https://www.justice.gov/opa/pr/alphabay-largest-online-dark-market-shut-down"
 pages_updated:
   - "[[alphabay-takedown]]"
 key_findings:
@@ -19,6 +20,7 @@ key_findings:
   - "Alexandre Cazes identified as administrator; arrested in Thailand on 5 July 2017."
   - "Civil forfeiture action filed in US District Court, Eastern District of California."
 created: 2026-04-14
+updated: "2026-04-29"
 text_status: parsed
 content_hash: sha256:3bf6845edd75024ab1ca082c030c840fc195c4acac5b1696547c974e8c3bcc94
 word_count: 1785

@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 created: 2026-04-10
 established: 1981-04-20
 frameworks_administered:
@@ -32,7 +33,7 @@ sources:
 status: active
 title: "US Defense Criminal Investigative Service"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

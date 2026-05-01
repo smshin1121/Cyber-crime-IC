@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 created: 2026-04-10
 established: 2020-07
 frameworks_administered:
@@ -42,7 +43,7 @@ sources:
 status: active
 title: "US Secret Service — Cyber Fraud Task Forces"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Current Status (as of 2026-04-10)
 

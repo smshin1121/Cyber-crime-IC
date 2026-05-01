@@ -3,7 +3,7 @@ type: mechanism
 title: "INTERPOL I-24/7"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 source_count: 4
 sources:
   - "[[2025-01-01_interpol-int_interpol-s-asian-conference-to-address-regional-crime-threats]]"
@@ -35,6 +35,14 @@ Mechanism pages are important because the same operation can involve several pro
 The examples below show corpus usage. They should not be read as proof that every listed operation used the mechanism in exactly the same formal legal posture.
 
 This page was expanded from a structural link-preservation stub during the 2026-04-29 menu-data audit. The references below are drawn from already ingested source pages attached to linked operations, cases, or source records.
+
+## Analytical Use
+
+Within this wiki, **INTERPOL I-24/7** is a control node for comparing records that describe the cooperation channel, coordination model, and operational dependency between agencies. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

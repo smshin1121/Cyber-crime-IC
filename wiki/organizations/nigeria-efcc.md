@@ -3,10 +3,11 @@ type: organization
 title: "Nigeria Economic and Financial Crimes Commission"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: anti-corruption-financial-crime-agency
 country: "[[nigeria]]"
+jurisdiction: [[nigeria]]
 official_name: "Economic and Financial Crimes Commission"
 abbreviation: "EFCC"
 mandate: "Nigerian financial-crime and anti-corruption agency with a recurring role in cyber-enabled fraud and BEC enforcement."
@@ -24,7 +25,6 @@ sources:
   - "[[2016-08-01_interpol-es_ringleader-of-global-network-behind-thousands-of-online-scams-arrested-in-nigeria]]"
   - "[[interpol-operation-killer-bee]]"
 ---
-
 ## Summary
 
 The **Economic and Financial Crimes Commission (EFCC)** is Nigeria's principal financial-crime enforcement agency in this corpus. Its cybercrime relevance is strongest in business email compromise (BEC), online scamming, and fraud cases where Nigerian-based actors are identified through foreign victim reporting, malware telemetry, or INTERPOL coordination.

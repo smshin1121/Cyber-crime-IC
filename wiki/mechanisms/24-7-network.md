@@ -44,7 +44,7 @@ sources:
   - "[[2026-04-17_coe-int_about-the-convention-budapest-convention]]"
   - "[[2003-01-28_coe-int_treaty-text-and-status-chart]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -58,6 +58,14 @@ In wiki classification, the 24/7 network should be used for preservation, urgent
 ## Boundary Notes
 
 Use [[emergency-data-preservation]] for the procedural act of preserving data, [[mutual-legal-assistance]] or [[mlat-process]] for formal evidence transfer, and [[direct-provider-request]] when the request is made to a provider under applicable domestic or cross-border provider-access rules.
+
+## Analytical Use
+
+Within this wiki, **24/7 Network (Budapest Convention Art. 35)** is a control node for comparing records that describe the cooperation channel, coordination model, and operational dependency between agencies. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

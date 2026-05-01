@@ -3,10 +3,11 @@ type: organization
 title: "African Union"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: regional-organization
 country: ""
+jurisdiction: "regional"
 headquarters: "Addis Ababa, Ethiopia"
 mandate: "Continental policy coordination for African Union member states, including cyber security and data protection norms."
 key_roles:
@@ -22,7 +23,6 @@ source_count: 1
 sources:
   - "[[2026-04-17_cipit-strathmore-edu_african-union-convention-on-cyber-security-and-personal-data-protection-key-insi]]"
 ---
-
 ## Summary
 
 The **African Union (AU)** is the continental policy organization for African member states. In the cybercrime corpus, its main relevance is not day-to-day police command; it is the regional legal and policy frame that shapes how African states approach cyber security, data protection, electronic transactions, and criminalization of ICT-enabled offences.

@@ -4,6 +4,7 @@ aliases:
 contact_point_for:
 
 country: "[[france]]"
+jurisdiction: [[france]]
 created: 2026-04-10
 established: 2023-11-23
 headquarters: "Nanterre, France"
@@ -28,7 +29,7 @@ sources:
 status: active
 title: "Office anti-cybercriminalité (OFAC) — French National Police"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[czech-republic]]"
+jurisdiction: [[czech-republic]]
 created: 2026-04-10
 established: 2023-01-01
 frameworks_administered:
@@ -32,7 +33,7 @@ sources:
 status: active
 title: "National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)"
 type: organization
-updated: 2026-04-09
+updated: "2026-04-29"
 ---
 ## Summary
 

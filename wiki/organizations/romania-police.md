@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
   []
 country: "[[romania]]"
+jurisdiction: [[romania]]
 created: 2026-04-10
 established: unknown
 frameworks_administered:
@@ -32,7 +33,7 @@ sources:
 status: active
 title: "Romanian National Police — Service for Combating Cybercrime (DCCO)"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

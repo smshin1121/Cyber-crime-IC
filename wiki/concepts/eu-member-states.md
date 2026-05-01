@@ -3,7 +3,7 @@ type: concept
 title: "EU Member States"
 status: active
 created: 2026-04-17
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-17
 source_count: 4
 sources:
@@ -24,6 +24,14 @@ Many Europol and Eurojust records refer to member states collectively when an op
 ## Menu Use
 
 Use this concept when a source describes EU-wide or EU member-state participation without enough detail to name every national body. Use country pages for specific jurisdictions and mechanism pages such as [[empact]], [[eurojust-coordination-meeting]], or [[european-investigation-order]] when the source identifies the legal or operational channel.
+
+## Analytical Use
+
+Within this wiki, **EU Member States** is a control node for comparing records that describe the analytical vocabulary used to compare operations, cases, and source records. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

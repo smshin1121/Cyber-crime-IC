@@ -5,6 +5,7 @@ aliases:
 contact_point_for:
   []
 country: "[[poland]]"
+jurisdiction: [[poland]]
 created: 2026-04-10
 established: 2022-01-12
 headquarters: "ul. Wąwozowa 18, Warsaw, Poland"
@@ -30,7 +31,7 @@ sources:
 status: active
 title: "Central Bureau for Combating Cybercrime (CBZC) — Poland"
 type: organization
-updated: 2026-04-09
+updated: "2026-04-29"
 ---
 ## Summary
 

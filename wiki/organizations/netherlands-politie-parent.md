@@ -3,10 +3,11 @@ type: organization
 title: "Netherlands Police Parent Organization"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police-parent
 country: "[[netherlands]]"
+jurisdiction: [[netherlands]]
 official_name: "Politie"
 mandate: "Parent organization for Dutch national police cybercrime capabilities, including Team High Tech Crime."
 key_roles:
@@ -27,7 +28,6 @@ sources:
   - "[[2026-03-27_politie-nl_minister-van-weel-benadrukt-belang-werk-team-high-tech-crime]]"
   - "[[2026-04-17_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
 ---
-
 ## Summary
 
 The **Netherlands Police parent organization** entry exists to separate the broader Dutch police institution from the specialist cyber unit page [[netherlands-politie]]. The Dutch source corpus repeatedly centers Team High Tech Crime as one of Europe's most active cybercrime units; this page preserves the parent-organization context.

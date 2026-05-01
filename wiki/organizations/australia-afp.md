@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[australia]]"
+jurisdiction: [[australia]]
 created: 2026-04-10
 established: 1979
 frameworks_administered:
@@ -39,7 +40,7 @@ sources:
 status: active
 title: "Australian Federal Police — Cyber Command"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

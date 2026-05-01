@@ -3,10 +3,11 @@ type: organization
 title: "Japan Cybercrime Control Center"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: public-private-cybercrime-center
 country: "[[japan]]"
+jurisdiction: [[japan]]
 mandate: "Japanese public-private cybercrime cooperation center."
 key_roles:
   - "Provides Japan-side public-private coordination and infrastructure-disruption support in malware and cybercrime operations."
@@ -22,7 +23,6 @@ sources:
   - "[[2025-05-21_blogs-microsoft-com_disrupting-lumma-stealer-microsoft-leads-global-action-against-favored-cybercrim]]"
   - "[[2025-05-21_bleepingcomputer-com_lumma-infostealer-malware-operation-disrupted-2300-domains-seized]]"
 ---
-
 ## Summary
 
 The **Japan Cybercrime Control Center (JC3)** is a Japanese public-private cybercrime cooperation body. In the current corpus, its clearest role is in the [[lumma-stealer-takedown|Lumma Stealer takedown]], where Microsoft and secondary reporting identify Japan-side support as part of a wider Microsoft, DOJ, Europol, and Japanese action against LummaC2 infrastructure.

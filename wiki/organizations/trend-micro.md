@@ -3,10 +3,11 @@ type: organization
 title: "Trend Micro"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: private-cybersecurity-company
 country: "[[japan]]"
+jurisdiction: [[japan]]
 official_name: "Trend Micro"
 mandate: "Private cybersecurity vendor and threat-intelligence provider supporting public-sector cybercrime operations."
 key_roles:
@@ -34,7 +35,6 @@ sources:
   - "[[group-ib-operation-delilah-silverterrier-bec]]"
   - "[[2024-11-06-interpol-operation-synergia-ii]]"
 ---
-
 ## Summary
 
 **Trend Micro** is a private cybersecurity company that appears in this corpus as a threat-intelligence and malware-telemetry partner. It is especially relevant to INTERPOL-led public-private cooperation, where private-sector intelligence is converted into law-enforcement targeting, arrests, or infrastructure disruption.

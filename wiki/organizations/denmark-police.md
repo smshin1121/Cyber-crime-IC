@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[denmark]]"
+jurisdiction: [[denmark]]
 created: 2026-04-10
 established: 2022-01-01
 frameworks_administered:
@@ -34,7 +35,7 @@ sources:
 status: active
 title: "National Cyber Crime Center (NC3) / National Special Crime Unit (NSK)"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

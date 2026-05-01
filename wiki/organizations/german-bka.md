@@ -9,6 +9,7 @@ cooperation_partners:
   - "[[eurojust]]"
   - "[[microsoft]]"
 country: "[[germany]]"
+jurisdiction: [[germany]]
 created: 2026-04-17
 established: ""
 frameworks_administered:
@@ -39,7 +40,7 @@ sources:
 status: active
 title: "German BKA"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

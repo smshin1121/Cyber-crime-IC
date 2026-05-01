@@ -59,7 +59,7 @@ sources:
   - "[[2022-05-12_coe-int_second-additional-protocol-cets-no-224]]"
   - "[[2025-01-01_coe-int_chart-of-signatures-and-ratifications-of-treaty-185-224]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
 ## Summary
 
@@ -72,6 +72,14 @@ The protocol is used in this repository as a legal-framework node for improved d
 ## Boundary Notes
 
 Use this page when a source discusses the protocol itself. Use [[budapest-convention]] for the base treaty, [[emergency-data-preservation]] for preservation procedure, and [[direct-provider-request]] where the source turns on provider-facing requests.
+
+## Analytical Use
+
+Within this wiki, **Second Additional Protocol to the Budapest Convention (CETS No. 224)** is a control node for comparing records that describe legal authority, request conditions, and limits on cross-border access to evidence. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

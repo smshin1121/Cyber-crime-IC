@@ -3,10 +3,11 @@ type: organization
 title: "Russian Ministry of Interior"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: interior-ministry
 country: "[[russia]]"
+jurisdiction: [[russia]]
 official_name: "Ministry of Internal Affairs of the Russian Federation"
 mandate: "Russian national interior-ministry law-enforcement structure; historically included Department K cybercrime participation in selected international cases."
 key_roles:
@@ -26,7 +27,6 @@ sources:
   - "[[interpol-911-s5-botnet-dismantling]]"
   - "[[2015-04-13_kaspersky-com_kaspersky-lab-joins-forces-with-interpol-industry-and-law-enforcement-partners-to-disrupt-simda-botnet]]"
 ---
-
 ## Summary
 
 The **Russian Ministry of Interior** page is currently anchored to a narrow but important historical cooperation record: the 2015 [[simda-botnet-takedown]]. The public source set names the Russian Ministry of Interior cybercrime division, commonly referred to as Department K, as a participant in that INTERPOL-coordinated botnet action.

@@ -3,10 +3,11 @@ type: organization
 title: "ASEANAPOL"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: regional-policing-body
 country: ""
+jurisdiction: "regional"
 mandate: "Regional police cooperation body for ASEAN member states."
 key_roles:
   - "Provides a Southeast Asian regional-policing layer for multilateral cyber-enabled fraud and online-scam operations."
@@ -22,7 +23,6 @@ sources:
   - "[[2024-06-18-interpol-operation-first-light-2024]]"
   - "[[2026-04-01_interpol-int_support-for-afripol-operation-first-light]]"
 ---
-
 ## Summary
 
 **ASEANAPOL** is the regional police cooperation body for Southeast Asian police agencies. In the cybercrime corpus, its clearest source-backed role is as a regional support layer in INTERPOL's online-scam operations, especially [[operation-first-light-2024|Operation First Light 2024]].

@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[canada]]"
+jurisdiction: [[canada]]
 created: 2026-04-10
 established: 2020
 frameworks_administered:
@@ -40,7 +41,7 @@ sources:
 status: active
 title: "RCMP — National Cybercrime Coordination Centre (NC3)"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

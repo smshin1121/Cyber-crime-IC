@@ -12,6 +12,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 source_url: https://www.justice.gov/usao-az/programs/victim-notifications/US-v-Okpe-et-al
+collection_url: "https://www.justice.gov/usao-az/programs/victim-notifications/US-v-Okpe-et-al"
 pages_updated:
   - "[[nigerian-bec-convictions-2023]]"
   - "[[us-v-okpe-obogo-bec]]"
@@ -19,6 +20,7 @@ key_findings:
   - "Victim notifications page confirms docket activity in the Arizona case."
   - "The page reflects sentencing scheduling and case progression for Okpe and Obogo."
 created: 2026-04-18
+updated: "2026-04-29"
 text_status: parsed
 content_hash: sha256:c1a154522d2858b56be80c4d4a3b46fda7c93b3aa0726c98ef769f7f916d189e
 word_count: 157

@@ -18,155 +18,151 @@ This audit checks each menu category for structural stubs, placeholder prose, th
 
 | Menu | Pages | High | Medium | Top issue count |
 |---|---:|---:|---:|---:|
-| operations | 1085 | 0 | 0 | 3 |
-| organizations | 143 | 0 | 0 | 166 |
+| operations | 1085 | 0 | 0 | 0 |
+| organizations | 143 | 0 | 0 | 31 |
 | countries | 110 | 0 | 0 | 70 |
-| cases | 1202 | 0 | 0 | 905 |
-| legal-frameworks | 22 | 0 | 0 | 4 |
-| mechanisms | 27 | 0 | 0 | 14 |
-| crime-types | 24 | 0 | 0 | 13 |
-| concepts | 15 | 0 | 0 | 18 |
+| cases | 1202 | 0 | 0 | 872 |
+| legal-frameworks | 22 | 0 | 0 | 0 |
+| mechanisms | 27 | 0 | 0 | 0 |
+| crime-types | 24 | 0 | 0 | 0 |
+| concepts | 15 | 0 | 0 | 0 |
 | procedures | 2 | 0 | 0 | 2 |
 | challenges | 2 | 0 | 0 | 2 |
-| sources | 4784 | 0 | 0 | 18 |
+| sources | 4784 | 0 | 0 | 0 |
 
 ## Issue Counts
 
 | Issue | Count |
 |---|---:|
 | thin_body | 904 |
-| missing_metadata | 154 |
 | no_sources | 51 |
-| very_thin_body | 41 |
-| menu_core_page_underbuilt | 36 |
 | source_count_missing_refs | 19 |
-| placeholder_language | 7 |
 | source_count_mismatch | 3 |
 
 ## Top 120 Queue
 
 | Rank | Page | Menu | Score | Sources | Refs | Body words | Issues |
 |---:|---|---|---:|---:|---:|---:|---|
-| 1 | [[dual-criminality]] | concepts | 22 | 2 | 2 | 115 | thin_body:115, menu_core_page_underbuilt:115 |
-| 2 | [[nationality-principle]] | concepts | 22 | 2 | 2 | 108 | thin_body:108, menu_core_page_underbuilt:108 |
-| 3 | [[ne-bis-in-idem]] | concepts | 22 | 2 | 2 | 108 | thin_body:108, menu_core_page_underbuilt:108 |
-| 4 | [[specialty-principle]] | concepts | 22 | 2 | 2 | 114 | thin_body:114, menu_core_page_underbuilt:114 |
-| 5 | [[territoriality-principle]] | concepts | 22 | 2 | 2 | 116 | thin_body:116, menu_core_page_underbuilt:116 |
-| 6 | [[csam-ic]] | crime-types | 22 | 3 | 3 | 117 | thin_body:117, menu_core_page_underbuilt:117 |
-| 7 | [[cloud-act]] | legal-frameworks | 22 | 2 | 2 | 123 | thin_body:123, menu_core_page_underbuilt:123 |
-| 8 | [[second-additional-protocol]] | legal-frameworks | 22 | 2 | 2 | 112 | thin_body:112, menu_core_page_underbuilt:112 |
-| 9 | [[24-7-network]] | mechanisms | 22 | 2 | 2 | 138 | thin_body:138, menu_core_page_underbuilt:138 |
-| 10 | [[europol-jit]] | mechanisms | 22 | 2 | 2 | 122 | thin_body:122, menu_core_page_underbuilt:122 |
-| 11 | [[interpol-i-grip]] | mechanisms | 22 | 2 | 2 | 132 | thin_body:132, menu_core_page_underbuilt:132 |
-| 12 | [[mlat-process]] | mechanisms | 22 | 2 | 2 | 133 | thin_body:133, menu_core_page_underbuilt:133 |
-| 13 | [[ross-ulbricht-found-guilty-on-all-counts]] | cases | 20 | 1 | 1 | 530 | placeholder_language:1 |
-| 14 | [[ross-ulbricht-sentenced-to-life-in-federal-prison]] | cases | 20 | 1 | 1 | 480 | placeholder_language:1 |
-| 15 | [[ross-ulbricht-sentenced-to-life-in-prison]] | cases | 20 | 1 | 1 | 466 | placeholder_language:1 |
-| 16 | [[us-v-adafin-xdedic]] | cases | 20 | 1 | 1 | 49 | very_thin_body:49 |
-| 17 | [[us-v-adejumo-jinadu-xdedic]] | cases | 20 | 1 | 1 | 423 | placeholder_language:1 |
-| 18 | [[us-v-almashwali-alphabay]] | cases | 20 | 1 | 1 | 21 | very_thin_body:21 |
-| 19 | [[us-v-aragon-dark-web]] | cases | 20 | 1 | 1 | 17 | very_thin_body:17 |
-| 20 | [[us-v-barraza-flores-dark-web]] | cases | 20 | 1 | 1 | 30 | very_thin_body:30 |
-| 21 | [[us-v-bookman-dark-web]] | cases | 20 | 1 | 1 | 25 | very_thin_body:25 |
-| 22 | [[us-v-brewer-dark-web]] | cases | 20 | 1 | 1 | 30 | very_thin_body:30 |
-| 23 | [[us-v-brian-mcdonald-dark-web]] | cases | 20 | 1 | 1 | 24 | very_thin_body:24 |
-| 24 | [[us-v-castro-dark-web]] | cases | 20 | 1 | 1 | 29 | very_thin_body:29 |
-| 25 | [[us-v-curry-brooke-dark-web]] | cases | 20 | 1 | 1 | 24 | very_thin_body:24 |
-| 26 | [[us-v-dittman-schiffner-langer-dark-web]] | cases | 20 | 1 | 1 | 26 | very_thin_body:26 |
-| 27 | [[us-v-evan-hernandez-dark-web]] | cases | 20 | 1 | 1 | 21 | very_thin_body:21 |
-| 28 | [[us-v-fatukala-cocaine-dark-web]] | cases | 20 | 1 | 1 | 22 | very_thin_body:22 |
-| 29 | [[us-v-gary-davis-silk-road]] | cases | 20 | 1 | 1 | 35 | very_thin_body:35 |
-| 30 | [[us-v-gutierrez-villasenor-dark-web]] | cases | 20 | 1 | 1 | 16 | very_thin_body:16 |
-| 31 | [[us-v-haney-silk-road]] | cases | 20 | 1 | 1 | 22 | very_thin_body:22 |
-| 32 | [[us-v-hernandez-dark-web]] | cases | 20 | 1 | 1 | 20 | very_thin_body:20 |
-| 33 | [[us-v-herrell-alphabay]] | cases | 20 | 1 | 1 | 19 | very_thin_body:19 |
-| 34 | [[us-v-holly-adams-dark-web]] | cases | 20 | 1 | 1 | 36 | very_thin_body:36 |
-| 35 | [[us-v-john-cruz-dark-web]] | cases | 20 | 1 | 1 | 19 | very_thin_body:19 |
-| 36 | [[us-v-john-mckernan-dark-web]] | cases | 20 | 1 | 1 | 24 | very_thin_body:24 |
-| 37 | [[us-v-kancharla-dark-web]] | cases | 20 | 1 | 1 | 20 | very_thin_body:20 |
-| 38 | [[us-v-lint-dream-market]] | cases | 20 | 1 | 1 | 23 | very_thin_body:23 |
-| 39 | [[us-v-madding-dark-web]] | cases | 20 | 1 | 1 | 24 | very_thin_body:24 |
-| 40 | [[us-v-nicholas-partlow-dark-web]] | cases | 20 | 1 | 1 | 16 | very_thin_body:16 |
-| 41 | [[us-v-ogando-dawodu-spencer-dark-web]] | cases | 20 | 1 | 1 | 29 | very_thin_body:29 |
-| 42 | [[us-v-ogunlana-xdedic]] | cases | 20 | 1 | 1 | 44 | very_thin_body:44 |
-| 43 | [[us-v-okparaeke-dark-web]] | cases | 20 | 1 | 1 | 24 | very_thin_body:24 |
-| 44 | [[us-v-orgil-dark-web]] | cases | 20 | 1 | 1 | 23 | very_thin_body:23 |
-| 45 | [[us-v-oyebanjo-xdedic]] | cases | 20 | 1 | 1 | 40 | very_thin_body:40 |
-| 46 | [[us-v-peck-dark-web]] | cases | 20 | 1 | 1 | 31 | very_thin_body:31 |
-| 47 | [[us-v-roberts-dark-web]] | cases | 20 | 1 | 1 | 20 | very_thin_body:20 |
-| 48 | [[us-v-sabbagh-dark-web]] | cases | 20 | 1 | 1 | 16 | very_thin_body:16 |
-| 49 | [[us-v-scanlan-dark-web]] | cases | 20 | 1 | 1 | 31 | very_thin_body:31 |
-| 50 | [[us-v-shaughnessy-dark-web]] | cases | 20 | 1 | 1 | 19 | very_thin_body:19 |
-| 51 | [[us-v-sirotkin-deaver-dark-web]] | cases | 20 | 1 | 1 | 22 | very_thin_body:22 |
-| 52 | [[us-v-tan-dark-web]] | cases | 20 | 1 | 1 | 22 | very_thin_body:22 |
-| 53 | [[us-v-taylor-fischer-dark-web]] | cases | 20 | 1 | 1 | 23 | very_thin_body:23 |
-| 54 | [[us-v-taylor-xdedic]] | cases | 20 | 1 | 1 | 40 | very_thin_body:40 |
-| 55 | [[us-v-udvardi-dark-web]] | cases | 20 | 1 | 1 | 21 | very_thin_body:21 |
-| 56 | [[us-v-vlastos-dark-web]] | cases | 20 | 1 | 1 | 25 | very_thin_body:25 |
-| 57 | [[us-v-witters-dark-web]] | cases | 20 | 1 | 1 | 26 | very_thin_body:26 |
-| 58 | [[bulletproof-hosting]] | concepts | 20 | 4 | 4 | 243 | placeholder_language:1 |
-| 59 | [[algeria]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 60 | [[angola]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 61 | [[argentina]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 62 | [[australia]] | countries | 20 | 0 | 0 | 770 | no_sources |
-| 63 | [[azerbaijan]] | countries | 20 | 0 | 0 | 173 | no_sources |
-| 64 | [[belarus]] | countries | 20 | 0 | 0 | 173 | no_sources |
-| 65 | [[belize]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 66 | [[bolivia]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 67 | [[bosnia-and-herzegovina]] | countries | 20 | 0 | 0 | 173 | no_sources |
-| 68 | [[brunei]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 69 | [[cambodia]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 70 | [[chile]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 71 | [[china]] | countries | 20 | 0 | 0 | 1009 | no_sources |
-| 72 | [[costa-rica]] | countries | 20 | 0 | 0 | 174 | no_sources |
-| 73 | [[croatia]] | countries | 20 | 0 | 0 | 173 | no_sources |
-| 74 | [[czechia]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 75 | [[democratic-republic-of-the-congo]] | countries | 20 | 0 | 0 | 175 | no_sources |
-| 76 | [[ecuador]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 77 | [[gabon]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 78 | [[ghana]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 79 | [[guyana]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 80 | [[iceland]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 81 | [[ireland]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 82 | [[japan]] | countries | 20 | 0 | 0 | 900 | no_sources |
-| 83 | [[kazakhstan]] | countries | 20 | 0 | 0 | 173 | no_sources |
-| 84 | [[laos]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 85 | [[lithuania]] | countries | 20 | 0 | 0 | 173 | no_sources |
-| 86 | [[luxembourg]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 87 | [[macau]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 88 | [[macedonia]] | countries | 20 | 0 | 0 | 172 | no_sources |
-| 89 | [[madagascar]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 90 | [[mexico]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 91 | [[mongolia]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 92 | [[montenegro]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 93 | [[mozambique]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 94 | [[namibia]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 95 | [[new-zealand]] | countries | 20 | 0 | 0 | 172 | no_sources |
-| 96 | [[nigeria]] | countries | 20 | 0 | 0 | 855 | no_sources |
-| 97 | [[pakistan]] | countries | 20 | 0 | 0 | 174 | no_sources |
-| 98 | [[paraguay]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 99 | [[peru]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 100 | [[philippines]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 101 | [[senegal]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 102 | [[slovenia]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 103 | [[suriname]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 104 | [[tunisia]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 105 | [[turkey]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 106 | [[united-arab-emirates]] | countries | 20 | 0 | 0 | 173 | no_sources |
-| 107 | [[uruguay]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 108 | [[venezuela]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 109 | [[zimbabwe]] | countries | 20 | 0 | 0 | 171 | no_sources |
-| 110 | [[operation-us-v-adejumo-jinadu-xdedic]] | operations | 20 | 1 | 1 | 117 | placeholder_language:1 |
-| 111 | [[operation-us-v-kevin-james-strutz]] | operations | 20 | 1 | 1 | 113 | placeholder_language:1 |
-| 112 | [[portugal-police]] | organizations | 18 | 0 | 3 | 294 | source_count_missing_refs:3, missing_metadata:jurisdiction |
-| 113 | [[romania-diicot]] | organizations | 18 | 0 | 4 | 320 | source_count_missing_refs:4, missing_metadata:jurisdiction |
-| 114 | [[romania-police]] | organizations | 18 | 0 | 4 | 274 | source_count_missing_refs:4, missing_metadata:jurisdiction |
-| 115 | [[apcert]] | organizations | 16 | 2 | 2 | 136 | thin_body:136, missing_metadata:jurisdiction |
-| 116 | [[bulgaria-ministry-of-interior]] | organizations | 16 | 2 | 2 | 126 | thin_body:126, missing_metadata:jurisdiction |
-| 117 | [[denmark-national-police]] | organizations | 16 | 2 | 2 | 122 | thin_body:122, missing_metadata:jurisdiction |
-| 118 | [[dod-inspector-general]] | organizations | 16 | 2 | 2 | 109 | thin_body:109, missing_metadata:jurisdiction |
-| 119 | [[dutch-nhtcu]] | organizations | 16 | 3 | 3 | 96 | thin_body:96, missing_metadata:jurisdiction |
-| 120 | [[first-forum-incident-response]] | organizations | 16 | 2 | 2 | 132 | thin_body:132, missing_metadata:jurisdiction |
+| 1 | [[algeria]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 2 | [[angola]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 3 | [[argentina]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 4 | [[australia]] | countries | 20 | 0 | 0 | 770 | no_sources |
+| 5 | [[azerbaijan]] | countries | 20 | 0 | 0 | 173 | no_sources |
+| 6 | [[belarus]] | countries | 20 | 0 | 0 | 173 | no_sources |
+| 7 | [[belize]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 8 | [[bolivia]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 9 | [[bosnia-and-herzegovina]] | countries | 20 | 0 | 0 | 173 | no_sources |
+| 10 | [[brunei]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 11 | [[cambodia]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 12 | [[chile]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 13 | [[china]] | countries | 20 | 0 | 0 | 1009 | no_sources |
+| 14 | [[costa-rica]] | countries | 20 | 0 | 0 | 174 | no_sources |
+| 15 | [[croatia]] | countries | 20 | 0 | 0 | 173 | no_sources |
+| 16 | [[czechia]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 17 | [[democratic-republic-of-the-congo]] | countries | 20 | 0 | 0 | 175 | no_sources |
+| 18 | [[ecuador]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 19 | [[gabon]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 20 | [[ghana]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 21 | [[guyana]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 22 | [[iceland]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 23 | [[ireland]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 24 | [[japan]] | countries | 20 | 0 | 0 | 900 | no_sources |
+| 25 | [[kazakhstan]] | countries | 20 | 0 | 0 | 173 | no_sources |
+| 26 | [[laos]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 27 | [[lithuania]] | countries | 20 | 0 | 0 | 173 | no_sources |
+| 28 | [[luxembourg]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 29 | [[macau]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 30 | [[macedonia]] | countries | 20 | 0 | 0 | 172 | no_sources |
+| 31 | [[madagascar]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 32 | [[mexico]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 33 | [[mongolia]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 34 | [[montenegro]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 35 | [[mozambique]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 36 | [[namibia]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 37 | [[new-zealand]] | countries | 20 | 0 | 0 | 172 | no_sources |
+| 38 | [[nigeria]] | countries | 20 | 0 | 0 | 855 | no_sources |
+| 39 | [[pakistan]] | countries | 20 | 0 | 0 | 174 | no_sources |
+| 40 | [[paraguay]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 41 | [[peru]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 42 | [[philippines]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 43 | [[senegal]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 44 | [[slovenia]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 45 | [[suriname]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 46 | [[tunisia]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 47 | [[turkey]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 48 | [[united-arab-emirates]] | countries | 20 | 0 | 0 | 173 | no_sources |
+| 49 | [[uruguay]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 50 | [[venezuela]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 51 | [[zimbabwe]] | countries | 20 | 0 | 0 | 171 | no_sources |
+| 52 | [[gambia]] | countries | 12 | 0 | 4 | 334 | source_count_missing_refs:4 |
+| 53 | [[georgia]] | countries | 12 | 0 | 3 | 329 | source_count_missing_refs:3 |
+| 54 | [[greece]] | countries | 12 | 0 | 3 | 282 | source_count_missing_refs:3 |
+| 55 | [[hong-kong]] | countries | 12 | 0 | 4 | 508 | source_count_missing_refs:4 |
+| 56 | [[india]] | countries | 12 | 0 | 6 | 506 | source_count_missing_refs:6 |
+| 57 | [[indonesia]] | countries | 12 | 0 | 5 | 425 | source_count_missing_refs:5 |
+| 58 | [[kenya]] | countries | 12 | 0 | 6 | 403 | source_count_missing_refs:6 |
+| 59 | [[kosovo]] | countries | 12 | 0 | 3 | 454 | source_count_missing_refs:3 |
+| 60 | [[latvia]] | countries | 12 | 0 | 3 | 284 | source_count_missing_refs:3 |
+| 61 | [[malaysia]] | countries | 12 | 0 | 4 | 331 | source_count_missing_refs:4 |
+| 62 | [[mauritius]] | countries | 12 | 0 | 4 | 297 | source_count_missing_refs:4 |
+| 63 | [[morocco]] | countries | 12 | 0 | 4 | 336 | source_count_missing_refs:4 |
+| 64 | [[norway]] | countries | 12 | 0 | 3 | 352 | source_count_missing_refs:3 |
+| 65 | [[singapore]] | countries | 12 | 0 | 3 | 360 | source_count_missing_refs:3 |
+| 66 | [[south-africa]] | countries | 12 | 0 | 3 | 312 | source_count_missing_refs:3 |
+| 67 | [[sweden]] | countries | 12 | 0 | 4 | 327 | source_count_missing_refs:4 |
+| 68 | [[portugal-police]] | organizations | 12 | 0 | 3 | 294 | source_count_missing_refs:3 |
+| 69 | [[romania-diicot]] | organizations | 12 | 0 | 4 | 320 | source_count_missing_refs:4 |
+| 70 | [[romania-police]] | organizations | 12 | 0 | 4 | 274 | source_count_missing_refs:4 |
+| 71 | [[16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide]] | cases | 10 | 1 | 1 | 106 | thin_body:106 |
+| 72 | [[23-year-old-sentenced-to-20-years-in-prison-for-distributing-fentanyl-that-nearly-killed-a-park-city-resident]] | cases | 10 | 1 | 1 | 108 | thin_body:108 |
+| 73 | [[administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]] | cases | 10 | 1 | 1 | 116 | thin_body:116 |
+| 74 | [[administrators-of-deepdotweb-indicted-for-money-laundering-conspiracy-relating-to-kickbacks-for-sales-of-fenta]] | cases | 10 | 1 | 1 | 121 | thin_body:121 |
+| 75 | [[aiken-county-man-sentenced-to-federal-prison-for-production-of-child-sexual-abuse-material]] | cases | 10 | 1 | 1 | 104 | thin_body:104 |
+| 76 | [[alleged-drug-dealer-to-downtown-seattle-aurora-id-and-homeless-encampments-indicted-for-drug-and-gun-crimes]] | cases | 10 | 1 | 1 | 127 | thin_body:127 |
+| 77 | [[alleged-russian-cryptocurrency-money-launderer-extradited-to-united-states]] | cases | 10 | 1 | 1 | 107 | thin_body:107 |
+| 78 | [[alleged-sim-swapper-charged-with-hacking-into-instagram-influencers-accounts-to-get-money-and-sexually-explici]] | cases | 10 | 1 | 1 | 109 | thin_body:109 |
+| 79 | [[alleged-southern-california-narcotics-traffickers-among-those-charged-in-international-crackdown-targeting-dar]] | cases | 10 | 1 | 1 | 87 | thin_body:87 |
+| 80 | [[amazon-seller-and-consultant-sentenced-to-20-months-in-prison-for-bribery-scheme-and-illegal-tactics-to-benefi]] | cases | 10 | 1 | 1 | 101 | thin_body:101 |
+| 81 | [[american-darknet-vendor-and-costa-rican-pharmacist-charged-with-narcotics-and-money-laundering-violations]] | cases | 10 | 1 | 1 | 91 | thin_body:91 |
+| 82 | [[arizona-man-indicted-for-federal-assault-charges]] | cases | 10 | 1 | 1 | 73 | thin_body:73 |
+| 83 | [[arizona-man-indicted-for-offenses-involving-sexual-exploitation-of-a-minor]] | cases | 10 | 1 | 1 | 81 | thin_body:81 |
+| 84 | [[armed-dark-web-drug-trafficker-sentenced-to-over-a-decade-in-federal-prison]] | cases | 10 | 1 | 1 | 122 | thin_body:122 |
+| 85 | [[attorney-arrested-on-charges-of-insider-trading]] | cases | 10 | 1 | 1 | 73 | thin_body:73 |
+| 86 | [[auburn-man-sentenced-to-more-than-24-years-in-federal-prison-for-sharing-child-sexual-abuse-material-on-the-da]] | cases | 10 | 1 | 1 | 118 | thin_body:118 |
+| 87 | [[auburn-washington-man-charged-federally-for-drug-distribution-and-illegal-firearms-possession]] | cases | 10 | 1 | 1 | 98 | thin_body:98 |
+| 88 | [[auburn-washington-man-who-converted-garage-to-a-fentanyl-pill-manufacturing-lab-sentenced-to-11-years-in-priso]] | cases | 10 | 1 | 1 | 132 | thin_body:132 |
+| 89 | [[bay-area-residents-sentenced-to-five-years-for-counterfeit-currency-and-credit-card-fraud-schemes]] | cases | 10 | 1 | 1 | 131 | thin_body:131 |
+| 90 | [[bellingham-washington-drug-dealer-sentenced-to-ten-years-in-prison-for-distributing-fentanyl-while-possessing-]] | cases | 10 | 1 | 1 | 106 | thin_body:106 |
+| 91 | [[beresford-man-sentenced-to-over-33-years-in-federal-prison-for-receipt-and-distribution-of-child-pornography]] | cases | 10 | 1 | 1 | 132 | thin_body:132 |
+| 92 | [[beverly-hills-man-sentenced-to-5-years-in-federal-prison-for-attempting-to-hire-hitman-to-kill-woman-he-briefl]] | cases | 10 | 1 | 1 | 116 | thin_body:116 |
+| 93 | [[billings-meth-fentanyl-dealer-sentenced-to-12-years-in-prison]] | cases | 10 | 1 | 1 | 94 | thin_body:94 |
+| 94 | [[boone-man-is-sentenced-to-eight-years-in-federal-prison-for-using-the-dark-web-to-transport-child-pornography]] | cases | 10 | 1 | 1 | 114 | thin_body:114 |
+| 95 | [[botnet-dismantled-in-international-operation-russian-and-kazakhstani-administrators-indicted]] | cases | 10 | 1 | 1 | 78 | thin_body:78 |
+| 96 | [[bradley-lefebvre-sentenced-on-federal-harassment-charge]] | cases | 10 | 1 | 1 | 88 | thin_body:88 |
+| 97 | [[brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | cases | 10 | 1 | 1 | 132 | thin_body:132 |
+| 98 | [[brazilian-national-indicted-for-selling-firearms]] | cases | 10 | 1 | 1 | 105 | thin_body:105 |
+| 99 | [[brazilian-national-pleads-guilty-to-role-in-nationwide-rideshare-and-delivery-account-fraud-scheme]] | cases | 10 | 1 | 1 | 123 | thin_body:123 |
+| 100 | [[brooklyn-ny-consultant-for-amazon-sellers-sentenced-to-home-detention-and-fine-for-role-in-bribery-scheme]] | cases | 10 | 1 | 1 | 108 | thin_body:108 |
+| 101 | [[brooksville-man-sentenced-to-prison-for-electronic-prescribing-fraud-scheme]] | cases | 10 | 1 | 1 | 114 | thin_body:114 |
+| 102 | [[california-businessman-indicted-for-tax-evasion]] | cases | 10 | 1 | 1 | 117 | thin_body:117 |
+| 103 | [[california-man-indicted-in-cryptocurrency-money-laundering-conspiracy]] | cases | 10 | 1 | 1 | 90 | thin_body:90 |
+| 104 | [[california-man-sentenced-cryptocurrency-money-laundering-conspiracy]] | cases | 10 | 1 | 1 | 139 | thin_body:139 |
+| 105 | [[california-teenager-pleads-guilty-in-florida-to-making-hundreds-of-swatting-calls-across-the-united-states]] | cases | 10 | 1 | 1 | 92 | thin_body:92 |
+| 106 | [[cambridge-man-sentenced-for-child-pornography-offense]] | cases | 10 | 1 | 1 | 109 | thin_body:109 |
+| 107 | [[carmichaels-man-sentenced-to-3-years-for-cyberstalking]] | cases | 10 | 1 | 1 | 75 | thin_body:75 |
+| 108 | [[charlestown-man-sentenced-to-ten-years-in-federal-prison-following-a-fourth-conviction-on-child-pornography-ch]] | cases | 10 | 1 | 1 | 95 | thin_body:95 |
+| 109 | [[chatsworth-man-pleads-guilty-to-stalking-charges-for-sending-two-sisters-death-threats-and-harassment-campaign]] | cases | 10 | 1 | 1 | 115 | thin_body:115 |
+| 110 | [[chatsworth-man-sentenced-to-more-than-7-years-in-prison-for-cyberstalking-campaigns-against-victims-in-califor]] | cases | 10 | 1 | 1 | 97 | thin_body:97 |
+| 111 | [[chester-county-doctor-pleads-guilty-to-operating-pill-mill-out-of-main-line-pain-clinic]] | cases | 10 | 1 | 1 | 90 | thin_body:90 |
+| 112 | [[chicago-area-man-sentenced-for-role-in-nationwide-fraud-conspiracy]] | cases | 10 | 1 | 1 | 77 | thin_body:77 |
+| 113 | [[chilean-charged-with-cyberstalking]] | cases | 10 | 1 | 1 | 89 | thin_body:89 |
+| 114 | [[chinese-national-indicted-for-his-role-in-distributing-fentanyl-that-resulted-in-four-drug-overdoses-in-oregon]] | cases | 10 | 1 | 1 | 93 | thin_body:93 |
+| 115 | [[chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | cases | 10 | 1 | 1 | 139 | thin_body:139 |
+| 116 | [[chinese-national-sentenced-to-15-years-in-prison-for-conspiring-to-sell-oxycodone-on-the-darknet]] | cases | 10 | 1 | 1 | 94 | thin_body:94 |
+| 117 | [[chinese-national-sentenced-to-nearly-4-years-in-federal-prison-for-role-in-multimillion-dollar-cryptocurrency-]] | cases | 10 | 1 | 1 | 121 | thin_body:121 |
+| 118 | [[chinese-national-sentenced-to-prison-for-role-in-crypto-scam-targeting-americans]] | cases | 10 | 1 | 1 | 116 | thin_body:116 |
+| 119 | [[cleveland-man-sentenced-to-prison-for-leading-conspiracy-that-purchased-thousands-worth-of-jewelry-using-stole]] | cases | 10 | 1 | 1 | 95 | thin_body:95 |
+| 120 | [[co-creator-of-dark-web-marketplace-pleads-guilty-in-chicago-to-drug-conspiracy-charge]] | cases | 10 | 1 | 1 | 89 | thin_body:89 |
 
 ## Remediation Rules
 

@@ -3,10 +3,11 @@ type: organization
 title: "French High-Tech Crime Unit"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-cybercrime-unit
 country: "[[france]]"
+jurisdiction: [[france]]
 official_name: "OCLCTIC-DCPJ"
 parent_org: "[[france-national-police]]"
 mandate: "French National Police high-tech crime unit referenced in international cyber-extortion cooperation."
@@ -24,7 +25,6 @@ source_count: 1
 sources:
   - "[[europol-rex-mundi-hacking-group-takedown]]"
 ---
-
 ## Summary
 
 The **French High-Tech Crime Unit** entry represents the French National Police cybercrime unit named by Europol as **OCLCTIC-DCPJ** in the Rex Mundi hacking/extortion investigation. The page should be used when a source names the unit directly, while broader police-institution context belongs on [[france-national-police]].

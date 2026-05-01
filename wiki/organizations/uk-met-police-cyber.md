@@ -3,10 +3,11 @@ type: organization
 title: "Metropolitan Police Cyber Crime Unit"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: police-cybercrime-unit
 country: "[[united-kingdom]]"
+jurisdiction: [[united-kingdom]]
 parent_org: "[[uk-metropolitan-police]]"
 mandate: "Cybercrime investigation unit associated with London's Metropolitan Police Service."
 key_roles:
@@ -24,7 +25,6 @@ sources:
   - "[[europol-operation-pleiades]]"
   - "[[europol-rex-mundi-hacking-group-takedown]]"
 ---
-
 ## Summary
 
 The **Metropolitan Police Cyber Crime Unit** is the London Metropolitan Police cybercrime entry in the corpus. Its clearest source-backed role is historical: UK Metropolitan Police support in Europol-coordinated cases such as [[operation-pleiades|Operation Pleiades]] and the [[rex-mundi-takedown|Rex Mundi takedown]].

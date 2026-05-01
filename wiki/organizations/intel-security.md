@@ -9,6 +9,7 @@ cooperation_partners:
   - "[[fbi]]"
   - "[[kaspersky-lab]]"
 country: ""
+jurisdiction: "private-sector"
 created: 2026-04-17
 established: ""
 frameworks_administered:
@@ -38,7 +39,7 @@ sources:
 status: active
 title: "Intel Security"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 coverage_status: audit-normalized
 ---
 ## Summary

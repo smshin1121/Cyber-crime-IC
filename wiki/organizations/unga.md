@@ -3,10 +3,11 @@ type: organization
 title: "United Nations General Assembly"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: un-principal-organ
 country: ""
+jurisdiction: "international"
 parent_org: "[[united-nations]]"
 mandate: "UN principal deliberative organ; sponsoring body for General Assembly cybercrime convention processes."
 key_roles:
@@ -22,7 +23,6 @@ sources:
   - "[[2025-10-01_unodc-org_hanoi-convention-homepage]]"
   - "[[2025-10-01_news-un-org_sixty-five-nations-sign-first-un-treaty-to-fight-cybercrime]]"
 ---
-
 ## Summary
 
 The **United Nations General Assembly (UNGA)** is the sponsoring and adoption body for the UN cybercrime treaty process tracked in this corpus. The source set records that UNGA Resolution 74/247 created the Ad Hoc Committee process and that the United Nations Convention against Cybercrime was adopted by the General Assembly on 2024-12-24.

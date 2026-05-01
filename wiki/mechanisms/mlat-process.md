@@ -50,7 +50,7 @@ sources:
   - "[[2026-04-29_congress-gov_us-australia-mlat-treaty-document-105-27]]"
   - "[[2026-04-29_congress-gov_korea-us-mlat-treaty-document-104-1]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -64,6 +64,14 @@ MLAT requests are slower than informal police-to-police coordination, but they c
 ## Boundary Notes
 
 Use this page when the source is about formal assistance. Use [[informal-cooperation]] for intelligence sharing, [[emergency-data-preservation]] for preserving data before production, and [[direct-provider-request]] for provider-facing request paths.
+
+## Analytical Use
+
+Within this wiki, **Mutual Legal Assistance Treaty (MLAT) Process** is a control node for comparing records that describe the cooperation channel, coordination model, and operational dependency between agencies. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

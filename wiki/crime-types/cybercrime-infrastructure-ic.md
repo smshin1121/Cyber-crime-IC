@@ -40,7 +40,7 @@ sources:
   - "[[2021-06-30_eurojust_coordinated-action-cuts-access-vpn-service-used-ransomware-groups]]"
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
 created: 2026-04-17
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -54,6 +54,14 @@ Operation Endgame, VPNLab, DoubleVPN, and the 911 S5 botnet action show the comm
 ## Menu Use
 
 Use this page when the source is mainly about infrastructure-as-a-service for cybercrime. If the source is about a specific malware family, use [[malware-ic]]. If it is about DDoS-for-hire, use [[ddos-ic]]. If it is about a forum where criminals trade services, use [[cybercrime-forum-ic]]. The infrastructure page should remain the cross-cutting menu node for services that support multiple criminal markets.
+
+## Analytical Use
+
+Within this wiki, **Cybercrime Infrastructure Disruption** is a control node for comparing records that describe the offense pattern, evidence sources, and cross-border investigative pressure points. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

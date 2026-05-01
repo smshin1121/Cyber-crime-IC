@@ -3,10 +3,11 @@ type: organization
 title: "Thai Royal Police"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police
 country: "[[thailand]]"
+jurisdiction: [[thailand]]
 official_name: "Royal Thai Police"
 canonical_page: "[[thailand-royal-police]]"
 mandate: "Thailand national police institution and parent context for the Cyber Crime Investigation Bureau."
@@ -29,7 +30,6 @@ sources:
   - "[[2017-07-20-doj-alphabay-shutdown]]"
   - "[[2025-04-08_police-gov-sg_cross-border-operation-targeting-online-child-sexual-exploitation-activities]]"
 ---
-
 ## Summary
 
 **Thai Royal Police** is retained as an alternate-label page for the **Royal Thai Police** institution. The richer operational cyber bureau page is [[thailand-royal-police]], but this entry is useful because sources and older operation pages often use the "Thai Royal Police" wording.

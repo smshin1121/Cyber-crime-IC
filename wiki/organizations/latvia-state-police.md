@@ -6,6 +6,7 @@ cooperation_partners:
   - "[[cert-lv]]"
   - "[[europol-ec3]]"
 country: "[[latvia]]"
+jurisdiction: [[latvia]]
 created: 2026-04-10
 established: ""
 frameworks_administered: []
@@ -30,9 +31,8 @@ sources:
 status: active
 title: "Latvia State Police"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **Latvia State Police** is the law-enforcement node for Latvian cybercrime investigation in this corpus. It should be distinguished from [[cert-lv]], which covers national CSIRT and incident-response functions.

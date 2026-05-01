@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
   []
 country: "[[south-korea]]"
+jurisdiction: [[south-korea]]
 created: 2026-04-08
 established: 1945-10-21
 frameworks_administered:
@@ -32,7 +33,7 @@ sources:
 status: active
 title: "Seoul Metropolitan Police Agency (SMPA)"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 > [!info] Status — Active (parent org structure noted)
 > The **Seoul Metropolitan Police Agency (서울특별시경찰청, SMPA)** is active and not directly affected by the 2023 KNPA national-level reorganization that dissolved the standalone 경찰청 사이버수사국. SMPA's parent is the [[knpa|KNPA (Korea National Police Agency)]], not [[knpa-cyber-bureau]] directly — the prior `parent_org` wikilink has been corrected. SMPA underwent a **structural reorganization on 2023-10-30** into a 3-차장 체제 (Public Safety / Investigation / Everyday Life), 7 divisions, 26 departments, and 31 precincts [1][2].

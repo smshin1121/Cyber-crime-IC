@@ -3,10 +3,11 @@ type: organization
 title: "Drug Enforcement Administration"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: federal-law-enforcement
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 official_name: "Drug Enforcement Administration"
 abbreviation: "DEA"
 parent_org: "[[us-doj]]"
@@ -32,7 +33,6 @@ sources:
   - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
   - "[[2018-12-04_dea-gov_dea-dark-web-internet-trafficking-topic]]"
 ---
-
 ## Summary
 
 The **Drug Enforcement Administration (DEA)** is a recurring US federal partner in cybercrime cases where online infrastructure enables narcotics trafficking. Its role is clearest in darknet marketplace, counterfeit-pill, fentanyl, and crypto-mediated drug distribution investigations.

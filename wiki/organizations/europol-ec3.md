@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: ""
+jurisdiction: "regional"
 created: 2026-04-08
 established: 2013-01-11
 frameworks_administered:
@@ -107,7 +108,7 @@ sources:
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
-updated: 2026-04-17
+updated: "2026-04-29"
 ---
 ## Current Status (as of 2026-04-10)
 

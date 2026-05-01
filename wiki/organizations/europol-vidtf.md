@@ -3,10 +3,11 @@ type: organization
 title: "Europol Victim Identification Task Force"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: victim-identification-taskforce
 country: ""
+jurisdiction: "regional"
 parent_org: "[[europol-ec3]]"
 mandate: "Europol-supported specialist taskforce for identifying victims in child sexual exploitation material."
 key_roles:

@@ -38,12 +38,20 @@ source_count: 1
 sources:
   - "[[2021-08-04_edva_roberts-darknet-drug-vendor-plea]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-29"
 summary: "United States v. Roberts is a clean undercover-purchase-based darknet drug case involving illicit prescription-drug sales under the moniker `Pillpusher`."
 ---
 ## Summary
 
 United States v. Roberts is a clean undercover-purchase-based darknet drug case involving illicit prescription-drug sales under the moniker `Pillpusher`.
+
+## Case Context
+
+This case page preserves a defendant-level or filing-level view for **United States v. Cullen Roberts (Pillpusher)**. The current metadata records the posture as `convicted` and links the matter to [[operation-us-v-roberts-dark-web]]. That distinction matters because case pages can track sentencing, defendant status, charged conduct, jurisdiction, and evidentiary channels at a finer level than an umbrella operation page.
+
+## Cooperation Notes
+
+The page is intentionally limited to the facts already represented in its metadata and 1 cited source record(s): jurisdiction, charged conduct, cooperating agencies, legal frameworks, and any identified MLAT, extradition, foreign-evidence, foreign-arrest, or asset-freezing elements. It supports comparison across xDedic, AlphaBay, Silk Road, and other dark-web prosecution clusters while avoiding unsupported expansion beyond the cited record.
 
 ## References
 

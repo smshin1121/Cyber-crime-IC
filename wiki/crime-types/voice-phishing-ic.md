@@ -34,7 +34,6 @@ sources:
 created: 2026-04-08
 updated: 2026-04-08
 ---
-
 ## Summary
 
 Voice phishing (보이스피싱, vishing) is a cyber-enabled fraud technique in which criminals use telephone calls to impersonate trusted entities — prosecutors, police officers, bank officials, or government agencies — to trick victims into transferring funds. From an international cooperation perspective, voice phishing is *almost certainly* the most significant cybercrime type for **South Korea**, which has been the primary driver of international enforcement efforts through the INTERPOL HAECHI series. The crime type has evolved from China-based call centres to Southeast Asian scam compounds, requiring increasingly complex multilateral cooperation.

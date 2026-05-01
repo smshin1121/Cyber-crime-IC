@@ -122,7 +122,6 @@ title_ko: "인프라우드 조직 소탕"
 type: operation
 updated: 2026-04-28
 ---
-
 ## Summary
 
 The Infraud Organization takedown was a U.S. Department of Justice-led enforcement action against a transnational cybercrime forum that specialized in carding, identity theft, stolen payment data, malware and related criminal services. The District of Nevada unsealed a nine-count superseding indictment on 2018-02-07 charging 36 defendants for alleged roles in the organization.

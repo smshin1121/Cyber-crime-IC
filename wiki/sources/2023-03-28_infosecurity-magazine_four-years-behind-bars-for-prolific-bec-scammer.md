@@ -12,6 +12,7 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 source_url: https://www.infosecurity-magazine.com/news/four-years-prolific-bec-scammer/
+collection_url: "https://www.infosecurity-magazine.com/news/four-years-prolific-bec-scammer/"
 pages_updated:
   - "[[nigerian-bec-convictions-2023]]"
   - "[[us-v-okpe-obogo-bec]]"
@@ -19,6 +20,7 @@ key_findings:
   - "Infosecurity Magazine connects the sentencing to multinational BEC and extradition context."
   - "The article reiterates the victim profile, fraud methods, and prison term."
 created: 2026-04-18
+updated: "2026-04-29"
 text_status: summarized
 storage_mode: summary-only
 content_hash: sha256:0442aa4ffd5399dc39805fddcb87e107958d0925316f85ea94f64a8eb9615991

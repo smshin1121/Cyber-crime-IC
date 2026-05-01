@@ -3,6 +3,7 @@ aliases: []
 contact_point_for: []
 cooperation_partners: []
 country: "[[united-kingdom]]"
+jurisdiction: [[united-kingdom]]
 created: 2026-04-17
 established: ""
 frameworks_administered: []
@@ -29,9 +30,8 @@ sources:
 status: active
 title: "London Metropolitan Police"
 type: organization
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
-
 ## Summary
 
 **London Metropolitan Police** is a compatibility page for references to the Metropolitan Police Service in older cybercrime operation records. Use [[uk-metropolitan-police]] for the parent institution and [[uk-met-police-cyber]] for cybercrime-specific context.

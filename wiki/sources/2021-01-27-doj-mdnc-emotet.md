@@ -12,12 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 source_url: https://www.justice.gov/usao-mdnc/pr/emotet-botnet-disrupted-international-cyber-operation
+collection_url: "https://www.justice.gov/usao-mdnc/pr/emotet-botnet-disrupted-international-cyber-operation"
 pages_updated:
   - "[[emotet-takedown]]"
 key_findings:
   - "Confirms MDNC as US venue for the civil action related to Emotet infrastructure."
   - "Describes US-side operational support (search warrant execution)."
 created: 2026-04-14
+updated: "2026-04-29"
 text_status: parsed
 content_hash: sha256:bacc88f7c8ad5241c15bb95d14f32a711aee14af1db4b705a223808bafbf229d
 word_count: 1734

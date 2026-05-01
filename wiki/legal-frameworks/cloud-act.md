@@ -53,7 +53,7 @@ sources:
   - "[[2026-04-29_justice-gov_cloud-act-executive-agreements]]"
   - "[[2026-04-29_justice-gov_us-uk-data-access-agreement-enters-force]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: "2026-04-29"
 ---
 ## Summary
 
@@ -66,6 +66,14 @@ The DOJ sources explain the role of executive agreements in allowing qualifying 
 ## Boundary Notes
 
 Use this page for CLOUD Act framework references. Use [[us-uk-cloud-act-agreement]] for the specific U.S.-UK agreement, [[electronic-evidence]] for the evidence category, and [[mlat-process]] when the source concerns traditional mutual assistance rather than a direct provider-access route.
+
+## Analytical Use
+
+Within this wiki, **CLOUD Act (Clarifying Lawful Overseas Use of Data Act)** is a control node for comparing records that describe legal authority, request conditions, and limits on cross-border access to evidence. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

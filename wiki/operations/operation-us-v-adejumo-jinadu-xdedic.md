@@ -74,7 +74,7 @@ Adejumo and Jinadu (xDedic Tax-Fraud Proceeds) Enforcement Action is a defendant
 
 ## Case Context
 
-United States v. Adejumo and Jinadu is an xDedic-related tax-fraud proceeds case in which U.S.-based defendants handled money generated from stolen access and PII. It complements the Levinson case by showing a different downstream fraud architecture within the same ecosystem.
+United States v. Adejumo and Jinadu is an xDedic-related tax-fraud proceeds case in which U.S.-based defendants handled proceeds tied to stolen access and PII. It complements the Levinson case by showing a different downstream fraud architecture within the same ecosystem.
 
 ## Scope
 

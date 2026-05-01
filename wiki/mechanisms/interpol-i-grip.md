@@ -50,7 +50,7 @@ sources:
   - "[[2024-06-18_interpol_operation-first-light-2024]]"
   - "[[2024-11-27_interpol-int-fr_operation-haechi-v-5500-arrests]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -64,6 +64,14 @@ The strongest linked examples are Operation First Light and HAECHI-series record
 ## Boundary Notes
 
 Use this page when the source explicitly emphasizes INTERPOL rapid intervention or financial recovery coordination. Use [[asset-freezing]] for legal restraint of funds, [[money-mule-networks]] for the cash-out layer, and [[public-private-cooperation]] when banks or payment platforms are the main cooperation channel.
+
+## Analytical Use
+
+Within this wiki, **INTERPOL I-GRIP (Global Rapid Intervention of Payments)** is a control node for comparing records that describe the cooperation channel, coordination model, and operational dependency between agencies. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

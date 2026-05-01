@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[bulgaria]]"
+jurisdiction: [[bulgaria]]
 created: 2026-04-10
 established: 2013
 frameworks_administered:
@@ -33,7 +34,7 @@ sources:
 status: active
 title: "GDBOP Cybercrime Directorate"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

@@ -3,10 +3,11 @@ type: organization
 title: "China MPS Cyber Police"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police-cyber-function
 country: "[[china]]"
+jurisdiction: [[china]]
 parent_org: "[[china-mps]]"
 mandate: "Cybercrime and network-security policing functions associated with China's Ministry of Public Security."
 key_roles:
@@ -25,7 +26,6 @@ sources:
   - "[[2023-09-08_koreatimes-co-kr_seoul-metropolitan-police-and-chinese-police-jointly-arrest-16-voice-phishing-su]]"
   - "[[2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27-indictment]]"
 ---
-
 ## Summary
 
 **China MPS Cyber Police** is the corpus entry for cybercrime and cyber-policing functions associated with China's [[china-mps|Ministry of Public Security]]. It is not yet a fully sourced bureau-level institutional profile; current coverage is operation-led and should be read through the source context of each case.

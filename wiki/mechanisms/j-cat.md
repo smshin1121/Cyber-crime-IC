@@ -45,7 +45,7 @@ sources:
   - "[[2017-12-04_europol-europa-eu_andromeda-botnet-dismantled-in-international-cyber-operation]]"
   - "[[2016-01-13_welivesecurity_global-operation-against-dd4bc-results-in-arrests]]"
 created: 2026-04-12
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -59,6 +59,14 @@ The source corpus shows J-CAT most clearly in malware and extortion operations w
 ## Data Integrity Notes
 
 For menu classification, use this page for the standing Europol-hosted operational taskforce. Use [[joint-investigation-team]] when the record is about a formal JIT, [[eurojust-coordination-meeting]] when the record turns on judicial coordination, and [[mutual-legal-assistance]] when the issue is evidence production through formal treaty channels. J-CAT should be treated as an intelligence-led coordination layer rather than as a self-standing legal authority.
+
+## Analytical Use
+
+Within this wiki, **J-CAT — Joint Cybercrime Action Taskforce** is a control node for comparing records that describe the cooperation channel, coordination model, and operational dependency between agencies. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

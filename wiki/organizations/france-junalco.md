@@ -4,6 +4,7 @@ aliases:
 contact_point_for:
 
 country: "[[france]]"
+jurisdiction: [[france]]
 created: 2026-04-10
 established: 2019
 headquarters: "Paris, France"
@@ -26,7 +27,7 @@ sources:
 status: active
 title: "JUNALCO — National Jurisdiction for the Fight against Organized Crime (Cybercrime"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

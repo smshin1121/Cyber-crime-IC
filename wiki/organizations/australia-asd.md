@@ -3,10 +3,11 @@ type: organization
 title: "Australian Signals Directorate"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: signals-intelligence-cyber-agency
 country: "[[australia]]"
+jurisdiction: [[australia]]
 official_name: "Australian Signals Directorate"
 abbreviation: "ASD"
 mandate: "Australian national-security agency responsible for foreign signals intelligence, cyber security, and authorised offensive cyber operations."
@@ -22,7 +23,6 @@ sources:
   - "[[2026-04-29_asd-gov-au_about-australian-signals-directorate]]"
   - "[[2026-04-29_asd-gov-au_cyber-security]]"
 ---
-
 ## Summary
 
 The **Australian Signals Directorate (ASD)** is Australia's signals-intelligence and cyber-security agency. In this corpus, ASD is primarily relevant as the parent institution for national cyber-security leadership through ASD's Australian Cyber Security Centre (ACSC), and as a national-security cyber actor that can inform, protect, and disrupt within Australian legal authorities.

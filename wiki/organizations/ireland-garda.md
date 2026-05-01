@@ -10,6 +10,7 @@ status: active
 established: 2016
 parent_org: "[[ireland-garda-siochana]]"
 country: "[[ireland]]"
+jurisdiction: [[ireland]]
 headquarters: "Dublin, Ireland"
 mandate: "Investigation and digital-forensics support for cybercrime in Ireland."
 key_roles:
@@ -27,10 +28,9 @@ sources:
   - "[[2023-08-10_garda-ie_interpol-operation-jackal-ireland-operation-skein-update-august-2023]]"
   - "[[2024-07-16_garda-ie_interpol-operation-jackal-ireland-operation-skein-july-2024]]"
 created: 2026-04-12
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 ---
-
 ## Summary
 
 The **Garda National Cyber Crime Bureau (GNCCB)** is the cybercrime unit within [[ireland-garda-siochana|An Garda Siochana]]. Use this page for cybercrime investigation and digital-forensics context; use the parent Garda page for broader policing context.

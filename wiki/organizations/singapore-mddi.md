@@ -3,10 +3,11 @@ type: organization
 title: "Singapore Ministry of Digital Development and Information"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: ministry
 country: "[[singapore]]"
+jurisdiction: [[singapore]]
 official_name: "Ministry of Digital Development and Information"
 mandate: "Singapore ministry responsible for digital development and information policy; management context for CSA."
 key_roles:

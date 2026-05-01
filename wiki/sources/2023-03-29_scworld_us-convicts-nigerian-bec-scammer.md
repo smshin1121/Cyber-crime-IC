@@ -12,6 +12,7 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 source_url: https://www.scworld.com/brief/us-convicts-nigerian-bec-scammer
+collection_url: "https://www.scworld.com/brief/us-convicts-nigerian-bec-scammer"
 pages_updated:
   - "[[nigerian-bec-convictions-2023]]"
   - "[[us-v-okpe-obogo-bec]]"
@@ -19,6 +20,7 @@ key_findings:
   - "SC Media summarized DOJ's sentencing announcement as a BEC enforcement outcome."
   - "The report highlights the fraud modalities and the stated loss figure."
 created: 2026-04-18
+updated: "2026-04-29"
 text_status: summarized
 storage_mode: summary-only
 content_hash: sha256:db1a8728e632f4709630a08c7e9b23c966a44a105863bfa9d7480904de942350

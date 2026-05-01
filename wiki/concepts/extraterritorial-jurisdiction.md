@@ -2,7 +2,7 @@
 type: concept
 title: "Extraterritorial Jurisdiction"
 created: 2026-04-18
-updated: 2026-04-29
+updated: "2026-04-29"
 summary: "Extraterritorial jurisdiction is a state's assertion of legal authority over conduct, persons, evidence, or effects connected to another territory."
 status: active
 source_count: 3
@@ -22,6 +22,14 @@ The concept should not be treated as a shortcut around international cooperation
 ## Menu Use
 
 Use this concept where the main issue is the reach of domestic law beyond territorial borders. Use [[effects-doctrine]] when the asserted connection is harm or impact inside the forum state. Use [[territoriality-principle]] when infrastructure, suspect conduct, or victims are located inside the prosecuting state. Use [[jurisdictional-conflicts]] when overlapping claims create conflict between states or between investigative demands and local law.
+
+## Analytical Use
+
+Within this wiki, **Extraterritorial Jurisdiction** is a control node for comparing records that describe the analytical vocabulary used to compare operations, cases, and source records. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

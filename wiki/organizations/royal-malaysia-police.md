@@ -3,10 +3,11 @@ type: organization
 title: "Royal Malaysia Police"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: national-police
 country: "[[malaysia]]"
+jurisdiction: [[malaysia]]
 official_name: "Polis Diraja Malaysia"
 headquarters: "Bukit Aman, Kuala Lumpur, Malaysia"
 mandate: "Malaysia's national police force; cybercrime investigations are primarily represented in the corpus through CCID."
@@ -27,7 +28,6 @@ sources:
   - "[[2025-04-08_police-gov-sg_cross-border-operation-targeting-online-child-sexual-exploitation-activities]]"
   - "[[2025-12-01_police-gov-sg_cad-report-2024-operation-first-light]]"
 ---
-
 ## Summary
 
 The **Royal Malaysia Police (Polis Diraja Malaysia, PDRM)** is Malaysia's national police force. In the cybercrime corpus, its main operational entry is [[malaysia-police|PDRM Commercial Crime Investigation Department (CCID)]], which handles cybercrime and technology-enabled commercial crime.

@@ -36,9 +36,8 @@ Concept pages connect case-specific facts to reusable analytical vocabulary, mak
 
 ## Data Quality Notes
 
-The page is corpus-grounded and should be expanded with direct technical or legal references when used for specialist analysis.
+The page is corpus-grounded and already links to the VPNLab source cluster. Future specialist analysis can add direct technical or legal references when an operation record identifies the hosting provider, abuse-handling model, server jurisdiction, or provider-reseller relationship.
 
-This page was expanded from a structural link-preservation stub during the 2026-04-29 menu-data audit. The references below are drawn from already ingested source pages attached to linked operations, cases, or source records.
 
 ## References
 

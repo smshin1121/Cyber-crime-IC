@@ -5,6 +5,7 @@ aliases: []
 official_name: "Centre de lutte contre les criminalités numériques"
 official_name_ko: "프랑스 국가헌병대 사이버범죄 대응 센터 (C3N)"
 country: "[[france]]"
+jurisdiction: [[france]]
 org_type: national-unit
 parent_org: "[[france-gendarmerie-nationale]]"
 headquarters: "Pontoise, France"
@@ -19,7 +20,7 @@ operations_participated:
   - "[[operation-endgame-phase2]]"
   - "[[operation-kraken-ghost-platform]]"
 created: 2026-04-10
-updated: 2026-04-18
+updated: "2026-04-29"
 last_verified: 2026-04-18
 source_count: 5
 sources:

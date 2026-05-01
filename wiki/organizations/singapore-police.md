@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
   []
 country: "[[singapore]]"
+jurisdiction: [[singapore]]
 created: 2026-04-10
 established: 2015-06
 frameworks_administered:
@@ -30,7 +31,7 @@ sources:
 status: active
 title: "Singapore Police Force — Cybercrime Command"
 type: organization
-updated: 2026-04-09
+updated: "2026-04-29"
 ---
 ## Summary
 

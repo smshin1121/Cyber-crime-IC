@@ -13,6 +13,7 @@ cooperation_partners:
 - '[[first-forum-incident-response]]'
 - '[[apcert]]'
 country: '[[south-korea]]'
+jurisdiction: [[south-korea]]
 created: 2026-04-10
 established: '2009'
 frameworks_administered: []
@@ -44,9 +45,8 @@ sources: []
 status: active
 title: Korea Internet & Security Agency (KISA)
 type: organization
-updated: 2026-04-10
+updated: "2026-04-29"
 ---
-
 > [!info] Status — Active, restructured 2026-01
 > KISA remains the same legal entity (한국인터넷진흥원, established July 2009) under the [[ministry-of-science-and-ict-korea|Ministry of Science and ICT]]. It underwent an **internal organizational restructuring in January 2026** that created three new units: **AI보안산업본부 (AI Security Industry Division), 디지털위협예방본부 (Digital Threat Prevention Division), and 랜섬웨어대응팀 (Ransomware Response Team)** [5][6]. The restructuring is *highly likely* a response to the 2025 surge in large-scale personal-data breaches (KT, SKT, Coupang) and is aligned with the Lee Jae-myung administration's "AI 기본사회" national policy agenda. KrCERT/CC, FIRST/APCERT membership, and the international-cooperation function are preserved and strengthened.
 

@@ -12,6 +12,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 source_url: https://www.europol.europa.eu/media-press/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation
+collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation"
 pages_updated:
   - "[[alphabay-takedown]]"
 key_findings:
@@ -19,6 +20,7 @@ key_findings:
   - "Main suspect arrested in Thailand; two Hansa administrators arrested in Germany."
   - "Servers seized in Canada, Netherlands, Germany, and Lithuania; millions in cryptocurrencies frozen."
 created: 2026-04-14
+updated: "2026-04-29"
 text_status: parsed
 storage_mode: fulltext
 content_hash: sha256:60d66364e5f763bf6badbde532bc9dd50545e4df8c767f32c56015273b4a9858

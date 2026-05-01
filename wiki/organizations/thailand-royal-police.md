@@ -12,6 +12,7 @@ cooperation_partners:
   - "[[australia-afp]]"
   - "[[aseanapol]]"
 country: "[[thailand]]"
+jurisdiction: [[thailand]]
 created: 2026-04-10
 established: 2020-09-09
 frameworks_administered:
@@ -41,7 +42,7 @@ sources:
 status: active
 title: "Royal Thai Police — Cyber Crime Investigation Bureau"
 type: organization
-updated: 2026-04-09
+updated: "2026-04-29"
 ---
 ## Summary
 

@@ -4,6 +4,7 @@ aliases:
 contact_point_for:
   []
 country: "[[armenia]]"
+jurisdiction: [[armenia]]
 created: 2026-04-10
 established: unknown
 headquarters: "Yerevan, Armenia"
@@ -25,7 +26,7 @@ sources:
 status: active
 title: "Armenian Police — Division for Combating High-Tech Crime"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 ## Summary
 

@@ -7,6 +7,7 @@ aliases:
 contact_point_for: []
 cooperation_partners: []
 country: '[[south-korea]]'
+jurisdiction: [[south-korea]]
 created: 2026-04-10
 dissolved_date: '2026-10-02'
 established: '1948-08-02'
@@ -45,9 +46,8 @@ successor_bodies:
 - 중대범죄수사청 / 중수청 (Serious Crimes Investigation Agency) — 행정안전부 산하
 title: Supreme Prosecutors' Office (Korea) — 대검찰청
 type: organization
-updated: 2026-04-10
+updated: "2026-04-29"
 ---
-
 > [!warning] Status — Being Dissolved (effective 2026-10-02)
 > Under the **공소청법 (Prosecution Service Act)** and **중대범죄수사청법 (Serious Crimes Investigation Agency Act)** enacted in early 2026, **검찰청 / 대검찰청 will be abolished effective 2026-10-02** after 78 years of existence (est. 1948) [1][2][3]. The 수사·기소 기능 (investigation and prosecution functions) will be **separated** into two new agencies:
 >

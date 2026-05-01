@@ -12,12 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 source_url: https://www.fbi.gov/news/stories/alphabay-takedown
+collection_url: "https://www.fbi.gov/news/stories/alphabay-takedown"
 pages_updated:
   - "[[alphabay-takedown]]"
 key_findings:
   - "FBI News story describing the investigation and arrest."
   - "Confirms FBI as lead agency for US-side investigation."
 created: 2026-04-14
+updated: "2026-04-29"
 text_status: parsed
 content_hash: sha256:ebe554e0f12df8747a8ffe557366be96e8ac2ea2e0f3b668d318a416fb285223
 word_count: 1330

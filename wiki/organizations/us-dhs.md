@@ -12,6 +12,7 @@ status: active
 established: 2002-11-25
 parent_org: ""
 country: "[[united-states]]"
+jurisdiction: [[united-states]]
 headquarters: "Washington, D.C., United States"
 mandate: "Homeland security including cybercrime investigation through Homeland Security Investigations (HSI)"
 key_roles:
@@ -37,7 +38,7 @@ sources:
   - "[[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service]]"
   - "[[2024-06-07_fbi-gov_the-911-s5-cyber-threat]]"
 created: 2026-04-10
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 coverage_status: audit-normalized
 ---

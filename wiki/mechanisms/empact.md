@@ -44,7 +44,7 @@ sources:
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
   - "[[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation]]"
 created: 2026-04-12
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -58,6 +58,14 @@ The DoubleVPN and VPNLab records show the EMPACT pattern in infrastructure disru
 ## Data Integrity Notes
 
 Use EMPACT when the source explicitly frames an action as part of the EU policy-cycle priority structure. Do not use it as a substitute for the specific operational mechanism. In a single case, EMPACT may coexist with [[eurojust-coordination-meeting]], [[domain-seizure]], [[search-seizure]], [[asset-freezing]], or a formal [[joint-investigation-team]]. The menu distinction matters because EMPACT answers the strategic-coordination question, while the other mechanism pages answer the legal or technical execution question.
+
+## Analytical Use
+
+Within this wiki, **EMPACT — European Multidisciplinary Platform Against Criminal Threats** is a control node for comparing records that describe the cooperation channel, coordination model, and operational dependency between agencies. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

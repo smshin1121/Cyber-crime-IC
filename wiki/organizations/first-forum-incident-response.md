@@ -3,10 +3,11 @@ type: organization
 title: "FIRST Forum of Incident Response and Security Teams"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: incident-response-network
 country: ""
+jurisdiction: "international"
 mandate: "Global forum for incident response and security teams."
 key_roles:
   - "Provides global CERT/CSIRT cooperation context for technical incident response."
@@ -21,7 +22,6 @@ sources:
   - "[[2026-04-17_aseanrokfund-org_korea-internet-and-security-agency-kisa]]"
   - "[[2026-04-17_mddi-gov-sg_csa-agencies-under-mddi]]"
 ---
-
 ## Summary
 
 **FIRST** is the global Forum of Incident Response and Security Teams. In this repository it is used as context for CERT/CSIRT cooperation, not as a police or prosecutor organization.

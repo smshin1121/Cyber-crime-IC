@@ -39,7 +39,7 @@ sources:
   - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
   - "[[2019-12-05_thehackernews-com_fbi-puts-5-million-bounty-on-russian-hackers-behind-dridex-banking-malware]]"
 created: 2026-04-17
-updated: 2026-04-29
+updated: "2026-04-29"
 status: active
 ---
 ## Summary
@@ -53,6 +53,14 @@ GozNym, Bugat/Dridex, Zeus, and SpyEye records show why banking-trojan cases oft
 ## Menu Use
 
 Use this page where the malware's primary purpose is online-banking theft or unauthorized funds transfer. Use [[malware-ic]] for broader malware families and [[money-mule-networks]] when the source mainly documents recruitment, account control, or laundering after the initial credential theft. The distinction prevents the same operation from being reduced to either a purely technical botnet case or a purely financial-fraud case.
+
+## Analytical Use
+
+Within this wiki, **Banking Trojan Operations** is a control node for comparing records that describe the offense pattern, evidence sources, and cross-border investigative pressure points. Use the page to separate three questions that often become mixed in operation narratives: what conduct or authority is being discussed, which agency or state actor exercised it, and where the cross-border dependency appears in the evidence chain. That separation makes the menu more useful for comparing takedowns, prosecutions, extradition matters, and assistance requests without treating every related record as the same kind of cooperation event.
+
+## Integrity Notes
+
+The page groups terminology; it is not independent proof that the concept, crime type, mechanism, or framework applied in every linked matter. Operation and case pages remain the controlling records for arrests, seizures, requests, treaty use, and participating agencies. When adding future links, keep the distinction between direct source evidence, inferred analytical classification, and catalog navigation visible in the target page.
 
 ## References
 

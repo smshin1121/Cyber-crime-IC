@@ -3,10 +3,11 @@ type: organization
 title: "Romanian Prosecution Service"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: "2026-04-29"
 last_verified: 2026-04-29
 org_type: prosecution-compatibility-page
 country: "[[romania]]"
+jurisdiction: [[romania]]
 mandate: "Compatibility page for Romanian prosecution references; canonical cybercrime prosecution page is DIICOT."
 key_roles:
   - "Routes generic Romanian prosecution references to [[romania-public-ministry]] and [[romania-diicot]]."

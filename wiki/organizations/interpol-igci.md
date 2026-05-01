@@ -6,6 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: ""
+jurisdiction: "international"
 created: 2026-04-08
 established: 2015
 frameworks_administered:
@@ -46,7 +47,7 @@ sources:
 status: active
 title: "INTERPOL Global Complex for Innovation (IGCI)"
 type: organization
-updated: 2026-04-14
+updated: "2026-04-29"
 ---
 > [!info] Updated 2026-04-08
 > Added 6 new operations: Jackal, Jackal III, First Light 2024, HAECHI IV, HAECHI VI, Sentinel Africa.
