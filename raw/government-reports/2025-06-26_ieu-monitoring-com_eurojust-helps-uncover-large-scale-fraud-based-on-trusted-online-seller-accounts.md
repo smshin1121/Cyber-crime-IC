@@ -1,5 +1,5 @@
 ---
-title: "Insight EU Monitoring"
+title: "Eurojust helps dismantle fraud scheme using hijacked trusted seller accounts"
 collection_source: "INSIGHT EU Monitoring"
 collection_url: https://ieu-monitoring.com/editorial/eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts/834094/
 final_url: https://ieu-monitoring.com/editorial/eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts/834094/
@@ -21,7 +21,7 @@ source_page: wiki/sources/2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-l
 ---
 ## Summary
 
-Source metadata harvested from https://ieu-monitoring.com/editorial/eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts/834094/.
+INSIGHT EU Monitoring summarized the Eurojust-supported German-Romanian trusted-seller-account fraud case, including 405 hijacked seller accounts, seven initial arrests, and later detentions in Romania.
 
 ## Extracted Summary
 

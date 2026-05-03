@@ -99,18 +99,15 @@ edges:
     direction: undirected
 credibility_index: 4.0
 source_tier: 2
-source_count: 7
+source_count: 4
 sources:
   - "[[2016-11-30_europol-europa-eu_avalanche-network-dismantled-in-international-cyber-operation]]"
   - "[[2026-04-18_justice-gov_avalanche-network-dismantled-international-cyber-operation]]"
   - "[[2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look]]"
   - "[[2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure]]"
-  - "[[bbc-operation-avalanche]]"
-  - "[[reuters-operation-avalanche]]"
-  - "[[kaspersky-operation-avalanche]]"
 summary: "Operation Avalanche was a German-origin investigation and multinational takedown that disrupted one of the world's largest malware, phishing and spam infrastructures on 30 November 2016. Europol, Eurojust, INTERPOL, the FBI, BSI and many national partners combined judicial coordination, technical sinkholing, domain blocking and server seizures to break the network."
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-05-03
 ---
 ## Summary
 
@@ -119,7 +116,7 @@ Operation Avalanche was a German-origin investigation and multinational takedown
 > [!note] Audit Note — Participating Countries Source Verification (2026-04-21)
 > Re-verified on 2026-04-21 using TLS fingerprint impersonation (`curl_cffi` with `chrome124`) to bypass Cloudflare bot protection on the Europol press release. The full 30-country roster is embedded in the Europol page's inline JSON under `"Countries involved:"` and as a structured country-code list.
 >
-> **All 29 countries currently in `participating_countries` are explicitly named in the Europol primary source** (plus corroborating mentions across Eurojust case report PDF, BSI bund.de, BBC, Kaspersky advisory). Colombia was mistakenly removed earlier on the same day based on partial accessible-source verification and has been **reinstated**.
+> **All 29 countries currently in `participating_countries` are explicitly named in the Europol primary source** (plus corroborating mentions across Eurojust case report PDF, BSI bund.de, and Kaspersky advisory). Colombia was mistakenly removed earlier on the same day based on partial accessible-source verification and has been **reinstated**.
 >
 > Primary-source quote (Europol):
 > > "Countries involved: Armenia, Australia, Austria, Azerbaijan, Belgium, Belize, Bulgaria, Canada, Colombia, Finland, France, Germany, Gibraltar, Hungary, India, Italy, Lithuania, Luxembourg, Moldova, Montenegro, Netherlands, Norway, Poland, Romania, Singapore, Sweden, Taiwan, Ukraine, United Kingdom, United States."
@@ -175,9 +172,6 @@ The operation also illustrates a recurring cybercrime pattern: infrastructure di
 - US DOJ USAO, 2016-12-05: Avalanche Network Dismantled in International Cyber Operation.
 - Eurojust, 2017-04-01: Operation Avalanche: a closer look.
 - Federal Office for Information Security (BSI), 2026-04-18: "Avalanche" botnet infrastructure.
-- BBC, 2016-12-01: BBC: Operation Avalanche.
-- Reuters, 2024-09-18: Reuters: 'Ghost' Cybercrime Platform Dismantled in Global Operation, 51 Arrested.
-- Kaspersky, 2016-2017: Kaspersky: Operation Avalanche.
 
 ## Operational Timeline
 
@@ -185,9 +179,7 @@ The operation also illustrates a recurring cybercrime pattern: infrastructure di
 - 2016-11-30: public announcement.
 - 2016-11-30: reported enforcement endpoint.
 - 2016-11-30: public source coverage from Europol.
-- 2016-12-01: public source coverage from BBC.
 - 2016-12-05: public source coverage from US DOJ USAO.
-- 2016-2017: public source coverage from Kaspersky.
 - 2017-04-01: public source coverage from Eurojust.
 
 ## Evidence and Attribution Notes
@@ -222,7 +214,7 @@ The cooperation model is documented through named agencies and partners: Europol
 
 Operational results captured for the canonical record: 5 arrests; 221 servers seized; 800000 domains seized; Millions of infected systems and victims in 180+ countries; Global phishing, spam and malware-distribution infrastructure disrupted.
 
-The canonical source set contains 7 reference(s): 2016 11 30 Europol Europa Eu Avalanche Network Dismantled In International Cyber Operation, 2026 04 18 Justice Gov Avalanche Network Dismantled International Cyber Operation, 2017 04 01 Eurojust Europa Eu Operation Avalanche Closer Look, 2026 04 18 Bsi Bund De Avalanche Botnet Infrastructure, Bbc Operation Avalanche, Reuters Operation Avalanche, plus 1 more.
+The canonical source set contains 4 reference(s): 2016 11 30 Europol Europa Eu Avalanche Network Dismantled In International Cyber Operation, 2026 04 18 Justice Gov Avalanche Network Dismantled International Cyber Operation, 2017 04 01 Eurojust Europa Eu Operation Avalanche Closer Look, 2026 04 18 Bsi Bund De Avalanche Botnet Infrastructure.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
 No frontmatter missing-field flags are currently carried on this page.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
@@ -239,6 +231,3 @@ This keeps the canonical record analytically bounded and reproducible.
 | 2 | Avalanche network dismantled in international cyber operation | U.S. Department of Justice | repo snapshot | [[2026-04-18_justice-gov_avalanche-network-dismantled-international-cyber-operation]] |
 | 3 | Operation Avalanche: a closer look | Eurojust | 2017-04-01 | https://www.eurojust.europa.eu/publication/operation-avalanche-closer-look |
 | 4 | "Avalanche" botnet infrastructure | BSI | current | https://www.bsi.bund.de/EN/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Botnetze/Botnetz-Avalanche/botnet-avalanche_node.html |
-| 5 | Operation Avalanche supplementary coverage | BBC | 2016-2017 | see linked source page |
-| 6 | Operation Avalanche supplementary coverage | Reuters | 2016-2017 | see linked source page |
-| 7 | Operation Avalanche supplementary coverage | Kaspersky | 2016-2017 | see linked source page |

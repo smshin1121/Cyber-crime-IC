@@ -1,11 +1,11 @@
 ---
-title: "Kaspersky supports INTERPOL Operation Secure"
+title: "Operation Secure: Kaspersky supports INTERPOL in curbing infostealer threat"
 collection_source: Kaspersky
-collection_url: https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-operation-secure
-final_url: https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-operation-secure
+collection_url: https://www.kaspersky.com/about/press-releases/operation-secure-kaspersky-supports-interpol-in-curbing-infostealer-threat
+final_url: https://www.kaspersky.com/about/press-releases/operation-secure-kaspersky-supports-interpol-in-curbing-infostealer-threat
 collection_domain: kaspersky.com
 collection_date: 2026-04-27
-publish_date: 2025-04-01
+publish_date: 2025-06-11
 language: en
 status: materialized
 text_status: summarized
@@ -23,11 +23,11 @@ This record preserves the source metadata and source-page digest so the source c
 
 ## Source Digest
 
-- Title: Kaspersky supports INTERPOL Operation Secure
+- Title: Operation Secure: Kaspersky supports INTERPOL in curbing infostealer threat
 - Publisher: Kaspersky
 - Source type: press-release
-- Publication date: 2025-04-01
-- URL: https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-operation-secure
+- Publication date: 2025-06-11
+- URL: https://www.kaspersky.com/about/press-releases/operation-secure-kaspersky-supports-interpol-in-curbing-infostealer-threat
 - Linked pages: operation-secure-interpol
 
 ### Key Findings

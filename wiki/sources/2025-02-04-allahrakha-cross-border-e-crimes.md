@@ -25,6 +25,8 @@ collection_url: https://doi.org/10.15575/adliya.v18i2.38633
 collection_method: "auto-collect (OpenAlex)"
 doi: 10.15575/adliya.v18i2.38633
 created: 2026-04-10
+alignment_status: verified
+alignment_note: "Manual review: the DOI landing page/raw title uses the journal name, while the source page and raw summary identify the same Cross-Border E-Crimes article."
 text_status: summarized
 content_hash: sha256:7a0c6123470004df989cf128d6f75e75527d72d9849bd28f69b5f4c0a9c705f3
 word_count: 919

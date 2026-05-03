@@ -76,7 +76,7 @@ timeframe:
 title: "Operation Synergia II"
 title_ko: "Operation Synergia II (악성 인프라 국제 단속)"
 type: operation
-updated: 2026-04-28
+updated: 2026-05-03
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Synergia II was a massive INTERPOL-coordinated operation targeting malicious cyber infrastructure across **95 INTERPOL member countries** from April to August 2024. The operation focused on phishing, ransomware, and information stealer infrastructure. It identified approximately 30,000 suspicious IP addresses, took down 76% of them (~22,800), seized 59 servers and 43 electronic devices, and resulted in 41 arrests with 65 others still under investigation."
@@ -96,9 +96,9 @@ The operation demonstrated INTERPOL's unique capacity to coordinate global-scale
 
 ## Background
 
-Operation Synergia II was the second iteration of INTERPOL's Synergia operation series. The first Operation Synergia (September-November 2023) coordinated across 60+ countries and took down 1,300+ suspicious servers. [^synergia1]
+Operation Synergia II was the second iteration of INTERPOL's Synergia operation series. The first Operation Synergia (September-November 2023) coordinated across more than 50 INTERPOL member states, identified around 1,300 suspicious servers, and produced action on about 70 percent of those servers, according to Kaspersky's 2024-02-01 partner-side release.[^synergia1]
 
-[^synergia1]: > [!warning] Source needed — Operation Synergia (2023) statistics are not from a collected source. Only Synergia II (2024) has a collected source. Synergia II significantly expanded the scope to 95 countries and shifted focus to IP-level infrastructure disruption.
+[^synergia1]: [[kaspersky-operation-avalanche]] is retained under its legacy slug, but the linked Kaspersky article covers the original 2023 Operation Synergia background, not Operation Avalanche.
 
 ## Participating Parties
 
@@ -159,7 +159,7 @@ No specific Korean involvement was noted in the published results of Operation S
 ## Source Coverage
 
 - INTERPOL, 2024-11-06: INTERPOL cyber operation takes down 22,000 malicious IP addresses — Operation Synergia II.
-- Kaspersky, Unknown: Kaspersky: Operation Avalanche.
+- Kaspersky, 2024-02-01: Kaspersky shares cyberthreat data with INTERPOL in operation to disrupt transnational cybercrime (original Operation Synergia background).
 - Kaspersky, 2024-11-05: Kaspersky supports INTERPOL's Operation Synergia II.
 - Group-IB, 2024-11-06: Group-IB supports INTERPOL Operation Synergia II.
 - Ars Technica, 2024-11-07: INTERPOL operation takes down 22,000 malicious IP addresses.
@@ -172,7 +172,7 @@ No specific Korean involvement was noted in the published results of Operation S
 - 2024-11-05: public source coverage from Kaspersky.
 - 2024-11-06: public source coverage from Group-IB, INTERPOL.
 - 2024-11-07: public source coverage from Ars Technica.
-- Unknown: public source coverage from Kaspersky.
+- 2024-02-01: Kaspersky background source coverage for the original Operation Synergia series.
 
 ## Legal and Procedural Posture
 
@@ -185,6 +185,7 @@ No specific Korean involvement was noted in the published results of Operation S
 - 22,800 malicious IP addresses taken down (76% of ~30,000 identified)
 - 59 servers and 43 electronic devices seized; 41 arrests
 - Strong private sector partnership (Group-IB, Trend Micro, Kaspersky, Team Cymru)
+- Kaspersky's 2024-02-01 release supports background facts about the original 2023 Operation Synergia series; it does not support Synergia II enforcement totals.
 - INTERPOL press release announcing the results of Operation Synergia II (April-August 2024), a massive infrastructure-focused operation targeting phishing, ransomware, and information stealer infrastructure across 95 INTERPOL member countries.
 - The operation took down 22,800 malicious IP addresses, seized 59 servers and 43 devices, and resulted in 41 arrests.
 - INTERPOL's Operation Synergia II ran from 1 April to 31 August 2024 and specifically targeted phishing, ransomware, and information stealer infrastructure.
@@ -211,7 +212,7 @@ The cooperation model is visible primarily through the lead/coordinating agencie
 
 Operational results captured for the canonical record: 41 arrests; 59 servers seized.
 
-The canonical source set contains 5 reference(s): 2024 11 06 Interpol Operation Synergia Ii, Kaspersky Operation Avalanche, 2024 11 05 Kaspersky Com Interpol Operation Synergia Ii, 2024 11 06 Group Ib Com Group Ib Supports Interpol Operation Synergia Ii, 2024 11 07 Arstechnica Com Interpol Operation Synergia Ii 22000 Malicious Ips.
+The canonical source set contains 5 reference(s): 2024 11 06 Interpol Operation Synergia Ii, Kaspersky Shares Cyberthreat Data With Interpol In Operation To Disrupt Transnational Cybercrime, 2024 11 05 Kaspersky Com Interpol Operation Synergia Ii, 2024 11 06 Group Ib Com Group Ib Supports Interpol Operation Synergia Ii, 2024 11 07 Arstechnica Com Interpol Operation Synergia Ii 22000 Malicious Ips.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
 No frontmatter missing-field flags are currently carried on this page.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
@@ -225,7 +226,7 @@ This keeps the canonical record analytically bounded and reproducible.
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | INTERPOL cyber operation takes down 22,000 malicious IP addresses — Operation Synergia II | INTERPOL | 2024-11-06 | https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses |
-| [2] | Kaspersky: Operation Avalanche | Kaspersky | Unknown | https://www.kaspersky.com/about/press-releases/kaspersky-shares-cyberthreat-data-with-interpol-in-operation-to-disrupt-transnational-cybercrime |
+| [2] | Kaspersky shares cyberthreat data with INTERPOL in operation to disrupt transnational cybercrime | Kaspersky | 2024-02-01 | https://www.kaspersky.com/about/press-releases/kaspersky-shares-cyberthreat-data-with-interpol-in-operation-to-disrupt-transnational-cybercrime |
 | [3] | Kaspersky supports INTERPOL's Operation Synergia II | Kaspersky | 2024-11-05 | https://www.kaspersky.com/about/press-releases/kaspersky-supports-operation-synergia-ii |
 | [4] | Group-IB supports INTERPOL Operation Synergia II | Group-IB | 2024-11-06 | https://www.group-ib.com/media-center/press-releases/operation-synergia-ii/ |
 | [5] | INTERPOL operation takes down 22,000 malicious IP addresses | Ars Technica | 2024-11-07 | https://arstechnica.com/security/2024/11/interpol-operation-synergia-ii-takes-down-22000-malicious-ip-addresses/ |

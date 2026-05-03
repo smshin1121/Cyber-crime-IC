@@ -32,12 +32,21 @@ participating_agencies:
   - "[[trend-micro]]"
 
 participating_countries:
+  - "[[brunei]]"
+  - "[[cambodia]]"
+  - "[[hong-kong]]"
   - "[[india]]"
   - "[[indonesia]]"
   - "[[japan]]"
+  - "[[kazakhstan]]"
+  - "[[laos]]"
+  - "[[macau]]"
+  - "[[malaysia]]"
+  - "[[philippines]]"
   - "[[south-korea]]"
   - "[[singapore]]"
   - "[[thailand]]"
+  - "[[vietnam]]"
 period: 3
 related_cases:
 
@@ -57,25 +66,23 @@ results:
 
   servers_seized: 41
   victims_notified: 216000
-source_count: 5
+source_count: 3
 source_tier: 2
 sources:
   - "[[2025-04-01-interpol-operation-secure-infostealer]]"
-  - "[[2025-04-01_straitstimes-com_more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-ope]]"
-  - "[[2017-04-24_freemalaysiatoday-com_interpol-finds-9000-compromised-websites]]"
   - "[[2025-04-01_kaspersky-com_kaspersky-supports-interpol-operation-secure]]"
   - "[[2025-04-01_helpnetsecurity-com_operation-secure-disrupts-global-infostealer-malware-operations]]"
 status: completed
 target_entity: "Infostealer malware infrastructure and operators across Asia-Pacific"
 timeframe:
-  announced: 2025-04-01
+  announced: 2025-06-11
   end: 2025-04-30
   ongoing: false
   start: 2025-01-01
 title: "Operation Secure (INTERPOL Infostealer Crackdown)"
 title_ko: "Operation Secure (인포스틸러 인프라 단속)"
 type: operation
-updated: 2026-04-28
+updated: 2026-05-03
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure. The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims."
@@ -108,7 +115,7 @@ Infostealers represent a growing cybercrime threat, serving as the initial acces
 
 ### Law Enforcement
 - **Lead**: [[interpol-igci|INTERPOL]] (Asia-South Pacific Cybercrime Operations Desk)
-- **26 countries**: Brunei, Cambodia, Fiji, Hong Kong (China), India, Indonesia, Japan, Kazakhstan, [[south-korea|South Korea]], Laos, Macau (China), Malaysia, Maldives, Nauru, Nepal, Papua New Guinea, Philippines, Samoa, Singapore, Solomon Islands, Sri Lanka, Thailand, Timor-Leste, Tonga, Vanuatu, Vietnam
+- **26-country Asia-Pacific coalition reported by INTERPOL**: Brunei, Cambodia, Fiji, Hong Kong (China), India, Indonesia, Japan, Kazakhstan, Kiribati, [[south-korea|South Korea]], Laos, Macau (China), Malaysia, Maldives, Nauru, Nepal, Papua New Guinea, Philippines, Samoa, Singapore, Solomon Islands, Sri Lanka, Thailand, Timor-Leste, Tonga, Vanuatu, Vietnam. INTERPOL labels the effort as 26-country; its public list contains several territories/regions, so country-page metadata tracks the subset with existing country records while the full public list is preserved here.
 
 ### Private Sector Partners
 - Group-IB
@@ -153,19 +160,16 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 
 ## Source Coverage
 
-- INTERPOL, 2025-04-01: Operation Secure.
-- straitstimes.com, 2025-04-01: More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope....
-- freemalaysiatoday.com, 2017-04-24: Interpol Finds 9000 Compromised Websites.
-- Kaspersky, 2025-04-01: Kaspersky supports INTERPOL Operation Secure.
-- Help Net Security, 2025-04-01: Operation Secure disrupts global infostealer malware operations.
+- INTERPOL, 2025-06-11: 20,000 malicious IPs and domains taken down in INTERPOL infostealer crackdown.
+- Kaspersky, 2025-06-11: Operation Secure: Kaspersky supports INTERPOL in curbing infostealer threat.
+- Help Net Security, 2025-06-11: Infostealer crackdown: Operation Secure takes down 20,000 malicious IPs and domains.
 
 ## Operational Timeline
 
 - 2025-01-01: activity or investigation start.
-- 2025-04-01: public announcement.
+- 2025-06-11: public announcement.
 - 2025-04-30: reported enforcement endpoint.
-- 2017-04-24: public source coverage from freemalaysiatoday.com.
-- 2025-04-01: public source coverage from Help Net Security, INTERPOL, Kaspersky, straitstimes.com.
+- 2025-06-11: public source coverage from Help Net Security, INTERPOL, and Kaspersky.
 
 ## Legal and Procedural Posture
 
@@ -174,14 +178,13 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 
 ## Evidence and Attribution Notes
 
-- INTERPOL source referenced by Operation Secure
+- INTERPOL reported that Operation Secure ran from January to April 2025 and was publicly announced on 2025-06-11.
 - Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure.
 - The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims.
 - Kaspersky described Operation Secure as an Asia-Pacific crackdown on infostealer infrastructure across 26 countries.
 - The release attributed 20,000-plus malicious IPs and domains disrupted and more than 216,000 victim notifications to the operation.
 - Kaspersky described **Operation Secure** as a 26-country Asia-Pacific enforcement action against infostealer infrastructure.
-- Help Net Security reported that Operation Secure disrupted more than 20,000 malicious IPs and domains and led to 32 arrests.
-- The story framed the operation as a successor to INTERPOL's larger infrastructure-disruption model.
+- Help Net Security reported the same 20,000-plus takedown figure, 41 server seizures, 32 arrests, and 216,000 victim notifications.
 
 <!-- SOURCE_ENRICHMENT_END -->
 
@@ -195,7 +198,7 @@ The cooperation model is visible primarily through the lead/coordinating agencie
 
 Operational results captured for the canonical record: 32 arrests; 41 servers seized; 216000 victims notified.
 
-The canonical source set contains 5 reference(s): 2025 04 01 Interpol Operation Secure Infostealer, 2025 04 01 Straitstimes Com More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope, 2017 04 24 Freemalaysiatoday Com Interpol Finds 9000 Compromised Websites, 2025 04 01 Kaspersky Com Kaspersky Supports Interpol Operation Secure, 2025 04 01 Helpnetsecurity Com Operation Secure Disrupts Global Infostealer Malware Operations.
+The canonical source set contains 3 reference(s): 2025 04 01 Interpol Operation Secure Infostealer, 2025 04 01 Kaspersky Com Kaspersky Supports Interpol Operation Secure, 2025 04 01 Helpnetsecurity Com Operation Secure Disrupts Global Infostealer Malware Operations.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
 No frontmatter missing-field flags are currently carried on this page.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
@@ -208,8 +211,6 @@ This keeps the canonical record analytically bounded and reproducible.
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Operation Secure | INTERPOL | 2025-04-01 |  |
-| [2] | More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope... | straitstimes.com | 2025-04-01 | https://www.straitstimes.com/singapore/more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-operation |
-| [3] | Interpol Finds 9000 Compromised Websites | freemalaysiatoday.com | 2017-04-24 | https://www.freemalaysiatoday.com/category/nation/2017/04/24/interpol-finds-9000-compromised-websites |
-| [4] | Kaspersky supports INTERPOL Operation Secure | Kaspersky | 2025-04-01 | https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-operation-secure |
-| [5] | Operation Secure disrupts global infostealer malware operations | Help Net Security | 2025-04-01 | https://www.helpnetsecurity.com/2025/04/01/operation-secure-interpol-infostealer/ |
+| [1] | 20,000 malicious IPs and domains taken down in INTERPOL infostealer crackdown | INTERPOL | 2025-06-11 | https://www.interpol.int/en/News-and-Events/News/2025/20-000-malicious-IPs-and-domains-taken-down-in-INTERPOL-infostealer-crackdown |
+| [2] | Operation Secure: Kaspersky supports INTERPOL in curbing infostealer threat | Kaspersky | 2025-06-11 | https://www.kaspersky.com/about/press-releases/operation-secure-kaspersky-supports-interpol-in-curbing-infostealer-threat |
+| [3] | Infostealer crackdown: Operation Secure takes down 20,000 malicious IPs and domains | Help Net Security | 2025-06-11 | https://www.helpnetsecurity.com/2025/06/11/operation-secure-cybercrime-infostealer-crackdown/ |

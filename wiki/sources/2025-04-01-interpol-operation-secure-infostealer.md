@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Operation Secure"
+title: "20,000 malicious IPs and domains taken down in INTERPOL infostealer crackdown"
 raw_path: raw/news/2025-04-01-interpol-operation-secure-infostealer.md
 source_type: press-release
 publisher: INTERPOL
@@ -14,7 +14,9 @@ sensitivity: public
 pages_updated:
   - operation-secure-interpol
 key_findings:
-  - "INTERPOL source referenced by Operation Secure"
+  - "INTERPOL reported that Operation Secure ran from January to April 2025 and targeted infostealer infrastructure across the Asia-Pacific region."
+  - "The action involved law enforcement agencies from 26 countries and private-sector partners Group-IB, Kaspersky and Trend Micro."
+  - "Reported results included more than 20,000 malicious IPs/domains taken down, 41 servers seized, 32 arrests, over 100 GB of data seized, and 216,000 victims or potential victims notified."
 collection_url: https://www.interpol.int/en/News-and-Events/News/2025/20-000-malicious-IPs-and-domains-taken-down-in-INTERPOL-infostealer-crackdown
 created: 2026-04-17
 text_status: summarized
@@ -28,4 +30,4 @@ updated: 2026-04-29
 ---
 ## Summary
 
-Compatibility stub for the INTERPOL source referenced by [[operation-secure-interpol]].
+INTERPOL's 2025-06-11 release is the anchor source for [[operation-secure-interpol]]. It reports that Operation Secure ran from January to April 2025 and targeted infostealer malware infrastructure across the Asia-Pacific region with support from Group-IB, Kaspersky and Trend Micro.

@@ -81,6 +81,14 @@ GENERIC_RAW_TITLES = {
     "web application security, testing, & scanning - portswigger",
 }
 
+ALIGNMENT_OK_STATUSES = {
+    "verified",
+    "duplicate-alias",
+    "index-item",
+    "localized-title",
+    "raw-fetch-generic-ok",
+}
+
 
 @dataclass(frozen=True)
 class AlignmentRow:
@@ -229,6 +237,8 @@ def classify_source(path: Path) -> AlignmentRow:
     publisher = str(meta.get("publisher") or meta.get("collection_source") or "")
     publish_date = str(meta.get("publish_date") or "")
     pages_updated = ";".join(str(item) for item in as_list(meta.get("pages_updated")))
+    reviewed_status = str(meta.get("alignment_status") or "").strip().lower()
+    reviewed_note = str(meta.get("alignment_note") or "").strip()
 
     if not raw_path_value:
         return AlignmentRow(
@@ -275,6 +285,45 @@ def classify_source(path: Path) -> AlignmentRow:
     actual_raw_title = raw_title(raw_post)
     raw_publish_date = str(raw_meta.get("publish_date") or "")
     score = title_score(source_title, actual_raw_title) if actual_raw_title else 0.0
+
+    if meta.get("duplicate_of"):
+        return AlignmentRow(
+            slug=slug,
+            source_path=path.relative_to(ROOT).as_posix(),
+            raw_path=raw_path_value,
+            severity="ok",
+            issue="ok",
+            title_score=f"{score:.2f}" if actual_raw_title else "",
+            source_title=source_title,
+            raw_title=actual_raw_title,
+            source_url=source_url,
+            raw_url=raw_url,
+            publisher=publisher,
+            publish_date=publish_date,
+            raw_publish_date=raw_publish_date,
+            pages_updated=pages_updated,
+            evidence="Duplicate alias points to a canonical source page; not treated as an independent URL/content mismatch.",
+        )
+
+    if reviewed_status in ALIGNMENT_OK_STATUSES:
+        return AlignmentRow(
+            slug=slug,
+            source_path=path.relative_to(ROOT).as_posix(),
+            raw_path=raw_path_value,
+            severity="ok",
+            issue="ok",
+            title_score=f"{score:.2f}" if actual_raw_title else "",
+            source_title=source_title,
+            raw_title=actual_raw_title,
+            source_url=source_url,
+            raw_url=raw_url,
+            publisher=publisher,
+            publish_date=publish_date,
+            raw_publish_date=raw_publish_date,
+            pages_updated=pages_updated,
+            evidence=reviewed_note or f"Manual alignment review marked this source as {reviewed_status}.",
+        )
+
     source_slug_tokens = url_slug_tokens(source_url)
     body_text = "\n".join(
         [
@@ -292,7 +341,11 @@ def classify_source(path: Path) -> AlignmentRow:
     generic_raw_title = is_generic_raw_title(actual_raw_title)
 
     if source_url and raw_url and normalize_url(source_url) != normalize_url(raw_url):
-        if score >= 0.45:
+        if score >= 0.95:
+            issue = "ok"
+            severity = "ok"
+            evidence = "Source and raw URLs differ, but titles match; treated as redirect/canonical URL drift."
+        elif score >= 0.45:
             issue = "source_raw_url_drift"
             severity = "review"
             evidence = "Source and raw URLs differ, but titles align; review canonical URL/redirect handling."
@@ -321,7 +374,7 @@ def classify_source(path: Path) -> AlignmentRow:
             severity = "review"
             evidence = "Source title only partially overlaps with raw title."
 
-    if issue == "ok" and source_slug_tokens and (not useful_title(actual_raw_title) or score < 0.45):
+    if issue == "ok" and score < 0.95 and source_slug_tokens and (not useful_title(actual_raw_title) or score < 0.45):
         title_tokens = tokens(source_title)
         if title_tokens:
             slug_score = len(source_slug_tokens & title_tokens) / min(len(source_slug_tokens), len(title_tokens))

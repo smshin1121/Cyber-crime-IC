@@ -17,6 +17,8 @@ key_findings:
   - "The digest restated the use of dark net marketplaces, cryptocurrency transfers, and the hawala cash-delivery model."
 collection_url: "https://www.morelaw.com/verdicts/case.asp?d=189143&s=KY"
 created: 2026-04-25
+alignment_status: verified
+alignment_note: "Manual review: MoreLaw truncates the browser/raw title, but the source title, URL, and summary refer to the same Murarka legal-case summary."
 raw_path: raw/press-releases/2025-01-17_morelaw_re-united-states-of-america-v-anurag-pramod-murarka.md
 text_status: summarized
 content_hash: sha256:a96718bd46179648df7a1ac2767001390f2d128a9e40d907faf2028ef45babb3

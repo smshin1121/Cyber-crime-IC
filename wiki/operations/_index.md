@@ -24,7 +24,7 @@ updated: 2026-04-14
 | [[operation-pleiades]] | CYB-2015-006 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[dridex-operations]] | CYB-2015-007 | 1 | completed | umbrella | 8 | 4.00 | 1 |
 | [[darkode-takedown]] | CYB-2015-051 | 1 | completed | umbrella | 5 | 3.75 | 2 |
-| [[operation-avalanche]] | CYB-2016-001 | 1 | completed | umbrella | 7 | 4.00 | 2 |
+| [[operation-avalanche]] | CYB-2016-001 | 1 | completed | umbrella | 4 | 4.00 | 2 |
 | [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | umbrella | 6 | 2.95 | 2 |
 | [[global-airport-action-day]] | CYB-2016-003 | 1 | completed | umbrella | 5 | 3.60 | 2 |
 | [[bec-nigeria-2016]] | CYB-2016-050 | 1 | completed | umbrella | 5 | 4.00 | 1 |
@@ -103,13 +103,13 @@ updated: 2026-04-14
 | [[operation-sentinel-africa]] | CYB-2025-010 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-talent]] | CYB-2025-011 | 3 | completed | umbrella | 5 | — | — |
 | [[lumma-stealer-takedown]] | CYB-2025-012 | 3 | completed | umbrella | 5 | — | — |
-| [[operation-secure-interpol]] | CYB-2025-012 | 3 | completed | umbrella | 5 | 3.45 | 2 |
+| [[operation-secure-interpol]] | CYB-2025-012 | 3 | completed | umbrella | 3 | 3.45 | 2 |
 | [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | umbrella | 5 | 3.50 | 1 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
 | [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | umbrella | 5 | 4.50 | 2 |
 | [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | umbrella | 5 | 4.60 | 2 |
 | [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | umbrella | 5 | 4.70 | 2 |
-| [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 5 | 4.50 | 2 |
+| [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | umbrella | 5 | 4.40 | 2 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |

@@ -1,5 +1,5 @@
 ---
-title: "Web Application Security, Testing, & Scanning - PortSwigger"
+title: "Andromeda botnet dismantled by international taskforce"
 collection_source: "PortSwigger (The Daily Swig)"
 collection_url: https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce
 final_url: https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce
@@ -21,7 +21,7 @@ source_page: wiki/sources/portswigger-911-s5-botnet-dismantling.md
 ---
 ## Summary
 
-Source metadata harvested from https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce.
+The Daily Swig reported that the Andromeda botnet was dismantled by an international taskforce involving the FBI, Luneburg investigators, Europol EC3, J-CAT, Eurojust, and private-sector partners. The article reports sinkholing of 1,500 malicious domains and one arrest in Belarus.
 
 ## Extracted Summary
 

@@ -1,29 +1,27 @@
 ---
 type: source
-title: "BBC: 911 S5 Botnet Dismantling"
+title: "Europol kills off shape-shifting 'Mystique' malware"
 collection_url: https://www.bbc.com/news/technology-32218381
 collection_domain: bbc.com
 source_type: news
 publisher: BBC
-author: ""
-publish_date: 2024-05-29
+author: "Dan Simmons"
+publish_date: 2015-04-09
 ingest_date: 2026-04-08
-enriched_date: 2026-04-10
+enriched_date: 2026-05-03
 language: en
 reliability: medium
-credibility: possibly-true
+credibility: confirmed
 sensitivity: public
 source_tier: 4
-pages_updated:
-  - 911-s5-botnet-takedown
+pages_updated: []
 key_findings:
-  - "The US Department of Justice on 29 May 2024 announced the dismantling of the 911 S5 residential-proxy botnet, described by officials as 'likely the world's largest botnet ever', comprising approximately 19 million compromised IP addresses across more than 190 countries (per DOJ press materials)"
-  - "YunHe Wang, a 35-year-old Chinese national, was arrested in Singapore on 24 May 2024 as the alleged administrator who ran 911 S5 from 2014 until July 2022; Wang was charged in the Eastern District of Texas with conspiracy to commit computer fraud, wire fraud, and money laundering — facing a maximum 65-year sentence if convicted on all counts"
-  - "DOJ alleges 911 S5 enabled billions of dollars of financial fraud including at least US$5.9 billion in fraudulent US pandemic-relief (EIDL/PPP) claims routed through proxies sold on 911 S5, plus bomb threats, child-exploitation material, and harassment"
-  - "Coordinated law-enforcement action seized 23 domains and more than 70 servers across the US, Singapore, Thailand and Germany; cooperation involved the FBI, DOJ, DoD Criminal Investigative Service, and the Singapore Police Force, Thai and German authorities"
-  - "The takedown illustrated the operational value of Singapore as an arrest venue for Chinese nationals suspected of cybercrime against US victims, given the absence of a US-China extradition treaty"
+  - "The linked BBC article is about the 2015 disruption of the Beebone malware, not the 2024 911 S5 residential-proxy botnet takedown."
+  - "BBC reported that Europol's European Cybercrime Centre and the FBI helped deactivate Beebone, a polymorphic malware downloader that changed its identity repeatedly to evade signature detection."
+  - "At its height in September 2014, Beebone was reported to control about 100,000 computers per day; around 12,000 victims were later asked to use clean-up tools."
+  - "The operation sinkholed nearly 100 .com, .net and .org domains and involved private security firms including Intel Security, Kaspersky Labs and Shadowserver."
 created: 2026-04-08
-updated: 2026-04-10
+updated: 2026-05-03
 raw_path: raw/news/bbc-911-s5-botnet-dismantling.md
 text_status: summarized
 content_hash: sha256:426d65151ecd5840fa4981c990b8768b122c9a75d2ae5a3366e247c85cf8613f
@@ -33,43 +31,33 @@ extraction_date: 2026-04-25
 last_fetcher: urllib
 copyright_policy: summary-only
 ---
-> [!warning] URL verification
-> The `collection_url` (`bbc.com/news/technology-32218381`) could not be verified via WebFetch or WebSearch (BBC blocks fetch; search returned no article match). The numeric ID format suggests a 2015-era BBC article, which would predate the 2024 911 S5 takedown. The original file may have mis-linked the URL during ingest. Key findings below are sourced from corroborating reporting on the same operation (Bleeping Computer, CBS News, The Hacker News, DOJ press release) and should be treated as *highly likely* accurate descriptions of the event itself, not necessarily of the BBC article behind this URL.
+> [!warning] Legacy slug
+> This file was originally ingested under a `911-s5-botnet-dismantling` slug, but the linked BBC URL is a 2015 Beebone article. The source metadata has been corrected so the page matches the URL. It should not be used as evidence for the 911 S5 takedown.
 
 ## Source
 
 - **Publisher**: BBC
 - **URL**: <https://www.bbc.com/news/technology-32218381>
-- **Published**: 2024-05-29 (assumed — date of DOJ announcement; BBC article itself not retrievable)
-- **Source Tier**: 4 (mainstream generalist news, unverified URL)
+- **Published**: 2015-04-09
+- **Source Tier**: 4 (mainstream generalist news)
 - **Reliability**: medium
-- **Credibility**: possibly-true (URL unverifiable; content inferred from parallel reporting)
-- **Operations referenced**: [[911-s5-botnet-takedown|911 S5 Botnet Takedown]]
+- **Credibility**: confirmed for the linked BBC page
+- **Operations referenced**: none currently
 
 ## Summary
 
-This source was originally filed as BBC coverage of the **911 S5 residential-proxy botnet takedown**. The DOJ announcement on 29 May 2024 described 911 S5 as *almost certainly* the largest botnet ever dismantled by number of infected IPs — ~19 million compromised devices across 190+ countries, operated from 2014 to mid-2022 by a Chinese national, YunHe Wang, who was arrested in Singapore on 24 May 2024.
+The BBC article covers the 2015 disruption of **Beebone**, a polymorphic malware downloader described as changing its identity many times per day to evade signature-based detection. It reports cooperation between Europol's European Cybercrime Centre and the FBI, with assistance from private security firms including Intel Security, Kaspersky Labs and Shadowserver.
 
-The botnet enabled fraudulent access to US pandemic-relief programs (with estimated US$5.9 billion in EIDL/PPP claims attributable to 911 S5 proxies), as well as bomb threats, CSAM distribution, and targeted harassment campaigns. Coordinated seizures took down 23 domains and 70+ servers.
+The linked article does **not** describe the 2024 911 S5 residential-proxy botnet takedown. Any 911 S5 analysis should instead use the DOJ, FBI, Treasury, BleepingComputer, The Hacker News, or other source pages that directly cover YunHe Wang and 911 S5.
 
-## Why this source matters
+## Evidence Notes
 
-For the IC analysis on [[911-s5-botnet-takedown]], a BBC article would provide mainstream-media corroboration of the DOJ indictment and would be relevant for European audience reach. However, because the URL cannot be verified, this entry currently serves as a placeholder — the parallel coverage from BleepingComputer, CBS News, and The Hacker News carries the weight of evidence.
-
-## Cross-reference
-
-| Source | Confirms |
-|---|---|
-| US DOJ press release (2024-05-29) | Indictment, arrest, charges, scale |
-| BleepingComputer | 19M IPs, 23 domains, 70+ servers |
-| CBS News | YunHe Wang, Singapore arrest |
-| [[the-hacker-news-911-s5-botnet-dismantling]] (if exists) | Technical details |
+- Beebone controlled roughly 100,000 computers per day at its September 2014 peak.
+- The action sinkholed nearly 100 domains and asked around 12,000 victims to use clean-up tools.
+- The source is relevant to botnet sinkholing and public-private cooperation, but not to 911 S5.
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | (Unverified) 911 S5 Botnet Dismantling | BBC | 2024-05-29 | https://www.bbc.com/news/technology-32218381 |
-| [2] | US Dismantles World's Largest 911 S5 Botnet with 19 Million Infected Devices | The Hacker News | 2024-05-30 | https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html |
-| [3] | Feds take down one of world's largest malicious botnets and arrest its administrator | CBS News | 2024-05-29 | https://www.cbsnews.com/news/feds-largest-malicious-botnets-arrest-administrator/ |
-| [4] | US dismantles 911 S5 residential proxy botnet used for cyberattacks, arrests admin | BleepingComputer | 2024-05-29 | https://www.bleepingcomputer.com/news/security/us-dismantles-911-s5-residential-proxy-botnet-used-for-cyberattacks-arrests-admin/ |
+| [1] | Europol kills off shape-shifting 'Mystique' malware | BBC | 2015-04-09 | https://www.bbc.com/news/technology-32218381 |

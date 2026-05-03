@@ -1,11 +1,11 @@
 ---
-title: "Web Application Security, Testing, & Scanning - PortSwigger"
+title: "Operation Lyrebird: Cybercops nab Moroccan phish-and-carding kingpin"
 collection_source: "The Daily Swig / PortSwigger"
 collection_url: https://portswigger.net/daily-swig/operation-lyrebird-cybercops-nab-moroccan-phish-and-carding-kingpin
 final_url: https://portswigger.net/daily-swig/operation-lyrebird-cybercops-nab-moroccan-phish-and-carding-kingpin
 collection_domain: portswigger.net
 collection_date: 2026-04-25
-publish_date: 2021-07-01
+publish_date: 2021-07-06
 language: en
 status: collected
 text_status: summarized
@@ -21,7 +21,7 @@ source_page: wiki/sources/2021-07_portswigger-net_operation-lyrebird-cybercops-n
 ---
 ## Summary
 
-Source metadata harvested from https://portswigger.net/daily-swig/operation-lyrebird-cybercops-nab-moroccan-phish-and-carding-kingpin.
+The Daily Swig reported that Moroccan police arrested a suspect known as Dr HeX in an investigation dubbed Operation Lyrebird. The article attributes the investigation to Moroccan Police, Group-IB threat intelligence, and INTERPOL's Cybercrime Directorate.
 
 ## Extracted Summary
 

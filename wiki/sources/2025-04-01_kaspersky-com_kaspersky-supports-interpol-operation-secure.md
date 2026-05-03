@@ -1,11 +1,11 @@
 ---
 type: source
-title: "Kaspersky supports INTERPOL Operation Secure"
+title: "Operation Secure: Kaspersky supports INTERPOL in curbing infostealer threat"
 raw_path: raw/press-releases/2025-04-01_kaspersky-com_kaspersky-supports-interpol-operation-secure.md
 source_type: press-release
 publisher: Kaspersky
 author: ""
-publish_date: 2025-04-01
+publish_date: 2025-06-11
 ingest_date: 2026-04-23
 language: en
 reliability: medium
@@ -16,7 +16,7 @@ pages_updated:
 key_findings:
   - "Kaspersky described Operation Secure as an Asia-Pacific crackdown on infostealer infrastructure across 26 countries."
   - "The release attributed 20,000-plus malicious IPs and domains disrupted and more than 216,000 victim notifications to the operation."
-collection_url: https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-operation-secure
+collection_url: https://www.kaspersky.com/about/press-releases/operation-secure-kaspersky-supports-interpol-in-curbing-infostealer-threat
 created: 2026-04-23
 text_status: summarized
 storage_mode: summary-only
@@ -31,4 +31,4 @@ Kaspersky described **Operation Secure** as a 26-country Asia-Pacific enforcemen
 
 ## Relevance to IC
 
-This source adds partner-side confirmation for [[operation-secure-interpol]].
+This source adds partner-side confirmation for [[operation-secure-interpol]] and fixes the earlier stale Kaspersky URL/date metadata.

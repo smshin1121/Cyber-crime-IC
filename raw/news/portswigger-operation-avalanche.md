@@ -1,11 +1,11 @@
 ---
-title: "Web Application Security, Testing, & Scanning - PortSwigger"
+title: "The Avalanche falls: Alleged leader of international cybercrime network arrested"
 collection_source: "PortSwigger Daily Swig"
 collection_url: https://portswigger.net/daily-swig/the-avalanche-falls-alleged-leader-of-international-cybercrime-network-arrested
 final_url: https://portswigger.net/daily-swig/the-avalanche-falls-alleged-leader-of-international-cybercrime-network-arrested
 collection_domain: portswigger.net
 collection_date: 2026-04-25
-publish_date: 2019-11-12
+publish_date: 2018-02-27
 language: en
 status: collected
 text_status: summarized
@@ -21,7 +21,7 @@ source_page: wiki/sources/portswigger-operation-avalanche.md
 ---
 ## Summary
 
-Source metadata harvested from https://portswigger.net/daily-swig/the-avalanche-falls-alleged-leader-of-international-cybercrime-network-arrested.
+The Daily Swig reported that Ukrainian Genadiy Kapkanov, an alleged organiser of the Avalanche cybercrime network, was detained in Kiev after previously escaping custody. The article describes the original 25-country Avalanche operation, 800,000 blocked domains, several hundred seized servers, and potential charges in France and Germany.
 
 ## Extracted Summary
 

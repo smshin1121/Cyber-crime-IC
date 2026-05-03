@@ -5,7 +5,7 @@ collection_url: https://www.bbc.com/news/technology-30849172
 final_url: https://www.bbc.com/news/technology-30849172
 collection_domain: bbc.com
 collection_date: 2026-04-25
-publish_date: 2016-12-01
+publish_date: 2015-01-16
 language: en
 status: collected
 text_status: summarized
@@ -21,7 +21,7 @@ source_page: wiki/sources/bbc-operation-avalanche.md
 ---
 ## Summary
 
-Source metadata harvested from https://www.bbc.com/news/technology-30849172.
+Source metadata harvested from https://www.bbc.com/news/technology-30849172. This URL is a BBC article about a UK arrest connected to Sony/Xbox online-service attacks, not the 2016 Operation Avalanche takedown.
 
 ## Extracted Summary
 

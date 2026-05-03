@@ -5,7 +5,7 @@ collection_url: "https://www.polskieradio.pl/395/7789/artykul/3508265,poland-pla
 final_url: "https://www.polskieradio.pl/395/7789/artykul/3508265,poland-plays-key-role-in-european-operation-against-child-exploitation-network"
 collection_domain: polskieradio.pl
 collection_date: 2026-04-25
-publish_date: ""
+publish_date: 2025-04-09
 language: en
 status: collected
 text_status: summarized
@@ -21,7 +21,7 @@ source_page: wiki/sources/polish-radio-911-s5-botnet-dismantling.md
 ---
 ## Summary
 
-Source metadata harvested from https://www.polskieradio.pl/395/7789/artykul/3508265,poland-plays-key-role-in-european-operation-against-child-exploitation-network.
+Source metadata harvested from https://www.polskieradio.pl/395/7789/artykul/3508265,poland-plays-key-role-in-european-operation-against-child-exploitation-network. This URL covers Operation FEVER / a European child-exploitation investigation, not the 911 S5 botnet takedown.
 
 ## Extracted Summary
 

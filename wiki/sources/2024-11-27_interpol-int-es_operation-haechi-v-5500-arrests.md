@@ -18,6 +18,8 @@ key_findings:
   - "It highlighted the Korea-China dismantlement and the stablecoin scam Purple Notice."
 collection_url: https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2024/Una-operacion-de-INTERPOL-contra-la-delincuencia-financiera-obtiene-unos-resultados-record-5-500-detenciones-e-incautaciones-por-valor-de-mas-de-4
 created: 2026-04-23
+alignment_status: localized-title
+alignment_note: "Manual review: the source URL is INTERPOL's Spanish localized page for the same Operation HAECHI V release; the raw metadata stores the English page title."
 text_status: parsed
 content_hash: sha256:7e546b8a934cfa637795ba1b1e8408b4f50241ec0f18046145a9a3dbfd6b680a
 word_count: 1423

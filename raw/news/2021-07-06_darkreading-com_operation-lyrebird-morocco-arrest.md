@@ -1,8 +1,8 @@
 ---
-title: "URL Source: https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-lyrebird-morocco-arrest"
+title: "Alleged Cybercriminal Arrested in Morocco Following Interpol Probe"
 collection_source: "Dark Reading"
-collection_url: https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-lyrebird-morocco-arrest
-final_url: https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-lyrebird-morocco-arrest
+collection_url: https://www.darkreading.com/endpoint-security/alleged-cybercriminal-arrested-in-morocco-following-interpol-probe
+final_url: https://www.darkreading.com/endpoint-security/alleged-cybercriminal-arrested-in-morocco-following-interpol-probe
 collection_domain: darkreading.com
 collection_date: 2026-04-25
 publish_date: 2021-07-06
@@ -21,7 +21,7 @@ source_page: wiki/sources/2021-07-06_darkreading-com_operation-lyrebird-morocco-
 ---
 ## Summary
 
-Source metadata harvested from https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-lyrebird-morocco-arrest.
+Dark Reading reported that an alleged cybercriminal known as Dr Hex was arrested in Morocco after an Operation Lyrebird investigation involving INTERPOL's Cybercrime Directorate, Group-IB, and Moroccan Police. The article describes phishing, fraud, carding, website defacement, and phishing/carding-kit activity.
 
 ## Extracted Summary
 
@@ -32,5 +32,5 @@ Title: URL Source: https://www.darkreading.com/cyberattacks-data-breaches/interp
 - parser: plain
 - fetcher: jina
 - fetched_at: 2026-04-25T14:51:28+00:00
-- final_url: https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-lyrebird-morocco-arrest
+- final_url: https://www.darkreading.com/endpoint-security/alleged-cybercriminal-arrested-in-morocco-following-interpol-probe
 - storage_mode: summary-only

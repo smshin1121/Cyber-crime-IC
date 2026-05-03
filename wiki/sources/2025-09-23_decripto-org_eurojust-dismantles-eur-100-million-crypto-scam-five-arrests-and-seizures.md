@@ -18,6 +18,7 @@ key_findings:
   - "Decripto reported on the five arrests and searches tied to a EUR 100 million crypto investment fraud case."
   - "It described the fraudulent investment platform and the laundering path through bank accounts."
 created: 2026-04-23
+updated: 2026-05-03
 text_status: summarized
 content_hash: sha256:61e1c4b32082f4ba2f6e82f2e0852815d29035c3e23f54d9f415d382ce2b038f
 word_count: 464
@@ -28,7 +29,7 @@ copyright_policy: summary-only
 ---
 ## Source Summary
 
-Decripto reported on the September 2025 Eurojust action against a EUR 100 million crypto investment fraud scheme.
+Decripto reported on the September 2025 Eurojust action against a EUR 100 million crypto investment fraud scheme. The local raw record was corrected on 2026-05-03 after the first fetch captured a transient Decripto not-found page.
 
 ## Relevance to IC
 

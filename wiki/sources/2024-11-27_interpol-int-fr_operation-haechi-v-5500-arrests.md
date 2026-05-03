@@ -18,6 +18,8 @@ key_findings:
   - "It also described the Korea-China voice-phishing case and the use of I-GRIP."
 collection_url: https://www.interpol.int/fr/Actualites-et-evenements/Actualites/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million
 created: 2026-04-23
+alignment_status: localized-title
+alignment_note: "Manual review: the source URL is INTERPOL's French localized page for the same Operation HAECHI V release; the raw metadata stores the English page title."
 text_status: parsed
 content_hash: sha256:703e92af14cc343d6045bdf288694f13b956a291f93b381df6dec1377f755c74
 word_count: 1435

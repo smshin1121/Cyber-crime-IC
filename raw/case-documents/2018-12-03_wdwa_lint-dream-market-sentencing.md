@@ -1,5 +1,5 @@
 ---
-title: "‘Darknet’ Drug Dealer Sentenced to Five Years in Prison"
+title: "Darknet Drug Dealer Sentenced to Five Years in Prison"
 court: "U.S. District Court, Western District of Washington"
 case_number: "W.D. Wash. Dream Market sentencing"
 document_type: "sentencing announcement"
@@ -12,7 +12,7 @@ sensitivity: public
 defendant_names:
   - "Drug Dealer"
 updated: 2026-04-18
-collection_source: Justia
+collection_source: "US DOJ (Western District of Washington)"
 collection_url: https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison
 final_url: https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison
 collection_domain: justice.gov

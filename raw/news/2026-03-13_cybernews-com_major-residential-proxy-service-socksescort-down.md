@@ -1,5 +1,5 @@
 ---
-title: "Authorities disrupt major cybercrime proxy service: malware infected thousands of America’s WiFi routers"
+title: "Authorities shut down cybercrime service that sold access to 369,000 home internet connections"
 collection_source: Cybernews
 collection_url: https://cybernews.com/security/major-residential-proxy-service-socksescort-down/
 final_url: https://cybernews.com/security/major-residential-proxy-service-socksescort-down/
@@ -21,7 +21,7 @@ source_page: wiki/sources/2026-03-13_cybernews-com_major-residential-proxy-servi
 ---
 ## Summary
 
-Source metadata harvested from https://cybernews.com/security/major-residential-proxy-service-socksescort-down/.
+Cybernews reported that authorities disrupted SocksEscort, a residential proxy service that sold access to compromised home internet connections and helped malicious traffic hide behind residential IP addresses.
 
 ## Extracted Summary
 

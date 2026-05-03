@@ -17,6 +17,8 @@ key_findings:
   - "The case digest confirmed the Western District of Washington docket and the same factual basis as the DOJ release."
 collection_url: "https://www.morelaw.com/verdicts/case.asp?d=192858&n=25-MJ-59&s=WA"
 created: 2026-04-25
+alignment_status: verified
+alignment_note: "Manual review: MoreLaw truncates the browser/raw title, but the source title, URL, and summary refer to the same Santana Sandoval / Kevin Torres Velasquez case digest."
 raw_path: raw/case-documents/2025-05-09_morelaw_united-states-of-america-v-santana-sandoval-kevin-torres-velasquez.md
 text_status: summarized
 content_hash: sha256:1a81b53769c13ec66bd599df1825aa616248329b0e27796653a06222b94d72e4

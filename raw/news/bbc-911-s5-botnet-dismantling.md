@@ -5,7 +5,7 @@ collection_url: https://www.bbc.com/news/technology-32218381
 final_url: https://www.bbc.com/news/technology-32218381
 collection_domain: bbc.com
 collection_date: 2026-04-25
-publish_date: 2024-05-29
+publish_date: 2015-04-09
 language: en
 status: collected
 text_status: summarized
@@ -21,7 +21,7 @@ source_page: wiki/sources/bbc-911-s5-botnet-dismantling.md
 ---
 ## Summary
 
-Source metadata harvested from https://www.bbc.com/news/technology-32218381.
+Source metadata harvested from https://www.bbc.com/news/technology-32218381. This URL is a BBC article about the 2015 Beebone malware disruption, not the 2024 911 S5 botnet takedown.
 
 ## Extracted Summary
 

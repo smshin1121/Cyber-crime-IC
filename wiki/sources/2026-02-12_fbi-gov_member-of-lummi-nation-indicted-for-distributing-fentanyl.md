@@ -17,6 +17,8 @@ key_findings:
   - "The item preserves a distinct FBI-hosted URL for the Lummi fentanyl-distribution case."
 collection_url: https://www.fbi.gov/investigate/violent-crime/indian-country-crime/indian-country-news
 created: 2026-04-25
+alignment_status: index-item
+alignment_note: "Manual review: the FBI URL is an Indian Country News listing page; the raw text contains the 'Member of Lummi Nation Indicted for Distributing Fentanyl' item dated 2026-02-12."
 raw_path: raw/news/2026-02-12_fbi-gov_member-of-lummi-nation-indicted-for-distributing-fentanyl.md
 text_status: parsed
 content_hash: sha256:d8571cbc56c9a743e431a48eed2ce2da7b44f7ae091e5f7c7129a2cfec087263

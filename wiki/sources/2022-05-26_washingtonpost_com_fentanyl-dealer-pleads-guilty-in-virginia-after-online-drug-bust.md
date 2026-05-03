@@ -17,6 +17,8 @@ key_findings:
   - "The article highlighted controlled purchases by undercover agents, pill-pressing activity, asset forfeiture, and the defendant's use of cryptocurrency and secure messaging."
 collection_url: https://www.washingtonpost.com/dc-md-va/2022/05/26/virginia-fentanyl-plea/
 created: 2026-04-25
+alignment_status: verified
+alignment_note: "Manual review: the raw title is the article lead sentence about Akshay Kancharla rather than the headline, but the URL and summary describe the same Washington Post fentanyl plea article."
 raw_path: raw/news/2022-05-26_washingtonpost_kancharla-tampa-fentanyl-plea-virginia.md
 text_status: summarized
 content_hash: sha256:bf938181ec44e2264cb30d85069dc96775dd9e35190ae1f8f287f62728c502fc

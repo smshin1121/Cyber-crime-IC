@@ -70,6 +70,12 @@ updated: "2026-05-03"
 operation_role: follow-on
 parent_operation: ""
 summary: "Tomasz Skowron, a 29-year-old Polish national, was sentenced in the United Kingdom to 5 years in prison after Metropolitan Police investigators linked him to banking-trojan cash-out activity. The BleepingComputer report, citing London Metropolitan Police, says Skowron used his home IP address to move funds from compromised accounts; Piotr Ptach was also arrested and sentenced to 3 years for recruiting money mules."
+key_findings:
+  - "The matching source is the 2016-12-21 BleepingComputer article, not the formerly attached BBC Webstresser article."
+  - "Tomasz Skowron was sentenced to 5 years in the United Kingdom after investigators linked him to banking-trojan cash-out and money-laundering activity."
+  - "Piotr Ptach, described as helping recruit money mules, pleaded guilty and received a 3-year sentence."
+  - "The article reports approximately GBP 840,000 stolen from victims worldwide and approximately GBP 500,000 lost by two UK construction firms."
+  - "The cooperation signal is limited: the source identifies the London Metropolitan Police and banking-industry reports, but does not identify a formal joint investigation team, MLAT, Europol, INTERPOL, or Polish law-enforcement role."
 crime_types:
   - "[[banking-trojan-ic]]"
   - "[[malware-ic]]"

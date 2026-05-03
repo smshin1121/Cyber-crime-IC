@@ -5,7 +5,7 @@ collection_url: https://www.kaspersky.com/about/press-releases/kaspersky-shares-
 final_url: https://www.kaspersky.com/about/press-releases/kaspersky-shares-cyberthreat-data-with-interpol-in-operation-to-disrupt-transnational-cybercrime
 collection_domain: kaspersky.com
 collection_date: 2026-04-25
-publish_date: ""
+publish_date: 2024-02-01
 language: en
 status: collected
 text_status: summarized
@@ -21,7 +21,7 @@ source_page: wiki/sources/kaspersky-operation-avalanche.md
 ---
 ## Summary
 
-Source metadata harvested from https://www.kaspersky.com/about/press-releases/kaspersky-shares-cyberthreat-data-with-interpol-in-operation-to-disrupt-transnational-cybercrime.
+Kaspersky reported its participation in INTERPOL's original Operation Synergia, which ran from September to November 2023 across more than 50 INTERPOL member states and targeted malicious infrastructure used for phishing, malware, and ransomware attacks.
 
 ## Extracted Summary
 
