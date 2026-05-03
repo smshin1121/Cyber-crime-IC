@@ -1,120 +1,38 @@
 ---
-bilateral_agreements: []
-central_authority:
-  budapest: Cyber Crime Division of the Hellenic Police (Διεύθυνση Δίωξης Ηλεκτρονικού
-    Εγκλήματος)
-  mlat: Hellenic Ministry of Justice
-cooperation_assessment: Greece is *likely* a medium-capacity EU cooperation partner.
-  It ratified the Budapest Convention relatively late (2017) via Law 4411/2016, which
-  simultaneously transposed EU Directive 2013/40/EU on attacks against information
-  systems. The Hellenic Police Cyber Crime Division operates the 24/7 Point of Contact.
 created: 2026-04-10
-cybercrime_legislation:
-  data_retention: Regulated under EU framework; subject to CJEU rulings
-  primary_law: Law 4411/2016 (ratifying Budapest Convention and transposing EU Directive
-    2013/40/EU); Greek Criminal Code Arts. 370B-370E
-  primary_law_date: '2016-08-03'
-  procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
-ic_capacity:
-  24_7_availability: true
-  avg_mlat_response_days: unknown
-  digital_forensics: medium
-  english_proficiency: medium
-  rating: medium
+ic_capacity: not-assessed
 iso_code: GR
-key_agencies: []
-last_verified: '2026-04-10'
-legal_system: civil-law
-notable_cases: []
+last_verified: 2026-05-03
+legal_system: not-assessed
 operations_participated:
-- '[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]'
+  - "[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]"
 region: southern-europe
 source_count: 0
-sources: []
-title: Hellenic Republic
+sources:
+  []
+title: "Hellenic Republic"
 treaty_memberships:
-- date: '2017-01-25'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: ''
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: unknown
+  - not-assessed
 type: country
-updated: 2026-04-21
+updated: 2026-05-03
+status: needs-official-source-ingestion
+assessment_confidence: limited
+verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---
-
 ## Summary
 
-Greece became the **52nd State Party** to the [[budapest-convention|Budapest Convention]] when it deposited its instrument of ratification in 2017, following the enactment of **Law 4411/2016**. This single omnibus law simultaneously ratified the Budapest Convention and its First Additional Protocol, and transposed **EU Directive 2013/40/EU** on attacks against information systems.
+Hellenic Republic is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this jurisdiction.
 
-The **Hellenic Police Cyber Crime Division** (Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος) is the primary operational cybercrime agency and operates Greece's 24/7 Point of Contact.
+## Verification Status
 
-## Legal Framework for Cybercrime
+No direct country-profile source is linked in this repository for this page. As of 2026-05-03, legal-system, central-authority, treaty-membership, cybercrime-capacity, and national-agency claims are marked `not-assessed` rather than inferred from geography, operation participation, or prior unsourced prose.
 
-### Substantive Criminal Law
+## Corpus Relationships
 
-- **Law 4411/2016** (published in Government Gazette, 3 August 2016)
-  - Ratified Budapest Convention
-  - Ratified First Additional Protocol (racism/xenophobia)
-  - Transposed EU Directive 2013/40/EU (replacing Framework Decision 2005/222/JHA)
-- **Greek Criminal Code**: Articles 370B–370E cover computer-related offences
+| Linked operation | Verification role |
+|---|---|
+| [[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]] | Relationship edge retained from operation/case metadata; use the operation page and its references for claim-level verification. |
 
-### Procedural Powers
+## Follow-up Source Targets
 
-- Greek Code of Criminal Procedure provides search/seizure, production orders, and interception
-- EU European Investigation Order (EIO) available for EU Member State requests
-
-## Treaty Memberships
-
-| Framework | Status | Date | Notes |
-|-----------|--------|------|-------|
-| [[budapest-convention]] | Party | 2017-01-25 | 52nd State Party |
-| First Additional Protocol (Xenophobia/Racism) | Party | 2017 | Via Law 4411/2016 |
-| [[second-additional-protocol]] | unknown | — | |
-| EU European Investigation Order | Participating | 2017 | |
-
-## Key Agencies
-
-### Hellenic Police Cyber Crime Division
-- Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος
-- Primary cybercrime investigation authority
-- 24/7 Point of Contact for Budapest Convention
-
-### Hellenic Data Protection Authority
-- Supervises data protection compliance
-
-### National Cybersecurity Authority
-- Ministry of Digital Governance; strategic and policy coordination
-
-## Cooperation Track Record
-
-- Integrated into **Europol EC3** and **Eurojust**
-- Participates in Budapest Convention **[[24-7-network]]**
-- EU European Investigation Order for intra-EU requests
-
-## Capacity Assessment
-
-- Rating: *likely* medium
-- 24/7 availability: *highly likely* true
-- Digital forensics: *likely* medium
-- English proficiency: *likely* medium for formal correspondence
-
-## Contradictions & Open Questions
-
-- What is Greece's signature/ratification status of the Second Additional Protocol?
-- How active is Greece as a requesting state vs. requested state in cybercrime MLA?
-- What is the current staffing of the Hellenic Police Cyber Crime Division?
-
-## References
-
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
-| 1 | Budapest Convention — Chart of Signatures and Ratifications (CETS 185) | Council of Europe | Current | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
-| 2 | Ratification by Greece of the Budapest Convention on Cybercrime and its Protocol on Xenophobia and Racism | Council of Europe | 2017 | https://www.coe.int/en/web/cybercrime/-/ratification-by-greece-to-the-budapest-convention-on-cybercrime-and-its-protocol-on-xenophobia-and-racism |
-| 3 | NATLEX — Law N° 4411 of 2016 ratifying the Convention of the Council of Europe on Cybercrime | International Labour Organization (NATLEX) | 2016 | https://ilo.org/dyn/natlex/natlex4.detail?p_classification=15.05&p_count=2&p_isn=104604&p_lang=en |
+The next reliable sources for this page are official national police or prosecutor cybercrime pages, justice-ministry mutual-assistance pages, Budapest Convention or UN treaty-status records, and primary operation releases naming the country. Until those are linked, use this page for navigation and relationship tracing only; do not use it as authority for legal-system detail, MLAT performance, 24/7 contact availability, or national cyber-investigative maturity.

@@ -8,6 +8,9 @@ case_type: prosecution
 status: convicted
 crime_charged:
   - "[[wire-fraud-statute]]"
+  - "[[online-fraud-ic]]"
+  - "[[cybercrime-forum-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Oluwarotimi Ogunlana"
     nationality: "American or U.S.-based"
@@ -57,6 +60,10 @@ This case page preserves a defendant-level or filing-level view for **United Sta
 ## Cooperation Notes
 
 The page is intentionally limited to the facts already represented in its metadata and 1 cited source record(s): jurisdiction, charged conduct, cooperating agencies, legal frameworks, and any identified MLAT, extradition, foreign-evidence, foreign-arrest, or asset-freezing elements. It supports comparison across xDedic, AlphaBay, Silk Road, and other dark-web prosecution clusters while avoiding unsupported expansion beyond the cited record.
+
+## Classification Note
+
+The statutory charge recorded for this defendant is wire fraud. The cybercrime-forum and dark-web classifications are contextual tags inherited from the xDedic marketplace enforcement set, not separate statutory counts.
 
 ## References
 

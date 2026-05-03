@@ -34,7 +34,7 @@ source_count: 1
 sources:
   - "[[2024-06-26_justice-gov_united-states-v-victor-hernandez]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-05-02
 summary: "ARMED DARK WEB DRUG TRAFFICKER SENTENCED TO OVER A DECADE IN FEDERAL PRISON is documented in the linked source material. Victor Hernandez (Armed Dark Web Trafficker) Enforcement Action is a follow-on operation catalog record tied to Us V Hernandez Dark Web. Available source coverage includes US DOJ (Eastern District of Michigan)."
 ---
 ## Summary
@@ -60,7 +60,9 @@ ARMED DARK WEB DRUG TRAFFICKER SENTENCED TO OVER A DECADE IN FEDERAL PRISON is d
 
 ## Evidence and Attribution Notes
 
-
+- The cited source set is treated as the controlling public record for this page; no additional filing-level evidence is asserted beyond the listed references and metadata.
+- Current metadata does not identify MLAT requests, extradition, foreign-evidence transfers, foreign arrests, or asset-freezing elements.
+- Comparative use should preserve the single-source limitation and avoid inferring that absent cooperation fields prove no cooperation occurred.
 
 ## References
 

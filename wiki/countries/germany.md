@@ -79,7 +79,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-03
 ---
 
 ## Summary
@@ -188,12 +188,12 @@ Germany has served as the primary infrastructure host for major operations:
 Korea-Germany cybercrime cooperation is *likely* conducted primarily through multilateral channels:
 
 - **Europol-coordinated operations:** Germany and Korea both participated in [[phobos-8base-crackdown]] (2025) and [[operation-haechi-v]] (2024)
-- **Budapest Convention:** Both parties (Germany since 2009, Korea since 2024), providing mutual MLA basis
+- **Budapest Convention:** Germany is a party (ratified 2009); Korea remains invited-to-accede and is not yet a party in the Council of Europe Treaty Office chart status dated 2026-04-25, so party-to-party Convention channels are not yet available for Germany-Korea matters
 - **EU-Korea cooperation:** Germany is a key EU member state; broader EU-Korea cooperation frameworks facilitate information sharing
 - **No known dedicated bilateral cybercrime MOU** between Korea and Germany
 
 > [!note]
-> This page is based on general knowledge of German cybercrime cooperation structures and publicly available information. No collected sources have been ingested for this country profile. Content should be verified against primary sources.
+> This page now has collected source coverage from BKA, BSI, Eurojust, and Council of Europe country-profile material. Legal-framework and data-retention statements still require claim-level checking against the listed primary or official sources.
 
 ## Contradictions & Open Questions
 
@@ -205,4 +205,4 @@ Korea-Germany cybercrime cooperation is *likely* conducted primarily through mul
 ## References
 
 > [!note]
-> This page was created based on general knowledge. No dedicated sources have been ingested (source_count: 0). Key claims should be verified against BKA annual reports, ZIT publications, and Council of Europe data.
+> Source coverage exists for this profile (source_count: 5). Remaining open claims should be checked against current BKA, ZIT Frankfurt, BfJ, and Council of Europe records before operational use.

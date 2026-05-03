@@ -25,6 +25,10 @@ extraction_date: 2026-04-27
 copyright_policy: summary-only
 collection_domain: africanews.com
 updated: 2026-04-29
+duplicate_of: "[[2025-03-24_africanews-com_cybercrime-crackdown-306-arrested-in-africa-wide-operation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation"
+duplicate_normalized_at: 2026-05-02
 ---
 ## Summary
 

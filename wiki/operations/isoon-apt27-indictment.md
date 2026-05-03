@@ -70,10 +70,9 @@ challenges_encountered:
 lessons_learned:
   - "Indictments and sanctions serve as deterrence and attribution tools even when arrests are not feasible"
   - "Multi-agency coordination (DOJ, FBI, NCIS, State, Treasury) enables comprehensive response combining criminal, diplomatic, and financial tools"
-source_count: 6
+source_count: 5
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
-  - "[[2025-03-05_opa_wu-haibo-isoon-indictment]]"
   - "[[2025-03-05_wired-com_us-charges-12-alleged-spies-in-chinas-freewheeling-hacker-for-hire-ecosystem]]"
   - "[[2025-03-06_infosecurity-magazine_us-charges-chinese-hackerforhire]]"
   - "[[2025-03-05_bleepingcomputer-com_us-charges-chinese-hackers-linked-to-critical-infrastructure-breaches]]"
@@ -134,7 +133,6 @@ South Korea is listed as a **victim country** — the South Korean foreign minis
 ## Source Coverage
 
 - US Department of Justice, 2025-03-05: Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns.
-- U.S. District Court for the District of Columbia, 2026-04-17: Page not found.
 - WIRED, 2025-03-05: US Charges 12 Alleged Spies in China's Freewheeling Hacker-for-Hire Ecosystem.
 - Infosecurity Magazine, 2025-03-06: US Charges Members of Chinese Hacker-for-Hire Group i-Soon.
 - BleepingComputer, 2025-03-05: US charges Chinese hackers linked to critical infrastructure breaches.
@@ -145,7 +143,6 @@ South Korea is listed as a **victim country** — the South Korean foreign minis
 - 2025-03-05: public announcement.
 - 2025-03-05: public source coverage from BleepingComputer, US Department of Justice, WIRED.
 - 2025-03-06: public source coverage from Infosecurity Magazine, The CyberWire.
-- 2026-04-17: public source coverage from U.S. District Court for the District of Columbia.
 
 ## Legal and Procedural Posture
 
@@ -200,8 +197,7 @@ This keeps the canonical record analytically bounded and reproducible.
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns | US Department of Justice | 2025-03-05 | https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global |
-| [2] | Page not found | U.S. District Court for the District of Columbia | 2026-04-17 | https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-global |
-| [3] | US Charges 12 Alleged Spies in China's Freewheeling Hacker-for-Hire Ecosystem | WIRED | 2025-03-05 | https://www.wired.com/story/us-charges-12-alleged-spies-in-chinas-freewheeling-hacker-for-hire-ecosystem |
-| [4] | US Charges Members of Chinese Hacker-for-Hire Group i-Soon | Infosecurity Magazine | 2025-03-06 | https://www.infosecurity-magazine.com/news/us-charges-chinese-hackerforhire/ |
-| [5] | US charges Chinese hackers linked to critical infrastructure breaches | BleepingComputer | 2025-03-05 | https://www.bleepingcomputer.com/news/security/us-charges-chinese-hackers-linked-to-critical-infrastructure-breaches/ |
-| [6] | US Justice Department charges employees of Chinese IT contractor i-Soon | The CyberWire | 2025-03-06 | https://thecyberwire.com/newsletters/daily-briefing/14/43 |
+| [2] | US Charges 12 Alleged Spies in China's Freewheeling Hacker-for-Hire Ecosystem | WIRED | 2025-03-05 | https://www.wired.com/story/us-charges-12-alleged-spies-in-chinas-freewheeling-hacker-for-hire-ecosystem |
+| [3] | US Charges Members of Chinese Hacker-for-Hire Group i-Soon | Infosecurity Magazine | 2025-03-06 | https://www.infosecurity-magazine.com/news/us-charges-chinese-hackerforhire/ |
+| [4] | US charges Chinese hackers linked to critical infrastructure breaches | BleepingComputer | 2025-03-05 | https://www.bleepingcomputer.com/news/security/us-charges-chinese-hackers-linked-to-critical-infrastructure-breaches/ |
+| [5] | US Justice Department charges employees of Chinese IT contractor i-Soon | The CyberWire | 2025-03-06 | https://thecyberwire.com/newsletters/daily-briefing/14/43 |

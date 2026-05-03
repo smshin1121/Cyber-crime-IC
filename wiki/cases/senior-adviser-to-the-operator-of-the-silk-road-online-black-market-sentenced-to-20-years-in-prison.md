@@ -40,7 +40,7 @@ source_count: 1
 sources:
   - "[[2023-07-11_justice-gov_united-states-v-roger-thomas-clark]]"
 created: 2026-04-18
-updated: "2026-04-26"
+updated: 2026-05-02
 summary: "Senior Adviser To The Operator Of The Silk Road Online Black Market Sentenced To 20 Years In Prison is documented in the linked source material. Roger Thomas Clark (Silk Road Adviser) Enforcement Action is a follow-on operation catalog record tied to Us V Roger Thomas Clark Silk Road. Available source coverage includes US DOJ (Southern District of New York)."
 ---
 ## Summary
@@ -69,6 +69,10 @@ Senior Adviser To The Operator Of The Silk Road Online Black Market Sentenced To
 
 ## Evidence and Attribution Notes
 
+- The cited source set is treated as the controlling public record for this page; no additional filing-level evidence is asserted beyond the listed references and metadata.
+- Current metadata does not identify MLAT requests, extradition, foreign-evidence transfers, foreign arrests, or asset-freezing elements.
+- Recorded cooperation mechanism metadata: Informal Cooperation.
+- Comparative use should preserve the single-source limitation and avoid inferring that absent cooperation fields prove no cooperation occurred.
 
 ## References
 

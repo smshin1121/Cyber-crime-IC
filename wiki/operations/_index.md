@@ -49,9 +49,9 @@ updated: 2026-04-14
 | [[operation-nightfury]] | CYB-2020-051 | 2 | completed | umbrella | 6 | 2.55 | 3 |
 | [[qqaazz-money-laundering-takedown]] | CYB-2020-052 | 2 | completed | umbrella | 5 | 1.88 | 3 |
 | [[darkmarket-takedown]] | CYB-2021-001 | 2 | completed | umbrella | 5 | 4.50 | 1 |
-| [[operation-secreto]] | CYB-2021-001 | 2 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-secreto]] | CYB-2021-001 | 2 | completed | umbrella | 4 | 2.28 | 2 |
 | [[operation-haechi-ii]] | CYB-2021-002 | 2 | completed | umbrella | 5 | 3.80 | 2 |
-| [[emotet-takedown]] | CYB-2021-003 | 2 | completed | umbrella | 6 | 3.50 | 1 |
+| [[emotet-takedown]] | CYB-2021-003 | 2 | completed | umbrella | 4 | 3.50 | 1 |
 | [[operation-dark-huntor]] | CYB-2021-010 | 2 | completed | umbrella | 5 | 3.50 | 2 |
 | [[operation-lyrebird]] | CYB-2021-050 | 2 | completed | umbrella | 5 | 3.55 | 2 |
 | [[doublevpn-takedown]] | CYB-2021-051 | 2 | completed | umbrella | 5 | 4.00 | 1 |
@@ -59,7 +59,7 @@ updated: 2026-04-14
 | [[operation-haechi-iii]] | CYB-2022-002 | 2 | completed | umbrella | 5 | 3.50 | 2 |
 | [[vpnlab-takedown]] | CYB-2022-002 | 3 | completed | umbrella | 5 | 4.50 | 1 |
 | [[operation-delilah]] | CYB-2022-050 | 2 | completed | umbrella | 5 | 3.75 | 1 |
-| [[black-axe-bec-2021]] | CYB-2022-052 | 3 | completed | umbrella | 5 | 4.40 | 1 |
+| [[black-axe-bec-2021]] | CYB-2022-052 | 3 | completed | umbrella | 4 | 4.40 | 1 |
 | [[marketplace-a-dekhtyarchuk-indictment]] | CYB-2022-054 | 3 | completed | umbrella | 5 | 4.20 | 1 |
 | [[franco-israeli-ceo-fraud]] | CYB-2023-001 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-jackal]] | CYB-2023-002 | 3 | completed | umbrella | 5 | 2.28 | 2 |
@@ -71,7 +71,7 @@ updated: 2026-04-14
 | [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | umbrella | 5 | 4.12 | 1 |
 | [[operation-nervone]] | CYB-2023-052 | 3 | completed | umbrella | 5 | 4.18 | 1 |
 | [[nigerian-bec-convictions-2023]] | CYB-2023-053 | 3 | completed | umbrella | 5 | 4.20 | 1 |
-| [[operation-orion-international]] | CYB-2024-001 | 3 | completed | umbrella | 5 | — | — |
+| [[operation-orion-international]] | CYB-2024-001 | 3 | completed | umbrella | 4 | — | — |
 | [[operation-cronos-phase1]] | CYB-2024-002 | 3 | completed | umbrella | 7 | 2.28 | 2 |
 | [[operation-endgame-phase1]] | CYB-2024-003 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-first-light-2024]] | CYB-2024-004 | 3 | completed | umbrella | 5 | 2.28 | 2 |
@@ -79,24 +79,24 @@ updated: 2026-04-14
 | [[operation-cronos-phase3]] | CYB-2024-006 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-synergia-ii]] | CYB-2024-007 | 3 | completed | umbrella | 5 | 3.25 | 2 |
 | [[operation-serengeti]] | CYB-2024-008 | 3 | completed | umbrella | 5 | 2.28 | 2 |
-| [[operation-haechi-v]] | CYB-2024-009 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-haechi-v]] | CYB-2024-009 | 3 | completed | umbrella | 4 | 2.28 | 2 |
 | [[operation-contender-2]] | CYB-2024-010 | 3 | completed | umbrella | 6 | — | — |
-| [[operation-red-card]] | CYB-2024-011 | 3 | completed | umbrella | 6 | — | — |
+| [[operation-red-card]] | CYB-2024-011 | 3 | completed | umbrella | 5 | — | — |
 | [[romania-phishing-takedown-2024]] | CYB-2024-012 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[fake-shopping-sites-takedown-2024]] | CYB-2024-013 | 3 | completed | umbrella | 5 | 3.25 | 2 |
 | [[911-s5-botnet-takedown]] | CYB-2024-014 | 3 | completed | umbrella | 5 | 4.00 | 2 |
 | [[operation-chakra-iii]] | CYB-2024-021 | 3 | completed | umbrella | 5 | 3.50 | 2 |
-| [[operation-morpheus]] | CYB-2024-050 | 3 | completed | umbrella | 5 | 3.75 | 2 |
-| [[zambia-golden-top-call-center]] | CYB-2024-050 | 3 | completed | umbrella | 8 | 3.20 | 3 |
+| [[operation-morpheus]] | CYB-2024-050 | 3 | completed | umbrella | 4 | 3.75 | 2 |
+| [[zambia-golden-top-call-center]] | CYB-2024-050 | 3 | completed | umbrella | 6 | 3.20 | 3 |
 | [[operation-destabilise]] | CYB-2024-051 | 3 | completed | umbrella | 5 | 1.88 | 3 |
 | [[cryptex-pm2btc-sanctions]] | CYB-2024-052 | 3 | completed | umbrella | 6 | 4.33 | 1 |
 | [[rydox-marketplace-takedown]] | CYB-2024-053 | 3 | completed | umbrella | 5 | 4.40 | 1 |
-| [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 6 | — | — |
+| [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | umbrella | 5 | — | — |
 | [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | umbrella | 5 | — | — |
-| [[isoon-apt27-indictment]] | CYB-2025-004 | 3 | ongoing | umbrella | 6 | 2.28 | 2 |
-| [[qakbot-gallyamov-indictment]] | CYB-2025-005 | 3 | ongoing | umbrella | 5 | 3.25 | 2 |
-| [[operation-endgame-phase2]] | CYB-2025-006 | 3 | completed | umbrella | 7 | 2.28 | 2 |
+| [[isoon-apt27-indictment]] | CYB-2025-004 | 3 | ongoing | umbrella | 5 | 2.28 | 2 |
+| [[qakbot-gallyamov-indictment]] | CYB-2025-005 | 3 | ongoing | umbrella | 4 | 3.25 | 2 |
+| [[operation-endgame-phase2]] | CYB-2025-006 | 3 | completed | umbrella | 6 | 2.28 | 2 |
 | [[operation-checkmate-blacksuit]] | CYB-2025-007 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-haechi-vi]] | CYB-2025-008 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[korea-cambodia-scam-repatriation]] | CYB-2025-009 | 3 | ongoing | umbrella | 5 | 2.55 | 3 |
@@ -120,10 +120,10 @@ updated: 2026-04-14
 | [[cyberbunker-takedown]] | — | 2 | completed | umbrella | 5 | 4.00 | 1 |
 | [[nemesis-market-takedown]] | — | 3 | completed | umbrella | 5 | — | — |
 | [[operation-endgame]] | — | 3 | ongoing | umbrella | 9 | — | — |
-| [[operation-heart-blocker]] | — | 3 | completed | umbrella | 4 | — | — |
+| [[operation-heart-blocker]] | — | 3 | completed | umbrella | 5 | — | — |
 | [[operation-kraken-ghost-platform]] | — | 3 | completed | umbrella | 1 | — | — |
 | [[operation-rewired]] | — | 2 | completed | umbrella | 5 | 4.50 | 1 |
-| [[operation-trojan-shield]] | — | 2 | completed | umbrella | 6 | 4.80 | 1 |
+| [[operation-trojan-shield]] | — | 2 | completed | umbrella | 4 | 4.80 | 1 |
 
 ## Absorbed Follow-On Records (974)
 

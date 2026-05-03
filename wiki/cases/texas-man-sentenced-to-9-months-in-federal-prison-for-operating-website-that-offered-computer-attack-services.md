@@ -38,7 +38,7 @@ source_count: 1
 sources:
   - "[[2024-07-15_justice-gov_united-states-v-jeremiah-sam-evans-miller]]"
 created: 2026-04-18
-updated: "2026-04-26"
+updated: 2026-05-02
 summary: "Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services is documented in the linked source material. Jeremiah Sam Evans Miller (Operation PowerOFF) Enforcement Action is a follow-on operation catalog record tied to Us V Miller Poweroff. Available source coverage includes US DOJ (Central District of California)."
 ---
 ## Summary
@@ -67,6 +67,10 @@ Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Off
 
 ## Evidence and Attribution Notes
 
+- The cited source set is treated as the controlling public record for this page; no additional filing-level evidence is asserted beyond the listed references and metadata.
+- Current metadata does not identify MLAT requests, extradition, foreign-evidence transfers, foreign arrests, or asset-freezing elements.
+- Recorded cooperation mechanism metadata: Informal Cooperation.
+- Comparative use should preserve the single-source limitation and avoid inferring that absent cooperation fields prove no cooperation occurred.
 
 ## References
 

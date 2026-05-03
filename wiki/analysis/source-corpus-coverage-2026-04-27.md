@@ -14,46 +14,45 @@ This audit checks whether every `wiki/sources` page has a separate raw/source-co
 
 | Item | Count |
 |---|---:|
-| source_pages | 4765 |
-| with_raw_path | 4765 |
-| raw_exists | 4765 |
-| with_url | 4745 |
-| official_url | 2512 |
-| nonofficial_or_no_url | 2253 |
-| without_url | 20 |
+| source_pages | 4784 |
+| with_url | 4784 |
+| with_raw_path | 4784 |
+| raw_exists | 4784 |
+| official_url | 2537 |
+| nonofficial_or_no_url | 2247 |
 
 ## Raw Status
 
 | Item | Count |
 |---|---:|
-| summary_only | 2222 |
-| fulltext | 1471 |
-| stub_or_unclear | 944 |
-| source_digest | 93 |
-| raw_body_present | 35 |
+| summary_only | 2241 |
+| fulltext | 1574 |
+| source_digest | 945 |
+| raw_body_present | 24 |
 
 ## Fetch Queue
 
 | Item | Count |
 |---|---:|
-| official | 1072 |
-| nonofficial_or_unknown | 619 |
+| nonofficial_or_unknown | 525 |
 
 ## Source Types
 
 | Item | Count |
 |---|---:|
-| press-release | 2692 |
-| news | 1808 |
+| press-release | 2697 |
+| news | 1804 |
 | court-document | 104 |
 | case-document | 23 |
+| official-guidance | 22 |
 | government-report | 20 |
 | report | 20 |
 | government | 18 |
-| official-guidance | 18 |
+| legal-text | 8 |
 | official-article | 7 |
 | official-press-release | 5 |
 | news-article | 5 |
+| treaty-document | 4 |
 | court-press-release | 3 |
 | court-record | 3 |
 | advisory | 3 |
@@ -88,6 +87,8 @@ This audit checks whether every `wiki/sources` page has a separate raw/source-co
 | country-profile | 1 |
 | infographic | 1 |
 | corporate-reference | 1 |
+| executive-report | 1 |
+| treaty-index | 1 |
 
 ## Interpretation
 
@@ -98,26 +99,6 @@ This audit checks whether every `wiki/sources` page has a separate raw/source-co
 
 ## Example Gaps
 
-### stub_or_unclear
-
-| Source | Raw Path | Publisher | URL |
-|---|---|---|---|
-| `2014-07-09_district-court-sd-new-york_united-states-v-ulbricht-2` | `raw/case-documents/2014-07-09_district-court-sd-new-york_united-states-v-ulbricht-2.md` | District Court, S.D. New York | https://www.courtlistener.com/opinion/7307490/united-states-v-ulbricht/ |
-| `2014-07-09_district-court-sd-new-york_united-states-v-ulbricht` | `raw/case-documents/2014-07-09_district-court-sd-new-york_united-states-v-ulbricht.md` | District Court, S.D. New York | https://www.courtlistener.com/opinion/7307490/united-states-v-ulbricht/ |
-| `2014-11-06_justice-gov_united-states-v-blake-benthall` | `raw/press-releases/2014-11-06_justice-gov_united-states-v-blake-benthall.md` | US DOJ (Southern District of New York) | https://www.justice.gov/usao-sdny/pr/operator-silk-road-20-website-charged-manhattan-federal-court |
-| `2014-12-18_justice-gov_united-states-v-matthew-jones` | `raw/press-releases/2014-12-18_justice-gov_united-states-v-matthew-jones.md` | US DOJ (Middle District of Florida) | https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road |
-| `2014-12-18_mdfl_matthew-jones-silk-road-sentencing` | `raw/case-documents/2014-12-18_mdfl_matthew-jones-silk-road-sentencing.md` | US DOJ (Middle District of Florida) | https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road |
-| `2015-01-07_district-court-sd-new-york_united-states-v-ulbricht-2` | `raw/case-documents/2015-01-07_district-court-sd-new-york_united-states-v-ulbricht-2.md` | District Court, S.D. New York | https://www.courtlistener.com/opinion/7311405/united-states-v-ulbricht/ |
-| `2015-01-07_district-court-sd-new-york_united-states-v-ulbricht` | `raw/case-documents/2015-01-07_district-court-sd-new-york_united-states-v-ulbricht.md` | District Court, S.D. New York | https://www.courtlistener.com/opinion/7311405/united-states-v-ulbricht/ |
-| `2015-02-24_europol-europa-eu_botnet-taken-down-through-international-law-enforcement-cooperation` | `raw/press-releases/2015-02-24_europol-europa-eu_botnet-taken-down-through-international-law-enforcement-cooperation.md` | Europol | https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation |
-| `2015-03-25_justice-gov_us-20v-20ross-20ulbricht-20indictment-pdf` | `raw/press-releases/2015-03-25_justice-gov_us-20v-20ross-20ulbricht-20indictment-pdf.md` | justice.gov | https://www.justice.gov/sites/default/files/usao-sdny/legacy/2015/03/25/US%20v.%20Ross%20Ulbricht%20Indictment.pdf |
-| `2015-04-01_europol-europa-eu_international-police-operation-targets-polymorphic-beebone-botnet` | `raw/press-releases/2015-04-01_europol-europa-eu_international-police-operation-targets-polymorphic-beebone-botnet.md` | Europol | https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet |
-| `2015-04-27_justice-gov_united-states-v-olivia-bolles` | `raw/press-releases/2015-04-27_justice-gov_united-states-v-olivia-bolles.md` | US DOJ (Middle District of Florida) | https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace |
-| `2015-04-27_mdfl_olivia-bolles-silk-road-sentencing` | `raw/case-documents/2015-04-27_mdfl_olivia-bolles-silk-road-sentencing.md` | US DOJ (Middle District of Florida) | https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace |
-| `2015-05-29_justice-gov_united-states-v-ulbricht-sentencing` | `raw/press-releases/2015-05-29_justice-gov_united-states-v-ulbricht-sentencing.md` | US DOJ (SDNY) | https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison |
-| `2015-06-01_europol-europa-eu_international-operation-dismantles-criminal-group-of-cyber-fraudsters` | `raw/press-releases/2015-06-01_europol-europa-eu_international-operation-dismantles-criminal-group-of-cyber-fraudsters.md` | Europol | https://www.europol.europa.eu/media-press/newsroom/news/international-operation-dismantles-criminal-group-of-cyber-fraudsters |
-| `2015-06-01_europol-europa-eu_major-cybercrime-ring-dismantled-by-joint-investigation-team` | `raw/press-releases/2015-06-01_europol-europa-eu_major-cybercrime-ring-dismantled-by-joint-investigation-team.md` | Europol | https://www.europol.europa.eu/media-press/newsroom/news/major-cybercrime-ring-dismantled-joint-investigation-team |
-
 ### needs_fetch
 
 | Source | Raw Path | Publisher | URL |
@@ -127,16 +108,16 @@ This audit checks whether every `wiki/sources` page has a separate raw/source-co
 | `2012-01-01_143bis-ch_swiss-coordination-unit-for-cybercrime-control-cyco-annual-report` | `raw/press-releases/2012-01-01_143bis-ch_swiss-coordination-unit-for-cybercrime-control-cyco-annual-report.md` | Fedpol | https://143bis.ch/blog/wp-content/uploads/2018/10/rechenschaftsbericht-2011-e.pdf |
 | `2013-08-12_artci-ci_loi-n-2013-451-relative-la-lutte-contre-la-cybercriminalit-journal-officiel` | `raw/press-releases/2013-08-12_artci-ci_loi-n-2013-451-relative-la-lutte-contre-la-cybercriminalit-journal-officiel.md` | Republic of Côte d'Ivoire | https://www.artci.ci/images/stories/pdf/lois/loi_2013_451.pdf |
 | `2014-02-20_cbsnews-baltimore_neb-man-charged-in-silk-road-case` | `raw/news/2014-02-20_cbsnews-baltimore_neb-man-charged-in-silk-road-case.md` | CBS News Baltimore | https://www.cbsnews.com/baltimore/news/neb-man-charged-in-silk-road-case/ |
-| `2014-07-09_district-court-sd-new-york_united-states-v-ulbricht-2` | `raw/case-documents/2014-07-09_district-court-sd-new-york_united-states-v-ulbricht-2.md` | District Court, S.D. New York | https://www.courtlistener.com/opinion/7307490/united-states-v-ulbricht/ |
-| `2014-07-09_district-court-sd-new-york_united-states-v-ulbricht` | `raw/case-documents/2014-07-09_district-court-sd-new-york_united-states-v-ulbricht.md` | District Court, S.D. New York | https://www.courtlistener.com/opinion/7307490/united-states-v-ulbricht/ |
-| `2014-11-06_justice-gov_united-states-v-blake-benthall` | `raw/press-releases/2014-11-06_justice-gov_united-states-v-blake-benthall.md` | US DOJ (Southern District of New York) | https://www.justice.gov/usao-sdny/pr/operator-silk-road-20-website-charged-manhattan-federal-court |
-| `2014-11-06_sdny_benthall-silk-road-2-complaint` | `raw/case-documents/2014-11-06_sdny_benthall-silk-road-2-complaint.md` | US DOJ (Southern District of New York) | https://www.justice.gov/usao-sdny/pr/operator-silk-road-20-website-charged-manhattan-federal-court |
 | `2014-12-05_haitianbusiness_haitian-man-maxito-pean-indicted-saratoga-233000-email-scam` | `raw/news/2014-12-05_haitianbusiness_haitian-man-maxito-pean-indicted-saratoga-233000-email-scam.md` | Haitian Business | http://haitianbusiness.com/haitian-man-maxito-pean-indicted-in-saratoga-over-233000-via-an-email-scam |
-| `2014-12-18_justice-gov_united-states-v-matthew-jones` | `raw/press-releases/2014-12-18_justice-gov_united-states-v-matthew-jones.md` | US DOJ (Middle District of Florida) | https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road |
-| `2014-12-18_mdfl_matthew-jones-silk-road-sentencing` | `raw/case-documents/2014-12-18_mdfl_matthew-jones-silk-road-sentencing.md` | US DOJ (Middle District of Florida) | https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road |
-| `2015-01-07_district-court-sd-new-york_united-states-v-ulbricht-2` | `raw/case-documents/2015-01-07_district-court-sd-new-york_united-states-v-ulbricht-2.md` | District Court, S.D. New York | https://www.courtlistener.com/opinion/7311405/united-states-v-ulbricht/ |
-| `2015-01-07_district-court-sd-new-york_united-states-v-ulbricht` | `raw/case-documents/2015-01-07_district-court-sd-new-york_united-states-v-ulbricht.md` | District Court, S.D. New York | https://www.courtlistener.com/opinion/7311405/united-states-v-ulbricht/ |
-| `2015-02-24_europol-europa-eu_botnet-taken-down-through-international-law-enforcement-cooperation` | `raw/press-releases/2015-02-24_europol-europa-eu_botnet-taken-down-through-international-law-enforcement-cooperation.md` | Europol | https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation |
+| `2015-02-25_anubisnetworks_aids-europols-european-cybercrime-centre-in-takedown-of-malicious-botnet` | `raw/press-releases/2015-02-25_anubisnetworks_aids-europols-european-cybercrime-centre-in-takedown-of-malicious-botnet.md` | AnubisNetworks | https://www.anubisnetworks.com/news/community/news/anubisnetworks-aids-europols-european-cybercrime-centre-in-takedown-of-malicious-botnet |
+| `2015-05-29_cnn-money_silk-road-ross-ulbricht-prison-sentence` | `raw/news/2015-05-29_cnn-money_silk-road-ross-ulbricht-prison-sentence.md` | CNN Money | https://money.cnn.com/2015/05/29/technology/silk-road-ross-ulbricht-prison-sentence/index.html |
+| `2015-06-11_europeanaffairs_europol-operation-triangle-cybercrime-net-dismantled` | `raw/press-releases/2015-06-11_europeanaffairs_europol-operation-triangle-cybercrime-net-dismantled.md` | European Affairs Magazine | https://www.europeanaffairs.it/blog/2015/06/11/europol-operation-triangle-cybercrime-net-dismantled/ |
+| `2015-10-13_networkworld_fbi-doj-take-out-10-million-bugat-banking-botnet` | `raw/news/2015-10-13_networkworld_fbi-doj-take-out-10-million-bugat-banking-botnet.md` | Network World | https://www.networkworld.com/article/944308/fbi-doj-take-out-10-million-bugat-banking-botnet-zeus.html/amp |
+| `2016-01-01_ilo-org_natlex-law-n-4411-of-2016-ratifying-the-convention-of-the-council-of-europe-on-c` | `raw/press-releases/2016-01-01_ilo-org_natlex-law-n-4411-of-2016-ratifying-the-convention-of-the-council-of-europe-on-c.md` | International Labour Organization (NATLEX) | https://ilo.org/dyn/natlex/natlex4.detail?p_classification=15.05&p_count=2&p_isn=104604&p_lang=en |
+| `2016-06-06_securityweek_silk-road-20-admin-sentenced-8-years-prison` | `raw/news/2016-06-06_securityweek_silk-road-20-admin-sentenced-8-years-prison.md` | SecurityWeek | https://www.securityweek.com/silk-road-20-admin-sentenced-8-years-prison/ |
+| `2016-06-08_databreachesnet_former-agilent-technologies-employee-pleads-guilty-to-damaging-ex-employers-computers` | `raw/news/2016-06-08_databreachesnet_former-agilent-technologies-employee-pleads-guilty-to-damaging-ex-employers-computers.md` | DataBreaches.net | https://databreaches.net/2016/06/08/former-agilent-technologies-employee-pleads-guilty-to-damaging-ex-employers-computers/ |
+| `2016-06-11_kron4_former-silicon-valley-employee-pleads-guilty-damaging-computers` | `raw/news/2016-06-11_kron4_former-silicon-valley-employee-pleads-guilty-damaging-computers.md` | KRON4 | https://www.kron4.com/news/former-silicon-valley-employee-pleads-guilty-to-damaging-computers/ |
+| `2016-08-01_cnn_nigerian-man-arrested-in-global-60-million-scam` | `raw/press-releases/2016-08-01_cnn_nigerian-man-arrested-in-global-60-million-scam.md` | CNN | https://money.cnn.com/2016/08/01/news/companies/nigeria-scam-arrest/index.html |
 
 ## Artifacts
 

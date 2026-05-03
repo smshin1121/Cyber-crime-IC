@@ -80,12 +80,10 @@ challenges_encountered:
 lessons_learned:
   - "Purpose-built criminal communications infrastructure can be turned into a high-value intelligence collection channel."
   - "Large-scale encrypted platform disruption is most effective when synchronized with simultaneous arrests and searches."
-source_count: 6
+source_count: 4
 sources:
-  - "[[2021-06-08-fbi-operation-trojan-shield]]"
-  - "[[2021-06-08-europol-trojan-shield-an0m]]"
   - "[[2021-06-08_fbi-gov_fbi-and-global-partners-announce-results-of-operation-trojan-shield]]"
-  - "[[2021-06-08_europol-europa-eu_800-criminals-arrested-in-biggest-ever-law-enforcement-operation-against-encrypt]]"
+  - "[[2021-06-08-europol-trojan-shield-an0m]]"
   - "[[2021-06-08_sdca_anom-enterprise-indictment]]"
   - "[[2026-04-17_justice-gov_distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeer]]"
 created: 2026-04-12
@@ -234,9 +232,7 @@ This keeps the canonical record analytically bounded and reproducible.
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | FBI and Global Partners Announce Results of Operation Trojan Shield | US Federal Bureau of Investigation | 2021-06-08 |  |
-| [2] | 800 criminals arrested in biggest ever law enforcement operation against encrypted communication | Europol | 2021-06-08 |  |
-| [3] | FBI and Global Partners Announce Results of Operation Trojan Shield | FBI | 2021-06-08 | https://www.fbi.gov/news/stories/fbi-global-partners-announce-results-of-operation-trojan-shield-060821 |
-| [4] | 800 criminals arrested in biggest ever law enforcement operation against encrypted communication | Europol | 2021-06-08 | https://www.europol.europa.eu/media-press/newsroom/news/800-criminals-arrested-in-biggest-ever-law-enforcement-operation-against-encrypted-communication |
-| [5] | FBI’s Encrypted Phone Platform Infiltrated Hundreds of Criminal Syndicates; Result is Massive Worldwide Takedown | US DOJ (Southern District of California) | 2021-06-08 | https://www.justice.gov/usao-sdca/pr/fbi-s-encrypted-phone-platform-infiltrated-hundreds-criminal-syndicates-result-massive |
-| [6] | Distributor of ANOM Hardened Encrypted Devices Sentenced to 63 Months in Prison for Racketeering Conspiracy | justice.gov | 2026-04-17 | https://www.justice.gov/usao-sdca/pr/distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeering |
+| [1] | FBI and Global Partners Announce Results of Operation Trojan Shield | FBI | 2021-06-08 | https://www.fbi.gov/news/stories/fbi-global-partners-announce-results-of-operation-trojan-shield-060821 |
+| [2] | 800 criminals arrested in biggest ever law enforcement operation against encrypted communication | Europol | 2021-06-08 | https://www.europol.europa.eu/media-press/newsroom/news/800-criminals-arrested-in-biggest-ever-law-enforcement-operation-against-encrypted-communication |
+| [3] | FBI’s Encrypted Phone Platform Infiltrated Hundreds of Criminal Syndicates; Result is Massive Worldwide Takedown | US DOJ (Southern District of California) | 2021-06-08 | https://www.justice.gov/usao-sdca/pr/fbi-s-encrypted-phone-platform-infiltrated-hundreds-criminal-syndicates-result-massive |
+| [4] | Distributor of ANOM Hardened Encrypted Devices Sentenced to 63 Months in Prison for Racketeering Conspiracy | justice.gov | 2026-04-17 | https://www.justice.gov/usao-sdca/pr/distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeering |

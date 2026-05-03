@@ -7,7 +7,8 @@ cooperation_assessment: Korea is a highly capable cooperation partner with advan
   digital forensics capacity and a strong legal framework. Korea is in the final stages
   of Budapest Convention accession — the 형사소송법 amendment implementing preservation-request
   authority passed the National Assembly in December 2025 and takes effect 2026-07-01,
-  with formal ratification pending. The October 2026 abolition of 검찰청/대검찰청 and the
+  with formal accession still pending in the Council of Europe Treaty Office status chart
+  dated 2026-04-25. The October 2026 abolition of 검찰청/대검찰청 and the
   split into 공소청 and 중대범죄수사청 is a major structural reform that will reshape Korean
   international cooperation on cybercrime. Primary challenges include language barriers
   and the multi-step domestic approval process for outgoing MLA requests.
@@ -37,7 +38,7 @@ key_agencies:
 - '[[kisa]]'
 - '[[ministry-of-science-and-ict-korea]]'
 - '[[seoul-metropolitan-police]]'
-last_verified: '2026-04-10'
+last_verified: '2026-05-03'
 legal_system: civil-law
 notable_cases: []
 operations_participated:
@@ -51,7 +52,7 @@ operations_participated:
 - '[[operation-us-v-ryan-thomas-carver]]'
 - '[[operation-us-v-evgenii-ptitsyn]]'
 region: east-asia
-source_count: 17
+source_count: 18
 sources:
 - '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
 - '[[2024-12-02-interpol-operation-haechi-v]]'
@@ -60,13 +61,14 @@ sources:
 - '[[2023-12-19-interpol-operation-haechi-iv]]'
 - '[[2025-09-25-interpol-operation-haechi-vi]]'
 - '[[2025-10-18-korea-cambodia-scam-repatriation]]'
+- '[[2026-04-17_coe-int_treaty-185-signatures-chart]]'
 title: Republic of Korea (South Korea)
 treaty_memberships:
 - date: 2023-02
   framework: '[[budapest-convention]]'
   notes: Invited February 2023; implementing legislation (형사소송법 amendment for preservation-request
-    authority) passed 2025-12-12, takes effect 2026-07-01; formal ratification pending
-    as of 2026-04-10
+    authority) passed 2025-12-12, takes effect 2026-07-01; formal accession pending
+    in the Council of Europe Treaty Office chart status dated 2026-04-25
   reservations: []
   status: invited-to-accede
 - date: ''
@@ -74,17 +76,17 @@ treaty_memberships:
   reservations: []
   status: under-review
 type: country
-updated: 2026-04-10
+updated: 2026-05-03
 ---
 
 > [!warning] Status — Major reorganization of prosecution system pending (2026-10-02)
 > On **2026-10-02** the [[supreme-prosecutors-office-korea|대검찰청 (Supreme Prosecutors' Office)]] will be **abolished** after 78 years and replaced by two new bodies: **공소청 (Prosecution Service, under 법무부)** for prosecution only, and **중대범죄수사청 / 중수청 (Serious Crimes Investigation Agency, under 행정안전부)** for investigation of six serious-crime categories including **cybercrime**. This is a fundamental restructuring of Korea's criminal justice architecture and will reshape how foreign partners engage with Korea on cybercrime MLAT, extradition, and investigative cooperation. See [[supreme-prosecutors-office-korea]] and [[spo-international-cooperation]] for details. Until 2026-09-30 the existing SPO structure remains in effect.
 >
-> **Budapest Convention status correction:** The prior version of this page stated Korea "acceded in 2024." This is **incorrect**. Korea was *invited* to accede in **February 2023** but accession was stalled because domestic implementing legislation — specifically a 형사소송법 amendment making preservation requests mandatory — had not passed. The amendment **passed the National Assembly on 2025-12-12** and takes effect **2026-07-01**; formal accession is expected to follow [15][16]. As of 2026-04-10 Korea is **not yet a party** to the Budapest Convention.
+> **Budapest Convention status correction:** The prior version of this page stated Korea "acceded in 2024." This is **incorrect**. Korea was *invited* to accede in **February 2023** but accession was stalled because domestic implementing legislation — specifically a 형사소송법 amendment making preservation requests mandatory — had not passed. The amendment **passed the National Assembly on 2025-12-12** and takes effect **2026-07-01**. The Council of Europe Treaty Office chart status dated **2026-04-25** still lists Korea without an accession or entry-into-force date, so Korea is **not yet a party** to the Budapest Convention [15][16][18].
 
 ## Summary
 
-South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the [[budapest-convention]] in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to follow shortly afterward [15][16].
+South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the [[budapest-convention]] in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01. Formal accession may follow, but the Council of Europe Treaty Office chart still recorded no Korean accession or entry-into-force date in its **2026-04-25** status snapshot [15][16][18].
 
 Korea's cybercrime enforcement architecture is undergoing **two major concurrent reorganizations** that will substantially reshape international cooperation by late 2026:
 1. **Prosecution system**: [[supreme-prosecutors-office-korea|대검찰청 abolished]] 2026-10-02, replaced by 공소청 (prosecution) and 중수청 (investigation of six serious-crime categories including cybercrime)
@@ -135,7 +137,7 @@ Primary cybercrime statute. Criminalizes:
 
 | Framework | Status | Date | Notes |
 |-----------|--------|------|-------|
-| [[budapest-convention]] | **Invited to accede (accession pending)** | Invited 2023-02 | Implementing 형사소송법 amendment passed 2025-12-12, effective 2026-07-01; formal ratification expected shortly afterward [15][16] |
+| [[budapest-convention]] | **Invited to accede (accession pending)** | Invited 2023-02 | Implementing 형사소송법 amendment passed 2025-12-12, effective 2026-07-01; no accession or entry-into-force date recorded in Council of Europe Treaty Office chart status dated 2026-04-25 [15][16][18] |
 | [[second-additional-protocol]] | Under review | - | Evaluating signature |
 | UNTOC (Palermo Convention) | Party | 2000 | MLA provisions for organized cybercrime |
 | UNCAC | Party | 2008 | Relevant for cyber-enabled corruption/fraud |
@@ -144,7 +146,7 @@ Primary cybercrime statute. Criminalizes:
 | Korea-Japan judicial assistance | In force | - | Diplomatic channels primarily |
 
 > [!warning] Budapest Convention status corrected
-> The prior version of this page stated Korea became a party in 2024. This is **incorrect**. As of 2026-04-10, Korea has been **invited but has not yet ratified**. The domestic implementing legislation (형사소송법 amendment adding mandatory preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01 [15][16]. Ratification is expected in 2026 but not yet confirmed.
+> The prior version of this page stated Korea became a party in 2024. This is **incorrect**. In the Council of Europe Treaty Office chart status dated **2026-04-25**, Korea is listed without an accession or entry-into-force date. The domestic implementing legislation (형사소송법 amendment adding mandatory preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01 [15][16][18]. Accession is expected but not yet confirmed in the Treaty Office record.
 
 > [!warning] Legal status check needed
 > Verify the complete inventory of Korea's bilateral MLATs (believed to be 30+) with the Ministry of Justice International Affairs Bureau (법무부 국제법무국).
@@ -259,7 +261,7 @@ The evolution from China-based call centres (Qingdao, 2023) to Southeast Asian s
 
 ## Political and Diplomatic Context
 
-Korea's **pending accession** to the Budapest Convention reflects a strategic decision to align with Western cybercrime cooperation frameworks. Once formal ratification is deposited (expected after the 2026-07-01 entry into force of the implementing 형사소송법 amendment), Korea will be positioned as a bridge between the Budapest Convention community and the broader Asia-Pacific region, where Convention membership remains limited [15][16][17].
+Korea's **pending accession** to the Budapest Convention reflects a strategic decision to align with Western cybercrime cooperation frameworks. Once formal accession is deposited and recorded by the Council of Europe Treaty Office, Korea will be positioned as a bridge between the Budapest Convention community and the broader Asia-Pacific region, where Convention membership remains limited [15][16][17][18].
 
 Korea also participated in the UN Cybercrime Convention negotiations, balancing its Budapest commitment with engagement in the broader multilateral process. Korean civil society (e.g., OpenNet Korea) has expressed concerns about the UN Cybercrime Convention's human-rights implications, and the Korean government's eventual ratification position is an open question.
 
@@ -277,7 +279,7 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 - What is Korea's average MLAT response time based on empirical data?
 - How will the October 2026 abolition of 대검찰청 and creation of 공소청/중수청 affect Korea's existing MLAT counterparty designations in bilateral treaties and the Budapest Convention 24/7 contact point?
 - Will the 중수청 (under 행정안전부) or the reorganized KNPA cybercrime line (under 경찰청) take operational lead on major cybercrime cases? Overlap and coordination mechanisms are unresolved.
-- When will Korea formally deposit its Budapest Convention instrument of accession? (Implementing legislation effective 2026-07-01; ratification expected but not confirmed as of 2026-04-10)
+- When will Korea formally deposit its Budapest Convention instrument of accession? (Implementing legislation effective 2026-07-01; accession expected but not recorded in the Treaty Office status chart dated 2026-04-25)
 
 ## References
 
@@ -300,3 +302,4 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [15] | 선제적 보전으로 증거가 사라지지 않도록 — 형사소송법 개정안 본회의 통과 (2025-12-12), 2026-07-01 시행 | 정책브리핑 | 2025-12 | https://www.korea.kr/news/policyNewsView.do?newsId=148958457 |
 | [16] | 사이버범죄협약(일명 부다페스트협약) 가입의향서 제출 | 외교부 | 2022 | https://www.mofa.go.kr/eng/wpge/m_25525/contents.do |
 | [17] | 사이버범죄 국제조약의 동향 — 부다페스트 협약 제2 추가의정서 및 UN 사이버범죄 조약 | 저스티스 / 한국법학원 | 2025 | https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10585090 |
+| [18] | Treaty 185 signatures chart | Council of Europe Treaty Office | 2026-04-17 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |

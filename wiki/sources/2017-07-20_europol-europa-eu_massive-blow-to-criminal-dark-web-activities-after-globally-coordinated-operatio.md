@@ -22,6 +22,10 @@ storage_mode: source-digest
 content_hash: sha256:cf6e6ab1ff46fd7d8128a0eefb28d98b479ae7a8e44bf45320bfee271adf848d
 word_count: 214
 extraction_date: 2026-04-28
+duplicate_of: "[[2017-07-20-europol-alphabay-hansa-takedown]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://europol.europa.eu/media-press/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation"
+duplicate_normalized_at: 2026-05-02
 ---
 ## Source Summary
 

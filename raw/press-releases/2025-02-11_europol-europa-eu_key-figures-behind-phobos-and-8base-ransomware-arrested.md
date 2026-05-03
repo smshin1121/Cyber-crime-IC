@@ -30,11 +30,12 @@ This record preserves the source metadata and source-page digest so the source c
 - URL: https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown
 
 ### Key Findings
-- South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the budapest-convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation.
+- Duplicate source record for Europol's Phobos/8Base ransomware crackdown announcement; canonical page is [[2025-02-11-europol-phobos-8base-ransomware-arrests]].
+- The canonical source records four arrests, 27 servers taken down, and a South Korea to United States extradition link for a Phobos administrator.
 
 ### Source Page Summary
 
-South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the budapest-convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to follow shortly afterward [15][16]. This source was generated from raw/press-releases/2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested.md to make the raw corpus addressable from the source index.
+Duplicate source record for Europol's Phobos/8Base ransomware crackdown announcement. Use [[2025-02-11-europol-phobos-8base-ransomware-arrests]] for substantive findings; this page preserves duplicate-source traceability.
 
 ## Extraction Notes
 

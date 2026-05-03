@@ -63,9 +63,8 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 4
 sources:
-  - "[[2025-05-22_justice-gov_qakbot-gallyamov-indictment]]"
   - "[[2023-08-29_om-nl_qakbot-onschadelijk-gemaakt]]"
   - "[[2025-05-22_cdca_qakbot-gallyamov-indictment]]"
   - "[[2025-05-23_helpnetsecurity-com_danabot-botnet-disrupted-qakbot-leader-indicted]]"
@@ -129,7 +128,6 @@ The Dutch prosecution-side record is particularly useful for this operation fami
 
 ## Source Coverage
 
-- US DOJ, 2025-05-22: Page not found.
 - Openbaar Ministerie, 2023-08-29: Grootste wereldwijde botnet Qakbot onschadelijk gemaakt.
 - US DOJ (OPA), 2025-05-22: Leader of Qakbot Malware Conspiracy Indicted for Involvement in Global Ransomware Scheme.
 - Help Net Security, 2025-05-23: DanaBot botnet disrupted, QakBot leader indicted.
@@ -141,7 +139,7 @@ The Dutch prosecution-side record is particularly useful for this operation fami
 - 2025-05-22: public announcement.
 - 2023-08-29: public source coverage from Openbaar Ministerie.
 - 2023-08-30: public source coverage from Eurojust.
-- 2025-05-22: public source coverage from US DOJ, US DOJ (OPA).
+- 2025-05-22: public source coverage from US DOJ (OPA).
 - 2025-05-23: public source coverage from Help Net Security.
 
 ## Legal and Procedural Posture
@@ -181,7 +179,7 @@ The cooperation model is documented through named agencies and partners: Fbi Cyb
 
 Operational results captured for the canonical record: 1 indictments; cryptocurrency/asset result recorded as USD 24,000,000+.
 
-The canonical source set contains 5 reference(s): 2025 05 22 Justice Gov Qakbot Gallyamov Indictment, 2023 08 29 Om Nl Qakbot Onschadelijk Gemaakt, 2025 05 22 Cdca Qakbot Gallyamov Indictment, 2025 05 23 Helpnetsecurity Com Danabot Botnet Disrupted Qakbot Leader Indicted, 2023 08 30 Eurojust Europa Eu Qakbot Malware Network Dismantled.
+The canonical source set contains 4 reference(s): 2023 08 29 Om Nl Qakbot Onschadelijk Gemaakt, 2025 05 22 Cdca Qakbot Gallyamov Indictment, 2025 05 23 Helpnetsecurity Com Danabot Botnet Disrupted Qakbot Leader Indicted, 2023 08 30 Eurojust Europa Eu Qakbot Malware Network Dismantled.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
 Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
@@ -194,8 +192,7 @@ This keeps the canonical record analytically bounded and reproducible.
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Page not found | US DOJ | 2025-05-22 | https://www.justice.gov/archives/opa/pr/leader-qakbot-malware-conspiracy-indictment-involvement-global-ransomware-scheme |
-| [2] | Grootste wereldwijde botnet Qakbot onschadelijk gemaakt | Openbaar Ministerie | 2023-08-29 | https://www.om.nl/actueel/nieuws/2023/08/29/grootste-wereldwijde-botnet-qakbot-onschadelijk-gemaakt |
-| [3] | Leader of Qakbot Malware Conspiracy Indicted for Involvement in Global Ransomware Scheme | US DOJ (OPA) | 2025-05-22 | https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme |
-| [4] | DanaBot botnet disrupted, QakBot leader indicted | Help Net Security | 2025-05-23 | https://www.helpnetsecurity.com/2025/05/23/operation-endgame-danabot-botnet-disrupted-qakbot-leader-indicted/ |
-| [5] | Malware network that infected more than 700,000 victims and caused hundreds of millions of dollars in damage worldwide dismantled in multinational law enforcement operation | Eurojust | 2023-08-30 | https://www.eurojust.europa.eu/news/malware-network-infected-more-700000-victims-and-caused-hundreds-millions-dollars-damage |
+| [1] | Grootste wereldwijde botnet Qakbot onschadelijk gemaakt | Openbaar Ministerie | 2023-08-29 | https://www.om.nl/actueel/nieuws/2023/08/29/grootste-wereldwijde-botnet-qakbot-onschadelijk-gemaakt |
+| [2] | Leader of Qakbot Malware Conspiracy Indicted for Involvement in Global Ransomware Scheme | US DOJ (OPA) | 2025-05-22 | https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme |
+| [3] | DanaBot botnet disrupted, QakBot leader indicted | Help Net Security | 2025-05-23 | https://www.helpnetsecurity.com/2025/05/23/operation-endgame-danabot-botnet-disrupted-qakbot-leader-indicted/ |
+| [4] | Malware network that infected more than 700,000 victims and caused hundreds of millions of dollars in damage worldwide dismantled in multinational law enforcement operation | Eurojust | 2023-08-30 | https://www.eurojust.europa.eu/news/malware-network-infected-more-700000-victims-and-caused-hundreds-millions-dollars-damage |

@@ -24,6 +24,10 @@ copyright_policy: summary-only
 collection_url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866"
 collection_domain: korea.kr
 updated: 2026-04-29
+duplicate_of: "[[2025-04-07_korea-kr_operation-cyber-guardian-asia-6-country-joint-crackdown-on-child-sexual-abuse-ma]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://korea.kr/briefing/pressReleaseView.do?newsId=156682866"
+duplicate_normalized_at: 2026-05-02
 ---
 # Operation Cyber Guardian: Asia 6-Country CSAM Crackdown
 

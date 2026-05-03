@@ -3,10 +3,10 @@ type: category-index
 title: "Analysis"
 category: analysis
 created: 2026-04-08
-updated: 2026-04-20
+updated: 2026-05-03
 ---
 
-# Analysis (95)
+# Analysis (100)
 
 | Analysis | Type | Confidence | Scope | Date |
 |----------|------|------------|-------|------|
@@ -22,6 +22,7 @@ updated: 2026-04-20
 | [[content-depth-audit-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[content-depth-audit-2026-04-27]] | — | — | — | 2026-04-27 |
 | [[content-depth-audit-2026-04-28]] | — | — | — | 2026-04-28 |
+| [[content-depth-audit-2026-05-03]] | — | — | — | 2026-05-03 |
 | [[content-depth-audit-after-filtered-raw-2026-04-28]] | — | — | — | 2026-04-28 |
 | [[content-depth-audit-after-source-materialization-check-2026-04-28]] | — | — | — | 2026-04-28 |
 | [[content-depth-audit-postbuild-residual-2026-04-28]] | — | — | — | 2026-04-28 |
@@ -68,6 +69,7 @@ updated: 2026-04-20
 | [[operation-source-density-audit-2026-04-22]] | — | — | — | 2026-04-22 |
 | [[organization-content-audit-2026-04-29]] | — | — | — | 2026-04-29 |
 | [[priority-country-source-registry]] | gap-analysis | high | — | 2026-04-18 |
+| [[project-goal-2026-05-03]] | methodology | high | Project-wide research direction and operating quality gates for the cybercrime international-cooperation wiki | 2026-05-03 |
 | [[residual-content-enrichment-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[residual-raw-text-enrichment-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[residual-raw-text-enrichment-2026-04-28]] | — | — | — | 2026-04-28 |
@@ -100,8 +102,11 @@ updated: 2026-04-20
 | [[source-duplicate-audit-2026-04-29-postbuild]] | — | — | — | 2026-04-29-postbuild |
 | [[source-duplicate-audit-2026-04-29-pre-hash-normalization-check]] | — | — | — | 2026-04-29-pre-hash-normalization-check |
 | [[source-duplicate-audit-2026-04-29-pre-normalization-check]] | — | — | — | 2026-04-29-pre-normalization-check |
+| [[source-duplicate-audit-2026-05-02]] | — | — | — | 2026-05-02 |
+| [[source-duplicate-audit-2026-05-03]] | — | — | — | 2026-05-03 |
 | [[source-duplicate-normalization-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[source-duplicate-normalization-2026-04-29]] | — | — | — | 2026-04-29 |
+| [[source-duplicate-normalization-2026-05-02]] | — | — | — | 2026-05-02 |
 | [[source-fulltext-omission-audit-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[targeted-content-enrichment-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[targeted-content-enrichment-recursive-2026-04-29]] | — | — | — | 2026-04-29 |

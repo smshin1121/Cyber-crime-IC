@@ -43,6 +43,7 @@ parties:
   - China
   - India
   - Indonesia
+  - Republic of Korea
   signatories: 2
   states_parties: 81
 related_frameworks:
@@ -55,17 +56,25 @@ scope:
   jurisdiction: true
   procedural_law: true
   substantive_law: true
-source_count: 7
-sources: []
+source_count: 8
+sources:
+- '[[2026-04-17_coe-int_about-the-convention-budapest-convention]]'
+- '[[2026-04-17_coe-int_parties-observers-to-the-budapest-convention]]'
+- '[[2025-08-01_en-wikipedia-org_budapest-convention-on-cybercrime-wikipedia-81-ratifications-as-of-august-2025]]'
+- '[[2022-05-12_coe-int_second-additional-protocol-cets-no-224]]'
+- '[[2026-02-05_coe-int_cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protoco]]'
+- '[[2024-01-01_coe-int_budapest-convention-reaches-75-parties]]'
+- '[[2025-01-01_lawfaremedia-org_from-budapest-to-hanoi-comparing-the-coe-and-un-cybercrime-conventions]]'
+- '[[2026-04-17_coe-int_treaty-185-signatures-chart]]'
 sponsoring_body: '[[council-of-europe]]'
 status: in-force
 title: Budapest Convention on Cybercrime
 type: legal-framework
-updated: 2026-04-10
+updated: 2026-05-03
 ---
 ## Summary
 
-The Budapest Convention on Cybercrime is the **first and most significant binding international treaty** dedicated to combating cybercrime through harmonized criminal law, common investigative powers, and international cooperation mechanisms. Adopted by the Council of Europe in 2001 and in force since 2004, it had grown to **81 states parties as of August 2025** (with Ireland and South Africa as signatory-only states), including major non-European states such as the United States, Canada, Japan, Australia, and — since 2024 — South Korea.
+The Budapest Convention on Cybercrime is the **first and most significant binding international treaty** dedicated to combating cybercrime through harmonized criminal law, common investigative powers, and international cooperation mechanisms. Adopted by the Council of Europe in 2001 and in force since 2004, the Council of Europe Treaty Office chart recorded **81 ratifications/accessions as of 25 April 2026** (with two signatures not followed by ratification), including major non-European states such as the United States, Canada, Japan, and Australia. The Treaty Office chart lists the Republic of Korea without an accession or entry-into-force date, so this wiki treats Korea as **invited to accede, not yet a party**.
 
 The Convention is *highly likely* the single most important legal instrument for international cooperation on cybercrime. It provides the legal basis for expedited data preservation, mutual legal assistance tailored to digital evidence, and the 24/7 Network for urgent cross-border contacts.
 
@@ -78,7 +87,7 @@ Key milestones:
 - **2004-07-01:** Entry into force (5 ratifications including 3 CoE members)
 - **2003-01-28:** Additional Protocol on xenophobia/racism through computer systems (CETS No. 189)
 - **2022-05-12:** Second Additional Protocol (CETS No. 224) adopted
-- **2024:** South Korea accedes, becoming the first major East Asian party
+- **2026-04-25:** Treaty Office chart records 81 ratifications/accessions; Republic of Korea remains listed without accession or entry-into-force dates
 
 ## Key Provisions for International Cooperation
 
@@ -103,11 +112,11 @@ This is the **most controversial provision** — critics argue it permits extrat
 
 ## Parties and Participation
 
-As of **August 2025, 81 states have ratified** the Convention, with Ireland and South Africa having signed but not yet ratified [^coe-parties]. Accessions have continued steadily into 2026. The Convention is notable for its openness to non-Council of Europe members.
+As of the Council of Europe Treaty Office chart status date **25 April 2026**, the Convention had **81 ratifications/accessions** and **2 signatures not followed by ratification** [^coe-parties]. Accessions have continued steadily beyond the original Council of Europe membership. The Convention is notable for its openness to non-Council of Europe members, but invited-to-accede states should not be counted as parties until the Treaty Office records the deposited accession and entry-into-force date.
 
-[^coe-parties]: Source: Wikipedia "Budapest Convention on Cybercrime" citing the Council of Europe Treaty Office (CETS No. 185) — https://en.wikipedia.org/wiki/Budapest_Convention_on_Cybercrime. Official figures available at https://www.coe.int/en/web/cybercrime/parties-observers.
+[^coe-parties]: Source: [[2026-04-17_coe-int_treaty-185-signatures-chart|Council of Europe Treaty Office, Treaty 185 signatures chart]], status as of 25/04/2026.
 
-**Major parties include:** All 46 Council of Europe members, plus the United States, Canada, Japan, Australia, Israel, Argentina, Chile, Colombia, Costa Rica, Dominican Republic, Ghana, Morocco, Mauritius, Panama, Peru, Philippines, Senegal, South Korea, Sri Lanka, Tonga, and others.
+**Major parties include:** Council of Europe member states and non-European parties such as the United States, Canada, Japan, Australia, Israel, Argentina, Chile, Colombia, Costa Rica, Dominican Republic, Ghana, Morocco, Mauritius, Panama, Peru, Philippines, Senegal, Sri Lanka, Tonga, and others. **Republic of Korea is not included in the Treaty Office party count as of 25 April 2026.**
 
 **Notable non-parties and their stated reasons:**
 
@@ -118,6 +127,7 @@ As of **August 2025, 81 states have ratified** the Convention, with Ireland and 
 | **India** | Has not formally stated reasons; engages informally; may accede in future |
 | **Brazil** | Has shown interest; engaged as observer; accession discussions ongoing |
 | **Indonesia** | Not yet engaged; capacity and political will barriers |
+| **Republic of Korea** | Invited to accede, but no accession or entry-into-force date is recorded in the Treaty Office chart as of 25 April 2026 |
 
 ## Implementation in Practice
 
@@ -150,29 +160,30 @@ Known challenges:
 
 ## Korean Perspective (한국 관점)
 
-South Korea **acceded to the Budapest Convention in 2024**, becoming the first major East Asian economy to do so. Korea had held observer status at the Cybercrime Convention Committee (T-CY) for several years prior.
+South Korea has been **invited to accede** but is **not yet a party** in the Council of Europe Treaty Office chart status as of **25 April 2026**. The chart lists the Republic of Korea without an accession date, ratification/accession deposit date, or entry-into-force date. Prior wiki text saying Korea acceded in 2024 was therefore incorrect.
 
-**Significance for Korea:**
-- Access to the 24/7 Network for expedited cross-border requests
-- Enhanced legal basis for cooperation with European and North American partners
-- Signal of Korea's commitment to international cybercrime cooperation standards
-- Basis for capacity building partnerships
+**Significance if accession is deposited:**
+- Access to the Convention's 24/7 Network for expedited cross-border requests
+- Enhanced legal basis for cooperation with European and North American partners that are already parties
+- Signal of Korea's commitment to Budapest Convention cooperation standards
+- Basis for further capacity-building and regional bridge roles
 
-**Domestic implementation:** Korea's existing legislation (정보통신망법, 형법 cyber provisions) already covered most substantive offenses. Procedural adjustments for Art. 29 preservation and Art. 35 designation were the main implementation requirements.
+**Domestic implementation:** Korea's existing legislation covers many substantive cybercrime offenses, but current country-profile material indicates that implementing legislation for electronic-evidence preservation takes effect on **2026-07-01**. Formal accession should not be treated as complete until the Treaty Office records deposit and entry into force.
 
 > [!warning] Legal status check needed
-> Verify Korea's exact accession date, any reservations/declarations made, and the designated 24/7 contact point.
+> Recheck the Council of Europe Treaty Office chart after 2026-07-01 for Korea's accession deposit date, entry-into-force date, reservations/declarations, and designated 24/7 contact point.
 
 ## Contradictions & Open Questions
 
-- What specific reservations did Korea declare upon accession?
-- Has Korea designated its 24/7 Network contact point? Which agency?
+- When will Korea formally deposit its instrument of accession?
+- What reservations or declarations will Korea make upon accession?
+- Which agency will be designated as Korea's 24/7 Network contact point?
 - How has Art. 32 been interpreted by Korean courts, if at all?
 - What is Korea's position on the Second Additional Protocol?
 
 ## References
 
-> [!note] This page is primarily based on the text of the Budapest Convention (CETS No. 185) and general legal scholarship on cybercrime treaties. Fact-checked 2026-04-10 against Council of Europe and Wikipedia sources.
+> [!note] This page is primarily based on the text of the Budapest Convention (CETS No. 185), Council of Europe treaty-status records, and selected legal scholarship. Korea party-status correction checked 2026-05-03 against the Council of Europe Treaty Office chart status dated 25/04/2026.
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
@@ -183,3 +194,4 @@ South Korea **acceded to the Budapest Convention in 2024**, becoming the first m
 | [5] | CyberSPEX: Hungary became the third state to ratify the Second Additional Protocol | Council of Europe | 2026-02-05 | [원본](https://www.coe.int/en/web/cybercrime/-/cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protocol-to-the-convention-on-cybercrime-1) |
 | [6] | Budapest Convention reaches 75 Parties | Council of Europe Portal | n.d. | [원본](https://www.coe.int/en/web/portal/-/budapest-convention-reaches-75-parties) |
 | [7] | From Budapest to Hanoi: Comparing the COE and UN Cybercrime Conventions | Lawfare | 2025 | [원본](https://www.lawfaremedia.org/article/from-budapest-to-hanoi--comparing-the-coe-and-un-cybercrime-conventions) |
+| [8] | Treaty 185 signatures chart | Council of Europe Treaty Office | 2026-04-17 | [원본](https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185) |

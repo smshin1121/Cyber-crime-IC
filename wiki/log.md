@@ -1,5 +1,35 @@
 # Activity Log
 
+## [2026-05-03] audit | Source-grounding and treaty-status consistency pass
+- Scope: follow-up whole-corpus consistency check after the source/depth audits, focused on stale source-scope notes, source-summary bleed, and Korea/Budapest Convention party-status contradictions.
+- Country profiles: 67 zero-source country pages normalized into assessment-control records, removing unsupported legal-capacity claims while preserving operation backlinks and follow-up source targets.
+- Source integrity: 13 source pages and their raw archive digests corrected where copied South Korea country-profile language had replaced source-specific summaries; affected case wrappers for HAECHI IV and Phobos/8Base now carry source-specific facts and scope limits.
+- Treaty status: [[overview]], [[budapest-convention]], [[south-korea]], [[germany]], [[netherlands]], and [[unodc]] now align with the Council of Europe Treaty Office Treaty 185 chart status dated 2026-04-25: Korea is invited to accede but is not yet a party.
+- Source page corrected: [[2026-04-17_coe-int_treaty-185-signatures-chart]] now summarizes Treaty 185 status rather than unrelated Spain profile text.
+
+## [2026-05-03] methodology | Project goal and success criteria set
+- Scope: converted the implicit project direction into an explicit goal document and wiki analysis page.
+- Files created: `GOAL.md`, [[project-goal-2026-05-03]].
+- Goal: build a source-grounded, SNA-ready knowledge base on public international cooperation against cybercrime, with source integrity and canonical-operation separation as the controlling criteria.
+- Success criteria: operation/case records must support reproducible analysis of countries, agencies, mechanisms, crime types, outcomes, Korea relevance, and public-record limitations.
+- Quality gates: lint, link checks, integrity audit, operation consistency audit, content-depth audit, source-duplicate audit, and placeholder scans define readiness for analytical use.
+
+## [2026-05-03] audit | Residual source-title and taxonomy consistency review
+- Scope: follow-up review after the repository-wide integrity cleanup, focused on visible `Page not found` source labels, corrected DOJ URLs, duplicate-source audit residue, and crime-type mismatch flags.
+- Source metadata corrected: 16 DOJ-derived source pages now carry real titles/publish dates or alias to canonical source pages instead of preserving `Page not found` as the user-facing title.
+- HeartSender correction: replaced the dead SDTX URL with the official 2025-01-30 SDTX release URL, corrected the seizure/announcement date split, and added the existing KrebsOnSecurity corroborating source to [[operation-heart-blocker]].
+- Redundant dead DOJ references pruned from [[emotet-takedown]], [[isoon-apt27-indictment]], and [[qakbot-gallyamov-indictment]] where canonical working source pages already existed.
+- xDedic consistency: four sparse defendant pages now record the parent-marketplace contextual classifications (`online-fraud-ic`, `cybercrime-forum-ic`, `dark-web-ic`) with a note that the statutory charge remains wire fraud.
+- Validation: lint 0 issues; content-depth mismatch flags 0; source duplicate audit active URL groups 0, active content-hash groups 0, review-only hash groups reduced to 12; integrity audit broken wikilinks 0; operation consistency issues 0.
+
+## [2026-05-02] audit | Integrity and consistency cleanup
+- Scope: repository-wide wiki integrity review, duplicate-source normalization, empty-section remediation, and static-site rebuild.
+- Source aliases normalized: 14 `wiki/sources` pages now carry `duplicate_of` metadata for same-URL duplicates; active duplicate URL groups are 0.
+- Operation references deduplicated: 11 operation pages now point to unique source URLs while preserving canonical source coverage.
+- Content gaps closed: 74 case/operation pages had empty `Source Coverage`, `Evidence and Attribution Notes`, or `Results` sections filled from existing metadata and references; 11 alias-resolved source pages received missing `created` metadata.
+- Tooling added: `tools/resolve_empty_sections.py` for repeatable low-risk empty-section remediation.
+- Validation: lint 0 issues; integrity audit broken wikilinks 0, parse errors 0, duplicate slugs 0; operation consistency issues 0; static-site link check broken 0 and malformed 0.
+
 ## [2026-04-21] audit | Full web-verification pipeline mature — 96/100 top-queue ops verified
 - Added Akamai Bot Manager bypass (meta-refresh + session + 5.5s wait) to unblock DOJ / justice.gov / usao-* URLs that curl_cffi TLS impersonation alone could not reach. Logged as LESSONS.md L21.
 - Extended queue builder to parse URLs from three source formats: wikilink → wiki/sources/*.md (with `collection_url`/`source_url`/`url` field), inline markdown link `[title](url)`, or plain URL in a string.
@@ -98,7 +128,7 @@
 - operation-avalanche participating_countries 13 → 30 (Europol 공식 출처 확인)
 - 2건 추가 mismatch 발견: the-cyber-express-marketplace-a-dekhtyarchuk-indictment → operation-endgame, hackread-global-airport-action-day → carding-action-2020
 - BBC 미검증 URL 2건 인터뷰 큐 등록 (Q0003)
-- lint: CRITICAL 0, HIGH 0 / check_links: broken 0 / ZZPROT: 0
+- lint: CRITICAL 0, HIGH 0 / check_links: broken 0 / placeholder-token scan: 0
 
 ## [2026-04-08] create | Wiki initialized
 - Project structure created for International Cooperation on Cyber Crime domain

@@ -30,11 +30,12 @@ This record preserves the source metadata and source-page digest so the source c
 - URL: https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation
 
 ### Key Findings
-- South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the budapest-convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation.
+- Duplicate source record for INTERPOL's Operation HAECHI IV announcement; canonical page is [[2023-12-19-interpol-operation-haechi-iv]].
+- The canonical source records 3,500 arrests, USD 300 million seized, and 34 participating countries.
 
 ### Source Page Summary
 
-South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the budapest-convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to follow shortly afterward [15][16]. This source was generated from raw/press-releases/2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv.md to make the raw corpus addressable from the source index.
+Duplicate source record for INTERPOL's Operation HAECHI IV announcement. Use [[2023-12-19-interpol-operation-haechi-iv]] for substantive findings; this page preserves metadata and raw-path traceability for the duplicate URL.
 
 ## Extraction Notes
 

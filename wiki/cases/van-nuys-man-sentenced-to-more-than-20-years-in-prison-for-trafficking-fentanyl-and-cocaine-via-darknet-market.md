@@ -40,7 +40,7 @@ source_count: 1
 sources:
   - "[[2024-10-21_justice-gov_united-states-v-brian-mcdonald]]"
 created: 2026-04-18
-updated: "2026-04-26"
+updated: 2026-05-02
 summary: "Van Nuys Man Sentenced to More Than 20 Years in Prison for Trafficking Fentanyl and Cocaine via Darknet Marketplaces and Possessing Guns is documented in the linked source material. Brian McDonald (Darknet Fentanyl Seller) Enforcement Action is a follow-on operation catalog record tied to Us V Brian Mcdonald Dark Web. Available source coverage includes US DOJ (Central District of California)."
 ---
 ## Summary
@@ -69,6 +69,10 @@ Van Nuys Man Sentenced to More Than 20 Years in Prison for Trafficking Fentanyl 
 
 ## Evidence and Attribution Notes
 
+- The cited source set is treated as the controlling public record for this page; no additional filing-level evidence is asserted beyond the listed references and metadata.
+- Current metadata does not identify MLAT requests, extradition, foreign-evidence transfers, foreign arrests, or asset-freezing elements.
+- Recorded cooperation mechanism metadata: Informal Cooperation.
+- Comparative use should preserve the single-source limitation and avoid inferring that absent cooperation fields prove no cooperation occurred.
 
 ## References
 

@@ -52,7 +52,7 @@ key_legal_issues:
 precedent_value: "High - the case likely stands as a modern example of using indictment, sanctions, and public attribution together when custodial enforcement against foreign state-linked hackers is not realistically available."
 source_count: 1
 sources:
-  - "[[2025-03-05_opa_wu-haibo-isoon-indictment]]"
+  - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
 created: 2026-04-17
 updated: 2026-04-17
 summary: "United States v. Wu Haibo et al. is the public charging case associated with the 5 March 2025 DOJ action against i-Soon personnel, Chinese law-enforcement officers, and APT27-linked operators. It is one of the clearest examples in the repository of a cybercrime indictment that doubles as strategic attribution."
@@ -122,4 +122,4 @@ South Korea was not identified as a direct participant in the U.S. charging acti
 
 | # | Source | Publisher | Date | URL |
 |---|--------|-----------|------|-----|
-| 1 | Justice Department Charges 12 Chinese Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns | DOJ OPA | 2025-03-05 | https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-global |
+| 1 | Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns | DOJ OPA | 2025-03-05 | https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global |

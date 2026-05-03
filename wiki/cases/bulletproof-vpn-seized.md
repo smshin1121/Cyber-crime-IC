@@ -40,7 +40,7 @@ source_count: 1
 sources:
   - "[[2020-12-22_web-archive-org_bulletproof-vpn-seized]]"
 created: 2026-04-18
-updated: "2026-04-26"
+updated: 2026-05-02
 summary: "Bulletproof Vpn Seized is documented in the linked source material. **Operation Nova** was an international law enforcement action that took down **Safe-Inet**, a bulletproof VPN service that had operated for over a decade. Available source coverage includes cybersecuritynews.com."
 ---
 ## Summary
@@ -49,6 +49,8 @@ Bulletproof Vpn Seized is documented in the linked source material. **Operation 
 
 ## Source Coverage
 
+- cybersecuritynews.com, 2020-12-22: Bulletproof Vpn Seized.
+- Source coverage is single-source; absent details should be treated as unobserved in the current corpus, not disproven.
 
 ## Operational Timeline
 

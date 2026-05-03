@@ -62,6 +62,40 @@
     <div class="article-body">
       
         <h1 id="activity-log">Activity Log</h1>
+<h2 id="2026-05-03-audit-source-grounding-and-treaty-status-consistency-pass">[2026-05-03] audit | Source-grounding and treaty-status consistency pass</h2>
+<ul>
+<li>Scope: follow-up whole-corpus consistency check after the source/depth audits, focused on stale source-scope notes, source-summary bleed, and Korea/Budapest Convention party-status contradictions.</li>
+<li>Country profiles: 67 zero-source country pages normalized into assessment-control records, removing unsupported legal-capacity claims while preserving operation backlinks and follow-up source targets.</li>
+<li>Source integrity: 13 source pages and their raw archive digests corrected where copied South Korea country-profile language had replaced source-specific summaries; affected case wrappers for HAECHI IV and Phobos/8Base now carry source-specific facts and scope limits.</li>
+<li>Treaty status: <a href="../wiki/overview.html" class="wikilink">overview</a>, <a href="../wiki/legal-frameworks/budapest-convention.html" class="wikilink">budapest-convention</a>, <a href="../wiki/countries/south-korea.html" class="wikilink">south-korea</a>, <a href="../wiki/countries/germany.html" class="wikilink">germany</a>, <a href="../wiki/countries/netherlands.html" class="wikilink">netherlands</a>, and <a href="../wiki/organizations/unodc.html" class="wikilink">unodc</a> now align with the Council of Europe Treaty Office Treaty 185 chart status dated 2026-04-25: Korea is invited to accede but is not yet a party.</li>
+<li>Source page corrected: <a href="../wiki/sources/2026-04-17_coe-int_treaty-185-signatures-chart.html" class="wikilink">2026-04-17_coe-int_treaty-185-signatures-chart</a> now summarizes Treaty 185 status rather than unrelated Spain profile text.</li>
+</ul>
+<h2 id="2026-05-03-methodology-project-goal-and-success-criteria-set">[2026-05-03] methodology | Project goal and success criteria set</h2>
+<ul>
+<li>Scope: converted the implicit project direction into an explicit goal document and wiki analysis page.</li>
+<li>Files created: <code>GOAL.md</code>, <a href="../wiki/analysis/project-goal-2026-05-03.html" class="wikilink">project-goal-2026-05-03</a>.</li>
+<li>Goal: build a source-grounded, SNA-ready knowledge base on public international cooperation against cybercrime, with source integrity and canonical-operation separation as the controlling criteria.</li>
+<li>Success criteria: operation/case records must support reproducible analysis of countries, agencies, mechanisms, crime types, outcomes, Korea relevance, and public-record limitations.</li>
+<li>Quality gates: lint, link checks, integrity audit, operation consistency audit, content-depth audit, source-duplicate audit, and placeholder scans define readiness for analytical use.</li>
+</ul>
+<h2 id="2026-05-03-audit-residual-source-title-and-taxonomy-consistency-review">[2026-05-03] audit | Residual source-title and taxonomy consistency review</h2>
+<ul>
+<li>Scope: follow-up review after the repository-wide integrity cleanup, focused on visible <code>Page not found</code> source labels, corrected DOJ URLs, duplicate-source audit residue, and crime-type mismatch flags.</li>
+<li>Source metadata corrected: 16 DOJ-derived source pages now carry real titles/publish dates or alias to canonical source pages instead of preserving <code>Page not found</code> as the user-facing title.</li>
+<li>HeartSender correction: replaced the dead SDTX URL with the official 2025-01-30 SDTX release URL, corrected the seizure/announcement date split, and added the existing KrebsOnSecurity corroborating source to <a href="../wiki/operations/operation-heart-blocker.html" class="wikilink">operation-heart-blocker</a>.</li>
+<li>Redundant dead DOJ references pruned from <a href="../wiki/operations/emotet-takedown.html" class="wikilink">emotet-takedown</a>, <a href="../wiki/operations/isoon-apt27-indictment.html" class="wikilink">isoon-apt27-indictment</a>, and <a href="../wiki/operations/qakbot-gallyamov-indictment.html" class="wikilink">qakbot-gallyamov-indictment</a> where canonical working source pages already existed.</li>
+<li>xDedic consistency: four sparse defendant pages now record the parent-marketplace contextual classifications (<code>online-fraud-ic</code>, <code>cybercrime-forum-ic</code>, <code>dark-web-ic</code>) with a note that the statutory charge remains wire fraud.</li>
+<li>Validation: lint 0 issues; content-depth mismatch flags 0; source duplicate audit active URL groups 0, active content-hash groups 0, review-only hash groups reduced to 12; integrity audit broken wikilinks 0; operation consistency issues 0.</li>
+</ul>
+<h2 id="2026-05-02-audit-integrity-and-consistency-cleanup">[2026-05-02] audit | Integrity and consistency cleanup</h2>
+<ul>
+<li>Scope: repository-wide wiki integrity review, duplicate-source normalization, empty-section remediation, and static-site rebuild.</li>
+<li>Source aliases normalized: 14 <code>wiki/sources</code> pages now carry <code>duplicate_of</code> metadata for same-URL duplicates; active duplicate URL groups are 0.</li>
+<li>Operation references deduplicated: 11 operation pages now point to unique source URLs while preserving canonical source coverage.</li>
+<li>Content gaps closed: 74 case/operation pages had empty <code>Source Coverage</code>, <code>Evidence and Attribution Notes</code>, or <code>Results</code> sections filled from existing metadata and references; 11 alias-resolved source pages received missing <code>created</code> metadata.</li>
+<li>Tooling added: <code>tools/resolve_empty_sections.py</code> for repeatable low-risk empty-section remediation.</li>
+<li>Validation: lint 0 issues; integrity audit broken wikilinks 0, parse errors 0, duplicate slugs 0; operation consistency issues 0; static-site link check broken 0 and malformed 0.</li>
+</ul>
 <h2 id="2026-04-21-audit-full-web-verification-pipeline-mature-96100-top-queue-ops-verified">[2026-04-21] audit | Full web-verification pipeline mature — 96/100 top-queue ops verified</h2>
 <ul>
 <li>Added Akamai Bot Manager bypass (meta-refresh + session + 5.5s wait) to unblock DOJ / justice.gov / usao-* URLs that curl_cffi TLS impersonation alone could not reach. Logged as LESSONS.md L21.</li>
@@ -170,7 +204,7 @@
 <li>operation-avalanche participating_countries 13 → 30 (Europol 공식 출처 확인)</li>
 <li>2건 추가 mismatch 발견: the-cyber-express-marketplace-a-dekhtyarchuk-indictment → operation-endgame, hackread-global-airport-action-day → carding-action-2020</li>
 <li>BBC 미검증 URL 2건 인터뷰 큐 등록 (Q0003)</li>
-<li>lint: CRITICAL 0, HIGH 0 / check_links: broken 0 / ZZPROT: 0</li>
+<li>lint: CRITICAL 0, HIGH 0 / check_links: broken 0 / placeholder-token scan: 0</li>
 </ul>
 <h2 id="2026-04-08-create-wiki-initialized">[2026-04-08] create | Wiki initialized</h2>
 <ul>
@@ -884,8 +918,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-29 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-29">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-05-03 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-05-03">
     </span>
   </div>
 

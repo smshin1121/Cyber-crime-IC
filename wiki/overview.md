@@ -2,12 +2,16 @@
 created: 2026-04-08
 title: International Cooperation on Cyber Crime - Overview
 type: overview
-updated: '2026-04-29'
+updated: '2026-05-03'
 ---
 
 # State of International Cooperation on Cyber Crime
 
 > [!info] This page is a high-level synthesis of the entire wiki. Updated as sources are ingested.
+
+## Project Goal
+
+The project goal is to build a source-grounded, SNA-ready knowledge base on public international cooperation against cybercrime. The wiki prioritizes how countries, agencies, prosecutors, courts, international organizations, and private partners cooperate across borders, not threat-actor attribution for its own sake. See [[project-goal-2026-05-03]] for the operating success criteria and quality gates.
 
 ## Executive Summary
 
@@ -43,7 +47,7 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 
 ## Recent Treaty Developments
 
-- **2024:** [[south-korea]] acceded to the [[budapest-convention]], becoming the first major East Asian economy to join. The Budapest Convention reached **81 states parties** by August 2025.
+- **2026-04-25 status check:** The Council of Europe Treaty Office chart for [[budapest-convention|ETS 185]] records **81 ratifications/accessions**. [[south-korea]] is listed as invited to accede, but without an accession or entry-into-force date; the wiki therefore treats Korea as **not yet a party** pending formal deposit of its accession instrument.
 - **2024-12-24:** UN General Assembly adopted the [[un-cybercrime-convention-2024|UN Convention against Cybercrime]] (the first globally negotiated binding cybercrime treaty).
 - **2025-10-25/26:** UN Convention opened for signature at a ceremony in **Hanoi, Vietnam**; 72 states plus the European Union signed; signatory total rose to 74 by March 2026.
 - **2026-02:** **Qatar** became the first state to ratify the UN Cybercrime Convention (with two reservations); **Vietnam** followed. 40 ratifications required for entry into force.
@@ -77,7 +81,7 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 | Total servers seized | 2,997+ | Primarily Europol operations |
 | Total domains seized | 812,161+ | Canonical operations |
 | Unique participating countries | 153+ | Canonical operations |
-| Sources with dedicated pages | 4784 | US DOJ USAO 1198, INTERPOL 93, Europol 88, US DOJ 69, BleepingComputer 67 |
+| Sources with dedicated pages | 4784 | US DOJ USAO 1198, INTERPOL 93, Europol 88, US DOJ 68, BleepingComputer 67 |
 | Crime types documented | 24 | All documented types |
 
 ## Recent Activity

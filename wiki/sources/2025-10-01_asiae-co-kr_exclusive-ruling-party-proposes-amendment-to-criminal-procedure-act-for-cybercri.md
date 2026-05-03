@@ -14,7 +14,8 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the budapest-convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation."
+  - "Secondary media report on a proposed Criminal Procedure Act amendment connected to South Korea's Cybercrime Convention accession process."
+  - "Use with legislative or government sources before treating the proposal as enacted law."
 collection_url: https://www.asiae.co.kr/en/article/2025100117462695647
 created: 2026-04-17
 text_status: summarized
@@ -27,7 +28,7 @@ copyright_policy: summary-only
 ---
 ## Source Summary
 
-South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the [[budapest-convention]] in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to follow shortly afterward [15][16].
+Secondary media report on a proposed Criminal Procedure Act amendment connected to South Korea's Cybercrime Convention accession process. Use it as proposal-stage context and confirm enactment against official legislative or government records.
 
 ## Relevance to IC
 

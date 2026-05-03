@@ -1,9 +1,9 @@
 ---
 type: source
-title: "Page not found"
+title: "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services"
 raw_path: raw/press-releases/2026-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace.md
 source_type: press-release
-publisher: "U.S. Department of Justice"
+publisher: "DOJ OPA"
 author: ""
 publish_date: 2025-04-17
 ingest_date: 2026-04-17
@@ -13,13 +13,13 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-collection_url: https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace
+collection_url: https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money
 created: 2026-04-17
 updated: 2026-04-18
-duplicate_of: "[[2025-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace]]"
-duplicate_reason: same_collection_url
-duplicate_key: https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace
-duplicate_normalized_at: 2026-04-26
+duplicate_of: "[[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and]]"
+duplicate_reason: corrected_collection_url_duplicate
+duplicate_key: https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money
+duplicate_normalized_at: 2026-05-03
 text_status: source-digest
 storage_mode: source-digest
 content_hash: sha256:dec57a1066a13645f3e5a681d01bcecf7750851b6eb40936285f36bb47a61a13

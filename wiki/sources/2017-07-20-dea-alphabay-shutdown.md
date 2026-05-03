@@ -26,6 +26,10 @@ word_count: 1577
 extraction_date: 2026-04-29
 last_fetcher: jina
 storage_mode: fulltext
+duplicate_of: "[[2017-07-20_dea-gov_alphabay-largest-online-dark-market-shut-down]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://dea.gov/press-releases/2017/07/20/alphabay-largest-online-dark-market-shut-down"
+duplicate_normalized_at: 2026-05-02
 ---
 ## Summary
 

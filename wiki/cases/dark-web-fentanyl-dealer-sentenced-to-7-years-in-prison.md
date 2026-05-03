@@ -39,7 +39,7 @@ source_count: 1
 sources:
   - "[[2019-12-17_justice-gov_united-states-v-matthew-witters]]"
 created: 2026-04-18
-updated: "2026-04-26"
+updated: 2026-05-02
 summary: "Dark web fentanyl dealer sentenced to 7 years in prison is documented in the linked source material. Matthew Witters (Dark Web Fentanyl Dealer) Enforcement Action is a follow-on operation catalog record tied to Us V Witters Dark Web. Available source coverage includes US DOJ (Western District of Washington)."
 ---
 ## Summary
@@ -67,6 +67,10 @@ Dark web fentanyl dealer sentenced to 7 years in prison is documented in the lin
 
 ## Evidence and Attribution Notes
 
+- The cited source set is treated as the controlling public record for this page; no additional filing-level evidence is asserted beyond the listed references and metadata.
+- Current metadata does not identify MLAT requests, extradition, foreign-evidence transfers, foreign arrests, or asset-freezing elements.
+- Recorded cooperation mechanism metadata: Informal Cooperation.
+- Comparative use should preserve the single-source limitation and avoid inferring that absent cooperation fields prove no cooperation occurred.
 
 ## References
 

@@ -40,7 +40,7 @@ source_count: 1
 sources:
   - "[[2023-08-25_justice-gov_united-states-v-cheerish-noel-taylor-and-robert-james-fischer]]"
 created: 2026-04-18
-updated: "2026-04-26"
+updated: 2026-05-02
 summary: "United States v. Cheerish Noel Taylor And Robert James Fischer is documented in the linked source material. Taylor and Fischer (Darknet Vendors) Enforcement Action is a follow-on operation catalog record tied to Us V Taylor Fischer Dark Web. Available source coverage includes US DOJ (Eastern District of Virginia)."
 ---
 ## Summary
@@ -69,6 +69,10 @@ United States v. Cheerish Noel Taylor And Robert James Fischer is documented in 
 
 ## Evidence and Attribution Notes
 
+- The cited source set is treated as the controlling public record for this page; no additional filing-level evidence is asserted beyond the listed references and metadata.
+- Current metadata does not identify MLAT requests, extradition, foreign-evidence transfers, foreign arrests, or asset-freezing elements.
+- Recorded cooperation mechanism metadata: Informal Cooperation.
+- Comparative use should preserve the single-source limitation and avoid inferring that absent cooperation fields prove no cooperation occurred.
 
 ## References
 

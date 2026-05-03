@@ -15,7 +15,7 @@ enforcement_type:
   - indictment
 outcome: success
 timeframe:
-  announced: 2025-01-29
+  announced: 2025-01-30
   start: 2025-01-29
   end: 2025-05-16
   ongoing: false
@@ -51,11 +51,12 @@ results:
     - "63 additional European cases under investigation"
     - "21 suspects arrested in Pakistan (May 2025 follow-up)"
     - "Instructional YouTube videos used for training removed"
-source_count: 4
+source_count: 5
 related_cases:
   - "[[in-re-heartsender-seizure]]"
 sources:
   - "[[2025-01-29_sdtx_heartsender-seizure]]"
+  - "[[2025-01-30_krebsonsecurity-com_fbi-dutch-police-disrupt-manipulaters-phishing-gang]]"
   - "[[2025-01-30_cyberscoop-com_department-of-justice-partners-with-dutch-police-to-break-up-heartsender-network]]"
   - "[[2025-01-30_hackread-com_heartsender-cybercrime-network-dismantled-in-joint-us-dutch-operation]]"
   - "[[2025-05-28_krebsonsecurity-com_pakistan-arrests-21-in-heartsender-malware-service]]"
@@ -82,7 +83,7 @@ crime_types:
 ---
 ## Summary
 
-Operation Heart Blocker was a joint US-Dutch law enforcement action on January 29, 2025, targeting the HeartSender cybercrime marketplace network (also known as Saim Raza). The U.S. Department of Justice and the Dutch National Police coordinated the seizure of 39 domains and their associated servers that had been operating since at least 2020 as marketplaces selling phishing kits, credential-stealing tools, email extractors, and scam page generators. These tools were used by transnational organized crime groups to conduct [[bec-ic|business email compromise (BEC)]] schemes, resulting in over $3 million in confirmed US victim losses according to the DOJ (later revised to over $50 million by Pakistan's NCCIA).
+Operation Heart Blocker was a joint US-Dutch law enforcement action executed on January 29, 2025 and announced on January 30, 2025, targeting the HeartSender cybercrime marketplace network (also known as Saim Raza). The U.S. Department of Justice and the Dutch National Police coordinated the seizure of 39 domains and their associated servers that had been operating since at least 2020 as marketplaces selling phishing kits, credential-stealing tools, email extractors, and scam page generators. These tools were used by transnational organized crime groups to conduct [[bec-ic|business email compromise (BEC)]] schemes, resulting in over $3 million in confirmed US victim losses according to the DOJ (later revised to over $50 million by Pakistan's NCCIA).
 
 In a significant follow-up action in May 2025, Pakistan's National Cyber Crime Investigation Agency (NCCIA) arrested 21 individuals linked to the operation, including alleged ringleader Rameez Shahzad (alias "Saim Raza"), demonstrating a rare instance of a Pakistan-based cybercrime network being disrupted through coordinated international action.
 
@@ -134,7 +135,7 @@ Key legal instruments:
 | ~2015 | Group begins operations as "The Manipulaters" (per KrebsOnSecurity reporting) |
 | ~2020 | HeartSender / Saim Raza marketplace becomes operational |
 | 2025-01-29 | **Operation Heart Blocker executed**: US DOJ and Dutch National Police seize 39 domains and associated servers |
-| 2025-01-29 | DOJ announces seizure; seized domains display law enforcement takedown banner |
+| 2025-01-30 | DOJ announces seizure; seized domains display law enforcement takedown banner |
 | 2025-01-30 | Dutch authorities confirm millions of victim records recovered, including 100,000+ Dutch citizen records |
 | 2025-05-15 | Pakistan NCCIA raids in Lahore's Bahria Town targeting HeartSender Group |
 | 2025-05-16 | NCCIA raids in Multan targeting southern operations hub |
@@ -228,7 +229,7 @@ No known Korean involvement in Operation Heart Blocker. However:
 
 ## Source Coverage
 
-- US DOJ, 2025-01-29: Justice Department Announces Seizure of Cybercrime Websites Selling Hacking Tools to Transnational Organized Crime Groups.
+- U.S. Attorney's Office, Southern District of Texas, 2025-01-30: Cybercrime websites selling hacking tools to transnational organized crime groups seized.
 - KrebsOnSecurity, 2025-01-30: FBI, Dutch Police Disrupt 'Manipulaters' Phishing Gang.
 - KrebsOnSecurity, 2025-05-28: Pakistan Arrests 21 in 'Heartsender' Malware Service.
 - CyberScoop, 2025-01-30: Department of Justice partners with Dutch police to break up HeartSender network.
@@ -236,7 +237,7 @@ No known Korean involvement in Operation Heart Blocker. However:
 
 ## Evidence and Attribution Notes
 
-- Operation Heart Blocker was a joint US-Dutch law enforcement action on January 29, 2025, targeting the HeartSender cybercrime marketplace network (also known as Saim Raza).
+- Operation Heart Blocker was a joint US-Dutch law enforcement action executed on January 29, 2025 and announced on January 30, 2025, targeting the HeartSender cybercrime marketplace network (also known as Saim Raza).
 - The U.S. Department of Justice and the Dutch National Police coordinated the seizure of 39 domains and their associated servers that had been operating since at least 2020 as marketplaces selling phishing kits, credential-stealing tools, email extractors, and scam page generators.
 - These tools were used by transnational organized crime groups to conduct business email compromise (BEC) schemes, resulting in over $3 million in confirmed US victim losses according to the DOJ (later revised to over $50 million by Pakistan's NCCIA).
 
@@ -265,7 +266,8 @@ This keeps the canonical record analytically bounded and reproducible.
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Page not found | U.S. District Court for the Southern District of Texas | 2026-04-17 | https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools |
-| [2] | Department of Justice partners with Dutch police to break up HeartSender network | CyberScoop | 2025-01-30 | https://cyberscoop.com/doj-saim-raza-heartsender-takedown/ |
-| [3] | HeartSender Cybercrime Network Dismantled in Joint US-Dutch Operation | Hackread | 2025-01-30 | https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/ |
-| [4] | Pakistan Arrests 21 in 'Heartsender' Malware Service | KrebsOnSecurity | 2025-05-28 | https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/ |
+| [1] | Cybercrime websites selling hacking tools to transnational organized crime groups seized | USAO SDTX | 2025-01-30 | https://www.justice.gov/usao-sdtx/pr/cybercrime-websites-selling-hacking-tools-transnational-organized-crime-groups-seized |
+| [2] | FBI, Dutch Police Disrupt 'Manipulaters' Phishing Gang | KrebsOnSecurity | 2025-01-30 | https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/ |
+| [3] | Department of Justice partners with Dutch police to break up HeartSender network | CyberScoop | 2025-01-30 | https://cyberscoop.com/doj-saim-raza-heartsender-takedown/ |
+| [4] | HeartSender Cybercrime Network Dismantled in Joint US-Dutch Operation | Hackread | 2025-01-30 | https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/ |
+| [5] | Pakistan Arrests 21 in 'Heartsender' Malware Service | KrebsOnSecurity | 2025-05-28 | https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/ |

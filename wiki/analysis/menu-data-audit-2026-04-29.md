@@ -21,7 +21,7 @@ This audit checks each menu category for structural stubs, placeholder prose, th
 | operations | 1085 | 0 | 0 | 0 |
 | organizations | 143 | 0 | 0 | 31 |
 | countries | 110 | 0 | 0 | 70 |
-| cases | 1202 | 0 | 0 | 872 |
+| cases | 1202 | 0 | 0 | 833 |
 | legal-frameworks | 22 | 0 | 0 | 0 |
 | mechanisms | 27 | 0 | 0 | 0 |
 | crime-types | 24 | 0 | 0 | 0 |
@@ -34,7 +34,7 @@ This audit checks each menu category for structural stubs, placeholder prose, th
 
 | Issue | Count |
 |---|---:|
-| thin_body | 904 |
+| thin_body | 865 |
 | no_sources | 51 |
 | source_count_missing_refs | 19 |
 | source_count_mismatch | 3 |
@@ -126,43 +126,43 @@ This audit checks each menu category for structural stubs, placeholder prose, th
 | 81 | [[american-darknet-vendor-and-costa-rican-pharmacist-charged-with-narcotics-and-money-laundering-violations]] | cases | 10 | 1 | 1 | 91 | thin_body:91 |
 | 82 | [[arizona-man-indicted-for-federal-assault-charges]] | cases | 10 | 1 | 1 | 73 | thin_body:73 |
 | 83 | [[arizona-man-indicted-for-offenses-involving-sexual-exploitation-of-a-minor]] | cases | 10 | 1 | 1 | 81 | thin_body:81 |
-| 84 | [[armed-dark-web-drug-trafficker-sentenced-to-over-a-decade-in-federal-prison]] | cases | 10 | 1 | 1 | 122 | thin_body:122 |
-| 85 | [[attorney-arrested-on-charges-of-insider-trading]] | cases | 10 | 1 | 1 | 73 | thin_body:73 |
-| 86 | [[auburn-man-sentenced-to-more-than-24-years-in-federal-prison-for-sharing-child-sexual-abuse-material-on-the-da]] | cases | 10 | 1 | 1 | 118 | thin_body:118 |
-| 87 | [[auburn-washington-man-charged-federally-for-drug-distribution-and-illegal-firearms-possession]] | cases | 10 | 1 | 1 | 98 | thin_body:98 |
-| 88 | [[auburn-washington-man-who-converted-garage-to-a-fentanyl-pill-manufacturing-lab-sentenced-to-11-years-in-priso]] | cases | 10 | 1 | 1 | 132 | thin_body:132 |
-| 89 | [[bay-area-residents-sentenced-to-five-years-for-counterfeit-currency-and-credit-card-fraud-schemes]] | cases | 10 | 1 | 1 | 131 | thin_body:131 |
-| 90 | [[bellingham-washington-drug-dealer-sentenced-to-ten-years-in-prison-for-distributing-fentanyl-while-possessing-]] | cases | 10 | 1 | 1 | 106 | thin_body:106 |
-| 91 | [[beresford-man-sentenced-to-over-33-years-in-federal-prison-for-receipt-and-distribution-of-child-pornography]] | cases | 10 | 1 | 1 | 132 | thin_body:132 |
-| 92 | [[beverly-hills-man-sentenced-to-5-years-in-federal-prison-for-attempting-to-hire-hitman-to-kill-woman-he-briefl]] | cases | 10 | 1 | 1 | 116 | thin_body:116 |
-| 93 | [[billings-meth-fentanyl-dealer-sentenced-to-12-years-in-prison]] | cases | 10 | 1 | 1 | 94 | thin_body:94 |
-| 94 | [[boone-man-is-sentenced-to-eight-years-in-federal-prison-for-using-the-dark-web-to-transport-child-pornography]] | cases | 10 | 1 | 1 | 114 | thin_body:114 |
-| 95 | [[botnet-dismantled-in-international-operation-russian-and-kazakhstani-administrators-indicted]] | cases | 10 | 1 | 1 | 78 | thin_body:78 |
-| 96 | [[bradley-lefebvre-sentenced-on-federal-harassment-charge]] | cases | 10 | 1 | 1 | 88 | thin_body:88 |
-| 97 | [[brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | cases | 10 | 1 | 1 | 132 | thin_body:132 |
-| 98 | [[brazilian-national-indicted-for-selling-firearms]] | cases | 10 | 1 | 1 | 105 | thin_body:105 |
-| 99 | [[brazilian-national-pleads-guilty-to-role-in-nationwide-rideshare-and-delivery-account-fraud-scheme]] | cases | 10 | 1 | 1 | 123 | thin_body:123 |
-| 100 | [[brooklyn-ny-consultant-for-amazon-sellers-sentenced-to-home-detention-and-fine-for-role-in-bribery-scheme]] | cases | 10 | 1 | 1 | 108 | thin_body:108 |
-| 101 | [[brooksville-man-sentenced-to-prison-for-electronic-prescribing-fraud-scheme]] | cases | 10 | 1 | 1 | 114 | thin_body:114 |
-| 102 | [[california-businessman-indicted-for-tax-evasion]] | cases | 10 | 1 | 1 | 117 | thin_body:117 |
-| 103 | [[california-man-indicted-in-cryptocurrency-money-laundering-conspiracy]] | cases | 10 | 1 | 1 | 90 | thin_body:90 |
-| 104 | [[california-man-sentenced-cryptocurrency-money-laundering-conspiracy]] | cases | 10 | 1 | 1 | 139 | thin_body:139 |
-| 105 | [[california-teenager-pleads-guilty-in-florida-to-making-hundreds-of-swatting-calls-across-the-united-states]] | cases | 10 | 1 | 1 | 92 | thin_body:92 |
-| 106 | [[cambridge-man-sentenced-for-child-pornography-offense]] | cases | 10 | 1 | 1 | 109 | thin_body:109 |
-| 107 | [[carmichaels-man-sentenced-to-3-years-for-cyberstalking]] | cases | 10 | 1 | 1 | 75 | thin_body:75 |
-| 108 | [[charlestown-man-sentenced-to-ten-years-in-federal-prison-following-a-fourth-conviction-on-child-pornography-ch]] | cases | 10 | 1 | 1 | 95 | thin_body:95 |
-| 109 | [[chatsworth-man-pleads-guilty-to-stalking-charges-for-sending-two-sisters-death-threats-and-harassment-campaign]] | cases | 10 | 1 | 1 | 115 | thin_body:115 |
-| 110 | [[chatsworth-man-sentenced-to-more-than-7-years-in-prison-for-cyberstalking-campaigns-against-victims-in-califor]] | cases | 10 | 1 | 1 | 97 | thin_body:97 |
-| 111 | [[chester-county-doctor-pleads-guilty-to-operating-pill-mill-out-of-main-line-pain-clinic]] | cases | 10 | 1 | 1 | 90 | thin_body:90 |
-| 112 | [[chicago-area-man-sentenced-for-role-in-nationwide-fraud-conspiracy]] | cases | 10 | 1 | 1 | 77 | thin_body:77 |
-| 113 | [[chilean-charged-with-cyberstalking]] | cases | 10 | 1 | 1 | 89 | thin_body:89 |
-| 114 | [[chinese-national-indicted-for-his-role-in-distributing-fentanyl-that-resulted-in-four-drug-overdoses-in-oregon]] | cases | 10 | 1 | 1 | 93 | thin_body:93 |
-| 115 | [[chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | cases | 10 | 1 | 1 | 139 | thin_body:139 |
-| 116 | [[chinese-national-sentenced-to-15-years-in-prison-for-conspiring-to-sell-oxycodone-on-the-darknet]] | cases | 10 | 1 | 1 | 94 | thin_body:94 |
-| 117 | [[chinese-national-sentenced-to-nearly-4-years-in-federal-prison-for-role-in-multimillion-dollar-cryptocurrency-]] | cases | 10 | 1 | 1 | 121 | thin_body:121 |
-| 118 | [[chinese-national-sentenced-to-prison-for-role-in-crypto-scam-targeting-americans]] | cases | 10 | 1 | 1 | 116 | thin_body:116 |
-| 119 | [[cleveland-man-sentenced-to-prison-for-leading-conspiracy-that-purchased-thousands-worth-of-jewelry-using-stole]] | cases | 10 | 1 | 1 | 95 | thin_body:95 |
-| 120 | [[co-creator-of-dark-web-marketplace-pleads-guilty-in-chicago-to-drug-conspiracy-charge]] | cases | 10 | 1 | 1 | 89 | thin_body:89 |
+| 84 | [[attorney-arrested-on-charges-of-insider-trading]] | cases | 10 | 1 | 1 | 73 | thin_body:73 |
+| 85 | [[auburn-man-sentenced-to-more-than-24-years-in-federal-prison-for-sharing-child-sexual-abuse-material-on-the-da]] | cases | 10 | 1 | 1 | 118 | thin_body:118 |
+| 86 | [[auburn-washington-man-charged-federally-for-drug-distribution-and-illegal-firearms-possession]] | cases | 10 | 1 | 1 | 98 | thin_body:98 |
+| 87 | [[auburn-washington-man-who-converted-garage-to-a-fentanyl-pill-manufacturing-lab-sentenced-to-11-years-in-priso]] | cases | 10 | 1 | 1 | 132 | thin_body:132 |
+| 88 | [[bay-area-residents-sentenced-to-five-years-for-counterfeit-currency-and-credit-card-fraud-schemes]] | cases | 10 | 1 | 1 | 131 | thin_body:131 |
+| 89 | [[bellingham-washington-drug-dealer-sentenced-to-ten-years-in-prison-for-distributing-fentanyl-while-possessing-]] | cases | 10 | 1 | 1 | 106 | thin_body:106 |
+| 90 | [[beresford-man-sentenced-to-over-33-years-in-federal-prison-for-receipt-and-distribution-of-child-pornography]] | cases | 10 | 1 | 1 | 132 | thin_body:132 |
+| 91 | [[beverly-hills-man-sentenced-to-5-years-in-federal-prison-for-attempting-to-hire-hitman-to-kill-woman-he-briefl]] | cases | 10 | 1 | 1 | 116 | thin_body:116 |
+| 92 | [[billings-meth-fentanyl-dealer-sentenced-to-12-years-in-prison]] | cases | 10 | 1 | 1 | 94 | thin_body:94 |
+| 93 | [[boone-man-is-sentenced-to-eight-years-in-federal-prison-for-using-the-dark-web-to-transport-child-pornography]] | cases | 10 | 1 | 1 | 114 | thin_body:114 |
+| 94 | [[botnet-dismantled-in-international-operation-russian-and-kazakhstani-administrators-indicted]] | cases | 10 | 1 | 1 | 78 | thin_body:78 |
+| 95 | [[bradley-lefebvre-sentenced-on-federal-harassment-charge]] | cases | 10 | 1 | 1 | 88 | thin_body:88 |
+| 96 | [[brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | cases | 10 | 1 | 1 | 132 | thin_body:132 |
+| 97 | [[brazilian-national-indicted-for-selling-firearms]] | cases | 10 | 1 | 1 | 105 | thin_body:105 |
+| 98 | [[brazilian-national-pleads-guilty-to-role-in-nationwide-rideshare-and-delivery-account-fraud-scheme]] | cases | 10 | 1 | 1 | 123 | thin_body:123 |
+| 99 | [[brooklyn-ny-consultant-for-amazon-sellers-sentenced-to-home-detention-and-fine-for-role-in-bribery-scheme]] | cases | 10 | 1 | 1 | 108 | thin_body:108 |
+| 100 | [[brooksville-man-sentenced-to-prison-for-electronic-prescribing-fraud-scheme]] | cases | 10 | 1 | 1 | 114 | thin_body:114 |
+| 101 | [[california-businessman-indicted-for-tax-evasion]] | cases | 10 | 1 | 1 | 117 | thin_body:117 |
+| 102 | [[california-man-indicted-in-cryptocurrency-money-laundering-conspiracy]] | cases | 10 | 1 | 1 | 90 | thin_body:90 |
+| 103 | [[california-man-sentenced-cryptocurrency-money-laundering-conspiracy]] | cases | 10 | 1 | 1 | 139 | thin_body:139 |
+| 104 | [[california-teenager-pleads-guilty-in-florida-to-making-hundreds-of-swatting-calls-across-the-united-states]] | cases | 10 | 1 | 1 | 92 | thin_body:92 |
+| 105 | [[cambridge-man-sentenced-for-child-pornography-offense]] | cases | 10 | 1 | 1 | 109 | thin_body:109 |
+| 106 | [[carmichaels-man-sentenced-to-3-years-for-cyberstalking]] | cases | 10 | 1 | 1 | 75 | thin_body:75 |
+| 107 | [[charlestown-man-sentenced-to-ten-years-in-federal-prison-following-a-fourth-conviction-on-child-pornography-ch]] | cases | 10 | 1 | 1 | 95 | thin_body:95 |
+| 108 | [[chatsworth-man-pleads-guilty-to-stalking-charges-for-sending-two-sisters-death-threats-and-harassment-campaign]] | cases | 10 | 1 | 1 | 115 | thin_body:115 |
+| 109 | [[chatsworth-man-sentenced-to-more-than-7-years-in-prison-for-cyberstalking-campaigns-against-victims-in-califor]] | cases | 10 | 1 | 1 | 97 | thin_body:97 |
+| 110 | [[chester-county-doctor-pleads-guilty-to-operating-pill-mill-out-of-main-line-pain-clinic]] | cases | 10 | 1 | 1 | 90 | thin_body:90 |
+| 111 | [[chicago-area-man-sentenced-for-role-in-nationwide-fraud-conspiracy]] | cases | 10 | 1 | 1 | 77 | thin_body:77 |
+| 112 | [[chilean-charged-with-cyberstalking]] | cases | 10 | 1 | 1 | 89 | thin_body:89 |
+| 113 | [[chinese-national-indicted-for-his-role-in-distributing-fentanyl-that-resulted-in-four-drug-overdoses-in-oregon]] | cases | 10 | 1 | 1 | 93 | thin_body:93 |
+| 114 | [[chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | cases | 10 | 1 | 1 | 139 | thin_body:139 |
+| 115 | [[chinese-national-sentenced-to-15-years-in-prison-for-conspiring-to-sell-oxycodone-on-the-darknet]] | cases | 10 | 1 | 1 | 94 | thin_body:94 |
+| 116 | [[chinese-national-sentenced-to-nearly-4-years-in-federal-prison-for-role-in-multimillion-dollar-cryptocurrency-]] | cases | 10 | 1 | 1 | 121 | thin_body:121 |
+| 117 | [[chinese-national-sentenced-to-prison-for-role-in-crypto-scam-targeting-americans]] | cases | 10 | 1 | 1 | 116 | thin_body:116 |
+| 118 | [[cleveland-man-sentenced-to-prison-for-leading-conspiracy-that-purchased-thousands-worth-of-jewelry-using-stole]] | cases | 10 | 1 | 1 | 95 | thin_body:95 |
+| 119 | [[co-creator-of-dark-web-marketplace-pleads-guilty-in-chicago-to-drug-conspiracy-charge]] | cases | 10 | 1 | 1 | 89 | thin_body:89 |
+| 120 | [[coleman-man-identified-by-distinctive-tattoos-sentenced-to-720-months-in-federal-prison-for-producing-child-se]] | cases | 10 | 1 | 1 | 99 | thin_body:99 |
 
 ## Remediation Rules
 

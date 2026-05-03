@@ -2,19 +2,24 @@
 type: source
 title: "Treaty 185 signatures chart"
 raw_path: raw/press-releases/2026-04-17_coe-int_treaty-185-signatures-chart.md
-source_type: press-release
+source_type: treaty-status-record
 publisher: "Council of Europe"
 author: ""
 publish_date: 2026-04-17
 ingest_date: 2026-04-17
 language: en
-reliability: medium
+reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - budapest-convention
+  - south-korea
+  - overview
 
 key_findings:
-  - "Spain is a **key EU cybercrime cooperation partner**, with two specialised national cyber investigation bodies operating in parallel: the **Guardia Civil's Grupo de Delitos Telemáticos (GDT)** — founded 1996 as one of Europe's earliest cybercrime units — and the **Policía Nacional's Brigada Central de Investigación Tecnológica (BIT)**. Spain ratified the Budapest Convention on **3 June 2010** and modified its Criminal Code and Criminal Procedure Act in 2015 to implement Convention requirements."
+  - "Council of Europe Treaty Office chart for the Convention on Cybercrime (ETS No. 185), status as of 25/04/2026."
+  - "The chart records 81 ratifications/accessions and 2 signatures not followed by ratification."
+  - "Republic of Korea is listed without a ratification/accession date or entry-into-force date and with the note-4 invitation marker; it is therefore not counted as a party in this chart."
 collection_url: "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185"
 created: 2026-04-17
 text_status: parsed
@@ -29,7 +34,7 @@ attribution_url: "https://www.coe.int/en/web/conventions/full-list?module=signat
 ---
 ## Source Summary
 
-Spain is a **key EU cybercrime cooperation partner**, with two specialised national cyber investigation bodies operating in parallel: the **Guardia Civil's Grupo de Delitos Telemáticos (GDT)** — founded 1996 as one of Europe's earliest cybercrime units — and the **Policía Nacional's Brigada Central de Investigación Tecnológica (BIT)**. Spain ratified the [[budapest-convention|Budapest Convention]] on **3 June 2010** and modified its Criminal Code and Criminal Procedure Act in 2015 to implement Convention requirements.
+Council of Europe Treaty Office chart for the [[budapest-convention|Convention on Cybercrime (ETS No. 185)]], status as of 25/04/2026. The chart records 81 ratifications/accessions and 2 signatures not followed by ratification. It lists the Republic of Korea without a ratification/accession date or entry-into-force date and with the note-4 invitation marker, so Korea should be treated as invited to accede, not a party, in current wiki analysis.
 
 ## Relevance to IC
 

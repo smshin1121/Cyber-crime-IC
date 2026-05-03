@@ -35,6 +35,10 @@ copyright_policy: summary-only
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/coordinated-action-cuts-access-to-vpn-service-used-ransomware-groups
 collection_domain: europol.europa.eu
 updated: 2026-04-29
+duplicate_of: "[[2021-06-30_europol-europa-eu_coordinated-action-cuts-off-access-to-vpn-service-used-by-ransomware-groups]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://europol.europa.eu/media-press/newsroom/news/coordinated-action-cuts-access-to-vpn-service-used-ransomware-groups"
+duplicate_normalized_at: 2026-05-02
 ---
 ## Source
 

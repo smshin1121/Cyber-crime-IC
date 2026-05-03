@@ -7,7 +7,8 @@ publisher: Europol
 author: ""
 publish_date: 2019-05-01
 ingest_date: 2026-04-17
-updated: 2026-04-29
+created: 2026-04-17
+updated: 2026-05-02
 language: en
 reliability: high
 credibility: confirmed

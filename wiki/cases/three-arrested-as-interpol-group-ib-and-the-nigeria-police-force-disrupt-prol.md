@@ -40,7 +40,7 @@ source_count: 1
 sources:
   - "[[2020-11-01_interpol-int_three-arrested-as-interpol-group-ib-and-the-nigeria-police-force-disrupt-prol]]"
 created: 2026-04-18
-updated: "2026-04-26"
+updated: 2026-05-02
 summary: "Three Arrested As Interpol Group Ib And The Nigeria Police Force Disrupt Prol... is documented in the linked source material. INTERPOL, Group-IB, and the Nigeria Police Force conducted Operation Falcon, a joint investigation that resulted in the arrest of 3 Nigerian nationals in November 2020. Available source coverage includes INTERPOL."
 ---
 ## Summary
@@ -49,6 +49,8 @@ Three Arrested As Interpol Group Ib And The Nigeria Police Force Disrupt Prol...
 
 ## Source Coverage
 
+- INTERPOL, 2020-11-01: Three Arrested As Interpol Group Ib And The Nigeria Police Force Disrupt Prol....
+- Source coverage is single-source; absent details should be treated as unobserved in the current corpus, not disproven.
 
 ## Operational Timeline
 

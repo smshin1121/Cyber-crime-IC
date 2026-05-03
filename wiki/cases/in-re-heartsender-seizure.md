@@ -46,11 +46,11 @@ sources:
   - "[[2025-01-29_sdtx_heartsender-seizure]]"
 created: 2026-04-17
 updated: "2026-04-26"
-summary: "In re HeartSender / Saim Raza Seizure captures the court-backed U.S. seizure action announced by DOJ on 29 January 2025 against the HeartSender / Saim Raza cybercrime service. The public record focuses on domain and server seizures rather than a named public indictment."
+summary: "In re HeartSender / Saim Raza Seizure captures the court-backed U.S. seizure action executed on 29 January 2025 and announced by DOJ on 30 January 2025 against the HeartSender / Saim Raza cybercrime service. The public record focuses on domain and server seizures rather than a named public indictment."
 ---
 ## Summary
 
-In re HeartSender / Saim Raza Seizure captures the court-backed U.S. seizure action announced by DOJ on 29 January 2025 against the HeartSender / Saim Raza cybercrime service. The public record focuses on domain and server seizures rather than a named public indictment.
+In re HeartSender / Saim Raza Seizure captures the court-backed U.S. seizure action executed on 29 January 2025 and announced by DOJ on 30 January 2025 against the HeartSender / Saim Raza cybercrime service. The public record focuses on domain and server seizures rather than a named public indictment.
 
 ## Facts
 
@@ -90,7 +90,8 @@ The matter has *moderate* precedent value because it shows a practical hybrid mo
 
 | Date | Event |
 |------|-------|
-| 2025-01-29 | DOJ announces seizure of 39 domains and related HeartSender infrastructure |
+| 2025-01-29 | Seizure of 39 domains and related HeartSender infrastructure executed |
+| 2025-01-30 | DOJ announces the coordinated U.S.-Dutch seizure |
 | 2025-01-29 | U.S.-Dutch operation publicly linked to phishing and BEC tooling disruption |
 | 2025-05 | Pakistan announces follow-on arrests tied to the same network |
 
@@ -112,4 +113,4 @@ South Korea was not publicly identified as a participant. The case remains relev
 
 | # | Source | Publisher | Date | URL |
 |---|--------|-----------|------|-----|
-| 1 | International Operation Takes Down Cybercrime Ring Selling Hacking Tools | DOJ SDTX | 2025-01-29 | https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools |
+| 1 | Cybercrime websites selling hacking tools to transnational organized crime groups seized | DOJ SDTX | 2025-01-30 | https://www.justice.gov/usao-sdtx/pr/cybercrime-websites-selling-hacking-tools-transnational-organized-crime-groups-seized |

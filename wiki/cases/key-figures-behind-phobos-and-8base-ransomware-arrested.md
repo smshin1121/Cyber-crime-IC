@@ -5,7 +5,7 @@ case_number: "Not specified in available source metadata"
 jurisdiction: "International law enforcement action (multi-jurisdictional)"
 jurisdiction_country: "[[international]]"
 case_type: prosecution
-status: prosecuted
+status: "arrests announced"
 crime_charged:
   - "[[ransomware-ic]]"
 defendants:
@@ -38,12 +38,12 @@ source_count: 1
 sources:
   - "[[2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested]]"
 created: 2026-04-18
-updated: 2026-04-26
-summary: "Key figures behind Phobos and 8Base ransomware arrested is documented in the linked source material. South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Available source coverage includes Europol."
+updated: 2026-05-03
+summary: "Europol's 2025-02-11 source documents a coordinated Phobos/8Base ransomware action with four arrests, 27 servers taken down, and 400+ companies warned. This one-source case wrapper is retained for traceability; fuller source-backed analysis lives in [[phobos-8base-crackdown]]."
 ---
 ## Summary
 
-Key figures behind Phobos and 8Base ransomware arrested is documented in the linked source material. South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Available source coverage includes Europol.
+Europol's 2025-02-11 source documents a coordinated action against the Phobos and 8Base ransomware ecosystem. Publicly reported results include **four arrests**, **27 servers taken down**, and **400+ companies warned** of ongoing or imminent attacks. This one-source case wrapper is retained for source traceability; fuller analysis belongs in [[phobos-8base-crackdown]].
 
 ## Source Coverage
 
@@ -55,20 +55,20 @@ Key figures behind Phobos and 8Base ransomware arrested is documented in the lin
 
 ## International Cooperation Details
 
-- Named agencies and partners include Europol Ec3.
+- Named agencies and partners include Europol EC3.
 - Recorded cooperation mechanisms include informal cooperation.
 
 ## Legal and Procedural Posture
 
 - Recorded crime classification: ransomware.
 - Legal or procedural basis recorded in metadata: informal cooperation.
-- The record is categorized as prosecution with status prosecuted.
+- The record is categorized as prosecution with status arrests announced.
 - Related legal or operational records: Operation Key Figures Behind Phobos And 8base Ransomware Arrested.
 
 ## Evidence and Attribution Notes
 
-- South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation.
-- Korea was **invited to accede** to the Budapest Convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to.
+- This page is not a country-capacity profile and should not be used to make general claims about South Korea's legal framework.
+- The linked Europol source supports the operation-level facts above; defendant-specific prosecution status and court outcomes require separate filings.
 
 
 ## References

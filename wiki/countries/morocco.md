@@ -1,129 +1,36 @@
 ---
-bilateral_agreements: []
-central_authority:
-  budapest: Directorate General for National Security (DGSN) — Cybercrime Unit
-  mlat: Ministry of Justice of Morocco
-cooperation_assessment: Morocco is *likely* a medium-capacity cooperation partner
-  in North Africa. It acceded to the Budapest Convention in 2018 (entry into force
-  October 2018), making it one of only a few African parties. Morocco has **not**
-  ratified the AU's Malabo Convention, distinguishing it from other African states.
-  French is the working diplomatic language, with Arabic as primary.
 created: 2026-04-10
-cybercrime_legislation:
-  data_retention: unknown
-  primary_law: Law No. 07-03 completing the Penal Code (Articles 607-3 to 607-11)
-  primary_law_date: '2003-11-11'
-  procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-ic_capacity:
-  24_7_availability: true
-  avg_mlat_response_days: unknown
-  digital_forensics: medium
-  english_proficiency: medium
-  rating: medium
+ic_capacity: not-assessed
 iso_code: MA
-key_agencies:
-- '[[morocco-dgsn]]'
-- '[[morocco-dgst]]'
-- '[[maroc-cert]]'
-last_verified: '2026-04-10'
-legal_system: mixed
-notable_cases: []
-operations_participated: []
+last_verified: 2026-05-03
+legal_system: not-assessed
+operations_participated:
+  []
 region: north-africa
 source_count: 0
-sources: []
-title: Kingdom of Morocco
+sources:
+  []
+title: "Kingdom of Morocco"
 treaty_memberships:
-- date: '2018-06-29'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2018-06-29'
-  framework: '[[first-additional-protocol-xenophobia]]'
-  reservations: []
-  status: party
-- date: ''
-  framework: '[[malabo-convention]]'
-  reservations: []
-  status: non-party
+  - not-assessed
 type: country
-updated: 2026-04-10
+updated: 2026-05-03
+status: needs-official-source-ingestion
+assessment_confidence: limited
+verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---
-
 ## Summary
 
-Morocco is one of a small number of African countries that have acceded to the **Budapest Convention** (effective 1 October 2018). Unlike most African peers, Morocco has **not** ratified the African Union's Malabo Convention, reflecting its orientation toward European and Council of Europe frameworks. Law 07-03 (2003) implements substantive cybercrime offences within the Penal Code.
+Kingdom of Morocco is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this jurisdiction.
 
-## Legal Framework for Cybercrime
+## Verification Status
 
-### Substantive Criminal Law
+No direct country-profile source is linked in this repository for this page. As of 2026-05-03, legal-system, central-authority, treaty-membership, cybercrime-capacity, and national-agency claims are marked `not-assessed` rather than inferred from geography, operation participation, or prior unsourced prose.
 
-**Law No. 07-03** (11 November 2003) introduced **Articles 607-3 to 607-11** into the Moroccan Penal Code:
-- 607-3: Fraudulent access to automated data processing systems
-- 607-4 to 607-6: Aggravated access, data interference, system interference
-- 607-7 to 607-10: Forgery and manipulation of electronic data
-- 607-11: Misuse of devices
+## Corpus Relationships
 
-These provisions are reported by the Council of Europe as *highly likely* aligned with Budapest Convention substantive requirements.
+No operation backlinks are currently recorded for this country node.
 
-### Procedural Powers
+## Follow-up Source Targets
 
-Morocco's Code of Criminal Procedure provides general search-and-seizure authority extended to digital evidence. Specific preservation and production powers aligned with Budapest Convention Articles 16-21 are *likely* in place but detailed implementation status is *unknown* from available sources.
-
-### Mutual Legal Assistance
-
-- **Central authority:** Ministry of Justice
-- **Operational channel:** DGSN (National Police) for law enforcement cooperation
-
-## Treaty Memberships
-
-| Framework | Status | Date | Notes |
-|-----------|--------|------|-------|
-| [[budapest-convention]] | Party | 2018-06-29 (accession); entered into force 2018-10-01 | Announced 2015-10-18 |
-| [[first-additional-protocol-xenophobia]] | Party | 2018-06-29 | |
-| [[malabo-convention]] | Non-party | — | |
-| UNTOC | Party | 2002 | |
-| UNCAC | Party | 2007 | |
-
-## Key Agencies
-
-### Directorate General for National Security (DGSN)
-See [[morocco-dgsn]].
-- National police
-- Houses Morocco's cybercrime investigation capability
-
-### General Directorate for the Surveillance of the Territory (DGST)
-See [[morocco-dgst]].
-- Intelligence and national security (cyber espionage threat assessment)
-
-### maroc-CERT
-See [[maroc-cert]].
-- National CERT
-
-## Cooperation Track Record
-
-Morocco participates in GLACY+ and has hosted Council of Europe cybercrime cooperation conferences (e.g., Rabat conference). Specific operational footprint in multilateral takedowns is *unknown* from available sources.
-
-## Capacity Assessment
-
-- **Legal framework:** Aligned with Budapest Convention since 2018
-- **Working languages:** Arabic, French (English proficiency medium)
-- **Regional role:** Active participant in Francophone Africa cybercrime cooperation
-
-## Contradictions & Open Questions
-
-- Why did Morocco opt for Budapest over Malabo Convention?
-- What is Morocco's operational role in regional takedowns?
-- How effective is the 24/7 contact point in practice?
-
-## References
-
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
-| 1 | Morocco — Octopus Cybercrime Community | Council of Europe | n.d. | https://www.coe.int/en/web/octopus/-/morocco |
-| 2 | Parties/Observers to the Budapest Convention | Council of Europe | n.d. | https://www.coe.int/en/web/cybercrime/parties-observers |
-| 3 | International conference in Morocco on cybercrime and e-evidence | Council of Europe DSG | n.d. | https://www.coe.int/en/web/deputy-secretary-general/-/international-conference-in-morocco-on-strengthening-co-operation-on-cybercrime-and-e-evidence-in-africa |
-| 4 | Malabo Convention Wikipedia | Wikipedia | n.d. | https://en.wikipedia.org/wiki/Malabo_Convention |
+The next reliable sources for this page are official national police or prosecutor cybercrime pages, justice-ministry mutual-assistance pages, Budapest Convention or UN treaty-status records, and primary operation releases naming the country. Until those are linked, use this page for navigation and relationship tracing only; do not use it as authority for legal-system detail, MLAT performance, 24/7 contact availability, or national cyber-investigative maturity.

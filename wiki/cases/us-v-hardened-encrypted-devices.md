@@ -38,7 +38,7 @@ source_count: 1
 sources:
   - "[[2026-04-17_justice-gov_distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeer]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-05-02
 summary: "United States v. Hardened Encrypted Devices is documented in the linked source material. ANOM Distributors is the San Diego prosecution of the 17-defendant enterprise charged in connection with Operation Trojan Shield. Available source coverage includes justice.gov."
 ---
 ## Summary
@@ -47,6 +47,8 @@ United States v. Hardened Encrypted Devices is documented in the linked source m
 
 ## Source Coverage
 
+- justice.gov, 2026-04-17: Distributor of ANOM Hardened Encrypted Devices Sentenced to 63 Months in Prison for Racketeering Conspiracy.
+- Source coverage is single-source; absent details should be treated as unobserved in the current corpus, not disproven.
 
 ## Operational Timeline
 

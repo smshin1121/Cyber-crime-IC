@@ -22,6 +22,10 @@ storage_mode: source-digest
 content_hash: sha256:357d66007cf306a056295ef95d6fdecb8815a01c73b7a23af7b044614538e575
 word_count: 209
 extraction_date: 2026-04-28
+duplicate_of: "[[2021-06-08-europol-trojan-shield-an0m]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://europol.europa.eu/media-press/newsroom/news/800-criminals-arrested-in-biggest-ever-law-enforcement-operation-against-encrypted-communication"
+duplicate_normalized_at: 2026-05-02
 ---
 ## Source Summary
 

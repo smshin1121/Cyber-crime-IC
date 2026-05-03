@@ -88,14 +88,12 @@ lessons_learned:
   - "Botnet infrastructure can be repurposed to deliver uninstall payloads to victims"
   - "Multi-year investigation timeline required to map globally distributed C2 infrastructure"
   - "Despite successful takedown, Emotet resurfaced 10 months later -- infrastructure disruption alone is insufficient without arrests of key operators"
-source_count: 6
+source_count: 4
 sources:
   - "[[2021-01-27-europol-emotet-disruption]]"
-  - "[[2021-01-27-doj-emotet-disruption]]"
+  - "[[2021-01-27_mdnc_emotet-disruption-order]]"
   - "[[2021-01-27-eurojust-emotet-operation]]"
   - "[[2021-01-27-doj-mdnc-emotet]]"
-  - "[[2021-01-27_mdnc_emotet-disruption-order]]"
-  - "[[2026-04-17_justice-gov_documents-and-resources-related-disruption-emotet-malware-and-botnet]]"
 created: 2026-04-10
 updated: 2026-04-29
 operation_role: umbrella
@@ -297,7 +295,6 @@ South Korea was **not among the eight participating countries** in Operation Lad
 - Eurojust, 2021-01-27: Major operation to take down dangerous malware systems.
 - US Attorney's Office, Middle District of North Carolina (DOJ), 2021-01-27: Emotet Botnet Disrupted in International Cyber Operation.
 - US DOJ (OPA / M.D.N.C.), 2021-01-27: Emotet Botnet Disrupted in International Cyber Operation.
-- justice.gov, 2026-04-17: Page not found.
 
 ## Evidence and Attribution Notes
 
@@ -335,7 +332,7 @@ The cooperation model is documented through named agencies and partners: Netherl
 
 Operational results captured for the canonical record: 2 arrests; 700 servers seized; 2000 domains seized; 1000000 victims notified; 4.3 million compromised email addresses recovered by Dutch police; Law enforcement deployed uninstall module to infected machines (activated 2021-04-25); Emotet botnet resurfaced in November 2021 via TrickBot infrastructure.
 
-The canonical source set contains 6 reference(s): 2021 01 27 Europol Emotet Disruption, 2021 01 27 Doj Emotet Disruption, 2021 01 27 Eurojust Emotet Operation, 2021 01 27 Doj Mdnc Emotet, 2021 01 27 Mdnc Emotet Disruption Order, 2026 04 17 Justice Gov Documents And Resources Related Disruption Emotet Malware And Botnet.
+The canonical source set contains 4 reference(s): 2021 01 27 Europol Emotet Disruption, 2021 01 27 Eurojust Emotet Operation, 2021 01 27 Doj Mdnc Emotet, 2021 01 27 Mdnc Emotet Disruption Order.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
 Known metadata gaps still carried by this page: Cryptocurrency Seized and Full List Of National Agencies Beyond Lead Participants.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
@@ -348,9 +345,7 @@ This keeps the canonical record analytically bounded and reproducible.
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | World's most dangerous malware EMOTET disrupted through global action | Europol | 2021-01-27 |  |
-| [2] | Emotet Botnet Disrupted in International Cyber Operation | US Department of Justice (Office of Public Affairs) | 2021-01-27 |  |
-| [3] | Major operation to take down dangerous malware systems | Eurojust | 2021-01-27 |  |
-| [4] | Emotet Botnet Disrupted in International Cyber Operation | US Attorney's Office, Middle District of North Carolina (DOJ) | 2021-01-27 |  |
-| [5] | Emotet Botnet Disrupted in International Cyber Operation | US DOJ (OPA / M.D.N.C.) | 2021-01-27 | https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation |
-| [6] | Page not found | justice.gov | 2026-04-17 | https://www.justice.gov/opa/documents-and-resources-related-disruption-emotet-malware-and-botnet |
+| [1] | World's most dangerous malware EMOTET disrupted through global action | Europol | 2021-01-27 | https://www.europol.europa.eu/media-press/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action |
+| [2] | Emotet Botnet Disrupted in International Cyber Operation | US DOJ (OPA / M.D.N.C.) | 2021-01-27 | https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation |
+| [3] | Major operation to take down dangerous malware systems | Eurojust | 2021-01-27 | https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems |
+| [4] | Emotet Botnet Disrupted in International Cyber Operation | US Attorney's Office, Middle District of North Carolina (DOJ) | 2021-01-27 | https://www.justice.gov/usao-mdnc/pr/emotet-botnet-disrupted-international-cyber-operation |

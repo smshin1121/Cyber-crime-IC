@@ -24,7 +24,7 @@ parser: jina_markdown
 ---
 ## Summary
 
-Spain is a **key EU cybercrime cooperation partner**, with two specialised national cyber investigation bodies operating in parallel: the **Guardia Civil's Grupo de Delitos Telemáticos (GDT)** — founded 1996 as one of Europe's earliest cybercrime units — and the **Policía Nacional's Brigada Central de Investigación Tecnológica (BIT)**. Spain ratified the [[budapest-convention|Budapest Convention]] on **3 June 2010** and modified its Criminal Code and Criminal Procedure Act in 2015 to implement Convention requirements.
+Council of Europe Treaty Office chart for the [[budapest-convention|Convention on Cybercrime (ETS No. 185)]], status as of 25/04/2026. The chart records 81 ratifications/accessions and 2 signatures not followed by ratification. It lists the Republic of Korea without a ratification/accession date or entry-into-force date and with the note-4 invitation marker, so Korea should be treated as invited to accede, not a party, in current wiki analysis.
 
 ## Extracted Text
 

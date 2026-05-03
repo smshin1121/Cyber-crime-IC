@@ -27,6 +27,10 @@ content_hash: sha256:db1a8728e632f4709630a08c7e9b23c966a44a105863bfa9d7480904de9
 word_count: 129
 extraction_date: 2026-04-27
 copyright_policy: summary-only
+duplicate_of: "[[2023-03-29_scworld-com_us-convicts-nigerian-bec-scammer]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://scworld.com/brief/us-convicts-nigerian-bec-scammer"
+duplicate_normalized_at: 2026-05-02
 ---
 ## Summary
 

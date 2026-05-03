@@ -78,7 +78,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-03
 ---
 
 ## Summary
@@ -181,11 +181,11 @@ Korea-Netherlands cybercrime cooperation is *likely* conducted primarily through
 
 - **Europol-coordinated operations:** Both countries participated in [[phobos-8base-crackdown]] (2025)
 - **INTERPOL operations:** Both participated in [[operation-haechi-v]] (2024)
-- **Budapest Convention:** Both parties (Netherlands since 2006, Korea since 2024), providing mutual MLA legal basis
+- **Budapest Convention:** The Netherlands is a party (ratified 2006); Korea remains invited-to-accede and is not yet a party in the Council of Europe Treaty Office chart status dated 2026-04-25, so party-to-party Convention channels are not yet available for Netherlands-Korea matters
 - **Europol/Eurojust hosting:** The Netherlands' hosting of these bodies means Korean liaison with EU agencies transits through Dutch territory
 
 > [!note]
-> This page is based on general knowledge of Dutch cybercrime cooperation structures and publicly available information. No collected sources have been ingested for this country profile. Content should be verified against primary sources.
+> This page now has collected source coverage from Dutch police, Dutch prosecution, Eurojust, and Council of Europe country-profile material. Legal-framework and operational-capacity statements still require claim-level checking against the listed primary or official sources.
 
 ## Contradictions & Open Questions
 
@@ -197,4 +197,4 @@ Korea-Netherlands cybercrime cooperation is *likely* conducted primarily through
 ## References
 
 > [!note]
-> This page was created based on general knowledge. No dedicated sources have been ingested (source_count: 0). Key claims should be verified against Dutch National Police annual reports, Ministry of Justice publications, and Council of Europe data.
+> Source coverage exists for this profile (source_count: 5). Remaining open claims should be checked against Dutch National Police, Openbaar Ministerie, Ministry of Justice and Security, and Council of Europe records before operational use.

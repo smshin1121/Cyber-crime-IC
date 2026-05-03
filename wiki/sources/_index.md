@@ -131,20 +131,15 @@ updated: 2026-04-14
 | [[2026-04-17_ko-wikipedia-org_]] | press-release | 위키백과 | ? | medium | ? |
 | [[2026-04-17_kisa-or-kr_korea-internet-security-agency-english]] | press-release | KISA | ? | medium | ? |
 | [[2026-04-17_justizministerium-hessen-de_justizministerinnen-besuchen-zentralstelle-zur-bek-mpfung-der-internetkriminalit]] | press-release | Hessen Justizministerium | ? | medium | ? |
-| [[2026-04-17_justice-gov_ukrainian-national-sentenced-to-10-years-in-prison-for-role-in-fin7-malware-sche]] | press-release | U.S. District Court for the Western District of Washington | ? | high | ? |
 | [[2026-04-17_justice-gov_trickbot-conti-sdca-indictment-pdf]] | press-release | justice.gov | ? | medium | ? |
 | [[2026-04-17_justice-gov_trickbot-conti-mdtn-indictment-pdf]] | press-release | justice.gov | ? | medium | ? |
-| [[2026-04-17_justice-gov_page-not-found]] | press-release | U.S. District Court for the Southern District of Texas | ? | high | ? |
 | [[2026-04-17_justice-gov_organized-romanian-criminal-groups-targeted-by-doj-and-romanian-law-enforcement]] | press-release | US DOJ | ? | high | ? |
 | [[2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes]] | press-release | justice.gov | ? | medium | ? |
 | [[2026-04-17_justice-gov_lockbit]] | press-release | justice.gov | ? | medium | ? |
-| [[2026-04-17_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl]] | press-release | U.S. District Court for the District of Columbia | ? | high | ? |
-| [[2026-04-17_justice-gov_international-operation-takes-down-cybercrime-ring-selling-hacking-tools]] | press-release | U.S. District Court for the Southern District of Texas | ? | high | ? |
 | [[2026-04-17_justice-gov_goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities]] | press-release | justice.gov | ? | medium | ? |
 | [[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]] | press-release | justice.gov | ? | medium | ? |
 | [[2026-04-17_justice-gov_foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]] | press-release | justice.gov | ? | high | ? |
 | [[2026-04-17_justice-gov_download]] | press-release | justice.gov | ? | medium | ? |
-| [[2026-04-17_justice-gov_documents-and-resources-related-disruption-emotet-malware-and-botnet]] | press-release | justice.gov | ? | medium | ? |
 | [[2026-04-17_justice-gov_distributor-of-anom-hardened-encrypted-devices-sentenced-to-63-months-in-prison]] | press-release | justice.gov | ? | high | ? |
 | [[2026-04-17_justice-gov_distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeer]] | press-release | justice.gov | ? | medium | ? |
 | [[2026-04-17_justice-gov_criminal-division-cybersecurity-unit]] | press-release | US Department of Justice | ? | medium | ? |
@@ -213,7 +208,7 @@ updated: 2026-04-14
 | [[2026-04-17_crossborderdataforum-org_frequently-asked-questions-about-the-u-s-cloud-act]] | press-release | Cross-Border Data Forum | ? | medium | ? |
 | [[2026-04-17_computersweden-se_s-arbetar-polisen-med-cyberbrott-vi-har-bra-kompetens]] | press-release | Computer Sweden | ? | medium | ? |
 | [[2026-04-17_coe-int_ukraine-cybercrime-country-profile]] | press-release | Council of Europe (Octopus) | ? | medium | ? |
-| [[2026-04-17_coe-int_treaty-185-signatures-chart]] | press-release | Council of Europe | ? | medium | ? |
+| [[2026-04-17_coe-int_treaty-185-signatures-chart]] | treaty-status-record | Council of Europe | ? | high | ? |
 | [[2026-04-17_coe-int_thailand]] | press-release | Council of Europe Octopus Cybercrime Community | ? | medium | ? |
 | [[2026-04-17_coe-int_switzerland-octopus-cybercrime-community]] | press-release | Council of Europe | ? | medium | ? |
 | [[2026-04-17_coe-int_switzerland-cybercrime-country-profile]] | press-release | Council of Europe / Octopus | ? | medium | ? |
@@ -278,8 +273,6 @@ updated: 2026-04-14
 | [[2026-04-17_apicc-info_republic-of-korea-apicc-member-profile]] | press-release | APICC | ? | medium | ? |
 | [[2026-04-17_afp-gov-au_cybercrime]] | press-release | Australian Federal Police | ? | medium | ? |
 | [[2026-04-17_acic-gov-au_official-website]] | press-release | Australian Criminal Intelligence Commission | ? | medium | ? |
-| [[2025-03-05_opa_wu-haibo-isoon-indictment]] | court-document | U.S. District Court for the District of Columbia | ? | high | ? |
-| [[2025-01-29_sdtx_heartsender-seizure]] | court-document | U.S. District Court for the Southern District of Texas | ? | high | ? |
 | [[2024-20-01_unodc-org_united-nations-convention-against-cybercrime-home]] | press-release | UNODC | ? | medium | ? |
 | [[2026-04-29_uscode-house-gov_18-usc-924-firearms-penalties]] | legal-text | Office of the Law Revision Counsel, U.S. House of Representatives | ? | high | ? |
 | [[2026-04-15_globalsecurity_two-us-nationals-sentenced-dprk-it-worker-5m-revenue]] | government-report | GlobalSecurity.org (DOJ document archive) | ? | high | ? |
@@ -972,7 +965,7 @@ updated: 2026-04-14
 | [[2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide]] | news | OCCRP | ? | medium | ? |
 | [[2025-05-22_kctv5_fraudulent-tax-returns-lead-indictment-kansas-city-woman]] | news | KCTV5 | ? | medium | ? |
 | [[2025-05-22_justice-gov_united-states-v-gallyamov-qakbot]] | press-release | US DOJ (OPA) | ? | high | ? |
-| [[2025-05-22_justice-gov_qakbot-gallyamov-indictment]] | press-release | US DOJ | ? | high | ? |
+| [[2025-05-22_justice-gov_qakbot-gallyamov-indictment]] | press-release | DOJ OPA | ? | high | ? |
 | [[2025-05-22_justice-gov_leader-of-qakbot-malware-conspiracy-indicted-gallyamov-indictment]] | press-release | US DOJ | ? | high | ? |
 | [[2025-05-22_justice-gov_leader-of-qakbot-malware-conspiracy-indicted-gallyamov]] | press-release | US DOJ | ? | high | ? |
 | [[2025-05-22_justice-gov_leader-of-qakbot-malware-conspiracy-indicted]] | press-release | US DOJ | ? | high | ? |
@@ -1095,8 +1088,8 @@ updated: 2026-04-14
 | [[2025-04-18_coindesk_feds-mistakenly-order-estonian-hashflare-fraudsters-to-self-deport-ahead-of-sentencin]] | news | CoinDesk | ? | medium | ? |
 | [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
-| [[2026-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace]] | press-release | U.S. Department of Justice | ? | high | ? |
-| [[2025-04-17_opa_parsarad-nemesis-indictment]] | court-document | U.S. Department of Justice | ? | high | ? |
+| [[2026-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace]] | press-release | DOJ OPA | ? | high | ? |
+| [[2025-04-17_opa_parsarad-nemesis-indictment]] | court-document | DOJ OPA | ? | high | ? |
 | [[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-oth]] | press-release | USAO ND Ohio | ? | high | ? |
 | [[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2025-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace]] | press-release | DOJ OPA | ? | high | ? |
@@ -1271,8 +1264,10 @@ updated: 2026-04-14
 | [[2025-03-06_infosecurity-magazine_us-charges-chinese-hackerforhire]] | news | Infosecurity Magazine | ? | medium | ? |
 | [[2025-03-06_dea-gov_second-defendant-sentenced-7-years-drug-trafficking-rvs-state-park-dea]] | press-release | DEA | ? | high | ? |
 | [[2025-03-06_dea-gov_second-defendant-sentenced-7-years-drug-trafficking-rvs-state-park]] | press-release | DEA | ? | high | ? |
+| [[2026-04-17_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl]] | press-release | DOJ OPA | ? | high | ? |
 | [[2025-03-05_wired-com_us-charges-12-alleged-spies-in-chinas-freewheeling-hacker-for-hire-ecosystem]] | news | WIRED | ? | medium | ? |
 | [[2025-03-05_securityweek_us-sanctions-iranian-administrator-nemesis-darknet-marketplace]] | news | SecurityWeek | ? | medium | ? |
+| [[2025-03-05_opa_wu-haibo-isoon-indictment]] | court-document | DOJ OPA | ? | high | ? |
 | [[2025-03-05_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl]] | press-release | DOJ OPA | ? | high | ? |
 | [[2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27-indictment]] | press-release | US DOJ | ? | high | ? |
 | [[2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27]] | press-release | US DOJ | ? | high | ? |
@@ -1391,6 +1386,8 @@ updated: 2026-04-14
 | [[2025-01-31_dea-gov_two-members-multi-state-drug-trafficking-aryan-prison-gangs-sentenced-lengthy-prison-terms]] | press-release | DEA | ? | high | ? |
 | [[2025-01-31_chronline_two-washington-residents-worked-aryan-gangs-sell-drugs-off-prison]] | news | The Daily Chronicle | ? | medium | ? |
 | [[2025-01-31_bleepingcomputer-com_operation-talent-cracked-nulled]] | news | BleepingComputer | ? | medium | ? |
+| [[2026-04-17_justice-gov_page-not-found]] | press-release | U.S. Attorney's Office, Southern District of Texas | ? | high | ? |
+| [[2026-04-17_justice-gov_international-operation-takes-down-cybercrime-ring-selling-hacking-tools]] | press-release | U.S. Attorney's Office, Southern District of Texas | ? | high | ? |
 | [[2025-01-30_krebsonsecurity-com_fbi-dutch-police-disrupt-manipulaters-phishing-gang]] | press-release | KrebsOnSecurity | ? | medium | ? |
 | [[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation]] | press-release | U.S. Department of Justice | ? | high | ? |
 | [[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-in-international-cyber-operation]] | press-release | U.S. Department of Justice | ? | high | ? |
@@ -1399,6 +1396,7 @@ updated: 2026-04-14
 | [[2025-01-30_cybernews-com_cracked-and-nulled-seized-in-operation-talent]] | news | Cybernews | ? | medium | ? |
 | [[2025-01-30_bka-de_strafverfolgungsbeh-rden-schalten-die-zwei-weltweit-gr-ten-cybercrime-foren-mit]] | press-release | Germany BKA | ? | medium | ? |
 | [[2025-01-30-europol-operation-talent]] | press-release | Germany BKA / Europol-supported operation | ? | high | ? |
+| [[2025-01-29_sdtx_heartsender-seizure]] | court-document | U.S. Attorney's Office, Southern District of Texas | ? | high | ? |
 | [[2025-01-29_justice-gov_justice-department-announces-seizure-of-cybercrime-websites-selling-hacking-tool]] | press-release | US DOJ | ? | high | ? |
 | [[2026-04-18_justice-gov_kucoin-pleads-guilty-unlicensed-money-transmission-charge-and-agrees-pay-penalties]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-01-27_europeantimes-news_criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-busted]] | news | The European Times | ? | medium | ? |
@@ -2012,6 +2010,7 @@ updated: 2026-04-14
 | [[bbc-911-s5-botnet-dismantling-1]] | press-release | US Department of Justice | 1 | high | ? |
 | [[bbc-911-s5-botnet-dismantling]] | news | BBC | 4 | medium | ? |
 | [[2026-04-18_justice-gov_2024-0529-miller-e-indictment]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2024-05-29_opa_yunhe-wang-911-s5-indictment]] | court-document | US DOJ | ? | high | ? |
 | [[2024-05-29_justice-gov_sturgis-man-charged-with-selling-counterfeit-drugs-on-dark-web]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]] | press-release | U.S. Department of Justice | ? | high | ? |
 | [[2024-05-29_justice-gov_911-s5-botnet-dismantled-and-its-administrator-arrested-in-coordinated-internati]] | press-release | U.S. Department of Justice | ? | high | ? |
@@ -2019,14 +2018,13 @@ updated: 2026-04-14
 | [[2024-05-29_fbi-gov_operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-o]] | press-release | FBI | ? | high | ? |
 | [[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors]] | guidance | Federal Bureau of Investigation | 2 | high | ? |
 | [[2024-05-29_cbsdetroit_michigan-man-charged-fake-xanax-counterfeit-drugs-dark-web]] | news | CBS Detroit | ? | medium | ? |
+| [[2024-05-22_justice-gov_united-states-v-yunhe-wang-911-s5-botnet]] | press-release | US DOJ | ? | high | ? |
+| [[2024-05-22_justice-gov_page-not-found]] | press-release | US DOJ | ? | high | ? |
 | [[2026-04-18_justice-gov_final-defendant-sentenced-ten-years-prison-fentanyl-distribution-scheme]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-05-28_treasury-gov_treasury-sanctions-a-cybercrime-network-associated-with-the-911-s5-botnet]] | press-release | U.S. Department of the Treasury | 1 | high | ? |
 | [[2024-05-28_justice-gov_final-defendant-sentenced-to-ten-years-in-prison-in-fentanyl-distribution-scheme]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-05-28_home-treasury-gov_treasury-sanctions-a-cybercrime-network-associated-with-the-911-s5-botnet]] | press-release | U.S. Treasury | ? | high | ? |
 | [[2024-05-23_newbedfordguide_chicago-rap-promoter-boston-scam-netted-millions-private-jet-luxury-cars-designer-puppies]] | news | New Bedford Guide | ? | medium | ? |
-| [[2024-05-29_opa_yunhe-wang-911-s5-indictment]] | court-document | US DOJ | ? | high | ? |
-| [[2024-05-22_justice-gov_united-states-v-yunhe-wang-911-s5-botnet]] | press-release | US DOJ | ? | high | ? |
-| [[2024-05-22_justice-gov_page-not-found]] | press-release | US DOJ | ? | high | ? |
 | [[2026-04-18_justice-gov_richmond-man-previously-convicted-weapons-charges-sentenced-possessing-machinegun]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-05-21_sdfl_tenzin-orgil-dark-web-sentencing]] | court-document | US DOJ (Southern District of Florida) | ? | high | ? |
 | [[2024-05-21_justice-gov_united-states-v-tenzin-orgil]] | press-release | US DOJ (Southern District of Florida) | ? | high | ? |
@@ -3627,6 +3625,7 @@ updated: 2026-04-14
 | [[2021-04-29_justice-gov_former-national-guard-member-pleads-guilty-internet-sexual-exploitation-qatar]] | press-release | US DOJ (Eastern District of California) | ? | high | ? |
 | [[2021-04-21_leagle_us-v-teixeira-spencer-21-145]] | case-document | Leagle.com | ? | high | ? |
 | [[2021-04-21_govinfo_us-courts-dcd-1-21-cr-00145]] | case-document | U.S. Government Publishing Office (govinfo.gov) | ? | high | ? |
+| [[2026-04-17_justice-gov_ukrainian-national-sentenced-to-10-years-in-prison-for-role-in-fin7-malware-sche]] | press-release | U.S. Attorney's Office, Western District of Washington | ? | high | ? |
 | [[2021-04-16_wdwa_hladyr-fin7-sentencing]] | press-release | U.S. Attorney's Office, Western District of Washington | ? | high | ? |
 | [[2021-04-16_justice-gov_high-level-organizer-of-notorious-hacking-group-fin7-sentenced-to-ten-years-in-p]] | press-release | USAO WDWA | ? | high | ? |
 | [[2021-04-15_infosecurity-magazine_us-imprisons-sadistic-sextortionist]] | news | Infosecurity Magazine | ? | medium | ? |
@@ -3693,6 +3692,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_greene-county-man-indicted-cyberstalking-and-interstate-threats]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-02-01_justice-gov_greene-county-man-indicted-for-cyberstalking-and-interstate-threats]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]] | press-release | Europol | ? | high | ? |
+| [[2026-04-17_justice-gov_documents-and-resources-related-disruption-emotet-malware-and-botnet]] | press-release | DOJ OPA / MDNC | ? | medium | ? |
 | [[2021-01-27_pacer_usa-v-levicky-2-21-cr-00019-pawd]] | case-document | PACER / PacerMonitor | ? | high | ? |
 | [[2021-01-27_mdnc_emotet-disruption-order]] | court-document | US DOJ (OPA / M.D.N.C.) | ? | high | ? |
 | [[2021-01-27_justice-gov_united-states-emotet-botnet-disruption-operation-ladybird]] | press-release | US DOJ (OPA / M.D.N.C.) | ? | high | ? |

@@ -31,7 +31,7 @@ This record preserves the source metadata and source-page digest so the source c
 
 ### Source Page Summary
 
-South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the budapest-convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to follow shortly afterward [15][16]. This source was generated from raw/press-releases/2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27.md to make the raw corpus addressable from the source index.
+Duplicate source record for the US DOJ i-Soon/APT27 indictment announcement. Use [[2025-03-05-doj-isoon-chinese-hackers-charges]] for substantive findings; this page preserves duplicate-source traceability.
 
 ## Extraction Notes
 

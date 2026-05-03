@@ -14,7 +14,8 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the budapest-convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation."
+  - "Media report on the proposed or emerging Prosecution Service and Serious Crimes Investigation Agency framework."
+  - "Relevant to the October 2026 Korean prosecution/investigation split and future cooperation-counterpart mapping."
 collection_url: https://news.tf.co.kr/read/ptoday/2281318.htm
 created: 2026-04-17
 text_status: summarized
@@ -27,7 +28,7 @@ copyright_policy: summary-only
 ---
 ## Source Summary
 
-South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the [[budapest-convention]] in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to follow shortly afterward [15][16].
+Media report on the proposed or emerging Prosecution Service and Serious Crimes Investigation Agency framework. Relevant to the October 2026 Korean prosecution/investigation split.
 
 ## Relevance to IC
 

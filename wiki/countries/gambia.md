@@ -1,107 +1,36 @@
 ---
-bilateral_agreements: []
-central_authority:
-  budapest: unknown
-  mlat: Ministry of Justice of The Gambia
-cooperation_assessment: The Gambia is *likely* a low-capacity cybercrime cooperation
-  partner. Its 2009 Information and Communications Act provides partial substantive
-  offences broadly aligned with the Budapest Convention, but procedural powers and
-  international cooperation mechanisms have significant gaps. A Cybercrime Bill drafted
-  in 2019 remains pending as of the most recent public reporting. The Gambia is not
-  a party to the Budapest Convention.
 created: 2026-04-10
-cybercrime_legislation:
-  data_retention: unknown
-  primary_law: Information and Communications Act 2009 (ICA); Cybercrime Bill 2019
-    (pending)
-  primary_law_date: '2009'
-  procedural_powers: []
-ic_capacity:
-  24_7_availability: false
-  avg_mlat_response_days: unknown
-  digital_forensics: low
-  english_proficiency: high
-  rating: low
+ic_capacity: not-assessed
 iso_code: GM
-key_agencies: []
-last_verified: '2026-04-10'
-legal_system: mixed
-notable_cases: []
-operations_participated: []
+last_verified: 2026-05-03
+legal_system: not-assessed
+operations_participated:
+  []
 region: west-africa
 source_count: 0
-sources: []
-title: Republic of The Gambia
+sources:
+  []
+title: "Republic of The Gambia"
 treaty_memberships:
-- date: ''
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: non-party
+  - not-assessed
 type: country
-updated: 2026-04-10
+updated: 2026-05-03
+status: needs-official-source-ingestion
+assessment_confidence: limited
+verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---
-
 ## Summary
 
-The Gambia has limited cybercrime legislation centred on the **Information and Communications Act 2009 (ICA)**, which provides some substantive cybercrime offences but lacks comprehensive procedural powers for electronic evidence and international cooperation.
+Republic of The Gambia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this jurisdiction.
 
-A dedicated **Cybercrime Bill 2019** was drafted to close these gaps and align Gambian law more closely with the Budapest Convention framework, but as of the most recent Council of Europe Octopus reporting, the bill had not yet been enacted.
+## Verification Status
 
-The Gambia is **not a party** to the [[budapest-convention|Budapest Convention]] and is *highly unlikely* to accede in the near term absent the 2019 bill's enactment and formal invitation.
+No direct country-profile source is linked in this repository for this page. As of 2026-05-03, legal-system, central-authority, treaty-membership, cybercrime-capacity, and national-agency claims are marked `not-assessed` rather than inferred from geography, operation participation, or prior unsourced prose.
 
-## Legal Framework for Cybercrime
+## Corpus Relationships
 
-### Information and Communications Act 2009
+No operation backlinks are currently recorded for this country node.
 
-- General telecommunications and electronic transactions framework
-- Contains cybercrime-related substantive offences
-- Reported to be "broadly in line" with Budapest Convention substantive provisions, per Council of Europe Octopus assessment
-- Significant gaps: investigatory powers, service provider obligations, international cooperation mechanisms
+## Follow-up Source Targets
 
-### Criminal Procedure Code
-
-- Does not provide specialised electronic evidence procedural powers
-- Limits law enforcement ability to preserve, produce, and intercept computer data
-
-### Cybercrime Bill 2019 (Pending)
-
-- Drafted to address gaps identified in 2009 ICA
-- Intended to introduce Budapest Convention-aligned procedural powers
-- Status *likely* still pending as of 2024 per Council of Europe Octopus country profile
-
-## Treaty Memberships
-
-| Framework | Status | Date | Notes |
-|-----------|--------|------|-------|
-| [[budapest-convention]] | Non-party | — | Not invited or acceded |
-| African Union Convention on Cyber Security and Personal Data Protection (Malabo) | unknown | — | |
-
-## Key Agencies
-
-Specific cybercrime units *unknown* from current sources. The **Ministry of Communications and Digital Economy (MOCDE)** publishes the National Cybersecurity Policy.
-
-## Cooperation Track Record
-
-Insufficient sources collected. The Gambia's 2022–2026 National Cybersecurity Policy acknowledges capacity-building needs and references the Budapest Convention framework as an aspirational benchmark.
-
-## Capacity Assessment
-
-- Rating: *likely* low
-- English proficiency: high (English is the official language)
-- 24/7 availability: *likely* not formally established
-- Digital forensics: *likely* low
-
-## Contradictions & Open Questions
-
-- Has the Cybercrime Bill 2019 been enacted since 2024?
-- Does The Gambia maintain any 24/7 point of contact for cybercrime MLA?
-- What is the role of the Gambia Police Force in cybercrime investigations?
-
-## References
-
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
-| 1 | Budapest Convention — Chart of Signatures and Ratifications (CETS 185) | Council of Europe | Current | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
-| 2 | Gambia (Republic of the) — Octopus Cybercrime Community | Council of Europe | Current | https://www.coe.int/en/web/octopus/-/gambia-islamic-republic-of-the- |
-| 3 | The National Cybersecurity Policy of The Gambia 2022-2026 | Ministry of Communications and Digital Economy (The Gambia) | 2022 | https://www.moict.gov.gm/ |
-| 4 | Gambia National Cyber Security Policy 2020-2024 | Ministry of Interior (The Gambia) | 2020 | https://www.moict.gov.gm/ |
+The next reliable sources for this page are official national police or prosecutor cybercrime pages, justice-ministry mutual-assistance pages, Budapest Convention or UN treaty-status records, and primary operation releases naming the country. Until those are linked, use this page for navigation and relationship tracing only; do not use it as authority for legal-system detail, MLAT performance, 24/7 contact availability, or national cyber-investigative maturity.

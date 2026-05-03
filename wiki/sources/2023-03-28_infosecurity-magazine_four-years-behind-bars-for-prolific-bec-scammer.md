@@ -27,6 +27,10 @@ content_hash: sha256:0442aa4ffd5399dc39805fddcb87e107958d0925316f85ea94f64a8eb96
 word_count: 129
 extraction_date: 2026-04-27
 copyright_policy: summary-only
+duplicate_of: "[[2023-03-28_infosecurity-magazine-com_four-years-behind-bars-for-prolific-bec-scammer]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://infosecurity-magazine.com/news/four-years-prolific-bec-scammer"
+duplicate_normalized_at: 2026-05-02
 ---
 ## Summary
 

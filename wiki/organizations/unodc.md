@@ -33,7 +33,7 @@ sources:
 status: active
 title: "United Nations Office on Drugs and Crime (UNODC)"
 type: organization
-updated: "2026-04-29"
+updated: "2026-05-03"
 ---
 ## Summary
 
@@ -106,7 +106,7 @@ UNODC's role in the [[un-cybercrime-convention-2024|UN Convention against Cyberc
 
 ## Korean Interactions (한국과의 협력)
 
-South Korea actively participated in the Ad Hoc Committee negotiations and is a significant funder of UNODC's broader crime and drug programmes. Korea's strategic position — as a 2024 [[budapest-convention|Budapest Convention]] accession party also engaged in UN Cybercrime Convention diplomacy — makes it a natural bridge between the two frameworks. The Ministry of Justice (법무부) and Ministry of Foreign Affairs (외교부) coordinate Korean positions at UNODC-led fora.
+South Korea actively participated in the Ad Hoc Committee negotiations and is a significant funder of UNODC's broader crime and drug programmes. Korea's strategic position — as an invited-to-accede [[budapest-convention|Budapest Convention]] state also engaged in UN Cybercrime Convention diplomacy — makes it a potential bridge between the two frameworks once accession is formally deposited and recorded. The Ministry of Justice (법무부) and Ministry of Foreign Affairs (외교부) coordinate Korean positions at UNODC-led fora.
 
 > [!warning] Legal status check needed
 > Verify whether South Korea signed the UN Cybercrime Convention at the Hanoi ceremony (October 2025) and its current ratification position.

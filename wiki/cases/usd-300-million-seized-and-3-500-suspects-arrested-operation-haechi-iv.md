@@ -38,12 +38,12 @@ source_count: 1
 sources:
   - "[[2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]]"
 created: 2026-04-18
-updated: "2026-04-26"
-summary: "USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV is documented in the linked source material. South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Available source coverage includes INTERPOL."
+updated: "2026-05-03"
+summary: "INTERPOL's 2023-12-19 source documents Operation HAECHI IV as a 34-country financial-cybercrime operation with about 3,500 arrests, USD 300 million seized, and 82,112 suspicious bank accounts blocked. This one-source case wrapper is retained for traceability; fuller source-backed analysis lives in [[operation-haechi-iv]]."
 ---
 ## Summary
 
-USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV is documented in the linked source material. South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Available source coverage includes INTERPOL.
+INTERPOL's 2023-12-19 source documents Operation HAECHI IV as a 34-country financial-cybercrime operation. Publicly reported results include about **3,500 arrests**, **USD 300 million seized**, and **82,112 suspicious bank accounts blocked**. This one-source case wrapper is retained for source traceability; fuller analysis belongs in [[operation-haechi-iv]].
 
 ## Source Coverage
 
@@ -67,8 +67,8 @@ USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV is do
 
 ## Evidence and Attribution Notes
 
-- South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation.
-- Korea was **invited to accede** to the Budapest Convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to.
+- This page is not a country-capacity profile and should not be used to make general claims about South Korea's legal framework.
+- The linked INTERPOL source supports the operation-level results above; country-by-country arrest breakdowns and downstream prosecutions require separate sources.
 
 ## References
 

@@ -24,6 +24,10 @@ copyright_policy: summary-only
 collection_url: https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America
 collection_domain: interpol.int
 updated: 2026-04-29
+duplicate_of: "[[2024-10-15_interpol-int_operation-orion-international-144-arrested-in-major-child-abuse-operation-across]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America"
+duplicate_normalized_at: 2026-05-02
 ---
 # Operation Orion International: South America CSAM Crackdown
 

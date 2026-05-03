@@ -161,7 +161,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-03
 ---
 
 ## Summary
@@ -284,7 +284,7 @@ Korea-US cybercrime cooperation is *highly likely* the strongest bilateral cyber
 - **North Korea cyber threat:** Joint focus area; US and Korean agencies cooperate on cryptocurrency theft and ransomware attributed to DPRK-affiliated actors
 
 > [!note]
-> This page is based on general knowledge of US cybercrime cooperation structures and publicly available information. No collected sources have been ingested for this country profile. Content should be verified against primary sources.
+> This page has limited collected source coverage and should be treated as a profile with partial source support. High-level US cooperation claims require further checking against DOJ, FBI, OIA, CCIPS, and Council of Europe sources.
 
 ## Contradictions & Open Questions
 
@@ -296,4 +296,4 @@ Korea-US cybercrime cooperation is *highly likely* the strongest bilateral cyber
 ## References
 
 > [!note]
-> This page was created based on general knowledge. No dedicated sources have been ingested (source_count: 0). Key claims should be verified against official DOJ, FBI, and Council of Europe publications.
+> Current source coverage is narrow (source_count: 1). Key claims should be verified against official DOJ, FBI, OIA, CCIPS, and Council of Europe publications before operational use.

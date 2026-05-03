@@ -17,7 +17,6 @@ legal_basis:
   - "INTERPOL National Central Bureau cooperation"
   - "INTERPOL Anti-Money Laundering Rapid Response Protocol"
   - "domestic financial-fraud authorities of participating countries"
-
 lessons_learned:
 
 mechanisms_used:
@@ -39,7 +38,6 @@ related_operations:
   - "[[operation-haechi-iii]]"
   - "[[operation-haechi-iv]]"
   - "[[operation-haechi-vi]]"
-
 results:
   arrests: 5500
   cryptocurrency_seized: ""
@@ -50,12 +48,11 @@ results:
 
   servers_seized: 0
   victims_notified: 0
-source_count: 5
+source_count: 4
 source_tier: 2
 sources:
-  - "[[2024-12-02-digwatch-interpol-korea-5500-arrests]]"
-  - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-12-03_dig-watch_interpol-and-south-korea-lead-operation-arresting-over-5500-cybercrime-suspects]]"
+  - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-27_interpol-int-fr_operation-haechi-v-5500-arrests]]"
   - "[[2024-11-27_interpol-int-es_operation-haechi-v-5500-arrests]]"
 status: completed
@@ -215,8 +212,7 @@ This keeps the canonical record analytically bounded and reproducible.
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | INTERPOL-Korea operation reporting | DigWatch | 2024-12-02 |  |
+| [1] | Interpol and South Korea lead operation, arresting over 5,500 cybercrime suspects | Digital Watch Observatory | 2024-12-03 | https://dig.watch/updates/interpol-and-south-korea-lead-operation-arresting-over-5500-cybercrime-suspects |
 | [2] | INTERPOL financial crime operation makes record 5,500 arrests — Operation HAECHI V | INTERPOL | 2024-12-02 | https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million |
-| [3] | Interpol and South Korea lead operation, arresting over 5,500 cybercrime suspects | Digital Watch Observatory | 2024-12-03 | https://dig.watch/updates/interpol-and-south-korea-lead-operation-arresting-over-5500-cybercrime-suspects |
-| [4] | Une opération INTERPOL de lutte contre la criminalité financière aboutit à l'arrestation record de 5 500 personnes | INTERPOL | 2024-11-27 | https://www.interpol.int/fr/Actualites-et-evenements/Actualites/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million |
-| [5] | Una operación de INTERPOL contra la delincuencia financiera obtiene unos resultados récord: 5 500 detenciones | INTERPOL | 2024-11-27 | https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2024/Una-operacion-de-INTERPOL-contra-la-delincuencia-financiera-obtiene-unos-resultados-record-5-500-detenciones-e-incautaciones-por-valor-de-mas-de-4 |
+| [3] | Une opération INTERPOL de lutte contre la criminalité financière aboutit à l'arrestation record de 5 500 personnes | INTERPOL | 2024-11-27 | https://www.interpol.int/fr/Actualites-et-evenements/Actualites/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million |
+| [4] | Una operación de INTERPOL contra la delincuencia financiera obtiene unos resultados récord: 5 500 detenciones | INTERPOL | 2024-11-27 | https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2024/Una-operacion-de-INTERPOL-contra-la-delincuencia-financiera-obtiene-unos-resultados-record-5-500-detenciones-e-incautaciones-por-valor-de-mas-de-4 |

@@ -53,12 +53,12 @@ related_cases:
   - "[[us-v-parsarad-nemesis]]"
 sources:
   - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
-  - "[[2025-04-17_opa_parsarad-nemesis-indictment]]"
-  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]]"
+  - "[[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and]]"
+  - "[[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-oth]]"
   - "[[2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]]"
   - "[[bleeping-computer-nemesis-market-takedown]]"
 created: 2024-03-20
-updated: 2026-04-27
+updated: 2026-05-02
 related_operations:
   - "[[operation-us-v-parsarad-nemesis]]"
 summary: "The Nemesis Market takedown was a Germany-led seizure of darknet marketplace infrastructure carried out on 20 March 2024 with U.S. and Lithuanian support. Later DOJ and Treasury actions against Behrouz Parsarad show how the initial infrastructure seizure matured into a named administrator-focused enforcement track."
@@ -84,6 +84,11 @@ Nemesis Market was a Tor-accessible darknet marketplace used for drugs, stolen d
 
 ## Results
 
+- Cryptocurrency seized: EUR 94,000 in cryptocurrency.
+- Server infrastructure seized in Germany and Lithuania.
+- 150,000+ user accounts identified.
+- 1,100+ seller accounts identified.
+- Platform taken offline permanently.
 
 ## Cooperation And Legal Analysis
 
@@ -94,7 +99,7 @@ Nemesis is a useful contrast with older darknet-market cases because the public 
 ## Source Coverage
 
 - Bundeskriminalamt / ZIT Frankfurt, 2024-03-21: Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet.
-- U.S. Department of Justice, 2025-04-17: Page not found.
+- DOJ OPA, 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services.
 - US DOJ USAO, 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services.
 - U.S. Department of the Treasury, 2025-03-04: Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales.
 - The Record, 2024-03-21: bleeping-computer-nemesis-market-takedown.
@@ -154,7 +159,7 @@ This keeps the canonical record analytically bounded and reproducible.
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | 1 | Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet | BKA / ZIT | 2024-03-21 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html |
-| 2 | Administrator of Nemesis Market Charged for Role Operating Darknet Marketplace | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace |
+| 2 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money |
 | 3 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services | USAO ND Ohio | 2025-04-17 | https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs |
 | 4 | Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales | U.S. Treasury | 2025-03-04 | https://home.treasury.gov/news/press-releases/sb0040 |
 | 5 | Nemesis darknet marketplace raided in Germany-led operation | The Record | 2024-03-21 | https://therecord.media/nemesis-cybercrime-market-takedown-germany?web_view=true |

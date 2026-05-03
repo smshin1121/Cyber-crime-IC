@@ -1,115 +1,38 @@
 ---
-bilateral_agreements: []
-central_authority:
-  budapest: SAPS
-  mlat: Department of Justice and Constitutional Development
-cooperation_assessment: South Africa signed the Budapest Convention in 2001 but *has
-  not yet ratified* it (as of 2026). The 2020 Cybercrimes Act brought substantive
-  and procedural law largely into alignment with Budapest standards. *Likely* a moderately
-  capable cooperation partner on the African continent with English-language legal
-  system advantages, but lacks formal Budapest treaty basis.
 created: 2026-04-10
-cybercrime_legislation:
-  data_retention: Regulation of Interception of Communications and Provision of Communication-Related
-    Information Act (RICA)
-  primary_law: Cybercrimes Act No. 19 of 2020
-  primary_law_date: '2021-06-01'
-  procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-ic_capacity:
-  24_7_availability: false
-  avg_mlat_response_days: unknown
-  digital_forensics: medium
-  english_proficiency: high
-  rating: medium
+ic_capacity: not-assessed
 iso_code: ZA
-key_agencies:
-- '[[south-africa-saps]]'
-- '[[south-africa-hawks]]'
-last_verified: '2026-04-10'
-legal_system: mixed
-notable_cases: []
+last_verified: 2026-05-03
+legal_system: not-assessed
 operations_participated:
-- '[[operation-haechi-vi]]'
+  - "[[operation-haechi-vi]]"
 region: southern-africa
 source_count: 0
-sources: []
-title: Republic of South Africa
+sources:
+  []
+title: "Republic of South Africa"
 treaty_memberships:
-- date: '2001-11-23'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: signatory
-- date: ''
-  framework: '[[malabo-convention]]'
-  reservations: []
-  status: non-party
+  - not-assessed
 type: country
-updated: 2026-04-21
+updated: 2026-05-03
+status: needs-official-source-ingestion
+assessment_confidence: limited
+verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---
-
 ## Summary
 
-South Africa is the regional cybercrime capacity leader in Southern Africa. It was one of the *original signatories* of the [[budapest-convention|Budapest Convention]] on 23 November 2001 — the only African signatory at opening — but has **not yet ratified** it. The **Cybercrimes Act No. 19 of 2020** (in force 1 June 2021) aligned South African law with both the Budapest Convention and the AU [[malabo-convention|Malabo Convention]] frameworks.
+Republic of South Africa is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this jurisdiction.
 
-## Legal Framework for Cybercrime
+## Verification Status
 
-### Substantive Criminal Law
+No direct country-profile source is linked in this repository for this page. As of 2026-05-03, legal-system, central-authority, treaty-membership, cybercrime-capacity, and national-agency claims are marked `not-assessed` rather than inferred from geography, operation participation, or prior unsourced prose.
 
-**Cybercrimes Act No. 19 of 2020** (assented 1 June 2020; commenced 1 June 2021):
-- Unlawful access, interception, interference with data and computer systems
-- Cyber fraud, cyber forgery and uttering, cyber extortion
-- Malicious communications
+## Corpus Relationships
 
-**Electronic Communications and Transactions Act 25 of 2002 (ECTA)** — pre-existing framework.
+| Linked operation | Verification role |
+|---|---|
+| [[operation-haechi-vi]] | Relationship edge retained from operation/case metadata; use the operation page and its references for claim-level verification. |
 
-### Procedural Powers
+## Follow-up Source Targets
 
-The Cybercrimes Act provides expedited preservation orders, production orders, search and seizure, and obligations for electronic communications service providers to cooperate with investigations.
-
-**RICA** (Regulation of Interception of Communications Act) governs interception and data retention.
-
-## Treaty Memberships
-
-| Framework | Status | Date | Notes |
-|-----------|--------|------|-------|
-| [[budapest-convention]] | Signatory (not ratified) | 2001-11-23 | Original signatory |
-| [[malabo-convention]] | Non-party | — | POPIA compatibility concerns |
-| UNTOC | Party | | |
-| UNCAC | Party | | |
-
-> [!warning] Legal status check needed
-> Verify whether South Africa has moved toward Budapest Convention ratification post-2025.
-
-## Key Agencies
-
-- **[[south-africa-saps|South African Police Service (SAPS)]]** — Cybercrime Unit
-- **[[south-africa-hawks|Directorate for Priority Crime Investigation (Hawks)]]** — serious economic and organised crime including complex cybercrime
-- **State Security Agency** — cyber-related national security
-- **Department of Justice and Constitutional Development** — MLA central authority
-
-## Cooperation Track Record
-
-*Likely* engaged in INTERPOL-led African operations (e.g., AFJOC operations) and Southern African regional cooperation. Details are not well documented in publicly available sources.
-
-## Capacity Assessment
-
-- **Rating:** medium — strong legal framework, variable operational capacity
-- **English proficiency:** high
-- **Digital forensics:** medium (SAPS and Hawks capacity)
-
-## Contradictions & Open Questions
-
-- Why has ratification of the Budapest Convention stalled for 25+ years despite signature?
-- What is SAPS's participation in INTERPOL AFJOC operations?
-- Does POPIA compatibility still block Malabo Convention accession?
-
-## References
-
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
-| 1 | South Africa — Octopus Cybercrime Community | Council of Europe | — | https://www.coe.int/en/web/octopus/-/south-africa |
-| 2 | An overview of cybercrime law in South Africa | PMC/NCBI | 2023 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10235840/ |
-| 3 | Malabo Roadmap | Data Protection Africa | 2022 | https://dataprotection.africa/wp-content/uploads/malabo_roadmap_Sept_2022.pdf |
+The next reliable sources for this page are official national police or prosecutor cybercrime pages, justice-ministry mutual-assistance pages, Budapest Convention or UN treaty-status records, and primary operation releases naming the country. Until those are linked, use this page for navigation and relationship tracing only; do not use it as authority for legal-system detail, MLAT performance, 24/7 contact availability, or national cyber-investigative maturity.

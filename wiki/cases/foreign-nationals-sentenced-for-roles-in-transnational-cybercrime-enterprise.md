@@ -38,7 +38,7 @@ source_count: 1
 sources:
   - "[[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-05-02
 summary: "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise is documented in the linked source material. Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion. Available source coverage includes justice.gov."
 ---
 ## Summary
@@ -47,6 +47,8 @@ Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise is 
 
 ## Source Coverage
 
+- justice.gov, 2026-04-17: Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise.
+- Source coverage is single-source; absent details should be treated as unobserved in the current corpus, not disproven.
 
 ## Operational Timeline
 

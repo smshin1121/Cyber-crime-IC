@@ -34,7 +34,7 @@ source_count: 1
 sources:
   - "[[2024-01-26_justice-gov_united-states-v-banmeet-singh]]"
 created: 2026-04-18
-updated: "2026-04-26"
+updated: 2026-05-02
 summary: "Dark Web Vendor Pleads Guilty to Distributing Narcotics and Forfeits $150M is documented in the linked source material. Banmeet Singh (Dark Web Vendor) Enforcement Action is a follow-on operation catalog record tied to Us V Banmeet Singh Dark Web. Available source coverage includes US DOJ Office of Public Affairs."
 ---
 ## Summary
@@ -60,6 +60,9 @@ Dark Web Vendor Pleads Guilty to Distributing Narcotics and Forfeits $150M is do
 
 ## Evidence and Attribution Notes
 
+- The cited source set is treated as the controlling public record for this page; no additional filing-level evidence is asserted beyond the listed references and metadata.
+- Current metadata does not identify MLAT requests, extradition, foreign-evidence transfers, foreign arrests, or asset-freezing elements.
+- Comparative use should preserve the single-source limitation and avoid inferring that absent cooperation fields prove no cooperation occurred.
 
 ## References
 

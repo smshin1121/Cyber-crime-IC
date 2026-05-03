@@ -53,11 +53,10 @@ results:
     - "18 direct abusers were arrested."
     - "111 suspects were charged with possession or distribution of abuse material."
     - "Seven Red Notice subjects were arrested."
-source_count: 5
+source_count: 4
 sources:
   - "[[2024-10-15_interpol-int_operation-orion-international]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
-  - "[[2024-10-15-interpol-operation-orion-international]]"
   - "[[2024-09-27_the420-in_interpol-leads-to-144-arrests-and-rescues-20-child-victims-across-south-america]]"
   - "[[2025-02-01_interpol-int_annual-report-2024-operation-orion-international]]"
 created: 2026-04-08
@@ -212,6 +211,5 @@ This keeps the canonical record analytically bounded and reproducible.
 |---|---|---|---|---|
 | [1] | Operation Orion International | INTERPOL | 2024-10-15 | https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America |
 | [2] | 20 rescued, 144 arrested in major child abuse operation across South America | INTERPOL | 2024-09-26 | https://www.interpol.int/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America |
-| [3] | Operation Orion International: South America CSAM Crackdown | INTERPOL | 2024-10-15 |  |
-| [4] | INTERPOL Leads to 144 Arrests and Rescues 20 Child Victims Across South America | The420 | 2024-09-27 | https://the420.in/interpol-leads-to-144-arrests-and-rescues-20-child-victims-across-south-america/ |
-| [5] | INTERPOL Annual Report 2024 - Operation Orion International | INTERPOL | 2025-02-01 | https://www.interpol.int/en/content/download/23674/file/Annual_Report%202024_EN.pdf |
+| [3] | INTERPOL Leads to 144 Arrests and Rescues 20 Child Victims Across South America | The420 | 2024-09-27 | https://the420.in/interpol-leads-to-144-arrests-and-rescues-20-child-victims-across-south-america/ |
+| [4] | INTERPOL Annual Report 2024 - Operation Orion International | INTERPOL | 2025-02-01 | https://www.interpol.int/en/content/download/23674/file/Annual_Report%202024_EN.pdf |

@@ -88,11 +88,10 @@ The operation-side value of this page is that it preserves the shift from techni
 
 ## Source Coverage
 
-- U.S. Department of Justice, 2025-04-17: Page not found.
+- DOJ OPA, 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services.
 - US DOJ USAO, 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services.
 - U.S. Department of the Treasury, 2025-03-04: Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales.
 - Bundeskriminalamt / ZIT Frankfurt, 2024-03-21: Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet.
-- US DOJ (Office of Public Affairs), 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services.
 
 ## Operational Timeline
 

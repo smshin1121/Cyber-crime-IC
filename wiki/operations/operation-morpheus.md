@@ -17,13 +17,11 @@ legal_basis:
   - "[[budapest-convention]]"
   - "[[mutual-legal-assistance]]"
   - "domestic unauthorized-access and malware-disruption authorities"
-
 lessons_learned:
 
 mechanisms_used:
   - "[[public-private-cooperation]]"
   - "[[electronic-evidence]]"
-
 missing_fields:
 
 operation_type: infrastructure-seizure
@@ -38,7 +36,6 @@ participating_agencies:
   - "[[netherlands-politie]]"
   - "[[poland-police]]"
   - "[[shadowserver]]"
-
 participating_countries:
   - "[[united-kingdom]]"
   - "[[australia]]"
@@ -54,7 +51,6 @@ related_operations:
   - "[[operation-nova]]"
   - "[[doublevpn-takedown]]"
   - "[[operation-endgame]]"
-
 results:
   arrests: 0
   cryptocurrency_seized: ""
@@ -66,15 +62,13 @@ results:
     - "593 unauthorized Cobalt Strike servers removed"
     - "1.2 million indicators of compromise identified during the operation"
     - "Private-sector partners included Fortra, BAE Systems, Trellix, Shadowserver, Spamhaus, and abuse.ch"
-
   servers_seized: 593
   victims_notified: 0
-source_count: 5
+source_count: 4
 source_tier: 2
 sources:
   - "[[2024-06-28-uk-nca-operation-morpheus-cobalt-strike]]"
   - "[[the-hacker-news-operation-morpheus-cobalt-strike-takedown]]"
-  - "[[uk-nca-operation-morpheus-cobalt-strike-takedown]]"
   - "[[2024-07-03_bleepingcomputer-com_europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals]]"
   - "[[2024-07-03_techradar-com_hundreds-of-cobalt-strike-linked-servers-taken-down-in-major-police-operation]]"
 status: completed
@@ -248,8 +242,7 @@ This keeps the canonical record analytically bounded and reproducible.
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike | UK National Crime Agency | 2024-07-03 |  |
+| [1] | National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike | UK National Crime Agency | 2024-07-03 | https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike |
 | [2] | The Hacker News: Global Police Operation Shuts Down 600 Cybercrime Servers (Operation Morpheus) | The Hacker News | 2024-07-03 | https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html |
-| [3] | UK NCA: Operation Morpheus (Cobalt Strike Takedown) | UK NCA | Unknown | https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike |
-| [4] | Europol takes down 593 Cobalt Strike servers used by cybercriminals | BleepingComputer | 2024-07-03 | https://www.bleepingcomputer.com/news/security/europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals/ |
-| [5] | Hundreds of Cobalt Strike-linked servers taken down in major police operation | TechRadar | 2024-07-03 | https://www.techradar.com/pro/security/hundreds-of-cobalt-strike-linked-servers-taken-down-in-major-police-operation |
+| [3] | Europol takes down 593 Cobalt Strike servers used by cybercriminals | BleepingComputer | 2024-07-03 | https://www.bleepingcomputer.com/news/security/europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals/ |
+| [4] | Hundreds of Cobalt Strike-linked servers taken down in major police operation | TechRadar | 2024-07-03 | https://www.techradar.com/pro/security/hundreds-of-cobalt-strike-linked-servers-taken-down-in-major-police-operation |

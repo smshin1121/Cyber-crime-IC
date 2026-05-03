@@ -1,118 +1,38 @@
 ---
-bilateral_agreements: []
-central_authority:
-  budapest: ''
-  mlat: Attorney General's Chambers of Malaysia
-cooperation_assessment: Malaysia is *likely* a moderate cooperation partner with a
-  common-law heritage and English-language advantage, but its legal framework is widely
-  assessed as outdated. Malaysia is **not** a party to the Budapest Convention but
-  the National Cyber Security Agency (NACSA) has publicly announced intentions to
-  accede, with a new Cybercrime Bill under development as of 2025.
 created: 2026-04-10
-cybercrime_legislation:
-  data_retention: unknown
-  primary_law: Computer Crimes Act 1997 (Act 563); Communications and Multimedia Act
-    1998
-  primary_law_date: '1997'
-  procedural_powers:
-  - search-and-seizure
-ic_capacity:
-  24_7_availability: false
-  avg_mlat_response_days: unknown
-  digital_forensics: medium
-  english_proficiency: high
-  rating: medium
+ic_capacity: not-assessed
 iso_code: MY
-key_agencies:
-- '[[malaysia-police]]'
-- '[[nacsa-malaysia]]'
-last_verified: '2026-04-10'
-legal_system: mixed
-notable_cases: []
+last_verified: 2026-05-03
+legal_system: not-assessed
 operations_participated:
-- '[[operation-haechi-vi]]'
+  - "[[operation-haechi-vi]]"
 region: southeast-asia
 source_count: 0
-sources: []
+sources:
+  []
 title: Malaysia
 treaty_memberships:
-- date: ''
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: non-party
+  - not-assessed
 type: country
-updated: 2026-04-21
+updated: 2026-05-03
+status: needs-official-source-ingestion
+assessment_confidence: limited
+verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---
-
 ## Summary
 
-Malaysia's cybercrime framework rests on the 1997 **Computer Crimes Act** — one of the oldest cyber laws in Asia — and the Communications and Multimedia Act 1998. The framework is *highly likely* outdated relative to modern threats. Malaysia is not currently a party to the Budapest Convention but has announced intent to accede through the National Cyber Security Agency (NACSA).
+Malaysia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this jurisdiction.
 
-## Legal Framework for Cybercrime
+## Verification Status
 
-### Substantive Criminal Law
+No direct country-profile source is linked in this repository for this page. As of 2026-05-03, legal-system, central-authority, treaty-membership, cybercrime-capacity, and national-agency claims are marked `not-assessed` rather than inferred from geography, operation participation, or prior unsourced prose.
 
-**Computer Crimes Act 1997 (Act 563):**
-- Unauthorized access
-- Unauthorized access with intent to commit further offences
-- Unauthorized modification of computer contents
-- Wrongful communication of passwords
+## Corpus Relationships
 
-**Communications and Multimedia Act 1998** provides supplementary offences related to content, fraud, and network misuse.
+| Linked operation | Verification role |
+|---|---|
+| [[operation-haechi-vi]] | Relationship edge retained from operation/case metadata; use the operation page and its references for claim-level verification. |
 
-> [!warning] Legal status check needed
-> The Computer Crimes Act 1997 is *highly likely* outdated. A new Cybercrime Bill is under development as of 2025 (NACSA). Verify current status.
+## Follow-up Source Targets
 
-### Procedural Powers
-
-The Computer Crimes Act provides limited procedural powers. Specific implementation of Budapest Convention Articles 16-21 (preservation, production, interception) is *likely* incomplete in current law; the planned Cybercrime Bill is intended to address this gap.
-
-### Mutual Legal Assistance
-
-- **Central authority:** Attorney General's Chambers
-- **Governing law:** Mutual Assistance in Criminal Matters Act 2002
-
-## Treaty Memberships
-
-| Framework | Status | Date | Notes |
-|-----------|--------|------|-------|
-| [[budapest-convention]] | Non-party | — | Accession announced as policy goal |
-| UNTOC (Palermo Convention) | Party | 2004 | |
-| UNCAC | Party | 2008 | |
-
-## Key Agencies
-
-### Royal Malaysia Police — Commercial Crime Investigation Department (CCID)
-See [[malaysia-police]].
-- Primary cybercrime investigation unit
-
-### National Cyber Security Agency (NACSA)
-See [[nacsa-malaysia]].
-- National cyber policy coordinator
-- Leading Malaysia's accession efforts toward Budapest Convention
-- Drafting new Cybercrime Bill (2025)
-
-## Cooperation Track Record
-
-Malaysia participates in ASEAN cybercrime cooperation and has engaged with INTERPOL's Global Complex for Innovation (IGCI) in Singapore. Specific operational footprint is *unknown* from available sources.
-
-## Capacity Assessment
-
-- **English proficiency:** *Highly likely* high (common official language)
-- **Legal framework:** Outdated but reform in progress
-- **Institutional capacity:** *Likely* medium
-
-## Contradictions & Open Questions
-
-- Has the new Cybercrime Bill been tabled or passed as of 2026?
-- What is Malaysia's actual accession timeline for the Budapest Convention?
-- What is the operational relationship between CCID and NACSA?
-
-## References
-
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
-| 1 | Malaysia — Octopus Cybercrime Community | Council of Europe | n.d. | https://www.coe.int/en/web/octopus/-/malaysia |
-| 2 | Computer Crimes Act 1997 | Royal Malaysia Police CCID | 1997 | https://ccid.rmp.gov.my/Laws/Computer_Crime_Act_1997.pdf |
-| 3 | Malaysia: Cybercrime Bill to Strengthen Digital Landscape | OpenGov Asia | 2025-01-08 | https://opengovasia.com/2025/01/08/malaysia-cybercrime-bill-to-strengthen-digital-landscape/ |
-| 4 | Malaysia's Cybercrime Law Reform Underway | Sonny Zulhuda | 2025-07-05 | https://sonnyzulhuda.com/2025/07/05/malaysias-cybercrime-law-reform-underway-notes-from-the-cydes-2025/ |
+The next reliable sources for this page are official national police or prosecutor cybercrime pages, justice-ministry mutual-assistance pages, Budapest Convention or UN treaty-status records, and primary operation releases naming the country. Until those are linked, use this page for navigation and relationship tracing only; do not use it as authority for legal-system detail, MLAT performance, 24/7 contact availability, or national cyber-investigative maturity.

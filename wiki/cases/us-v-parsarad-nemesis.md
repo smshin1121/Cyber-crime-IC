@@ -43,13 +43,12 @@ key_legal_issues:
   - "[[electronic-evidence]]"
   - "[[dark-web-ic]]"
 precedent_value: "High practical value because it links a German-led darknet seizure to later U.S. criminal charges, sanctions and international evidence use."
-source_count: 5
+source_count: 4
 sources:
-  - "[[2025-04-17_opa_parsarad-nemesis-indictment]]"
-  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]]"
+  - "[[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and]]"
+  - "[[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-oth]]"
   - "[[2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]]"
   - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
-  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]]"
 created: 2026-04-17
 updated: 2026-04-26
 summary: "United States v. Behrouz Parsarad is the named U.S. prosecution that followed the March 2024 seizure of Nemesis Market infrastructure. DOJ and Treasury materials make clear that the case depends on cross-border cooperation with Germany and Lithuania and on evidence preserved after the takedown."
@@ -83,11 +82,10 @@ The case is significant because it shows how infrastructure seizure can mature i
 
 ## Source Coverage
 
-- U.S. Department of Justice, 2025-04-17: Page not found.
+- DOJ OPA, 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services.
 - US DOJ USAO, 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services.
 - U.S. Department of the Treasury, 2025-03-04: Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales.
 - Bundeskriminalamt / ZIT Frankfurt, 2024-03-21: Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet.
-- US DOJ (Office of Public Affairs), 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services.
 
 ## Evidence and Attribution Notes
 
@@ -106,8 +104,7 @@ The case is significant because it shows how infrastructure seizure can mature i
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Administrator of Nemesis Market Charged for Role Operating Darknet Marketplace | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace |
+| 1 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money |
 | 2 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services | USAO ND Ohio | 2025-04-17 | https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs |
 | 3 | Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales | U.S. Treasury | 2025-03-04 | https://home.treasury.gov/news/press-releases/sb0040 |
 | 4 | Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet | BKA / ZIT | 2024-03-21 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html |
-| 5 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money |
