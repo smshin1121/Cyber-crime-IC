@@ -132,7 +132,7 @@ These records are retained as traceable prosecution, sentencing, plea, forfeitur
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
 | [[zeus-spyeye-takedown]] | CYB-2015-050 | 1 | absorbed | follow-on | 1 | 3.85 | 2 |
-| [[banking-trojan-fraud-sentencing-2017]] | CYB-2017-051 | 1 | absorbed | follow-on | 1 | 2.55 | 3 |
+| [[banking-trojan-fraud-sentencing-2017]] | CYB-2016-051 | 1 | absorbed | follow-on | 1 | 2.55 | 3 |
 | [[infraud-telusma-sentencing]] | CYB-2022-053 | 3 | absorbed | follow-on | 1 | 4.30 | 1 |
 | [[operation-emotet-disruption-ladybird]] | CYB-FUP-002 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-in-re-bidencash-marketplace-seizure]] | CYB-FUP-003 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |

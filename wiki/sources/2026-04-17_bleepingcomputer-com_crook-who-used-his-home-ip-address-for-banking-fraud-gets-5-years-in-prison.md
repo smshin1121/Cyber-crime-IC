@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes."
+  - "Alias source for the BleepingComputer Skowron banking-trojan sentencing article."
 collection_url: https://www.bleepingcomputer.com/news/security/crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison/
 created: 2026-04-17
 updated: 2026-05-03
@@ -26,8 +26,8 @@ copyright_policy: summary-only
 ---
 ## Source Summary
 
-A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes.
+This preserved alias points to the same BleepingComputer article as [[2017-01-01_bleepingcomputer-com_crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison]].
 
 ## Relevance to IC
 
-The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_bleepingcomputer-com_crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison.md`, preserving traceable review without classifying the page as a placeholder.
+Use the canonical 2017-dated source page for the active operation reference.

@@ -15,7 +15,10 @@ pages_updated:
   - banking-trojan-fraud-sentencing-2017
 
 key_findings:
-  - "A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes."
+  - "Tomasz Skowron was sentenced in the United Kingdom to 5 years in prison for banking-trojan cash-out and money-laundering activity tied to approximately GBP 840,000 in losses."
+  - "BleepingComputer reported, citing London Metropolitan Police, that investigators identified Skowron because he used his home IP address while moving funds from compromised bank accounts."
+  - "Piotr Ptach, who helped recruit money mules, pleaded guilty and was sentenced to 3 years in prison."
+  - "The source links the case to fraudulent payments from the Commonwealth Bank of Australia into UK accounts and to two UK construction-firm man-in-the-middle attacks."
 collection_url: https://www.bleepingcomputer.com/news/security/crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison/
 created: 2026-04-17
 updated: 2026-05-03
@@ -29,8 +32,8 @@ copyright_policy: summary-only
 ---
 ## Source Summary
 
-A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes.
+BleepingComputer reported that Tomasz Skowron was sentenced to 5 years in prison in the United Kingdom after investigators tied him to banking-trojan cash-out activity. The report says Skowron used his home IP address to access compromised bank accounts, which helped investigators identify him. It also reports that Piotr Ptach was sentenced to 3 years for recruiting money mules.
 
 ## Relevance to IC
 
-The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2017-01-01_bleepingcomputer-com_crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison.md`, preserving traceable review for [[banking-trojan-fraud-sentencing-2017]].
+The source supports [[banking-trojan-fraud-sentencing-2017]] as a follow-on sentencing/prosecution record. It is useful for the repository because it documents private-sector banking reports, cross-border victim/fund-flow facts involving Australian and UK accounts, and an operational-security attribution failure.

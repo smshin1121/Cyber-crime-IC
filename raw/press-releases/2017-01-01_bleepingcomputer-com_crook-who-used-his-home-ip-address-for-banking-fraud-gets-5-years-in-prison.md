@@ -21,7 +21,7 @@ source_page: wiki/sources/2017-01-01_bleepingcomputer-com_crook-who-used-his-hom
 ---
 ## Summary
 
-A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes.
+BleepingComputer reported that Tomasz Skowron was sentenced in the United Kingdom to 5 years in prison for banking-trojan cash-out activity tied to approximately GBP 840,000 in losses. The report, citing London Metropolitan Police, says Skowron was identified because he used his home IP address while moving funds from compromised accounts. Piotr Ptach was also sentenced to 3 years for recruiting money mules.
 
 ## Extracted Summary
 
