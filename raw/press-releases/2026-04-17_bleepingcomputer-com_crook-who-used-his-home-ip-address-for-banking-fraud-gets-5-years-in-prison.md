@@ -4,7 +4,7 @@ collection_source: "BleepingComputer"
 collection_url: "https://www.bleepingcomputer.com/news/security/crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison/"
 collection_domain: "www.bleepingcomputer.com"
 collection_date: "2026-04-17"
-publish_date: "2026-04-17"
+publish_date: "2016-12-21"
 language: "en"
 status: "collected"
 ---

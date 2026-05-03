@@ -267,7 +267,6 @@ updated: 2026-04-14
 | [[2026-04-17_ccid-rmp-gov-my_ccid-royal-malaysia-police]] | press-release | PDRM | ? | medium | ? |
 | [[2026-04-17_ca-go-ke_ke-cirt]] | press-release | Communications Authority of Kenya | ? | medium | ? |
 | [[2026-04-17_bsi-bund-de_avalanche-botnet-infrastructure]] | press-release | BSI | ? | medium | ? |
-| [[2026-04-17_bleepingcomputer-com_crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison]] | press-release | BleepingComputer | ? | medium | ? |
 | [[2026-04-17_au-int_malabo-convention-status]] | press-release | African Union | ? | medium | ? |
 | [[2026-04-17_aseanrokfund-org_korea-internet-and-security-agency-kisa]] | press-release | ASEAN Korea Cooperation Fund | ? | medium | ? |
 | [[2026-04-17_apicc-info_republic-of-korea-apicc-member-profile]] | press-release | APICC | ? | medium | ? |
@@ -1092,7 +1091,7 @@ updated: 2026-04-14
 | [[2025-04-17_opa_parsarad-nemesis-indictment]] | court-document | DOJ OPA | ? | high | ? |
 | [[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-oth]] | press-release | USAO ND Ohio | ? | high | ? |
 | [[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
-| [[2025-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace]] | press-release | DOJ OPA | ? | high | ? |
+| [[2025-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2025-04-17_3bmedianews_knox-county-man-sentenced-to-60-years-cp-production]] | news | 3B Media News | ? | low | ? |
 | [[2026-04-18_justice-gov_knox-county-man-sentenced-60-years-imprisonment-two-counts-production-child]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-04-16_wvlt_knoxville-man-sentenced-60-years-jail-child-pornography-dark-web]] | news | WVLT | ? | medium | ? |
@@ -4314,7 +4313,7 @@ updated: 2026-04-14
 | [[2018-04-30_darknetlive_alphabay-vendor-etiking-sentenced-to-life-in-prison]] | news | Darknetlive | ? | medium | ? |
 | [[2018-04-27_seattletimes_man-gets-life-fatal-synthetic-opioid-overdose-achey]] | news | Seattle Times (Associated Press) | ? | medium | ? |
 | [[2018-04-27_dea_pennsylvania-man-sentenced-life-distributing-fentanyl-analogue-orlando-woman]] | press-release | U.S. Drug Enforcement Administration | ? | high | ? |
-| [[bbc-banking-trojan-fraud-sentencing]] | news | BBC News | 3 | medium-high | ? |
+| [[bbc-banking-trojan-fraud-sentencing]] | news | BBC News | 3 | high | ? |
 | [[2018-04-20_afapdp-org_loi-n-2017-20-portant-code-du-num-rique-full-text]] | press-release | Republic of Benin | ? | medium | ? |
 | [[2018-04-18_patch_dark-web-gun-smuggler-atlanta-sentenced]] | news | Patch (Atlanta) | ? | medium | ? |
 | [[2026-04-18_justice-gov_darknet-international-gun-traffickers-sentenced]] | press-release | US DOJ USAO | ? | high | ? |
@@ -4513,9 +4512,10 @@ updated: 2026-04-14
 | [[2017-01-01_europol-socta-2017_global-action-against-airline-fraudsters]] | report | Europol | ? | high | ? |
 | [[2017-01-01_cyberscoop-com_dark-web-fbi-sting-zcash-operation-hyperion]] | press-release | CyberScoop | ? | medium | ? |
 | [[2017-01-01_coe-int_ratification-by-greece-of-the-budapest-convention-on-cybercrime-and-its-protocol]] | press-release | Council of Europe | ? | medium | ? |
-| [[2017-01-01_bleepingcomputer-com_crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison]] | press-release | BleepingComputer | ? | medium | ? |
 | [[2017-01-01_bakermckenzie-com_2017-amendments-to-computer-crime-act-english-summary]] | press-release | Baker McKenzie | ? | medium | ? |
 | [[2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme]] | press-release | DOJ D. Conn. | ? | high | ? |
+| [[2026-04-17_bleepingcomputer-com_crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison]] | news | BleepingComputer | ? | medium | ? |
+| [[2017-01-01_bleepingcomputer-com_crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison]] | news | BleepingComputer | ? | medium | ? |
 | [[2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke]] | press-release | US DOJ (District of Connecticut) | ? | high | ? |
 | [[2016-12-20_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme]] | press-release | US DOJ (District of Connecticut) | ? | high | ? |
 | [[2016-12-20_dct_odufuye-nwoke-bec-indictment]] | court-document | US DOJ (District of Connecticut) | ? | high | ? |

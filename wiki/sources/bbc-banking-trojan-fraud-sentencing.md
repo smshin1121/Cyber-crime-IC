@@ -1,30 +1,26 @@
 ---
 type: source
-title: "BBC News: Polish Banking Trojan Fraudster (Tomasz Skowron) Sentenced to Five Years"
+title: "Cyber-attack website Webstresser taken down"
 collection_url: https://www.bbc.com/news/uk-43893420
 collection_domain: bbc.com
 source_type: news
 publisher: "BBC News"
-author: "BBC News UK Desk"
-publish_date: 2018-04-26
+author: "Dominic Casciani"
+publish_date: 2018-04-25
 ingest_date: 2026-04-08
 enriched_date: 2026-04-10
 language: en
-reliability: medium-high
-credibility: probably-true
+reliability: high
+credibility: confirmed
 sensitivity: public
 source_tier: 3
-pages_updated:
-  - banking-trojan-fraud-sentencing-2017
+pages_updated: []
 key_findings:
-  - "Tomasz Skowron, a 29-year-old Polish national, was sentenced to 5 years in a UK court for his role in a banking-trojan money-laundering and fraud scheme that stole approximately £840,000 (~USD 1.035 million) from victims worldwide"
-  - "Skowron's accomplice Piotr Ptach received a 3-year sentence for recruiting money mules; both were part of a broader Eastern European cybercrime cell that deployed banking trojans to harvest online-banking credentials"
-  - "Operational-security failure: Skowron was identified because he used his *home IP address* to access compromised victim bank accounts and transfer funds — a critical OPSEC error that directly enabled attribution"
-  - "UK police arrested Skowron in December 2014 based on intelligence from the UK banking industry (private-sector–LE cooperation)"
-  - "The case illustrates the money-mule prosecution pathway: rather than the original malware operators (who were *likely* in Eastern Europe and un-extradited), the UK authorities prosecuted the local cash-out layer"
-  - "Note: The BBC News URL (uk-43893420) could not be fetched directly (BBC blocks automated access); these findings are reconstructed from corroborating BleepingComputer, The Register, and MetaCompliance reporting that reference the same defendants and facts"
+  - "BBC News reported that Webstresser.org, a DDoS-for-hire service blamed for more than four million attacks, was taken down in an international investigation."
+  - "The article describes UK National Crime Agency involvement and arrests of suspected members of the Webstresser operation."
+  - "Source-integrity audit on 2026-05-03 found this BBC URL does not support the banking-trojan sentencing page that previously cited it."
 created: 2026-04-08
-updated: 2026-04-10
+updated: 2026-05-03
 raw_path: raw/news/bbc-banking-trojan-fraud-sentencing.md
 text_status: summarized
 content_hash: sha256:bc93ba9e310c28e275d838f268fb7ee1f21de54f1f90e18e6fad674af4514e31
@@ -34,50 +30,29 @@ extraction_date: 2026-04-25
 last_fetcher: urllib
 copyright_policy: summary-only
 ---
-> [!note] Original URL could not be fetched
-> The BBC article at `bbc.com/news/uk-43893420` returned access-denied errors when fetched. Facts in this summary are reconstructed from secondary sources (BleepingComputer, The Register, MetaCompliance) that reference the same case and defendants. The BBC article ID `uk-43893420` is consistent with a UK News article from April 2018.
+> [!warning] Source slug retained for continuity
+> The filename still reflects its former, incorrect banking-trojan association. The source metadata and summary now reflect the fetched BBC article: a Webstresser/DDoS takedown story.
 
 ## Source
 
-- **Publisher**: BBC News (UK Desk)
-- **Author**: Unsigned (BBC News staff)
+- **Publisher**: BBC News
+- **Author**: Dominic Casciani
 - **URL**: <https://www.bbc.com/news/uk-43893420>
-- **Published**: 2018-04-26 (*likely*, based on article ID range and corroborating sentencing reporting)
-- **Source Tier**: 3 (mainstream UK public broadcaster)
-- **Reliability**: medium-high (BBC is a generally high-reliability outlet for UK court reporting)
-- **Credibility**: probably-true
-- **Operations referenced**: [[banking-trojan-fraud-sentencing-2017]]
+- **Published**: 2018-04-25
+- **Source Tier**: 3 (mainstream news)
+- **Reliability**: high for the article identity and Webstresser takedown coverage
+- **Operations referenced**: none after 2026-05-03 cleanup
 
 ## Summary
 
-The BBC reported the sentencing of **Tomasz Skowron**, a 29-year-old Polish national, to **five years in UK prison** for laundering approximately **£840,000** stolen via banking-trojan infections. Skowron was the cash-out/money-laundering layer of a larger Eastern European cybercrime operation: after the banking trojans harvested victim credentials, Skowron transferred funds into accounts he controlled or into money-mule accounts for withdrawal.
+The BBC article at article ID `uk-43893420` covers the takedown of Webstresser.org, a DDoS-for-hire service used to launch attacks against businesses and banks. It does not describe Tomasz Skowron, Piotr Ptach, banking trojans, or the five-year banking-fraud sentence that had previously been attached to this source page.
 
-His accomplice **Piotr Ptach** received a 3-year sentence for recruiting money mules on Skowron's behalf.
+## Source Integrity Note
 
-The critical detail in the case — widely reported — is that UK police identified Skowron because he used his **home IP address** to access the compromised victim accounts, rather than routing through a VPN or proxy. This basic OPSEC failure made attribution straightforward for investigators once the banking industry flagged the fraudulent transfers.
-
-## Why this source matters
-
-For the [[banking-trojan-fraud-sentencing-2017]] operation this BBC report provides:
-
-1. **Named defendants** — Skowron and Ptach, both Polish nationals — not present in the original Tier 3 BleepingComputer source alone
-2. **Concrete loss figure** (£840,000) that enables comparison with other banking-trojan prosecutions
-3. **UK banking-industry–law-enforcement cooperation** as the trigger for investigation — an example of private-sector intelligence sharing driving criminal prosecution
-4. **OPSEC-based attribution** as a lessons-learned theme — distinct from the more common malware-reverse-engineering attribution path
-5. **Money-mule prosecution pattern** — the UK prosecuted the accessible local layer rather than waiting for unavailable extradition of Eastern European malware operators. This is a *common* cybercrime IC pathway.
-
-## Cross-reference with other sources
-
-| Source | Confirms |
-|---|---|
-| BleepingComputer "Crook Who Used His Home IP Address…" | Home-IP OPSEC failure, 5-year sentence |
-| The Register "Gang sentenced for UK bank trojan" | Gang structure, money-mule layer |
-| MetaCompliance blog | £840K loss figure, 5-year sentence |
+On 2026-05-03 this source was removed from [[banking-trojan-fraud-sentencing-2017]]. The operation now cites the matching BleepingComputer article for the Skowron banking-trojan sentencing facts.
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Banking trojan fraud sentencing (article at uk-43893420) | BBC News | 2018-04-26 (*likely*) | https://www.bbc.com/news/uk-43893420 |
-| [2] | Crook Who Used His Home IP Address for Banking Fraud Gets 5 Years in Prison | BleepingComputer | 2018 | https://www.bleepingcomputer.com/news/security/crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison/ |
-| [3] | Man Sentenced to Five Years in Prison for Stealing Nearly £1M Using Banking Malware | MetaCompliance | 2018 | https://www.metacompliance.com/blog/cyber-security-awareness/man-sentenced-to-five |
+| [1] | Cyber-attack website Webstresser taken down | BBC News | 2018-04-25 | https://www.bbc.com/news/uk-43893420 |

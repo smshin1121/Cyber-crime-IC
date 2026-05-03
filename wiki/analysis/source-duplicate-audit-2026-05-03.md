@@ -14,7 +14,7 @@ This audit checks whether multiple `wiki/sources` pages point to the same origin
 - Alias-marked source pages: **1205**
 - Total duplicate URL groups including aliases: **958**
 - Active duplicate URL groups: **0**
-- Total duplicate content-hash groups including aliases: **64**
+- Total duplicate content-hash groups including aliases: **65**
 - Active duplicate content-hash groups after URL normalization: **0**
 - Review-only identical content-hash groups with distinct URLs: **12**
 - Active source pages in at least one unresolved duplicate group: **0**

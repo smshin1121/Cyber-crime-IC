@@ -5,7 +5,7 @@ collection_url: https://www.bbc.com/news/uk-43893420
 final_url: https://www.bbc.com/news/uk-43893420
 collection_domain: bbc.com
 collection_date: 2026-04-25
-publish_date: 2018-04-26
+publish_date: 2018-04-25
 language: en
 status: collected
 text_status: summarized
@@ -21,7 +21,7 @@ source_page: wiki/sources/bbc-banking-trojan-fraud-sentencing.md
 ---
 ## Summary
 
-Source metadata harvested from https://www.bbc.com/news/uk-43893420.
+BBC News article about the Webstresser.org DDoS-for-hire takedown. A 2026-05-03 source-integrity audit confirmed this URL does not support the banking-trojan sentencing page that previously cited it.
 
 ## Extracted Summary
 

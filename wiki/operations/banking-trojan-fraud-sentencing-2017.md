@@ -47,7 +47,7 @@ results:
 source_count: 1
 source_tier: 3
 sources:
-  - "[[bbc-banking-trojan-fraud-sentencing]]"
+  - "[[2017-01-01_bleepingcomputer-com_crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison]]"
 status: absorbed
 target_entity: "Banking fraud perpetrator (used home IP)"
 timeframe:
@@ -58,7 +58,7 @@ timeframe:
 title: "Banking Trojan Fraud Sentencing"
 title_ko: "뱅킹 트로이목마 사기 판결"
 type: operation
-updated: "2026-04-29"
+updated: "2026-05-03"
 operation_role: follow-on
 parent_operation: "[[zeus-spyeye-jit-takedown]]"
 summary: "A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes."
@@ -129,11 +129,8 @@ No Korean involvement identified.
 
 ## Source Coverage
 
-- BBC News, 2018-04-26: BBC News: Polish Banking Trojan Fraudster (Tomasz Skowron) Sentenced to Five Years.
-- Help Net Security, 2015-06-25: The downfall of a major cybercrime ring exploiting banking Trojans.
-- SC Media, 2015-06-25: Europol takes down high profile Ukraine-based cybergang.
-- The Hacker News, 2015-06-27: Europol Arrests Gang Behind Zeus and SpyEye Banking Malware.
-- Tech Monitor, 2015-06-29: Zeus & SpyEye malware gang members arrested in Ukraine.
+- BleepingComputer, 2016-12-21: Crook Who Used His Home IP Address for Banking Fraud Gets 5 Years in Prison.
+- Parent-operation context is retained at [[zeus-spyeye-jit-takedown]]; this wrapper keeps only the direct sentencing source.
 
 ## Evidence and Attribution Notes
 
@@ -142,9 +139,7 @@ No Korean involvement identified.
 - Operational-security failure: Skowron was identified because he used his *home IP address* to access compromised victim bank accounts and transfer funds — a critical OPSEC error that directly enabled attribution
 - UK police arrested Skowron in December 2014 based on intelligence from the UK banking industry (private-sector–LE cooperation)
 - The case illustrates the money-mule prosecution pathway: rather than the original malware operators (who were *likely* in Eastern Europe and un-extradited), the UK authorities prosecuted the local cash-out layer
-- Note: The BBC News URL (uk-43893420) could not be fetched directly (BBC blocks automated access); these findings are reconstructed from corroborating BleepingComputer, The Register, and MetaCompliance reporting that reference the same defendants and facts
-- Help Net Security summarized the JIT action in Ukraine against Zeus and SpyEye actors.
-- The report described five arrests, house searches, and seizure of devices.
+- Source-integrity audit on 2026-05-03 found that BBC article ID `uk-43893420` is a Webstresser/DDoS takedown story, not this banking-trojan sentencing. The mismatched BBC reference was removed from this operation.
 
 <!-- SOURCE_ENRICHMENT_END -->
 
@@ -152,4 +147,4 @@ No Korean involvement identified.
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | BBC News: Polish Banking Trojan Fraudster (Tomasz Skowron) Sentenced to Five Years | BBC News | 2018-04-26 | https://www.bbc.com/news/uk-43893420 |
+| [1] | Crook Who Used His Home IP Address for Banking Fraud Gets 5 Years in Prison | BleepingComputer | 2016-12-21 | https://www.bleepingcomputer.com/news/security/crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison/ |
