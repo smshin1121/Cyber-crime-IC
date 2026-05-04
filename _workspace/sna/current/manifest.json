@@ -1,0 +1,55 @@
+{
+  "snapshot_date": "2026-05-04",
+  "generated_at": "2026-05-04T07:07:34.974741+00:00",
+  "analysis_period": [
+    2014,
+    2025
+  ],
+  "target_crime_types": {
+    "ransomware-ic": "Ransomware",
+    "dark-web-ic": "Dark Web",
+    "csam-ic": "CSAM",
+    "malware-ic": "Botnet/Malware",
+    "illegal-iptv-ic": "Illegal IPTV"
+  },
+  "included_operations_count": 68,
+  "excluded_operations_count": 1018,
+  "exclusion_reason_counts": {
+    "no_target_crime_type": 40,
+    "status_not_completed_or_ongoing": 974,
+    "year_outside_2014_2025_or_missing": 3,
+    "no_clear_international_cooperation": 1
+  },
+  "nodes": {
+    "operations": 68,
+    "countries": 108,
+    "agencies": 94,
+    "crime_types": 5
+  },
+  "edges": {
+    "op_country": 531,
+    "op_agency": 372,
+    "op_crimetype": 95
+  },
+  "validation": {
+    "out_of_range_included_operations": [],
+    "outside_target_crime_included_operations": [],
+    "missing_source_url_included_operations": [],
+    "missing_required_field_included_operations": []
+  },
+  "required_outputs": [
+    "manifest.json",
+    "nodes_operations.csv",
+    "nodes_countries.csv",
+    "nodes_agencies.csv",
+    "nodes_crimetypes.csv",
+    "edges_op_country.csv",
+    "edges_op_agency.csv",
+    "edges_op_crimetype.csv",
+    "metrics_centrality_country.csv",
+    "metrics_centrality_agency.csv",
+    "metrics_centrality_crimetype.csv",
+    "metrics_cohesion.json",
+    "metrics_components.json"
+  ]
+}

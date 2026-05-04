@@ -1,0 +1,95 @@
+﻿slug,title,org_type,country,parent_org
+afripol,AFRIPOL (African Police Cooperation Organization),regional-org,,[[african-union]]
+ameripol,ameripol,,,
+armenia-police,Armenian Police — Division for Combating High-Tech Crime,national-unit,[[armenia]],General Department on Combating Organized Crime — Police of the Republic
+australia-afp,Australian Federal Police — Cyber Command,national-agency,[[australia]],
+belgium-federal-police,Federal Computer Crime Unit (FCCU),national-unit,[[belgium]],[[belgium-federal-police]]
+bulgaria-general-directorate-for-combatting-organized-crime,bulgaria-general-directorate-for-combatting-organized-crime,,,
+bulgaria-police,GDBOP Cybercrime Directorate,national-unit,[[bulgaria]],[[bulgaria-ministry-of-interior]]
+canada-rcmp,RCMP — National Cybercrime Coordination Centre (NC3),national-unit,[[canada]],[[canada-rcmp-federal-policing]]
+cbi-india,Central Bureau of Investigation (CBI),national-agency,[[india]],
+czechia-police,"National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)",national-unit,[[czech-republic]],[[czech-police]]
+dea,Drug Enforcement Administration,federal-law-enforcement,[[united-states]],[[us-doj]]
+denmark-police,National Cyber Crime Center (NC3) / National Special Crime Unit (NSK),national-unit,[[denmark]],[[denmark-national-police]]
+dutch-nhtcu,Dutch NHTCU,national-unit,[[netherlands]],[[netherlands-politie]]
+dutch-police,Dutch Police,national-agency,[[netherlands]],[[netherlands-politie]]
+eurojust,Eurojust,regional-org,,
+europol-ec3,Europol European Cybercrime Centre (EC3),regional-org,,[[europol-ec3]]
+fbi,FBI,national-agency,[[united-states]],[[fbi-cyber-division]]
+fbi-cyber-division,FBI Cyber Division,national-agency,[[united-states]],[[fbi]]
+france-gendarmerie,Centre de lutte contre les criminalités numériques (C3N),national-unit,[[france]],[[france-gendarmerie-nationale]]
+france-junalco,JUNALCO — National Jurisdiction for the Fight against Organized Crime (Cybercrime,prosecution-office,[[france]],Parquet de Paris (Paris Public Prosecutor's Office)
+france-national-police,Office anti-cybercriminalité (OFAC) — French National Police,national-unit,[[france]],"Direction Nationale de la Police Judiciaire (Police Nationale, Ministry"
+frontex,frontex,,,
+general-police-inspectorate-of-moldova,general-police-inspectorate-of-moldova,,,
+german-bka,German BKA,national-agency,[[germany]],[[germany-bka]]
+german-prosecution,German Prosecution,prosecutorial-authority,[[germany]],[[germany-frankfurt-prosecutor]]
+germany-bka,Bundeskriminalamt (BKA),national-agency,[[germany]],[[germany-bmi]]
+germany-frankfurt-prosecutor,Central Office for Combating Internet Crime (ZIT) — Frankfurt am Main,prosecution-office,[[germany]],Generalstaatsanwaltschaft Frankfurt am Main (Hessen)
+germany-lka,Landeskriminalamt (LKA) — German State Criminal Police Offices (Collective),national-agency,[[germany]],Interior Ministry of each of Germany's 16 federal states (Länder)
+group-ib,Group-IB,private-sector-partner,,
+homeland-security-investigations,homeland-security-investigations,,,
+iata,iata,,,
+icann,ICANN,international-org,,
+intel-security,Intel Security,private-sector,,
+interpol,INTERPOL (International Criminal Police Organization),international-org,,
+interpol-asean-desk,interpol-asean-desk,,,
+interpol-igci,INTERPOL Global Complex for Innovation (IGCI),international-org,,[[interpol]]
+irs-ci,irs-ci,,,
+irs-ci-cyber-crimes-unit,irs-ci-cyber-crimes-unit,,,
+irs-criminal-investigation,irs-criminal-investigation,,,
+italy-polizia-postale,Italy Postal Police and Cyber Security Service,national-unit,[[italy]],
+j-cat,j-cat,,,
+japan-npa,Japan National Police Agency — Cyber Affairs Bureau,national-agency,[[japan]],[[japan-npa-headquarters]]
+kaspersky-lab,Kaspersky Lab,private-sector,multinational,
+knpa-cyber-bureau,KNPA Cybercrime Enforcement Organization (경찰청 사이버범죄 수사조직),national-unit,[[south-korea]],[[knpa]]
+latvia-state-police,Latvia State Police,national-unit,[[latvia]],
+lithuania-police,Lithuanian Criminal Police Bureau — Cybercrime Unit,national-unit,[[lithuania]],Policijos departamentas prie LR VRM (Police Department under the Ministry
+london-metropolitan-police,London Metropolitan Police,national-agency,[[united-kingdom]],[[uk-metropolitan-police]]
+lueneburg-police-germany,lueneburg-police-germany,,,
+mcafee-advanced-threat-research,mcafee-advanced-threat-research,,,
+microsoft,Microsoft,private-sector,[[united-states]],
+ministry-of-internal-affairs-of-georgia,ministry-of-internal-affairs-of-georgia,,,
+morocco-dgsn,DGSN,national-agency,[[morocco]],
+national-police-of-ukraine,national-police-of-ukraine,,,
+ncfta,NCFTA,public-private-partnership,[[united-states]],
+netherlands-om,Netherlands Public Prosecution Service - Landelijk Parket,prosecution-office,[[netherlands]],
+netherlands-politie,Dutch National Police - Team High Tech Crime (THTC),national-unit,[[netherlands]],[[netherlands-politie-parent]]
+nigeria-efcc,Nigeria Economic and Financial Crimes Commission,anti-corruption-financial-crime-agency,[[nigeria]],
+nigeria-police-force,Nigeria Police Force,national-agency,[[nigeria]],
+office-of-international-affairs,Office of International Affairs,justice-international-cooperation-office,[[united-states]],[[us-doj]]
+office-of-the-prosecutor-general-of-georgia,office-of-the-prosecutor-general-of-georgia,,,
+office-of-the-prosecutor-general-of-the-republic-of-moldova,office-of-the-prosecutor-general-of-the-republic-of-moldova,,,
+pakistan-fia,Pakistan FIA - Federal Investigation Agency,national-agency,[[pakistan]],
+perseuss,perseuss,,,
+poland-police,Central Bureau for Combating Cybercrime (CBZC) — Poland,national-unit,[[poland]],"Komenda Główna Policji (Police Headquarters, Ministry of Interior and"
+polizia-di-stato,Polizia di Stato,national-police,[[italy]],
+portugal-police,National Unit for Combating Cybercrime and Technological Crime (UNC3T),national-unit,[[portugal]],[[portugal-policia-judiciaria]]
+portuguese-judicial-police,Portuguese Judicial Police,national-agency,[[portugal]],[[portugal-policia-judiciaria]]
+prosecutor-general-s-office-of-ukraine,prosecutor-general-s-office-of-ukraine,,,
+public-prosecutor-s-office-verden-germany,public-prosecutor-s-office-verden-germany,,,
+romania-diicot,Directorate for Investigating Organized Crime and Terrorism (DIICOT),prosecution-office,[[romania]],[[romania-public-ministry]]
+romania-police,Romanian National Police — Service for Combating Cybercrime (DCCO),national-unit,[[romania]],[[romania-police]]
+romanian-police,Romanian Police,national-agency,[[romania]],[[romania-police]]
+russian-ministry-of-interior,Russian Ministry of Interior,interior-ministry,[[russia]],
+shadowserver,Shadowserver,private-sector,international,
+singapore-police,Singapore Police Force — Cybercrime Command,national-unit,[[singapore]],[[singapore-police]]
+spain-guardia-civil,Guardia Civil - Grupo de Delitos Telematicos (GDT),national-unit,[[spain]],[[spain-guardia-civil]]
+spanish-national-police,Spanish National Police,national-agency,[[spain]],[[spain-national-police]]
+supreme-prosecutor-s-office-of-cassation-of-bulgaria,supreme-prosecutor-s-office-of-cassation-of-bulgaria,,,
+sweden-police,Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority,national-unit,[[sweden]],Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police
+switzerland-fedpol,Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination,national-agency,[[switzerland]],Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-
+team-cymru,team-cymru,,,
+thailand-royal-police,Royal Thai Police — Cyber Crime Investigation Bureau,national-agency,[[thailand]],[[thailand-royal-police]]
+trend-micro,Trend Micro,private-cybersecurity-company,[[japan]],
+u-s-attorney-s-office-for-the-western-district-of-pennsylvania,u-s-attorney-s-office-for-the-western-district-of-pennsylvania,,,
+uk-nca,UK National Crime Agency (NCA),national-agency,[[united-kingdom]],
+ukraine-police,Cyber Police of Ukraine — Department of Cyber Police,national-unit,[[ukraine]],Національна поліція України (National Police of Ukraine) — Ministry of
+unodc,United Nations Office on Drugs and Crime (UNODC),international-org,,[[united-nations]]
+us-dcis,US Defense Criminal Investigative Service,national-unit,[[united-states]],[[dod-inspector-general]]
+us-dhs,U.S. Department of Homeland Security (DHS),national-agency,[[united-states]],
+us-doj,US Department of Justice (DOJ),national-agency,[[united-states]],
+us-postal-inspection,US Postal Inspection Service,federal-law-enforcement,[[united-states]],
+us-secret-service,US Secret Service — Cyber Fraud Task Forces,national-unit,[[united-states]],[[us-secret-service-hq]]
+us-treasury,US Department of the Treasury — OFAC and FinCEN (Cyber),national-agency,[[united-states]],[[us-federal-government]]
+usdoj,US DOJ,national-agency,[[united-states]],[[us-doj]]

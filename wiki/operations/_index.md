@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (111 canonical / 974 absorbed / 1085 records)
+# Operations (112 canonical / 974 absorbed / 1086 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (111)
+## Canonical Operations (112)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -91,6 +91,7 @@ updated: 2026-04-14
 | [[operation-destabilise]] | CYB-2024-051 | 3 | completed | umbrella | 5 | 1.88 | 3 |
 | [[cryptex-pm2btc-sanctions]] | CYB-2024-052 | 3 | completed | umbrella | 6 | 4.33 | 1 |
 | [[rydox-marketplace-takedown]] | CYB-2024-053 | 3 | completed | umbrella | 5 | 4.40 | 1 |
+| [[operation-taken-down-illegal-iptv-2024]] | CYB-2024-054 | 3 | completed | umbrella | 2 | 4.20 | 1 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | umbrella | 5 | — | — |
 | [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | umbrella | 5 | — | — |

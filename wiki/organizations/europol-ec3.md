@@ -100,6 +100,7 @@ operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[global-airport-action-day]]"
   - "[[operation-shrouded-horizon]]"
+  - "[[operation-taken-down-illegal-iptv-2024]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

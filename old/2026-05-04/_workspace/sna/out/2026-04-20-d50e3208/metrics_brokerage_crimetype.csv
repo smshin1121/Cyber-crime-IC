@@ -1,0 +1,16 @@
+slug,partition_value,coordinator,gatekeeper,representative,consultant,liaison,total
+bank-fraud-ic,unknown,0,0,0,0,0,0
+bec-ic,cyber-enabled,0,0,0,0,0,0
+carding-fraud-ic,unknown,0,0,0,0,0,0
+csam-ic,content-related,0,0,0,0,0,0
+cybercrime-forum-ic,cyber-dependent,0,0,0,0,0,0
+cybercrime-infrastructure-ic,cyber-dependent,0,0,0,0,0,0
+ddos-extortion,unknown,0,0,0,0,0,0
+ddos-ic,cyber-dependent,0,0,0,0,0,0
+hacking-ic,cyber-dependent,0,0,0,0,0,0
+malware-ic,cyber-dependent,0,0,0,0,0,0
+money-laundering-ic,cyber-enabled,0,0,0,0,0,0
+online-fraud-ic,cyber-enabled,0,0,0,0,0,0
+organized-crime-ic,unknown,0,0,0,0,0,0
+ransomware-ic,cyber-dependent,0,0,0,0,0,0
+voice-phishing-ic,cyber-enabled,0,0,0,0,0,0

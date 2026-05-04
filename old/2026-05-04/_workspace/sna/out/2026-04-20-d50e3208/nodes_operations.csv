@@ -1,0 +1,74 @@
+slug,title,period,outcome,lead_agency,coordinating_body,timeframe_announced,source_count,status
+2bagoldmule-qqaazz,2BaGoldMule (QQAAZZ Takedown),2,success,europol-ec3,europol-ec3,2020-10,1,completed
+africa-cyber-surge-ii,Africa Cyber Surge II,3,success,interpol,interpol,2023-08-18,5,completed
+alphabay-takedown,Operation Bayonet -- AlphaBay & Hansa Takedown,1,success,fbi-cyber-division,europol-ec3,2017-07-20,5,completed
+andromeda-botnet-takedown,Andromeda Botnet Dismantling,1,success,fbi-cyber-division,europol-ec3,2017-12-04,5,completed
+belgium-netherlands-phishing-gang,Belgium-Netherlands Phone-Phishing Gang Takedown,3,success,,eurojust,2024-12-06,5,completed
+bidencash-takedown,BidenCash Marketplace Seizure,3,success,us-secret-service,us-doj,2025-06-05,5,completed
+blackcat-lockeroga-kelvin-security-2023,"BlackCat/ALPHV, LockerGoga, and Kelvin Security Enforcement Actions (Dec 2023)",3,success,fbi-cyber-division,europol-ec3,2023-12-19,5,completed
+carbanak-cobalt-takedown,Carbanak/Cobalt Mastermind Arrest,1,success,spanish-national-police,europol-ec3,2018-03,5,completed
+carding-action-2020,Carding Action 2020,2,success,europol-ec3,europol-ec3,2020-11-26,3,completed
+cryptex-pm2btc-sanctions,Cryptex and PM2BTC Coordinated Sanctions and Seizure Action,3,success,us-treasury,,2024-09-26,6,completed
+cyber-fraud-international-2015,International Cyber Fraud Dismantling Operation,1,success,europol-ec3,eurojust,2015-06-10,1,completed
+cyberbunker-takedown,CyberBunker Bulletproof Hosting Takedown,2,success,germany-lka,europol-ec3,2019-09-27,5,completed
+darkmarket-takedown,DarkMarket Marketplace Takedown,2,success,germany-bka,europol-ec3,2021-01-12,5,completed
+de-ch-crypto-mixer-takedown-2025,DE-CH Cryptocurrency Mixing Service Takedown (December 2025),3,partial,eurojust,eurojust,2025-12-01,1,completed
+doublevpn-takedown,DoubleVPN Takedown,2,success,netherlands-politie,europol-ec3,2021-06-30,5,completed
+dridex-operations,Dridex/Evil Corp Disruption and Prosecution,1,partial,fbi-cyber-division,europol-ec3,2015-10-13,8,completed
+emotet-takedown,Operation LadyBird -- Emotet Botnet Takedown,2,partial,netherlands-politie,europol-ec3,2021-01-27,4,completed
+fin7-takedown,FIN7 Cybercrime Group Takedown,1,success,fbi-cyber-division,us-doj,2018,5,completed
+franco-israeli-ceo-fraud,Franco-Israeli CEO Fraud Investigation,3,success,france-police-nationale-gendarmerie-nationale,europol-ec3,2023-02-08,1,completed
+imminent-monitor-rat-takedown,Imminent Monitor RAT Takedown,2,success,europol-ec3,europol-ec3,2019-11-29,5,completed
+korea-china-voice-phishing-qingdao,Korea-China Voice Phishing Qingdao Joint Operation,3,success,seoul-metropolitan-police,,2023-09-08,1,completed
+lumma-stealer-takedown,Lumma Stealer Takedown,3,success,us-doj,europol-ec3,2025-05-21,3,completed
+nemesis-market-takedown,Nemesis Market Takedown,,success,germany-bka,germany-frankfurt-prosecutor,2024-03-21,5,completed
+operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks,Operation Secreto Follow-on Enforcement Action,2,success,europol-ec3,europol-ec3,2021-02-03,5,completed
+operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace,Australian DarkMarket Operator Arrest Enforcement Action,2,success,germany-bka,europol-ec3,2021-01-12,5,completed
+operation-avalanche,Operation Avalanche,1,success,german-prosecution,europol-ec3,2016-11-30,7,completed
+operation-bakovia,Operation Bakovia (CTB-Locker/Cerber Ransomware),1,success,europol-ec3,europol-ec3,2017-12-20,1,completed
+operation-chakra-iii,Operation Chakra-III,3,success,cbi-india,interpol,2024-09-14,3,completed
+operation-contender-2,Operation Contender 2.0,3,success,interpol,afripol,2024-10-01,2,completed
+operation-cronos-phase1,Operation Cronos — Phase 1 (LockBit Disruption),3,success,uk-nca,europol-ec3,2024-02-20,1,completed
+operation-cronos-phase3,Operation Cronos — Phase 3 (LockBit Arrests and Sanctions),3,success,europol-ec3,europol-ec3,2024-10-01,1,completed
+operation-cyber-guardian,Operation Cyber Guardian,3,success,singapore-police,,2025-04-07,3,completed
+operation-dark-huntor,Operation Dark HunTOR,2,success,europol-ec3,eurojust,2021-10-26,5,completed
+operation-destabilise,Operation Destabilise,3,success,uk-nca,,2024-12-04,1,completed
+operation-endgame,Operation Endgame,,success,europol-ec3,europol-ec3,2024-05-30,9,ongoing
+operation-endgame-phase1,Operation Endgame — Phase 1 (Botnet Takedown),3,success,europol-ec3,europol-ec3,2024-05-30,1,completed
+operation-endgame-phase2,Operation Endgame — Phase 2 (Ransomware Kill Chain Disruption),3,success,europol-ec3,europol-ec3,2025-05-23,3,completed
+operation-eur-100m-crypto-investment-fraud-2025,EUR 100M Crypto Investment Fraud Takedown (2025),4,success,eurojust,eurojust,2025-09-23,1,completed
+operation-eur-100m-illegal-financial-service-laundering-2025,EUR 100M Illegal Financial Service Laundering Takedown (2025),4,success,eurojust,eurojust,2025-01-27,1,completed
+operation-eur-300m-global-credit-card-fraud-2025,EUR 300 Million Global Credit Card Fraud Operation (2025),3,success,eurojust,eurojust,2025-11-05,1,completed
+operation-eur-3m-online-investment-fraud-2025,EUR 3 Million Online Investment Fraud Coalition Action (2025),3,success,eurojust,eurojust,2025-05-13,1,ongoing
+operation-goldfish-alpha-night-fury,Operation Goldfish Alpha / Night Fury,2,success,interpol,interpol,2020,1,completed
+operation-haechi-iii,Operation HAECHI-III,2,success,interpol,interpol,2022-11-24,5,completed
+operation-haechi-iv,Operation HAECHI IV,3,success,interpol,interpol,2023-12-19,1,completed
+operation-haechi-vi,Operation HAECHI VI,3,success,interpol,interpol,2025-09-25,1,completed
+operation-heart-blocker,Operation Heart Blocker,,success,us-doj,,2025-01-29,5,completed
+operation-killer-bee,Operation Killer Bee,2,success,interpol,interpol,2022-11,1,completed
+operation-kraken-ghost-platform,Operation Kraken — Ghost Platform Takedown,,success,australia-afp,europol-ec3,2024-09-18,6,completed
+operation-onymous,Operation Onymous,1,success,fbi-cyber-division,europol-ec3,2014-11-07,5,completed
+operation-orion-international,Operation Orion International,3,success,interpol,interpol,2024-09-26,1,completed
+operation-pleiades,Operation Pleiades,1,success,europol-ec3,europol-ec3,2015-12,1,completed
+operation-power-off,Operation PowerOFF,1,success,fbi-cyber-division,europol-ec3,2018-12-19,7,ongoing
+operation-red-card,Operation Red Card,3,success,interpol,afripol,2025-03-24,3,completed
+operation-rewired,Operation reWired,2,success,fbi-cyber-division,us-doj,2019-09-10,4,completed
+operation-secreto,Operation Secreto,2,success,spanish-national-police,europol-ec3,2021-02,1,completed
+operation-sentinel-africa,Operation Sentinel (Africa),3,success,interpol,interpol,2025-12-22,1,completed
+operation-source,Operation Source,1,success,europol-ec3,europol-ec3,2015-04,1,completed
+operation-stream-kidflix,Operation Stream,3,success,germany-bka,europol-ec3,2025-04-04,3,completed
+operation-talent,Operation Talent,3,success,germany-bka,europol-ec3,2025-01-30,2,completed
+operation-trojan-shield,Operation Trojan Shield (AN0M),4,success,fbi-cyber-division,europol-ec3,2021-06-08,2,completed
+operation-wirewire,Operation WireWire,1,success,fbi-cyber-division,us-doj,2018-06-11,1,completed
+phobos-8base-crackdown,Phobos/8Base Ransomware Crackdown,3,success,europol-ec3,eurojust,2025-02-11,3,completed
+proxy-service-takedown-2026-03,IP Proxy Service for Cybercriminals Takedown (March 2026),3,partial,eurojust,eurojust,2026-03-12,1,completed
+qqaazz-money-laundering-takedown,QQAAZZ Money Laundering Network Takedown,2,success,fbi-cyber-division,europol-ec3,2020-10-15,1,completed
+ramnit-botnet-takedown,Ramnit Botnet Takedown,1,success,uk-nca,europol-ec3,2015-02-24,1,completed
+rex-mundi-takedown,Rex Mundi Hacking Group Takedown,1,success,london-metropolitan-police,europol-ec3,2018-05-18,1,completed
+rydox-marketplace-takedown,Rydox Marketplace Takedown,3,success,fbi-cyber-division,us-doj,2024-12-12,1,completed
+silk-road-takedown,Silk Road Marketplace Takedown,1,success,fbi-cyber-division,us-doj,2013-10-02,7,completed
+simda-botnet-takedown,Simda Botnet Takedown,1,success,interpol,interpol,2015-04-09,1,completed
+trickbot-operations,TrickBot Botnet Disruption,2,partial,us-doj,us-doj,2020-10-12,5,completed
+vpnlab-takedown,VPNLab.net Takedown,3,success,germany-lka,europol-ec3,2022-01-18,5,completed
+xdedic-marketplace-takedown,xDedic Marketplace Takedown,2,success,fbi-cyber-division,europol-ec3,2019-01-28,1,completed
+zeus-spyeye-jit-takedown,Zeus/SpyEye Joint Investigation Team Takedown,1,success,europol-ec3,eurojust,2015-06-19,1,completed

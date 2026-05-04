@@ -1,0 +1,67 @@
+{
+  "brokerage_method": {
+    "algorithm": "Gould-Fernandez 5 roles",
+    "applied_to": "1-mode projection onto mode-2 side",
+    "missing_metadata_handling": "grouped as 'unknown'",
+    "node_partitions": {
+      "agency": "org_type",
+      "country": "region",
+      "crime_type": "crime_category"
+    }
+  },
+  "core_periphery_method": {
+    "algorithm": "Borgatti-Everett (cpnet.BE)",
+    "applied_to": "1-mode projection onto mode-2 side (largest connected component)",
+    "block_densities": "computed on the full 2-mode bipartite graph",
+    "ops_core_rule": "op is core iff ≥1 of its neighbors is in the mode-2 core"
+  },
+  "partition_distributions": {
+    "agency": {
+      "international-org": 3,
+      "national-agency": 19,
+      "national-unit": 25,
+      "private-sector": 4,
+      "private-sector-partner": 1,
+      "prosecution-office": 3,
+      "prosecutorial-authority": 1,
+      "regional-org": 3,
+      "unknown": 19
+    },
+    "country": {
+      "balkans": 1,
+      "caucasus": 1,
+      "central-africa": 1,
+      "central-america": 1,
+      "central-europe": 3,
+      "east-africa": 4,
+      "east-asia": 5,
+      "eastern-europe": 9,
+      "eastern-mediterranean": 1,
+      "middle-east": 1,
+      "north-america": 2,
+      "northern-europe": 4,
+      "oceania": 1,
+      "south-america": 12,
+      "south-asia": 2,
+      "south-caucasus": 1,
+      "southeast-asia": 4,
+      "southeastern-europe": 3,
+      "southern-africa": 2,
+      "southern-europe": 2,
+      "transnational": 1,
+      "unknown": 28,
+      "west-africa": 6,
+      "western-asia": 1,
+      "western-balkans": 1,
+      "western-europe": 12
+    },
+    "crime_type": {
+      "content-related": 1,
+      "cyber-dependent": 6,
+      "cyber-enabled": 4,
+      "unknown": 4
+    }
+  },
+  "rules_version": "step-c-v1",
+  "snapshot": "2026-04-20-d50e3208"
+}

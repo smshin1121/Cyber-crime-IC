@@ -1,0 +1,57 @@
+{
+  "agency": {
+    "avg_distance_largest_cc": 3.3305754734326163,
+    "component_sizes": [
+      148,
+      3
+    ],
+    "components": 2,
+    "density": 0.06322444678609063,
+    "diameter_largest_cc": 6,
+    "edges": 360,
+    "fragmentation": 0.039205298013245016,
+    "largest_component_size": 148,
+    "nodes": 151,
+    "radius_largest_cc": 4,
+    "transitivity_mode2_projection": 0.6484570773967209
+  },
+  "country": {
+    "avg_distance_largest_cc": 3.450367312245765,
+    "component_sizes": [
+      182
+    ],
+    "components": 1,
+    "density": 0.0717607138368732,
+    "diameter_largest_cc": 7,
+    "edges": 571,
+    "fragmentation": 0.0,
+    "largest_component_size": 182,
+    "nodes": 182,
+    "radius_largest_cc": 4,
+    "transitivity_mode2_projection": 0.6914808737410992
+  },
+  "crime_type": {
+    "avg_distance_largest_cc": 1.9130434782608696,
+    "component_sizes": [
+      23,
+      12,
+      12,
+      9,
+      8,
+      7,
+      4,
+      3,
+      2,
+      2
+    ],
+    "components": 13,
+    "density": 0.0684931506849315,
+    "diameter_largest_cc": 2,
+    "edges": 75,
+    "fragmentation": 0.8735632183908046,
+    "largest_component_size": 23,
+    "nodes": 88,
+    "radius_largest_cc": 1,
+    "transitivity_mode2_projection": 1.0
+  }
+}

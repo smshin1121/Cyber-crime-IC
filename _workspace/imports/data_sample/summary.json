@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-05-04T07:07:34.428882+00:00",
+  "excel_records": 231,
+  "matched_existing_sources": 64,
+  "matched_existing_operations": 215,
+  "new_candidate_operations": 6,
+  "field_discrepancies": 201,
+  "out_of_scope_2014_2025_or_non_ic": 136,
+  "needs_manual_review": 207
+}

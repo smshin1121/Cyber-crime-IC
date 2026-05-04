@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-05-03 | Total pages: 7517 | Total sources: 4784*
+*Last updated: 2026-05-03 | Total pages: 7523 | Total sources: 4786*
 
 ## Legal Frameworks (22)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -34,8 +34,8 @@
 - [[united-kingdom]] — Common law; Budapest party (2011); NCA (NCCU); led Operation Cronos; Five Eyes; post-Brexit Europol cooperation
 - [[united-states]] — Common law; Budapest party (2006); FBI/DOJ/Secret Service; CLOUD Act; 30+ MLATs; highest IC network centrality
 
-## Operations (111 canonical / 974 absorbed / 1085 records)
-See the operations index (`wiki/operations/_index.md`) for the full list of 111 canonical operations (974 absorbed follow-on records; 1085 total records) (2014-2026).
+## Operations (112 canonical / 974 absorbed / 1086 records)
+See the operations index (`wiki/operations/_index.md`) for the full list of 112 canonical operations (974 absorbed follow-on records; 1086 total records) (2014-2026).
 
 Recent highlights:
 - [[proxy-service-takedown-2026-03]] — Eurojust + Europol (2026); FR/AT/NL/US (+4 unnamed); 102 victim countries
@@ -62,7 +62,7 @@ Recent highlights:
 - [[emergency-data-preservation]] — Budapest Convention Art. 29; 24/7 Network transmission; 60-day preservation hold; 24-72 hours for initial action
 - [[extradition-request]] — Formal surrender process; bilateral treaties + Budapest Art. 24 + EAW; 6-24 months; Phobos admin Korea-to-US example
 
-## Crime Types (24)
+## Crime Types (25)
 - [[ransomware-ic]] — Ransomware from IC perspective; 8 major operations (2024-2025); 55+ arrests, 533+ servers
 - [[online-fraud-ic]] — Online fraud from IC perspective; HAECHI IV/V/VI, Serengeti, First Light, Jackal series, DE-FR Online Fraud 2026
 - [[hacking-ic]] — Hacking/computer intrusion from IC perspective; i-Soon/APT27, IP Proxy Service Takedown 2026
@@ -82,11 +82,11 @@ Recent highlights:
 - [[specialty-principle]] — Extradited person tried only for offense extradition was granted; prevents prosecution scope creep
 - [[nationality-principle]] — State jurisdiction over crimes by nationals abroad; Korean 형법 Art. 3; Cambodia scam centres
 
-## Sources (4784)
-See the sources index (`wiki/sources/_index.md`) for the full list of 4784 dedicated source pages.
+## Sources (4786)
+See the sources index (`wiki/sources/_index.md`) for the full list of 4786 dedicated source pages.
 
 Distribution: Europol 6, INTERPOL 10, US DOJ 3, Korea NPA 1, News 3. Additional operations sourced from Excel batch import (no dedicated source pages).
 
-## Analysis (101)
+## Analysis (103)
 - [[ic-statistics-dashboard]] — 사이버범죄 국제공조 통계 대시보드: INTERPOL 2014-2024 연도별 현황, 2모드 네트워크 중심성, 작전 집계
 

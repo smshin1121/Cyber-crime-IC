@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (4784)
+# Sources (4786)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -1576,6 +1576,7 @@ updated: 2026-04-14
 | [[2024-12-02-interpol-operation-haechi-v]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-12-02-digwatch-interpol-korea-5500-arrests]] | news | Digital Watch Observatory | ? | medium | ? |
 | [[2024-12-01_moneylaunderingnews-com_fifth-circuit-rejects-ofac-designation-of-tornado-cash-immutable-smart-contracts]] | press-release | Money Laundering Watch | ? | medium | ? |
+| [[2024-11-28_dia-interno-gov-it_operazione-taken-down]] | press-release | Direzione Investigativa Antimafia | ? | high | ? |
 | [[2026-04-18_justice-gov_thurston-county-man-caught-twice-drugs-and-firearms-sentenced-7-years-prison]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_california-teenager-pleads-guilty-florida-making-hundreds-swatting-calls-across-united]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-11-27_thecoastlandtimes_two-men-sentenced-dark-web-identity-theft-retail-fraud]] | news | The Coastland Times | ? | medium | ? |
@@ -1586,6 +1587,7 @@ updated: 2026-04-14
 | [[2024-11-27_interpol-int-es_operation-haechi-v-5500-arrests]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-11-27_hoodline_nigerian-national-sentenced-7-years-28m-cyber-fraud-tulsa]] | news | Hoodline | ? | medium | ? |
 | [[2024-11-27_group-ib_operation-serengeti]] | press-release | Group-IB | ? | medium | ? |
+| [[2024-11-27_eurojust_crackdown-illegal-streaming-network-22-million-users-worldwide]] | news | Eurojust | ? | high | ? |
 | [[2024-11-26_ktul_fbi-uncovers-28m-wire-fraud-tracking-fake-shipment-tulsa-africa]] | news | KTUL ABC8 Tulsa | ? | medium | ? |
 | [[2024-11-26_justice-gov_extradited-nigerian-national-sentenced-7-years-restitution-cyber-fraud]] | press-release | US DOJ USAO Northern District of Oklahoma | ? | high | ? |
 | [[2024-11-26_interpol_operation-serengeti]] | press-release | INTERPOL | ? | high | ? |

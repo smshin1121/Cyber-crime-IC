@@ -1,0 +1,87 @@
+{
+  "alias_canonicalization": {
+    "hits": {
+      "agency": {
+        "fbi": 9,
+        "interpol-igci": 7,
+        "usdoj": 5
+      },
+      "country": {},
+      "crime_type": {}
+    },
+    "mappings": {
+      "agency": {
+        "fbi": "fbi-cyber-division",
+        "interpol-igci": "interpol",
+        "usdoj": "us-doj"
+      },
+      "country": {},
+      "crime_type": {}
+    },
+    "total_slot_merges": 21
+  },
+  "bare_string_normalization": {
+    "empty_dropped": 0,
+    "normalized": 44,
+    "scan_report": "_workspace/sna/bare-strings-scan.csv"
+  },
+  "crime_type_schema_migration": {
+    "canonical_field": "crime_types (list)",
+    "included_ops_using_fallback": 0,
+    "legacy_field": "crime_type (single) — read as fallback during PoC v4",
+    "note": "canonical `crime_types` list is authoritative; legacy single field is still read if list is empty/absent."
+  },
+  "edges": {
+    "op_agency": 358,
+    "op_country": 566,
+    "op_crimetype": 72
+  },
+  "generated_at": "2026-04-19T23:46:57.747385+00:00",
+  "git_ref": {
+    "branch": "master",
+    "dirty": true,
+    "head": "d50e3208"
+  },
+  "inclusion": {
+    "excluded_operations_count": 1063,
+    "exclusion_reason_breakdown": {
+      "agencies_lt_2": 13,
+      "audit_denylist": 0,
+      "countries_lt_2": 1025,
+      "crime_type_missing": 0,
+      "domestic_followon_pattern": 0,
+      "no_enforcement_action": 1,
+      "not_operation_type": 7,
+      "parse_error": 0,
+      "status_not_live": 17
+    },
+    "included_operations_count": 72
+  },
+  "nodes": {
+    "agencies": 78,
+    "countries": 109,
+    "crime_types": 14,
+    "operations_kept": 72
+  },
+  "rules_version": "poc-v4",
+  "snapshot_date": "2026-04-19",
+  "snapshot_id": "2026-04-19-d50e3208",
+  "spec_files": {
+    "alias_map": "_workspace\\sna\\node-alias-map.yaml",
+    "denylist": "_workspace\\sna\\audit-denylist.txt",
+    "paper": "_workspace\\sna\\paper-network-definitions.md",
+    "rules": "_workspace\\sna\\edge-schema-and-inclusion-rules.md"
+  },
+  "tool_versions": {
+    "networkx": "3.6.1",
+    "pandas": "3.0.2",
+    "python": "3.14.3",
+    "pyyaml": "6.0.2"
+  },
+  "wiki_totals": {
+    "agencies_referenced": 78,
+    "countries_referenced": 109,
+    "crime_types_referenced": 14,
+    "operations_files_scanned": 1136
+  }
+}

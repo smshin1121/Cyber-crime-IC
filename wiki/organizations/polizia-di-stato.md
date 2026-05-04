@@ -16,6 +16,7 @@ key_roles:
 operations_participated:
   - "[[cyber-fraud-international-2015]]"
   - "[[doublevpn-takedown]]"
+  - "[[operation-taken-down-illegal-iptv-2024]]"
 cooperation_partners:
   - "[[italy-polizia-postale]]"
   - "[[europol-ec3]]"

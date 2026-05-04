@@ -1,0 +1,243 @@
+{
+  "agency": {
+    "communities": 5,
+    "communities_detail": [
+      {
+        "id": 0,
+        "members": [
+          "afripol",
+          "cbi-india",
+          "dutch-nhtcu",
+          "fbi-cyber-division",
+          "french-high-tech-crime-unit",
+          "german-bka",
+          "german-prosecution",
+          "ic3",
+          "icann",
+          "intel-security",
+          "interpol",
+          "interpol-asean-desk",
+          "j-cat",
+          "kaspersky-lab",
+          "knpa",
+          "london-metropolitan-police",
+          "microsoft",
+          "nigerian-efcc",
+          "pakistan-fia",
+          "portuguese-judicial-police",
+          "romanian-police",
+          "russian-ministry-of-interior",
+          "shadowserver",
+          "spanish-national-police",
+          "thai-royal-police",
+          "trend-micro",
+          "unodc",
+          "us-dhs",
+          "us-doj",
+          "us-postal-inspection"
+        ],
+        "size": 31
+      },
+      {
+        "id": 1,
+        "members": [
+          "armenia-police",
+          "australia-afp",
+          "belgium-federal-police",
+          "bulgaria-police",
+          "canada-rcmp",
+          "czechia-police",
+          "dea",
+          "denmark-police",
+          "france-junalco",
+          "france-national-police",
+          "germany-bka",
+          "germany-frankfurt-prosecutor",
+          "germany-lka",
+          "irs-ci",
+          "latvia-state-police",
+          "lithuania-police",
+          "netherlands-politie",
+          "portugal-police",
+          "romania-police",
+          "switzerland-fedpol",
+          "uk-nca",
+          "ukraine-police",
+          "us-dcis",
+          "us-secret-service"
+        ],
+        "size": 24
+      },
+      {
+        "id": 2,
+        "members": [
+          "croatia-hrvatska-policija",
+          "europol-ec3",
+          "france-gendarmerie",
+          "france-police-nationale",
+          "france-police-nationale-gendarmerie-nationale",
+          "group-ib",
+          "hungary-budapesti-rendor-fokapitanysag",
+          "ireland-garda",
+          "israel-police",
+          "italy-dcsa",
+          "portugal-policia-judiciaria",
+          "spain-policia-nacional",
+          "sweden-police"
+        ],
+        "size": 13
+      },
+      {
+        "id": 3,
+        "members": [
+          "eurojust",
+          "japan-npa",
+          "knpa-cyber-bureau",
+          "polizia-di-stato",
+          "romania-diicot",
+          "singapore-police",
+          "spain-guardia-civil",
+          "spain-national-police"
+        ],
+        "size": 8
+      },
+      {
+        "id": 4,
+        "members": [
+          "chinese-police-qingdao",
+          "seoul-metropolitan-police"
+        ],
+        "size": 2
+      }
+    ],
+    "modularity": 0.2869573368157829
+  },
+  "country": {
+    "communities": 4,
+    "communities_detail": [
+      {
+        "id": 0,
+        "members": [
+          "armenia",
+          "australia",
+          "austria",
+          "azerbaijan",
+          "belarus",
+          "belgium",
+          "belize",
+          "bosnia-and-herzegovina",
+          "bulgaria",
+          "canada",
+          "croatia",
+          "cyprus",
+          "czech-republic",
+          "czechia",
+          "denmark",
+          "eu-member-states",
+          "finland",
+          "france",
+          "georgia",
+          "germany",
+          "greece",
+          "hungary",
+          "iceland",
+          "international",
+          "israel",
+          "italy",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "moldova"
+        ],
+        "size": 46
+      },
+      {
+        "id": 1,
+        "members": [
+          "benin",
+          "botswana",
+          "burkina-faso",
+          "cameroon",
+          "chad",
+          "congo",
+          "cote-divoire",
+          "democratic-republic-of-the-congo",
+          "djibouti",
+          "gabon",
+          "gambia",
+          "ghana",
+          "kenya",
+          "malawi",
+          "mauritius",
+          "nigeria",
+          "rwanda",
+          "senegal",
+          "south-africa",
+          "south-sudan",
+          "tanzania",
+          "togo",
+          "turkey",
+          "uganda",
+          "zambia",
+          "zimbabwe"
+        ],
+        "size": 26
+      },
+      {
+        "id": 2,
+        "members": [
+          "albania",
+          "brunei",
+          "cambodia",
+          "china",
+          "cote-d-ivoire",
+          "hong-kong",
+          "hong-kong-china",
+          "india",
+          "indonesia",
+          "ireland",
+          "japan",
+          "kazakhstan",
+          "kosovo",
+          "kyrgyzstan",
+          "laos",
+          "malaysia",
+          "maldives",
+          "myanmar",
+          "philippines",
+          "singapore",
+          "slovenia",
+          "south-korea",
+          "thailand",
+          "united-arab-emirates",
+          "vietnam"
+        ],
+        "size": 25
+      },
+      {
+        "id": 3,
+        "members": [
+          "argentina",
+          "bolivia",
+          "brazil",
+          "chile",
+          "colombia",
+          "ecuador",
+          "guyana",
+          "paraguay",
+          "peru",
+          "suriname",
+          "uruguay",
+          "venezuela"
+        ],
+        "size": 12
+      }
+    ],
+    "modularity": 0.3073224234208554
+  },
+  "crime_type": {
+    "communities": 0,
+    "communities_detail": [],
+    "modularity": 0.0
+  }
+}

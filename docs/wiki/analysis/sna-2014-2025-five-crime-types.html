@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="ko" class="lang-ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SNA Rebuild: 2014-2025 Five Cybercrime Categories — 사이버범죄 국제공조 위키</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <div class="top-nav-inner">
+      <a href="../../index.html" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
+      <div class="nav-links">
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/cases.html"><span class="i18n" data-ko="판례" data-en="Cases"></span></a>
+        <div class="nav-more">
+          <button class="nav-more-btn"><span class="i18n" data-ko="더보기 ▾" data-en="More ▾"></span></button>
+          <div class="nav-dropdown">
+            <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+            <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+            <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+            <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+            <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+            <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
+          </div>
+        </div>
+        <a href="../../cosmos/index.html" class="nav-cosmos"><span class="i18n" data-ko="&#127760; Cosmos" data-en="&#127760; Cosmos"></span></a>
+      </div>
+      <form class="nav-search" action="../../search.html" method="get">
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
+      </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
+    </div>
+  </nav>
+
+
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>
+
+          SNA Rebuild: 2014-2025 Five Cybercrime Categories
+
+      </h1>
+      <div class="article-meta">
+
+          <span class="badge">
+            <span class="i18n" data-ko="analysis" data-en="analysis"></span>
+          </span>
+
+
+          <span><a href="../../category/analysis.html">
+            <span class="i18n"
+              data-ko="분석"
+              data-en="Analysis"></span>
+          </a></span>
+
+
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-04
+          </span>
+
+
+      </div>
+    </div>
+    <div class="article-body">
+
+        <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p>This rebuild uses <code>_workspace/sna/current/manifest.json</code> as the current SNA manifest. It includes <strong>68</strong> operations from <strong>2014-2025</strong> whose operation frontmatter has at least one source URL, participating agencies, participating countries, and at least one of the five target crime categories.</p>
+<p>The five-category crime filter is intentionally narrower than the older PoC SNA output. Crime-type edges are collapsed to <code>ransomware-ic</code>, <code>dark-web-ic</code>, <code>csam-ic</code>, <code>malware-ic</code>, and <code>illegal-iptv-ic</code>; other wiki crime categories are not exported into this subset.</p>
+<h2 id="output-manifest">Output Manifest</h2>
+<table>
+<thead>
+<tr>
+<th>Artifact</th>
+<th style="text-align: right;">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Operations</td>
+<td style="text-align: right;">68</td>
+</tr>
+<tr>
+<td>Countries</td>
+<td style="text-align: right;">108</td>
+</tr>
+<tr>
+<td>Agencies</td>
+<td style="text-align: right;">94</td>
+</tr>
+<tr>
+<td>Crime types</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr>
+<td>Operation-country edges</td>
+<td style="text-align: right;">531</td>
+</tr>
+<tr>
+<td>Operation-agency edges</td>
+<td style="text-align: right;">372</td>
+</tr>
+<tr>
+<td>Operation-crime_type edges</td>
+<td style="text-align: right;">95</td>
+</tr>
+</tbody>
+</table>
+<h2 id="crime-type-coverage">Crime-Type Coverage</h2>
+<table>
+<thead>
+<tr>
+<th>Crime type</th>
+<th style="text-align: right;">Included operations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/crime-types/ransomware-ic.html" class="wikilink">ransomware-ic</a></td>
+<td style="text-align: right;">29</td>
+</tr>
+<tr>
+<td><a href="../../wiki/crime-types/dark-web-ic.html" class="wikilink">dark-web-ic</a></td>
+<td style="text-align: right;">15</td>
+</tr>
+<tr>
+<td><a href="../../wiki/crime-types/csam-ic.html" class="wikilink">csam-ic</a></td>
+<td style="text-align: right;">6</td>
+</tr>
+<tr>
+<td><a href="../../wiki/crime-types/malware-ic.html" class="wikilink">malware-ic</a></td>
+<td style="text-align: right;">44</td>
+</tr>
+<tr>
+<td><a href="../../wiki/crime-types/illegal-iptv-ic.html" class="wikilink">illegal-iptv-ic</a></td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="centrality-snapshots">Centrality Snapshots</h2>
+<h3 id="countries">Countries</h3>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th style="text-align: right;">Degree</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></td>
+<td style="text-align: right;">0.750</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/germany.html" class="wikilink">germany</a></td>
+<td style="text-align: right;">0.515</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a></td>
+<td style="text-align: right;">0.515</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a></td>
+<td style="text-align: right;">0.441</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/france.html" class="wikilink">france</a></td>
+<td style="text-align: right;">0.324</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/australia.html" class="wikilink">australia</a></td>
+<td style="text-align: right;">0.250</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/canada.html" class="wikilink">canada</a></td>
+<td style="text-align: right;">0.250</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/romania.html" class="wikilink">romania</a></td>
+<td style="text-align: right;">0.206</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/switzerland.html" class="wikilink">switzerland</a></td>
+<td style="text-align: right;">0.206</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/spain.html" class="wikilink">spain</a></td>
+<td style="text-align: right;">0.176</td>
+</tr>
+</tbody>
+</table>
+<h3 id="agencies">Agencies</h3>
+<table>
+<thead>
+<tr>
+<th>Agency</th>
+<th style="text-align: right;">Degree</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a></td>
+<td style="text-align: right;">0.632</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">fbi-cyber-division</a></td>
+<td style="text-align: right;">0.471</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a></td>
+<td style="text-align: right;">0.338</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/germany-bka.html" class="wikilink">germany-bka</a></td>
+<td style="text-align: right;">0.250</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a></td>
+<td style="text-align: right;">0.250</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">uk-nca</a></td>
+<td style="text-align: right;">0.250</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/us-doj.html" class="wikilink">us-doj</a></td>
+<td style="text-align: right;">0.221</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/fbi.html" class="wikilink">fbi</a></td>
+<td style="text-align: right;">0.191</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/interpol.html" class="wikilink">interpol</a></td>
+<td style="text-align: right;">0.162</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/us-secret-service.html" class="wikilink">us-secret-service</a></td>
+<td style="text-align: right;">0.118</td>
+</tr>
+</tbody>
+</table>
+<h3 id="crime-types">Crime Types</h3>
+<table>
+<thead>
+<tr>
+<th>Crime type</th>
+<th style="text-align: right;">Degree</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/crime-types/malware-ic.html" class="wikilink">malware-ic</a></td>
+<td style="text-align: right;">0.647</td>
+</tr>
+<tr>
+<td><a href="../../wiki/crime-types/ransomware-ic.html" class="wikilink">ransomware-ic</a></td>
+<td style="text-align: right;">0.426</td>
+</tr>
+<tr>
+<td><a href="../../wiki/crime-types/dark-web-ic.html" class="wikilink">dark-web-ic</a></td>
+<td style="text-align: right;">0.221</td>
+</tr>
+<tr>
+<td><a href="../../wiki/crime-types/csam-ic.html" class="wikilink">csam-ic</a></td>
+<td style="text-align: right;">0.088</td>
+</tr>
+<tr>
+<td><a href="../../wiki/crime-types/illegal-iptv-ic.html" class="wikilink">illegal-iptv-ic</a></td>
+<td style="text-align: right;">0.015</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cohesion">Cohesion</h2>
+<table>
+<thead>
+<tr>
+<th>Network</th>
+<th style="text-align: right;">Nodes</th>
+<th style="text-align: right;">Edges</th>
+<th style="text-align: right;">Density</th>
+<th style="text-align: right;">Components</th>
+<th style="text-align: right;">Largest component</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>country</td>
+<td style="text-align: right;">176</td>
+<td style="text-align: right;">531</td>
+<td style="text-align: right;">0.0723</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">174</td>
+</tr>
+<tr>
+<td>agency</td>
+<td style="text-align: right;">162</td>
+<td style="text-align: right;">372</td>
+<td style="text-align: right;">0.0582</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">162</td>
+</tr>
+<tr>
+<td>crime_type</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">0.2794</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">71</td>
+</tr>
+</tbody>
+</table>
+<h2 id="visualizations">Visualizations</h2>
+<ul>
+<li><a href="sna/country-network.html">Country network</a></li>
+<li><a href="sna/agency-network.html">Agency network</a></li>
+<li><a href="sna/crime-type-network.html">Crime-type network</a></li>
+</ul>
+<h2 id="validation-notes">Validation Notes</h2>
+<ul>
+<li>Out-of-range included operations: 0</li>
+<li>Included operations outside the target crime set: 0</li>
+<li>Included operations without source URLs: 0</li>
+<li>Included operations missing required agency/country/crime fields: 0</li>
+</ul>
+<p>The source workbook cross-check reports are under <code>_workspace/imports/data_sample/</code> and are treated as review evidence, not as an automatic overwrite of wiki operation frontmatter.</p>
+
+    </div>
+  </main>
+
+  <aside class="sidebar">
+
+
+    <div class="cat-nav">
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
+      <ul>
+
+        <li>
+          📜
+          <a href="../../category/legal-frameworks.html"
+             >
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
+          </a>
+        </li>
+
+        <li>
+          🏛️
+          <a href="../../category/organizations.html"
+             >
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
+          </a>
+        </li>
+
+        <li>
+          🌍
+          <a href="../../category/countries.html"
+             >
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
+          </a>
+        </li>
+
+        <li>
+          🎯
+          <a href="../../category/operations.html"
+             >
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
+          </a>
+        </li>
+
+        <li>
+          ⚖️
+          <a href="../../category/cases.html"
+             >
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
+          </a>
+        </li>
+
+        <li>
+          🔗
+          <a href="../../category/mechanisms.html"
+             >
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
+          </a>
+        </li>
+
+        <li>
+          📋
+          <a href="../../category/procedures.html"
+             >
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
+          </a>
+        </li>
+
+        <li>
+          🔒
+          <a href="../../category/crime-types.html"
+             >
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
+          </a>
+        </li>
+
+        <li>
+          ⚠️
+          <a href="../../category/challenges.html"
+             >
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
+          </a>
+        </li>
+
+        <li>
+          📖
+          <a href="../../category/concepts.html"
+             >
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
+          </a>
+        </li>
+
+        <li>
+          📰
+          <a href="../../category/sources.html"
+             >
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
+          </a>
+        </li>
+
+        <li>
+          📊
+          <a href="../../category/analysis.html"
+             style="font-weight:700">
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
+          </a>
+        </li>
+
+        <li>
+          📅
+          <a href="../../category/timelines.html"
+             >
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
+          </a>
+        </li>
+
+      </ul>
+    </div>
+  </aside>
+</div>
+
+
+  <div class="footer">
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-05-04 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-05-04">
+    </span>
+  </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
+</body>
+</html>

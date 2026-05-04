@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-27
 ---
 
-# Crime Types (24)
+# Crime Types (25)
 
 | Crime Type | Category | Broadly Criminalized | Key Mechanisms | Notable Operations | Sources |
 |------------|----------|----------------------|----------------|--------------------|---------|
@@ -28,6 +28,7 @@ updated: 2026-04-27
 | [[extortion-ic]] | — | — | — | — | 1 |
 | [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03 | 2 |
 | [[identity-theft]] | — | — | — | — | 4 |
+| [[illegal-iptv-ic]] | cyber-enabled | Yes | search-seizure, domain-seizure, public-private-cooperation | operation-taken-down-illegal-iptv-2024 | 2 |
 | [[malware-ic]] | cyber-dependent | Yes | sinkholing, domain-seizure, search-seizure | operation-avalanche, andromeda-botnet-takedown, simda-botnet-takedown | 4 |
 | [[money-laundering-ic]] | cyber-enabled | Yes | mlat-process, europol-jit | de-ch-crypto-mixer-takedown-2025, 2bagoldmule-qqaazz, cryptex-pm2btc-sanctions | 1 |
 | [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 8 |

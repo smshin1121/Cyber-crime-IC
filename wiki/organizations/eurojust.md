@@ -59,6 +59,7 @@ operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[global-airport-action-day]]"
   - "[[zeus-spyeye-takedown]]"
+  - "[[operation-taken-down-illegal-iptv-2024]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

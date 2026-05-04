@@ -1,0 +1,15 @@
+slug,crime_category
+bec-ic,cyber-enabled
+carding-fraud-ic,
+csam-ic,content-related
+cybercrime-forum-ic,cyber-dependent
+cybercrime-infrastructure-ic,cyber-dependent
+ddos-extortion,
+ddos-ic,cyber-dependent
+hacking-ic,cyber-dependent
+malware-ic,cyber-dependent
+money-laundering-ic,cyber-enabled
+online-fraud-ic,cyber-enabled
+organized-crime-ic,
+ransomware-ic,cyber-dependent
+voice-phishing-ic,cyber-enabled
