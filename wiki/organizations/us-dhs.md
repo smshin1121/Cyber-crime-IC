@@ -29,6 +29,7 @@ operations_participated:
   - "[[operation-wirewire]]"
   - "[[operation-onymous]]"
   - "[[operation-rewired]]"
+  - "[[operation-404-digital-piracy-2019]]"
   - "[[operation-us-v-farrell-silk-road-2]]"
   - "[[infraud-organization-takedown]]"
   - "[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"

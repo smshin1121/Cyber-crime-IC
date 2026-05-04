@@ -23,6 +23,8 @@ frameworks_administered: []
 mechanisms_operated: []
 operations_participated:
   - "[[operation-eur-100m-crypto-investment-fraud-2025]]"
+  - "[[spanish-pay-tv-streaming-network-takedown-2020]]"
+  - "[[mobdro-illegal-streaming-takedown-2021]]"
 notable_cases: []
 contact_point_for:
   - "[[24-7-network]]"

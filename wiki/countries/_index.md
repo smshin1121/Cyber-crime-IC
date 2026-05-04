@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (110)
+# Countries (111)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -74,6 +74,7 @@ total: 61
 | 🇲🇪 | [[montenegro]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇰 | [[macedonia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇲 | [[myanmar]] | mixed | listed | unknown | unknown | 1 |
+| 🇲🇹 | [[malta]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇺 | [[mauritius]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇽 | [[mexico]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇾 | [[malaysia]] | not-assessed | — | unknown | unknown | 0 |

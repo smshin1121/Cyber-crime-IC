@@ -25,6 +25,7 @@ official_name_ko: "체코 국립 테러·극단주의·사이버범죄 대응센
 operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[fake-shopping-sites-takedown-2024]]"
+  - "[[mobdro-illegal-streaming-takedown-2021]]"
 org_type: national-unit
 parent_org: "[[czech-police]]"
 source_count: 2

@@ -21,7 +21,13 @@ key_organizations:
   - "[[eurojust]]"
   - "[[europol-ec3]]"
   - "[[italy-polizia-postale]]"
+  - "[[spain-national-police]]"
+  - "[[brazil-ministry-of-justice-public-security]]"
 notable_operations:
+  - "[[operation-perfect-storm-pay-tv-piracy-2019]]"
+  - "[[spanish-pay-tv-streaming-network-takedown-2020]]"
+  - "[[mobdro-illegal-streaming-takedown-2021]]"
+  - "[[operation-404-digital-piracy-2019]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
 notable_cases: []
 criminalization_status:
@@ -29,10 +35,18 @@ criminalization_status:
   definition_varies: true
   problem_jurisdictions: []
 estimated_annual_loss: ""
-source_count: 2
+source_count: 10
 sources:
+  - "[[2019-09-18_eurojust_eurojust-helps-unravel-massive-trans-european-pay-tv-fraud]]"
+  - "[[2020-06-10_eurojust_eurojust-supports-new-major-crackdown-fraud-pay-tv]]"
+  - "[[2020-11-05_justice-gov_operation-404-digital-piracy-sites-apps]]"
+  - "[[2020-11-11_eurojust_new-major-crackdown-on-fraud-with-illegal-use-of-pay-tv-signals]]"
+  - "[[2021-03-09_eurojust_spanish-action-illegal-streaming-football-matches]]"
+  - "[[2021-10-27_eurojust_operation-perfect-storm-crackdown-illegal-use-pay-tv-signals]]"
+  - "[[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]]"
   - "[[2024-11-27_eurojust_crackdown-illegal-streaming-network-22-million-users-worldwide]]"
   - "[[2024-11-28_dia-interno-gov-it_operazione-taken-down]]"
+  - "[[2025-01-17_uefa_operation-kratos-international-anti-piracy-operation]]"
 created: 2026-05-04
 updated: 2026-05-04
 status: active
@@ -43,7 +57,7 @@ Illegal IPTV and streaming piracy operations cover enforcement actions against s
 
 ## Cooperation Pattern
 
-Operation Taken Down illustrates why this category belongs in the international-cooperation dataset. The public record describes a Catania-led Italian investigation supported by Eurojust and Europol, with searches, seizures, and arrests coordinated across multiple European jurisdictions. The service reached users worldwide, relied on distributed infrastructure, and generated alleged proceeds large enough to raise parallel money-laundering and organised-crime concerns.
+The expanded IPTV set shows several recurring cooperation patterns. Eurojust-supported European actions such as Operation Perfect Storm, the Spanish pay-TV streaming network takedown, Mobdro, and Operation Taken Down use cross-border search, seizure, EIO, MLA, and Europol analytical support to disrupt distributed streaming infrastructure. Operation 404 shows a non-European umbrella model led by Brazil with U.S., UK, Latin American, and private-sector IP partners.
 
 ## Analytical Use
 
@@ -53,5 +67,13 @@ Use this category when the operation target is an illegal IPTV, pirate streaming
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | [[2024-11-27_eurojust_crackdown-illegal-streaming-network-22-million-users-worldwide|Crackdown on illegal streaming network with 22 million users worldwide]] | Eurojust | 2024-11-27 | https://www.eurojust.europa.eu/news/crackdown-illegal-streaming-network-22-million-users-worldwide |
-| [2] | [[2024-11-28_dia-interno-gov-it_operazione-taken-down|OPERAZIONE TAKEN DOWN]] | Direzione Investigativa Antimafia | 2024-11-28 | https://direzioneinvestigativaantimafia.interno.gov.it/2024/operazione-taken-down/ |
+| [1] | [[2019-09-18_eurojust_eurojust-helps-unravel-massive-trans-european-pay-tv-fraud|Eurojust helps unravel massive trans-European pay-TV fraud]] | Eurojust | 2019-09-18 | https://www.eurojust.europa.eu/news/eurojust-helps-unravel-massive-trans-european-pay-TV-fraud |
+| [2] | [[2020-06-10_eurojust_eurojust-supports-new-major-crackdown-fraud-pay-tv|Eurojust supports new major crackdown on fraud with pay TV]] | Eurojust | 2020-06-10 | https://www.eurojust.europa.eu/news/eurojust-supports-new-major-crackdown-fraud-pay-tv |
+| [3] | [[2020-11-05_justice-gov_operation-404-digital-piracy-sites-apps|U.S. law enforcement assists Brazilian law enforcement takedown of numerous digital piracy sites and apps]] | U.S. Department of Justice | 2020-11-05 | https://www.justice.gov/archives/opa/pr/us-law-enforcement-assists-brazilian-law-enforcement-takedown-numerous-digital-piracy-sites |
+| [4] | [[2020-11-11_eurojust_new-major-crackdown-on-fraud-with-illegal-use-of-pay-tv-signals|Eurojust coordinates action in Italy and ten other countries, taking down over 5,550 computer servers]] | Eurojust | 2020-11-11 | https://www.eurojust.europa.eu/news/new-major-crackdown-on-fraud-with-illegal-use-of-pay-TV-signals |
+| [5] | [[2021-03-09_eurojust_spanish-action-illegal-streaming-football-matches|Eurojust supports Spanish action against illegal streaming of football matches]] | Eurojust | 2021-03-09 | https://www.eurojust.europa.eu/news/eurojust-supports-spanish-action-against-illegal-streaming-football-matches |
+| [6] | [[2021-10-27_eurojust_operation-perfect-storm-crackdown-illegal-use-pay-tv-signals|Operation Perfect Storm: Crackdown on illegal use of pay-TV signals]] | Eurojust | 2021-10-27 | https://www.eurojust.europa.eu/publication/operation-perfect-storm-crackdown-illegal-use-pay-tv-signals |
+| [7] | [[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps|Operacao internacional contra pirataria tira do ar 675 sites e 14 aplicativos de streaming]] | Brazil Ministry of Justice and Public Security | 2024-09-19 | https://www.gov.br/mj/pt-br/assuntos/noticias/operacao-internacional-contra-pirataria-tira-do-ar-675-sites-e-14-aplicativos-de-streaming |
+| [8] | [[2024-11-27_eurojust_crackdown-illegal-streaming-network-22-million-users-worldwide|Crackdown on illegal streaming network with 22 million users worldwide]] | Eurojust | 2024-11-27 | https://www.eurojust.europa.eu/news/crackdown-illegal-streaming-network-22-million-users-worldwide |
+| [9] | [[2024-11-28_dia-interno-gov-it_operazione-taken-down|OPERAZIONE TAKEN DOWN]] | Direzione Investigativa Antimafia | 2024-11-28 | https://direzioneinvestigativaantimafia.interno.gov.it/2024/operazione-taken-down/ |
+| [10] | [[2025-01-17_uefa_operation-kratos-international-anti-piracy-operation|UEFA supports international anti-piracy operation]] | UEFA | 2025-01-17 | https://www.uefa.com/news-media/news/0295-1cd599b8d6cb-2fa4e1035483-1000--uefa-supports-international-anti-piracy-operation/ |

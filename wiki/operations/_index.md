@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (112 canonical / 974 absorbed / 1086 records)
+# Operations (116 canonical / 974 absorbed / 1090 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (112)
+## Canonical Operations (116)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -41,6 +41,8 @@ updated: 2026-04-14
 | [[goznym-takedown]] | CYB-2019-001 | 2 | completed | umbrella | 5 | 4.20 | 2 |
 | [[imminent-monitor-rat-takedown]] | CYB-2019-050 | 2 | completed | umbrella | 5 | 1.88 | 3 |
 | [[xdedic-marketplace-takedown]] | CYB-2019-051 | 2 | completed | umbrella | 9 | 4.20 | 1 |
+| [[operation-perfect-storm-pay-tv-piracy-2019]] | CYB-2019-052 | 2 | completed | umbrella | 3 | 4.20 | 1 |
+| [[operation-404-digital-piracy-2019]] | CYB-2019-053 | 2 | ongoing | umbrella | 2 | 4.10 | 1 |
 | [[operation-falcon]] | CYB-2020-001 | 2 | completed | umbrella | 5 | 3.62 | 2 |
 | [[operation-goldfish-alpha-night-fury]] | CYB-2020-002 | 2 | completed | umbrella | 5 | 2.28 | 2 |
 | [[2bagoldmule-qqaazz]] | CYB-2020-003 | 2 | completed | umbrella | 5 | 2.28 | 2 |
@@ -48,6 +50,7 @@ updated: 2026-04-14
 | [[operation-nova]] | CYB-2020-050 | 2 | completed | umbrella | 5 | 2.55 | 3 |
 | [[operation-nightfury]] | CYB-2020-051 | 2 | completed | umbrella | 6 | 2.55 | 3 |
 | [[qqaazz-money-laundering-takedown]] | CYB-2020-052 | 2 | completed | umbrella | 5 | 1.88 | 3 |
+| [[spanish-pay-tv-streaming-network-takedown-2020]] | CYB-2020-053 | 2 | completed | umbrella | 1 | 4.20 | 1 |
 | [[darkmarket-takedown]] | CYB-2021-001 | 2 | completed | umbrella | 5 | 4.50 | 1 |
 | [[operation-secreto]] | CYB-2021-001 | 2 | completed | umbrella | 4 | 2.28 | 2 |
 | [[operation-haechi-ii]] | CYB-2021-002 | 2 | completed | umbrella | 5 | 3.80 | 2 |
@@ -55,6 +58,7 @@ updated: 2026-04-14
 | [[operation-dark-huntor]] | CYB-2021-010 | 2 | completed | umbrella | 5 | 3.50 | 2 |
 | [[operation-lyrebird]] | CYB-2021-050 | 2 | completed | umbrella | 5 | 3.55 | 2 |
 | [[doublevpn-takedown]] | CYB-2021-051 | 2 | completed | umbrella | 5 | 4.00 | 1 |
+| [[mobdro-illegal-streaming-takedown-2021]] | CYB-2021-052 | 2 | completed | umbrella | 1 | 4.20 | 1 |
 | [[operation-killer-bee]] | CYB-2022-001 | 2 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-haechi-iii]] | CYB-2022-002 | 2 | completed | umbrella | 5 | 3.50 | 2 |
 | [[vpnlab-takedown]] | CYB-2022-002 | 3 | completed | umbrella | 5 | 4.50 | 1 |
@@ -91,7 +95,7 @@ updated: 2026-04-14
 | [[operation-destabilise]] | CYB-2024-051 | 3 | completed | umbrella | 5 | 1.88 | 3 |
 | [[cryptex-pm2btc-sanctions]] | CYB-2024-052 | 3 | completed | umbrella | 6 | 4.33 | 1 |
 | [[rydox-marketplace-takedown]] | CYB-2024-053 | 3 | completed | umbrella | 5 | 4.40 | 1 |
-| [[operation-taken-down-illegal-iptv-2024]] | CYB-2024-054 | 3 | completed | umbrella | 2 | 4.20 | 1 |
+| [[operation-taken-down-illegal-iptv-2024]] | CYB-2024-054 | 3 | completed | umbrella | 3 | 4.20 | 1 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | umbrella | 5 | — | — |
 | [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | umbrella | 5 | — | — |

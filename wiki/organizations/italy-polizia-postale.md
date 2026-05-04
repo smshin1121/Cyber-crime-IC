@@ -26,6 +26,7 @@ frameworks_administered: []
 mechanisms_operated:
   - "[[24-7-network]]"
 operations_participated:
+  - "[[operation-perfect-storm-pay-tv-piracy-2019]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
 notable_cases: []
 contact_point_for:

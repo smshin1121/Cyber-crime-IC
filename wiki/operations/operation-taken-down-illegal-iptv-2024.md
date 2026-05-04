@@ -1,6 +1,7 @@
 ---
 aliases:
   - "Operation Taken Down"
+  - "Operation Kratos"
 case_id: CYB-2024-054
 challenges_encountered: []
 coordinating_body: "[[eurojust]]"
@@ -48,15 +49,17 @@ results:
   other:
     - "102 suspects targeted or investigated"
     - "over 100 searches reported by Eurojust"
+    - "112 searches and seizures reported by UEFA under the Operation Kratos name"
     - "more than 2,500 illegal channels and servers described by Italian authorities"
     - "service reached more than 22 million users worldwide"
   servers_seized: 29
   victims_notified: 0
-source_count: 2
+source_count: 3
 source_tier: 1
 sources:
   - "[[2024-11-27_eurojust_crackdown-illegal-streaming-network-22-million-users-worldwide]]"
   - "[[2024-11-28_dia-interno-gov-it_operazione-taken-down]]"
+  - "[[2025-01-17_uefa_operation-kratos-international-anti-piracy-operation]]"
 status: completed
 target_entity: "Illegal IPTV and streaming network"
 timeframe:
@@ -70,7 +73,7 @@ type: operation
 updated: 2026-05-04
 operation_role: umbrella
 parent_operation: ""
-summary: "Operation Taken Down was a Catania-led, Eurojust- and Europol-supported action against a transnational illegal IPTV and streaming-piracy network serving more than 22 million users worldwide. Public sources describe coordinated searches, seizures, arrests in Croatia, and disruption of infrastructure used to distribute protected films, series, sports channels, and other television content without authorization."
+summary: "Operation Taken Down was a Catania-led, Eurojust- and Europol-supported action against a transnational illegal IPTV and streaming-piracy network serving more than 22 million users worldwide. Public sources describe coordinated searches, seizures, arrests in Croatia, and disruption of infrastructure used to distribute protected films, series, sports channels, and other television content without authorization. UEFA reports overlapping figures under the Operation Kratos name, so Kratos is retained here as an alias/source rather than a separate SNA node."
 organizations:
   - "[[italy-polizia-postale]]"
   - "[[polizia-di-stato]]"
@@ -82,6 +85,8 @@ organizations:
 Operation Taken Down was a coordinated European action against a large illegal IPTV and streaming-piracy network. Eurojust records the action day on 26 November 2024 and describes cooperation between Italian, Croatian, Dutch, Romanian, Swedish, Swiss, and UK authorities, with Eurojust and Europol support. The Italian DIA source supplies the operation name and the Italian Postal Police/Catania investigative frame.
 
 The target was a service infrastructure that redistributed protected films, series, sports channels, and television programming to more than 22 million users worldwide. The public sources describe more than 100 searches, server seizures and shutdowns, cryptocurrency and cash seizures, and 11 arrests in Croatia.
+
+UEFA later described an overlapping anti-piracy action under the Operation Kratos name, with the same broad scale indicators: 102 suspects, 11 arrests, and more than 22 million users. Pending stronger deconfliction evidence, this repository treats Kratos as an alias/source for the Taken Down illegal IPTV operation rather than creating a duplicate operation node.
 
 ## Participating Parties
 
@@ -110,3 +115,4 @@ The operation combines domestic Italian investigative leadership with Eurojust j
 |---|-------|----------|------|-----|
 | [1] | Crackdown on illegal streaming network with 22 million users worldwide | Eurojust | 2024-11-27 | https://www.eurojust.europa.eu/news/crackdown-illegal-streaming-network-22-million-users-worldwide |
 | [2] | OPERAZIONE TAKEN DOWN | Direzione Investigativa Antimafia | 2024-11-28 | https://direzioneinvestigativaantimafia.interno.gov.it/2024/operazione-taken-down/ |
+| [3] | UEFA supports international anti-piracy operation | UEFA | 2025-01-17 | https://www.uefa.com/news-media/news/0295-1cd599b8d6cb-2fa4e1035483-1000--uefa-supports-international-anti-piracy-operation/ |

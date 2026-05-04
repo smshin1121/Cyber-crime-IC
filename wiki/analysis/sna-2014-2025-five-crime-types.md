@@ -10,7 +10,7 @@ updated: 2026-05-04
 
 ## Summary
 
-This rebuild uses `_workspace/sna/current/manifest.json` as the current SNA manifest. It includes **68** operations from **2014-2025** whose operation frontmatter has at least one source URL, participating agencies, participating countries, and at least one of the five target crime categories.
+This rebuild uses `_workspace/sna/current/manifest.json` as the current SNA manifest. It includes **72** operations from **2014-2025** whose operation frontmatter has at least one source URL, participating agencies, participating countries, and at least one of the five target crime categories.
 
 The five-category crime filter is intentionally narrower than the older PoC SNA output. Crime-type edges are collapsed to `ransomware-ic`, `dark-web-ic`, `csam-ic`, `malware-ic`, and `illegal-iptv-ic`; other wiki crime categories are not exported into this subset.
 
@@ -18,13 +18,13 @@ The five-category crime filter is intentionally narrower than the older PoC SNA 
 
 | Artifact | Value |
 |---|---:|
-| Operations | 68 |
-| Countries | 108 |
-| Agencies | 94 |
+| Operations | 72 |
+| Countries | 110 |
+| Agencies | 97 |
 | Crime types | 5 |
-| Operation-country edges | 531 |
-| Operation-agency edges | 372 |
-| Operation-crime_type edges | 95 |
+| Operation-country edges | 560 |
+| Operation-agency edges | 386 |
+| Operation-crime_type edges | 99 |
 
 ## Crime-Type Coverage
 
@@ -34,7 +34,7 @@ The five-category crime filter is intentionally narrower than the older PoC SNA 
 | [[dark-web-ic]] | 15 |
 | [[csam-ic]] | 6 |
 | [[malware-ic]] | 44 |
-| [[illegal-iptv-ic]] | 1 |
+| [[illegal-iptv-ic]] | 5 |
 
 ## Centrality Snapshots
 
@@ -42,49 +42,49 @@ The five-category crime filter is intentionally narrower than the older PoC SNA 
 
 | Country | Degree |
 |---|---:|
-| [[united-states]] | 0.750 |
-| [[germany]] | 0.515 |
-| [[united-kingdom]] | 0.515 |
-| [[netherlands]] | 0.441 |
-| [[france]] | 0.324 |
-| [[australia]] | 0.250 |
-| [[canada]] | 0.250 |
-| [[romania]] | 0.206 |
-| [[switzerland]] | 0.206 |
-| [[spain]] | 0.176 |
+| [[united-states]] | 0.722 |
+| [[germany]] | 0.514 |
+| [[united-kingdom]] | 0.500 |
+| [[netherlands]] | 0.444 |
+| [[france]] | 0.333 |
+| [[australia]] | 0.236 |
+| [[canada]] | 0.236 |
+| [[romania]] | 0.208 |
+| [[spain]] | 0.194 |
+| [[switzerland]] | 0.194 |
 
 ### Agencies
 
 | Agency | Degree |
 |---|---:|
-| [[europol-ec3]] | 0.632 |
-| [[fbi-cyber-division]] | 0.471 |
-| [[eurojust]] | 0.338 |
-| [[germany-bka]] | 0.250 |
-| [[netherlands-politie]] | 0.250 |
-| [[uk-nca]] | 0.250 |
-| [[us-doj]] | 0.221 |
-| [[fbi]] | 0.191 |
-| [[interpol]] | 0.162 |
-| [[us-secret-service]] | 0.118 |
+| [[europol-ec3]] | 0.625 |
+| [[fbi-cyber-division]] | 0.444 |
+| [[eurojust]] | 0.361 |
+| [[germany-bka]] | 0.236 |
+| [[netherlands-politie]] | 0.236 |
+| [[uk-nca]] | 0.236 |
+| [[us-doj]] | 0.222 |
+| [[fbi]] | 0.181 |
+| [[interpol]] | 0.153 |
+| [[us-secret-service]] | 0.111 |
 
 ### Crime Types
 
 | Crime type | Degree |
 |---|---:|
-| [[malware-ic]] | 0.647 |
-| [[ransomware-ic]] | 0.426 |
-| [[dark-web-ic]] | 0.221 |
-| [[csam-ic]] | 0.088 |
-| [[illegal-iptv-ic]] | 0.015 |
+| [[malware-ic]] | 0.611 |
+| [[ransomware-ic]] | 0.403 |
+| [[dark-web-ic]] | 0.208 |
+| [[csam-ic]] | 0.083 |
+| [[illegal-iptv-ic]] | 0.069 |
 
 ## Cohesion
 
 | Network | Nodes | Edges | Density | Components | Largest component |
 |---|---:|---:|---:|---:|---:|
-| country | 176 | 531 | 0.0723 | 2 | 174 |
-| agency | 162 | 372 | 0.0582 | 1 | 162 |
-| crime_type | 73 | 95 | 0.2794 | 2 | 71 |
+| country | 182 | 560 | 0.0707 | 2 | 180 |
+| agency | 169 | 386 | 0.0553 | 1 | 169 |
+| crime_type | 77 | 99 | 0.2750 | 2 | 71 |
 
 ## Visualizations
 

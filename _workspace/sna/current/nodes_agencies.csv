@@ -4,10 +4,12 @@ ameripol,ameripol,,,
 armenia-police,Armenian Police — Division for Combating High-Tech Crime,national-unit,[[armenia]],General Department on Combating Organized Crime — Police of the Republic
 australia-afp,Australian Federal Police — Cyber Command,national-agency,[[australia]],
 belgium-federal-police,Federal Computer Crime Unit (FCCU),national-unit,[[belgium]],[[belgium-federal-police]]
+brazil-ministry-of-justice-public-security,Brazil Ministry of Justice and Public Security,national-agency,[[brazil]],
 bulgaria-general-directorate-for-combatting-organized-crime,bulgaria-general-directorate-for-combatting-organized-crime,,,
 bulgaria-police,GDBOP Cybercrime Directorate,national-unit,[[bulgaria]],[[bulgaria-ministry-of-interior]]
 canada-rcmp,RCMP — National Cybercrime Coordination Centre (NC3),national-unit,[[canada]],[[canada-rcmp-federal-policing]]
 cbi-india,Central Bureau of Investigation (CBI),national-agency,[[india]],
+city-of-london-police-ip-crime-unit,City of London Police Intellectual Property Crime Unit,national-unit,[[united-kingdom]],
 czechia-police,"National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)",national-unit,[[czech-republic]],[[czech-police]]
 dea,Drug Enforcement Administration,federal-law-enforcement,[[united-states]],[[us-doj]]
 denmark-police,National Cyber Crime Center (NC3) / National Special Crime Unit (NSK),national-unit,[[denmark]],[[denmark-national-police]]
@@ -75,6 +77,7 @@ russian-ministry-of-interior,Russian Ministry of Interior,interior-ministry,[[ru
 shadowserver,Shadowserver,private-sector,international,
 singapore-police,Singapore Police Force — Cybercrime Command,national-unit,[[singapore]],[[singapore-police]]
 spain-guardia-civil,Guardia Civil - Grupo de Delitos Telematicos (GDT),national-unit,[[spain]],[[spain-guardia-civil]]
+spain-national-police,Spanish National Police,national-unit,[[spain]],
 spanish-national-police,Spanish National Police,national-agency,[[spain]],[[spain-national-police]]
 supreme-prosecutor-s-office-of-cassation-of-bulgaria,supreme-prosecutor-s-office-of-cassation-of-bulgaria,,,
 sweden-police,Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority,national-unit,[[sweden]],Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police

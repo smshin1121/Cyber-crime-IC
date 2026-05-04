@@ -29,6 +29,7 @@ official_name: "Policia Judiciaria"
 official_name_ko: ""
 operations_participated:
   - "[[2bagoldmule-qqaazz]]"
+  - "[[mobdro-illegal-streaming-takedown-2021]]"
 org_type: national-agency
 parent_org: "[[portugal-policia-judiciaria]]"
 source_count: 3

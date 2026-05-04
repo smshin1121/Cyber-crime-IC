@@ -43,6 +43,7 @@ operations_participated:
   - "[[doublevpn-takedown]]"
   - "[[dridex-operations]]"
   - "[[infraud-organization-takedown]]"
+  - "[[operation-404-digital-piracy-2019]]"
   - "[[lumma-stealer-takedown]]"
   - "[[marketplace-a-dekhtyarchuk-indictment]]"
   - "[[operation-heart-blocker]]"

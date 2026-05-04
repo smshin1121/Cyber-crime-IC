@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-05-04",
-  "generated_at": "2026-05-04T07:07:34.974741+00:00",
+  "generated_at": "2026-05-04T10:29:04.031147+00:00",
   "analysis_period": [
     2014,
     2025
@@ -12,7 +12,7 @@
     "malware-ic": "Botnet/Malware",
     "illegal-iptv-ic": "Illegal IPTV"
   },
-  "included_operations_count": 68,
+  "included_operations_count": 72,
   "excluded_operations_count": 1018,
   "exclusion_reason_counts": {
     "no_target_crime_type": 40,
@@ -21,15 +21,15 @@
     "no_clear_international_cooperation": 1
   },
   "nodes": {
-    "operations": 68,
-    "countries": 108,
-    "agencies": 94,
+    "operations": 72,
+    "countries": 110,
+    "agencies": 97,
     "crime_types": 5
   },
   "edges": {
-    "op_country": 531,
-    "op_agency": 372,
-    "op_crimetype": 95
+    "op_country": 560,
+    "op_agency": 386,
+    "op_crimetype": 99
   },
   "validation": {
     "out_of_range_included_operations": [],

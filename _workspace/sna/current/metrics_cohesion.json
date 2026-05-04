@@ -1,46 +1,46 @@
 {
   "country": {
-    "nodes": 176,
-    "edges": 531,
-    "density": 0.07230392156862746,
+    "nodes": 182,
+    "edges": 560,
+    "density": 0.0707070707070707,
     "components": 2,
     "component_sizes": [
-      174,
+      180,
       2
     ],
-    "largest_component_size": 174,
-    "fragmentation": 0.022597402597402616,
-    "avg_distance_largest_cc": 3.6803534648860543,
+    "largest_component_size": 180,
+    "fragmentation": 0.021856596442231813,
+    "avg_distance_largest_cc": 3.656300434512725,
     "diameter_largest_cc": 8,
     "radius_largest_cc": 4,
-    "transitivity_mode2_projection": 0.721700823597012
+    "transitivity_mode2_projection": 0.70753418372029
   },
   "agency": {
-    "nodes": 162,
-    "edges": 372,
-    "density": 0.05819774718397998,
+    "nodes": 169,
+    "edges": 386,
+    "density": 0.05526918671248568,
     "components": 1,
     "component_sizes": [
-      162
+      169
     ],
-    "largest_component_size": 162,
+    "largest_component_size": 169,
     "fragmentation": 0.0,
-    "avg_distance_largest_cc": 3.672417759374281,
+    "avg_distance_largest_cc": 3.6962524654832345,
     "diameter_largest_cc": 10,
     "radius_largest_cc": 5,
-    "transitivity_mode2_projection": 0.5911194677466011
+    "transitivity_mode2_projection": 0.5839222195873844
   },
   "crime_type": {
-    "nodes": 73,
-    "edges": 95,
-    "density": 0.27941176470588236,
+    "nodes": 77,
+    "edges": 99,
+    "density": 0.275,
     "components": 2,
     "component_sizes": [
       71,
-      2
+      6
     ],
     "largest_component_size": 71,
-    "fragmentation": 0.054033485540334825,
+    "fragmentation": 0.14559125085440872,
     "avg_distance_largest_cc": 2.844265593561368,
     "diameter_largest_cc": 6,
     "radius_largest_cc": 3,

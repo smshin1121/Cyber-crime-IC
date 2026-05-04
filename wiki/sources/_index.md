@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (4786)
+# Sources (4794)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -1424,6 +1424,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_kansas-man-pleads-guilty-child-pornography-possession]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_international-crypto-vendor-sentenced-money-laundering-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-01-17_whas11_international-crypto-vendor-sentenced-decade-prison-money-laundering]] | news | WHAS11 | ? | medium | ? |
+| [[2025-01-17_uefa_operation-kratos-international-anti-piracy-operation]] | news | UEFA | ? | medium | ? |
 | [[2025-01-17_trmlabs_us-law-enforcement-dismantles-24m-dark-web-crypto-laundering-network]] | news | TRM Labs | ? | medium | ? |
 | [[2025-01-17_morelaw_re-united-states-of-america-v-anurag-pramod-murarka]] | legal-case-summary | MoreLaw | ? | medium | ? |
 | [[2025-01-17_kwch_wichita-man-pleads-guilty-child-pornography-possession]] | news | KWCH | ? | medium | ? |
@@ -1768,6 +1769,7 @@ updated: 2026-04-14
 | [[2024-09-20_abc6_former-ohiohealth-medical-director-pleads-guilty-to-child-pornography-charges]] | news | ABC 6 (WSYX Columbus) | ? | medium | ? |
 | [[2024-09-19_newschannel9_tennessee-woman-sentenced-murder-for-hire-plot-melody-sasser]] | news | NewsChannel 9 (Chattanooga) | ? | medium | ? |
 | [[2024-09-19_mynorthwest_judges-give-prison-terms-3-western-wa-drug-traffickers]] | news | MyNorthwest | ? | medium | ? |
+| [[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]] | news | Brazil Ministry of Justice and Public Security | ? | high | ? |
 | [[2024-09-19_lawandcrime_woman-hired-hitman-online-killers-market-prison]] | news | Law&Crime | ? | medium | ? |
 | [[2024-09-19_justice-gov-wdwa_twelve-arrested-takedown-north-sound-drug-trafficking-organization]] | press-release | USAO WDWA | ? | high | ? |
 | [[2024-09-19_fda_two-tulsa-men-indicted-introducing-misbranded-drugs-interstate-commerce]] | government-report | U.S. Food and Drug Administration (FDA) | ? | high | ? |
@@ -3460,6 +3462,7 @@ updated: 2026-04-14
 | [[2021-10-27_welivesecurity_dark-huntor-150-arrested-31-million-seized-dark-web-bust]] | news | WeLiveSecurity (ESET) | ? | medium | ? |
 | [[2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace]] | press-release | UK NCA | ? | medium | ? |
 | [[2021-10-27_justice-gov_culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2021-10-27_eurojust_operation-perfect-storm-crackdown-illegal-use-pay-tv-signals]] | publication | Eurojust | ? | high | ? |
 | [[2026-04-18_justice-gov_sacramento-man-indicted-drug-distribution-darknet]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-10-26_wired_dark-web-drug-busts-lead-to-150-arrests]] | news | Wired | ? | high | ? |
 | [[2021-10-26_wikipedia_operation-dark-huntor]] | government-report | Wikipedia | ? | medium | ? |
@@ -3656,6 +3659,7 @@ updated: 2026-04-14
 | [[2021-03-19_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |
 | [[2026-04-18_justice-gov_pittsburgh-man-charged-threatening-communications-and-impeding-fbi-investigation-1]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-03-17_justice-gov_pittsburgh-man-charged-with-threatening-communications-and-impeding-fbi-investig]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2021-03-09_eurojust_spanish-action-illegal-streaming-football-matches]] | press-release | Eurojust | ? | high | ? |
 | [[2026-04-18_justice-gov_jury-convicts-virginia-man-receiving-soliciting-and-promoting-child-pornography-2]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-03-03_aroundambler_ambler-man-five-years-pill-mill]] | news | Around Ambler | ? | low | ? |
 | [[2026-04-18_justice-gov_north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid]] | press-release | US DOJ USAO | ? | high | ? |
@@ -3768,7 +3772,9 @@ updated: 2026-04-14
 | [[2020-11-20_cbsbaltimore_maryland-drug-dealer-nebraska-pharmacist-sentenced-firebomb]] | news | CBS Baltimore | ? | medium | ? |
 | [[2020-11-19_cbssanfrancisco_grand-jury-indicts-ceres-man-for-cyberstalking-airbnb-guest]] | news | CBS San Francisco | ? | medium | ? |
 | [[2026-04-18_justice-gov_florida-man-indicted-selling-fentanyl-darknet-exchange-cryptocurrency]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2020-11-11_eurojust_new-major-crackdown-on-fraud-with-illegal-use-of-pay-tv-signals]] | press-release | Eurojust | ? | high | ? |
 | [[2020-11-09_patch_chatsworth-man-accused-cyberstalking-two-sisters]] | news | Patch.com (Northridge) | ? | medium | ? |
+| [[2020-11-05_justice-gov_operation-404-digital-piracy-sites-apps]] | press-release | U.S. Department of Justice | ? | high | ? |
 | [[2020-11-01_interpol-int_three-arrested-as-interpol-group-ib-and-the-nigeria-police-force-disrupt-prol]] | press-release | INTERPOL | ? | high | ? |
 | [[2020-11-01_guardian-ng_google-vignette]] | press-release | guardian.ng | ? | medium | ? |
 | [[2020-11-01_cyberscoop-com_nigeria-email-scam-arrests-bec-group-ib]] | press-release | CyberScoop | ? | medium | ? |
@@ -3896,6 +3902,7 @@ updated: 2026-04-14
 | [[2020-06-19_hoodline_top-stockton-news-teen-shot-walnut-workers-rally]] | news | Hoodline | ? | low | ? |
 | [[2020-06-19_fox40_federal-officials-charge-2-stockton-residents-sexual-exploitation-child]] | news | FOX40 (KTXL Sacramento) | ? | medium | ? |
 | [[2020-06-18_postgazette_justin-sean-johnson-suspected-upmc-hacker-arrested-detroit]] | news | Pittsburgh Post-Gazette | ? | medium | ? |
+| [[2020-06-10_eurojust_eurojust-supports-new-major-crackdown-fraud-pay-tv]] | news | Eurojust | ? | high | ? |
 | [[2020-06-05_cbs-sacramento_ceres-man-recording-airbnb-guest-cyberstalking]] | news | CBS Sacramento (CBS News) | ? | medium | ? |
 | [[2020-04-29_rm-coe-int_bucharest-cybercrime-unit-presentation-marius-cuciurianu]] | press-release | Council of Europe | ? | medium | ? |
 | [[2020-04-28_mynewsla_judge-denies-pretrial-release-covina-cyberstalking]] | news | MyNewsLA | ? | medium | ? |
@@ -4049,6 +4056,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_press-public-documents]] | press-release | US DOJ | ? | high | ? |
 | [[2026-04-18_justice-gov_coushatta-man-sentenced-10-years-federal-prison-accessing-dark-web-site-intent-view]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2019-09-19_justice-gov_coushatta-man-sentenced-to-10-years-in-federal-prison-for-accessing-a-dark-web-s]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2019-09-18_eurojust_eurojust-helps-unravel-massive-trans-european-pay-tv-fraud]] | news | Eurojust | ? | high | ? |
 | [[2019-09-13_dexerto_gamer-confesses-swatting-online-opponent-pleads-guilty]] | news | Dexerto | ? | low | ? |
 | [[2019-09-12_triblive_fayette-county-man-pleads-guilty-in-florida-swatting-incident-after-online-gaming-dispute]] | news | TribLIVE | ? | medium | ? |
 | [[2026-04-18_justice-gov_fayette-county-man-admits-making-hoax-emergency-phone-calls-elicit-armed-police]] | press-release | US DOJ USAO | ? | high | ? |

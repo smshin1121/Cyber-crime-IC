@@ -10,7 +10,7 @@ source_count: 0
 
 This audit compares every `wiki/sources` page with its linked `raw_path`. It is designed to catch cases where a source page or downstream operation cites one URL while its title/summary describes a different article.
 
-- Source pages audited: **4786**
+- Source pages audited: **4794**
 - Confirmed/high-confidence mismatches: **0**
 - Review candidates: **0**
 - CSV detail: `_workspace/source_url_content_alignment_2026-05-04.csv`
@@ -19,13 +19,13 @@ This audit compares every `wiki/sources` page with its linked `raw_path`. It is 
 
 | Severity | Count |
 |---|---:|
-| ok | 4786 |
+| ok | 4794 |
 
 ## Issue Counts
 
 | Issue | Count |
 |---|---:|
-| ok | 4786 |
+| ok | 4794 |
 
 ## Confirmed And High-Confidence Mismatches
 

@@ -59,6 +59,9 @@ operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[global-airport-action-day]]"
   - "[[zeus-spyeye-takedown]]"
+  - "[[operation-perfect-storm-pay-tv-piracy-2019]]"
+  - "[[spanish-pay-tv-streaming-network-takedown-2020]]"
+  - "[[mobdro-illegal-streaming-takedown-2021]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
 org_type: regional-org
 parent_org: ""
