@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-states]]"
-jurisdiction: [[united-states]]
+jurisdiction:
+  -
+    - united-states
 created: 2026-04-08
 established: 2002
 frameworks_administered:
@@ -104,6 +106,7 @@ operations_participated:
   - "[[operation-talent]]"
   - "[[phobos-8base-crackdown]]"
   - "[[infraud-organization-takedown]]"
+  - "[[operation-chakra-ii]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12
@@ -112,7 +115,7 @@ sources:
 status: active
 title: "FBI Cyber Division"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Current Status (as of 2026-04-10)
 

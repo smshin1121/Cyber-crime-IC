@@ -1,4 +1,5 @@
 ﻿slug,title,iso_code,region
+albania,Republic of Albania,AL,balkans
 algeria,Algeria,,
 angola,Angola,,
 argentina,Argentina,AR,south-america
@@ -22,9 +23,11 @@ cameroon,Republic of Cameroon,CM,central-africa
 canada,Canada,CA,north-america
 chad,chad,,
 chile,Chile,CL,south-america
+china,People's Republic of China,CN,east-asia
 colombia,Republic of Colombia,CO,south-america
 congo,congo,,
 costa-rica,Republic of Costa Rica,CR,central-america
+cote-d-ivoire,cote-d-ivoire,,
 cote-divoire,Republic of Côte d'Ivoire,CI,west-africa
 croatia,Republic of Croatia,HR,southeastern-europe
 cyprus,Republic of Cyprus,CY,eastern-mediterranean
@@ -45,6 +48,7 @@ ghana,Ghana,GH,west-africa
 greece,Hellenic Republic,GR,southern-europe
 guyana,Guyana,GY,south-america
 hong-kong,Hong Kong Special Administrative Region,HK,east-asia
+hong-kong-china,hong-kong-china,,
 hungary,Hungary,HU,central-europe
 india,Republic of India,IN,south-asia
 indonesia,Republic of Indonesia,ID,southeast-asia
@@ -55,6 +59,7 @@ japan,Japan,JP,east-asia
 kazakhstan,Republic of Kazakhstan,KZ,central-asia
 kenya,Republic of Kenya,KE,east-africa
 kosovo,Republic of Kosovo,XK,western-balkans
+kyrgyzstan,kyrgyzstan,,
 laos,Laos,LA,southeast-asia
 latvia,Republic of Latvia,LV,eastern-europe
 lithuania,Republic of Lithuania,LT,eastern-europe
@@ -64,6 +69,7 @@ macedonia,North Macedonia,MK,southeastern-europe
 madagascar,Madagascar,,
 malawi,malawi,,
 malaysia,Malaysia,MY,southeast-asia
+maldives,maldives,,
 malta,Republic of Malta,MT,southern-europe
 mauritius,Republic of Mauritius,MU,east-africa
 moldova,Moldova,MD,eastern-europe
@@ -72,6 +78,7 @@ montenegro,Montenegro,ME,southeastern-europe
 morocco,Kingdom of Morocco,MA,north-africa
 mozambique,Mozambique,,
 myanmar,Myanmar,MM,southeast-asia
+namibia,Namibia,,
 netherlands,Kingdom of the Netherlands,NL,western-europe
 new-zealand,New Zealand,,
 nigeria,Federal Republic of Nigeria,NG,west-africa
@@ -102,6 +109,7 @@ thailand,Kingdom of Thailand,TH,southeast-asia
 tunisia,Tunisia,,
 uganda,uganda,,
 ukraine,Ukraine,UA,eastern-europe
+united-arab-emirates,United Arab Emirates,AE,west-asia
 united-kingdom,United Kingdom,GB,western-europe
 united-states,United States of America,US,north-america
 uruguay,Uruguay,UY,south-america

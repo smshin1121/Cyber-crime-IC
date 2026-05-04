@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[japan]]"
-jurisdiction: [[japan]]
+jurisdiction:
+  -
+    - japan
 created: 2026-04-10
 established: 2022-04-01
 frameworks_administered:
@@ -29,6 +31,7 @@ operations_participated:
   - "[[operation-power-off]]"
   - "[[operation-cyber-guardian]]"
   - "[[phobos-8base-crackdown]]"
+  - "[[operation-chakra-v]]"
 org_type: national-agency
 parent_org: "[[japan-npa-headquarters]]"
 source_count: 6
@@ -37,7 +40,7 @@ sources:
 status: active
 title: "Japan National Police Agency — Cyber Affairs Bureau"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

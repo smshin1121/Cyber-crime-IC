@@ -16,6 +16,7 @@ key_roles:
 operations_participated:
   - "[[operation-pleiades]]"
   - "[[rex-mundi-takedown]]"
+  - "[[banking-trojan-fraud-sentencing-2017]]"
 cooperation_partners:
   - "[[uk-met-police-cyber]]"
   - "[[uk-nca]]"

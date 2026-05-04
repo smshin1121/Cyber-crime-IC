@@ -6,7 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: ""
-jurisdiction: "international"
+jurisdiction: international
 created: 2026-04-08
 established: 1923-09-07
 frameworks_administered:
@@ -56,6 +56,8 @@ operations_participated:
   - "[[africa-cyber-surge-ii]]"
   - "[[operation-delilah]]"
   - "[[operation-lyrebird]]"
+  - "[[operation-chakra-ii]]"
+  - "[[operation-chakra-iv]]"
 org_type: international-org
 parent_org: ""
 source_count: 4
@@ -64,7 +66,7 @@ sources:
 status: active
 title: "INTERPOL (International Criminal Police Organization)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Current Status (as of 2026-04-10)
 

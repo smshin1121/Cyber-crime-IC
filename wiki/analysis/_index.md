@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-05-03
 ---
 
-# Analysis (103)
+# Analysis (104)
 
 | Analysis | Type | Confidence | Scope | Date |
 |----------|------|------------|-------|------|
@@ -75,7 +75,7 @@ updated: 2026-05-03
 | [[residual-raw-text-enrichment-2026-04-28]] | — | — | — | 2026-04-28 |
 | [[residual-raw-text-enrichment-recursive-2026-04-29]] | — | — | — | 2026-04-29 |
 | [[shrouded-horizon-raw-highlight-refresh-2026-04-28]] | — | — | — | 2026-04-28 |
-| [[sna-2014-2025-five-crime-types]] | dataset-rebuild | medium | Operation-country, operation-agency, and operation-crime_type two-mode networks filtered to 2014-2025 and five target crime categories. | 2026-05-04 |
+| [[sna-2014-2025-five-crime-types]] | dataset-rebuild | medium | Operation-country, operation-agency, and operation-crime_type two-mode networks filtered to 2014-2025 and five target crime categories. | 2026-05-05 |
 | [[sna-pilot]] | effectiveness-assessment | medium | PoC v5 reproduction of paper.pdf 2-mode network methodology on the current wiki corpus, after YAML-quoting repair + alias canonicalization + bare-string normalization + crime_types list schema migration + source-side country bare-string repair + source-backed `participating_countries` enrichment on the 46-op Eurojust/Europol/INTERPOL subset (20 applied). Multi-value crime_types backfill and broader countries_lt_2 enrichment pending before Step B. | 2026-04-20 |
 | [[sna-structure-and-roles]] | comparative-study | medium | Reproduction of paper.pdf 2-mode SNA (operation × country / agency / crime-type) on the current wiki corpus at PoC v5 data quality. Main-body analysis plus Step C supplementary: Borgatti-Everett core-periphery (cpnet) and Gould-Fernandez 5-role brokerage. Network visualization remains a later follow-up. | 2026-04-20 |
 | [[source-canonical-map-2026-04-26]] | — | — | — | 2026-04-26 |
@@ -111,5 +111,6 @@ updated: 2026-05-03
 | [[source-fulltext-omission-audit-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[source-url-content-alignment-audit-2026-05-03]] | — | — | — | 2026-05-03 |
 | [[source-url-content-alignment-audit-2026-05-04]] | — | — | — | 2026-05-04 |
+| [[source-url-content-alignment-audit-2026-05-05]] | — | — | — | 2026-05-05 |
 | [[targeted-content-enrichment-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[targeted-content-enrichment-recursive-2026-04-29]] | — | — | — | 2026-04-29 |

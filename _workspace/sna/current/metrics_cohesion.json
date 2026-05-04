@@ -1,49 +1,50 @@
 {
   "country": {
-    "nodes": 182,
-    "edges": 560,
-    "density": 0.0707070707070707,
+    "nodes": 201,
+    "edges": 647,
+    "density": 0.06606085358382684,
     "components": 2,
     "component_sizes": [
-      180,
+      199,
       2
     ],
-    "largest_component_size": 180,
-    "fragmentation": 0.021856596442231813,
-    "avg_distance_largest_cc": 3.656300434512725,
+    "largest_component_size": 199,
+    "fragmentation": 0.019800995024875645,
+    "avg_distance_largest_cc": 3.4679457895538297,
     "diameter_largest_cc": 8,
     "radius_largest_cc": 4,
-    "transitivity_mode2_projection": 0.70753418372029
+    "transitivity_mode2_projection": 0.6774206056845942
   },
   "agency": {
-    "nodes": 169,
-    "edges": 386,
-    "density": 0.05526918671248568,
-    "components": 1,
-    "component_sizes": [
-      169
-    ],
-    "largest_component_size": 169,
-    "fragmentation": 0.0,
-    "avg_distance_largest_cc": 3.6962524654832345,
-    "diameter_largest_cc": 10,
-    "radius_largest_cc": 5,
-    "transitivity_mode2_projection": 0.5839222195873844
-  },
-  "crime_type": {
-    "nodes": 77,
-    "edges": 99,
-    "density": 0.275,
+    "nodes": 185,
+    "edges": 416,
+    "density": 0.04913772738010867,
     "components": 2,
     "component_sizes": [
-      71,
+      182,
+      3
+    ],
+    "largest_component_size": 182,
+    "fragmentation": 0.03207990599294952,
+    "avg_distance_largest_cc": 3.701536033027746,
+    "diameter_largest_cc": 8,
+    "radius_largest_cc": 5,
+    "transitivity_mode2_projection": 0.5762412172537341
+  },
+  "crime_type": {
+    "nodes": 89,
+    "edges": 111,
+    "density": 0.22289156626506024,
+    "components": 2,
+    "component_sizes": [
+      83,
       6
     ],
-    "largest_component_size": 71,
-    "fragmentation": 0.14559125085440872,
-    "avg_distance_largest_cc": 2.844265593561368,
+    "largest_component_size": 83,
+    "fragmentation": 0.12717058222676203,
+    "avg_distance_largest_cc": 3.255362915074934,
     "diameter_largest_cc": 6,
     "radius_largest_cc": 3,
-    "transitivity_mode2_projection": 0.6
+    "transitivity_mode2_projection": 0.375
   }
 }

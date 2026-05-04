@@ -101,6 +101,7 @@ organizations:
   - "[[knpa-cyber-bureau]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[voice-phishing-ic]]"
   - "[[bec-ic]]"
 ---
 ## Summary

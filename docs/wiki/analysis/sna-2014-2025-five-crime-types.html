@@ -67,7 +67,7 @@
 
 
           <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-04
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-05
           </span>
 
 
@@ -76,8 +76,8 @@
     <div class="article-body">
 
         <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
-<p>This rebuild uses <code>_workspace/sna/current/manifest.json</code> as the current SNA manifest. It includes <strong>72</strong> operations from <strong>2014-2025</strong> whose operation frontmatter has at least one source URL, participating agencies, participating countries, and at least one of the five target crime categories.</p>
-<p>The five-category crime filter is intentionally narrower than the older PoC SNA output. Crime-type edges are collapsed to <code>ransomware-ic</code>, <code>dark-web-ic</code>, <code>csam-ic</code>, <code>malware-ic</code>, and <code>illegal-iptv-ic</code>; other wiki crime categories are not exported into this subset.</p>
+<p>This rebuild uses <code>_workspace/sna/current/manifest.json</code> as the current SNA manifest. It includes <strong>83</strong> operations from <strong>2014-2025</strong> whose operation frontmatter has at least one source URL, participating agencies, participating countries, and at least one of the six target crime categories.</p>
+<p>The six-category crime filter is intentionally narrower than the older PoC SNA output. Crime-type edges are collapsed to <code>ransomware-ic</code>, <code>dark-web-ic</code>, <code>csam-ic</code>, <code>malware-ic</code>, <code>illegal-iptv-ic</code>, and <code>voice-phishing-ic</code>; other wiki crime categories are not exported into this subset.</p>
 <h2 id="output-manifest">Output Manifest</h2>
 <table>
 <thead>
@@ -89,31 +89,31 @@
 <tbody>
 <tr>
 <td>Operations</td>
-<td style="text-align: right;">72</td>
+<td style="text-align: right;">83</td>
 </tr>
 <tr>
 <td>Countries</td>
-<td style="text-align: right;">110</td>
+<td style="text-align: right;">118</td>
 </tr>
 <tr>
 <td>Agencies</td>
-<td style="text-align: right;">97</td>
+<td style="text-align: right;">102</td>
 </tr>
 <tr>
 <td>Crime types</td>
-<td style="text-align: right;">5</td>
+<td style="text-align: right;">6</td>
 </tr>
 <tr>
 <td>Operation-country edges</td>
-<td style="text-align: right;">560</td>
+<td style="text-align: right;">647</td>
 </tr>
 <tr>
 <td>Operation-agency edges</td>
-<td style="text-align: right;">386</td>
+<td style="text-align: right;">416</td>
 </tr>
 <tr>
 <td>Operation-crime_type edges</td>
-<td style="text-align: right;">99</td>
+<td style="text-align: right;">111</td>
 </tr>
 </tbody>
 </table>
@@ -146,6 +146,10 @@
 <td><a href="../../wiki/crime-types/illegal-iptv-ic.html" class="wikilink">illegal-iptv-ic</a></td>
 <td style="text-align: right;">5</td>
 </tr>
+<tr>
+<td><a href="../../wiki/crime-types/voice-phishing-ic.html" class="wikilink">voice-phishing-ic</a></td>
+<td style="text-align: right;">12</td>
+</tr>
 </tbody>
 </table>
 <h2 id="centrality-snapshots">Centrality Snapshots</h2>
@@ -160,43 +164,43 @@
 <tbody>
 <tr>
 <td><a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></td>
-<td style="text-align: right;">0.722</td>
+<td style="text-align: right;">0.675</td>
 </tr>
 <tr>
 <td><a href="../../wiki/countries/germany.html" class="wikilink">germany</a></td>
-<td style="text-align: right;">0.514</td>
+<td style="text-align: right;">0.470</td>
 </tr>
 <tr>
 <td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a></td>
-<td style="text-align: right;">0.500</td>
+<td style="text-align: right;">0.470</td>
 </tr>
 <tr>
 <td><a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a></td>
-<td style="text-align: right;">0.444</td>
+<td style="text-align: right;">0.398</td>
 </tr>
 <tr>
 <td><a href="../../wiki/countries/france.html" class="wikilink">france</a></td>
-<td style="text-align: right;">0.333</td>
+<td style="text-align: right;">0.301</td>
 </tr>
 <tr>
 <td><a href="../../wiki/countries/australia.html" class="wikilink">australia</a></td>
-<td style="text-align: right;">0.236</td>
+<td style="text-align: right;">0.241</td>
 </tr>
 <tr>
 <td><a href="../../wiki/countries/canada.html" class="wikilink">canada</a></td>
-<td style="text-align: right;">0.236</td>
+<td style="text-align: right;">0.217</td>
 </tr>
 <tr>
 <td><a href="../../wiki/countries/romania.html" class="wikilink">romania</a></td>
-<td style="text-align: right;">0.208</td>
+<td style="text-align: right;">0.205</td>
 </tr>
 <tr>
 <td><a href="../../wiki/countries/spain.html" class="wikilink">spain</a></td>
-<td style="text-align: right;">0.194</td>
+<td style="text-align: right;">0.205</td>
 </tr>
 <tr>
-<td><a href="../../wiki/countries/switzerland.html" class="wikilink">switzerland</a></td>
-<td style="text-align: right;">0.194</td>
+<td><a href="../../wiki/countries/sweden.html" class="wikilink">sweden</a></td>
+<td style="text-align: right;">0.181</td>
 </tr>
 </tbody>
 </table>
@@ -211,43 +215,43 @@
 <tbody>
 <tr>
 <td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a></td>
-<td style="text-align: right;">0.625</td>
+<td style="text-align: right;">0.566</td>
 </tr>
 <tr>
 <td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">fbi-cyber-division</a></td>
-<td style="text-align: right;">0.444</td>
+<td style="text-align: right;">0.398</td>
 </tr>
 <tr>
 <td><a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a></td>
-<td style="text-align: right;">0.361</td>
-</tr>
-<tr>
-<td><a href="../../wiki/organizations/germany-bka.html" class="wikilink">germany-bka</a></td>
-<td style="text-align: right;">0.236</td>
+<td style="text-align: right;">0.325</td>
 </tr>
 <tr>
 <td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a></td>
-<td style="text-align: right;">0.236</td>
+<td style="text-align: right;">0.217</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/germany-bka.html" class="wikilink">germany-bka</a></td>
+<td style="text-align: right;">0.205</td>
 </tr>
 <tr>
 <td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">uk-nca</a></td>
-<td style="text-align: right;">0.236</td>
+<td style="text-align: right;">0.205</td>
 </tr>
 <tr>
 <td><a href="../../wiki/organizations/us-doj.html" class="wikilink">us-doj</a></td>
-<td style="text-align: right;">0.222</td>
-</tr>
-<tr>
-<td><a href="../../wiki/organizations/fbi.html" class="wikilink">fbi</a></td>
-<td style="text-align: right;">0.181</td>
+<td style="text-align: right;">0.193</td>
 </tr>
 <tr>
 <td><a href="../../wiki/organizations/interpol.html" class="wikilink">interpol</a></td>
-<td style="text-align: right;">0.153</td>
+<td style="text-align: right;">0.169</td>
 </tr>
 <tr>
-<td><a href="../../wiki/organizations/us-secret-service.html" class="wikilink">us-secret-service</a></td>
-<td style="text-align: right;">0.111</td>
+<td><a href="../../wiki/organizations/fbi.html" class="wikilink">fbi</a></td>
+<td style="text-align: right;">0.157</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/interpol-igci.html" class="wikilink">interpol-igci</a></td>
+<td style="text-align: right;">0.120</td>
 </tr>
 </tbody>
 </table>
@@ -262,23 +266,27 @@
 <tbody>
 <tr>
 <td><a href="../../wiki/crime-types/malware-ic.html" class="wikilink">malware-ic</a></td>
-<td style="text-align: right;">0.611</td>
+<td style="text-align: right;">0.530</td>
 </tr>
 <tr>
 <td><a href="../../wiki/crime-types/ransomware-ic.html" class="wikilink">ransomware-ic</a></td>
-<td style="text-align: right;">0.403</td>
+<td style="text-align: right;">0.349</td>
 </tr>
 <tr>
 <td><a href="../../wiki/crime-types/dark-web-ic.html" class="wikilink">dark-web-ic</a></td>
-<td style="text-align: right;">0.208</td>
+<td style="text-align: right;">0.181</td>
+</tr>
+<tr>
+<td><a href="../../wiki/crime-types/voice-phishing-ic.html" class="wikilink">voice-phishing-ic</a></td>
+<td style="text-align: right;">0.145</td>
 </tr>
 <tr>
 <td><a href="../../wiki/crime-types/csam-ic.html" class="wikilink">csam-ic</a></td>
-<td style="text-align: right;">0.083</td>
+<td style="text-align: right;">0.072</td>
 </tr>
 <tr>
 <td><a href="../../wiki/crime-types/illegal-iptv-ic.html" class="wikilink">illegal-iptv-ic</a></td>
-<td style="text-align: right;">0.069</td>
+<td style="text-align: right;">0.060</td>
 </tr>
 </tbody>
 </table>
@@ -297,27 +305,27 @@
 <tbody>
 <tr>
 <td>country</td>
-<td style="text-align: right;">182</td>
-<td style="text-align: right;">560</td>
-<td style="text-align: right;">0.0707</td>
+<td style="text-align: right;">201</td>
+<td style="text-align: right;">647</td>
+<td style="text-align: right;">0.0661</td>
 <td style="text-align: right;">2</td>
-<td style="text-align: right;">180</td>
+<td style="text-align: right;">199</td>
 </tr>
 <tr>
 <td>agency</td>
-<td style="text-align: right;">169</td>
-<td style="text-align: right;">386</td>
-<td style="text-align: right;">0.0553</td>
-<td style="text-align: right;">1</td>
-<td style="text-align: right;">169</td>
+<td style="text-align: right;">185</td>
+<td style="text-align: right;">416</td>
+<td style="text-align: right;">0.0491</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">182</td>
 </tr>
 <tr>
 <td>crime_type</td>
-<td style="text-align: right;">77</td>
-<td style="text-align: right;">99</td>
-<td style="text-align: right;">0.2750</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">0.2229</td>
 <td style="text-align: right;">2</td>
-<td style="text-align: right;">71</td>
+<td style="text-align: right;">83</td>
 </tr>
 </tbody>
 </table>
@@ -458,8 +466,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-05-04 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-05-04">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-05-05 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-05-05">
     </span>
   </div>
 

@@ -72,6 +72,7 @@ organizations:
   - "[[interpol-igci]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[voice-phishing-ic]]"
   - "[[bec-ic]]"
 ---
 ## Summary

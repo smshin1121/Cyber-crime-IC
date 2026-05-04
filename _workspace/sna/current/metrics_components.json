@@ -2,20 +2,21 @@
   "country": {
     "count": 2,
     "sizes": [
-      180,
+      199,
       2
     ]
   },
   "agency": {
-    "count": 1,
+    "count": 2,
     "sizes": [
-      169
+      182,
+      3
     ]
   },
   "crime_type": {
     "count": 2,
     "sizes": [
-      71,
+      83,
       6
     ]
   }

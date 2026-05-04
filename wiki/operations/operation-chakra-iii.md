@@ -75,6 +75,9 @@ missing_fields:
 related_cases:
 
 related_operations:
+  - "[[operation-chakra-ii]]"
+  - "[[operation-chakra-iv]]"
+  - "[[operation-chakra-v]]"
   - "[[operation-falcon]]"
   - "[[operation-lyrebird]]"
   - "[[operation-first-light-2024]]"
@@ -106,6 +109,7 @@ organizations:
   - "[[us-dhs]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[voice-phishing-ic]]"
   - "[[malware-ic]]"
 ---
 ## Summary
@@ -240,7 +244,7 @@ Victims were primarily U.S. citizens. In one documented case, a single victim wa
 
 ## Korean Involvement (한국의 참여)
 
-No known Korean involvement in Operation Chakra-III. However, tech-support scams targeting Korean victims (often using voice phishing / [[voice-phishing-ic|보이스피싱]] techniques) represent a related phenomenon in the Korean context. South Korea's cooperation with India on cybercrime remains limited compared to US-India cooperation channels.
+No known Korean involvement in Operation Chakra-III. However, tech-support scams targeting Korean victims often use phone-enabled social engineering techniques related to [[voice-phishing-ic|보이스피싱]]. South Korea's cooperation with India on cybercrime remains limited compared to US-India cooperation channels.
 
 ## Contradictions & Open Questions
 

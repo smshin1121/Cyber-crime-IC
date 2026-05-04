@@ -94,6 +94,7 @@ organizations:
   - "[[netherlands-politie]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[voice-phishing-ic]]"
 ---
 > [!note] Source basis
 > This page now uses one Eurojust release, two Dutch police updates, and two corroborating media reports. Public arrest counts differ slightly across sources, so the discrepancy is called out below rather than silently normalized away.

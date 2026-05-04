@@ -181,6 +181,7 @@ organizations:
   - "[[knpa|Korea National Police Agency (KNPA)]]"
 crime_types:
   - "[[online-fraud-ic|Online Fraud]]"
+  - "[[voice-phishing-ic]]"
   - "[[bec-ic]]"
 ---
 ## Summary

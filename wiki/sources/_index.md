@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (4794)
+# Sources (4797)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -923,6 +923,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_pennsylvania-man-sentenced-prison-fraudulent-refund-scheme]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_282-charged-new-cases-related-sdtxs-continuing-efforts-secure-southern-border]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_ledyard-man-charged-child-exploitation-offense]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam]] | news | The New Indian Express | ? | medium | ? |
 | [[2025-05-29_justice-gov_ledyard-man-charged-with-child-exploitation-offense]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_repeat-drug-trafficker-caught-twice-kilos-drugs-and-firearms-sentenced-10-years-prison]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-05-28_thehackernews-com_us-dismantles-danabot-malware-network]] | press-release | The Hacker News | ? | medium | ? |
@@ -1327,6 +1328,7 @@ updated: 2026-04-14
 | [[2025-02-19_patch_two-malden-men-facing-federal-drug-charges]] | news | Patch (Malden, MA) | ? | medium | ? |
 | [[2025-02-18_news3lv_las-vegas-couple-sentenced-running-drug-trafficking-ring-via-darknet]] | news | News 3 Las Vegas | ? | medium | ? |
 | [[2025-02-18_ktnv_las-vegas-couple-sentenced-prison-drug-trafficking-darknet-market]] | news | KTNV Las Vegas | ? | medium | ? |
+| [[2025-02-18_freepressjournal_operation-chakra-iv-german-tech-support-scam]] | news | Free Press Journal | ? | medium | ? |
 | [[2025-02-15_westerlysun_charlestown-man-sentenced-prison-child-pornography]] | news | The Westerly Sun | ? | medium | ? |
 | [[2026-04-18_justice-gov_charlestown-man-sentenced-ten-years-federal-prison-following-fourth-conviction-child]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-02-14_wpri_charlestown-man-10-years-fourth-child-porn-conviction]] | news | WPRI 12 | ? | medium | ? |
@@ -2536,6 +2538,7 @@ updated: 2026-04-14
 | [[2023-11-02_coindesk_us-seizes-drug-rings-54m-crypto-stash-as-prisoners-hatched-big-plans]] | news | CoinDesk | ? | high | ? |
 | [[2023-10-26_navytimes_former-navy-chief-sentenced-identity-theft-scam]] | news | Navy Times | ? | high | ? |
 | [[2023-10-19_theregister_navy-it-manager-prison]] | news | The Register | ? | medium | ? |
+| [[2023-10-19_ndtv_operation-chakra-ii-cbi-raids-76-locations]] | news | NDTV / Press Trust of India | ? | medium | ? |
 | [[2023-10-18_securityweek_former-navy-it-manager-sentenced-prison-hacking-selling-pii]] | news | SecurityWeek | ? | medium | ? |
 | [[2026-04-18_justice-gov_district-man-sentenced-97-months-prison-soliciting-and-receiving-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2023-10-17_starsandstripes_former-sailor-jailed-bitcoin-fraud]] | news | Stars and Stripes | ? | high | ? |

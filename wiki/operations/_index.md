@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (116 canonical / 974 absorbed / 1090 records)
+# Operations (119 canonical / 974 absorbed / 1093 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (116)
+## Canonical Operations (119)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -70,6 +70,7 @@ updated: 2026-04-14
 | [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | umbrella | 5 | 1.88 | 3 |
 | [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[hive-ransomware-takedown]] | CYB-2023-006 | 3 | completed | umbrella | 5 | 3.25 | 2 |
+| [[operation-chakra-ii]] | CYB-2023-019 | 3 | completed | umbrella | 1 | 2.20 | 3 |
 | [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | umbrella | 2 | 3.80 | 2 |
 | [[africa-cyber-surge-ii]] | CYB-2023-050 | 3 | completed | umbrella | 5 | 4.12 | 1 |
 | [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | umbrella | 5 | 4.12 | 1 |
@@ -110,6 +111,8 @@ updated: 2026-04-14
 | [[lumma-stealer-takedown]] | CYB-2025-012 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-secure-interpol]] | CYB-2025-012 | 3 | completed | umbrella | 3 | 3.45 | 2 |
 | [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | umbrella | 5 | 3.50 | 1 |
+| [[operation-chakra-iv]] | CYB-2025-021 | 3 | completed | umbrella | 1 | 2.50 | 3 |
+| [[operation-chakra-v]] | CYB-2025-022 | 3 | completed | umbrella | 1 | 2.60 | 3 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
 | [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | umbrella | 5 | 4.50 | 2 |
 | [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | umbrella | 5 | 4.60 | 2 |

@@ -196,6 +196,7 @@ def _save(client, route: str, filepath: str) -> None:
         # Step 3: Fix double .html.html if any
         html = html.replace('.html.html"', '.html"')
 
+        html = "\n".join(line.rstrip() for line in html.splitlines()) + "\n"
         out_path.write_text(html, encoding="utf-8")
     else:
         print(f"  SKIP {route} (status {resp.status_code})")

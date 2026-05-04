@@ -1,6 +1,6 @@
 {
-  "snapshot_date": "2026-05-04",
-  "generated_at": "2026-05-04T10:29:04.031147+00:00",
+  "snapshot_date": "2026-05-05",
+  "generated_at": "2026-05-04T16:17:32.519185+00:00",
   "analysis_period": [
     2014,
     2025
@@ -10,26 +10,27 @@
     "dark-web-ic": "Dark Web",
     "csam-ic": "CSAM",
     "malware-ic": "Botnet/Malware",
-    "illegal-iptv-ic": "Illegal IPTV"
+    "illegal-iptv-ic": "Illegal IPTV",
+    "voice-phishing-ic": "Voice Phishing/Phone Scams"
   },
-  "included_operations_count": 72,
-  "excluded_operations_count": 1018,
+  "included_operations_count": 83,
+  "excluded_operations_count": 1010,
   "exclusion_reason_counts": {
-    "no_target_crime_type": 40,
+    "no_target_crime_type": 32,
     "status_not_completed_or_ongoing": 974,
     "year_outside_2014_2025_or_missing": 3,
     "no_clear_international_cooperation": 1
   },
   "nodes": {
-    "operations": 72,
-    "countries": 110,
-    "agencies": 97,
-    "crime_types": 5
+    "operations": 83,
+    "countries": 118,
+    "agencies": 102,
+    "crime_types": 6
   },
   "edges": {
-    "op_country": 560,
-    "op_agency": 386,
-    "op_crimetype": 99
+    "op_country": 647,
+    "op_agency": 416,
+    "op_crimetype": 111
   },
   "validation": {
     "out_of_range_included_operations": [],

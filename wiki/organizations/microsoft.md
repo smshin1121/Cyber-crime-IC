@@ -1,26 +1,36 @@
 ---
-aliases: []
-contact_point_for: []
-cooperation_partners: []
+aliases:
+  []
+contact_point_for:
+  []
+cooperation_partners:
+  []
 country: "[[united-states]]"
-jurisdiction: [[united-states]]
+jurisdiction:
+  -
+    - united-states
 created: 2026-04-17
 established: ""
-frameworks_administered: []
+frameworks_administered:
+  []
 headquarters: "Redmond, Washington, United States"
 key_roles:
   - "Private-sector technical partner in botnet and malware disruption operations."
   - "Provides malware telemetry, sinkholing, threat intelligence, and legal/technical support where public sources identify Microsoft involvement."
 last_verified: 2026-04-29
 mandate: "Technology company that often provides telemetry, sinkholing, or legal support in botnet disruptions."
-mechanisms_operated: []
+mechanisms_operated:
+  []
 member_states: 0
-notable_cases: []
+notable_cases:
+  []
 official_name: "Microsoft Corporation"
 official_name_ko: ""
 operations_participated:
   - "[[andromeda-botnet-takedown]]"
   - "[[simda-botnet-takedown]]"
+  - "[[operation-chakra-ii]]"
+  - "[[operation-chakra-v]]"
 org_type: private-sector
 parent_org: ""
 source_count: 3
@@ -29,9 +39,9 @@ sources:
   - "[[europol-andromeda-botnet-dismantling]]"
   - "[[2026-04-18_microsoft-com_gamarue-threat-profile]]"
 status: active
-title: "Microsoft"
+title: Microsoft
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

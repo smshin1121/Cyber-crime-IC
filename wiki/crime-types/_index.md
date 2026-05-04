@@ -34,4 +34,4 @@ updated: 2026-04-27
 | [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 8 |
 | [[organized-crime-ic]] | — | — | — | — | 4 |
 | [[ransomware-ic]] | cyber-dependent | Yes | — | operation-cronos-phase1, operation-endgame-phase1, operation-cronos-phase3 | 8 |
-| [[voice-phishing-ic]] | cyber-enabled | Yes | — | korea-china-voice-phishing-qingdao, operation-haechi-iv, operation-haechi-v | 5 |
+| [[voice-phishing-ic]] | cyber-enabled | Yes | interpol-i-grip, interpol-i24-7, informal-cooperation | korea-china-voice-phishing-qingdao, operation-haechi-iii, operation-haechi-iv | 12 |

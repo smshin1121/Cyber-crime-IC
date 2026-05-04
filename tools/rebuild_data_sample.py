@@ -36,7 +36,7 @@ SNA_CURRENT = ROOT / "_workspace" / "sna" / "current"
 ANALYSIS_DIR = WIKI / "analysis"
 SNA_HTML_DIR = ANALYSIS_DIR / "sna"
 
-SNAPSHOT_DATE = "2026-05-04"
+SNAPSHOT_DATE = "2026-05-05"
 YEAR_MIN = 2014
 YEAR_MAX = 2025
 
@@ -46,6 +46,7 @@ TARGET_CRIME_TYPES = {
     "csam-ic": "CSAM",
     "malware-ic": "Botnet/Malware",
     "illegal-iptv-ic": "Illegal IPTV",
+    "voice-phishing-ic": "Voice Phishing/Phone Scams",
 }
 
 REPORT_COLUMNS = [
@@ -187,6 +188,7 @@ CRIME_KEYWORDS = [
     ("csam-ic", ["csam", "child sexual abuse", "child pornography", u("\\uc544\\ub3d9 \\uc131"), u("\\uc544\\ub3d9\\uc131"), u("\\uc131\\ucc29\\ucde8")]),
     ("malware-ic", ["malware", "botnet", "trojan", "infostealer", "loader", u("\\uc545\\uc131\\ucf54\\ub4dc"), u("\\ubd07\\ub137"), u("\\ud2b8\\ub85c\\uc774\\ubaa9\\ub9c8")]),
     ("illegal-iptv-ic", ["illegal iptv", "iptv", "illegal streaming", "pirate streaming", "piracy", u("\\ubd88\\ubc95 iptv"), u("\\ubd88\\ubc95 \\uc2a4\\ud2b8\\ub9ac\\ubc0d"), u("\\ud574\\uc801 \\uc2a4\\ud2b8\\ub9ac\\ubc0d"), u("\\ud53c\\ub77c\\uc2dc")]),
+    ("voice-phishing-ic", ["voice phishing", "vishing", "phone scam", "phone phishing", "telephone fraud", "tech support scam", "tech-support scam", "illegal call center", "illegal call centre", u("\\ubcf4\\uc774\\uc2a4\\ud53c\\uc2f1"), u("\\ube44\\uc2f1"), u("\\ubd88\\ubc95 \\uc804\\ud654\\uc13c\\ud130"), u("\\ubd88\\ubc95\\uc804\\ud654\\uc13c\\ud130"), u("\\ubd88\\ubc95 \\ucf5c\\uc13c\\ud130"), u("\\ubd88\\ubc95\\ucf5c\\uc13c\\ud130"), u("\\uae30\\uc220\\uc9c0\\uc6d0\\uc0ac\\uae30"), u("\\uae30\\uc220\\uc9c0\\uc6d0 \\uc0ac\\uae30")]),
 ]
 
 MULTINATIONAL_AGENCIES = {"europol-ec3", "eurojust", "interpol"}
@@ -1219,9 +1221,9 @@ def write_analysis_page(included: list[OperationRecord], manifest: dict, cohesio
         "",
         "## Summary",
         "",
-        f"This rebuild uses `{SNA_CURRENT.relative_to(ROOT).as_posix()}/manifest.json` as the current SNA manifest. It includes **{manifest['included_operations_count']}** operations from **{YEAR_MIN}-{YEAR_MAX}** whose operation frontmatter has at least one source URL, participating agencies, participating countries, and at least one of the five target crime categories.",
+        f"This rebuild uses `{SNA_CURRENT.relative_to(ROOT).as_posix()}/manifest.json` as the current SNA manifest. It includes **{manifest['included_operations_count']}** operations from **{YEAR_MIN}-{YEAR_MAX}** whose operation frontmatter has at least one source URL, participating agencies, participating countries, and at least one of the six target crime categories.",
         "",
-        "The five-category crime filter is intentionally narrower than the older PoC SNA output. Crime-type edges are collapsed to `ransomware-ic`, `dark-web-ic`, `csam-ic`, `malware-ic`, and `illegal-iptv-ic`; other wiki crime categories are not exported into this subset.",
+        "The six-category crime filter is intentionally narrower than the older PoC SNA output. Crime-type edges are collapsed to `ransomware-ic`, `dark-web-ic`, `csam-ic`, `malware-ic`, `illegal-iptv-ic`, and `voice-phishing-ic`; other wiki crime categories are not exported into this subset.",
         "",
         "## Output Manifest",
         "",
