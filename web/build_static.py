@@ -94,6 +94,12 @@ def build() -> None:
                 for md_file in cat_dir.glob("*.md"):
                     if md_file.name.startswith("_"):
                         continue
+                    try:
+                        meta, _ = parse_page(md_file)
+                    except Exception:
+                        meta = {}
+                    if not public_wiki_include(md_file, meta, WIKI_DIR):
+                        continue
                     slug = md_file.stem
                     _save(
                         client,

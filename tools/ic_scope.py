@@ -1,7 +1,7 @@
 """International-cooperation visibility rules for the public wiki.
 
 The public corpus is scoped to records with at least two real countries.
-Operation files remain in the repository for traceability, but public indexes,
+Repository files remain available for traceability, but the public wiki,
 search, statistics, and graph exports should only include records that meet
 this rule or directly support a qualifying operation.
 """

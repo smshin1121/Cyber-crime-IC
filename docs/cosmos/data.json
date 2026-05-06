@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-06T14:49:29Z",
+  "generated_at": "2026-05-06T15:18:03Z",
   "root": null,
   "stats": {
     "total_nodes": 1320,
@@ -695,7 +695,7 @@
       "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 118 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 145 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 68 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
-      "updated": "2026-05-06",
+      "updated": "2026-05-07",
       "degree": 22,
       "path": "wiki/analysis/ic-statistics-dashboard.md",
       "meta": {}
@@ -793,7 +793,7 @@
       "summary": "The public wiki now applies a stricter international-cooperation threshold: a record must have at least two real country slugs to be treated as international cooperation. Pseudo-geographic placeholders such as international, global, worldwide, and…",
       "source_count": 0,
       "created": "2026-05-06",
-      "updated": "2026-05-06",
+      "updated": "2026-05-07",
       "degree": 0,
       "path": "wiki/analysis/non-ic-public-exclusion-audit-2026-05-06.md",
       "meta": {}

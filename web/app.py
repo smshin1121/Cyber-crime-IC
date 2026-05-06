@@ -210,6 +210,15 @@ def resolve_wiki_path(slug):
     return None
 
 
+def is_public_wiki_path(filepath):
+    """Return True when a wiki file is visible in the public IC corpus."""
+    try:
+        meta, _ = parse_page(filepath)
+    except Exception:
+        return False
+    return public_wiki_include(filepath, meta, WIKI_DIR)
+
+
 def get_category_for_file(filepath):
     """Determine the category from a file's parent directory."""
     parent = filepath.parent.name
@@ -247,16 +256,20 @@ def convert_wikilinks(text):
             parts = slug.split("/", 1)
             cat_part, slug_part = parts[0], parts[1]
             resolved = WIKI_DIR / cat_part / f"{slug_part}.md"
-            if resolved.exists():
+            if resolved.exists() and is_public_wiki_path(resolved):
                 return f'<a href="/wiki/{cat_part}/{slug_part}" class="wikilink">{display}</a>'
+            if resolved.exists():
+                return display
         resolved = resolve_wiki_path(slug)
-        if resolved:
+        if resolved and is_public_wiki_path(resolved):
             cat = get_category_for_file(resolved)
             if cat:
                 href = f"/wiki/{cat}/{slug}"
             else:
                 href = f"/wiki/{slug}"
             return f'<a href="{href}" class="wikilink">{display}</a>'
+        if resolved:
+            return display
         return f'<a href="/wiki/_missing/{slug}" class="wikilink wikilink-missing">{display}</a>'
     return re.sub(r'\[\[([^\]]+)\]\]', replace_link, text)
 
@@ -1254,6 +1267,8 @@ def page(slug):
     if not filepath or not filepath.exists():
         abort(404)
     meta, content = parse_page(filepath)
+    if not public_wiki_include(filepath, meta, WIKI_DIR):
+        abort(404)
     page_type = meta.get("type", "")
     category = get_category_for_file(filepath)
     en_html, ko_html = render_bilingual(
@@ -1274,6 +1289,8 @@ def category_page(category, slug):
     if not filepath.exists():
         abort(404)
     meta, content = parse_page(filepath)
+    if not public_wiki_include(filepath, meta, WIKI_DIR):
+        abort(404)
     page_type = meta.get("type", "")
     en_html, ko_html = render_bilingual(
         meta, content, page_type, category=category, slug=slug)

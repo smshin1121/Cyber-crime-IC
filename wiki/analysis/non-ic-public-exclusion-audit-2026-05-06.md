@@ -6,14 +6,14 @@ analysis_type: scope-audit
 scope: "Apply the public wiki rule that international cooperation requires at least two real country slugs."
 confidence: medium
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-05-07
 ---
 
 ## Summary
 
 The public wiki now applies a stricter international-cooperation threshold: a record must have at least two real country slugs to be treated as international cooperation. Pseudo-geographic placeholders such as `international`, `global`, `worldwide`, and `european-union` do not count as countries.
 
-The first application of the rule changes public discovery surfaces, not the underlying trace archive. Existing markdown files remain in the repository so old backlinks and source traceability are not destroyed, but non-qualifying records are excluded from public category indexes, search index, statistics, and Cosmos graph export.
+The rule now applies to public discovery and direct public rendering. Existing markdown files remain in the repository so old backlinks and source traceability are not destroyed, but non-qualifying records are excluded from public category indexes, search index, statistics, Cosmos graph export, direct Flask routes, and generated static HTML.
 
 ## Public Inclusion Rule
 
@@ -28,15 +28,15 @@ The first application of the rule changes public discovery surfaces, not the und
 
 | Category | Total files | Public after rule | Excluded from public index |
 |---|---:|---:|---:|
-| Operations | 1,093 | 141 | 952 |
+| Operations | 1,097 | 145 | 952 |
 | Cases | 1,202 | 89 | 1,113 |
-| Sources | 4,797 | 605 | 4,192 |
+| Sources | 4,812 | 621 | 4,191 |
 
 Operation scope detail:
 
 | Operation scope | Public after rule | Excluded from public index |
 |---|---:|---:|
-| Canonical operations | 114 | 5 |
+| Canonical operations | 118 | 5 |
 | Absorbed follow-on records | 27 | 947 |
 
 ## Canonical Operations Excluded
@@ -55,8 +55,9 @@ These five records were previously canonical but have only one real country slug
 
 - `tools/ic_scope.py` centralizes the two-country rule.
 - `tools/reconcile_indexes.py` excludes non-qualifying operations, cases, and sources from `_index.md` tables.
-- `web/app.py`, `web/build_static.py`, `tools/sync_stats.py`, and `cosmos/extract.py` apply the same public visibility filter to category pages, search, statistics, and graph data.
-- Individual legacy pages are still generated for link stability, but they are no longer part of public discovery counts unless they satisfy the two-country rule.
+- `web/app.py`, `web/build_static.py`, `tools/sync_stats.py`, and `cosmos/extract.py` apply the same public visibility filter to category pages, direct wiki routes, generated HTML, search, statistics, and graph data.
+- Wikilinks to non-qualifying trace pages render as plain text in public HTML, so the public site does not create broken internal links to excluded pages.
+- Individual legacy pages are no longer generated as public static HTML unless they satisfy the two-country rule.
 
 ## Residual Work
 
