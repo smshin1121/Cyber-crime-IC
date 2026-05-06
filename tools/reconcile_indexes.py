@@ -15,6 +15,13 @@ import sys
 from pathlib import Path
 from typing import Any, Callable
 
+import frontmatter
+
+try:
+    from ic_scope import public_wiki_include
+except ModuleNotFoundError:  # pragma: no cover - package import fallback
+    from tools.ic_scope import public_wiki_include
+
 try:
     from operation_scope import is_absorbed_operation
 except ModuleNotFoundError:  # pragma: no cover - package import fallback
@@ -523,7 +530,12 @@ def load_category_pages(category: str) -> list[tuple[str, dict]]:
     for md in sorted(cat_dir.glob("*.md")):
         if md.name.startswith("_"):
             continue
-        meta = parse_frontmatter(md)
+        try:
+            meta = dict(frontmatter.load(md).metadata)
+        except Exception:
+            meta = parse_frontmatter(md)
+        if not public_wiki_include(md, meta, WIKI_DIR):
+            continue
         pages.append((md.stem, meta))
     return pages
 

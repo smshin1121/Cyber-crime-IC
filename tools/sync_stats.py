@@ -12,6 +12,11 @@ from typing import Any, Dict
 
 import frontmatter
 try:
+    from ic_scope import public_wiki_include
+except ModuleNotFoundError:  # pragma: no cover - package import fallback
+    from tools.ic_scope import public_wiki_include
+
+try:
     from operation_scope import is_absorbed_operation
 except ModuleNotFoundError:  # pragma: no cover - package import fallback
     from tools.operation_scope import is_absorbed_operation
@@ -56,6 +61,8 @@ def collect_stats() -> Dict[str, Any]:
             try:
                 meta = frontmatter.load(md).metadata
             except Exception:
+                continue
+            if not public_wiki_include(md, meta, WIKI_DIR):
                 continue
             stats["total_operation_records"] += 1
             if is_absorbed_operation(meta):
@@ -140,6 +147,8 @@ def collect_stats() -> Dict[str, Any]:
                 meta = frontmatter.load(md).metadata
             except Exception:
                 continue
+            if not public_wiki_include(md, meta, WIKI_DIR):
+                continue
             stats["total_sources"] += 1
             pub = meta.get("publisher", "Unknown")
             stats["source_publisher"][pub] += 1
@@ -150,6 +159,7 @@ def collect_stats() -> Dict[str, Any]:
             count = sum(
                 1 for f in subdir.glob("*.md")
                 if not f.name.startswith("_")
+                and public_wiki_include(f, frontmatter.load(f).metadata, WIKI_DIR)
             )
             if count > 0:
                 stats["cat_counts"][subdir.name] = count

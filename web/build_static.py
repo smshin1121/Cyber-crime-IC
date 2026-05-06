@@ -19,6 +19,7 @@ from app import (
     parse_page,
     get_category_for_file,
 )
+from ic_scope import public_wiki_include
 from operation_scope import operation_scope
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs"
@@ -127,6 +128,8 @@ def build() -> None:
         try:
             meta, content = parse_page(md_file)
         except Exception:
+            continue
+        if not public_wiki_include(md_file, meta, WIKI_DIR):
             continue
         cat = get_category_for_file(md_file) or ""
         op_scope = operation_scope(meta) if cat == "operations" or meta.get("type") == "operation" else ""

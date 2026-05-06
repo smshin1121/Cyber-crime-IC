@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-05-03
 ---
 
-# Analysis (105)
+# Analysis (107)
 
 | Analysis | Type | Confidence | Scope | Date |
 |----------|------|------------|-------|------|
@@ -64,6 +64,7 @@ updated: 2026-05-03
 | [[multicountry-low-source-survey-2026-04-22]] | — | — | — | 2026-04-22 |
 | [[multisource-content-enrichment-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[multisource-content-enrichment-queue-2026-04-26]] | — | — | — | 2026-04-26 |
+| [[non-ic-public-exclusion-audit-2026-05-06]] | scope-audit | medium | Apply the public wiki rule that international cooperation requires at least two real country slugs. | 2026-05-06 |
 | [[operation-audit-queue-2026-04]] | — | — | — | 2026-04-19 |
 | [[operation-low-source-triage-2026-04-22]] | — | — | — | 2026-04-22 |
 | [[operation-source-density-audit-2026-04-22]] | — | — | — | 2026-04-22 |
@@ -112,6 +113,7 @@ updated: 2026-05-03
 | [[source-url-content-alignment-audit-2026-05-03]] | — | — | — | 2026-05-03 |
 | [[source-url-content-alignment-audit-2026-05-04]] | — | — | — | 2026-05-04 |
 | [[source-url-content-alignment-audit-2026-05-05]] | — | — | — | 2026-05-05 |
+| [[source-url-content-alignment-audit-2026-05-06]] | — | — | — | 2026-05-06 |
 | [[targeted-content-enrichment-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[targeted-content-enrichment-recursive-2026-04-29]] | — | — | — | 2026-04-29 |
 | [[voip-workbook-sna-count-reconciliation-2026-05-06]] | count-reconciliation | medium | Reconcile workbook source rows, source-backed operation expansion, and current SNA inclusion for voice-phishing-ic. | 2026-05-06 |

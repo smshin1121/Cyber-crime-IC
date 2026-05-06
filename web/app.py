@@ -49,6 +49,7 @@ TOOLS_DIR = ROOT_DIR / "tools"
 if TOOLS_DIR.is_dir() and str(TOOLS_DIR) not in sys.path:
     sys.path.insert(0, str(TOOLS_DIR))
 
+from ic_scope import public_wiki_include
 from operation_scope import ABSORBED_SCOPE, CANONICAL_SCOPE, operation_scope
 
 # Category metadata (Korean labels)
@@ -446,6 +447,8 @@ def get_all_pages():
             meta, _ = parse_page(md_file)
         except Exception:
             meta = {}
+        if not public_wiki_include(md_file, meta, WIKI_DIR):
+            continue
         slug = md_file.stem
         cat = get_category_for_file(md_file)
         op_scope = operation_scope(meta) if cat == "operations" or meta.get("type") == "operation" else ""
@@ -1302,6 +1305,8 @@ def category_list(category):
             meta, _ = parse_page(md_file)
         except Exception:
             meta = {}
+        if not public_wiki_include(md_file, meta, WIKI_DIR):
+            continue
         op_scope = operation_scope(meta) if category == "operations" or meta.get("type") == "operation" else ""
         pages.append({
             "slug": md_file.stem,
@@ -1352,6 +1357,8 @@ def search():
         try:
             meta, content = parse_page(md_file)
         except Exception:
+            continue
+        if not public_wiki_include(md_file, meta, WIKI_DIR):
             continue
         title = meta.get("title", md_file.stem)
         title_ko = meta.get("title_ko", meta.get("official_name_ko", ""))
@@ -1404,6 +1411,8 @@ def stats():
             try:
                 meta, _ = parse_page(md_file)
             except Exception:
+                continue
+            if not public_wiki_include(md_file, meta, WIKI_DIR):
                 continue
             if operation_scope(meta) == ABSORBED_SCOPE:
                 absorbed_ops += 1
@@ -1461,6 +1470,8 @@ def stats():
             try:
                 meta, _ = parse_page(md_file)
             except Exception:
+                continue
+            if not public_wiki_include(md_file, meta, WIKI_DIR):
                 continue
             publisher = meta.get("publisher", "Unknown")
             source_domains[publisher] = source_domains.get(publisher, 0) + 1

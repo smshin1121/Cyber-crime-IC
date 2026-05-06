@@ -15,6 +15,7 @@ TOOLS_DIR = Path(__file__).resolve().parent.parent / "tools"
 if TOOLS_DIR.is_dir() and str(TOOLS_DIR) not in sys.path:
     sys.path.insert(0, str(TOOLS_DIR))
 
+from ic_scope import public_wiki_include
 from operation_scope import operation_scope
 
 try:
@@ -217,9 +218,10 @@ def build_meta(page_type: str, frontmatter: dict[str, Any]) -> dict[str, Any]:
     return meta
 
 
-def collect_pages(wiki_dir: Path) -> tuple[list[dict[str, Any]], dict[str, str]]:
+def collect_pages(wiki_dir: Path) -> tuple[list[dict[str, Any]], dict[str, str], set[str]]:
     collisions: dict[str, list[str]] = defaultdict(list)
     staged: list[dict[str, Any]] = []
+    excluded_slugs: set[str] = set()
 
     for path in sorted(wiki_dir.rglob("*.md")):
         if is_excluded(path):
@@ -229,6 +231,9 @@ def collect_pages(wiki_dir: Path) -> tuple[list[dict[str, Any]], dict[str, str]]
             continue
         page_type = str(frontmatter.get("type", "")).strip()
         if not page_type:
+            continue
+        if not public_wiki_include(path, frontmatter, wiki_dir):
+            excluded_slugs.add(path.stem)
             continue
         slug = path.stem
         collisions[slug].append(path.as_posix())
@@ -260,7 +265,7 @@ def collect_pages(wiki_dir: Path) -> tuple[list[dict[str, Any]], dict[str, str]]
             page["id"] = slug
             slug_to_id[slug] = slug
         pages.append(page)
-    return pages, slug_to_id
+    return pages, slug_to_id, excluded_slugs
 
 
 def resolve_target(raw_target: str, slug_to_id: dict[str, str]) -> str | None:
@@ -280,7 +285,7 @@ def resolve_target(raw_target: str, slug_to_id: dict[str, str]) -> str | None:
 
 
 def build_graph(
-    pages: list[dict[str, Any]], slug_to_id: dict[str, str], verbose: bool
+    pages: list[dict[str, Any]], slug_to_id: dict[str, str], excluded_slugs: set[str], verbose: bool
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]], Counter[str], int]:
     edges: list[dict[str, Any]] = []
     broken: list[dict[str, Any]] = []
@@ -293,6 +298,8 @@ def build_graph(
             for raw_target, explicit in extract_link_targets(page["frontmatter"].get(field)):
                 target = resolve_target(raw_target, slug_to_id)
                 if not target:
+                    if normalize_target(raw_target) in excluded_slugs:
+                        continue
                     if explicit:
                         broken.append({"source": source, "target_slug": raw_target, "kind": field})
                         if verbose:
@@ -313,6 +320,8 @@ def build_graph(
             raw_target = match.group(1)
             target = resolve_target(raw_target, slug_to_id)
             if not target:
+                if normalize_target(raw_target) in excluded_slugs:
+                    continue
                 broken.append({"source": source, "target_slug": raw_target, "kind": "body"})
                 if verbose:
                     print(f"[broken] {source} -> {raw_target} (kind=body)", file=sys.stderr)
@@ -339,8 +348,8 @@ def build_graph(
 
 def main() -> None:
     args = parse_args()
-    pages, slug_to_id = collect_pages(Path(args.wiki_dir))
-    edges, broken, degree, orphan_count = build_graph(pages, slug_to_id, args.verbose)
+    pages, slug_to_id, excluded_slugs = collect_pages(Path(args.wiki_dir))
+    edges, broken, degree, orphan_count = build_graph(pages, slug_to_id, excluded_slugs, args.verbose)
 
     broken_ratio = (len(broken) / len(edges)) if edges else 0.0
     if broken_ratio > 0.10:

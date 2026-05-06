@@ -14,7 +14,7 @@ updated: 2026-04-14
 | [[asset-freezing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[capacity-building-ic]] | cooperation-or-enforcement-mechanism | — | — | — | — | 1 |
 | [[cryptocurrency-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
-| [[direct-provider-request]] | provider-disclosure | semi-formal | days | — | — | 6 |
+| [[direct-provider-request]] | provider-disclosure | semi-formal | days | — | cloud-act, second-additional-protocol | 6 |
 | [[domain-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[electronic-evidence]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[empact]] | liaison-network | formal | weeks | [[europol-ec3]] | eu-policy-cycle | 3 |
