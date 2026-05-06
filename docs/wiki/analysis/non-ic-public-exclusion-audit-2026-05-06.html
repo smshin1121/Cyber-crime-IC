@@ -106,7 +106,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="first-pass-counts">First-Pass Counts</h2>
+<h2 id="current-public-scope-counts">Current Public-Scope Counts</h2>
 <table>
 <thead>
 <tr>
@@ -119,8 +119,8 @@
 <tbody>
 <tr>
 <td>Operations</td>
-<td style="text-align: right;">1,097</td>
-<td style="text-align: right;">145</td>
+<td style="text-align: right;">1,099</td>
+<td style="text-align: right;">147</td>
 <td style="text-align: right;">952</td>
 </tr>
 <tr>
@@ -131,9 +131,9 @@
 </tr>
 <tr>
 <td>Sources</td>
-<td style="text-align: right;">4,812</td>
-<td style="text-align: right;">621</td>
-<td style="text-align: right;">4,191</td>
+<td style="text-align: right;">4,816</td>
+<td style="text-align: right;">630</td>
+<td style="text-align: right;">4,186</td>
 </tr>
 </tbody>
 </table>
@@ -149,7 +149,7 @@
 <tbody>
 <tr>
 <td>Canonical operations</td>
-<td style="text-align: right;">118</td>
+<td style="text-align: right;">120</td>
 <td style="text-align: right;">5</td>
 </tr>
 <tr>
@@ -208,9 +208,12 @@
 <li><code>tools/ic_scope.py</code> centralizes the two-country rule.</li>
 <li><code>tools/reconcile_indexes.py</code> excludes non-qualifying operations, cases, and sources from <code>_index.md</code> tables.</li>
 <li><code>web/app.py</code>, <code>web/build_static.py</code>, <code>tools/sync_stats.py</code>, and <code>cosmos/extract.py</code> apply the same public visibility filter to category pages, direct wiki routes, generated HTML, search, statistics, and graph data.</li>
+<li><code>tools/audit_public_ic_scope.py</code> verifies that category indexes, static HTML, search index, and Cosmos graph expose only qualifying public operations, cases, and sources.</li>
 <li>Wikilinks to non-qualifying trace pages render as plain text in public HTML, so the public site does not create broken internal links to excluded pages.</li>
 <li>Individual legacy pages are no longer generated as public static HTML unless they satisfy the two-country rule.</li>
 </ul>
+<h2 id="current-audit-result">Current Audit Result</h2>
+<p>As of the 2026-05-07 scope check, the public operation set contains <strong>147</strong> records and <strong>0</strong> records with fewer than two real country slugs. The same expected public sets are reflected in <code>wiki/*/_index.md</code>, <code>docs/wiki/*/*.html</code>, <code>docs/search-index.json</code>, and <code>cosmos/data.json</code> for operations, cases, and sources.</p>
 <h2 id="residual-work">Residual Work</h2>
 <ul>
 <li>Review the five excluded canonical operations for missing second-country evidence. If a reliable source supports at least two participating countries, update structured metadata and rerun the build.</li>

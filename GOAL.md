@@ -12,7 +12,7 @@ The core research dataset should prioritize officially verifiable operation and 
 
 ## Success Criteria
 
-1. Every canonical operation has source-backed international-cooperation elements, including participating countries or agencies, enforcement action, legal basis where available, and results where publicly reported.
+1. Every public canonical operation has source-backed international-cooperation elements. For wiki inclusion, international cooperation requires at least two real participating-country slugs; pseudo-geographic placeholders such as `international`, `global`, `worldwide`, and `european-union` do not count.
 2. Absorbed follow-on records remain traceable but are not double-counted as separate canonical operations.
 3. Country, agency, crime-type, mechanism, and case links are consistent enough to support reproducible two-mode and multimode SNA exports.
 4. Claims about participation are supported by tier-1 or tier-2 sources whenever possible; unverified participation is flagged rather than silently asserted.
@@ -24,6 +24,7 @@ The core research dataset should prioritize officially verifiable operation and 
 The repository is in acceptable working state when:
 
 - `python tools/lint.py` reports 0 critical/high issues.
+- `python tools/audit_public_ic_scope.py` reports 0 public-scope violations.
 - `python tools/check_links.py` reports 0 broken and 0 malformed links.
 - `python tools/audit_integrity.py` reports 0 parse errors, 0 broken wikilinks, and 0 source mismatches.
 - `python tools/audit_operation_consistency.py` reports 0 issues.

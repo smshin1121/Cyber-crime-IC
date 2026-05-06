@@ -24,19 +24,19 @@ The rule now applies to public discovery and direct public rendering. Existing m
 | Sources | Source must be referenced by a qualifying operation or qualifying case. |
 | Other wiki categories | Retained, because they are reference entities, mechanisms, crime types, country profiles, organizations, or analysis pages rather than event records. |
 
-## First-Pass Counts
+## Current Public-Scope Counts
 
 | Category | Total files | Public after rule | Excluded from public index |
 |---|---:|---:|---:|
-| Operations | 1,097 | 145 | 952 |
+| Operations | 1,099 | 147 | 952 |
 | Cases | 1,202 | 89 | 1,113 |
-| Sources | 4,812 | 621 | 4,191 |
+| Sources | 4,816 | 630 | 4,186 |
 
 Operation scope detail:
 
 | Operation scope | Public after rule | Excluded from public index |
 |---|---:|---:|
-| Canonical operations | 118 | 5 |
+| Canonical operations | 120 | 5 |
 | Absorbed follow-on records | 27 | 947 |
 
 ## Canonical Operations Excluded
@@ -56,8 +56,13 @@ These five records were previously canonical but have only one real country slug
 - `tools/ic_scope.py` centralizes the two-country rule.
 - `tools/reconcile_indexes.py` excludes non-qualifying operations, cases, and sources from `_index.md` tables.
 - `web/app.py`, `web/build_static.py`, `tools/sync_stats.py`, and `cosmos/extract.py` apply the same public visibility filter to category pages, direct wiki routes, generated HTML, search, statistics, and graph data.
+- `tools/audit_public_ic_scope.py` verifies that category indexes, static HTML, search index, and Cosmos graph expose only qualifying public operations, cases, and sources.
 - Wikilinks to non-qualifying trace pages render as plain text in public HTML, so the public site does not create broken internal links to excluded pages.
 - Individual legacy pages are no longer generated as public static HTML unless they satisfy the two-country rule.
+
+## Current Audit Result
+
+As of the 2026-05-07 scope check, the public operation set contains **147** records and **0** records with fewer than two real country slugs. The same expected public sets are reflected in `wiki/*/_index.md`, `docs/wiki/*/*.html`, `docs/search-index.json`, and `cosmos/data.json` for operations, cases, and sources.
 
 ## Residual Work
 
