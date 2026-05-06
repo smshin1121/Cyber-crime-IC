@@ -28,15 +28,15 @@ The rule now applies to public discovery and direct public rendering. Existing m
 
 | Category | Total files | Public after rule | Excluded from public index |
 |---|---:|---:|---:|
-| Operations | 1,099 | 147 | 952 |
+| Operations | 1,100 | 148 | 952 |
 | Cases | 1,202 | 89 | 1,113 |
-| Sources | 4,816 | 630 | 4,186 |
+| Sources | 4,819 | 633 | 4,186 |
 
 Operation scope detail:
 
 | Operation scope | Public after rule | Excluded from public index |
 |---|---:|---:|
-| Canonical operations | 120 | 5 |
+| Canonical operations | 121 | 5 |
 | Absorbed follow-on records | 27 | 947 |
 
 ## Canonical Operations Excluded
@@ -62,7 +62,7 @@ These five records were previously canonical but have only one real country slug
 
 ## Current Audit Result
 
-As of the 2026-05-07 scope check, the public operation set contains **147** records and **0** records with fewer than two real country slugs. The same expected public sets are reflected in `wiki/*/_index.md`, `docs/wiki/*/*.html`, `docs/search-index.json`, and `cosmos/data.json` for operations, cases, and sources.
+As of the 2026-05-07 scope check, the public operation set contains **148** records and **0** records with fewer than two real country slugs. The same expected public sets are reflected in `wiki/*/_index.md`, `docs/wiki/*/*.html`, `docs/search-index.json`, and `cosmos/data.json` for operations, cases, and sources.
 
 ## Residual Work
 
