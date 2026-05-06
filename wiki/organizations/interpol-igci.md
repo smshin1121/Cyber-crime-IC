@@ -43,6 +43,7 @@ operations_participated:
   - "[[operation-serengeti-2]]"
   - "[[operation-synergia-iii]]"
   - "[[operation-red-card-2]]"
+  - "[[operation-catalyst]]"
 org_type: international-org
 parent_org: "[[interpol]]"
 source_count: 11

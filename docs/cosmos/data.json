@@ -1,30 +1,30 @@
 {
   "version": 1,
-  "generated_at": "2026-05-06T15:28:30Z",
+  "generated_at": "2026-05-06T23:18:07Z",
   "root": null,
   "stats": {
-    "total_nodes": 1331,
-    "total_edges": 12841,
+    "total_nodes": 1337,
+    "total_edges": 12978,
     "broken_links": 0,
     "orphans": 98,
     "by_type": {
-      "analysis": 106,
+      "analysis": 107,
       "audit": 1,
       "case": 89,
       "challenge": 2,
       "concept": 15,
-      "country": 119,
+      "country": 120,
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 147,
+      "operation": 148,
       "organization": 145,
       "procedure": 2,
-      "source": 630
+      "source": 633
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 120
+      "canonical_operation": 121
     }
   },
   "nodes": [
@@ -692,7 +692,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 120 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 147 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 70 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 121 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 148 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 71 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-07",
@@ -1370,6 +1370,20 @@
       "updated": "2026-05-03",
       "degree": 103,
       "path": "wiki/analysis/source-duplicate-audit-2026-05-03.md",
+      "meta": {}
+    },
+    {
+      "id": "source-duplicate-audit-2026-05-07",
+      "type": "analysis",
+      "title": "Source Duplicate Audit (2026-05-07)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4819 -…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 104,
+      "path": "wiki/analysis/source-duplicate-audit-2026-05-07.md",
       "meta": {}
     },
     {
@@ -3486,7 +3500,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/angola.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3794,7 +3808,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/countries/cameroon.md",
       "meta": {
         "legal_system": "mixed",
@@ -4434,7 +4448,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/countries/kenya.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4771,7 +4785,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/countries/namibia.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4821,7 +4835,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 58,
+      "degree": 59,
       "path": "wiki/countries/nigeria.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5120,6 +5134,23 @@
         "legal_system": "civil-law",
         "region": "east-asia",
         "ic_capacity_rating": "high"
+      }
+    },
+    {
+      "id": "south-sudan",
+      "type": "country",
+      "title": "South Sudan",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "South Sudan is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-catalyst and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 3,
+      "path": "wiki/countries/south-sudan.md",
+      "meta": {
+        "legal_system": "not-assessed",
+        "region": "east-africa"
       }
     },
     {
@@ -5847,7 +5878,7 @@
       "source_count": 1,
       "created": "2026-04-14",
       "updated": "2026-04-14",
-      "degree": 31,
+      "degree": 32,
       "path": "wiki/crime-types/money-laundering-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -6376,7 +6407,7 @@
       "source_count": 1,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/mechanisms/asset-recovery.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6408,7 +6439,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/mechanisms/cryptocurrency-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6463,7 +6494,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 38,
+      "degree": 39,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6625,7 +6656,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 207,
+      "degree": 209,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6787,7 +6818,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 60,
+      "degree": 61,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -7950,6 +7981,31 @@
         "outcome": "success",
         "results_arrests": 1,
         "operation_scope": "absorbed_follow_on"
+      }
+    },
+    {
+      "id": "operation-catalyst",
+      "type": "operation",
+      "title": "Operation Catalyst",
+      "title_ko": null,
+      "aliases": [
+        "INTERPOL Operation Catalyst",
+        "AFRIPOL Operation Catalyst"
+      ],
+      "summary": "Operation Catalyst was a 2025 INTERPOL-AFRIPOL operation targeting terrorism-linked financial flows and the illegal activity supporting them. It ran from July to September 2025 across Angola, Cameroon, Kenya, Namibia, Nigeria, and South Sudan. This…",
+      "source_count": 3,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 32,
+      "path": "wiki/operations/operation-catalyst.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "coordinated-arrests",
+        "outcome": "success",
+        "results_arrests": 83,
+        "operation_scope": "canonical_operation"
       }
     },
     {
@@ -9336,7 +9392,7 @@
       "source_count": 4,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 39,
+      "degree": 41,
       "path": "wiki/operations/operation-red-card-2.md",
       "meta": {
         "status": "completed",
@@ -9454,7 +9510,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 46,
+      "degree": 49,
       "path": "wiki/operations/operation-sentinel-africa.md",
       "meta": {
         "status": "completed",
@@ -9478,7 +9534,7 @@
       "source_count": 4,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 53,
+      "degree": 55,
       "path": "wiki/operations/operation-serengeti-2.md",
       "meta": {
         "status": "completed",
@@ -10437,7 +10493,7 @@
       "source_count": 3,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 33,
+      "degree": 35,
       "path": "wiki/organizations/afripol.md",
       "meta": {
         "org_type": "regional-org",
@@ -11451,7 +11507,7 @@
       "source_count": 11,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 127,
+      "degree": 131,
       "path": "wiki/organizations/interpol-igci.md",
       "meta": {
         "org_type": "international-org",
@@ -13659,7 +13715,7 @@
       "source_count": 0,
       "created": "2026-04-22",
       "updated": null,
-      "degree": 14,
+      "degree": 15,
       "path": "wiki/sources/2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa.md",
       "meta": {}
     },
@@ -13673,7 +13729,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-28",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story.md",
       "meta": {}
     },
@@ -13715,7 +13771,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2015-07-15_wdpa_darkode-indictment.md",
       "meta": {}
     },
@@ -13743,7 +13799,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/sources/2015-10-13_fbi-gov_bugat-botnet-administrator-arrested-and-malware-disabled.md",
       "meta": {}
     },
@@ -13771,7 +13827,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/sources/2015-10-13_wdpa_ghinkul-bugat-dridex-indictment.md",
       "meta": {}
     },
@@ -14009,7 +14065,7 @@
       "source_count": 0,
       "created": "2026-04-23",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2016-10-19_interpol-int_global-airport-action-day-targets-airline-ticket-fraudsters.md",
       "meta": {}
     },
@@ -14023,7 +14079,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/sources/2016-10-20_interpol-int_global-airport-action-day-40-countries-nab-193-suspects-in-cybercrime-sting.md",
       "meta": {}
     },
@@ -14107,7 +14163,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/sources/2016-12-20_dct_odufuye-nwoke-bec-indictment.md",
       "meta": {}
     },
@@ -14121,7 +14177,7 @@
       "source_count": 0,
       "created": "2026-04-22",
       "updated": null,
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/sources/2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme.md",
       "meta": {}
     },
@@ -14191,7 +14247,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht.md",
       "meta": {}
     },
@@ -14261,7 +14317,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2017-07-20_edca_cazes-alphabay-indictment.md",
       "meta": {}
     },
@@ -14275,7 +14331,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/sources/2017-07-24_edca_almashwali-alphabay-sentencing.md",
       "meta": {}
     },
@@ -14373,7 +14429,7 @@
       "source_count": 0,
       "created": "2026-04-23",
       "updated": null,
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/sources/2017-12-20_portswigger-daily-swig_arrests-made-in-connection-with-ctb-locker-cerber-ransomware.md",
       "meta": {}
     },
@@ -14457,7 +14513,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain.md",
       "meta": {}
     },
@@ -14485,7 +14541,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand.md",
       "meta": {}
     },
@@ -14597,7 +14653,7 @@
       "source_count": 0,
       "created": "2026-04-18",
       "updated": null,
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/sources/2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies.md",
       "meta": {}
     },
@@ -14611,7 +14667,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/sources/2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation.md",
       "meta": {}
     },
@@ -14639,7 +14695,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 17,
+      "degree": 18,
       "path": "wiki/sources/2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie.md",
       "meta": {}
     },
@@ -14653,7 +14709,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced.md",
       "meta": {}
     },
@@ -14667,7 +14723,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2019-07-25_sdny_gary-davis-silk-road-sentencing.md",
       "meta": {}
     },
@@ -14849,7 +14905,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/sources/2019-12-01_portswigger-net_imminent-monitor-spyware-operation-undone-by-opsec-mistakes.md",
       "meta": {}
     },
@@ -14905,7 +14961,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/sources/2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud.md",
       "meta": {}
     },
@@ -14947,7 +15003,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2019-12-05_wdpa_yakubets-turashev-dridex-indictment.md",
       "meta": {}
     },
@@ -15045,7 +15101,7 @@
       "source_count": 0,
       "created": "2026-04-23",
       "updated": null,
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/sources/2020-01-27_group-ib_night-fury.md",
       "meta": {}
     },
@@ -15157,7 +15213,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/sources/2020-09-01_edca_herrell-alphabay-sentencing.md",
       "meta": {}
     },
@@ -15227,7 +15283,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/sources/2020-10-15_wdpa_nazarovi-qqaazz-indictment.md",
       "meta": {}
     },
@@ -15451,7 +15507,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2020-12-22_portswigger-net_safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust.md",
       "meta": {}
     },
@@ -15591,7 +15647,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/sources/2021-01-27_mdnc_emotet-disruption-order.md",
       "meta": {}
     },
@@ -15605,7 +15661,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/sources/2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks.md",
       "meta": {}
     },
@@ -15675,7 +15731,7 @@
       "source_count": 0,
       "created": "2026-04-18",
       "updated": "2026-04-18",
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/sources/2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group.md",
       "meta": {}
     },
@@ -16011,7 +16067,7 @@
       "source_count": 0,
       "created": "2026-04-23",
       "updated": "2026-04-23",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/sources/2021-11-26_interpol-int_more-than-1000-arrests-and-usd-27-million-intercepted-in-massive-financial-crime-crackdown.md",
       "meta": {}
     },
@@ -16137,7 +16193,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk.md",
       "meta": {}
     },
@@ -16165,7 +16221,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2022-03-22_edtx_marketplace-a-dekhtyarchuk-indictment.md",
       "meta": {}
     },
@@ -16431,7 +16487,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2022-11-24_thehackernews-com_interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown.md",
       "meta": {}
     },
@@ -16529,7 +16585,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2023-02-08_europol_franco-israeli-ceo-fraud-bust.md",
       "meta": {}
     },
@@ -16613,7 +16669,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/sources/2023-03-27_doj_okpe-obogo-bec-sentencing.md",
       "meta": {}
     },
@@ -16627,7 +16683,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo.md",
       "meta": {}
     },
@@ -16697,7 +16753,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/2023-06-06-interpol-operation-jackal.md",
       "meta": {}
     },
@@ -16711,7 +16767,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2023-06-06_interpol_operation-jackal-black-axe-bec.md",
       "meta": {}
     },
@@ -16865,7 +16921,7 @@
       "source_count": 0,
       "created": "2026-04-18",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2023-08-18_interpol_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-operation.md",
       "meta": {}
     },
@@ -16893,7 +16949,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/sources/2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol.md",
       "meta": {}
     },
@@ -17117,7 +17173,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 14,
+      "degree": 15,
       "path": "wiki/sources/2023-12-19-interpol-operation-haechi-iv.md",
       "meta": {}
     },
@@ -17243,7 +17299,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.md",
       "meta": {}
     },
@@ -17257,7 +17313,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2024-01-04_mdfl_adafin-xdedic-summary.md",
       "meta": {}
     },
@@ -17271,7 +17327,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2024-01-04_mdfl_kharmanskyi-xdedic-summary.md",
       "meta": {}
     },
@@ -17285,7 +17341,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2024-01-04_mdfl_mckinzie-xdedic-summary.md",
       "meta": {}
     },
@@ -17299,7 +17355,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2024-01-04_mdfl_ogunlana-xdedic-summary.md",
       "meta": {}
     },
@@ -17313,7 +17369,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2024-01-04_mdfl_oyebanjo-xdedic-summary.md",
       "meta": {}
     },
@@ -17327,7 +17383,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2024-01-04_mdfl_spencer-xdedic-summary.md",
       "meta": {}
     },
@@ -17341,7 +17397,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2024-01-04_mdfl_taylor-xdedic-summary.md",
       "meta": {}
     },
@@ -17355,7 +17411,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2024-01-26_opa_banmeet-singh-dark-web-vendor-plea.md",
       "meta": {}
     },
@@ -17369,7 +17425,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 18,
+      "degree": 19,
       "path": "wiki/sources/2024-02-20-europol-operation-cronos-lockbit.md",
       "meta": {}
     },
@@ -17383,7 +17439,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2024-02-20_europol_operation-cronos-lockbit.md",
       "meta": {}
     },
@@ -17537,7 +17593,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet.md",
       "meta": {}
     },
@@ -17551,7 +17607,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2024-05-29_opa_yunhe-wang-911-s5-indictment.md",
       "meta": {}
     },
@@ -17565,7 +17621,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 17,
+      "degree": 18,
       "path": "wiki/sources/2024-05-30-europol-operation-endgame-botnet-takedown.md",
       "meta": {}
     },
@@ -17593,7 +17649,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame.md",
       "meta": {}
     },
@@ -17705,7 +17761,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 15,
+      "degree": 16,
       "path": "wiki/sources/2024-06-18-interpol-operation-first-light-2024.md",
       "meta": {}
     },
@@ -17775,7 +17831,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2024-07-15_cdca_miller-poweroff-sentencing.md",
       "meta": {}
     },
@@ -17915,7 +17971,7 @@
       "source_count": 0,
       "created": "2026-04-22",
       "updated": null,
-      "degree": 15,
+      "degree": 16,
       "path": "wiki/sources/2024-08-07_justice-gov_xdedic-marketplace-victim-services-case-summary.md",
       "meta": {}
     },
@@ -17929,7 +17985,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2024-08-07_mdfl_mcneely-xdedic-summary.md",
       "meta": {}
     },
@@ -17943,7 +17999,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/2024-08-28-interpol-operation-jackal-iii.md",
       "meta": {}
     },
@@ -17957,7 +18013,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2024-08-28_interpol_operation-jackal-iii-black-axe.md",
       "meta": {}
     },
@@ -18069,7 +18125,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america.md",
       "meta": {}
     },
@@ -18139,7 +18195,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 18,
+      "degree": 19,
       "path": "wiki/sources/2024-10-01-europol-operation-cronos-lockbit-phase3.md",
       "meta": {}
     },
@@ -18153,7 +18209,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2024-10-01_europol-europa-eu_operation-cronos-phase-3.md",
       "meta": {}
     },
@@ -18265,7 +18321,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/sources/2024-10-15_interpol-int_operation-orion-international.md",
       "meta": {}
     },
@@ -18279,7 +18335,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/2024-10-15_interpol_operation-orion-international-south-america-csam.md",
       "meta": {}
     },
@@ -18321,7 +18377,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/sources/2024-11-06-interpol-operation-synergia-ii.md",
       "meta": {}
     },
@@ -18363,7 +18419,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 14,
+      "degree": 15,
       "path": "wiki/sources/2024-11-26-interpol-operation-serengeti.md",
       "meta": {}
     },
@@ -18475,7 +18531,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/sources/2024-12-02-interpol-operation-haechi-v.md",
       "meta": {}
     },
@@ -19063,7 +19119,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 18,
+      "degree": 19,
       "path": "wiki/sources/2025-02-11-europol-phobos-8base-ransomware-arrests.md",
       "meta": {}
     },
@@ -19091,7 +19147,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2025-02-11_europol_phobos-8base-ransomware-arrests.md",
       "meta": {}
     },
@@ -19147,7 +19203,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-18",
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/sources/2025-03-05-doj-isoon-chinese-hackers-charges.md",
       "meta": {}
     },
@@ -19217,7 +19273,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/sources/2025-03-24-africanews-operation-red-card.md",
       "meta": {}
     },
@@ -19245,7 +19301,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/sources/2025-03-24_africanews-com_cybercrime-crackdown-306-arrested-in-africa-wide-operation.md",
       "meta": {}
     },
@@ -19385,7 +19441,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/sources/2025-04-04-europol-operation-stream-kidflix.md",
       "meta": {}
     },
@@ -19469,7 +19525,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well.md",
       "meta": {}
     },
@@ -19483,7 +19539,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 1,
+      "degree": 2,
       "path": "wiki/sources/2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and.md",
       "meta": {}
     },
@@ -19609,7 +19665,7 @@
       "source_count": 0,
       "created": "2026-04-19",
       "updated": "2026-04-18",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/sources/2025-05-21_justice-gov_lumma-stealer-domain-seizures.md",
       "meta": {}
     },
@@ -19665,7 +19721,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2025-05-22_cdca_qakbot-gallyamov-indictment.md",
       "meta": {}
     },
@@ -19679,7 +19735,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/sources/2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns.md",
       "meta": {}
     },
@@ -19763,7 +19819,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 16,
+      "degree": 17,
       "path": "wiki/sources/2025-05-23-europol-operation-endgame-phase2.md",
       "meta": {}
     },
@@ -19777,7 +19833,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2025-05-23_doj_danabot-indictment.md",
       "meta": {}
     },
@@ -19819,7 +19875,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/sources/2025-05-28-thehackernews-danabot-malware.md",
       "meta": {}
     },
@@ -19945,7 +20001,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 2,
+      "degree": 3,
       "path": "wiki/sources/2025-06-25_eurojust-europa-eu_large-scale-fraud-using-trusted-online-seller-accounts-uncovered.md",
       "meta": {}
     },
@@ -20127,7 +20183,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-18",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/2025-08-11-doj-blacksuit-royal-ransomware-takedown.md",
       "meta": {}
     },
@@ -20267,7 +20323,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 15,
+      "degree": 16,
       "path": "wiki/sources/2025-09-25-interpol-operation-haechi-vi.md",
       "meta": {}
     },
@@ -20393,7 +20449,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/sources/2025-10-18-korea-cambodia-scam-repatriation.md",
       "meta": {}
     },
@@ -20423,6 +20479,48 @@
       "updated": null,
       "degree": 2,
       "path": "wiki/sources/2025-10-21_yna_co_kr_arrest-warrants-issued-for-48-suspects-brought-from-cambodia.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-10-22_defenceweb_operation-catalyst-terrorism-financing",
+      "type": "source",
+      "title": "Landmark African operation against terrorism financing nets 83 arrests",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DefenceWeb provides independent regional media confirmation for Operation Catalyst. It confirms the six named countries, July to September 2025 timeframe, INTERPOL-AFRIPOL coordination, 83 arrests, cyber-enabled scam arrests,…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2025-10-22_defenceweb_operation-catalyst-terrorism-financing.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-10-22_interpol_operation-catalyst-terrorism-financing",
+      "type": "source",
+      "title": "83 arrests in landmark African operation against terrorism financing",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INTERPOL's official release is the anchor source for Operation Catalyst. It confirms the July to September 2025 operational window, INTERPOL-AFRIPOL coordination, six-country participation list, arrests, screened entities, funds…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2025-10-22_interpol_operation-catalyst-terrorism-financing.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-10-28_hstoday_operation-catalyst-africa-terrorism-financing",
+      "type": "source",
+      "title": "83 Arrests in Landmark African Operation Against Terrorism Financing, INTERPOL Says",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Homeland Security Today provides independent media confirmation for Operation Catalyst. It reports the operation name, six-country coordination by INTERPOL and AFRIPOL, arrest totals, cyber-enabled scams, illicit virtual-asset…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2025-10-28_hstoday_operation-catalyst-africa-terrorism-financing.md",
       "meta": {}
     },
     {
@@ -20673,7 +20771,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": null,
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/2025-12-22-interpol-operation-sentinel-africa.md",
       "meta": {}
     },
@@ -20841,7 +20939,7 @@
       "source_count": 0,
       "created": "2026-04-14",
       "updated": null,
-      "degree": 16,
+      "degree": 17,
       "path": "wiki/sources/2026-03-11-eurojust-de-fr-online-fraud-group.md",
       "meta": {}
     },
@@ -20911,7 +21009,7 @@
       "source_count": 0,
       "created": "2026-04-14",
       "updated": "2026-04-27",
-      "degree": 24,
+      "degree": 25,
       "path": "wiki/sources/2026-03-12-eurojust-proxy-service-takedown.md",
       "meta": {}
     },
@@ -21121,7 +21219,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-04-18",
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/sources/2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes.md",
       "meta": {}
     },
@@ -21373,7 +21471,7 @@
       "source_count": 0,
       "created": "2026-04-18",
       "updated": "2026-04-18",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/sources/2026-04-18_justice-gov_phobos-ransomware-affiliates-arrested-coordinated-international-disruption.md",
       "meta": {}
     },
@@ -21527,7 +21625,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-10",
-      "degree": 19,
+      "degree": 20,
       "path": "wiki/sources/cbs-news-infraud-organization-takedown.md",
       "meta": {}
     },
@@ -21555,7 +21653,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-10",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/sources/cyberscoop-operation-delilah-silverterrier-bec.md",
       "meta": {}
     },
@@ -21681,7 +21779,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-10",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/europol-operation-secreto.md",
       "meta": {}
     },
@@ -21709,7 +21807,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-10",
-      "degree": 16,
+      "degree": 17,
       "path": "wiki/sources/europol-rex-mundi-hacking-group-takedown.md",
       "meta": {}
     },
@@ -21737,7 +21835,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-10",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/fbi-fin7-cybercrime-group-takedown.md",
       "meta": {}
     },
@@ -21793,7 +21891,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-10",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/group-ib-operation-nightfury-magecartgetbilling.md",
       "meta": {}
     },
@@ -21849,7 +21947,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-18",
-      "degree": 21,
+      "degree": 22,
       "path": "wiki/sources/interpol-operation-killer-bee.md",
       "meta": {}
     },
@@ -21891,7 +21989,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/sources/portswigger-911-s5-botnet-dismantling.md",
       "meta": {}
     },
@@ -21919,7 +22017,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-10",
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/sources/the-hacker-news-operation-endgame-phase-2-ransomware-kill-chain-disrup.md",
       "meta": {}
     },
@@ -21933,7 +22031,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-04-10",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/sources/the-hacker-news-operation-haechi-ii.md",
       "meta": {}
     },
@@ -46604,6 +46702,630 @@
       "directed": false
     },
     {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2017-12-20_portswigger-daily-swig_arrests-made-in-connection-with-ctb-locker-cerber-ransomware",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2019-12-01_portswigger-net_imminent-monitor-spyware-operation-undone-by-opsec-mistakes",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2020-12-22_portswigger-net_safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "portswigger-911-s5-botnet-dismantling",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2021-11-26_interpol-int_more-than-1000-arrests-and-usd-27-million-intercepted-in-massive-financial-crime-crackdown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2016-10-19_interpol-int_global-airport-action-day-targets-airline-ticket-fraudsters",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2016-10-20_interpol-int_global-airport-action-day-40-countries-nab-193-suspects-in-cybercrime-sting",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-01-04_mdfl_adafin-xdedic-summary",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-01-04_mdfl_kharmanskyi-xdedic-summary",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-01-04_mdfl_mckinzie-xdedic-summary",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-01-04_mdfl_ogunlana-xdedic-summary",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-01-04_mdfl_oyebanjo-xdedic-summary",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-01-04_mdfl_spencer-xdedic-summary",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-01-04_mdfl_taylor-xdedic-summary",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-05-22_cdca_qakbot-gallyamov-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-05-23_doj_danabot-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-03-05-doj-isoon-chinese-hackers-charges",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-05-30-europol-operation-endgame-botnet-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-02-11-europol-phobos-8base-ransomware-arrests",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-02-11_europol_phobos-8base-ransomware-arrests",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-10-01-europol-operation-cronos-lockbit-phase3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-10-01_europol-europa-eu_operation-cronos-phase-3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2023-06-06-interpol-operation-jackal",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2023-06-06_interpol_operation-jackal-black-axe-bec",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2023-12-19-interpol-operation-haechi-iv",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-12-22-interpol-operation-sentinel-africa",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-05-29_opa_yunhe-wang-911-s5-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2019-07-25_sdny_gary-davis-silk-road-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-05-28-thehackernews-danabot-malware",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "the-hacker-news-operation-endgame-phase-2-ransomware-kill-chain-disrup",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2023-02-08_europol_franco-israeli-ceo-fraud-bust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-02-20-europol-operation-cronos-lockbit",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-02-20_europol_operation-cronos-lockbit",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-05-23-europol-operation-endgame-phase2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "fbi-fin7-cybercrime-group-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-11-06-interpol-operation-synergia-ii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-12-02-interpol-operation-haechi-v",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-06-18-interpol-operation-first-light-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2023-08-18_interpol_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-operation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-10-15_interpol-int_operation-orion-international",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-10-15_interpol_operation-orion-international-south-america-csam",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-08-28-interpol-operation-jackal-iii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-08-28_interpol_operation-jackal-iii-black-axe",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-11-26-interpol-operation-serengeti",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-09-25-interpol-operation-haechi-vi",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2021-01-27_mdnc_emotet-disruption-order",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2019-12-05_wdpa_yakubets-turashev-dridex-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-08-11-doj-blacksuit-royal-ransomware-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2015-07-15_wdpa_darkode-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2016-12-20_dct_odufuye-nwoke-bec-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2022-03-22_edtx_marketplace-a-dekhtyarchuk-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-08-07_justice-gov_xdedic-marketplace-victim-services-case-summary",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-08-07_mdfl_mcneely-xdedic-summary",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2015-10-13_wdpa_ghinkul-bugat-dridex-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2020-10-15_wdpa_nazarovi-qqaazz-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "cyberscoop-operation-delilah-silverterrier-bec",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-04-04-europol-operation-stream-kidflix",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2022-11-24_thehackernews-com_interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "the-hacker-news-operation-haechi-ii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-03-24-africanews-operation-red-card",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-03-24_africanews-com_cybercrime-crackdown-306-arrested-in-africa-wide-operation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-10-18-korea-cambodia-scam-repatriation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "cbs-news-infraud-organization-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2026-03-11-eurojust-de-fr-online-fraud-group",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-06-25_eurojust-europa-eu_large-scale-fraud-using-trusted-online-seller-accounts-uncovered",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2026-03-12-eurojust-proxy-service-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "europol-operation-secreto",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "europol-rex-mundi-hacking-group-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2015-10-13_fbi-gov_bugat-botnet-administrator-arrested-and-malware-disabled",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2020-01-27_group-ib_night-fury",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "group-ib-operation-nightfury-magecartgetbilling",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "interpol-operation-killer-bee",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-01-26_opa_banmeet-singh-dark-web-vendor-plea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2023-03-27_doj_okpe-obogo-bec-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2025-05-21_justice-gov_lumma-stealer-domain-seizures",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2026-04-18_justice-gov_phobos-ransomware-affiliates-arrested-coordinated-international-disruption",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2017-07-20_edca_cazes-alphabay-indictment",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2020-09-01_edca_herrell-alphabay-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2017-07-24_edca_almashwali-alphabay-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "source-duplicate-normalization-2026-04-26",
       "target": "2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th",
       "kind": "body",
@@ -57016,6 +57738,12 @@
     {
       "source": "south-korea",
       "target": "korea-cambodia-scam-repatriation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "south-sudan",
+      "target": "operation-catalyst",
       "kind": "body",
       "directed": false
     },
@@ -67646,6 +68374,144 @@
       "directed": false
     },
     {
+      "source": "operation-catalyst",
+      "target": "interpol-igci",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "money-laundering-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "interpol-igci",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "informal-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "cryptocurrency-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "asset-recovery",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "interpol-igci",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "afripol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "angola",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "cameroon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "kenya",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "namibia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "nigeria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "south-sudan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "operation-sentinel-africa",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "operation-red-card-2",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "operation-serengeti-2",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "operation-sentinel-africa",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "operation-red-card-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-catalyst",
+      "target": "operation-serengeti-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-chakra-ii",
       "target": "cbi-india",
       "kind": "coordinating_body",
@@ -77265,6 +78131,12 @@
     },
     {
       "source": "operation-sentinel-africa",
+      "target": "south-sudan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-sentinel-africa",
       "target": "uganda",
       "kind": "participating_countries",
       "directed": true
@@ -82815,6 +83687,12 @@
     },
     {
       "source": "afripol",
+      "target": "operation-catalyst",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "afripol",
       "target": "african-union",
       "kind": "parent_org",
       "directed": true
@@ -86728,6 +87606,12 @@
     {
       "source": "interpol-igci",
       "target": "operation-red-card-2",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol-igci",
+      "target": "operation-catalyst",
       "kind": "operations_participated",
       "directed": true
     },
@@ -97138,6 +98022,42 @@
     {
       "source": "2025-10-21_yna_co_kr_arrest-warrants-issued-for-48-suspects-brought-from-cambodia",
       "target": "korea-cambodia-scam-repatriation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-10-22_defenceweb_operation-catalyst-terrorism-financing",
+      "target": "operation-catalyst",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-10-22_defenceweb_operation-catalyst-terrorism-financing",
+      "target": "operation-catalyst",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-10-22_interpol_operation-catalyst-terrorism-financing",
+      "target": "operation-catalyst",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-10-22_interpol_operation-catalyst-terrorism-financing",
+      "target": "operation-catalyst",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-10-28_hstoday_operation-catalyst-africa-terrorism-financing",
+      "target": "operation-catalyst",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-10-28_hstoday_operation-catalyst-africa-terrorism-financing",
+      "target": "operation-catalyst",
       "kind": "body",
       "directed": false
     },

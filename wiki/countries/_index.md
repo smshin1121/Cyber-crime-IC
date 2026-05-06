@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (119)
+# Countries (120)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -95,6 +95,7 @@ total: 61
 | 🇸🇬 | [[singapore]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇮 | [[slovenia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇷 | [[suriname]] | not-assessed | — | unknown | unknown | 0 |
+| 🇸🇸 | [[south-sudan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇹🇬 | [[togo]] | civil-law | non-party | low | unknown | 3 |
 | 🇹🇭 | [[thailand]] | civil-law | non-party | medium | unknown | 3 |
 | 🇹🇷 | [[turkey]] | not-assessed | — | unknown | unknown | 0 |
