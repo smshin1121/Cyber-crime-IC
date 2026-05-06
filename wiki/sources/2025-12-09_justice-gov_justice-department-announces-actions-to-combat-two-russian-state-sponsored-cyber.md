@@ -12,9 +12,12 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - operation-eastwood
   - operation-us-v-victoria-eduardovna-dubranova
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-victoria-eduardovna-dubranova. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "DOJ describes U.S. Operation Red Circus as coordinated with Europol's Operation Eastwood against NoName057(16)."
+  - "The release states that law enforcement in 19 countries disrupted more than 100 servers in July 2025."
+  - "The defendant-specific U.S. matter remains linked to operation-us-v-victoria-eduardovna-dubranova, while the operation-level international disruption is linked to operation-eastwood."
 collection_url: https://www.justice.gov/usao-cdca/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal
 created: 2026-04-17
 text_status: parsed
@@ -25,8 +28,10 @@ last_fetcher: doj_fetch
 ---
 ## Source Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-victoria-eduardovna-dubranova]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+This DOJ release supports two related records. It remains the source for the defendant-specific U.S. matter [[operation-us-v-victoria-eduardovna-dubranova]], and it also corroborates [[operation-eastwood|Operation Eastwood]] by describing U.S. Operation Red Circus as coordinated with Europol's Operation Eastwood against NoName057(16).
+
+The release states that law enforcement in 19 countries disrupted more than 100 servers in July 2025. That language supports the operation-level international-cooperation classification for Eastwood; the U.S. charging matter remains a narrower defendant-specific follow-on record.
 
 ## Relevance to IC
 
-The source supports [[operation-us-v-victoria-eduardovna-dubranova]] in the `operations` corpus.
+The source supports [[operation-eastwood]] and [[operation-us-v-victoria-eduardovna-dubranova]] in the `operations` corpus.

@@ -1,34 +1,37 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 country: "[[switzerland]]"
-jurisdiction: [[switzerland]]
+jurisdiction:
+  -
+    - switzerland
 created: 2026-04-10
 established: 2000-07-01
 headquarters: "Bern, Switzerland"
 key_roles:
-  []
+
 last_verified: 2026-04-10
 mandate: "Swiss federal law enforcement agency responsible for coordination between"
 notable_cases:
-  []
+
 official_name: "Bundesamt für Polizei / Office fédéral de la police / Ufficio federale"
 operations_participated:
   - "[[operation-cronos-phase1]]"
   - "[[operation-cronos-phase3]]"
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
+  - "[[operation-eastwood]]"
 org_type: national-agency
 parent_org: "Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-"
 source_count: 4
 sources:
-  []
+
 status: active
 title: "Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

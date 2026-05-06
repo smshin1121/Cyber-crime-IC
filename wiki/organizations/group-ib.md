@@ -1,7 +1,7 @@
 ---
 created: 2026-04-10
 last_verified: 2026-04-29
-official_name: "Group-IB"
+official_name: Group-IB
 operations_participated:
   - "[[carding-action-2020]]"
   - "[[operation-delilah]]"
@@ -9,8 +9,11 @@ operations_participated:
   - "[[operation-lyrebird]]"
   - "[[operation-secure-interpol]]"
   - "[[operation-synergia-ii]]"
+  - "[[operation-contender-3]]"
+  - "[[operation-serengeti-2]]"
+  - "[[operation-synergia-iii]]"
 org_type: private-sector-partner
-jurisdiction: "private-sector"
+jurisdiction: private-sector
 key_roles:
   - "Private-sector threat-intelligence and cybercrime investigation partner."
   - "Provides telemetry, attribution support, and investigative leads to INTERPOL and national law-enforcement operations."
@@ -26,9 +29,9 @@ sources:
   - "[[group-ib-operation-lyrebird]]"
   - "[[2024-11-06_group-ib-com_group-ib-supports-interpol-operation-synergia-ii]]"
 status: active
-title: "Group-IB"
+title: Group-IB
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

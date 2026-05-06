@@ -1,26 +1,33 @@
 ---
 aliases:
   - "Valsts policija"
-contact_point_for: []
+contact_point_for:
+  []
 cooperation_partners:
   - "[[cert-lv]]"
   - "[[europol-ec3]]"
 country: "[[latvia]]"
-jurisdiction: [[latvia]]
+jurisdiction:
+  -
+    - latvia
 created: 2026-04-10
 established: ""
-frameworks_administered: []
-headquarters: "Latvia"
+frameworks_administered:
+  []
+headquarters: Latvia
 key_roles:
   - "Latvian state police cybercrime investigation context."
   - "Law-enforcement counterpart to [[cert-lv]] for cybercrime cases."
 last_verified: 2026-04-29
 mandate: "Latvian state police cybercrime investigation division within the Economic Crimes Enforcement Department."
-mechanisms_operated: []
-notable_cases: []
+mechanisms_operated:
+  []
+notable_cases:
+  []
 official_name: "Valsts policija"
 operations_participated:
   - "[[vpnlab-takedown]]"
+  - "[[operation-eastwood]]"
 org_type: national-unit
 parent_org: ""
 source_count: 3
@@ -31,7 +38,7 @@ sources:
 status: active
 title: "Latvia State Police"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

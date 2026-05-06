@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (605)
+# Sources (621)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -22,8 +22,12 @@ updated: 2026-04-14
 | [[2026-04-17_en-wikipedia-org_operation-poweroff]] | press-release | Wikipedia | ? | medium | ? |
 | [[2026-04-17_en-wikipedia-org_operation-onymous]] | press-release | Wikipedia | ? | medium | ? |
 | [[2026-04-01_interpol-int_support-for-afripol-operation-first-light]] | institutional-page | INTERPOL | ? | high | ? |
+| [[2026-03-16_helpnetsecurity_interpol-operation-synergia-iii-cybercrime-infrastructure-takedown]] | news | Help Net Security | ? | medium | ? |
 | [[2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces]] | news | TechRadar | ? | medium | ? |
+| [[2026-03-13_interpol_synergia-iii-45000-malicious-ip-addresses]] | press-release | INTERPOL | ? | high | ? |
+| [[2026-03-13_group-ib_interpol-operation-synergia-3]] | press-release | Group-IB | ? | high | ? |
 | [[2026-03-13_cyberscoop-com_socksescort-proxy-network-botnet-takedown]] | news | CyberScoop | ? | medium | ? |
+| [[2026-03-13_cybernews_interpol-takes-down-45000-malicious-websites]] | news | Cybernews | ? | medium | ? |
 | [[2026-03-13_cybernews-com_major-residential-proxy-service-socksescort-down]] | news | Cybernews | ? | medium | ? |
 | [[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]] | press-release | US DOJ USAO EDCA | 1 | high | ? |
 | [[2026-03-12_fbi-gov_avrecon-malware-infected-routers-exploited-as-residential-proxies-by-socksescort]] | threat-advisory | Federal Bureau of Investigation | 1 | high | ? |
@@ -42,6 +46,7 @@ updated: 2026-04-14
 | [[2025-12-22_eurojusts-cross-border-investigations-2025_credit-card-fraud-roundup]] | report | Eurojust | ? | high | ? |
 | [[2025-12-22-interpol-operation-sentinel-africa]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-12-09_koreatimes-co-kr_trial-begins-for-46-suspects-accused-of-involvement-in-online-scams-in-cambodia]] | news | The Korea Times | ? | medium | ? |
+| [[2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion]] | news | TechRadar | ? | medium | ? |
 | [[2025-12-01_police-gov-sg_cad-report-2024-operation-first-light]] | government-report | Singapore Police Force Commercial Affairs Department | ? | high | ? |
 | [[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]] | news | heise online | ? | medium | ? |
@@ -60,7 +65,11 @@ updated: 2026-04-14
 | [[2025-10-21_yna_co_kr_arrest-warrants-issued-for-48-suspects-brought-from-cambodia]] | news | Yonhap News Agency | ? | medium | ? |
 | [[2025-10-20_koreatimes-co-kr_police-seek-arrest-warrants-for-58-scam-suspects-brought-from-cambodia]] | news | The Korea Times | ? | medium | ? |
 | [[2025-10-18-korea-cambodia-scam-repatriation]] | news | Al Jazeera / France24 / Korea Herald | ? | medium | ? |
+| [[2025-09-29_cyberscoop_interpol-operation-contender-3-africa]] | news | CyberScoop | ? | medium | ? |
 | [[2025-09-27_dailysecurityreview_operation-haechi-vi-record-recovery]] | news | Daily Security Review | ? | medium | ? |
+| [[2025-09-26_interpol_operation-contender-3-pan-african-cybercrime]] | press-release | INTERPOL | ? | high | ? |
+| [[2025-09-26_group-ib_operation-contender3]] | press-release | Group-IB | ? | high | ? |
+| [[2025-09-26_defenceweb_pan-african-cybercrime-operation-contender-3]] | news | defenceWeb | ? | medium | ? |
 | [[2025-09-26_comsuregroup_operation-haechi-vi-439m-recovered]] | news | Comsure Group | ? | medium | ? |
 | [[2025-09-25_maldivespolice-gov-mv_interpol-operation-haechi-vi-recovery-and-arrest-update]] | press-release | Maldives Police Service | ? | medium | ? |
 | [[2025-09-25_interpol-es_usd-439-million-recovered-in-global-financial-crime-operation-haechi-vi]] | press-release | INTERPOL | ? | high | ? |
@@ -70,11 +79,18 @@ updated: 2026-04-14
 | [[2025-09-23_decripto-org_eurojust-dismantles-eur-100-million-crypto-scam-five-arrests-and-seizures]] | news | Decripto | ? | medium | ? |
 | [[2025-09-23_721news-com_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 721news | ? | medium | ? |
 | [[2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 112WWFT | ? | medium | ? |
+| [[2025-08-22_kaspersky_serengeti-20-interpol-led-action]] | press-release | Kaspersky | ? | high | ? |
+| [[2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks]] | press-release | INTERPOL | ? | high | ? |
+| [[2025-08-22_group-ib_operation-serengeti-2-0]] | press-release | Group-IB | ? | high | ? |
+| [[2025-08-22_cyberscoop_interpol-operation-serengeti-2-africa]] | news | CyberScoop | ? | medium | ? |
 | [[2025-08-11-doj-blacksuit-royal-ransomware-takedown]] | press-release | US Department of Justice | ? | high | ? |
 | [[2025-07-28_techradar-com_top-ransomware-group-blacksuit-has-dark-web-extortion-sites-seized-and-shut-down]] | news | TechRadar | 3 | medium | ? |
 | [[2025-07-25_scworld-com_operation-checkmate-shuts-down-blacksuits-extortion-sites]] | news | SC Media | 3 | medium | ? |
 | [[2025-07-25_bitdefender-com_after-500-million-in-ransom-demands-law-enforcement-seizes-blacksuit-site]] | news | Bitdefender | 3 | medium | ? |
 | [[2025-07-24_bleepingcomputer-com_law-enforcement-seizes-blacksuit-ransomware-leak-sites]] | news | BleepingComputer | 3 | medium-high | ? |
+| [[2025-07-16_polizei-sachsen_operation-eastwood]] | press-release | Polizei Sachsen / German Federal Criminal Police Office | ? | high | ? |
+| [[2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down]] | press-release | Eurojust | ? | high | ? |
+| [[2025-07-16_cyberscoop_noname05716-disruption-operation-eastwood-europol]] | news | CyberScoop | ? | medium | ? |
 | [[2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme]] | press-release | Internal Revenue Service (Criminal Investigation) | ? | high | ? |
 | [[2025-06-27_immuniweb-com_cybercrime-investigations-weekly-trusted-seller-fraud]] | news | ImmuniWeb | ? | medium | ? |
 | [[2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts]] | report | INSIGHT EU Monitoring | ? | medium | ? |

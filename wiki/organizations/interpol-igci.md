@@ -6,7 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: ""
-jurisdiction: "international"
+jurisdiction: international
 created: 2026-04-08
 established: 2015
 frameworks_administered:
@@ -39,6 +39,9 @@ operations_participated:
   - "[[operation-red-card]]"
   - "[[operation-secure-interpol]]"
   - "[[operation-synergia-ii]]"
+  - "[[operation-contender-3]]"
+  - "[[operation-serengeti-2]]"
+  - "[[operation-synergia-iii]]"
 org_type: international-org
 parent_org: "[[interpol]]"
 source_count: 11
@@ -47,7 +50,7 @@ sources:
 status: active
 title: "INTERPOL Global Complex for Innovation (IGCI)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 > [!info] Updated 2026-04-08
 > Added 6 new operations: Jackal, Jackal III, First Light 2024, HAECHI IV, HAECHI VI, Sentinel Africa.

@@ -15,10 +15,10 @@ The project goal is to build a source-grounded, SNA-ready knowledge base on publ
 
 ## Executive Summary
 
-International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **114 canonical operations** spanning 2014-2026. It also retains 27 absorbed follow-on records for prosecution, sentencing, forfeiture, plea, and action-day traceability; those follow-on records are not counted as separate IC operations in the statistics below.
+International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **118 canonical operations** spanning 2014-2026. It also retains 27 absorbed follow-on records for prosecution, sentencing, forfeiture, plea, and action-day traceability; those follow-on records are not counted as separate IC operations in the statistics below.
 
 1. **Europol-coordinated** (42 operations): The largest group by count, including ransomware takedowns (Cronos, Endgame, Phobos), botnet dismantlings (Avalanche, Andromeda), forum shutdowns (Darkode, Cracked/Nulled), and financial crime operations. Key results from the most-sourced operations include 470+ servers, thousands of domains, and major cryptocurrency seizures.
-2. **INTERPOL-coordinated** (23 operations): Dominant in arrest volume and geographic reach. Operations HAECHI IV/V/VI (combined: 9,000+ arrests, $1.1B+ seized), Jackal/III (~400 arrests targeting Black Axe), First Light 2024 (3,950 arrests, $257M), Serengeti (1,006 arrests), Sentinel (574 arrests), Synergia II (22,800 IPs taken down) across up to 95 countries.
+2. **INTERPOL-coordinated** (26 operations): Dominant in arrest volume and geographic reach. Operations HAECHI IV/V/VI (combined: 9,000+ arrests, $1.1B+ seized), Jackal/III (~400 arrests targeting Black Axe), First Light 2024 (3,950 arrests, $257M), Serengeti (1,006 arrests), Sentinel (574 arrests), Synergia II (22,800 IPs taken down) across up to 95 countries.
 3. **Eurojust-coordinated or Eurojust-supported** (14 operations): Judicial coordination for cross-border European actions, including online fraud, proxy infrastructure, cryptocurrency investment fraud, and laundering networks.
 4. **DOJ/US-led** (13 canonical operations): Targeting ransomware groups, state-sponsored hacking, criminal marketplaces, botnets, and infrastructure. QakBot indictment ($24M+ seized), BlackSuit takedown (4 servers, 9 domains), i-Soon/APT27 charges (12 indicted), Infraud Organization (36 indicted, $530M losses), and 911 S5 Botnet (19M+ IPs) remain canonical US-led records.
 5. **INTERPOL-AFRIPOL joint** (3 operations): Serengeti (1,006 arrests), Sentinel (574 arrests), Red Card (306 arrests) across African nations.
@@ -66,22 +66,22 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 
 | Metric | Value | Period |
 |--------|-------|--------|
-| Canonical operations documented | 114 | 2014-2026 |
+| Canonical operations documented | 118 | 2014-2026 |
 | Absorbed follow-on records | 27 | Retained for traceability |
-| Total operation records | 141 | Canonical + absorbed |
+| Total operation records | 145 | Canonical + absorbed |
 | Period 1 operations | 24 | 2014-2018 |
 | Period 2 operations | 26 | 2019-2022 |
-| Period 3 operations | 64 | 2023-2025 |
+| Period 3 operations | 68 | 2023-2025 |
 | Period 4 operations | 0 | Repository-coded |
 | Operations without period code | 0 | Metadata cleanup queue |
 | Europol-coordinated | 42 | All periods |
-| INTERPOL-coordinated | 23 | All periods |
+| INTERPOL-coordinated | 26 | All periods |
 | DOJ/US-led | 13 | All periods |
-| Total arrests (canonical operations) | 20,604+ | Across canonical operations |
-| Total servers seized | 8,626+ | Primarily Europol operations |
-| Total domains seized | 812,836+ | Canonical operations |
-| Unique participating countries | 153+ | Canonical operations |
-| Sources with dedicated pages | 605 | INTERPOL 43, Europol 42, Eurojust 31, BleepingComputer 20, US DOJ (Middle District of Florida) 19 |
+| Total arrests (canonical operations) | 22,169+ | Across canonical operations |
+| Total servers seized | 8,938+ | Primarily Europol operations |
+| Total domains seized | 869,349+ | Canonical operations |
+| Unique participating countries | 161+ | Canonical operations |
+| Sources with dedicated pages | 621 | INTERPOL 46, Europol 42, Eurojust 32, BleepingComputer 20, US DOJ (Middle District of Florida) 19 |
 | Crime types documented | 25 | All documented types |
 
 ## Recent Activity
@@ -90,7 +90,7 @@ See [[log]] for wiki activity history.
 
 ## References
 
-Operational statistics in this overview aggregate the 114 canonical operation pages. The wiki also retains 27 absorbed follow-on records for traceability, for 141 total operation records, plus 605 source pages. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
+Operational statistics in this overview aggregate the 118 canonical operation pages. The wiki also retains 27 absorbed follow-on records for traceability, for 145 total operation records, plus 621 source pages. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|

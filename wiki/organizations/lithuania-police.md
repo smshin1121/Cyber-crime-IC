@@ -1,32 +1,35 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 country: "[[lithuania]]"
-jurisdiction: [[lithuania]]
+jurisdiction:
+  -
+    - lithuania
 created: 2026-04-10
 established: unknown
 headquarters: "Saltoniškių g. 19, Vilnius 08105, Lithuania"
 key_roles:
-  []
+
 last_verified: 2026-04-10
 mandate: "Central criminal police authority of Lithuania with nationwide (non-territorial)"
 notable_cases:
-  []
+
 official_name: "Lietuvos kriminalinės policijos biuras"
 operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
+  - "[[operation-eastwood]]"
 org_type: national-unit
 parent_org: "Policijos departamentas prie LR VRM (Police Department under the Ministry"
 source_count: 3
 sources:
-  []
+
 status: active
 title: "Lithuanian Criminal Police Bureau — Cybercrime Unit"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

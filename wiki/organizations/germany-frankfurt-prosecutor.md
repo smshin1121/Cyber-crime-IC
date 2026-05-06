@@ -4,7 +4,9 @@ aliases:
 contact_point_for:
 
 country: "[[germany]]"
-jurisdiction: [[germany]]
+jurisdiction:
+  -
+    - germany
 created: 2026-04-10
 established: 2010-01-01
 headquarters: "Frankfurt am Main, Germany"
@@ -19,6 +21,7 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase2]]"
   - "[[nemesis-market-takedown]]"
+  - "[[operation-eastwood]]"
 org_type: prosecution-office
 parent_org: "Generalstaatsanwaltschaft Frankfurt am Main (Hessen)"
 source_count: 3
@@ -27,7 +30,7 @@ sources:
 status: active
 title: "Central Office for Combating Internet Crime (ZIT) — Frankfurt am Main"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

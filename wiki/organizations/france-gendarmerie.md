@@ -1,11 +1,14 @@
 ---
 type: organization
 title: "Centre de lutte contre les criminalités numériques (C3N)"
-aliases: []
+aliases:
+  []
 official_name: "Centre de lutte contre les criminalités numériques"
 official_name_ko: "프랑스 국가헌병대 사이버범죄 대응 센터 (C3N)"
 country: "[[france]]"
-jurisdiction: [[france]]
+jurisdiction:
+  -
+    - france
 org_type: national-unit
 parent_org: "[[france-gendarmerie-nationale]]"
 headquarters: "Pontoise, France"
@@ -19,17 +22,18 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase2]]"
   - "[[operation-kraken-ghost-platform]]"
+  - "[[operation-eastwood]]"
 created: 2026-04-10
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-18
 source_count: 5
 sources:
-  - '[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]]'
-  - '[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels]]'
-  - '[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]'
-  - '[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]'
-  - '[[2019-12-17_legifrance-gouv-fr_circulaire-du-17-d-cembre-2019-relative-la-comp-tence-nationale-concurrente]]'
-  - '[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]'
+  - "[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]]"
+  - "[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels]]"
+  - "[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]"
+  - "[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]"
+  - "[[2019-12-17_legifrance-gouv-fr_circulaire-du-17-d-cembre-2019-relative-la-comp-tence-nationale-concurrente]]"
+  - "[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]"
 ---
 ## Summary
 

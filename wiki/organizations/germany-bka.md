@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[germany]]"
-jurisdiction: [[germany]]
+jurisdiction:
+  -
+    - germany
 created: 2026-04-08
 established: 1951-03-08
 frameworks_administered:
@@ -46,6 +48,7 @@ operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[operation-weleakinfo-com-domain-name-seized]]"
   - "[[operation-morpheus]]"
+  - "[[operation-eastwood]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5
@@ -58,7 +61,7 @@ sources:
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

@@ -3,11 +3,13 @@ type: organization
 title: "Trend Micro"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-29
 org_type: private-cybersecurity-company
 country: "[[japan]]"
-jurisdiction: [[japan]]
+jurisdiction:
+  -
+    - japan
 official_name: "Trend Micro"
 mandate: "Private cybersecurity vendor and threat-intelligence provider supporting public-sector cybercrime operations."
 key_roles:
@@ -20,6 +22,9 @@ operations_participated:
   - "[[operation-delilah]]"
   - "[[operation-secure-interpol]]"
   - "[[operation-synergia-ii]]"
+  - "[[operation-contender-3]]"
+  - "[[operation-serengeti-2]]"
+  - "[[operation-synergia-iii]]"
 cooperation_partners:
   - "[[interpol]]"
   - "[[interpol-igci]]"

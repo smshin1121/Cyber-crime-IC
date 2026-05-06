@@ -30,6 +30,7 @@ operations_participated:
   - "[[simda-botnet-takedown]]"
   - "[[operation-secure-interpol]]"
   - "[[operation-synergia-ii]]"
+  - "[[operation-serengeti-2]]"
 org_type: private-sector
 parent_org: ""
 source_count: 3

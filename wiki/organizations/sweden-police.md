@@ -4,7 +4,9 @@ aliases:
 contact_point_for:
 
 country: "[[sweden]]"
-jurisdiction: [[sweden]]
+jurisdiction:
+  -
+    - sweden
 created: 2026-04-10
 established: 2015-10-01
 headquarters: "Stockholm, Sweden"
@@ -20,6 +22,7 @@ operations_participated:
   - "[[operation-cronos-phase3]]"
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-trojan-shield]]"
+  - "[[operation-eastwood]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
 source_count: 3
@@ -28,7 +31,7 @@ sources:
 status: active
 title: "Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

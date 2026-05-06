@@ -1,19 +1,21 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
   - "[[fbi]]"
   - "[[europol-ec3]]"
   - "[[usdoj]]"
   - "[[german-bka]]"
 country: "[[netherlands]]"
-jurisdiction: [[netherlands]]
+jurisdiction:
+  -
+    - netherlands
 created: 2026-04-17
 established: ""
 frameworks_administered:
-  []
+
 headquarters: Netherlands
 key_roles:
   - "Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles."
@@ -21,14 +23,15 @@ key_roles:
 last_verified: 2026-04-29
 mandate: "Legacy compatibility page for references to Dutch police cybercrime investigators."
 mechanisms_operated:
-  []
+
 member_states: 0
 notable_cases:
-  []
+
 official_name: "Dutch National Police"
 official_name_ko: ""
 operations_participated:
   - "[[hive-ransomware-takedown]]"
+  - "[[operation-eastwood]]"
 org_type: national-agency
 parent_org: "[[netherlands-politie]]"
 source_count: 3
@@ -39,7 +42,7 @@ sources:
 status: active
 title: "Dutch Police"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 coverage_status: audit-normalized
 ---
 ## Summary

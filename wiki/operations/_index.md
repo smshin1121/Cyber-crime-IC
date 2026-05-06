@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (114 canonical / 27 absorbed / 141 records)
+# Operations (118 canonical / 27 absorbed / 145 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (114)
+## Canonical Operations (118)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -107,6 +107,9 @@ updated: 2026-04-14
 | [[lumma-stealer-takedown]] | CYB-2025-012 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-secure-interpol]] | CYB-2025-012 | 3 | completed | umbrella | 3 | 3.45 | 2 |
 | [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | umbrella | 5 | 3.50 | 1 |
+| [[operation-eastwood]] | CYB-2025-014 | 3 | completed | umbrella | 4 | 4.40 | 1 |
+| [[operation-contender-3]] | CYB-2025-015 | 3 | completed | umbrella | 4 | 4.10 | 1 |
+| [[operation-serengeti-2]] | CYB-2025-016 | 3 | completed | umbrella | 4 | 4.35 | 1 |
 | [[operation-chakra-iv]] | CYB-2025-021 | 3 | completed | umbrella | 1 | 2.50 | 3 |
 | [[operation-chakra-v]] | CYB-2025-022 | 3 | completed | umbrella | 1 | 2.60 | 3 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
@@ -115,6 +118,7 @@ updated: 2026-04-14
 | [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | umbrella | 5 | 4.70 | 2 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
+| [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |
 | [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | umbrella | 5 | 4.40 | 2 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |

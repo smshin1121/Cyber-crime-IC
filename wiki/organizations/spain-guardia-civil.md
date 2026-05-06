@@ -4,13 +4,15 @@ title: "Guardia Civil - Grupo de Delitos Telematicos (GDT)"
 official_name: "Grupo de Delitos Telematicos, Guardia Civil"
 official_name_ko: ""
 aliases:
-  []
+
 org_type: national-unit
 status: active
 established: 1997
 parent_org: "[[spain-guardia-civil]]"
 country: "[[spain]]"
-jurisdiction: [[spain]]
+jurisdiction:
+  -
+    - spain
 headquarters: "Madrid, Spain"
 mandate: "Specialized cybercrime investigation unit of the Spanish Guardia Civil."
 member_states: 0
@@ -21,15 +23,16 @@ key_roles:
 cooperation_partners:
   - "[[spain-national-police]]"
 frameworks_administered:
-  []
+
 mechanisms_operated:
-  []
+
 operations_participated:
   - "[[operation-cronos-phase3]]"
   - "[[operation-eur-100m-illegal-financial-service-laundering-2025]]"
   - "[[phobos-8base-crackdown]]"
+  - "[[operation-eastwood]]"
 notable_cases:
-  []
+
 contact_point_for:
   - "[[24-7-network]]"
 source_count: 2
@@ -37,7 +40,7 @@ sources:
   - "[[2026-04-18_guardiacivil-es_gdt]]"
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
 created: 2026-04-10
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-18
 ---
 ## Summary

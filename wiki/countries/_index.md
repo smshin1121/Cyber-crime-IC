@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (111)
+# Countries (119)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -110,15 +110,23 @@ total: 61
 | 🇿🇲 | [[zambia]] | common-law | non-party | low | unknown | 2 |
 |  | [[algeria]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[angola]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[bangladesh]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[brunei]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[burkina-faso]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[chad]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[democratic-republic-of-the-congo]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[gabon]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[guinea]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[macau]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[madagascar]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[maldives]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[mongolia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[mozambique]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[namibia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[new-zealand]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[senegal]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[seychelles]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[sri-lanka]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[tunisia]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[uganda]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[zimbabwe]] | not-assessed | — | unknown | unknown | 0 |

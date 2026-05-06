@@ -3,13 +3,16 @@ type: organization
 title: "Spanish National Police"
 official_name: "Cuerpo Nacional de Policia - Brigada Central de Investigacion Tecnologica"
 official_name_ko: ""
-aliases: []
+aliases:
+  []
 org_type: national-unit
 status: active
 established: ""
 parent_org: ""
 country: "[[spain]]"
-jurisdiction: [[spain]]
+jurisdiction:
+  -
+    - spain
 headquarters: "Madrid, Spain"
 mandate: "National Police cybercrime capability centered on the Brigada Central de Investigacion Tecnologica."
 member_states: 0
@@ -19,13 +22,17 @@ key_roles:
   - "Judicial-police support for online fraud, cyber attacks, and CSAM cases"
 cooperation_partners:
   - "[[spain-guardia-civil]]"
-frameworks_administered: []
-mechanisms_operated: []
+frameworks_administered:
+  []
+mechanisms_operated:
+  []
 operations_participated:
   - "[[operation-eur-100m-crypto-investment-fraud-2025]]"
   - "[[spanish-pay-tv-streaming-network-takedown-2020]]"
   - "[[mobdro-illegal-streaming-takedown-2021]]"
-notable_cases: []
+  - "[[operation-eastwood]]"
+notable_cases:
+  []
 contact_point_for:
   - "[[24-7-network]]"
 source_count: 2
@@ -33,7 +40,7 @@ sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-18_policia-es_bcit]]"
 created: 2026-04-10
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-18
 ---
 ## Summary

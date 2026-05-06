@@ -6,7 +6,7 @@ contact_point_for:
 cooperation_partners:
 
 country: ""
-jurisdiction: "regional"
+jurisdiction: regional
 created: 2026-04-08
 established: 2002-02-28
 frameworks_administered:
@@ -63,6 +63,7 @@ operations_participated:
   - "[[spanish-pay-tv-streaming-network-takedown-2020]]"
   - "[[mobdro-illegal-streaming-takedown-2021]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
+  - "[[operation-eastwood]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9
@@ -71,7 +72,7 @@ sources:
 status: active
 title: Eurojust
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Current Status (as of 2026-04-10)
 

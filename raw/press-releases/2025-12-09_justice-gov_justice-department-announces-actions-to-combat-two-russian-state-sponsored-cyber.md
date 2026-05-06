@@ -19,7 +19,7 @@ source_page: wiki/sources/2025-12-09_justice-gov_justice-department-announces-ac
 ---
 ## Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-victoria-eduardovna-dubranova]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+This DOJ release supports both [[operation-eastwood]] and the defendant-specific U.S. follow-on record [[operation-us-v-victoria-eduardovna-dubranova]]. DOJ describes U.S. Operation Red Circus as coordinated with Europol's Operation Eastwood against NoName057(16) and states that law enforcement in 19 countries disrupted more than 100 servers in July 2025.
 
 ## Extracted Text
 

@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-06T13:51:06Z",
+  "generated_at": "2026-05-06T14:49:29Z",
   "root": null,
   "stats": {
-    "total_nodes": 1291,
-    "total_edges": 12520,
+    "total_nodes": 1320,
+    "total_edges": 12756,
     "broken_links": 0,
     "orphans": 98,
     "by_type": {
@@ -13,18 +13,18 @@
       "case": 89,
       "challenge": 2,
       "concept": 15,
-      "country": 111,
+      "country": 119,
       "crime-type": 25,
       "legal-framework": 22,
-      "mechanism": 27,
-      "operation": 141,
+      "mechanism": 28,
+      "operation": 145,
       "organization": 145,
       "procedure": 2,
-      "source": 605
+      "source": 621
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 114
+      "canonical_operation": 118
     }
   },
   "nodes": [
@@ -692,7 +692,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 114 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 141 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 64 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 118 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 145 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 68 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-06",
@@ -3486,7 +3486,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 2,
+      "degree": 5,
       "path": "wiki/countries/angola.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3502,7 +3502,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/countries/argentina.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3554,7 +3554,7 @@
       "source_count": 1,
       "created": "2026-04-14",
       "updated": "2026-04-29",
-      "degree": 19,
+      "degree": 20,
       "path": "wiki/countries/austria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3577,6 +3577,22 @@
       "meta": {
         "legal_system": "not-assessed",
         "region": "caucasus"
+      }
+    },
+    {
+      "id": "bangladesh",
+      "type": "country",
+      "title": "Bangladesh",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Bangladesh is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-synergia-iii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/countries/bangladesh.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -3641,7 +3657,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 6,
+      "degree": 8,
       "path": "wiki/countries/benin.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3659,7 +3675,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/bolivia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3676,7 +3692,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/countries/bosnia-and-herzegovina.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3693,7 +3709,7 @@
       "source_count": 4,
       "created": "2026-04-13",
       "updated": "2026-04-29",
-      "degree": 18,
+      "degree": 19,
       "path": "wiki/countries/brazil.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3711,7 +3727,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/brunei.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3733,6 +3749,22 @@
         "legal_system": "civil-law",
         "region": "eastern-europe",
         "ic_capacity_rating": "medium"
+      }
+    },
+    {
+      "id": "burkina-faso",
+      "type": "country",
+      "title": "Burkina Faso",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Burkina Faso is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-contender-3 and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 3,
+      "path": "wiki/countries/burkina-faso.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -3762,7 +3794,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 7,
+      "degree": 9,
       "path": "wiki/countries/cameroon.md",
       "meta": {
         "legal_system": "mixed",
@@ -3786,6 +3818,22 @@
         "legal_system": "mixed",
         "region": "north-america",
         "ic_capacity_rating": "high"
+      }
+    },
+    {
+      "id": "chad",
+      "type": "country",
+      "title": "Chad",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Chad is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-serengeti-2 and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 3,
+      "path": "wiki/countries/chad.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -3832,7 +3880,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 17,
+      "degree": 18,
       "path": "wiki/countries/colombia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3867,7 +3915,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 10,
+      "degree": 12,
       "path": "wiki/countries/cote-divoire.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3938,7 +3986,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/countries/czechia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3955,7 +4003,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 3,
+      "degree": 5,
       "path": "wiki/countries/democratic-republic-of-the-congo.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4006,7 +4054,7 @@
       "source_count": 3,
       "created": "2026-04-20",
       "updated": "2026-04-29",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/countries/estonia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4024,7 +4072,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 19,
+      "degree": 20,
       "path": "wiki/countries/finland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4042,7 +4090,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 84,
+      "degree": 86,
       "path": "wiki/countries/france.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4060,7 +4108,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/countries/gabon.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4076,7 +4124,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 3,
+      "degree": 5,
       "path": "wiki/countries/gambia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4093,7 +4141,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/countries/georgia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4110,7 +4158,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 141,
+      "degree": 142,
       "path": "wiki/countries/germany.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4128,7 +4176,7 @@
       "source_count": 0,
       "created": "2026-04-12",
       "updated": "2026-05-03",
-      "degree": 10,
+      "degree": 12,
       "path": "wiki/countries/ghana.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4145,11 +4193,27 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/countries/greece.md",
       "meta": {
         "legal_system": "not-assessed",
         "region": "southern-europe"
+      }
+    },
+    {
+      "id": "guinea",
+      "type": "country",
+      "title": "Guinea",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Guinea is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-contender-3 and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/countries/guinea.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -4162,7 +4226,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/guyana.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4214,7 +4278,7 @@
       "source_count": 0,
       "created": "2026-04-12",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/iceland.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4231,7 +4295,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 19,
+      "degree": 20,
       "path": "wiki/countries/india.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4283,7 +4347,7 @@
       "source_count": 0,
       "created": "2026-04-11",
       "updated": "2026-05-03",
-      "degree": 19,
+      "degree": 20,
       "path": "wiki/countries/ireland.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4300,7 +4364,7 @@
       "source_count": 4,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/countries/israel.md",
       "meta": {
         "legal_system": "mixed",
@@ -4336,7 +4400,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 43,
+      "degree": 44,
       "path": "wiki/countries/japan.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4353,7 +4417,7 @@
       "source_count": 0,
       "created": "2026-04-21",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/kazakhstan.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4370,7 +4434,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 7,
+      "degree": 10,
       "path": "wiki/countries/kenya.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4421,7 +4485,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 22,
+      "degree": 24,
       "path": "wiki/countries/latvia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4438,7 +4502,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 25,
+      "degree": 26,
       "path": "wiki/countries/lithuania.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4472,7 +4536,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/countries/macau.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4505,7 +4569,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 2,
+      "degree": 3,
       "path": "wiki/countries/madagascar.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4521,11 +4585,27 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 21,
+      "degree": 22,
       "path": "wiki/countries/malaysia.md",
       "meta": {
         "legal_system": "not-assessed",
         "region": "southeast-asia"
+      }
+    },
+    {
+      "id": "maldives",
+      "type": "country",
+      "title": "Maldives",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Maldives is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-synergia-iii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 3,
+      "path": "wiki/countries/maldives.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -4555,7 +4635,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/countries/mauritius.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4589,7 +4669,7 @@
       "source_count": 4,
       "created": "2026-04-11",
       "updated": "2026-04-29",
-      "degree": 27,
+      "degree": 28,
       "path": "wiki/countries/moldova.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4607,7 +4687,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 2,
+      "degree": 3,
       "path": "wiki/countries/mongolia.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4707,7 +4787,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 121,
+      "degree": 122,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4741,7 +4821,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 54,
+      "degree": 57,
       "path": "wiki/countries/nigeria.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4775,7 +4855,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/pakistan.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4792,7 +4872,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/countries/paraguay.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4826,7 +4906,7 @@
       "source_count": 0,
       "created": "2026-04-20",
       "updated": "2026-05-03",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/countries/philippines.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4843,7 +4923,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 31,
+      "degree": 33,
       "path": "wiki/countries/poland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4915,7 +4995,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 6,
+      "degree": 8,
       "path": "wiki/countries/rwanda.md",
       "meta": {
         "legal_system": "mixed",
@@ -4933,7 +5013,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 3,
+      "degree": 5,
       "path": "wiki/countries/senegal.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4958,6 +5038,22 @@
       }
     },
     {
+      "id": "seychelles",
+      "type": "country",
+      "title": "Seychelles",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Seychelles is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-serengeti-2 and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/countries/seychelles.md",
+      "meta": {
+        "legal_system": "not-assessed"
+      }
+    },
+    {
       "id": "singapore",
       "type": "country",
       "title": "Republic of Singapore",
@@ -4967,7 +5063,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 32,
+      "degree": 33,
       "path": "wiki/countries/singapore.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5001,7 +5097,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 18,
+      "degree": 21,
       "path": "wiki/countries/south-africa.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5036,12 +5132,28 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 58,
+      "degree": 60,
       "path": "wiki/countries/spain.md",
       "meta": {
         "legal_system": "civil-law",
         "region": "western-europe",
         "ic_capacity_rating": "high"
+      }
+    },
+    {
+      "id": "sri-lanka",
+      "type": "country",
+      "title": "Sri Lanka",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Sri Lanka is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-synergia-iii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/countries/sri-lanka.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -5071,7 +5183,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 38,
+      "degree": 39,
       "path": "wiki/countries/sweden.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5088,7 +5200,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 47,
+      "degree": 49,
       "path": "wiki/countries/switzerland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5124,7 +5236,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 6,
+      "degree": 8,
       "path": "wiki/countries/tanzania.md",
       "meta": {
         "legal_system": "common-law",
@@ -5160,7 +5272,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/togo.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5194,11 +5306,27 @@
       "source_count": 0,
       "created": "2026-04-12",
       "updated": "2026-05-03",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/countries/turkey.md",
       "meta": {
         "legal_system": "not-assessed",
         "region": "western-asia"
+      }
+    },
+    {
+      "id": "uganda",
+      "type": "country",
+      "title": "Uganda",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Uganda is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-synergia-iii, operation-contender-3, and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 5,
+      "path": "wiki/countries/uganda.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -5211,7 +5339,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 33,
+      "degree": 34,
       "path": "wiki/countries/ukraine.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5229,7 +5357,7 @@
       "source_count": 0,
       "created": "2026-04-21",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/united-arab-emirates.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5246,7 +5374,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 134,
+      "degree": 136,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -5264,7 +5392,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 276,
+      "degree": 277,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -5299,7 +5427,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/venezuela.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5334,7 +5462,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 8,
+      "degree": 11,
       "path": "wiki/countries/zambia.md",
       "meta": {
         "legal_system": "common-law",
@@ -5352,7 +5480,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 3,
+      "degree": 5,
       "path": "wiki/countries/zimbabwe.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5523,7 +5651,7 @@
       "source_count": 4,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 27,
+      "degree": 28,
       "path": "wiki/crime-types/cybercrime-infrastructure-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -5592,7 +5720,7 @@
       "source_count": 4,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 19,
+      "degree": 20,
       "path": "wiki/crime-types/ddos-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -5744,7 +5872,7 @@
       "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-04-14",
-      "degree": 170,
+      "degree": 172,
       "path": "wiki/crime-types/online-fraud-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -6239,6 +6367,22 @@
       }
     },
     {
+      "id": "asset-recovery",
+      "type": "mechanism",
+      "title": "Asset Recovery",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Asset Recovery is a cooperation or enforcement mechanism node used for operations where public reporting identifies recovered criminal proceeds, returned victim funds, or coordinated recovery of assets linked to cross-border cybercrime. Current…",
+      "source_count": 1,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 5,
+      "path": "wiki/mechanisms/asset-recovery.md",
+      "meta": {
+        "mechanism_type": "cooperation-or-enforcement-mechanism"
+      }
+    },
+    {
       "id": "capacity-building-ic",
       "type": "mechanism",
       "title": "Capacity Building in Cybercrime IC",
@@ -6319,7 +6463,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 32,
+      "degree": 36,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6481,7 +6625,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 198,
+      "degree": 203,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6627,7 +6771,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 138,
+      "degree": 140,
       "path": "wiki/mechanisms/mutual-legal-assistance.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6643,7 +6787,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 55,
+      "degree": 59,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -7111,7 +7255,7 @@
       "source_count": 6,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 66,
+      "degree": 67,
       "path": "wiki/operations/ddos-for-hire-sweep-2016.md",
       "meta": {
         "status": "completed",
@@ -7951,7 +8095,7 @@
       "source_count": 6,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 64,
+      "degree": 67,
       "path": "wiki/operations/operation-contender-2.md",
       "meta": {
         "status": "completed",
@@ -7959,6 +8103,30 @@
         "operation_type": "arrest-sweep",
         "outcome": "success",
         "results_arrests": 8,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-contender-3",
+      "type": "operation",
+      "title": "Operation Contender 3.0",
+      "title_ko": null,
+      "aliases": [
+        "Contender 3.0"
+      ],
+      "summary": "Operation Contender 3.0 was an INTERPOL-coordinated pan-African cyber-enabled fraud operation focused on romance scams and sextortion. The action ran from 28 July to 11 August 2025 and involved 14 African countries. The operation targeted networks…",
+      "source_count": 4,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 43,
+      "path": "wiki/operations/operation-contender-3.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "coordinated-arrests",
+        "outcome": "success",
+        "results_arrests": 260,
         "operation_scope": "canonical_operation"
       }
     },
@@ -8155,6 +8323,30 @@
         "operation_type": "arrest-sweep",
         "outcome": "success",
         "results_arrests": 84,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-eastwood",
+      "type": "operation",
+      "title": "Operation Eastwood",
+      "title_ko": null,
+      "aliases": [
+        "NoName057(16) disruption"
+      ],
+      "summary": "Operation Eastwood was a July 2025 international enforcement action against the pro-Russian NoName057(16) DDoS network. The operation targeted the group's botnet, attack infrastructure, and organizer/supporter layer used to run DDoS attacks against…",
+      "source_count": 4,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 56,
+      "path": "wiki/operations/operation-eastwood.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "infrastructure-seizure",
+        "outcome": "success",
+        "results_arrests": 2,
         "operation_scope": "canonical_operation"
       }
     },
@@ -8557,7 +8749,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 80,
+      "degree": 81,
       "path": "wiki/operations/operation-haechi-iii.md",
       "meta": {
         "status": "completed",
@@ -9094,7 +9286,7 @@
       "source_count": 7,
       "created": "2026-04-10",
       "updated": "2026-04-27",
-      "degree": 84,
+      "degree": 85,
       "path": "wiki/operations/operation-power-off.md",
       "meta": {
         "status": "ongoing",
@@ -9187,7 +9379,7 @@
       "source_count": 3,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 49,
+      "degree": 50,
       "path": "wiki/operations/operation-secure-interpol.md",
       "meta": {
         "status": "completed",
@@ -9212,7 +9404,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 41,
+      "degree": 45,
       "path": "wiki/operations/operation-sentinel-africa.md",
       "meta": {
         "status": "completed",
@@ -9221,6 +9413,30 @@
         "operation_type": "arrest-sweep",
         "outcome": "success",
         "results_arrests": 574,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-serengeti-2",
+      "type": "operation",
+      "title": "Operation Serengeti 2.0",
+      "title_ko": null,
+      "aliases": [
+        "Serengeti 2.0"
+      ],
+      "summary": "Operation Serengeti 2.0 was a June-August 2025 INTERPOL-coordinated operation targeting high-impact cybercrime and fraud networks across Africa. It brought together investigators from 18 African countries and the United Kingdom, supported by…",
+      "source_count": 4,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 53,
+      "path": "wiki/operations/operation-serengeti-2.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "coordinated-arrests",
+        "outcome": "success",
+        "results_arrests": 1209,
         "operation_scope": "canonical_operation"
       }
     },
@@ -9236,7 +9452,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 52,
+      "degree": 55,
       "path": "wiki/operations/operation-serengeti.md",
       "meta": {
         "status": "completed",
@@ -9329,7 +9545,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 55,
+      "degree": 57,
       "path": "wiki/operations/operation-synergia-ii.md",
       "meta": {
         "status": "completed",
@@ -9338,6 +9554,30 @@
         "operation_type": "infrastructure-seizure",
         "outcome": "success",
         "results_arrests": 41,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-synergia-iii",
+      "type": "operation",
+      "title": "Operation Synergia III",
+      "title_ko": null,
+      "aliases": [
+        "Synergia III"
+      ],
+      "summary": "Operation Synergia III was an INTERPOL-coordinated global operation targeting infrastructure used for phishing, malware, ransomware, romance scams, credit-card fraud, and related online fraud. The action ran from 18 July 2025 to 31 January 2026 and…",
+      "source_count": 4,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 78,
+      "path": "wiki/operations/operation-synergia-iii.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "infrastructure-seizure",
+        "outcome": "success",
+        "results_arrests": 94,
         "operation_scope": "canonical_operation"
       }
     },
@@ -10671,7 +10911,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 14,
+      "degree": 16,
       "path": "wiki/organizations/dutch-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -10689,7 +10929,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 216,
+      "degree": 220,
       "path": "wiki/organizations/eurojust.md",
       "meta": {
         "org_type": "regional-org",
@@ -10708,7 +10948,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 425,
+      "degree": 427,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -10763,7 +11003,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 71,
+      "degree": 73,
       "path": "wiki/organizations/fbi.md",
       "meta": {
         "org_type": "national-agency",
@@ -10815,7 +11055,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 27,
+      "degree": 29,
       "path": "wiki/organizations/france-gendarmerie.md",
       "meta": {
         "org_type": "national-unit",
@@ -10942,7 +11182,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 98,
+      "degree": 100,
       "path": "wiki/organizations/germany-bka.md",
       "meta": {
         "org_type": "national-agency",
@@ -10978,7 +11218,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 23,
       "path": "wiki/organizations/germany-frankfurt-prosecutor.md",
       "meta": {
         "org_type": "prosecution-office",
@@ -11016,7 +11256,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 22,
+      "degree": 28,
       "path": "wiki/organizations/group-ib.md",
       "meta": {
         "org_type": "private-sector-partner",
@@ -11161,7 +11401,7 @@
       "source_count": 11,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 111,
+      "degree": 123,
       "path": "wiki/organizations/interpol-igci.md",
       "meta": {
         "org_type": "international-org",
@@ -11333,7 +11573,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 22,
       "path": "wiki/organizations/kaspersky-lab.md",
       "meta": {
         "org_type": "private-sector",
@@ -11435,7 +11675,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 10,
+      "degree": 12,
       "path": "wiki/organizations/latvia-state-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11453,7 +11693,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 9,
+      "degree": 11,
       "path": "wiki/organizations/lithuania-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -12172,7 +12412,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 19,
+      "degree": 21,
       "path": "wiki/organizations/shadowserver.md",
       "meta": {
         "org_type": "private-sector",
@@ -12288,7 +12528,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 13,
+      "degree": 15,
       "path": "wiki/organizations/spain-guardia-civil.md",
       "meta": {
         "org_type": "national-unit",
@@ -12307,7 +12547,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 18,
+      "degree": 20,
       "path": "wiki/organizations/spain-national-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -12392,7 +12632,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 15,
+      "degree": 17,
       "path": "wiki/organizations/sweden-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -12411,7 +12651,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 16,
+      "degree": 18,
       "path": "wiki/organizations/switzerland-fedpol.md",
       "meta": {
         "org_type": "national-agency",
@@ -12515,7 +12755,7 @@
       "source_count": 6,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 34,
+      "degree": 40,
       "path": "wiki/organizations/trend-micro.md",
       "meta": {
         "org_type": "private-cybersecurity-company",
@@ -19660,6 +19900,48 @@
       "meta": {}
     },
     {
+      "id": "2025-07-16_cyberscoop_noname05716-disruption-operation-eastwood-europol",
+      "type": "source",
+      "title": "Pro-Russian DDoS group NoName057(16) disrupted by international law enforcement operation",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary CyberScoop provides independent cybersecurity media coverage for Operation Eastwood. It corroborates the NoName057(16) target, the Europol-supported international enforcement framing, and the reported disruption metrics. ##…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2025-07-16_cyberscoop_noname05716-disruption-operation-eastwood-europol.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down",
+      "type": "source",
+      "title": "Hacktivist group responsible for cyberattacks on critical infrastructure in Europe taken down",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Eurojust's official release is the anchor source for Operation Eastwood. It establishes the operation as a cross-border action against NoName057(16), identifies Eurojust and Europol support, and documents judicial coordination…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-07-16_polizei-sachsen_operation-eastwood",
+      "type": "source",
+      "title": "Operation EASTWOOD",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary This German official notice supports Operation Eastwood by confirming the NoName057(16) target, international law-enforcement posture, German role, and operational metrics also reported by Eurojust and trade-press coverage. ##…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2025-07-16_polizei-sachsen_operation-eastwood.md",
+      "meta": {}
+    },
+    {
       "id": "2025-07-24_bleepingcomputer-com_law-enforcement-seizes-blacksuit-ransomware-leak-sites",
       "type": "source",
       "title": "BlackSuit ransomware extortion sites seized in Operation Checkmate",
@@ -19727,6 +20009,62 @@
       "updated": "2026-04-18",
       "degree": 12,
       "path": "wiki/sources/2025-08-11-doj-blacksuit-royal-ransomware-takedown.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-08-22_cyberscoop_interpol-operation-serengeti-2-africa",
+      "type": "source",
+      "title": "Interpol-led crackdown disrupts cybercrime networks in Africa that caused $485 million in losses",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary CyberScoop provides independent cybersecurity media coverage for Operation Serengeti 2.0, confirming the INTERPOL-led multinational operation and major public result metrics. ## Relevance to IC The source strengthens the…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 3,
+      "path": "wiki/sources/2025-08-22_cyberscoop_interpol-operation-serengeti-2-africa.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-08-22_group-ib_operation-serengeti-2-0",
+      "type": "source",
+      "title": "Group-IB supports INTERPOL's Operation Serengeti 2.0 leading to the arrest of 1,209 cybercriminals across Africa and $97.4M recovered",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Group-IB's release corroborates Operation Serengeti 2.0 and documents the company's role as a private-sector partner in a multinational African cybercrime operation. ## Relevance to IC The source supports both the operation…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2025-08-22_group-ib_operation-serengeti-2-0.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks",
+      "type": "source",
+      "title": "African authorities dismantle massive cybercrime and fraud networks, recover millions",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INTERPOL's official release is the anchor source for Operation Serengeti 2.0. It establishes the multi-country scope, funding and coordination context, participating partners, crime focus, arrest count, victim count, recovered…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 5,
+      "path": "wiki/sources/2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-08-22_kaspersky_serengeti-20-interpol-led-action",
+      "type": "source",
+      "title": "Serengeti 2.0: Kaspersky supports INTERPOL-led action leading to over 1,200 arrests",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Kaspersky's release provides private-sector confirmation of Operation Serengeti 2.0 and its INTERPOL-led multinational enforcement posture. ## Relevance to IC The source independently confirms the private-sector intelligence layer…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2025-08-22_kaspersky_serengeti-20-interpol-led-action.md",
       "meta": {}
     },
     {
@@ -19856,6 +20194,48 @@
       "meta": {}
     },
     {
+      "id": "2025-09-26_defenceweb_pan-african-cybercrime-operation-contender-3",
+      "type": "source",
+      "title": "260 suspected scammers arrested in pan-African cybercrime operation",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary defenceWeb provides independent security-media coverage for Operation Contender 3.0, repeating the main INTERPOL-reported figures and regional scope. ## Relevance to IC The source adds non-INTERPOL confirmation that Contender 3.0…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2025-09-26_defenceweb_pan-african-cybercrime-operation-contender-3.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-09-26_group-ib_operation-contender3",
+      "type": "source",
+      "title": "Group-IB supports INTERPOL's Operation Contender 3.0, leading to the arrest of 260 suspects in Africa",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Group-IB's release supports Operation Contender 3.0 by confirming the company's intelligence role and the operation's core public metrics. ## Relevance to IC The source confirms the public-private intelligence layer that helped…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2025-09-26_group-ib_operation-contender3.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-09-26_interpol_operation-contender-3-pan-african-cybercrime",
+      "type": "source",
+      "title": "260 suspected scammers arrested in pan-African cybercrime operation",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INTERPOL's official release is the anchor source for Operation Contender 3.0. It establishes the 14-country scope, enforcement window, crime focus, arrest count, seized-device count, victim count, and disrupted-infrastructure…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2025-09-26_interpol_operation-contender-3-pan-african-cybercrime.md",
+      "meta": {}
+    },
+    {
       "id": "2025-09-27_dailysecurityreview_operation-haechi-vi-record-recovery",
       "type": "source",
       "title": "Operation HAECHI VI records $439 million recovery in global financial crime crackdown",
@@ -19867,6 +20247,20 @@
       "updated": null,
       "degree": 0,
       "path": "wiki/sources/2025-09-27_dailysecurityreview_operation-haechi-vi-record-recovery.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-09-29_cyberscoop_interpol-operation-contender-3-africa",
+      "type": "source",
+      "title": "Interpol operation disrupts romance scam and sextortion networks in Africa",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary CyberScoop provides independent coverage of Operation Contender 3.0, emphasizing the romance-scam and sextortion networks disrupted across Africa. ## Relevance to IC The source helps validate the operation boundary and confirms…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 3,
+      "path": "wiki/sources/2025-09-29_cyberscoop_interpol-operation-contender-3-africa.md",
       "meta": {}
     },
     {
@@ -20122,6 +20516,20 @@
       "meta": {}
     },
     {
+      "id": "2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber",
+      "type": "source",
+      "title": "Justice Department Announces Actions to Combat Two Russian State-Sponsored Cyber Criminal Hacking Groups",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary This DOJ release supports two related records. It remains the source for the defendant-specific U.S. matter operation-us-v-victoria-eduardovna-dubranova, and it also corroborates Operation Eastwood by describing U.S. Operation Red…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": null,
+      "degree": 2,
+      "path": "wiki/sources/2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber.md",
+      "meta": {}
+    },
+    {
       "id": "2025-12-09_koreatimes-co-kr_trial-begins-for-46-suspects-accused-of-involvement-in-online-scams-in-cambodia",
       "type": "source",
       "title": "Trial begins for 46 suspects accused of involvement in online scams in Cambodia",
@@ -20374,6 +20782,20 @@
       "meta": {}
     },
     {
+      "id": "2026-03-13_cybernews_interpol-takes-down-45000-malicious-websites",
+      "type": "source",
+      "title": "Interpol takes down 45,000 malicious websites in global cybercrime crackdown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Cybernews provides independent media confirmation of Operation Synergia III and its global cybercrime infrastructure disruption results. ## Relevance to IC The source strengthens the evidence set for treating Synergia III as a…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2026-03-13_cybernews_interpol-takes-down-45000-malicious-websites.md",
+      "meta": {}
+    },
+    {
       "id": "2026-03-13_cyberscoop-com_socksescort-proxy-network-botnet-takedown",
       "type": "source",
       "title": "Authorities takedown global proxy network SocksEscort",
@@ -20388,6 +20810,34 @@
       "meta": {}
     },
     {
+      "id": "2026-03-13_group-ib_interpol-operation-synergia-3",
+      "type": "source",
+      "title": "Group-IB Supports INTERPOL's Operation Synergia III, Contributing Intelligence to Global Cybercrime Takedown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Group-IB's release corroborates Operation Synergia III and documents its role as a private-sector intelligence contributor to INTERPOL and national law-enforcement partners. ## Relevance to IC The source supports both the…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2026-03-13_group-ib_interpol-operation-synergia-3.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-03-13_interpol_synergia-iii-45000-malicious-ip-addresses",
+      "type": "source",
+      "title": "45,000 malicious IP addresses taken down in international cyber operation",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INTERPOL's official release is the anchor source for Operation Synergia III. It confirms the 72-country scope, July 2025 to January 2026 enforcement window, 45,000-plus malicious infrastructure takedowns, arrests, ongoing…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2026-03-13_interpol_synergia-iii-45000-malicious-ip-addresses.md",
+      "meta": {}
+    },
+    {
       "id": "2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces",
       "type": "source",
       "title": "Major SocksEscort proxy network powered by Linux malware taken down by FBI and other police forces",
@@ -20399,6 +20849,20 @@
       "updated": null,
       "degree": 2,
       "path": "wiki/sources/2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-03-16_helpnetsecurity_interpol-operation-synergia-iii-cybercrime-infrastructure-takedown",
+      "type": "source",
+      "title": "45,000 malicious IP addresses taken down, 94 suspects arrested",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Help Net Security provides independent cybersecurity media coverage of Operation Synergia III, including the 45,000-plus malicious infrastructure and 94-arrest figures. ## Relevance to IC This source adds third-party confirmation…",
+      "source_count": 0,
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "degree": 2,
+      "path": "wiki/sources/2026-03-16_helpnetsecurity_interpol-operation-synergia-iii-cybercrime-infrastructure-takedown.md",
       "meta": {}
     },
     {
@@ -53962,6 +54426,12 @@
       "directed": false
     },
     {
+      "source": "bangladesh",
+      "target": "operation-synergia-iii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "belarus",
       "target": "andromeda-botnet-takedown",
       "kind": "operations_participated",
@@ -54154,6 +54624,12 @@
       "directed": false
     },
     {
+      "source": "burkina-faso",
+      "target": "operation-contender-3",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "cambodia",
       "target": "operation-haechi-vi",
       "kind": "operations_participated",
@@ -54222,6 +54698,12 @@
     {
       "source": "canada",
       "target": "budapest-convention",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "chad",
+      "target": "operation-serengeti-2",
       "kind": "body",
       "directed": false
     },
@@ -54934,6 +55416,12 @@
       "directed": false
     },
     {
+      "source": "guinea",
+      "target": "operation-contender-3",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "guyana",
       "target": "operation-orion-international",
       "kind": "operations_participated",
@@ -55344,6 +55832,12 @@
     {
       "source": "malaysia",
       "target": "operation-haechi-vi",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "maldives",
+      "target": "operation-synergia-iii",
       "kind": "body",
       "directed": false
     },
@@ -56086,6 +56580,12 @@
       "directed": false
     },
     {
+      "source": "seychelles",
+      "target": "operation-serengeti-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "singapore",
       "target": "operation-haechi-vi",
       "kind": "operations_participated",
@@ -56386,6 +56886,12 @@
       "directed": false
     },
     {
+      "source": "sri-lanka",
+      "target": "operation-synergia-iii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "suriname",
       "target": "operation-orion-international",
       "kind": "operations_participated",
@@ -56610,6 +57116,18 @@
     {
       "source": "togo",
       "target": "africa-cyber-surge-ii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "uganda",
+      "target": "operation-synergia-iii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "uganda",
+      "target": "operation-contender-3",
       "kind": "body",
       "directed": false
     },
@@ -59436,6 +59954,18 @@
     {
       "source": "asset-freezing",
       "target": "2024-05-28_treasury-gov_treasury-sanctions-a-cybercrime-network-associated-with-the-911-s5-botnet",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "asset-recovery",
+      "target": "operation-serengeti-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "asset-recovery",
+      "target": "2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks",
       "kind": "body",
       "directed": false
     },
@@ -67516,6 +68046,168 @@
       "directed": false
     },
     {
+      "source": "operation-contender-3",
+      "target": "interpol-igci",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "interpol-igci",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "informal-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "interpol-igci",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "group-ib",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "trend-micro",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "angola",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "benin",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "burkina-faso",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "cote-divoire",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "gambia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "ghana",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "guinea",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "kenya",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "nigeria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "rwanda",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "senegal",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "south-africa",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "uganda",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "zambia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "operation-contender-2",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "operation-serengeti-2",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-contender-3",
+      "target": "operation-contender-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-cronos-phase1",
       "target": "europol-ec3",
       "kind": "coordinating_body",
@@ -68882,6 +69574,216 @@
       "target": "united-states",
       "kind": "body",
       "directed": false
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "eurojust",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "ddos-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "eurojust",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "mutual-legal-assistance",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "eurojust",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "germany-bka",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "germany-frankfurt-prosecutor",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "fbi",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "france-gendarmerie",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "spain-national-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "spain-guardia-civil",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "sweden-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "switzerland-fedpol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "dutch-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "latvia-state-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "lithuania-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "czechia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "estonia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "finland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "germany",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "latvia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "lithuania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "poland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "spain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "sweden",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "switzerland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "ddos-for-hire-sweep-2016",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-eastwood",
+      "target": "operation-power-off",
+      "kind": "related_operations",
+      "directed": true
     },
     {
       "source": "operation-endgame-phase1",
@@ -71550,6 +72452,12 @@
     {
       "source": "operation-haechi-iii",
       "target": "malaysia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-haechi-iii",
+      "target": "maldives",
       "kind": "participating_countries",
       "directed": true
     },
@@ -75767,7 +76675,19 @@
     },
     {
       "source": "operation-sentinel-africa",
+      "target": "burkina-faso",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-sentinel-africa",
       "target": "cameroon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-sentinel-africa",
+      "target": "chad",
       "kind": "participating_countries",
       "directed": true
     },
@@ -75815,6 +76735,12 @@
     },
     {
       "source": "operation-sentinel-africa",
+      "target": "uganda",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-sentinel-africa",
       "target": "zambia",
       "kind": "participating_countries",
       "directed": true
@@ -75846,6 +76772,222 @@
     {
       "source": "operation-sentinel-africa",
       "target": "afripol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "interpol-igci",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "interpol-igci",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "informal-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "asset-recovery",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "interpol-igci",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "group-ib",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "kaspersky-lab",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "trend-micro",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "shadowserver",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "angola",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "benin",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "cameroon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "chad",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "cote-divoire",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "democratic-republic-of-the-congo",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "gabon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "ghana",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "kenya",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "mauritius",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "nigeria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "rwanda",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "senegal",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "south-africa",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "seychelles",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "tanzania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "zambia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "zimbabwe",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "operation-serengeti",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "operation-contender-3",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "operation-sentinel-africa",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "operation-serengeti",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-serengeti-2",
+      "target": "operation-contender-3",
       "kind": "body",
       "directed": false
     },
@@ -76446,6 +77588,384 @@
     {
       "source": "operation-synergia-ii",
       "target": "kaspersky-lab",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "interpol-igci",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "cybercrime-infrastructure-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "interpol-igci",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "informal-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "interpol-igci",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "group-ib",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "trend-micro",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "angola",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "argentina",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "austria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "bangladesh",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "bolivia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "bosnia-and-herzegovina",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "brazil",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "brunei",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "cameroon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "colombia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "democratic-republic-of-the-congo",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "gambia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "georgia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "greece",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "guyana",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "iceland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "india",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "ireland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "israel",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "japan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "kazakhstan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "kenya",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "latvia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "macau",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "madagascar",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "malaysia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "maldives",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "moldova",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "mongolia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "nigeria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "pakistan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "paraguay",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "philippines",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "poland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "singapore",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "south-africa",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "spain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "sri-lanka",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "switzerland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "tanzania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "togo",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "turkey",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "uganda",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "ukraine",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "united-arab-emirates",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "venezuela",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "zambia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "zimbabwe",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "operation-synergia-ii",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "operation-secure-interpol",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-synergia-iii",
+      "target": "operation-synergia-ii",
       "kind": "body",
       "directed": false
     },
@@ -82049,6 +83569,12 @@
     },
     {
       "source": "dutch-police",
+      "target": "operation-eastwood",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "dutch-police",
       "target": "netherlands-politie",
       "kind": "parent_org",
       "directed": true
@@ -82314,6 +83840,12 @@
     {
       "source": "eurojust",
       "target": "operation-taken-down-illegal-iptv-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
+      "target": "operation-eastwood",
       "kind": "operations_participated",
       "directed": true
     },
@@ -82776,6 +84308,12 @@
     {
       "source": "europol-ec3",
       "target": "operation-taken-down-illegal-iptv-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
+      "target": "operation-eastwood",
       "kind": "operations_participated",
       "directed": true
     },
@@ -83309,6 +84847,12 @@
     },
     {
       "source": "fbi",
+      "target": "operation-eastwood",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi",
       "target": "fbi-cyber-division",
       "kind": "parent_org",
       "directed": true
@@ -83472,6 +85016,12 @@
     {
       "source": "france-gendarmerie",
       "target": "operation-kraken-ghost-platform",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france-gendarmerie",
+      "target": "operation-eastwood",
       "kind": "operations_participated",
       "directed": true
     },
@@ -83951,6 +85501,12 @@
     },
     {
       "source": "germany-bka",
+      "target": "operation-eastwood",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany-bka",
       "target": "germany-bmi",
       "kind": "parent_org",
       "directed": true
@@ -84095,6 +85651,12 @@
     },
     {
       "source": "germany-frankfurt-prosecutor",
+      "target": "operation-eastwood",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany-frankfurt-prosecutor",
       "target": "germany-bka",
       "kind": "body",
       "directed": false
@@ -84234,6 +85796,24 @@
     {
       "source": "group-ib",
       "target": "operation-synergia-ii",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "group-ib",
+      "target": "operation-contender-3",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "group-ib",
+      "target": "operation-serengeti-2",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "group-ib",
+      "target": "operation-synergia-iii",
       "kind": "operations_participated",
       "directed": true
     },
@@ -84570,6 +86150,24 @@
     {
       "source": "interpol-igci",
       "target": "operation-synergia-ii",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol-igci",
+      "target": "operation-contender-3",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol-igci",
+      "target": "operation-serengeti-2",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol-igci",
+      "target": "operation-synergia-iii",
       "kind": "operations_participated",
       "directed": true
     },
@@ -85253,6 +86851,12 @@
     },
     {
       "source": "kaspersky-lab",
+      "target": "operation-serengeti-2",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "kaspersky-lab",
       "target": "2015-04-13_kaspersky-com_kaspersky-lab-joins-forces-with-interpol-industry-and-law-enforcement-partners-to-disrupt-simda-botnet",
       "kind": "body",
       "directed": false
@@ -85529,6 +87133,12 @@
     },
     {
       "source": "latvia-state-police",
+      "target": "operation-eastwood",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "latvia-state-police",
       "target": "cert-lv",
       "kind": "body",
       "directed": false
@@ -85554,6 +87164,12 @@
     {
       "source": "lithuania-police",
       "target": "operation-endgame-phase1",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "lithuania-police",
+      "target": "operation-eastwood",
       "kind": "operations_participated",
       "directed": true
     },
@@ -87299,6 +88915,12 @@
     },
     {
       "source": "shadowserver",
+      "target": "operation-serengeti-2",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "shadowserver",
       "target": "2016-11-30_europol-europa-eu_avalanche-network-dismantled-in-international-cyber-operation",
       "kind": "body",
       "directed": false
@@ -87478,6 +89100,12 @@
       "directed": true
     },
     {
+      "source": "spain-guardia-civil",
+      "target": "operation-eastwood",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "spain-national-police",
       "target": "spain-guardia-civil",
       "kind": "cooperation_partners",
@@ -87504,6 +89132,12 @@
     {
       "source": "spain-national-police",
       "target": "mobdro-illegal-streaming-takedown-2021",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "spain-national-police",
+      "target": "operation-eastwood",
       "kind": "operations_participated",
       "directed": true
     },
@@ -87713,6 +89347,12 @@
     },
     {
       "source": "sweden-police",
+      "target": "operation-eastwood",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "sweden-police",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -87744,6 +89384,12 @@
     {
       "source": "switzerland-fedpol",
       "target": "operation-endgame-phase1",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "switzerland-fedpol",
+      "target": "operation-eastwood",
       "kind": "operations_participated",
       "directed": true
     },
@@ -88032,6 +89678,24 @@
     {
       "source": "trend-micro",
       "target": "operation-synergia-ii",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "trend-micro",
+      "target": "operation-contender-3",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "trend-micro",
+      "target": "operation-serengeti-2",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "trend-micro",
+      "target": "operation-synergia-iii",
       "kind": "operations_participated",
       "directed": true
     },
@@ -94516,6 +96180,42 @@
       "directed": false
     },
     {
+      "source": "2025-07-16_cyberscoop_noname05716-disruption-operation-eastwood-europol",
+      "target": "operation-eastwood",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-16_cyberscoop_noname05716-disruption-operation-eastwood-europol",
+      "target": "operation-eastwood",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down",
+      "target": "operation-eastwood",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down",
+      "target": "operation-eastwood",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-07-16_polizei-sachsen_operation-eastwood",
+      "target": "operation-eastwood",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-16_polizei-sachsen_operation-eastwood",
+      "target": "operation-eastwood",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2025-07-24_bleepingcomputer-com_law-enforcement-seizes-blacksuit-ransomware-leak-sites",
       "target": "operation-checkmate-blacksuit",
       "kind": "pages_updated",
@@ -94556,6 +96256,72 @@
       "target": "ransomware-ic",
       "kind": "pages_updated",
       "directed": true
+    },
+    {
+      "source": "2025-08-22_cyberscoop_interpol-operation-serengeti-2-africa",
+      "target": "operation-serengeti-2",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-08-22_cyberscoop_interpol-operation-serengeti-2-africa",
+      "target": "operation-serengeti-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-08-22_cyberscoop_interpol-operation-serengeti-2-africa",
+      "target": "operation-serengeti",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-08-22_group-ib_operation-serengeti-2-0",
+      "target": "operation-serengeti-2",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-08-22_group-ib_operation-serengeti-2-0",
+      "target": "operation-serengeti-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks",
+      "target": "operation-serengeti-2",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks",
+      "target": "asset-recovery",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks",
+      "target": "operation-serengeti-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks",
+      "target": "asset-recovery",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-08-22_kaspersky_serengeti-20-interpol-led-action",
+      "target": "operation-serengeti-2",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-08-22_kaspersky_serengeti-20-interpol-led-action",
+      "target": "operation-serengeti-2",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe",
@@ -94646,6 +96412,60 @@
       "target": "bec-ic",
       "kind": "pages_updated",
       "directed": true
+    },
+    {
+      "source": "2025-09-26_defenceweb_pan-african-cybercrime-operation-contender-3",
+      "target": "operation-contender-3",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-09-26_defenceweb_pan-african-cybercrime-operation-contender-3",
+      "target": "operation-contender-3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-09-26_group-ib_operation-contender3",
+      "target": "operation-contender-3",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-09-26_group-ib_operation-contender3",
+      "target": "operation-contender-3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-09-26_interpol_operation-contender-3-pan-african-cybercrime",
+      "target": "operation-contender-3",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-09-26_interpol_operation-contender-3-pan-african-cybercrime",
+      "target": "operation-contender-3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-09-29_cyberscoop_interpol-operation-contender-3-africa",
+      "target": "operation-contender-3",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-09-29_cyberscoop_interpol-operation-contender-3-africa",
+      "target": "operation-contender-3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-09-29_cyberscoop_interpol-operation-contender-3-africa",
+      "target": "operation-contender-2",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "2025-10-18-korea-cambodia-scam-repatriation",
@@ -94938,6 +96758,18 @@
     {
       "source": "2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion",
       "target": "de-ch-crypto-mixer-takedown-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber",
+      "target": "operation-eastwood",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber",
+      "target": "operation-eastwood",
       "kind": "body",
       "directed": false
     },
@@ -95296,6 +97128,18 @@
       "directed": false
     },
     {
+      "source": "2026-03-13_cybernews_interpol-takes-down-45000-malicious-websites",
+      "target": "operation-synergia-iii",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-13_cybernews_interpol-takes-down-45000-malicious-websites",
+      "target": "operation-synergia-iii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2026-03-13_cyberscoop-com_socksescort-proxy-network-botnet-takedown",
       "target": "proxy-service-takedown-2026-03",
       "kind": "pages_updated",
@@ -95308,6 +97152,30 @@
       "directed": false
     },
     {
+      "source": "2026-03-13_group-ib_interpol-operation-synergia-3",
+      "target": "operation-synergia-iii",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-13_group-ib_interpol-operation-synergia-3",
+      "target": "operation-synergia-iii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-03-13_interpol_synergia-iii-45000-malicious-ip-addresses",
+      "target": "operation-synergia-iii",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-13_interpol_synergia-iii-45000-malicious-ip-addresses",
+      "target": "operation-synergia-iii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces",
       "target": "proxy-service-takedown-2026-03",
       "kind": "pages_updated",
@@ -95316,6 +97184,18 @@
     {
       "source": "2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces",
       "target": "proxy-service-takedown-2026-03",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-03-16_helpnetsecurity_interpol-operation-synergia-iii-cybercrime-infrastructure-takedown",
+      "target": "operation-synergia-iii",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-16_helpnetsecurity_interpol-operation-synergia-iii-cybercrime-infrastructure-takedown",
+      "target": "operation-synergia-iii",
       "kind": "body",
       "directed": false
     },

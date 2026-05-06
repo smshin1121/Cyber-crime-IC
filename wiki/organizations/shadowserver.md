@@ -30,6 +30,7 @@ operations_participated:
   - "[[operation-source]]"
   - "[[operation-morpheus]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-serengeti-2]]"
 org_type: private-sector
 parent_org: ""
 source_count: 3

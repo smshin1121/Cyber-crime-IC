@@ -44,6 +44,7 @@ operations_participated:
   - "[[operation-morpheus]]"
   - "[[operation-us-v-kevin-james-strutz]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-eastwood]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3
