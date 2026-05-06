@@ -225,7 +225,7 @@ wiki/analysis/sna/crime-type-network.html
 분석 문서:
 
 ```text
-wiki/analysis/sna-2014-2025-five-crime-types.md
+wiki/analysis/sna-2014-2025-six-crime-types.md
 ```
 
 ## 완료 조건

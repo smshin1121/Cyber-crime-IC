@@ -36,7 +36,7 @@ SNA_CURRENT = ROOT / "_workspace" / "sna" / "current"
 ANALYSIS_DIR = WIKI / "analysis"
 SNA_HTML_DIR = ANALYSIS_DIR / "sna"
 
-SNAPSHOT_DATE = "2026-05-05"
+SNAPSHOT_DATE = "2026-05-06"
 YEAR_MIN = 2014
 YEAR_MAX = 2025
 
@@ -722,7 +722,7 @@ def build_reports(excel_records: list[ExcelRecord], sources: dict[str, SourceRec
         if year is None or not (YEAR_MIN <= year <= YEAR_MAX):
             scope_notes.append("year_outside_2014_2025_or_missing")
         if not excel_crimes:
-            scope_notes.append("no_target_five_crime_type_detected")
+            scope_notes.append("no_target_six_crime_type_detected")
         if len(excel_countries) < 2 and not (set(excel_agencies) & MULTINATIONAL_AGENCIES):
             scope_notes.append("no_clear_international_cooperation_signal")
 
@@ -1046,7 +1046,7 @@ def render_network_html(kind: str, edges: list[tuple[str, str]], op_titles: dict
 </head>
 <body>
   <header>
-    <h1>{html.escape(kind.title())} Network, 2014-2025 Five-Crime Subset</h1>
+    <h1>{html.escape(kind.title())} Network, 2014-2025 Six-Crime Subset</h1>
     <p>{len(ops)} operations, {len(nodes)} {html.escape(kind)} nodes, {len(edges)} edges. Hover nodes for labels.</p>
   </header>
   <svg viewBox="0 0 {width} {height}" role="img" aria-label="{html.escape(kind)} SNA network">
@@ -1211,9 +1211,9 @@ def write_analysis_page(included: list[OperationRecord], manifest: dict, cohesio
     lines = [
         "---",
         'type: analysis',
-        'title: "SNA Rebuild: 2014-2025 Five Cybercrime Categories"',
+        'title: "SNA Rebuild: 2014-2025 Six Cybercrime Categories"',
         "analysis_type: dataset-rebuild",
-        'scope: "Operation-country, operation-agency, and operation-crime_type two-mode networks filtered to 2014-2025 and five target crime categories."',
+        'scope: "Operation-country, operation-agency, and operation-crime_type two-mode networks filtered to 2014-2025 and six target crime categories."',
         "confidence: medium",
         f"created: {SNAPSHOT_DATE}",
         f"updated: {SNAPSHOT_DATE}",
@@ -1292,11 +1292,11 @@ def write_analysis_page(included: list[OperationRecord], manifest: dict, cohesio
             "",
         ]
     )
-    (ANALYSIS_DIR / "sna-2014-2025-five-crime-types.md").write_text("\n".join(lines), encoding="utf-8")
+    (ANALYSIS_DIR / "sna-2014-2025-six-crime-types.md").write_text("\n".join(lines), encoding="utf-8")
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Rebuild data-sample imports and current five-crime SNA subset.")
+    parser = argparse.ArgumentParser(description="Rebuild data-sample imports and current six-crime SNA subset.")
     parser.add_argument("--workbook", default=str(ROOT / "데이터 샘플.xlsx"))
     args = parser.parse_args()
 

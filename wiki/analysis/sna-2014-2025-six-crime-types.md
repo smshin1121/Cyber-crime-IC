@@ -1,11 +1,11 @@
 ---
 type: analysis
-title: "SNA Rebuild: 2014-2025 Five Cybercrime Categories"
+title: "SNA Rebuild: 2014-2025 Six Cybercrime Categories"
 analysis_type: dataset-rebuild
-scope: "Operation-country, operation-agency, and operation-crime_type two-mode networks filtered to 2014-2025 and five target crime categories."
+scope: "Operation-country, operation-agency, and operation-crime_type two-mode networks filtered to 2014-2025 and six target crime categories."
 confidence: medium
-created: 2026-05-05
-updated: 2026-05-05
+created: 2026-05-06
+updated: 2026-05-06
 ---
 
 ## Summary

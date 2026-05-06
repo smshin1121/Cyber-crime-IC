@@ -112,6 +112,8 @@ The workbook sample contains a narrow voice-phishing/vishing/illegal-call-center
 - Narrow VOIP/보이스피싱 indicators: rows naming 보이스피싱, 비싱, 불법 전화센터, or 불법 콜센터.
 - Broader phone-enabled fraud indicators: the narrow set plus technical-support scam rows where the public source describes call-center or remote-support impersonation.
 
+The current count reconciliation is maintained in [[voip-workbook-sna-count-reconciliation-2026-05-06]].
+
 This distinction prevents the SNA from silently merging all online fraud into voice phishing while still capturing cases where the phone or call-center channel is the relevant international-cooperation feature.
 
 ## References
