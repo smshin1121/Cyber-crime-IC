@@ -11,12 +11,13 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  - operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-
+  - operation-raptor
 key_findings:
   - "Hackread reported that Operation RapTor led to arrests across ten countries and was coordinated by Europol and DOJ JCODE."
   - "The article highlighted the role of seized marketplace data and described the operation as targeting dark web vendors, buyers, and related criminal networks."
 collection_url: https://hackread.com/operation-raptor-police-arrests-270-dark-web-vendors/
 created: 2026-04-25
+updated: 2026-05-07
 raw_path: raw/news/2025-05-22_hackread_operation-raptor-police-arrests-270-dark-web-vendors.md
 text_status: summarized
 content_hash: sha256:da2a4904a2965f39f76902997d4c7327a4dca6752f8a3aac97bad1372ca2ef22
@@ -32,4 +33,4 @@ Hackread summarized the operational statistics and the investigative pipeline fr
 
 ## Relevance to IC
 
-This source gives [[operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]] another external technology-media reference.
+This source gives [[operation-raptor|Operation RapTor]] an external technology-media reference for the ten-country darknet-enforcement scope.

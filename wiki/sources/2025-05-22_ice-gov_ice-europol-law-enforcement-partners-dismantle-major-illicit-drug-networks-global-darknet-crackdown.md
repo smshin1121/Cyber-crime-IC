@@ -11,12 +11,13 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  - operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-
+  - operation-raptor
 key_findings:
   - "ICE summarized Operation RapTor as a coordinated crackdown with 270 arrests and record seizures of illicit drugs, firearms, and profits."
   - "The release highlighted Europol and JCODE coordination and framed the action as a major darknet drug-network disruption."
 collection_url: https://www.ice.gov/news/releases/ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global
 created: 2026-04-25
+updated: 2026-05-07
 raw_path: raw/press-releases/2025-05-22_ice_dismantle-major-illicit-drug-networks-global-darknet-crackdown.md
 text_status: parsed
 content_hash: sha256:c56de7dd4db659d6afe17e7375dcbfac74715c1c89298a9bc10856747bc7ce54
@@ -30,4 +31,4 @@ ICE published an agency release on Operation RapTor that emphasized joint U.S.-E
 
 ## Relevance to IC
 
-This source broadens the primary-source base for [[operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]].
+This source broadens the primary-source base for [[operation-raptor|Operation RapTor]], especially on ICE/HSI, Europol, and NCA cooperation.

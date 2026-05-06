@@ -11,12 +11,13 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  - operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-
+  - operation-raptor
 key_findings:
   - "OCCRP reported that Operation RapTor targeted drug, weapons, and counterfeit-goods networks on the dark web and resulted in 270 arrests worldwide."
   - "The report linked the operation to intelligence gathered from prior marketplace takedowns including Nemesis, Tor2Door, Bohemia, and Kingdom Markets."
 collection_url: https://www.occrp.org/en/news/massive-dark-web-sweep-leads-to-270-arrests-worldwide
 created: 2026-04-25
+updated: 2026-05-07
 raw_path: raw/news/2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide.md
 text_status: summarized
 content_hash: sha256:501d7966d324ecbf365932f37022a27a9bc229fcd0f31273e56e7656ae55d02f
@@ -32,4 +33,4 @@ OCCRP provided a non-government summary of Operation RapTor and underscored the 
 
 ## Relevance to IC
 
-This source adds an independent investigative-media account for [[operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]].
+This source adds an independent investigative-media account for [[operation-raptor|Operation RapTor]] and helps confirm the link between prior marketplace seizures and the coordinated arrest phase.

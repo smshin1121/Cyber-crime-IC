@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-kingdom]]"
-jurisdiction: [[united-kingdom]]
+jurisdiction:
+  -
+    - united-kingdom
 created: 2026-04-08
 established: 2013-10-07
 frameworks_administered:
@@ -50,6 +52,7 @@ operations_participated:
   - "[[operation-us-v-monroeville-man]]"
   - "[[operation-us-v-banmeet-singh-dark-web]]"
   - "[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"
+  - "[[operation-raptor]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13
@@ -62,7 +65,7 @@ sources:
 status: active
 title: "UK National Crime Agency (NCA)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

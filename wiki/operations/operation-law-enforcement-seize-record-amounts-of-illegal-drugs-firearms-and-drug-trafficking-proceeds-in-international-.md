@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-1026
 period: 3
 operation_role: follow-on
-parent_operation: ""
+parent_operation: "[[operation-raptor]]"
 operation_type: prosecution
 status: absorbed
 enforcement_type:
@@ -62,19 +62,19 @@ lessons_learned:
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_law-enforcement-seize-record-amounts-illegal-drugs-firearms-and-drug-trafficking-proceeds]]"
-summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+summary: "This long-title wrapper is absorbed into [[operation-raptor|Operation RapTor]], the canonical operation-level record for the 2025 darknet-trafficking enforcement action. It is retained for source-trace continuity only and should not be counted as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-29
+updated: 2026-05-07
 ---
 ## Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+This long-title wrapper is absorbed into [[operation-raptor|Operation RapTor]], the canonical operation-level record for the 2025 darknet-trafficking enforcement action. It is retained for source-trace continuity only and should not be counted as a separate international-cooperation operation.
 
 This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
 ## Canonical Record
 
-- [[law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]]
+- [[operation-raptor]]
 
 ## References
 

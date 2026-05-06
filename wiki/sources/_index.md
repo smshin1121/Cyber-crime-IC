@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (621)
+# Sources (630)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -37,6 +37,10 @@ updated: 2026-04-14
 | [[2026-03-11_eurojust-fraud-term_online-fraud-group-france-germany]] | government | Eurojust | ? | high | ? |
 | [[2026-03-11_eurojust-cybercrime-term_online-fraud-group-france-germany]] | government | Eurojust | ? | high | ? |
 | [[2026-03-11-eurojust-de-fr-online-fraud-group]] | press-release | Eurojust | ? | high | ? |
+| [[2026-02-20_helpnetsecurity_operation-red-card-2-africa-cybercrime]] | news | Help Net Security | ? | medium | ? |
+| [[2026-02-19_thehackernews_operation-red-card-2-651-arrests]] | news | The Hacker News | ? | medium | ? |
+| [[2026-02-19_nairametrics_operation-red-card-2-african-cybercrime]] | news | Nairametrics | ? | medium | ? |
+| [[2026-02-18_interpol_operation-red-card-2-online-scams]] | press-release | INTERPOL | ? | high | ? |
 | [[2026-02-01_interpol-int_annual-report-2024-operation-first-light]] | annual-report | INTERPOL | ? | high | ? |
 | [[2026-01-28_yna_co_kr_136-scam-suspects-nabbed-by-joint-s-korea-cambodia-police-team]] | news | Yonhap News Agency | ? | medium | ? |
 | [[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]] | press-release | Office of Financial Sanctions Implementation | ? | high | ? |
@@ -114,6 +118,11 @@ updated: 2026-04-14
 | [[2025-05-23_helpnetsecurity-com_danabot-botnet-disrupted-qakbot-leader-indicted]] | press-release | Help Net Security | ? | medium | ? |
 | [[2025-05-23_doj_danabot-indictment]] | court-document | US DOJ | ? | high | ? |
 | [[2025-05-23-europol-operation-endgame-phase2]] | press-release | Europol | ? | high | ? |
+| [[2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide]] | news | OCCRP | ? | medium | ? |
+| [[2025-05-22_justice-gov_law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-traffick]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
+| [[2025-05-22_ice-gov_ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global-darknet-crackdown]] | press-release | ICE | ? | high | ? |
+| [[2025-05-22_hackread_com_operation-raptor-270-arrested-global-crackdown-on-dark-web-vendors]] | news | Hackread | ? | medium | ? |
+| [[2025-05-22_fbi-gov_global-operation-targets-darknet-drug-trafficking]] | agency-story | FBI | ? | high | ? |
 | [[2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns]] | press-release | Europol | ? | high | ? |
 | [[2025-05-22_cdca_qakbot-gallyamov-indictment]] | court-document | US DOJ (OPA) | ? | high | ? |
 | [[2025-05-21_wired-com_lumma-stealer-takedown-disrupted]] | news | WIRED | ? | medium | ? |

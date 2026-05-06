@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (118 canonical / 27 absorbed / 145 records)
+# Operations (120 canonical / 27 absorbed / 147 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (118)
+## Canonical Operations (120)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -110,6 +110,7 @@ updated: 2026-04-14
 | [[operation-eastwood]] | CYB-2025-014 | 3 | completed | umbrella | 4 | 4.40 | 1 |
 | [[operation-contender-3]] | CYB-2025-015 | 3 | completed | umbrella | 4 | 4.10 | 1 |
 | [[operation-serengeti-2]] | CYB-2025-016 | 3 | completed | umbrella | 4 | 4.35 | 1 |
+| [[operation-raptor]] | CYB-2025-017 | 3 | completed | umbrella | 5 | 4.40 | 1 |
 | [[operation-chakra-iv]] | CYB-2025-021 | 3 | completed | umbrella | 1 | 2.50 | 3 |
 | [[operation-chakra-v]] | CYB-2025-022 | 3 | completed | umbrella | 1 | 2.60 | 3 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
@@ -119,6 +120,7 @@ updated: 2026-04-14
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |
+| [[operation-red-card-2]] | CYB-2026-003 | 3 | completed | umbrella | 4 | 4.25 | 1 |
 | [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | umbrella | 5 | 4.40 | 2 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |

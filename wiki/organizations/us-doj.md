@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-states]]"
-jurisdiction: [[united-states]]
+jurisdiction:
+  -
+    - united-states
 created: 2026-04-08
 established: 1870-07-01
 frameworks_administered:
@@ -952,6 +954,7 @@ operations_participated:
   - "[[operation-talent]]"
   - "[[operation-shrouded-horizon]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-raptor]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5
@@ -960,7 +963,7 @@ sources:
 status: active
 title: "US Department of Justice (DOJ)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Current Status (as of 2026-04-10)
 

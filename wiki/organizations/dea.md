@@ -3,13 +3,15 @@ type: organization
 title: "Drug Enforcement Administration"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-29
 org_type: federal-law-enforcement
 country: "[[united-states]]"
-jurisdiction: [[united-states]]
+jurisdiction:
+  -
+    - united-states
 official_name: "Drug Enforcement Administration"
-abbreviation: "DEA"
+abbreviation: DEA
 parent_org: "[[us-doj]]"
 mandate: "US federal drug-enforcement agency with a major role in darknet narcotics, counterfeit-pill, fentanyl, and online marketplace investigations."
 key_roles:
@@ -20,6 +22,7 @@ operations_participated:
   - "[[operation-dark-huntor]]"
   - "[[operation-us-v-vallerius-dream-market]]"
   - "[[nemesis-market-takedown]]"
+  - "[[operation-raptor]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"

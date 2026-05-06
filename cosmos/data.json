@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-06T15:18:03Z",
+  "generated_at": "2026-05-06T15:28:30Z",
   "root": null,
   "stats": {
-    "total_nodes": 1320,
-    "total_edges": 12756,
+    "total_nodes": 1331,
+    "total_edges": 12841,
     "broken_links": 0,
     "orphans": 98,
     "by_type": {
@@ -17,14 +17,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 145,
+      "operation": 147,
       "organization": 145,
       "procedure": 2,
-      "source": 621
+      "source": 630
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 118
+      "canonical_operation": 120
     }
   },
   "nodes": [
@@ -52,7 +52,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 62,
+      "degree": 66,
       "path": "wiki/analysis/absorbed-wrapper-source-normalization-2026-04-26.md",
       "meta": {}
     },
@@ -692,7 +692,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 118 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 145 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 68 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 120 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 147 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 70 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-07",
@@ -3486,7 +3486,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/angola.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3554,7 +3554,7 @@
       "source_count": 1,
       "created": "2026-04-14",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 21,
       "path": "wiki/countries/austria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3657,7 +3657,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/countries/benin.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3709,7 +3709,7 @@
       "source_count": 4,
       "created": "2026-04-13",
       "updated": "2026-04-29",
-      "degree": 19,
+      "degree": 20,
       "path": "wiki/countries/brazil.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3794,7 +3794,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/countries/cameroon.md",
       "meta": {
         "legal_system": "mixed",
@@ -3830,7 +3830,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/countries/chad.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3915,7 +3915,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/countries/cote-divoire.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4090,7 +4090,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/countries/france.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4108,7 +4108,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/gabon.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4124,7 +4124,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/gambia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4158,7 +4158,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 142,
+      "degree": 143,
       "path": "wiki/countries/germany.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4176,7 +4176,7 @@
       "source_count": 0,
       "created": "2026-04-12",
       "updated": "2026-05-03",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/countries/ghana.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4434,7 +4434,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/countries/kenya.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4771,7 +4771,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 2,
+      "degree": 3,
       "path": "wiki/countries/namibia.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4787,7 +4787,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 122,
+      "degree": 123,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4821,7 +4821,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 57,
+      "degree": 58,
       "path": "wiki/countries/nigeria.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4995,7 +4995,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/countries/rwanda.md",
       "meta": {
         "legal_system": "mixed",
@@ -5013,7 +5013,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/senegal.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5114,7 +5114,7 @@
       "source_count": 18,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 96,
+      "degree": 97,
       "path": "wiki/countries/south-korea.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5132,7 +5132,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 60,
+      "degree": 61,
       "path": "wiki/countries/spain.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5200,7 +5200,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 49,
+      "degree": 50,
       "path": "wiki/countries/switzerland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5323,7 +5323,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/uganda.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5374,7 +5374,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 136,
+      "degree": 137,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -5392,7 +5392,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 277,
+      "degree": 278,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -5462,7 +5462,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/countries/zambia.md",
       "meta": {
         "legal_system": "common-law",
@@ -5480,7 +5480,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/zimbabwe.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5688,7 +5688,7 @@
       "source_count": 4,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 34,
+      "degree": 35,
       "path": "wiki/crime-types/dark-web-ic.md",
       "meta": {}
     },
@@ -5872,7 +5872,7 @@
       "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-04-14",
-      "degree": 172,
+      "degree": 173,
       "path": "wiki/crime-types/online-fraud-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -6408,7 +6408,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/mechanisms/cryptocurrency-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6463,7 +6463,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 36,
+      "degree": 38,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6625,7 +6625,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 203,
+      "degree": 207,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6787,7 +6787,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 59,
+      "degree": 60,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6803,7 +6803,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 38,
+      "degree": 39,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -7209,7 +7209,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-27",
-      "degree": 84,
+      "degree": 85,
       "path": "wiki/operations/darkmarket-takedown.md",
       "meta": {
         "status": "completed",
@@ -7743,7 +7743,7 @@
       "source_count": 5,
       "created": "2024-03-20",
       "updated": "2026-05-02",
-      "degree": 58,
+      "degree": 59,
       "path": "wiki/operations/nemesis-market-takedown.md",
       "meta": {
         "status": "completed",
@@ -8118,7 +8118,7 @@
       "source_count": 4,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 43,
+      "degree": 44,
       "path": "wiki/operations/operation-contender-3.md",
       "meta": {
         "status": "completed",
@@ -8218,7 +8218,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 96,
+      "degree": 97,
       "path": "wiki/operations/operation-dark-huntor.md",
       "meta": {
         "status": "completed",
@@ -9299,6 +9299,56 @@
       }
     },
     {
+      "id": "operation-raptor",
+      "type": "operation",
+      "title": "Operation RapTor",
+      "title_ko": null,
+      "aliases": [
+        "RapTor",
+        "JCODE Operation RapTor"
+      ],
+      "summary": "Operation RapTor was a global coordinated operation against darknet trafficking of fentanyl, opioids, firearms, counterfeit goods, and related illicit services. DOJ announced the results on 22 May 2025 with JCODE and international law-enforcement…",
+      "source_count": 5,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 41,
+      "path": "wiki/operations/operation-raptor.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "coordinated-arrests",
+        "outcome": "success",
+        "results_arrests": 270,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-red-card-2",
+      "type": "operation",
+      "title": "Operation Red Card 2.0",
+      "title_ko": null,
+      "aliases": [
+        "Red Card 2.0",
+        "INTERPOL Operation Red Card 2.0"
+      ],
+      "summary": "Operation Red Card 2.0 was an INTERPOL-supported cyber-fraud operation conducted under the African Joint Operation against Cybercrime framework. It ran from 8 December 2025 to 30 January 2026 and targeted high-yield investment scams, mobile money…",
+      "source_count": 4,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 39,
+      "path": "wiki/operations/operation-red-card-2.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "coordinated-arrests",
+        "outcome": "success",
+        "results_arrests": 651,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "operation-red-card",
       "type": "operation",
       "title": "Operation Red Card",
@@ -9311,7 +9361,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 66,
+      "degree": 69,
       "path": "wiki/operations/operation-red-card.md",
       "meta": {
         "status": "completed",
@@ -9404,7 +9454,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 45,
+      "degree": 46,
       "path": "wiki/operations/operation-sentinel-africa.md",
       "meta": {
         "status": "completed",
@@ -10387,7 +10437,7 @@
       "source_count": 3,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 31,
+      "degree": 33,
       "path": "wiki/organizations/afripol.md",
       "meta": {
         "org_type": "regional-org",
@@ -10820,7 +10870,7 @@
       "source_count": 5,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 23,
       "path": "wiki/organizations/dea.md",
       "meta": {
         "org_type": "federal-law-enforcement",
@@ -10948,7 +10998,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 427,
+      "degree": 429,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -11003,7 +11053,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 73,
+      "degree": 75,
       "path": "wiki/organizations/fbi.md",
       "meta": {
         "org_type": "national-agency",
@@ -11401,7 +11451,7 @@
       "source_count": 11,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 123,
+      "degree": 127,
       "path": "wiki/organizations/interpol-igci.md",
       "meta": {
         "org_type": "international-org",
@@ -12807,7 +12857,7 @@
       "source_count": 13,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 129,
+      "degree": 131,
       "path": "wiki/organizations/uk-nca.md",
       "meta": {
         "org_type": "national-agency",
@@ -12940,7 +12990,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 268,
+      "degree": 272,
       "path": "wiki/organizations/us-doj.md",
       "meta": {
         "org_type": "national-agency",
@@ -19634,6 +19684,76 @@
       "meta": {}
     },
     {
+      "id": "2025-05-22_fbi-gov_global-operation-targets-darknet-drug-trafficking",
+      "type": "source",
+      "title": "Global Operation Targets Darknet Drug Trafficking",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The FBI published a narrative summary of Operation RapTor, emphasizing its multinational scope, JCODE coordination, and the operational examples behind the public totals. ## Relevance to IC This source adds a second primary U.S.…",
+      "source_count": 0,
+      "created": "2026-04-25",
+      "updated": "2026-05-07",
+      "degree": 3,
+      "path": "wiki/sources/2025-05-22_fbi-gov_global-operation-targets-darknet-drug-trafficking.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-05-22_hackread_com_operation-raptor-270-arrested-global-crackdown-on-dark-web-vendors",
+      "type": "source",
+      "title": "Operation RapTor: 270 Arrested in Global Crackdown on Dark Web Vendors",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Hackread summarized the operational statistics and the investigative pipeline from prior marketplace takedowns to arrests under Operation RapTor. ## Relevance to IC This source gives Operation RapTor an external technology-media…",
+      "source_count": 0,
+      "created": "2026-04-25",
+      "updated": "2026-05-07",
+      "degree": 3,
+      "path": "wiki/sources/2025-05-22_hackread_com_operation-raptor-270-arrested-global-crackdown-on-dark-web-vendors.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-05-22_ice-gov_ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global-darknet-crackdown",
+      "type": "source",
+      "title": "ICE, Europol, law enforcement partners, dismantle major illicit drug networks in global Darknet crackdown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary ICE published an agency release on Operation RapTor that emphasized joint U.S.-European enforcement and the scale of the seizures. ## Relevance to IC This source broadens the primary-source base for Operation RapTor, especially on…",
+      "source_count": 0,
+      "created": "2026-04-25",
+      "updated": "2026-05-07",
+      "degree": 3,
+      "path": "wiki/sources/2025-05-22_ice-gov_ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global-darknet-crackdown.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-05-22_justice-gov_law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-traffick",
+      "type": "source",
+      "title": "Law Enforcement Seize Record Amounts of Illegal Drugs, Firearms, and Drug Trafficking Proceeds in International Operation Against Darknet Trafficking of Fentanyl and Opioids; 270 Arrested Across Four Continents",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DOJ's official release is the anchor source for Operation RapTor. It confirms the operation name, 270-arrest total, ten named arrest countries, four-continent scope, and record seizure figures for currency, digital assets, drugs,…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2025-05-22_justice-gov_law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-traffick.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide",
+      "type": "source",
+      "title": "Massive Dark Web Sweep Leads to 270 Arrests Worldwide",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary OCCRP provided a non-government summary of Operation RapTor and underscored the role of prior darknet-market seizures in generating investigative leads. ## Relevance to IC This source adds an independent investigative-media…",
+      "source_count": 0,
+      "created": "2026-04-25",
+      "updated": "2026-05-07",
+      "degree": 3,
+      "path": "wiki/sources/2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide.md",
+      "meta": {}
+    },
+    {
       "id": "2025-05-23-europol-operation-endgame-phase2",
       "type": "source",
       "title": "Operation Endgame strikes again: the ransomware kill chain broken at its source",
@@ -20653,6 +20773,62 @@
       "updated": null,
       "degree": 2,
       "path": "wiki/sources/2026-02-01_interpol-int_annual-report-2024-operation-first-light.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-02-18_interpol_operation-red-card-2-online-scams",
+      "type": "source",
+      "title": "Major operation in Africa targeting online scams nets 651 arrests, recovers USD 4.3 million",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INTERPOL's official release is the anchor source for Operation Red Card 2.0. It confirms the 16-country participation list, December 2025 to January 2026 operational window, fraud targets, arrests, recovered funds, victims…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2026-02-18_interpol_operation-red-card-2-online-scams.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-02-19_nairametrics_operation-red-card-2-african-cybercrime",
+      "type": "source",
+      "title": "INTERPOL-backed operation recovers $4.3m from cybercrime in Nigeria, Kenya, others",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Nairametrics provides regional media confirmation of Operation Red Card 2.0, with emphasis on Nigeria, Kenya, Cote d'Ivoire, and the full 16-country participation list. ## Relevance to IC This source adds regional corroboration…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2026-02-19_nairametrics_operation-red-card-2-african-cybercrime.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-02-19_thehackernews_operation-red-card-2-651-arrests",
+      "type": "source",
+      "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The Hacker News provides external cybersecurity-media confirmation of Operation Red Card 2.0, including the operation name, timeframe, 16-country list, target fraud types, arrests, recovered funds, and infrastructure disruption.…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 3,
+      "path": "wiki/sources/2026-02-19_thehackernews_operation-red-card-2-651-arrests.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-02-20_helpnetsecurity_operation-red-card-2-africa-cybercrime",
+      "type": "source",
+      "title": "651 arrested, $4.3 million recovered in African cybercrime sweep",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Help Net Security provides independent cybersecurity-media coverage of Operation Red Card 2.0, confirming the headline enforcement figures and describing the country-level examples highlighted by INTERPOL. ## Relevance to IC This…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2026-02-20_helpnetsecurity_operation-red-card-2-africa-cybercrime.md",
       "meta": {}
     },
     {
@@ -22196,6 +22372,30 @@
     {
       "source": "absorbed-wrapper-source-normalization-2026-04-26",
       "target": "2019-10-16_ice_south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2025-05-22_fbi-gov_global-operation-targets-darknet-drug-trafficking",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2025-05-22_ice-gov_ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global-darknet-crackdown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2025-05-22_hackread_com_operation-raptor-270-arrested-global-crackdown-on-dark-web-vendors",
       "kind": "body",
       "directed": false
     },
@@ -75966,6 +76166,336 @@
       "directed": false
     },
     {
+      "source": "operation-raptor",
+      "target": "us-doj",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "dark-web-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "us-doj",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "informal-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "cryptocurrency-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "us-doj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "fbi",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "dea",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "uk-nca",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "austria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "brazil",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "germany",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "south-korea",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "spain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "switzerland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "operation-dark-huntor",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "nemesis-market-takedown",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-raptor",
+      "target": "darkmarket-takedown",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "interpol-igci",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "interpol-igci",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "informal-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "interpol-igci",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "afripol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "angola",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "benin",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "cameroon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "cote-divoire",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "chad",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "gabon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "gambia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "ghana",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "kenya",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "namibia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "nigeria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "rwanda",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "senegal",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "uganda",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "zambia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "zimbabwe",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "operation-red-card",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "operation-contender-3",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "operation-sentinel-africa",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-red-card-2",
+      "target": "operation-red-card",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-red-card",
       "target": "afripol",
       "kind": "coordinating_body",
@@ -82279,6 +82809,12 @@
     },
     {
       "source": "afripol",
+      "target": "operation-red-card-2",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "afripol",
       "target": "african-union",
       "kind": "parent_org",
       "directed": true
@@ -83311,6 +83847,12 @@
     },
     {
       "source": "dea",
+      "target": "operation-raptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "dea",
       "target": "us-doj",
       "kind": "parent_org",
       "directed": true
@@ -84319,6 +84861,12 @@
     },
     {
       "source": "europol-ec3",
+      "target": "operation-raptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
       "target": "operation-cronos-phase1",
       "kind": "body",
       "directed": false
@@ -84848,6 +85396,12 @@
     {
       "source": "fbi",
       "target": "operation-eastwood",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi",
+      "target": "operation-raptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -86168,6 +86722,12 @@
     {
       "source": "interpol-igci",
       "target": "operation-synergia-iii",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol-igci",
+      "target": "operation-red-card-2",
       "kind": "operations_participated",
       "directed": true
     },
@@ -90055,6 +90615,12 @@
     },
     {
       "source": "uk-nca",
+      "target": "operation-raptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "uk-nca",
       "target": "united-kingdom",
       "kind": "body",
       "directed": false
@@ -90710,6 +91276,12 @@
     {
       "source": "us-doj",
       "target": "proxy-service-takedown-2026-03",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-doj",
+      "target": "operation-raptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -95868,6 +96440,66 @@
       "directed": true
     },
     {
+      "source": "2025-05-22_fbi-gov_global-operation-targets-darknet-drug-trafficking",
+      "target": "operation-raptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-05-22_fbi-gov_global-operation-targets-darknet-drug-trafficking",
+      "target": "operation-raptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-05-22_hackread_com_operation-raptor-270-arrested-global-crackdown-on-dark-web-vendors",
+      "target": "operation-raptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-05-22_hackread_com_operation-raptor-270-arrested-global-crackdown-on-dark-web-vendors",
+      "target": "operation-raptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-05-22_ice-gov_ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global-darknet-crackdown",
+      "target": "operation-raptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-05-22_ice-gov_ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global-darknet-crackdown",
+      "target": "operation-raptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-05-22_justice-gov_law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-traffick",
+      "target": "operation-raptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-05-22_justice-gov_law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-traffick",
+      "target": "operation-raptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide",
+      "target": "operation-raptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide",
+      "target": "operation-raptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2025-05-23-europol-operation-endgame-phase2",
       "target": "operation-endgame-phase2",
       "kind": "pages_updated",
@@ -96860,6 +97492,60 @@
     {
       "source": "2026-02-01_interpol-int_annual-report-2024-operation-first-light",
       "target": "operation-first-light-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-02-18_interpol_operation-red-card-2-online-scams",
+      "target": "operation-red-card-2",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-18_interpol_operation-red-card-2-online-scams",
+      "target": "operation-red-card-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-02-19_nairametrics_operation-red-card-2-african-cybercrime",
+      "target": "operation-red-card-2",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-19_nairametrics_operation-red-card-2-african-cybercrime",
+      "target": "operation-red-card-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-02-19_thehackernews_operation-red-card-2-651-arrests",
+      "target": "operation-red-card-2",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-19_thehackernews_operation-red-card-2-651-arrests",
+      "target": "operation-red-card-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-02-19_thehackernews_operation-red-card-2-651-arrests",
+      "target": "operation-red-card",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-02-20_helpnetsecurity_operation-red-card-2-africa-cybercrime",
+      "target": "operation-red-card-2",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-20_helpnetsecurity_operation-red-card-2-africa-cybercrime",
+      "target": "operation-red-card-2",
       "kind": "body",
       "directed": false
     },

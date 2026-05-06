@@ -104,6 +104,7 @@ operations_participated:
   - "[[mobdro-illegal-streaming-takedown-2021]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
   - "[[operation-eastwood]]"
+  - "[[operation-raptor]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9
