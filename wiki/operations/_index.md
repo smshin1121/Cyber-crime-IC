@@ -6,13 +6,14 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (125 canonical / 27 absorbed / 152 records)
+# Operations (126 canonical / 27 absorbed / 153 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (125)
+## Canonical Operations (126)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
+| [[operation-phish-phry]] | CYB-2009-001 | 1 | completed | umbrella | 4 | 4.20 | 1 |
 | [[operation-trident-breach]] | CYB-2010-001 | 1 | completed | umbrella | 5 | 4.25 | 1 |
 | [[silk-road-takedown]] | CYB-2013-001 | 1 | completed | umbrella | 7 | 4.50 | 1 |
 | [[operation-onymous]] | CYB-2014-001 | 1 | completed | umbrella | 4 | 4.00 | 1 |

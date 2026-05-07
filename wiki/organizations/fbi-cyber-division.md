@@ -108,6 +108,7 @@ operations_participated:
   - "[[operation-chakra-ii]]"
   - "[[operation-trident-breach]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-phish-phry]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

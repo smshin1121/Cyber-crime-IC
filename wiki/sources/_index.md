@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (593)
+# Sources (597)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -601,5 +601,9 @@ updated: 2026-04-14
 | [[2010-10-01_fbi_operation-trident-breach]] | press-release | FBI | 1 | high | ? |
 | [[2010-10-01_fbi_cyber-bust-zeus]] | government-news | FBI | 1 | high | ? |
 | [[2010-09-30_fbi-newyork_zeus-trojan-bank-fraud]] | press-release | FBI New York | 1 | high | ? |
+| [[2009-10-07_wired_phish-phry]] | news | Wired | ? | medium | ? |
+| [[2009-10-07_pcworld_operation-phish-phry]] | news | PCWorld | ? | medium | ? |
+| [[2009-10-07_fbi_operation-phish-phry]] | press-release | FBI | ? | high | ? |
+| [[2009-10-07_fbi-losangeles_operation-phish-phry]] | press-release | FBI Los Angeles | ? | high | ? |
 | [[unodc-alphabay-true-crime-story]] | government-report | UN Office on Drugs and Crime (UNODC) | ? | high | ? |
 | [[interpol-operation-haechi-ii]] | press-release | INTERPOL | 2 | high | ? |

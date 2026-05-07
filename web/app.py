@@ -1512,7 +1512,7 @@ def page_not_found(e):
 def inject_globals():
     return {
         "categories": CATEGORIES,
-        "now": datetime.now().strftime("%Y-%m-%d"),
+        "now": os.environ.get("WIKI_BUILD_DATE") or datetime.now().strftime("%Y-%m-%d"),
     }
 
 

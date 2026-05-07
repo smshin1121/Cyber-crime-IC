@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[united-states]]"
 jurisdiction:
-  -
-    - united-states
+
 created: 2026-04-10
 established: 2020-07
 frameworks_administered:
@@ -38,6 +37,7 @@ operations_participated:
   - "[[trickbot-operations]]"
   - "[[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]]"
   - "[[operation-trident-breach]]"
+  - "[[operation-phish-phry]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
 source_count: 4

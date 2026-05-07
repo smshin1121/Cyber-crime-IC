@@ -4,6 +4,7 @@ ic-statistics-dashboard.md with computed values from wiki pages.
 
 Run before build_static.py to keep dashboard data in sync.
 """
+import os
 import re
 from collections import defaultdict
 from datetime import date
@@ -22,7 +23,7 @@ except ModuleNotFoundError:  # pragma: no cover - package import fallback
     from tools.operation_scope import is_absorbed_operation
 
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
-TODAY = date.today().isoformat()
+TODAY = os.environ.get("WIKI_BUILD_DATE") or date.today().isoformat()
 
 
 # ---------------------------------------------------------------------------

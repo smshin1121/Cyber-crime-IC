@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (140)
+# Countries (141)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -41,6 +41,7 @@ total: 61
 | 🇩🇰 | [[denmark]] | civil-law | not-assessed | unknown | unknown | 1 |
 | 🇪🇨 | [[ecuador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇪🇪 | [[estonia]] | civil-law | party | high | unknown | 3 |
+| 🇪🇬 | [[egypt]] | civil-law | — | medium | unknown | 1 |
 | 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 6 |
 | 🇫🇮 | [[finland]] | civil-law | party (2007) | high | 90-180 | 6 |
 | 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 6 |
