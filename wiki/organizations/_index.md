@@ -44,7 +44,7 @@ updated: 2026-04-08
 | [[dod-inspector-general]] | national-agency | United States | Independent oversight office for the US Department of Defense.; Parent organization for [[us-dcis\|Defense Criminal Investigative Service]]. | 1 | 2 |
 | [[dutch-police]] | national-agency | Netherlands | Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles.; Routes current institutional context to [[netherlands-politie]]. | 2 | 3 |
 | [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 20 | 3 |
-| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 84 | 12 |
+| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 85 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | Compatibility label for Bundeskriminalamt references in older operation records.; Routes detailed mandate, cybercrime division, and international-cooperation context to [[germany-bka]]. | 2 | 3 |
 | [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 24 | 5 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 5 | 3 |
@@ -75,7 +75,7 @@ updated: 2026-04-08
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 2 | 8 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 28 | 13 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 10 | 3 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 932 | 5 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 933 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 7 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | federal prosecution; international evidence coordination | 10 | 3 |
 | [[krcert-cc]] | national-cert | [[south-korea]] | Coordinates incident response and public cyber-security guidance for the Korean internet ecosystem.; Provides the operational CERT/CC-facing function associated with KISA's national cyber-security mandate. | — | 1 |
@@ -111,7 +111,7 @@ updated: 2026-04-08
 | [[latvia-state-police]] | national-unit | Latvia | Latvian state police cybercrime investigation context.; Law-enforcement counterpart to [[cert-lv]] for cybercrime cases. | 2 | 3 |
 | [[lithuania-police]] | national-unit | Saltoniškių g. 19, Vilnius 08105, Lithuania | — | 3 | 3 |
 | [[mauritius-police-cybercrime]] | national-unit | Mauritius | Police-side cybercrime investigation point for Mauritius.; Complements CERT-MU's incident-response role with criminal-investigation capacity. | — | 1 |
-| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 30 | 4 |
+| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 31 | 4 |
 | [[norway-kripos]] | national-unit | Norway | National criminal investigation service for serious and organized crime in Norway.; Institutional parent for [[norway-nc3\|Norway NC3]]. | — | 2 |
 | [[norway-nc3]] | national-unit | Norway | Norway's national cybercrime centre within [[norway-kripos\|Kripos]].; Cybercrime investigation and 24/7 contact-point context for Norway. | — | 1 |
 | [[poland-police]] | national-unit | ul. Wąwozowa 18, Warsaw, Poland | Nationwide cybercrime investigation; Cooperation with Europol EC3 and Interpol | 3 | 3 |

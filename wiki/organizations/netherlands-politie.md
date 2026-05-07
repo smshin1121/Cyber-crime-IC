@@ -55,6 +55,7 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-trident-breach]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-ghost-click]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

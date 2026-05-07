@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (597)
+# Sources (601)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -595,7 +595,11 @@ updated: 2026-04-14
 | [[2015-01-01_swansea-ac-uk_gdpo-situation-analysis-operation-onymous]] | press-release | Swansea University | ? | medium | ? |
 | [[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]] | press-release | ICE / HSI | ? | medium | ? |
 | [[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]] | press-release | FBI | ? | high | ? |
+| [[2014-07-15_fbi_taking-down-botnets-ghost-click]] | government-report | FBI | ? | high | ? |
 | [[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]] | press-release | DOJ SDNY | ? | high | ? |
+| [[2011-11-10_guardian_ghost-click-botnet]] | news | The Guardian | ? | medium | ? |
+| [[2011-11-10_arstechnica_dnschanger-ghost-click]] | news | Ars Technica | ? | medium | ? |
+| [[2011-11-09_fbi_operation-ghost-click]] | press-release | FBI | ? | high | ? |
 | [[2010-10-02_krebsonsecurity_operation-trident-breach-zeus]] | news | Krebs on Security | 2 | medium | ? |
 | [[2010-10-01_wired_zeus-ukraine-arrests-trident-breach]] | news | Wired | 2 | medium | ? |
 | [[2010-10-01_fbi_operation-trident-breach]] | press-release | FBI | 1 | high | ? |

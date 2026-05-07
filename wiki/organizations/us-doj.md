@@ -957,6 +957,7 @@ operations_participated:
   - "[[operation-trident-breach]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-phish-phry]]"
+  - "[[operation-ghost-click]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5
