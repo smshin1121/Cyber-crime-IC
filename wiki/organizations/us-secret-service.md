@@ -39,6 +39,7 @@ operations_participated:
   - "[[operation-trident-breach]]"
   - "[[operation-phish-phry]]"
   - "[[operation-firewall]]"
+  - "[[operation-open-market]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
 source_count: 4

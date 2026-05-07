@@ -20,6 +20,7 @@ operations_participated:
   - "[[qqaazz-money-laundering-takedown]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[xdedic-marketplace-takedown]]"
+  - "[[operation-open-market]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"

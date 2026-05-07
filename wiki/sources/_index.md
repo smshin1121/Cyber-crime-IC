@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (605)
+# Sources (609)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -552,6 +552,7 @@ updated: 2026-04-14
 | [[2016-01-12_pcworld_europol-tracks-dd4bc-cyber-extortion-gang-to-bosnia]] | news | PCWorld | ? | medium | ? |
 | [[2016-01-12_coindesk_suspected-members-of-bitcoin-extortion-group-dd4bc-captured]] | news | CoinDesk | ? | medium | ? |
 | [[2015-12-31_europol-review-2015_operation-triangle-financial-fraud-cybercrime-group-dismantled]] | report | Europol | ? | high | ? |
+| [[2015-12-09_doj_operation-open-market-sentencing]] | press-release | U.S. Department of Justice | ? | high | ? |
 | [[2015-12-03_ice-gov_senior-advisor-arrested-in-thailand]] | press-release | US ICE | ? | medium | ? |
 | [[2015-10-22_microsoft_breaking-up-a-botnet-how-ramnit-was-foiled]] | press-release | Microsoft | ? | medium | ? |
 | [[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]] | press-release | US DOJ | ? | high | ? |
@@ -593,11 +594,14 @@ updated: 2026-04-14
 | [[europol-europol-botnet-takedown-2023]] | press-release | Europol | 2 | high | ? |
 | [[2015-02-16_securelist_the-great-bank-robbery-the-carbanak-apt]] | technical-report | Kaspersky Securelist | 2 | high | ? |
 | [[2015-02-04_fbi-gov_ross-ulbricht-found-guilty-on-all-counts]] | press-release | FBI New York | ? | high | ? |
+| [[2015-01-11_ice_georgievski-open-market-extradition]] | press-release | ICE | ? | high | ? |
 | [[2015-01-01_swansea-ac-uk_gdpo-situation-analysis-operation-onymous]] | press-release | Swansea University | ? | medium | ? |
 | [[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]] | press-release | ICE / HSI | ? | medium | ? |
 | [[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]] | press-release | FBI | ? | high | ? |
 | [[2014-07-15_fbi_taking-down-botnets-ghost-click]] | government-report | FBI | ? | high | ? |
 | [[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]] | press-release | DOJ SDNY | ? | high | ? |
+| [[2013-07-22_wired_operation-open-market]] | news | Wired | ? | medium | ? |
+| [[2012-03-16_secret-service_operation-open-market]] | press-release | U.S. Secret Service | ? | high | ? |
 | [[2011-11-10_guardian_ghost-click-botnet]] | news | The Guardian | ? | medium | ? |
 | [[2011-11-10_arstechnica_dnschanger-ghost-click]] | news | Ars Technica | ? | medium | ? |
 | [[2011-11-09_fbi_operation-ghost-click]] | press-release | FBI | ? | high | ? |

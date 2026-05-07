@@ -26,7 +26,7 @@ updated: 2026-04-08
 | [[council-of-europe]] | international-organization | Strasbourg, France | Administers the Budapest Convention ecosystem for cybercrime law harmonization and international cooperation.; Maintains treaty status and party-observer information for Convention 185. | — | 3 |
 | [[united-nations]] | international-organization | — | Provides the institutional framework for UNGA, UNODC, and the UN Cybercrime Convention process.; Hosts global norm-setting and treaty processes relevant to cybercrime and electronic evidence. | — | 2 |
 | [[interpol-icse-database]] | investigative-database | — | Supports comparison and deconfliction of child sexual exploitation material across jurisdictions.; Provides an INTERPOL-hosted mechanism for victim identification and international child-protection cooperation. | — | 2 |
-| [[office-of-international-affairs]] | justice-international-cooperation-office | [[united-states]] | Central US legal channel for mutual legal assistance and extradition work in cross-border cybercrime cases.; Supports prosecutors and investigators when foreign searches, arrests, evidence collection, or defendant transfers are required. | 4 | 4 |
+| [[office-of-international-affairs]] | justice-international-cooperation-office | [[united-states]] | Central US legal channel for mutual legal assistance and extradition work in cross-border cybercrime cases.; Supports prosecutors and investigators when foreign searches, arrests, evidence collection, or defendant transfers are required. | 5 | 4 |
 | [[german-police]] | law-enforcement-umbrella | [[germany]] | Preserves generic German police attribution from operation pages without over-assigning it to a single German agency.; Routes federal cybercrime and international-cooperation detail to [[germany-bka]]. | 1 | 3 |
 | [[uk-metropolitan-police]] | metropolitan-police-service | London, United Kingdom | local and specialist police support; cyber extortion investigation support | 4 | 2 |
 | [[bulgaria-ministry-of-interior]] | ministry | [[bulgaria]] | Parent organization for [[bulgaria-police\|Bulgarian cybercrime police / GDBOP]] functions.; Hosts Bulgaria's cybercrime enforcement context, including the 24/7 National Contact Point for high-tech crimes described in local sources. | 2 | 2 |
@@ -75,7 +75,7 @@ updated: 2026-04-08
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 2 | 8 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 28 | 13 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 10 | 3 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 934 | 5 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 935 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 7 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | federal prosecution; international evidence coordination | 10 | 3 |
 | [[krcert-cc]] | national-cert | [[south-korea]] | Coordinates incident response and public cyber-security guidance for the Korean internet ecosystem.; Provides the operational CERT/CC-facing function associated with KISA's national cyber-security mandate. | — | 1 |
@@ -126,7 +126,7 @@ updated: 2026-04-08
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 6 | 3 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 3 | 4 |
 | [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 1 | 3 |
-| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 16 | 4 |
+| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 17 | 4 |
 | [[ncmec]] | nonprofit-clearinghouse | [[united-states]] | Receives and routes child sexual exploitation tips through CyberTipline channels.; Supports law-enforcement victim identification and child-protection investigations. | — | 2 |
 | [[uk-met-police-cyber]] | police-cybercrime-unit | [[united-kingdom]] | Supports investigations into cyber extortion, DDoS-for-ransom, and cyber-enabled fraud affecting London or UK victims.; Acts as a UK metropolitan cybercrime partner in Europol-supported operations. | 2 | 2 |
 | [[trend-micro]] | private-cybersecurity-company | [[japan]] | Provides malware telemetry, threat intelligence, and technical analysis to INTERPOL-led cybercrime operations.; Appears repeatedly in public-private cooperation chains for BEC, botnet, phishing, and malicious-infrastructure disruptions. | 9 | 6 |

@@ -959,6 +959,7 @@ operations_participated:
   - "[[operation-phish-phry]]"
   - "[[operation-ghost-click]]"
   - "[[operation-firewall]]"
+  - "[[operation-open-market]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5
