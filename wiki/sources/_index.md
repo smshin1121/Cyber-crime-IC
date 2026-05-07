@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (614)
+# Sources (619)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -572,6 +572,7 @@ updated: 2026-04-14
 | [[europol-zeusspyeye-joint-investigation-team-takedown]] | press-release | Europol | 2 | high | ? |
 | [[2025-06-25_helpnetsecurity-com_the-downfall-of-a-major-cybercrime-ring-exploiting-banking-trojans]] | news | Help Net Security | ? | medium | ? |
 | [[2015-06-25_scworld-com_europol-takes-down-high-profile-ukraine-based-cybergang]] | news | SC Media | ? | medium | ? |
+| [[2015-06-23_fbi_blackshades-yucel-sentencing]] | press-release | FBI | ? | high | ? |
 | [[2015-06-12_securityaffairs_law-enforcement-dismantled-gang-behind-operation-triangle-phishing-campaign]] | news | Security Affairs | ? | medium | ? |
 | [[2015-06-12_infosecuritymagazine_europol-busts-operation-triangle-in-six-nation-raid]] | news | Infosecurity Magazine | ? | medium | ? |
 | [[2015-06-11_europeanaffairs_europol-operation-triangle-cybercrime-net-dismantled]] | news | European Affairs Magazine | ? | medium | ? |
@@ -596,6 +597,7 @@ updated: 2026-04-14
 | [[2015-02-04_fbi-gov_ross-ulbricht-found-guilty-on-all-counts]] | press-release | FBI New York | ? | high | ? |
 | [[2015-01-11_ice_georgievski-open-market-extradition]] | press-release | ICE | ? | high | ? |
 | [[2015-01-01_swansea-ac-uk_gdpo-situation-analysis-operation-onymous]] | press-release | Swansea University | ? | medium | ? |
+| [[2015-01-01_eurojust_operation-blackshades-evaluation]] | government-report | Eurojust | ? | high | ? |
 | [[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]] | press-release | ICE / HSI | ? | medium | ? |
 | [[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]] | press-release | FBI | ? | high | ? |
 | [[2014-07-15_fbi_taking-down-botnets-ghost-click]] | government-report | FBI | ? | high | ? |
@@ -604,6 +606,9 @@ updated: 2026-04-14
 | [[2014-06-02_fbi_gameover-zeus-botnet-disrupted]] | press-release | FBI | ? | high | ? |
 | [[2014-06-02_doj_operation-tovar-gameover-zeus]] | press-release | U.S. Department of Justice | ? | high | ? |
 | [[2014-06-02_arstechnica_operation-tovar]] | news | Ars Technica | ? | medium | ? |
+| [[2014-05-19_fbi_blackshades-malware-takedown]] | press-release | FBI | ? | high | ? |
+| [[2014-05-19_doj_blackshades-malware-charges]] | press-release | U.S. Department of Justice | ? | high | ? |
+| [[2014-05-19_computerworld_blackshades-97-arrests]] | news | Computerworld | ? | medium | ? |
 | [[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]] | press-release | DOJ SDNY | ? | high | ? |
 | [[2013-07-22_wired_operation-open-market]] | news | Wired | ? | medium | ? |
 | [[2012-03-16_secret-service_operation-open-market]] | press-release | U.S. Secret Service | ? | high | ? |

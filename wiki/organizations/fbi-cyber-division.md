@@ -111,6 +111,7 @@ operations_participated:
   - "[[operation-phish-phry]]"
   - "[[operation-ghost-click]]"
   - "[[operation-tovar]]"
+  - "[[operation-blackshades]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

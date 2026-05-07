@@ -65,6 +65,7 @@ operations_participated:
   - "[[operation-taken-down-illegal-iptv-2024]]"
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-blackshades]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

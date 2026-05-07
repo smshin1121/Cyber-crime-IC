@@ -26,6 +26,7 @@ operations_participated:
   - "[[xdedic-marketplace-takedown]]"
   - "[[operation-endgame]]"
   - "[[operation-weleakinfo-to-and-related-domain-names-seized]]"
+  - "[[operation-blackshades]]"
 notable_cases: []
 contact_point_for:
   - "[[24-7-network]]"

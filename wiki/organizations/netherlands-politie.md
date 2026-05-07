@@ -58,6 +58,7 @@ operations_participated:
   - "[[operation-ghost-click]]"
   - "[[operation-firewall]]"
   - "[[operation-tovar]]"
+  - "[[operation-blackshades]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

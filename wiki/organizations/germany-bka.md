@@ -50,6 +50,7 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-tovar]]"
+  - "[[operation-blackshades]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

@@ -54,6 +54,7 @@ operations_participated:
   - "[[operation-raptor]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-tovar]]"
+  - "[[operation-blackshades]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

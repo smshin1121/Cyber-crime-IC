@@ -108,6 +108,7 @@ operations_participated:
   - "[[operation-pangea-xvii]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-tovar]]"
+  - "[[operation-blackshades]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

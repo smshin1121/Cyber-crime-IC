@@ -22,6 +22,7 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-tovar]]"
+  - "[[operation-blackshades]]"
 org_type: national-unit
 parent_org: "Direction Nationale de la Police Judiciaire (Police Nationale, Ministry"
 source_count: 3

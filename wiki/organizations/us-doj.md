@@ -961,6 +961,7 @@ operations_participated:
   - "[[operation-firewall]]"
   - "[[operation-open-market]]"
   - "[[operation-tovar]]"
+  - "[[operation-blackshades]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

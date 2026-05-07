@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-07T16:55:23Z",
+  "generated_at": "2026-05-07T21:55:33Z",
   "root": null,
   "stats": {
-    "total_nodes": 1261,
-    "total_edges": 11806,
+    "total_nodes": 1267,
+    "total_edges": 11882,
     "broken_links": 0,
     "orphans": 107,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 157,
+      "operation": 158,
       "organization": 146,
       "procedure": 2,
-      "source": 614
+      "source": 619
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 130
+      "canonical_operation": 131
     }
   },
   "nodes": [
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 130 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 157 | | Period 1 (pre-2019) | 30 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 131 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 158 | | Period 1 (pre-2019) | 31 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4855 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4860 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -1952,7 +1952,7 @@
       "source_count": 1,
       "created": "2026-04-14",
       "updated": "2026-04-29",
-      "degree": 23,
+      "degree": 24,
       "path": "wiki/countries/austria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2036,7 +2036,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 31,
+      "degree": 32,
       "path": "wiki/countries/belgium.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2242,7 +2242,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 53,
+      "degree": 54,
       "path": "wiki/countries/canada.md",
       "meta": {
         "legal_system": "mixed",
@@ -2276,7 +2276,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/countries/chile.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2395,7 +2395,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/countries/croatia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2497,7 +2497,7 @@
       "source_count": 1,
       "created": "2026-04-11",
       "updated": "2026-04-29",
-      "degree": 32,
+      "degree": 33,
       "path": "wiki/countries/denmark.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2566,7 +2566,7 @@
       "source_count": 3,
       "created": "2026-04-20",
       "updated": "2026-04-29",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/countries/estonia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2600,7 +2600,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 22,
+      "degree": 23,
       "path": "wiki/countries/finland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2618,7 +2618,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 88,
+      "degree": 89,
       "path": "wiki/countries/france.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2686,7 +2686,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 141,
+      "degree": 142,
       "path": "wiki/countries/germany.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2958,7 +2958,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 47,
+      "degree": 48,
       "path": "wiki/countries/italy.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3293,7 +3293,7 @@
       "source_count": 4,
       "created": "2026-04-11",
       "updated": "2026-04-29",
-      "degree": 28,
+      "degree": 29,
       "path": "wiki/countries/moldova.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3411,7 +3411,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 130,
+      "degree": 131,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3937,7 +3937,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 52,
+      "degree": 53,
       "path": "wiki/countries/switzerland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4127,7 +4127,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 143,
+      "degree": 144,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4145,7 +4145,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 209,
+      "degree": 210,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -4578,7 +4578,7 @@
       "source_count": 4,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 38,
+      "degree": 39,
       "path": "wiki/crime-types/malware-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -5200,7 +5200,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 23,
       "path": "wiki/mechanisms/domain-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5216,7 +5216,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 46,
+      "degree": 48,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5269,7 +5269,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 22,
       "path": "wiki/mechanisms/eurojust-coordination-meeting.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5362,7 +5362,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 19,
+      "degree": 21,
       "path": "wiki/mechanisms/extradition.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5524,7 +5524,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 91,
+      "degree": 93,
       "path": "wiki/mechanisms/mutual-legal-assistance.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5556,7 +5556,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 51,
+      "degree": 53,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6274,7 +6274,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 63,
+      "degree": 65,
       "path": "wiki/operations/imminent-monitor-rat-takedown.md",
       "meta": {
         "status": "completed",
@@ -6677,6 +6677,32 @@
         "operation_type": "arrest-sweep",
         "outcome": "success",
         "results_arrests": 5,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-blackshades",
+      "type": "operation",
+      "title": "Operation Blackshades",
+      "title_ko": "Operation Blackshades",
+      "aliases": [
+        "Blackshades malware takedown",
+        "Blackshades RAT takedown",
+        "International Blackshades Malware Takedown"
+      ],
+      "summary": "Operation Blackshades was a 2014 international cybercrime action targeting creators, sellers, and users of the Blackshades Remote Access Tool. Blackshades let users remotely control victims' computers, activate webcams, steal files and credentials,…",
+      "source_count": 5,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 76,
+      "path": "wiki/operations/operation-blackshades.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "arrest-sweep",
+        "outcome": "success",
+        "results_arrests": 97,
         "operation_scope": "canonical_operation"
       }
     },
@@ -7530,7 +7556,7 @@
       "source_count": 4,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 38,
+      "degree": 39,
       "path": "wiki/operations/operation-ghost-click.md",
       "meta": {
         "status": "completed",
@@ -8647,7 +8673,7 @@
       "source_count": 5,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 79,
+      "degree": 81,
       "path": "wiki/operations/operation-tovar.md",
       "meta": {
         "status": "completed",
@@ -9569,7 +9595,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 9,
+      "degree": 11,
       "path": "wiki/organizations/belgium-federal-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -9684,7 +9710,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 45,
+      "degree": 47,
       "path": "wiki/organizations/canada-rcmp.md",
       "meta": {
         "org_type": "national-unit",
@@ -9893,7 +9919,7 @@
       "source_count": 2,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 13,
+      "degree": 15,
       "path": "wiki/organizations/denmark-national-police.md",
       "meta": {
         "org_type": "national-police-parent",
@@ -9985,7 +10011,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 213,
+      "degree": 216,
       "path": "wiki/organizations/eurojust.md",
       "meta": {
         "org_type": "regional-org",
@@ -10004,7 +10030,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 415,
+      "degree": 417,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -10040,7 +10066,7 @@
       "source_count": 12,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 246,
+      "degree": 249,
       "path": "wiki/organizations/fbi-cyber-division.md",
       "meta": {
         "org_type": "national-agency",
@@ -10149,7 +10175,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 29,
+      "degree": 31,
       "path": "wiki/organizations/france-national-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -10238,7 +10264,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 99,
+      "degree": 101,
       "path": "wiki/organizations/germany-bka.md",
       "meta": {
         "org_type": "national-agency",
@@ -10557,7 +10583,7 @@
       "source_count": 3,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 18,
+      "degree": 20,
       "path": "wiki/organizations/italy-polizia-postale.md",
       "meta": {
         "org_type": "national-unit",
@@ -11082,7 +11108,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 108,
+      "degree": 110,
       "path": "wiki/organizations/netherlands-politie.md",
       "meta": {
         "org_type": "national-unit",
@@ -11707,7 +11733,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 22,
       "path": "wiki/organizations/switzerland-fedpol.md",
       "meta": {
         "org_type": "national-agency",
@@ -11863,7 +11889,7 @@
       "source_count": 13,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 123,
+      "degree": 125,
       "path": "wiki/organizations/uk-nca.md",
       "meta": {
         "org_type": "national-agency",
@@ -12017,7 +12043,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 215,
+      "degree": 217,
       "path": "wiki/organizations/us-doj.md",
       "meta": {
         "org_type": "national-agency",
@@ -12467,6 +12493,48 @@
       "meta": {}
     },
     {
+      "id": "2014-05-19_computerworld_blackshades-97-arrests",
+      "type": "source",
+      "title": "BlackShades users targeted in 16-nation sweep; 97 arrested",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Computerworld reported that law-enforcement agencies in 16 countries arrested 97 people in the Blackshades action and conducted 359 house searches, citing Eurojust reporting and the Dutch Public Prosecution Service's statement…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2014-05-19_computerworld_blackshades-97-arrests.md",
+      "meta": {}
+    },
+    {
+      "id": "2014-05-19_doj_blackshades-malware-charges",
+      "type": "source",
+      "title": "Manhattan U.S. Attorney And FBI Assistant Director-In-Charge Announce Charges In Connection With Blackshades Malicious Software",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The Department of Justice announced U.S. charges tied to Blackshades RAT and described the case as a global cyber law-enforcement operation involving more than 90 arrests and law-enforcement actions in 19 countries. ## Relevance…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2014-05-19_doj_blackshades-malware-charges.md",
+      "meta": {}
+    },
+    {
+      "id": "2014-05-19_fbi_blackshades-malware-takedown",
+      "type": "source",
+      "title": "International Blackshades Malware Takedown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The FBI announced a coordinated international Blackshades malware takedown involving the U.S. indictment of Blackshades actors and enforcement actions across other countries. The story reports more than 90 arrests, more than 300…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2014-05-19_fbi_blackshades-malware-takedown.md",
+      "meta": {}
+    },
+    {
       "id": "2014-06-02_arstechnica_operation-tovar",
       "type": "source",
       "title": "Governments disrupt botnet Gameover ZeuS and ransomware Cryptolocker",
@@ -12576,6 +12644,20 @@
       "updated": null,
       "degree": 8,
       "path": "wiki/sources/2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0.md",
+      "meta": {}
+    },
+    {
+      "id": "2015-01-01_eurojust_operation-blackshades-evaluation",
+      "type": "source",
+      "title": "Operation BlackShades: An Evaluation",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Eurojust's evaluation describes Operation BlackShades as a 16-state worldwide cybercrime investigation coordinated through Eurojust and supported by Europol EC3. The report provides the principal action-day figures: 359 searches,…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2015-01-01_eurojust_operation-blackshades-evaluation.md",
       "meta": {}
     },
     {
@@ -12856,6 +12938,20 @@
       "updated": null,
       "degree": 0,
       "path": "wiki/sources/2015-06-12_securityaffairs_law-enforcement-dismantled-gang-behind-operation-triangle-phishing-campaign.md",
+      "meta": {}
+    },
+    {
+      "id": "2015-06-23_fbi_blackshades-yucel-sentencing",
+      "type": "source",
+      "title": "Swedish Co-Creator of Blackshades Malware Sentenced to 57 Months in Prison",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The FBI reported the sentencing of Swedish national Alex Yucel, described as a Blackshades co-creator, to 57 months in prison. The release states that Yucel was arrested in Moldova and became the first defendant extradited from…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2015-06-23_fbi_blackshades-yucel-sentencing.md",
       "meta": {}
     },
     {
@@ -57809,6 +57905,324 @@
       "directed": false
     },
     {
+      "source": "operation-blackshades",
+      "target": "eurojust",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "malware-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "fbi-cyber-division",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "electronic-evidence",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "search-seizure",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "domain-seizure",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "mutual-legal-assistance",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "extradition",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "domain-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "eurojust-coordination-meeting",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "fbi-cyber-division",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "us-doj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "eurojust",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "netherlands-politie",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "belgium-federal-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "france-national-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "germany-bka",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "uk-nca",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "denmark-national-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "italy-polizia-postale",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "canada-rcmp",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "switzerland-fedpol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "belgium",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "germany",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "finland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "austria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "estonia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "denmark",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "italy",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "croatia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "canada",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "chile",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "switzerland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "moldova",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "operation-tovar",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "operation-ghost-click",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "imminent-monitor-rat-takedown",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "operation-tovar",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "imminent-monitor-rat-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "2014-05-19_fbi_blackshades-malware-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "2014-05-19_doj_blackshades-malware-charges",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "2015-01-01_eurojust_operation-blackshades-evaluation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "2014-05-19_computerworld_blackshades-97-arrests",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-blackshades",
+      "target": "2015-06-23_fbi_blackshades-yucel-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u",
       "target": "us-doj",
       "kind": "coordinating_body",
@@ -75383,6 +75797,12 @@
       "directed": true
     },
     {
+      "source": "belgium-federal-police",
+      "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "brazil-ministry-of-justice-public-security",
       "target": "us-doj",
       "kind": "cooperation_partners",
@@ -75721,6 +76141,12 @@
     {
       "source": "canada-rcmp",
       "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "canada-rcmp",
+      "target": "operation-blackshades",
       "kind": "operations_participated",
       "directed": true
     },
@@ -76266,6 +76692,12 @@
     },
     {
       "source": "denmark-national-police",
+      "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "denmark-national-police",
       "target": "denmark-police",
       "kind": "body",
       "directed": false
@@ -76711,6 +77143,12 @@
     {
       "source": "eurojust",
       "target": "operation-cookie-monster",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
+      "target": "operation-blackshades",
       "kind": "operations_participated",
       "directed": true
     },
@@ -77208,6 +77646,12 @@
     },
     {
       "source": "europol-ec3",
+      "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
       "target": "operation-cronos-phase1",
       "kind": "body",
       "directed": false
@@ -77581,6 +78025,12 @@
     {
       "source": "fbi-cyber-division",
       "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi-cyber-division",
+      "target": "operation-blackshades",
       "kind": "operations_participated",
       "directed": true
     },
@@ -78042,6 +78492,12 @@
     },
     {
       "source": "france-national-police",
+      "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france-national-police",
       "target": "france-gendarmerie",
       "kind": "body",
       "directed": false
@@ -78445,6 +78901,12 @@
     {
       "source": "germany-bka",
       "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany-bka",
+      "target": "operation-blackshades",
       "kind": "operations_participated",
       "directed": true
     },
@@ -79615,6 +80077,12 @@
     {
       "source": "italy-polizia-postale",
       "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "italy-polizia-postale",
+      "target": "operation-blackshades",
       "kind": "operations_participated",
       "directed": true
     },
@@ -80917,6 +81385,12 @@
     {
       "source": "netherlands-politie",
       "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "netherlands-politie",
+      "target": "operation-blackshades",
       "kind": "operations_participated",
       "directed": true
     },
@@ -82458,6 +82932,12 @@
     },
     {
       "source": "switzerland-fedpol",
+      "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "switzerland-fedpol",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -83137,6 +83617,12 @@
     {
       "source": "uk-nca",
       "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "uk-nca",
+      "target": "operation-blackshades",
       "kind": "operations_participated",
       "directed": true
     },
@@ -83911,6 +84397,12 @@
     {
       "source": "us-doj",
       "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-doj",
+      "target": "operation-blackshades",
       "kind": "operations_participated",
       "directed": true
     },
@@ -84869,6 +85361,42 @@
       "directed": false
     },
     {
+      "source": "2014-05-19_computerworld_blackshades-97-arrests",
+      "target": "operation-blackshades",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2014-05-19_computerworld_blackshades-97-arrests",
+      "target": "operation-blackshades",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2014-05-19_doj_blackshades-malware-charges",
+      "target": "operation-blackshades",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2014-05-19_doj_blackshades-malware-charges",
+      "target": "operation-blackshades",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2014-05-19_fbi_blackshades-malware-takedown",
+      "target": "operation-blackshades",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2014-05-19_fbi_blackshades-malware-takedown",
+      "target": "operation-blackshades",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2014-06-02_arstechnica_operation-tovar",
       "target": "operation-tovar",
       "kind": "pages_updated",
@@ -84985,6 +85513,18 @@
     {
       "source": "2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0",
       "target": "us-dhs",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2015-01-01_eurojust_operation-blackshades-evaluation",
+      "target": "operation-blackshades",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2015-01-01_eurojust_operation-blackshades-evaluation",
+      "target": "operation-blackshades",
       "kind": "body",
       "directed": false
     },
@@ -85099,6 +85639,18 @@
     {
       "source": "2015-05-29_ice-gov_ross-ulbricht-sentenced-to-life-in-federal-prison",
       "target": "fbi-cyber-division",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2015-06-23_fbi_blackshades-yucel-sentencing",
+      "target": "operation-blackshades",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2015-06-23_fbi_blackshades-yucel-sentencing",
+      "target": "operation-blackshades",
       "kind": "body",
       "directed": false
     },

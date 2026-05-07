@@ -23,6 +23,7 @@ operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-blackshades]]"
 org_type: national-agency
 parent_org: "Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-"
 source_count: 4

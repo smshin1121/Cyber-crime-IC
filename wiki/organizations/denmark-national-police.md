@@ -17,6 +17,7 @@ operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[operation-endgame-phase2]]"
   - "[[darkmarket-takedown]]"
+  - "[[operation-blackshades]]"
 cooperation_partners:
   - "[[denmark-police]]"
   - "[[europol-ec3]]"
