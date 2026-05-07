@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[canada]]"
 jurisdiction:
-  -
-    - canada
+
 created: 2026-04-10
 established: 2020
 frameworks_administered:
@@ -36,6 +35,7 @@ operations_participated:
   - "[[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]]"
   - "[[operation-morpheus]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-firewall]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
 source_count: 3

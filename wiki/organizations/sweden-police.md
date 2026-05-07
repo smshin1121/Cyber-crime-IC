@@ -23,6 +23,7 @@ operations_participated:
   - "[[operation-trojan-shield]]"
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-firewall]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
 source_count: 3

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (601)
+# Sources (605)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -523,6 +523,7 @@ updated: 2026-04-14
 | [[2017-07-20-europol-alphabay-hansa-takedown]] | press-release | Europol | ? | high | ? |
 | [[2017-07-20-doj-alphabay-shutdown]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2017-07-20-dea-alphabay-shutdown]] | press-release | US Drug Enforcement Administration | ? | high | ? |
+| [[2017-07-12_secret-service_moments-operation-firewall]] | government-report | U.S. Secret Service | ? | high | ? |
 | [[2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look]] | report | Eurojust | 2 | high | ? |
 | [[2017-03-14_wdpa_moldovan-sentenced-distributing-multifunction-malware-package]] | press-release | U.S. Attorney's Office, Western District of Pennsylvania | ? | high | ? |
 | [[2017-01-01_europol-socta-2017_global-action-against-airline-fraudsters]] | report | Europol | ? | high | ? |
@@ -609,5 +610,8 @@ updated: 2026-04-14
 | [[2009-10-07_pcworld_operation-phish-phry]] | news | PCWorld | ? | medium | ? |
 | [[2009-10-07_fbi_operation-phish-phry]] | press-release | FBI | ? | high | ? |
 | [[2009-10-07_fbi-losangeles_operation-phish-phry]] | press-release | FBI Los Angeles | ? | high | ? |
+| [[2004-10-29_theregister_operation-firewall]] | news | The Register | ? | medium | ? |
+| [[2004-10-28_secret-service_operation-firewall]] | press-release | U.S. Secret Service | ? | high | ? |
+| [[2004-10-28_doj_shadowcrew-carding-conspiracy]] | press-release | U.S. Department of Justice | ? | high | ? |
 | [[unodc-alphabay-true-crime-story]] | government-report | UN Office on Drugs and Crime (UNODC) | ? | high | ? |
 | [[interpol-operation-haechi-ii]] | press-release | INTERPOL | 2 | high | ? |

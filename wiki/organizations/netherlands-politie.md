@@ -56,6 +56,7 @@ operations_participated:
   - "[[operation-trident-breach]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-ghost-click]]"
+  - "[[operation-firewall]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

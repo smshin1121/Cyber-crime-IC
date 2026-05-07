@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[bulgaria]]"
-jurisdiction: [[bulgaria]]
+jurisdiction:
+  -
+    - bulgaria
 created: 2026-04-10
 established: 2013
 frameworks_administered:
@@ -26,6 +28,7 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-firewall]]"
 org_type: national-unit
 parent_org: "[[bulgaria-ministry-of-interior]]"
 source_count: 2
@@ -34,7 +37,7 @@ sources:
 status: active
 title: "GDBOP Cybercrime Directorate"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

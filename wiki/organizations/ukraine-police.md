@@ -4,7 +4,9 @@ aliases:
 contact_point_for:
 
 country: "[[ukraine]]"
-jurisdiction: [[ukraine]]
+jurisdiction:
+  -
+    - ukraine
 created: 2026-04-10
 established: 2015-10-11
 headquarters: "Kyiv, Ukraine"
@@ -21,6 +23,7 @@ operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[darkmarket-takedown]]"
   - "[[vpnlab-takedown]]"
+  - "[[operation-firewall]]"
 org_type: national-unit
 parent_org: "Національна поліція України (National Police of Ukraine) — Ministry of"
 source_count: 3
@@ -29,7 +32,7 @@ sources:
 status: active
 title: "Cyber Police of Ukraine — Department of Cyber Police"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

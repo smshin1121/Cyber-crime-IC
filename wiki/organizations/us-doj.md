@@ -958,6 +958,7 @@ operations_participated:
   - "[[operation-cookie-monster]]"
   - "[[operation-phish-phry]]"
   - "[[operation-ghost-click]]"
+  - "[[operation-firewall]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

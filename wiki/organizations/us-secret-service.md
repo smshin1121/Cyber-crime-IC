@@ -38,6 +38,7 @@ operations_participated:
   - "[[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]]"
   - "[[operation-trident-breach]]"
   - "[[operation-phish-phry]]"
+  - "[[operation-firewall]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
 source_count: 4

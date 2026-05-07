@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-07T15:51:46Z",
+  "generated_at": "2026-05-07T16:08:58Z",
   "root": null,
   "stats": {
-    "total_nodes": 1245,
-    "total_edges": 11628,
+    "total_nodes": 1250,
+    "total_edges": 11684,
     "broken_links": 0,
     "orphans": 107,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 154,
+      "operation": 155,
       "organization": 146,
       "procedure": 2,
-      "source": 601
+      "source": 605
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 127
+      "canonical_operation": 128
     }
   },
   "nodes": [
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 127 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 154 | | Period 1 (pre-2019) | 27 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 128 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 155 | | Period 1 (pre-2019) | 28 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4842 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4846 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -2019,7 +2019,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/belarus.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2173,7 +2173,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 33,
+      "degree": 34,
       "path": "wiki/countries/bulgaria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2242,7 +2242,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 51,
+      "degree": 52,
       "path": "wiki/countries/canada.md",
       "meta": {
         "legal_system": "mixed",
@@ -3411,7 +3411,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 128,
+      "degree": 129,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3579,7 +3579,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 35,
+      "degree": 36,
       "path": "wiki/countries/poland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3920,7 +3920,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 41,
+      "degree": 42,
       "path": "wiki/countries/sweden.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4092,7 +4092,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 38,
+      "degree": 39,
       "path": "wiki/countries/ukraine.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4127,7 +4127,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 141,
+      "degree": 142,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4145,7 +4145,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 206,
+      "degree": 207,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -4332,7 +4332,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/crime-types/carding-fraud-ic.md",
       "meta": {}
     },
@@ -5216,7 +5216,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 40,
+      "degree": 42,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5378,7 +5378,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 115,
+      "degree": 116,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5524,7 +5524,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 85,
+      "degree": 87,
       "path": "wiki/mechanisms/mutual-legal-assistance.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5540,7 +5540,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 64,
+      "degree": 66,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5556,7 +5556,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 45,
+      "degree": 47,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5863,7 +5863,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-27",
-      "degree": 66,
+      "degree": 67,
       "path": "wiki/operations/carding-action-2020.md",
       "meta": {
         "status": "completed",
@@ -6299,7 +6299,7 @@
       "source_count": 7,
       "created": "2026-04-08",
       "updated": "2026-04-28",
-      "degree": 67,
+      "degree": 69,
       "path": "wiki/operations/infraud-organization-takedown.md",
       "meta": {
         "status": "completed",
@@ -7396,6 +7396,32 @@
       }
     },
     {
+      "id": "operation-firewall",
+      "type": "operation",
+      "title": "Operation Firewall",
+      "title_ko": "Operation Firewall",
+      "aliases": [
+        "Shadowcrew takedown",
+        "CarderPlanet investigation",
+        "Darkprofits investigation"
+      ],
+      "summary": "Operation Firewall was a US Secret Service-led international undercover investigation that disrupted Shadowcrew, CarderPlanet, and Darkprofits, online forums used to trade stolen payment-card data, identity documents, and fraud services. The…",
+      "source_count": 4,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 56,
+      "path": "wiki/operations/operation-firewall.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "arrest-sweep",
+        "outcome": "success",
+        "results_arrests": 28,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "operation-first-light-2024",
       "type": "operation",
       "title": "Operation First Light 2024",
@@ -8113,7 +8139,7 @@
       "source_count": 4,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 34,
+      "degree": 36,
       "path": "wiki/operations/operation-phish-phry.md",
       "meta": {
         "status": "completed",
@@ -8595,7 +8621,7 @@
       "source_count": 5,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 45,
+      "degree": 47,
       "path": "wiki/operations/operation-trident-breach.md",
       "meta": {
         "status": "completed",
@@ -9548,7 +9574,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 13,
+      "degree": 15,
       "path": "wiki/organizations/bulgaria-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -9606,7 +9632,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 41,
+      "degree": 43,
       "path": "wiki/organizations/canada-rcmp.md",
       "meta": {
         "org_type": "national-unit",
@@ -11004,7 +11030,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 104,
+      "degree": 106,
       "path": "wiki/organizations/netherlands-politie.md",
       "meta": {
         "org_type": "national-unit",
@@ -11155,7 +11181,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 11,
+      "degree": 13,
       "path": "wiki/organizations/poland-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11610,7 +11636,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 19,
+      "degree": 21,
       "path": "wiki/organizations/sweden-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11804,7 +11830,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 18,
+      "degree": 20,
       "path": "wiki/organizations/ukraine-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11939,7 +11965,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 208,
+      "degree": 210,
       "path": "wiki/organizations/us-doj.md",
       "meta": {
         "org_type": "national-agency",
@@ -12030,7 +12056,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 51,
+      "degree": 55,
       "path": "wiki/organizations/us-secret-service.md",
       "meta": {
         "org_type": "national-unit",
@@ -12135,6 +12161,48 @@
         "procedure_type": "extradition-request",
         "average_duration": "6-24 months"
       }
+    },
+    {
+      "id": "2004-10-28_doj_shadowcrew-carding-conspiracy",
+      "type": "source",
+      "title": "Nineteen Individuals Indicted in Internet Carding Conspiracy",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The Department of Justice announced the Shadowcrew indictment on 28 October 2004. The release details the 19-defendant indictment, describes the carding marketplace model, and confirms that foreign arrests were coordinated with…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2004-10-28_doj_shadowcrew-carding-conspiracy.md",
+      "meta": {}
+    },
+    {
+      "id": "2004-10-28_secret-service_operation-firewall",
+      "type": "source",
+      "title": "U.S. Secret Service's Operation Firewall Nets 28 Arrests",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The U.S. Secret Service announced Operation Firewall as a global undercover cyber-financial crime investigation that produced 28 arrests and disrupted Shadowcrew, CarderPlanet, and Darkprofits. The source identifies the…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2004-10-28_secret-service_operation-firewall.md",
+      "meta": {}
+    },
+    {
+      "id": "2004-10-29_theregister_operation-firewall",
+      "type": "source",
+      "title": "US Secret Service busts 28 ID fraudsters",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The Register reported on the Operation Firewall arrests one day after the official announcements. The article independently summarizes the undercover operation, the target forums, the arrest scale, the stolen-card figures, and the…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2004-10-29_theregister_operation-firewall.md",
+      "meta": {}
     },
     {
       "id": "2009-10-07_fbi-losangeles_operation-phish-phry",
@@ -13198,6 +13266,20 @@
       "updated": null,
       "degree": 4,
       "path": "wiki/sources/2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look.md",
+      "meta": {}
+    },
+    {
+      "id": "2017-07-12_secret-service_moments-operation-firewall",
+      "type": "source",
+      "title": "Moments in History: Operation Firewall",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The Secret Service retrospective revisits Operation Firewall as an early cyber-financial investigation that arrested more than 28 people, targeted suspects across eight U.S. states and six foreign countries, and involved stolen…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2017-07-12_secret-service_moments-operation-firewall.md",
       "meta": {}
     },
     {
@@ -62277,6 +62359,246 @@
       "directed": false
     },
     {
+      "source": "operation-firewall",
+      "target": "us-secret-service",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "carding-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "us-secret-service",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "electronic-evidence",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "search-seizure",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "mutual-legal-assistance",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "public-private-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "us-secret-service",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "us-doj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "canada-rcmp",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "bulgaria-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "poland-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "sweden-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "netherlands-politie",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "ukraine-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "canada",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "bulgaria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "belarus",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "poland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "sweden",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "ukraine",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "operation-phish-phry",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "operation-trident-breach",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "infraud-organization-takedown",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "carding-action-2020",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-firewall",
+      "target": "operation-trident-breach",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-firewall",
+      "target": "operation-phish-phry",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-firewall",
+      "target": "infraud-organization-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-firewall",
+      "target": "2004-10-28_secret-service_operation-firewall",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-firewall",
+      "target": "2004-10-28_doj_shadowcrew-carding-conspiracy",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-firewall",
+      "target": "2017-07-12_secret-service_moments-operation-firewall",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-firewall",
+      "target": "2004-10-29_theregister_operation-firewall",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-first-light-2024",
       "target": "interpol-igci",
       "kind": "coordinating_body",
@@ -74464,6 +74786,12 @@
     },
     {
       "source": "bulgaria-police",
+      "target": "operation-firewall",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-police",
       "target": "bulgaria-ministry-of-interior",
       "kind": "parent_org",
       "directed": true
@@ -74681,6 +75009,12 @@
     {
       "source": "canada-rcmp",
       "target": "operation-cookie-monster",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "canada-rcmp",
+      "target": "operation-firewall",
       "kind": "operations_participated",
       "directed": true
     },
@@ -79828,6 +80162,12 @@
     },
     {
       "source": "netherlands-politie",
+      "target": "operation-firewall",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "netherlands-politie",
       "target": "netherlands-politie-parent",
       "kind": "parent_org",
       "directed": true
@@ -80129,6 +80469,12 @@
     {
       "source": "poland-police",
       "target": "operation-morpheus",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "poland-police",
+      "target": "operation-firewall",
       "kind": "operations_participated",
       "directed": true
     },
@@ -81286,6 +81632,12 @@
     },
     {
       "source": "sweden-police",
+      "target": "operation-firewall",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "sweden-police",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -82108,6 +82460,12 @@
     },
     {
       "source": "ukraine-police",
+      "target": "operation-firewall",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine-police",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -82756,6 +83114,12 @@
     },
     {
       "source": "us-doj",
+      "target": "operation-firewall",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-doj",
       "target": "isoon-apt27-indictment",
       "kind": "body",
       "directed": false
@@ -83194,6 +83558,12 @@
     },
     {
       "source": "us-secret-service",
+      "target": "operation-firewall",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-secret-service",
       "target": "us-secret-service-hq",
       "kind": "parent_org",
       "directed": true
@@ -83489,6 +83859,42 @@
     {
       "source": "extradition-request",
       "target": "specialty-principle",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2004-10-28_doj_shadowcrew-carding-conspiracy",
+      "target": "operation-firewall",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2004-10-28_doj_shadowcrew-carding-conspiracy",
+      "target": "operation-firewall",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2004-10-28_secret-service_operation-firewall",
+      "target": "operation-firewall",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2004-10-28_secret-service_operation-firewall",
+      "target": "operation-firewall",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2004-10-29_theregister_operation-firewall",
+      "target": "operation-firewall",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2004-10-29_theregister_operation-firewall",
+      "target": "operation-firewall",
       "kind": "body",
       "directed": false
     },
@@ -84137,6 +84543,18 @@
     {
       "source": "2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look",
       "target": "operation-avalanche",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2017-07-12_secret-service_moments-operation-firewall",
+      "target": "operation-firewall",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2017-07-12_secret-service_moments-operation-firewall",
+      "target": "operation-firewall",
       "kind": "body",
       "directed": false
     },

@@ -3,9 +3,11 @@ aliases:
   - CBZC
   - "Polish Central Bureau for Combating Cybercrime"
 contact_point_for:
-  []
+
 country: "[[poland]]"
-jurisdiction: [[poland]]
+jurisdiction:
+  -
+    - poland
 created: 2026-04-10
 established: 2022-01-12
 headquarters: "ul. Wąwozowa 18, Warsaw, Poland"
@@ -17,21 +19,22 @@ key_roles:
 last_verified: 2026-04-10
 mandate: "Polish police service with nationwide competence to recognize and combat"
 notable_cases:
-  []
+
 official_name: "Centralne Biuro Zwalczania Cyberprzestępczości"
 operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[fake-shopping-sites-takedown-2024]]"
   - "[[operation-morpheus]]"
+  - "[[operation-firewall]]"
 org_type: national-unit
 parent_org: "Komenda Główna Policji (Police Headquarters, Ministry of Interior and"
 source_count: 3
 sources:
-  []
+
 status: active
 title: "Central Bureau for Combating Cybercrime (CBZC) — Poland"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 
