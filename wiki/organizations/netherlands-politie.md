@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[netherlands]]"
-jurisdiction: [[netherlands]]
+jurisdiction:
+  -
+    - netherlands
 created: 2026-04-08
 established: 2007
 frameworks_administered:
@@ -52,6 +54,7 @@ operations_participated:
   - "[[fake-shopping-sites-takedown-2024]]"
   - "[[operation-morpheus]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-trident-breach]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4
@@ -63,7 +66,7 @@ sources:
 status: active
 title: "Dutch National Police - Team High Tech Crime (THTC)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

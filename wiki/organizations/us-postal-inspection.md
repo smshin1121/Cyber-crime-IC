@@ -3,13 +3,15 @@ type: organization
 title: "US Postal Inspection Service"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-29
 org_type: federal-law-enforcement
 country: "[[united-states]]"
-jurisdiction: [[united-states]]
+jurisdiction:
+  -
+    - united-states
 official_name: "United States Postal Inspection Service"
-abbreviation: "USPIS"
+abbreviation: USPIS
 mandate: "US federal law-enforcement agency protecting the postal system and investigating crimes that use mail, parcels, and related logistics."
 key_roles:
   - "Investigates darknet narcotics and counterfeit-drug cases where postal shipments connect online markets to physical delivery."
@@ -19,6 +21,7 @@ operations_participated:
   - "[[operation-us-v-okparaeke-dark-web]]"
   - "[[operation-us-v-olatunji-dawodu-and-alex-ogando]]"
   - "[[operation-wirewire]]"
+  - "[[operation-trident-breach]]"
 cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"

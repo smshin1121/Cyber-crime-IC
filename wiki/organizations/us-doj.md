@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[united-states]]"
 jurisdiction:
-  -
-    - united-states
+
 created: 2026-04-08
 established: 1870-07-01
 frameworks_administered:
@@ -955,6 +954,7 @@ operations_participated:
   - "[[operation-shrouded-horizon]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-raptor]]"
+  - "[[operation-trident-breach]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

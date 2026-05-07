@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[united-states]]"
 jurisdiction:
-  -
-    - united-states
+
 created: 2026-04-08
 established: 2002
 frameworks_administered:
@@ -107,6 +106,7 @@ operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[infraud-organization-takedown]]"
   - "[[operation-chakra-ii]]"
+  - "[[operation-trident-breach]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

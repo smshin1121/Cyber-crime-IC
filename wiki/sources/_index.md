@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (584)
+# Sources (589)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -592,5 +592,10 @@ updated: 2026-04-14
 | [[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]] | press-release | ICE / HSI | ? | medium | ? |
 | [[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]] | press-release | FBI | ? | high | ? |
 | [[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]] | press-release | DOJ SDNY | ? | high | ? |
+| [[2010-10-02_krebsonsecurity_operation-trident-breach-zeus]] | news | Krebs on Security | 2 | medium | ? |
+| [[2010-10-01_wired_zeus-ukraine-arrests-trident-breach]] | news | Wired | 2 | medium | ? |
+| [[2010-10-01_fbi_operation-trident-breach]] | press-release | FBI | 1 | high | ? |
+| [[2010-10-01_fbi_cyber-bust-zeus]] | government-news | FBI | 1 | high | ? |
+| [[2010-09-30_fbi-newyork_zeus-trojan-bank-fraud]] | press-release | FBI New York | 1 | high | ? |
 | [[unodc-alphabay-true-crime-story]] | government-report | UN Office on Drugs and Crime (UNODC) | ? | high | ? |
 | [[interpol-operation-haechi-ii]] | press-release | INTERPOL | 2 | high | ? |

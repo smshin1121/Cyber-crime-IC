@@ -17,6 +17,7 @@ operations_participated:
   - "[[operation-pleiades]]"
   - "[[rex-mundi-takedown]]"
   - "[[banking-trojan-fraud-sentencing-2017]]"
+  - "[[operation-trident-breach]]"
 cooperation_partners:
   - "[[uk-met-police-cyber]]"
   - "[[uk-nca]]"

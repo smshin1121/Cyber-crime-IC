@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-07T03:27:23Z",
+  "generated_at": "2026-05-07T03:45:44Z",
   "root": null,
   "stats": {
-    "total_nodes": 1221,
-    "total_edges": 11349,
+    "total_nodes": 1228,
+    "total_edges": 11400,
     "broken_links": 0,
     "orphans": 107,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 150,
-      "organization": 145,
+      "operation": 151,
+      "organization": 146,
       "procedure": 2,
-      "source": 584
+      "source": 589
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 123
+      "canonical_operation": 124
     }
   },
   "nodes": [
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 123 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 150 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 73 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 124 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 151 | | Period 1 (2014-2018) | 25 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 73 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-07",
@@ -1377,7 +1377,7 @@
       "title": "Source Duplicate Audit (2026-05-07)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4826 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4831 -…",
       "source_count": 0,
       "created": "2026-05-07",
       "updated": "2026-05-07",
@@ -3379,7 +3379,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 124,
+      "degree": 126,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4060,7 +4060,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 35,
+      "degree": 38,
       "path": "wiki/countries/ukraine.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4095,7 +4095,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 138,
+      "degree": 140,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4113,7 +4113,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 201,
+      "degree": 203,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -4248,7 +4248,7 @@
       "source_count": 4,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 22,
+      "degree": 23,
       "path": "wiki/crime-types/banking-trojan-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -5184,7 +5184,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 33,
+      "degree": 34,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5346,7 +5346,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 113,
+      "degree": 114,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5508,7 +5508,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 61,
+      "degree": 62,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5524,7 +5524,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 39,
+      "degree": 40,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6053,7 +6053,7 @@
       "source_count": 8,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 62,
+      "degree": 64,
       "path": "wiki/operations/dridex-operations.md",
       "meta": {
         "status": "completed",
@@ -8476,6 +8476,32 @@
       }
     },
     {
+      "id": "operation-trident-breach",
+      "type": "operation",
+      "title": "Operation Trident Breach",
+      "title_ko": null,
+      "aliases": [
+        "FBI Operation Trident Breach",
+        "Trident Breach",
+        "Jabber Zeus Trident Breach"
+      ],
+      "summary": "Operation Trident Breach was an FBI-led multinational action against a Zeus/Jabber Zeus online-banking theft network and the money-mule layer used to move stolen funds. The investigation began in May 2009 after FBI agents in Omaha, Nebraska…",
+      "source_count": 5,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 44,
+      "path": "wiki/operations/operation-trident-breach.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "success",
+        "results_arrests": 64,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "operation-trojan-shield",
       "type": "operation",
       "title": "Operation Trojan Shield (AN0M)",
@@ -9168,7 +9194,7 @@
       "source_count": 6,
       "created": "2026-04-08",
       "updated": "2026-04-28",
-      "degree": 80,
+      "degree": 82,
       "path": "wiki/operations/zeus-spyeye-jit-takedown.md",
       "meta": {
         "status": "completed",
@@ -9830,7 +9856,7 @@
       "source_count": 12,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 227,
+      "degree": 232,
       "path": "wiki/organizations/fbi-cyber-division.md",
       "meta": {
         "org_type": "national-agency",
@@ -10872,7 +10898,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 97,
+      "degree": 100,
       "path": "wiki/organizations/netherlands-politie.md",
       "meta": {
         "org_type": "national-unit",
@@ -11635,7 +11661,7 @@
       "source_count": 2,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 17,
+      "degree": 20,
       "path": "wiki/organizations/uk-metropolitan-police.md",
       "meta": {
         "org_type": "metropolitan-police-service",
@@ -11672,12 +11698,33 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 17,
+      "degree": 18,
       "path": "wiki/organizations/ukraine-police.md",
       "meta": {
         "org_type": "national-unit",
         "status": "active",
         "established": "2015-10-11",
+        "headquarters": "Kyiv, Ukraine"
+      }
+    },
+    {
+      "id": "ukraine-sbu",
+      "type": "organization",
+      "title": "Security Service of Ukraine (SBU)",
+      "title_ko": null,
+      "aliases": [
+        "SBU",
+        "Sluzhba bezpeky Ukrainy"
+      ],
+      "summary": "The Security Service of Ukraine (SBU) is recorded here because the FBI's public Operation Trident Breach release explicitly names SBU participation in the 2010 Zeus/Jabber Zeus banking-theft operation. The SBU detained five individuals on 30…",
+      "source_count": 1,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 9,
+      "path": "wiki/organizations/ukraine-sbu.md",
+      "meta": {
+        "org_type": "national-security-agency",
+        "status": "active",
         "headquarters": "Kyiv, Ukraine"
       }
     },
@@ -11767,7 +11814,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 41,
+      "degree": 43,
       "path": "wiki/organizations/us-dhs.md",
       "meta": {
         "org_type": "national-agency",
@@ -11786,7 +11833,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 200,
+      "degree": 202,
       "path": "wiki/organizations/us-doj.md",
       "meta": {
         "org_type": "national-agency",
@@ -11842,7 +11889,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 14,
+      "degree": 16,
       "path": "wiki/organizations/us-postal-inspection.md",
       "meta": {
         "org_type": "federal-law-enforcement",
@@ -11877,7 +11924,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 47,
+      "degree": 49,
       "path": "wiki/organizations/us-secret-service.md",
       "meta": {
         "org_type": "national-unit",
@@ -11982,6 +12029,76 @@
         "procedure_type": "extradition-request",
         "average_duration": "6-24 months"
       }
+    },
+    {
+      "id": "2010-09-30_fbi-newyork_zeus-trojan-bank-fraud",
+      "type": "source",
+      "title": "Manhattan U.S. Attorney Charges 37 Defendants Involved in Global Bank Fraud Schemes that Used Zeus Trojan",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The FBI New York field-office release documents the U.S. charging layer of the Zeus bank-fraud action. It confirms 37 federal defendants, malware-enabled account compromise, false-name receiving accounts, and proceeds transferred…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2010-09-30_fbi-newyork_zeus-trojan-bank-fraud.md",
+      "meta": {}
+    },
+    {
+      "id": "2010-10-01_fbi_cyber-bust-zeus",
+      "type": "source",
+      "title": "Cyber Bust: Global Partnerships Lead to Major Arrests",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The FBI story page presents the public narrative for the October 2010 Zeus banking-fraud disruption. It confirms the U.S., United Kingdom, Ukraine, and Netherlands cooperation frame, the USD 70 million theft figure, the USD 220…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2010-10-01_fbi_cyber-bust-zeus.md",
+      "meta": {}
+    },
+    {
+      "id": "2010-10-01_fbi_operation-trident-breach",
+      "type": "source",
+      "title": "International Cooperation Disrupts Multi-Country Cyber Theft Ring",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The FBI national press release is the anchor source for Operation Trident Breach. It confirms the operation name, May 2009 start, Zeus botnet banking-theft mechanism, U.S.-U.K.-Netherlands-Ukraine cooperation frame, USD 220…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 4,
+      "path": "wiki/sources/2010-10-01_fbi_operation-trident-breach.md",
+      "meta": {}
+    },
+    {
+      "id": "2010-10-01_wired_zeus-ukraine-arrests-trident-breach",
+      "type": "source",
+      "title": "5 Key Players Nabbed in Ukraine in USD 70-Million Bank Fraud Ring",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Wired's Kim Zetter independently reported the Ukraine arrest component and linked it to the U.S. ACH-fraud investigation named Operation Trident Breach. The article corroborates the country set, the Zeus malware mechanism, USD 220…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 1,
+      "path": "wiki/sources/2010-10-01_wired_zeus-ukraine-arrests-trident-breach.md",
+      "meta": {}
+    },
+    {
+      "id": "2010-10-02_krebsonsecurity_operation-trident-breach-zeus",
+      "type": "source",
+      "title": "Ukraine Detains 5 Individuals Tied to USD 70 Million in U.S. eBanking Heists",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Krebs on Security provides specialist cybersecurity reporting on the FBI briefing for Operation Trident Breach. It corroborates the operation name, five Ukraine SBU detentions, eight searches, Zeus/Jabber Zeus malware details, 39…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2010-10-02_krebsonsecurity_operation-trident-breach-zeus.md",
+      "meta": {}
     },
     {
       "id": "2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht",
@@ -68756,6 +68873,168 @@
       "directed": false
     },
     {
+      "source": "operation-trident-breach",
+      "target": "fbi-cyber-division",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "banking-trojan-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "fbi-cyber-division",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "fbi-cyber-division",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "netherlands-politie",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "uk-metropolitan-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "ukraine-sbu",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "us-doj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "us-secret-service",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "us-dhs",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "us-postal-inspection",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "ukraine",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "zeus-spyeye-jit-takedown",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "dridex-operations",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "united-states",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "united-kingdom",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "netherlands",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "ukraine",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "zeus-spyeye-jit-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-trident-breach",
+      "target": "dridex-operations",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-trojan-shield",
       "target": "europol-ec3",
       "kind": "coordinating_body",
@@ -74829,6 +75108,12 @@
     },
     {
       "source": "fbi-cyber-division",
+      "target": "operation-trident-breach",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi-cyber-division",
       "target": "fbi",
       "kind": "parent_org",
       "directed": true
@@ -78099,6 +78384,12 @@
     },
     {
       "source": "netherlands-politie",
+      "target": "operation-trident-breach",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "netherlands-politie",
       "target": "netherlands-politie-parent",
       "kind": "parent_org",
       "directed": true
@@ -80061,6 +80352,12 @@
     },
     {
       "source": "uk-metropolitan-police",
+      "target": "operation-trident-breach",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "uk-metropolitan-police",
       "target": "uk-met-police-cyber",
       "kind": "body",
       "directed": false
@@ -80348,6 +80645,48 @@
       "directed": false
     },
     {
+      "source": "ukraine-sbu",
+      "target": "fbi-cyber-division",
+      "kind": "cooperation_partners",
+      "directed": true
+    },
+    {
+      "source": "ukraine-sbu",
+      "target": "netherlands-politie",
+      "kind": "cooperation_partners",
+      "directed": true
+    },
+    {
+      "source": "ukraine-sbu",
+      "target": "uk-metropolitan-police",
+      "kind": "cooperation_partners",
+      "directed": true
+    },
+    {
+      "source": "ukraine-sbu",
+      "target": "ukraine",
+      "kind": "country",
+      "directed": true
+    },
+    {
+      "source": "ukraine-sbu",
+      "target": "operation-trident-breach",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine-sbu",
+      "target": "ukraine-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "ukraine-sbu",
+      "target": "2010-10-01_fbi_operation-trident-breach",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "unga",
       "target": "united-nations",
       "kind": "cooperation_partners",
@@ -80596,6 +80935,12 @@
     {
       "source": "us-dhs",
       "target": "operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-dhs",
+      "target": "operation-trident-breach",
       "kind": "operations_participated",
       "directed": true
     },
@@ -80919,6 +81264,12 @@
     },
     {
       "source": "us-doj",
+      "target": "operation-trident-breach",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-doj",
       "target": "isoon-apt27-indictment",
       "kind": "body",
       "directed": false
@@ -81189,6 +81540,12 @@
     },
     {
       "source": "us-postal-inspection",
+      "target": "operation-trident-breach",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-postal-inspection",
       "target": "operation-wirewire",
       "kind": "body",
       "directed": false
@@ -81334,6 +81691,12 @@
     {
       "source": "us-secret-service",
       "target": "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-secret-service",
+      "target": "operation-trident-breach",
       "kind": "operations_participated",
       "directed": true
     },
@@ -81634,6 +81997,66 @@
     {
       "source": "extradition-request",
       "target": "specialty-principle",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2010-09-30_fbi-newyork_zeus-trojan-bank-fraud",
+      "target": "operation-trident-breach",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2010-09-30_fbi-newyork_zeus-trojan-bank-fraud",
+      "target": "operation-trident-breach",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2010-10-01_fbi_cyber-bust-zeus",
+      "target": "operation-trident-breach",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2010-10-01_fbi_cyber-bust-zeus",
+      "target": "operation-trident-breach",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2010-10-01_fbi_operation-trident-breach",
+      "target": "operation-trident-breach",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2010-10-01_fbi_operation-trident-breach",
+      "target": "ukraine-sbu",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2010-10-01_fbi_operation-trident-breach",
+      "target": "operation-trident-breach",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2010-10-01_wired_zeus-ukraine-arrests-trident-breach",
+      "target": "operation-trident-breach",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2010-10-02_krebsonsecurity_operation-trident-breach-zeus",
+      "target": "operation-trident-breach",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2010-10-02_krebsonsecurity_operation-trident-breach-zeus",
+      "target": "operation-trident-breach",
       "kind": "body",
       "directed": false
     },
