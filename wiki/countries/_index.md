@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (120)
+# Countries (138)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -111,13 +111,25 @@ total: 61
 | 🇿🇲 | [[zambia]] | common-law | non-party | low | unknown | 2 |
 |  | [[algeria]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[angola]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[bahrain]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[bangladesh]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[botswana]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[brunei]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[burkina-faso]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[chad]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[comoros]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[congo]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[curacao]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[democratic-republic-of-the-congo]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[dominican-republic]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[ethiopia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[gabon]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[guinea]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[iran]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[iraq]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[jamaica]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[kuwait]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[lebanon]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[macau]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[madagascar]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[maldives]] | not-assessed | — | unknown | unknown | 0 |
@@ -125,8 +137,14 @@ total: 61
 |  | [[mozambique]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[namibia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[new-zealand]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[niger]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[palestine]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[qatar]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[saint-lucia]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[san-marino]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[senegal]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[seychelles]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[slovakia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[sri-lanka]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[tunisia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[uganda]] | not-assessed | — | unknown | unknown | 0 |

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (633)
+# Sources (637)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -98,9 +98,13 @@ updated: 2026-04-14
 | [[2025-07-16_polizei-sachsen_operation-eastwood]] | press-release | Polizei Sachsen / German Federal Criminal Police Office | ? | high | ? |
 | [[2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down]] | press-release | Eurojust | ? | high | ? |
 | [[2025-07-16_cyberscoop_noname05716-disruption-operation-eastwood-europol]] | news | CyberScoop | ? | medium | ? |
+| [[2025-07-11_tga_operation-pangea-xvii-counterfeit-goods]] | press-release | Therapeutic Goods Administration | ? | high | ? |
 | [[2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme]] | press-release | Internal Revenue Service (Criminal Investigation) | ? | high | ? |
 | [[2025-06-27_immuniweb-com_cybercrime-investigations-weekly-trusted-seller-fraud]] | news | ImmuniWeb | ? | medium | ? |
 | [[2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts]] | report | INSIGHT EU Monitoring | ? | medium | ? |
+| [[2025-06-26_hsa_operation-pangea-xvii-online-listings]] | press-release | Health Sciences Authority Singapore | ? | high | ? |
+| [[2025-06-25_mhra_operation-pangea-xvii-illegal-medicines]] | press-release | UK Medicines and Healthcare products Regulatory Agency | ? | high | ? |
+| [[2025-06-25_interpol_operation-pangea-xvii-illicit-pharmaceuticals]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-06-25_eurojust-fraud-term_trusted-seller-accounts-germany-romania]] | government | Eurojust | ? | high | ? |
 | [[2025-06-25_eurojust-europa-eu_large-scale-fraud-using-trusted-online-seller-accounts-uncovered]] | press-release | Eurojust | ? | high | ? |
 | [[2025-06-23_interpol_africa-cyberthreat-assessment-report-2025]] | report | INTERPOL | ? | high | ? |

@@ -105,6 +105,7 @@ operations_participated:
   - "[[operation-taken-down-illegal-iptv-2024]]"
   - "[[operation-eastwood]]"
   - "[[operation-raptor]]"
+  - "[[operation-pangea-xvii]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

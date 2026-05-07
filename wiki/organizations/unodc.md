@@ -25,6 +25,7 @@ official_name: "United Nations Office on Drugs and Crime"
 official_name_ko: "유엔 마약범죄사무소"
 operations_participated:
   - "[[operation-orion-international]]"
+  - "[[operation-pangea-xvii]]"
 org_type: international-org
 parent_org: "[[united-nations]]"
 source_count: 8

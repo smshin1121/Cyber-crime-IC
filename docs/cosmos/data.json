@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-06T23:30:06Z",
+  "generated_at": "2026-05-07T00:11:37Z",
   "root": null,
   "stats": {
-    "total_nodes": 1337,
-    "total_edges": 12978,
+    "total_nodes": 1360,
+    "total_edges": 13116,
     "broken_links": 0,
     "orphans": 98,
     "by_type": {
@@ -13,18 +13,18 @@
       "case": 89,
       "challenge": 2,
       "concept": 15,
-      "country": 120,
+      "country": 138,
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 148,
+      "operation": 149,
       "organization": 145,
       "procedure": 2,
-      "source": 633
+      "source": 637
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 121
+      "canonical_operation": 122
     }
   },
   "nodes": [
@@ -692,7 +692,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 121 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 148 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 71 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 122 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 149 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 72 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-07",
@@ -1378,7 +1378,7 @@
       "title": "Source Duplicate Audit (2026-05-07)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4819 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4823 -…",
       "source_count": 0,
       "created": "2026-05-07",
       "updated": "2026-05-07",
@@ -3516,7 +3516,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/countries/argentina.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3533,7 +3533,7 @@
       "source_count": 2,
       "created": "2026-04-12",
       "updated": "2026-04-29",
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/countries/armenia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3551,7 +3551,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 73,
+      "degree": 74,
       "path": "wiki/countries/australia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3568,7 +3568,7 @@
       "source_count": 1,
       "created": "2026-04-14",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 22,
       "path": "wiki/countries/austria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3586,11 +3586,27 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/azerbaijan.md",
       "meta": {
         "legal_system": "not-assessed",
         "region": "caucasus"
+      }
+    },
+    {
+      "id": "bahrain",
+      "type": "country",
+      "title": "Bahrain",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Bahrain is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/bahrain.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -3619,7 +3635,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/belarus.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3671,7 +3687,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/countries/benin.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3689,7 +3705,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/bolivia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3706,11 +3722,27 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/countries/bosnia-and-herzegovina.md",
       "meta": {
         "legal_system": "not-assessed",
         "region": "southeastern-europe"
+      }
+    },
+    {
+      "id": "botswana",
+      "type": "country",
+      "title": "Botswana",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Botswana is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 3,
+      "path": "wiki/countries/botswana.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -3723,7 +3755,7 @@
       "source_count": 4,
       "created": "2026-04-13",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 21,
       "path": "wiki/countries/brazil.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3741,7 +3773,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/brunei.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3757,7 +3789,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 32,
+      "degree": 33,
       "path": "wiki/countries/bulgaria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3775,7 +3807,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/countries/burkina-faso.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3791,7 +3823,7 @@
       "source_count": 0,
       "created": "2026-04-20",
       "updated": "2026-05-03",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/countries/cambodia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3808,7 +3840,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/countries/cameroon.md",
       "meta": {
         "legal_system": "mixed",
@@ -3826,7 +3858,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 49,
+      "degree": 50,
       "path": "wiki/countries/canada.md",
       "meta": {
         "legal_system": "mixed",
@@ -3860,7 +3892,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/chile.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3877,7 +3909,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 24,
+      "degree": 25,
       "path": "wiki/countries/china.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3894,12 +3926,44 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 18,
+      "degree": 19,
       "path": "wiki/countries/colombia.md",
       "meta": {
         "legal_system": "civil-law",
         "region": "south-america",
         "ic_capacity_rating": "medium"
+      }
+    },
+    {
+      "id": "comoros",
+      "type": "country",
+      "title": "Comoros",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Comoros is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/comoros.md",
+      "meta": {
+        "legal_system": "not-assessed"
+      }
+    },
+    {
+      "id": "congo",
+      "type": "country",
+      "title": "Republic of the Congo",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "The Republic of the Congo is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 3,
+      "path": "wiki/countries/congo.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -3912,7 +3976,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/costa-rica.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3955,6 +4019,22 @@
       }
     },
     {
+      "id": "curacao",
+      "type": "country",
+      "title": "Curacao",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Curacao is retained as a jurisdiction navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/curacao.md",
+      "meta": {
+        "legal_system": "not-assessed"
+      }
+    },
+    {
       "id": "cyprus",
       "type": "country",
       "title": "Republic of Cyprus",
@@ -3964,7 +4044,7 @@
       "source_count": 1,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 14,
+      "degree": 15,
       "path": "wiki/countries/cyprus.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3982,7 +4062,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/countries/czech-republic.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4017,7 +4097,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/democratic-republic-of-the-congo.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4033,12 +4113,28 @@
       "source_count": 1,
       "created": "2026-04-11",
       "updated": "2026-04-29",
-      "degree": 30,
+      "degree": 31,
       "path": "wiki/countries/denmark.md",
       "meta": {
         "legal_system": "civil-law",
         "region": "northern-europe",
         "ic_capacity_rating": "unknown"
+      }
+    },
+    {
+      "id": "dominican-republic",
+      "type": "country",
+      "title": "Dominican Republic",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "The Dominican Republic is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/dominican-republic.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -4051,7 +4147,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/ecuador.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4077,6 +4173,22 @@
       }
     },
     {
+      "id": "ethiopia",
+      "type": "country",
+      "title": "Ethiopia",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Ethiopia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/ethiopia.md",
+      "meta": {
+        "legal_system": "not-assessed"
+      }
+    },
+    {
       "id": "finland",
       "type": "country",
       "title": "Republic of Finland",
@@ -4086,7 +4198,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 20,
+      "degree": 21,
       "path": "wiki/countries/finland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4104,7 +4216,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 87,
+      "degree": 88,
       "path": "wiki/countries/france.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4122,7 +4234,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/gabon.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4155,7 +4267,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/countries/georgia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4207,7 +4319,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/countries/greece.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4240,7 +4352,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/guyana.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4257,7 +4369,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/countries/hong-kong.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4309,7 +4421,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 20,
+      "degree": 21,
       "path": "wiki/countries/india.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4326,7 +4438,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 15,
+      "degree": 16,
       "path": "wiki/countries/indonesia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4352,6 +4464,38 @@
       }
     },
     {
+      "id": "iran",
+      "type": "country",
+      "title": "Iran",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Iran is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/iran.md",
+      "meta": {
+        "legal_system": "not-assessed"
+      }
+    },
+    {
+      "id": "iraq",
+      "type": "country",
+      "title": "Iraq",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Iraq is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/iraq.md",
+      "meta": {
+        "legal_system": "not-assessed"
+      }
+    },
+    {
       "id": "ireland",
       "type": "country",
       "title": "Ireland",
@@ -4361,7 +4505,7 @@
       "source_count": 0,
       "created": "2026-04-11",
       "updated": "2026-05-03",
-      "degree": 20,
+      "degree": 21,
       "path": "wiki/countries/ireland.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4402,6 +4546,22 @@
         "legal_system": "civil-law",
         "region": "southern-europe",
         "ic_capacity_rating": "high"
+      }
+    },
+    {
+      "id": "jamaica",
+      "type": "country",
+      "title": "Jamaica",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Jamaica is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/jamaica.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -4473,6 +4633,22 @@
       }
     },
     {
+      "id": "kuwait",
+      "type": "country",
+      "title": "Kuwait",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Kuwait is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/kuwait.md",
+      "meta": {
+        "legal_system": "not-assessed"
+      }
+    },
+    {
       "id": "laos",
       "type": "country",
       "title": "Laos",
@@ -4482,7 +4658,7 @@
       "source_count": 0,
       "created": "2026-04-20",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/laos.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4499,11 +4675,27 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 24,
+      "degree": 25,
       "path": "wiki/countries/latvia.md",
       "meta": {
         "legal_system": "not-assessed",
         "region": "eastern-europe"
+      }
+    },
+    {
+      "id": "lebanon",
+      "type": "country",
+      "title": "Lebanon",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Lebanon is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/lebanon.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -4583,7 +4775,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/countries/madagascar.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4599,7 +4791,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 22,
+      "degree": 23,
       "path": "wiki/countries/malaysia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4616,7 +4808,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/countries/maldives.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4666,7 +4858,7 @@
       "source_count": 0,
       "created": "2026-04-18",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/mexico.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4734,7 +4926,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/morocco.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4751,7 +4943,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 2,
+      "degree": 3,
       "path": "wiki/countries/mozambique.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4767,7 +4959,7 @@
       "source_count": 1,
       "created": "2026-04-20",
       "updated": "2026-04-29",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/countries/myanmar.md",
       "meta": {
         "legal_system": "mixed",
@@ -4801,7 +4993,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 123,
+      "degree": 124,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4819,8 +5011,24 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 2,
+      "degree": 3,
       "path": "wiki/countries/new-zealand.md",
+      "meta": {
+        "legal_system": "not-assessed"
+      }
+    },
+    {
+      "id": "niger",
+      "type": "country",
+      "title": "Niger",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Niger is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/niger.md",
       "meta": {
         "legal_system": "not-assessed"
       }
@@ -4835,7 +5043,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 59,
+      "degree": 60,
       "path": "wiki/countries/nigeria.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4852,7 +5060,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 17,
+      "degree": 18,
       "path": "wiki/countries/norway.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4869,11 +5077,27 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/pakistan.md",
       "meta": {
         "legal_system": "not-assessed",
         "region": "south-asia"
+      }
+    },
+    {
+      "id": "palestine",
+      "type": "country",
+      "title": "Palestine",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Palestine is retained as a jurisdiction navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/palestine.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -4886,7 +5110,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/countries/paraguay.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4903,7 +5127,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/countries/peru.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4920,7 +5144,7 @@
       "source_count": 0,
       "created": "2026-04-20",
       "updated": "2026-05-03",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/countries/philippines.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4937,7 +5161,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 33,
+      "degree": 34,
       "path": "wiki/countries/poland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4955,12 +5179,28 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 25,
+      "degree": 26,
       "path": "wiki/countries/portugal.md",
       "meta": {
         "legal_system": "civil-law",
         "region": "western-europe",
         "ic_capacity_rating": "medium"
+      }
+    },
+    {
+      "id": "qatar",
+      "type": "country",
+      "title": "Qatar",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Qatar is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/qatar.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -4973,7 +5213,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 54,
+      "degree": 55,
       "path": "wiki/countries/romania.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4991,7 +5231,7 @@
       "source_count": 4,
       "created": "2026-04-20",
       "updated": "2026-04-29",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/russia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5009,12 +5249,44 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/countries/rwanda.md",
       "meta": {
         "legal_system": "mixed",
         "region": "east-africa",
         "ic_capacity_rating": "medium"
+      }
+    },
+    {
+      "id": "saint-lucia",
+      "type": "country",
+      "title": "Saint Lucia",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Saint Lucia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/saint-lucia.md",
+      "meta": {
+        "legal_system": "not-assessed"
+      }
+    },
+    {
+      "id": "san-marino",
+      "type": "country",
+      "title": "San Marino",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "San Marino is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/san-marino.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -5027,7 +5299,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/senegal.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5043,7 +5315,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/serbia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5077,11 +5349,27 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 33,
+      "degree": 34,
       "path": "wiki/countries/singapore.md",
       "meta": {
         "legal_system": "not-assessed",
         "region": "southeast-asia"
+      }
+    },
+    {
+      "id": "slovakia",
+      "type": "country",
+      "title": "Slovakia",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Slovakia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-pangea-xvii and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/slovakia.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -5111,7 +5399,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 21,
+      "degree": 22,
       "path": "wiki/countries/south-africa.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5163,7 +5451,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 61,
+      "degree": 62,
       "path": "wiki/countries/spain.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5181,7 +5469,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 2,
+      "degree": 3,
       "path": "wiki/countries/sri-lanka.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5214,7 +5502,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 39,
+      "degree": 40,
       "path": "wiki/countries/sweden.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5285,7 +5573,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 33,
+      "degree": 34,
       "path": "wiki/countries/thailand.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5303,7 +5591,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/togo.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5337,7 +5625,7 @@
       "source_count": 0,
       "created": "2026-04-12",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/turkey.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5370,7 +5658,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 34,
+      "degree": 35,
       "path": "wiki/countries/ukraine.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5405,7 +5693,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 137,
+      "degree": 138,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -5423,7 +5711,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 278,
+      "degree": 279,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -5441,7 +5729,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/uruguay.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5458,7 +5746,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/venezuela.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5511,7 +5799,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/zimbabwe.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5624,7 +5912,7 @@
       "source_count": 4,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/crime-types/counterfeit-goods.md",
       "meta": {}
     },
@@ -6391,7 +6679,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 21,
       "path": "wiki/mechanisms/asset-freezing.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6494,7 +6782,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 39,
+      "degree": 40,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6656,7 +6944,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 209,
+      "degree": 211,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6818,7 +7106,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 61,
+      "degree": 62,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6834,7 +7122,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 39,
+      "degree": 40,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -8274,7 +8562,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 97,
+      "degree": 99,
       "path": "wiki/operations/operation-dark-huntor.md",
       "meta": {
         "status": "completed",
@@ -9220,7 +9508,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 100,
+      "degree": 102,
       "path": "wiki/operations/operation-onymous.md",
       "meta": {
         "status": "completed",
@@ -9277,6 +9565,31 @@
         "operation_type": "arrest-sweep",
         "outcome": "success",
         "results_arrests": 144,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-pangea-xvii",
+      "type": "operation",
+      "title": "Operation Pangea XVII",
+      "title_ko": null,
+      "aliases": [
+        "INTERPOL Operation Pangea XVII",
+        "Pangea XVII"
+      ],
+      "summary": "Operation Pangea XVII was an INTERPOL-coordinated global operation targeting the illegal online sale and distribution of counterfeit, unapproved, diverted, and misbranded medicines and medical products. The enforcement window ran from 16 December…",
+      "source_count": 4,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 136,
+      "path": "wiki/operations/operation-pangea-xvii.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "coordinated-online-market-disruption",
+        "outcome": "success",
+        "results_arrests": 769,
         "operation_scope": "canonical_operation"
       }
     },
@@ -9510,7 +9823,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 49,
+      "degree": 51,
       "path": "wiki/operations/operation-sentinel-africa.md",
       "meta": {
         "status": "completed",
@@ -11054,7 +11367,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 429,
+      "degree": 431,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -11507,7 +11820,7 @@
       "source_count": 11,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 131,
+      "degree": 135,
       "path": "wiki/organizations/interpol-igci.md",
       "meta": {
         "org_type": "international-org",
@@ -12985,7 +13298,7 @@
       "source_count": 8,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 18,
+      "degree": 20,
       "path": "wiki/organizations/unodc.md",
       "meta": {
         "org_type": "international-org",
@@ -20034,6 +20347,48 @@
       "meta": {}
     },
     {
+      "id": "2025-06-25_interpol_operation-pangea-xvii-illicit-pharmaceuticals",
+      "type": "source",
+      "title": "Record 769 arrests and USD 65 million in illicit pharmaceuticals seized in global bust",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INTERPOL's official release is the anchor source for Operation Pangea XVII. It confirms the operation name, timeframe, INTERPOL coordination, global scope, arrests, seizures, investigations, search warrants, online takedown…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2025-06-25_interpol_operation-pangea-xvii-illicit-pharmaceuticals.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-06-25_mhra_operation-pangea-xvii-illegal-medicines",
+      "type": "source",
+      "title": "MHRA seizes 7.7 million doses of illegal medicines and removes hundreds of illegal online listings as part of Operation Pangea",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The MHRA release provides national official confirmation of the UK component of Operation Pangea XVII. It confirms the INTERPOL coordination model, approximate 90-country scope, UK seizures, online takedowns, arrest operations,…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2025-06-25_mhra_operation-pangea-xvii-illegal-medicines.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-06-26_hsa_operation-pangea-xvii-online-listings",
+      "type": "source",
+      "title": "HSA Removes over 1,200 Online Listings of Illegal Health Products during Global Enforcement Operation",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The HSA release provides national official confirmation of Singapore's digital enforcement under Operation Pangea XVII. It confirms the operation's Internet-based character, INTERPOL coordination, 90-country participation, local…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2025-06-26_hsa_operation-pangea-xvii-online-listings.md",
+      "meta": {}
+    },
+    {
       "id": "2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts",
       "type": "source",
       "title": "Eurojust helps dismantle fraud scheme using hijacked trusted seller accounts",
@@ -20073,6 +20428,20 @@
       "updated": null,
       "degree": 2,
       "path": "wiki/sources/2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-07-11_tga_operation-pangea-xvii-counterfeit-goods",
+      "type": "source",
+      "title": "TGA seizes millions of illegal and counterfeit goods as part of global crackdown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The TGA release provides national official confirmation of Australia's role in Operation Pangea XVII. It documents import screening, large-scale seizures, and international intelligence sharing. ## Relevance to IC The source…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2025-07-11_tga_operation-pangea-xvii-counterfeit-goods.md",
       "meta": {}
     },
     {
@@ -55348,6 +55717,12 @@
       "directed": false
     },
     {
+      "source": "bahrain",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "bangladesh",
       "target": "operation-synergia-iii",
       "kind": "body",
@@ -55464,6 +55839,12 @@
     {
       "source": "bosnia-and-herzegovina",
       "target": "operation-shrouded-horizon",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "botswana",
+      "target": "operation-pangea-xvii",
       "kind": "body",
       "directed": false
     },
@@ -55756,6 +56137,18 @@
       "directed": false
     },
     {
+      "source": "comoros",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "congo",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "costa-rica",
       "target": "operation-shrouded-horizon",
       "kind": "operations_participated",
@@ -55794,6 +56187,12 @@
     {
       "source": "croatia",
       "target": "operation-shrouded-horizon",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "curacao",
+      "target": "operation-pangea-xvii",
       "kind": "body",
       "directed": false
     },
@@ -55942,6 +56341,12 @@
       "directed": false
     },
     {
+      "source": "dominican-republic",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "ecuador",
       "target": "operation-orion-international",
       "kind": "operations_participated",
@@ -55974,6 +56379,12 @@
     {
       "source": "estonia",
       "target": "zeus-spyeye-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "ethiopia",
+      "target": "operation-pangea-xvii",
       "kind": "body",
       "directed": false
     },
@@ -56488,6 +56899,18 @@
       "directed": false
     },
     {
+      "source": "iran",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "iraq",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "ireland",
       "target": "operation-onymous",
       "kind": "operations_participated",
@@ -56590,6 +57013,12 @@
       "directed": false
     },
     {
+      "source": "jamaica",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "japan",
       "target": "operation-haechi-v",
       "kind": "operations_participated",
@@ -56686,6 +57115,12 @@
       "directed": false
     },
     {
+      "source": "kuwait",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "latvia",
       "target": "operation-eur-3m-online-investment-fraud-2025",
       "kind": "operations_participated",
@@ -56694,6 +57129,12 @@
     {
       "source": "latvia",
       "target": "operation-eur-3m-online-investment-fraud-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "lebanon",
+      "target": "operation-pangea-xvii",
       "kind": "body",
       "directed": false
     },
@@ -57142,6 +57583,12 @@
       "directed": false
     },
     {
+      "source": "niger",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "nigeria",
       "target": "operation-jackal",
       "kind": "operations_participated",
@@ -57298,6 +57745,12 @@
       "directed": false
     },
     {
+      "source": "palestine",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "paraguay",
       "target": "operation-orion-international",
       "kind": "operations_participated",
@@ -57396,6 +57849,12 @@
     {
       "source": "portugal",
       "target": "portugal-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "qatar",
+      "target": "operation-pangea-xvii",
       "kind": "body",
       "directed": false
     },
@@ -57490,6 +57949,18 @@
       "directed": false
     },
     {
+      "source": "saint-lucia",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "san-marino",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "serbia",
       "target": "budapest-convention",
       "kind": "body",
@@ -57540,6 +58011,12 @@
     {
       "source": "singapore",
       "target": "operation-avalanche",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "slovakia",
+      "target": "operation-pangea-xvii",
       "kind": "body",
       "directed": false
     },
@@ -76378,6 +76855,648 @@
       "directed": false
     },
     {
+      "source": "operation-pangea-xvii",
+      "target": "interpol-igci",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "counterfeit-goods",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "interpol-igci",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "informal-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "asset-freezing",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "interpol-igci",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "unodc",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "argentina",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "armenia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "australia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "austria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "azerbaijan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "bahrain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "belarus",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "benin",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "bolivia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "bosnia-and-herzegovina",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "botswana",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "brazil",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "brunei",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "bulgaria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "burkina-faso",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "cambodia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "cameroon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "canada",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "chile",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "china",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "colombia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "comoros",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "congo",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "costa-rica",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "curacao",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "cyprus",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "czech-republic",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "democratic-republic-of-the-congo",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "denmark",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "dominican-republic",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "ecuador",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "ethiopia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "finland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "gabon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "georgia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "greece",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "guyana",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "hong-kong",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "india",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "indonesia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "iran",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "iraq",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "ireland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "jamaica",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "kuwait",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "laos",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "latvia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "lebanon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "madagascar",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "malaysia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "maldives",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "mexico",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "morocco",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "mozambique",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "myanmar",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "new-zealand",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "niger",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "nigeria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "norway",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "pakistan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "palestine",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "paraguay",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "peru",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "philippines",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "poland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "portugal",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "qatar",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "san-marino",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "romania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "russia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "rwanda",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "senegal",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "serbia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "south-africa",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "singapore",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "slovakia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "spain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "sri-lanka",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "saint-lucia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "sweden",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "thailand",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "togo",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "turkey",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "ukraine",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "uruguay",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "venezuela",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "zimbabwe",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "operation-dark-huntor",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "operation-onymous",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "operation-dark-huntor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "operation-onymous",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-perfect-storm-pay-tv-piracy-2019",
       "target": "eurojust",
       "kind": "coordinating_body",
@@ -78071,6 +79190,12 @@
     },
     {
       "source": "operation-sentinel-africa",
+      "target": "botswana",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-sentinel-africa",
       "target": "burkina-faso",
       "kind": "participating_countries",
       "directed": true
@@ -78084,6 +79209,12 @@
     {
       "source": "operation-sentinel-africa",
       "target": "chad",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-sentinel-africa",
+      "target": "congo",
       "kind": "participating_countries",
       "directed": true
     },
@@ -85745,6 +86876,12 @@
     },
     {
       "source": "europol-ec3",
+      "target": "operation-pangea-xvii",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
       "target": "operation-cronos-phase1",
       "kind": "body",
       "directed": false
@@ -87612,6 +88749,12 @@
     {
       "source": "interpol-igci",
       "target": "operation-catalyst",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol-igci",
+      "target": "operation-pangea-xvii",
       "kind": "operations_participated",
       "directed": true
     },
@@ -91686,6 +92829,12 @@
     {
       "source": "unodc",
       "target": "operation-orion-international",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "unodc",
+      "target": "operation-pangea-xvii",
       "kind": "operations_participated",
       "directed": true
     },
@@ -97660,6 +98809,42 @@
       "directed": false
     },
     {
+      "source": "2025-06-25_interpol_operation-pangea-xvii-illicit-pharmaceuticals",
+      "target": "operation-pangea-xvii",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-06-25_interpol_operation-pangea-xvii-illicit-pharmaceuticals",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-06-25_mhra_operation-pangea-xvii-illegal-medicines",
+      "target": "operation-pangea-xvii",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-06-25_mhra_operation-pangea-xvii-illegal-medicines",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-06-26_hsa_operation-pangea-xvii-online-listings",
+      "target": "operation-pangea-xvii",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-06-26_hsa_operation-pangea-xvii-online-listings",
+      "target": "operation-pangea-xvii",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts",
       "target": "operation-germany-romania-trusted-seller-fraud-2025",
       "kind": "pages_updated",
@@ -97692,6 +98877,18 @@
     {
       "source": "2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme",
       "target": "operation-us-v-onomen-uduebor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-07-11_tga_operation-pangea-xvii-counterfeit-goods",
+      "target": "operation-pangea-xvii",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-11_tga_operation-pangea-xvii-counterfeit-goods",
+      "target": "operation-pangea-xvii",
       "kind": "body",
       "directed": false
     },
