@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (637)
+# Sources (640)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -233,6 +233,9 @@ updated: 2026-04-14
 | [[2024-11-06-interpol-operation-synergia-ii]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-11-05_kaspersky-com_interpol-operation-synergia-ii]] | press-release | Kaspersky | ? | medium | ? |
 | [[2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested]] | press-release | Europol | ? | high | ? |
+| [[2024-10-21_agb_operation-soga-x-illegal-football-betting]] | news | Asia Gaming Brief | ? | medium | ? |
+| [[2024-10-18_cybernews_operation-soga-x-illegal-online-gambling]] | news | Cybernews | ? | medium | ? |
+| [[2024-10-17_interpol_operation-soga-x-illegal-football-gambling]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-10-15_interpol_operation-orion-international-south-america-csam]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-10-15_interpol-int_operation-orion-international]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-10-08_group-ib_operation-contender-2]] | press-release | Group-IB | ? | medium | ? |

@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (138)
+# Countries (140)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -124,6 +124,7 @@ total: 61
 |  | [[dominican-republic]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[ethiopia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[gabon]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[guinea-bissau]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[guinea]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[iran]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[iraq]] | not-assessed | — | unknown | unknown | 0 |
@@ -146,6 +147,7 @@ total: 61
 |  | [[seychelles]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[slovakia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[sri-lanka]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[trinidad-and-tobago]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[tunisia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[uganda]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[zimbabwe]] | not-assessed | — | unknown | unknown | 0 |

@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-07T00:11:37Z",
+  "generated_at": "2026-05-07T01:33:44Z",
   "root": null,
   "stats": {
-    "total_nodes": 1360,
-    "total_edges": 13116,
+    "total_nodes": 1366,
+    "total_edges": 13165,
     "broken_links": 0,
     "orphans": 98,
     "by_type": {
@@ -13,18 +13,18 @@
       "case": 89,
       "challenge": 2,
       "concept": 15,
-      "country": 138,
+      "country": 140,
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 149,
+      "operation": 150,
       "organization": 145,
       "procedure": 2,
-      "source": 637
+      "source": 640
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 122
+      "canonical_operation": 123
     }
   },
   "nodes": [
@@ -692,7 +692,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 122 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 149 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 72 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 123 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 150 | | Period 1 (2014-2018) | 24 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 73 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-07",
@@ -1378,7 +1378,7 @@
       "title": "Source Duplicate Audit (2026-05-07)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4823 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4826 -…",
       "source_count": 0,
       "created": "2026-05-07",
       "updated": "2026-05-07",
@@ -3551,7 +3551,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 74,
+      "degree": 75,
       "path": "wiki/countries/australia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3652,7 +3652,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 30,
+      "degree": 31,
       "path": "wiki/countries/belgium.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3773,7 +3773,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/countries/brunei.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4062,7 +4062,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/countries/czech-republic.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4319,11 +4319,27 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/countries/greece.md",
       "meta": {
         "legal_system": "not-assessed",
         "region": "southern-europe"
+      }
+    },
+    {
+      "id": "guinea-bissau",
+      "type": "country",
+      "title": "Guinea-Bissau",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Guinea-Bissau is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-soga-x and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/guinea-bissau.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -4369,7 +4385,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/countries/hong-kong.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4386,7 +4402,7 @@
       "source_count": 1,
       "created": "2026-04-11",
       "updated": "2026-04-29",
-      "degree": 19,
+      "degree": 20,
       "path": "wiki/countries/hungary.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4421,7 +4437,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 21,
+      "degree": 22,
       "path": "wiki/countries/india.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4540,7 +4556,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 44,
+      "degree": 45,
       "path": "wiki/countries/italy.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4692,7 +4708,7 @@
       "source_count": 0,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 2,
+      "degree": 3,
       "path": "wiki/countries/lebanon.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4742,7 +4758,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/macau.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4808,7 +4824,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/maldives.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4824,7 +4840,7 @@
       "source_count": 0,
       "created": "2026-05-04",
       "updated": "2026-05-04",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/malta.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4977,7 +4993,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/namibia.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5144,7 +5160,7 @@
       "source_count": 0,
       "created": "2026-04-20",
       "updated": "2026-05-03",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/countries/philippines.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5179,7 +5195,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 26,
+      "degree": 27,
       "path": "wiki/countries/portugal.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5283,7 +5299,7 @@
       "source_count": 0,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 2,
+      "degree": 3,
       "path": "wiki/countries/san-marino.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5349,7 +5365,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 34,
+      "degree": 35,
       "path": "wiki/countries/singapore.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5399,7 +5415,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 22,
+      "degree": 23,
       "path": "wiki/countries/south-africa.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5416,7 +5432,7 @@
       "source_count": 18,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 97,
+      "degree": 98,
       "path": "wiki/countries/south-korea.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5451,7 +5467,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 62,
+      "degree": 63,
       "path": "wiki/countries/spain.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5469,7 +5485,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/countries/sri-lanka.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -5519,7 +5535,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 50,
+      "degree": 51,
       "path": "wiki/countries/switzerland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5573,7 +5589,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 34,
+      "degree": 35,
       "path": "wiki/countries/thailand.md",
       "meta": {
         "legal_system": "civil-law",
@@ -5597,6 +5613,22 @@
         "legal_system": "civil-law",
         "region": "west-africa",
         "ic_capacity_rating": "low"
+      }
+    },
+    {
+      "id": "trinidad-and-tobago",
+      "type": "country",
+      "title": "Trinidad and Tobago",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Trinidad and Tobago is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-soga-x and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/countries/trinidad-and-tobago.md",
+      "meta": {
+        "legal_system": "not-assessed"
       }
     },
     {
@@ -5625,7 +5657,7 @@
       "source_count": 0,
       "created": "2026-04-12",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/turkey.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -5763,7 +5795,7 @@
       "source_count": 1,
       "created": "2026-04-20",
       "updated": "2026-04-29",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/countries/vietnam.md",
       "meta": {
         "legal_system": "civil-law",
@@ -6191,7 +6223,7 @@
       "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-04-14",
-      "degree": 173,
+      "degree": 174,
       "path": "wiki/crime-types/online-fraud-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -6695,7 +6727,7 @@
       "source_count": 1,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/mechanisms/asset-recovery.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6782,7 +6814,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 40,
+      "degree": 41,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6944,7 +6976,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 211,
+      "degree": 213,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -7106,7 +7138,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 62,
+      "degree": 63,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -7122,7 +7154,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 40,
+      "degree": 41,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -9140,7 +9172,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/operations/operation-haechi-v.md",
       "meta": {
         "status": "completed",
@@ -9165,7 +9197,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 139,
+      "degree": 140,
       "path": "wiki/operations/operation-haechi-vi.md",
       "meta": {
         "status": "completed",
@@ -9903,6 +9935,31 @@
         "source_tier": 2,
         "operation_type": "takedown",
         "outcome": "success",
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-soga-x",
+      "type": "operation",
+      "title": "Operation SOGA X",
+      "title_ko": null,
+      "aliases": [
+        "INTERPOL Operation SOGA X",
+        "SOGA X"
+      ],
+      "summary": "Operation SOGA X was an INTERPOL-led global enforcement action targeting illegal online football gambling and related organized-crime activity during the UEFA 2024 European Football Championship. It ran from June to July 2024 across 28 countries…",
+      "source_count": 3,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 49,
+      "path": "wiki/operations/operation-soga-x.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "coordinated-online-market-disruption",
+        "outcome": "success",
+        "results_arrests": 5100,
         "operation_scope": "canonical_operation"
       }
     },
@@ -11839,7 +11896,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 124,
+      "degree": 128,
       "path": "wiki/organizations/interpol.md",
       "meta": {
         "org_type": "international-org",
@@ -18650,6 +18707,48 @@
       "updated": null,
       "degree": 10,
       "path": "wiki/sources/2024-10-15_interpol_operation-orion-international-south-america-csam.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-10-17_interpol_operation-soga-x-illegal-football-gambling",
+      "type": "source",
+      "title": "Web of crime exposed: 5,100 arrests in illegal football gambling crackdown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INTERPOL's official release is the anchor source for Operation SOGA X. It confirms the operation name, timing, 28-country scope, arrest and recovery figures, illegal website disruption, country list, and examples in the…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2024-10-17_interpol_operation-soga-x-illegal-football-gambling.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-10-18_cybernews_operation-soga-x-illegal-online-gambling",
+      "type": "source",
+      "title": "Massive illegal online gambling crackdown: Interpol coordinates 5,100 arrests in 28 countries",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Cybernews provides independent press coverage of Operation SOGA X. It corroborates the operation name, INTERPOL coordination, 28-country scope, arrest and recovery figures, website disruption, and the Philippines, Vietnam,…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2024-10-18_cybernews_operation-soga-x-illegal-online-gambling.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-10-21_agb_operation-soga-x-illegal-football-betting",
+      "type": "source",
+      "title": "INTERPOL led global sting leads to over 5K arrests in crackdown on illegal football betting",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Asia Gaming Brief provides independent industry-press coverage of Operation SOGA X. It corroborates the operation name, INTERPOL lead, 28-country scope, arrest and recovery figures, illegal website shutdowns, Philippines victim…",
+      "source_count": 0,
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "degree": 2,
+      "path": "wiki/sources/2024-10-21_agb_operation-soga-x-illegal-football-betting.md",
       "meta": {}
     },
     {
@@ -56749,6 +56848,12 @@
       "directed": false
     },
     {
+      "source": "guinea-bissau",
+      "target": "operation-soga-x",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "guinea",
       "target": "operation-contender-3",
       "kind": "body",
@@ -58521,6 +58626,12 @@
     {
       "source": "togo",
       "target": "africa-cyber-surge-ii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "trinidad-and-tobago",
+      "target": "operation-soga-x",
       "kind": "body",
       "directed": false
     },
@@ -79855,6 +79966,246 @@
       "directed": true
     },
     {
+      "source": "operation-soga-x",
+      "target": "interpol",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "interpol",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "informal-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "asset-recovery",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "interpol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "australia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "belgium",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "brunei",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "czech-republic",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "greece",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "guinea-bissau",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "hong-kong",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "hungary",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "india",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "italy",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "lebanon",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "macau",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "maldives",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "malta",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "namibia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "philippines",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "portugal",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "south-korea",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "san-marino",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "singapore",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "south-africa",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "spain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "sri-lanka",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "switzerland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "thailand",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "trinidad-and-tobago",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "turkey",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "vietnam",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "operation-haechi-v",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-soga-x",
+      "target": "operation-haechi-vi",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
       "source": "operation-source",
       "target": "europol-ec3",
       "kind": "coordinating_body",
@@ -88946,6 +89297,12 @@
     },
     {
       "source": "interpol",
+      "target": "operation-soga-x",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol",
       "target": "interpol-igci",
       "kind": "body",
       "directed": false
@@ -97329,6 +97686,42 @@
     {
       "source": "2024-10-08_group-ib_operation-contender-2",
       "target": "operation-contender-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-10-17_interpol_operation-soga-x-illegal-football-gambling",
+      "target": "operation-soga-x",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-10-17_interpol_operation-soga-x-illegal-football-gambling",
+      "target": "operation-soga-x",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-10-18_cybernews_operation-soga-x-illegal-online-gambling",
+      "target": "operation-soga-x",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-10-18_cybernews_operation-soga-x-illegal-online-gambling",
+      "target": "operation-soga-x",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-10-21_agb_operation-soga-x-illegal-football-betting",
+      "target": "operation-soga-x",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-10-21_agb_operation-soga-x-illegal-football-betting",
+      "target": "operation-soga-x",
       "kind": "body",
       "directed": false
     },

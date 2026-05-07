@@ -58,6 +58,7 @@ operations_participated:
   - "[[operation-lyrebird]]"
   - "[[operation-chakra-ii]]"
   - "[[operation-chakra-iv]]"
+  - "[[operation-soga-x]]"
 org_type: international-org
 parent_org: ""
 source_count: 4
