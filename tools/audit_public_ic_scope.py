@@ -1,9 +1,9 @@
 """Audit public wiki outputs against the international-cooperation scope rule.
 
 Public event records are limited to international-cooperation material. For
-operations, that means at least two real country slugs in structured metadata.
-This audit checks that generated/public surfaces do not expose non-qualifying
-operations, cases, or sources.
+operations and cases, that means at least two real country slugs in structured
+metadata. This audit checks that generated/public surfaces do not expose
+non-qualifying operations, cases, or sources.
 """
 from __future__ import annotations
 
@@ -132,19 +132,22 @@ def compare_surface(
     return issues
 
 
-def audit_operations_country_threshold(public_ops: set[str]) -> list[dict[str, Any]]:
+def audit_event_country_threshold(
+    category: str,
+    public_records: set[str],
+) -> list[dict[str, Any]]:
     issues: list[dict[str, Any]] = []
-    files = wiki_files("operations")
+    files = wiki_files(category)
     bad: list[str] = []
-    for slug in sorted(public_ops):
+    for slug in sorted(public_records):
         path, meta = files[slug]
         if country_count(meta, WIKI_DIR) < 2:
             bad.append(slug)
     if bad:
         issues.append({
-            "category": "operations",
+            "category": category,
             "surface": "scope",
-            "kind": "public_operation_country_count_lt_2",
+            "kind": "public_event_country_count_lt_2",
             "count": len(bad),
             "sample": bad[:20],
         })
@@ -167,7 +170,13 @@ def main() -> int:
         for label, actual in surfaces.items():
             issues.extend(compare_surface(category, label, actual, expected))
 
-    issues.extend(audit_operations_country_threshold(expected_by_category["operations"]))
+    for event_category in ("operations", "cases"):
+        issues.extend(
+            audit_event_country_threshold(
+                event_category,
+                expected_by_category[event_category],
+            )
+        )
 
     op_files = wiki_files("operations")
     scope_counts = Counter()

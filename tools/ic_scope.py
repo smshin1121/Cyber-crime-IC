@@ -2,8 +2,9 @@
 
 The public corpus is scoped to records with at least two real countries.
 Repository files remain available for traceability, but the public wiki,
-search, statistics, and graph exports should only include records that meet
-this rule or directly support a qualifying operation.
+search, statistics, and graph exports should only include operation and case
+records that themselves meet this rule. Source pages are included only when
+they directly support a qualifying operation or case.
 """
 from __future__ import annotations
 
@@ -80,32 +81,8 @@ def is_international_operation(meta: dict[str, Any], wiki_dir: Path) -> bool:
     return country_count(meta, wiki_dir) >= 2
 
 
-@lru_cache(maxsize=None)
-def _operation_is_public(wiki_dir_text: str, slug: str) -> bool:
-    path = Path(wiki_dir_text) / "operations" / f"{slug}.md"
-    if not path.exists():
-        return False
-    try:
-        meta = dict(frontmatter.load(path).metadata)
-    except Exception:
-        return False
-    return is_international_operation(meta, Path(wiki_dir_text))
-
-
-def _linked_operation_slugs(meta: dict[str, Any]) -> set[str]:
-    slugs: set[str] = set()
-    for field in ("related_operation", "related_operations", "parent_operation"):
-        for item in _as_list(meta.get(field)):
-            slug = normalize_slug(item)
-            if slug:
-                slugs.add(slug)
-    return slugs
-
-
 def is_international_case(meta: dict[str, Any], wiki_dir: Path) -> bool:
-    if country_count(meta, wiki_dir) >= 2:
-        return True
-    return any(_operation_is_public(str(wiki_dir), slug) for slug in _linked_operation_slugs(meta))
+    return country_count(meta, wiki_dir) >= 2
 
 
 @lru_cache(maxsize=None)
