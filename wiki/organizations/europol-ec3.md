@@ -107,6 +107,7 @@ operations_participated:
   - "[[operation-raptor]]"
   - "[[operation-pangea-xvii]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-tovar]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

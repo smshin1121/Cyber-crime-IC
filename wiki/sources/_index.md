@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (609)
+# Sources (614)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -599,6 +599,11 @@ updated: 2026-04-14
 | [[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]] | press-release | ICE / HSI | ? | medium | ? |
 | [[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]] | press-release | FBI | ? | high | ? |
 | [[2014-07-15_fbi_taking-down-botnets-ghost-click]] | government-report | FBI | ? | high | ? |
+| [[2014-07-11_doj_gameover-zeus-cryptolocker-update]] | press-release | U.S. Department of Justice | ? | high | ? |
+| [[2014-06-08_shadowserver_operation-tovar]] | technical-report | Shadowserver Foundation | ? | high | ? |
+| [[2014-06-02_fbi_gameover-zeus-botnet-disrupted]] | press-release | FBI | ? | high | ? |
+| [[2014-06-02_doj_operation-tovar-gameover-zeus]] | press-release | U.S. Department of Justice | ? | high | ? |
+| [[2014-06-02_arstechnica_operation-tovar]] | news | Ars Technica | ? | medium | ? |
 | [[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]] | press-release | DOJ SDNY | ? | high | ? |
 | [[2013-07-22_wired_operation-open-market]] | news | Wired | ? | medium | ? |
 | [[2012-03-16_secret-service_operation-open-market]] | press-release | U.S. Secret Service | ? | high | ? |

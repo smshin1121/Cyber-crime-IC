@@ -31,6 +31,7 @@ operations_participated:
   - "[[simda-botnet-takedown]]"
   - "[[operation-chakra-ii]]"
   - "[[operation-chakra-v]]"
+  - "[[operation-tovar]]"
 org_type: private-sector
 parent_org: ""
 source_count: 3

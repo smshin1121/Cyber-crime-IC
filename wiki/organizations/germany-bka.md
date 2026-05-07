@@ -49,6 +49,7 @@ operations_participated:
   - "[[operation-morpheus]]"
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-tovar]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

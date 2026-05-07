@@ -38,8 +38,8 @@ participating_agencies:
   - "[[office-of-international-affairs|DOJ Office of International Affairs]]"
   - "U.S. State Department Diplomatic Security Service"
   - "U.S. Marshals Service"
-  - "HSI attaché office Vienna"
-  - "HSI attaché office Athens"
+  - "HSI attache office Vienna"
+  - "HSI attache office Athens"
   - "Austrian Department of Justice"
   - "Austrian Ministry of Interior"
   - "Albanian National Police"
@@ -84,7 +84,7 @@ edges:
     cooperation_type: extradition
     legal_basis: extradition
     direction: inbound
-  - source_actor: "HSI attaché offices"
+  - source_actor: "HSI attache offices"
     target_actor: "Austrian authorities"
     cooperation_type: investigative_support
     legal_basis: mutual_legal_assistance
@@ -125,7 +125,7 @@ created: 2026-05-08
 updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
-summary: "Operation Open Market was a long-running HSI and US Secret Service undercover investigation into the Carder.su carding organization. Public sources describe the case as a transnational organized cybercrime investigation that produced 19 initial arrests, four indictments charging 55 to 56 defendants, later convictions and sentencings, and a 2015 extradition from Albania coordinated through HSI attaché offices, DOJ OIA, Austrian and Albanian authorities, and Interpol Tirana."
+summary: "Operation Open Market was a long-running HSI and US Secret Service undercover investigation into the Carder.su carding organization. Public sources describe the case as a transnational organized cybercrime investigation that produced 19 initial arrests, four indictments charging 55 to 56 defendants, later convictions and sentencings, and a 2015 extradition from Albania coordinated through HSI attache offices, DOJ OIA, Austrian and Albanian authorities, and Interpol Tirana."
 jurisdictions:
   - "[[united-states]]"
   - "[[albania]]"
@@ -146,7 +146,7 @@ crime_types:
 
 Operation Open Market was a long-running undercover investigation into Carder.su, an online carding organization whose members traded compromised payment-card data, counterfeit identification documents, money-laundering services, and other cybercrime services. The operation began in 2007 and the first public indictment and arrest wave was announced in March 2012.
 
-The operation qualifies as international cooperation because Carder.su was a transnational organization, later public reporting described defendants across multiple countries, and ICE's 2015 extradition release documents coordination with Albanian, Austrian, Greek-based HSI attaché, DOJ, State Department, and Interpol channels to bring a Macedonian defendant from Albania to the United States.
+The operation qualifies as international cooperation because Carder.su was a transnational organization, later public reporting described defendants across multiple countries, and ICE's 2015 extradition release documents coordination with Albanian, Austrian, Greek-based HSI attache, DOJ, State Department, and Interpol channels to bring a Macedonian defendant from Albania to the United States.
 
 ## Operational Scope
 

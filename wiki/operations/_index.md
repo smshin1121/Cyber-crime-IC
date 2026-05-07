@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (129 canonical / 27 absorbed / 156 records)
+# Operations (130 canonical / 27 absorbed / 157 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (129)
+## Canonical Operations (130)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -20,6 +20,7 @@ updated: 2026-04-14
 | [[operation-open-market]] | CYB-2012-001 | 1 | completed | umbrella | 4 | 4.10 | 1 |
 | [[silk-road-takedown]] | CYB-2013-001 | 1 | completed | umbrella | 7 | 4.50 | 1 |
 | [[operation-onymous]] | CYB-2014-001 | 1 | completed | umbrella | 4 | 4.00 | 1 |
+| [[operation-tovar]] | CYB-2014-001 | 1 | completed | umbrella | 5 | 4.40 | 1 |
 | [[operation-shrouded-horizon]] | CYB-2015-001 | 1 | completed | umbrella | 5 | 3.62 | 2 |
 | [[cyber-fraud-international-2015]] | CYB-2015-002 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[ramnit-botnet-takedown]] | CYB-2015-002 | 1 | completed | umbrella | 5 | 4.00 | 2 |

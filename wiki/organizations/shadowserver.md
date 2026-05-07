@@ -31,6 +31,7 @@ operations_participated:
   - "[[operation-morpheus]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-serengeti-2]]"
+  - "[[operation-tovar]]"
 org_type: private-sector
 parent_org: ""
 source_count: 3

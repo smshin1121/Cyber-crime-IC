@@ -32,6 +32,7 @@ operations_participated:
   - "[[operation-cyber-guardian]]"
   - "[[phobos-8base-crackdown]]"
   - "[[operation-chakra-v]]"
+  - "[[operation-tovar]]"
 org_type: national-agency
 parent_org: "[[japan-npa-headquarters]]"
 source_count: 6

@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-07T16:40:40Z",
+  "generated_at": "2026-05-07T16:55:23Z",
   "root": null,
   "stats": {
-    "total_nodes": 1255,
-    "total_edges": 11727,
+    "total_nodes": 1261,
+    "total_edges": 11806,
     "broken_links": 0,
     "orphans": 107,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 156,
+      "operation": 157,
       "organization": 146,
       "procedure": 2,
-      "source": 609
+      "source": 614
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 129
+      "canonical_operation": 130
     }
   },
   "nodes": [
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 129 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 156 | | Period 1 (pre-2019) | 29 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 130 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 157 | | Period 1 (pre-2019) | 30 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4850 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4855 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -1935,7 +1935,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 76,
+      "degree": 77,
       "path": "wiki/countries/australia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2242,7 +2242,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 52,
+      "degree": 53,
       "path": "wiki/countries/canada.md",
       "meta": {
         "legal_system": "mixed",
@@ -2618,7 +2618,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 87,
+      "degree": 88,
       "path": "wiki/countries/france.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2686,7 +2686,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 140,
+      "degree": 141,
       "path": "wiki/countries/germany.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2958,7 +2958,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 46,
+      "degree": 47,
       "path": "wiki/countries/italy.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2992,7 +2992,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 44,
+      "degree": 45,
       "path": "wiki/countries/japan.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3143,7 +3143,7 @@
       "source_count": 0,
       "created": "2026-04-11",
       "updated": "2026-05-03",
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/countries/luxembourg.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3411,7 +3411,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 129,
+      "degree": 130,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3429,7 +3429,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/new-zealand.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -4092,7 +4092,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 39,
+      "degree": 40,
       "path": "wiki/countries/ukraine.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4127,7 +4127,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 142,
+      "degree": 143,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4145,7 +4145,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 208,
+      "degree": 209,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -4578,7 +4578,7 @@
       "source_count": 4,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 37,
+      "degree": 38,
       "path": "wiki/crime-types/malware-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -5200,7 +5200,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 19,
+      "degree": 21,
       "path": "wiki/mechanisms/domain-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5216,7 +5216,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 44,
+      "degree": 46,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5524,7 +5524,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 89,
+      "degree": 91,
       "path": "wiki/mechanisms/mutual-legal-assistance.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5540,7 +5540,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 68,
+      "degree": 70,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5556,7 +5556,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 49,
+      "degree": 51,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5572,7 +5572,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 10,
+      "degree": 12,
       "path": "wiki/mechanisms/sinkholing.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6110,7 +6110,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 89,
+      "degree": 91,
       "path": "wiki/operations/emotet-takedown.md",
       "meta": {
         "status": "completed",
@@ -6643,7 +6643,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 136,
+      "degree": 138,
       "path": "wiki/operations/operation-avalanche.md",
       "meta": {
         "status": "completed",
@@ -7166,7 +7166,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 125,
+      "degree": 127,
       "path": "wiki/operations/operation-endgame-phase1.md",
       "meta": {
         "status": "completed",
@@ -7530,7 +7530,7 @@
       "source_count": 4,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 37,
+      "degree": 38,
       "path": "wiki/operations/operation-ghost-click.md",
       "meta": {
         "status": "completed",
@@ -8634,6 +8634,32 @@
       }
     },
     {
+      "id": "operation-tovar",
+      "type": "operation",
+      "title": "Operation Tovar",
+      "title_ko": "Operation Tovar",
+      "aliases": [
+        "Gameover Zeus disruption",
+        "GameOver Zeus disruption",
+        "CryptoLocker disruption"
+      ],
+      "summary": "Operation Tovar was the 2014 multinational disruption of the Gameover Zeus botnet and CryptoLocker ransomware infrastructure. DOJ and FBI announcements describe a coordinated legal and technical action that used court-authorized substitute servers…",
+      "source_count": 5,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 79,
+      "path": "wiki/operations/operation-tovar.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "takedown",
+        "outcome": "success",
+        "results_arrests": 0,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "operation-trident-breach",
       "type": "operation",
       "title": "Operation Trident Breach",
@@ -8647,7 +8673,7 @@
       "source_count": 5,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 48,
+      "degree": 50,
       "path": "wiki/operations/operation-trident-breach.md",
       "meta": {
         "status": "completed",
@@ -9658,7 +9684,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 43,
+      "degree": 45,
       "path": "wiki/organizations/canada-rcmp.md",
       "meta": {
         "org_type": "national-unit",
@@ -9978,7 +10004,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 413,
+      "degree": 415,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -10014,7 +10040,7 @@
       "source_count": 12,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 243,
+      "degree": 246,
       "path": "wiki/organizations/fbi-cyber-division.md",
       "meta": {
         "org_type": "national-agency",
@@ -10123,7 +10149,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 27,
+      "degree": 29,
       "path": "wiki/organizations/france-national-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -10212,7 +10238,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 97,
+      "degree": 99,
       "path": "wiki/organizations/germany-bka.md",
       "meta": {
         "org_type": "national-agency",
@@ -10531,7 +10557,7 @@
       "source_count": 3,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 16,
+      "degree": 18,
       "path": "wiki/organizations/italy-polizia-postale.md",
       "meta": {
         "org_type": "national-unit",
@@ -10584,7 +10610,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 29,
+      "degree": 31,
       "path": "wiki/organizations/japan-npa.md",
       "meta": {
         "org_type": "national-agency",
@@ -10823,7 +10849,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 15,
+      "degree": 17,
       "path": "wiki/organizations/microsoft.md",
       "meta": {
         "org_type": "private-sector",
@@ -11056,7 +11082,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 106,
+      "degree": 108,
       "path": "wiki/organizations/netherlands-politie.md",
       "meta": {
         "org_type": "national-unit",
@@ -11166,7 +11192,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 26,
+      "degree": 28,
       "path": "wiki/organizations/office-of-international-affairs.md",
       "meta": {
         "org_type": "justice-international-cooperation-office",
@@ -11442,7 +11468,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 23,
       "path": "wiki/organizations/shadowserver.md",
       "meta": {
         "org_type": "private-sector",
@@ -11837,7 +11863,7 @@
       "source_count": 13,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 121,
+      "degree": 123,
       "path": "wiki/organizations/uk-nca.md",
       "meta": {
         "org_type": "national-agency",
@@ -11856,7 +11882,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 22,
       "path": "wiki/organizations/ukraine-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11991,7 +12017,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 212,
+      "degree": 215,
       "path": "wiki/organizations/us-doj.md",
       "meta": {
         "org_type": "national-agency",
@@ -12438,6 +12464,76 @@
       "updated": "2026-04-18",
       "degree": 5,
       "path": "wiki/sources/2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht.md",
+      "meta": {}
+    },
+    {
+      "id": "2014-06-02_arstechnica_operation-tovar",
+      "type": "source",
+      "title": "Governments disrupt botnet Gameover ZeuS and ransomware Cryptolocker",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Ars Technica reported the June 2014 disruption of Gameover Zeus and CryptoLocker and identifies the operation as Operation Tovar. The article independently summarizes the international law-enforcement and private-sector…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2014-06-02_arstechnica_operation-tovar.md",
+      "meta": {}
+    },
+    {
+      "id": "2014-06-02_doj_operation-tovar-gameover-zeus",
+      "type": "source",
+      "title": "U.S. Leads Multi-National Action Against Gameover Zeus Botnet and Cryptolocker Ransomware",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DOJ announced a multinational legal and technical action against the Gameover Zeus botnet and CryptoLocker ransomware infrastructure. The release identifies participating foreign law-enforcement agencies, the criminal charges…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2014-06-02_doj_operation-tovar-gameover-zeus.md",
+      "meta": {}
+    },
+    {
+      "id": "2014-06-02_fbi_gameover-zeus-botnet-disrupted",
+      "type": "source",
+      "title": "GameOver Zeus Botnet Disrupted",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The FBI story explains the Gameover Zeus disruption and frames it as a collaborative effort among international law-enforcement, private-sector, and U.S. government partners. It describes the botnet's peer-to-peer structure, the…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2014-06-02_fbi_gameover-zeus-botnet-disrupted.md",
+      "meta": {}
+    },
+    {
+      "id": "2014-06-08_shadowserver_operation-tovar",
+      "type": "source",
+      "title": "Gameover Zeus & Cryptolocker",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Shadowserver described Operation Tovar as a joint effort among international law-enforcement agencies and private partners targeting Gameover Zeus and CryptoLocker. The source explains Shadowserver's role in providing operational…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2014-06-08_shadowserver_operation-tovar.md",
+      "meta": {}
+    },
+    {
+      "id": "2014-07-11_doj_gameover-zeus-cryptolocker-update",
+      "type": "source",
+      "title": "Department of Justice Provides Update on Gameover Zeus and Cryptolocker Disruption",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DOJ provided a July 2014 status update on the Gameover Zeus and CryptoLocker disruption. The update reports successful technical and legal measures, substantial victim-remediation progress, a 31 percent reduction in Gameover Zeus…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2014-07-11_doj_gameover-zeus-cryptolocker-update.md",
       "meta": {}
     },
     {
@@ -70847,6 +70943,336 @@
       "directed": false
     },
     {
+      "source": "operation-tovar",
+      "target": "us-doj",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "malware-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "fbi-cyber-division",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "electronic-evidence",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "search-seizure",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "domain-seizure",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "sinkholing",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "public-private-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "mutual-legal-assistance",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "domain-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "sinkholing",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "us-doj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "fbi-cyber-division",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "office-of-international-affairs",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "uk-nca",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "netherlands-politie",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "germany-bka",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "france-national-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "italy-polizia-postale",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "japan-npa",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "canada-rcmp",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "ukraine-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "shadowserver",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "microsoft",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "australia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "germany",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "italy",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "japan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "luxembourg",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "new-zealand",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "canada",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "ukraine",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "operation-trident-breach",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "operation-ghost-click",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "operation-avalanche",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "emotet-takedown",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "operation-endgame-phase1",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-tovar",
+      "target": "operation-trident-breach",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-tovar",
+      "target": "operation-avalanche",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-tovar",
+      "target": "emotet-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-tovar",
+      "target": "operation-endgame-phase1",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-tovar",
+      "target": "2014-06-02_doj_operation-tovar-gameover-zeus",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-tovar",
+      "target": "2014-06-02_fbi_gameover-zeus-botnet-disrupted",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-tovar",
+      "target": "2014-07-11_doj_gameover-zeus-cryptolocker-update",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-tovar",
+      "target": "2014-06-08_shadowserver_operation-tovar",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-tovar",
+      "target": "2014-06-02_arstechnica_operation-tovar",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-trident-breach",
       "target": "fbi-cyber-division",
       "kind": "coordinating_body",
@@ -75294,6 +75720,12 @@
     },
     {
       "source": "canada-rcmp",
+      "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "canada-rcmp",
       "target": "canada-rcmp-federal-policing",
       "kind": "parent_org",
       "directed": true
@@ -76770,6 +77202,12 @@
     },
     {
       "source": "europol-ec3",
+      "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
       "target": "operation-cronos-phase1",
       "kind": "body",
       "directed": false
@@ -77137,6 +77575,12 @@
     {
       "source": "fbi-cyber-division",
       "target": "operation-ghost-click",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi-cyber-division",
+      "target": "operation-tovar",
       "kind": "operations_participated",
       "directed": true
     },
@@ -77592,6 +78036,12 @@
     },
     {
       "source": "france-national-police",
+      "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france-national-police",
       "target": "france-gendarmerie",
       "kind": "body",
       "directed": false
@@ -77989,6 +78439,12 @@
     {
       "source": "germany-bka",
       "target": "operation-cookie-monster",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany-bka",
+      "target": "operation-tovar",
       "kind": "operations_participated",
       "directed": true
     },
@@ -79157,6 +79613,12 @@
       "directed": true
     },
     {
+      "source": "italy-polizia-postale",
+      "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "japan-jc3",
       "target": "japan-npa",
       "kind": "cooperation_partners",
@@ -79303,6 +79765,12 @@
     {
       "source": "japan-npa",
       "target": "operation-chakra-v",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "japan-npa",
+      "target": "operation-tovar",
       "kind": "operations_participated",
       "directed": true
     },
@@ -79855,6 +80323,12 @@
     {
       "source": "microsoft",
       "target": "operation-chakra-v",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "microsoft",
+      "target": "operation-tovar",
       "kind": "operations_participated",
       "directed": true
     },
@@ -80442,6 +80916,12 @@
     },
     {
       "source": "netherlands-politie",
+      "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "netherlands-politie",
       "target": "netherlands-politie-parent",
       "kind": "parent_org",
       "directed": true
@@ -80647,6 +81127,12 @@
     {
       "source": "office-of-international-affairs",
       "target": "operation-open-market",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "office-of-international-affairs",
+      "target": "operation-tovar",
       "kind": "operations_participated",
       "directed": true
     },
@@ -81463,6 +81949,12 @@
     {
       "source": "shadowserver",
       "target": "operation-serengeti-2",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "shadowserver",
+      "target": "operation-tovar",
       "kind": "operations_participated",
       "directed": true
     },
@@ -82644,6 +83136,12 @@
     },
     {
       "source": "uk-nca",
+      "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "uk-nca",
       "target": "united-kingdom",
       "kind": "body",
       "directed": false
@@ -82741,6 +83239,12 @@
     {
       "source": "ukraine-police",
       "target": "operation-firewall",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine-police",
+      "target": "operation-tovar",
       "kind": "operations_participated",
       "directed": true
     },
@@ -83401,6 +83905,12 @@
     {
       "source": "us-doj",
       "target": "operation-open-market",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-doj",
+      "target": "operation-tovar",
       "kind": "operations_participated",
       "directed": true
     },
@@ -84355,6 +84865,66 @@
     {
       "source": "2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht",
       "target": "fbi-cyber-division",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2014-06-02_arstechnica_operation-tovar",
+      "target": "operation-tovar",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2014-06-02_arstechnica_operation-tovar",
+      "target": "operation-tovar",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2014-06-02_doj_operation-tovar-gameover-zeus",
+      "target": "operation-tovar",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2014-06-02_doj_operation-tovar-gameover-zeus",
+      "target": "operation-tovar",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2014-06-02_fbi_gameover-zeus-botnet-disrupted",
+      "target": "operation-tovar",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2014-06-02_fbi_gameover-zeus-botnet-disrupted",
+      "target": "operation-tovar",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2014-06-08_shadowserver_operation-tovar",
+      "target": "operation-tovar",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2014-06-08_shadowserver_operation-tovar",
+      "target": "operation-tovar",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2014-07-11_doj_gameover-zeus-cryptolocker-update",
+      "target": "operation-tovar",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2014-07-11_doj_gameover-zeus-cryptolocker-update",
+      "target": "operation-tovar",
       "kind": "body",
       "directed": false
     },

@@ -57,6 +57,7 @@ operations_participated:
   - "[[operation-cookie-monster]]"
   - "[[operation-ghost-click]]"
   - "[[operation-firewall]]"
+  - "[[operation-tovar]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

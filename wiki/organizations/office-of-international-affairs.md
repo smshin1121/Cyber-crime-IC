@@ -21,6 +21,7 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[xdedic-marketplace-takedown]]"
   - "[[operation-open-market]]"
+  - "[[operation-tovar]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"

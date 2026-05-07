@@ -24,6 +24,7 @@ operations_participated:
   - "[[darkmarket-takedown]]"
   - "[[vpnlab-takedown]]"
   - "[[operation-firewall]]"
+  - "[[operation-tovar]]"
 org_type: national-unit
 parent_org: "Національна поліція України (National Police of Ukraine) — Ministry of"
 source_count: 3

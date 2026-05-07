@@ -36,6 +36,7 @@ operations_participated:
   - "[[operation-morpheus]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-firewall]]"
+  - "[[operation-tovar]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
 source_count: 3

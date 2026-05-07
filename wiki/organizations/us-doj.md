@@ -960,6 +960,7 @@ operations_participated:
   - "[[operation-ghost-click]]"
   - "[[operation-firewall]]"
   - "[[operation-open-market]]"
+  - "[[operation-tovar]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5
