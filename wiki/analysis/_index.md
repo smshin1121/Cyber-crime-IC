@@ -57,7 +57,7 @@ updated: 2026-05-03
 | [[content-enrichment-queue-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[content-enrichment-queue-recursive-2026-04-29]] | — | — | — | 2026-04-26 |
 | [[european-trusted-source-map]] | — | — | — | 2026-04-18 |
-| [[ic-statistics-dashboard]] | trend-report | high | 2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반) | 2026-04-08 |
+| [[ic-statistics-dashboard]] | trend-report | high | 공개 위키 corpus 기준 사이버범죄 국제공조 작전 통계 | 2026-04-08 |
 | [[international-cooperation-operation-audit-2026-04]] | — | — | — | 2026-04-19 |
 | [[low-priority-integrity-repair-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[menu-data-audit-2026-04-29]] | — | — | — | 2026-04-29 |

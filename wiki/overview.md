@@ -15,7 +15,7 @@ The project goal is to build a source-grounded, SNA-ready knowledge base on publ
 
 ## Executive Summary
 
-International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **126 canonical operations** spanning 2014-2026. It also retains 27 absorbed follow-on records for prosecution, sentencing, forfeiture, plea, and action-day traceability; those follow-on records are not counted as separate IC operations in the statistics below.
+International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **126 canonical operations** across the public corpus period. It also retains 27 absorbed follow-on records for prosecution, sentencing, forfeiture, plea, and action-day traceability; those follow-on records are not counted as separate IC operations in the statistics below.
 
 1. **Europol-coordinated** (43 operations): The largest group by count, including ransomware takedowns (Cronos, Endgame, Phobos), botnet dismantlings (Avalanche, Andromeda), forum shutdowns (Darkode, Cracked/Nulled), and financial crime operations. Key results from the most-sourced operations include 470+ servers, thousands of domains, and major cryptocurrency seizures.
 2. **INTERPOL-coordinated** (30 operations): Dominant in arrest volume and geographic reach. Operations HAECHI IV/V/VI (combined: 9,000+ arrests, $1.1B+ seized), Jackal/III (~400 arrests targeting Black Axe), First Light 2024 (3,950 arrests, $257M), Serengeti (1,006 arrests), Sentinel (574 arrests), Synergia II (22,800 IPs taken down) across up to 95 countries.
@@ -66,10 +66,10 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 
 | Metric | Value | Period |
 |--------|-------|--------|
-| Canonical operations documented | 126 | 2014-2026 |
+| Canonical operations documented | 126 | Public corpus |
 | Absorbed follow-on records | 27 | Retained for traceability |
 | Total operation records | 153 | Canonical + absorbed |
-| Period 1 operations | 26 | 2014-2018 |
+| Period 1 operations | 26 | pre-2019 |
 | Period 2 operations | 26 | 2019-2022 |
 | Period 3 operations | 74 | 2023-2025 |
 | Period 4 operations | 0 | Repository-coded |

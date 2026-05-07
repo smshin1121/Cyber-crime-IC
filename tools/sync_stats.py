@@ -218,10 +218,10 @@ def update_overview(stats: Dict[str, Any]) -> int:
 
     new_table = f"""| Metric | Value | Period |
 |--------|-------|--------|
-| Canonical operations documented | {total_ops} | 2014-2026 |
+| Canonical operations documented | {total_ops} | Public corpus |
 | Absorbed follow-on records | {absorbed_ops} | Retained for traceability |
 | Total operation records | {total_records} | Canonical + absorbed |
-| Period 1 operations | {p1} | 2014-2018 |
+| Period 1 operations | {p1} | pre-2019 |
 | Period 2 operations | {p2} | 2019-2022 |
 | Period 3 operations | {p3} | 2023-2025 |
 | Period 4 operations | {p4} | Repository-coded |
@@ -348,7 +348,7 @@ def update_dashboard(stats: Dict[str, Any]) -> int:
 | 정본 작전 수 | {total_ops} |
 | 흡수 follow-on 기록 | {absorbed_ops} |
 | 전체 operation 레코드 | {total_records} |
-| Period 1 (2014-2018) | {p1} |
+| Period 1 (pre-2019) | {p1} |
 | Period 2 (2019-2022) | {p2} |
 | Period 3 (2023-2025) | {p3} |
 | Period 4 (repository-coded) | {p4} |

@@ -15,7 +15,7 @@ key_judgments:
   judgment: INTERPOL 주도 작전이 체포 규모에서 압도적
 - confidence: high
   judgment: 한국이 HAECHI 시리즈를 통해 아시아-태평양 국제공조의 핵심 행위자
-scope: 2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반)
+scope: 공개 위키 corpus 기준 사이버범죄 국제공조 작전 통계
 sources_consulted: 597
 title: 사이버범죄 국제공조 통계 대시보드
 type: analysis
@@ -37,7 +37,7 @@ updated: '2026-05-07'
 | 정본 작전 수 | 126 |
 | 흡수 follow-on 기록 | 27 |
 | 전체 operation 레코드 | 153 |
-| Period 1 (2014-2018) | 26 |
+| Period 1 (pre-2019) | 26 |
 | Period 2 (2019-2022) | 26 |
 | Period 3 (2023-2025) | 74 |
 | Period 4 (repository-coded) | 0 |
