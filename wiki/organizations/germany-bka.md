@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[germany]]"
 jurisdiction:
-  -
-    - germany
+
 created: 2026-04-08
 established: 1951-03-08
 frameworks_administered:
@@ -49,6 +48,7 @@ operations_participated:
   - "[[operation-weleakinfo-com-domain-name-seized]]"
   - "[[operation-morpheus]]"
   - "[[operation-eastwood]]"
+  - "[[operation-cookie-monster]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (124 canonical / 27 absorbed / 151 records)
+# Operations (125 canonical / 27 absorbed / 152 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (124)
+## Canonical Operations (125)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -74,6 +74,7 @@ updated: 2026-04-14
 | [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | umbrella | 5 | 4.12 | 1 |
 | [[operation-nervone]] | CYB-2023-052 | 3 | completed | umbrella | 5 | 4.18 | 1 |
 | [[nigerian-bec-convictions-2023]] | CYB-2023-053 | 3 | completed | umbrella | 5 | 4.20 | 1 |
+| [[operation-cookie-monster]] | CYB-2023-054 | 3 | completed | umbrella | 4 | 4.50 | 1 |
 | [[operation-orion-international]] | CYB-2024-001 | 3 | completed | umbrella | 4 | — | — |
 | [[operation-cronos-phase1]] | CYB-2024-002 | 3 | completed | umbrella | 7 | 2.28 | 2 |
 | [[operation-endgame-phase1]] | CYB-2024-003 | 3 | completed | umbrella | 5 | 2.28 | 2 |

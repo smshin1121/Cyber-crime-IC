@@ -5,8 +5,7 @@ contact_point_for:
 
 country: "[[switzerland]]"
 jurisdiction:
-  -
-    - switzerland
+
 created: 2026-04-10
 established: 2000-07-01
 headquarters: "Bern, Switzerland"
@@ -23,6 +22,7 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
   - "[[operation-eastwood]]"
+  - "[[operation-cookie-monster]]"
 org_type: national-agency
 parent_org: "Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-"
 source_count: 4

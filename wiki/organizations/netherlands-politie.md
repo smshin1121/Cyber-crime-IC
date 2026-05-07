@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[netherlands]]"
 jurisdiction:
-  -
-    - netherlands
+
 created: 2026-04-08
 established: 2007
 frameworks_administered:
@@ -55,6 +54,7 @@ operations_participated:
   - "[[operation-morpheus]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-trident-breach]]"
+  - "[[operation-cookie-monster]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

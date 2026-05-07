@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[canada]]"
-jurisdiction: [[canada]]
+jurisdiction:
+  -
+    - canada
 created: 2026-04-10
 established: 2020
 frameworks_administered:
@@ -33,6 +35,7 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]]"
   - "[[operation-morpheus]]"
+  - "[[operation-cookie-monster]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
 source_count: 3
@@ -41,7 +44,7 @@ sources:
 status: active
 title: "RCMP — National Cybercrime Coordination Centre (NC3)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

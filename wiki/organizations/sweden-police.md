@@ -5,8 +5,7 @@ contact_point_for:
 
 country: "[[sweden]]"
 jurisdiction:
-  -
-    - sweden
+
 created: 2026-04-10
 established: 2015-10-01
 headquarters: "Stockholm, Sweden"
@@ -23,6 +22,7 @@ operations_participated:
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-trojan-shield]]"
   - "[[operation-eastwood]]"
+  - "[[operation-cookie-monster]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
 source_count: 3

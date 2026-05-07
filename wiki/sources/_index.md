@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (589)
+# Sources (593)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -339,6 +339,10 @@ updated: 2026-04-14
 | [[2023-06-06_interpol_operation-jackal-black-axe-bec]] | press-release | INTERPOL | ? | high | ? |
 | [[2023-06-06-interpol-operation-jackal]] | press-release | INTERPOL | ? | high | ? |
 | [[2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services]] | press-release | Bleeping Computer | ? | medium | ? |
+| [[2023-04-05_justice-gov_criminal-marketplace-disrupted-genesis-market]] | press-release | US DOJ | ? | high | ? |
+| [[2023-04-05_europol_operation-cookie-monster-genesis-market]] | press-release | Europol | ? | high | ? |
+| [[2023-04-05_eurojust_operation-cookie-monster-genesis-market]] | press-release | Eurojust | ? | high | ? |
+| [[2023-04-04_bleepingcomputer_fbi-seizes-stolen-credentials-market-genesis-in-operation-cookie-monster]] | news | BleepingComputer | ? | medium | ? |
 | [[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]] | news-article | SC Media | ? | medium | ? |
 | [[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]] | news-article | Infosecurity Magazine | ? | medium | ? |
 | [[2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |

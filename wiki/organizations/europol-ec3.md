@@ -106,6 +106,7 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[operation-raptor]]"
   - "[[operation-pangea-xvii]]"
+  - "[[operation-cookie-monster]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

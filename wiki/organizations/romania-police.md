@@ -1,39 +1,42 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: "[[romania]]"
-jurisdiction: [[romania]]
+jurisdiction:
+  -
+    - romania
 created: 2026-04-10
 established: unknown
 frameworks_administered:
-  []
+
 headquarters: "Bucharest, Romania"
 key_roles:
-  []
+
 last_verified: 2026-04-10
 mandate: "Romanian National Police (Poliția Română) specialized service for preventing"
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "Poliția Română — Direcția de Combatere a Criminalității Organizate,"
 official_name_ko: ""
 operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
+  - "[[operation-cookie-monster]]"
 org_type: national-unit
 parent_org: "[[romania-police]]"
 source_count: 0
 sources:
-  []
+
 status: active
 title: "Romanian National Police — Service for Combating Cybercrime (DCCO)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

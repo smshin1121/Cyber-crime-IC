@@ -955,6 +955,7 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-raptor]]"
   - "[[operation-trident-breach]]"
+  - "[[operation-cookie-monster]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

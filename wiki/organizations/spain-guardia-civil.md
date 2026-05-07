@@ -11,8 +11,7 @@ established: 1997
 parent_org: "[[spain-guardia-civil]]"
 country: "[[spain]]"
 jurisdiction:
-  -
-    - spain
+
 headquarters: "Madrid, Spain"
 mandate: "Specialized cybercrime investigation unit of the Spanish Guardia Civil."
 member_states: 0
@@ -31,6 +30,7 @@ operations_participated:
   - "[[operation-eur-100m-illegal-financial-service-laundering-2025]]"
   - "[[phobos-8base-crackdown]]"
   - "[[operation-eastwood]]"
+  - "[[operation-cookie-monster]]"
 notable_cases:
 
 contact_point_for:

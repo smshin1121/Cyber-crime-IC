@@ -11,6 +11,7 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
+  - operation-cookie-monster
   - operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb
   - operation-us-v-monroeville-man
 key_findings:
@@ -23,8 +24,8 @@ copyright_policy: summary-only
 ---
 ## Source Summary
 
-BleepingComputer's cybersecurity-trade-press coverage of the April 4, 2023 FBI Operation Cookie Monster takedown of Genesis Market — the upstream international operation that enabled the SDAL prosecution of Laderian Odom seven months later.
+BleepingComputer's cybersecurity-trade-press coverage of the April 4, 2023 FBI Operation Cookie Monster takedown of Genesis Market supports the canonical [[operation-cookie-monster|Operation Cookie Monster]] page and the downstream SDAL prosecution of Laderian Odom seven months later.
 
 ## Relevance to IC
 
-Provides the international cooperation backbone for this domestic sentencing: Genesis Market was hosted on foreign servers and the takedown involved coordinated action across multiple countries. The Odom case is a downstream beneficiary of this international operation, even though the original SDAL press release does not name Cookie Monster.
+Provides independent trade-press confirmation for the international cooperation backbone: Genesis Market was hosted on foreign servers and the takedown involved coordinated action across multiple countries. The Odom case is a downstream beneficiary of this international operation, even though the original SDAL press release does not name Cookie Monster.

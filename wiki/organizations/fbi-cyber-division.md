@@ -107,6 +107,7 @@ operations_participated:
   - "[[infraud-organization-takedown]]"
   - "[[operation-chakra-ii]]"
   - "[[operation-trident-breach]]"
+  - "[[operation-cookie-monster]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[australia]]"
-jurisdiction: [[australia]]
+jurisdiction:
+  -
+    - australia
 created: 2026-04-10
 established: 1979
 frameworks_administered:
@@ -32,6 +34,7 @@ operations_participated:
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-power-off]]"
   - "[[operation-morpheus]]"
+  - "[[operation-cookie-monster]]"
 org_type: national-agency
 parent_org: ""
 source_count: 6
@@ -40,7 +43,7 @@ sources:
 status: active
 title: "Australian Federal Police — Cyber Command"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 
