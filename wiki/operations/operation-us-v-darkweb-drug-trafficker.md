@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-413
 period: 2
 operation_role: follow-on
-parent_operation: ""
+parent_operation: "[[operation-disruptor]]"
 operation_type: prosecution
 status: absorbed
 enforcement_type:
@@ -54,6 +54,7 @@ missing_fields:
 related_cases:
   - "[[us-v-darkweb-drug-trafficker]]"
 related_operations:
+  - "[[operation-disruptor]]"
 
 challenges_encountered:
 
@@ -62,18 +63,19 @@ lessons_learned:
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_ndtx-charges-alleged-darkweb-drug-trafficker-arrested-doj-operation-disruptor]]"
-summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-darkweb-drug-trafficker]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+summary: "This Aaron Brewer/DisrupTor follow-on record is retained under [[operation-disruptor]] and the canonical case page [[us-v-darkweb-drug-trafficker]]. It should not be counted as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-29
 ---
 ## Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-darkweb-drug-trafficker]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+This Aaron Brewer/DisrupTor follow-on record is retained under [[operation-disruptor]] and the canonical case page [[us-v-darkweb-drug-trafficker]]. It should not be counted as a separate international-cooperation operation.
 
 This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
-## Canonical Record
+## Canonical Records
 
+- [[operation-disruptor]]
 - [[us-v-darkweb-drug-trafficker]]
 
 ## References

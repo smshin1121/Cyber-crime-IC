@@ -11,8 +11,8 @@ updated: 2026-04-08
 | Organization | Type | Country/HQ | Key IC Roles | Operations | Sources |
 |--------------|------|------------|--------------|------------|---------|
 | [[nigeria-efcc]] | anti-corruption-financial-crime-agency | [[nigeria]] | Domestic arrest and investigative partner for Nigeria-origin BEC and online-fraud cases.; Works with INTERPOL and private-sector intelligence providers when foreign victim telemetry identifies Nigerian actors. | 2 | 2 |
-| [[dea]] | federal-law-enforcement | [[united-states]] | Co-leads or supports darknet marketplace takedowns where narcotics trafficking is the primary harm.; Works with FBI, DOJ, USPIS, HSI, and foreign partners through JCODE and other multi-agency task-force models. | 6 | 5 |
-| [[us-postal-inspection]] | federal-law-enforcement | [[united-states]] | Investigates darknet narcotics and counterfeit-drug cases where postal shipments connect online markets to physical delivery.; Participates in BEC, fraud, and darknet task-force operations with FBI, DOJ, DEA, HSI, and other US partners. | 6 | 4 |
+| [[dea]] | federal-law-enforcement | [[united-states]] | Co-leads or supports darknet marketplace takedowns where narcotics trafficking is the primary harm.; Works with FBI, DOJ, USPIS, HSI, and foreign partners through JCODE and other multi-agency task-force models. | 7 | 5 |
+| [[us-postal-inspection]] | federal-law-enforcement | [[united-states]] | Investigates darknet narcotics and counterfeit-drug cases where postal shipments connect online markets to physical delivery.; Participates in BEC, fraud, and darknet task-force operations with FBI, DOJ, DEA, HSI, and other US partners. | 7 | 4 |
 | [[us-secret-service-hq]] | federal-law-enforcement-headquarters | Washington, D.C., United States | Parent organization for [[us-secret-service\|US Secret Service Cyber Fraud Task Forces]].; Supports national and international investigations into payment fraud, cyber-enabled financial crime, cryptocurrency laundering, and criminal marketplace infrastructure. | 3 | 3 |
 | [[us-federal-government]] | government-umbrella | [[united-states]] | Coordinates multiple federal cybercrime roles across DOJ, FBI, Secret Service, DEA, DCIS, IC3, and other agencies.; Provides legal, investigative, seizure, reporting, and international-cooperation capacity for US-led or US-supported cybercrime operations. | 5 | 5 |
 | [[indonesia-immigration]] | immigration-enforcement | [[indonesia]] | Leads immigration-law enforcement where foreign nationals are suspected of cybercrime but domestic prosecution is constrained by victim geography or jurisdiction.; Provides detention, device seizure, and deportation pathway in scam-compound and online-fraud cases with an Indonesia nexus. | 1 | 4 |
@@ -35,18 +35,18 @@ updated: 2026-04-08
 | [[ministry-of-justice-korea]] | ministry | [[south-korea]] | Parent-ministry context for prosecutor-side international cooperation and post-reform prosecution structures.; Relevant to MLAT, extradition, and cybercrime treaty engagement alongside the prosecution service. | — | 2 |
 | [[singapore-mddi]] | ministry | [[singapore]] | Parent-ministry context for [[singapore-csa]] in the corpus.; Provides policy and agency-management context for Singapore's national cybersecurity posture. | — | 1 |
 | [[australia-afp]] | national-agency | Canberra, Australia | — | 10 | 6 |
-| [[australian-criminal-intelligence-commission]] | national-agency | Australia | National criminal intelligence agency supporting serious and organized crime investigations.; Provides intelligence-sharing context for Australian cybercrime enforcement alongside [[australia-afp]]. | — | 1 |
+| [[australian-criminal-intelligence-commission]] | national-agency | Australia | National criminal intelligence agency supporting serious and organized crime investigations.; Provides intelligence-sharing context for Australian cybercrime enforcement alongside [[australia-afp]]. | 1 | 1 |
 | [[brazil-ministry-of-justice-public-security]] | national-agency | Brasilia, Brazil | National public-security coordination; Cyber operations coordination through Ciberlab/Senasp structures | 1 | 1 |
 | [[cbi-india]] | national-agency | New Delhi, India | Lead agency for Operation Chakra series (I-V) against transnational cybercrime; International Operations Division handles cross-border case coordination | 4 | 3 |
 | [[cert-lv]] | national-agency | Latvia | Latvia's national computer security incident response institution.; Provides incident-response and cyber-resilience context distinct from police or prosecution functions. | — | 1 |
 | [[cert-mu]] | national-agency | Mauritius | Mauritius national computer emergency response team.; Provides incident-response and cybersecurity coordination distinct from Mauritius Police cybercrime investigation. | — | 2 |
 | [[china-mps]] | national-agency | Beijing, China | Coordinated Myanmar-Kokang cyber fraud crackdown (2023-2024); Bilateral border law enforcement cooperation with Myanmar, Thailand, Cambodia, Laos, Philippines | 1 | 3 |
 | [[dod-inspector-general]] | national-agency | United States | Independent oversight office for the US Department of Defense.; Parent organization for [[us-dcis\|Defense Criminal Investigative Service]]. | 1 | 2 |
-| [[dutch-police]] | national-agency | Netherlands | Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles.; Routes current institutional context to [[netherlands-politie]]. | 2 | 3 |
-| [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 20 | 3 |
+| [[dutch-police]] | national-agency | Netherlands | Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles.; Routes current institutional context to [[netherlands-politie]]. | 3 | 3 |
+| [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 21 | 3 |
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 88 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | Compatibility label for Bundeskriminalamt references in older operation records.; Routes detailed mandate, cybercrime division, and international-cooperation context to [[germany-bka]]. | 2 | 3 |
-| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 27 | 5 |
+| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 28 | 5 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 5 | 3 |
 | [[indonesia-police]] | national-agency | Indonesia | Compatibility page for Indonesian police references in regional cybercrime operation records.; Preserves links where sources do not distinguish national police, cyber unit, or immigration enforcement. | 1 | 2 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination.; Italian participation node in encrypted communications and darknet-drug operations where DCSA is named. | 1 | 3 |
@@ -64,7 +64,7 @@ updated: 2026-04-08
 | [[nigeria-police-force]] | national-agency | Abuja, Nigeria | domestic arrests; cybercrime unit execution | 2 | 3 |
 | [[norway-nsm]] | national-agency | Norway | Norway's national security authority for preventive security and cybersecurity.; Operates national cybersecurity and NorCERT-style defensive functions distinct from police cybercrime investigation. | — | 1 |
 | [[pakistan-fia]] | national-agency | Islamabad, Pakistan | Cybercrime investigation and national cybercrime reporting in Pakistan.; INTERPOL NCB Pakistan context where cross-border cybercrime cases involve Pakistani enforcement. | 1 | 1 |
-| [[portuguese-judicial-police]] | national-agency | Lisbon, Portugal | Compatibility label for Portugal's Policia Judiciaria and its cybercrime unit references.; Routes detailed cybercrime-unit context to [[portugal-policia-judiciaria]]. | 2 | 3 |
+| [[portuguese-judicial-police]] | national-agency | Lisbon, Portugal | Compatibility label for Portugal's Policia Judiciaria and its cybercrime unit references.; Routes detailed cybercrime-unit context to [[portugal-policia-judiciaria]]. | 3 | 3 |
 | [[romanian-police]] | national-agency | Bucharest, Romania | Compatibility label for Romanian police cybercrime participation in older operation records.; Routes institution-level detail to [[romania-police]]. | 2 | 3 |
 | [[singapore-csa]] | national-agency | Singapore | National cybersecurity coordination and strategy; Operate SingCERT (Singapore Computer Emergency Response Team) | — | 4 |
 | [[south-africa-saps]] | national-agency | South Africa | South Africa's national police service.; Parent policing context for DPCI / Hawks serious cybercrime investigations. | — | 2 |
@@ -73,9 +73,9 @@ updated: 2026-04-08
 | [[switzerland-ncsc]] | national-agency | Switzerland | Switzerland's federal cybersecurity office and national cybersecurity coordination point.; Provides national CERT/GovCERT and NCSC/BACS/OFCS continuity context. | — | 2 |
 | [[thailand-police]] | national-agency | Bangkok, Thailand | Variant reference for ambiguous Thai cybercrime police labels.; Routes specific cybercrime-bureau content to [[thailand-royal-police]]. | 2 | 3 |
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 2 | 8 |
-| [[uk-nca]] | national-agency | London, United Kingdom | — | 31 | 13 |
-| [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 10 | 3 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 938 | 5 |
+| [[uk-nca]] | national-agency | London, United Kingdom | — | 32 | 13 |
+| [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 11 | 3 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 939 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 7 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | federal prosecution; international evidence coordination | 10 | 3 |
 | [[krcert-cc]] | national-cert | [[south-korea]] | Coordinates incident response and public cyber-security guidance for the Korean internet ecosystem.; Provides the operational CERT/CC-facing function associated with KISA's national cyber-security mandate. | — | 1 |
@@ -96,7 +96,7 @@ updated: 2026-04-08
 | [[armenia-police]] | national-unit | Yerevan, Armenia | — | 2 | 3 |
 | [[belgium-federal-police]] | national-unit | Brussels, Belgium | National cybercrime investigation; Critical-infrastructure attack investigation | 4 | 4 |
 | [[bulgaria-police]] | national-unit | Sofia, Bulgaria | — | 5 | 2 |
-| [[canada-rcmp]] | national-unit | Ottawa, Ontario, Canada | — | 16 | 3 |
+| [[canada-rcmp]] | national-unit | Ottawa, Ontario, Canada | — | 17 | 3 |
 | [[city-of-london-police-ip-crime-unit]] | national-unit | London, United Kingdom | Intellectual-property crime enforcement; International digital-piracy cooperation | 1 | 1 |
 | [[czechia-police]] | national-unit | Prague, Czech Republic | — | 3 | 2 |
 | [[denmark-police]] | national-unit | Copenhagen, Denmark | — | 4 | 2 |
@@ -122,11 +122,11 @@ updated: 2026-04-08
 | [[south-africa-hawks]] | national-unit | South Africa | SAPS specialized unit for organized crime, economic crime, and serious cybercrime.; Primary South African police-side node for serious cybercrime investigation when DPCI is named. | — | 2 |
 | [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 6 | 2 |
 | [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 4 | 2 |
-| [[sweden-police]] | national-unit | Stockholm, Sweden | — | 8 | 3 |
+| [[sweden-police]] | national-unit | Stockholm, Sweden | — | 9 | 3 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 7 | 3 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 3 | 4 |
-| [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 1 | 3 |
-| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 18 | 4 |
+| [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 2 | 3 |
+| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 19 | 4 |
 | [[ncmec]] | nonprofit-clearinghouse | [[united-states]] | Receives and routes child sexual exploitation tips through CyberTipline channels.; Supports law-enforcement victim identification and child-protection investigations. | — | 2 |
 | [[uk-met-police-cyber]] | police-cybercrime-unit | [[united-kingdom]] | Supports investigations into cyber extortion, DDoS-for-ransom, and cyber-enabled fraud affecting London or UK victims.; Acts as a UK metropolitan cybercrime partner in Europol-supported operations. | 2 | 2 |
 | [[trend-micro]] | private-cybersecurity-company | [[japan]] | Provides malware telemetry, threat intelligence, and technical analysis to INTERPOL-led cybercrime operations.; Appears repeatedly in public-private cooperation chains for BEC, botnet, phishing, and malicious-infrastructure disruptions. | 9 | 6 |
@@ -149,8 +149,8 @@ updated: 2026-04-08
 | [[ncfta]] | public-private-partnership | United States | public-private intelligence sharing; case support | 3 | 3 |
 | [[apcert]] | regional-cert-network | — | Provides regional CERT-to-CERT coordination context for incident response and cyber-security capacity building.; Connects national CERTs such as [[kisa]] / KrCERT and SingCERT-facing functions. | — | 2 |
 | [[afripol]] | regional-org | Algiers, Algeria | continental police coordination; joint cyber operations with INTERPOL | 9 | 3 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 43 | 9 |
-| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 86 | 9 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 44 | 9 |
+| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 87 | 9 |
 | [[african-union]] | regional-organization | Addis Ababa, Ethiopia | Sets continental cyber-security, cybercrime, electronic-commerce, and personal-data-protection policy baselines through AU instruments.; Provides the regional treaty context used by African states and partners when harmonizing cybercrime laws and digital-evidence powers. | — | 1 |
 | [[aseanapol]] | regional-policing-body | — | Provides a Southeast Asian regional-policing layer for multilateral cyber-enabled fraud and online-scam operations.; Supports information sharing and regional coordination alongside INTERPOL and national police agencies. | 1 | 2 |
 | [[australia-asd]] | signals-intelligence-cyber-agency | [[australia]] | Operates ASD's Australian Cyber Security Centre as Australia's national cyber security lead.; Provides cyber threat monitoring, alerts, advisories, partnership programs, exercises, and uplift services for government, industry, critical infrastructure, and the public. | — | 2 |

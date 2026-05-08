@@ -25,6 +25,7 @@ operations_participated:
   - "[[operation-cookie-monster]]"
   - "[[operation-firewall]]"
   - "[[operation-hyperion]]"
+  - "[[operation-disruptor]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
 source_count: 3

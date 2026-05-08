@@ -24,6 +24,7 @@ operations_participated:
   - "[[nemesis-market-takedown]]"
   - "[[operation-raptor]]"
   - "[[operation-hyperion]]"
+  - "[[operation-disruptor]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"

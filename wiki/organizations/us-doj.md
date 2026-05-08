@@ -963,6 +963,7 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
   - "[[operation-card-shop]]"
+  - "[[operation-disruptor]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

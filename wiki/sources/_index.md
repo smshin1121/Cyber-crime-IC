@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (635)
+# Sources (640)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -456,6 +456,11 @@ updated: 2026-04-14
 | [[2020-10-15_wdpa_nazarovi-qqaazz-indictment]] | court-document | US DOJ (Western District of Pennsylvania) | ? | high | ? |
 | [[2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]] | news | Il Metropolitano | ? | medium | ? |
 | [[2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds]] | press-release | Eurojust | ? | high | ? |
+| [[2020-09-22_justice-gov_international-law-enforcement-operation-targeting-opioid-traffickers-darknet-results-over-170]] | press-release | US DOJ | ? | high | ? |
+| [[2020-09-22_justice-gov_alleged-southern-california-narcotics-traffickers-among-those-charged-in-interna]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2020-09-22_ice_ice-participates-international-crackdown-darknet-dealers]] | press-release | ICE/HSI | ? | high | ? |
+| [[2020-09-22_fbi_operation-disruptor-jcode-shuts-down-darknet-drug-vendor]] | press-release | FBI | ? | high | ? |
+| [[2020-09-22_dea_international-law-enforcement-darknet-opioid-traffickers-170-arrests]] | press-release | DEA | ? | high | ? |
 | [[2020-07-21_lgtr-justiz-rlp-de_cyberbunker-indictment-admitted]] | court-press-release | Landgericht Trier | 1 | high | ? |
 | [[2020-06-10_eurojust_eurojust-supports-new-major-crackdown-fraud-pay-tv]] | news | Eurojust | ? | high | ? |
 | [[interpol-operation-goldfish-alpha-night-fury]] | press-release | INTERPOL | 2 | high | ? |

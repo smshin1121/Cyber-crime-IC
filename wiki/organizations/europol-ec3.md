@@ -110,6 +110,7 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
   - "[[operation-hyperion]]"
+  - "[[operation-disruptor]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

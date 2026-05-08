@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: "78 months"
     location_at_arrest: "United States"
-related_operation: "[[operation-us-v-brewer-dark-web]]"
+related_operation: "[[operation-disruptor]]"
 ic_elements:
   mlat_requests:
 
@@ -47,7 +47,7 @@ United States v. Brewer is a dark web narcotics case explicitly tied by DOJ to O
 
 ## Case Context
 
-This case page preserves a defendant-level or filing-level view for **United States v. Aaron Brewer (Operation DisrupTor)**. The current metadata records the posture as `sentenced` and links the matter to [[operation-us-v-brewer-dark-web]]. That distinction matters because case pages can track sentencing, defendant status, charged conduct, jurisdiction, and evidentiary channels at a finer level than an umbrella operation page.
+This case page preserves a defendant-level or filing-level view for **United States v. Aaron Brewer (Operation DisrupTor)**. The current metadata records the posture as `sentenced` and links the matter to umbrella record [[operation-disruptor]], with [[operation-us-v-brewer-dark-web]] retained as an absorbed follow-on wrapper. That distinction matters because case pages can track sentencing, defendant status, charged conduct, jurisdiction, and evidentiary channels at a finer level than an umbrella operation page.
 
 ## Cooperation Notes
 

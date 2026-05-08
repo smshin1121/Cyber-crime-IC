@@ -26,6 +26,7 @@ notable_cases:
 official_name: "Naval Criminal Investigative Service"
 operations_participated:
   - "[[operation-us-v-wu-haibo-isoon]]"
+  - "[[operation-disruptor]]"
 org_type: national-unit
 parent_org: ""
 source_count: 3

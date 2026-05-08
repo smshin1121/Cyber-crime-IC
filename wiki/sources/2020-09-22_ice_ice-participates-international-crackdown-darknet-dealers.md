@@ -11,6 +11,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - operation-disruptor
   - operation-us-v-narcotics-traffickers-among-those
 key_findings:
   - "ICE/HSI participation in Operation DisrupTor"
@@ -25,8 +26,8 @@ last_fetcher: urllib
 ---
 ## Source Summary
 
-ICE/HSI press release confirming ICE participation in Operation DisrupTor international takedown.
+ICE/HSI press release confirming ICE participation in Operation DisrupTor, the international darknet-dealer crackdown coordinated through JCODE, Europol, Eurojust, and partner authorities.
 
 ## Relevance to IC
 
-This source provides parallel federal agency confirmation for [[operation-us-v-narcotics-traffickers-among-those]].
+This source provides parallel federal agency confirmation for [[operation-disruptor]] and remains relevant to the absorbed follow-on record [[operation-us-v-narcotics-traffickers-among-those]].

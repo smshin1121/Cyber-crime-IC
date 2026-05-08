@@ -23,6 +23,7 @@ operations_participated:
   - "[[operation-wirewire]]"
   - "[[operation-trident-breach]]"
   - "[[operation-hyperion]]"
+  - "[[operation-disruptor]]"
 cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"

@@ -12,9 +12,11 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - operation-disruptor
   - operation-us-v-narcotics-traffickers-among-those
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-narcotics-traffickers-among-those. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "Central District of California release for the Los Angeles JCODE component of Operation DisrupTor."
+  - "Stealthgod-linked organization allegedly made more than 18,000 illicit drug sales to customers in at least 35 states and numerous countries."
 collection_url: https://www.justice.gov/usao-cdca/pr/alleged-southern-california-narcotics-traffickers-among-those-charged-international
 created: 2026-04-17
 text_status: parsed
@@ -25,8 +27,8 @@ last_fetcher: doj_fetch
 ---
 ## Source Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-narcotics-traffickers-among-those]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+Central District of California release documenting the Los Angeles JCODE component of [[operation-disruptor]], including charges against the Stealthgod-linked organization and seizures tied to darknet drug sales.
 
 ## Relevance to IC
 
-The source supports [[operation-us-v-narcotics-traffickers-among-those]] in the `operations` corpus.
+The source supports [[operation-disruptor]] at operation level and [[operation-us-v-narcotics-traffickers-among-those]] as an absorbed follow-on record for the Los Angeles component.

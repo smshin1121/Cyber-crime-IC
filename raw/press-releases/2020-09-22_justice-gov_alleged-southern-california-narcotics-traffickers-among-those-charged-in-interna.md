@@ -19,7 +19,7 @@ source_page: wiki/sources/2020-09-22_justice-gov_alleged-southern-california-nar
 ---
 ## Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-narcotics-traffickers-among-those]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+Central District of California release documenting the Los Angeles JCODE component of [[operation-disruptor]], including charges against the Stealthgod-linked organization and seizures tied to darknet drug sales. The source also supports the absorbed follow-on page [[operation-us-v-narcotics-traffickers-among-those]].
 
 ## Extracted Text
 

@@ -14,7 +14,7 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-us-v-darkweb-drug-trafficker]]"
+related_operation: "[[operation-disruptor]]"
 ic_elements:
   mlat_requests:
     []
@@ -39,11 +39,11 @@ sources:
   - "[[2026-04-18_justice-gov_darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty]]"
 created: 2026-04-18
 updated: "2026-04-26"
-summary: "United States v. Darkweb Drug Trafficker is documented in the linked source material. Available source coverage includes US DOJ USAO."
+summary: "United States v. Darkweb Drug Trafficker is an Operation DisrupTor follow-on case documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-United States v. Darkweb Drug Trafficker is documented in the linked source material. Available source coverage includes US DOJ USAO.
+United States v. Darkweb Drug Trafficker is an Operation DisrupTor follow-on case documented in the linked source material. Available source coverage includes US DOJ USAO.
 
 ## Source Coverage
 
@@ -63,7 +63,7 @@ United States v. Darkweb Drug Trafficker is documented in the linked source mate
 - Recorded crime classification: Drug Trafficking.
 - Legal or procedural basis recorded in metadata: informal cooperation.
 - The record is categorized as prosecution with status pleaded guilty.
-- Related legal or operational records: Operation Us V Darkweb Drug Trafficker.
+- Related legal or operational records: [[operation-disruptor]] and absorbed follow-on [[operation-us-v-darkweb-drug-trafficker]].
 
 ## References
 

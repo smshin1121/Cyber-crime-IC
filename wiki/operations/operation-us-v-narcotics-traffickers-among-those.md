@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-452
 period: 2
 operation_role: follow-on
-parent_operation: ""
+parent_operation: "[[operation-disruptor]]"
 operation_type: indictment
 status: absorbed
 enforcement_type:
@@ -54,6 +54,7 @@ missing_fields:
 related_cases:
   - "[[us-v-narcotics-traffickers-among-those]]"
 related_operations:
+  - "[[operation-disruptor]]"
 
 challenges_encountered:
 
@@ -62,18 +63,19 @@ lessons_learned:
 source_count: 1
 sources:
   - "[[2020-09-22_dea_international-law-enforcement-darknet-opioid-traffickers-170-arrests]]"
-summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-narcotics-traffickers-among-those]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+summary: "This Los Angeles JCODE component is retained as an absorbed follow-on record under [[operation-disruptor]] and the canonical case page [[us-v-narcotics-traffickers-among-those]]. It should not be counted as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-29
 ---
 ## Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-narcotics-traffickers-among-those]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+This Los Angeles JCODE component is retained as an absorbed follow-on record under [[operation-disruptor]] and the canonical case page [[us-v-narcotics-traffickers-among-those]]. It should not be counted as a separate international-cooperation operation.
 
 This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
-## Canonical Record
+## Canonical Records
 
+- [[operation-disruptor]]
 - [[us-v-narcotics-traffickers-among-those]]
 
 ## References

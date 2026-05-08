@@ -24,7 +24,7 @@ notable_cases:
   []
 official_name: "Australian Criminal Intelligence Commission (ACIC)"
 operations_participated:
-  []
+  - "[[operation-disruptor]]"
 org_type: national-agency
 parent_org: ""
 source_count: 1

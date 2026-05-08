@@ -41,6 +41,7 @@ operations_participated:
   - "[[operation-firewall]]"
   - "[[operation-open-market]]"
   - "[[operation-hyperion]]"
+  - "[[operation-disruptor]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
 source_count: 4

@@ -46,6 +46,7 @@ missing_fields:
 related_cases:
   - "[[us-v-brewer-dark-web]]"
 related_operations:
+  - "[[operation-disruptor]]"
 
 challenges_encountered:
 
@@ -57,8 +58,8 @@ sources:
 created: 2026-04-17
 updated: 2026-04-29
 operation_role: follow-on
-parent_operation: ""
-summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brewer-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+parent_operation: "[[operation-disruptor]]"
+summary: "This Aaron Brewer prosecution record is retained as an absorbed follow-on under [[operation-disruptor]] and the canonical case page [[us-v-brewer-dark-web]]. It should not be counted as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,12 +69,13 @@ crime_types:
 ---
 ## Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brewer-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+This Aaron Brewer prosecution record is retained as an absorbed follow-on under [[operation-disruptor]] and the canonical case page [[us-v-brewer-dark-web]]. It should not be counted as a separate international-cooperation operation.
 
 This wrapper is retained for search, backlink, and source-trace continuity only; source-backed facts and procedural analysis live in the canonical record below.
 
-## Canonical Record
+## Canonical Records
 
+- [[operation-disruptor]]
 - [[us-v-brewer-dark-web]]
 
 ## References

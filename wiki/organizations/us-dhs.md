@@ -36,6 +36,7 @@ operations_participated:
   - "[[infraud-organization-takedown]]"
   - "[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"
   - "[[operation-trident-breach]]"
+  - "[[operation-disruptor]]"
 source_count: 3
 sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"

@@ -32,6 +32,7 @@ official_name_ko: ""
 operations_participated:
   - "[[hive-ransomware-takedown]]"
   - "[[operation-eastwood]]"
+  - "[[operation-disruptor]]"
 org_type: national-agency
 parent_org: "[[netherlands-politie]]"
 source_count: 3

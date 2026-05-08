@@ -40,6 +40,7 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[operation-card-shop]]"
   - "[[operation-hyperion]]"
+  - "[[operation-disruptor]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
 source_count: 3

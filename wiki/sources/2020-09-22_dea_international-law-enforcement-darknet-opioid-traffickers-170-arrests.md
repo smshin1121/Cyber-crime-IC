@@ -11,6 +11,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - operation-disruptor
   - operation-us-v-narcotics-traffickers-among-those
 key_findings:
   - "179 arrests worldwide, $6.5M seized, 500kg drugs"
@@ -27,8 +28,8 @@ storage_mode: fulltext
 ---
 ## Source Summary
 
-DEA press release announcing Operation DisrupTor, the JCODE/Europol coordinated takedown that produced 179 arrests across the US and Europe and seizure of $6.5M plus 500kg of drugs.
+DEA press release announcing Operation DisrupTor, the JCODE/Europol coordinated takedown that produced 179 arrests across the United States and Europe and seizure of more than USD 6.5 million plus approximately 500 kg of drugs.
 
 ## Relevance to IC
 
-This source provides parallel federal agency confirmation of international operation for [[operation-us-v-narcotics-traffickers-among-those]].
+This source provides parallel federal agency confirmation for [[operation-disruptor]] and remains relevant to the absorbed follow-on record [[operation-us-v-narcotics-traffickers-among-those]].

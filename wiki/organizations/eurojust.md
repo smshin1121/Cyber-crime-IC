@@ -67,6 +67,7 @@ operations_participated:
   - "[[operation-cookie-monster]]"
   - "[[operation-blackshades]]"
   - "[[romania-phishing-takedown-2024]]"
+  - "[[operation-disruptor]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

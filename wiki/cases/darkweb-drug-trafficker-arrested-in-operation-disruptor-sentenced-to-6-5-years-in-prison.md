@@ -14,6 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
+related_operation: "[[operation-disruptor]]"
 ic_elements:
   mlat_requests:
     []
@@ -38,11 +39,11 @@ sources:
   - "[[2021-07-08_justice-gov_united-states-v-aaron-brewer]]"
 created: 2026-04-18
 updated: 2026-05-02
-summary: "Darkweb Drug Trafficker Arrested in Operation DisrupTor Sentenced to 6.5 Years in Prison is documented in the linked source material. Aaron Brewer (Operation DisrupTor) Enforcement Action is a follow-on operation catalog record tied to Us V Brewer Dark Web. Available source coverage includes US DOJ (Northern District of Texas)."
+summary: "Darkweb Drug Trafficker Arrested in Operation DisrupTor Sentenced to 6.5 Years in Prison is a follow-on case tied to [[operation-disruptor]] and [[us-v-brewer-dark-web]]. Available source coverage includes US DOJ (Northern District of Texas)."
 ---
 ## Summary
 
-Darkweb Drug Trafficker Arrested in Operation DisrupTor Sentenced to 6.5 Years in Prison is documented in the linked source material. Aaron Brewer (Operation DisrupTor) Enforcement Action is a follow-on operation catalog record tied to Us V Brewer Dark Web. Available source coverage includes US DOJ (Northern District of Texas).
+Darkweb Drug Trafficker Arrested in Operation DisrupTor Sentenced to 6.5 Years in Prison is a follow-on case tied to [[operation-disruptor]] and [[us-v-brewer-dark-web]]. Available source coverage includes US DOJ (Northern District of Texas).
 
 ## Source Coverage
 

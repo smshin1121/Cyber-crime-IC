@@ -306,7 +306,7 @@ INTERPOL describes the action as spanning approximately 90 countries. The struct
 
 Operation Pangea XVII is included because official sources frame it as an international enforcement operation against online pharmaceutical crime, with explicit takedown of digital sales infrastructure and cross-border regulator, customs, law-enforcement, and private-sector cooperation.
 
-It is distinct from dark-web drug-market operations such as [[operation-dark-huntor]], Operation DisrupTor, and [[operation-onymous]]. Pangea XVII is not a darknet-market takedown record; its value in this corpus is the recurring global model for disrupting online illicit-medicine distribution across web platforms, social media, e-commerce, courier flows, and border checks.
+It is distinct from dark-web drug-market operations such as [[operation-dark-huntor]], [[operation-disruptor|Operation DisrupTor]], and [[operation-onymous]]. Pangea XVII is not a darknet-market takedown record; its value in this corpus is the recurring global model for disrupting online illicit-medicine distribution across web platforms, social media, e-commerce, courier flows, and border checks.
 
 ## Evidence Notes
 

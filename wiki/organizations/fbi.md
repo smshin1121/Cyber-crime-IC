@@ -46,6 +46,7 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-eastwood]]"
   - "[[operation-raptor]]"
+  - "[[operation-disruptor]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

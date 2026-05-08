@@ -14,6 +14,7 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
+related_operation: "[[operation-disruptor]]"
 ic_elements:
   mlat_requests:
     []
@@ -38,11 +39,11 @@ sources:
   - "[[2026-04-18_justice-gov_darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty]]"
 created: 2026-04-18
 updated: "2026-04-26"
-summary: "Darkweb Drug Trafficker Arrested in Operation DisrupTor Pleads Guilty is documented in the linked source material. Available source coverage includes US DOJ USAO."
+summary: "Darkweb Drug Trafficker Arrested in Operation DisrupTor Pleads Guilty is a follow-on case tied to [[operation-disruptor]]. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Darkweb Drug Trafficker Arrested in Operation DisrupTor Pleads Guilty is documented in the linked source material. Available source coverage includes US DOJ USAO.
+Darkweb Drug Trafficker Arrested in Operation DisrupTor Pleads Guilty is a follow-on case tied to [[operation-disruptor]]. Available source coverage includes US DOJ USAO.
 
 ## Source Coverage
 

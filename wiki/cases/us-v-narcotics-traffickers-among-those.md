@@ -14,7 +14,7 @@ defendants:
     status: charged
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-us-v-narcotics-traffickers-among-those]]"
+related_operation: "[[operation-disruptor]]"
 ic_elements:
   mlat_requests:
     []
@@ -39,11 +39,11 @@ sources:
   - "[[2026-04-18_justice-gov_alleged-southern-california-narcotics-traffickers-among-those-charged-international]]"
 created: 2026-04-18
 updated: 2026-04-26
-summary: "United States v. Narcotics Traffickers Among Those is documented in the linked source material. Available source coverage includes US DOJ USAO."
+summary: "United States v. Narcotics Traffickers Among Those is a Los Angeles JCODE component case tied to [[operation-disruptor]]. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-United States v. Narcotics Traffickers Among Those is documented in the linked source material. Available source coverage includes US DOJ USAO.
+United States v. Narcotics Traffickers Among Those is a Los Angeles JCODE component case tied to [[operation-disruptor]]. Available source coverage includes US DOJ USAO.
 
 ## Source Coverage
 
@@ -63,7 +63,7 @@ United States v. Narcotics Traffickers Among Those is documented in the linked s
 - Recorded crime classification: Drug Trafficking.
 - Legal or procedural basis recorded in metadata: mutual legal assistance.
 - The record is categorized as prosecution with status charged.
-- Related legal or operational records: Operation Us V Narcotics Traffickers Among Those.
+- Related legal or operational records: [[operation-disruptor]] and absorbed follow-on [[operation-us-v-narcotics-traffickers-among-those]].
 
 ## References
 

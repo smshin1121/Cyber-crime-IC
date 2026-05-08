@@ -56,6 +56,7 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
   - "[[operation-hyperion]]"
+  - "[[operation-disruptor]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

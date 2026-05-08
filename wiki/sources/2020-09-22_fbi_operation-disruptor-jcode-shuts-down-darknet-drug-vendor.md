@@ -11,6 +11,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - operation-disruptor
   - operation-us-v-narcotics-traffickers-among-those
 key_findings:
   - "LA JCODE Task Force led the SoCal element of Operation DisrupTor"
@@ -26,8 +27,8 @@ last_fetcher: urllib
 ---
 ## Source Summary
 
-FBI press release describing Operation DisrupTor with details of the LA JCODE Task Force's dismantling of the Stealthgod-led organization that sold drugs to 18,000+ customers in 35+ states.
+FBI press release describing Operation DisrupTor with details of the LA JCODE Task Force's dismantling of the Stealthgod-led organization that sold drugs to 18,000+ customers in 35+ states and the broader U.S.-Europe operation that produced 179 arrests.
 
 ## Relevance to IC
 
-This source provides parallel federal agency confirmation for [[operation-us-v-narcotics-traffickers-among-those]].
+This source provides parallel federal agency confirmation for [[operation-disruptor]] and details the Los Angeles JCODE component represented by absorbed follow-on records.

@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T03:06:28Z",
+  "generated_at": "2026-05-08T03:27:00Z",
   "root": null,
   "stats": {
-    "total_nodes": 1286,
-    "total_edges": 12105,
+    "total_nodes": 1292,
+    "total_edges": 12182,
     "broken_links": 0,
     "orphans": 107,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 161,
+      "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 635
+      "source": 640
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 134
+      "canonical_operation": 135
     }
   },
   "nodes": [
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 134 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 161 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 27 | | Period 3 (2023-2025) | 74 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 135 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 162 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 28 | | Period 3 (2023-2025) | 74 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4865 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4866 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -1935,7 +1935,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 80,
+      "degree": 82,
       "path": "wiki/countries/australia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -1952,7 +1952,7 @@
       "source_count": 1,
       "created": "2026-04-14",
       "updated": "2026-04-29",
-      "degree": 24,
+      "degree": 26,
       "path": "wiki/countries/austria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2242,7 +2242,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 57,
+      "degree": 59,
       "path": "wiki/countries/canada.md",
       "meta": {
         "legal_system": "mixed",
@@ -2428,7 +2428,7 @@
       "source_count": 1,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 15,
+      "degree": 17,
       "path": "wiki/countries/cyprus.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2686,7 +2686,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 143,
+      "degree": 145,
       "path": "wiki/countries/germany.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3411,7 +3411,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 133,
+      "degree": 135,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3597,7 +3597,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 27,
+      "degree": 29,
       "path": "wiki/countries/portugal.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3920,7 +3920,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 44,
+      "degree": 46,
       "path": "wiki/countries/sweden.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4127,7 +4127,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 147,
+      "degree": 149,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4145,7 +4145,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 213,
+      "degree": 215,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -4441,7 +4441,7 @@
       "source_count": 4,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/crime-types/dark-web-ic.md",
       "meta": {}
     },
@@ -5161,7 +5161,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/mechanisms/cryptocurrency-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5216,7 +5216,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 50,
+      "degree": 51,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5378,7 +5378,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 118,
+      "degree": 120,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5556,7 +5556,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 55,
+      "degree": 56,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -7072,7 +7072,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 100,
+      "degree": 102,
       "path": "wiki/operations/operation-dark-huntor.md",
       "meta": {
         "status": "completed",
@@ -7177,6 +7177,32 @@
         "operation_type": "arrest-sweep",
         "outcome": "success",
         "results_arrests": 84,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-disruptor",
+      "type": "operation",
+      "title": "Operation DisrupTor",
+      "title_ko": null,
+      "aliases": [
+        "DisrupTor",
+        "Operation Disruptor",
+        "JCODE Operation DisrupTor"
+      ],
+      "summary": "Operation DisrupTor was a coordinated international operation announced on 22 September 2020 by the U.S. Department of Justice, JCODE, Europol, and partner agencies. It targeted darknet vendors and buyers involved in opioid trafficking, other…",
+      "source_count": 5,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 77,
+      "path": "wiki/operations/operation-disruptor.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "coordinated-arrests",
+        "outcome": "success",
+        "results_arrests": 179,
         "operation_scope": "canonical_operation"
       }
     },
@@ -8094,7 +8120,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 89,
+      "degree": 91,
       "path": "wiki/operations/operation-onymous.md",
       "meta": {
         "status": "completed",
@@ -8193,7 +8219,7 @@
       "source_count": 4,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 136,
+      "degree": 137,
       "path": "wiki/operations/operation-pangea-xvii.md",
       "meta": {
         "status": "completed",
@@ -8316,7 +8342,7 @@
       "source_count": 5,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 41,
+      "degree": 43,
       "path": "wiki/operations/operation-raptor.md",
       "meta": {
         "status": "completed",
@@ -9653,7 +9679,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 7,
+      "degree": 9,
       "path": "wiki/organizations/australian-criminal-intelligence-commission.md",
       "meta": {
         "org_type": "national-agency",
@@ -9786,7 +9812,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 51,
+      "degree": 53,
       "path": "wiki/organizations/canada-rcmp.md",
       "meta": {
         "org_type": "national-unit",
@@ -9978,7 +10004,7 @@
       "source_count": 5,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 25,
+      "degree": 27,
       "path": "wiki/organizations/dea.md",
       "meta": {
         "org_type": "federal-law-enforcement",
@@ -10069,7 +10095,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 16,
+      "degree": 18,
       "path": "wiki/organizations/dutch-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -10087,7 +10113,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 220,
+      "degree": 222,
       "path": "wiki/organizations/eurojust.md",
       "meta": {
         "org_type": "regional-org",
@@ -10106,7 +10132,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 423,
+      "degree": 426,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -10161,7 +10187,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 74,
+      "degree": 76,
       "path": "wiki/organizations/fbi.md",
       "meta": {
         "org_type": "national-agency",
@@ -10340,7 +10366,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 103,
+      "degree": 105,
       "path": "wiki/organizations/germany-bka.md",
       "meta": {
         "org_type": "national-agency",
@@ -11408,7 +11434,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 16,
+      "degree": 18,
       "path": "wiki/organizations/portuguese-judicial-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -11790,7 +11816,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 23,
+      "degree": 25,
       "path": "wiki/organizations/sweden-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11965,7 +11991,7 @@
       "source_count": 13,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 127,
+      "degree": 129,
       "path": "wiki/organizations/uk-nca.md",
       "meta": {
         "org_type": "national-agency",
@@ -12100,7 +12126,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 43,
+      "degree": 45,
       "path": "wiki/organizations/us-dhs.md",
       "meta": {
         "org_type": "national-agency",
@@ -12119,7 +12145,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 220,
+      "degree": 223,
       "path": "wiki/organizations/us-doj.md",
       "meta": {
         "org_type": "national-agency",
@@ -12157,7 +12183,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 7,
+      "degree": 9,
       "path": "wiki/organizations/us-ncis.md",
       "meta": {
         "org_type": "national-unit",
@@ -12175,7 +12201,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 18,
+      "degree": 20,
       "path": "wiki/organizations/us-postal-inspection.md",
       "meta": {
         "org_type": "federal-law-enforcement",
@@ -12210,7 +12236,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 61,
+      "degree": 63,
       "path": "wiki/organizations/us-secret-service.md",
       "meta": {
         "org_type": "national-unit",
@@ -14568,6 +14594,76 @@
       "updated": null,
       "degree": 1,
       "path": "wiki/sources/2020-07-21_lgtr-justiz-rlp-de_cyberbunker-indictment-admitted.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-09-22_dea_international-law-enforcement-darknet-opioid-traffickers-170-arrests",
+      "type": "source",
+      "title": "International law enforcement operation targeting opioid traffickers on the Darknet results in over 170 arrests worldwide and the seizure of weapons, drugs and over $6.5 million",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DEA press release announcing Operation DisrupTor, the JCODE/Europol coordinated takedown that produced 179 arrests across the United States and Europe and seizure of more than USD 6.5 million plus approximately 500 kg of drugs. ##…",
+      "source_count": 0,
+      "created": "2026-04-25",
+      "updated": null,
+      "degree": 2,
+      "path": "wiki/sources/2020-09-22_dea_international-law-enforcement-darknet-opioid-traffickers-170-arrests.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-09-22_fbi_operation-disruptor-jcode-shuts-down-darknet-drug-vendor",
+      "type": "source",
+      "title": "Operation DisrupTor",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary FBI press release describing Operation DisrupTor with details of the LA JCODE Task Force's dismantling of the Stealthgod-led organization that sold drugs to 18,000+ customers in 35+ states and the broader U.S.-Europe operation…",
+      "source_count": 0,
+      "created": "2026-04-25",
+      "updated": null,
+      "degree": 2,
+      "path": "wiki/sources/2020-09-22_fbi_operation-disruptor-jcode-shuts-down-darknet-drug-vendor.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-09-22_ice_ice-participates-international-crackdown-darknet-dealers",
+      "type": "source",
+      "title": "ICE participates in international crackdown targeting darknet dealers",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary ICE/HSI press release confirming ICE participation in Operation DisrupTor, the international darknet-dealer crackdown coordinated through JCODE, Europol, Eurojust, and partner authorities. ## Relevance to IC This source provides…",
+      "source_count": 0,
+      "created": "2026-04-25",
+      "updated": null,
+      "degree": 2,
+      "path": "wiki/sources/2020-09-22_ice_ice-participates-international-crackdown-darknet-dealers.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-09-22_justice-gov_alleged-southern-california-narcotics-traffickers-among-those-charged-in-interna",
+      "type": "source",
+      "title": "Alleged Southern California Narcotics Traffickers Among Those Charged in International Crackdown Targeting Dark-net Dealers",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Central District of California release documenting the Los Angeles JCODE component of operation-disruptor, including charges against the Stealthgod-linked organization and seizures tied to darknet drug sales. ## Relevance to IC…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": null,
+      "degree": 2,
+      "path": "wiki/sources/2020-09-22_justice-gov_alleged-southern-california-narcotics-traffickers-among-those-charged-in-interna.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-09-22_justice-gov_international-law-enforcement-operation-targeting-opioid-traffickers-darknet-results-over-170",
+      "type": "source",
+      "title": "International Law Enforcement Operation Targeting Opioid Traffickers on the Darknet Results in over 170 Arrests Worldwide and the Seizure of Weapons, Drugs and over $6.5 Million",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DOJ OPA announced Operation DisrupTor on 22 September 2020 as a JCODE and Europol-coordinated international effort against darknet opioid trafficking. The release reported 179 arrests, over USD 6.5 million in cash and virtual…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 2,
+      "path": "wiki/sources/2020-09-22_justice-gov_international-law-enforcement-operation-targeting-opioid-traffickers-darknet-results-over-170.md",
       "meta": {}
     },
     {
@@ -61733,6 +61829,306 @@
       "directed": false
     },
     {
+      "source": "operation-disruptor",
+      "target": "europol-ec3",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "dark-web-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "us-doj",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "informal-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "cryptocurrency-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "us-doj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "fbi",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "dea",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "us-dhs",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "us-postal-inspection",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "us-secret-service",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "us-ncis",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "eurojust",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "germany-bka",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "canada-rcmp",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "portuguese-judicial-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "dutch-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "sweden-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "uk-nca",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "australian-criminal-intelligence-commission",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "australia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "austria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "canada",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "cyprus",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "germany",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "portugal",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "sweden",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "operation-dark-huntor",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "operation-raptor",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "operation-onymous",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "united-states",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "germany",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "netherlands",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "united-kingdom",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "austria",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "sweden",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "canada",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "cyprus",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "portugal",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "australia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "operation-dark-huntor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "operation-raptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-disruptor",
+      "target": "operation-onymous",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-eastwood",
       "target": "eurojust",
       "kind": "coordinating_body",
@@ -68779,6 +69175,12 @@
     {
       "source": "operation-pangea-xvii",
       "target": "operation-dark-huntor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-pangea-xvii",
+      "target": "operation-disruptor",
       "kind": "body",
       "directed": false
     },
@@ -77046,6 +77448,12 @@
     },
     {
       "source": "australian-criminal-intelligence-commission",
+      "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "australian-criminal-intelligence-commission",
       "target": "australia",
       "kind": "body",
       "directed": false
@@ -77449,6 +77857,12 @@
     {
       "source": "canada-rcmp",
       "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "canada-rcmp",
+      "target": "operation-disruptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -77904,6 +78318,12 @@
     },
     {
       "source": "dea",
+      "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "dea",
       "target": "us-doj",
       "kind": "parent_org",
       "directed": true
@@ -78175,6 +78595,12 @@
     {
       "source": "dutch-police",
       "target": "operation-eastwood",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "dutch-police",
+      "target": "operation-disruptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -78469,6 +78895,12 @@
     {
       "source": "eurojust",
       "target": "romania-phishing-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
+      "target": "operation-disruptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -78979,6 +79411,12 @@
     {
       "source": "europol-ec3",
       "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
+      "target": "operation-disruptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -79567,6 +80005,12 @@
     {
       "source": "fbi",
       "target": "operation-raptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi",
+      "target": "operation-disruptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -80257,6 +80701,12 @@
     {
       "source": "germany-bka",
       "target": "operation-card-shop",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany-bka",
+      "target": "operation-disruptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -83334,6 +83784,12 @@
     },
     {
       "source": "portuguese-judicial-police",
+      "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "portuguese-judicial-police",
       "target": "portugal-policia-judiciaria",
       "kind": "parent_org",
       "directed": true
@@ -84324,6 +84780,12 @@
     },
     {
       "source": "sweden-police",
+      "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "sweden-police",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -85074,6 +85536,12 @@
     },
     {
       "source": "uk-nca",
+      "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "uk-nca",
       "target": "united-kingdom",
       "kind": "body",
       "directed": false
@@ -85488,6 +85956,12 @@
     },
     {
       "source": "us-dhs",
+      "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-dhs",
       "target": "united-states",
       "kind": "body",
       "directed": false
@@ -85860,6 +86334,12 @@
     },
     {
       "source": "us-doj",
+      "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-doj",
       "target": "isoon-apt27-indictment",
       "kind": "body",
       "directed": false
@@ -86082,6 +86562,12 @@
     },
     {
       "source": "us-ncis",
+      "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-ncis",
       "target": "united-states",
       "kind": "body",
       "directed": false
@@ -86137,6 +86623,12 @@
     {
       "source": "us-postal-inspection",
       "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-postal-inspection",
+      "target": "operation-disruptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -86317,6 +86809,12 @@
     {
       "source": "us-secret-service",
       "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-secret-service",
+      "target": "operation-disruptor",
       "kind": "operations_participated",
       "directed": true
     },
@@ -88011,6 +88509,66 @@
       "target": "cyberbunker-takedown",
       "kind": "pages_updated",
       "directed": true
+    },
+    {
+      "source": "2020-09-22_dea_international-law-enforcement-darknet-opioid-traffickers-170-arrests",
+      "target": "operation-disruptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-09-22_dea_international-law-enforcement-darknet-opioid-traffickers-170-arrests",
+      "target": "operation-disruptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2020-09-22_fbi_operation-disruptor-jcode-shuts-down-darknet-drug-vendor",
+      "target": "operation-disruptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-09-22_fbi_operation-disruptor-jcode-shuts-down-darknet-drug-vendor",
+      "target": "operation-disruptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2020-09-22_ice_ice-participates-international-crackdown-darknet-dealers",
+      "target": "operation-disruptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-09-22_ice_ice-participates-international-crackdown-darknet-dealers",
+      "target": "operation-disruptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2020-09-22_justice-gov_alleged-southern-california-narcotics-traffickers-among-those-charged-in-interna",
+      "target": "operation-disruptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-09-22_justice-gov_alleged-southern-california-narcotics-traffickers-among-those-charged-in-interna",
+      "target": "operation-disruptor",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2020-09-22_justice-gov_international-law-enforcement-operation-targeting-opioid-traffickers-darknet-results-over-170",
+      "target": "operation-disruptor",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-09-22_justice-gov_international-law-enforcement-operation-targeting-opioid-traffickers-darknet-results-over-170",
+      "target": "operation-disruptor",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds",
