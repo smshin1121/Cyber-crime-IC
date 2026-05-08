@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T07:08:16Z",
+  "generated_at": "2026-05-08T07:34:36Z",
   "root": null,
   "stats": {
-    "total_nodes": 1326,
-    "total_edges": 12411,
+    "total_nodes": 1334,
+    "total_edges": 12461,
     "broken_links": 0,
     "orphans": 105,
     "by_type": {
@@ -12,18 +12,18 @@
       "audit": 1,
       "challenge": 2,
       "concept": 15,
-      "country": 150,
+      "country": 153,
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 163,
+      "operation": 164,
       "organization": 146,
       "procedure": 2,
-      "source": 664
+      "source": 668
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 136
+      "canonical_operation": 137
     }
   },
   "nodes": [
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 136 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 163 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 28 | | Period 3 (2023-2025) | 75 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 137 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 164 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 28 | | Period 3 (2023-2025) | 76 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4877 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4881 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -2071,7 +2071,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 6,
       "path": "wiki/countries/belize.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2394,7 +2394,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 6,
+      "degree": 8,
       "path": "wiki/countries/costa-rica.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2549,7 +2549,7 @@
       "source_count": 0,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 3,
+      "degree": 5,
       "path": "wiki/countries/dominican-republic.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -2588,6 +2588,23 @@
         "legal_system": "civil-law",
         "region": "middle-east-and-north-africa",
         "ic_capacity_rating": "medium"
+      }
+    },
+    {
+      "id": "el-salvador",
+      "type": "country",
+      "title": "El Salvador",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "El Salvador is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-eclipse-csam-americas and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 4,
+      "path": "wiki/countries/el-salvador.md",
+      "meta": {
+        "legal_system": "not-assessed",
+        "region": "central-america"
       }
     },
     {
@@ -2780,6 +2797,23 @@
       }
     },
     {
+      "id": "guatemala",
+      "type": "country",
+      "title": "Guatemala",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Guatemala is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-eclipse-csam-americas and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 4,
+      "path": "wiki/countries/guatemala.md",
+      "meta": {
+        "legal_system": "not-assessed",
+        "region": "central-america"
+      }
+    },
+    {
       "id": "guinea-bissau",
       "type": "country",
       "title": "Guinea-Bissau",
@@ -2826,6 +2860,23 @@
       "meta": {
         "legal_system": "not-assessed",
         "region": "south-america"
+      }
+    },
+    {
+      "id": "honduras",
+      "type": "country",
+      "title": "Honduras",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Honduras is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page currently preserves structured links from operation-eclipse-csam-americas and future operation records.",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 4,
+      "path": "wiki/countries/honduras.md",
+      "meta": {
+        "legal_system": "not-assessed",
+        "region": "central-america"
       }
     },
     {
@@ -3344,7 +3395,7 @@
       "source_count": 0,
       "created": "2026-04-18",
       "updated": "2026-05-03",
-      "degree": 8,
+      "degree": 10,
       "path": "wiki/countries/mexico.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3530,7 +3581,7 @@
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 3,
+      "degree": 5,
       "path": "wiki/countries/nicaragua.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3630,7 +3681,7 @@
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 3,
+      "degree": 5,
       "path": "wiki/countries/panama.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4515,10 +4566,10 @@
         "아동 성착취물"
       ],
       "summary": "CSAM international-cooperation cases involve online distribution, production, possession, streaming, or platform facilitation of child sexual abuse material where offenders, victims, platforms, payment systems, or hosting infrastructure cross…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-08",
-      "updated": "2026-04-29",
-      "degree": 26,
+      "updated": "2026-05-08",
+      "degree": 29,
       "path": "wiki/crime-types/csam-ic.md",
       "meta": {
         "crime_category": "content-related"
@@ -5369,7 +5420,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 53,
+      "degree": 54,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5531,7 +5582,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 122,
+      "degree": 123,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5709,7 +5760,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 58,
+      "degree": 59,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -7200,7 +7251,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 77,
+      "degree": 78,
       "path": "wiki/operations/operation-cyber-guardian.md",
       "meta": {
         "status": "completed",
@@ -7380,6 +7431,31 @@
         "operation_type": "infrastructure-seizure",
         "outcome": "success",
         "results_arrests": 2,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-eclipse-csam-americas",
+      "type": "operation",
+      "title": "Operation Eclipse (CSAM Americas)",
+      "title_ko": null,
+      "aliases": [
+        "Operation Eclipse",
+        "INTERPOL Operation Eclipse"
+      ],
+      "summary": "Operation Eclipse was an INTERPOL-coordinated operation against child sexual abuse and exploitation material across nine countries in Central America, North America, and the Caribbean. The operational window ran from February 2025 to January 2026,…",
+      "source_count": 4,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 49,
+      "path": "wiki/operations/operation-eclipse-csam-americas.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "victim-identification-and-arrest-sweep",
+        "outcome": "success",
+        "results_arrests": 60,
         "operation_scope": "canonical_operation"
       }
     },
@@ -8348,7 +8424,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 89,
+      "degree": 90,
       "path": "wiki/operations/operation-orion-international.md",
       "meta": {
         "status": "completed",
@@ -8808,7 +8884,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-27",
-      "degree": 50,
+      "degree": 51,
       "path": "wiki/operations/operation-stream-kidflix.md",
       "meta": {
         "status": "completed",
@@ -10746,7 +10822,7 @@
       "source_count": 2,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/organizations/interpol-icse-database.md",
       "meta": {
         "org_type": "investigative-database",
@@ -10781,8 +10857,8 @@
       "summary": "INTERPOL (International Criminal Police Organization) is the world's largest international police organization, with 196 member countries. Headquartered in Lyon, France, INTERPOL facilitates cross-border police cooperation through its secure global…",
       "source_count": 4,
       "created": "2026-04-08",
-      "updated": "2026-04-29",
-      "degree": 127,
+      "updated": "2026-05-08",
+      "degree": 132,
       "path": "wiki/organizations/interpol.md",
       "meta": {
         "org_type": "international-org",
@@ -12262,7 +12338,7 @@
       "source_count": 8,
       "created": "2026-04-10",
       "updated": "2026-05-08",
-      "degree": 22,
+      "degree": 25,
       "path": "wiki/organizations/unodc.md",
       "meta": {
         "org_type": "international-org",
@@ -20680,6 +20756,62 @@
       "updated": "2026-05-07",
       "degree": 2,
       "path": "wiki/sources/2026-02-20_helpnetsecurity_operation-red-card-2-africa-cybercrime.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-03-05_diariolibre_operation-eclipse-dominican-republic",
+      "type": "source",
+      "title": "Interpol desmantela red de abuso infantil internacional: dos detenidos en Republica Dominicana",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Diario Libre provides Dominican Republic-specific reporting for Operation Eclipse, including local arrests and Panama-Dominican extradition follow-up. ## Relevance to IC This source adds participating-country confirmation and…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 2,
+      "path": "wiki/sources/2026-03-05_diariolibre_operation-eclipse-dominican-republic.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-03-05_interpol_operation-eclipse-csam-americas",
+      "type": "source",
+      "title": "65 victims identified, 60 arrests in year-long child sexual abuse operation in the Americas",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INTERPOL's official release is the anchor source for Operation Eclipse. It confirms the operation name, timeframe, nine-country scope, 60 arrests, 65 identified victims, UNODC and Child Rescue Coalition support, notice…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 3,
+      "path": "wiki/sources/2026-03-05_interpol_operation-eclipse-csam-americas.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-03-05_lanacion_operation-eclipse-costa-rica",
+      "type": "source",
+      "title": "Trabajo conjunto de Interpol y policias permitio la captura, en Costa Rica, de 18 presuntos pederastas",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary La Nacion provides Costa Rica-specific reporting for Operation Eclipse, including local arrest figures and the broader INTERPOL-coordinated operation context. ## Relevance to IC This source adds participating-country confirmation…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 2,
+      "path": "wiki/sources/2026-03-05_lanacion_operation-eclipse-costa-rica.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-03-05_petersandpeters_operation-eclipse-60-arrests",
+      "type": "source",
+      "title": "Operation Eclipse concludes with 60 arrests",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Peters & Peters provides an independent legal-practice summary of Operation Eclipse, with emphasis on INTERPOL notices and ongoing extradition follow-up. ## Relevance to IC This source corroborates the operation and adds useful…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 2,
+      "path": "wiki/sources/2026-03-05_petersandpeters_operation-eclipse-60-arrests.md",
       "meta": {}
     },
     {
@@ -47433,6 +47565,18 @@
       "directed": false
     },
     {
+      "source": "el-salvador",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "el-salvador",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "estonia",
       "target": "operation-synergia-ii",
       "kind": "body",
@@ -47823,6 +47967,18 @@
       "directed": false
     },
     {
+      "source": "guatemala",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "guatemala",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "guinea-bissau",
       "target": "operation-soga-x",
       "kind": "body",
@@ -47843,6 +47999,18 @@
     {
       "source": "guyana",
       "target": "operation-orion-international",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "honduras",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "honduras",
+      "target": "operation-eclipse-csam-americas",
       "kind": "body",
       "directed": false
     },
@@ -50566,6 +50734,12 @@
     },
     {
       "source": "csam-ic",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "csam-ic",
       "target": "data-sovereignty",
       "kind": "typical_ic_challenges",
       "directed": true
@@ -50603,6 +50777,12 @@
     {
       "source": "csam-ic",
       "target": "interpol-icse-database",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "csam-ic",
+      "target": "2026-03-05_interpol_operation-eclipse-csam-americas",
       "kind": "body",
       "directed": false
     },
@@ -63109,6 +63289,198 @@
       "target": "operation-power-off",
       "kind": "related_operations",
       "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "interpol",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "csam-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "interpol",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "interpol-icse-database",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "interpol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "unodc",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "belize",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "costa-rica",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "dominican-republic",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "el-salvador",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "guatemala",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "honduras",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "mexico",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "nicaragua",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "panama",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "operation-orion-international",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "operation-cyber-guardian",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "operation-stream-kidflix",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "interpol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "unodc",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "belize",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "costa-rica",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "dominican-republic",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "el-salvador",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "guatemala",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "honduras",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "mexico",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "nicaragua",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-eclipse-csam-americas",
+      "target": "panama",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "operation-endgame-phase1",
@@ -83146,6 +83518,12 @@
     },
     {
       "source": "interpol",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol",
       "target": "interpol-igci",
       "kind": "body",
       "directed": false
@@ -87395,6 +87773,12 @@
     {
       "source": "unodc",
       "target": "operation-pangea-xviii",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "unodc",
+      "target": "operation-eclipse-csam-americas",
       "kind": "operations_participated",
       "directed": true
     },
@@ -94775,6 +95159,54 @@
     {
       "source": "2026-02-20_helpnetsecurity_operation-red-card-2-africa-cybercrime",
       "target": "operation-red-card-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-03-05_diariolibre_operation-eclipse-dominican-republic",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-05_diariolibre_operation-eclipse-dominican-republic",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-03-05_interpol_operation-eclipse-csam-americas",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-05_interpol_operation-eclipse-csam-americas",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-03-05_lanacion_operation-eclipse-costa-rica",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-05_lanacion_operation-eclipse-costa-rica",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-03-05_petersandpeters_operation-eclipse-60-arrests",
+      "target": "operation-eclipse-csam-americas",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-05_petersandpeters_operation-eclipse-60-arrests",
+      "target": "operation-eclipse-csam-americas",
       "kind": "body",
       "directed": false
     },

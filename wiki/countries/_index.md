@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (150)
+# Countries (153)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -53,8 +53,10 @@ total: 61
 | 🇬🇭 | [[ghana]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇲 | [[gambia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇷 | [[greece]] | not-assessed | — | unknown | unknown | 0 |
+| 🇬🇹 | [[guatemala]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇾 | [[guyana]] | not-assessed | — | unknown | unknown | 0 |
 | 🇭🇰 | [[hong-kong]] | not-assessed | — | unknown | unknown | 0 |
+| 🇭🇳 | [[honduras]] | not-assessed | — | unknown | unknown | 0 |
 | 🇭🇷 | [[croatia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇭🇺 | [[hungary]] | civil-law | not-assessed | unknown | unknown | 1 |
 | 🇮🇩 | [[indonesia]] | not-assessed | — | unknown | unknown | 0 |
@@ -103,6 +105,7 @@ total: 61
 | 🇸🇮 | [[slovenia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇷 | [[suriname]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇸 | [[south-sudan]] | not-assessed | — | unknown | unknown | 0 |
+| 🇸🇻 | [[el-salvador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇿 | [[eswatini]] | not-assessed | — | unknown | unknown | 0 |
 | 🇹🇬 | [[togo]] | civil-law | non-party | low | unknown | 3 |
 | 🇹🇭 | [[thailand]] | civil-law | non-party | medium | unknown | 3 |

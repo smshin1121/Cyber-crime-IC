@@ -59,6 +59,7 @@ operations_participated:
   - "[[operation-chakra-ii]]"
   - "[[operation-chakra-iv]]"
   - "[[operation-soga-x]]"
+  - "[[operation-eclipse-csam-americas]]"
 org_type: international-org
 parent_org: ""
 source_count: 4
@@ -67,7 +68,7 @@ sources:
 status: active
 title: "INTERPOL (International Criminal Police Organization)"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Current Status (as of 2026-04-10)
 

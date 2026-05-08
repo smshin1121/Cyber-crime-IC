@@ -27,6 +27,7 @@ operations_participated:
   - "[[operation-orion-international]]"
   - "[[operation-pangea-xvii]]"
   - "[[operation-pangea-xviii]]"
+  - "[[operation-eclipse-csam-americas]]"
 org_type: international-org
 parent_org: "[[united-nations]]"
 source_count: 8

@@ -22,10 +22,12 @@ notable_operations:
   - "[[operation-stream-kidflix]]"
   - "[[operation-cyber-guardian]]"
   - "[[operation-orion-international]]"
+  - "[[operation-eclipse-csam-americas]]"
 relevant_legal_frameworks:
   []
-source_count: 3
+source_count: 4
 sources:
+  - "[[2026-03-05_interpol_operation-eclipse-csam-americas]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
   - "[[2025-04-04_securityaffairs-com_operation-stream-kidflix]]"
   - "[[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam]]"
@@ -37,7 +39,7 @@ typical_ic_challenges:
 typical_mechanisms:
   - "[[interpol-icse-database|INTERPOL ICSE Database]]"
   - "[[europol-vidtf|Europol Victim Identification Task Force]]"
-updated: "2026-04-29"
+updated: "2026-05-08"
 status: active
 ---
 ## Summary
@@ -46,7 +48,7 @@ CSAM international-cooperation cases involve online distribution, production, po
 
 ## Cooperation Use
 
-Operation Orion International, Operation Stream/Kidflix, and Operation Cyber Guardian show three recurring patterns: victim identification across countries, platform or server takedown, and coordinated arrests based on shared intelligence. These cases often require rapid provider data, device forensics, cryptocurrency or payment tracing, child-protection coordination, and careful handling of victim-identifying material.
+Operation Orion International, Operation Stream/Kidflix, Operation Cyber Guardian, and Operation Eclipse show recurring patterns: victim identification across countries, platform or server takedown, notice review, and coordinated arrests based on shared intelligence. These cases often require rapid provider data, device forensics, cryptocurrency or payment tracing, child-protection coordination, and careful handling of victim-identifying material.
 
 ## Boundary Notes
 
@@ -64,6 +66,7 @@ The page groups terminology; it is not independent proof that the concept, crime
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | [[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america|20 rescued, 144 arrested in major child abuse operation across South America]] | INTERPOL | 2024-09-26 | https://www.interpol.int/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America |
-| [2] | [[2025-04-04_securityaffairs-com_operation-stream-kidflix|Operation Stream / Kidflix]] | Security Affairs / TRM Labs | 2025-04-04 | https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html |
-| [3] | [[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam|Operation Cyber Guardian: Asia 6-Country Joint Crackdown on Child Sexual Abuse Material]] | Korea Policy Briefing / Seoul Shinmun | 2025-04-07 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866 |
+| [1] | [[2026-03-05_interpol_operation-eclipse-csam-americas|65 victims identified, 60 arrests in year-long child sexual abuse operation in the Americas]] | INTERPOL | 2026-03-05 | https://www.interpol.int/en/News-and-Events/News/2026/65-victims-identified-60-arrests-in-year-long-child-sexual-abuse-operation-in-the-Americas |
+| [2] | [[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america|20 rescued, 144 arrested in major child abuse operation across South America]] | INTERPOL | 2024-09-26 | https://www.interpol.int/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America |
+| [3] | [[2025-04-04_securityaffairs-com_operation-stream-kidflix|Operation Stream / Kidflix]] | Security Affairs / TRM Labs | 2025-04-04 | https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html |
+| [4] | [[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam|Operation Cyber Guardian: Asia 6-Country Joint Crackdown on Child Sexual Abuse Material]] | Korea Policy Briefing / Seoul Shinmun | 2025-04-07 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866 |

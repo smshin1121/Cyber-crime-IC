@@ -20,9 +20,9 @@ updated: 2026-04-08
 | [[russian-ministry-of-interior]] | interior-ministry | [[russia]] | Historic Russian law-enforcement participant in the 2015 Simda botnet disruption.; Provides a rare pre-2022 data point for Russia-inclusive cybercrime cooperation with INTERPOL and private-sector technical partners. | 1 | 2 |
 | [[c-proc]] | international-org | Bucharest, Romania | Delivery of capacity building programmes for cybercrime and electronic evidence; Support to countries implementing the Budapest Convention and its Protocols | — | 5 |
 | [[icann]] | international-org | — | Domain-name governance and infrastructure actor relevant to malware and botnet domain disruption.; Appears where cybercrime operations require coordination around domain registration, sinkholing, or abuse handling. | 1 | 2 |
-| [[interpol]] | international-org | Lyon, France | — | 35 | 4 |
+| [[interpol]] | international-org | Lyon, France | — | 36 | 4 |
 | [[interpol-igci]] | international-org | Singapore | — | 22 | 11 |
-| [[unodc]] | international-org | Vienna, Austria | — | 3 | 8 |
+| [[unodc]] | international-org | Vienna, Austria | — | 4 | 8 |
 | [[council-of-europe]] | international-organization | Strasbourg, France | Administers the Budapest Convention ecosystem for cybercrime law harmonization and international cooperation.; Maintains treaty status and party-observer information for Convention 185. | — | 3 |
 | [[united-nations]] | international-organization | — | Provides the institutional framework for UNGA, UNODC, and the UN Cybercrime Convention process.; Hosts global norm-setting and treaty processes relevant to cybercrime and electronic evidence. | — | 2 |
 | [[interpol-icse-database]] | investigative-database | — | Supports comparison and deconfliction of child sexual exploitation material across jurisdictions.; Provides an INTERPOL-hosted mechanism for victim identification and international child-protection cooperation. | — | 2 |

@@ -16,7 +16,7 @@ key_judgments:
 - confidence: high
   judgment: 한국이 HAECHI 시리즈를 통해 아시아-태평양 국제공조의 핵심 행위자
 scope: 공개 위키 corpus 기준 사이버범죄 국제공조 작전 통계
-sources_consulted: 664
+sources_consulted: 668
 title: 사이버범죄 국제공조 통계 대시보드
 type: analysis
 updated: '2026-05-08'
@@ -24,7 +24,7 @@ updated: '2026-05-08'
 
 # 사이버범죄 국제공조 통계 대시보드
 
-> [!info] 이 페이지의 모든 데이터는 위키에 수집된 136개 정본 작전, 27개 follow-on 기록, 664개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 `wiki/operations/_index.md`를 참조하십시오.
+> [!info] 이 페이지의 모든 데이터는 위키에 수집된 137개 정본 작전, 27개 follow-on 기록, 668개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 `wiki/operations/_index.md`를 참조하십시오.
 
 ---
 
@@ -34,22 +34,22 @@ updated: '2026-05-08'
 
 | 지표 | 값 |
 |------|-----|
-| 정본 작전 수 | 136 |
+| 정본 작전 수 | 137 |
 | 흡수 follow-on 기록 | 27 |
-| 전체 operation 레코드 | 163 |
+| 전체 operation 레코드 | 164 |
 | Period 1 (pre-2019) | 33 |
 | Period 2 (2019-2022) | 28 |
-| Period 3 (2023-2025) | 75 |
+| Period 3 (2023-2025) | 76 |
 | Period 4 (repository-coded) | 0 |
 | Period 미분류 | 0 |
-| 총 출처 수 | 664 (dedicated pages) + Excel 소스 |
+| 총 출처 수 | 668 (dedicated pages) + Excel 소스 |
 
 ### 조정기관별 분포
 
 | 조정기관 | 작전 수 | 비고 |
 |---------|---------|------|
 | Europol / Europol EC3 | 45 | 가장 많은 작전 조정; 랜섬웨어, 봇넷, 사기 포럼 등 |
-| INTERPOL / INTERPOL IGCI | 31 | 체포 규모에서 압도적; HAECHI, Jackal, Serengeti 등 |
+| INTERPOL / INTERPOL IGCI | 32 | 체포 규모에서 압도적; HAECHI, Jackal, Serengeti 등 |
 | DOJ / FBI (미국 주도) | 19 | 기소·압수 중심 |
 | AFRIPOL | 3 | 아프리카 공동 조정 |
 | Eurojust | 21 | 사법 공조 조정 |
@@ -138,14 +138,14 @@ updated: '2026-05-08'
 |---------|---------|------|
 | 법적 프레임워크 | 22 | 부다페스트 협약 등 |
 | 기관 | 146 | 주요 기관 |
-| 국가 | 150 | 국가 프로필 |
-| 작전 | 163 | 정본 136, 흡수 follow-on 27; P1: 33, P2: 28, P3: 75, P4: 0, 미분류: 0 |
+| 국가 | 153 | 국가 프로필 |
+| 작전 | 164 | 정본 137, 흡수 follow-on 27; P1: 33, P2: 28, P3: 76, P4: 0, 미분류: 0 |
 | 메커니즘 | 28 | 공조 메커니즘 |
 | 범죄유형 | 25 | 문서화된 범죄유형 |
 | 개념 | 15 | 법적 개념 |
-| 출처 | 664 | 전용 출처 페이지 |
+| 출처 | 668 | 전용 출처 페이지 |
 | 분석 | 109 | 본 대시보드 포함 |
-| **총 페이지** | **1326** | _index 파일 및 메타파일 제외 |
+| **총 페이지** | **1334** | _index 파일 및 메타파일 제외 |
 
 ---
 
