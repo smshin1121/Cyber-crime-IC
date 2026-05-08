@@ -81,7 +81,7 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 | Total servers seized | 8,939+ | Primarily Europol operations |
 | Total domains seized | 872,757+ | Canonical operations |
 | Unique participating countries | 185+ | Canonical operations |
-| Sources with dedicated pages | 658 | INTERPOL 50, Europol 44, Eurojust 36, FBI 21, BleepingComputer 21 |
+| Sources with dedicated pages | 659 | INTERPOL 50, Europol 44, Eurojust 36, FBI 21, BleepingComputer 21 |
 | Crime types documented | 25 | All documented types |
 
 ## Recent Activity
@@ -90,7 +90,7 @@ See [[log]] for wiki activity history.
 
 ## References
 
-Operational statistics in this overview aggregate the 135 canonical operation pages. The wiki also retains 27 absorbed follow-on records for traceability, for 162 total operation records, plus 658 source pages. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
+Operational statistics in this overview aggregate the 135 canonical operation pages. The wiki also retains 27 absorbed follow-on records for traceability, for 162 total operation records, plus 659 source pages. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|

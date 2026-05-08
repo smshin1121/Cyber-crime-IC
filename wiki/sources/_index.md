@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (658)
+# Sources (659)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -503,6 +503,7 @@ updated: 2026-04-14
 | [[2019-12-01_aspi-org-au_national-security-wrap-186]] | press-release | ASPI | ? | medium | ? |
 | [[2019-11-29_thehackernews-com_europol-imminent-monitor-rat]] | press-release | The Hacker News | ? | medium | ? |
 | [[2026-04-18_justice-gov_huntsville-man-pleads-guilty-possessing-large-collection-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet]] | press-release | Brazil Ministry of Justice and Public Security | ? | high | ? |
 | [[2019-09-30_arstechnica_com_cyberbunker-raid]] | news-article | Ars Technica | 3 | medium | ? |
 | [[2019-09-18_eurojust_eurojust-helps-unravel-massive-trans-european-pay-tv-fraud]] | news | Eurojust | ? | high | ? |
 | [[2019-09-11_scworld-com_operation-rewired-campaign]] | news | SC Media | 3 | medium-high | ? |

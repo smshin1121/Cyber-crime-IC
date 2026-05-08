@@ -48,15 +48,17 @@ results:
   domains_seized: 675
   indictments: 0
   other:
+    - "136 sites and 100 illegal streaming applications suspended in the initial 2019 phase"
     - "14 illegal streaming applications blocked or suspended in phase 7"
     - "30 search and seizure warrants in phase 7"
     - "prior phases documented from 2019 through 2023"
     - "three U.S. domains seized in the 2020 DOJ-supported phase"
   servers_seized: 0
   victims_notified: 0
-source_count: 2
+source_count: 3
 source_tier: 1
 sources:
+  - "[[2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet]]"
   - "[[2020-11-05_justice-gov_operation-404-digital-piracy-sites-apps]]"
   - "[[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]]"
 status: ongoing
@@ -69,7 +71,7 @@ timeframe:
 title: "Operation 404 Digital Piracy and Illegal Streaming Takedown"
 title_ko: "Operation 404 digital piracy and illegal streaming takedown"
 type: operation
-updated: 2026-05-04
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation 404 is a Brazilian-led, multi-phase international operation against digital piracy, illegal streaming sites, and streaming applications. Official Brazilian and U.S. sources document phases from 2019 through 2024, including domain seizures, application takedowns, arrests, searches, and cooperation with law-enforcement and intellectual-property partners in multiple countries."
@@ -81,7 +83,7 @@ organizations:
 ---
 ## Summary
 
-Operation 404 is a Brazilian-led multi-phase takedown campaign against digital piracy sites, illegal streaming applications, and related online intellectual-property crime. The Brazilian Ministry of Justice and Public Security records phases beginning in 2019 and reports a seventh phase in September 2024 that blocked or suspended 675 sites and 14 illegal streaming applications.
+Operation 404 is a Brazilian-led multi-phase takedown campaign against digital piracy sites, illegal streaming applications, and related online intellectual-property crime. The Brazilian Ministry of Justice and Public Security records the operation's November 2019 launch and reports later phases through at least September 2024, when a seventh phase blocked or suspended 675 sites and 14 illegal streaming applications.
 
 The U.S. Department of Justice source confirms U.S. law-enforcement assistance to the 2020 phase, including domain seizures in support of the Brazilian-led operation. The source also names Brazilian, U.S., and UK partners, making the case suitable for the international-cooperation SNA subset.
 
@@ -97,6 +99,7 @@ The U.S. Department of Justice source confirms U.S. law-enforcement assistance t
 ## Results and Impact
 
 - The seventh phase blocked or suspended 675 sites and 14 illegal streaming applications.
+- The initial 2019 phase reported 136 sites and 100 illegal streaming applications suspended, 30 search-and-seizure warrants, and eight in-flagrante arrests.
 - Brazilian authorities reported 30 search and seizure warrants and nine arrests in phase 7.
 - The 2020 U.S.-supported phase seized three U.S.-based domains associated with pirated television and movie distribution.
 - The operation is treated as an umbrella record because the official sources describe multiple phases from 2019 through 2024.
@@ -105,5 +108,6 @@ The U.S. Department of Justice source confirms U.S. law-enforcement assistance t
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | U.S. law enforcement assists Brazilian law enforcement takedown of numerous digital piracy sites and apps | U.S. Department of Justice | 2020-11-05 | https://www.justice.gov/archives/opa/pr/us-law-enforcement-assists-brazilian-law-enforcement-takedown-numerous-digital-piracy-sites |
-| [2] | Operacao internacional contra pirataria tira do ar 675 sites e 14 aplicativos de streaming | Brazil Ministry of Justice and Public Security | 2024-09-19 | https://www.gov.br/mj/pt-br/assuntos/noticias/operacao-internacional-contra-pirataria-tira-do-ar-675-sites-e-14-aplicativos-de-streaming |
+| [1] | Operacao 404 combate pirataria na internet | Brazil Ministry of Justice and Public Security | 2019-11-01 | https://www.gov.br/mj/pt-br/assuntos/noticias/operacao-404-combate-pirataria-na-internet |
+| [2] | U.S. law enforcement assists Brazilian law enforcement takedown of numerous digital piracy sites and apps | U.S. Department of Justice | 2020-11-05 | https://www.justice.gov/archives/opa/pr/us-law-enforcement-assists-brazilian-law-enforcement-takedown-numerous-digital-piracy-sites |
+| [3] | Operacao internacional contra pirataria tira do ar 675 sites e 14 aplicativos de streaming | Brazil Ministry of Justice and Public Security | 2024-09-19 | https://www.gov.br/mj/pt-br/assuntos/noticias/operacao-internacional-contra-pirataria-tira-do-ar-675-sites-e-14-aplicativos-de-streaming |

@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T05:40:09Z",
+  "generated_at": "2026-05-08T06:42:32Z",
   "root": null,
   "stats": {
-    "total_nodes": 1310,
-    "total_edges": 12268,
+    "total_nodes": 1311,
+    "total_edges": 12273,
     "broken_links": 0,
     "orphans": 106,
     "by_type": {
@@ -19,7 +19,7 @@
       "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 658
+      "source": 659
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4874 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4876 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -4555,10 +4555,10 @@
         "audiovisual piracy"
       ],
       "summary": "Illegal IPTV and streaming piracy operations cover enforcement actions against services that capture, redistribute, resell, or broker access to protected live and on-demand audiovisual content without authorization. The conduct is cyber-enabled…",
-      "source_count": 10,
+      "source_count": 11,
       "created": "2026-05-04",
-      "updated": "2026-05-04",
-      "degree": 41,
+      "updated": "2026-05-08",
+      "degree": 43,
       "path": "wiki/crime-types/illegal-iptv-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -6590,11 +6590,11 @@
         "Operacao 404",
         "Operation 404"
       ],
-      "summary": "Operation 404 is a Brazilian-led multi-phase takedown campaign against digital piracy sites, illegal streaming applications, and related online intellectual-property crime. The Brazilian Ministry of Justice and Public Security records phases…",
-      "source_count": 2,
+      "summary": "Operation 404 is a Brazilian-led multi-phase takedown campaign against digital piracy sites, illegal streaming applications, and related online intellectual-property crime. The Brazilian Ministry of Justice and Public Security records the…",
+      "source_count": 3,
       "created": "2026-05-04",
-      "updated": "2026-05-04",
-      "degree": 35,
+      "updated": "2026-05-08",
+      "degree": 36,
       "path": "wiki/operations/operation-404-digital-piracy-2019.md",
       "meta": {
         "status": "ongoing",
@@ -9716,10 +9716,10 @@
         "Brazil MoJPS"
       ],
       "summary": "Brazil's Ministry of Justice and Public Security is retained here as an operation-linked organization node for Operation 404. The current record is intentionally narrow: it captures the ministry's source-backed coordination role in a multi-country…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-05-04",
-      "updated": "2026-05-04",
-      "degree": 14,
+      "updated": "2026-05-08",
+      "degree": 16,
       "path": "wiki/organizations/brazil-ministry-of-justice-public-security.md",
       "meta": {
         "org_type": "national-agency",
@@ -14328,6 +14328,20 @@
       "updated": null,
       "degree": 1,
       "path": "wiki/sources/2019-09-30_arstechnica_com_cyberbunker-raid.md",
+      "meta": {}
+    },
+    {
+      "id": "2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet",
+      "type": "source",
+      "title": "Operacao 404 combate pirataria na internet",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Brazil's Ministry of Justice and Public Security reports the 1 November 2019 launch of Operation 404. The source records the ministry's coordination role, the first-phase disruption figures, and the collaboration of Brazilian…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 5,
+      "path": "wiki/sources/2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet.md",
       "meta": {}
     },
     {
@@ -50826,6 +50840,12 @@
     },
     {
       "source": "illegal-iptv-ic",
+      "target": "2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "illegal-iptv-ic",
       "target": "2019-09-18_eurojust_eurojust-helps-unravel-massive-trans-european-pay-tv-fraud",
       "kind": "body",
       "directed": false
@@ -78012,6 +78032,12 @@
     },
     {
       "source": "brazil-ministry-of-justice-public-security",
+      "target": "2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "brazil-ministry-of-justice-public-security",
       "target": "2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps",
       "kind": "body",
       "directed": false
@@ -88897,6 +88923,24 @@
     {
       "source": "2019-09-30_arstechnica_com_cyberbunker-raid",
       "target": "cyberbunker-takedown",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet",
+      "target": "operation-404-digital-piracy-2019",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet",
+      "target": "illegal-iptv-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet",
+      "target": "brazil-ministry-of-justice-public-security",
       "kind": "pages_updated",
       "directed": true
     },

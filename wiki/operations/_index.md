@@ -50,7 +50,7 @@ updated: 2026-04-14
 | [[imminent-monitor-rat-takedown]] | CYB-2019-050 | 2 | completed | umbrella | 5 | 1.88 | 3 |
 | [[xdedic-marketplace-takedown]] | CYB-2019-051 | 2 | completed | umbrella | 9 | 4.20 | 1 |
 | [[operation-perfect-storm-pay-tv-piracy-2019]] | CYB-2019-052 | 2 | completed | umbrella | 3 | 4.20 | 1 |
-| [[operation-404-digital-piracy-2019]] | CYB-2019-053 | 2 | ongoing | umbrella | 2 | 4.10 | 1 |
+| [[operation-404-digital-piracy-2019]] | CYB-2019-053 | 2 | ongoing | umbrella | 3 | 4.10 | 1 |
 | [[operation-goldfish-alpha-night-fury]] | CYB-2020-002 | 2 | completed | umbrella | 5 | 2.28 | 2 |
 | [[2bagoldmule-qqaazz]] | CYB-2020-003 | 2 | completed | umbrella | 5 | 2.28 | 2 |
 | [[trickbot-operations]] | CYB-2020-003 | 2 | completed | umbrella | 4 | 4.50 | 1 |

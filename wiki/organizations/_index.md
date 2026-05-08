@@ -36,7 +36,7 @@ updated: 2026-04-08
 | [[singapore-mddi]] | ministry | [[singapore]] | Parent-ministry context for [[singapore-csa]] in the corpus.; Provides policy and agency-management context for Singapore's national cybersecurity posture. | — | 1 |
 | [[australia-afp]] | national-agency | Canberra, Australia | — | 10 | 6 |
 | [[australian-criminal-intelligence-commission]] | national-agency | Australia | National criminal intelligence agency supporting serious and organized crime investigations.; Provides intelligence-sharing context for Australian cybercrime enforcement alongside [[australia-afp]]. | 1 | 1 |
-| [[brazil-ministry-of-justice-public-security]] | national-agency | Brasilia, Brazil | National public-security coordination; Cyber operations coordination through Ciberlab/Senasp structures | 2 | 1 |
+| [[brazil-ministry-of-justice-public-security]] | national-agency | Brasilia, Brazil | National public-security coordination; Cyber operations coordination through Ciberlab/Senasp structures | 2 | 2 |
 | [[cbi-india]] | national-agency | New Delhi, India | Lead agency for Operation Chakra series (I-V) against transnational cybercrime; International Operations Division handles cross-border case coordination | 4 | 4 |
 | [[cert-lv]] | national-agency | Latvia | Latvia's national computer security incident response institution.; Provides incident-response and cyber-resilience context distinct from police or prosecution functions. | — | 1 |
 | [[cert-mu]] | national-agency | Mauritius | Mauritius national computer emergency response team.; Provides incident-response and cybersecurity coordination distinct from Mauritius Police cybercrime investigation. | — | 2 |
