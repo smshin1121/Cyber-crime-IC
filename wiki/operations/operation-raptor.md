@@ -2,7 +2,7 @@
 type: operation
 title: "Operation RapTor"
 aliases:
-  - "RapTor"
+  - RapTor
   - "JCODE Operation RapTor"
 case_id: CYB-2025-017
 period: 3
@@ -85,12 +85,13 @@ results:
     - "Arrests included the United States, Germany, the United Kingdom, France, South Korea, Austria, Brazil, the Netherlands, Spain, and Switzerland."
 credibility_index: 4.4
 source_tier: 1
-missing_fields:
-related_cases:
+missing_fields: ""
+related_cases: ""
 related_operations:
   - "[[operation-dark-huntor]]"
   - "[[nemesis-market-takedown]]"
   - "[[darkmarket-takedown]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 challenges_encountered:
   - "Public sources describe a coordinated operation based on separate national investigations, so later defendant-specific filings should not be counted as separate operation-level actions unless they identify a new multinational operation."
 lessons_learned:
@@ -104,7 +105,7 @@ sources:
   - "[[2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide]]"
 summary: "Operation RapTor was a 2025 global darknet-trafficking operation announced by DOJ JCODE and international partners. Authorities arrested 270 dark web vendors, buyers, and administrators across four continents and ten named countries, while seizing more than USD 200 million in currency and digital assets, over two metric tons of drugs, 144 kilograms of fentanyl or fentanyl-laced narcotics, and more than 180 firearms."
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-09
 ---
 # Operation RapTor
 

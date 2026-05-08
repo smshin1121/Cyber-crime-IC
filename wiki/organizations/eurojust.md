@@ -77,6 +77,7 @@ operations_participated:
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

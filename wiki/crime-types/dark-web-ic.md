@@ -3,15 +3,18 @@ type: crime-type
 title: "Dark Web - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
-updated: 2026-04-29
-source_count: 4
+updated: 2026-05-09
+source_count: 5
 sources:
   - "[[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]]"
   - "[[2014-08-15_justice-gov_texas-business-executive-pleads-guilty-illegally-selling-oxycodone-silk-road]]"
   - "[[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]"
   - "[[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]]"
+  - "[[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]]"
 category: cybercrime-related
 broadly_criminalized: varies-by-jurisdiction
+notable_operations:
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 ---
 ## Summary
 
@@ -54,3 +57,4 @@ This page was expanded from a structural link-preservation stub during the 2026-
 | 2 | [[2014-08-15_justice-gov_texas-business-executive-pleads-guilty-illegally-selling-oxycodone-silk-road|Texas Business Executive Pleads Guilty To Illegally Selling Oxycodone On Silk Road]] | US DOJ (USAO Middle District of Florida) | 2014-08-15 | https://www.justice.gov/usao-mdfl/pr/texas-business-executive-pleads-guilty-illegally-selling-oxycodone-silk-road |
 | 3 | [[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court|Operator of Silk Road 2.0 Website Charged in Manhattan Federal Court]] | FBI | 2014-11-06 | https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court |
 | 4 | [[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0|International probe leads to the arrest of the alleged operator of "Silk Road 2.0"]] | ICE / HSI | 2014-11-06 | https://www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20 |
+| 5 | [[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market\|Europe-wide takedown hits longest-standing dark web drug market (Archetyp Market — Operation Deep Sentinel)]] | Europol | 2025-06-16 | https://www.europol.europa.eu/media-press/newsroom/news/europe-wide-takedown-hits-longest-standing-dark-web-drug-market |

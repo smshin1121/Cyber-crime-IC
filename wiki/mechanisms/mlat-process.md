@@ -39,6 +39,7 @@ limitations:
   - "Different legal standards between common/civil law"
 operations_using:
   - "[[operation-token-mirrors-2026]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 cases_using:
 
 related_mechanisms:

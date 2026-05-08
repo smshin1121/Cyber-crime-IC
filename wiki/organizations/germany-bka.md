@@ -15,7 +15,7 @@ frameworks_administered:
 headquarters: "Wiesbaden, Germany"
 key_roles:
 
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 mandate: "Germany's federal criminal police; investigates serious and organized crime"
 mechanisms_operated:
 
@@ -56,6 +56,7 @@ operations_participated:
   - "[[operation-chakra-ii]]"
   - "[[operation-endgame-phase3]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5
@@ -68,7 +69,7 @@ sources:
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

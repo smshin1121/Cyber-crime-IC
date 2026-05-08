@@ -1,36 +1,39 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
   - "[[spanish-national-police]]"
   - "[[europol-ec3]]"
   - "[[fbi]]"
   - "[[kaspersky-lab]]"
 country: "[[romania]]"
-jurisdiction: [[romania]]
+jurisdiction:
+  -
+    - romania
 created: 2026-04-17
 established: ""
 frameworks_administered:
-  []
+
 headquarters: "Bucharest, Romania"
 key_roles:
   - "Compatibility label for Romanian police cybercrime participation in older operation records."
   - "Routes institution-level detail to [[romania-police]]."
-last_verified: 2026-04-29
+last_verified: 2026-05-09
 mandate: "Legacy compatibility page for references to Romanian police cybercrime investigators."
 mechanisms_operated:
-  []
+
 member_states: 0
 notable_cases:
-  []
+
 official_name: "Romanian Police"
 official_name_ko: ""
 operations_participated:
   - "[[carbanak-cobalt-takedown]]"
   - "[[romania-phishing-takedown-2024]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 org_type: national-agency
 parent_org: "[[romania-police]]"
 source_count: 3
@@ -41,7 +44,7 @@ sources:
 status: active
 title: "Romanian Police"
 type: organization
-updated: "2026-05-08"
+updated: 2026-05-09
 coverage_status: audit-normalized
 ---
 ## Summary

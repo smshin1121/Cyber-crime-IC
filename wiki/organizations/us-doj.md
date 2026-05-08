@@ -979,6 +979,7 @@ operations_participated:
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | Europol 2025-06-16 — Archetyp Market takedown / Operation Deep Sentinel (DE-NL-RO-ES-SE-US, 2025-06-11→2025-06-13)
+- Source: `raw/press-releases/2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market.md` (Europol newsroom press release; tier-1 primary)
+- Pages created: [[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]] (source summary), [[archetyp-market-takedown-operation-deep-sentinel-2025]] (operation, case_id `CYB-2025-210`)
+- Pages updated: 6 country pages (DE/NL/RO/ES/SE/US) operations_participated; 8 org pages (germany-bka/dutch-police/romanian-police/spain-national-police/sweden-police/us-doj/europol-ec3/eurojust) operations_participated; [[dark-web-ic]], [[drug-trafficking]], [[money-laundering-ic]] (notable_operations + sources + body Reference rows); [[european-investigation-order]], [[eurojust-coordination-meeting]], [[mlat-process]] (operations_using); related_operations cross-link to [[operation-raptor]]; index/master indexes reconciled.
+- Key findings: 11-13 June 2025 action days across 5 EU jurisdictions + US partners; ~300 officers deployed; Archetyp Market platform (NL-hosted) taken offline; 30-year-old German-national admin arrested in Barcelona, Spain; 1 moderator + 6 highest vendors targeted in DE/SE; EUR 7.8M assets seized. Underlying disrupted marketplace: 5+ years of operation, 600,000+ users, EUR 250M+ transactions, 17,000+ listings (incl. fentanyl + synthetic opioids). German lead: Generalstaatsanwaltschaft Frankfurt am Main ZIT + BKA. Eurojust EIO + MLA coordination during action days. First wiki record of Operation Deep Sentinel as a discrete operation name; most fully-articulated DE-Spain-NL-SE-RO-US 6-jurisdiction darknet-marketplace takedown architecture in the corpus.
+
 ## [2026-05-09] ingest | DOJ 2025-06-30 — DPRK RevGen Initiative coordinated nationwide enforcement wave (DPRK IT worker schemes)
 - Source: `raw/press-releases/2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers.md` (DOJ-OPA Press Release 25-680; tier-1 primary)
 - Pages created: [[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers]] (source summary), [[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]] (operation, case_id `CYB-2025-209`)

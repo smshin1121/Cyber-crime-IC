@@ -10,8 +10,7 @@ cooperation_partners:
   - "[[german-bka]]"
 country: "[[netherlands]]"
 jurisdiction:
-  -
-    - netherlands
+
 created: 2026-04-17
 established: ""
 frameworks_administered:
@@ -20,7 +19,7 @@ headquarters: Netherlands
 key_roles:
   - "Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles."
   - "Routes current institutional context to [[netherlands-politie]]."
-last_verified: 2026-04-29
+last_verified: 2026-05-09
 mandate: "Legacy compatibility page for references to Dutch police cybercrime investigators."
 mechanisms_operated:
 
@@ -33,6 +32,7 @@ operations_participated:
   - "[[hive-ransomware-takedown]]"
   - "[[operation-eastwood]]"
   - "[[operation-disruptor]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 org_type: national-agency
 parent_org: "[[netherlands-politie]]"
 source_count: 3
@@ -43,7 +43,7 @@ sources:
 status: active
 title: "Dutch Police"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-09
 coverage_status: audit-normalized
 ---
 ## Summary

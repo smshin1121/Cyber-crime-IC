@@ -10,6 +10,7 @@ operations_participated:
   - "[[operation-avalanche]]"
   - "[[operation-power-off-2026-04]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 region: northern-europe
 source_count: 0
 sources:

@@ -3,15 +3,18 @@ type: crime-type
 title: "Drug Trafficking"
 status: corpus-linked
 created: 2026-04-18
-updated: 2026-04-29
-source_count: 4
+updated: 2026-05-09
+source_count: 5
 sources:
   - "[[2014-02-20_cbsnews-baltimore_neb-man-charged-in-silk-road-case]]"
   - "[[2014-05-30_justice-gov_texas-resident-charged-illegally-selling-controlled-substances-silk-road-bitmessage]]"
   - "[[2014-12-18_mdfl_matthew-jones-silk-road-sentencing]]"
   - "[[2015-04-27_justice-gov_delaware-doctor-who-illegally-sold-controlled-substances-on-the-silk-road-drug-m]]"
+  - "[[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
+notable_operations:
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 ---
 ## Summary
 
@@ -54,3 +57,4 @@ This page was expanded from a structural link-preservation stub during the 2026-
 | 2 | [[2014-05-30_justice-gov_texas-resident-charged-illegally-selling-controlled-substances-silk-road-bitmessage|Texas Resident Charged With Illegally Selling Controlled Substances On Silk Road, Bitmessage]] | US DOJ (USAO Middle District of Florida) | 2014-05-30 | https://www.justice.gov/usao-mdfl/pr/texas-resident-charged-illegally-selling-controlled-substances-silk-road-bitmessage |
 | 3 | [[2014-12-18_mdfl_matthew-jones-silk-road-sentencing|Texas Business Executive Sentenced To Prison For Illegally Selling Oxycodone On Silk Road]] | US DOJ (Middle District of Florida) | 2014-12-18 | https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road |
 | 4 | [[2015-04-27_justice-gov_delaware-doctor-who-illegally-sold-controlled-substances-on-the-silk-road-drug-m|Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison]] | US DOJ (Middle District of Florida) | 2015-04-27 | https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace |
+| 5 | [[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market\|Europe-wide takedown hits longest-standing dark web drug market (Archetyp Market — Operation Deep Sentinel)]] | Europol | 2025-06-16 | https://www.europol.europa.eu/media-press/newsroom/news/europe-wide-takedown-hits-longest-standing-dark-web-drug-market |

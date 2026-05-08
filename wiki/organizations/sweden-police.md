@@ -11,7 +11,7 @@ established: 2015-10-01
 headquarters: "Stockholm, Sweden"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-09
 mandate: "National-level specialist function of the Swedish Police Authority for investigating"
 notable_cases:
 
@@ -27,6 +27,7 @@ operations_participated:
   - "[[operation-hyperion]]"
   - "[[operation-disruptor]]"
   - "[[operation-power-off]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
 source_count: 3
@@ -35,7 +36,7 @@ sources:
 status: active
 title: "Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-09
 ---
 ## Summary
 

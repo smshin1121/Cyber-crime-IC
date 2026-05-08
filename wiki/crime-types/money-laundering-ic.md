@@ -32,6 +32,7 @@ notable_operations:
   - "[[operation-token-mirrors-2026]]"
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 notable_cases:
 
 criminalization_status:
@@ -40,7 +41,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 11
+source_count: 12
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -53,6 +54,7 @@ sources:
   - "[[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation]]"
   - "[[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil]]"
   - "[[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers]]"
+  - "[[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -121,3 +123,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [9] | [[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation\|Ten foreign nationals charged in an international operation targeting cryptocurrency market manipulation]] | IRS Criminal Investigation | 2026-03-30 | https://www.irs.gov/compliance/criminal-investigation/ten-foreign-nationals-charged-in-an-international-operation-targeting-cryptocurrency-market-manipulation |
 | [10] | [[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil\|Singapore Police Force Partners INTERPOL And Federal Police Of Brazil In Transnational Operation Against Cybercriminals]] | Singapore Police Force | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_singapore_police_force_partners_interpol_and_federal_police_of_brazil |
 | [11] | [[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers\|Justice Department Announces Coordinated, Nationwide Actions to Combat North Korean Remote Information Technology Workers' Illicit Revenue Generation Schemes]] | US DOJ (OPA), Press Release 25-680 | 2025-06-30 | https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote |
+| [12] | [[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market\|Europe-wide takedown hits longest-standing dark web drug market (Archetyp Market — Operation Deep Sentinel)]] | Europol | 2025-06-16 | https://www.europol.europa.eu/media-press/newsroom/news/europe-wide-takedown-hits-longest-standing-dark-web-drug-market |

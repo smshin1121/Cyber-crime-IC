@@ -3,7 +3,7 @@ type: mechanism
 title: "Eurojust Coordination Meeting"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-04-29
+updated: 2026-05-09
 source_count: 4
 sources:
   - "[[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]"
@@ -11,6 +11,8 @@ sources:
   - "[[2015-01-01_europol-europa-eu_iocta-2015-darknets]]"
   - "[[2015-01-01_swansea-ac-uk_gdpo-situation-analysis-operation-onymous]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 ---
 ## Summary
 

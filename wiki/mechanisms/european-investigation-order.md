@@ -3,7 +3,7 @@ type: mechanism
 title: "European Investigation Order"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-04-29
+updated: 2026-05-09
 source_count: 4
 sources:
   - "[[2025-09-23_eurojust_crypto-fraud-over-100-million-euros-across-europe]]"
@@ -11,6 +11,8 @@ sources:
   - "[[2026-04-17_coe-int_latvia-octopus-cybercrime-community]]"
   - "[[2026-04-17_netlaw-bg_general-directorate-combating-organized-crime-gdbop]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 ---
 ## Summary
 

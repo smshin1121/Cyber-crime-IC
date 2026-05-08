@@ -62,6 +62,7 @@ operations_participated:
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[black-axe-switzerland-takedown-2026]]"
+  - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
 region: western-europe
 source_count: 5
 sources:
