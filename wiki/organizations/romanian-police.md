@@ -30,6 +30,7 @@ official_name_ko: ""
 operations_participated:
   - "[[carbanak-cobalt-takedown]]"
   - "[[romania-phishing-takedown-2024]]"
+  - "[[operation-switch-off-illegal-iptv-2026]]"
 org_type: national-agency
 parent_org: "[[romania-police]]"
 source_count: 3
@@ -40,7 +41,7 @@ sources:
 status: active
 title: "Romanian Police"
 type: organization
-updated: "2026-04-29"
+updated: "2026-05-08"
 coverage_status: audit-normalized
 ---
 ## Summary

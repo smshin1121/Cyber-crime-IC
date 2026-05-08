@@ -3,7 +3,7 @@ type: organization
 title: "Polizia di Stato"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: "2026-05-08"
 last_verified: 2026-04-29
 org_type: national-police
 country: "[[italy]]"
@@ -17,6 +17,7 @@ operations_participated:
   - "[[cyber-fraud-international-2015]]"
   - "[[doublevpn-takedown]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
+  - "[[operation-switch-off-illegal-iptv-2026]]"
 cooperation_partners:
   - "[[italy-polizia-postale]]"
   - "[[europol-ec3]]"

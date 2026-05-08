@@ -29,13 +29,14 @@ notable_operations:
   - "[[mobdro-illegal-streaming-takedown-2021]]"
   - "[[operation-404-digital-piracy-2019]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
+  - "[[operation-switch-off-illegal-iptv-2026]]"
 notable_cases: []
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions: []
 estimated_annual_loss: ""
-source_count: 11
+source_count: 14
 sources:
   - "[[2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet]]"
   - "[[2019-09-18_eurojust_eurojust-helps-unravel-massive-trans-european-pay-tv-fraud]]"
@@ -48,6 +49,9 @@ sources:
   - "[[2024-11-27_eurojust_crackdown-illegal-streaming-network-22-million-users-worldwide]]"
   - "[[2024-11-28_dia-interno-gov-it_operazione-taken-down]]"
   - "[[2025-01-17_uefa_operation-kratos-international-anti-piracy-operation]]"
+  - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
+  - "[[2026-02-03_eurojust_successful-operation-illegal-streaming-services]]"
+  - "[[2026-04-18_justice-gov_cyber-ip-europe]]"
 created: 2026-05-04
 updated: 2026-05-08
 status: active
@@ -58,7 +62,7 @@ Illegal IPTV and streaming piracy operations cover enforcement actions against s
 
 ## Cooperation Pattern
 
-The expanded IPTV set shows several recurring cooperation patterns. Eurojust-supported European actions such as Operation Perfect Storm, the Spanish pay-TV streaming network takedown, Mobdro, and Operation Taken Down use cross-border search, seizure, EIO, MLA, and Europol analytical support to disrupt distributed streaming infrastructure. Operation 404 shows a non-European umbrella model led by Brazil with U.S., UK, Latin American, and private-sector IP partners.
+The expanded IPTV set shows several recurring cooperation patterns. Eurojust-supported European actions such as Operation Perfect Storm, the Spanish pay-TV streaming network takedown, Mobdro, Operation Taken Down, and Operation Switch Off use cross-border search, seizure, EIO, MLA, and Europol analytical support to disrupt distributed streaming infrastructure. Operation Switch Off also shows a follow-on model in which data seized during a prior takedown is reused for traffic analysis, cryptocurrency tracing, reseller identification, and new action-day targets. Operation 404 shows a non-European umbrella model led by Brazil with U.S., UK, Latin American, and private-sector IP partners.
 
 ## Analytical Use
 
@@ -79,3 +83,6 @@ Use this category when the operation target is an illegal IPTV, pirate streaming
 | [9] | [[2024-11-27_eurojust_crackdown-illegal-streaming-network-22-million-users-worldwide|Crackdown on illegal streaming network with 22 million users worldwide]] | Eurojust | 2024-11-27 | https://www.eurojust.europa.eu/news/crackdown-illegal-streaming-network-22-million-users-worldwide |
 | [10] | [[2024-11-28_dia-interno-gov-it_operazione-taken-down|OPERAZIONE TAKEN DOWN]] | Direzione Investigativa Antimafia | 2024-11-28 | https://direzioneinvestigativaantimafia.interno.gov.it/2024/operazione-taken-down/ |
 | [11] | [[2025-01-17_uefa_operation-kratos-international-anti-piracy-operation|UEFA supports international anti-piracy operation]] | UEFA | 2025-01-17 | https://www.uefa.com/news-media/news/0295-1cd599b8d6cb-2fa4e1035483-1000--uefa-supports-international-anti-piracy-operation/ |
+| [12] | [[2026-01-29_ace_operation-switch-off-illegal-iptv-ring|ACE Applauds Coordinated Global Law-Enforcement Action Against Industrial-Scale Illegal IPTV Ring]] | Alliance for Creativity and Entertainment | 2026-01-29 | https://www.alliance4creativity.com/news/ace-applauds-coordinated-global-law-enforcement-action-against-industrial-scale-illegal-iptv-ring/ |
+| [13] | [[2026-02-03_eurojust_successful-operation-illegal-streaming-services|Successful operation against illegal streaming services with millions of users worldwide]] | Eurojust | 2026-02-03 | https://www.eurojust.europa.eu/news/successful-operation-against-illegal-streaming-services-millions-users-worldwide |
+| [14] | [[2026-04-18_justice-gov_cyber-ip-europe|Cyber & IP Europe]] | US DOJ | 2026-04-18 | https://www.justice.gov/criminal/criminal-opdat/cyber-ip-europe |

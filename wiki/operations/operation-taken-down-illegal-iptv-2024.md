@@ -39,7 +39,8 @@ participating_countries:
   - "[[united-kingdom]]"
 period: 3
 related_cases: []
-related_operations: []
+related_operations:
+  - "[[operation-switch-off-illegal-iptv-2026]]"
 results:
   arrests: 11
   cryptocurrency_seized: "EUR 1.6 million"
@@ -70,7 +71,7 @@ timeframe:
 title: "Operation Taken Down Illegal IPTV Takedown"
 title_ko: "Operation Taken Down illegal IPTV takedown"
 type: operation
-updated: 2026-05-04
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Taken Down was a Catania-led, Eurojust- and Europol-supported action against a transnational illegal IPTV and streaming-piracy network serving more than 22 million users worldwide. Public sources describe coordinated searches, seizures, arrests in Croatia, and disruption of infrastructure used to distribute protected films, series, sports channels, and other television content without authorization. UEFA reports overlapping figures under the Operation Kratos name, so Kratos is retained here as an alias/source rather than a separate SNA node."
@@ -87,6 +88,8 @@ Operation Taken Down was a coordinated European action against a large illegal I
 The target was a service infrastructure that redistributed protected films, series, sports channels, and television programming to more than 22 million users worldwide. The public sources describe more than 100 searches, server seizures and shutdowns, cryptocurrency and cash seizures, and 11 arrests in Croatia.
 
 UEFA later described an overlapping anti-piracy action under the Operation Kratos name, with the same broad scale indicators: 102 suspects, 11 arrests, and more than 22 million users. Pending stronger deconfliction evidence, this repository treats Kratos as an alias/source for the Taken Down illegal IPTV operation rather than creating a duplicate operation node.
+
+In February 2026, Eurojust described a separate follow-on illegal-streaming action that began from data seized during Operation Taken Down. That follow-on is recorded separately as [[operation-switch-off-illegal-iptv-2026|Operation Switch Off]] because later sources use a distinct operation name and describe a separate 2026 action day.
 
 ## Participating Parties
 
@@ -108,6 +111,8 @@ UEFA later described an overlapping anti-piracy action under the Operation Krato
 ## Cooperation Model
 
 The operation combines domestic Italian investigative leadership with Eurojust judicial coordination, Europol analytical and deployment support, and simultaneous action across multiple European jurisdictions. For SNA purposes, it is retained as an operation-level illegal IPTV record rather than as a domestic copyright case or a follow-on prosecution wrapper.
+
+Operation Taken Down also produced evidentiary leads for [[operation-switch-off-illegal-iptv-2026|Operation Switch Off]], so the two nodes are linked as related operations rather than merged.
 
 ## References
 

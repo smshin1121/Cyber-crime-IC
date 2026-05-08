@@ -63,6 +63,7 @@ operations_participated:
   - "[[spanish-pay-tv-streaming-network-takedown-2020]]"
   - "[[mobdro-illegal-streaming-takedown-2021]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
+  - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-blackshades]]"
@@ -77,7 +78,7 @@ sources:
 status: active
 title: Eurojust
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Current Status (as of 2026-04-10)
 

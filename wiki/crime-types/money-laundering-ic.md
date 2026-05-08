@@ -23,17 +23,20 @@ notable_operations:
   - "[[de-ch-crypto-mixer-takedown-2025]]"
   - "[[2bagoldmule-qqaazz]]"
   - "[[cryptex-pm2btc-sanctions]]"
+  - "[[operation-switch-off-illegal-iptv-2026]]"
 notable_cases: []
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions: []
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 1
+source_count: 3
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
+  - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
+  - "[[2026-02-03_eurojust_successful-operation-illegal-streaming-services]]"
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-05-08
 ---
 ## Summary
 
@@ -67,6 +70,7 @@ This page focuses on the **international cooperation** dimension: how states and
 | [[de-ch-crypto-mixer-takedown-2025]] | 2025 | DE, CH | EUR 25M+ seized, 3 servers down |
 | [[cryptex-pm2btc-sanctions]] | 2024 | US-led | Sanctions and indictments |
 | [[2bagoldmule-qqaazz]] | 2020 | EU + US | Money mule network dismantled |
+| [[operation-switch-off-illegal-iptv-2026]] | 2026 | IT, RO, ES, UK + | Illegal IPTV proceeds laundering and cryptocurrency tracing context |
 
 ## Challenges
 
@@ -83,3 +87,11 @@ This page focuses on the **international cooperation** dimension: how states and
 
 - The exact mixing service taken down in the December 2025 DE-CH operation is not named in the Eurojust release. Identification awaits follow-up reporting.
 - The legal basis under which Switzerland (a non-EU state) cooperated with Eurojust in this operation is *likely* the bilateral Eurojust-Switzerland agreement, but is not confirmed in the source.
+
+## References
+
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | [[2025-12-01-eurojust-de-ch-crypto-mixer-takedown|Cryptocurrency mixing service used to launder money taken down]] | Eurojust | 2025-12-01 | https://www.eurojust.europa.eu/news/cryptocurrency-mixing-service-used-launder-money-taken-down |
+| [2] | [[2026-01-29_ace_operation-switch-off-illegal-iptv-ring|ACE Applauds Coordinated Global Law-Enforcement Action Against Industrial-Scale Illegal IPTV Ring]] | Alliance for Creativity and Entertainment | 2026-01-29 | https://www.alliance4creativity.com/news/ace-applauds-coordinated-global-law-enforcement-action-against-industrial-scale-illegal-iptv-ring/ |
+| [3] | [[2026-02-03_eurojust_successful-operation-illegal-streaming-services|Successful operation against illegal streaming services with millions of users worldwide]] | Eurojust | 2026-02-03 | https://www.eurojust.europa.eu/news/successful-operation-against-illegal-streaming-services-millions-users-worldwide |

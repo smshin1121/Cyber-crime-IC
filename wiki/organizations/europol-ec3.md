@@ -103,6 +103,7 @@ operations_participated:
   - "[[spanish-pay-tv-streaming-network-takedown-2020]]"
   - "[[mobdro-illegal-streaming-takedown-2021]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
+  - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[operation-eastwood]]"
   - "[[operation-raptor]]"
   - "[[operation-pangea-xvii]]"

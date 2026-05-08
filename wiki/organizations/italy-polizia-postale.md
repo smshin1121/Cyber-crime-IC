@@ -28,6 +28,7 @@ mechanisms_operated:
 operations_participated:
   - "[[operation-perfect-storm-pay-tv-piracy-2019]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
+  - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
   - "[[operation-card-shop]]"
@@ -40,7 +41,7 @@ sources:
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
   - "[[2022-06-22_fondosicurezzainterna-interno-gov-it_un-territorio-cyber-sicuro-tra-pubblico-e-privato]]"
 created: 2026-04-18
-updated: "2026-04-29"
+updated: "2026-05-08"
 last_verified: 2026-04-18
 ---
 ## Summary

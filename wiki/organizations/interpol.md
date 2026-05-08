@@ -60,6 +60,7 @@ operations_participated:
   - "[[operation-chakra-iv]]"
   - "[[operation-soga-x]]"
   - "[[operation-eclipse-csam-americas]]"
+  - "[[operation-switch-off-illegal-iptv-2026]]"
 org_type: international-org
 parent_org: ""
 source_count: 4

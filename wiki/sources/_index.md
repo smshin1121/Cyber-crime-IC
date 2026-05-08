@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (668)
+# Sources (671)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -47,7 +47,9 @@ updated: 2026-04-14
 | [[2026-02-19_thehackernews_operation-red-card-2-651-arrests]] | news | The Hacker News | ? | medium | ? |
 | [[2026-02-19_nairametrics_operation-red-card-2-african-cybercrime]] | news | Nairametrics | ? | medium | ? |
 | [[2026-02-18_interpol_operation-red-card-2-online-scams]] | press-release | INTERPOL | ? | high | ? |
+| [[2026-02-03_eurojust_successful-operation-illegal-streaming-services]] | press-release | Eurojust | ? | high | ? |
 | [[2026-02-01_interpol-int_annual-report-2024-operation-first-light]] | annual-report | INTERPOL | ? | high | ? |
+| [[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]] | press-release | Alliance for Creativity and Entertainment | ? | medium | ? |
 | [[2026-01-28_yna_co_kr_136-scam-suspects-nabbed-by-joint-s-korea-cambodia-police-team]] | news | Yonhap News Agency | ? | medium | ? |
 | [[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]] | press-release | Office of Financial Sanctions Implementation | ? | high | ? |
 | [[2026-01-08_team-cymru_interpol-afripol-operation-sentinel-africa]] | press-release | Team Cymru | ? | medium | ? |
@@ -408,6 +410,7 @@ updated: 2026-04-14
 | [[2022-03-18_fbi-gov_igor-dekhtyarchuk]] | wanted-poster | FBI | ? | high | ? |
 | [[2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk]] | press-release | US DOJ (Eastern District of Texas) | ? | high | ? |
 | [[2022-03-02_eurojust_annual-report-2021-doublevpn-case-example]] | report | Eurojust | 1 | high | ? |
+| [[2026-04-18_justice-gov_cyber-ip-europe]] | press-release | US DOJ | ? | high | ? |
 | [[2022-01-18_thehackernews-com_europol-shuts-down-vpnlab-cybercriminals-favourite-vpn-service]] | press-release | The Hacker News | ? | medium | ? |
 | [[2022-01-18_securityweek_com_vpnlab-goes-down-after-servers-seized]] | news-article | SecurityWeek | 3 | medium | ? |
 | [[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]] | press-release | Europol | ? | high | ? |

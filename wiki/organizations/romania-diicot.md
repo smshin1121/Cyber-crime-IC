@@ -26,6 +26,7 @@ operations_participated:
   - "[[operation-bakovia]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[romania-phishing-takedown-2024]]"
+  - "[[operation-switch-off-illegal-iptv-2026]]"
 org_type: prosecution-office
 parent_org: "[[romania-public-ministry]]"
 source_count: 0
@@ -34,7 +35,7 @@ sources:
 status: active
 title: "Directorate for Investigating Organized Crime and Terrorism (DIICOT)"
 type: organization
-updated: "2026-04-29"
+updated: "2026-05-08"
 ---
 ## Summary
 

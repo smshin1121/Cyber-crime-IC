@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T07:34:36Z",
+  "generated_at": "2026-05-08T07:59:22Z",
   "root": null,
   "stats": {
-    "total_nodes": 1334,
-    "total_edges": 12461,
+    "total_nodes": 1339,
+    "total_edges": 12537,
     "broken_links": 0,
     "orphans": 105,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 164,
-      "organization": 146,
+      "operation": 165,
+      "organization": 147,
       "procedure": 2,
-      "source": 668
+      "source": 671
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 137
+      "canonical_operation": 138
     }
   },
   "nodes": [
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 137 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 164 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 28 | | Period 3 (2023-2025) | 76 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 138 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 165 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 28 | | Period 3 (2023-2025) | 77 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4881 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4885 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -2259,7 +2259,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 60,
+      "degree": 62,
       "path": "wiki/countries/canada.md",
       "meta": {
         "legal_system": "mixed",
@@ -2941,7 +2941,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 24,
+      "degree": 26,
       "path": "wiki/countries/india.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3060,7 +3060,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 50,
+      "degree": 52,
       "path": "wiki/countries/italy.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3162,7 +3162,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 6,
       "path": "wiki/countries/kosovo.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3801,7 +3801,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 59,
+      "degree": 61,
       "path": "wiki/countries/romania.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4004,7 +4004,7 @@
       "source_count": 18,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 96,
+      "degree": 98,
       "path": "wiki/countries/south-korea.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4039,7 +4039,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 67,
+      "degree": 69,
       "path": "wiki/countries/spain.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4297,7 +4297,7 @@
       "source_count": 0,
       "created": "2026-04-21",
       "updated": "2026-05-03",
-      "degree": 7,
+      "degree": 9,
       "path": "wiki/countries/united-arab-emirates.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4314,7 +4314,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 151,
+      "degree": 154,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4759,10 +4759,10 @@
         "audiovisual piracy"
       ],
       "summary": "Illegal IPTV and streaming piracy operations cover enforcement actions against services that capture, redistribute, resell, or broker access to protected live and on-demand audiovisual content without authorization. The conduct is cyber-enabled…",
-      "source_count": 11,
+      "source_count": 14,
       "created": "2026-05-04",
       "updated": "2026-05-08",
-      "degree": 43,
+      "degree": 51,
       "path": "wiki/crime-types/illegal-iptv-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -4801,10 +4801,10 @@
         "자금세탁"
       ],
       "summary": "Money laundering — particularly cryptocurrency-enabled money laundering through mixing services, illicit exchanges, and obfuscation tooling — is a cross-cutting cybercrime enabler that converts the proceeds of nearly every other cybercrime category…",
-      "source_count": 1,
+      "source_count": 3,
       "created": "2026-04-14",
-      "updated": "2026-04-14",
-      "degree": 27,
+      "updated": "2026-05-08",
+      "degree": 32,
       "path": "wiki/crime-types/money-laundering-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5420,7 +5420,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 54,
+      "degree": 55,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5744,7 +5744,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 74,
+      "degree": 75,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5760,7 +5760,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 59,
+      "degree": 60,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -8896,6 +8896,31 @@
       }
     },
     {
+      "id": "operation-switch-off-illegal-iptv-2026",
+      "type": "operation",
+      "title": "Operation Switch Off Illegal IPTV Takedown",
+      "title_ko": "Operation Switch Off illegal IPTV takedown",
+      "aliases": [
+        "Operation Switch Off",
+        "Operazione Switch Off"
+      ],
+      "summary": "Operation Switch Off was a 2026 follow-on action against a transnational illegal IPTV and streaming-piracy organization. ACE names the action as Operation Switch Off; Eurojust describes the same illegal-streaming services action as a case that…",
+      "source_count": 3,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 61,
+      "path": "wiki/operations/operation-switch-off-illegal-iptv-2026.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "takedown",
+        "outcome": "success",
+        "results_arrests": 0,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "operation-synergia-ii",
       "type": "operation",
       "title": "Operation Synergia II",
@@ -8953,8 +8978,8 @@
       "summary": "Operation Taken Down was a coordinated European action against a large illegal IPTV and streaming-piracy network. Eurojust records the action day on 26 November 2024 and describes cooperation between Italian, Croatian, Dutch, Romanian, Swedish,…",
       "source_count": 3,
       "created": "2026-05-04",
-      "updated": "2026-05-04",
-      "degree": 35,
+      "updated": "2026-05-08",
+      "degree": 41,
       "path": "wiki/operations/operation-taken-down-illegal-iptv-2024.md",
       "meta": {
         "status": "completed",
@@ -10195,6 +10220,26 @@
       }
     },
     {
+      "id": "city-of-london-police",
+      "type": "organization",
+      "title": "City of London Police",
+      "title_ko": "",
+      "aliases": [
+        "City of London police"
+      ],
+      "summary": "City of London Police is retained here as an operation-linked organization node because Eurojust names it as the United Kingdom authority in Operation Switch Off. This page is intentionally narrow and should not be read as a full institutional…",
+      "source_count": 1,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 8,
+      "path": "wiki/organizations/city-of-london-police.md",
+      "meta": {
+        "org_type": "local-police",
+        "status": "active",
+        "headquarters": "London, United Kingdom"
+      }
+    },
+    {
       "id": "council-of-europe",
       "type": "organization",
       "title": "Council of Europe",
@@ -10366,8 +10411,8 @@
       "summary": "Eurojust (유로저스트) is the European Union Agency for Criminal Justice Cooperation, headquartered in The Hague alongside Europol EC3. Established in 2002, Eurojust provides the judicial coordination dimension of cross-border criminal investigations.…",
       "source_count": 9,
       "created": "2026-04-08",
-      "updated": "2026-04-29",
-      "degree": 225,
+      "updated": "2026-05-08",
+      "degree": 230,
       "path": "wiki/organizations/eurojust.md",
       "meta": {
         "org_type": "regional-org",
@@ -10386,7 +10431,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 427,
+      "degree": 431,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -10858,7 +10903,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 132,
+      "degree": 135,
       "path": "wiki/organizations/interpol.md",
       "meta": {
         "org_type": "international-org",
@@ -10938,8 +10983,8 @@
       "summary": "The Servizio Polizia postale e per la sicurezza cibernetica is Italy's core national cybercrime police service within the Polizia di Stato structure. It is the main institutional anchor for cybercrime investigation, online child-protection…",
       "source_count": 3,
       "created": "2026-04-18",
-      "updated": "2026-04-29",
-      "degree": 22,
+      "updated": "2026-05-08",
+      "degree": 26,
       "path": "wiki/organizations/italy-polizia-postale.md",
       "meta": {
         "org_type": "national-unit",
@@ -11633,8 +11678,8 @@
       "summary": "Polizia di Stato is the Italian State Police institution that houses Italy's core cybercrime police service, Servizio Polizia postale e per la sicurezza cibernetica. Use this page for parent-institution attribution and broad State Police…",
       "source_count": 3,
       "created": "2026-04-26",
-      "updated": "2026-04-29",
-      "degree": 15,
+      "updated": "2026-05-08",
+      "degree": 18,
       "path": "wiki/organizations/polizia-di-stato.md",
       "meta": {
         "org_type": "national-police",
@@ -11705,8 +11750,8 @@
       "summary": "DIICOT (Direcția de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism) is Romania's specialized prosecutorial directorate responsible for investigating and prosecuting organized crime, terrorism, and cybercrime. It was formed in…",
       "source_count": 0,
       "created": "2026-04-10",
-      "updated": "2026-04-29",
-      "degree": 21,
+      "updated": "2026-05-08",
+      "degree": 24,
       "path": "wiki/organizations/romania-diicot.md",
       "meta": {
         "org_type": "prosecution-office",
@@ -11760,8 +11805,8 @@
       "summary": "Romanian Police is retained as an organization node in the international cybercrime cooperation graph. The current mandate field records: Legacy compatibility page for references to Romanian police cybercrime investigators. Country or jurisdiction…",
       "source_count": 3,
       "created": "2026-04-17",
-      "updated": "2026-04-29",
-      "degree": 16,
+      "updated": "2026-05-08",
+      "degree": 19,
       "path": "wiki/organizations/romanian-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -20488,7 +20533,7 @@
       "source_count": 0,
       "created": "2026-04-14",
       "updated": null,
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/sources/2025-12-01-eurojust-de-ch-crypto-mixer-takedown.md",
       "meta": {}
     },
@@ -20689,6 +20734,20 @@
       "meta": {}
     },
     {
+      "id": "2026-01-29_ace_operation-switch-off-illegal-iptv-ring",
+      "type": "source",
+      "title": "ACE Applauds Coordinated Global Law-Enforcement Action Against Industrial-Scale Illegal IPTV Ring",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary ACE provides the clearest public source for the Operation Switch Off label and adds private-sector cooperation context for the illegal IPTV enforcement action. It corroborates the Catania-led law-enforcement structure, Eurojust…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 4,
+      "path": "wiki/sources/2026-01-29_ace_operation-switch-off-illegal-iptv-ring.md",
+      "meta": {}
+    },
+    {
       "id": "2026-02-01_interpol-int_annual-report-2024-operation-first-light",
       "type": "source",
       "title": "INTERPOL Annual Report 2024",
@@ -20700,6 +20759,20 @@
       "updated": null,
       "degree": 2,
       "path": "wiki/sources/2026-02-01_interpol-int_annual-report-2024-operation-first-light.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-02-03_eurojust_successful-operation-illegal-streaming-services",
+      "type": "source",
+      "title": "Successful operation against illegal streaming services with millions of users worldwide",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Eurojust's official release is the anchor judicial-coordination source for Operation Switch Off. It does not use the Switch Off label in the title, but it confirms the same follow-on illegal-streaming action, the link to Operation…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 8,
+      "path": "wiki/sources/2026-02-03_eurojust_successful-operation-illegal-streaming-services.md",
       "meta": {}
     },
     {
@@ -21204,6 +21277,20 @@
       "updated": "2026-04-18",
       "degree": 5,
       "path": "wiki/sources/2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-04-18_justice-gov_cyber-ip-europe",
+      "type": "source",
+      "title": "Cyber & IP Europe",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The DOJ Cyber & IP Europe page summarizes the International Computer Hacking and Intellectual Property program's European capacity-building and case-support work. For this corpus, its key value is a January 2026 entry naming…",
+      "source_count": 0,
+      "created": "2026-04-18",
+      "updated": "2026-05-08",
+      "degree": 4,
+      "path": "wiki/sources/2026-04-18_justice-gov_cyber-ip-europe.md",
       "meta": {}
     },
     {
@@ -51352,6 +51439,12 @@
     },
     {
       "source": "illegal-iptv-ic",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "illegal-iptv-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -51437,6 +51530,24 @@
     {
       "source": "illegal-iptv-ic",
       "target": "2025-01-17_uefa_operation-kratos-international-anti-piracy-operation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "illegal-iptv-ic",
+      "target": "2026-01-29_ace_operation-switch-off-illegal-iptv-ring",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "illegal-iptv-ic",
+      "target": "2026-02-03_eurojust_successful-operation-illegal-streaming-services",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "illegal-iptv-ic",
+      "target": "2026-04-18_justice-gov_cyber-ip-europe",
       "kind": "body",
       "directed": false
     },
@@ -51568,6 +51679,12 @@
     },
     {
       "source": "money-laundering-ic",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -51634,7 +51751,31 @@
     },
     {
       "source": "money-laundering-ic",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
       "target": "south-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2025-12-01-eurojust-de-ch-crypto-mixer-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2026-01-29_ace_operation-switch-off-illegal-iptv-ring",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2026-02-03_eurojust_successful-operation-illegal-streaming-services",
       "kind": "body",
       "directed": false
     },
@@ -73929,6 +74070,258 @@
       "directed": false
     },
     {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "eurojust",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "illegal-iptv-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "italy-polizia-postale",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "italy-polizia-postale",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "polizia-di-stato",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "eurojust",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "interpol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "romania-diicot",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "romanian-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "city-of-london-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "italy",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "romania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "spain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "canada",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "kosovo",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "south-korea",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "india",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "united-arab-emirates",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "operation-taken-down-illegal-iptv-2024",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "operation-taken-down-illegal-iptv-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "italy-polizia-postale",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "polizia-di-stato",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "interpol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "romania-diicot",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "romanian-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "city-of-london-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "italy",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "romania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "spain",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "united-kingdom",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "canada",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "kosovo",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "south-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "india",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-switch-off-illegal-iptv-2026",
+      "target": "united-arab-emirates",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-synergia-ii",
       "target": "interpol-igci",
       "kind": "coordinating_body",
@@ -74515,6 +74908,18 @@
       "target": "united-kingdom",
       "kind": "participating_countries",
       "directed": true
+    },
+    {
+      "source": "operation-taken-down-illegal-iptv-2024",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-taken-down-illegal-iptv-2024",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "operation-taken-down-illegal-iptv-2024",
@@ -80025,6 +80430,42 @@
       "directed": false
     },
     {
+      "source": "city-of-london-police",
+      "target": "eurojust",
+      "kind": "cooperation_partners",
+      "directed": true
+    },
+    {
+      "source": "city-of-london-police",
+      "target": "europol-ec3",
+      "kind": "cooperation_partners",
+      "directed": true
+    },
+    {
+      "source": "city-of-london-police",
+      "target": "united-kingdom",
+      "kind": "country",
+      "directed": true
+    },
+    {
+      "source": "city-of-london-police",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "city-of-london-police",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "city-of-london-police",
+      "target": "2026-02-03_eurojust_successful-operation-illegal-streaming-services",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "council-of-europe",
       "target": "c-proc",
       "kind": "cooperation_partners",
@@ -80776,6 +81217,12 @@
     },
     {
       "source": "eurojust",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
       "target": "operation-eastwood",
       "kind": "operations_participated",
       "directed": true
@@ -81275,6 +81722,12 @@
     {
       "source": "europol-ec3",
       "target": "operation-taken-down-illegal-iptv-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
+      "target": "operation-switch-off-illegal-iptv-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -83524,6 +83977,12 @@
     },
     {
       "source": "interpol",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol",
       "target": "interpol-igci",
       "kind": "body",
       "directed": false
@@ -83819,6 +84278,12 @@
     {
       "source": "italy-polizia-postale",
       "target": "operation-taken-down-illegal-iptv-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "italy-polizia-postale",
+      "target": "operation-switch-off-illegal-iptv-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -85570,6 +86035,12 @@
     },
     {
       "source": "polizia-di-stato",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "polizia-di-stato",
       "target": "italy-polizia-postale",
       "kind": "body",
       "directed": false
@@ -85804,6 +86275,12 @@
     },
     {
       "source": "romania-diicot",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "romania-diicot",
       "target": "romania-public-ministry",
       "kind": "parent_org",
       "directed": true
@@ -85943,6 +86420,12 @@
     {
       "source": "romanian-police",
       "target": "romania-phishing-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "romanian-police",
+      "target": "operation-switch-off-illegal-iptv-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -95097,6 +95580,18 @@
       "directed": false
     },
     {
+      "source": "2026-01-29_ace_operation-switch-off-illegal-iptv-ring",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-29_ace_operation-switch-off-illegal-iptv-ring",
+      "target": "illegal-iptv-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2026-02-01_interpol-int_annual-report-2024-operation-first-light",
       "target": "operation-first-light-2024",
       "kind": "pages_updated",
@@ -95105,6 +95600,36 @@
     {
       "source": "2026-02-01_interpol-int_annual-report-2024-operation-first-light",
       "target": "operation-first-light-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-02-03_eurojust_successful-operation-illegal-streaming-services",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-03_eurojust_successful-operation-illegal-streaming-services",
+      "target": "operation-taken-down-illegal-iptv-2024",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-03_eurojust_successful-operation-illegal-streaming-services",
+      "target": "illegal-iptv-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-03_eurojust_successful-operation-illegal-streaming-services",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-02-03_eurojust_successful-operation-illegal-streaming-services",
+      "target": "operation-taken-down-illegal-iptv-2024",
       "kind": "body",
       "directed": false
     },
@@ -95659,6 +96184,24 @@
       "target": "operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u",
       "kind": "pages_updated",
       "directed": true
+    },
+    {
+      "source": "2026-04-18_justice-gov_cyber-ip-europe",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-18_justice-gov_cyber-ip-europe",
+      "target": "illegal-iptv-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-18_justice-gov_cyber-ip-europe",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "2026-04-18_justice-gov_federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos",
