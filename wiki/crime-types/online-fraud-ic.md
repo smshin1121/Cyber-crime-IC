@@ -46,6 +46,7 @@ notable_operations:
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -55,7 +56,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 32
+source_count: 33
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -89,6 +90,7 @@ sources:
   - "[[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers]]"
   - "[[2022-11-10_eurojust_massive-investment-fraud-hundreds-thousands-victims]]"
   - "[[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million]]"
+  - "[[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -184,3 +186,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [30] | [[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers\|Justice Department Announces Coordinated, Nationwide Actions to Combat North Korean Remote Information Technology Workers' Illicit Revenue Generation Schemes]] | US DOJ (OPA), Press Release 25-680 | 2025-06-30 | https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote |
 | [31] | [[2022-11-10_eurojust_massive-investment-fraud-hundreds-thousands-victims\|Eurojust coordinates action against massive investment fraud with hundreds of thousands of victims worldwide]] | Eurojust | 2022-11-10 | https://www.eurojust.europa.eu/news/eurojust-coordinates-action-against-massive-investment-fraud-hundreds-thousands-victims |
 | [32] | [[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million\|International takedown of cryptocurrency fraud network laundering over EUR 700 million]] | Europol | 2025-11-26 | https://www.europol.europa.eu/media-press/newsroom/news/international-takedown-of-cryptocurrency-fraud-network-laundering-over-eur-700-million |
+| [33] | [[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm\|Busted: Police shut down Bangkok-based investment scam centre targeting Australians]] | Australian Federal Police | 2025-06-17 | https://www.afp.gov.au/news-centre/media-release/busted-police-shut-down-bangkok-based-investment-scam-centre-targeting |

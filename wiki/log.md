@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | AFP 2025-06-17 — AFP-RTP Bangkok investment scam centre takedown (Operation Firestorm, AU-TH bilateral)
+- Source: `raw/press-releases/2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm.md` (AFP press release; tier-1 primary)
+- Pages created: [[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm]] (source summary), [[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]] (operation, case_id `CYB-2025-212`)
+- Pages updated: [[australia]], [[thailand]] (operations_participated); [[australia-afp]], [[thailand-royal-police]] (operations_participated); [[online-fraud-ic]], [[money-laundering-ic]] (notable_operations + sources + body Reference rows); related_operations cross-links to [[india-cbi-noida-tech-support-scam-takedown-2025]], [[korea-cambodia-philippines-73-extradition-2026]], [[uk-nigeria-meta-scam-centre-disruption-2026]]; index/master indexes reconciled.
+- Key findings: 2025-06-16 RTP execution of search warrants at six-bedroom Bangkok-suburb residential property operating as investment scam boiler room; 13 men arrested (5 Australian, 6 UK, 1 Canadian, 1 South African) under Section 210 Thai Criminal Code; AUD 1,900,000+ in suspected stolen funds amassed in two months (April-June 2025); fake high-yield fixed-income bond pitches with fraudulent international-financial-firm representations + misappropriated authentic financial services licence + online face-to-face video meetings + cryptocurrency-laundering downstream. First Thailand takedown under AFP JPC3 Operation Firestorm (launched August 2024) — three prior takedowns in Manila. First wiki record of: (a) Operation Firestorm framework; (b) AFP Joint Policing Cybercrime Coordination Centre (JPC3); (c) AFP International Network as discrete IC channel class; (d) Australia-Thailand bilateral cybercrime cooperation pattern.
+
 ## [2026-05-09] enrichment | Europol 2025-11-26 — Phase 2 of EUR 700M+ crypto-fraud network takedown (affiliate-marketing infrastructure, BG/IL/MT added)
 - Source: `raw/press-releases/2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million.md` (Europol newsroom press release; tier-1 primary)
 - Pages created: [[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million]] (source summary)

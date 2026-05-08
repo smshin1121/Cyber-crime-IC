@@ -67,13 +67,14 @@ missing_fields:
   - "indictments (cited release does not enumerate downstream charging in Nigeria)"
   - "victim count"
 related_cases:
-  []
+
 related_operations:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
+  - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "The 2026 UK-Nigeria-Meta pattern reproduces in microcosm the broader 2026 cryptocurrency-investment-fraud cooperation shape: requesting jurisdiction (UK) supplies intelligence, host jurisdiction (Nigeria) executes the arrests in-country, and a global platform (Meta) provides platform-level account-removal and methodology intelligence. The Korea-Cambodia-Philippines extradition cycle and the US-UAE-China-Thailand pig-butchering takedown follow the same shape with different actor sets."
   - "Crypto-investment scam syndicates operating from Nigerian source jurisdictions are now a public-record cooperation target for UK NCA on a 2026 timeline, complementing prior Black-Axe / BEC enforcement in the wiki corpus."

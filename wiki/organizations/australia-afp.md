@@ -37,6 +37,7 @@ operations_participated:
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
 org_type: national-agency
 parent_org: ""
 source_count: 6

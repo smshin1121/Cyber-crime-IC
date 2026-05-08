@@ -24,7 +24,7 @@ ic_capacity:
 iso_code: TH
 key_agencies:
   - "[[thailand-royal-police]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
 
@@ -35,6 +35,7 @@ operations_participated:
   - "[[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
 region: southeast-asia
 source_count: 3
 sources:
@@ -43,10 +44,10 @@ title: "Kingdom of Thailand"
 treaty_memberships:
   - date: ""
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: non-party
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

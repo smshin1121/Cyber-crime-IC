@@ -95,11 +95,14 @@ missing_fields:
   - "exact total US-victim losses (only the FBI's national-level call-centre-scam total of USD 1.9 billion was cited contextually)"
   - "specific call-centre name (the 'FirstIdea' name reported by third-party outlets is not in the cited NCA release)"
   - "specific Indian court jurisdiction handling post-arrest proceedings"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
-challenges_encountered: []
+  - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "First wiki record explicitly capturing the NCA International Liaison Officer network (US, Delhi, Washington DC) as the primary inter-jurisdictional intelligence-sharing channel for a transnational call-centre takedown."
   - "First wiki record referencing the UK-US operational arrangement on call-centre fraud (2024) as the foundational bilateral instrument for cross-Atlantic call-centre-fraud enforcement cooperation."

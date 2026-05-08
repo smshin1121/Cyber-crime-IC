@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (704)
+# Sources (705)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -144,6 +144,7 @@ updated: 2026-04-14
 | [[2025-06-25_eurojust-europa-eu_large-scale-fraud-using-trusted-online-seller-accounts-uncovered]] | press-release | Eurojust | ? | high | ? |
 | [[2025-06-23_interpol_africa-cyberthreat-assessment-report-2025]] | report | INTERPOL | ? | high | ? |
 | [[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil]] | press-release | Singapore Police Force (SPF) Public Affairs Department | ? | high | ? |
+| [[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm]] | press-release | Australian Federal Police (AFP) | ? | high | ? |
 | [[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]] | press-release | Europol | ? | high | ? |
 | [[2025-04-01_kaspersky-com_kaspersky-supports-interpol-operation-secure]] | press-release | Kaspersky | ? | medium | ? |
 | [[2025-04-01_helpnetsecurity-com_operation-secure-disrupts-global-infostealer-malware-operations]] | news | Help Net Security | ? | medium | ? |
