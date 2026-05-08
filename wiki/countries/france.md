@@ -33,6 +33,7 @@ notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
+  - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

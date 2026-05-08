@@ -29,6 +29,7 @@ notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
+  - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:

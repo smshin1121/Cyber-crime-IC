@@ -31,6 +31,7 @@ notable_cases:
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
+  - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
 operations_participated:
   - "[[emotet-takedown]]"
   - "[[darkmarket-takedown]]"

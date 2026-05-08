@@ -15,6 +15,7 @@ operations_using:
   - "[[operation-token-mirrors-2026]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
+  - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
 ---
 ## Summary
 

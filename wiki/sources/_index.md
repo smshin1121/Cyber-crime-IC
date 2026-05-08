@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (698)
+# Sources (699)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -127,6 +127,7 @@ updated: 2026-04-14
 | [[2025-07-24_bleepingcomputer-com_law-enforcement-seizes-blacksuit-ransomware-leak-sites]] | news | BleepingComputer | 3 | medium-high | ? |
 | [[2025-07-16_polizei-sachsen_operation-eastwood]] | press-release | Polizei Sachsen / German Federal Criminal Police Office | ? | high | ? |
 | [[2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down]] | press-release | Eurojust | ? | high | ? |
+| [[2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy]] | press-release | US Attorney's Office, District of Oregon (USAO-OR) | ? | high | ? |
 | [[2025-07-16_cyberscoop_noname05716-disruption-operation-eastwood-europol]] | news | CyberScoop | ? | medium | ? |
 | [[2025-07-11_tga_operation-pangea-xvii-counterfeit-goods]] | press-release | Therapeutic Goods Administration | ? | high | ? |
 | [[2025-07-11_nca-uk_major-scam-centre-targeted-after-international-operation]] | press-release | UK National Crime Agency (NCA) | ? | high | ? |

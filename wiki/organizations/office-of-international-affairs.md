@@ -44,6 +44,7 @@ notable_cases:
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-dragomir-romanian-iab]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
+  - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
 ---
 ## Summary
 

@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | USAO-OR 2025-07-16 — US v. Vardanyan / Ryuk ransomware (Armenian national extradited from Ukraine)
+- Source: `raw/press-releases/2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy.md` (USAO-OR press release; tier-1 primary)
+- Pages created: [[2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy]] (source summary), [[us-v-vardanyan-avetisyan-ryuk-ransomware]] (case)
+- Pages updated: [[united-states]], [[ukraine]], [[france]], [[armenia]] (notable_cases); [[fbi]], [[us-doj]], [[office-of-international-affairs]] (notable_cases); [[ransomware-ic]] (notable_cases + sources + body Reference row); [[extradition]] (cases_using); index/master indexes reconciled.
+- Key findings: Karen Serobovich Vardanyan (Armenia, 33) arrested in Kyiv April 2025 at FBI request, extradited from Ukraine to US 2025-06-18; Levon Avetisyan (Armenia, 45) in custody France pending US extradition request; Lyulyava and Prykhodchenko (Ukraine, 53 each) at large. Charges: conspiracy + computer fraud + extortion. Activity period March 2019 – September 2020; ~1,610 BTC (USD 15M+ at time) received in ransom payments. First wiki record explicitly capturing a Ryuk ransomware US prosecution thread; first wiki record of Ukraine-as-extradition-source pattern in Conti-family ransomware prosecution corpus (alongside Spain/Stryzhak, Georgia/Zolotarjovs, France-pending/Avetisyan).
+
 ## [2026-05-09] ingest | SPF 2025-06-17 — Operation Cryptoscam (Singapore-Brazil-INTERPOL crypto-tracing cooperation, May 2025 FPB action)
 - Source: `raw/press-releases/2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil.md` (Singapore Police Force press release; tier-1 primary)
 - Pages created: [[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil]] (source summary), [[spf-fpb-operation-cryptoscam-2025]] (operation, case_id `CYB-2025-207`)
