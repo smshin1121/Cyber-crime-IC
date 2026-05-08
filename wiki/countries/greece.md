@@ -7,6 +7,7 @@ legal_system: not-assessed
 operations_participated:
   - "[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-endgame-phase3]]"
 region: southern-europe
 source_count: 0
 sources:

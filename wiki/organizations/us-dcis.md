@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-states]]"
-jurisdiction: [[united-states]]
+jurisdiction:
+  -
+    - united-states
 created: 2026-04-10
 established: 1981-04-20
 frameworks_administered:
@@ -14,7 +16,7 @@ frameworks_administered:
 headquarters: "Alexandria, Virginia, United States"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "Investigate criminal activities involving US Department of Defense Components"
 mechanisms_operated:
 
@@ -26,6 +28,7 @@ operations_participated:
   - "[[operation-endgame-phase2]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-power-off]]"
+  - "[[operation-endgame-phase3]]"
 org_type: national-unit
 parent_org: "[[dod-inspector-general]]"
 source_count: 4
@@ -34,7 +37,7 @@ sources:
 status: active
 title: "US Defense Criminal Investigative Service"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-08
 ---
 ## Summary
 

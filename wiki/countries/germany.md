@@ -56,6 +56,7 @@ operations_participated:
   - "[[operation-weleakinfo-com-domain-name-seized]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[operation-endgame-phase3]]"
 region: western-europe
 source_count: 5
 sources:
@@ -68,11 +69,11 @@ title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
 updated: 2026-05-08

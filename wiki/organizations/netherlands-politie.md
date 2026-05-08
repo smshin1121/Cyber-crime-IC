@@ -15,7 +15,7 @@ frameworks_administered:
 headquarters: "Driebergen-Rijsenburg, Netherlands"
 key_roles:
 
-last_verified: 2026-04-18
+last_verified: 2026-05-08
 mandate: "Investigate complex and high-impact cybercrime cases with national and international dimensions."
 mechanisms_operated:
 
@@ -60,6 +60,7 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
   - "[[operation-hyperion]]"
+  - "[[operation-endgame-phase3]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4
@@ -71,7 +72,7 @@ sources:
 status: active
 title: "Dutch National Police - Team High Tech Crime (THTC)"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Summary
 

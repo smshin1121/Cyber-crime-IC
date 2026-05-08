@@ -20,6 +20,7 @@ operations_participated:
   - "[[operation-us-v-beresford-man]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[operation-endgame-phase3]]"
 region: oceania
 source_count: 0
 sources:

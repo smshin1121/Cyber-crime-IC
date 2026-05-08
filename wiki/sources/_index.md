@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (684)
+# Sources (685)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -78,6 +78,7 @@ updated: 2026-04-14
 | [[2025-12-01_coindesk-com_cryptomixer-takedown]] | news | CoinDesk | ? | medium | ? |
 | [[2025-12-01_amlintelligence-com_cryptomixer-used-to-mix-13bn-in-bitcoin]] | news | AML Intelligence | ? | medium | ? |
 | [[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]] | press-release | Eurojust | ? | high | ? |
+| [[2025-11-13_eurojust_operation-endgame-phase3-malware-operation]] | press-release | Eurojust | ? | high | ? |
 | [[2025-11-07_trmlabs-com_eurojust-coordinates-global-crackdown-on-eu600-million-crypto-investment-fraud-network]] | report | TRM Labs | ? | medium | ? |
 | [[2025-11-06_thepaypers-com_crypto-scammers-steal-over-eur-600-million-now-arrested]] | news | The Paypers | ? | medium | ? |
 | [[2025-11-06_ifcreview-com_crypto-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | report | IFC Review | ? | medium | ? |

@@ -1,28 +1,21 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: OCLCTIC (Office central de lutte contre la criminalité liée aux technologies
-    de l'information et de la communication)
-  mlat: Ministère de la Justice — Direction des affaires criminelles et des grâces
-    (DACG)
-cooperation_assessment: France is *highly likely* one of the most capable cybercrime
-  cooperation partners in Europe, with a mature 24/7 Point of Contact at OCLCTIC operational
-  since 2000, a specialised prosecution office (JUNALCO), and deep integration into
-  Europol/Eurojust frameworks. LOPMI (2023) significantly expanded procedural powers
-  and imposes complaint-filing obligations on cyberattack victims.
+  budapest: "OCLCTIC (Office central de lutte contre la criminalité liée aux technologies"
+  mlat: "Ministère de la Justice — Direction des affaires criminelles et des grâces"
+cooperation_assessment: "France is *highly likely* one of the most capable cybercrime"
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: Regulated by Code des postes et des communications électroniques;
-    subject to CJEU rulings limiting general retention
-  primary_law: Godfrain Law (Loi n° 88-19 du 5 janvier 1988); Code pénal Arts. 323-1
-    à 323-7; LOPMI (Loi n° 2023-22 du 24 janvier 2023)
-  primary_law_date: '1988-01-05'
+  data_retention: "Regulated by Code des postes et des communications électroniques;"
+  primary_law: "Godfrain Law (Loi n° 88-19 du 5 janvier 1988); Code pénal Arts. 323-1"
+  primary_law_date: 1988-01-05
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
-  - real-time-collection
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
+    - real-time-collection
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -31,44 +24,46 @@ ic_capacity:
   rating: high
 iso_code: FR
 key_agencies:
-- '[[france-gendarmerie]]'
-- '[[france-national-police]]'
-- '[[france-junalco]]'
-last_verified: '2026-04-14'
+  - "[[france-gendarmerie]]"
+  - "[[france-national-police]]"
+  - "[[france-junalco]]"
+last_verified: 2026-05-08
 legal_system: civil-law
 notable_cases:
-- '[[de-fr-online-fraud-group-2026]]'
+  - "[[de-fr-online-fraud-group-2026]]"
 operations_participated:
-- '[[alphabay-takedown]]'
-- '[[emotet-takedown]]'
-- '[[proxy-service-takedown-2026-03]]'
-- '[[operation-dark-huntor]]'
-- '[[operation-eur-600m-crypto-scam-network-2025]]'
-- '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
-- '[[operation-avalanche]]'
+  - "[[alphabay-takedown]]"
+  - "[[emotet-takedown]]"
+  - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-eur-600m-crypto-scam-network-2025]]"
+  - "[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+  - "[[operation-avalanche]]"
+  - "[[operation-endgame-phase3]]"
 region: western-europe
 source_count: 6
 sources:
-- '[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]'
-- '[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]'
-- '[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]]'
-- '[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels]]'
-- '[[2023-11-23_legifrance-gouv-fr_d-cret-n-2023-1083-du-23-novembre-2023-portant-cr-ation-de-l-office-anti-cybercr]]'
-- '[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]'
-title: French Republic
+  - "[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]"
+  - "[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]"
+  - "[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]]"
+  - "[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels]]"
+  - "[[2023-11-23_legifrance-gouv-fr_d-cret-n-2023-1083-du-23-novembre-2023-portant-cr-ation-de-l-office-anti-cybercr]]"
+  - "[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]"
+title: "French Republic"
 treaty_memberships:
-- date: '2006-01-10'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2006-01-10
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 France is a **foundational partner** in European cybercrime cooperation. It was one of the early ratifying parties to the [[budapest-convention|Budapest Convention on Cybercrime]] (ratified 10 January 2006; entry into force 1 May 2006) and operates a mature 24/7 Point of Contact at the **OCLCTIC** since 2000.

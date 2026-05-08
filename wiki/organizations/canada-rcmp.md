@@ -15,7 +15,7 @@ frameworks_administered:
 headquarters: "Ottawa, Ontario, Canada"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "Enable a coordinated Canadian law enforcement response to cybercrime by coordinating"
 mechanisms_operated:
 
@@ -41,6 +41,7 @@ operations_participated:
   - "[[operation-card-shop]]"
   - "[[operation-hyperion]]"
   - "[[operation-disruptor]]"
+  - "[[operation-endgame-phase3]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
 source_count: 3
@@ -49,7 +50,7 @@ sources:
 status: active
 title: "RCMP — National Cybercrime Coordination Centre (NC3)"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Summary
 

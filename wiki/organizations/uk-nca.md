@@ -15,7 +15,7 @@ frameworks_administered:
 headquarters: "London, United Kingdom"
 key_roles:
 
-last_verified: 2026-04-18
+last_verified: 2026-05-08
 mandate: "Lead UK law enforcement agency for tackling serious and organised crime,"
 mechanisms_operated:
 
@@ -58,6 +58,7 @@ operations_participated:
   - "[[operation-hyperion]]"
   - "[[operation-disruptor]]"
   - "[[operation-chakra-ii]]"
+  - "[[operation-endgame-phase3]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

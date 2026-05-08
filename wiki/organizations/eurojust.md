@@ -14,7 +14,7 @@ frameworks_administered:
 headquarters: "The Hague, Netherlands"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "EU judicial cooperation agency facilitating cross-border criminal investigations"
 mechanisms_operated:
 
@@ -73,6 +73,7 @@ operations_participated:
   - "[[romania-phishing-takedown-2024]]"
   - "[[operation-disruptor]]"
   - "[[operation-kraken-ghost-platform]]"
+  - "[[operation-endgame-phase3]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

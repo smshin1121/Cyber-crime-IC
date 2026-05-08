@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[australia]]"
 jurisdiction:
-  -
-    - australia
+
 created: 2026-04-10
 established: 1979
 frameworks_administered:
@@ -16,7 +15,7 @@ frameworks_administered:
 headquarters: "Canberra, Australia"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "Lead Australian federal law enforcement response to cybercrime through Cyber"
 mechanisms_operated:
 
@@ -35,6 +34,7 @@ operations_participated:
   - "[[operation-power-off]]"
   - "[[operation-morpheus]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-endgame-phase3]]"
 org_type: national-agency
 parent_org: ""
 source_count: 6
@@ -43,7 +43,7 @@ sources:
 status: active
 title: "Australian Federal Police — Cyber Command"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Summary
 

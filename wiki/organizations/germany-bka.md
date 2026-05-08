@@ -15,7 +15,7 @@ frameworks_administered:
 headquarters: "Wiesbaden, Germany"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "Germany's federal criminal police; investigates serious and organized crime"
 mechanisms_operated:
 
@@ -54,6 +54,7 @@ operations_participated:
   - "[[operation-card-shop]]"
   - "[[operation-disruptor]]"
   - "[[operation-chakra-ii]]"
+  - "[[operation-endgame-phase3]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

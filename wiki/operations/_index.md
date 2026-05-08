@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (145 canonical / 27 absorbed / 172 records)
+# Operations (146 canonical / 27 absorbed / 173 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (145)
+## Canonical Operations (146)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -133,6 +133,7 @@ updated: 2026-04-14
 | [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | umbrella | 5 | 4.50 | 2 |
 | [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | umbrella | 5 | 4.60 | 2 |
 | [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | umbrella | 5 | 4.70 | 2 |
+| [[operation-endgame-phase3]] | CYB-2025-201 | 3 | completed | phase | 1 | 4.00 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |

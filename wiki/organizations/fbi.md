@@ -49,6 +49,7 @@ operations_participated:
   - "[[operation-disruptor]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-endgame-phase3]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

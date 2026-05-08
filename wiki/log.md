@@ -687,3 +687,16 @@
   - 73-person cohort spans five distinct cyber-enabled crime types and includes a 15-year-old data-breach extradition (~1.75M records, 송환까지 15년) — signalling Korean willingness to extradite legacy cyber cases.
   - Cohort breakdown verbatim: 보이스피싱 24/368 victims/~₩51.7B, 로맨스스캠 14/53 victims/~₩2.3B, 불법 도박사이트 운영 3/scale ~₩5.9T, 2011 capital-firm 데이터 침해 1/~1.75M records, 자동차 대출금 사기 3/2022-2024/~₩12B, 성착취 24 (overlap with voice-phishing).
   - Korea.kr unfetchable across all available tooling on 2026-05-08 → flagged as open follow-up; raw archive built from same-day Kyunghyang verbatim coverage with explicit fidelity caveat in source page.
+
+
+## [2026-05-08] ingest | Eurojust 2025-11-13 — Operation Endgame Phase 3 (infostealer + RAT + botnet)
+- Source: raw/press-releases/2025-11-13_eurojust_operation-endgame-phase3-malware-operation.md (Eurojust press release; participating-authorities roster preserved verbatim via WebFetch)
+- Pages created: wiki/operations/operation-endgame-phase3.md (third phase under umbrella `[[operation-endgame]]`), wiki/sources/2025-11-13_eurojust_operation-endgame-phase3-malware-operation.md
+- Pages updated: 9 country pages (DE, FR, NL, DK, UK, US, AU, CA, GR — `operations_participated`), 13 organization pages (germany-bka, germany-frankfurt-prosecutor, france-gendarmerie, netherlands-politie, denmark-police, uk-nca, us-doj, fbi, us-dcis, australia-afp, canada-rcmp, europol-ec3, eurojust — `operations_participated`), 2 crime-type pages (malware-ic, ransomware-ic — `notable_operations` + sources), 3 sister/parent operations (operation-endgame, operation-endgame-phase1, operation-endgame-phase2 — `related_operations`). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - 1,025 servers worldwide shut down; 20 domains seized; 11 searches; login data from 100,000+ cryptocurrency wallets recovered (stolen but not yet exploited per Eurojust); one main RAT-line suspect arrested in Greece.
+  - Targeted three named malware families: Rhadamanthys (infostealer-as-a-service since 2022), VenomRAT (RAT delivered via phishing), and Elysium (associated botnet).
+  - Phase 3 shifts the umbrella's targeting from dropper/loader infrastructure (Phase 1, 2024-05) and ransomware-affiliate kill chain (Phase 2, 2025-05) to the initial-access stack (infostealer + RAT + botnet) while maintaining Europol+Eurojust coordination and the DE/FR/NL/DK/UK/US core-partner roster.
+  - Greece enters the Endgame partner roster for the first time in this phase via the RAT-suspect arrest.
+  - Tier-2 reporting (CyberNews, eSecurity Planet) widens the participating-countries roster to include Belgium and Lithuania alongside the 9 named in the cited Eurojust release; per project rule those two countries are not added to `participating_countries` until a tier-1 source confirms them — flagged as open follow-up.
+  - Korean involvement not named — South Korea not added to `participating_countries`.

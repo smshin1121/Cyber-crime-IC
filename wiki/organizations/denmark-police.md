@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[denmark]]"
-jurisdiction: [[denmark]]
+jurisdiction:
+  -
+    - denmark
 created: 2026-04-10
 established: 2022-01-01
 frameworks_administered:
@@ -14,7 +16,7 @@ frameworks_administered:
 headquarters: "Copenhagen, Denmark"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "NC3 is the specialized cybercrime center within Denmark's National Special"
 mechanisms_operated:
 
@@ -27,6 +29,7 @@ operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[operation-endgame-phase2]]"
   - "[[darkmarket-takedown]]"
+  - "[[operation-endgame-phase3]]"
 org_type: national-unit
 parent_org: "[[denmark-national-police]]"
 source_count: 2
@@ -35,7 +38,7 @@ sources:
 status: active
 title: "National Cyber Crime Center (NC3) / National Special Crime Unit (NSK)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-08
 ---
 ## Summary
 

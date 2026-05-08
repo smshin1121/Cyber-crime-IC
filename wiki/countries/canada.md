@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "RCMP National Cybercrime Coordination Centre (NC3)"
   mlat: "International Assistance Group (IAG), Department of Justice Canada"
@@ -23,11 +23,11 @@ ic_capacity:
   rating: high
 iso_code: CA
 key_agencies:
-  []
+
 last_verified: 2026-05-08
 legal_system: mixed
 notable_cases:
-  []
+
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -37,21 +37,20 @@ operations_participated:
   - "[[doublevpn-takedown]]"
   - "[[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-endgame-phase3]]"
 region: north-america
 source_count: 5
 sources:
-  []
+
 title: Canada
 treaty_memberships:
   - date: 2015-07-08
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: ""
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: unknown
 type: country
 updated: 2026-05-08

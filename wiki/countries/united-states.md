@@ -141,6 +141,7 @@ operations_participated:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[operation-endgame-phase3]]"
 region: north-america
 source_count: 1
 sources:

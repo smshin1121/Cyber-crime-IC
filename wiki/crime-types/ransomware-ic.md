@@ -1,12 +1,17 @@
 ---
 type: crime-type
 title: "Ransomware — International Cooperation Perspective"
-aliases: ["ransomware", "ransomware-as-a-service", "RaaS"]
-crime_category: "cyber-dependent"
-typical_ic_challenges: []
+aliases:
+  - ransomware
+  - ransomware-as-a-service
+  - RaaS
+crime_category: cyber-dependent
+typical_ic_challenges:
+
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-typical_mechanisms: []
+typical_mechanisms:
+
 key_organizations:
   - "[[europol-ec3]]"
   - "[[eurojust]]"
@@ -22,13 +27,16 @@ notable_operations:
   - "[[operation-checkmate-blacksuit]]"
   - "[[operation-synergia-ii]]"
   - "[[operation-serengeti]]"
-notable_cases: []
+  - "[[operation-endgame-phase3]]"
+notable_cases:
+
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
-  problem_jurisdictions: []
+  problem_jurisdictions:
+
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 8
+source_count: 9
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -38,8 +46,9 @@ sources:
   - "[[2025-05-22-doj-qakbot-gallyamov-indictment]]"
   - "[[2025-08-11-doj-blacksuit-royal-ransomware-takedown]]"
   - "[[2024-11-06-interpol-operation-synergia-ii]]"
+  - "[[2025-11-13_eurojust_operation-endgame-phase3-malware-operation]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-05-08
 ---
 ## Summary
 
@@ -214,3 +223,4 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [6] | Leader of Qakbot Malware Conspiracy Indicted — Gallyamov | US DOJ | 2025-05-22 | [원본](https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme) |
 | [7] | Coordinated Disruption Actions Against BlackSuit (Royal) Ransomware — Operation Checkmate | US DOJ | 2025-08-11 | [원본](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal) |
 | [8] | INTERPOL cyber operation takes down 22,000 malicious IP addresses — Operation Synergia II | INTERPOL | 2024-11-06 | [원본](https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses) |
+| [9] | [[2025-11-13_eurojust_operation-endgame-phase3-malware-operation\|Authorities continue to protect citizens from cybercriminals during major malware operation]] | Eurojust | 2025-11-13 | https://www.eurojust.europa.eu/news/authorities-continue-protect-citizens-cybercriminals-during-major-malware-operation |

@@ -54,6 +54,7 @@ operations_participated:
   - "[[operation-us-v-monroeville-man]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[operation-endgame-phase3]]"
 region: western-europe
 source_count: 5
 sources:
@@ -66,11 +67,11 @@ title: "Kingdom of the Netherlands"
 treaty_memberships:
   - date: 2006-11-16
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
 updated: 2026-05-08
