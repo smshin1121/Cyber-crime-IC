@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "Cyberpolice of Ukraine"
   mlat: "Office of the Prosecutor General"
@@ -28,6 +28,7 @@ last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
+  - "[[us-v-stryzhak-nefilim]]"
 operations_participated:
   - "[[emotet-takedown]]"
   - "[[darkmarket-takedown]]"
@@ -37,18 +38,16 @@ operations_participated:
 region: eastern-europe
 source_count: 3
 sources:
-  []
+
 title: Ukraine
 treaty_memberships:
   - date: 2005-09-10
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
 updated: 2026-05-09

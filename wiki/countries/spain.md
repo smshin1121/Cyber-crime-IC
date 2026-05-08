@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "Guardia Civil / Cuerpo Nacional de Policía"
   mlat: "Subdirección General de Cooperación Jurídica Internacional, Ministerio de"
@@ -26,10 +26,10 @@ iso_code: ES
 key_agencies:
   - "[[spain-guardia-civil]]"
   - "[[spain-national-police]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-  []
+  - "[[us-v-stryzhak-nefilim]]"
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
@@ -51,15 +51,13 @@ treaty_memberships:
   - date: 2010-06-03
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

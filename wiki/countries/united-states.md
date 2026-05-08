@@ -32,6 +32,7 @@ legal_system: common-law
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"
+  - "[[us-v-stryzhak-nefilim]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

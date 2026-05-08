@@ -40,6 +40,7 @@ sources:
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"
+  - "[[us-v-stryzhak-nefilim]]"
 ---
 ## Summary
 

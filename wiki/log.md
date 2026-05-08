@@ -816,3 +816,16 @@
   - Concurrent State Department reward offers: USD 2M (CARR), USD 10M (NoName); concurrent multi-agency Joint Cybersecurity Advisory by FBI/CISA/NSA/DOE/EPA/DC3.
   - FBI Los Angeles Field Office's "Operation Red Circus" named as the umbrella US enforcement frame against Russian state-sponsored cyberthreats.
   - Korean involvement not named.
+
+
+## [2026-05-09] ingest | DOJ 2025-12-18 — U.S. v Stryzhak (Nefilim ransomware affiliate plea, US-Spain extradition)
+- Source: raw/press-releases/2025-12-18_justice-gov_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware.md (DOJ Press Release 25-1224, full-text via TLS-spoof)
+- Pages created: wiki/cases/us-v-stryzhak-nefilim.md (new case page; first wiki entry for the Stryzhak Nefilim affiliate prosecution distinct from the Tymoshchuk administrator-tier indictment), wiki/sources/2025-12-18_justice-gov_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware.md
+- Pages updated: 3 country pages (US, ES, UA — `notable_cases`), 3 organization pages (us-doj, fbi, office-of-international-affairs — `notable_cases`), 2 crime-type pages (ransomware-ic — `notable_cases` + sources; hacking-ic — `notable_cases`). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - Artem Aleksandrovych Stryzhak, 35, Ukrainian national of Barcelona Spain, pleaded guilty 2025-12-18 in EDNY to one count of conspiracy to commit computer fraud (max 10 years). Sentencing scheduled 2026-05-06.
+  - US-Spain bilateral extradition: arrest June 2024 in Spain → US custody 2025-04-30 (~10-month transit, comparable to but slightly faster than the Volkov US-Italy and Zolotarjovs US-Georgia pathways).
+  - Affiliate-tier compensation structure documented verbatim: 20% revenue split with Nefilim administrators since June 2021. Targets US/Canada/Australia companies with USD 100M+ revenue (later raised to USD 200M+).
+  - Nefilim victim-leak site named verbatim: "Corporate Leaks".
+  - Co-conspirator Volodymyr Tymoshchuk (administrator-tier) remains a fugitive with US State Department TOC reward of up to USD 11 million.
+  - Adds a third 2024-2025 European-arrest US-extradition pathway record alongside Volkov (Italy) and Zolotarjovs (Georgia), consolidating the Schengen-region pattern for Russian-and-Ukrainian-resident ransomware-affiliate prosecution.

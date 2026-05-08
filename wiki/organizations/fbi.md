@@ -24,6 +24,7 @@ member_states: 0
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"
+  - "[[us-v-stryzhak-nefilim]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:
