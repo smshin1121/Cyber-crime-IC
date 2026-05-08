@@ -48,7 +48,7 @@ criminalization_status:
   definition_varies: true
   problem_jurisdictions: []
 estimated_annual_loss: "South Korea reports large recurring domestic losses; global phone-enabled fraud loss is not consistently separated from wider online-fraud statistics."
-source_count: 12
+source_count: 13
 sources:
   - "[[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]]"
   - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
@@ -57,13 +57,14 @@ sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-12-06_eurojust_action-against-phone-phishing-gang-belgium-and-netherlands-eight-arrests]]"
   - "[[2024-07-26_newindianexpress-com_operation-chakra-iii-cbi-arrests-43-operatives]]"
+  - "[[2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes]]"
   - "[[2023-10-19_ndtv_operation-chakra-ii-cbi-raids-76-locations]]"
   - "[[2025-02-18_freepressjournal_operation-chakra-iv-german-tech-support-scam]]"
   - "[[2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam]]"
   - "[[2025-09-25-interpol-operation-haechi-vi]]"
   - "[[2025-10-18-korea-cambodia-scam-repatriation]]"
 created: 2026-04-08
-updated: 2026-05-05
+updated: 2026-05-08
 ---
 ## Summary
 
@@ -127,8 +128,9 @@ This distinction prevents the SNA from silently merging all online fraud into vo
 | [5] | INTERPOL financial crime operation makes record 5,500 arrests - Operation HAECHI V | INTERPOL | 2024-12-02 | https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million |
 | [6] | Action against phone phishing gang in Belgium and the Netherlands: eight arrests | Eurojust | 2024-12-06 | https://www.eurojust.europa.eu/news/action-against-phone-phishing-gang-belgium-and-netherlands-eight-arrests |
 | [7] | Operation CHAKRA-III: CBI arrests 43 operatives of transnational cyber financial crime network | The New Indian Express | 2024-07-26 | https://www.newindianexpress.com/nation/2024/Jul/26/operation-chakra-iii-cbi-arrests-43-operatives-of-transnational-cyber-financial-crime-network-2 |
-| [8] | CBI Launches Operation Chakra-2 Against Cyber Crime, Raids 76 Locations | NDTV / PTI | 2023-10-19 | https://www.ndtv.com/india-news/cbi-launches-operation-chankra-2-against-cyber-crime-raids-76-locations-4496354 |
-| [9] | CBI Dismantles Global Cybercrime Network Targeting Germans Since 2021 In Operation Chakra-IV | Free Press Journal | 2025-02-18 | https://www.freepressjournal.in/india/cbi-dismantles-global-cybercrime-network-targeting-germans-since-2021-in-operation-chakra-iv |
-| [10] | Operation Chakra-V: CBI busts transnational scam that posed as tech support to cheat Japanese citizens | The New Indian Express | 2025-05-29 | https://www.newindianexpress.com/nation/2025/May/29/operation-chakra-v-cbi-busts-transnational-scam-that-posed-as-tech-support-to-cheat-japanese-citizens |
-| [11] | USD 439 million recovered in global financial crime operation - Operation HAECHI VI | INTERPOL | 2025-09-25 | https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation |
-| [12] | South Korea repatriates 64 scam centre suspects from Cambodia | Al Jazeera / France24 / Korea Herald | 2025-10-18 | https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects |
+| [8] | CBI launches Operation CHAKRA-II to combat and dismantle organized cyber enabled financial crimes | Press Information Bureau / Ministry of Home Affairs | 2023-10-19 | https://www.pib.gov.in/PressReleasePage.aspx?PRID=1969132 |
+| [9] | CBI Launches Operation Chakra-2 Against Cyber Crime, Raids 76 Locations | NDTV / PTI | 2023-10-19 | https://www.ndtv.com/india-news/cbi-launches-operation-chankra-2-against-cyber-crime-raids-76-locations-4496354 |
+| [10] | CBI Dismantles Global Cybercrime Network Targeting Germans Since 2021 In Operation Chakra-IV | Free Press Journal | 2025-02-18 | https://www.freepressjournal.in/india/cbi-dismantles-global-cybercrime-network-targeting-germans-since-2021-in-operation-chakra-iv |
+| [11] | Operation Chakra-V: CBI busts transnational scam that posed as tech support to cheat Japanese citizens | The New Indian Express | 2025-05-29 | https://www.newindianexpress.com/nation/2025/May/29/operation-chakra-v-cbi-busts-transnational-scam-that-posed-as-tech-support-to-cheat-japanese-citizens |
+| [12] | USD 439 million recovered in global financial crime operation - Operation HAECHI VI | INTERPOL | 2025-09-25 | https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation |
+| [13] | South Korea repatriates 64 scam centre suspects from Cambodia | Al Jazeera / France24 / Korea Herald | 2025-10-18 | https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects |

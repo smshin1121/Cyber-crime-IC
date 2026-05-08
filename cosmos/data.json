@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T04:02:52Z",
+  "generated_at": "2026-05-08T04:14:57Z",
   "root": null,
   "stats": {
-    "total_nodes": 1300,
-    "total_edges": 12240,
+    "total_nodes": 1302,
+    "total_edges": 12260,
     "broken_links": 0,
     "orphans": 106,
     "by_type": {
@@ -19,7 +19,7 @@
       "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 648
+      "source": 650
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
@@ -2686,7 +2686,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 145,
+      "degree": 146,
       "path": "wiki/countries/germany.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3767,7 +3767,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 35,
+      "degree": 36,
       "path": "wiki/countries/singapore.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4127,7 +4127,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 149,
+      "degree": 150,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4681,10 +4681,10 @@
         "illegal call center"
       ],
       "summary": "Voice phishing, vishing, and phone-enabled fraud are cyber-enabled fraud schemes in which criminals use telephone, VoIP, call-center, or remote-support channels to impersonate trusted parties and pressure victims into transferring funds,…",
-      "source_count": 12,
+      "source_count": 13,
       "created": "2026-04-08",
-      "updated": "2026-05-05",
-      "degree": 60,
+      "updated": "2026-05-08",
+      "degree": 61,
       "path": "wiki/crime-types/voice-phishing-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -6791,16 +6791,16 @@
         "Chakra-II",
         "Chakra 2"
       ],
-      "summary": "Operation Chakra-II was a CBI-led search sweep against cyber-enabled financial-fraud infrastructure in India. Public reporting described 76 searches after five cyber-enabled financial-fraud cases were registered. Two cases involved call centers…",
-      "source_count": 1,
+      "summary": "Operation Chakra-II was a CBI-led search sweep against cyber-enabled financial-fraud infrastructure in India. Official PIB/CBI reporting described 76 searches after five cyber-enabled financial-fraud cases were registered. Two cases involved call…",
+      "source_count": 3,
       "created": "2026-05-05",
-      "updated": "2026-05-05",
-      "degree": 27,
+      "updated": "2026-05-08",
+      "degree": 39,
       "path": "wiki/operations/operation-chakra-ii.md",
       "meta": {
         "status": "completed",
         "operation_role": "umbrella",
-        "source_tier": 3,
+        "source_tier": 1,
         "operation_type": "search-sweep",
         "outcome": "success",
         "results_arrests": 0,
@@ -6847,7 +6847,7 @@
       "source_count": 1,
       "created": "2026-05-05",
       "updated": "2026-05-05",
-      "degree": 23,
+      "degree": 24,
       "path": "wiki/operations/operation-chakra-iv.md",
       "meta": {
         "status": "completed",
@@ -6873,7 +6873,7 @@
       "source_count": 1,
       "created": "2026-05-05",
       "updated": "2026-05-05",
-      "degree": 26,
+      "degree": 27,
       "path": "wiki/operations/operation-chakra-v.md",
       "meta": {
         "status": "completed",
@@ -9831,10 +9831,10 @@
         "CBI India"
       ],
       "summary": "Central Bureau of Investigation (CBI) is retained as an organization node in the international cybercrime cooperation graph. The current mandate field records: India's premier investigating agency for corruption, economic offences, and special…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-10",
-      "updated": "2026-04-29",
-      "degree": 27,
+      "updated": "2026-05-08",
+      "degree": 32,
       "path": "wiki/organizations/cbi-india.md",
       "meta": {
         "org_type": "national-agency",
@@ -10365,8 +10365,8 @@
       "summary": "The Bundeskriminalamt (BKA) is Germany's federal criminal police, headquartered in Wiesbaden. It serves as INTERPOL NCB Germany and as Germany's central Europol National Unit, making it the primary coordination point for all international law…",
       "source_count": 5,
       "created": "2026-04-08",
-      "updated": "2026-04-29",
-      "degree": 104,
+      "updated": "2026-05-08",
+      "degree": 107,
       "path": "wiki/organizations/germany-bka.md",
       "meta": {
         "org_type": "national-agency",
@@ -11651,8 +11651,8 @@
       "summary": "The Cybercrime Command of the Singapore Police Force (SPF) was established in June 2015 within the Criminal Investigation Department (CID) to build up anti-cybercrime capabilities, with a focus on cyber investigation, digital forensics, and…",
       "source_count": 7,
       "created": "2026-04-10",
-      "updated": "2026-04-29",
-      "degree": 15,
+      "updated": "2026-05-08",
+      "degree": 18,
       "path": "wiki/organizations/singapore-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11990,8 +11990,8 @@
       "summary": "The National Crime Agency (NCA) is the United Kingdom's lead law enforcement agency for tackling serious and organised crime. Established on 7 October 2013, replacing the Serious Organised Crime Agency (SOCA), the NCA has a broad mandate covering…",
       "source_count": 13,
       "created": "2026-04-08",
-      "updated": "2026-04-29",
-      "degree": 123,
+      "updated": "2026-05-08",
+      "degree": 126,
       "path": "wiki/organizations/uk-nca.md",
       "meta": {
         "org_type": "national-agency",
@@ -16484,6 +16484,34 @@
       "updated": null,
       "degree": 2,
       "path": "wiki/sources/2023-10-19_ndtv_operation-chakra-ii-cbi-raids-76-locations.md",
+      "meta": {}
+    },
+    {
+      "id": "2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes",
+      "type": "source",
+      "title": "CBI launches Operation CHAKRA-II to combat and dismantle organized cyber enabled financial crimes",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The PIB / Ministry of Home Affairs release is the primary public record for Operation Chakra-II. It describes the operation as a CBI-led action against transnational cyber-enabled financial crime infrastructure, with 76 searches…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 7,
+      "path": "wiki/sources/2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes.md",
+      "meta": {}
+    },
+    {
+      "id": "2023-10-19_thenewsmill-com_cbi-launches-operation-chakra-2-against-cyber-criminals",
+      "type": "source",
+      "title": "CBI launches 'Operation Chakra 2' against cyber criminals, searches over 76 locations",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The News Mill / ANI report corroborates the public reporting baseline for Operation Chakra-II: 76 search locations, five registered cases, seized devices, and a tech-support fraud subset involving illegal call centers and foreign…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 1,
+      "path": "wiki/sources/2023-10-19_thenewsmill-com_cbi-launches-operation-chakra-2-against-cyber-criminals.md",
       "meta": {}
     },
     {
@@ -59692,6 +59720,24 @@
     },
     {
       "source": "operation-chakra-ii",
+      "target": "uk-nca",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-chakra-ii",
+      "target": "singapore-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-chakra-ii",
+      "target": "germany-bka",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-chakra-ii",
       "target": "microsoft",
       "kind": "participating_agencies",
       "directed": true
@@ -59705,6 +59751,24 @@
     {
       "source": "operation-chakra-ii",
       "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-chakra-ii",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-chakra-ii",
+      "target": "singapore",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-chakra-ii",
+      "target": "germany",
       "kind": "participating_countries",
       "directed": true
     },
@@ -78268,7 +78332,31 @@
     },
     {
       "source": "cbi-india",
+      "target": "operation-chakra-ii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "cbi-india",
       "target": "operation-chakra-iii",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "cbi-india",
+      "target": "operation-chakra-iv",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "cbi-india",
+      "target": "operation-chakra-v",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "cbi-india",
+      "target": "2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes",
       "kind": "body",
       "directed": false
     },
@@ -81035,6 +81123,12 @@
     {
       "source": "germany-bka",
       "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany-bka",
+      "target": "operation-chakra-ii",
       "kind": "operations_participated",
       "directed": true
     },
@@ -84754,6 +84848,12 @@
     },
     {
       "source": "singapore-police",
+      "target": "operation-chakra-ii",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "singapore-police",
       "target": "interpol-igci",
       "kind": "body",
       "directed": false
@@ -85895,6 +85995,12 @@
     {
       "source": "uk-nca",
       "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "uk-nca",
+      "target": "operation-chakra-ii",
       "kind": "operations_participated",
       "directed": true
     },
@@ -90137,6 +90243,48 @@
     {
       "source": "2023-10-19_ndtv_operation-chakra-ii-cbi-raids-76-locations",
       "target": "voice-phishing-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes",
+      "target": "operation-chakra-ii",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes",
+      "target": "cbi-india",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes",
+      "target": "uk-nca",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes",
+      "target": "singapore-police",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes",
+      "target": "germany-bka",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes",
+      "target": "voice-phishing-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2023-10-19_thenewsmill-com_cbi-launches-operation-chakra-2-against-cyber-criminals",
+      "target": "operation-chakra-ii",
       "kind": "pages_updated",
       "directed": true
     },

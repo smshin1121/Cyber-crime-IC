@@ -57,6 +57,7 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[operation-hyperion]]"
   - "[[operation-disruptor]]"
+  - "[[operation-chakra-ii]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13
@@ -69,7 +70,7 @@ sources:
 status: active
 title: "UK National Crime Agency (NCA)"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Summary
 
@@ -77,7 +78,7 @@ The National Crime Agency (NCA) is the [[united-kingdom|United Kingdom's]] lead 
 
 The NCA is *highly likely* among the top three most capable national cybercrime agencies globally, alongside the [[fbi-cyber-division|FBI Cyber Division]] and comparable agencies. Its leadership of [[operation-cronos-phase1|Operation Cronos Phase 1]] — the landmark disruption of the LockBit ransomware group in February 2024 — demonstrated the NCA's ability to lead complex multinational operations involving 10+ countries and coordinate with [[europol-ec3|Europol EC3]] and the FBI.
 
-The NCA participated in all 5 operations covered by currently ingested sources and **led** Operation Cronos from the UK side.
+The NCA appears in selected cybercrime operation records as a lead or supporting partner and **led** Operation Cronos from the UK side.
 
 ## Current Status (as of 2026-04-10)
 

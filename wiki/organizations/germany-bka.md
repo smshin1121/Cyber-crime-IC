@@ -53,6 +53,7 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[operation-card-shop]]"
   - "[[operation-disruptor]]"
+  - "[[operation-chakra-ii]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5
@@ -65,7 +66,7 @@ sources:
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Summary
 

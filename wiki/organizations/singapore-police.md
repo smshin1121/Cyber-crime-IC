@@ -23,6 +23,7 @@ notable_cases:
 official_name: "Singapore Police Force, Cybercrime Command, Criminal Investigation"
 operations_participated:
   - "[[operation-cyber-guardian]]"
+  - "[[operation-chakra-ii]]"
 org_type: national-unit
 parent_org: "[[singapore-police]]"
 source_count: 7
@@ -31,7 +32,7 @@ sources:
 status: active
 title: "Singapore Police Force — Cybercrime Command"
 type: organization
-updated: "2026-04-29"
+updated: "2026-05-08"
 ---
 ## Summary
 
