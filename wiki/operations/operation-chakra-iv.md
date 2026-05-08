@@ -48,6 +48,7 @@ results:
     - "Six locations searched across Delhi, Kolkata, and Siliguri."
     - "Illegal call center at Webel IT Park, Matigara, Darjeeling dismantled."
     - "24 hard disks, seven mobile phones, one laptop, and documents recovered."
+    - "Public reporting attributes EUR 646,032 in alleged German-victim transfers to cryptocurrency wallets controlled by the accused."
 edges:
   - source_actor: "CBI India"
     target_actor: "German authorities"
@@ -59,7 +60,7 @@ edges:
     cooperation_type: info_sharing
     legal_basis: informal
     direction: undirected
-credibility_index: 2.5
+credibility_index: 3.0
 source_tier: 3
 missing_fields:
   - complete_german_partner_agency
@@ -71,11 +72,13 @@ related_operations:
 challenges_encountered: []
 lessons_learned:
   - "Remote-support fraud and virtual-asset laundering can require coordinated evidence development across victim and enforcement jurisdictions."
-source_count: 1
+source_count: 3
 sources:
   - "[[2025-02-18_freepressjournal_operation-chakra-iv-german-tech-support-scam]]"
+  - "[[2025-02-18_newindianexpress-com_operation-chakra-iv-cbi-dismantles-virtual-asset-supported-network-targeting-german-nationals]]"
+  - "[[2025-02-18_fintechbiznews-com_cbi-dismantles-virtual-asset-supported-transnational-cyber-crime-network]]"
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Chakra-IV was a CBI-led action, coordinated with German authorities and using INTERPOL channels, against a virtual-asset-supported cybercrime network targeting German nationals through remote-support and call-center fraud."
@@ -91,7 +94,7 @@ crime_types:
 ---
 ## Summary
 
-Operation Chakra-IV was a CBI-led action against a virtual-asset-supported cybercrime network targeting German nationals. Public reporting says CBI coordinated closely with German authorities, registered the case on **12 February 2025**, searched multiple locations from **14 to 17 February 2025**, arrested one key accused, and dismantled an illegal call center in West Bengal.
+Operation Chakra-IV was a CBI-led action against a virtual-asset-supported cybercrime network targeting German nationals. Public reporting says CBI coordinated closely with German authorities, registered the case on **12 February 2025**, searched six locations from **14 to 17 February 2025**, arrested one key accused, and dismantled an illegal call center in West Bengal.
 
 ## International Cooperation Details
 
@@ -106,6 +109,7 @@ The source identifies German authorities as cooperation partners and says the op
 | Illegal call centers dismantled | 1 |
 | Hard disks recovered | 24 |
 | Mobile phones recovered | 7 |
+| Alleged German-victim transfers | EUR 646,032 |
 
 ## Scope Note
 
@@ -116,3 +120,5 @@ This page is included under [[voice-phishing-ic]] because the public source desc
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | CBI Dismantles Global Cybercrime Network Targeting Germans Since 2021 In Operation Chakra-IV | Free Press Journal | 2025-02-18 | https://www.freepressjournal.in/india/cbi-dismantles-global-cybercrime-network-targeting-germans-since-2021-in-operation-chakra-iv |
+| [2] | Operation Chakra IV: CBI dismantles virtual asset-supported cybercrime network targeting German nationals | The New Indian Express | 2025-02-18 | https://www.newindianexpress.com/nation/2025/Feb/18/operation-chakra-iv-cbi-dismantles-virtual-asset-supported-cybercrime-network-targeting-german-nationals |
+| [3] | CBI Dismantles Virtual Asset Supported Transnational Cyber Crime Network | FinTech BizNews | 2025-02-18 | https://fintechbiznews.com/govtregulators-authorities/cbi-dismantles-virtual-asset-supported-transnational-cyber-crime-network- |

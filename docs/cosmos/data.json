@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T04:14:57Z",
+  "generated_at": "2026-05-08T04:22:59Z",
   "root": null,
   "stats": {
-    "total_nodes": 1302,
-    "total_edges": 12260,
+    "total_nodes": 1304,
+    "total_edges": 12262,
     "broken_links": 0,
     "orphans": 106,
     "by_type": {
@@ -19,7 +19,7 @@
       "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 650
+      "source": 652
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4866 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4868 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -6843,11 +6843,11 @@
         "Chakra-IV",
         "Chakra 4"
       ],
-      "summary": "Operation Chakra-IV was a CBI-led action against a virtual-asset-supported cybercrime network targeting German nationals. Public reporting says CBI coordinated closely with German authorities, registered the case on 12 February 2025, searched…",
-      "source_count": 1,
+      "summary": "Operation Chakra-IV was a CBI-led action against a virtual-asset-supported cybercrime network targeting German nationals. Public reporting says CBI coordinated closely with German authorities, registered the case on 12 February 2025, searched six…",
+      "source_count": 3,
       "created": "2026-05-05",
-      "updated": "2026-05-05",
-      "degree": 24,
+      "updated": "2026-05-08",
+      "degree": 26,
       "path": "wiki/operations/operation-chakra-iv.md",
       "meta": {
         "status": "completed",
@@ -18573,6 +18573,20 @@
       "meta": {}
     },
     {
+      "id": "2025-02-18_fintechbiznews-com_cbi-dismantles-virtual-asset-supported-transnational-cyber-crime-network",
+      "type": "source",
+      "title": "CBI Dismantles Virtual Asset Supported Transnational Cyber Crime Network",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary FinTech BizNews provides an additional media corroboration for Operation Chakra-IV, including the India-Germany coordination, CBI search and arrest figures, illegal call-center dismantlement, and continued investigation into…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 1,
+      "path": "wiki/sources/2025-02-18_fintechbiznews-com_cbi-dismantles-virtual-asset-supported-transnational-cyber-crime-network.md",
+      "meta": {}
+    },
+    {
       "id": "2025-02-18_freepressjournal_operation-chakra-iv-german-tech-support-scam",
       "type": "source",
       "title": "CBI Dismantles Global Cybercrime Network Targeting Germans Since 2021 In Operation Chakra-IV",
@@ -18584,6 +18598,20 @@
       "updated": null,
       "degree": 2,
       "path": "wiki/sources/2025-02-18_freepressjournal_operation-chakra-iv-german-tech-support-scam.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-02-18_newindianexpress-com_operation-chakra-iv-cbi-dismantles-virtual-asset-supported-network-targeting-german-nationals",
+      "type": "source",
+      "title": "Operation Chakra IV: CBI dismantles virtual asset-supported cybercrime network targeting German nationals",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The New Indian Express report corroborates Operation Chakra-IV as a CBI-led India-Germany cyber-enabled financial-crime action. It records the February 2025 case registration, searches, one arrest, illegal call-center…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 1,
+      "path": "wiki/sources/2025-02-18_newindianexpress-com_operation-chakra-iv-cbi-dismantles-virtual-asset-supported-network-targeting-german-nationals.md",
       "meta": {}
     },
     {
@@ -91897,6 +91925,12 @@
       "directed": false
     },
     {
+      "source": "2025-02-18_fintechbiznews-com_cbi-dismantles-virtual-asset-supported-transnational-cyber-crime-network",
+      "target": "operation-chakra-iv",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2025-02-18_freepressjournal_operation-chakra-iv-german-tech-support-scam",
       "target": "operation-chakra-iv",
       "kind": "pages_updated",
@@ -91905,6 +91939,12 @@
     {
       "source": "2025-02-18_freepressjournal_operation-chakra-iv-german-tech-support-scam",
       "target": "voice-phishing-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-02-18_newindianexpress-com_operation-chakra-iv-cbi-dismantles-virtual-asset-supported-network-targeting-german-nationals",
+      "target": "operation-chakra-iv",
       "kind": "pages_updated",
       "directed": true
     },
