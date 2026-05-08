@@ -30,6 +30,7 @@ cooperation_partners:
 frameworks_administered:
   - "[[korea-philippines-police-mou-2026-revision]]"
   - "[[korea-cambodia-joint-task-force-mou-2025]]"
+  - "[[korea-china-anti-scam-mou-2025]]"
 mechanisms_operated:
 
 operations_participated:

@@ -33,7 +33,7 @@ total: 61
 | 🇨🇮 | [[cote-divoire]] | civil-law | invited-to-accede (2022) | medium | unknown | 4 |
 | 🇨🇱 | [[chile]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇲 | [[cameroon]] | mixed | party (2024) | low | unknown | 3 |
-| 🇨🇳 | [[china]] | not-assessed | — | unknown | unknown | 0 |
+| 🇨🇳 | [[china]] | not-assessed | — | unknown | unknown | 1 |
 | 🇨🇴 | [[colombia]] | civil-law | party (2020) | medium | unknown | 5 |
 | 🇨🇷 | [[costa-rica]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇾 | [[cyprus]] | civil-law | not-assessed | unknown | unknown | 1 |
@@ -69,7 +69,7 @@ total: 61
 | 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 1 |
-| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 20 |
+| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 21 |
 | 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇦 | [[laos]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | not-assessed | — | unknown | unknown | 0 |

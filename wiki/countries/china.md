@@ -2,7 +2,7 @@
 created: 2026-04-08
 ic_capacity: not-assessed
 iso_code: CN
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: not-assessed
 operations_participated:
   - "[[korea-china-voice-phishing-qingdao]]"
@@ -12,14 +12,14 @@ operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
 region: east-asia
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2025-11-01_korean-press_korea-china-anti-scam-mou-signing]]"
 title: "People's Republic of China"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

@@ -791,3 +791,16 @@
   - Joint Task Force operates as a single Korean-Cambodian shared-staff police unit (12 Cambodian + 7 Korean officers per Korean reporting) responsible for "the entire process from report receipt to rescue, investigation, and suspect repatriation" for cases involving Korean nationals.
   - First two months of operations (2025-11-10 to early January 2026): 7 rounds of joint operations, 135 suspects arrested in field, 3 Korean victims rescued. The MOU is the foundational instrument for the 코리아전담반 mechanism that produced the Cambodia tranche (42 of 73) of the 2026-04-27 73-person extradition cycle.
   - Together with the 2026-03-03 Korea-Philippines police MOU revision, this MOU forms the backbone of Korea's 2025–2026 Southeast Asian scam-compound cooperation infrastructure. Both bilateral instruments now have wiki legal-framework entries.
+
+
+## [2026-05-09] ingest | KNPA + Chinese MPS 2025-11-01 — Korea-China voice-phishing/online-scam MOU
+- Source: raw/press-releases/2025-11-01_korean-press_korea-china-anti-scam-mou-signing.md (Joint KNPA + Chinese MPS announcement; Korean and Chinese government URLs connection-reset on TLS-spoof and WebFetch — secondary capture from Kyunghyang Shinmun coverage with explicit fidelity caveat)
+- Pages created: wiki/legal-frameworks/korea-china-anti-scam-mou-2025.md (third wiki Korea-led bilateral-MOU legal-framework entry, completing the 2025-2026 Southeast Asian scam-compound cooperation backbone), wiki/sources/2025-11-01_korean-press_korea-china-anti-scam-mou-signing.md
+- Pages updated: 2 country pages (south-korea, china — sources), 2 organization pages (knpa, china-mps — frameworks_administered), 1 operation (operation-haechi-v — legal_basis now references the bilateral MOU). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - 2025-11-01 signing in Korea during APEC Korea 2025 summit (Gyeongju, Oct 31 - Nov 1). Signed by Acting KNPA Commissioner Yoo Jae-sung 유재성 and Chinese Ambassador to Korea Dai Bing 다이 빙, observed by both heads of state — heads-of-state-level visibility makes this Korea's most ambitious bilateral cybercrime cooperation framework with China to date.
+  - Establishes a new standing institution: 「한·중 공동대응 협의체」 (Korea-China Joint Response Council) operated through designated departments inside KNPA and Chinese MPS.
+  - Substantive scope: information sharing on Southeast Asian scam-crime bases (especially Cambodia), joint operations and investigations, victim rescue/protection/repatriation, asset tracing and freezing.
+  - Builds on the 2024 Operation HAECHI V joint Korea-China dismantling of a USD 1.1 billion voice-phishing syndicate; formalises the precedent into a standing bilateral framework.
+  - Pre-positions Korea-China cooperation 9 days before the 2025-11-10 Korea-Cambodia Joint Task Force MOU — coordinated Korean policy posture toward Southeast Asian scam-compound enforcement during the October-November 2025 window.
+  - This is the third wiki Korea-led bilateral cooperation instrument for cybercrime IC in 2025-2026, completing the backbone alongside the 2025-11-10 Korea-Cambodia MOU and the 2026-03-03 Korea-Philippines MOU revision.

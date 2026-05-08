@@ -13,8 +13,7 @@ established: 1949-10-15
 parent_org: ""
 country: "[[china]]"
 jurisdiction:
-  -
-    - china
+
 headquarters: "Beijing, China"
 mandate: "National law enforcement and public security, including cybercrime investigation and cross-border enforcement cooperation"
 key_roles:
@@ -32,9 +31,11 @@ sources:
   - https://news.cgtn.com/news/2023-11-21/31-000-telecom-scam-suspects-handed-over-to-China-by-Myanmar-1oUBBpIdweA/index.html
   - https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html
 created: 2026-04-10
-updated: 2026-05-08
-last_verified: 2026-05-08
+updated: 2026-05-09
+last_verified: 2026-05-09
 coverage_status: audit-normalized
+frameworks_administered:
+  - "[[korea-china-anti-scam-mou-2025]]"
 ---
 ## Summary
 
