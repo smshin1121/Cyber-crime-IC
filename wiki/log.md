@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | NCA UK 2025-07-11 — India CBI Noida tech-support scam takedown (CBI-NCA-FBI-Microsoft 4-party action)
+- Source: `raw/press-releases/2025-07-11_nca-uk_major-scam-centre-targeted-after-international-operation.md` (NCA press release; tier-1 primary)
+- Pages created: [[2025-07-11_nca-uk_major-scam-centre-targeted-after-international-operation]] (source summary), [[india-cbi-noida-tech-support-scam-takedown-2025]] (operation, case_id `CYB-2025-206`)
+- Pages updated: [[india]], [[united-kingdom]], [[united-states]] (operations_participated); [[cbi-india]], [[uk-nca]], [[fbi]], [[city-of-london-police]], [[microsoft]] (operations_participated); [[online-fraud-ic]] (notable_operations + sources + body Reference row); [[public-private-cooperation]], [[informal-cooperation]] (operations_using); related_operations cross-links to [[uk-nigeria-meta-scam-centre-disruption-2026]], [[korea-cambodia-philippines-73-extradition-2026]]; index/master indexes reconciled.
+- Key findings: 2025-07-07 CBI raid on Noida tech-support scam call-centre after 18-month four-party (CBI / NCA / FBI / Microsoft) collaboration. 2 arrests. £390,000+ UK losses across 100+ UK victims; US citizens also targeted. Tactics: Microsoft-impersonation pop-ups, spoofed phone numbers, multi-country VoIP routing. First wiki record of NCA International Liaison Officer network (US, Delhi, Washington DC) as primary intelligence-sharing channel + UK-US operational arrangement on call-centre fraud (2024) as foundational bilateral instrument. Demonstrates CBI-as-action-day-lead pattern in a Western-LE-supported transnational cooperation, complementing the wiki's Operation Chakra series.
+
 ## [2026-05-09] ingest | USAO-WDTX 2024-12-18 — US v. Sokolovsky / Raccoon Infostealer (NL-IT-US joint dismantle + Netherlands extradition)
 - Source: `raw/press-releases/2024-12-18_doj-wdtx_ukrainian-national-sentenced-raccoon-infostealer.md` (USAO-WDTX press release; tier-1 primary)
 - Pages created: [[2024-12-18_doj-wdtx_ukrainian-national-sentenced-raccoon-infostealer]] (source summary), [[us-v-sokolovsky-raccoon-infostealer]] (case)

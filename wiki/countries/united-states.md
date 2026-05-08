@@ -153,6 +153,7 @@ operations_participated:
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
   - "[[operation-token-mirrors-2026]]"
+  - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
 region: north-america
 source_count: 1
 sources:

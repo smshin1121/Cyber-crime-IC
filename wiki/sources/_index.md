@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (695)
+# Sources (696)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -129,6 +129,7 @@ updated: 2026-04-14
 | [[2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down]] | press-release | Eurojust | ? | high | ? |
 | [[2025-07-16_cyberscoop_noname05716-disruption-operation-eastwood-europol]] | news | CyberScoop | ? | medium | ? |
 | [[2025-07-11_tga_operation-pangea-xvii-counterfeit-goods]] | press-release | Therapeutic Goods Administration | ? | high | ? |
+| [[2025-07-11_nca-uk_major-scam-centre-targeted-after-international-operation]] | press-release | UK National Crime Agency (NCA) | ? | high | ? |
 | [[2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme]] | press-release | Internal Revenue Service (Criminal Investigation) | ? | high | ? |
 | [[2025-06-27_immuniweb-com_cybercrime-investigations-weekly-trusted-seller-fraud]] | news | ImmuniWeb | ? | medium | ? |
 | [[2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts]] | report | INSIGHT EU Monitoring | ? | medium | ? |

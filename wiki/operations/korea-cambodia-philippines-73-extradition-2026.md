@@ -98,6 +98,7 @@ related_cases:
 
 related_operations:
   - "[[korea-cambodia-scam-repatriation]]"
+  - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
 challenges_encountered:
 
 lessons_learned:

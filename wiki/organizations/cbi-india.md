@@ -12,8 +12,7 @@ established: 1963-04-01
 parent_org: ""
 country: "[[india]]"
 jurisdiction:
-  -
-    - india
+
 headquarters: "New Delhi, India"
 mandate: "India's premier investigating agency for corruption, economic offences, and special crimes including transnational cybercrime"
 key_roles:
@@ -29,6 +28,7 @@ operations_participated:
   - "[[operation-chakra-ii]]"
   - "[[operation-chakra-iv]]"
   - "[[operation-chakra-v]]"
+  - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
 source_count: 4
 sources:
   - "[[2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes]]"
@@ -36,8 +36,8 @@ sources:
   - "[[2024-10-01_the420-in_operation-chakra-iii-inside-cbi-s-explosive-takedown]]"
   - "[[2024-07-26_newindianexpress-com_operation-chakra-iii-cbi-arrests-43-operatives]]"
 created: 2026-04-10
-updated: 2026-05-08
-last_verified: 2026-05-08
+updated: 2026-05-09
+last_verified: 2026-05-09
 coverage_status: audit-normalized
 ---
 ## Summary

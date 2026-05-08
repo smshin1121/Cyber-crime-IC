@@ -3,12 +3,14 @@ type: mechanism
 title: "Informal Police Cooperation"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-04-29
-last_verified: 2026-04-10
+updated: 2026-05-09
+last_verified: 2026-05-09
 source_count: 1
 sources:
   - "[[voa-operation-avalanche]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
 ---
 ## Summary
 

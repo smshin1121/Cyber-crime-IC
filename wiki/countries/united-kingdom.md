@@ -61,6 +61,7 @@ operations_participated:
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
+  - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
 region: western-europe
 source_count: 5
 sources:

@@ -2,20 +2,21 @@
 created: 2026-04-10
 ic_capacity: not-assessed
 iso_code: IN
-last_verified: 2026-05-03
+last_verified: 2026-05-09
 legal_system: not-assessed
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-avalanche]]"
+  - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
 region: south-asia
 source_count: 0
 sources:
-  []
+
 title: "Republic of India"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-03
+updated: 2026-05-09
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

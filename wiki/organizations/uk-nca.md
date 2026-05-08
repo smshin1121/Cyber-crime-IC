@@ -15,7 +15,7 @@ frameworks_administered:
 headquarters: "London, United Kingdom"
 key_roles:
 
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 mandate: "Lead UK law enforcement agency for tackling serious and organised crime,"
 mechanisms_operated:
 
@@ -61,6 +61,7 @@ operations_participated:
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
+  - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13
@@ -73,7 +74,7 @@ sources:
 status: active
 title: "UK National Crime Agency (NCA)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

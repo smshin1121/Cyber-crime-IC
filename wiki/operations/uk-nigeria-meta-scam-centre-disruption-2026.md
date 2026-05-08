@@ -56,8 +56,8 @@ results:
     - "Targeted UK residents and US persons resident in the UK; UK-victim count not enumerated in cited tier-1 source"
     - "Methodology described by Meta: fake social-media accounts impersonating cryptocurrency traders + fraudulent Facebook groups featuring fabricated testimonials"
 edges:
-  - source_actor: "uk-nca"
-    target_actor: "nigeria-police-force"
+  - source_actor: uk-nca
+    target_actor: nigeria-police-force
     cooperation_type: info_sharing
     legal_basis: informal
     direction: directed
@@ -66,11 +66,14 @@ source_tier: 1
 missing_fields:
   - "indictments (cited release does not enumerate downstream charging in Nigeria)"
   - "victim count"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
-challenges_encountered: []
+  - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "The 2026 UK-Nigeria-Meta pattern reproduces in microcosm the broader 2026 cryptocurrency-investment-fraud cooperation shape: requesting jurisdiction (UK) supplies intelligence, host jurisdiction (Nigeria) executes the arrests in-country, and a global platform (Meta) provides platform-level account-removal and methodology intelligence. The Korea-Cambodia-Philippines extradition cycle and the US-UAE-China-Thailand pig-butchering takedown follow the same shape with different actor sets."
   - "Crypto-investment scam syndicates operating from Nigerian source jurisdictions are now a public-record cooperation target for UK NCA on a 2026 timeline, complementing prior Black-Axe / BEC enforcement in the wiki corpus."
@@ -79,7 +82,7 @@ sources:
   - "[[2026-02-20_nca-uk_fraudsters-arrested-nigeria-following-nca-intelligence-sharing]]"
 summary: "On 2026-01-13 the Nigerian Police National Cybercrime Centre arrested seven men in Agbor, Delta State, Nigeria, following intelligence sharing from the UK National Crime Agency. Seizures: 26 mobile phones, 42 SIM cards, 1 laptop. The cohort allegedly operated online investment scams, cryptocurrency fraud, and phishing attacks targeting UK residents and US persons resident in the UK, using fake social-media accounts impersonating cryptocurrency traders and fraudulent Facebook groups with fabricated testimonials. Meta provided platform-level account removal and methodology intelligence as a private-sector partner. Announced 2026-02-20."
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

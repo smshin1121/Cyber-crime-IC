@@ -1,29 +1,28 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: "[[united-states]]"
 jurisdiction:
-  -
-    - united-states
+
 created: 2026-04-17
 established: ""
 frameworks_administered:
-  []
+
 headquarters: "Redmond, Washington, United States"
 key_roles:
   - "Private-sector technical partner in botnet and malware disruption operations."
   - "Provides malware telemetry, sinkholing, threat intelligence, and legal/technical support where public sources identify Microsoft involvement."
-last_verified: 2026-04-29
+last_verified: 2026-05-09
 mandate: "Technology company that often provides telemetry, sinkholing, or legal support in botnet disruptions."
 mechanisms_operated:
-  []
+
 member_states: 0
 notable_cases:
-  []
+
 official_name: "Microsoft Corporation"
 official_name_ko: ""
 operations_participated:
@@ -32,6 +31,7 @@ operations_participated:
   - "[[operation-chakra-ii]]"
   - "[[operation-chakra-v]]"
   - "[[operation-tovar]]"
+  - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
 org_type: private-sector
 parent_org: ""
 source_count: 3
@@ -42,7 +42,7 @@ sources:
 status: active
 title: Microsoft
 type: organization
-updated: 2026-04-29
+updated: 2026-05-09
 ---
 ## Summary
 
