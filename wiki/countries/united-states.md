@@ -159,6 +159,7 @@ operations_participated:
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
 region: north-america
 source_count: 1
 sources:

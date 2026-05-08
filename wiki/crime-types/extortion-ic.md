@@ -5,14 +5,16 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
-source_count: 2
+source_count: 3
 sources:
   - "[[europol-operation-pleiades]]"
   - "[[2026-02_europol_project-compass-the-com-network]]"
+  - "[[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia]]"
 category: cybercrime-related
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
   - "[[project-compass-the-com-network-2025]]"
+  - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
 ---
 ## Summary
 
@@ -49,3 +51,5 @@ The page groups terminology; it is not independent proof that the concept, crime
 | # | Source | Publisher | Date | URL |
 |---|--------|-----------|------|-----|
 | 1 | [[europol-operation-pleiades|Europol: International Action Against DD4BC Cybercriminal Group (Operation Pleiades)]] | Europol | 2016-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group |
+| 2 | [[2026-02_europol_project-compass-the-com-network\|Project Compass — A project dedicated to fighting against The Com (Europol Operations page)]] | Europol European Counter Terrorism Centre (ECTC) | 2026-02 (approx.) | https://www.europol.europa.eu/how-we-work/operations/project-compass |
+| 3 | [[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia\|U.S. and U.K. Take Largest Action Ever Targeting Cybercriminal Networks in Southeast Asia (Prince Group TCO + Huione Group)]] | US Department of the Treasury | 2025-10-14 | https://home.treasury.gov/news/press-releases/sb0278 |

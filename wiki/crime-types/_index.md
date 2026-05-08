@@ -25,13 +25,13 @@ updated: 2026-04-27
 | [[ddos-extortion]] | — | — | — | — | 1 |
 | [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 6 |
 | [[drug-trafficking]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025 | 5 |
-| [[extortion-ic]] | — | — | — | project-compass-the-com-network-2025 | 2 |
+| [[extortion-ic]] | — | — | — | project-compass-the-com-network-2025, us-uk-prince-group-tco-huione-group-sanctions-2025 | 3 |
 | [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03, leakbase-takedown-2026 | 8 |
 | [[identity-theft]] | — | — | — | — | 4 |
 | [[illegal-iptv-ic]] | cyber-enabled | Yes | search-seizure, domain-seizure, public-private-cooperation | operation-perfect-storm-pay-tv-piracy-2019, spanish-pay-tv-streaming-network-takedown-2020, mobdro-illegal-streaming-takedown-2021 | 14 |
 | [[malware-ic]] | cyber-dependent | Yes | sinkholing, domain-seizure, search-seizure | operation-avalanche, andromeda-botnet-takedown, simda-botnet-takedown | 8 |
-| [[money-laundering-ic]] | cyber-enabled | Yes | mlat-process, europol-jit | de-ch-crypto-mixer-takedown-2025, 2bagoldmule-qqaazz, cryptex-pm2btc-sanctions | 15 |
-| [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 33 |
+| [[money-laundering-ic]] | cyber-enabled | Yes | mlat-process, europol-jit | de-ch-crypto-mixer-takedown-2025, 2bagoldmule-qqaazz, cryptex-pm2btc-sanctions | 16 |
+| [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 34 |
 | [[organized-crime-ic]] | — | — | — | — | 4 |
 | [[ransomware-ic]] | cyber-dependent | Yes | — | operation-cronos-phase1, operation-endgame-phase1, operation-cronos-phase3 | 17 |
 | [[voice-phishing-ic]] | cyber-enabled | Yes | interpol-i-grip, interpol-i24-7, informal-cooperation | korea-china-voice-phishing-qingdao, operation-haechi-iii, operation-haechi-iv | 23 |

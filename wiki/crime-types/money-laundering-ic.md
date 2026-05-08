@@ -35,6 +35,7 @@ notable_operations:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
+  - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
 notable_cases:
 
 criminalization_status:
@@ -43,7 +44,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 15
+source_count: 16
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -60,6 +61,7 @@ sources:
   - "[[2022-11-10_eurojust_massive-investment-fraud-hundreds-thousands-victims]]"
   - "[[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million]]"
   - "[[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm]]"
+  - "[[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -132,3 +134,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [13] | [[2022-11-10_eurojust_massive-investment-fraud-hundreds-thousands-victims\|Eurojust coordinates action against massive investment fraud with hundreds of thousands of victims worldwide]] | Eurojust | 2022-11-10 | https://www.eurojust.europa.eu/news/eurojust-coordinates-action-against-massive-investment-fraud-hundreds-thousands-victims |
 | [14] | [[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million\|International takedown of cryptocurrency fraud network laundering over EUR 700 million]] | Europol | 2025-11-26 | https://www.europol.europa.eu/media-press/newsroom/news/international-takedown-of-cryptocurrency-fraud-network-laundering-over-eur-700-million |
 | [15] | [[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm\|Busted: Police shut down Bangkok-based investment scam centre targeting Australians]] | Australian Federal Police | 2025-06-17 | https://www.afp.gov.au/news-centre/media-release/busted-police-shut-down-bangkok-based-investment-scam-centre-targeting |
+| [16] | [[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia\|U.S. and U.K. Take Largest Action Ever Targeting Cybercriminal Networks in Southeast Asia (Prince Group TCO + Huione Group)]] | US Department of the Treasury | 2025-10-14 | https://home.treasury.gov/news/press-releases/sb0278 |
