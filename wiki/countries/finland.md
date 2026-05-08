@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "Keskusrikospoliisi (KRP) — National Bureau of Investigation"
   mlat: "Ministry of Justice"
@@ -23,30 +23,29 @@ ic_capacity:
   rating: high
 iso_code: FI
 key_agencies:
-  []
+
 last_verified: 2026-05-08
 legal_system: civil-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[operation-avalanche]]"
   - "[[operation-contender-2]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[e-note-crypto-exchange-takedown-2025]]"
 region: northern-europe
 source_count: 6
 sources:
-  []
+
 title: "Republic of Finland"
 treaty_memberships:
   - date: 2007-05-24
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
 updated: 2026-05-08

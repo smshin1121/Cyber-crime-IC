@@ -743,3 +743,16 @@
   - US-Italy bilateral extradition: arrested in Rome January 2024, extradited via DOJ Office of International Affairs cooperation with the Government of Italy, plea 2025-11-25 to 4 SDIN counts and 2 EDPA counts after EDPA case consolidation in SDIN.
   - First wiki record explicitly using "initial access broker" as a DOJ-charging-language category for the ransomware-affiliate kill chain. Establishes a public-record IAB-prosecution category that complements the existing operation-cronos-phase2 named-suspect attribution wave.
   - Case fits the broader 2024-2026 European-arrest-and-US-extradition pathway for Russian ransomware-ecosystem actors traveling into Schengen states.
+
+
+## [2026-05-08] ingest | DOJ EDMI 2025-12-17 — E-Note crypto-exchange takedown (US-Germany-Finland cooperation)
+- Source: raw/press-releases/2025-12-17_doj-edmi_e-note-crypto-exchange-takedown.md (USAO Eastern District of Michigan announcement; DOJ EDMI press release URL not directly accessible from this corpus's TLS-spoofing fetch tool or Anthropic WebFetch on 2026-05-08; verbatim numerical and structural facts captured from same-day tier-2 reporting reproducing the USAO-EDMI press conference content — flagged as open follow-up)
+- Pages created: wiki/operations/e-note-crypto-exchange-takedown-2025.md, wiki/sources/2025-12-17_doj-edmi_e-note-crypto-exchange-takedown.md, wiki/organizations/finland-nbi.md (stub — first wiki entry for the Finnish National Bureau of Investigation in the public IC corpus)
+- Pages updated: 4 country pages (US, DE, FI, RU — `operations_participated`), 3 organization pages (us-doj, fbi, germany-bka — `operations_participated`), 2 crime-type pages (money-laundering-ic, ransomware-ic — `notable_operations` + sources). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - Mykhalio Petrovich Chudnovets, 39, Russian national, indicted in EDMI on one count of money laundering conspiracy (max 20 years) for operating the E-Note cryptocurrency exchange and payment-processing service from approximately 2011 through 2025.
+  - 3 domains seized (e-note.com, e-note.ws, jabb.mn) plus servers and associated mobile applications.
+  - FBI identified USD 70 million+ in illicit proceeds transferred through E-Note since 2017; US victims in healthcare and critical-infrastructure sectors.
+  - Multi-jurisdictional cooperation: USAO-EDMI, FBI Detroit Division, Michigan State Police (incl. Michigan Cyber Command Center), German BKA, Finnish NBI. First wiki entry for the Finnish NBI as a national-agency record.
+  - Continues the 2024-2026 pattern of Russian-national operator attribution in DOJ-led cybercrime takedowns alongside Volkov (Yanluowang IAB) and Khoroshev (LockBit administrator).
+  - Korean involvement not named — South Korea not added to `participating_countries`.

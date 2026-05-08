@@ -25,6 +25,7 @@ notable_operations:
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+  - "[[e-note-crypto-exchange-takedown-2025]]"
 notable_cases:
 
 criminalization_status:
@@ -33,12 +34,13 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
   - "[[2026-02-03_eurojust_successful-operation-illegal-streaming-services]]"
   - "[[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests]]"
+  - "[[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]]"
 created: 2026-04-14
 updated: 2026-05-08
 ---
@@ -100,3 +102,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [2] | [[2026-01-29_ace_operation-switch-off-illegal-iptv-ring|ACE Applauds Coordinated Global Law-Enforcement Action Against Industrial-Scale Illegal IPTV Ring]] | Alliance for Creativity and Entertainment | 2026-01-29 | https://www.alliance4creativity.com/news/ace-applauds-coordinated-global-law-enforcement-action-against-industrial-scale-illegal-iptv-ring/ |
 | [3] | [[2026-02-03_eurojust_successful-operation-illegal-streaming-services|Successful operation against illegal streaming services with millions of users worldwide]] | Eurojust | 2026-02-03 | https://www.eurojust.europa.eu/news/successful-operation-against-illegal-streaming-services-millions-users-worldwide |
 | [4] | [[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests\|Coordinated Takedown of Scam Centers Leads to at Least 276 Arrests; Alleged Managers and Recruiters Charged in San Diego]] | US DOJ (OPA) | 2026-04-29 | https://www.justice.gov/opa/pr/coordinated-takedown-scam-centers-leads-least-276-arrests-alleged-managers-and-recruiters |
+| [5] | [[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown\|U.S. and International Partners Take Down E-Note Crypto Exchange and Indict Russian Operator]] | USAO-EDMI / FBI Detroit / Michigan State Police | 2025-12-17 | https://www.justice.gov/usao-edmi/news-and-press-releases-9 |

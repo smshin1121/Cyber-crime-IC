@@ -14,7 +14,7 @@ treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: non-party
     date: ""
-    reservations:
+    reservations: ""
 central_authority:
   mlat: ""
   budapest: ""
@@ -30,6 +30,7 @@ bilateral_agreements:
 
 operations_participated:
   - "[[us-v-volkov-yanluowang-sentencing]]"
+  - "[[e-note-crypto-exchange-takedown-2025]]"
 notable_cases:
 
 cooperation_assessment: ""

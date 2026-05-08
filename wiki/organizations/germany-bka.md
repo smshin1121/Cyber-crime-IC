@@ -55,6 +55,7 @@ operations_participated:
   - "[[operation-disruptor]]"
   - "[[operation-chakra-ii]]"
   - "[[operation-endgame-phase3]]"
+  - "[[e-note-crypto-exchange-takedown-2025]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

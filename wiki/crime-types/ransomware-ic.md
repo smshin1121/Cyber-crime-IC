@@ -30,6 +30,7 @@ notable_operations:
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
   - "[[us-v-volkov-yanluowang-sentencing]]"
+  - "[[e-note-crypto-exchange-takedown-2025]]"
 notable_cases:
 
 criminalization_status:
@@ -38,7 +39,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 11
+source_count: 12
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -51,6 +52,7 @@ sources:
   - "[[2025-11-13_eurojust_operation-endgame-phase3-malware-operation]]"
   - "[[2024-05-07_justice-gov-dnj_us-charges-russian-national-developing-operating-lockbit-ransomware]]"
   - "[[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang]]"
+  - "[[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]]"
 created: 2026-04-08
 updated: 2026-05-08
 ---
@@ -230,3 +232,4 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [9] | [[2025-11-13_eurojust_operation-endgame-phase3-malware-operation\|Authorities continue to protect citizens from cybercriminals during major malware operation]] | Eurojust | 2025-11-13 | https://www.eurojust.europa.eu/news/authorities-continue-protect-citizens-cybercriminals-during-major-malware-operation |
 | [10] | [[2024-05-07_justice-gov-dnj_us-charges-russian-national-developing-operating-lockbit-ransomware\|U.S. Charges Russian National with Developing and Operating Lockbit Ransomware]] | US DOJ DNJ / USAO-NJ | 2024-05-07 | https://www.justice.gov/usao-nj/pr/us-charges-russian-national-developing-and-operating-lockbit-ransomware |
 | [11] | [[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang\|Russian Citizen Sentenced to Prison for Hacking into U.S. Companies and Enabling Major Cybercrime Groups to Extort Tens of Millions of Dollars]] | US DOJ (OPA) | 2026-03-23 | https://www.justice.gov/opa/pr/russian-citizen-sentenced-prison-hacking-us-companies-and-enabling-major-cybercrime-groups |
+| [12] | [[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown\|U.S. and International Partners Take Down E-Note Crypto Exchange and Indict Russian Operator]] | USAO-EDMI / FBI Detroit / Michigan State Police | 2025-12-17 | https://www.justice.gov/usao-edmi/news-and-press-releases-9 |

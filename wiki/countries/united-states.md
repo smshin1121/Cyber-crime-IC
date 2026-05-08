@@ -144,6 +144,7 @@ operations_participated:
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
   - "[[us-v-volkov-yanluowang-sentencing]]"
+  - "[[e-note-crypto-exchange-takedown-2025]]"
 region: north-america
 source_count: 1
 sources:

@@ -52,6 +52,7 @@ operations_participated:
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
   - "[[us-v-volkov-yanluowang-sentencing]]"
+  - "[[e-note-crypto-exchange-takedown-2025]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

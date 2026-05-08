@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (688)
+# Sources (689)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -69,6 +69,7 @@ updated: 2026-04-14
 | [[2025-12-23_interpol-int_support-for-afripol-operation-sentinel]] | report | INTERPOL | ? | high | ? |
 | [[2025-12-22_eurojusts-cross-border-investigations-2025_credit-card-fraud-roundup]] | report | Eurojust | ? | high | ? |
 | [[2025-12-22-interpol-operation-sentinel-africa]] | press-release | INTERPOL | ? | high | ? |
+| [[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]] | press-release | US Attorney's Office, Eastern District of Michigan (USAO-EDMI); FBI Detroit; Michigan State Police | ? | high | ? |
 | [[2025-12-17_01net_ukraine-call-center-10m-fraud]] | news | 01net | 2 | medium | ? |
 | [[2025-12-16_helpnetsecurity_ukraine-scam-call-centers]] | news | Help Net Security | 2 | medium | ? |
 | [[2025-12-16_eurojust_fraudulent-call-centres-ukraine]] | press-release | Eurojust | 1 | high | ? |
