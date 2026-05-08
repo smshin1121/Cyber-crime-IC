@@ -15,13 +15,14 @@ frameworks_administered:
 headquarters: "Washington, D.C., United States"
 key_roles:
 
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 mandate: "Enforce federal law, administer justice, and ensure public safety; central"
 mechanisms_operated:
 
 member_states: 0
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
+  - "[[us-v-victoria-eduardovna-dubranova]]"
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:
@@ -978,7 +979,7 @@ sources:
 status: active
 title: "US Department of Justice (DOJ)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Current Status (as of 2026-04-10)
 

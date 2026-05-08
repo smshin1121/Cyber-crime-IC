@@ -1,24 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: Cyberpolice of Ukraine
-  mlat: Office of the Prosecutor General
-cooperation_assessment: Ukraine is a **Budapest Convention party** since 2005 and
-  a highly active cooperation partner. Despite the ongoing Russian invasion since
-  February 2022, Ukraine's Cyberpolice and prosecutorial authorities have continued
-  engagement in international cybercrime operations, particularly against ransomware
-  actors. Ukraine is *almost certainly* one of the most operationally experienced
-  eastern European cybercrime cooperation partners.
+  budapest: "Cyberpolice of Ukraine"
+  mlat: "Office of the Prosecutor General"
+cooperation_assessment: "Ukraine is a **Budapest Convention party** since 2005 and"
 created: 2026-04-10
 cybercrime_legislation:
   data_retention: unknown
-  primary_law: Criminal Code of Ukraine Arts. 361-363-1; Law on Cybersecurity (2017)
-  primary_law_date: '2001-04-05'
+  primary_law: "Criminal Code of Ukraine Arts. 361-363-1; Law on Cybersecurity (2017)"
+  primary_law_date: 2001-04-05
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: unknown
@@ -27,33 +23,36 @@ ic_capacity:
   rating: high
 iso_code: UA
 key_agencies:
-- '[[ukraine-police]]'
-last_verified: '2026-04-10'
+  - "[[ukraine-police]]"
+last_verified: 2026-05-09
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  - "[[us-v-victoria-eduardovna-dubranova]]"
 operations_participated:
-- '[[emotet-takedown]]'
-- '[[darkmarket-takedown]]'
-- '[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]'
-- '[[operation-avalanche]]'
-- '[[dnipro-fraudulent-call-centre-takedown-2026]]'
+  - "[[emotet-takedown]]"
+  - "[[darkmarket-takedown]]"
+  - "[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]"
+  - "[[operation-avalanche]]"
+  - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
 region: eastern-europe
 source_count: 3
-sources: []
+sources:
+  []
 title: Ukraine
 treaty_memberships:
-- date: '2005-09-10'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2005-09-10
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
-
 ## Summary
 
 Ukraine is a **[[budapest-convention|Budapest Convention]] party** since 2005 and has been one of the most operationally active eastern European cybercrime cooperation partners. The **Cyberpolice of Ukraine** ([[ukraine-police]]) — Department of Cyber Police within the National Police of Ukraine — leads cybercrime investigations.

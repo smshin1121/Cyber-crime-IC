@@ -3,8 +3,8 @@ type: organization
 title: "Office of International Affairs"
 status: active
 created: 2026-04-26
-updated: 2026-05-08
-last_verified: 2026-05-08
+updated: 2026-05-09
+last_verified: 2026-05-09
 org_type: justice-international-cooperation-office
 country: "[[united-states]]"
 jurisdiction:
@@ -39,6 +39,7 @@ sources:
   - "[[2023-07-01_oodaloop-com_doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-c]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
+  - "[[us-v-victoria-eduardovna-dubranova]]"
 ---
 ## Summary
 

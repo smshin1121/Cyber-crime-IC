@@ -26,22 +26,23 @@ notable_operations:
   - "[[operation-pleiades]]"
   - "[[operation-power-off-2026-04]]"
 notable_cases:
-
+  - "[[us-v-victoria-eduardovna-dubranova]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 5
+source_count: 6
 sources:
   - "[[fbi-international-ddos-for-hire-sweep]]"
   - "[[cyberscoop-international-ddos-for-hire-sweep]]"
   - "[[2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks]]"
   - "[[2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages]]"
   - "[[2026-04-13_europol_operation-poweroff-75000-ddos-users]]"
+  - "[[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname]]"
 created: 2026-04-17
-updated: 2026-05-08
+updated: 2026-05-09
 status: active
 ---
 ## Summary
@@ -73,3 +74,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [3] | [[2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks|Law enforcement shuts down 27 DDoS booters ahead of annual Christmas attacks]] | Europol | 2024-12-11 | https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks |
 | [4] | [[2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages|Law Enforcement Seizes 9 DDoS-for-Hire Webpages as Part of Global Crackdown on ‘Booter’ and ‘Stresser’ DDoS Services]] | US DOJ CDCA | 2024-09-01 | https://www.justice.gov/usao-cdca/pr/law-enforcement-seizes-9-ddos-hire-webpages-part-global-crackdown-booter-and-stresser |
 | [5] | [[2026-04-13_europol_operation-poweroff-75000-ddos-users\|Europol-supported global operation targets over 75 000 users engaged in DDoS attacks – Operation PowerOFF is a global effort aimed at dismantling criminal DDoS-for-hire infrastructure]] | Europol | 2026-04-13 | https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks |
+| [6] | [[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname\|Justice Department Announces Actions to Combat Two Russian State-Sponsored Cyber Criminal Hacking Groups]] | US DOJ (OPA) | 2025-12-10 | https://www.justice.gov/opa/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal |

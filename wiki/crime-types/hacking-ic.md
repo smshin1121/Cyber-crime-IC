@@ -17,6 +17,7 @@ key_organizations:
   - "[[fbi-cyber-division]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
+  - "[[us-v-victoria-eduardovna-dubranova]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
@@ -24,13 +25,14 @@ notable_operations:
   - "[[us-v-volkov-yanluowang-sentencing]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum]]"
   - "[[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang]]"
   - "[[2026-05-04_justice-gov_member-prolific-russian-ransomware-group-zolotarjovs-sentenced]]"
+  - "[[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -42,7 +44,7 @@ typical_mechanisms:
   - "[[domain-seizure]]"
   - "[[extradition]]"
   - "[[mutual-legal-assistance]]"
-updated: 2026-05-08
+updated: 2026-05-09
 status: active
 ---
 ## Summary
@@ -74,3 +76,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [3] | [[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum\|United States Leads Dismantlement of One of the World's Largest Hacker Forums]] | US DOJ (OPA) | 2026-03-04 | https://www.justice.gov/opa/pr/united-states-leads-dismantlement-one-worlds-largest-hacker-forums |
 | [4] | [[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang\|Russian Citizen Sentenced to Prison for Hacking into U.S. Companies and Enabling Major Cybercrime Groups to Extort Tens of Millions of Dollars]] | US DOJ (OPA) | 2026-03-23 | https://www.justice.gov/opa/pr/russian-citizen-sentenced-prison-hacking-us-companies-and-enabling-major-cybercrime-groups |
 | [5] | [[2026-05-04_justice-gov_member-prolific-russian-ransomware-group-zolotarjovs-sentenced\|Member of Prolific Russian Ransomware Group Sentenced to Prison]] | US DOJ (OPA) | 2026-05-04 | https://www.justice.gov/opa/pr/member-prolific-russian-ransomware-group-sentenced-prison |
+| [6] | [[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname\|Justice Department Announces Actions to Combat Two Russian State-Sponsored Cyber Criminal Hacking Groups]] | US DOJ (OPA) | 2025-12-10 | https://www.justice.gov/opa/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal |

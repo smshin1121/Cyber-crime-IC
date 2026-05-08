@@ -804,3 +804,15 @@
   - Builds on the 2024 Operation HAECHI V joint Korea-China dismantling of a USD 1.1 billion voice-phishing syndicate; formalises the precedent into a standing bilateral framework.
   - Pre-positions Korea-China cooperation 9 days before the 2025-11-10 Korea-Cambodia Joint Task Force MOU — coordinated Korean policy posture toward Southeast Asian scam-compound enforcement during the October-November 2025 window.
   - This is the third wiki Korea-led bilateral cooperation instrument for cybercrime IC in 2025-2026, completing the backbone alongside the 2025-11-10 Korea-Cambodia MOU and the 2026-03-03 Korea-Philippines MOU revision.
+
+
+## [2026-05-09] enrichment | DOJ 2025-12-10 — U.S. v Dubranova (CARR + NoName057(16)) two-indictment closing-out
+- Source: raw/press-releases/2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname.md (DOJ Press Release 25-1158, full-text via TLS-spoof; quotes from AAG Eisenberg, FAUSA Essayli, AD Leatherman, EPA AAA Pritzlaff preserved verbatim)
+- Pages updated: wiki/cases/us-v-victoria-eduardovna-dubranova.md (replaced thin auto-stub with full two-indictment record — case status remains "prosecuted" but participating-jurisdictions expanded from US-only to US + Ukraine + Russia, defendant nationality and aliases captured, statutory maxima 27y CARR + 5y NoName recorded, US-victim categories enumerated including public drinking-water systems, LA meat-processing facility, US election infrastructure, US nuclear-regulatory websites); wiki/sources/2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname.md created. 3 country pages and 3 organization pages backlinked via `notable_cases`; 2 crime-type pages backlinked via `notable_cases` + sources. Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - First wiki-recorded US public-record indictment to directly allege GRU founding/funding/direction of a named Telegram hacktivist group (CARR / Z-Pentest, with >100 members including juveniles and 75,000+ Telegram followers).
+  - First wiki-recorded US prosecution to identify the Russian Presidential-decree CISM organisation (October 2018) as a staffing source for a hacktivist DDoS group (NoName057(16) DDoSia).
+  - US-jurisdictional extradition reach demonstrated for a Ukrainian-national operator of Russian-state-tied groups; specific source-state of extradition not enumerated in cited tier-1 release.
+  - Concurrent State Department reward offers: USD 2M (CARR), USD 10M (NoName); concurrent multi-agency Joint Cybersecurity Advisory by FBI/CISA/NSA/DOE/EPA/DC3.
+  - FBI Los Angeles Field Office's "Operation Red Circus" named as the umbrella US enforcement frame against Russian state-sponsored cyberthreats.
+  - Korean involvement not named.

@@ -33,10 +33,11 @@ operations_participated:
   - "[[e-note-crypto-exchange-takedown-2025]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
+  - "[[us-v-victoria-eduardovna-dubranova]]"
 cooperation_assessment: ""
 source_count: 4
 created: 2026-04-20
-updated: 2026-05-08
+updated: 2026-05-09
 status: corpus-linked
 sources:
   - "[[2017-03-15_npr_us-indicts-2-russian-security-officials-over-yahoo-hack]]"

@@ -16,13 +16,14 @@ key_roles:
   - "international liaison"
   - "infrastructure seizure support"
   - "victim notification"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 mandate: "Legacy compatibility page for FBI references in older operation records."
 mechanisms_operated:
 
 member_states: 0
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
+  - "[[us-v-victoria-eduardovna-dubranova]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:
@@ -63,7 +64,7 @@ sources:
 status: active
 title: FBI
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 jurisdiction: "United States"
 ---
 ## Summary
