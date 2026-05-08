@@ -8,19 +8,18 @@ cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
   procedural_powers:
-    []
+
   data_retention: ""
 treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
     reservations:
-      []
 central_authority:
   mlat: ""
   budapest: ""
 key_agencies:
-  []
+
 ic_capacity:
   rating: unknown
   digital_forensics: unknown
@@ -28,19 +27,20 @@ ic_capacity:
   english_proficiency: medium
   avg_mlat_response_days: unknown
 bilateral_agreements:
-  []
+
 operations_participated:
   - "[[andromeda-botnet-takedown]]"
   - "[[operation-avalanche]]"
+  - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
 notable_cases:
-  []
+
 cooperation_assessment: ""
 source_count: 2
 sources:
   - "[[2024-06-28_aljazeera-com_indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali]]"
   - "[[2024-06-29_taipeitimes-com_103-taiwanese-detained-in-bali-cybercrime-raid]]"
 created: 2026-04-17
-updated: 2026-04-29
+updated: 2026-05-09
 status: corpus-linked
 ---
 ## Summary

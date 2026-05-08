@@ -978,6 +978,7 @@ operations_participated:
   - "[[operation-cronos-phase2]]"
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
+  - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

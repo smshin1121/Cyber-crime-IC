@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | DOJ 2025-06-30 — DPRK RevGen Initiative coordinated nationwide enforcement wave (DPRK IT worker schemes)
+- Source: `raw/press-releases/2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers.md` (DOJ-OPA Press Release 25-680; tier-1 primary)
+- Pages created: [[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers]] (source summary), [[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]] (operation, case_id `CYB-2025-209`)
+- Pages updated: 7 country pages (US/DPRK/CN/UAE/TW/RS/MY) operations_participated; [[fbi]], [[us-doj]] (operations_participated); [[online-fraud-ic]], [[money-laundering-ic]] (notable_operations + sources + body Reference rows); [[us-v-knoot-prince-dprk-laptop-farms-2026]] (related_operation cross-link); index/master indexes reconciled.
+- Key findings: DOJ-coordinated 2025-06-30 nationwide enforcement wave under DPRK RevGen: Domestic Enabler Initiative — 2 indictments (D. Mass. Zhenxing Wang et al.; N.D. Ga. Kim Kwang Jin et al.), 1 information+plea (D. Mass. Kejia Wang), 1 arrest (Zhenxing Wang), 29 laptop-farm searches across 16 states (June 10-17 wave: 21 premises, 14 states, 137 laptops; October 2024 prior: 8 locations, 3 states, 70+ laptops), 29 financial accounts seized, 21 fraudulent websites seized, ~200 computers seized total. Defendants: 2 US, 8 Chinese, 4 DPRK (at large), 2 Taiwanese nationals. D. Mass. scheme: USD 5M+ revenue, 80+ stolen identities, 100+ Fortune 500 victim companies, ITAR theft from CA AI defense contractor (2024-01-19→2024-04-02). N.D. Ga. scheme: USD 900K+ virtual currency theft via smart-contract source-code modification, laundered via Tornado Cash + fraudulent Malaysian IDs. First wiki record of DPRK RevGen Initiative as discrete IC enforcement framework class.
+
 ## [2026-05-09] ingest | USAO-OR 2025-07-16 — US v. Vardanyan / Ryuk ransomware (Armenian national extradited from Ukraine)
 - Source: `raw/press-releases/2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy.md` (USAO-OR press release; tier-1 primary)
 - Pages created: [[2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy]] (source summary), [[us-v-vardanyan-avetisyan-ryuk-ransomware]] (case)

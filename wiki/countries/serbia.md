@@ -1,24 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: Special Prosecutor's Office for High-Tech Crime
-  mlat: Ministry of Justice
-cooperation_assessment: Serbia is a **Budapest Convention party** since 2009 and has
-  ratified the Second Additional Protocol (CETS 224). Serbia established dedicated
-  high-tech crime institutions — a Special Prosecutor's Office for High-Tech Crime
-  and a specialized court department — *likely* making it a capable partner in the
-  Western Balkans region.
+  budapest: "Special Prosecutor's Office for High-Tech Crime"
+  mlat: "Ministry of Justice"
+cooperation_assessment: "Serbia is a **Budapest Convention party** since 2009 and has"
 created: 2026-04-10
 cybercrime_legislation:
   data_retention: unknown
-  primary_law: Law on Organization and Competence of Government Authorities for Combating
-    High-Tech Crime; Criminal Code
-  primary_law_date: '2005-07-14'
+  primary_law: "Law on Organization and Competence of Government Authorities for Combating"
+  primary_law_date: 2005-07-14
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: unknown
@@ -26,28 +22,33 @@ ic_capacity:
   english_proficiency: medium
   rating: medium
 iso_code: RS
-key_agencies: []
-last_verified: '2026-04-10'
+key_agencies:
+  []
+last_verified: 2026-05-09
 legal_system: civil-law
-notable_cases: []
-operations_participated: []
+notable_cases:
+  []
+operations_participated:
+  - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
 region: balkans
 source_count: 3
-sources: []
-title: Republic of Serbia
+sources:
+  []
+title: "Republic of Serbia"
 treaty_memberships:
-- date: '2009-04-14'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2023-11-02'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: party
+  - date: 2009-04-14
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2023-11-02
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: party
 type: country
-updated: 2026-04-10
+updated: 2026-05-09
 ---
-
 ## Summary
 
 Serbia is a **[[budapest-convention|Budapest Convention]] party** since 2009 and is *almost certainly* one of the first states to ratify the **Second Additional Protocol (CETS 224)** [1]. Serbia has institutionalized cybercrime enforcement through a **Special Prosecutor's Office for High-Tech Crime** and a specialized department within the Belgrade Higher Court.

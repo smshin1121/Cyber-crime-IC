@@ -156,6 +156,7 @@ operations_participated:
   - "[[operation-token-mirrors-2026]]"
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
 region: north-america
 source_count: 1
 sources:

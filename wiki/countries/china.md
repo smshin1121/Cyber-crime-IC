@@ -11,6 +11,7 @@ operations_participated:
   - "[[isoon-apt27-indictment]]"
   - "[[operation-haechi-vi]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+  - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
 region: east-asia
 source_count: 1
 sources:

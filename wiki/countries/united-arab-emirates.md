@@ -10,12 +10,13 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+  - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
 source_count: 0
 sources:
 
 created: 2026-04-21
-updated: 2026-05-08
-last_verified: 2026-05-08
+updated: 2026-05-09
+last_verified: 2026-05-09
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

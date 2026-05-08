@@ -64,6 +64,7 @@ operations_participated:
   - "[[operation-token-mirrors-2026]]"
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3
