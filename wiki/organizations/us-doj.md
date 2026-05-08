@@ -967,6 +967,7 @@ operations_participated:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-endgame-phase3]]"
+  - "[[operation-cronos-phase2]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

@@ -92,6 +92,7 @@ related_cases:
 
 related_operations:
   - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase2]]"
 challenges_encountered:
 
 lessons_learned:
@@ -106,7 +107,7 @@ sources:
   - "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
   - "[[2024-10-02_therecord-media_operation-cronos-phase-3-lockbit]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Cronos Phase 3** was the third phase of the international enforcement campaign against the **LockBit** ransomware group, announced on 1 October 2024. This phase resulted in 4 new arrests across France, the UK, and Spain, the seizure of 9 servers in Spain, and coordinated **financial sanctions** by Australia, the UK, and the US against a prolific LockBit affiliate linked to **Evil Corp**."

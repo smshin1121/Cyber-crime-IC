@@ -35,6 +35,7 @@ operations_participated:
   - "[[operation-morpheus]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-endgame-phase3]]"
+  - "[[operation-cronos-phase2]]"
 org_type: national-agency
 parent_org: ""
 source_count: 6

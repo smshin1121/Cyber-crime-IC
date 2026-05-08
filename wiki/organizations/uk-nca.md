@@ -59,6 +59,7 @@ operations_participated:
   - "[[operation-disruptor]]"
   - "[[operation-chakra-ii]]"
   - "[[operation-endgame-phase3]]"
+  - "[[operation-cronos-phase2]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

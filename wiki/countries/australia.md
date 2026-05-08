@@ -21,6 +21,7 @@ operations_participated:
   - "[[leakbase-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
   - "[[operation-endgame-phase3]]"
+  - "[[operation-cronos-phase2]]"
 region: oceania
 source_count: 0
 sources:

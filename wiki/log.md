@@ -700,3 +700,14 @@
   - Greece enters the Endgame partner roster for the first time in this phase via the RAT-suspect arrest.
   - Tier-2 reporting (CyberNews, eSecurity Planet) widens the participating-countries roster to include Belgium and Lithuania alongside the 9 named in the cited Eurojust release; per project rule those two countries are not added to `participating_countries` until a tier-1 source confirms them — flagged as open follow-up.
   - Korean involvement not named — South Korea not added to `participating_countries`.
+
+
+## [2026-05-08] gap-fill | DOJ DNJ 2024-05-07 — Operation Cronos Phase 2 (Khoroshev / LockBitSupp indictment + concurrent US-UK-AU sanctions)
+- Source: raw/press-releases/2024-05-07_justice-gov-dnj_us-charges-russian-national-developing-operating-lockbit-ransomware.md (US Attorney's Office for the District of New Jersey, full-text via TLS-spoof; quotes from AG Garland, US Attorney Sellinger, DAG Monaco, FBI Director Wray preserved verbatim)
+- Pages created: wiki/operations/operation-cronos-phase2.md (fills gap between existing operation-cronos-phase1 (2024-02) and operation-cronos-phase3 (2024-10)), wiki/sources/2024-05-07_justice-gov-dnj_us-charges-russian-national-developing-operating-lockbit-ransomware.md
+- Pages updated: 3 country pages (US, UK, AU — `operations_participated`), 4 organization pages (us-doj, fbi, uk-nca, australia-afp — `operations_participated`), 2 crime-type pages (ransomware-ic, malware-ic — `notable_operations` + sources), 2 sister phases (operation-cronos-phase1, operation-cronos-phase3 — `related_operations`). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - 26-count federal indictment unsealed in DNJ against Dmitry Yuryevich Khoroshev (a.k.a. LockBitSupp / LockBit / putinkrab; 31, Voronezh, Russia) — alleged developer/administrator of LockBit from September 2019 through May 2024.
+  - Concurrent international sanctions architecture: US Treasury (OFAC), UK HMT Office of Financial Sanctions Implementation (OFSI), Australia DFAT — all designating Khoroshev on the same day; State Department $10M reward.
+  - LockBit cohort scale recorded verbatim from the indictment summary: 2,500+ victims in 120+ countries; 1,800 US victims; USD 500M+ in ransom proceeds; billions of dollars in broader losses; Khoroshev personally received USD 100M+ through his 20% developer share.
+  - The wave is now correctly modelled as the named-suspect attribution layer between Phase 1 (infrastructure disruption, February 2024) and Phase 3 (arrests + further sanctions, October 2024) within the Operation Cronos umbrella.
