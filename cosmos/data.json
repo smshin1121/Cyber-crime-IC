@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T03:27:00Z",
+  "generated_at": "2026-05-08T03:39:34Z",
   "root": null,
   "stats": {
-    "total_nodes": 1292,
-    "total_edges": 12182,
+    "total_nodes": 1294,
+    "total_edges": 12211,
     "broken_links": 0,
-    "orphans": 107,
+    "orphans": 106,
     "by_type": {
       "analysis": 108,
       "audit": 1,
@@ -19,7 +19,7 @@
       "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 640
+      "source": 642
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
@@ -1003,7 +1003,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 54,
+      "degree": 55,
       "path": "wiki/analysis/source-canonical-map-2026-04-26.md",
       "meta": {}
     },
@@ -1283,7 +1283,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 83,
+      "degree": 84,
       "path": "wiki/analysis/source-duplicate-audit-2026-04-26.md",
       "meta": {}
     },
@@ -1297,7 +1297,7 @@
       "source_count": 0,
       "created": "2026-04-29-postbuild",
       "updated": "2026-04-29-postbuild",
-      "degree": 76,
+      "degree": 77,
       "path": "wiki/analysis/source-duplicate-audit-2026-04-29-postbuild.md",
       "meta": {}
     },
@@ -1311,7 +1311,7 @@
       "source_count": 0,
       "created": "2026-04-29-pre-hash-normalization-check",
       "updated": "2026-04-29-pre-hash-normalization-check",
-      "degree": 83,
+      "degree": 84,
       "path": "wiki/analysis/source-duplicate-audit-2026-04-29-pre-hash-normalization-check.md",
       "meta": {}
     },
@@ -1325,7 +1325,7 @@
       "source_count": 0,
       "created": "2026-04-29-pre-normalization-check",
       "updated": "2026-04-29-pre-normalization-check",
-      "degree": 83,
+      "degree": 84,
       "path": "wiki/analysis/source-duplicate-audit-2026-04-29-pre-normalization-check.md",
       "meta": {}
     },
@@ -1339,7 +1339,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 76,
+      "degree": 77,
       "path": "wiki/analysis/source-duplicate-audit-2026-04-29.md",
       "meta": {}
     },
@@ -1353,7 +1353,7 @@
       "source_count": 0,
       "created": "2026-05-02",
       "updated": "2026-05-02",
-      "degree": 81,
+      "degree": 82,
       "path": "wiki/analysis/source-duplicate-audit-2026-05-02.md",
       "meta": {}
     },
@@ -1367,7 +1367,7 @@
       "source_count": 0,
       "created": "2026-05-03",
       "updated": "2026-05-03",
-      "degree": 82,
+      "degree": 83,
       "path": "wiki/analysis/source-duplicate-audit-2026-05-03.md",
       "meta": {}
     },
@@ -1381,7 +1381,7 @@
       "source_count": 0,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 83,
+      "degree": 84,
       "path": "wiki/analysis/source-duplicate-audit-2026-05-07.md",
       "meta": {}
     },
@@ -1395,7 +1395,7 @@
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 83,
+      "degree": 84,
       "path": "wiki/analysis/source-duplicate-audit-2026-05-08.md",
       "meta": {}
     },
@@ -1952,7 +1952,7 @@
       "source_count": 1,
       "created": "2026-04-14",
       "updated": "2026-04-29",
-      "degree": 26,
+      "degree": 27,
       "path": "wiki/countries/austria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2036,7 +2036,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 32,
+      "degree": 33,
       "path": "wiki/countries/belgium.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2173,7 +2173,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 35,
+      "degree": 36,
       "path": "wiki/countries/bulgaria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2497,7 +2497,7 @@
       "source_count": 1,
       "created": "2026-04-11",
       "updated": "2026-04-29",
-      "degree": 34,
+      "degree": 35,
       "path": "wiki/countries/denmark.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2566,7 +2566,7 @@
       "source_count": 3,
       "created": "2026-04-20",
       "updated": "2026-04-29",
-      "degree": 15,
+      "degree": 16,
       "path": "wiki/countries/estonia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3126,7 +3126,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 28,
+      "degree": 29,
       "path": "wiki/countries/lithuania.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3143,7 +3143,7 @@
       "source_count": 0,
       "created": "2026-04-11",
       "updated": "2026-05-03",
-      "degree": 8,
+      "degree": 9,
       "path": "wiki/countries/luxembourg.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3478,7 +3478,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 19,
+      "degree": 20,
       "path": "wiki/countries/norway.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3991,7 +3991,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 35,
+      "degree": 36,
       "path": "wiki/countries/thailand.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4455,7 +4455,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 4,
+      "degree": 3,
       "path": "wiki/crime-types/ddos-extortion.md",
       "meta": {}
     },
@@ -4473,7 +4473,7 @@
       "source_count": 4,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 21,
       "path": "wiki/crime-types/ddos-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -4721,7 +4721,7 @@
       "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 132,
+      "degree": 131,
       "path": "wiki/legal-frameworks/budapest-convention.md",
       "meta": {
         "status": "in-force",
@@ -4761,7 +4761,7 @@
       "source_count": 1,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 0,
+      "degree": 1,
       "path": "wiki/legal-frameworks/computer-fraud-and-abuse-act.md",
       "meta": {
         "status": "in-force"
@@ -5200,7 +5200,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 23,
+      "degree": 24,
       "path": "wiki/mechanisms/domain-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5216,7 +5216,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 51,
+      "degree": 52,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5506,7 +5506,7 @@
       "source_count": 2,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 52,
+      "degree": 50,
       "path": "wiki/mechanisms/mlat-process.md",
       "meta": {
         "mechanism_type": "formal-mlat",
@@ -5524,7 +5524,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 95,
+      "degree": 96,
       "path": "wiki/mechanisms/mutual-legal-assistance.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5540,7 +5540,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 72,
+      "degree": 73,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5556,7 +5556,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 56,
+      "degree": 57,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -8309,15 +8309,15 @@
       "title": "Operation PowerOFF",
       "title_ko": null,
       "aliases": [
-        "Power Off",
         "PowerOFF",
+        "Power Off",
         "Operation Power Off"
       ],
-      "summary": "Operation PowerOFF is an ongoing, multi-phase international law enforcement operation targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by Europol's European…",
-      "source_count": 7,
+      "summary": "Operation PowerOFF is an ongoing international law enforcement campaign against DDoS-for-hire infrastructure. The campaign targets both supply and demand: administrators of booter and stresser services, reconstituted domains, technical…",
+      "source_count": 9,
       "created": "2026-04-10",
-      "updated": "2026-04-27",
-      "degree": 82,
+      "updated": "2026-05-08",
+      "degree": 116,
       "path": "wiki/operations/operation-power-off.md",
       "meta": {
         "status": "ongoing",
@@ -8325,7 +8325,7 @@
         "source_tier": 1,
         "operation_type": "infrastructure-seizure",
         "outcome": "success",
-        "results_arrests": 16,
+        "results_arrests": 20,
         "operation_scope": "canonical_operation"
       }
     },
@@ -9643,7 +9643,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 48,
+      "degree": 47,
       "path": "wiki/organizations/australia-afp.md",
       "meta": {
         "org_type": "national-agency",
@@ -9719,7 +9719,7 @@
       "source_count": 1,
       "created": "2026-05-04",
       "updated": "2026-05-04",
-      "degree": 12,
+      "degree": 14,
       "path": "wiki/organizations/brazil-ministry-of-justice-public-security.md",
       "meta": {
         "org_type": "national-agency",
@@ -9812,7 +9812,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 53,
+      "degree": 52,
       "path": "wiki/organizations/canada-rcmp.md",
       "meta": {
         "org_type": "national-unit",
@@ -10132,7 +10132,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 426,
+      "degree": 420,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -10168,7 +10168,7 @@
       "source_count": 12,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 255,
+      "degree": 249,
       "path": "wiki/organizations/fbi-cyber-division.md",
       "meta": {
         "org_type": "national-agency",
@@ -10258,7 +10258,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 17,
+      "degree": 19,
       "path": "wiki/organizations/france-junalco.md",
       "meta": {
         "org_type": "prosecution-office",
@@ -10277,7 +10277,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 31,
+      "degree": 33,
       "path": "wiki/organizations/france-national-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -10366,7 +10366,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 105,
+      "degree": 104,
       "path": "wiki/organizations/germany-bka.md",
       "meta": {
         "org_type": "national-agency",
@@ -10738,7 +10738,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 33,
+      "degree": 32,
       "path": "wiki/organizations/japan-npa.md",
       "meta": {
         "org_type": "national-agency",
@@ -10859,7 +10859,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 12,
+      "degree": 14,
       "path": "wiki/organizations/latvia-state-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11210,7 +11210,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 112,
+      "degree": 111,
       "path": "wiki/organizations/netherlands-politie.md",
       "meta": {
         "org_type": "national-unit",
@@ -11361,7 +11361,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 13,
+      "degree": 15,
       "path": "wiki/organizations/poland-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11434,7 +11434,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 18,
+      "degree": 20,
       "path": "wiki/organizations/portuguese-judicial-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -11471,7 +11471,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 20,
       "path": "wiki/organizations/romania-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11816,7 +11816,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 25,
+      "degree": 27,
       "path": "wiki/organizations/sweden-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11920,7 +11920,7 @@
       "source_count": 8,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 17,
+      "degree": 19,
       "path": "wiki/organizations/thailand-royal-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -11991,7 +11991,7 @@
       "source_count": 13,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 129,
+      "degree": 123,
       "path": "wiki/organizations/uk-nca.md",
       "meta": {
         "org_type": "national-agency",
@@ -12103,7 +12103,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 22,
       "path": "wiki/organizations/us-dcis.md",
       "meta": {
         "org_type": "national-unit",
@@ -15932,11 +15932,11 @@
       "title": "Federal Prosecutors in Los Angeles and Alaska Charge 6 Defendants with Operating Websites that Offered Computer Attack Services",
       "title_ko": null,
       "aliases": [],
-      "summary": "## Source Summary Operation PowerOFF is an ongoing, multi-phase international law enforcement operation targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by…",
+      "summary": "## Source Summary DOJ CDCA announced the December 2022 PowerOFF wave, including the court-authorized seizure of 48 DDoS-for-hire domains and charges against six defendants. The release frames the action as part of international efforts against…",
       "source_count": 0,
       "created": "2026-04-17",
-      "updated": "2026-04-18",
-      "degree": 3,
+      "updated": "2026-05-08",
+      "degree": 2,
       "path": "wiki/sources/2022-12-14_justice-gov_federal-prosecutors-in-los-angeles-and-alaska-charge-6-defendants.md",
       "meta": {}
     },
@@ -16162,20 +16162,6 @@
       "updated": null,
       "degree": 3,
       "path": "wiki/sources/2023-04-05_justice-gov_criminal-marketplace-disrupted-genesis-market.md",
-      "meta": {}
-    },
-    {
-      "id": "2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services",
-      "type": "source",
-      "title": "FBI seizes 13 more domains linked to DDoS-for-hire services",
-      "title_ko": null,
-      "aliases": [],
-      "summary": "## Source Summary Operation PowerOFF is an ongoing, multi-phase international law enforcement operation targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by…",
-      "source_count": 0,
-      "created": "2026-04-17",
-      "updated": null,
-      "degree": 3,
-      "path": "wiki/sources/2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services.md",
       "meta": {}
     },
     {
@@ -17117,6 +17103,20 @@
       "meta": {}
     },
     {
+      "id": "2024-07-15_cdca_miller-poweroff-sentencing",
+      "type": "source",
+      "title": "Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary On 15 July 2024, the U.S. Attorney's Office for the Central District of California announced that Jeremiah Sam Evans Miller had been sentenced to nine months in federal prison for operating the DDoS-for-hire service…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": "2026-04-18",
+      "degree": 11,
+      "path": "wiki/sources/2024-07-15_cdca_miller-poweroff-sentencing.md",
+      "meta": {}
+    },
+    {
       "id": "2024-07-16_garda-ie_interpol-operation-jackal-ireland-operation-skein-july-2024",
       "type": "source",
       "title": "INTERPOL Operation JACKAL / Ireland Operation SKEIN - July 2024",
@@ -17287,14 +17287,14 @@
     {
       "id": "2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages",
       "type": "source",
-      "title": "Law Enforcement Seizes 9 DDoS-for-Hire Webpages as Part of Global Crackdown on ‘Booter’ and ‘Stresser’ DDoS Services",
+      "title": "Law Enforcement Seizes 9 DDoS-for-Hire Webpages as Part of Global Crackdown on Booter and Stresser DDoS Services",
       "title_ko": null,
       "aliases": [],
-      "summary": "## Source Summary Operation PowerOFF is an ongoing, multi-phase international law enforcement operation targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by…",
+      "summary": "## Source Summary DOJ CDCA announced the 7 May 2025 PowerOFF phase, including seizure of 9 DDoS-for-hire domains and simultaneous Polish arrests of 4 administrators assisted by U.S. authorities. The source also identifies recurring partners…",
       "source_count": 0,
       "created": "2026-04-17",
-      "updated": "2026-04-18",
-      "degree": 4,
+      "updated": "2026-05-08",
+      "degree": 3,
       "path": "wiki/sources/2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages.md",
       "meta": {}
     },
@@ -18046,11 +18046,11 @@
       "title": "Law enforcement shuts down 27 DDoS booters ahead of annual Christmas attacks",
       "title_ko": null,
       "aliases": [],
-      "summary": "## Source Summary Operation PowerOFF is an ongoing, multi-phase international law enforcement operation targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by…",
+      "summary": "## Source Summary Europol reported the December 2024 Operation PowerOFF phase against DDoS-for-hire booter and stresser services. The phase involved 15 countries, 27 websites taken down, 3 administrators arrested in France and Germany, more than…",
       "source_count": 0,
       "created": "2026-04-17",
-      "updated": null,
-      "degree": 4,
+      "updated": "2026-05-08",
+      "degree": 3,
       "path": "wiki/sources/2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks.md",
       "meta": {}
     },
@@ -20491,20 +20491,6 @@
       "meta": {}
     },
     {
-      "id": "2026-04-17_en-wikipedia-org_operation-poweroff",
-      "type": "source",
-      "title": "Operation PowerOFF",
-      "title_ko": null,
-      "aliases": [],
-      "summary": "## Source Summary Operation PowerOFF is an ongoing, multi-phase international law enforcement operation targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by…",
-      "source_count": 0,
-      "created": "2026-04-17",
-      "updated": null,
-      "degree": 3,
-      "path": "wiki/sources/2026-04-17_en-wikipedia-org_operation-poweroff.md",
-      "meta": {}
-    },
-    {
       "id": "2026-04-17_europol-europa-eu_operation-endgame-official-page",
       "type": "source",
       "title": "Operation Endgame — official page",
@@ -20516,6 +20502,20 @@
       "updated": null,
       "degree": 2,
       "path": "wiki/sources/2026-04-17_europol-europa-eu_operation-endgame-official-page.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-04-17_europol_europol-supported-global-operation-targets-over-75-000-users",
+      "type": "source",
+      "title": "Europol-supported global operation targets over 75 000 users engaged in DDoS attacks",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Europol reported the April 2026 Operation PowerOFF action week across 21 countries. The action targeted DDoS-for-hire users and infrastructure, taking down 53 domains, issuing 25 search warrants, making 4 arrests, and sending more…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": "2026-05-08",
+      "degree": 2,
+      "path": "wiki/sources/2026-04-17_europol_europol-supported-global-operation-targets-over-75-000-users.md",
       "meta": {}
     },
     {
@@ -20589,6 +20589,20 @@
       "meta": {}
     },
     {
+      "id": "2026-04-18_justice-gov_2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering",
+      "type": "source",
+      "title": "2 Defendants Charged in U.S. Courts as Part of Global Crackdown on Booter Services Offering Distributed Denial-of-Service Attacks",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DOJ CDCA announced the December 2024 PowerOFF wave, including 27 DDoS-for-hire domain seizures and criminal charges against two defendants. The source names assistance from Germany's BKA, the UK NCA, Netherlands Police, Poland's…",
+      "source_count": 0,
+      "created": "2026-04-18",
+      "updated": "2026-05-08",
+      "degree": 2,
+      "path": "wiki/sources/2026-04-18_justice-gov_2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering.md",
+      "meta": {}
+    },
+    {
       "id": "2026-04-18_justice-gov_avalanche-network-dismantled-international-cyber-operation",
       "type": "source",
       "title": "Avalanche Network Dismantled in International Cyber Operation",
@@ -20628,6 +20642,20 @@
       "updated": "2026-04-18",
       "degree": 5,
       "path": "wiki/sources/2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-04-18_justice-gov_federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos",
+      "type": "source",
+      "title": "Federal Authorities Seize 13 Internet Domains Associated with Booter Websites that Offered DDoS Computer Attack Services",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DOJ CDCA announced the May 2023 Operation PowerOFF follow-up sweep, including seizure of 13 DDoS-for-hire domains. Ten were described as reincarnations of services seized in the December 2022 wave. The release also records four…",
+      "source_count": 0,
+      "created": "2026-04-18",
+      "updated": "2026-05-08",
+      "degree": 2,
+      "path": "wiki/sources/2026-04-18_justice-gov_federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos.md",
       "meta": {}
     },
     {
@@ -39600,6 +39628,12 @@
     },
     {
       "source": "source-canonical-map-2026-04-26",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-canonical-map-2026-04-26",
       "target": "2015-10-13_fbi-gov_bugat-botnet-administrator-arrested-and-malware-disabled",
       "kind": "body",
       "directed": false
@@ -40368,6 +40402,12 @@
     },
     {
       "source": "source-duplicate-audit-2026-04-26",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-04-26",
       "target": "2021-11-03_justice-gov_united-states-v-joanna-de-alba",
       "kind": "body",
       "directed": false
@@ -40819,6 +40859,12 @@
     {
       "source": "source-duplicate-audit-2026-04-29-postbuild",
       "target": "2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-04-29-postbuild",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
       "kind": "body",
       "directed": false
     },
@@ -41322,6 +41368,12 @@
     },
     {
       "source": "source-duplicate-audit-2026-04-29-pre-hash-normalization-check",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-04-29-pre-hash-normalization-check",
       "target": "2021-11-03_justice-gov_united-states-v-joanna-de-alba",
       "kind": "body",
       "directed": false
@@ -41820,6 +41872,12 @@
     },
     {
       "source": "source-duplicate-audit-2026-04-29-pre-normalization-check",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-04-29-pre-normalization-check",
       "target": "2021-11-03_justice-gov_united-states-v-joanna-de-alba",
       "kind": "body",
       "directed": false
@@ -42271,6 +42329,12 @@
     {
       "source": "source-duplicate-audit-2026-04-29",
       "target": "2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-04-29",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
       "kind": "body",
       "directed": false
     },
@@ -42763,6 +42827,12 @@
     {
       "source": "source-duplicate-audit-2026-05-02",
       "target": "2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-02",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
       "kind": "body",
       "directed": false
     },
@@ -43255,6 +43325,12 @@
     {
       "source": "source-duplicate-audit-2026-05-03",
       "target": "2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-03",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
       "kind": "body",
       "directed": false
     },
@@ -43757,6 +43833,12 @@
       "directed": false
     },
     {
+      "source": "source-duplicate-audit-2026-05-07",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "source-duplicate-audit-2026-05-08",
       "target": "2017-12-20_portswigger-daily-swig_arrests-made-in-connection-with-ctb-locker-cerber-ransomware",
       "kind": "body",
@@ -44251,6 +44333,12 @@
     {
       "source": "source-duplicate-audit-2026-05-08",
       "target": "2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "source-duplicate-audit-2026-05-08",
+      "target": "2024-07-15_cdca_miller-poweroff-sentencing",
       "kind": "body",
       "directed": false
     },
@@ -69726,7 +69814,7 @@
     },
     {
       "source": "operation-power-off",
-      "target": "ddos-extortion",
+      "target": "ddos-ic",
       "kind": "crime_type",
       "directed": true
     },
@@ -69744,8 +69832,44 @@
     },
     {
       "source": "operation-power-off",
-      "target": "mlat-process",
+      "target": "computer-fraud-and-abuse-act",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "domain-seizure",
       "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
       "directed": true
     },
     {
@@ -69756,7 +69880,13 @@
     },
     {
       "source": "operation-power-off",
-      "target": "europol-ec3",
+      "target": "us-doj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "us-dcis",
       "kind": "participating_agencies",
       "directed": true
     },
@@ -69780,6 +69910,12 @@
     },
     {
       "source": "operation-power-off",
+      "target": "poland-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
       "target": "australia-afp",
       "kind": "participating_agencies",
       "directed": true
@@ -69798,49 +69934,61 @@
     },
     {
       "source": "operation-power-off",
-      "target": "us-doj",
+      "target": "france-national-police",
       "kind": "participating_agencies",
       "directed": true
     },
     {
       "source": "operation-power-off",
-      "target": "united-states",
-      "kind": "participating_countries",
+      "target": "france-junalco",
+      "kind": "participating_agencies",
       "directed": true
     },
     {
       "source": "operation-power-off",
-      "target": "united-kingdom",
-      "kind": "participating_countries",
+      "target": "latvia-state-police",
+      "kind": "participating_agencies",
       "directed": true
     },
     {
       "source": "operation-power-off",
-      "target": "netherlands",
-      "kind": "participating_countries",
+      "target": "portuguese-judicial-police",
+      "kind": "participating_agencies",
       "directed": true
     },
     {
       "source": "operation-power-off",
-      "target": "germany",
-      "kind": "participating_countries",
+      "target": "sweden-police",
+      "kind": "participating_agencies",
       "directed": true
     },
     {
       "source": "operation-power-off",
-      "target": "france",
-      "kind": "participating_countries",
+      "target": "brazil-ministry-of-justice-public-security",
+      "kind": "participating_agencies",
       "directed": true
     },
     {
       "source": "operation-power-off",
-      "target": "poland",
-      "kind": "participating_countries",
+      "target": "thailand-royal-police",
+      "kind": "participating_agencies",
       "directed": true
     },
     {
       "source": "operation-power-off",
       "target": "australia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "austria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "belgium",
       "kind": "participating_countries",
       "directed": true
     },
@@ -69852,13 +70000,43 @@
     },
     {
       "source": "operation-power-off",
+      "target": "bulgaria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
       "target": "canada",
       "kind": "participating_countries",
       "directed": true
     },
     {
       "source": "operation-power-off",
+      "target": "denmark",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "estonia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
       "target": "finland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "germany",
       "kind": "participating_countries",
       "directed": true
     },
@@ -69871,6 +70049,36 @@
     {
       "source": "operation-power-off",
       "target": "latvia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "lithuania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "luxembourg",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "norway",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "poland",
       "kind": "participating_countries",
       "directed": true
     },
@@ -69894,79 +70102,31 @@
     },
     {
       "source": "operation-power-off",
+      "target": "thailand",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-power-off",
       "target": "ddos-for-hire-sweep-2016",
       "kind": "related_operations",
       "directed": true
     },
     {
       "source": "operation-power-off",
-      "target": "europol-ec3",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "fbi-cyber-division",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "uk-nca",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
       "target": "ddos-for-hire-sweep-2016",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "netherlands-politie",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "germany-bka",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "australia-afp",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "canada-rcmp",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "japan-npa",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "romania-police",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "budapest-convention",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "operation-power-off",
-      "target": "mlat-process",
       "kind": "body",
       "directed": false
     },
@@ -77520,6 +77680,12 @@
     },
     {
       "source": "brazil-ministry-of-justice-public-security",
+      "target": "operation-power-off",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "brazil-ministry-of-justice-public-security",
       "target": "operation-404-digital-piracy-2019",
       "kind": "body",
       "directed": false
@@ -80220,6 +80386,12 @@
     },
     {
       "source": "france-junalco",
+      "target": "operation-power-off",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france-junalco",
       "target": "france-gendarmerie",
       "kind": "body",
       "directed": false
@@ -80281,6 +80453,12 @@
     {
       "source": "france-national-police",
       "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france-national-police",
+      "target": "operation-power-off",
       "kind": "operations_participated",
       "directed": true
     },
@@ -82398,6 +82576,12 @@
     },
     {
       "source": "latvia-state-police",
+      "target": "operation-power-off",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "latvia-state-police",
       "target": "cert-lv",
       "kind": "body",
       "directed": false
@@ -83562,6 +83746,12 @@
     },
     {
       "source": "poland-police",
+      "target": "operation-power-off",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "poland-police",
       "target": "operation-endgame-phase1",
       "kind": "body",
       "directed": false
@@ -83785,6 +83975,12 @@
     {
       "source": "portuguese-judicial-police",
       "target": "operation-disruptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "portuguese-judicial-police",
+      "target": "operation-power-off",
       "kind": "operations_participated",
       "directed": true
     },
@@ -84786,6 +84982,12 @@
     },
     {
       "source": "sweden-police",
+      "target": "operation-power-off",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "sweden-police",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -85045,6 +85247,12 @@
     {
       "source": "thailand-royal-police",
       "target": "infraud-organization-takedown",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "thailand-royal-police",
+      "target": "operation-power-off",
       "kind": "operations_participated",
       "directed": true
     },
@@ -85843,6 +86051,12 @@
     {
       "source": "us-dcis",
       "target": "proxy-service-takedown-2026-03",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-dcis",
+      "target": "operation-power-off",
       "kind": "operations_participated",
       "directed": true
     },
@@ -89454,19 +89668,13 @@
     },
     {
       "source": "2022-12-14_justice-gov_federal-prosecutors-in-los-angeles-and-alaska-charge-6-defendants",
-      "target": "europol-ec3",
-      "kind": "body",
-      "directed": false
+      "target": "operation-power-off",
+      "kind": "pages_updated",
+      "directed": true
     },
     {
       "source": "2022-12-14_justice-gov_federal-prosecutors-in-los-angeles-and-alaska-charge-6-defendants",
-      "target": "fbi-cyber-division",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "2022-12-14_justice-gov_federal-prosecutors-in-los-angeles-and-alaska-charge-6-defendants",
-      "target": "uk-nca",
+      "target": "operation-power-off",
       "kind": "body",
       "directed": false
     },
@@ -89575,24 +89783,6 @@
     {
       "source": "2023-04-05_justice-gov_criminal-marketplace-disrupted-genesis-market",
       "target": "operation-cookie-monster",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services",
-      "target": "europol-ec3",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services",
-      "target": "fbi-cyber-division",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services",
-      "target": "uk-nca",
       "kind": "body",
       "directed": false
     },
@@ -90263,6 +90453,12 @@
       "directed": false
     },
     {
+      "source": "2024-07-15_cdca_miller-poweroff-sentencing",
+      "target": "operation-power-off",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2024-07-18_nj_lockbit-astamirov-vasiliev-pleas",
       "target": "operation-cronos-phase1",
       "kind": "pages_updated",
@@ -90354,19 +90550,13 @@
     },
     {
       "source": "2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages",
-      "target": "europol-ec3",
-      "kind": "body",
-      "directed": false
+      "target": "operation-power-off",
+      "kind": "pages_updated",
+      "directed": true
     },
     {
       "source": "2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages",
-      "target": "fbi-cyber-division",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages",
-      "target": "uk-nca",
+      "target": "operation-power-off",
       "kind": "body",
       "directed": false
     },
@@ -90972,19 +91162,13 @@
     },
     {
       "source": "2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks",
-      "target": "europol-ec3",
-      "kind": "body",
-      "directed": false
+      "target": "operation-power-off",
+      "kind": "pages_updated",
+      "directed": true
     },
     {
       "source": "2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks",
-      "target": "fbi-cyber-division",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks",
-      "target": "uk-nca",
+      "target": "operation-power-off",
       "kind": "body",
       "directed": false
     },
@@ -93323,24 +93507,6 @@
       "directed": false
     },
     {
-      "source": "2026-04-17_en-wikipedia-org_operation-poweroff",
-      "target": "europol-ec3",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "2026-04-17_en-wikipedia-org_operation-poweroff",
-      "target": "fbi-cyber-division",
-      "kind": "body",
-      "directed": false
-    },
-    {
-      "source": "2026-04-17_en-wikipedia-org_operation-poweroff",
-      "target": "uk-nca",
-      "kind": "body",
-      "directed": false
-    },
-    {
       "source": "2026-04-17_europol-europa-eu_operation-endgame-official-page",
       "target": "europol-ec3",
       "kind": "body",
@@ -93349,6 +93515,18 @@
     {
       "source": "2026-04-17_europol-europa-eu_operation-endgame-official-page",
       "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-04-17_europol_europol-supported-global-operation-targets-over-75-000-users",
+      "target": "operation-power-off",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-17_europol_europol-supported-global-operation-targets-over-75-000-users",
+      "target": "operation-power-off",
       "kind": "body",
       "directed": false
     },
@@ -93395,10 +93573,34 @@
       "directed": false
     },
     {
+      "source": "2026-04-18_justice-gov_2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering",
+      "target": "operation-power-off",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-18_justice-gov_2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering",
+      "target": "operation-power-off",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign",
       "target": "operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u",
       "kind": "pages_updated",
       "directed": true
+    },
+    {
+      "source": "2026-04-18_justice-gov_federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos",
+      "target": "operation-power-off",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-18_justice-gov_federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos",
+      "target": "operation-power-off",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "2026-04-18_justice-gov_three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over",

@@ -2,353 +2,271 @@
 type: operation
 title: "Operation PowerOFF"
 aliases:
+  - "PowerOFF"
   - "Power Off"
-  - PowerOFF
   - "Operation Power Off"
 case_id: CYB-2018-006
 period: 1
+operation_role: umbrella
+parent_operation: ""
 operation_type: infrastructure-seizure
 status: ongoing
 enforcement_type:
   - seizure
   - arrest
   - indictment
+  - warning
 outcome: success
 timeframe:
   announced: 2018-12-19
   start: 2018-12
   end: ""
   ongoing: true
-crime_type: "[[ddos-extortion|DDoS-for-Hire]]"
-target_entity: "DDoS-for-hire (booter/stresser) service operators and users"
-lead_agency: "[[fbi-cyber-division|FBI Cyber Division]]"
-coordinating_body: "[[europol-ec3|Europol EC3]]"
+crime_type: "[[ddos-ic]]"
+crime_types:
+  - "[[ddos-ic]]"
+  - "[[cybercrime-infrastructure-ic]]"
+  - "[[ddos-extortion]]"
+target_entity: "DDoS-for-hire booter and stresser services, administrators, resellers, and users"
+lead_agency: "[[fbi-cyber-division]]"
+coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[united-states]]"
-  - "[[united-kingdom]]"
-  - "[[netherlands]]"
-  - "[[germany]]"
-  - "[[france]]"
-  - "[[poland]]"
   - "[[australia]]"
+  - "[[austria]]"
+  - "[[belgium]]"
   - "[[brazil]]"
+  - "[[bulgaria]]"
   - "[[canada]]"
+  - "[[denmark]]"
+  - "[[estonia]]"
   - "[[finland]]"
+  - "[[france]]"
+  - "[[germany]]"
   - "[[japan]]"
   - "[[latvia]]"
+  - "[[lithuania]]"
+  - "[[luxembourg]]"
+  - "[[netherlands]]"
+  - "[[norway]]"
+  - "[[poland]]"
   - "[[portugal]]"
   - "[[romania]]"
   - "[[sweden]]"
+  - "[[thailand]]"
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
+jurisdictions:
+  - "[[australia]]"
+  - "[[austria]]"
+  - "[[belgium]]"
+  - "[[brazil]]"
+  - "[[bulgaria]]"
+  - "[[canada]]"
+  - "[[denmark]]"
+  - "[[estonia]]"
+  - "[[finland]]"
+  - "[[france]]"
+  - "[[germany]]"
+  - "[[japan]]"
+  - "[[latvia]]"
+  - "[[lithuania]]"
+  - "[[luxembourg]]"
+  - "[[netherlands]]"
+  - "[[norway]]"
+  - "[[poland]]"
+  - "[[portugal]]"
+  - "[[romania]]"
+  - "[[sweden]]"
+  - "[[thailand]]"
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
 participating_agencies:
-  - "[[fbi-cyber-division|FBI]]"
-  - "[[europol-ec3|Europol EC3]]"
-  - "[[uk-nca|UK NCA]]"
-  - "[[netherlands-politie|Dutch National Police]]"
-  - "[[germany-bka|BKA]]"
-  - "[[australia-afp|AFP]]"
-  - "[[canada-rcmp|RCMP]]"
-  - "[[japan-npa|Japan NPA]]"
-  - "[[us-doj|US DOJ]]"
+  - "[[europol-ec3]]"
+  - "[[fbi-cyber-division]]"
+  - "[[us-doj]]"
+  - "[[us-dcis]]"
+  - "[[uk-nca]]"
+  - "[[netherlands-politie]]"
+  - "[[germany-bka]]"
+  - "[[poland-police]]"
+  - "[[australia-afp]]"
+  - "[[canada-rcmp]]"
+  - "[[japan-npa]]"
+  - "[[france-national-police]]"
+  - "[[france-junalco]]"
+  - "[[latvia-state-police]]"
+  - "[[portuguese-judicial-police]]"
+  - "[[sweden-police]]"
+  - "[[brazil-ministry-of-justice-public-security]]"
+  - "[[thailand-royal-police]]"
+organizations:
+  - "[[europol-ec3]]"
+  - "[[fbi-cyber-division]]"
+  - "[[us-doj]]"
+  - "[[us-dcis]]"
+  - "[[uk-nca]]"
+  - "[[netherlands-politie]]"
+  - "[[germany-bka]]"
+  - "[[poland-police]]"
+  - "[[australia-afp]]"
+  - "[[canada-rcmp]]"
+  - "[[japan-npa]]"
+  - "[[france-national-police]]"
+  - "[[france-junalco]]"
+  - "[[latvia-state-police]]"
+  - "[[portuguese-judicial-police]]"
+  - "[[sweden-police]]"
+  - "[[brazil-ministry-of-justice-public-security]]"
+  - "[[thailand-royal-police]]"
 legal_basis:
-  - "[[budapest-convention|Budapest Convention on Cybercrime]]"
-  - "US Computer Fraud and Abuse Act (18 U.S.C. SS 1030)"
+  - "[[budapest-convention]]"
+  - "[[computer-fraud-and-abuse-act]]"
 mechanisms_used:
-  - "[[mlat-process|MLAT]]"
+  - "[[domain-seizure]]"
+  - "[[search-seizure]]"
+  - "[[electronic-evidence]]"
+  - "[[mutual-legal-assistance]]"
+  - "[[public-private-cooperation]]"
 results:
-  arrests: 16
+  arrests: 20
   indictments: 8
   servers_seized: 0
-  domains_seized: 142
+  domains_seized: 195
   cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "142+ booter/stresser domains seized across all phases (2018-2024)"
-    - "300+ users identified for follow-up in December 2024 phase"
-    - "2,000+ warning emails sent to identified users"
-    - "250+ formal warning letters issued"
-    - "Google/YouTube ad campaigns for deterrence"
+    - "At least 195 domain seizure or takedown events are documented across public PowerOFF phases when the prior 142+ corpus aggregate is combined with the April 2026 Europol-reported 53-domain action."
+    - "April 2026 phase: 21 participating countries, 53 domains taken down, 25 search warrants, 4 arrests, and more than 75,000 warning emails or letters to identified DDoS-for-hire users."
+    - "April 2026 analysis of seized datasets produced intelligence on more than 3 million criminal user accounts."
+    - "May 2025 phase: 9 DDoS-for-hire domains seized and four Polish administrators arrested with U.S. assistance."
+    - "December 2024 phase: 27 booter or stresser domains seized, three administrators arrested in France and Germany, and 300+ users identified for follow-up."
+    - "December 2022 phase: 48 domains seized and six U.S. defendants charged."
 edges:
-  - source_actor: FBI
+  - source_actor: "FBI Cyber Division"
     target_actor: "Europol EC3"
     cooperation_type: joint_investigation
     legal_basis: Budapest_Convention
     direction: undirected
-  - source_actor: FBI
+  - source_actor: "FBI Cyber Division"
     target_actor: "UK NCA"
     cooperation_type: joint_investigation
     legal_basis: MLAT
     direction: undirected
   - source_actor: "Europol EC3"
-    target_actor: "Dutch National Police"
-    cooperation_type: joint_investigation
+    target_actor: "Netherlands Police"
+    cooperation_type: information_exchange
     legal_basis: Budapest_Convention
     direction: undirected
-  - source_actor: FBI
-    target_actor: "Dutch National Police"
-    cooperation_type: info_sharing
-    legal_basis: Budapest_Convention
+  - source_actor: "Europol EC3"
+    target_actor: "Poland Central Cybercrime Bureau"
+    cooperation_type: coordinated_action
+    legal_basis: unknown
     direction: undirected
-credibility_index: 3.8
+credibility_index: 4.4
 source_tier: 1
 missing_fields:
-
+  - full_unique_domain_deduplication
 related_cases:
   - "[[us-v-miller-poweroff]]"
+  - "[[2-defendants-charged-in-u-s-courts-as-part-of-global-crackdown-on-booter-services-offering-distributed-denial-]]"
 related_operations:
-  - "[[ddos-for-hire-sweep-2016|Operation Tarpit (2016)]]"
+  - "[[ddos-for-hire-sweep-2016]]"
   - "[[operation-us-v-miller-poweroff]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
+  - "Reconstituted booter services repeatedly reappeared under new domains after earlier seizures."
 lessons_learned:
-  - "Sustained, multi-phase operations against DDoS-for-hire are more effective than one-off takedowns; seized domains reappear under new names, requiring persistent enforcement"
-  - "Demand-side deterrence (targeting users, not just operators) is essential to shrink the market"
-  - "Private sector cooperation (Cloudflare, PayPal, DigitalOcean) is critical for identifying service operators and payment flows"
-  - "Timing takedowns before Christmas disrupts the seasonal peak in DDoS attacks against gaming and e-commerce platforms"
-source_count: 7
+  - "Sustained, multi-phase pressure is more useful than one-off takedowns against commoditized DDoS-for-hire markets."
+  - "Demand-side deterrence matters: user identification, warning letters, search ads, and prevention messages complement administrator arrests and domain seizures."
+  - "Private-sector hosting, payment, search, cloud, and threat-intelligence partners are central to identifying operators, customers, and reconstituted services."
+  - "Public sources must distinguish domain-seizure events from unique criminal platforms because reconstituted domains can be counted in multiple phases."
+source_count: 9
 sources:
+  - "[[2026-04-17_europol_europol-supported-global-operation-targets-over-75-000-users]]"
   - "[[2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks]]"
-  - "[[2022-12-14_justice-gov_federal-prosecutors-in-los-angeles-and-alaska-charge-6-defendants]]"
   - "[[2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages]]"
-  - "[[2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services]]"
+  - "[[2026-04-18_justice-gov_2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering]]"
+  - "[[2026-04-18_justice-gov_federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos]]"
+  - "[[2022-12-14_justice-gov_federal-prosecutors-in-los-angeles-and-alaska-charge-6-defendants]]"
+  - "[[2024-07-15_cdca_miller-poweroff-sentencing]]"
   - "[[2024-12-12_cyberscoop-com_international-crackdown-disrupts-ddos-for-hire-operations]]"
-  - "[[2026-04-17_en-wikipedia-org_operation-poweroff]]"
   - "[[2024-12-12_theregister-com_operation-poweroff-extinguishes-18-more-ddos-booters]]"
 created: 2026-04-10
-updated: 2026-04-27
-operation_role: umbrella
-parent_operation: ""
-summary: "Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and led operationally by the [[fbi-cyber-division|FBI]], with the [[uk-nca|UK National Crime Agency (NCA)]] as a core partner. The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries."
-jurisdictions:
-  - "[[united-states]]"
-  - "[[united-kingdom]]"
-  - "[[netherlands]]"
-  - "[[germany]]"
-  - "[[france]]"
-  - "[[poland]]"
-  - "[[australia]]"
-  - "[[brazil]]"
-  - "[[canada]]"
-  - "[[finland]]"
-  - "[[japan]]"
-  - "[[latvia]]"
-  - "[[portugal]]"
-  - "[[romania]]"
-  - "[[sweden]]"
-organizations:
-  - "[[fbi-cyber-division|FBI Cyber Division]]"
-  - "[[europol-ec3|Europol EC3]]"
-  - "[[fbi-cyber-division|FBI]]"
-  - "[[uk-nca|UK NCA]]"
-  - "[[netherlands-politie|Dutch National Police]]"
-  - "[[germany-bka|BKA]]"
-  - "[[australia-afp|AFP]]"
-  - "[[canada-rcmp|RCMP]]"
-  - "[[japan-npa|Japan NPA]]"
-  - "[[us-doj|US DOJ]]"
-crime_types:
-  - "[[ddos-extortion|DDoS-for-Hire]]"
+updated: 2026-05-08
+summary: "Operation PowerOFF is an ongoing multi-phase international law enforcement campaign against DDoS-for-hire booter and stresser services. Public Europol and DOJ records show recurring enforcement from 2018 through the April 2026 action week, combining domain seizures, administrator arrests, U.S. prosecutions, user identification, warning campaigns, and public-private cooperation. The latest documented phase involved 21 countries, 53 domain takedowns, 25 search warrants, 4 arrests, more than 75,000 warning messages, and intelligence derived from more than 3 million user accounts."
 ---
+# Operation PowerOFF
+
 ## Summary
 
-Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and led operationally by the [[fbi-cyber-division|FBI]], with the [[uk-nca|UK National Crime Agency (NCA)]] as a core partner. The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries.
+Operation PowerOFF is an ongoing international law enforcement campaign against DDoS-for-hire infrastructure. The campaign targets both supply and demand: administrators of booter and stresser services, reconstituted domains, technical infrastructure, payment flows, and users who pay to launch attacks.
 
-Operation PowerOFF is almost certainly the longest-running and most impactful sustained campaign against the DDoS-for-hire ecosystem. Its distinguishing features include: (1) **supply-side dismantlement** (seizing booter platforms), (2) **demand-side deterrence** (identifying and warning users), and (3) **strategic timing** of takedowns before Christmas to disrupt seasonal attack peaks against gaming and e-commerce targets.
+The public source record now supports treating PowerOFF as a canonical operation-level page rather than as a set of disconnected U.S. prosecutions. Europol's April 2026 announcement confirms the campaign remained active after the December 2024 phase and had moved into a larger prevention-and-enforcement cycle across 21 countries.
 
-## Background
+## Scope and Boundary
 
-DDoS-for-hire services -- marketed as "booters" or "stressers" -- allow customers with minimal technical skill to launch distributed denial-of-service attacks against websites, gaming servers, and critical infrastructure for as little as $10-$20. These services lower the barrier to cybercrime participation and are disproportionately used by young offenders (often under 20 years old).
+This page is the operation-level aggregation point for PowerOFF. Defendant-specific U.S. records such as [[operation-us-v-miller-poweroff]] and [[us-v-miller-poweroff]] remain follow-on records and should not be counted as separate international-cooperation operations.
 
-The precursor to Operation PowerOFF was [[ddos-for-hire-sweep-2016|Operation Tarpit]] (December 2016), a 13-country sweep coordinated from Europol EC3 headquarters in The Hague that resulted in 34 arrests and 101 "knock-and-talk" interviews targeting booter service **customers**. Operation Tarpit established the operational template -- Europol-centered coordination with simultaneous multi-country action -- that PowerOFF would formalize and scale.
+The record is distinct from [[ddos-for-hire-sweep-2016]], the earlier 2016 Europol/FBI demand-side sweep. That 2016 action established a precursor model for identifying and warning DDoS-for-hire users, while PowerOFF is the named multi-phase campaign that began in the later booter-service takedown cycle.
 
-By 2018, law enforcement recognized that one-off takedowns were insufficient; seized services reappeared under new domain names within weeks. This led to the establishment of Operation PowerOFF as a **persistent, multi-phase campaign** with rolling enforcement waves.
+## Participation
 
-## Participating Parties
+The April 2026 Europol phase named 21 participating countries: Australia, Austria, Belgium, Brazil, Bulgaria, Denmark, Estonia, Finland, Germany, Japan, Latvia, Lithuania, Luxembourg, the Netherlands, Norway, Poland, Portugal, Sweden, Thailand, the United Kingdom, and the United States.
 
-**Core Agencies (all phases):**
-- [[fbi-cyber-division|FBI Cyber Division]] (United States) -- lead investigative agency
-- [[europol-ec3|Europol EC3]] (EU) -- coordination hub, J-CAT facilitation, crypto-tracing
-- [[uk-nca|UK National Crime Agency]] (United Kingdom)
-- [[netherlands-politie|Dutch National Police Corps]] (Netherlands)
+The broader PowerOFF record also includes countries named in earlier phases, including Canada, France, and Romania. Public sources identify Europol EC3, the FBI, DOJ, DCIS, the UK NCA, Netherlands Police, Germany's BKA, Poland's Central Cybercrime Bureau, and several national cybercrime units as recurring or phase-specific participants.
 
-**Agencies participating in later phases (2022-2024):**
-- [[germany-bka|Bundeskriminalamt (BKA)]] and Hessian State Criminal Office (Germany)
-- Poland Central Cybercrime Bureau
-- [[australia-afp|Australian Federal Police (AFP)]]
-- Brazil Federal Police
-- [[canada-rcmp|RCMP]] (Canada)
-- [[japan-npa|Japan National Police Agency]]
-- France National Police (OFAC), JUNALCO
-- Finland National Police
-- Latvia State Police
-- Portugal Judiciary Police
-- [[romania-police|Romanian Police]]
-- Sweden Regional Cybercrime Centre
+## Operational Model
 
-**Private sector partners:** Cloudflare, PayPal, and DigitalOcean provided technical information and payment data to assist in identifying service operators.
+- **Infrastructure disruption:** Authorities seized or disabled booter and stresser domains used to sell DDoS-for-hire services.
+- **Administrator accountability:** DOJ records tie the campaign to U.S. charges, guilty pleas, and sentencings; Europol reporting identifies arrests of administrators in Europe.
+- **Demand-side deterrence:** PowerOFF uses warning letters, email campaigns, search-engine ads, YouTube ads, blockchain warning messages, and removal of search-result URLs to reach users.
+- **Data exploitation:** Seized service databases allow participating countries to identify high-value users, geolocate accounts, and prepare follow-up activity.
+- **Public-private support:** Hosting, cloud, payment, search, and threat-intelligence providers support identification, seizure, and prevention work.
 
-## Legal Framework
+## Timeline
 
-- **[[budapest-convention|Budapest Convention on Cybercrime]]** (Articles 2-6 on computer-related offences; Article 29 on expedited preservation of stored data; Articles 31-35 on international cooperation) -- primary multilateral legal basis for cross-border evidence sharing and domain seizure coordination
-- **US Computer Fraud and Abuse Act (18 U.S.C. SS 1030)** -- domestic legal basis for US indictments
-- **[[mlat-process|Mutual Legal Assistance Treaties (MLATs)]]** -- used for formal evidence exchange between the US and European partners
-- National cybercrime legislation of participating countries
+| Date | Phase | Publicly documented result |
+|---|---|---|
+| 2018-12 | Initial PowerOFF wave | DOJ later described 15 DDoS-for-hire domains seized and three defendants charged. |
+| 2022-12-14 | Major U.S.-linked wave | 48 domains seized; six U.S. defendants charged; FBI, UK NCA, and Netherlands Police launched deterrence ads. |
+| 2023-05-08 | Reconstitution sweep | 13 domains seized, including 10 reincarnations of previously seized services; four defendants had pleaded guilty. |
+| 2024-07-15 | Sentencing output | Jeremiah Sam Evans Miller sentenced for RoyalStresser.com, a PowerOFF-linked booter service. |
+| 2024-12-11 | Christmas-season action | 27 booter or stresser websites seized; three administrators arrested in France and Germany; 300+ users identified for follow-up. |
+| 2025-05-07 | U.S.-Poland phase | 9 domains seized; Poland announced four administrator arrests assisted by U.S. authorities. |
+| 2026-04-13 | Global action week | 21 countries; 53 domains taken down; 25 search warrants; 4 arrests; 75,000+ warning messages. |
 
-## Operational Timeline
+## Results
 
-### Phase 1: December 2018 -- Initial Takedown
-- **Date**: 2018-12-19
-- **Domains seized**: 15
-- **Arrests**: 3 (United States)
-- **Indictments**: 3 defendants charged in US (operating DDoS-for-hire services)
-- **Notable**: First use of the "Operation PowerOFF" branding; FBI and Dutch National Police as primary investigators
+| Metric | Publicly supported value |
+|---|---:|
+| Participating countries in latest phase | 21 |
+| Countries documented across phases | 24 |
+| Domain seizure/takedown events | 195+ |
+| Arrests recorded across public phase summaries | 20+ |
+| U.S. defendants charged in public DOJ PowerOFF waves | 8+ |
+| April 2026 search warrants | 25 |
+| April 2026 warning messages | 75,000+ |
+| User accounts in seized datasets | 3,000,000+ |
 
-### Phase 2: December 2022 -- Major Expansion
-- **Date**: 2022-12-14
-- **Domains seized**: 48
-- **Arrests**: 7 (6 US citizens indicted; locations: Florida x3, Texas, Hawaii, New York)
-- **Notable services**: "Quantum" (responsible for ~50,000 attacks), plus 47 other booter platforms
-- **Countries**: United States, United Kingdom, Germany, Netherlands, Poland
-- **Indictments filed**: Central District of California and District of Alaska
-- Cloudflare, PayPal, and DigitalOcean assisted with identifying operators
+The domain count is an operational count, not a deduplicated count of unique platforms. DOJ and Europol both describe reconstituted booter services that returned under new domains after earlier seizures.
 
-### Phase 3: May 2023 -- Follow-up Seizure
-- **Date**: 2023-05-08
-- **Domains seized**: 13
-- **Note**: 10 of the 13 were reconstituted versions of services seized in December 2022 (e.g., cyberstress.org was the same service as cyberstress.us)
-- **Guilty pleas**: Four defendants from the December 2022 phase -- Jeremiah Sam Evans Miller, Angel Manuel Colon Jr., Shamar Shattock, and Cory Anthony Palmer -- pled guilty (linked to RoyalStresser.com, SecurityTeam.io, Astrostress.com, Booter.sx)
+## Evidence Notes
 
-### Phase 4: September 2024 -- Targeted Seizure
-- **Date**: 2024-09 (exact date unconfirmed)
-- **Domains seized**: 9
-- **Agencies**: FBI, US Defense Criminal Investigative Service (DCIS)
-- **Note**: DCIS involvement reflected growing concern about DDoS attacks targeting military and government networks
+The strongest current source is Europol's April 2026 release, which confirms the latest international phase, the 21-country list, the 53-domain takedown, 4 arrests, 25 search warrants, 75,000 warning messages, and use of seized datasets containing more than 3 million user accounts.
 
-### Phase 5: December 2024 -- Largest Single Phase
-- **Date**: 2024-12-11
-- **Domains seized**: 27 (including zdstresser.net, orbitalstress.net, starkstresser.net)
-- **Additional**: 18 booter platforms dismantled at infrastructure level
-- **Arrests**: 3 administrators (France, Germany)
-- **Users identified**: 300+ for follow-up
-- **Countries**: 15 (Australia, Brazil, Canada, Finland, France, Germany, Japan, Latvia, Netherlands, Poland, Portugal, Romania, Sweden, United Kingdom, United States)
-- **Deterrence measures**: Google search ads and YouTube campaigns, 250+ warning letters, 2,000+ emails to identified users
-
-## Results and Impact
-
-**Cumulative results across all phases (2018-2024):**
-
-| Metric | Total |
-|--------|-------|
-| Domains seized | 142+ |
-| Arrests | 16+ |
-| Defendants indicted/charged | 8+ |
-| Countries participating (max) | 15 |
-| Guilty pleas secured | 4+ |
-| Users identified for follow-up | 300+ (Dec 2024 alone) |
-
-**Qualitative impact:**
-- Disrupted the availability of major booter services, particularly during the Christmas DDoS attack season
-- Established a persistent enforcement model where reconstituted services are re-seized (as demonstrated in May 2023)
-- The demand-side deterrence approach (warning letters, Google ads) likely reduced the user base, though measurement is difficult
-- One seized service (Quantum) was linked to approximately 50,000 attacks globally, indicating the scale of disruption
-
-> [!note] Aggregate figures
-> Cumulative arrest and seizure figures are compiled from DOJ press releases, Europol announcements, and secondary reporting across multiple phases. Some overlap may exist where reconstituted domains were seized more than once.
-
-## Cooperation Mechanisms Used
-
-1. **Europol EC3 Coordination Hub** -- Europol hosted coordination meetings, organized "technical investigation sprints," provided analysis, crypto-tracing expertise, and forensic assistance
-2. **Joint Cybercrime Action Taskforce (J-CAT)** -- Europol's standing operational platform for multi-country cybercrime investigations facilitated information exchange
-3. **[[mlat-process|Mutual Legal Assistance Treaties]]** -- Formal evidence exchange between US and European jurisdictions for indictment support
-4. **Private sector voluntary cooperation** -- Cloudflare (hosting data), PayPal (payment flows), DigitalOcean (infrastructure intelligence) voluntarily assisted law enforcement
-5. **Google Ads deterrence campaign** -- Law enforcement placed advertisements on Google search results for "booter" and "stresser" to warn potential users of legal consequences
-
-## Challenges and Friction Points
-
-- **Domain reconstitution**: Seized services frequently reappeared under new domain names within weeks. The May 2023 phase explicitly targeted 10 reconstituted services from the December 2022 takedown, demonstrating the "whack-a-mole" challenge
-- **Cross-jurisdictional hosting**: Booter services use hosting providers across multiple jurisdictions, requiring simultaneous coordination for effective seizure
-- **Youth offender dilemma**: Many users are teenagers, raising questions about whether prosecution or diversion/education is more appropriate and effective for deterrence
-- **Measurement difficulty**: Quantifying the deterrent effect of takedowns and warning campaigns on the overall DDoS-for-hire market is methodologically challenging
-
-## Lessons Learned
-
-1. **Persistence over one-off actions**: The multi-phase approach demonstrates that sustained campaigns with rolling enforcement waves are more effective than single takedowns against commoditized cybercrime services
-2. **Dual supply-and-demand targeting**: Combining infrastructure seizure (supply side) with user identification and warning campaigns (demand side) addresses both ends of the market
-3. **Strategic timing**: Scheduling takedowns before Christmas disrupts peak DDoS attack season against gaming and e-commerce platforms
-4. **Private sector intelligence is essential**: Payment processors and hosting providers hold critical evidence for identifying operators
-5. **Template for commoditized cybercrime**: PowerOFF established a replicable model for sustained campaigns against other "crime-as-a-service" markets
-
-## Korean Involvement (한국의 참여)
-
-There is no confirmed direct Korean participation in any phase of Operation PowerOFF as of December 2024. However, [[japan-npa|Japan's National Police Agency]] participated in the December 2024 phase, indicating growing East Asian engagement. South Korea's booter/stresser market exposure is likely limited compared to the primary English-language market, but DDoS attacks against Korean gaming platforms (a significant target category) mean that future Korean participation is plausible.
-
-## Contradictions & Open Questions
-
-1. **Total domain count discrepancy**: Wikipedia cites "48 websites" for the 2018 phase, but DOJ press releases specify 15 domains in December 2018. The 48 figure likely conflates 2018 and 2022 phases. This page uses the DOJ/Europol primary source figures.
-2. **September 2024 details are sparse**: The 9-domain seizure in September 2024 is referenced in DOJ press releases but with limited detail on participating countries beyond the US. Further primary source confirmation is needed.
-3. **Effectiveness measurement**: No public data exists on whether the overall volume of DDoS-for-hire activity has decreased in response to PowerOFF, versus simply shifting to more resilient platforms (e.g., Tor-based services).
-
-> [!info] Legal-basis note
-> As an ongoing operation, new phases may occur after the date of this page's last update. Verify current status against Europol and DOJ announcements.
-
-<!-- SOURCE_ENRICHMENT_START -->
-
-## Source Coverage
-
-- Europol, 2024-12-11: Law enforcement shuts down 27 DDoS booters ahead of annual Christmas attacks.
-- US DOJ, 2022-12-14: Federal Prosecutors in Los Angeles and Alaska Charge 6 Defendants with Operating Websites that Offered Computer Attack Services.
-- US DOJ CDCA, 2024-09-01: Law Enforcement Seizes 9 DDoS-for-Hire Webpages as Part of Global Crackdown on ‘Booter’ and ‘Stresser’ DDoS Services.
-- Bleeping Computer, 2023-05-09: FBI seizes 13 more domains linked to DDoS-for-hire services.
-- CyberScoop, 2024-12-12: International crackdown disrupts DDoS-for-hire operations.
-- Wikipedia, 2026-04-17: Operation PowerOFF.
-- The Register, 2024-12-12: Operation PowerOFF extinguishes 18 more DDoS booters.
-
-## Evidence and Attribution Notes
-
-- Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services.
-- Launched in December 2018 and still active as of December 2024, it is coordinated by Europol's European Cybercrime Centre (EC3) and led operationally by the FBI, with the UK National Crime Agency (NCA) as a core partner.
-- The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries.
-
-<!-- SOURCE_ENRICHMENT_END -->
-
-<!-- RAW_TEXT_HIGHLIGHTS_START -->
-
-## Raw Source Highlights
-
-- US DOJ, 2022-12-14: Attorney's Office, Central District of California As Part of International Efforts Targeting So-Called ‘Booter’ Services, FBI Seizes 48 Internet Domains that Offered DDoS-for-Hire Services LOS ANGELES – The Justice Department today announced the court-authorized seizure of 48 internet domains associated with some of the world’s leading.
-- US DOJ, 2022-12-14: Booter services such as those named in this action allegedly attacked a wide array of victims in the United States and abroad, including educational institutions, government agencies, gaming platforms and millions of individuals.
-- US DOJ CDCA, 2024-09-01: Attorney's Office, Central District of California LOS ANGELES – The Justice Department today announced the court-authorized seizure of nine internet domains associated with some of the world’s leading DDoS-for-hire services.
-- US DOJ CDCA, 2024-09-01: Poland’s Central Cybercrime Bureau simultaneously announced the arrests of four administrators of such services, investigations which were assisted by U.S.
-
-<!-- RAW_TEXT_HIGHLIGHTS_END -->
-
-<!-- CANONICAL_ASSESSMENT_START -->
-
-## Canonical Operation Assessment
-
-This page is retained as a canonical operation because it describes a infrastructure-seizure against DDoS-for-hire (booter/stresser) service operators and users, rather than a defendant-specific follow-on action. The record attributes lead responsibility to FBI Cyber Division and coordination to Europol EC3, with participating or affected jurisdictions recorded as United States, United Kingdom, Netherlands, Germany, France, Poland, Australia, Brazil, Canada, Finland, Japan, Latvia, Portugal, Romania, Sweden.
-
-The cooperation model is documented through named agencies and partners: FBI, Europol EC3, UK NCA, Dutch National Police, BKA, AFP, RCMP, Japan NPA, US DOJ; mechanisms: MLAT; legal basis: Budapest Convention on Cybercrime and Us Computer Fraud And Abuse Act (18 U.s.c. Ss 1030); enforcement posture: Seizure, Arrest, Indictment.
-
-Operational results captured for the canonical record: 16 arrests; 8 indictments; 142 domains seized; 142+ booter/stresser domains seized across all phases (2018-2024); 300+ users identified for follow-up in December 2024 phase; 2,000+ warning emails sent to identified users; 250+ formal warning letters issued.
-
-The canonical source set contains 7 reference(s): 2024 12 11 Europol Europa Eu Law Enforcement Shuts Down 27 Ddos Booters Ahead Of Annual Christmas Attacks, 2022 12 14 Justice Gov Federal Prosecutors In Los Angeles And Alaska Charge 6 Defendants, 2024 09 01 Justice Gov Law Enforcement Seizes 9 Ddos For Hire Webpages, 2023 05 09 Bleepingcomputer Com Fbi Seizes 13 More Domains Linked To Ddos For Hire Services, 2024 12 12 Cyberscoop Com International Crackdown Disrupts Ddos For Hire Operations, 2026 04 17 En Wikipedia Org Operation Poweroff, plus 1 more.
-The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
-No frontmatter missing-field flags are currently carried on this page.
-For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
-When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
-This keeps the canonical record analytically bounded and reproducible.
-
-<!-- CANONICAL_ASSESSMENT_END -->
+DOJ CDCA releases provide the strongest U.S. judicial trace: the 2022 six-defendant/48-domain wave, the 2023 13-domain reconstitution sweep, the 2024 two-defendant/27-domain action, the 2025 9-domain action with Polish arrests, and the Miller sentencing follow-on.
 
 ## References
 
-| # | Title | Publisher | Date | URL |
+| # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Law enforcement shuts down 27 DDoS booters ahead of annual Christmas attacks | Europol | 2024-12-11 | https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks |
-| [2] | Federal Prosecutors in Los Angeles and Alaska Charge 6 Defendants with Operating Websites that Offered Computer Attack Services | US DOJ | 2022-12-14 | https://www.justice.gov/usao-cdca/pr/federal-prosecutors-los-angeles-and-alaska-charge-6-defendants-operating-websites |
-| [3] | Law Enforcement Seizes 9 DDoS-for-Hire Webpages as Part of Global Crackdown on ‘Booter’ and ‘Stresser’ DDoS Services | US DOJ CDCA | 2024-09-01 | https://www.justice.gov/usao-cdca/pr/law-enforcement-seizes-9-ddos-hire-webpages-part-global-crackdown-booter-and-stresser |
-| [4] | FBI seizes 13 more domains linked to DDoS-for-hire services | Bleeping Computer | 2023-05-09 | https://www.bleepingcomputer.com/news/security/fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services/ |
-| [5] | International crackdown disrupts DDoS-for-hire operations | CyberScoop | 2024-12-12 | https://cyberscoop.com/international-crackdown-disrupts-ddos-for-hire-operations/ |
-| [6] | Operation PowerOFF | Wikipedia | 2026-04-17 | https://en.wikipedia.org/wiki/Operation_PowerOFF |
-| [7] | Operation PowerOFF extinguishes 18 more DDoS booters | The Register | 2024-12-12 | https://www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/ |
+| [1] | Europol-supported global operation targets over 75 000 users engaged in DDoS attacks | Europol | 2026-04-17 | https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks |
+| [2] | Law enforcement shuts down 27 DDoS booters ahead of annual Christmas attacks | Europol | 2024-12-11 | https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks |
+| [3] | Law Enforcement Seizes 9 DDoS-for-Hire Webpages as Part of Global Crackdown on Booter and Stresser DDoS Services | US DOJ CDCA | 2025-05-07 | https://www.justice.gov/usao-cdca/pr/law-enforcement-seizes-9-ddos-hire-webpages-part-global-crackdown-booter-and-stresser |
+| [4] | 2 Defendants Charged in U.S. Courts as Part of Global Crackdown on Booter Services Offering Distributed Denial-of-Service Attacks | US DOJ CDCA | 2024-12-11 | https://www.justice.gov/usao-cdca/pr/2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering |
+| [5] | Federal Authorities Seize 13 Internet Domains Associated with Booter Websites that Offered DDoS Computer Attack Services | US DOJ CDCA | 2023-05-08 | https://www.justice.gov/usao-cdca/pr/federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos |
+| [6] | Federal Prosecutors in Los Angeles and Alaska Charge 6 Defendants with Operating Websites that Offered Computer Attack Services | US DOJ CDCA | 2022-12-14 | https://www.justice.gov/usao-cdca/pr/federal-prosecutors-los-angeles-and-alaska-charge-6-defendants-operating-websites |
+| [7] | Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services | US DOJ CDCA | 2024-07-15 | https://www.justice.gov/usao-cdca/pr/texas-man-sentenced-9-months-federal-prison-operating-website-offered-computer-attack |
+| [8] | International crackdown disrupts DDoS-for-hire operations | CyberScoop | 2024-12-12 | https://cyberscoop.com/international-crackdown-disrupts-ddos-for-hire-operations/ |
+| [9] | Operation PowerOFF extinguishes 18 more DDoS booters | The Register | 2024-12-12 | https://www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/ |

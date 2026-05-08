@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-
+  - operation-power-off
 key_findings:
-  - "Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by Europol's European Cybercrime Centre (EC3) and led operationally by the FBI, with the UK National Crime Agency (NCA) as a core partner. The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying."
+  - "Europol described Operation PowerOFF as an ongoing international crackdown against DDoS-for-hire services."
+  - "The December 2024 phase involved 15 countries, 27 booter or stresser websites taken down, and 3 administrators arrested in France and Germany."
+  - "Europol documented J-CAT information exchange, analytical support, crypto-tracing expertise, forensic assistance, and prevention messaging."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks
 created: 2026-04-17
+updated: 2026-05-08
 text_status: parsed
 storage_mode: fulltext
 content_hash: sha256:6ce504be740f6ab66d6ef4f7e7af0ed966761005471bbf3f7b8cdae78080ad02
@@ -26,8 +29,8 @@ last_fetcher: jina
 ---
 ## Source Summary
 
-Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and led operationally by the [[fbi-cyber-division|FBI]], with the [[uk-nca|UK National Crime Agency (NCA)]] as a core partner. The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries.
+Europol reported the December 2024 Operation PowerOFF phase against DDoS-for-hire booter and stresser services. The phase involved 15 countries, 27 websites taken down, 3 administrators arrested in France and Germany, more than 300 users identified for follow-up, and prevention measures including search ads, warning letters, and emails.
 
 ## Relevance to IC
 
-The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks.md`, preserving traceable review without classifying the page as a placeholder.
+This official Europol source supports [[operation-power-off]] by documenting the coordination model, 15-country participation, J-CAT support, technical sprints, and public-private prevention campaign in the December 2024 phase.

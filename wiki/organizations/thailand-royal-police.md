@@ -34,6 +34,7 @@ official_name: "Royal Thai Police, Cyber Crime Investigation Bureau"
 operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[infraud-organization-takedown]]"
+  - "[[operation-power-off]]"
 org_type: national-agency
 parent_org: "[[thailand-royal-police]]"
 source_count: 8

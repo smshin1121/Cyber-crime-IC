@@ -25,6 +25,7 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase2]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-power-off]]"
 org_type: national-unit
 parent_org: "[[dod-inspector-general]]"
 source_count: 4

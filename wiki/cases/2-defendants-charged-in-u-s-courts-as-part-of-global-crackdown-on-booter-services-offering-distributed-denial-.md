@@ -1,95 +1,74 @@
 ---
 type: case
-title: "2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘Booter’ Services Offering Distributed Denial-of-Service Attacks"
-case_number: "Not specified in available source metadata"
-jurisdiction: "U.S. federal prosecution (district not specified in source)"
+title: "2 Defendants Charged in U.S. Courts as Part of Global Crackdown on Booter Services Offering Distributed Denial-of-Service Attacks"
+case_number: "Not fully specified in public source"
+jurisdiction: "U.S. District Courts, Central District of California and District of Alaska"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: charged
 crime_charged:
-  - "[[online-fraud-ic]]"
-  - "[[dark-web-ic]]"
+  - "[[ddos-ic]]"
+  - "[[ddos-extortion]]"
 defendants:
-  - name: "2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘Booter’ Services Offering Distributed Denial-of-Service Attacks"
+  - name: "Ricardo Cesar Colli"
+    nationality: Brazilian
+    status: charged
+    sentence: ""
+    location_at_arrest: ""
+  - name: "Sealed Alaska defendant"
     nationality: Unknown
     status: charged
     sentence: ""
     location_at_arrest: ""
+related_operation: "[[operation-power-off]]"
 ic_elements:
   mlat_requests:
     []
-  extradition: ""
+  extradition: "The Alaska indictment remained sealed while the United States worked with international partners to pursue arrest and extradition."
   evidence_from_abroad:
-    []
+    - "DOJ credited assistance from Germany, the United Kingdom, the Netherlands, Poland, Brazil, Europol, and Canadian police."
   foreign_arrests:
     []
   asset_freezing:
     []
 cooperating_agencies:
   - "[[us-doj]]"
+  - "[[fbi-cyber-division]]"
+  - "[[us-dcis]]"
+  - "[[europol-ec3]]"
+  - "[[germany-bka]]"
+  - "[[uk-nca]]"
+  - "[[netherlands-politie]]"
+  - "[[poland-police]]"
+  - "[[brazil-ministry-of-justice-public-security]]"
 key_legal_issues:
-  - "[[online-fraud-ic]]"
-  - "[[dark-web-ic]]"
-precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
+  - "[[computer-fraud-and-abuse-act]]"
+  - "[[electronic-evidence]]"
+  - "[[domain-seizure]]"
+precedent_value: "Moderate - this record shows how the December 2024 Operation PowerOFF phase paired domain seizures with individual U.S. criminal charges and cross-border assistance."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering]]"
 created: 2026-04-18
-updated: 2026-04-29
-summary: "2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘Booter’ Services Offering Distributed Denial-of-Service Attacks is documented in the linked source material. Available source coverage includes US DOJ USAO."
+updated: 2026-05-08
+summary: "DOJ CDCA announced two U.S. criminal cases and 27 DDoS-for-hire domain seizures as part of the December 2024 Operation PowerOFF wave. The source ties the cases to assistance from Germany, the United Kingdom, the Netherlands, Poland, Brazil, Europol, and Canada, and to a prevention campaign involving HSI, the UK NCA, and Netherlands Police."
 ---
+# 2 Defendants Charged in U.S. Courts as Part of Global Crackdown on Booter Services Offering Distributed Denial-of-Service Attacks
+
 ## Summary
 
-2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘Booter’ Services Offering Distributed Denial-of-Service Attacks is documented in the linked source material. Available source coverage includes US DOJ USAO.
-
-## Source Coverage
-
-- US DOJ USAO, 2024-12-11: 2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘Booter’ Services Offering Distributed Denial-of-Service Attacks.
-
-## Operational Timeline
-
-- 2024-12-11: public source coverage from US DOJ USAO.
+On 11 December 2024, DOJ announced 27 DDoS-for-hire domain seizures and two U.S. criminal cases as part of [[operation-power-off]]. The Los Angeles case charged Brazilian national Ricardo Cesar Colli, also known as "TotemanGames", for allegedly operating Securityhide.net. DOJ also described a sealed District of Alaska indictment involving an administrator of significant booter services while the United States pursued arrest and extradition with international partners.
 
 ## International Cooperation Details
 
-- Named agencies and partners include Us Doj.
+The source names assistance from Germany's BKA, the UK NCA, Netherlands Police, Poland's Central Cybercrime Bureau, Brazil's Federal Police, Europol, and Canadian police. It also describes a deterrence advertising campaign launched with HSI, the UK NCA, and Netherlands Police.
 
-## Legal and Procedural Posture
+## Boundary Note
 
-- Recorded crime classification: online fraud and dark web.
-- The record is categorized as prosecution with status charged.
-
-## Evidence and Attribution Notes
-
-- US DOJ USAO has a parsed source text of 1688 words available for further review.
-
-
-
-<!-- SOURCE_ENRICHMENT_START -->
-
-## Source Coverage
-
-- US DOJ USAO, 2024-12-11: 2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘Booter’ Services Offering Distributed Denial-of-Service Attacks.
-
-<!-- SOURCE_ENRICHMENT_END -->
-
-<!-- RAW_TEXT_HIGHLIGHTS_START -->
-
-## Raw Source Highlights
-
-- US DOJ USAO, 2024-12-11: Attorney's Office, Central District of California Officials Seized 27 Internet Domains that Offered DDoS-for-Hire Services LOS ANGELES – The Justice Department today announced the court-authorized seizure of 27 internet domains associated with some of the world’s leading DDoS-for-hire services, as well as criminal charges against two.
-- US DOJ USAO, 2024-12-11: Federal law enforcement is now seizing the websites that allowed paying users to launch powerful distributed denial-of-service (DDoS) attacks that flood targeted computers with information and prevent them from being able to access the internet.
-- US DOJ USAO, 2024-12-11: Booter services such as those named in this action allegedly attacked a wide array of victims in the United States and abroad, including educational institutions, government agencies, gaming platforms and millions of people.
-- US DOJ USAO, 2024-12-11: The websites targeted in this operation were used to launch millions of actual or attempted DDoS attacks targeting victims worldwide.
-- US DOJ USAO, 2024-12-11: “Booter services facilitate cyberattacks that harm victims and compromise everyone’s ability to access the internet,” said United States Attorney Martin Estrada for the Central District of California.
-- US DOJ USAO, 2024-12-11: “This week’s sweeping law enforcement activity is a major step in our ongoing efforts to eradicate criminal conduct that threatens the internet’s infrastructure and our ability to function in a digital world.
-- US DOJ USAO, 2024-12-11: “Because of the scope of the threat, we have partnered with law enforcement in the United States and abroad to achieve meaningful disruptions of these services in order to protect critical internet infrastructure and services.” “Whether you launch a DDoS attack or hire a DDoS service to do it for you, the FBI considers it a crime.
-- US DOJ USAO, 2024-12-11: Cybercriminals are increasingly targeting essential services and our critical infrastructure with DDoS attacks that can cost victims valuable time, money and reputational harm,” said Akil Davis, Assistant Director in Charge of the FBI Los Angeles Field Office.
-
-<!-- RAW_TEXT_HIGHLIGHTS_END -->
+This is a case-level output of [[operation-power-off]], not a separate international-cooperation operation. It should remain linked to the PowerOFF umbrella to avoid duplicate operation counting.
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | 2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘Booter’ Services Offering Distributed Denial-of-Service Attacks | US DOJ USAO | 2024-12-11 | https://www.justice.gov/usao-cdca/pr/2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering |
+| [1] | 2 Defendants Charged in U.S. Courts as Part of Global Crackdown on Booter Services Offering Distributed Denial-of-Service Attacks | US DOJ CDCA | 2024-12-11 | https://www.justice.gov/usao-cdca/pr/2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering |

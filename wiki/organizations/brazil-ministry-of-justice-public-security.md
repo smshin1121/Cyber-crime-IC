@@ -23,6 +23,7 @@ cooperation_partners:
   - "[[us-dhs]]"
 operations_participated:
   - "[[operation-404-digital-piracy-2019]]"
+  - "[[operation-power-off]]"
 source_count: 1
 sources:
   - "[[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]]"

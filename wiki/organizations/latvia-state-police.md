@@ -28,6 +28,7 @@ official_name: "Valsts policija"
 operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[operation-eastwood]]"
+  - "[[operation-power-off]]"
 org_type: national-unit
 parent_org: ""
 source_count: 3

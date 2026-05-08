@@ -31,6 +31,7 @@ operations_participated:
   - "[[2bagoldmule-qqaazz]]"
   - "[[mobdro-illegal-streaming-takedown-2021]]"
   - "[[operation-disruptor]]"
+  - "[[operation-power-off]]"
 org_type: national-agency
 parent_org: "[[portugal-policia-judiciaria]]"
 source_count: 3

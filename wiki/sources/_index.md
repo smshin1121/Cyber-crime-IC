@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (640)
+# Sources (642)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -16,8 +16,8 @@ updated: 2026-04-14
 | [[2026-04-17_web-archive-org_articleview-html]] | press-release | web.archive.org | ? | medium | ? |
 | [[2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes]] | press-release | justice.gov | ? | medium | ? |
 | [[2026-04-17_justice-gov_distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeer]] | press-release | justice.gov | ? | medium | ? |
+| [[2026-04-17_europol_europol-supported-global-operation-targets-over-75-000-users]] | press-release | Europol | ? | high | ? |
 | [[2026-04-17_europol-europa-eu_operation-endgame-official-page]] | press-release | Europol | ? | high | ? |
-| [[2026-04-17_en-wikipedia-org_operation-poweroff]] | press-release | Wikipedia | ? | medium | ? |
 | [[2026-04-17_en-wikipedia-org_operation-onymous]] | press-release | Wikipedia | ? | medium | ? |
 | [[2026-04-01_interpol-int_support-for-afripol-operation-first-light]] | institutional-page | INTERPOL | ? | high | ? |
 | [[2026-03-16_helpnetsecurity_interpol-operation-synergia-iii-cybercrime-infrastructure-takedown]] | news | Help Net Security | ? | medium | ? |
@@ -139,6 +139,7 @@ updated: 2026-04-14
 | [[2025-05-13_globalregulatoryinsights-com_international-coalition-uncovers-eur-3-million-online-investment-fraud]] | report | Global Regulatory Insights | ? | medium | ? |
 | [[2025-05-13_eurojust_international-coalition-uncovers-eur-3-million-online-investment-fraud]] | press-release | Eurojust | 2 | high | ? |
 | [[2025-05-08_gracechurchfcp-com_international-coalition-uncovers-e3m-online-investment-fraud]] | report | Gracechurch Financial Crime Prevention | ? | medium | ? |
+| [[2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages]] | press-release | US DOJ CDCA | ? | high | ? |
 | [[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-oth]] | press-release | USAO ND Ohio | ? | high | ? |
 | [[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well]] | press-release | Europol | ? | high | ? |
@@ -196,6 +197,7 @@ updated: 2026-04-14
 | [[2024-12-12_theregister-com_operation-poweroff-extinguishes-18-more-ddos-booters]] | press-release | The Register | ? | medium | ? |
 | [[2024-12-12_cyberscoop-com_rydox-cybercriminal-marketplace-seized-doj-albania-kosovo]] | news | CyberScoop | 3 | medium-high | ? |
 | [[2024-12-12_cyberscoop-com_international-crackdown-disrupts-ddos-for-hire-operations]] | press-release | CyberScoop | ? | medium | ? |
+| [[2026-04-18_justice-gov_2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks]] | press-release | Europol | ? | high | ? |
 | [[2024-12-09_securityweek_eight-suspected-phishers-arrested-in-belgium-netherlands]] | news | SecurityWeek | 3 | medium-high | ? |
 | [[2024-12-06_politie-nl_internationaal-cybercrimenetwerk-opgerold]] | press-release | Dutch National Police | 1 | high | ? |
@@ -253,7 +255,6 @@ updated: 2026-04-14
 | [[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]] | news | Brazil Ministry of Justice and Public Security | ? | high | ? |
 | [[2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app]] | press-release | Australian Federal Police | ? | medium | ? |
 | [[2024-09-01_newsonair-gov-in_cbi-operation-chakra-iii-dismantles-virtual-asset-network]] | press-release | News on Air (Gov India) | ? | medium | ? |
-| [[2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages]] | press-release | US DOJ CDCA | ? | high | ? |
 | [[2024-08-28_interpol_operation-jackal-iii-black-axe]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-08-28-interpol-operation-jackal-iii]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-08-07_justice-gov_xdedic-marketplace-victim-services-case-summary]] | press-release | DOJ M.D. Fla. | ? | high | ? |
@@ -266,6 +267,7 @@ updated: 2026-04-14
 | [[2024-07-18_nj_lockbit-astamirov-vasiliev-pleas]] | court-document | US DOJ (District of New Jersey) | ? | high | ? |
 | [[2024-07-17_apnews_interpol-arrests-300-people-in-a-global-crackdown-on-west-african-crime-groups-across-5-continents]] | news | Associated Press | ? | medium | ? |
 | [[2024-07-16_garda-ie_interpol-operation-jackal-ireland-operation-skein-july-2024]] | press-release | An Garda Siochana | ? | high | ? |
+| [[2024-07-15_cdca_miller-poweroff-sentencing]] | court-document | US DOJ (Central District of California) | ? | high | ? |
 | [[the-hacker-news-operation-morpheus-cobalt-strike-takedown]] | news | The Hacker News | 3 | medium-high | ? |
 | [[2024-07-03_techradar-com_hundreds-of-cobalt-strike-linked-servers-taken-down-in-major-police-operation]] | news | TechRadar | ? | medium | ? |
 | [[2024-07-03_bleepingcomputer-com_europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals]] | news | BleepingComputer | ? | medium | ? |
@@ -338,7 +340,7 @@ updated: 2026-04-14
 | [[2023-06-30_coe_glacy-supports-interpols-africa-cyber-surge-operation-ii]] | report | Council of Europe | 2 | high | ? |
 | [[2023-06-06_interpol_operation-jackal-black-axe-bec]] | press-release | INTERPOL | ? | high | ? |
 | [[2023-06-06-interpol-operation-jackal]] | press-release | INTERPOL | ? | high | ? |
-| [[2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services]] | press-release | Bleeping Computer | ? | medium | ? |
+| [[2026-04-18_justice-gov_federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2023-04-05_justice-gov_criminal-marketplace-disrupted-genesis-market]] | press-release | US DOJ | ? | high | ? |
 | [[2023-04-05_europol_operation-cookie-monster-genesis-market]] | press-release | Europol | ? | high | ? |
 | [[2023-04-05_eurojust_operation-cookie-monster-genesis-market]] | press-release | Eurojust | ? | high | ? |

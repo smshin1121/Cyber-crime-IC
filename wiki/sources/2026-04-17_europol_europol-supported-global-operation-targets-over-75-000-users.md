@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-
+  - operation-power-off
 key_findings:
-  - "On 13 April 2026, 21 countries joined forces in a coordinated action week that focused on enforcement and prevention measures against over 75 000 criminal users engaging in distributed denial-of-service (DDoS)-for-hire services. With over 75 000 warning emails and letters being sent to identified criminal users and 4 arrests, the action week also led to the takedown of 53 domains and the issuing of 25 search warrants. *자동 수집됨. 파이프라인(/ic-pipeline 또는 /ic-update)을 실행하여 분류·평가·통합하세요.*"
+  - "Europol identified this as a new Operation PowerOFF phase across 21 countries."
+  - "The April 2026 action week produced 53 domain takedowns, 25 search warrants, 4 arrests, and more than 75,000 warning emails or letters."
+  - "Seized datasets gave Europol intelligence on more than 3 million criminal user accounts."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks
 created: 2026-04-17
+updated: 2026-05-08
 text_status: parsed
 storage_mode: fulltext
 content_hash: sha256:57379cf9ff4dc0f929fbf71536ac3327c9a8ae3cd56e7fb6419ab5a28d524af7
@@ -26,8 +29,8 @@ last_fetcher: jina
 ---
 ## Source Summary
 
-On 13 April 2026, 21 countries joined forces in a coordinated action week that focused on enforcement and prevention measures against over 75 000 criminal users engaging in distributed denial-of-service (DDoS)-for-hire services. With over 75 000 warning emails and letters being sent to identified criminal users and 4 arrests, the action week also led to the takedown of 53 domains  and the issuing of  25 search warrants. *자동 수집됨. 파이프라인(`/ic-pipeline` 또는 `/ic-update`)을 실행하여 분류·평가·통합하세요.*
+Europol reported the April 2026 Operation PowerOFF action week across 21 countries. The action targeted DDoS-for-hire users and infrastructure, taking down 53 domains, issuing 25 search warrants, making 4 arrests, and sending more than 75,000 warning emails or letters. Europol also described analysis of seized datasets containing more than 3 million criminal user accounts.
 
 ## Relevance to IC
 
-The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2026-04-17_europol_europol-supported-global-operation-targets-over-75-000-users.md`, preserving traceable review without classifying the page as a placeholder.
+This is the current anchor source for [[operation-power-off]], confirming the latest phase, the 21-country scope, the prevention phase, and the operational metrics used to update the canonical operation record.

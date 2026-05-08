@@ -44,7 +44,7 @@ updated: 2026-04-14
 | [[infraud-organization-takedown]] | CYB-2018-003 | 1 | completed | umbrella | 7 | 4.10 | 1 |
 | [[fin7-takedown]] | CYB-2018-004 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[rex-mundi-takedown]] | CYB-2018-005 | 1 | completed | umbrella | 5 | 2.28 | 2 |
-| [[operation-power-off]] | CYB-2018-006 | 1 | ongoing | umbrella | 7 | 3.80 | 1 |
+| [[operation-power-off]] | CYB-2018-006 | 1 | ongoing | umbrella | 9 | 4.40 | 1 |
 | [[operation-bakovia]] | CYB-2018-050 | 1 | completed | umbrella | 5 | 2.00 | 3 |
 | [[goznym-takedown]] | CYB-2019-001 | 2 | completed | umbrella | 5 | 4.20 | 2 |
 | [[imminent-monitor-rat-takedown]] | CYB-2019-050 | 2 | completed | umbrella | 5 | 1.88 | 3 |

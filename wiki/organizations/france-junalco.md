@@ -19,6 +19,7 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase2]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-power-off]]"
 org_type: prosecution-office
 parent_org: "Parquet de Paris (Paris Public Prosecutor's Office)"
 source_count: 2

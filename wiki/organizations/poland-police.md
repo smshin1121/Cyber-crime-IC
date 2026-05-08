@@ -26,6 +26,7 @@ operations_participated:
   - "[[fake-shopping-sites-takedown-2024]]"
   - "[[operation-morpheus]]"
   - "[[operation-firewall]]"
+  - "[[operation-power-off]]"
 org_type: national-unit
 parent_org: "Komenda Główna Policji (Police Headquarters, Ministry of Interior and"
 source_count: 3
