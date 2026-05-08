@@ -12,7 +12,9 @@ status: active
 established: 1945-10-21
 parent_org: "[[ministry-of-interior-korea]]"
 country: "[[south-korea]]"
-jurisdiction: [[south-korea]]
+jurisdiction:
+  -
+    - south-korea
 headquarters: "Seoul, South Korea"
 mandate: "National police service of the Republic of Korea; responsible for general law enforcement, investigation, and public safety. Houses the National Investigation Headquarters (국가수사본부) which oversees cybercrime investigation."
 member_states: 0
@@ -34,6 +36,7 @@ operations_participated:
   - "[[operation-haechi-iii]]"
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"
+  - "[[korea-cambodia-philippines-73-extradition-2026]]"
 notable_cases:
 
 contact_point_for:
@@ -43,8 +46,8 @@ source_count: 2
 sources:
 
 created: 2026-04-10
-updated: "2026-04-29"
-last_verified: 2026-04-10
+updated: 2026-05-08
+last_verified: 2026-05-08
 ---
 ## Summary
 

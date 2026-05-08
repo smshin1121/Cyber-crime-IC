@@ -675,3 +675,15 @@
   - Reported results: 53 domains taken down, 4 arrests, 25 search warrants, 75 000+ user-warning communications, 3 million+ criminal user accounts identified in seized booter-service databases.
   - Korean involvement not named — South Korea not added to `participating_countries` for this phase.
   - Body extraction caveat documented: Europol newsroom embeds press-release body as JSON inside `window.SERVER_DATA`; the captured 2 416-byte body field covers the participating-countries paragraph and methodology paragraphs but truncates at the `Operation PowerOFF: disrupt and prevent` H2; future re-fetch under a different extraction path is flagged as open work.
+
+
+## [2026-05-08] ingest | KNPA 2026-04-27 — Korea–Cambodia–Philippines 73-person scam extradition (largest single-country cyber-fugitive extradition into Korea on record)
+- Source: raw/press-releases/2026-04-27_korean-press_korea-cambodia-philippines-73-extradition.md (KNPA via Korea.kr 정책브리핑 newsId 156740857; Korea.kr is connection-reset on TLS-spoof and WebFetch — secondary capture via Kyunghyang 2026-04-27 coverage with verbatim numerical breakdown)
+- Pages created: wiki/operations/korea-cambodia-philippines-73-extradition-2026.md, wiki/sources/2026-04-27_korean-press_korea-cambodia-philippines-73-extradition.md, wiki/organizations/ministry-of-foreign-affairs-korea.md (stub), wiki/organizations/national-intelligence-service-korea.md (stub)
+- Pages updated: 3 country pages (south-korea, cambodia, philippines — `operations_participated`), 3 organization pages (knpa, knpa-cyber-bureau, ministry-of-justice-korea — `operations_participated`), 2 crime-type pages (voice-phishing-ic, online-fraud-ic — `notable_operations` + sources), 1 sister operation (korea-cambodia-scam-repatriation — `related_operations`). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - 2026-04-27 KNPA announcement is the first wiki-recorded Korean operation that explicitly names a whole-government task force (범정부 「초국가범죄 특별대응TF」) coordinating KNPA, MOFA, MOJ, and NIS in the same extradition cycle — directly project-relevant for Korean SNA enrichment.
+  - Cambodia 42-person tranche operationally tied to a Korea-side field unit `「코리아전담반」` (Korea-dedicated Squad) embedded in Cambodian operations.
+  - 73-person cohort spans five distinct cyber-enabled crime types and includes a 15-year-old data-breach extradition (~1.75M records, 송환까지 15년) — signalling Korean willingness to extradite legacy cyber cases.
+  - Cohort breakdown verbatim: 보이스피싱 24/368 victims/~₩51.7B, 로맨스스캠 14/53 victims/~₩2.3B, 불법 도박사이트 운영 3/scale ~₩5.9T, 2011 capital-firm 데이터 침해 1/~1.75M records, 자동차 대출금 사기 3/2022-2024/~₩12B, 성착취 24 (overlap with voice-phishing).
+  - Korea.kr unfetchable across all available tooling on 2026-05-08 → flagged as open follow-up; raw archive built from same-day Kyunghyang verbatim coverage with explicit fidelity caveat in source page.

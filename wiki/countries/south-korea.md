@@ -1,29 +1,21 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: 법무부 국제형사과
-  mlat: 법무부 국제형사과 (Ministry of Justice, International Criminal Affairs Division)
-cooperation_assessment: Korea is a highly capable cooperation partner with advanced
-  digital forensics capacity and a strong legal framework. Korea is in the final stages
-  of Budapest Convention accession — the 형사소송법 amendment implementing preservation-request
-  authority passed the National Assembly in December 2025 and takes effect 2026-07-01,
-  with formal accession still pending in the Council of Europe Treaty Office status chart
-  dated 2026-04-25. The October 2026 abolition of 검찰청/대검찰청 and the
-  split into 공소청 and 중대범죄수사청 is a major structural reform that will reshape Korean
-  international cooperation on cybercrime. Primary challenges include language barriers
-  and the multi-step domestic approval process for outgoing MLA requests.
+  budapest: "법무부 국제형사과"
+  mlat: "법무부 국제형사과 (Ministry of Justice, International Criminal Affairs Division)"
+cooperation_assessment: "Korea is a highly capable cooperation partner with advanced"
 created: 2026-04-08
 cybercrime_legislation:
-  data_retention: 통신사실확인자료 12개월 (통신비밀보호법)
-  primary_law: 정보통신망 이용촉진 및 정보보호 등에 관한 법률 (Information and Communications Network
-    Act)
-  primary_law_date: '2001-01-16'
+  data_retention: "통신사실확인자료 12개월 (통신비밀보호법)"
+  primary_law: "정보통신망 이용촉진 및 정보보호 등에 관한 법률 (Information and Communications Network"
+  primary_law_date: 2001-01-16
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
-  - real-time-collection
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
+    - real-time-collection
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 60-120
@@ -32,53 +24,54 @@ ic_capacity:
   rating: high
 iso_code: KR
 key_agencies:
-- '[[knpa-cyber-bureau]]'
-- '[[spo-international-cooperation]]'
-- '[[supreme-prosecutors-office-korea]]'
-- '[[kisa]]'
-- '[[ministry-of-science-and-ict-korea]]'
-- '[[seoul-metropolitan-police]]'
-last_verified: '2026-05-03'
+  - "[[knpa-cyber-bureau]]"
+  - "[[spo-international-cooperation]]"
+  - "[[supreme-prosecutors-office-korea]]"
+  - "[[kisa]]"
+  - "[[ministry-of-science-and-ict-korea]]"
+  - "[[seoul-metropolitan-police]]"
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[phobos-8base-crackdown]]'
-- '[[operation-haechi-v]]'
-- '[[korea-china-voice-phishing-qingdao]]'
-- '[[operation-haechi-iv]]'
-- '[[operation-haechi-vi]]'
-- '[[korea-cambodia-scam-repatriation]]'
-- '[[operation-cyber-guardian]]'
-- '[[operation-us-v-ryan-thomas-carver]]'
-- '[[operation-us-v-evgenii-ptitsyn]]'
+  - "[[phobos-8base-crackdown]]"
+  - "[[operation-haechi-v]]"
+  - "[[korea-china-voice-phishing-qingdao]]"
+  - "[[operation-haechi-iv]]"
+  - "[[operation-haechi-vi]]"
+  - "[[korea-cambodia-scam-repatriation]]"
+  - "[[operation-cyber-guardian]]"
+  - "[[operation-us-v-ryan-thomas-carver]]"
+  - "[[operation-us-v-evgenii-ptitsyn]]"
+  - "[[korea-cambodia-philippines-73-extradition-2026]]"
 region: east-asia
 source_count: 18
 sources:
-- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
-- '[[2024-12-02-interpol-operation-haechi-v]]'
-- '[[2025-03-05-doj-isoon-chinese-hackers-charges]]'
-- '[[2023-09-08-korea-china-voice-phishing-qingdao]]'
-- '[[2023-12-19-interpol-operation-haechi-iv]]'
-- '[[2025-09-25-interpol-operation-haechi-vi]]'
-- '[[2025-10-18-korea-cambodia-scam-repatriation]]'
-- '[[2026-04-17_coe-int_treaty-185-signatures-chart]]'
-title: Republic of Korea (South Korea)
+  - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
+  - "[[2024-12-02-interpol-operation-haechi-v]]"
+  - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
+  - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
+  - "[[2023-12-19-interpol-operation-haechi-iv]]"
+  - "[[2025-09-25-interpol-operation-haechi-vi]]"
+  - "[[2025-10-18-korea-cambodia-scam-repatriation]]"
+  - "[[2026-04-17_coe-int_treaty-185-signatures-chart]]"
+title: "Republic of Korea (South Korea)"
 treaty_memberships:
-- date: 2023-02
-  framework: '[[budapest-convention]]'
-  notes: Invited February 2023; implementing legislation (형사소송법 amendment for preservation-request
-    authority) passed 2025-12-12, takes effect 2026-07-01; formal accession pending
-    in the Council of Europe Treaty Office chart status dated 2026-04-25
-  reservations: []
-  status: invited-to-accede
-- date: ''
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: under-review
+  - date: 2023-02
+    framework: "[[budapest-convention]]"
+    notes: "Invited February 2023; implementing legislation (형사소송법 amendment for preservation-request"
+    reservations:
+      []
+    status: invited-to-accede
+  - date: ""
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: under-review
 type: country
-updated: 2026-05-03
+updated: 2026-05-08
 ---
-
 > [!warning] Status — Major reorganization of prosecution system pending (2026-10-02)
 > On **2026-10-02** the [[supreme-prosecutors-office-korea|대검찰청 (Supreme Prosecutors' Office)]] will be **abolished** after 78 years and replaced by two new bodies: **공소청 (Prosecution Service, under 법무부)** for prosecution only, and **중대범죄수사청 / 중수청 (Serious Crimes Investigation Agency, under 행정안전부)** for investigation of six serious-crime categories including **cybercrime**. This is a fundamental restructuring of Korea's criminal justice architecture and will reshape how foreign partners engage with Korea on cybercrime MLAT, extradition, and investigative cooperation. See [[supreme-prosecutors-office-korea]] and [[spo-international-cooperation]] for details. Until 2026-09-30 the existing SPO structure remains in effect.
 >

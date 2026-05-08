@@ -17,7 +17,6 @@ legal_basis:
   - "Korean domestic criminal process"
   - "Cambodia-Korea law enforcement cooperation"
   - "repatriation and custody-transfer procedures"
-
 lessons_learned:
 
 mechanisms_used:
@@ -25,7 +24,6 @@ mechanisms_used:
   - "coordinated repatriation"
   - "cross-border suspect transfer"
   - "[[informal-cooperation]]"
-
 missing_fields:
 
 operation_type: arrest-sweep
@@ -34,7 +32,6 @@ participating_agencies:
   - "[[knpa-cyber-bureau]]"
   - "[[knpa]]"
   - "Cambodian National Police"
-
 participating_countries:
   - "[[south-korea]]"
   - "[[cambodia]]"
@@ -45,7 +42,7 @@ related_operations:
   - "[[bali-villa-cybercrime-raid-2024]]"
   - "[[myanmar-kokang-scam-compound-crackdown]]"
   - "[[zambia-golden-top-call-center]]"
-
+  - "[[korea-cambodia-philippines-73-extradition-2026]]"
 results:
   arrests: 136
   cryptocurrency_seized: ""
@@ -57,7 +54,6 @@ results:
     - "48 to 58 arrest warrants sought or issued for the October 2025 Cambodia repatriation batch"
     - "46 repatriated suspects proceeded to trial in South Korea"
     - "January 2026 batch linked to KRW 48.6 billion in alleged victim losses"
-
   servers_seized: 0
   victims_notified: 0
 source_count: 5
@@ -78,7 +74,7 @@ timeframe:
 title: "Korea-Cambodia Scam Centre Repatriation"
 title_ko: "한-캄보디아 스캠센터 피의자 송환"
 type: operation
-updated: 2026-04-29
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 summary: "In October 2025 and January 2026, South Korea repatriated **107+ nationals** from Cambodia suspected of operating in online scam centres conducting voice phishing, romance scams, and \"pig butchering\" cryptocurrency fraud. An additional **20+ suspects** were repatriated from Laos, Vietnam, Thailand, and the Philippines. The Korean government estimated approximately **1,000 Korean citizens** were working in Cambodian scam centres. The January 2026 batch allegedly scammed fellow Koreans out of **KRW 48.6 billion (USD 33 million)**."

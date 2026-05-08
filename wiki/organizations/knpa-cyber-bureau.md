@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[south-korea]]"
-jurisdiction: [[south-korea]]
+jurisdiction:
+  -
+    - south-korea
 created: 2026-04-08
 dissolved_date: 2023-12
 established: 2014-08
@@ -15,7 +17,7 @@ frameworks_administered:
 headquarters: "Seoul, South Korea"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "National coordination of cybercrime investigation for the Korea National"
 mechanisms_operated:
 
@@ -31,6 +33,7 @@ operations_participated:
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[operation-cyber-guardian]]"
   - "[[operation-haechi-ii]]"
+  - "[[korea-cambodia-philippines-73-extradition-2026]]"
 org_type: national-unit
 parent_org: "[[knpa]]"
 predecessor: ""
@@ -41,7 +44,7 @@ status: reorganized
 successor: ""
 title: "KNPA Cybercrime Enforcement Organization (경찰청 사이버범죄 수사조직)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-08
 ---
 > [!warning] Status — Reorganized (as of 2023-12)
 > The standalone **경찰청 사이버수사국** (KNPA Cyber Investigation Bureau) was dissolved in late 2023 and its functions were absorbed into **경찰청 국가수사본부 수사국**, with a new **사이버수사심의관 (Cyber Investigation Deliberation Officer)** position created inside 수사국 at *deputy-director level* rather than bureau-director level. As of 2026-04-10 the **사이버수사국 no longer exists**; cybercrime investigation is conducted by the 사이버수사심의관 and 사이버수사과 within 수사국. A re-establishment of 사이버안전국 is under active consideration but has not yet been enacted (see [Current Status](#current-status-as-of-2026-04-10) below).

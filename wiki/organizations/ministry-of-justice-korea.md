@@ -3,11 +3,13 @@ type: organization
 title: "Korea Ministry of Justice"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
-last_verified: 2026-04-29
+updated: 2026-05-08
+last_verified: 2026-05-08
 org_type: ministry
 country: "[[south-korea]]"
-jurisdiction: [[south-korea]]
+jurisdiction:
+  -
+    - south-korea
 official_name: "Ministry of Justice"
 mandate: "Korean justice ministry context for prosecution, mutual legal assistance, extradition, and treaty engagement."
 key_roles:
@@ -21,6 +23,8 @@ source_count: 2
 sources:
   - "[[2026-01-01_spo-go-kr_2026]]"
   - "[[2025-10-01_unodc-org_hanoi-convention-homepage]]"
+operations_participated:
+  - "[[korea-cambodia-philippines-73-extradition-2026]]"
 ---
 ## Summary
 
