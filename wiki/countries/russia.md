@@ -8,19 +8,18 @@ cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
   procedural_powers:
-    []
+
   data_retention: ""
 treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: non-party
     date: ""
     reservations:
-      []
 central_authority:
   mlat: ""
   budapest: ""
 key_agencies:
-  []
+
 ic_capacity:
   rating: low
   digital_forensics: unknown
@@ -28,15 +27,15 @@ ic_capacity:
   english_proficiency: low
   avg_mlat_response_days: 180+
 bilateral_agreements:
-  []
+
 operations_participated:
-  []
+  - "[[us-v-volkov-yanluowang-sentencing]]"
 notable_cases:
-  []
+
 cooperation_assessment: ""
 source_count: 4
 created: 2026-04-20
-updated: 2026-04-29
+updated: 2026-05-08
 status: corpus-linked
 sources:
   - "[[2017-03-15_npr_us-indicts-2-russian-security-officials-over-yahoo-hack]]"

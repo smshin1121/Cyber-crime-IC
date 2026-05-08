@@ -732,3 +732,14 @@
   - Meta is named as the private-sector partner alongside NCA and Nigerian Police; Meta wiki organization page does not yet exist and Meta is mentioned in body prose without a wikilink.
   - The operation's structural shape (requesting state intelligence + host state arrests + global platform partner) reproduces in microcosm the broader 2026 cooperation pattern across the wiki (US-UAE-China-Thailand pig-butchering takedown, Korea-Cambodia-Philippines extradition cycle); explicit cross-links recorded in the operation page's `related_operations`.
   - Korean involvement not named — South Korea not added to `participating_countries`.
+
+
+## [2026-05-08] ingest | DOJ 2026-03-23 — U.S. v Volkov (Yanluowang IAB) sentencing (US-Italy extradition)
+- Source: raw/press-releases/2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang.md (DOJ Press Release 26-280, full-text via TLS-spoof)
+- Pages created: wiki/operations/us-v-volkov-yanluowang-sentencing.md, wiki/sources/2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang.md
+- Pages updated: 3 country pages (US, IT, RU — `operations_participated`), 3 organization pages (us-doj, fbi, office-of-international-affairs — `operations_participated`), 2 crime-type pages (ransomware-ic, hacking-ic — `notable_operations` + sources). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - Aleksei Volkov (26, St. Petersburg, Russia), Yanluowang ransomware affiliate operating as an "initial access broker" (IAB), sentenced to 81 months in SDIN on 2026-03-23. USD 9 167 198.19+ restitution ordered; USD 24M+ in intended losses across the attacks Volkov enabled.
+  - US-Italy bilateral extradition: arrested in Rome January 2024, extradited via DOJ Office of International Affairs cooperation with the Government of Italy, plea 2025-11-25 to 4 SDIN counts and 2 EDPA counts after EDPA case consolidation in SDIN.
+  - First wiki record explicitly using "initial access broker" as a DOJ-charging-language category for the ransomware-affiliate kill chain. Establishes a public-record IAB-prosecution category that complements the existing operation-cronos-phase2 named-suspect attribution wave.
+  - Case fits the broader 2024-2026 European-arrest-and-US-extradition pathway for Russian ransomware-ecosystem actors traveling into Schengen states.

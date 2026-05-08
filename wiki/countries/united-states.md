@@ -143,6 +143,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
+  - "[[us-v-volkov-yanluowang-sentencing]]"
 region: north-america
 source_count: 1
 sources:

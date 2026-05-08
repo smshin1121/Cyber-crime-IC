@@ -8,8 +8,7 @@ last_verified: 2026-05-08
 org_type: justice-international-cooperation-office
 country: "[[united-states]]"
 jurisdiction:
-  -
-    - united-states
+
 official_name: "Office of International Affairs"
 abbreviation: OIA
 parent_org: "[[us-doj]]"
@@ -25,6 +24,7 @@ operations_participated:
   - "[[operation-open-market]]"
   - "[[operation-tovar]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[us-v-volkov-yanluowang-sentencing]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"

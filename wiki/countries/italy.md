@@ -1,29 +1,21 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: CNAIPIC (Centro Nazionale Anticrimine Informatico per la Protezione delle
-    Infrastrutture Critiche), Polizia Postale e delle Comunicazioni
-  mlat: Italian Ministry of Justice — Directorate General of International Affairs
-cooperation_assessment: Italy is *almost certainly* a highly capable cybercrime cooperation
-  partner. It ratified the Budapest Convention in 2008 via Law 48/2008, which also
-  introduced corporate liability for cybercrimes under Legislative Decree 231/2001.
-  The Polizia Postale e delle Comunicazioni and its specialised unit CNAIPIC operate
-  the 24/7 Point of Contact. Italy is among the 22 signatories of the Second Additional
-  Protocol at its 2022 opening.
+  budapest: "CNAIPIC (Centro Nazionale Anticrimine Informatico per la Protezione delle"
+  mlat: "Italian Ministry of Justice — Directorate General of International Affairs"
+cooperation_assessment: "Italy is *almost certainly* a highly capable cybercrime cooperation"
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: Telecommunications data retained under national legislation; subject
-    to CJEU rulings
-  primary_law: Law No. 48 of 18 March 2008 (ratifying Budapest Convention); Italian
-    Criminal Code Arts. 615-ter to 615-quinquies, 617-quater to 617-sexies, 635-bis
-    to 635-quinquies; Legislative Decree 231/2001 (corporate liability)
-  primary_law_date: '2008-03-18'
+  data_retention: "Telecommunications data retained under national legislation; subject"
+  primary_law: "Law No. 48 of 18 March 2008 (ratifying Budapest Convention); Italian"
+  primary_law_date: 2008-03-18
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
-  - real-time-collection
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
+    - real-time-collection
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -32,39 +24,42 @@ ic_capacity:
   rating: high
 iso_code: IT
 key_agencies:
-- '[[italy-polizia-postale]]'
-- '[[italy-dcsa]]'
-last_verified: '2026-04-18'
+  - "[[italy-polizia-postale]]"
+  - "[[italy-dcsa]]"
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
-- '[[doublevpn-takedown]]'
-- '[[operation-dark-huntor]]'
-- '[[operation-avalanche]]'
+  - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-avalanche]]"
+  - "[[us-v-volkov-yanluowang-sentencing]]"
 region: southern-europe
 source_count: 6
 sources:
-- '[[2026-04-18_coe-int_italy-octopus-cybercrime-community-country-profile]]'
-- '[[2017-06-21_poliziadistato-it_operazione-criptolocker]]'
-- '[[2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi]]'
-- '[[2026-03-12-eurojust-proxy-service-takedown]]'
-- '[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]]'
-- '[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]'
-title: Italian Republic
+  - "[[2026-04-18_coe-int_italy-octopus-cybercrime-community-country-profile]]"
+  - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
+  - "[[2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi]]"
+  - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+  - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]]"
+  - "[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]"
+title: "Italian Republic"
 treaty_memberships:
-- date: '2008-06-05'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2008-06-05
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Italy ratified the [[budapest-convention|Budapest Convention]] in 2008 via **Law No. 48 of 18 March 2008**, which simultaneously introduced significant reforms to the Italian Criminal Code, Code of Criminal Procedure, and corporate liability framework under **Legislative Decree 231/2001**.
