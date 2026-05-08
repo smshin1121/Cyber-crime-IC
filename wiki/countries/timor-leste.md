@@ -1,6 +1,6 @@
 ---
 type: country
-title: "Timor-Leste"
+title: Timor-Leste
 iso_code: TL
 legal_system: not-assessed
 region: southeast-asia
@@ -9,8 +9,10 @@ treaty_memberships:
 ic_capacity: not-assessed
 operations_participated:
   - "[[operation-pangea-xviii]]"
+  - "[[operation-secure-interpol]]"
 source_count: 0
-sources: []
+sources:
+  []
 created: 2026-05-08
 updated: 2026-05-08
 status: needs-official-source-ingestion

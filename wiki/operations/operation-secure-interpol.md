@@ -42,10 +42,14 @@ participating_countries:
   - "[[laos]]"
   - "[[macau]]"
   - "[[malaysia]]"
+  - "[[maldives]]"
+  - "[[nepal]]"
   - "[[philippines]]"
   - "[[south-korea]]"
   - "[[singapore]]"
+  - "[[sri-lanka]]"
   - "[[thailand]]"
+  - "[[timor-leste]]"
   - "[[vietnam]]"
 period: 3
 related_cases:
@@ -82,7 +86,7 @@ timeframe:
 title: "Operation Secure (INTERPOL Infostealer Crackdown)"
 title_ko: "Operation Secure (인포스틸러 인프라 단속)"
 type: operation
-updated: 2026-05-03
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure. The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims."
@@ -140,13 +144,15 @@ Infostealers represent a growing cybercrime threat, serving as the initial acces
 
 ## Korean Involvement (한국의 참여)
 
-South Korea (대한민국) was among the 26 participating countries. Specific Korean contributions (arrests, infrastructure actions) are not detailed in the available source.
+South Korea (대한민국) is named verbatim in the INTERPOL 2025-06-11 announcement as one of the 26 cooperating Asia-Pacific jurisdictions for Operation Secure. The cited tier-1 source does not break down which Korean agency or operational unit participated, what number of Korean infostealer infrastructure assets were affected by takedown actions, or what fraction of the 216 000+ notified victims were Korean residents. Likely Korean coordinating channels include the [[knpa|Korean National Police Agency]] and the [[knpa-cyber-bureau|KNPA Cyber Bureau]], which is the routine Korean point-of-contact for INTERPOL-coordinated cyber operations and for the Asia and South Pacific Joint Operations Against Cybercrime (ASPJOC) project under which Operation Secure was organised.
+
+The case is a strong infostealer-IC datapoint for Korea given that infostealer-derived credentials are a recurring upstream supply for Korean voice-phishing, romance-scam, and account-takeover schemes tracked elsewhere in this wiki.
 
 ## Contradictions & Open Questions
 
-- Per-country breakdown of arrests and infrastructure actions not disclosed.
-- Macau (China) and Kiribati mentioned in some source data but not confirmed in primary source.
-- Legal basis for cross-border data sharing across 26 jurisdictions not specified.
+- Per-country breakdown of arrests and infrastructure actions not disclosed in the cited tier-1 source. The 32 arrests, 41 servers, 100 GB+ of seized data, and 20 000+ disrupted IPs/domains are reported as cohort totals.
+- The wiki record's `participating_countries` frontmatter currently captures the 19 jurisdictions in the 26-country INTERPOL roster that have existing country pages in this wiki: Brunei, Cambodia, Hong Kong, India, Indonesia, Japan, Kazakhstan, Laos, Macau, Malaysia, Maldives, Nepal, Philippines, South Korea, Singapore, Sri Lanka, Thailand, Timor-Leste, and Vietnam. The remaining 7 source-named jurisdictions — Fiji, Kiribati, Nauru, Papua New Guinea, Samoa, Solomon Islands, Tonga, and Vanuatu — are named verbatim in the cited INTERPOL release but do not yet have country pages in this wiki and are therefore listed in the prose roster only. (Counted as 8 entries; the eighth Pacific entry, Macau, is treated as a Chinese region in INTERPOL's text and is captured separately above.)
+- Legal basis for cross-border data sharing across 26 jurisdictions is not specified in the cited tier-1 source; the standing Asia-South Pacific Joint Operations Against Cybercrime (ASPJOC) project structure is the operational frame named in same-day INTERPOL coverage.
 
 ## Follow-Up Actions
 
