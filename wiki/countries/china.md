@@ -26,6 +26,7 @@ assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
+  - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
 ---
 ## Summary
 

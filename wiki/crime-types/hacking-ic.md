@@ -23,6 +23,7 @@ notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
+  - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
@@ -31,7 +32,7 @@ notable_operations:
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 8
+source_count: 9
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -41,6 +42,7 @@ sources:
   - "[[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname]]"
   - "[[2026-02-20_justice-gov_romanian-national-pleads-guilty-selling-access-oregon-state]]"
   - "[[2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia]]"
+  - "[[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -87,3 +89,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [6] | [[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname\|Justice Department Announces Actions to Combat Two Russian State-Sponsored Cyber Criminal Hacking Groups]] | US DOJ (OPA) | 2025-12-10 | https://www.justice.gov/opa/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal |
 | [7] | [[2026-02-20_justice-gov_romanian-national-pleads-guilty-selling-access-oregon-state\|Romanian National Pleads Guilty to Selling Access to Networks of Oregon State Government Office and Other U.S. Victims]] | US DOJ (OPA) | 2026-02-20 | https://www.justice.gov/opa/pr/romanian-national-pleads-guilty-selling-access-networks-oregon-state-government-office-and |
 | [8] | [[2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia\|Cybercrime-as-a-service takedown: 7 arrested (Latvia SIM-box CaaS network dismantled)]] | Europol | 2025-10-17 | https://www.europol.europa.eu/media-press/newsroom/news/cybercrime-service-takedown-7-arrested |
+| [9] | [[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy\|Prolific Chinese State-Sponsored Contract Hacker Extradited from Italy (Xu Zewei / HAFNIUM / Powerock)]] | US DOJ (OPA), Press Release 26-404 | 2026-04-27 | https://www.justice.gov/opa/pr/prolific-chinese-state-sponsored-contract-hacker-extradited-italy |

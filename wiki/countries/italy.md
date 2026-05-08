@@ -30,6 +30,7 @@ last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
+  - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
 operations_participated:
   - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
   - "[[doublevpn-takedown]]"

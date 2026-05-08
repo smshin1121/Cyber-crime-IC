@@ -16,6 +16,7 @@ operations_using:
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
+  - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
 ---
 ## Summary
 

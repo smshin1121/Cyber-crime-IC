@@ -45,6 +45,7 @@ notable_cases:
   - "[[us-v-dragomir-romanian-iab]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
+  - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
 ---
 ## Summary
 

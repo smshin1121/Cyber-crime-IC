@@ -39,6 +39,7 @@ notable_cases:
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
+  - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

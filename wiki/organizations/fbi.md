@@ -31,6 +31,7 @@ notable_cases:
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
+  - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:
