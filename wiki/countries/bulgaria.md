@@ -36,6 +36,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
 region: eastern-europe
 source_count: 4
 sources:

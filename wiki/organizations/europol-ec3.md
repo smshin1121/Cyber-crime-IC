@@ -125,6 +125,7 @@ operations_participated:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

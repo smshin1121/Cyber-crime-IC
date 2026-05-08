@@ -11,6 +11,7 @@ operations_participated:
   - "[[operation-perfect-storm-pay-tv-piracy-2019]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
 source_count: 0
 sources:
 

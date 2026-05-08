@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] enrichment | Europol 2025-11-26 — Phase 2 of EUR 700M+ crypto-fraud network takedown (affiliate-marketing infrastructure, BG/IL/MT added)
+- Source: `raw/press-releases/2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million.md` (Europol newsroom press release; tier-1 primary)
+- Pages created: [[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million]] (source summary)
+- Pages enriched: [[eurojust-600m-crypto-money-laundering-takedown-2025]] (renamed to capture both phases; added Phase 2 to Operational Timeline + Results + Cooperation Mechanisms; added bulgaria/israel/malta to participating_countries; added [[europol-ec3]] to participating_agencies; updated source_count 1→2; updated network laundering total from EUR 600M to EUR 700M+; added the Europol release as second tier-1 source).
+- Pages updated: [[bulgaria]], [[israel]], [[malta]] (operations_participated); [[europol-ec3]] (operations_participated); [[online-fraud-ic]], [[money-laundering-ic]] (sources + body Reference rows); index/master indexes reconciled.
+- Key findings: Phase 2 (2025-11-25 to 2025-11-26) targeted affiliate-marketing infrastructure with searches in Belgium, Bulgaria, Germany, Israel; targets included companies offering deepfake celebrity / media-outlet / politician impersonation ad services to drive crypto-investment-fraud victim recruitment. First wiki record of (a) Israeli National Cybercrime Unit (Intelligence Division) operational involvement in a Europol-coordinated cryptocurrency-fraud takedown; (b) deepfake-celebrity-impersonation affiliate-marketing methodology in primary IC documentation; (c) two-phase EU + non-EU partner takedown of crypto-fraud + affiliate-marketing infrastructure. Updates the case to reflect 8-country participation (BE/BG/CY/FR/DE/IL/MT/ES) and >EUR 700M+ network laundering total (vs EUR 600M Phase-1-only Eurojust figure).
+
 ## [2026-05-09] ingest | Europol ECTC — Project Compass against The Com network (28-country, January 2025 — ongoing)
 - Source: `raw/policy-documents/2026-02_europol_project-compass-the-com-network.md` (Europol Operations / Project Compass page; tier-1 primary)
 - Pages created: [[2026-02_europol_project-compass-the-com-network]] (source summary), [[project-compass-the-com-network-2025]] (operation, case_id `CYB-2025-211`)
