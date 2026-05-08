@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-05-03 | Total pages: 1420 | Total sources: 710*
+*Last updated: 2026-05-03 | Total pages: 1421 | Total sources: 711*
 
 ## Legal Frameworks (25)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -82,8 +82,8 @@ Recent highlights:
 - [[specialty-principle]] — Extradited person tried only for offense extradition was granted; prevents prosecution scope creep
 - [[nationality-principle]] — State jurisdiction over crimes by nationals abroad; Korean 형법 Art. 3; Cambodia scam centres
 
-## Sources (710)
-See the sources index (`wiki/sources/_index.md`) for the full list of 710 dedicated source pages.
+## Sources (711)
+See the sources index (`wiki/sources/_index.md`) for the full list of 711 dedicated source pages.
 
 Distribution: Europol 6, INTERPOL 10, US DOJ 3, Korea NPA 1, News 3. Additional operations sourced from Excel batch import (no dedicated source pages).
 

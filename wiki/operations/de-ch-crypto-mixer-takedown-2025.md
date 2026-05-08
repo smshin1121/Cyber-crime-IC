@@ -1,10 +1,13 @@
 ---
 type: operation
-title: "DE-CH Cryptocurrency Mixing Service Takedown (December 2025)"
-title_ko: "독일-스위스 가상자산 믹싱 서비스 단속 (2025년 12월)"
+title: "Cryptomixer Takedown / Operation Olympia (DE-CH, 24-28 November 2025)"
+title_ko: "Cryptomixer 단속 / Operation Olympia (독일-스위스, 2025-11-24~2025-11-28)"
 aliases:
+  - "Operation Olympia"
   - "Eurojust DE-CH Crypto Mixer Takedown 2025"
   - "Germany Switzerland Cryptocurrency Mixer Action"
+  - "Cryptomixer takedown"
+  - "cryptomixer.io takedown"
 case_id: CYB-2025-013
 period: 3
 operation_type: infrastructure-seizure
@@ -15,12 +18,12 @@ enforcement_type:
   - asset_freeze
 outcome: partial
 timeframe:
-  announced: 2025-12-01
-  start: ""
-  end: 2025-12-01
+  announced: 2025-11-26
+  start: 2025-11-24
+  end: 2025-11-28
   ongoing: false
 crime_type: "[[money-laundering-ic]]"
-target_entity: "Unnamed cryptocurrency mixing service used to launder proceeds from drug trafficking, weapons trafficking, online fraud, and other cybercrimes"
+target_entity: "Cryptomixer (cryptomixer.io) — hybrid clear-web + dark-web cryptocurrency mixing service active since 2016 that processed over EUR 1.3 billion in Bitcoin laundering for ransomware groups, underground economy forums, dark web markets, drug traffickers, weapons traffickers, and payment-card fraudsters"
 lead_agency: "[[eurojust]]"
 coordinating_body: "[[eurojust]]"
 participating_countries:
@@ -29,6 +32,7 @@ participating_countries:
 participating_agencies:
   - "[[eurojust]]"
   - "[[europol-ec3]]"
+  - "[[germany-bka]]"
 legal_basis:
   - "[[budapest-convention]]"
   - "[[mutual-legal-assistance]]"
@@ -39,13 +43,17 @@ results:
   arrests: 0
   indictments: 0
   servers_seized: 3
-  domains_seized: 0
-  cryptocurrency_seized: "EUR 25 million"
+  domains_seized: 1
+  cryptocurrency_seized: "EUR 25,000,000+ in Bitcoin"
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "3 servers seized"
-    - "Cryptocurrency mixing service infrastructure dismantled"
+    - "3 servers seized in Switzerland"
+    - "cryptomixer.io clearnet domain seized"
+    - "12+ TB of operational data confiscated"
+    - "Cryptomixer service active since 2016"
+    - "Lifetime laundering volume: EUR 1.3 billion+ in Bitcoin mixed through the service"
+    - "Splash banner placed on cryptomixer.io after takedown"
 edges:
   - source_actor: Germany
     target_actor: Switzerland
@@ -70,12 +78,9 @@ edges:
 credibility_index: 3.5
 source_tier: 1
 missing_fields:
-  - operation_name
-  - service_name
-  - arrests
-  - indictments
-  - start_date
-  - specific_legal_basis_for_switzerland
+  - "specific operator names (no arrests enumerated; Cryptomixer operator identity not in primary releases)"
+  - "indictments (none enumerated post-takedown as of cited Europol release)"
+  - "specific legal basis for Switzerland-Germany cooperation (Eurojust-Switzerland bilateral agreement assumed but not confirmed in the cited releases)"
 related_operations:
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[2bagoldmule-qqaazz]]"
@@ -83,18 +88,19 @@ challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
   - "Bilateral DE-CH cooperation under Eurojust coordination can deliver significant cryptocurrency seizures even where one participant (Switzerland) is outside the EU"
-source_count: 5
+source_count: 6
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2025-12-01_coindesk-com_cryptomixer-takedown]]"
   - "[[2025-12-01_amlintelligence-com_cryptomixer-used-to-mix-13bn-in-bitcoin]]"
   - "[[2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion]]"
   - "[[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]]"
+  - "[[2025-11-26_europol_cryptomixer-operation-olympia-takedown]]"
 created: 2026-04-14
 updated: 2026-04-29
 operation_role: umbrella
 parent_operation: ""
-summary: "On **1 December 2025**, [[eurojust|Eurojust]] announced that authorities from [[germany|Germany]] and [[switzerland|Switzerland]], together with Eurojust and [[europol-ec3|Europol]], had taken down a cryptocurrency mixing service suspected of being used by criminals to launder the proceeds of drug trafficking, weapons trafficking, online fraud, and other cybercrimes. During an action week, **more than EUR 25 million in cryptocurrency was seized and three servers were taken down**."
+summary: "Operation Olympia (24-28 November 2025) was the joint German-Swiss takedown of Cryptomixer (cryptomixer.io) — a hybrid clear-web + dark-web cryptocurrency mixing service active since 2016 that had laundered over EUR 1.3 billion in Bitcoin for ransomware groups, dark web markets, drug traffickers, weapons traffickers, and payment-card fraudsters. Lead authorities: German BKA + Frankfurt am Main Prosecutor General's Office Cyber Crime Centre (ZIT); Zurich City Police (Stadtpolizei Zürich); Zurich Cantonal Police (Kantonspolizei Zürich); Public Prosecutor's Office Zurich (Staatsanwaltschaft Zürich). Europol coordination via the Joint Cybercrime Action Taskforce (J-CAT) at Europol HQ The Hague + on-the-spot cybercrime expert support and forensic assistance during the action days. Eurojust judicial coordination. Action-day seizures: 3 servers in Switzerland, the cryptomixer.io clearnet domain, 12+ TB of operational data, and EUR 25 million+ worth of Bitcoin. Splash banner placed on cryptomixer.io after takedown. Predecessor in same Europol-supported mixer-takedown chronology: Chipmixer (March 2023)."
 jurisdictions:
   - "[[germany]]"
   - "[[switzerland]]"
@@ -256,3 +262,4 @@ This keeps the canonical record analytically bounded and reproducible.
 | [3] | EU takes down Cryptomixer, used to mix EUR 1.3bn in Bitcoin | AML Intelligence | 2025-12-01 | https://www.amlintelligence.com/2025/12/latest-eu-takes-down-cryptomixer-used-to-mix-e1-3bn-in-bitcoin/ |
 | [4] | Huge cryptomixer takedown sees feds seize over USD 30 million | TechRadar | 2025-12-02 | https://www.techradar.com/pro/security/huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion |
 | [5] | Illegaler 'Cryptomixer' von Strafverfolgern zerschlagen | heise online | 2025-12-01 | https://www.heise.de/news/Illegaler-Cryptomixer-von-Strafverfolgern-zerschlagen-11098583.html |
+| [6] | [[2025-11-26_europol_cryptomixer-operation-olympia-takedown\|Europol and partners shut down 'Cryptomixer' (Operation Olympia)]] | Europol | 2025-11-26 | https://www.europol.europa.eu/media-press/newsroom/news/europol-and-partners-shut-down-cryptomixer |

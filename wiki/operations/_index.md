@@ -123,7 +123,7 @@ updated: 2026-04-14
 | [[operation-talent]] | CYB-2025-011 | 3 | completed | umbrella | 5 | — | — |
 | [[lumma-stealer-takedown]] | CYB-2025-012 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-secure-interpol]] | CYB-2025-012 | 3 | completed | umbrella | 3 | 3.45 | 2 |
-| [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | umbrella | 5 | 3.50 | 1 |
+| [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | umbrella | 6 | 3.50 | 1 |
 | [[operation-eastwood]] | CYB-2025-014 | 3 | completed | umbrella | 4 | 4.40 | 1 |
 | [[operation-contender-3]] | CYB-2025-015 | 3 | completed | umbrella | 4 | 4.10 | 1 |
 | [[operation-serengeti-2]] | CYB-2025-016 | 3 | completed | umbrella | 4 | 4.35 | 1 |

@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] enrichment | Europol 2025-11-26 — Operation Olympia / Cryptomixer takedown (DE-CH, complement to existing 2025-12-01 Eurojust release)
+- Source: `raw/press-releases/2025-11-26_europol_cryptomixer-operation-olympia-takedown.md` (Europol newsroom press release; tier-1 primary)
+- Pages created: [[2025-11-26_europol_cryptomixer-operation-olympia-takedown]] (source summary)
+- Pages enriched: [[de-ch-crypto-mixer-takedown-2025]] — title updated to capture Operation Olympia + Cryptomixer; aliases expanded; timeframe updated (announced 2025-12-01 → 2025-11-26; start "" → 2025-11-24; end 2025-12-01 → 2025-11-28); target_entity updated to specify Cryptomixer (cryptomixer.io) hybrid mixer with EUR 1.3B+ lifetime laundering volume since 2016; participating_agencies adds [[germany-bka]]; results enriched with cryptomixer.io domain seizure, 12 TB data, lifetime EUR 1.3B+ laundering, splash banner; missing_fields tightened; source_count 5 → 6; Europol release added as 6th source.
+- Pages updated: [[money-laundering-ic]] (sources + body Reference row).
+- Key findings: Operation Olympia (24-28 November 2025) targeted Cryptomixer (cryptomixer.io) — a hybrid clear-web + dark-web cryptocurrency mixing service active since 2016 that laundered EUR 1.3 billion+ in Bitcoin for ransomware groups, dark web markets, drug traffickers, weapons traffickers, and payment-card fraudsters. Lead authorities: BKA + Frankfurt am Main ZIT (DE); Zurich City + Cantonal Police + Zurich PPO (CH). Europol J-CAT coordination + on-spot forensic support. Action-day seizures: 3 servers in Switzerland; cryptomixer.io domain; 12+ TB data; EUR 25M+ Bitcoin. Predecessor mixer takedown chronology: Chipmixer (March 2023) → Cryptomixer (November 2025). Adds Operation Olympia name + Cryptomixer service identification (both absent from the prior Eurojust 2025-12-01 release) + Europol J-CAT mechanism class to the operation page.
+
 ## [2026-05-09] ingest | Europol 2024-12-03 — MATRIX encrypted messaging service takedown (NL-FR JIT + Europol OTF, NL/FR/DE/IT/LT/ES 6-country)
 - Source: `raw/press-releases/2024-12-03_europol_matrix-encrypted-messaging-service-takedown.md` (Europol newsroom press release; tier-1 primary)
 - Pages created: [[2024-12-03_europol_matrix-encrypted-messaging-service-takedown]] (source summary), [[matrix-encrypted-messaging-takedown-2024]] (operation, case_id `CYB-2024-203`)
