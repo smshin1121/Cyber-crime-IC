@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "DIICOT / Romanian Police"
   mlat: "Ministry of Justice (Ministerul Justiției)"
@@ -26,10 +26,10 @@ iso_code: RO
 key_agencies:
   - "[[romania-diicot]]"
   - "[[romania-police]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-  []
+  - "[[us-v-dragomir-romanian-iab]]"
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-avalanche]]"
@@ -38,21 +38,19 @@ operations_participated:
 region: eastern-europe
 source_count: 4
 sources:
-  []
+
 title: Romania
 treaty_memberships:
   - date: 2004-09-12
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

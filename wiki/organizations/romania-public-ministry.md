@@ -3,11 +3,13 @@ type: organization
 title: "Romania Public Ministry"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
-last_verified: 2026-04-29
+updated: 2026-05-09
+last_verified: 2026-05-09
 org_type: prosecution-parent
 country: "[[romania]]"
-jurisdiction: [[romania]]
+jurisdiction:
+  -
+    - romania
 mandate: "Parent prosecution institution for Romanian prosecutorial bodies, including DIICOT."
 key_roles:
   - "Parent organization for [[romania-diicot]], Romania's specialized organized-crime, terrorism, and cybercrime prosecutorial directorate."
@@ -23,6 +25,8 @@ source_count: 2
 sources:
   - "[[2026-04-17_coe-int_diicot-key-player-in-fight-against-cybercrime]]"
   - "[[2023-01-01_statista-com_romania-cybercrime-cases-closed-by-diicot-2022]]"
+notable_cases:
+  - "[[us-v-dragomir-romanian-iab]]"
 ---
 ## Summary
 

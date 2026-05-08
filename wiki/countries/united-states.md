@@ -33,6 +33,7 @@ notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"
   - "[[us-v-stryzhak-nefilim]]"
+  - "[[us-v-dragomir-romanian-iab]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

@@ -26,7 +26,7 @@ updated: 2026-04-27
 | [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 6 |
 | [[drug-trafficking]] | — | — | — | — | 4 |
 | [[extortion-ic]] | — | — | — | — | 1 |
-| [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03, leakbase-takedown-2026 | 6 |
+| [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03, leakbase-takedown-2026 | 7 |
 | [[identity-theft]] | — | — | — | — | 4 |
 | [[illegal-iptv-ic]] | cyber-enabled | Yes | search-seizure, domain-seizure, public-private-cooperation | operation-perfect-storm-pay-tv-piracy-2019, spanish-pay-tv-streaming-network-takedown-2020, mobdro-illegal-streaming-takedown-2021 | 14 |
 | [[malware-ic]] | cyber-dependent | Yes | sinkholing, domain-seizure, search-seizure | operation-avalanche, andromeda-botnet-takedown, simda-botnet-takedown | 6 |

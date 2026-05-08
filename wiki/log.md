@@ -829,3 +829,15 @@
   - Nefilim victim-leak site named verbatim: "Corporate Leaks".
   - Co-conspirator Volodymyr Tymoshchuk (administrator-tier) remains a fugitive with US State Department TOC reward of up to USD 11 million.
   - Adds a third 2024-2025 European-arrest US-extradition pathway record alongside Volkov (Italy) and Zolotarjovs (Georgia), consolidating the Schengen-region pattern for Russian-and-Ukrainian-resident ransomware-affiliate prosecution.
+
+
+## [2026-05-09] ingest | DOJ 2026-02-20 — U.S. v Dragomir (Romanian Initial-Access Broker)
+- Source: raw/press-releases/2026-02-20_justice-gov_romanian-national-pleads-guilty-selling-access-oregon-state.md (DOJ Press Release 26-171, full-text via TLS-spoof)
+- Pages created: wiki/cases/us-v-dragomir-romanian-iab.md, wiki/sources/2026-02-20_justice-gov_romanian-national-pleads-guilty-selling-access-oregon-state.md
+- Pages updated: 2 country pages (US, RO — `notable_cases`), 4 organization pages (us-doj, fbi, office-of-international-affairs, romania-public-ministry — `notable_cases`), 1 crime-type page (hacking-ic — `notable_cases` + sources). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - Catalin Dragomir, 45, Romanian national formerly of Constanta, pleaded guilty 2026-02-19 in D.Or. to one count of obtaining information from a protected computer and one count of aggravated identity theft (max 5y + mandatory 2y consecutive). Sentencing scheduled 2026-05-26.
+  - US-Romania bilateral extradition: arrest November 2024 in Romania → US custody January 2025 (~2-month transit, materially faster than the comparable US-Italy / US-Spain / US-Georgia bilateral extradition pathways).
+  - IAB conduct documented in DOJ-charging language: gained unauthorized access to a computer on the network of an Oregon state government office in June 2021, then sold the access (with samples of personal identifying information for prospective buyers); also sold access to numerous other US-victim networks for cumulative losses of at least USD 250,000.
+  - First wiki-recorded US-Romania bilateral extradition pathway record. Names the Romanian Ministry of Justice's Directorate for International Law and Judicial Cooperation as the operational counterpart for DOJ Office of International Affairs.
+  - Private-sector cooperation partner: Darkweb IQ named in the DOJ release as having assisted the investigation.
