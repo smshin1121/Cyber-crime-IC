@@ -65,7 +65,7 @@ updated: 2026-04-08
 | [[nacsa-malaysia]] | national-agency | Malaysia | Malaysia's national cybersecurity coordinator under the national-security architecture.; Policy and critical national information infrastructure protection context, distinct from police investigation. | — | 1 |
 | [[national-intelligence-service-korea]] | national-agency | Seoul, Republic of Korea | Foreign and counter-intelligence collection and analysis for the Republic of Korea; National cybersecurity policy coordination and select operational support, particularly with respect to state-sponsored cyber threat actors | 1 | 1 |
 | [[netherlands-fiod]] | national-agency | Utrecht, Netherlands (multiple offices nationally) | Financial fraud, money laundering and corruption investigation; Cybercrime with financial/cryptocurrency dimensions | — | 3 |
-| [[nigeria-police-force]] | national-agency | Abuja, Nigeria | domestic arrests; cybercrime unit execution | 2 | 3 |
+| [[nigeria-police-force]] | national-agency | Abuja, Nigeria | domestic arrests; cybercrime unit execution | 3 | 3 |
 | [[norway-nsm]] | national-agency | Norway | Norway's national security authority for preventive security and cybersecurity.; Operates national cybersecurity and NorCERT-style defensive functions distinct from police cybercrime investigation. | — | 1 |
 | [[pakistan-fia]] | national-agency | Islamabad, Pakistan | Cybercrime investigation and national cybercrime reporting in Pakistan.; INTERPOL NCB Pakistan context where cross-border cybercrime cases involve Pakistani enforcement. | 1 | 1 |
 | [[portuguese-judicial-police]] | national-agency | Lisbon, Portugal | Compatibility label for Portugal's Policia Judiciaria and its cybercrime unit references.; Routes detailed cybercrime-unit context to [[portugal-policia-judiciaria]]. | 4 | 3 |
@@ -77,7 +77,7 @@ updated: 2026-04-08
 | [[switzerland-ncsc]] | national-agency | Switzerland | Switzerland's federal cybersecurity office and national cybersecurity coordination point.; Provides national CERT/GovCERT and NCSC/BACS/OFCS continuity context. | — | 2 |
 | [[thailand-police]] | national-agency | Bangkok, Thailand | Variant reference for ambiguous Thai cybercrime police labels.; Routes specific cybercrime-bureau content to [[thailand-royal-police]]. | 2 | 3 |
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 4 | 8 |
-| [[uk-nca]] | national-agency | London, United Kingdom | — | 35 | 13 |
+| [[uk-nca]] | national-agency | London, United Kingdom | — | 36 | 13 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 11 | 3 |
 | [[us-doj]] | national-agency | Washington, D.C., United States | — | 943 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 7 | 8 |

@@ -60,6 +60,7 @@ operations_participated:
   - "[[operation-chakra-ii]]"
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
+  - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

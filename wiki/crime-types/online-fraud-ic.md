@@ -35,6 +35,7 @@ notable_operations:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[leakbase-takedown-2026]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
+  - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
 criminalization_status:
@@ -43,7 +44,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 19
+source_count: 20
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -64,6 +65,7 @@ sources:
   - "[[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]]"
   - "[[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests]]"
   - "[[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition]]"
+  - "[[2026-02-20_nca-uk_fraudsters-arrested-nigeria-following-nca-intelligence-sharing]]"
 created: 2026-04-08
 updated: 2026-05-08
 ---
@@ -146,3 +148,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [17] | European police bust Albanian investment and call centre scam | Reuters / MarketScreener | 2026-04-29 | https://www.marketscreener.com/news/european-police-bust-albanian-investment-and-call-centre-scam-ce7f58dad889f622 |
 | [18] | [[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests\|Coordinated Takedown of Scam Centers Leads to at Least 276 Arrests; Alleged Managers and Recruiters Charged in San Diego]] | US DOJ (OPA) | 2026-04-29 | https://www.justice.gov/opa/pr/coordinated-takedown-scam-centers-leads-least-276-arrests-alleged-managers-and-recruiters |
 | [19] | [[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition\|온라인 스캠 조직원 73명 국내 송환 (캄보디아·필리핀 거점)]] | 경찰청 (Korea.kr 정책브리핑 / Kyunghyang) | 2026-04-27 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156740857 |
+| [20] | [[2026-02-20_nca-uk_fraudsters-arrested-nigeria-following-nca-intelligence-sharing\|Fraudsters arrested in Nigeria following NCA intelligence sharing]] | UK National Crime Agency | 2026-02-20 | https://www.nationalcrimeagency.gov.uk/news/fraudsters-arrested-in-nigeria-following-nca-intelligence-sharing |

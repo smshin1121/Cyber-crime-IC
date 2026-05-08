@@ -720,3 +720,15 @@
   - INTERPOL release names a 26-country APAC roster verbatim. Wiki frontmatter previously captured 15 of those 26 (those with existing country pages). Expanded to 19 by adding the four jurisdictions whose pages do exist. Remaining 7 (Fiji, Kiribati, Nauru, Papua New Guinea, Samoa, Solomon Islands, Tonga, Vanuatu) are named in body prose only, with explicit caveat in the Contradictions section.
   - Korean involvement section materially expanded: from a single-sentence 2-line note to a full Korean-relevance paragraph identifying KNPA + KNPA Cyber Bureau as the likely Korean coordinating channels under the Asia and South Pacific Joint Operations Against Cybercrime (ASPJOC) project frame, plus a forward-link rationale to Korean voice-phishing / romance-scam / account-takeover IC corpus.
   - Net SNA effect: +4 country edges to operation-secure-interpol; cross-corpus consistency between Korean voice-phishing and APAC infostealer takedown lines is now linkable through the expanded Korean Involvement section.
+
+
+## [2026-05-08] ingest | NCA UK 2026-02-20 — UK-Nigeria-Meta scam centre disruption (Agbor)
+- Source: raw/press-releases/2026-02-20_nca-uk_fraudsters-arrested-nigeria-following-nca-intelligence-sharing.md (UK National Crime Agency, full-text via WebFetch; corroborated by parallel Meta blog post on the same date)
+- Pages created: wiki/operations/uk-nigeria-meta-scam-centre-disruption-2026.md, wiki/sources/2026-02-20_nca-uk_fraudsters-arrested-nigeria-following-nca-intelligence-sharing.md
+- Pages updated: 2 country pages (united-kingdom, nigeria — `operations_participated`), 2 organization pages (uk-nca, nigeria-police-force — `operations_participated`), 1 crime-type page (online-fraud-ic — `notable_operations` + sources). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - 2026-01-13 action day: 7 men arrested in Agbor, Delta State, Nigeria, by Nigerian Police National Cybercrime Centre following NCA intelligence sharing; 26 mobile phones, 42 SIM cards, 1 laptop seized.
+  - Crypto-investment-scam methodology: fake social-media accounts impersonating cryptocurrency traders + fraudulent Facebook groups featuring fabricated testimonials; targets UK residents and US persons resident in the UK.
+  - Meta is named as the private-sector partner alongside NCA and Nigerian Police; Meta wiki organization page does not yet exist and Meta is mentioned in body prose without a wikilink.
+  - The operation's structural shape (requesting state intelligence + host state arrests + global platform partner) reproduces in microcosm the broader 2026 cooperation pattern across the wiki (US-UAE-China-Thailand pig-butchering takedown, Korea-Cambodia-Philippines extradition cycle); explicit cross-links recorded in the operation page's `related_operations`.
+  - Korean involvement not named — South Korea not added to `participating_countries`.

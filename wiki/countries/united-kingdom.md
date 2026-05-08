@@ -60,6 +60,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
+  - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
 region: western-europe
 source_count: 5
 sources:

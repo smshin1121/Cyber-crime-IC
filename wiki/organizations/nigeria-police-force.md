@@ -15,7 +15,7 @@ key_roles:
   - "domestic arrests"
   - "cybercrime unit execution"
   - "INTERPOL-supported BEC investigations"
-last_verified: 2026-04-17
+last_verified: 2026-05-08
 mandate: "National police organization of Nigeria."
 mechanisms_operated:
 
@@ -27,6 +27,7 @@ official_name_ko: ""
 operations_participated:
   - "[[operation-falcon]]"
   - "[[operation-delilah]]"
+  - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
 org_type: national-agency
 parent_org: ""
 source_count: 3
@@ -37,7 +38,7 @@ sources:
 status: active
 title: "Nigeria Police Force"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 jurisdiction: Nigeria
 ---
 ## Summary
