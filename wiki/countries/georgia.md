@@ -2,22 +2,24 @@
 created: 2026-04-10
 ic_capacity: not-assessed
 iso_code: GE
-last_verified: 2026-05-03
+last_verified: 2026-05-08
 legal_system: not-assessed
 operations_participated:
-  []
+
 region: south-caucasus
 source_count: 0
 sources:
-  []
+
 title: Georgia
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-03
+updated: 2026-05-08
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[us-v-deniss-zolotarjovs]]"
 ---
 ## Summary
 

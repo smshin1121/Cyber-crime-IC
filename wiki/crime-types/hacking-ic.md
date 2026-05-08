@@ -16,7 +16,7 @@ estimated_annual_loss: ""
 key_organizations:
   - "[[fbi-cyber-division]]"
 notable_cases:
-
+  - "[[us-v-deniss-zolotarjovs]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
@@ -24,12 +24,13 @@ notable_operations:
   - "[[us-v-volkov-yanluowang-sentencing]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum]]"
   - "[[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang]]"
+  - "[[2026-05-04_justice-gov_member-prolific-russian-ransomware-group-zolotarjovs-sentenced]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -72,3 +73,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [2] | [[2026-03-12-eurojust-proxy-service-takedown|Servers used for cybercrime around the world taken down]] | Eurojust | 2026-03-12 | https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down |
 | [3] | [[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum\|United States Leads Dismantlement of One of the World's Largest Hacker Forums]] | US DOJ (OPA) | 2026-03-04 | https://www.justice.gov/opa/pr/united-states-leads-dismantlement-one-worlds-largest-hacker-forums |
 | [4] | [[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang\|Russian Citizen Sentenced to Prison for Hacking into U.S. Companies and Enabling Major Cybercrime Groups to Extort Tens of Millions of Dollars]] | US DOJ (OPA) | 2026-03-23 | https://www.justice.gov/opa/pr/russian-citizen-sentenced-prison-hacking-us-companies-and-enabling-major-cybercrime-groups |
+| [5] | [[2026-05-04_justice-gov_member-prolific-russian-ransomware-group-zolotarjovs-sentenced\|Member of Prolific Russian Ransomware Group Sentenced to Prison]] | US DOJ (OPA) | 2026-05-04 | https://www.justice.gov/opa/pr/member-prolific-russian-ransomware-group-sentenced-prison |

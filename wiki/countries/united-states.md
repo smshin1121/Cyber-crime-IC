@@ -30,7 +30,7 @@ key_agencies:
 last_verified: 2026-05-08
 legal_system: common-law
 notable_cases:
-
+  - "[[us-v-deniss-zolotarjovs]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

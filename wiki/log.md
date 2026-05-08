@@ -756,3 +756,15 @@
   - Multi-jurisdictional cooperation: USAO-EDMI, FBI Detroit Division, Michigan State Police (incl. Michigan Cyber Command Center), German BKA, Finnish NBI. First wiki entry for the Finnish NBI as a national-agency record.
   - Continues the 2024-2026 pattern of Russian-national operator attribution in DOJ-led cybercrime takedowns alongside Volkov (Yanluowang IAB) and Khoroshev (LockBit administrator).
   - Korean involvement not named — South Korea not added to `participating_countries`.
+
+
+## [2026-05-08] enrichment | DOJ 2026-05-04 — U.S. v Zolotarjovs (Conti / Karakurt sentencing) closing-out
+- Source: raw/press-releases/2026-05-04_justice-gov_member-prolific-russian-ransomware-group-zolotarjovs-sentenced.md (DOJ Press Release 26-444, full-text via TLS-spoof; quotes from AAG Duva, USA Gerace, AD Leatherman, SAC Cromartie preserved verbatim)
+- Pages updated: wiki/cases/us-v-deniss-zolotarjovs.md (replaced thin auto-stub with full sentencing record — case status moved from "charged" to "sentenced", participating-jurisdictions expanded from US-only to US + Georgia + Latvia + Russia, defendant nationality and 102-month sentence recorded, multi-brand Conti-successor taxonomy attributed); wiki/sources/2026-05-04_justice-gov_member-prolific-russian-ransomware-group-zolotarjovs-sentenced.md created. 4 country pages and 3 organization pages backlinked via `notable_cases`; 2 crime-type pages backlinked via `notable_cases` + sources. Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - Deniss Zolotarjovs, 35, Latvian national of Moscow Russia, sentenced to 102 months in SDOH on 2026-05-04 for ransom-negotiator role in a Conti-successor organisation operating under Conti / Karakurt / Royal / TommyLeaks / SchoolBoys / Akira brand names from June 2021 to August 2023.
+  - First wiki record explicitly attributing the multi-brand Conti-successor cluster to a single named individual at the negotiator tier in DOJ-charging language. Operationally significant for SNA reasoning about ransomware-organisation continuity across rebranding cycles.
+  - US-Georgia bilateral extradition pathway: arrest December 2023, contested extradition phase, US custody August 2024 (~8-month contested phase), plea July 2025, sentencing May 2026.
+  - Verbatim victim-loss figures: 13 named victims with USD 56M+ losses, 41 additional victims paid USD 13M ransom, total estimated period losses in the hundreds of millions of dollars.
+  - Notable verbatim findings: pediatric-healthcare patient data weaponised for extortion; government 911-system shutdown; organisation operations from Lakhtinskaya Street, St. Petersburg with multiple former Russian law-enforcement officers among membership.
+  - Korean involvement not named.

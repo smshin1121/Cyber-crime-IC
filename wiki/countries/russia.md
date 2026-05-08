@@ -32,7 +32,7 @@ operations_participated:
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
 notable_cases:
-
+  - "[[us-v-deniss-zolotarjovs]]"
 cooperation_assessment: ""
 source_count: 4
 created: 2026-04-20

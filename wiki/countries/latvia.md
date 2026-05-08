@@ -20,6 +20,8 @@ updated: 2026-05-08
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[us-v-deniss-zolotarjovs]]"
 ---
 ## Summary
 

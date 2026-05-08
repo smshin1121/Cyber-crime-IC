@@ -37,6 +37,8 @@ sources:
   - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
   - "[[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]]"
   - "[[2023-07-01_oodaloop-com_doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-c]]"
+notable_cases:
+  - "[[us-v-deniss-zolotarjovs]]"
 ---
 ## Summary
 
