@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | DOJ-OPA 2026-04-30 — Versus Project dark web marketplace cofounder Patrick Schmitz extradited from Colombia (D.N.J., 8-count indictment; CCE)
+- Source: `raw/press-releases/2026-04-30_justice-gov_versus-project-creator-extradited-colombia.md` (DOJ-OPA Press Release 26-428; tier-1 primary)
+- Pages created: [[2026-04-30_justice-gov_versus-project-creator-extradited-colombia]] (source summary), [[us-v-schmitz-versus-project]] (case page)
+- Pages updated: [[united-states]], [[colombia]], [[germany]] (notable_cases), [[fbi]], [[us-doj]], [[office-of-international-affairs]] (notable_cases), [[dark-web-ic]] (notable_cases + sources + body Reference rows), [[drug-trafficking]] (notable_cases + sources + body Reference rows), [[online-fraud-ic]], [[money-laundering-ic]] (notable_cases).
+- Key findings: 22-month US-Colombia extradition timeline (June 2024 provisional arrest → 29 April 2026 extradition) for Patrick Schmitz (37, German national, Taganga, Colombia), cofounder/day-to-day operator of The Versus Project (380,000+ users, 32,000+ listings, 300,000+ orders, Bitcoin/Monero-only payment rail, Nov 2019–May 2022). 8-count D.N.J. indictment with **continuing criminal enterprise** (20-yr mandatory minimum, max life) as the lead count — atypical CCE framing for a dark web *marketplace* cofounder. Investigative stack: HSI Newark (lead), FBI Kansas City, IRS-CI Newark, DOJ-OIA, US Marshals, Policía Nacional de Colombia. **JCODE** attribution.
+
 ## [2026-05-09] ingest | Europol 2026-03-21 — Operation Alice: 23-country takedown of 373,000+ dark web onion domains (BLKA + ZKI + BKA + Europol; CSAM-fraud + CaaS-fraud)
 - Source: `raw/press-releases/2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice.md` (Europol Newsroom press release; tier-1 primary)
 - Pages created: [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]] (source summary), [[operation-alice-csam-fraud-2026]] (operation page)

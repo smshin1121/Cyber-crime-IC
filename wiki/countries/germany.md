@@ -31,6 +31,7 @@ legal_system: civil-law
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
+  - "[[us-v-schmitz-versus-project]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

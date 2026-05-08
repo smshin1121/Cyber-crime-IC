@@ -1,22 +1,18 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: Policía Nacional — Dirección de Investigación Criminal e INTERPOL (DIJIN)
-    / CAI Virtual
-  mlat: Fiscalía General de la Nación (Office of the Attorney General)
-cooperation_assessment: Colombia is *likely* a capable and motivated cooperation partner
-  in Latin America. Its 2020 accession to the Budapest Convention, relatively comprehensive
-  Law 1273/2009, and operational CAI Virtual platform with the Fiscalía and Policía
-  Nacional indicate institutional maturity. Capacity is *likely* the strongest in
-  the Andean region alongside Chile.
+  budapest: "Policía Nacional — Dirección de Investigación Criminal e INTERPOL (DIJIN)"
+  mlat: "Fiscalía General de la Nación (Office of the Attorney General)"
+cooperation_assessment: "Colombia is *likely* a capable and motivated cooperation partner"
 created: 2026-04-10
 cybercrime_legislation:
   data_retention: unknown
-  primary_law: Ley 1273 de 2009 (Law 1273 of 2009 amending the Criminal Code)
-  primary_law_date: '2009-01-05'
+  primary_law: "Ley 1273 de 2009 (Law 1273 of 2009 amending the Criminal Code)"
+  primary_law_date: 2009-01-05
   procedural_powers:
-  - search-and-seizure
-  - production-order
+    - search-and-seizure
+    - production-order
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: unknown
@@ -24,28 +20,31 @@ ic_capacity:
   english_proficiency: medium
   rating: medium
 iso_code: CO
-key_agencies: []
-last_verified: '2026-04-21'
+key_agencies:
+  []
+last_verified: 2026-05-09
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  - "[[us-v-schmitz-versus-project]]"
 operations_participated:
-- '[[operation-orion-international]]'
-- '[[operation-haechi-ii]]'
-- '[[imminent-monitor-rat-takedown]]'
-- '[[operation-avalanche]]'
+  - "[[operation-orion-international]]"
+  - "[[operation-haechi-ii]]"
+  - "[[imminent-monitor-rat-takedown]]"
+  - "[[operation-avalanche]]"
 region: south-america
 source_count: 5
-sources: []
-title: Republic of Colombia
+sources:
+  []
+title: "Republic of Colombia"
 treaty_memberships:
-- date: '2020-03-16'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
+  - date: 2020-03-16
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
 type: country
-updated: 2026-04-21
+updated: 2026-05-09
 ---
-
 ## Summary
 
 Colombia deposited its instrument of accession to the [[budapest-convention|Budapest Convention on Cybercrime]] on **16 March 2020**, becoming the 65th Party [1][2]. Its substantive cybercrime law is **Ley 1273 de 2009 "De la protección de la información y de los datos"**, which amended the Criminal Code to create a new protected legal good ("protection of information and data") and established comprehensive substantive offences [3][4].

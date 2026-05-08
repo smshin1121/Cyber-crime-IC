@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (714)
+# Sources (715)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -14,6 +14,7 @@ updated: 2026-04-14
 | [[2026-05-07_interpol_operation-pangea-xviii-illicit-pharmaceuticals]] | press-release | INTERPOL | ? | high | ? |
 | [[2026-05-07_hsa_operation-pangea-xviii-illegal-health-products]] | press-release | Health Sciences Authority Singapore | ? | high | ? |
 | [[2026-05-07_danish-medicines-agency_operation-pangea-xviii-falsified-medicines]] | press-release | Danish Medicines Agency | ? | high | ? |
+| [[2026-04-30_justice-gov_versus-project-creator-extradited-colombia]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]] | news | Reuters / MarketScreener | 2 | medium | ? |
 | [[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2026-04-29_europol_call-centres-eur-50m-online-fraud]] | press-release | Europol | 1 | high | ? |

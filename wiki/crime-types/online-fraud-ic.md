@@ -54,6 +54,7 @@ notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
+  - "[[us-v-schmitz-versus-project]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true

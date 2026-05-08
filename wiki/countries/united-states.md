@@ -41,6 +41,7 @@ notable_cases:
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
   - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
+  - "[[us-v-schmitz-versus-project]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

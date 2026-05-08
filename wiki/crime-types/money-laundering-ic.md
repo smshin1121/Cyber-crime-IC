@@ -38,7 +38,7 @@ notable_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[black-axe-spain-takedown-2026]]"
 notable_cases:
-
+  - "[[us-v-schmitz-versus-project]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true

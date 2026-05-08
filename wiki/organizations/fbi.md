@@ -33,6 +33,7 @@ notable_cases:
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
   - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
+  - "[[us-v-schmitz-versus-project]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:
