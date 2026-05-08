@@ -962,6 +962,7 @@ operations_participated:
   - "[[operation-open-market]]"
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
+  - "[[operation-card-shop]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

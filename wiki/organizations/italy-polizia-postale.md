@@ -30,6 +30,7 @@ operations_participated:
   - "[[operation-taken-down-illegal-iptv-2024]]"
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
+  - "[[operation-card-shop]]"
 notable_cases: []
 contact_point_for:
   - "[[24-7-network]]"

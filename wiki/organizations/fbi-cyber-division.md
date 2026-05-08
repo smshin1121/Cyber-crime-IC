@@ -112,6 +112,7 @@ operations_participated:
   - "[[operation-ghost-click]]"
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
+  - "[[operation-card-shop]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

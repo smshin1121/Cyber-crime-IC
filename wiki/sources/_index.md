@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (619)
+# Sources (624)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -611,6 +611,11 @@ updated: 2026-04-14
 | [[2014-05-19_computerworld_blackshades-97-arrests]] | news | Computerworld | ? | medium | ? |
 | [[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]] | press-release | DOJ SDNY | ? | high | ? |
 | [[2013-07-22_wired_operation-open-market]] | news | Wired | ? | medium | ? |
+| [[2012-07-13_doj_operation-card-shop-followup]] | press-release | U.S. Department of Justice | ? | high | ? |
+| [[2012-06-26_wired_operation-card-shop]] | news | Wired | ? | medium | ? |
+| [[2012-06-26_fbi_operation-card-shop]] | press-release | FBI | ? | high | ? |
+| [[2012-06-26_doj_operation-card-shop]] | press-release | U.S. Department of Justice | ? | high | ? |
+| [[2012-06-26_computerworld_operation-card-shop]] | news | Computerworld | ? | medium | ? |
 | [[2012-03-16_secret-service_operation-open-market]] | press-release | U.S. Secret Service | ? | high | ? |
 | [[2011-11-10_guardian_ghost-click-botnet]] | news | The Guardian | ? | medium | ? |
 | [[2011-11-10_arstechnica_dnschanger-ghost-click]] | news | Ars Technica | ? | medium | ? |

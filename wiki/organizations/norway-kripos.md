@@ -24,7 +24,7 @@ notable_cases:
   []
 official_name: "Nasjonal enhet for bekjempelse av organisert og annen alvorlig kriminalitet (Kripos)"
 operations_participated:
-  []
+  - "[[operation-card-shop]]"
 org_type: national-unit
 parent_org: ""
 source_count: 2

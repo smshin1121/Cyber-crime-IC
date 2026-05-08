@@ -29,6 +29,7 @@ operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-firewall]]"
+  - "[[operation-card-shop]]"
 org_type: national-unit
 parent_org: "[[bulgaria-ministry-of-interior]]"
 source_count: 2

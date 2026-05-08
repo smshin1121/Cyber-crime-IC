@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-07T21:55:33Z",
+  "generated_at": "2026-05-07T23:48:53Z",
   "root": null,
   "stats": {
-    "total_nodes": 1267,
-    "total_edges": 11882,
+    "total_nodes": 1273,
+    "total_edges": 11948,
     "broken_links": 0,
     "orphans": 107,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 158,
+      "operation": 159,
       "organization": 146,
       "procedure": 2,
-      "source": 619
+      "source": 624
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 131
+      "canonical_operation": 132
     }
   },
   "nodes": [
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 131 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 158 | | Period 1 (pre-2019) | 31 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 132 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 159 | | Period 1 (pre-2019) | 32 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4860 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4865 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -1935,7 +1935,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 77,
+      "degree": 78,
       "path": "wiki/countries/australia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2106,7 +2106,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/countries/bosnia-and-herzegovina.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2173,7 +2173,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 34,
+      "degree": 35,
       "path": "wiki/countries/bulgaria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2242,7 +2242,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 54,
+      "degree": 55,
       "path": "wiki/countries/canada.md",
       "meta": {
         "legal_system": "mixed",
@@ -2497,7 +2497,7 @@
       "source_count": 1,
       "created": "2026-04-11",
       "updated": "2026-04-29",
-      "degree": 33,
+      "degree": 34,
       "path": "wiki/countries/denmark.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2686,7 +2686,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 142,
+      "degree": 143,
       "path": "wiki/countries/germany.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2839,7 +2839,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 22,
+      "degree": 23,
       "path": "wiki/countries/india.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2958,7 +2958,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 48,
+      "degree": 49,
       "path": "wiki/countries/italy.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2992,7 +2992,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 45,
+      "degree": 46,
       "path": "wiki/countries/japan.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3176,7 +3176,7 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": "2026-05-03",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/countries/macedonia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3478,7 +3478,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 18,
+      "degree": 19,
       "path": "wiki/countries/norway.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4127,7 +4127,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 144,
+      "degree": 145,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4145,7 +4145,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 210,
+      "degree": 211,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -4332,7 +4332,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/crime-types/carding-fraud-ic.md",
       "meta": {}
     },
@@ -5216,7 +5216,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 48,
+      "degree": 50,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5362,7 +5362,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 23,
       "path": "wiki/mechanisms/extradition.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5524,7 +5524,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 93,
+      "degree": 95,
       "path": "wiki/mechanisms/mutual-legal-assistance.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5540,7 +5540,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 70,
+      "degree": 72,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5556,7 +5556,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 53,
+      "degree": 55,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6694,7 +6694,7 @@
       "source_count": 5,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 76,
+      "degree": 78,
       "path": "wiki/operations/operation-blackshades.md",
       "meta": {
         "status": "completed",
@@ -6729,6 +6729,31 @@
         "outcome": "success",
         "results_arrests": 1,
         "operation_scope": "absorbed_follow_on"
+      }
+    },
+    {
+      "id": "operation-card-shop",
+      "type": "operation",
+      "title": "Operation Card Shop",
+      "title_ko": "Operation Card Shop",
+      "aliases": [
+        "Carder Profit undercover forum",
+        "Card Shop carding takedown"
+      ],
+      "summary": "Operation Card Shop was a two-year FBI undercover carding investigation built around an FBI-operated forum called Carder Profit. The forum allowed investigators to record posts, private messages, registration data, and IP addresses from users…",
+      "source_count": 5,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 66,
+      "path": "wiki/operations/operation-card-shop.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "arrest-sweep",
+        "outcome": "success",
+        "results_arrests": 27,
+        "operation_scope": "canonical_operation"
       }
     },
     {
@@ -7435,7 +7460,7 @@
       "source_count": 4,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 58,
+      "degree": 60,
       "path": "wiki/operations/operation-firewall.md",
       "meta": {
         "status": "completed",
@@ -8070,7 +8095,7 @@
       "source_count": 4,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 43,
+      "degree": 45,
       "path": "wiki/operations/operation-open-market.md",
       "meta": {
         "status": "completed",
@@ -8191,7 +8216,7 @@
       "source_count": 4,
       "created": "2026-05-07",
       "updated": "2026-05-07",
-      "degree": 37,
+      "degree": 38,
       "path": "wiki/operations/operation-phish-phry.md",
       "meta": {
         "status": "completed",
@@ -9652,7 +9677,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 15,
+      "degree": 17,
       "path": "wiki/organizations/bulgaria-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -9710,7 +9735,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 47,
+      "degree": 49,
       "path": "wiki/organizations/canada-rcmp.md",
       "meta": {
         "org_type": "national-unit",
@@ -9919,7 +9944,7 @@
       "source_count": 2,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 15,
+      "degree": 17,
       "path": "wiki/organizations/denmark-national-police.md",
       "meta": {
         "org_type": "national-police-parent",
@@ -10066,7 +10091,7 @@
       "source_count": 12,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 249,
+      "degree": 252,
       "path": "wiki/organizations/fbi-cyber-division.md",
       "meta": {
         "org_type": "national-agency",
@@ -10264,7 +10289,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 101,
+      "degree": 103,
       "path": "wiki/organizations/germany-bka.md",
       "meta": {
         "org_type": "national-agency",
@@ -10583,7 +10608,7 @@
       "source_count": 3,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 22,
       "path": "wiki/organizations/italy-polizia-postale.md",
       "meta": {
         "org_type": "national-unit",
@@ -10636,7 +10661,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 31,
+      "degree": 33,
       "path": "wiki/organizations/japan-npa.md",
       "meta": {
         "org_type": "national-agency",
@@ -11162,7 +11187,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 6,
+      "degree": 8,
       "path": "wiki/organizations/norway-kripos.md",
       "meta": {
         "org_type": "national-unit",
@@ -12043,7 +12068,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 217,
+      "degree": 220,
       "path": "wiki/organizations/us-doj.md",
       "meta": {
         "org_type": "national-agency",
@@ -12462,6 +12487,76 @@
       "updated": null,
       "degree": 3,
       "path": "wiki/sources/2012-03-16_secret-service_operation-open-market.md",
+      "meta": {}
+    },
+    {
+      "id": "2012-06-26_computerworld_operation-card-shop",
+      "type": "source",
+      "title": "24 arrested in international online carding crackdown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Computerworld reported on the 24-arrest Operation Card Shop action and summarized the international carding crackdown across 13 countries. The article provides independent confirmation of the cross-border arrest scope and the…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2012-06-26_computerworld_operation-card-shop.md",
+      "meta": {}
+    },
+    {
+      "id": "2012-06-26_doj_operation-card-shop",
+      "type": "source",
+      "title": "Manhattan U.S. Attorney And FBI Assistant Director-In-Charge Announce 24 Arrests In Eight Countries As Part Of International Cyber Crime Takedown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DOJ's Southern District of New York release provides the prosecutorial version of the Operation Card Shop action. It details the undercover forum, carding conduct, individual charges, 24 arrests, foreign cooperation, and…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2012-06-26_doj_operation-card-shop.md",
+      "meta": {}
+    },
+    {
+      "id": "2012-06-26_fbi_operation-card-shop",
+      "type": "source",
+      "title": "Manhattan U.S. Attorney and FBI Assistant Director in Charge Announce 24 Arrests in Eight Countries as Part of International Cyber Crime Takedown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The FBI announced Operation Card Shop as the largest coordinated international law-enforcement action directed at carding crimes at the time. The release describes the Carder Profit undercover forum, 24 initial arrests, foreign…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2012-06-26_fbi_operation-card-shop.md",
+      "meta": {}
+    },
+    {
+      "id": "2012-06-26_wired_operation-card-shop",
+      "type": "source",
+      "title": "Feds Arrest 24 in Global Carding Ring Bust",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Wired reported on Operation Card Shop as a global carding-ring bust based on the FBI undercover Carder Profit forum. The article summarizes the arrests, search warrants, compromised-card notifications, and network-breach…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2012-06-26_wired_operation-card-shop.md",
+      "meta": {}
+    },
+    {
+      "id": "2012-07-13_doj_operation-card-shop-followup",
+      "type": "source",
+      "title": "Manhattan U.S. Attorney And FBI Assistant Director-In-Charge Announce Three Additional Arrests In Operation Card Shop",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary DOJ reported three additional arrests after the initial Operation Card Shop takedown, raising the public arrest total to 27. The follow-up source identifies Indian and Canadian arrests and planned U.S. extradition efforts. ##…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2012-07-13_doj_operation-card-shop-followup.md",
       "meta": {}
     },
     {
@@ -58289,6 +58384,288 @@
       "directed": false
     },
     {
+      "source": "operation-card-shop",
+      "target": "us-doj",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "carding-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "fbi-cyber-division",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "electronic-evidence",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "search-seizure",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "mutual-legal-assistance",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "extradition",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "public-private-cooperation",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "fbi-cyber-division",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "us-doj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "bulgaria-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "norway-kripos",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "germany-bka",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "italy-polizia-postale",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "japan-npa",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "canada-rcmp",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "denmark-national-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "bosnia-and-herzegovina",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "bulgaria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "norway",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "germany",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "italy",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "japan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "australia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "canada",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "denmark",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "macedonia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "india",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "operation-open-market",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "operation-firewall",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "operation-blackshades",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "operation-phish-phry",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "operation-firewall",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "operation-open-market",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "operation-blackshades",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "2012-06-26_fbi_operation-card-shop",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "2012-06-26_doj_operation-card-shop",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "2012-07-13_doj_operation-card-shop-followup",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "2012-06-26_wired_operation-card-shop",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-card-shop",
+      "target": "2012-06-26_computerworld_operation-card-shop",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-catalyst",
       "target": "interpol-igci",
       "kind": "coordinating_body",
@@ -75912,6 +76289,12 @@
     },
     {
       "source": "bulgaria-police",
+      "target": "operation-card-shop",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-police",
       "target": "bulgaria-ministry-of-interior",
       "kind": "parent_org",
       "directed": true
@@ -76147,6 +76530,12 @@
     {
       "source": "canada-rcmp",
       "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "canada-rcmp",
+      "target": "operation-card-shop",
       "kind": "operations_participated",
       "directed": true
     },
@@ -76693,6 +77082,12 @@
     {
       "source": "denmark-national-police",
       "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "denmark-national-police",
+      "target": "operation-card-shop",
       "kind": "operations_participated",
       "directed": true
     },
@@ -78036,6 +78431,12 @@
     },
     {
       "source": "fbi-cyber-division",
+      "target": "operation-card-shop",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi-cyber-division",
       "target": "fbi",
       "kind": "parent_org",
       "directed": true
@@ -78907,6 +79308,12 @@
     {
       "source": "germany-bka",
       "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany-bka",
+      "target": "operation-card-shop",
       "kind": "operations_participated",
       "directed": true
     },
@@ -80087,6 +80494,12 @@
       "directed": true
     },
     {
+      "source": "italy-polizia-postale",
+      "target": "operation-card-shop",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "japan-jc3",
       "target": "japan-npa",
       "kind": "cooperation_partners",
@@ -80239,6 +80652,12 @@
     {
       "source": "japan-npa",
       "target": "operation-tovar",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "japan-npa",
+      "target": "operation-card-shop",
       "kind": "operations_participated",
       "directed": true
     },
@@ -81482,6 +81901,12 @@
       "source": "norway-kripos",
       "target": "norway",
       "kind": "country",
+      "directed": true
+    },
+    {
+      "source": "norway-kripos",
+      "target": "operation-card-shop",
+      "kind": "operations_participated",
       "directed": true
     },
     {
@@ -84408,6 +84833,12 @@
     },
     {
       "source": "us-doj",
+      "target": "operation-card-shop",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-doj",
       "target": "isoon-apt27-indictment",
       "kind": "body",
       "directed": false
@@ -85339,6 +85770,66 @@
     {
       "source": "2012-03-16_secret-service_operation-open-market",
       "target": "operation-open-market",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2012-06-26_computerworld_operation-card-shop",
+      "target": "operation-card-shop",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2012-06-26_computerworld_operation-card-shop",
+      "target": "operation-card-shop",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2012-06-26_doj_operation-card-shop",
+      "target": "operation-card-shop",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2012-06-26_doj_operation-card-shop",
+      "target": "operation-card-shop",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2012-06-26_fbi_operation-card-shop",
+      "target": "operation-card-shop",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2012-06-26_fbi_operation-card-shop",
+      "target": "operation-card-shop",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2012-06-26_wired_operation-card-shop",
+      "target": "operation-card-shop",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2012-06-26_wired_operation-card-shop",
+      "target": "operation-card-shop",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2012-07-13_doj_operation-card-shop-followup",
+      "target": "operation-card-shop",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2012-07-13_doj_operation-card-shop-followup",
+      "target": "operation-card-shop",
       "kind": "body",
       "directed": false
     },

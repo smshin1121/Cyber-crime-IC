@@ -33,6 +33,7 @@ operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[operation-chakra-v]]"
   - "[[operation-tovar]]"
+  - "[[operation-card-shop]]"
 org_type: national-agency
 parent_org: "[[japan-npa-headquarters]]"
 source_count: 6
