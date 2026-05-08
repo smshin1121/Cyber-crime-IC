@@ -40,6 +40,7 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 region: eastern-europe
 source_count: 4
 sources:

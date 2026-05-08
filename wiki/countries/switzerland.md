@@ -38,6 +38,7 @@ operations_participated:
   - "[[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]]"
   - "[[black-axe-switzerland-takedown-2026]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 region: western-europe
 source_count: 1
 sources:

@@ -40,6 +40,7 @@ operations_participated:
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 region: southern-europe
 source_count: 6
 sources:

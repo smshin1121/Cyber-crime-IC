@@ -3,11 +3,13 @@ type: organization
 title: "Portugal Policia Judiciaria"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
-last_verified: 2026-04-29
+updated: 2026-05-09
+last_verified: 2026-05-09
 org_type: national-criminal-police
 country: "[[portugal]]"
-jurisdiction: [[portugal]]
+jurisdiction:
+  -
+    - portugal
 official_name: "Policia Judiciaria"
 headquarters: "Lisbon, Portugal"
 mandate: "Portugal's criminal investigation police, including the national cybercrime and technological-crime unit UNC3T."
@@ -18,6 +20,7 @@ operations_participated:
   - "[[franco-israeli-ceo-fraud]]"
   - "[[operation-jackal-iii]]"
   - "[[operation-endgame-phase1]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 cooperation_partners:
   - "[[portugal-police]]"
   - "[[europol-ec3]]"

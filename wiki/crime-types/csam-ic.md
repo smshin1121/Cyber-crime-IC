@@ -24,15 +24,17 @@ notable_operations:
   - "[[operation-orion-international]]"
   - "[[operation-eclipse-csam-americas]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 relevant_legal_frameworks:
 
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-03-05_interpol_operation-eclipse-csam-americas]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
   - "[[2025-04-04_securityaffairs-com_operation-stream-kidflix]]"
   - "[[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam]]"
   - "[[2026-02_europol_project-compass-the-com-network]]"
+  - "[[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]]"
 title: "CSAM (Child Sexual Abuse Material) — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -73,3 +75,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [3] | [[2025-04-04_securityaffairs-com_operation-stream-kidflix|Operation Stream / Kidflix]] | Security Affairs / TRM Labs | 2025-04-04 | https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html |
 | [4] | [[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam|Operation Cyber Guardian: Asia 6-Country Joint Crackdown on Child Sexual Abuse Material]] | Korea Policy Briefing / Seoul Shinmun | 2025-04-07 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866 |
 | [5] | [[2026-02_europol_project-compass-the-com-network\|Project Compass — A project dedicated to fighting against The Com (Europol Operations page)]] | Europol European Counter Terrorism Centre (ECTC) | 2026-02 (approx.) | https://www.europol.europa.eu/how-we-work/operations/project-compass |
+| [6] | [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice\|Global cybercrime crackdown: over 373 000 dark web sites shut down (Operation Alice)]] | Europol | 2026-03-21 | https://www.europol.europa.eu/media-press/newsroom/news/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down |

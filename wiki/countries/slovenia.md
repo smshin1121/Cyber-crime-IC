@@ -9,6 +9,7 @@ treaty_memberships:
 ic_capacity: not-assessed
 operations_participated:
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 source_count: 0
 created: 2026-04-20
 updated: 2026-05-09

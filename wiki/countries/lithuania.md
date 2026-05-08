@@ -15,6 +15,7 @@ operations_participated:
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 source_count: 0
 sources:
 

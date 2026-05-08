@@ -46,6 +46,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[black-axe-spain-takedown-2026]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 region: western-europe
 source_count: 6
 sources:

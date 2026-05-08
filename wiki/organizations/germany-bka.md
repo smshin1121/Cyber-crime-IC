@@ -62,6 +62,7 @@ operations_participated:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[de-ch-crypto-mixer-takedown-2025]]"
   - "[[black-axe-spain-takedown-2026]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

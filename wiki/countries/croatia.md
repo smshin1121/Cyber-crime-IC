@@ -10,6 +10,7 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[operation-shrouded-horizon]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 source_count: 0
 sources:
 

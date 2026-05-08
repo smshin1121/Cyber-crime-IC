@@ -25,6 +25,7 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 region: oceania
 source_count: 0
 sources:

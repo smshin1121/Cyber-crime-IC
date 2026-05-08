@@ -130,6 +130,7 @@ operations_participated:
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[black-axe-spain-takedown-2026]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

@@ -163,6 +163,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[operation-power-off-2025-05]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 region: north-america
 source_count: 1
 sources:

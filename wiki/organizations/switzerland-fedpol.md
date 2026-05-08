@@ -11,7 +11,7 @@ established: 2000-07-01
 headquarters: "Bern, Switzerland"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-09
 mandate: "Swiss federal law enforcement agency responsible for coordination between"
 notable_cases:
 
@@ -24,6 +24,7 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-blackshades]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 org_type: national-agency
 parent_org: "Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-"
 source_count: 4
@@ -32,7 +33,7 @@ sources:
 status: active
 title: "Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-09
 ---
 ## Summary
 

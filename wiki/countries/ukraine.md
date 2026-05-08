@@ -40,6 +40,7 @@ operations_participated:
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 region: eastern-europe
 source_count: 3
 sources:

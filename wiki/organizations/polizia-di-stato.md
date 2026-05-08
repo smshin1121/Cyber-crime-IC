@@ -3,11 +3,13 @@ type: organization
 title: "Polizia di Stato"
 status: active
 created: 2026-04-26
-updated: "2026-05-08"
-last_verified: 2026-04-29
+updated: 2026-05-09
+last_verified: 2026-05-09
 org_type: national-police
 country: "[[italy]]"
-jurisdiction: [[italy]]
+jurisdiction:
+  -
+    - italy
 official_name: "Polizia di Stato"
 mandate: "Italian State Police parent institution for the Postal Police and cyber security service."
 key_roles:
@@ -18,6 +20,7 @@ operations_participated:
   - "[[doublevpn-takedown]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 cooperation_partners:
   - "[[italy-polizia-postale]]"
   - "[[europol-ec3]]"

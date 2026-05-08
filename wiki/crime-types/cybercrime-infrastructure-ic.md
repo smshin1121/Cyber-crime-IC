@@ -27,6 +27,7 @@ notable_operations:
   - "[[operation-nova]]"
   - "[[operation-kraken-ghost-platform]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 notable_cases:
 
 criminalization_status:
@@ -35,13 +36,14 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 5
+source_count: 6
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
   - "[[2021-06-30_eurojust_coordinated-action-cuts-access-vpn-service-used-ransomware-groups]]"
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
   - "[[2024-12-03_europol_matrix-encrypted-messaging-service-takedown]]"
+  - "[[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: active
@@ -75,3 +77,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [3] | [[2021-06-30_eurojust_coordinated-action-cuts-access-vpn-service-used-ransomware-groups|Coordinated action cuts off access to VPN service used by ransomware groups]] | Eurojust | 2021-06-30 | https://www.eurojust.europa.eu/news/coordinated-action-cuts-access-vpn-service-used-ransomware-groups |
 | [4] | [[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet|911 S5 Botnet Dismantled and Its Administrator Arrested in Coordinated International Operation]] | U.S. Department of Justice | 2024-05-29 | https://www.justice.gov/archives/opa/pr/911-s5-botnet-dismantled-and-its-administrator-arrested-coordinated-international-operation |
 | [5] | [[2024-12-03_europol_matrix-encrypted-messaging-service-takedown\|International operation takes down another encrypted messaging service used by criminals (MATRIX)]] | Europol | 2024-12-03 | https://www.europol.europa.eu/media-press/newsroom/news/international-operation-takes-down-another-encrypted-messaging-service-used-criminals |
+| [6] | [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice\|Global cybercrime crackdown: over 373 000 dark web sites shut down (Operation Alice)]] | Europol | 2026-03-21 | https://www.europol.europa.eu/media-press/newsroom/news/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down |

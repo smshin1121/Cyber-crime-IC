@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | Europol 2026-03-21 — Operation Alice: 23-country takedown of 373,000+ dark web onion domains (BLKA + ZKI + BKA + Europol; CSAM-fraud + CaaS-fraud)
+- Source: `raw/press-releases/2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice.md` (Europol Newsroom press release; tier-1 primary)
+- Pages created: [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]] (source summary), [[operation-alice-csam-fraud-2026]] (operation page)
+- Pages updated: 23 country pages (operations_participated), [[germany-bka]], [[europol-ec3]], [[australia-afp]], [[canada-rcmp]], [[switzerland-fedpol]], [[polizia-di-stato]], [[portugal-policia-judiciaria]], [[spain-guardia-civil]], [[uk-nca]] (operations_participated), [[csam-ic]], [[online-fraud-ic]], [[cybercrime-infrastructure-ic]] (notable_operations + sources + body Reference rows).
+- Key findings: German-led, 23-country, Europol-coordinated takedown of a single-perpetrator dark web platform empire — 373,000+ Tor onion domains seized, 105 servers seized in Germany (out of 287 at peak), 1 perpetrator (35-year-old PRC-based male, international arrest warrant issued), 440 customers worldwide identified (100+ ongoing). Network advertised CSAM 'packages' (90,000+ domains, EUR 17–215, ~10,000 paying customers, EUR 345,000+ profit Feb 2020–Jul 2025) and CaaS offerings (~283,000 domains) without delivering — the **fraud-CSAM hybrid pattern**. Establishes (a) the largest documented dark-web onion-domain takedown in the wiki corpus by site count, (b) the **paying-customer-as-suspect** prosecutorial model (attempted purchase = predicate), and (c) the largest CSAM-related Europol-coordinated cooperation in the corpus to date by participating-country count (23).
+
 ## [2026-05-09] ingest | Europol 2026-01-12 — 34 arrests in Spain against 'Black Axe' criminal organisation (Spanish National Police + Bavarian BLKA + Europol)
 - Source: `raw/press-releases/2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation.md` (Europol Newsroom press release; tier-1 primary)
 - Pages created: [[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation]] (source summary), [[black-axe-spain-takedown-2026]] (operation page)

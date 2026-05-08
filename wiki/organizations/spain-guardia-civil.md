@@ -32,6 +32,7 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-hyperion]]"
+  - "[[operation-alice-csam-fraud-2026]]"
 notable_cases:
 
 contact_point_for:
@@ -41,8 +42,8 @@ sources:
   - "[[2026-04-18_guardiacivil-es_gdt]]"
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
 created: 2026-04-10
-updated: 2026-04-29
-last_verified: 2026-04-18
+updated: 2026-05-09
+last_verified: 2026-05-09
 ---
 ## Summary
 
