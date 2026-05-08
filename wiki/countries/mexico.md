@@ -7,21 +7,23 @@ iso_code: MX
 member_of:
   - "[[interpol]]"
 created: 2026-04-18
-updated: 2026-05-03
+updated: 2026-05-09
 operations_participated:
   - "[[operation-us-v-ricky-ramacho]]"
 summary: "Mexico is relevant in the repository as a recurring jurisdictional touchpoint in extradition, border arrest, and cyber-enabled drug-trafficking cases."
 status: needs-official-source-ingestion
-last_verified: 2026-05-03
+last_verified: 2026-05-09
 legal_system: not-assessed
 ic_capacity: not-assessed
 treaty_memberships:
   - not-assessed
 source_count: 0
 sources:
-  []
+
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
 ---
 ## Summary
 

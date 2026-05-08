@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (153)
+# Countries (154)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -69,7 +69,8 @@ total: 61
 | 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 1 |
-| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 22 |
+| 🇰🇵 | [[north-korea]] | socialist-civil-law | — | very-low | 180+ | 1 |
+| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 23 |
 | 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇦 | [[laos]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | not-assessed | — | unknown | unknown | 0 |

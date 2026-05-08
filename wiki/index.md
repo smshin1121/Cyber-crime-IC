@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-05-03 | Total pages: 1378 | Total sources: 689*
+*Last updated: 2026-05-03 | Total pages: 1379 | Total sources: 689*
 
 ## Legal Frameworks (25)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -22,7 +22,7 @@
 - [[afripol]] — African Police Cooperation Organization; co-led Operation Serengeti and Sentinel
 - [[seoul-metropolitan-police]] — Seoul Metropolitan Police Agency; led Korea-China Qingdao voice phishing operation
 
-## Countries (153)
+## Countries (154)
 - [[australia]] — Common law; Budapest party (2013); Five Eyes; AFP; IGCI partnership; Operation Ironside
 - [[austria]] — Civil law; EU member; participated in 2026 IP proxy service takedown
 - [[china]] — Civil law; NOT Budapest party; sovereignty-focused; voice phishing cooperation with Korea; UN Cybercrime Convention advocate

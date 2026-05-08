@@ -23,6 +23,8 @@ updated: 2026-05-09
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
 ---
 ## Summary
 

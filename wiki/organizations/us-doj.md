@@ -26,6 +26,7 @@ notable_cases:
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-dragomir-romanian-iab]]"
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:

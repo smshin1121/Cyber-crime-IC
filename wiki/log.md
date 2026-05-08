@@ -852,3 +852,16 @@
   - Phobos RaaS financial-flow architecture documented in DOJ-charging language: each Phobos deployment assigned a unique alphanumeric string matching its decryption key; affiliates paid decryption-key fees from unique cryptocurrency wallets; from December 2021 to April 2024 these fees flowed to a wallet Ptitsyn controlled, plus Ptitsyn received a portion of ransom payments made by victims.
   - 10-country cooperation roster (verbatim): South Korea, United Kingdom, Japan, Spain, Belgium, Poland, Czech Republic, France, Romania, plus Europol and the US Department of Defense Cyber Crime Center. Korea named first in the verbatim roster — one of the wider multilateral rosters in the wiki for a single ransomware-administrator case.
   - This case is exceptionally project-relevant for the Korean cybercrime IC corpus: it adds a fifth distinct Korean cooperation data point in the 2024-2026 window alongside the 2025-11-01 Korea-China MOU, 2025-11-10 Korea-Cambodia 코리아전담반 MOU, 2026-03-03 Korea-Philippines MOU, and 2026-04-27 Korea-Cambodia-Philippines 73-person extradition.
+
+
+## [2026-05-09] ingest | DOJ 2026-05-07 — DPRK IT worker laptop farms US sentencings (Knoot/Prince) — KOREA-RELEVANT (US-ROK joint advisory)
+- Source: raw/press-releases/2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms.md (DOJ Press Release 2026-05-07, full-text via TLS-spoof)
+- Pages created: wiki/cases/us-v-knoot-prince-dprk-laptop-farms-2026.md, wiki/sources/2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms.md, wiki/countries/north-korea.md (stub — first wiki entry for North Korea / DPRK)
+- Pages updated: 6 country pages (US, KP, CN, MX, NL, KR — `notable_cases`), 2 organization pages (us-doj, fbi — `notable_cases`), 2 crime-type pages (online-fraud-ic, hacking-ic — `notable_cases` + sources). South Korea sources list also updated with the 2026-05-07 DOJ source. Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - Two US-based "laptop farmers" — Matthew Isaac Knoot (Nashville, TN; MDTN, sentenced 2026-05-01) and Erick Ntekereze Prince (New York; SDFL, sentenced 2026-05-07) — each received 18 months for facilitating DPRK remote IT worker schemes. Combined schemes generated USD 1.2M+ revenue for DPRK and impacted nearly 70 US victim companies.
+  - 7th and 8th US-based laptop-farmer sentencings in 5 months under the joint NSD + FBI **DPRK RevGen: Domestic Enabler Initiative**.
+  - Co-conspirator structure: Mexican national Pedro Ernesto Alonso de los Reyes in Netherlands custody awaiting US extradition; DPRK nationals Jin Sung-il and Pak Jin-Song fugitives.
+  - **Korean angle**: DOJ release explicitly references the **October 2023 joint US-ROK guidance** on DPRK IT worker threats — public-record bilateral US-Korea cooperation reference embedded in a non-Korean-victim DPRK-revenue-generation prosecution.
+  - First wiki entry for North Korea / DPRK as a country page (stub) — establishes DPRK as a non-cooperative threat-source state in the public IC corpus.
+  - Verbatim DPRK IT worker collective revenue: hundreds of millions of dollars annually; individual workers up to USD 300,000/year for designated entities including DPRK Ministry of Defense.

@@ -27,10 +27,10 @@ key_agencies:
   - "[[netherlands-politie]]"
   - "[[netherlands-fiod]]"
   - "[[netherlands-om]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-
+  - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -74,7 +74,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

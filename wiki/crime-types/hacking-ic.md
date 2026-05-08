@@ -21,6 +21,7 @@ notable_cases:
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-dragomir-romanian-iab]]"
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
