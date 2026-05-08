@@ -13,6 +13,8 @@ sources:
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-token-mirrors-2026]]"
+cases_using:
+  - "[[us-v-sokolovsky-raccoon-infostealer]]"
 ---
 ## Summary
 

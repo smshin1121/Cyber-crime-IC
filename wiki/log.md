@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | USAO-WDTX 2024-12-18 — US v. Sokolovsky / Raccoon Infostealer (NL-IT-US joint dismantle + Netherlands extradition)
+- Source: `raw/press-releases/2024-12-18_doj-wdtx_ukrainian-national-sentenced-raccoon-infostealer.md` (USAO-WDTX press release; tier-1 primary)
+- Pages created: [[2024-12-18_doj-wdtx_ukrainian-national-sentenced-raccoon-infostealer]] (source summary), [[us-v-sokolovsky-raccoon-infostealer]] (case)
+- Pages updated: [[united-states]], [[netherlands]], [[italy]], [[ukraine]] (notable_cases); [[fbi]], [[us-doj]] (notable_cases); [[malware-ic]] (notable_cases + sources + body Reference row); [[extradition]] (cases_using); index/master indexes reconciled.
+- Key findings: Mark Sokolovsky (28, Ukrainian national; aliases Photix / raccoonstealer / black21jack77777) sentenced 2024-12-18 to 60 months federal prison plus USD 23,975 forfeiture and ≥USD 910,844.61 restitution on one count of conspiracy to commit computer intrusion. March 2022: arrested by Dutch authorities concurrent with FBI + Italy + Netherlands joint dismantle of Raccoon Infostealer infrastructure. February 2024: extradited from Netherlands to US (24-month gap during contested-extradition appeal). October 2024: guilty plea. Raccoon Infostealer was a malware-as-a-service operation leased at ~USD 200/month in cryptocurrency that compromised 52M+ user credentials worldwide. First wiki record of an explicit FBI + Italy + Netherlands joint infrastructure-dismantle for a MaaS operation paired with single-defendant Schengen-region extradition prosecution.
+
 ## [2026-05-09] ingest | IRS-CI 2026-03-30 — Operation Token Mirrors (FBI/IRS-CI crypto wash-trading undercover op, US-Singapore extradition)
 - Source: `raw/press-releases/2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation.md` (IRS-CI press release, tier-1 primary)
 - Pages created: [[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation]] (source summary), [[operation-token-mirrors-2026]] (operation, case_id `CYB-2026-038`)

@@ -30,6 +30,7 @@ notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
+  - "[[us-v-sokolovsky-raccoon-infostealer]]"
 operations_participated:
   - "[[emotet-takedown]]"
   - "[[darkmarket-takedown]]"

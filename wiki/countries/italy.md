@@ -29,7 +29,7 @@ key_agencies:
 last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-
+  - "[[us-v-sokolovsky-raccoon-infostealer]]"
 operations_participated:
   - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
   - "[[doublevpn-takedown]]"
@@ -50,11 +50,11 @@ title: "Italian Republic"
 treaty_memberships:
   - date: 2008-06-05
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
 updated: 2026-05-09

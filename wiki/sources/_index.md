@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (694)
+# Sources (695)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -226,6 +226,7 @@ updated: 2026-04-14
 | [[2025-01-17_uefa_operation-kratos-international-anti-piracy-operation]] | news | UEFA | ? | medium | ? |
 | [[2025-01-01_en-wikipedia-org_silk-road-marketplace]] | press-release | Wikipedia | ? | medium | ? |
 | [[2024-12-19_politie-nl_27-jarige-man-aangehouden-voor-phishing]] | press-release | Dutch National Police | 1 | high | ? |
+| [[2024-12-18_doj-wdtx_ukrainian-national-sentenced-raccoon-infostealer]] | press-release | US Attorney's Office, Western District of Texas (USAO-WDTX) | ? | high | ? |
 | [[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]] | news | Bitdefender | 3 | medium | ? |
 | [[2024-12-13_technadu_kosovo-police-shuts-down-rydox-cybercrime-marketplace]] | news | TechNadu | 3 | medium | ? |
 | [[2024-12-13_securityaffairs-com_us-authorities-seized-marketplace-rydox]] | news | Security Affairs | 3 | medium-high | ? |
