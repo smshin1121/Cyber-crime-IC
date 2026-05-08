@@ -66,7 +66,7 @@ updated: 2026-04-14
 | [[emotet-takedown]] | CYB-2021-003 | 2 | completed | umbrella | 4 | 3.50 | 1 |
 | [[operation-dark-huntor]] | CYB-2021-010 | 2 | completed | umbrella | 5 | 3.50 | 2 |
 | [[doublevpn-takedown]] | CYB-2021-051 | 2 | completed | umbrella | 5 | 4.00 | 1 |
-| [[mobdro-illegal-streaming-takedown-2021]] | CYB-2021-052 | 2 | completed | umbrella | 1 | 4.20 | 1 |
+| [[mobdro-illegal-streaming-takedown-2021]] | CYB-2021-052 | 2 | completed | umbrella | 3 | 4.20 | 1 |
 | [[operation-killer-bee]] | CYB-2022-001 | 2 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-haechi-iii]] | CYB-2022-002 | 2 | completed | umbrella | 5 | 3.50 | 2 |
 | [[vpnlab-takedown]] | CYB-2022-002 | 3 | completed | umbrella | 5 | 4.50 | 1 |

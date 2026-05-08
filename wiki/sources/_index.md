@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (654)
+# Sources (656)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -427,7 +427,9 @@ updated: 2026-04-14
 | [[2021-06-08-europol-trojan-shield-an0m]] | press-release | Europol | ? | high | ? |
 | [[2021-04-16_wdwa_hladyr-fin7-sentencing]] | press-release | U.S. Attorney's Office, Western District of Washington | ? | high | ? |
 | [[2021-03-30_justice-gov_lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2021-03-11_premierleague-com_league-helps-shut-down-streaming-app-mobdro]] | press-release | Premier League | ? | medium | ? |
 | [[2021-03-09_eurojust_spanish-action-illegal-streaming-football-matches]] | press-release | Eurojust | ? | high | ? |
+| [[2021-03-09_cmjornal-pt_pj-envolvida-em-operacao-que-acabou-com-o-mobdro]] | news | Correio da Manha | ? | medium | ? |
 | [[2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group]] | news | CISO MAG | 3 | medium | ? |
 | [[europol-operation-secreto]] | press-release | Europol | 2 | high | ? |
 | [[2021-02-03_secretservice-gov_105-arrested-stealing-over-eu12-million-us-based-banks]] | press-release | United States Secret Service | 1 | high | ? |

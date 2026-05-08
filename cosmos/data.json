@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T04:39:18Z",
+  "generated_at": "2026-05-08T05:28:20Z",
   "root": null,
   "stats": {
-    "total_nodes": 1306,
-    "total_edges": 12264,
+    "total_nodes": 1308,
+    "total_edges": 12266,
     "broken_links": 0,
     "orphans": 106,
     "by_type": {
@@ -19,7 +19,7 @@
       "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 654
+      "source": 656
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4870 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4872 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -6442,10 +6442,10 @@
         "Mobdro takedown"
       ],
       "summary": "The Mobdro illegal streaming takedown was a Spanish action against a mobile application used to stream professional football matches without authorization. Eurojust reports that more than 43 million users worldwide had downloaded the application…",
-      "source_count": 1,
+      "source_count": 3,
       "created": "2026-05-04",
-      "updated": "2026-05-04",
-      "degree": 29,
+      "updated": "2026-05-08",
+      "degree": 31,
       "path": "wiki/operations/mobdro-illegal-streaming-takedown-2021.md",
       "meta": {
         "status": "completed",
@@ -15213,6 +15213,20 @@
       "meta": {}
     },
     {
+      "id": "2021-03-09_cmjornal-pt_pj-envolvida-em-operacao-que-acabou-com-o-mobdro",
+      "type": "source",
+      "title": "PJ envolvida em operacao que acabou com o 'Mobdro', maior plataforma de TV pirata na Internet",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Correio da Manha provides Portugal-side media corroboration for the Mobdro takedown. It identifies Portuguese Judicial Police involvement and a Portugal-hosted server that was deactivated with data and hardware seized. ##…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 1,
+      "path": "wiki/sources/2021-03-09_cmjornal-pt_pj-envolvida-em-operacao-que-acabou-com-o-mobdro.md",
+      "meta": {}
+    },
+    {
       "id": "2021-03-09_eurojust_spanish-action-illegal-streaming-football-matches",
       "type": "source",
       "title": "Eurojust supports Spanish action against illegal streaming of football matches",
@@ -15224,6 +15238,20 @@
       "updated": "2026-05-04",
       "degree": 3,
       "path": "wiki/sources/2021-03-09_eurojust_spanish-action-illegal-streaming-football-matches.md",
+      "meta": {}
+    },
+    {
+      "id": "2021-03-11_premierleague-com_league-helps-shut-down-streaming-app-mobdro",
+      "type": "source",
+      "title": "League helps shut down streaming app Mobdro",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The Premier League release corroborates the rights-holder complaint and referral pathway behind the Mobdro takedown. It describes Mobdro as a large infringing streaming app that ceased operations after Spanish police and Europol…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 1,
+      "path": "wiki/sources/2021-03-11_premierleague-com_league-helps-shut-down-streaming-app-mobdro.md",
       "meta": {}
     },
     {
@@ -89511,6 +89539,12 @@
       "directed": true
     },
     {
+      "source": "2021-03-09_cmjornal-pt_pj-envolvida-em-operacao-que-acabou-com-o-mobdro",
+      "target": "mobdro-illegal-streaming-takedown-2021",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2021-03-09_eurojust_spanish-action-illegal-streaming-football-matches",
       "target": "mobdro-illegal-streaming-takedown-2021",
       "kind": "pages_updated",
@@ -89519,6 +89553,12 @@
     {
       "source": "2021-03-09_eurojust_spanish-action-illegal-streaming-football-matches",
       "target": "illegal-iptv-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2021-03-11_premierleague-com_league-helps-shut-down-streaming-app-mobdro",
+      "target": "mobdro-illegal-streaming-takedown-2021",
       "kind": "pages_updated",
       "directed": true
     },

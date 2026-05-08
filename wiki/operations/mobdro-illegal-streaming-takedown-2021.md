@@ -48,12 +48,15 @@ results:
     - "Mobdro application had more than 43 million worldwide downloads"
     - "four places searched"
     - "upload pathways blocked through Spain, Portugal, and the Czech Republic"
+    - "Portuguese reporting identified Portuguese Judicial Police involvement and a Portugal-hosted server that was deactivated with data and hardware seized."
   servers_seized: 0
   victims_notified: 0
-source_count: 1
+source_count: 3
 source_tier: 1
 sources:
   - "[[2021-03-09_eurojust_spanish-action-illegal-streaming-football-matches]]"
+  - "[[2021-03-11_premierleague-com_league-helps-shut-down-streaming-app-mobdro]]"
+  - "[[2021-03-09_cmjornal-pt_pj-envolvida-em-operacao-que-acabou-com-o-mobdro]]"
 status: completed
 target_entity: "Mobdro illegal football streaming application"
 timeframe:
@@ -64,7 +67,7 @@ timeframe:
 title: "Mobdro Illegal Streaming Takedown"
 title_ko: "Mobdro illegal streaming takedown"
 type: operation
-updated: 2026-05-04
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 summary: "The Mobdro illegal streaming takedown was a Spain-led, Eurojust-supported action against a mobile application used to stream major professional football matches by illegally tapping audiovisual signals. The operation involved Spain, Portugal, the Czech Republic, Eurojust, Europol, and MLA/EIO channels."
@@ -96,9 +99,12 @@ Eurojust coordinated the action day and assisted with European Investigation Ord
 - Three other persons were questioned in Spain and Andorra.
 - Four places were searched.
 - Upload routes through Spain, Portugal, and the Czech Republic were blocked or placed under investigation.
+- Portuguese reporting identified a Portugal-hosted server that was deactivated, with data and hardware seized by Portuguese Judicial Police.
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Eurojust supports Spanish action against illegal streaming of football matches | Eurojust | 2021-03-09 | https://www.eurojust.europa.eu/news/eurojust-supports-spanish-action-against-illegal-streaming-football-matches |
+| [2] | League helps shut down streaming app Mobdro | Premier League | 2021-03-11 | https://www.premierleague.com/news/2024038 |
+| [3] | PJ envolvida em operacao que acabou com o 'Mobdro', maior plataforma de TV pirata na Internet | Correio da Manha | 2021-03-09 | https://www.cmjornal.pt/portugal/detalhe/pj-envolvida-em-operacao-que-acabou-com-o-mobdro-maior-plataforma-de-tv-pirata-na-internet |
