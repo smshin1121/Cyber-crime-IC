@@ -25,6 +25,7 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[leakbase-takedown-2026]]"
   - "[[us-v-volkov-yanluowang-sentencing]]"
+  - "[[operation-token-mirrors-2026]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"

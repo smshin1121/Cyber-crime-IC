@@ -18,7 +18,7 @@ participants:
   type: states
   count: 0
   notable_members:
-    []
+
 purpose: "The formal legal channel through which states request and provide assistance in criminal investigations and proceedings, including evidence collection, witness testimony, and asset tracing across borders."
 speed: months
 scope:
@@ -38,9 +38,9 @@ limitations:
   - "Translation requirements add delay"
   - "Different legal standards between common/civil law"
 operations_using:
-  []
+  - "[[operation-token-mirrors-2026]]"
 cases_using:
-  []
+
 related_mechanisms:
   - "[[24-7-network]]"
   - "[[europol-jit]]"
@@ -50,7 +50,7 @@ sources:
   - "[[2026-04-29_congress-gov_us-australia-mlat-treaty-document-105-27]]"
   - "[[2026-04-29_congress-gov_korea-us-mlat-treaty-document-104-1]]"
 created: 2026-04-08
-updated: "2026-04-29"
+updated: 2026-05-09
 status: active
 ---
 ## Summary

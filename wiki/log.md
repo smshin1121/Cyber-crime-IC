@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | IRS-CI 2026-03-30 — Operation Token Mirrors (FBI/IRS-CI crypto wash-trading undercover op, US-Singapore extradition)
+- Source: `raw/press-releases/2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation.md` (IRS-CI press release, tier-1 primary)
+- Pages created: [[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation]] (source summary), [[operation-token-mirrors-2026]] (operation, case_id `CYB-2026-038`)
+- Pages updated: [[united-states]], [[singapore]] (operations_participated); [[fbi]], [[office-of-international-affairs]] (operations_participated); [[online-fraud-ic]], [[money-laundering-ic]] (notable_operations + sources + body Reference rows); [[extradition]], [[mlat-process]] (operations_using); index/master indexes reconciled.
+- Key findings: 3 federal grand-jury indictments (Gotbit / Vortex / Contrarian-Antier) returned across 2025 against 10 foreign-national executives + employees of cryptocurrency 'market maker' firms. FBI undercover op in which the FBI itself created cryptocurrency tokens to bait wash-trading. 5 arrests effected (Tsao @ JFK 2025-03-30; Popov @ SFO; Gora + Singh + Sharma in Singapore 2025-10-02 → extradited to US). 2 guilty pleas before announcement (Tsao 2025-06-02; Popov 2026-02-10). USD 1M+ crypto seized to date. First wiki record of Singapore-as-extradition-source for a US-led cryptocurrency-fraud prosecution; first wiki record of FBI undercover-token creation methodology as an IC mechanism class.
+
 ## [2026-05-09] ingest | Europol 2026-04-28 — Black Axe Switzerland takedown (Zurich-led, 10 arrests, CH-DE)
 - Source: `raw/press-releases/2026-04-28_europol_black-axe-switzerland-10-arrests.md` (Europol newsroom press release; tier-1 primary)
 - Pages created: [[2026-04-28_europol_black-axe-switzerland-10-arrests]] (source summary), [[black-axe-switzerland-takedown-2026]] (operation, case_id `CYB-2026-037`)

@@ -3,7 +3,7 @@ type: mechanism
 title: Extradition
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-04-29
+updated: 2026-05-09
 source_count: 4
 sources:
   - "[[2015-10-13_fbi-pittsburgh_bugat-botnet-administrator-arrested-and-malware-disabled]]"
@@ -11,6 +11,8 @@ sources:
   - "[[2015-12-04_thenextweb_silk-road-architect-variety-jones-arrested-thailand]]"
   - "[[2016-10-17_ibtimesuk_silk-road-dark-web-drug-ring-italianmafiabrussels-leader-extradited-us]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[operation-token-mirrors-2026]]"
 ---
 ## Summary
 

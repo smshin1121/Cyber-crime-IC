@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (693)
+# Sources (694)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -31,6 +31,7 @@ updated: 2026-04-14
 | [[2026-04-17_en-wikipedia-org_operation-onymous]] | press-release | Wikipedia | ? | medium | ? |
 | [[2026-04-13_europol_operation-poweroff-75000-ddos-users]] | press-release | Europol | ? | high | ? |
 | [[2026-04-01_interpol-int_support-for-afripol-operation-first-light]] | institutional-page | INTERPOL | ? | high | ? |
+| [[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation]] | press-release | IRS Criminal Investigation (IRS-CI) | ? | high | ? |
 | [[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2026-03-16_helpnetsecurity_interpol-operation-synergia-iii-cybercrime-infrastructure-takedown]] | news | Help Net Security | ? | medium | ? |
 | [[2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces]] | news | TechRadar | ? | medium | ? |

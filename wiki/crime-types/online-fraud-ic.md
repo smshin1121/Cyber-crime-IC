@@ -40,6 +40,7 @@ notable_operations:
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[black-axe-switzerland-takedown-2026]]"
+  - "[[operation-token-mirrors-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -49,7 +50,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 25
+source_count: 26
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -76,6 +77,7 @@ sources:
   - "[[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown]]"
   - "[[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown]]"
   - "[[2026-04-28_europol_black-axe-switzerland-10-arrests]]"
+  - "[[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -164,3 +166,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [23] | [[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown\|Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe]] | Eurojust | 2025-09-23 | https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe |
 | [24] | [[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown\|Decisive actions against cryptocurrency scammers earning over EUR 600 million]] | Eurojust | 2025-11-04 | https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million |
 | [25] | [[2026-04-28_europol_black-axe-switzerland-10-arrests\|Europol supports hit against 'Black Axe' criminal organisation in Switzerland: 10 arrests]] | Europol | 2026-04-28 | https://www.europol.europa.eu/media-press/newsroom/news/europol-supports-hit-against-black-axe-criminal-organisation-in-switzerland-10-arrests |
+| [26] | [[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation\|Ten foreign nationals charged in an international operation targeting cryptocurrency market manipulation]] | IRS Criminal Investigation | 2026-03-30 | https://www.irs.gov/compliance/criminal-investigation/ten-foreign-nationals-charged-in-an-international-operation-targeting-cryptocurrency-market-manipulation |
