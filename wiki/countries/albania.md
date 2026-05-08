@@ -32,6 +32,7 @@ notable_cases: []
 operations_participated:
 - '[[operation-haechi-vi]]'
 - '[[operation-eur-3m-online-investment-fraud-2025]]'
+- '[[albania-austria-call-centre-investment-fraud-2026]]'
 region: balkans
 source_count: 3
 sources: []
@@ -46,7 +47,7 @@ treaty_memberships:
   reservations: []
   status: in-progress
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
 
 ## Summary

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (674)
+# Sources (677)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -14,6 +14,9 @@ updated: 2026-04-14
 | [[2026-05-07_interpol_operation-pangea-xviii-illicit-pharmaceuticals]] | press-release | INTERPOL | ? | high | ? |
 | [[2026-05-07_hsa_operation-pangea-xviii-illegal-health-products]] | press-release | Health Sciences Authority Singapore | ? | high | ? |
 | [[2026-05-07_danish-medicines-agency_operation-pangea-xviii-falsified-medicines]] | press-release | Danish Medicines Agency | ? | high | ? |
+| [[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]] | news | Reuters / MarketScreener | 2 | medium | ? |
+| [[2026-04-29_europol_call-centres-eur-50m-online-fraud]] | press-release | Europol | 1 | high | ? |
+| [[2026-04-29_eurojust_fraud-call-centres-eu-citizens]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-04-18_microsoft-com_gamarue-threat-profile]] | corporate-reference | Microsoft | 3 | medium | ? |
 | [[2026-04-18_europol-europa-eu_carbanak-cobalt-infographic]] | infographic | Europol | 2 | high | ? |
 | [[2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure]] | official-guidance | Federal Office for Information Security (BSI) | 2 | high | ? |

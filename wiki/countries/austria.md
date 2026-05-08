@@ -27,6 +27,7 @@ bilateral_agreements:
   []
 operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[albania-austria-call-centre-investment-fraud-2026]]"
 notable_cases:
   []
 cooperation_assessment: ""
@@ -34,7 +35,7 @@ source_count: 1
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
 created: 2026-04-14
-updated: 2026-04-29
+updated: 2026-05-08
 status: needs-official-source-ingestion
 last_verified: 2026-04-29
 assessment_confidence: limited

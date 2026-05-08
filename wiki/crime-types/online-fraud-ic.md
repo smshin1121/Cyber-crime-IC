@@ -20,6 +20,7 @@ notable_operations:
   - "[[operation-jackal]]"
   - "[[operation-jackal-iii]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
+  - "[[albania-austria-call-centre-investment-fraud-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
 criminalization_status:
@@ -27,7 +28,7 @@ criminalization_status:
   definition_varies: true
   problem_jurisdictions: []
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 11
+source_count: 14
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -40,6 +41,9 @@ sources:
   - "[[2025-12-16_eurojust_fraudulent-call-centres-ukraine]]"
   - "[[2025-12-16_helpnetsecurity_ukraine-scam-call-centers]]"
   - "[[2025-12-17_01net_ukraine-call-center-10m-fraud]]"
+  - "[[2026-04-29_eurojust_fraud-call-centres-eu-citizens]]"
+  - "[[2026-04-29_europol_call-centres-eur-50m-online-fraud]]"
+  - "[[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]]"
 created: 2026-04-08
 updated: 2026-05-08
 ---
@@ -80,6 +84,7 @@ Online fraud is broadly criminalized worldwide under various statutes:
 | [[operation-haechi-v]] | 2024 | 40 | 5,500+ | $400M+ | Record HAECHI operation |
 | [[operation-serengeti]] | 2024 | 19 | 1,006 | - | Africa-focused |
 | [[ukraine-fraudulent-call-centres-takedown-2025]] | 2025 | 4 | 12 | EUR 10M+ damage reported | Eurojust-supported phone and bank-impersonation call-centre action |
+| [[albania-austria-call-centre-investment-fraud-2026]] | 2026 | 2 | 10 | EUR 50M+ damage reported | Austria-Albania online investment-fraud call-centre action supported by Eurojust and Europol |
 | [[operation-haechi-vi]] | 2025 | 40 | - | $439M | New recovery record |
 | [[operation-sentinel-africa]] | 2025 | 19 | 574 | $3M | BEC/ransomware in Africa |
 
@@ -112,3 +117,6 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [9] | Fraudulent call centres in Ukraine rolled up | Eurojust | 2025-12-16 | https://www.eurojust.europa.eu/news/fraudulent-call-centres-ukraine-rolled |
 | [10] | European police busts Ukraine scam call centers | Help Net Security | 2025-12-16 | https://www.helpnetsecurity.com/2025/12/16/ukraine-scam-call-centers/ |
 | [11] | Phone scams: criminal call center stole more than EUR 10 million from 400 people | 01net | 2025-12-17 | https://www.01net.com/actualites/arnaques-telephoniques-call-center-criminel-vole-plus-10-millions-euros-400-personnes.html |
+| [12] | Fraud call centres targeting EU citizens shut down with Eurojust's support - over EUR 50 million in damages uncovered | Eurojust | 2026-04-29 | https://www.eurojust.europa.eu/news/fraud-call-centres-targeting-eu-citizens-shut-down-eurojusts-support-over-eur-50-million |
+| [13] | Call centres dismantled and ten arrested in EUR 50 million online fraud case | Europol | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/call-centres-dismantled-and-ten-arrested-in-eur-50-million-online-fraud-case |
+| [14] | European police bust Albanian investment and call centre scam | Reuters / MarketScreener | 2026-04-29 | https://www.marketscreener.com/news/european-police-bust-albanian-investment-and-call-centre-scam-ce7f58dad889f622 |

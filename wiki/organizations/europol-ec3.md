@@ -88,6 +88,7 @@ operations_participated:
   - "[[operation-onymous]]"
   - "[[operation-power-off]]"
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
+  - "[[albania-austria-call-centre-investment-fraud-2026]]"
   - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
   - "[[operation-eur-100m-crypto-investment-fraud-2025]]"
   - "[[operation-eur-100m-illegal-financial-service-laundering-2025]]"
