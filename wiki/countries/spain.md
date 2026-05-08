@@ -38,6 +38,7 @@ operations_participated:
   - "[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]"
   - "[[carbanak-cobalt-takedown]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
 region: western-europe
 source_count: 6
 sources:

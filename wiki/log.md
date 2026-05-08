@@ -891,3 +891,16 @@
   - Title-vs-body arrest count discrepancy noted: title says "7 arrested" but body says "5 individuals arrested" on the action day; the 5-figure used for `results.arrests` and the 7-figure flagged.
   - Crime types facilitated by the network include phishing, smishing, fraud, extortion, migrant smuggling, CSAM distribution, daughter-son scam, investment fraud, fake shops, fake bank websites, and fake-police-officer schemes targeting Russian-speaking victims.
   - First wiki record explicitly capturing a JIT 4-jurisdiction CaaS-takedown pattern with a private-sector technical partner. Korean involvement not named.
+
+
+## [2026-05-09] ingest | Eurojust 2025-09-23 — €100M cryptocurrency investment fraud takedown (Spain-Lithuania JIT, 23-country corpus)
+- Source: raw/press-releases/2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown.md (Eurojust newsroom press release, full-text via TLS-spoof)
+- Pages created: wiki/operations/eurojust-100m-crypto-investment-fraud-takedown-2025.md, wiki/sources/2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown.md
+- Pages updated: 8 country pages (ES, PT, IT, RO, BG, LT, DE, FR — `operations_participated`), 3 organization pages (eurojust, europol-ec3, romania-diicot — `operations_participated`), 2 crime-type pages (online-fraud-ic, money-laundering-ic — `notable_operations` + sources). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - 5 arrests including the alleged main perpetrator. EUR 100M+ defrauded from 100+ victims in Germany, France, Italy, and Spain. Active since at least 2018.
+  - 23-country corpus (proceeds-laundering or victim jurisdictions); 6 named action-day countries (Spain, Portugal, Italy, Romania, Bulgaria, Lithuania).
+  - Lithuanian bank accounts identified as the primary proceeds-laundering route — adds to wiki documentation of Lithuanian financial-system exposure to EU-wide crypto-fraud schemes alongside the Tymoshchuk Lithuania-cooperation track record.
+  - Cooperation mechanism architecture: Spain-Lithuania JIT joined by Europol; European Arrest Warrant + European Investigation Orders + freezing orders executed under Eurojust coordination; Europol cryptocurrency-expert deployed in-country to Portugal for action-day crypto-asset seizure.
+  - One of the most fully-articulated multi-instrument JIT records in the wiki corpus for a single operation, layering JIT + EAW + EIO + freezing orders + cryptocurrency-expert deployment within a single joint action day.
+  - Korean involvement not named.

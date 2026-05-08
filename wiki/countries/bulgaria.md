@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "GDBOP — Cybercrime Unit (General Directorate Combating Organized Crime,"
   mlat: "Ministry of Justice"
@@ -23,21 +23,22 @@ ic_capacity:
   rating: medium
 iso_code: BG
 key_agencies:
-  []
-last_verified: 2026-05-08
+
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[doublevpn-takedown]]"
   - "[[operation-dark-huntor]]"
   - "[[operation-avalanche]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
 region: eastern-europe
 source_count: 4
 sources:
-  []
+
 title: "Republic of Bulgaria"
 treaty_memberships:
   - date: 2005-04-07
@@ -50,10 +51,9 @@ treaty_memberships:
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

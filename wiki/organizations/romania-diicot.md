@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[romania]]"
-jurisdiction: [[romania]]
+jurisdiction:
+  -
+    - romania
 created: 2026-04-10
 established: 2004
 frameworks_administered:
@@ -14,7 +16,7 @@ frameworks_administered:
 headquarters: "Bucharest, Romania"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-09
 mandate: "Romanian specialized prosecutor's office investigating and prosecuting organized"
 mechanisms_operated:
 
@@ -27,6 +29,7 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[romania-phishing-takedown-2024]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
+  - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
 org_type: prosecution-office
 parent_org: "[[romania-public-ministry]]"
 source_count: 0
@@ -35,7 +38,7 @@ sources:
 status: active
 title: "Directorate for Investigating Organized Crime and Terrorism (DIICOT)"
 type: organization
-updated: "2026-05-08"
+updated: 2026-05-09
 ---
 ## Summary
 

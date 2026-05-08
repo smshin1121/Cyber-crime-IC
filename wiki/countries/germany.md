@@ -59,6 +59,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[operation-endgame-phase3]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
+  - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
 region: western-europe
 source_count: 5
 sources:

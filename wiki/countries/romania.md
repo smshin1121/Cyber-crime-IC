@@ -36,6 +36,7 @@ operations_participated:
   - "[[operation-avalanche]]"
   - "[[carbanak-cobalt-takedown]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
 region: eastern-europe
 source_count: 4
 sources:

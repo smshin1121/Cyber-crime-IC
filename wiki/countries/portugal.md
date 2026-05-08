@@ -24,7 +24,7 @@ ic_capacity:
 iso_code: PT
 key_agencies:
   - "[[portugal-police]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
 
@@ -32,6 +32,7 @@ operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
 region: western-europe
 source_count: 3
 sources:
@@ -40,14 +41,14 @@ title: "Portuguese Republic"
 treaty_memberships:
   - date: 2010-03-24
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

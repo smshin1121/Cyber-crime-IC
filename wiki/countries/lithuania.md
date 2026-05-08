@@ -12,6 +12,7 @@ operations_participated:
   - "[[emotet-takedown]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
 source_count: 0
 sources:
 

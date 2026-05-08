@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "CNAIPIC (Centro Nazionale Anticrimine Informatico per la Protezione delle"
   mlat: "Italian Ministry of Justice — Directorate General of International Affairs"
@@ -26,16 +26,17 @@ iso_code: IT
 key_agencies:
   - "[[italy-polizia-postale]]"
   - "[[italy-dcsa]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
   - "[[doublevpn-takedown]]"
   - "[[operation-dark-huntor]]"
   - "[[operation-avalanche]]"
   - "[[us-v-volkov-yanluowang-sentencing]]"
+  - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
 region: southern-europe
 source_count: 6
 sources:
@@ -50,15 +51,13 @@ treaty_memberships:
   - date: 2008-06-05
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

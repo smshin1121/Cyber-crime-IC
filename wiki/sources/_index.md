@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (690)
+# Sources (691)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -109,6 +109,7 @@ updated: 2026-04-14
 | [[2025-09-25-interpol-operation-haechi-vi]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-09-23_world-border-congress_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | report | World Border Security Congress | ? | medium | ? |
 | [[2025-09-23_eurojust_crypto-fraud-over-100-million-euros-across-europe]] | press-release | Eurojust | ? | high | ? |
+| [[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown]] | press-release | Eurojust | ? | high | ? |
 | [[2025-09-23_decripto-org_eurojust-dismantles-eur-100-million-crypto-scam-five-arrests-and-seizures]] | news | Decripto | ? | medium | ? |
 | [[2025-09-23_721news-com_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 721news | ? | medium | ? |
 | [[2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 112WWFT | ? | medium | ? |

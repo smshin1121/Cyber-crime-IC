@@ -37,6 +37,7 @@ notable_operations:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
+  - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -46,7 +47,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 22
+source_count: 23
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -70,6 +71,7 @@ sources:
   - "[[2026-02-20_nca-uk_fraudsters-arrested-nigeria-following-nca-intelligence-sharing]]"
   - "[[2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms]]"
   - "[[2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia]]"
+  - "[[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -155,3 +157,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [20] | [[2026-02-20_nca-uk_fraudsters-arrested-nigeria-following-nca-intelligence-sharing\|Fraudsters arrested in Nigeria following NCA intelligence sharing]] | UK National Crime Agency | 2026-02-20 | https://www.nationalcrimeagency.gov.uk/news/fraudsters-arrested-in-nigeria-following-nca-intelligence-sharing |
 | [21] | [[2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms\|Two U.S. Nationals Sentenced for Facilitating Fraudulent Remote Information Technology Worker Schemes for the DPRK]] | US DOJ (OPA) | 2026-05-07 | https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker-0 |
 | [22] | [[2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia\|Cybercrime-as-a-service takedown: 7 arrested (Latvia SIM-box CaaS network dismantled)]] | Europol | 2025-10-17 | https://www.europol.europa.eu/media-press/newsroom/news/cybercrime-service-takedown-7-arrested |
+| [23] | [[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown\|Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe]] | Eurojust | 2025-09-23 | https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe |
