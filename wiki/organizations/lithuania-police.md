@@ -22,6 +22,7 @@ operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[operation-eastwood]]"
   - "[[romania-phishing-takedown-2024]]"
+  - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
 org_type: national-unit
 parent_org: "Policijos departamentas prie LR VRM (Police Department under the Ministry"
 source_count: 3
@@ -30,7 +31,7 @@ sources:
 status: active
 title: "Lithuanian Criminal Police Bureau — Cybercrime Unit"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Summary
 

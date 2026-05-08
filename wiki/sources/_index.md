@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (671)
+# Sources (674)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -57,6 +57,9 @@ updated: 2026-04-14
 | [[2025-12-23_interpol-int_support-for-afripol-operation-sentinel]] | report | INTERPOL | ? | high | ? |
 | [[2025-12-22_eurojusts-cross-border-investigations-2025_credit-card-fraud-roundup]] | report | Eurojust | ? | high | ? |
 | [[2025-12-22-interpol-operation-sentinel-africa]] | press-release | INTERPOL | ? | high | ? |
+| [[2025-12-17_01net_ukraine-call-center-10m-fraud]] | news | 01net | 2 | medium | ? |
+| [[2025-12-16_helpnetsecurity_ukraine-scam-call-centers]] | news | Help Net Security | 2 | medium | ? |
+| [[2025-12-16_eurojust_fraudulent-call-centres-ukraine]] | press-release | Eurojust | 1 | high | ? |
 | [[2025-12-09_koreatimes-co-kr_trial-begins-for-46-suspects-accused-of-involvement-in-online-scams-in-cambodia]] | news | The Korea Times | ? | medium | ? |
 | [[2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion]] | news | TechRadar | ? | medium | ? |

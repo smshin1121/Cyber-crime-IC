@@ -25,6 +25,7 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[operation-firewall]]"
   - "[[operation-tovar]]"
+  - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
 org_type: national-unit
 parent_org: "Національна поліція України (National Police of Ukraine) — Ministry of"
 source_count: 3
@@ -33,7 +34,7 @@ sources:
 status: active
 title: "Cyber Police of Ukraine — Department of Cyber Police"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Summary
 

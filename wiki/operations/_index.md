@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (138 canonical / 27 absorbed / 165 records)
+# Operations (139 canonical / 27 absorbed / 166 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (138)
+## Canonical Operations (139)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -126,6 +126,7 @@ updated: 2026-04-14
 | [[operation-raptor]] | CYB-2025-017 | 3 | completed | umbrella | 5 | 4.40 | 1 |
 | [[operation-catalyst]] | CYB-2025-018 | 3 | completed | umbrella | 3 | 4.15 | 1 |
 | [[operation-pangea-xvii]] | CYB-2025-019 | 3 | completed | umbrella | 4 | 4.40 | 1 |
+| [[ukraine-fraudulent-call-centres-takedown-2025]] | CYB-2025-020 | 3 | completed | umbrella | 3 | 4.25 | 1 |
 | [[operation-chakra-iv]] | CYB-2025-021 | 3 | completed | umbrella | 3 | 3.00 | 3 |
 | [[operation-chakra-v]] | CYB-2025-022 | 3 | completed | umbrella | 3 | 3.10 | 3 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |

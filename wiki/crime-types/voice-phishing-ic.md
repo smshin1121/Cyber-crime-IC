@@ -37,6 +37,7 @@ notable_operations:
   - "[[operation-haechi-vi]]"
   - "[[operation-first-light-2024]]"
   - "[[belgium-netherlands-phishing-gang]]"
+  - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[operation-chakra-ii]]"
   - "[[operation-chakra-iii]]"
   - "[[operation-chakra-iv]]"
@@ -48,7 +49,7 @@ criminalization_status:
   definition_varies: true
   problem_jurisdictions: []
 estimated_annual_loss: "South Korea reports large recurring domestic losses; global phone-enabled fraud loss is not consistently separated from wider online-fraud statistics."
-source_count: 13
+source_count: 16
 sources:
   - "[[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]]"
   - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
@@ -63,6 +64,9 @@ sources:
   - "[[2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam]]"
   - "[[2025-09-25-interpol-operation-haechi-vi]]"
   - "[[2025-10-18-korea-cambodia-scam-repatriation]]"
+  - "[[2025-12-16_eurojust_fraudulent-call-centres-ukraine]]"
+  - "[[2025-12-16_helpnetsecurity_ukraine-scam-call-centers]]"
+  - "[[2025-12-17_01net_ukraine-call-center-10m-fraud]]"
 created: 2026-04-08
 updated: 2026-05-08
 ---
@@ -79,6 +83,7 @@ The category remains closely related to [[online-fraud-ic]], [[bec-ic]], [[money
 | Korea-targeted 보이스피싱 from overseas call centers | Bilateral police cooperation, suspect transfer, victim-loss tracing | [[korea-china-voice-phishing-qingdao]], [[operation-haechi-v]], [[korea-cambodia-scam-repatriation]] |
 | Global phone and impersonation scam sweeps | INTERPOL coordination, account blocking, I-GRIP asset recovery | [[operation-haechi-iii]], [[operation-haechi-iv]], [[operation-haechi-vi]], [[operation-first-light-2024]] |
 | European bank-helpdesk or phone-phishing gangs | Eurojust judicial coordination, Europol support, synchronized searches | [[belgium-netherlands-phishing-gang]] |
+| Ukrainian call-centre networks targeting European victims | Eurojust JIT support, coordination meetings, action-day travel/funding, synchronized searches | [[ukraine-fraudulent-call-centres-takedown-2025]] |
 | Tech-support scam call centers | Lead-country raids, foreign victim intelligence, public-private cooperation | [[operation-chakra-ii]], [[operation-chakra-iii]], [[operation-chakra-iv]], [[operation-chakra-v]] |
 
 ## Key Operations
@@ -91,6 +96,7 @@ The category remains closely related to [[online-fraud-ic]], [[bec-ic]], [[money
 | [[operation-first-light-2024]] | 2024 | 61 countries | 3,950 arrests; USD 257 million seized; 6,745 accounts frozen | First Light traces to phone-scam enforcement and the 2024 action covered phishing and impersonation scams at global scale. |
 | [[operation-haechi-v]] | 2024 | 40 countries | 5,500+ arrests; over USD 400 million seized | Korea and China dismantled a voice-phishing syndicate causing about USD 1.1 billion in losses. |
 | [[belgium-netherlands-phishing-gang]] | 2024 | Belgium, Netherlands | 8 arrests; 17 searches | Phone-phishing and bank-helpdesk fraud group supported by Eurojust and Europol. |
+| [[ukraine-fraudulent-call-centres-takedown-2025]] | 2025 | Czech Republic, Latvia, Lithuania, Ukraine | 12 arrests; 72 searches; 45 suspects identified; over EUR 10 million in estimated losses | Eurojust-supported JIT action against Ukrainian call centres using police/bank impersonation, remote-access software, and forged documents against European victims. |
 | [[operation-chakra-ii]] | 2023 | India with foreign law-enforcement and private-sector inputs | 76 searches; nine call centers searched | CBI action against tech-support and cyber-enabled financial fraud call-center infrastructure. |
 | [[operation-chakra-iii]] | 2024 | India, United States | 43 arrests; 951 devices seized | Tech-support scam call centers targeting foreign victims. |
 | [[operation-chakra-iv]] | 2025 | India, Germany | 1 key arrest; illegal call center dismantled | German-victim remote-support and phone-enabled fraud network coordinated with German authorities. |
@@ -134,3 +140,6 @@ This distinction prevents the SNA from silently merging all online fraud into vo
 | [11] | Operation Chakra-V: CBI busts transnational scam that posed as tech support to cheat Japanese citizens | The New Indian Express | 2025-05-29 | https://www.newindianexpress.com/nation/2025/May/29/operation-chakra-v-cbi-busts-transnational-scam-that-posed-as-tech-support-to-cheat-japanese-citizens |
 | [12] | USD 439 million recovered in global financial crime operation - Operation HAECHI VI | INTERPOL | 2025-09-25 | https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation |
 | [13] | South Korea repatriates 64 scam centre suspects from Cambodia | Al Jazeera / France24 / Korea Herald | 2025-10-18 | https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects |
+| [14] | Fraudulent call centres in Ukraine rolled up | Eurojust | 2025-12-16 | https://www.eurojust.europa.eu/news/fraudulent-call-centres-ukraine-rolled |
+| [15] | European police busts Ukraine scam call centers | Help Net Security | 2025-12-16 | https://www.helpnetsecurity.com/2025/12/16/ukraine-scam-call-centers/ |
+| [16] | Phone scams: criminal call center stole more than EUR 10 million from 400 people | 01net | 2025-12-17 | https://www.01net.com/actualites/arnaques-telephoniques-call-center-criminel-vole-plus-10-millions-euros-400-personnes.html |

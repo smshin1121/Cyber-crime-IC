@@ -15,7 +15,7 @@ The project goal is to build a source-grounded, SNA-ready knowledge base on publ
 
 ## Executive Summary
 
-International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **138 canonical operations** across the public corpus period. It also retains 27 absorbed follow-on records for prosecution, sentencing, forfeiture, plea, and action-day traceability; those follow-on records are not counted as separate IC operations in the statistics below.
+International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **139 canonical operations** across the public corpus period. It also retains 27 absorbed follow-on records for prosecution, sentencing, forfeiture, plea, and action-day traceability; those follow-on records are not counted as separate IC operations in the statistics below.
 
 1. **Europol-coordinated** (45 operations): The largest group by count, including ransomware takedowns (Cronos, Endgame, Phobos), botnet dismantlings (Avalanche, Andromeda), forum shutdowns (Darkode, Cracked/Nulled), and financial crime operations. Key results from the most-sourced operations include 470+ servers, thousands of domains, and major cryptocurrency seizures.
 2. **INTERPOL-coordinated** (32 operations): Dominant in arrest volume and geographic reach. Operations HAECHI IV/V/VI (combined: 9,000+ arrests, $1.1B+ seized), Jackal/III (~400 arrests targeting Black Axe), First Light 2024 (3,950 arrests, $257M), Serengeti (1,006 arrests), Sentinel (574 arrests), Synergia II (22,800 IPs taken down) across up to 95 countries.
@@ -66,22 +66,22 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 
 | Metric | Value | Period |
 |--------|-------|--------|
-| Canonical operations documented | 138 | Public corpus |
+| Canonical operations documented | 139 | Public corpus |
 | Absorbed follow-on records | 27 | Retained for traceability |
-| Total operation records | 165 | Canonical + absorbed |
+| Total operation records | 166 | Canonical + absorbed |
 | Period 1 operations | 33 | pre-2019 |
 | Period 2 operations | 28 | 2019-2022 |
-| Period 3 operations | 77 | 2023-2025 |
+| Period 3 operations | 78 | 2023-2025 |
 | Period 4 operations | 0 | Repository-coded |
 | Operations without period code | 0 | Metadata cleanup queue |
 | Europol-coordinated | 45 | All periods |
 | INTERPOL-coordinated | 32 | All periods |
 | DOJ/US-led | 19 | All periods |
-| Total arrests (canonical operations) | 29,950+ | Across canonical operations |
+| Total arrests (canonical operations) | 29,962+ | Across canonical operations |
 | Total servers seized | 8,945+ | Primarily Europol operations |
 | Total domains seized | 872,757+ | Canonical operations |
 | Unique participating countries | 197+ | Canonical operations |
-| Sources with dedicated pages | 671 | INTERPOL 52, Europol 44, Eurojust 37, FBI 21, BleepingComputer 21 |
+| Sources with dedicated pages | 674 | INTERPOL 52, Europol 44, Eurojust 38, FBI 21, BleepingComputer 21 |
 | Crime types documented | 25 | All documented types |
 
 ## Recent Activity
@@ -90,7 +90,7 @@ See [[log]] for wiki activity history.
 
 ## References
 
-Operational statistics in this overview aggregate the 138 canonical operation pages. The wiki also retains 27 absorbed follow-on records for traceability, for 165 total operation records, plus 671 source pages. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
+Operational statistics in this overview aggregate the 139 canonical operation pages. The wiki also retains 27 absorbed follow-on records for traceability, for 166 total operation records, plus 674 source pages. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|

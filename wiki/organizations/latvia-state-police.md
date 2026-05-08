@@ -29,6 +29,7 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[operation-eastwood]]"
   - "[[operation-power-off]]"
+  - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
 org_type: national-unit
 parent_org: ""
 source_count: 3
@@ -39,7 +40,7 @@ sources:
 status: active
 title: "Latvia State Police"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Summary
 

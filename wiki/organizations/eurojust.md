@@ -54,6 +54,7 @@ operations_participated:
   - "[[operation-onymous]]"
   - "[[vpnlab-takedown]]"
   - "[[belgium-netherlands-phishing-gang]]"
+  - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[operation-us-v-parsarad-nemesis]]"
   - "[[blackcat-lockeroga-kelvin-security-2023]]"
   - "[[phobos-8base-crackdown]]"

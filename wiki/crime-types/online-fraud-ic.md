@@ -19,6 +19,7 @@ notable_operations:
   - "[[operation-first-light-2024]]"
   - "[[operation-jackal]]"
   - "[[operation-jackal-iii]]"
+  - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
 criminalization_status:
@@ -26,7 +27,7 @@ criminalization_status:
   definition_varies: true
   problem_jurisdictions: []
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 8
+source_count: 11
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -36,8 +37,11 @@ sources:
   - "[[2023-06-06-interpol-operation-jackal]]"
   - "[[2024-08-28-interpol-operation-jackal-iii]]"
   - "[[2026-03-11-eurojust-de-fr-online-fraud-group]]"
+  - "[[2025-12-16_eurojust_fraudulent-call-centres-ukraine]]"
+  - "[[2025-12-16_helpnetsecurity_ukraine-scam-call-centers]]"
+  - "[[2025-12-17_01net_ukraine-call-center-10m-fraud]]"
 created: 2026-04-08
-updated: 2026-04-14
+updated: 2026-05-08
 ---
 ## Summary
 
@@ -75,6 +79,7 @@ Online fraud is broadly criminalized worldwide under various statutes:
 | [[operation-first-light-2024]] | 2024 | 61 | 3,950 | $257M | Online scams, I-GRIP |
 | [[operation-haechi-v]] | 2024 | 40 | 5,500+ | $400M+ | Record HAECHI operation |
 | [[operation-serengeti]] | 2024 | 19 | 1,006 | - | Africa-focused |
+| [[ukraine-fraudulent-call-centres-takedown-2025]] | 2025 | 4 | 12 | EUR 10M+ damage reported | Eurojust-supported phone and bank-impersonation call-centre action |
 | [[operation-haechi-vi]] | 2025 | 40 | - | $439M | New recovery record |
 | [[operation-sentinel-africa]] | 2025 | 19 | 574 | $3M | BEC/ransomware in Africa |
 
@@ -104,3 +109,6 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [6] | Closing ranks on West African organized crime: Operation Jackal | INTERPOL | 2023-06-06 | [원본](https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal) |
 | [7] | INTERPOL operation strikes major blow against West African financial crime — Operation Jackal III | INTERPOL | 2024-08-28 | [원본](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime) |
 | [8] | Judicial cooperation key to arresting leaders of online fraud group | Eurojust | 2026-03-11 | [원본](https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group) |
+| [9] | Fraudulent call centres in Ukraine rolled up | Eurojust | 2025-12-16 | https://www.eurojust.europa.eu/news/fraudulent-call-centres-ukraine-rolled |
+| [10] | European police busts Ukraine scam call centers | Help Net Security | 2025-12-16 | https://www.helpnetsecurity.com/2025/12/16/ukraine-scam-call-centers/ |
+| [11] | Phone scams: criminal call center stole more than EUR 10 million from 400 people | 01net | 2025-12-17 | https://www.01net.com/actualites/arnaques-telephoniques-call-center-criminel-vole-plus-10-millions-euros-400-personnes.html |

@@ -26,6 +26,7 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[fake-shopping-sites-takedown-2024]]"
   - "[[mobdro-illegal-streaming-takedown-2021]]"
+  - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
 org_type: national-unit
 parent_org: "[[czech-police]]"
 source_count: 2
@@ -34,7 +35,7 @@ sources:
 status: active
 title: "National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)"
 type: organization
-updated: "2026-04-29"
+updated: "2026-05-08"
 ---
 ## Summary
 
