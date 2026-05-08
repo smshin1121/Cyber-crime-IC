@@ -74,6 +74,7 @@ operations_participated:
   - "[[operation-disruptor]]"
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-endgame-phase3]]"
+  - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

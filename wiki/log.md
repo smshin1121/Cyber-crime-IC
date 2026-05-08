@@ -878,3 +878,16 @@
   - 250+ US victims plus hundreds worldwide; named victim countries: US, France, Germany, Netherlands, Norway, Switzerland.
   - September 2022 No More Ransomware Project decryption-key release for LockerGoga + MegaCortex documented as concrete public-record outcome of the underlying multilateral investigation, complementing the named-suspect indictment approach.
   - Charges: 7 counts including 2 conspiracy counts, 3 intentional-damage counts, 1 unauthorized-access count, and 1 threat-to-disclose-confidential-information count.
+
+
+## [2026-05-09] ingest | Europol 2025-10-17 — Latvia SIM-box Cybercrime-as-a-Service network takedown
+- Source: raw/press-releases/2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia.md (Europol newsroom press release; verbatim body captured from `window.SERVER_DATA.body` JSON via TLS-spoof + JSON-extraction)
+- Pages created: wiki/operations/latvia-sim-box-cybercrime-as-a-service-takedown-2025.md, wiki/sources/2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia.md
+- Pages updated: 4 country pages (LV, AT, EE, FI — `operations_participated`), 3 organization pages (europol-ec3, eurojust, finland-nbi — `operations_participated`), 2 crime-type pages (online-fraud-ic, hacking-ic — `notable_operations` + sources). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - October 2025 action day in Latvia dismantled a SIM-box cybercrime-as-a-service network. JIT (Joint Investigation Team) partners: Austria, Estonia, Latvia. Supporting jurisdiction: Finland. Coordinated by Europol + Eurojust with the Shadowserver Foundation as private-sector partner.
+  - Action-day results: 5 arrests, 26 searches, ~1,200 SIM-box devices seized (operating 40,000 SIM cards), hundreds of thousands of further SIM cards seized, 5 servers, 2 websites taken down (gogetsms.com, apisim.com), EUR 431,000 + USD 333,000 frozen, 4 luxury vehicles seized.
+  - Operational scale: more than 49 million online accounts allegedly created via the illegal SIM-box service; telephone numbers from 80+ source-countries.
+  - Title-vs-body arrest count discrepancy noted: title says "7 arrested" but body says "5 individuals arrested" on the action day; the 5-figure used for `results.arrests` and the 7-figure flagged.
+  - Crime types facilitated by the network include phishing, smishing, fraud, extortion, migrant smuggling, CSAM distribution, daughter-son scam, investment fraud, fake shops, fake bank websites, and fake-police-officer schemes targeting Russian-speaking victims.
+  - First wiki record explicitly capturing a JIT 4-jurisdiction CaaS-takedown pattern with a private-sector technical partner. Korean involvement not named.

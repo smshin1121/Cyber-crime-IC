@@ -6,11 +6,11 @@ official_name_ko: "핀란드 국립수사국"
 aliases:
   - "Finland NBI"
   - "Finnish NBI"
-  - "Keskusrikospoliisi"
-  - "KRP"
+  - Keskusrikospoliisi
+  - KRP
 org_type: national-agency
 status: active
-established: "1908"
+established: 1908
 parent_org: "Finnish Ministry of the Interior — Finnish Police"
 country: "[[finland]]"
 headquarters: "Vantaa, Finland"
@@ -25,16 +25,18 @@ cooperation_partners:
   - "[[germany-bka]]"
 operations_participated:
   - "[[e-note-crypto-exchange-takedown-2025]]"
-notable_cases: []
-contact_point_for: []
+  - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
+notable_cases:
+  []
+contact_point_for:
+  []
 source_count: 1
 sources:
   - "[[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]]"
 created: 2026-05-08
-updated: 2026-05-08
-last_verified: 2026-05-08
+updated: 2026-05-09
+last_verified: 2026-05-09
 ---
-
 > [!info] Stub
 > This page was auto-created during ingestion of the December 2025 US DOJ EDMI announcement of the E-Note crypto-exchange takedown, in which the Finnish National Bureau of Investigation is named alongside the German BKA as the cooperating European authority. It will be expanded as additional NBI-related sources are ingested.
 

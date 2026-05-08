@@ -24,7 +24,7 @@ ic_capacity:
 iso_code: FI
 key_agencies:
 
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
 
@@ -33,6 +33,7 @@ operations_participated:
   - "[[operation-contender-2]]"
   - "[[operation-power-off-2026-04]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
+  - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
 region: northern-europe
 source_count: 6
 sources:
@@ -41,14 +42,14 @@ title: "Republic of Finland"
 treaty_memberships:
   - date: 2007-05-24
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (689)
+# Sources (690)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -97,6 +97,7 @@ updated: 2026-04-14
 | [[2025-10-21_yna_co_kr_arrest-warrants-issued-for-48-suspects-brought-from-cambodia]] | news | Yonhap News Agency | ? | medium | ? |
 | [[2025-10-20_koreatimes-co-kr_police-seek-arrest-warrants-for-58-scam-suspects-brought-from-cambodia]] | news | The Korea Times | ? | medium | ? |
 | [[2025-10-18-korea-cambodia-scam-repatriation]] | news | Al Jazeera / France24 / Korea Herald | ? | medium | ? |
+| [[2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia]] | press-release | Europol | ? | high | ? |
 | [[2025-09-29_cyberscoop_interpol-operation-contender-3-africa]] | news | CyberScoop | ? | medium | ? |
 | [[2025-09-27_dailysecurityreview_operation-haechi-vi-record-recovery]] | news | Daily Security Review | ? | medium | ? |
 | [[2025-09-26_interpol_operation-contender-3-pan-african-cybercrime]] | press-release | INTERPOL | ? | high | ? |

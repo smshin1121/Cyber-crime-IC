@@ -118,6 +118,7 @@ operations_participated:
   - "[[leakbase-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
   - "[[operation-endgame-phase3]]"
+  - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

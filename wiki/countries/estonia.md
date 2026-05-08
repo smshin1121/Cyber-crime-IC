@@ -14,7 +14,7 @@ treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: party
     date: ""
-    reservations:
+    reservations: ""
 central_authority:
   mlat: ""
   budapest: ""
@@ -30,12 +30,13 @@ bilateral_agreements:
 
 operations_participated:
   - "[[operation-power-off-2026-04]]"
+  - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
 source_count: 3
 created: 2026-04-20
-updated: 2026-05-08
+updated: 2026-05-09
 status: corpus-linked
 sources:
   - "[[2019-03-21_justice-gov_estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement]]"
