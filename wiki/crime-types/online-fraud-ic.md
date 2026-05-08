@@ -48,6 +48,7 @@ notable_operations:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
+  - "[[black-axe-spain-takedown-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -58,7 +59,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 35
+source_count: 36
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -95,6 +96,7 @@ sources:
   - "[[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm]]"
   - "[[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia]]"
   - "[[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds]]"
+  - "[[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -193,3 +195,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [33] | [[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm\|Busted: Police shut down Bangkok-based investment scam centre targeting Australians]] | Australian Federal Police | 2025-06-17 | https://www.afp.gov.au/news-centre/media-release/busted-police-shut-down-bangkok-based-investment-scam-centre-targeting |
 | [34] | [[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia\|U.S. and U.K. Take Largest Action Ever Targeting Cybercriminal Networks in Southeast Asia (Prince Group TCO + Huione Group)]] | US Department of the Treasury | 2025-10-14 | https://home.treasury.gov/news/press-releases/sb0278 |
 | [35] | [[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds\|Chairman of Prince Group Indicted for Operating Cambodian Forced-Labor Scam Compounds]] | US DOJ (OPA), Press Release 25-1,031 | 2025-10-14 | https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds |
+| [36] | [[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation\|34 arrests in Spain during action against the 'Black Axe' criminal organisation]] | Europol | 2026-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/34-arrests-in-spain-during-action-against-black-axe-criminal-organisation |

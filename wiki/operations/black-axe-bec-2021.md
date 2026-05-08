@@ -59,6 +59,7 @@ related_cases:
 
 related_operations:
   - "[[black-axe-switzerland-takedown-2026]]"
+  - "[[black-axe-spain-takedown-2026]]"
 challenges_encountered:
   - "The operation targeted a distributed West African criminal ecosystem rather than a single defendant or platform."
 lessons_learned:

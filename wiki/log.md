@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | Europol 2026-01-12 — 34 arrests in Spain against 'Black Axe' criminal organisation (Spanish National Police + Bavarian BLKA + Europol)
+- Source: `raw/press-releases/2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation.md` (Europol Newsroom press release; tier-1 primary)
+- Pages created: [[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation]] (source summary), [[black-axe-spain-takedown-2026]] (operation page)
+- Pages updated: [[spain]], [[germany]] (operations_participated), [[spain-national-police]], [[germany-bka]], [[europol-ec3]] (operations_participated), [[online-fraud-ic]], [[money-laundering-ic]], [[organized-crime-ic]] (notable_operations + sources + body Reference rows), [[black-axe-switzerland-takedown-2026]], [[black-axe-bec-2021]] (related_operations cross-links).
+- Key findings: Spanish National Police + Bavarian BLKA + Europol coordinated arrest sweep against the core Spain-side cell of the Nigeria-origin 'Black Axe' / Neo-Black Movement of Africa transnational organised crime group: 34 arrests (28 Seville + 3 Madrid + 2 Málaga + 1 Barcelona), EUR 5.93M+ documented fraud damages, EUR 119,352 frozen, EUR 66,403 cash seized. 2 BLKA officers deployed on-site; Madrid-held Europol data sprint + on-the-spot support. Establishes the **Bavaria–Andalusia bilateral track** preceding the [[black-axe-switzerland-takedown-2026|Switzerland April 2026 action]] by ~3 months.
+
 ## [2026-05-09] ingest | DOJ-OPA 2025-10-14 — Chairman of Prince Group indicted for Cambodian forced-labor scam compounds + USD 15B BTC forfeiture (EDNY, parallel track to OFAC/UK sanctions)
 - Source: `raw/press-releases/2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds.md` (DOJ-OPA Press Release 25-1,031; tier-1 primary)
 - Pages created: [[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds]] (source summary), [[us-v-chen-zhi-prince-group-edny-2025]] (case page)

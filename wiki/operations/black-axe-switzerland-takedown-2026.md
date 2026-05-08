@@ -81,7 +81,9 @@ related_cases:
 related_operations:
   - "[[operation-jackal]]"
   - "[[operation-jackal-iii]]"
-challenges_encountered: []
+  - "[[black-axe-spain-takedown-2026]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "First wiki record explicitly capturing the @ON Network (Project ISF4@ON, EU-funded) led by DIA as an analytical-support mechanism for a non-Italian Black Axe action day, alongside Europol's data sprint and information analysis."
   - "Demonstrates the Switzerland-as-lead pattern in EU-coordinated Nigerian-OCG enforcement — a non-EU state acting as the action-day lead with a single EU member-state (Germany) as the named participating country and Europol providing analytical support — distinct from the INTERPOL-led HAECHI / Jackal patterns."

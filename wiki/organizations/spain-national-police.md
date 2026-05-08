@@ -33,6 +33,7 @@ operations_participated:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
+  - "[[black-axe-spain-takedown-2026]]"
 notable_cases:
 
 contact_point_for:
