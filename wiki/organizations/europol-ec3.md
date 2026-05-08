@@ -121,6 +121,7 @@ operations_participated:
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[black-axe-switzerland-takedown-2026]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

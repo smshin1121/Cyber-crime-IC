@@ -3,7 +3,7 @@ type: mechanism
 title: "Domain Seizure"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-04-29
+updated: 2026-05-09
 source_count: 4
 sources:
   - "[[2015-04-09_scworld-com_international-effort-takes-down-beebone-botnet]]"
@@ -11,6 +11,8 @@ sources:
   - "[[2022-05-31_justice-gov_weleakinfo-to-and-related-domain-names-seized]]"
   - "[[2022-05-31_securityweek_us-authorities-seize-domains-stolen-data-ddos]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 ---
 ## Summary
 

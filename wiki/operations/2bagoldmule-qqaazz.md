@@ -53,7 +53,6 @@ mechanisms_used:
   - "[[europol-jit]]"
   - "[[mlat-process]]"
   - "[[informal-cooperation]]"
-
 results:
   arrests: 20
   indictments: 0
@@ -79,14 +78,14 @@ edges:
     direction: undirected
 credibility_index: 2.28
 source_tier: 2
-missing_fields:
+missing_fields: ""
 related_cases:
 
 related_operations:
   - "[[operation-destabilise]]"
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[operation-heart-blocker]]"
-
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 challenges_encountered:
 
 lessons_learned:
@@ -99,7 +98,7 @@ sources:
   - "[[2020-10-16_amlintelligence_notorious-central-europe-crime-gang-that-laundered-tens-of-millions-of-euro-for-hackers-targeted-in-raids]]"
   - "[[2020-10-15_cyberscoop-com_fbi-accuses-russian-money-laundering-qqaazz]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: 2026-05-09
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation 2BaGoldMule, led by Europol and involving 16 countries, dismantled the QQAAZZ criminal network that had laundered tens of millions of euros in criminal proceeds from cybercrime. The network operated since 2016, using hundreds of corporate and personal bank accounts to launder funds stolen through hacking and online fraud. The operation resulted in 20 arrests across multiple countries."

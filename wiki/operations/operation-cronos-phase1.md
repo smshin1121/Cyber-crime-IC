@@ -95,6 +95,7 @@ related_operations:
   - "[[operation-cronos-phase3]]"
   - "[[operation-us-v-astamirov-vasiliev-lockbit]]"
   - "[[operation-cronos-phase2]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 challenges_encountered:
 
 lessons_learned:
@@ -111,7 +112,7 @@ sources:
   - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-nca-disrupts-multi-billion-money-laundering-networks]]"
   - "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
 created: 2026-04-08
-updated: 2026-05-08
+updated: 2026-05-09
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Cronos Phase 1** was a landmark international law enforcement action that disrupted **LockBit**, the world's most deployed ransomware variant since 2022. On 20 February 2024, agencies from 10 countries executed a coordinated takedown of LockBit's infrastructure, led by the [[uk-nca|UK National Crime Agency]] and coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]]."

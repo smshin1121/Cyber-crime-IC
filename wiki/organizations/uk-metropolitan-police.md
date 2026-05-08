@@ -3,8 +3,8 @@ type: organization
 title: "Metropolitan Police Service"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
-last_verified: 2026-04-29
+updated: 2026-05-09
+last_verified: 2026-05-09
 org_type: metropolitan-police-service
 country: "[[united-kingdom]]"
 headquarters: "London, United Kingdom"
@@ -18,6 +18,7 @@ operations_participated:
   - "[[rex-mundi-takedown]]"
   - "[[banking-trojan-fraud-sentencing-2017]]"
   - "[[operation-trident-breach]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 cooperation_partners:
   - "[[uk-met-police-cyber]]"
   - "[[uk-nca]]"

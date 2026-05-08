@@ -30,6 +30,7 @@ operations_participated:
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
   - "[[operation-power-off-2026-04]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 notable_cases:
 
 cooperation_assessment: ""

@@ -13,6 +13,7 @@ operations_participated:
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 source_count: 0
 sources:
 

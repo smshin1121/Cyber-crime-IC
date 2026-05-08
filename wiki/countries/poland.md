@@ -33,6 +33,7 @@ operations_participated:
   - "[[operation-avalanche]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 region: eastern-europe
 source_count: 3
 sources:

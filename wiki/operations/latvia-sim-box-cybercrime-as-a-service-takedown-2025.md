@@ -71,23 +71,23 @@ results:
     - "More than 49 million online accounts allegedly created via the illegal SIM-box service"
     - "Telephone numbers from 80+ countries source-jurisdictions, used to register the rented numbers"
 edges:
-  - source_actor: "europol-ec3"
-    target_actor: "latvia"
+  - source_actor: europol-ec3
+    target_actor: latvia
     cooperation_type: joint_investigation
     legal_basis: europol-jit
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "austria"
+  - source_actor: europol-ec3
+    target_actor: austria
     cooperation_type: joint_investigation
     legal_basis: europol-jit
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "estonia"
+  - source_actor: europol-ec3
+    target_actor: estonia
     cooperation_type: joint_investigation
     legal_basis: europol-jit
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "finland-nbi"
+  - source_actor: europol-ec3
+    target_actor: finland-nbi
     cooperation_type: info_sharing
     legal_basis: informal
     direction: undirected
@@ -95,10 +95,13 @@ credibility_index: 4.0
 source_tier: 1
 missing_fields:
   - "indictments (post-action-day charging not enumerated)"
-  - "victims_notified"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - victims_notified
+related_cases:
+  []
+related_operations:
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "The cited Europol release is one of the wider verbatim public-record CaaS-tier-prosecution captures in the wiki corpus, with a detailed enumeration of crime-types-enabled by the network and explicit private-sector cooperation with the Shadowserver Foundation for technical infrastructure dismantling."
   - "The fake-police-officer-against-Russian-speaking-victims scheme is a notable IC-relevant data point that overlaps with the broader 2025-2026 EU-wide Russian-speaking-victim cybercrime targeting pattern, including the Korea-Russian-victim Phobos prosecution context (Ptitsyn) and broader Russian-language criminal forums (LeakBase, RAMP)."

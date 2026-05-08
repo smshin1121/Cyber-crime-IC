@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (696)
+# Sources (697)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -335,6 +335,7 @@ updated: 2026-04-14
 | [[2024-05-28_treasury-gov_treasury-sanctions-a-cybercrime-network-associated-with-the-911-s5-botnet]] | press-release | U.S. Department of the Treasury | 1 | high | ? |
 | [[2024-05-07_justice-gov-dnj_us-charges-russian-national-developing-operating-lockbit-ransomware]] | press-release | US Attorney's Office, District of New Jersey | ? | high | ? |
 | [[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]] | official-press-release | Foreign, Commonwealth & Development Office | 2 | high | ? |
+| [[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost]] | press-release | Europol | ? | high | ? |
 | [[2024-04-15_bitdefender-com_zambia-arrests-77-people-in-swoop-on-scam-call-centre]] | press-release | Bitdefender (Hot for Security) | ? | medium | ? |
 | [[2026-04-18_justice-gov_socal-man-arrested-federal-charges-alleging-he-schemed-advertise-and-sell-hive]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-04-11_openzambia-com_chinese-crime-syndicate-raided-in-lusaka]] | news | Open Zambia | ? | medium | ? |

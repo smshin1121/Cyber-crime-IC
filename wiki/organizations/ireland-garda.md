@@ -3,14 +3,16 @@ type: organization
 title: "An Garda Siochana - Garda National Cyber Crime Bureau"
 official_name: "Garda National Cyber Crime Bureau"
 aliases:
-  - "GNCCB"
+  - GNCCB
   - "Garda Cyber Crime Bureau"
 org_type: national-unit
 status: active
 established: 2016
 parent_org: "[[ireland-garda-siochana]]"
 country: "[[ireland]]"
-jurisdiction: [[ireland]]
+jurisdiction:
+  -
+    - ireland
 headquarters: "Dublin, Ireland"
 mandate: "Investigation and digital-forensics support for cybercrime in Ireland."
 key_roles:
@@ -23,14 +25,15 @@ cooperation_partners:
 operations_participated:
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-hyperion]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 source_count: 3
 sources:
   - "[[2022-10-14_garda-ie_interpol-operation-jackal-ireland-operation-skein-14th-october-2022]]"
   - "[[2023-08-10_garda-ie_interpol-operation-jackal-ireland-operation-skein-update-august-2023]]"
   - "[[2024-07-16_garda-ie_interpol-operation-jackal-ireland-operation-skein-july-2024]]"
 created: 2026-04-12
-updated: "2026-04-29"
-last_verified: 2026-04-29
+updated: 2026-05-09
+last_verified: 2026-05-09
 ---
 ## Summary
 

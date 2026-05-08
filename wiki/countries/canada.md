@@ -24,7 +24,7 @@ ic_capacity:
 iso_code: CA
 key_agencies:
 
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: mixed
 notable_cases:
 
@@ -38,6 +38,7 @@ operations_participated:
   - "[[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-endgame-phase3]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 region: north-america
 source_count: 5
 sources:
@@ -46,14 +47,14 @@ title: Canada
 treaty_memberships:
   - date: 2015-07-08
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: ""
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: unknown
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

@@ -9,6 +9,7 @@ treaty_memberships:
 ic_capacity: not-assessed
 operations_participated:
   - "[[phobos-8base-crackdown]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 source_count: 0
 sources:
 

@@ -15,7 +15,7 @@ frameworks_administered:
 headquarters: "Canberra, Australia"
 key_roles:
 
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 mandate: "Lead Australian federal law enforcement response to cybercrime through Cyber"
 mechanisms_operated:
 
@@ -36,6 +36,7 @@ operations_participated:
   - "[[operation-cookie-monster]]"
   - "[[operation-endgame-phase3]]"
   - "[[operation-cronos-phase2]]"
+  - "[[labhost-phishing-as-a-service-takedown-2024]]"
 org_type: national-agency
 parent_org: ""
 source_count: 6
@@ -44,7 +45,7 @@ sources:
 status: active
 title: "Australian Federal Police — Cyber Command"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 
