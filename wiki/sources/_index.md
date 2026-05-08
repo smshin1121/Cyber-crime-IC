@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (701)
+# Sources (702)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -419,6 +419,7 @@ updated: 2026-04-14
 | [[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]] | press-release | INTERPOL | ? | high | ? |
 | [[2022-11-24_bleepingcomputer-com_interpol-seized-130-million-from-cybercriminals-worldwide]] | press-release | Bleeping Computer | ? | medium | ? |
 | [[2022-11-22_mdfl_habasescu-xdedic-extradition]] | court-document | US DOJ (Middle District of Florida) | ? | high | ? |
+| [[2022-11-10_eurojust_massive-investment-fraud-hundreds-thousands-victims]] | press-release | Eurojust | ? | high | ? |
 | [[2022-11-01_therecord-media_almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-milli]] | press-release | The Record (Recorded Future News) | ? | medium | ? |
 | [[2022-11-01_gbhackers-com_operation-haechi-iii-interpol-arrested-1000-cyber-criminals-seized-130-million]] | press-release | GBHackers | ? | medium | ? |
 | [[2022-10-21_vanguardngr-com_interpol-arrests-over-70-suspected-fraudsters-linked-to-black-axe-cult-in-nigeria]] | news | Vanguard | ? | medium | ? |

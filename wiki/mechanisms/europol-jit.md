@@ -50,8 +50,9 @@ operations_using:
   - "[[phobos-8base-crackdown]]"
   - "[[operation-stream-kidflix]]"
   - "[[operation-talent]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 cases_using:
-  []
+
 related_mechanisms:
   - "[[mlat-process]]"
   - "[[24-7-network]]"
@@ -60,7 +61,7 @@ sources:
   - "[[2015-06-01_europol-europa-eu_major-cybercrime-ring-dismantled-by-joint-investigation-team]]"
   - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
 created: 2026-04-08
-updated: "2026-04-29"
+updated: 2026-05-09
 status: active
 ---
 ## Summary

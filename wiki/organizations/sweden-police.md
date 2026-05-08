@@ -28,6 +28,7 @@ operations_participated:
   - "[[operation-disruptor]]"
   - "[[operation-power-off]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
 source_count: 3

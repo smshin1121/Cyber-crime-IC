@@ -123,6 +123,7 @@ operations_participated:
   - "[[black-axe-switzerland-takedown-2026]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

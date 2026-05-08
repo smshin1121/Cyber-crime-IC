@@ -63,23 +63,23 @@ results:
     - "Dozens of fake cryptocurrency investment platforms taken down (specific names not enumerated in cited release)"
     - "Eurojust premises in The Hague served as the coordination centre for the synchronised action days"
 edges:
-  - source_actor: "france"
-    target_actor: "belgium"
+  - source_actor: france
+    target_actor: belgium
     cooperation_type: joint_investigation
     legal_basis: europol-jit
     direction: undirected
-  - source_actor: "eurojust"
-    target_actor: "cyprus"
+  - source_actor: eurojust
+    target_actor: cyprus
     cooperation_type: coordination
     legal_basis: informal
     direction: undirected
-  - source_actor: "eurojust"
-    target_actor: "germany"
+  - source_actor: eurojust
+    target_actor: germany
     cooperation_type: coordination
     legal_basis: informal
     direction: undirected
-  - source_actor: "eurojust"
-    target_actor: "spain"
+  - source_actor: eurojust
+    target_actor: spain
     cooperation_type: coordination
     legal_basis: informal
     direction: undirected
@@ -89,10 +89,13 @@ missing_fields:
   - "indictments (post-arrest charging not enumerated)"
   - "specific platform names"
   - "victim count and victim-by-country breakdown"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
-challenges_encountered: []
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Demonstrates the Eurojust-The-Hague coordination-centre pattern for multi-jurisdictional planning ahead of synchronised action days, with the JIT (France-Belgium) extended through coordination meetings to non-JIT jurisdictions (Cyprus, Germany, Spain) for the action-day execution."
   - "Together with the September 2025 €100M Eurojust crypto-investment-fraud takedown, this case demonstrates a recurring 2025 EU-coordinated crypto-investment-fraud enforcement model with JIT-anchored multi-country coordination, simultaneous arrests in non-JIT home-country jurisdictions, and asset freezing across the cryptocurrency / banking / cash spectrum."

@@ -9,6 +9,7 @@ operations_participated:
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 region: eastern-europe
 source_count: 0
 sources:

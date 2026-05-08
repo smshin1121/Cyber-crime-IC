@@ -40,6 +40,7 @@ limitations:
 operations_using:
   - "[[operation-token-mirrors-2026]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 cases_using:
 
 related_mechanisms:

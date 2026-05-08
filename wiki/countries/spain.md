@@ -42,6 +42,7 @@ operations_participated:
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 region: western-europe
 source_count: 6
 sources:

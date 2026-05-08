@@ -31,6 +31,7 @@ operations_participated:
   - "[[mobdro-illegal-streaming-takedown-2021]]"
   - "[[operation-eastwood]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 notable_cases:
 
 contact_point_for:

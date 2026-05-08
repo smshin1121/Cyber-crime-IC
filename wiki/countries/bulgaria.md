@@ -35,6 +35,7 @@ operations_participated:
   - "[[operation-avalanche]]"
   - "[[operation-power-off-2026-04]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 region: eastern-europe
 source_count: 4
 sources:
@@ -50,7 +51,7 @@ treaty_memberships:
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
 updated: 2026-05-09

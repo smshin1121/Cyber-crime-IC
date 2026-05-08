@@ -11,6 +11,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 region: northern-europe
 source_count: 0
 sources:

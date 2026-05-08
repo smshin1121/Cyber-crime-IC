@@ -104,11 +104,12 @@ missing_fields:
   - "indictments (post-arrest charging not enumerated)"
   - "individual victim breakdowns by country"
 related_cases:
-  []
+
 related_operations:
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "First wiki record explicitly capturing a Spain-Lithuania JIT pattern in a major cryptocurrency-investment-fraud joint action day, with Europol joining as a third operational party. The 23-country corpus is among the wider per-operation jurisdictional coverage in the wiki."
   - "Europol cryptocurrency-expert in-country deployment to Portugal demonstrates a discrete IC mechanism class for cross-jurisdictional crypto-asset seizure that complements traditional JIT and EAW/EIO instruments."

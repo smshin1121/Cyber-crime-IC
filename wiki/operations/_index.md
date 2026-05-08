@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (160 canonical / 27 absorbed / 187 records)
+# Operations (161 canonical / 27 absorbed / 188 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (160)
+## Canonical Operations (161)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -73,6 +73,7 @@ updated: 2026-04-14
 | [[operation-delilah]] | CYB-2022-050 | 2 | completed | umbrella | 5 | 3.75 | 1 |
 | [[black-axe-bec-2021]] | CYB-2022-052 | 3 | completed | umbrella | 4 | 4.40 | 1 |
 | [[marketplace-a-dekhtyarchuk-indictment]] | CYB-2022-054 | 3 | completed | umbrella | 5 | 4.20 | 1 |
+| [[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]] | CYB-2022-201 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[franco-israeli-ceo-fraud]] | CYB-2023-001 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-jackal]] | CYB-2023-002 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | umbrella | 5 | 1.88 | 3 |

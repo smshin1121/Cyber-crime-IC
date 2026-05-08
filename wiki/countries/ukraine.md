@@ -38,6 +38,7 @@ operations_participated:
   - "[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]"
   - "[[operation-avalanche]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 region: eastern-europe
 source_count: 3
 sources:

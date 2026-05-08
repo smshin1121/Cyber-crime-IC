@@ -1,23 +1,19 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: Albanian State Police — Cybercrime Investigation Unit
-  mlat: Ministry of Justice
-cooperation_assessment: Albania is *likely* a cooperative partner on cybercrime due
-  to its early ratification of the Budapest Convention (one of the first states after
-  the core drafters) and its EU candidate status, which incentivizes alignment with
-  EU acquis. Capacity constraints at the cybercrime investigation unit at Tirana Police
-  Headquarters *likely* limit the volume of complex cross-border cases it can handle.
+  budapest: "Albanian State Police — Cybercrime Investigation Unit"
+  mlat: "Ministry of Justice"
+cooperation_assessment: "Albania is *likely* a cooperative partner on cybercrime due"
 created: 2026-04-10
 cybercrime_legislation:
   data_retention: unknown
-  primary_law: Criminal Code (Kodi Penal) as amended, plus Law No. 10054/2008 amending
-    Criminal Procedure Code
-  primary_law_date: '2008-12-29'
+  primary_law: "Criminal Code (Kodi Penal) as amended, plus Law No. 10054/2008 amending"
+  primary_law_date: 2008-12-29
   procedural_powers:
-  - preservation-order
-  - production-order
-  - search-and-seizure
+    - preservation-order
+    - production-order
+    - search-and-seizure
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: unknown
@@ -25,31 +21,36 @@ ic_capacity:
   english_proficiency: medium
   rating: medium
 iso_code: AL
-key_agencies: []
-last_verified: '2026-04-10'
+key_agencies:
+  []
+last_verified: 2026-05-09
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[operation-haechi-vi]]'
-- '[[operation-eur-3m-online-investment-fraud-2025]]'
-- '[[albania-austria-call-centre-investment-fraud-2026]]'
+  - "[[operation-haechi-vi]]"
+  - "[[operation-eur-3m-online-investment-fraud-2025]]"
+  - "[[albania-austria-call-centre-investment-fraud-2026]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 region: balkans
 source_count: 3
-sources: []
-title: Republic of Albania
+sources:
+  []
+title: "Republic of Albania"
 treaty_memberships:
-- date: '2002-06-20'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: ''
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: in-progress
+  - date: 2002-06-20
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: ""
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: in-progress
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
-
 ## Summary
 
 Albania was among the earliest ratifiers of the [[budapest-convention|Budapest Convention on Cybercrime]], depositing its instrument on 20 June 2002 [1]. It signed the Convention on 23 November 2001, the same day it was opened for signature. As an EU candidate country, Albania has pursued legislative alignment with the *acquis communautaire* and with Council of Europe standards on cybercrime.

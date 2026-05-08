@@ -45,6 +45,7 @@ notable_operations:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
+  - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -54,7 +55,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 30
+source_count: 31
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -86,6 +87,7 @@ sources:
   - "[[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost]]"
   - "[[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil]]"
   - "[[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers]]"
+  - "[[2022-11-10_eurojust_massive-investment-fraud-hundreds-thousands-victims]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -179,3 +181,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [28] | [[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost\|International investigation disrupts phishing-as-a-service platform LabHost]] | Europol | 2024-04-18 | https://www.europol.europa.eu/media-press/newsroom/news/international-investigation-disrupts-phishing-service-platform-labhost |
 | [29] | [[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil\|Singapore Police Force Partners INTERPOL And Federal Police Of Brazil In Transnational Operation Against Cybercriminals]] | Singapore Police Force | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_singapore_police_force_partners_interpol_and_federal_police_of_brazil |
 | [30] | [[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers\|Justice Department Announces Coordinated, Nationwide Actions to Combat North Korean Remote Information Technology Workers' Illicit Revenue Generation Schemes]] | US DOJ (OPA), Press Release 25-680 | 2025-06-30 | https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote |
+| [31] | [[2022-11-10_eurojust_massive-investment-fraud-hundreds-thousands-victims\|Eurojust coordinates action against massive investment fraud with hundreds of thousands of victims worldwide]] | Eurojust | 2022-11-10 | https://www.eurojust.europa.eu/news/eurojust-coordinates-action-against-massive-investment-fraud-hundreds-thousands-victims |
