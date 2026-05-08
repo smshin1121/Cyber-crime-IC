@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (141)
+# Countries (150)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -17,6 +17,7 @@ total: 61
 | 🇦🇷 | [[argentina]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇹 | [[austria]] | civil-law | — | unknown | unknown | 1 |
 | 🇦🇺 | [[australia]] | not-assessed | — | unknown | unknown | 0 |
+| 🇦🇼 | [[aruba]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇿 | [[azerbaijan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇧🇦 | [[bosnia-and-herzegovina]] | not-assessed | — | unknown | unknown | 0 |
 | 🇧🇪 | [[belgium]] | civil-law | party (2012) | high | 90-180 | 5 |
@@ -27,6 +28,7 @@ total: 61
 | 🇧🇾 | [[belarus]] | not-assessed | — | unknown | unknown | 0 |
 | 🇧🇿 | [[belize]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇦 | [[canada]] | mixed | party (2015) | high | 90-180 | 5 |
+| 🇨🇫 | [[central-african-republic]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇭 | [[switzerland]] | civil-law | party (2011) | high | 90-180 | 1 |
 | 🇨🇮 | [[cote-divoire]] | civil-law | invited-to-accede (2022) | medium | unknown | 4 |
 | 🇨🇱 | [[chile]] | not-assessed | — | unknown | unknown | 0 |
@@ -62,6 +64,7 @@ total: 61
 |  | [[international]] | mixed | not-assessed | variable | variable | 4 |
 | 🇮🇸 | [[iceland]] | not-assessed | — | unknown | unknown | 0 |
 | 🇮🇹 | [[italy]] | civil-law | party (2008) | high | 90-180 | 6 |
+| 🇯🇴 | [[jordan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 0 |
@@ -81,7 +84,10 @@ total: 61
 | 🇲🇽 | [[mexico]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇾 | [[malaysia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇳🇬 | [[nigeria]] | not-assessed | — | unknown | unknown | 0 |
+| 🇳🇮 | [[nicaragua]] | not-assessed | — | unknown | unknown | 0 |
 | 🇳🇱 | [[netherlands]] | civil-law | party (2006) | high | 60-120 | 5 |
+| 🇳🇵 | [[nepal]] | not-assessed | — | unknown | unknown | 0 |
+| 🇵🇦 | [[panama]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇪 | [[peru]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇰 | [[pakistan]] | not-assessed | — | unknown | unknown | 0 |
@@ -97,14 +103,17 @@ total: 61
 | 🇸🇮 | [[slovenia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇷 | [[suriname]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇸 | [[south-sudan]] | not-assessed | — | unknown | unknown | 0 |
+| 🇸🇿 | [[eswatini]] | not-assessed | — | unknown | unknown | 0 |
 | 🇹🇬 | [[togo]] | civil-law | non-party | low | unknown | 3 |
 | 🇹🇭 | [[thailand]] | civil-law | non-party | medium | unknown | 3 |
+| 🇹🇱 | [[timor-leste]] | not-assessed | — | unknown | unknown | 0 |
 | 🇹🇷 | [[turkey]] | not-assessed | — | unknown | unknown | 0 |
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 2 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 3 |
 | 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 1 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 0 |
+| 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇳 | [[vietnam]] | civil-law | not-assessed | low | unknown | 1 |
 | 🇽🇰 | [[kosovo]] | not-assessed | — | unknown | unknown | 0 |

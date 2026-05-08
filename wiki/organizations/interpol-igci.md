@@ -45,6 +45,7 @@ operations_participated:
   - "[[operation-red-card-2]]"
   - "[[operation-catalyst]]"
   - "[[operation-pangea-xvii]]"
+  - "[[operation-pangea-xviii]]"
 org_type: international-org
 parent_org: "[[interpol]]"
 source_count: 11
@@ -53,7 +54,7 @@ sources:
 status: active
 title: "INTERPOL Global Complex for Innovation (IGCI)"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 > [!info] Updated 2026-04-08
 > Added 6 new operations: Jackal, Jackal III, First Light 2024, HAECHI IV, HAECHI VI, Sentinel Africa.

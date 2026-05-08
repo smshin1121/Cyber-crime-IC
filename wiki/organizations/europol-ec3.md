@@ -106,6 +106,7 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[operation-raptor]]"
   - "[[operation-pangea-xvii]]"
+  - "[[operation-pangea-xviii]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
@@ -119,7 +120,7 @@ sources:
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Current Status (as of 2026-04-10)
 

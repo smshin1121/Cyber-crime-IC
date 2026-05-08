@@ -251,6 +251,7 @@ source_tier: 1
 missing_fields:
 related_cases:
 related_operations:
+  - "[[operation-pangea-xviii]]"
   - "[[operation-dark-huntor]]"
   - "[[operation-onymous]]"
 challenges_encountered:
@@ -265,7 +266,7 @@ sources:
   - "[[2025-06-26_hsa_operation-pangea-xvii-online-listings]]"
 summary: "Operation Pangea XVII was an INTERPOL-coordinated operation from December 2024 to May 2025 targeting the illegal online sale of counterfeit and unapproved medicines. Public sources report activity across approximately 90 countries, 769 arrests, 50.4 million illicit pharmaceutical doses seized, USD 65 million in seizures, 123 criminal groups dismantled, and about 13,000 criminal-linked websites, social media pages, channels, and bots shut down."
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-08
 ---
 # Operation Pangea XVII
 

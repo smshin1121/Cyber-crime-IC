@@ -26,6 +26,7 @@ official_name_ko: "유엔 마약범죄사무소"
 operations_participated:
   - "[[operation-orion-international]]"
   - "[[operation-pangea-xvii]]"
+  - "[[operation-pangea-xviii]]"
 org_type: international-org
 parent_org: "[[united-nations]]"
 source_count: 8
@@ -34,7 +35,7 @@ sources:
 status: active
 title: "United Nations Office on Drugs and Crime (UNODC)"
 type: organization
-updated: "2026-05-03"
+updated: "2026-05-08"
 ---
 ## Summary
 

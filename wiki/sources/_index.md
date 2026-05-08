@@ -6,10 +6,14 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (660)
+# Sources (664)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
+| [[2026-05-07_mhra_operation-pangea-xviii-illegal-medicines]] | press-release | UK Medicines and Healthcare products Regulatory Agency | ? | high | ? |
+| [[2026-05-07_interpol_operation-pangea-xviii-illicit-pharmaceuticals]] | press-release | INTERPOL | ? | high | ? |
+| [[2026-05-07_hsa_operation-pangea-xviii-illegal-health-products]] | press-release | Health Sciences Authority Singapore | ? | high | ? |
+| [[2026-05-07_danish-medicines-agency_operation-pangea-xviii-falsified-medicines]] | press-release | Danish Medicines Agency | ? | high | ? |
 | [[2026-04-18_microsoft-com_gamarue-threat-profile]] | corporate-reference | Microsoft | 3 | medium | ? |
 | [[2026-04-18_europol-europa-eu_carbanak-cobalt-infographic]] | infographic | Europol | 2 | high | ? |
 | [[2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure]] | official-guidance | Federal Office for Information Security (BSI) | 2 | high | ? |
