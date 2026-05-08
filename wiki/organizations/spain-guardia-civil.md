@@ -31,6 +31,7 @@ operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
+  - "[[operation-hyperion]]"
 notable_cases:
 
 contact_point_for:

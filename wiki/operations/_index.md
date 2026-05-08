@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (132 canonical / 27 absorbed / 159 records)
+# Operations (133 canonical / 27 absorbed / 160 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (132)
+## Canonical Operations (133)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -36,6 +36,7 @@ updated: 2026-04-14
 | [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | umbrella | 6 | 2.95 | 2 |
 | [[global-airport-action-day]] | CYB-2016-003 | 1 | completed | umbrella | 5 | 3.60 | 2 |
 | [[bec-nigeria-2016]] | CYB-2016-050 | 1 | completed | umbrella | 5 | 4.00 | 1 |
+| [[operation-hyperion]] | CYB-2016-052 | 1 | completed | umbrella | 6 | 4.20 | 1 |
 | [[andromeda-botnet-takedown]] | CYB-2017-001 | 1 | completed | umbrella | 5 | 3.75 | 2 |
 | [[alphabay-takedown]] | CYB-2017-002 | 1 | completed | umbrella | 5 | 4.00 | 1 |
 | [[carbanak-cobalt-takedown]] | CYB-2018-001 | 1 | completed | umbrella | 5 | 3.50 | 2 |

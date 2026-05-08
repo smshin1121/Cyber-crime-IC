@@ -4,32 +4,69 @@ title: "Operation Hyperion"
 title_ko: "하이페리온 작전"
 aliases:
   - "Operation Hyperion"
-  - "Dark Web FBI Sting Zcash"
-case_id: CYB-2017-050
+  - "International Darknet Marketplace Enforcement Operation"
+case_id: CYB-2016-052
 period: 1
-operation_type: undercover
+operation_type: coordinated-online-market-disruption
 status: completed
 enforcement_type:
   - arrest
   - takedown
 outcome: success
 timeframe:
-  announced: 2017-01-01
-  start: 2017-01-01
-  end: 2017-12-31
+  announced: 2016-10-31
+  start: 2016-10-22
+  end: 2016-10-28
   ongoing: false
 crime_type: "[[dark-web-ic]]"
-target_entity: "Dark web criminal marketplaces"
-lead_agency: "[[fbi-cyber-division]]"
-coordinating_body: ""
+target_entity: "Darknet marketplace buyers and sellers of illicit goods and services"
+lead_agency: "HSI Cyber Division / [[fbi-cyber-division|FBI Cyber Division]]"
+coordinating_body: "[[europol-ec3|Europol]]"
 participating_countries:
   - "[[united-states]]"
+  - "[[australia]]"
+  - "[[canada]]"
+  - "[[new-zealand]]"
+  - "[[united-kingdom]]"
+  - "[[netherlands]]"
+  - "[[france]]"
+  - "[[finland]]"
+  - "[[sweden]]"
+  - "[[ireland]]"
+  - "[[spain]]"
 participating_agencies:
-  - "[[fbi-cyber-division]]"
+  - "[[fbi-cyber-division|FBI Cyber Division]]"
+  - "HSI Cyber Division"
+  - "U.S. Customs and Border Protection"
+  - "[[us-postal-inspection|U.S. Postal Inspection Service]]"
+  - "[[dea|Drug Enforcement Administration]]"
+  - "[[us-secret-service|U.S. Secret Service]]"
+  - "IRS Criminal Investigation"
+  - "ATF"
+  - "[[europol-ec3|Europol]]"
+  - "[[uk-nca|United Kingdom National Crime Agency]]"
+  - "Australian Federal Police"
+  - "New Zealand Police"
+  - "[[canada-rcmp|Royal Canadian Mounted Police]]"
+  - "Canada Post"
+  - "Canada Border Services Agency"
+  - "[[netherlands-politie|Netherlands Police]]"
+  - "[[netherlands-om|Netherlands Public Prosecution Service]]"
+  - "French Customs National Intelligence and Investigations Directorate"
+  - "Finnish Customs"
+  - "[[sweden-police|Swedish Police Authority]]"
+  - "Swedish Customs"
+  - "[[ireland-garda|Garda National Drugs & Organised Crime Bureau]]"
+  - "[[spain-guardia-civil|Guardia Civil]]"
 legal_basis:
-  - "U.S. domestic undercover authority and criminal process"
+  - "Five Eyes Law Enforcement Group cybercrime cooperation"
+  - "Europol operational coordination"
+  - "Domestic criminal process in participating jurisdictions"
 mechanisms_used:
-  - "undercover operation"
+  - "joint operational action week"
+  - "criminal intelligence sharing"
+  - "mail and customs targeting"
+  - "darknet marketplace disruption"
 
 results:
   arrests: 0
@@ -38,23 +75,28 @@ results:
   domains_seized: 0
   cryptocurrency_seized: ""
   decryption_keys_recovered: 0
-  victims_notified: 0
+  victims_notified: 150
   other:
-    - "FBI dark web sting operation targeting Zcash cryptocurrency users"
+    - "Generated law-enforcement leads on Darknet buyers and sellers."
+    - "FBI agents contacted more than 150 U.S. suspects linked to illicit Darknet purchases."
+    - "Dutch authorities identified sellers and several hundred users during the action week."
+    - "New Zealand Police identified national buyers from the worldwide operation."
 edges:
-  - source_actor: FBI
-    target_actor: unknown
-    cooperation_type: joint_investigation
-    legal_basis: unknown
+  - source_actor: FELEG
+    target_actor: member-country cybercrime agencies
+    cooperation_type: multilateral_coordination
+    legal_basis: Five Eyes law-enforcement cooperation
     direction: undirected
-credibility_index: 1.88
-source_tier: 3
+  - source_actor: HSI Cyber Division
+    target_actor: Europol and international partners
+    cooperation_type: operational_coordination
+    legal_basis: domestic criminal process
+    direction: undirected
+credibility_index: 4.20
+source_tier: 1
 missing_fields:
   - legal_basis
-  - mechanisms_used
-  - exact_timeframe
   - results_arrests
-  - participating_countries
 related_cases:
 
 related_operations:
@@ -75,50 +117,86 @@ sources:
   - "[[2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion]]"
   - "[[2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
-summary: "**Operation Hyperion** was an FBI-led sting operation targeting criminal activity on the dark web, with a particular focus on the use of **Zcash** cryptocurrency for illicit transactions. The operation represented law enforcement's evolving capability to investigate privacy-focused cryptocurrencies used by dark web criminals."
+summary: "**Operation Hyperion** was a 22-28 October 2016 multinational action week against illicit Darknet marketplace buyers and sellers. U.S. federal agencies, the Five Eyes Law Enforcement Group, Europol, and European partners coordinated targeting, intelligence sharing, customs/mail screening, and national follow-up actions."
 jurisdictions:
   - "[[united-states]]"
+  - "[[australia]]"
+  - "[[canada]]"
+  - "[[new-zealand]]"
+  - "[[united-kingdom]]"
+  - "[[netherlands]]"
+  - "[[france]]"
+  - "[[finland]]"
+  - "[[sweden]]"
+  - "[[ireland]]"
+  - "[[spain]]"
 organizations:
-  - "[[fbi-cyber-division]]"
+  - "[[fbi-cyber-division|FBI Cyber Division]]"
+  - "[[europol-ec3|Europol]]"
+  - "[[uk-nca]]"
+  - "[[canada-rcmp]]"
+  - "[[netherlands-politie]]"
+  - "[[netherlands-om]]"
+  - "[[sweden-police]]"
+  - "[[ireland-garda]]"
+  - "[[spain-guardia-civil]]"
 crime_types:
   - "[[dark-web-ic]]"
 ---
 ## Summary
 
-**Operation Hyperion** was an FBI-led sting operation targeting criminal activity on the dark web, with a particular focus on the use of **Zcash** cryptocurrency for illicit transactions. The operation represented law enforcement's evolving capability to investigate privacy-focused cryptocurrencies used by dark web criminals.
+**Operation Hyperion** was a 22-28 October 2016 multinational action week against illicit Darknet marketplace buyers and sellers. U.S. federal agencies, the Five Eyes Law Enforcement Group, Europol, and European partners coordinated targeting, intelligence sharing, customs/mail screening, and national follow-up actions.
 
 ## Background
 
-As dark web marketplaces proliferated, criminals increasingly adopted privacy-focused cryptocurrencies like Zcash and Monero to avoid the traceability issues associated with Bitcoin. Operation Hyperion reflected the FBI's efforts to develop investigative techniques capable of penetrating these privacy-enhancing technologies.
+Darknet marketplaces created a recurring international-cooperation problem: buyers, vendors, marketplace infrastructure, postal flows, payment records, and customs interdiction points were distributed across several jurisdictions. ICE described Operation Hyperion as a first step toward a more unified global law-enforcement response to those marketplaces.
 
 ## Participating Parties
 
-### Lead Agency
-- [[fbi-cyber-division|FBI Cyber Division]]
+### Coordination
+- HSI Cyber Division coordinated the operation, with U.S. federal agencies, FELEG partners, Europol, and European national agencies participating.
+
+### Participating Countries
+- [[united-states|United States]]
+- [[australia|Australia]]
+- [[canada|Canada]]
+- [[new-zealand|New Zealand]]
+- [[united-kingdom|United Kingdom]]
+- [[netherlands|Netherlands]]
+- [[france|France]]
+- [[finland|Finland]]
+- [[sweden|Sweden]]
+- [[ireland|Ireland]]
+- [[spain|Spain]]
 
 > [!info] Legal-basis note
-> The full scope of participating agencies and countries needs verification from official sources.
+> The structured country list follows the ICE source, which names FELEG jurisdictions and additional European partners for the action week.
 
 ## Legal Framework
 
-Specific legal bases have not been identified from available public sources.
+The public releases do not identify a single treaty instrument. The record supports a practical cooperation model built around FELEG criminal-intelligence cooperation, Europol operational support, and domestic criminal process in the participating jurisdictions.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| ~2017 | Operation Hyperion dark web sting conducted |
+| 2016-10-22 to 2016-10-28 | Operation Hyperion action week against illicit Darknet marketplace activity |
+| 2016-10-31 | ICE and Dutch Public Prosecution Service public releases describe the operation |
+| 2016-11-01 | FBI and New Zealand Police publish follow-up accounts |
 
 ## Results and Impact
 
-Specific operational results (arrests, seizures) are not detailed in the available public source.
+The public record emphasizes lead generation and user/vendor identification rather than arrest totals. ICE stated that the operation generated law-enforcement leads on Darknet cases. The FBI reported contacts with more than 150 U.S. individuals suspected of buying illicit goods, while the Dutch and New Zealand sources document national follow-up against identified sellers and buyers.
 
 ## Cooperation Mechanisms Used
 
-Details not available from public source.
+1. Joint action week across participating jurisdictions.
+2. Criminal-intelligence sharing through FELEG and Europol-linked partners.
+3. Customs and postal targeting for Darknet marketplace shipments.
+4. National follow-up interviews, identifications, and disruption messaging.
 
 ## Korean Involvement (한국의 참여)
 
@@ -127,9 +205,8 @@ No Korean involvement identified.
 ## Contradictions & Open Questions
 
 - What were the specific operational outcomes (arrests, seizures)?
-- Which countries were involved beyond the United States?
-- What investigative techniques were developed for Zcash tracing?
-- What was the exact operational period?
+- Which leads became formal prosecutions or later marketplace investigations?
+- Which legal instruments were used for cross-border evidence exchange?
 
 ## Follow-Up Actions
 
@@ -152,8 +229,8 @@ No Korean involvement identified.
 
 ## Evidence and Attribution Notes
 
-- **Operation Hyperion** was an FBI-led sting operation targeting criminal activity on the dark web, with a particular focus on the use of **Zcash** cryptocurrency for illicit transactions.
-- The operation represented law enforcement's evolving capability to investigate privacy-focused cryptocurrencies used by dark web criminals.
+- **Operation Hyperion** was a multinational law-enforcement action week targeting illicit Darknet marketplace buyers and sellers.
+- The operation represented an early attempt to coordinate a more unified global enforcement response to Darknet marketplace abuse.
 - The FBI described Operation Hyperion as a successful international action aimed at disrupting illicit DarkNet marketplaces.
 - The article linked the initiative to the Five Eyes Law Enforcement Group's cybercrime efforts.
 - The FBI described **Operation Hyperion** as an international action aimed at disrupting illicit DarkNet marketplaces.
@@ -178,15 +255,15 @@ No Korean involvement identified.
 
 ## Canonical Operation Assessment
 
-This page is retained as a canonical operation because it describes a undercover against Dark web criminal marketplaces, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Fbi Cyber Division, with participating or affected jurisdictions recorded as United States.
+This page is retained as a canonical operation because it describes a coordinated multinational action week against illicit Darknet marketplace activity, rather than a defendant-specific follow-on action. The record attributes coordination to HSI Cyber Division, FELEG, Europol, and named national partners, with participating or affected jurisdictions recorded as United States, Australia, Canada, New Zealand, United Kingdom, Netherlands, France, Finland, Sweden, Ireland, and Spain.
 
-The cooperation model is documented through named agencies and partners: Fbi Cyber Division; enforcement posture: Arrest and Takedown.
+The cooperation model is documented through named agencies and partners: HSI Cyber Division; FBI Cyber Division; Europol; United Kingdom NCA; Australian Federal Police; New Zealand Police; Canada RCMP; Netherlands Police and Public Prosecution Service; French, Finnish, Swedish, Irish, and Spanish authorities; enforcement posture: coordinated online-market disruption.
 
-Operational results captured for the canonical record: FBI dark web sting operation targeting Zcash cryptocurrency users.
+Operational results captured for the canonical record: Darknet marketplace leads, more than 150 U.S. suspect contacts, Dutch seller/user identification, and New Zealand buyer identification.
 
 The canonical source set contains 6 reference(s): 2017 01 01 Cyberscoop Com Dark Web Fbi Sting Zcash Operation Hyperion, 2016 11 01 Fbi Gov A Primer On Darknet Marketplaces, 2016 10 31 Ice Gov International Darknet Marketplace Enforcement Operation, 2016 11 01 Police Govt Nz Kiwi Darknet Illegal Drug Buyers Identified During Worldwide Operation, 2016 10 31 Om Nl Darknet Website In Wereldwijde Actieweek Operation Hyperion, 2016 11 08 Helpnetsecurity Com Dutch Police Takes Over Darknet Market.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
-Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Exact Timeframe, Results Arrests, Participating Countries.
+Known metadata gaps still carried by this page: specific treaty/legal-process channels and arrest/prosecution outcomes.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
 When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
 This keeps the canonical record analytically bounded and reproducible.

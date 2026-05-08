@@ -109,6 +109,7 @@ operations_participated:
   - "[[operation-cookie-monster]]"
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
+  - "[[operation-hyperion]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

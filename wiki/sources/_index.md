@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (624)
+# Sources (630)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -527,6 +527,7 @@ updated: 2026-04-14
 | [[2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look]] | report | Eurojust | 2 | high | ? |
 | [[2017-03-14_wdpa_moldovan-sentenced-distributing-multifunction-malware-package]] | press-release | U.S. Attorney's Office, Western District of Pennsylvania | ? | high | ? |
 | [[2017-01-01_europol-socta-2017_global-action-against-airline-fraudsters]] | report | Europol | ? | high | ? |
+| [[2017-01-01_cyberscoop-com_dark-web-fbi-sting-zcash-operation-hyperion]] | press-release | CyberScoop | ? | medium | ? |
 | [[2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme]] | press-release | DOJ D. Conn. | ? | high | ? |
 | [[2016-12-20_dct_odufuye-nwoke-bec-indictment]] | court-document | US DOJ (District of Connecticut) | ? | high | ? |
 | [[2016-12-16_meritalk-com_fbi-tries-to-curb-young-ddos-hackers]] | news | MeriTalk | ? | medium | ? |
@@ -537,6 +538,11 @@ updated: 2026-04-14
 | [[2016-12-12_pcworld-com_dozens-arrested-in-international-ddos-for-hire-crackdown]] | news | PCWorld | ? | medium | ? |
 | [[2026-04-18_justice-gov_avalanche-network-dismantled-international-cyber-operation]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2016-11-30_europol-europa-eu_avalanche-network-dismantled-in-international-cyber-operation]] | press-release | Europol | ? | high | ? |
+| [[2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market]] | news | Help Net Security | ? | medium | ? |
+| [[2016-11-01_police-govt-nz_kiwi-darknet-illegal-drug-buyers-identified-during-worldwide-operation]] | press-release | New Zealand Police | ? | high | ? |
+| [[2016-11-01_fbi-gov_a-primer-on-darknet-marketplaces]] | official-article | FBI | ? | high | ? |
+| [[2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion]] | press-release | Openbaar Ministerie | ? | high | ? |
+| [[2016-10-31_ice-gov_international-darknet-marketplace-enforcement-operation]] | press-release | U.S. Immigration and Customs Enforcement | ? | high | ? |
 | [[2016-10-20_interpol-int_global-airport-action-day-40-countries-nab-193-suspects-in-cybercrime-sting]] | press-release | INTERPOL | ? | high | ? |
 | [[2016-10-19_interpol-int_global-airport-action-day-targets-airline-ticket-fraudsters]] | government | INTERPOL | ? | high | ? |
 | [[2016-10-19_ilmetropolitano-it_global-action-against-airline-fraudsters-193-detained]] | news | Il Metropolitano | ? | medium | ? |

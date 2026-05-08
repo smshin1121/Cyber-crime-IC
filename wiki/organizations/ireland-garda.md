@@ -22,6 +22,7 @@ cooperation_partners:
   - "[[europol-ec3]]"
 operations_participated:
   - "[[operation-kraken-ghost-platform]]"
+  - "[[operation-hyperion]]"
 source_count: 3
 sources:
   - "[[2022-10-14_garda-ie_interpol-operation-jackal-ireland-operation-skein-14th-october-2022]]"

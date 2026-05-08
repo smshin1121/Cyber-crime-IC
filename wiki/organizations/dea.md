@@ -23,6 +23,7 @@ operations_participated:
   - "[[operation-us-v-vallerius-dream-market]]"
   - "[[nemesis-market-takedown]]"
   - "[[operation-raptor]]"
+  - "[[operation-hyperion]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"

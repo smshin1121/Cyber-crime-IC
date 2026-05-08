@@ -24,6 +24,7 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[operation-cookie-monster]]"
   - "[[operation-firewall]]"
+  - "[[operation-hyperion]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
 source_count: 3

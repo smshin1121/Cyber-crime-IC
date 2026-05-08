@@ -29,6 +29,7 @@ mechanisms_operated:
 operations_participated:
   - "[[qakbot-gallyamov-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-hyperion]]"
 notable_cases:
   []
 contact_point_for:

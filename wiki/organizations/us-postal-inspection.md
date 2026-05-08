@@ -22,6 +22,7 @@ operations_participated:
   - "[[operation-us-v-olatunji-dawodu-and-alex-ogando]]"
   - "[[operation-wirewire]]"
   - "[[operation-trident-breach]]"
+  - "[[operation-hyperion]]"
 cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"

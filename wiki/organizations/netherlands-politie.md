@@ -59,6 +59,7 @@ operations_participated:
   - "[[operation-firewall]]"
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
+  - "[[operation-hyperion]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

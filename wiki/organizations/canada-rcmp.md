@@ -39,6 +39,7 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
   - "[[operation-card-shop]]"
+  - "[[operation-hyperion]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
 source_count: 3

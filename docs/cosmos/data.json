@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-07T23:48:53Z",
+  "generated_at": "2026-05-08T02:22:15Z",
   "root": null,
   "stats": {
-    "total_nodes": 1273,
-    "total_edges": 11948,
+    "total_nodes": 1280,
+    "total_edges": 12042,
     "broken_links": 0,
     "orphans": 107,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 159,
+      "operation": 160,
       "organization": 146,
       "procedure": 2,
-      "source": 624
+      "source": 630
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 132
+      "canonical_operation": 133
     }
   },
   "nodes": [
@@ -51,7 +51,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 58,
+      "degree": 60,
       "path": "wiki/analysis/absorbed-wrapper-source-normalization-2026-04-26.md",
       "meta": {}
     },
@@ -107,7 +107,7 @@
       "source_count": 0,
       "created": "2026-04-27",
       "updated": "2026-04-27",
-      "degree": 107,
+      "degree": 108,
       "path": "wiki/analysis/canonical-operation-assessment-enrichment-2026-04-27.md",
       "meta": {}
     },
@@ -121,7 +121,7 @@
       "source_count": 0,
       "created": "2026-04-27",
       "updated": "2026-04-27",
-      "degree": 107,
+      "degree": 108,
       "path": "wiki/analysis/canonical-operation-enrichment-queue-2026-04-27.md",
       "meta": {}
     },
@@ -135,7 +135,7 @@
       "source_count": 0,
       "created": "2026-04-27",
       "updated": "2026-04-27",
-      "degree": 58,
+      "degree": 59,
       "path": "wiki/analysis/canonical-operation-raw-highlights-2026-04-27.md",
       "meta": {}
     },
@@ -149,7 +149,7 @@
       "source_count": 0,
       "created": "2026-04-27",
       "updated": "2026-04-27",
-      "degree": 107,
+      "degree": 108,
       "path": "wiki/analysis/canonical-operation-source-enrichment-2026-04-27.md",
       "meta": {}
     },
@@ -163,7 +163,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 45,
+      "degree": 46,
       "path": "wiki/analysis/content-depth-audit-2026-04-26.md",
       "meta": {}
     },
@@ -177,7 +177,7 @@
       "source_count": 0,
       "created": "2026-04-27",
       "updated": "2026-04-27",
-      "degree": 88,
+      "degree": 89,
       "path": "wiki/analysis/content-depth-audit-2026-04-27.md",
       "meta": {}
     },
@@ -205,7 +205,7 @@
       "source_count": 0,
       "created": "2026-05-03",
       "updated": "2026-05-03",
-      "degree": 88,
+      "degree": 89,
       "path": "wiki/analysis/content-depth-audit-2026-05-03.md",
       "meta": {}
     },
@@ -289,7 +289,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-after-harvest-batch1-2026-04-29.md",
       "meta": {}
     },
@@ -303,7 +303,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 84,
+      "degree": 85,
       "path": "wiki/analysis/content-depth-audit-recursive-after-harvest-batch2-2026-04-29.md",
       "meta": {}
     },
@@ -317,7 +317,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-after-jina-trim-2026-04-29.md",
       "meta": {}
     },
@@ -331,7 +331,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-after-lower-risk-cleanup-2026-04-29.md",
       "meta": {}
     },
@@ -345,7 +345,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-after-malware-classification-2026-04-29.md",
       "meta": {}
     },
@@ -359,7 +359,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-after-metadata-batch2-2026-04-29.md",
       "meta": {}
     },
@@ -373,7 +373,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-after-metadata-batch3-2026-04-29.md",
       "meta": {}
     },
@@ -387,7 +387,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-after-operation-audit-repair-2026-04-29.md",
       "meta": {}
     },
@@ -401,7 +401,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-after-question-artifact-cleanup-2026-04-29.md",
       "meta": {}
     },
@@ -415,7 +415,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 85,
+      "degree": 86,
       "path": "wiki/analysis/content-depth-audit-recursive-after-raw-underused-repair-2026-04-29.md",
       "meta": {}
     },
@@ -429,7 +429,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 84,
+      "degree": 85,
       "path": "wiki/analysis/content-depth-audit-recursive-after-terminal-harvest-2026-04-29.md",
       "meta": {}
     },
@@ -457,7 +457,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-final-2026-04-29.md",
       "meta": {}
     },
@@ -513,7 +513,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-postbuild-harvest-cycle-2026-04-29.md",
       "meta": {}
     },
@@ -597,7 +597,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-audit-recursive-wrapper-body-normalized-2026-04-29.md",
       "meta": {}
     },
@@ -611,7 +611,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-menu-final-2026-04-29.md",
       "meta": {}
     },
@@ -625,7 +625,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-menu-final2-2026-04-29.md",
       "meta": {}
     },
@@ -639,7 +639,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 86,
+      "degree": 87,
       "path": "wiki/analysis/content-depth-menu-start-2026-04-29.md",
       "meta": {}
     },
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 132 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 159 | | Period 1 (pre-2019) | 32 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 133 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 160 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -765,7 +765,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 119,
+      "degree": 120,
       "path": "wiki/analysis/multisource-content-enrichment-2026-04-26.md",
       "meta": {}
     },
@@ -779,7 +779,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 119,
+      "degree": 120,
       "path": "wiki/analysis/multisource-content-enrichment-queue-2026-04-26.md",
       "meta": {}
     },
@@ -793,7 +793,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-07",
-      "degree": 0,
+      "degree": 1,
       "path": "wiki/analysis/non-ic-public-exclusion-audit-2026-05-06.md",
       "meta": {}
     },
@@ -807,7 +807,7 @@
       "source_count": 0,
       "created": "2026-04-19",
       "updated": "2026-04-29",
-      "degree": 66,
+      "degree": 67,
       "path": "wiki/analysis/operation-audit-queue-2026-04.md",
       "meta": {}
     },
@@ -821,7 +821,7 @@
       "source_count": 0,
       "created": "2026-04-22",
       "updated": "2026-04-22",
-      "degree": 42,
+      "degree": 43,
       "path": "wiki/analysis/operation-low-source-triage-2026-04-22.md",
       "meta": {}
     },
@@ -1521,7 +1521,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 69,
+      "degree": 70,
       "path": "wiki/analysis/targeted-content-enrichment-2026-04-26.md",
       "meta": {}
     },
@@ -1935,7 +1935,7 @@
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 78,
+      "degree": 80,
       "path": "wiki/countries/australia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2242,7 +2242,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 55,
+      "degree": 57,
       "path": "wiki/countries/canada.md",
       "meta": {
         "legal_system": "mixed",
@@ -2600,7 +2600,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 23,
+      "degree": 25,
       "path": "wiki/countries/finland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2618,7 +2618,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 89,
+      "degree": 91,
       "path": "wiki/countries/france.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2923,7 +2923,7 @@
       "source_count": 0,
       "created": "2026-04-11",
       "updated": "2026-05-03",
-      "degree": 21,
+      "degree": 23,
       "path": "wiki/countries/ireland.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3411,7 +3411,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 131,
+      "degree": 133,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3429,7 +3429,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 7,
       "path": "wiki/countries/new-zealand.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3869,7 +3869,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 64,
+      "degree": 66,
       "path": "wiki/countries/spain.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3920,7 +3920,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 42,
+      "degree": 44,
       "path": "wiki/countries/sweden.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4127,7 +4127,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-04-21",
-      "degree": 145,
+      "degree": 147,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4145,7 +4145,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 211,
+      "degree": 213,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -4441,7 +4441,7 @@
       "source_count": 4,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/crime-types/dark-web-ic.md",
       "meta": {}
     },
@@ -5663,7 +5663,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 94,
+      "degree": 95,
       "path": "wiki/operations/alphabay-takedown.md",
       "meta": {
         "status": "completed",
@@ -7072,7 +7072,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 99,
+      "degree": 100,
       "path": "wiki/operations/operation-dark-huntor.md",
       "meta": {
         "status": "completed",
@@ -7760,6 +7760,31 @@
         "operation_type": "infrastructure-seizure",
         "outcome": "success",
         "results_arrests": 21,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operation-hyperion",
+      "type": "operation",
+      "title": "Operation Hyperion",
+      "title_ko": "하이페리온 작전",
+      "aliases": [
+        "Operation Hyperion",
+        "International Darknet Marketplace Enforcement Operation"
+      ],
+      "summary": "Operation Hyperion was a 22-28 October 2016 multinational action week against illicit Darknet marketplace buyers and sellers. U.S. federal agencies, the Five Eyes Law Enforcement Group, Europol, and European partners coordinated targeting,…",
+      "source_count": 6,
+      "created": "2026-04-08",
+      "updated": "2026-05-08",
+      "degree": 92,
+      "path": "wiki/operations/operation-hyperion.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "coordinated-online-market-disruption",
+        "outcome": "success",
+        "results_arrests": 0,
         "operation_scope": "canonical_operation"
       }
     },
@@ -9258,7 +9283,7 @@
       "source_count": 7,
       "created": "2026-04-10",
       "updated": "2026-04-27",
-      "degree": 56,
+      "degree": 57,
       "path": "wiki/operations/silk-road-takedown.md",
       "meta": {
         "status": "completed",
@@ -9735,7 +9760,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 49,
+      "degree": 51,
       "path": "wiki/organizations/canada-rcmp.md",
       "meta": {
         "org_type": "national-unit",
@@ -9927,7 +9952,7 @@
       "source_count": 5,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 23,
+      "degree": 25,
       "path": "wiki/organizations/dea.md",
       "meta": {
         "org_type": "federal-law-enforcement",
@@ -10055,7 +10080,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 417,
+      "degree": 420,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -10091,7 +10116,7 @@
       "source_count": 12,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 252,
+      "degree": 255,
       "path": "wiki/organizations/fbi-cyber-division.md",
       "meta": {
         "org_type": "national-agency",
@@ -10566,7 +10591,7 @@
       "source_count": 3,
       "created": "2026-04-12",
       "updated": "2026-04-29",
-      "degree": 12,
+      "degree": 14,
       "path": "wiki/organizations/ireland-garda.md",
       "meta": {
         "org_type": "national-unit",
@@ -11098,7 +11123,7 @@
       "source_count": 3,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 13,
+      "degree": 15,
       "path": "wiki/organizations/netherlands-om.md",
       "meta": {
         "org_type": "prosecution-office",
@@ -11133,7 +11158,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 110,
+      "degree": 112,
       "path": "wiki/organizations/netherlands-politie.md",
       "meta": {
         "org_type": "national-unit",
@@ -11635,7 +11660,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 17,
+      "degree": 19,
       "path": "wiki/organizations/spain-guardia-civil.md",
       "meta": {
         "org_type": "national-unit",
@@ -11739,7 +11764,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 23,
       "path": "wiki/organizations/sweden-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11914,7 +11939,7 @@
       "source_count": 13,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 125,
+      "degree": 127,
       "path": "wiki/organizations/uk-nca.md",
       "meta": {
         "org_type": "national-agency",
@@ -12124,7 +12149,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 16,
+      "degree": 18,
       "path": "wiki/organizations/us-postal-inspection.md",
       "meta": {
         "org_type": "federal-law-enforcement",
@@ -12159,7 +12184,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 59,
+      "degree": 61,
       "path": "wiki/organizations/us-secret-service.md",
       "meta": {
         "org_type": "national-unit",
@@ -13498,6 +13523,76 @@
       "meta": {}
     },
     {
+      "id": "2016-10-31_ice-gov_international-darknet-marketplace-enforcement-operation",
+      "type": "source",
+      "title": "Law enforcement agencies around the world collaborate on international Darknet marketplace enforcement operation",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary ICE identified Operation Hyperion as a globally coordinated action conducted from 22 to 28 October 2016. ## Relevance to IC This source adds an official DHS-side anchor for operation-hyperion.",
+      "source_count": 0,
+      "created": "2026-04-23",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2016-10-31_ice-gov_international-darknet-marketplace-enforcement-operation.md",
+      "meta": {}
+    },
+    {
+      "id": "2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion",
+      "type": "source",
+      "title": "OM en politie lanceren darknet website in wereldwijde actieweek",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The Dutch Public Prosecution Service described its darknet-site action as one of the Dutch measures under Operation Hyperion. ## Relevance to IC This source adds a Dutch official perspective for operation-hyperion.",
+      "source_count": 0,
+      "created": "2026-04-23",
+      "updated": null,
+      "degree": 2,
+      "path": "wiki/sources/2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion.md",
+      "meta": {}
+    },
+    {
+      "id": "2016-11-01_fbi-gov_a-primer-on-darknet-marketplaces",
+      "type": "source",
+      "title": "A Primer on DarkNet Marketplaces",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary The FBI described Operation Hyperion as an international action aimed at disrupting illicit DarkNet marketplaces. ## Relevance to IC This source upgrades operation-hyperion with an official FBI citation.",
+      "source_count": 0,
+      "created": "2026-04-23",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2016-11-01_fbi-gov_a-primer-on-darknet-marketplaces.md",
+      "meta": {}
+    },
+    {
+      "id": "2016-11-01_police-govt-nz_kiwi-darknet-illegal-drug-buyers-identified-during-worldwide-operation",
+      "type": "source",
+      "title": "Kiwi darknet illegal drug buyers identified during worldwide operation",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary New Zealand Police described Operation Hyperion as a coordinated effort targeting buyers and sellers of illegal goods on darknet markets. ## Relevance to IC This source adds a Five Eyes partner perspective for operation-hyperion.",
+      "source_count": 0,
+      "created": "2026-04-23",
+      "updated": null,
+      "degree": 2,
+      "path": "wiki/sources/2016-11-01_police-govt-nz_kiwi-darknet-illegal-drug-buyers-identified-during-worldwide-operation.md",
+      "meta": {}
+    },
+    {
+      "id": "2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market",
+      "type": "source",
+      "title": "Dutch police takes over darknet market, posts warning",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Help Net Security reported that Dutch police actions formed part of Operation Hyperion. ## Relevance to IC This source adds independent reporting for operation-hyperion.",
+      "source_count": 0,
+      "created": "2026-04-23",
+      "updated": null,
+      "degree": 2,
+      "path": "wiki/sources/2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market.md",
+      "meta": {}
+    },
+    {
       "id": "2016-11-30_europol-europa-eu_avalanche-network-dismantled-in-international-cyber-operation",
       "type": "source",
       "title": "'Avalanche' network dismantled in international cyber operation",
@@ -13593,6 +13688,20 @@
       "updated": null,
       "degree": 13,
       "path": "wiki/sources/2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme.md",
+      "meta": {}
+    },
+    {
+      "id": "2017-01-01_cyberscoop-com_dark-web-fbi-sting-zcash-operation-hyperion",
+      "type": "source",
+      "title": "Dark Web FBI Sting Zcash — Operation Hyperion",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Operation Hyperion was an FBI-led sting operation targeting criminal activity on the dark web, with a particular focus on the use of Zcash cryptocurrency for illicit transactions. The operation represented law enforcement's…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": null,
+      "degree": 0,
+      "path": "wiki/sources/2017-01-01_cyberscoop-com_dark-web-fbi-sting-zcash-operation-hyperion.md",
       "meta": {}
     },
     {
@@ -21095,6 +21204,18 @@
     },
     {
       "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2016-10-31_ice-gov_international-darknet-marketplace-enforcement-operation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2016-11-01_fbi-gov_a-primer-on-darknet-marketplaces",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
       "target": "2024-02-20_europol_operation-cronos-lockbit",
       "kind": "body",
       "directed": false
@@ -22451,6 +22572,12 @@
     },
     {
       "source": "canonical-operation-assessment-enrichment-2026-04-27",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "canonical-operation-assessment-enrichment-2026-04-27",
       "target": "operation-cronos-phase3",
       "kind": "body",
       "directed": false
@@ -23093,6 +23220,12 @@
     },
     {
       "source": "canonical-operation-enrichment-queue-2026-04-27",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "canonical-operation-enrichment-queue-2026-04-27",
       "target": "operation-cronos-phase3",
       "kind": "body",
       "directed": false
@@ -23681,6 +23814,12 @@
     },
     {
       "source": "canonical-operation-raw-highlights-2026-04-27",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "canonical-operation-raw-highlights-2026-04-27",
       "target": "operation-cronos-phase3",
       "kind": "body",
       "directed": false
@@ -24078,6 +24217,12 @@
     {
       "source": "canonical-operation-source-enrichment-2026-04-27",
       "target": "operation-endgame-phase1",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "canonical-operation-source-enrichment-2026-04-27",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
@@ -24623,6 +24768,12 @@
     },
     {
       "source": "content-depth-audit-2026-04-26",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-2026-04-26",
       "target": "operation-nightfury",
       "kind": "body",
       "directed": false
@@ -24893,6 +25044,12 @@
     },
     {
       "source": "content-depth-audit-2026-04-27",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-2026-04-27",
       "target": "operation-nightfury",
       "kind": "body",
       "directed": false
@@ -25421,6 +25578,12 @@
     },
     {
       "source": "content-depth-audit-2026-05-03",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-2026-05-03",
       "target": "operation-nightfury",
       "kind": "body",
       "directed": false
@@ -25967,6 +26130,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-harvest-batch1-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-harvest-batch1-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -26483,6 +26652,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-harvest-batch2-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-harvest-batch2-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -26982,6 +27157,12 @@
     {
       "source": "content-depth-audit-recursive-after-jina-trim-2026-04-29",
       "target": "operation-contender-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-jina-trim-2026-04-29",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
@@ -27503,6 +27684,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-lower-risk-cleanup-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-lower-risk-cleanup-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -28019,6 +28206,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-malware-classification-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-malware-classification-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -28535,6 +28728,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-metadata-batch2-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-metadata-batch2-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -29051,6 +29250,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-metadata-batch3-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-metadata-batch3-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -29567,6 +29772,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-operation-audit-repair-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-operation-audit-repair-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -30083,6 +30294,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-question-artifact-cleanup-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-question-artifact-cleanup-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -30599,6 +30816,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-raw-underused-repair-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-raw-underused-repair-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -31109,6 +31332,12 @@
     },
     {
       "source": "content-depth-audit-recursive-after-terminal-harvest-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-after-terminal-harvest-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -31608,6 +31837,12 @@
     {
       "source": "content-depth-audit-recursive-final-2026-04-29",
       "target": "operation-contender-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-final-2026-04-29",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
@@ -32178,6 +32413,12 @@
     {
       "source": "content-depth-audit-recursive-postbuild-harvest-cycle-2026-04-29",
       "target": "operation-contender-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-postbuild-harvest-cycle-2026-04-29",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
@@ -32784,6 +33025,12 @@
     {
       "source": "content-depth-audit-recursive-wrapper-body-normalized-2026-04-29",
       "target": "operation-contender-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-recursive-wrapper-body-normalized-2026-04-29",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
@@ -33335,6 +33582,12 @@
     },
     {
       "source": "content-depth-menu-final-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-menu-final-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -33851,6 +34104,12 @@
     },
     {
       "source": "content-depth-menu-final2-2026-04-29",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-menu-final2-2026-04-29",
       "target": "operation-kraken-ghost-platform",
       "kind": "body",
       "directed": false
@@ -34332,6 +34591,12 @@
     {
       "source": "content-depth-menu-start-2026-04-29",
       "target": "operation-contender-2",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-menu-start-2026-04-29",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
@@ -35495,6 +35760,12 @@
     },
     {
       "source": "multisource-content-enrichment-2026-04-26",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "multisource-content-enrichment-2026-04-26",
       "target": "operation-nightfury",
       "kind": "body",
       "directed": false
@@ -36209,6 +36480,12 @@
     },
     {
       "source": "multisource-content-enrichment-queue-2026-04-26",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "multisource-content-enrichment-queue-2026-04-26",
       "target": "operation-nightfury",
       "kind": "body",
       "directed": false
@@ -36766,6 +37043,12 @@
       "directed": false
     },
     {
+      "source": "non-ic-public-exclusion-audit-2026-05-06",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-audit-queue-2026-04",
       "target": "operation-orion-international",
       "kind": "body",
@@ -36918,6 +37201,12 @@
     {
       "source": "operation-audit-queue-2026-04",
       "target": "carding-action-2020",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-audit-queue-2026-04",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
@@ -37398,6 +37687,12 @@
     {
       "source": "operation-low-source-triage-2026-04-22",
       "target": "operation-eur-3m-online-investment-fraud-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-low-source-triage-2026-04-22",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
@@ -44412,6 +44707,12 @@
     {
       "source": "targeted-content-enrichment-2026-04-26",
       "target": "operation-eur-100m-crypto-investment-fraud-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "targeted-content-enrichment-2026-04-26",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
@@ -65164,6 +65465,246 @@
       "directed": false
     },
     {
+      "source": "operation-hyperion",
+      "target": "europol-ec3",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "dark-web-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "fbi-cyber-division",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "fbi-cyber-division",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "us-postal-inspection",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "dea",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "us-secret-service",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "uk-nca",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "canada-rcmp",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "netherlands-politie",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "netherlands-om",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "sweden-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "ireland-garda",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "spain-guardia-civil",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "australia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "canada",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "new-zealand",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "finland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "sweden",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "ireland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "spain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "silk-road-takedown",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "alphabay-takedown",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "operation-dark-huntor",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "united-states",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "australia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "canada",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "new-zealand",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "united-kingdom",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "netherlands",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "france",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "finland",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "sweden",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "ireland",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-hyperion",
+      "target": "spain",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-jackal-iii",
       "target": "interpol-igci",
       "kind": "coordinating_body",
@@ -76541,6 +77082,12 @@
     },
     {
       "source": "canada-rcmp",
+      "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "canada-rcmp",
       "target": "canada-rcmp-federal-policing",
       "kind": "parent_org",
       "directed": true
@@ -76980,6 +77527,12 @@
     {
       "source": "dea",
       "target": "operation-raptor",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "dea",
+      "target": "operation-hyperion",
       "kind": "operations_participated",
       "directed": true
     },
@@ -78047,6 +78600,12 @@
     },
     {
       "source": "europol-ec3",
+      "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
       "target": "operation-cronos-phase1",
       "kind": "body",
       "directed": false
@@ -78234,6 +78793,12 @@
     {
       "source": "fbi-cyber-division",
       "target": "operation-endgame-phase2",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi-cyber-division",
+      "target": "operation-hyperion",
       "kind": "operations_participated",
       "directed": true
     },
@@ -80369,6 +80934,12 @@
     },
     {
       "source": "ireland-garda",
+      "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ireland-garda",
       "target": "ireland-garda-siochana",
       "kind": "parent_org",
       "directed": true
@@ -81545,6 +82116,12 @@
     },
     {
       "source": "netherlands-om",
+      "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "netherlands-om",
       "target": "netherlands-politie",
       "kind": "body",
       "directed": false
@@ -81810,6 +82387,12 @@
     {
       "source": "netherlands-politie",
       "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "netherlands-politie",
+      "target": "operation-hyperion",
       "kind": "operations_participated",
       "directed": true
     },
@@ -83050,6 +83633,12 @@
       "directed": true
     },
     {
+      "source": "spain-guardia-civil",
+      "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "spain-national-police",
       "target": "spain-guardia-civil",
       "kind": "cooperation_partners",
@@ -83304,6 +83893,12 @@
     {
       "source": "sweden-police",
       "target": "operation-firewall",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "sweden-police",
+      "target": "operation-hyperion",
       "kind": "operations_participated",
       "directed": true
     },
@@ -84048,6 +84643,12 @@
     {
       "source": "uk-nca",
       "target": "operation-blackshades",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "uk-nca",
+      "target": "operation-hyperion",
       "kind": "operations_participated",
       "directed": true
     },
@@ -85115,6 +85716,12 @@
     },
     {
       "source": "us-postal-inspection",
+      "target": "operation-hyperion",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-postal-inspection",
       "target": "operation-wirewire",
       "kind": "body",
       "directed": false
@@ -85284,6 +85891,12 @@
     {
       "source": "us-secret-service",
       "target": "operation-open-market",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-secret-service",
+      "target": "operation-hyperion",
       "kind": "operations_participated",
       "directed": true
     },
@@ -86400,6 +87013,66 @@
     {
       "source": "2016-10-19_interpol-int_global-airport-action-day-targets-airline-ticket-fraudsters",
       "target": "global-airport-action-day",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2016-10-31_ice-gov_international-darknet-marketplace-enforcement-operation",
+      "target": "operation-hyperion",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2016-10-31_ice-gov_international-darknet-marketplace-enforcement-operation",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion",
+      "target": "operation-hyperion",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2016-11-01_fbi-gov_a-primer-on-darknet-marketplaces",
+      "target": "operation-hyperion",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2016-11-01_fbi-gov_a-primer-on-darknet-marketplaces",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2016-11-01_police-govt-nz_kiwi-darknet-illegal-drug-buyers-identified-during-worldwide-operation",
+      "target": "operation-hyperion",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2016-11-01_police-govt-nz_kiwi-darknet-illegal-drug-buyers-identified-during-worldwide-operation",
+      "target": "operation-hyperion",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market",
+      "target": "operation-hyperion",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market",
+      "target": "operation-hyperion",
       "kind": "body",
       "directed": false
     },
