@@ -51,13 +51,14 @@ notable_operations:
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
+  - "[[us-v-chen-zhi-prince-group-edny-2025]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 34
+source_count: 35
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -93,6 +94,7 @@ sources:
   - "[[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million]]"
   - "[[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm]]"
   - "[[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia]]"
+  - "[[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -190,3 +192,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [32] | [[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million\|International takedown of cryptocurrency fraud network laundering over EUR 700 million]] | Europol | 2025-11-26 | https://www.europol.europa.eu/media-press/newsroom/news/international-takedown-of-cryptocurrency-fraud-network-laundering-over-eur-700-million |
 | [33] | [[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm\|Busted: Police shut down Bangkok-based investment scam centre targeting Australians]] | Australian Federal Police | 2025-06-17 | https://www.afp.gov.au/news-centre/media-release/busted-police-shut-down-bangkok-based-investment-scam-centre-targeting |
 | [34] | [[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia\|U.S. and U.K. Take Largest Action Ever Targeting Cybercriminal Networks in Southeast Asia (Prince Group TCO + Huione Group)]] | US Department of the Treasury | 2025-10-14 | https://home.treasury.gov/news/press-releases/sb0278 |
+| [35] | [[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds\|Chairman of Prince Group Indicted for Operating Cambodian Forced-Labor Scam Compounds]] | US DOJ (OPA), Press Release 25-1,031 | 2025-10-14 | https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds |

@@ -46,6 +46,7 @@ notable_cases:
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
   - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
+  - "[[us-v-chen-zhi-prince-group-edny-2025]]"
 ---
 ## Summary
 

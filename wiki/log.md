@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | DOJ-OPA 2025-10-14 — Chairman of Prince Group indicted for Cambodian forced-labor scam compounds + USD 15B BTC forfeiture (EDNY, parallel track to OFAC/UK sanctions)
+- Source: `raw/press-releases/2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds.md` (DOJ-OPA Press Release 25-1,031; tier-1 primary)
+- Pages created: [[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds]] (source summary), [[us-v-chen-zhi-prince-group-edny-2025]] (case page)
+- Pages updated: [[united-states]], [[united-kingdom]], [[cambodia]], [[fbi]], [[us-doj]], [[office-of-international-affairs]], [[uk-nca]], [[online-fraud-ic]], [[money-laundering-ic]], [[organized-crime-ic]] (sources + body Reference rows where applicable), [[us-uk-prince-group-tco-huione-group-sanctions-2025]] (related_cases cross-link).
+- Key findings: EDNY indictment of Chen Zhi (Cambodia, 37, founder/chairman Prince Holding Group, at large) for wire-fraud and money-laundering conspiracy directing 10+ Cambodian forced-labor scam compounds running cryptocurrency-investment ('pig butchering') fraud; concurrent civil forfeiture complaint against ~127,271 BTC (USD 15B+) — the largest forfeiture in DOJ history. Documents 'spraying' + 'funneling' crypto-laundering techniques and phone-farm scam-compound infrastructure. Establishes the case-on-operation pattern paired with [[us-uk-prince-group-tco-huione-group-sanctions-2025|US-UK October 2025 sanctions]] (concurrent administrative + criminal action).
+
 ## [2026-05-09] enrichment | Europol 2025-11-26 — Operation Olympia / Cryptomixer takedown (DE-CH, complement to existing 2025-12-01 Eurojust release)
 - Source: `raw/press-releases/2025-11-26_europol_cryptomixer-operation-olympia-takedown.md` (Europol newsroom press release; tier-1 primary)
 - Pages created: [[2025-11-26_europol_cryptomixer-operation-olympia-takedown]] (source summary)

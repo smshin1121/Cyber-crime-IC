@@ -91,13 +91,15 @@ missing_fields:
   - "specific cryptocurrency seizure totals associated with the Huione Section 311 action"
   - "post-2025-10-14 procedural status of the Chen Zhi EDNY case"
   - "specific UK OFSI 12-target designation list (referenced but not enumerated in the cited Treasury release)"
-related_cases: []
+related_cases:
+  - "[[us-v-chen-zhi-prince-group-edny-2025]]"
 related_operations:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[cryptex-pm2btc-sanctions]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "First wiki record of an OFAC + FinCEN + UK FCDO + UK OFSI four-channel coordinated sanctions action against a Southeast Asian cyber-scam network. Establishes the January 2025 OFAC-OFSI MOU as the foundational US-UK bilateral sanctions instrument."
   - "First wiki record of FinCEN Section 311 used against a Southeast Asian scam-laundering conglomerate (Huione Group). Structurally complementary to the [[cryptex-pm2btc-sanctions|Cryptex/Pm2BTC sanctions]] applied to a Russia-linked crypto exchange."

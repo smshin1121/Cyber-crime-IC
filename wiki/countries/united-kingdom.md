@@ -30,6 +30,7 @@ last_verified: 2026-05-09
 legal_system: common-law
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[us-v-chen-zhi-prince-group-edny-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

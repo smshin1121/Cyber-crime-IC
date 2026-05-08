@@ -44,7 +44,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 17
+source_count: 18
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -63,6 +63,7 @@ sources:
   - "[[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm]]"
   - "[[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia]]"
   - "[[2025-11-26_europol_cryptomixer-operation-olympia-takedown]]"
+  - "[[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -137,3 +138,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [15] | [[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm\|Busted: Police shut down Bangkok-based investment scam centre targeting Australians]] | Australian Federal Police | 2025-06-17 | https://www.afp.gov.au/news-centre/media-release/busted-police-shut-down-bangkok-based-investment-scam-centre-targeting |
 | [16] | [[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia\|U.S. and U.K. Take Largest Action Ever Targeting Cybercriminal Networks in Southeast Asia (Prince Group TCO + Huione Group)]] | US Department of the Treasury | 2025-10-14 | https://home.treasury.gov/news/press-releases/sb0278 |
 | [17] | [[2025-11-26_europol_cryptomixer-operation-olympia-takedown\|Europol and partners shut down 'Cryptomixer' (Operation Olympia)]] | Europol | 2025-11-26 | https://www.europol.europa.eu/media-press/newsroom/news/europol-and-partners-shut-down-cryptomixer |
+| [18] | [[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds\|Chairman of Prince Group Indicted for Operating Cambodian Forced-Labor Scam Compounds]] | US DOJ (OPA), Press Release 25-1,031 | 2025-10-14 | https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds |
