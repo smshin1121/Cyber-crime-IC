@@ -146,6 +146,10 @@ Eurojust's structured country tag list identifies Italy, Romania, Spain, and the
 
 Eurojust is the anchor source for judicial coordination, the Taken Down follow-on relationship, participating-country tags, and the Italian/Romanian disruption results. ACE supplies the operation name, private-sector cooperation context, Catania/Italian State Police leadership, Interpol support, and additional platform and action-location detail. The DOJ ICHIP source independently corroborates the Operation Switch Off name, Romanian searches, Italian platform seizures, rightsholder loss reporting, and Romanian server evidence.
 
+## Korean Involvement (한국의 참여)
+
+Eurojust's narrative explicitly names South Korea as one of the cooperating jurisdictions for Operation Switch Off, and ACE corroborates Korea among the global action-location countries. The released sources do not break down which Korean agency or judicial authority participated, what evidence flowed across the Korea border, or whether Korean nationals are among the 31 identified suspects. Likely candidate Korean coordinating channels include the [[supreme-prosecutors-office-korea|Supreme Prosecutors' Office]] central authority for international cooperation and the [[knpa-cyber-bureau|Korean National Police Agency cyber bureau]]. Specific Korean attribution should be confirmed against a Korean-language source (KNPA press release, Supreme Prosecutors' Office release, or Korean media coverage) before being asserted in country-page back-links.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
