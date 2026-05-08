@@ -28,6 +28,7 @@ notable_cases:
   - "[[us-v-dragomir-romanian-iab]]"
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:

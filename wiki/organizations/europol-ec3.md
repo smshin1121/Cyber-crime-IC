@@ -21,6 +21,7 @@ mechanisms_operated:
 member_states: 27
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 official_name: "European Cybercrime Centre"
 official_name_ko: "유럽사이버범죄센터"
 operations_participated:

@@ -15,15 +15,18 @@ defendants:
     status: "pleaded guilty 2025-12-18 to conspiracy to commit computer fraud (1 count); sentencing scheduled 2026-05-06; maximum penalty 10 years"
     sentence: ""
     location_at_arrest: "Spain (June 2024); extradited to US on 2025-04-30"
-related_operation: ""
+related_operation:
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: "US-Spain bilateral extradition coordinated by DOJ Office of International Affairs and Spanish law enforcement authorities; arrest June 2024 in Spain, transferred to US custody on 2025-04-30"
   evidence_from_abroad:
     - "[[spain]]"
   foreign_arrests:
     - "[[spain]]"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
   - "[[fbi]]"

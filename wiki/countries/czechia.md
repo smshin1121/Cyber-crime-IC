@@ -20,6 +20,7 @@ assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 ---
 ## Summary
 

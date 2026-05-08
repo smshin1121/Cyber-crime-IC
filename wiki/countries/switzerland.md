@@ -1,26 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: fedpol (Federal Office of Police)
-  mlat: Federal Office of Justice (Bundesamt für Justiz, BJ)
-cooperation_assessment: Switzerland is a *highly capable* cybercrime cooperation partner
-  with a strong tradition of responding to MLA requests — particularly those involving
-  financial flows, Swiss-hosted servers, and cryptocurrency exchanges based in Zug
-  ('Crypto Valley'). Switzerland ratified the Budapest Convention on 21 September
-  2011 and implemented supplementary provisions via art. 143bis para. 2 of the Swiss
-  Criminal Code. *Almost certainly* an important partner for operations targeting
-  money laundering and crypto-enabled cybercrime.
+  budapest: "fedpol (Federal Office of Police)"
+  mlat: "Federal Office of Justice (Bundesamt für Justiz, BJ)"
+cooperation_assessment: "Switzerland is a *highly capable* cybercrime cooperation partner"
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: BÜPF (Federal Act on the Surveillance of Post and Telecommunications)
-  primary_law: Swiss Criminal Code (StGB/CP) arts. 143, 143bis, 144bis, 147, 150;
-    Criminal Procedure Code (StPO/CPP)
-  primary_law_date: '1937'
+  data_retention: "BÜPF (Federal Act on the Surveillance of Post and Telecommunications)"
+  primary_law: "Swiss Criminal Code (StGB/CP) arts. 143, 143bis, 144bis, 147, 150;"
+  primary_law_date: 1937
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -29,36 +23,38 @@ ic_capacity:
   rating: high
 iso_code: CH
 key_agencies:
-- '[[switzerland-fedpol]]'
-- '[[switzerland-ncsc]]'
-last_verified: '2026-04-14'
+  - "[[switzerland-fedpol]]"
+  - "[[switzerland-ncsc]]"
+last_verified: 2026-05-09
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 operations_participated:
-- '[[de-ch-crypto-mixer-takedown-2025]]'
-- '[[doublevpn-takedown]]'
-- '[[operation-dark-huntor]]'
-- '[[operation-contender-2]]'
-- '[[operation-us-v-vyacheslav-igorevich-penchukov]]'
-- '[[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]]'
+  - "[[de-ch-crypto-mixer-takedown-2025]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-contender-2]]"
+  - "[[operation-us-v-vyacheslav-igorevich-penchukov]]"
+  - "[[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]]"
 region: western-europe
 source_count: 1
 sources:
-- '[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]'
-title: Swiss Confederation
+  - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
+title: "Swiss Confederation"
 treaty_memberships:
-- date: '2011-09-21'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2011-09-21
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-09
 ---
-
 ## Summary
 
 Switzerland is a **high-capability cybercrime cooperation partner**, particularly important for **financial and cryptocurrency investigations** given its role as a global financial hub and the presence of the "Crypto Valley" ecosystem in Zug. Switzerland ratified the [[budapest-convention|Budapest Convention]] on **21 September 2011**.

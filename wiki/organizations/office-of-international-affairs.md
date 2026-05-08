@@ -42,6 +42,7 @@ notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-dragomir-romanian-iab]]"
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 ---
 ## Summary
 

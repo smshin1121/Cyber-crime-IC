@@ -29,6 +29,7 @@ legal_system: civil-law
 notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
   - "[[us-v-stryzhak-nefilim]]"
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 operations_participated:
   - "[[emotet-takedown]]"
   - "[[darkmarket-takedown]]"
@@ -43,11 +44,11 @@ title: Ukraine
 treaty_memberships:
   - date: 2005-09-10
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
 updated: 2026-05-09

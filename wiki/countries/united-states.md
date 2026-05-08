@@ -36,6 +36,7 @@ notable_cases:
   - "[[us-v-dragomir-romanian-iab]]"
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

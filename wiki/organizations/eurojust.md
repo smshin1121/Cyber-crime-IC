@@ -14,13 +14,13 @@ frameworks_administered:
 headquarters: "The Hague, Netherlands"
 key_roles:
 
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 mandate: "EU judicial cooperation agency facilitating cross-border criminal investigations"
 mechanisms_operated:
 
 member_states: 27
 notable_cases:
-
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 official_name: "European Union Agency for Criminal Justice Cooperation (Eurojust)"
 official_name_ko: "유럽연합 형사사법협력기구 (유로저스트)"
 operations_participated:
@@ -82,7 +82,7 @@ sources:
 status: active
 title: Eurojust
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Current Status (as of 2026-04-10)
 

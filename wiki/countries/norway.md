@@ -2,7 +2,7 @@
 created: 2026-04-10
 ic_capacity: not-assessed
 iso_code: NO
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: not-assessed
 operations_participated:
   - "[[operation-avalanche]]"
@@ -15,10 +15,12 @@ title: "Kingdom of Norway"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 ---
 ## Summary
 

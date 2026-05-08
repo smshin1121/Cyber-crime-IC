@@ -32,6 +32,7 @@ legal_system: civil-law
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -54,11 +55,11 @@ title: "French Republic"
 treaty_memberships:
   - date: 2006-01-10
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
 updated: 2026-05-09

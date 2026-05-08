@@ -26,10 +26,11 @@ iso_code: DE
 key_agencies:
   - "[[germany-bka]]"
   - "[[zit-frankfurt]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -77,7 +78,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

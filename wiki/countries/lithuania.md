@@ -16,11 +16,13 @@ source_count: 0
 sources:
 
 created: 2026-04-10
-updated: 2026-05-08
+updated: 2026-05-09
 status: needs-official-source-ingestion
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
 ---
 ## Summary
 

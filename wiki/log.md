@@ -865,3 +865,16 @@
   - **Korean angle**: DOJ release explicitly references the **October 2023 joint US-ROK guidance** on DPRK IT worker threats — public-record bilateral US-Korea cooperation reference embedded in a non-Korean-victim DPRK-revenue-generation prosecution.
   - First wiki entry for North Korea / DPRK as a country page (stub) — establishes DPRK as a non-cooperative threat-source state in the public IC corpus.
   - Verbatim DPRK IT worker collective revenue: hundreds of millions of dollars annually; individual workers up to USD 300,000/year for designated entities including DPRK Ministry of Defense.
+
+
+## [2026-05-09] ingest | DOJ 2025-09-09 — U.S. v Tymoshchuk (LockerGoga/MegaCortex/Nefilim administrator-tier)
+- Source: raw/press-releases/2025-09-09_justice-gov_lockergoga-megacortex-nefilim-ransomware-administrator-tymoshchuk-charged.md (DOJ Press Release 25-929, full-text via TLS-spoof)
+- Pages created: wiki/cases/us-v-tymoshchuk-nefilim-megacortex-lockergoga.md, wiki/sources/2025-09-09_justice-gov_lockergoga-megacortex-nefilim-ransomware-administrator-tymoshchuk-charged.md
+- Pages updated: 10 country pages (US, UA, FR, CZ, DE, LT, LU, NL, NO, CH — `notable_cases`), 5 organization pages (us-doj, fbi, office-of-international-affairs, europol-ec3, eurojust — `notable_cases`), 2 crime-type pages (ransomware-ic — `notable_cases` + sources; hacking-ic — `notable_cases`), and 1 sister case (us-v-stryzhak-nefilim — `related_operation` now points to this admin-tier case). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - Volodymyr Viktorovich Tymoshchuk (Ukrainian, aliases deadforz/Boba/msfv/farnetwork) charged in EDNY superseding indictment with administering LockerGoga/MegaCortex/Nefilim ransomware schemes from December 2018 to October 2021. Fugitive; US State Department TOC reward up to USD 11 million.
+  - Administrator-tier counterpart to the Stryzhak affiliate-tier prosecution. The two cases together provide the most complete public-record administrator-affiliate cross-attribution for a single ransomware-as-a-service cluster in the wiki corpus. The 20% administrator/affiliate revenue split is documented in both releases.
+  - Multilateral cooperation roster: 9 countries (FR, CZ, DE, LT, LU, NL, NO, CH, UA) plus Europol and Eurojust via ICHIP The Hague.
+  - 250+ US victims plus hundreds worldwide; named victim countries: US, France, Germany, Netherlands, Norway, Switzerland.
+  - September 2022 No More Ransomware Project decryption-key release for LockerGoga + MegaCortex documented as concrete public-record outcome of the underlying multilateral investigation, complementing the named-suspect indictment approach.
+  - Charges: 7 counts including 2 conspiracy counts, 3 intentional-damage counts, 1 unauthorized-access count, and 1 threat-to-disclose-confidential-information count.
