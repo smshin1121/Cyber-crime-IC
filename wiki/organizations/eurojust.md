@@ -79,6 +79,7 @@ operations_participated:
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[matrix-encrypted-messaging-takedown-2024]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

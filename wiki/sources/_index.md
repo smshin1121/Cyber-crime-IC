@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (709)
+# Sources (710)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -263,6 +263,7 @@ updated: 2026-04-14
 | [[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-nca-disrupts-multi-billion-money-laundering-networks]] | press-release | National Crime Agency | ? | high | ? |
 | [[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]] | press-release | UK National Crime Agency | 1 | high | ? |
 | [[2024-12-04_computerweekly-com_nca-takes-out-network-that-laundered-ransomware-payments]] | news | Computer Weekly | 3 | medium-high | ? |
+| [[2024-12-03_europol_matrix-encrypted-messaging-service-takedown]] | press-release | Europol | ? | high | ? |
 | [[2024-12-03_dig-watch_interpol-and-south-korea-lead-operation-arresting-over-5500-cybercrime-suspects]] | news | Digital Watch Observatory | ? | medium | ? |
 | [[2024-12-02-interpol-operation-haechi-v]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-11-28_dia-interno-gov-it_operazione-taken-down]] | press-release | Direzione Investigativa Antimafia | ? | high | ? |

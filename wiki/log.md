@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | Europol 2024-12-03 — MATRIX encrypted messaging service takedown (NL-FR JIT + Europol OTF, NL/FR/DE/IT/LT/ES 6-country)
+- Source: `raw/press-releases/2024-12-03_europol_matrix-encrypted-messaging-service-takedown.md` (Europol newsroom press release; tier-1 primary)
+- Pages created: [[2024-12-03_europol_matrix-encrypted-messaging-service-takedown]] (source summary), [[matrix-encrypted-messaging-takedown-2024]] (operation, case_id `CYB-2024-203`)
+- Pages updated: 6 country pages (NL/FR/DE/IT/LT/ES) operations_participated; 7 org pages (dutch-police/france-national-police/germany-bka/lithuania-police/spain-national-police/europol-ec3/eurojust) operations_participated; [[cybercrime-infrastructure-ic]] + [[organized-crime-ic]] (notable_operations + sources + body Reference rows); [[europol-jit]] + [[european-arrest-warrant]] (operations_using); related_operations cross-link to [[operation-kraken-ghost-platform]]; index/master indexes reconciled.
+- Key findings: 2024-12-03 action day in 4 countries: 3 arrests (1 FR + 2 ES under EAW from NL); 13 house searches (1 FR + 6 ES + 6 LT); main MATRIX servers in France and Germany taken down (40+ total servers across several countries). Predecessor service to Sky ECC/EncroChat/Exclu/Ghost. NL-FR JIT at Eurojust + Europol Operational Task Force (June 2024 onwards, 5 countries: NL/FR/LT/IT/ES). German technical expertise (Frankfurt am Main ZIT + BKA) + Italian Antimafia Directorate support. 3-month live interception phase: 2.3M+ messages in 33 languages intercepted and deciphered. Splash-page user warning deployed post-takedown. First wiki record of: Europol Operational Task Force (OTF) as discrete IC coordination mechanism class distinct from JIT/J-CAT; encrypted-comms-platform takedown chronology (Sky ECC → EncroChat → Exclu → Ghost → MATRIX) in primary IC documentation.
+
 ## [2026-05-09] ingest | DOJ 2026-04-27 — US v. Xu Zewei (HAFNIUM / COVID-19 research, PRC MSS contract hacker extradited from Italy)
 - Source: `raw/press-releases/2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy.md` (DOJ-OPA Press Release 26-404; tier-1 primary)
 - Pages created: [[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]] (source summary), [[us-v-xu-zewei-hafnium-extradited-italy]] (case)

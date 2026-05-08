@@ -51,6 +51,7 @@ operations_using:
   - "[[operation-stream-kidflix]]"
   - "[[operation-talent]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[matrix-encrypted-messaging-takedown-2024]]"
 cases_using:
 
 related_mechanisms:

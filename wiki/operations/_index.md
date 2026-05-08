@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (166 canonical / 27 absorbed / 193 records)
+# Operations (167 canonical / 27 absorbed / 194 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (166)
+## Canonical Operations (167)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -109,6 +109,7 @@ updated: 2026-04-14
 | [[operation-soga-x]] | CYB-2024-055 | 3 | completed | umbrella | 3 | 4.25 | 1 |
 | [[operation-cronos-phase2]] | CYB-2024-201 | 2 | completed | phase | 1 | 4.00 | 1 |
 | [[labhost-phishing-as-a-service-takedown-2024]] | CYB-2024-202 | 2 | completed | — | 1 | 4.00 | 1 |
+| [[matrix-encrypted-messaging-takedown-2024]] | CYB-2024-203 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | umbrella | 5 | — | — |
 | [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | umbrella | 5 | — | — |

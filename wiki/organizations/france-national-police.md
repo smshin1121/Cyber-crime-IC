@@ -5,8 +5,7 @@ contact_point_for:
 
 country: "[[france]]"
 jurisdiction:
-  -
-    - france
+
 created: 2026-04-10
 established: 2023-11-23
 headquarters: "Nanterre, France"
@@ -27,6 +26,7 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[operation-power-off]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
+  - "[[matrix-encrypted-messaging-takedown-2024]]"
 org_type: national-unit
 parent_org: "Direction Nationale de la Police Judiciaire (Police Nationale, Ministry"
 source_count: 3

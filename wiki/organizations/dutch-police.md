@@ -34,6 +34,7 @@ operations_participated:
   - "[[operation-disruptor]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[operation-power-off-2025-05]]"
+  - "[[matrix-encrypted-messaging-takedown-2024]]"
 org_type: national-agency
 parent_org: "[[netherlands-politie]]"
 source_count: 3

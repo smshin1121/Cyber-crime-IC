@@ -66,6 +66,7 @@ operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-power-off-2025-05]]"
+  - "[[matrix-encrypted-messaging-takedown-2024]]"
 region: western-europe
 source_count: 5
 sources:

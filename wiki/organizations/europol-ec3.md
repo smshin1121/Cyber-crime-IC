@@ -128,6 +128,7 @@ operations_participated:
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[operation-power-off-2025-05]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
+  - "[[matrix-encrypted-messaging-takedown-2024]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

@@ -5,14 +5,13 @@ contact_point_for:
 
 country: "[[lithuania]]"
 jurisdiction:
-  -
-    - lithuania
+
 created: 2026-04-10
 established: unknown
 headquarters: "Saltoniškių g. 19, Vilnius 08105, Lithuania"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-09
 mandate: "Central criminal police authority of Lithuania with nationwide (non-territorial)"
 notable_cases:
 
@@ -24,6 +23,7 @@ operations_participated:
   - "[[romania-phishing-takedown-2024]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
+  - "[[matrix-encrypted-messaging-takedown-2024]]"
 org_type: national-unit
 parent_org: "Policijos departamentas prie LR VRM (Police Department under the Ministry"
 source_count: 3
@@ -32,7 +32,7 @@ sources:
 status: active
 title: "Lithuanian Criminal Police Bureau — Cybercrime Unit"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

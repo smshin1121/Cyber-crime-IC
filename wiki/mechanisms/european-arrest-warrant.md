@@ -3,12 +3,14 @@ type: mechanism
 title: "European Arrest Warrant"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-04-29
-last_verified: 2026-04-10
+updated: 2026-05-09
+last_verified: 2026-05-09
 source_count: 1
 sources:
   - "[[europol-fraudulent-shopping-sites-takedown]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[matrix-encrypted-messaging-takedown-2024]]"
 ---
 ## Summary
 
