@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T03:39:34Z",
+  "generated_at": "2026-05-08T04:02:52Z",
   "root": null,
   "stats": {
-    "total_nodes": 1294,
-    "total_edges": 12211,
+    "total_nodes": 1300,
+    "total_edges": 12240,
     "broken_links": 0,
     "orphans": 106,
     "by_type": {
@@ -19,7 +19,7 @@
       "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 642
+      "source": 648
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
@@ -51,7 +51,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 65,
+      "degree": 69,
       "path": "wiki/analysis/absorbed-wrapper-source-normalization-2026-04-26.md",
       "meta": {}
     },
@@ -65,7 +65,7 @@
       "source_count": 0,
       "created": "2026-04-27",
       "updated": "2026-04-27",
-      "degree": 44,
+      "degree": 45,
       "path": "wiki/analysis/absorbed-wrapper-source-normalization-2026-04-27.md",
       "meta": {}
     },
@@ -79,7 +79,7 @@
       "source_count": 0,
       "created": "2026-04-28",
       "updated": "2026-04-28",
-      "degree": 56,
+      "degree": 57,
       "path": "wiki/analysis/absorbed-wrapper-source-normalization-2026-04-28.md",
       "meta": {}
     },
@@ -93,7 +93,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 56,
+      "degree": 57,
       "path": "wiki/analysis/absorbed-wrapper-source-normalization-2026-04-29.md",
       "meta": {}
     },
@@ -4404,7 +4404,7 @@
       "source_count": 4,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 28,
+      "degree": 30,
       "path": "wiki/crime-types/cybercrime-infrastructure-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -4625,7 +4625,7 @@
       "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-04-14",
-      "degree": 92,
+      "degree": 91,
       "path": "wiki/crime-types/online-fraud-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -7945,10 +7945,10 @@
         "OTF NEXT"
       ],
       "summary": "Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled Ghost, a dedicated encrypted communications platform built and used exclusively by organized crime…",
-      "source_count": 1,
+      "source_count": 7,
       "created": "2026-04-10",
-      "updated": "2026-04-29",
-      "degree": 77,
+      "updated": "2026-05-08",
+      "degree": 89,
       "path": "wiki/operations/operation-kraken-ghost-platform.md",
       "meta": {
         "status": "completed",
@@ -9643,7 +9643,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 47,
+      "degree": 52,
       "path": "wiki/organizations/australia-afp.md",
       "meta": {
         "org_type": "national-agency",
@@ -10113,7 +10113,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 222,
+      "degree": 225,
       "path": "wiki/organizations/eurojust.md",
       "meta": {
         "org_type": "regional-org",
@@ -10132,7 +10132,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 420,
+      "degree": 425,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -17322,8 +17322,64 @@
       "source_count": 0,
       "created": "2026-04-17",
       "updated": null,
-      "degree": 3,
+      "degree": 4,
       "path": "wiki/sources/2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups",
+      "type": "source",
+      "title": "51 arrests in wide-scale operation to take down encrypted communication platform used by organised crime groups",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Eurojust's press release adds the judicial-cooperation view of the Ghost platform takedown. It confirms the France-United States joint investigation team, the Europol operational taskforce, and the nine-country coordination…",
+      "source_count": 0,
+      "created": "2026-04-25",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested",
+      "type": "source",
+      "title": "Ghost cybercrime platform dismantled in global operation, 51 arrested",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled Ghost, a dedicated encrypted communications platform built and used exclusively…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": null,
+      "degree": 4,
+      "path": "wiki/sources/2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh",
+      "type": "source",
+      "title": "Police announce takedown and arrest mastermind behind criminal comms platform 'Ghost'",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled Ghost, a dedicated encrypted communications platform built and used exclusively…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform",
+      "type": "source",
+      "title": "51 arrests made in global takedown of Ghost crime platform",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled Ghost, a dedicated encrypted communications platform built and used exclusively…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": null,
+      "degree": 4,
+      "path": "wiki/sources/2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform.md",
       "meta": {}
     },
     {
@@ -17537,6 +17593,20 @@
       "meta": {}
     },
     {
+      "id": "2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator",
+      "type": "source",
+      "title": "$9m in crypto seized from accused Ghost app creator",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled Ghost, a dedicated encrypted communications platform built and used exclusively…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": null,
+      "degree": 4,
+      "path": "wiki/sources/2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator.md",
+      "meta": {}
+    },
+    {
       "id": "2024-10-03_thehackernews-com_interpol-arrests-8-in-major-phishing-and-romance-fraud-crackdown-in-west-africa",
       "type": "source",
       "title": "INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa",
@@ -17646,6 +17716,20 @@
       "updated": "2026-05-07",
       "degree": 2,
       "path": "wiki/sources/2024-10-21_agb_operation-soga-x-illegal-football-betting.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested",
+      "type": "source",
+      "title": "12 members of an Irish high-risk criminal network arrested",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled Ghost, a dedicated encrypted communications platform built and used exclusively…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": null,
+      "degree": 6,
+      "path": "wiki/sources/2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested.md",
       "meta": {}
     },
     {
@@ -21514,6 +21598,30 @@
     },
     {
       "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
       "target": "2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania",
       "kind": "body",
       "directed": false
@@ -21790,6 +21898,12 @@
     },
     {
       "source": "absorbed-wrapper-source-normalization-2026-04-27",
+      "target": "2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-27",
       "target": "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
       "kind": "body",
       "directed": false
@@ -22061,6 +22175,12 @@
     {
       "source": "absorbed-wrapper-source-normalization-2026-04-28",
       "target": "2025-03-28_cde-ual-es_12-members-of-an-irish-high-risk-criminal-network-arrested",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-28",
+      "target": "2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested",
       "kind": "body",
       "directed": false
     },
@@ -22397,6 +22517,12 @@
     {
       "source": "absorbed-wrapper-source-normalization-2026-04-29",
       "target": "2025-03-28_cde-ual-es_12-members-of-an-irish-high-risk-criminal-network-arrested",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-29",
+      "target": "2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested",
       "kind": "body",
       "directed": false
     },
@@ -50122,6 +50248,12 @@
     },
     {
       "source": "cybercrime-infrastructure-ic",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "cybercrime-infrastructure-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -66892,7 +67024,7 @@
     },
     {
       "source": "operation-kraken-ghost-platform",
-      "target": "online-fraud-ic",
+      "target": "cybercrime-infrastructure-ic",
       "kind": "crime_type",
       "directed": true
     },
@@ -66947,6 +67079,12 @@
     {
       "source": "operation-kraken-ghost-platform",
       "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-kraken-ghost-platform",
+      "target": "eurojust",
       "kind": "participating_agencies",
       "directed": true
     },
@@ -67067,6 +67205,12 @@
     {
       "source": "operation-kraken-ghost-platform",
       "target": "operation-trojan-shield",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-kraken-ghost-platform",
+      "target": "eurojust",
       "kind": "body",
       "directed": false
     },
@@ -79072,6 +79216,12 @@
     },
     {
       "source": "eurojust",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
       "target": "europol-ec3",
       "kind": "body",
       "directed": false
@@ -90568,12 +90718,84 @@
     },
     {
       "source": "2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app",
       "target": "australia-afp",
       "kind": "body",
       "directed": false
     },
     {
       "source": "2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested",
+      "target": "australia-afp",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh",
+      "target": "australia-afp",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform",
+      "target": "australia-afp",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform",
       "target": "europol-ec3",
       "kind": "body",
       "directed": false
@@ -90777,6 +90999,24 @@
       "directed": false
     },
     {
+      "source": "2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator",
+      "target": "australia-afp",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2024-10-03_thehackernews-com_interpol-arrests-8-in-major-phishing-and-romance-fraud-crackdown-in-west-africa",
       "target": "operation-contender-2",
       "kind": "pages_updated",
@@ -90845,6 +91085,24 @@
     {
       "source": "2024-10-21_agb_operation-soga-x-illegal-football-betting",
       "target": "operation-soga-x",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested",
+      "target": "operation-kraken-ghost-platform",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested",
+      "target": "australia-afp",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested",
+      "target": "europol-ec3",
       "kind": "body",
       "directed": false
     },

@@ -12,6 +12,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - operation-kraken-ghost-platform
 
 key_findings:
   - "Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled **Ghost**, a dedicated encrypted communications platform built and used exclusively by organized crime networks worldwide. The operation culminated on September 17-18, 2024, with near-simultaneous raids across Australia, Ireland, Italy, Canada, and Sweden. The platform's alleged creator and administrator, **Jay Je Yoon Jung** (32, of New South."

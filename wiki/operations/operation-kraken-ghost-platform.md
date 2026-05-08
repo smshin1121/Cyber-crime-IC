@@ -20,7 +20,7 @@ timeframe:
   start: 2022-03
   end: 2024-09-18
   ongoing: false
-crime_type: "[[online-fraud-ic|Online Fraud]]"
+crime_type: "[[cybercrime-infrastructure-ic|Cybercrime Infrastructure Disruption]]"
 target_entity: "Ghost encrypted communications platform"
 lead_agency: "[[australia-afp|Australian Federal Police (AFP)]]"
 coordinating_body: "[[europol-ec3|Europol]]"
@@ -37,6 +37,7 @@ participating_countries:
 participating_agencies:
   - "[[australia-afp|Australian Federal Police (AFP)]]"
   - "[[europol-ec3|Europol]]"
+  - "[[eurojust|Eurojust]]"
   - "[[fbi-cyber-division|FBI]]"
   - "[[france-gendarmerie|French Gendarmerie]]"
   - "[[canada-rcmp|Royal Canadian Mounted Police (RCMP)]]"
@@ -69,11 +70,17 @@ results:
     - "About 700 AFP members mobilized"
     - "12 additional Irish arrests in follow-up operation"
     - "Servers in France and Iceland seized"
-source_count: 1
+source_count: 7
 sources:
   - "[[2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app]]"
+  - "[[2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups]]"
+  - "[[2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]]"
+  - "[[2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform]]"
+  - "[[2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh]]"
+  - "[[2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator]]"
+  - "[[2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested]]"
 created: 2026-04-10
-updated: 2026-04-29
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 related_operations:
@@ -94,6 +101,7 @@ jurisdictions:
 organizations:
   - "[[australia-afp|Australian Federal Police (AFP)]]"
   - "[[europol-ec3|Europol]]"
+  - "[[eurojust|Eurojust]]"
   - "[[fbi-cyber-division|FBI]]"
   - "[[france-gendarmerie|French Gendarmerie]]"
   - "[[canada-rcmp|Royal Canadian Mounted Police (RCMP)]]"
@@ -102,6 +110,7 @@ organizations:
   - "[[italy-dcsa|Italian Central Directorate for Anti-Drug Service]]"
   - "[[sweden-police|Swedish Police Authority]]"
 crime_types:
+  - "[[cybercrime-infrastructure-ic|Cybercrime Infrastructure Disruption]]"
   - "[[online-fraud-ic|Online Fraud]]"
 ---
 ## Summary
@@ -156,6 +165,7 @@ Ghost is part of a series of encrypted criminal communications platforms that la
 
 **Coordinating Body:**
 - [[europol-ec3|Europol]] — Operational Taskforce (OTF) NEXT
+- [[eurojust|Eurojust]] - judicial coordination and France-United States joint investigation team support
 
 **OTF NEXT Members:**
 - [[fbi-cyber-division|FBI]] (co-lead of OTF NEXT)
@@ -322,6 +332,7 @@ No known direct Korean involvement in Operation Kraken or the Ghost platform inv
 ## Source Coverage
 
 - Australian Federal Police, 2024-09-18: AFP Operation Kraken charges alleged head of global organised crime app.
+- Eurojust, 2024-09-18: 51 arrests in wide-scale operation to take down encrypted communication platform used by organised crime groups.
 - Europol, 2024-11-01: 12 members of an Irish high-risk criminal network arrested.
 - Reuters, 2024-09-18: Ghost cybercrime platform dismantled in global operation, 51 arrested.
 - The Register, 2024-09-18: 51 arrests made in global takedown of Ghost crime platform.
@@ -330,7 +341,7 @@ No known direct Korean involvement in Operation Kraken or the Ghost platform inv
 
 ## Evidence and Attribution Notes
 
-- Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled **Ghost**, a dedicated encrypted communications platform built and used exclusively by organized crime networks worldwide.
+- Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP), coordinated operationally by Europol, and supported judicially by Eurojust through a France-United States joint investigation team.
 - The operation culminated on September 17-18, 2024, with near-simultaneous raids across Australia, Ireland, Italy, Canada, and Sweden.
 - The platform's alleged creator and administrator, **Jay Je Yoon Jung** (32, of New South Wales, Australia), was arrested at his home in Narwee, Sydney.
 
@@ -340,13 +351,13 @@ No known direct Korean involvement in Operation Kraken or the Ghost platform inv
 
 ## Canonical Operation Assessment
 
-This page is retained as a canonical operation because it describes a infrastructure-seizure against Ghost encrypted communications platform, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Australian Federal Police (AFP) and coordination to Europol, with participating or affected jurisdictions recorded as Australia, United States, France, Ireland, Italy, Sweden, Canada, Netherlands, Iceland.
+This page is retained as a canonical operation because it describes an infrastructure-seizure against Ghost encrypted communications platform, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Australian Federal Police (AFP), operational coordination to Europol, and judicial coordination evidence to Eurojust, with participating or affected jurisdictions recorded as Australia, United States, France, Ireland, Italy, Sweden, Canada, Netherlands, Iceland.
 
-The cooperation model is documented through named agencies and partners: Australian Federal Police (AFP), Europol, FBI, French Gendarmerie, Royal Canadian Mounted Police (RCMP), Dutch National Police, Irish Garda Síochána, Italian Central Directorate for Anti-Drug Service, Swedish Police Authority; mechanisms: Europol Operational Taskforce (OTF), Mutual Legal Assistance, Joint Investigation Team, Informal Police-to-Police Cooperation; legal basis: Budapest Convention on Cybercrime (Articles 29-35) and Mutual Legal Assistance Treaties (bilateral); enforcement posture: Arrest, Seizure, Takedown.
+The cooperation model is documented through named agencies and partners: Australian Federal Police (AFP), Europol, Eurojust, FBI, French Gendarmerie, Royal Canadian Mounted Police (RCMP), Dutch National Police, Irish Garda Siochana, Italian Central Directorate for Anti-Drug Service, Swedish Police Authority; mechanisms: Europol Operational Taskforce (OTF), Mutual Legal Assistance, Joint Investigation Team, Informal Police-to-Police Cooperation; legal basis: Budapest Convention on Cybercrime (Articles 29-35) and Mutual Legal Assistance Treaties (bilateral); enforcement posture: Arrest, Seizure, Takedown.
 
 Operational results captured for the canonical record: 51 arrests; cryptocurrency/asset result recorded as $9.3 million AUD (from platform administrator); Ghost encrypted communications platform permanently dismantled; Platform administrator Jay Je Yoon Jung arrested (NSW, Australia); 38 arrests in Australia, 11 in Ireland, 1 in Canada, 1 in Italy; 50+ threats to life intervened.
 
-The canonical source set contains 6 reference(s): [1] Afp Press Release (2024 09 18), [2] Europol Press Release (2024 11), [3] Reuters (2024 09 18), [4] The Register (2024 09 18), [5] The Record (2024 09 18), [6] Information Age / Acs (2024 10 03).
+The canonical source set contains 7 reference(s): [1] AFP (2024-09-18), [2] Eurojust (2024-09-18), [3] Reuters (2024-09-18), [4] The Register (2024-09-18), [5] The Record (2024-09-18), [6] Information Age / ACS (2024-10-03), [7] Europol (2024-11-01).
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
 No frontmatter missing-field flags are currently carried on this page.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
@@ -360,3 +371,9 @@ This keeps the canonical record analytically bounded and reproducible.
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | AFP Operation Kraken charges alleged head of global organised crime app | Australian Federal Police | 2024-09-18 | https://www.afp.gov.au/news-centre/media-release/afp-operation-kraken-charges-alleged-head-global-organised-crime-app |
+| [2] | 51 arrests in wide-scale operation to take down encrypted communication platform used by organised crime groups | Eurojust | 2024-09-18 | https://www.eurojust.europa.eu/news/51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups |
+| [3] | Ghost cybercrime platform dismantled in global operation, 51 arrested | Reuters | 2024-09-18 | https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/ |
+| [4] | 51 arrests made in global takedown of Ghost crime platform | The Register | 2024-09-18 | https://www.theregister.com/2024/09/18/51_arrests_ghost_platform/ |
+| [5] | Police announce takedown and arrest mastermind behind criminal comms platform 'Ghost' | The Record | 2024-09-18 | https://therecord.media/ghost-encrypted-criminal-communications-takedown-arrests |
+| [6] | $9m in crypto seized from accused Ghost app creator | Information Age / ACS | 2024-10-03 | https://ia.acs.org.au/article/2024/9m-in-crypto-seized-from-accused-ghost-app-creator.html |
+| [7] | 12 members of an Irish high-risk criminal network arrested | Europol | 2024-11-01 | https://www.europol.europa.eu/media-press/newsroom/news/12-members-of-irish-high-risk-criminal-network-arrested |

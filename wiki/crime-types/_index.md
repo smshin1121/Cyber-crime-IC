@@ -19,7 +19,7 @@ updated: 2026-04-27
 | [[counterfeit-goods]] | — | — | — | — | 4 |
 | [[csam-ic]] | content-related | Yes | interpol-icse-database\|INTERPOL ICSE Database, europol-vidtf\|Europol Victim Identification Task Force | operation-stream-kidflix, operation-cyber-guardian, operation-orion-international | 3 |
 | [[cybercrime-forum-ic]] | cyber-dependent | Yes | search-seizure, domain-seizure, extradition | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 4 |
-| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova | 4 |
+| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 4 |
 | [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | — | 3 |
 | [[dark-web-ic]] | — | — | — | — | 4 |
 | [[ddos-extortion]] | — | — | — | — | 1 |

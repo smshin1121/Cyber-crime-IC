@@ -145,7 +145,7 @@ updated: 2026-04-14
 | [[nemesis-market-takedown]] | — | 3 | completed | umbrella | 5 | — | — |
 | [[operation-endgame]] | — | 3 | ongoing | umbrella | 9 | — | — |
 | [[operation-heart-blocker]] | — | 3 | completed | umbrella | 5 | — | — |
-| [[operation-kraken-ghost-platform]] | — | 3 | completed | umbrella | 1 | — | — |
+| [[operation-kraken-ghost-platform]] | — | 3 | completed | umbrella | 7 | — | — |
 | [[operation-rewired]] | — | 2 | completed | umbrella | 5 | 4.50 | 1 |
 | [[operation-trojan-shield]] | — | 2 | completed | umbrella | 4 | 4.80 | 1 |
 

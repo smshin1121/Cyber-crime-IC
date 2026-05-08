@@ -25,6 +25,7 @@ key_organizations:
 notable_operations:
   - "[[doublevpn-takedown]]"
   - "[[operation-nova]]"
+  - "[[operation-kraken-ghost-platform]]"
 notable_cases:
   []
 criminalization_status:

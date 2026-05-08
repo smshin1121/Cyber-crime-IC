@@ -11,6 +11,7 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - operation-kraken-ghost-platform
   - operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested
 key_findings:
   - "Eurojust said the Ghost takedown involved a France-US JIT, an Europol operational taskforce, and coordinated action across Australia, Canada, France, Iceland, Ireland, Italy, the Netherlands, Sweden, and the United States."
@@ -31,4 +32,4 @@ Eurojust's press release adds the judicial-cooperation view of the Ghost platfor
 
 ## Relevance to IC
 
-This source strengthens the evidence chain for [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] with a primary judicial-coordination record rather than a media recap alone.
+This source strengthens the evidence chain for [[operation-kraken-ghost-platform]] with a primary judicial-coordination record rather than a media recap alone. The absorbed follow-on wrapper [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] remains linked for traceability.

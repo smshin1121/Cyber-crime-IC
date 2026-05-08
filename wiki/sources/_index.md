@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (642)
+# Sources (648)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -229,6 +229,7 @@ updated: 2026-04-14
 | [[2024-11-06_group-ib-com_group-ib-supports-interpol-operation-synergia-ii]] | press-release | Group-IB | ? | medium | ? |
 | [[2024-11-06-interpol-operation-synergia-ii]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-11-05_kaspersky-com_interpol-operation-synergia-ii]] | press-release | Kaspersky | ? | medium | ? |
+| [[2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested]] | press-release | Europol | ? | high | ? |
 | [[2024-10-21_agb_operation-soga-x-illegal-football-betting]] | news | Asia Gaming Brief | ? | medium | ? |
 | [[2024-10-18_cybernews_operation-soga-x-illegal-online-gambling]] | news | Cybernews | ? | medium | ? |
 | [[2024-10-17_interpol_operation-soga-x-illegal-football-gambling]] | press-release | INTERPOL | ? | high | ? |
@@ -237,6 +238,7 @@ updated: 2026-04-14
 | [[2024-10-08_group-ib_operation-contender-2]] | press-release | Group-IB | ? | medium | ? |
 | [[2024-10-04_bitdefender-com_international-phishing-ring-dismantled-in-major-interpol-sweep]] | news | Bitdefender | ? | medium | ? |
 | [[2024-10-03_thehackernews-com_interpol-arrests-8-in-major-phishing-and-romance-fraud-crackdown-in-west-africa]] | news | The Hacker News | ? | medium | ? |
+| [[2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator]] | press-release | Information Age / ACS | ? | medium | ? |
 | [[2024-10-02_therecord-media_operation-cronos-phase-3-lockbit]] | news | The Record | ? | medium | ? |
 | [[2024-10-02_aptantech-com_operation-contender-2-leads-to-arrests-of-8-cybercrime-suspects]] | news | aptantech | ? | medium | ? |
 | [[2024-10-01_the420-in_operation-chakra-iii-inside-cbi-s-explosive-takedown]] | press-release | The420.in | ? | medium | ? |
@@ -253,6 +255,10 @@ updated: 2026-04-14
 | [[2024-09-26_fincen_imposition-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2btc]] | legal-notice | Financial Crimes Enforcement Network | 1 | high | ? |
 | [[2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc]] | analysis | Chainalysis | 3 | medium-high | ? |
 | [[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]] | news | Brazil Ministry of Justice and Public Security | ? | high | ? |
+| [[2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform]] | press-release | The Register | ? | medium | ? |
+| [[2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh]] | press-release | The Record | ? | medium | ? |
+| [[2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | press-release | Reuters | ? | medium | ? |
+| [[2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups]] | press-release | Eurojust | ? | high | ? |
 | [[2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app]] | press-release | Australian Federal Police | ? | medium | ? |
 | [[2024-09-01_newsonair-gov-in_cbi-operation-chakra-iii-dismantles-virtual-asset-network]] | press-release | News on Air (Gov India) | ? | medium | ? |
 | [[2024-08-28_interpol_operation-jackal-iii-black-axe]] | press-release | INTERPOL | ? | high | ? |

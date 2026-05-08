@@ -68,6 +68,7 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[romania-phishing-takedown-2024]]"
   - "[[operation-disruptor]]"
+  - "[[operation-kraken-ghost-platform]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9
