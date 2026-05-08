@@ -33,6 +33,7 @@ notable_operations:
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+  - "[[leakbase-takedown-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
 criminalization_status:

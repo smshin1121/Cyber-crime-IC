@@ -3,13 +3,15 @@ type: organization
 title: "Office of International Affairs"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
-last_verified: 2026-04-29
+updated: 2026-05-08
+last_verified: 2026-05-08
 org_type: justice-international-cooperation-office
 country: "[[united-states]]"
-jurisdiction: [[united-states]]
+jurisdiction:
+  -
+    - united-states
 official_name: "Office of International Affairs"
-abbreviation: "OIA"
+abbreviation: OIA
 parent_org: "[[us-doj]]"
 mandate: "DOJ Criminal Division office responsible for US international legal assistance, extradition, and evidence-sharing channels."
 key_roles:
@@ -22,6 +24,7 @@ operations_participated:
   - "[[xdedic-marketplace-takedown]]"
   - "[[operation-open-market]]"
   - "[[operation-tovar]]"
+  - "[[leakbase-takedown-2026]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"

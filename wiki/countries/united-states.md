@@ -30,7 +30,7 @@ key_agencies:
 last_verified: 2026-05-08
 legal_system: common-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -139,6 +139,7 @@ operations_participated:
   - "[[operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-]]"
   - "[[carbanak-cobalt-takedown]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+  - "[[leakbase-takedown-2026]]"
 region: north-america
 source_count: 1
 sources:
@@ -148,12 +149,10 @@ treaty_memberships:
   - date: 2006-09-29
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
 updated: 2026-05-08

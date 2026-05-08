@@ -965,6 +965,7 @@ operations_participated:
   - "[[operation-card-shop]]"
   - "[[operation-disruptor]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+  - "[[leakbase-takedown-2026]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

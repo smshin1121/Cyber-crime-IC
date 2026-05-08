@@ -2,7 +2,7 @@
 created: 2026-04-08
 ic_capacity: not-assessed
 iso_code: AU
-last_verified: 2026-05-03
+last_verified: 2026-05-08
 legal_system: not-assessed
 operations_participated:
   - "[[operation-cronos-phase1]]"
@@ -18,15 +18,16 @@ operations_participated:
   - "[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]"
   - "[[operation-avalanche]]"
   - "[[operation-us-v-beresford-man]]"
+  - "[[leakbase-takedown-2026]]"
 region: oceania
 source_count: 0
 sources:
-  []
+
 title: "Commonwealth of Australia"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-03
+updated: 2026-05-08
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

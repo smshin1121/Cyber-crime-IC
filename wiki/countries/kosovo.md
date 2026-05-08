@@ -5,11 +5,11 @@ iso_code: XK
 last_verified: 2026-05-03
 legal_system: not-assessed
 operations_participated:
-  []
+  - "[[operation-switch-off-illegal-iptv-2026]]"
+  - "[[leakbase-takedown-2026]]"
 region: western-balkans
 source_count: 0
-sources:
-  []
+sources: []
 title: "Republic of Kosovo"
 treaty_memberships:
   - not-assessed

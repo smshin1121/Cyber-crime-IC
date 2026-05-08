@@ -14,7 +14,7 @@ frameworks_administered:
 headquarters: "The Hague, Netherlands"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "EU hub for coordinating cybercrime investigations, providing operational"
 mechanisms_operated:
 
@@ -114,6 +114,7 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[operation-hyperion]]"
   - "[[operation-disruptor]]"
+  - "[[leakbase-takedown-2026]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

@@ -1,25 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: RCMP National Cybercrime Coordination Centre (NC3)
-  mlat: International Assistance Group (IAG), Department of Justice Canada
-cooperation_assessment: Canada is *almost certainly* a high-capacity, reliable cooperation
-  partner. It is a Five Eyes member, a Budapest Convention party since 2015, has a
-  dedicated RCMP coordination centre (NC3), and maintains longstanding MLAT relationships
-  with the United States and other G7 partners. Bilingualism (English/French) supports
-  cooperation with both anglophone and francophone partners.
+  budapest: "RCMP National Cybercrime Coordination Centre (NC3)"
+  mlat: "International Assistance Group (IAG), Department of Justice Canada"
+cooperation_assessment: "Canada is *almost certainly* a high-capacity, reliable cooperation"
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: No mandatory data retention; voluntary preservation under preservation
-    demands/orders
-  primary_law: Criminal Code (R.S.C. 1985, c. C-46) §§ 342.1, 342.2, 430(1.1); Bill
-    C-13 Protecting Canadians from Online Crime Act (2014)
-  primary_law_date: 1985 (computer offences); 2014 (Bill C-13 procedural tools)
+  data_retention: "No mandatory data retention; voluntary preservation under preservation"
+  primary_law: "Criminal Code (R.S.C. 1985, c. C-46) §§ 342.1, 342.2, 430(1.1); Bill"
+  primary_law_date: "1985 (computer offences); 2014 (Bill C-13 procedural tools)"
   procedural_powers:
-  - preservation-order
-  - production-order
-  - search-and-seizure
-  - interception
+    - preservation-order
+    - production-order
+    - search-and-seizure
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -27,35 +22,40 @@ ic_capacity:
   english_proficiency: high
   rating: high
 iso_code: CA
-key_agencies: []
-last_verified: '2026-04-10'
+key_agencies:
+  []
+last_verified: 2026-05-08
 legal_system: mixed
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[alphabay-takedown]]'
-- '[[emotet-takedown]]'
-- '[[operation-avalanche]]'
-- '[[operation-haechi-vi]]'
-- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
-- '[[doublevpn-takedown]]'
-- '[[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]]'
+  - "[[alphabay-takedown]]"
+  - "[[emotet-takedown]]"
+  - "[[operation-avalanche]]"
+  - "[[operation-haechi-vi]]"
+  - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]]"
+  - "[[leakbase-takedown-2026]]"
 region: north-america
 source_count: 5
-sources: []
+sources:
+  []
 title: Canada
 treaty_memberships:
-- date: '2015-07-08'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: ''
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: unknown
+  - date: 2015-07-08
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: ""
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: unknown
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Canada signed the [[budapest-convention|Budapest Convention on Cybercrime]] on 23 November 2001 — the day it was opened for signature — and completed ratification on **8 July 2015** after passing the **Protecting Canadians from Online Crime Act (Bill C-13, 2014)** which introduced the procedural tools required by Budapest Convention Articles 16-21 [1][2].

@@ -1,27 +1,21 @@
 ---
 bilateral_agreements:
-- '[[us-uk-cloud-act-agreement]]'
+  - "[[us-uk-cloud-act-agreement]]"
 central_authority:
-  budapest: National Crime Agency (NCA)
-  mlat: UK Home Office, International Criminality Cooperation Team
-cooperation_assessment: The United Kingdom is a highly capable international cooperation
-  partner with world-class digital forensics capabilities and extensive experience
-  leading multinational cybercrime operations. The NCA's National Cyber Crime Unit
-  is among the most active agencies globally. Post-Brexit, the UK has maintained close
-  operational cooperation with Europol through a Trade and Cooperation Agreement,
-  though formal EU membership tools (direct SIS II access, EAW) are no longer available.
+  budapest: "National Crime Agency (NCA)"
+  mlat: "UK Home Office, International Criminality Cooperation Team"
+cooperation_assessment: "The United Kingdom is a highly capable international cooperation"
 created: 2026-04-08
 cybercrime_legislation:
-  data_retention: Investigatory Powers Act 2016 (IPA) — data retention notices up
-    to 12 months
-  primary_law: Computer Misuse Act 1990 (CMA)
-  primary_law_date: '1990-06-29'
+  data_retention: "Investigatory Powers Act 2016 (IPA) — data retention notices up"
+  primary_law: "Computer Misuse Act 1990 (CMA)"
+  primary_law_date: 1990-06-29
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
-  - real-time-collection
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
+    - real-time-collection
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -30,59 +24,62 @@ ic_capacity:
   rating: high
 iso_code: GB
 key_agencies:
-- '[[uk-nca]]'
-- '[[uk-met-police-cyber]]'
-last_verified: '2026-04-18'
+  - "[[uk-nca]]"
+  - "[[uk-met-police-cyber]]"
+last_verified: 2026-05-08
 legal_system: common-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[alphabay-takedown]]'
-- '[[emotet-takedown]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[phobos-8base-crackdown]]'
-- '[[operation-destabilise]]'
-- '[[operation-avalanche]]'
-- '[[operation-haechi-v]]'
-- '[[operation-first-light-2024]]'
-- '[[operation-haechi-vi]]'
-- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
-- '[[darkmarket-takedown]]'
-- '[[doublevpn-takedown]]'
-- '[[operation-dark-huntor]]'
-- '[[operation-eur-3m-online-investment-fraud-2025]]'
-- '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
-- '[[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
-- '[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]'
-- '[[operation-weleakinfo-com-domain-name-seized]]'
-- '[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]'
-- '[[operation-us-v-monroeville-man]]'
-- '[[operation-us-v-onomen-uduebor]]'
-- '[[operation-us-v-banmeet-singh-dark-web]]'
+  - "[[alphabay-takedown]]"
+  - "[[emotet-takedown]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[phobos-8base-crackdown]]"
+  - "[[operation-destabilise]]"
+  - "[[operation-avalanche]]"
+  - "[[operation-haechi-v]]"
+  - "[[operation-first-light-2024]]"
+  - "[[operation-haechi-vi]]"
+  - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
+  - "[[darkmarket-takedown]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-eur-3m-online-investment-fraud-2025]]"
+  - "[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+  - "[[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+  - "[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]"
+  - "[[operation-weleakinfo-com-domain-name-seized]]"
+  - "[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]"
+  - "[[operation-us-v-monroeville-man]]"
+  - "[[operation-us-v-onomen-uduebor]]"
+  - "[[operation-us-v-banmeet-singh-dark-web]]"
+  - "[[leakbase-takedown-2026]]"
 region: western-europe
 source_count: 5
 sources:
-- '[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]'
-- '[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]'
-- '[[2026-04-18_gov-uk_financial-sanctions-guidance-for-ransomware]]'
-- '[[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]]'
-- '[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]'
-title: United Kingdom
+  - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
+  - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
+  - "[[2026-04-18_gov-uk_financial-sanctions-guidance-for-ransomware]]"
+  - "[[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]]"
+  - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]"
+title: "United Kingdom"
 treaty_memberships:
-- date: '2011-05-25'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2011-05-25
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 The United Kingdom is one of the **most active** countries in international cybercrime cooperation. The **National Crime Agency (NCA)**, through its National Cyber Crime Unit (NCCU), led [[operation-cronos-phase1|Operation Cronos]] against the LockBit ransomware group — *almost certainly* the most high-profile ransomware takedown to date. The UK is a **Five Eyes** member, a party to the [[budapest-convention]], and holds the world's first **CLOUD Act executive agreement** with the United States (2019).

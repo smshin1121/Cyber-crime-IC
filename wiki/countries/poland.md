@@ -1,23 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: Police Headquarters / CBZC
-  mlat: Ministry of Justice (Ministerstwo Sprawiedliwości)
-cooperation_assessment: Poland is *highly likely* to be a capable EU cybercrime cooperation
-  partner via Europol, Eurojust, and bilateral channels. The establishment of the
-  Central Bureau for Combating Cybercrime (CBZC) in 2022 substantially consolidated
-  cybercrime capacity. Poland is a Budapest Convention party.
+  budapest: "Police Headquarters / CBZC"
+  mlat: "Ministry of Justice (Ministerstwo Sprawiedliwości)"
+cooperation_assessment: "Poland is *highly likely* to be a capable EU cybercrime cooperation"
 created: 2026-04-10
 cybercrime_legislation:
   data_retention: unknown
-  primary_law: Criminal Code (Kodeks karny) Arts. 267-269b; Act on Combating Cybercrime
-    / CBZC Act 2022
-  primary_law_date: '1997-06-06'
+  primary_law: "Criminal Code (Kodeks karny) Arts. 267-269b; Act on Combating Cybercrime"
+  primary_law_date: 1997-06-06
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: unknown
@@ -26,30 +23,34 @@ ic_capacity:
   rating: medium
 iso_code: PL
 key_agencies:
-- '[[poland-police]]'
-last_verified: '2026-04-10'
+  - "[[poland-police]]"
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[operation-haechi-vi]]'
-- '[[operation-avalanche]]'
+  - "[[operation-haechi-vi]]"
+  - "[[operation-avalanche]]"
+  - "[[leakbase-takedown-2026]]"
 region: eastern-europe
 source_count: 3
-sources: []
-title: Republic of Poland
+sources:
+  []
+title: "Republic of Poland"
 treaty_memberships:
-- date: '2015-02-20'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2015-02-20
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Poland is a European Union member and **[[budapest-convention|Budapest Convention]] party**. Its cybercrime law enforcement underwent a major institutional reform in 2022 with the creation of the **Central Bureau for Combating Cybercrime** (*Centralne Biuro Zwalczania Cyberprzestępczości*, **CBZC**), a dedicated national cybercrime investigation service within the Polish Police.

@@ -1,26 +1,21 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: DIICOT / Romanian Police
-  mlat: Ministry of Justice (Ministerul Justiției)
-cooperation_assessment: Romania is *almost certainly* one of the most active eastern
-  European cybercrime cooperation partners. It is an early Budapest Convention party
-  (2004), hosts the Council of Europe's Cybercrime Programme Office ([[c-proc]]) in
-  Bucharest, and has a dedicated specialized prosecutor service (DIICOT). Romania
-  has been heavily involved in joint investigations targeting domestic organized cybercrime
-  groups, particularly in the early 2010s.
+  budapest: "DIICOT / Romanian Police"
+  mlat: "Ministry of Justice (Ministerul Justiției)"
+cooperation_assessment: "Romania is *almost certainly* one of the most active eastern"
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: Contested; constitutional court struck down initial retention law
-  primary_law: Law 161/2003 (Title III — Preventing and Combating Cybercrime); Criminal
-    Code Arts. 360-366
-  primary_law_date: '2003-04-19'
+  data_retention: "Contested; constitutional court struck down initial retention law"
+  primary_law: "Law 161/2003 (Title III — Preventing and Combating Cybercrime); Criminal"
+  primary_law_date: 2003-04-19
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
-  - real-time-collection
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
+    - real-time-collection
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: unknown
@@ -29,32 +24,36 @@ ic_capacity:
   rating: high
 iso_code: RO
 key_agencies:
-- '[[romania-diicot]]'
-- '[[romania-police]]'
-last_verified: '2026-04-10'
+  - "[[romania-diicot]]"
+  - "[[romania-police]]"
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[operation-haechi-vi]]'
-- '[[operation-avalanche]]'
-- '[[carbanak-cobalt-takedown]]'
+  - "[[operation-haechi-vi]]"
+  - "[[operation-avalanche]]"
+  - "[[carbanak-cobalt-takedown]]"
+  - "[[leakbase-takedown-2026]]"
 region: eastern-europe
 source_count: 4
-sources: []
+sources:
+  []
 title: Romania
 treaty_memberships:
-- date: '2004-09-12'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2004-09-12
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Romania is a major European cybercrime cooperation partner. It is a **[[budapest-convention|Budapest Convention]] party** since 2004 (one of the earliest) and hosts the **Council of Europe Cybercrime Programme Office ([[c-proc|C-PROC]])** in Bucharest, which runs global capacity-building programmes.

@@ -1,29 +1,21 @@
 ---
 bilateral_agreements:
-- '[[us-netherlands-mlat]]'
+  - "[[us-netherlands-mlat]]"
 central_authority:
-  budapest: Dutch National Police (Politie) — National High Tech Crime Unit (NHTCU)
-  mlat: Ministry of Justice and Security (Ministerie van Justitie en Veiligheid)
-cooperation_assessment: The Netherlands is almost certainly one of the most capable
-  and proactive cybercrime cooperation partners globally, punching well above its
-  size. The Dutch National Police's NHTCU pioneered innovative takedown techniques
-  and the country hosts both Europol and Eurojust in The Hague, giving it unique proximity
-  to EU coordination bodies. The Wet computercriminaliteit III (2019) provides advanced
-  procedural powers including remote access (hackbevoegdheid). High English proficiency
-  further facilitates cooperation.
+  budapest: "Dutch National Police (Politie) — National High Tech Crime Unit (NHTCU)"
+  mlat: "Ministry of Justice and Security (Ministerie van Justitie en Veiligheid)"
+cooperation_assessment: "The Netherlands is almost certainly one of the most capable"
 created: 2026-04-08
 cybercrime_legislation:
-  data_retention: Wet bewaarplicht telecommunicatiegegevens — partially invalidated
-    following CJEU; limited retention framework
-  primary_law: Wetboek van Strafrecht (Sr) Art. 138ab-138c, 350a-350d; Wet computercriminaliteit
-    III (2019)
-  primary_law_date: '1993-03-01'
+  data_retention: "Wet bewaarplicht telecommunicatiegegevens — partially invalidated"
+  primary_law: "Wetboek van Strafrecht (Sr) Art. 138ab-138c, 350a-350d; Wet computercriminaliteit"
+  primary_law_date: 1993-03-01
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
-  - real-time-collection
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
+    - real-time-collection
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 60-120
@@ -32,55 +24,58 @@ ic_capacity:
   rating: high
 iso_code: NL
 key_agencies:
-- '[[netherlands-politie]]'
-- '[[netherlands-fiod]]'
-- '[[netherlands-om]]'
-last_verified: '2026-04-18'
+  - "[[netherlands-politie]]"
+  - "[[netherlands-fiod]]"
+  - "[[netherlands-om]]"
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[alphabay-takedown]]'
-- '[[emotet-takedown]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[phobos-8base-crackdown]]'
-- '[[operation-avalanche]]'
-- '[[hive-ransomware-takedown]]'
-- '[[operation-talent]]'
-- '[[operation-haechi-v]]'
-- '[[proxy-service-takedown-2026-03]]'
-- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
-- '[[doublevpn-takedown]]'
-- '[[operation-dark-huntor]]'
-- '[[cryptex-pm2btc-sanctions]]'
-- '[[operation-weleakinfo-com-domain-name-seized]]'
-- '[[operation-weleakinfo-to-and-related-domain-names-seized]]'
-- '[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]'
-- '[[operation-us-v-monroeville-man]]'
+  - "[[alphabay-takedown]]"
+  - "[[emotet-takedown]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[phobos-8base-crackdown]]"
+  - "[[operation-avalanche]]"
+  - "[[hive-ransomware-takedown]]"
+  - "[[operation-talent]]"
+  - "[[operation-haechi-v]]"
+  - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-dark-huntor]]"
+  - "[[cryptex-pm2btc-sanctions]]"
+  - "[[operation-weleakinfo-com-domain-name-seized]]"
+  - "[[operation-weleakinfo-to-and-related-domain-names-seized]]"
+  - "[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]"
+  - "[[operation-us-v-monroeville-man]]"
+  - "[[leakbase-takedown-2026]]"
 region: western-europe
 source_count: 5
 sources:
-- '[[2026-03-12-eurojust-proxy-service-takedown]]'
-- '[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]'
-- '[[2026-01-22_politie-nl_jaarcijfers-lx-internationale-samenwerking-verder-verstevigd]]'
-- '[[2025-05-09_politie-nl_anyproxy-amsterdam-fbi]]'
-- '[[2026-04-18_om-nl_internationale-samenwerking]]'
-title: Kingdom of the Netherlands
+  - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+  - "[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
+  - "[[2026-01-22_politie-nl_jaarcijfers-lx-internationale-samenwerking-verder-verstevigd]]"
+  - "[[2025-05-09_politie-nl_anyproxy-amsterdam-fbi]]"
+  - "[[2026-04-18_om-nl_internationale-samenwerking]]"
+title: "Kingdom of the Netherlands"
 treaty_memberships:
-- date: '2006-11-16'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2006-11-16
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-05-03
+updated: 2026-05-08
 ---
-
 ## Summary
 
 The Netherlands is *almost certainly* the most operationally active European country for cybercrime takedowns relative to its size. The **Dutch National Police** ([[netherlands-politie]]), through its **National High Tech Crime Unit (NHTCU)**, has been instrumental in major international operations including [[operation-endgame-phase1|Operation Endgame]], [[operation-cronos-phase1|Operation Cronos]], [[hive-ransomware-takedown|Hive Ransomware Takedown]], and [[operation-talent|Operation Talent]].

@@ -11,21 +11,23 @@ criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
-    []
+
 estimated_annual_loss: ""
 key_organizations:
   - "[[fbi-cyber-division]]"
 notable_cases:
-  []
+
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[leakbase-takedown-2026]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+  - "[[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -37,7 +39,7 @@ typical_mechanisms:
   - "[[domain-seizure]]"
   - "[[extradition]]"
   - "[[mutual-legal-assistance]]"
-updated: "2026-04-29"
+updated: 2026-05-08
 status: active
 ---
 ## Summary
@@ -66,3 +68,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 |---|---|---|---|---|
 | [1] | [[2025-03-05-doj-isoon-chinese-hackers-charges|Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns]] | US Department of Justice | 2025-03-05 | https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global |
 | [2] | [[2026-03-12-eurojust-proxy-service-takedown|Servers used for cybercrime around the world taken down]] | Eurojust | 2026-03-12 | https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down |
+| [3] | [[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum\|United States Leads Dismantlement of One of the World's Largest Hacker Forums]] | US DOJ (OPA) | 2026-03-04 | https://www.justice.gov/opa/pr/united-states-leads-dismantlement-one-worlds-largest-hacker-forums |

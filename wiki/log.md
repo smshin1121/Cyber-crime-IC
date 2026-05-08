@@ -652,3 +652,15 @@
   - Six SDCA defendants charged with wire fraud and money laundering conspiracy; "pig-butchering" methodology against three named scam-compound operators (Ko Thet Company / Pixy, Sanduo Group, Giant Company); defendant nationalities Burmese (1) and Indonesian (5).
   - Private-sector partner: Meta Platforms, Inc. provided critical investigation information.
   - Korean involvement not named in cited tier-1 source — `participating_countries` does not include South Korea; case retained for SNA cooperation-pattern relevance.
+
+
+## [2026-05-08] ingest | DOJ 2026-03-04 — LeakBase hacker-forum 14-country takedown
+- Source: raw/press-releases/2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum.md (DOJ Press Release 26-205, full-text preserved)
+- Pages created: wiki/operations/leakbase-takedown-2026.md, wiki/sources/2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum.md
+- Pages updated: 14 country pages (US, AU, BE, PL, PT, RO, ES, UK, CA, DE, GR, XK, MY, NL — `operations_participated`), 4 organization pages (fbi, europol-ec3, us-doj, office-of-international-affairs — `operations_participated`), 3 crime-type pages (cybercrime-forum-ic, hacking-ic, online-fraud-ic — `notable_operations` + sources where applicable). Indexes regenerated via tools/reconcile_indexes.py.
+- Bidirectional-link fix-up: also added missing `[[operation-switch-off-illegal-iptv-2026]]` back-link to wiki/countries/kosovo.md, and migrated kosovo's broken `operations_participated:\n  []` (parsed as dict by frontmatter) to a proper YAML list literal.
+- Key findings:
+  - 14-country synchronized action 2026-03-03 to 2026-03-04, coordinated by Europol in The Hague: 8 active-enforcement countries (US, AU, BE, PL, PT, RO, ES, UK) and 6 assistance countries (CA, DE, GR, XK, MY, NL). The 8/6 split is captured explicitly for SNA edge weighting.
+  - LeakBase: 142,000+ members, 215,000+ messages, two domains seized, no per-country arrest counts disclosed in the cited tier-1 source.
+  - DOJ release explicitly chains the takedown with predecessor RaidForums (2022) and BreachForums (2023, founder convicted 2025) — establishing a US-led / Europol-coordinated takedown cycle on the open-web English-language cybercriminal-forum vertical.
+  - Korean involvement not named in cited tier-1 source — South Korea not added to `participating_countries`.

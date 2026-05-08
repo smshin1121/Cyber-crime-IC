@@ -1,28 +1,21 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: Guardia Civil / Cuerpo Nacional de Policía
-  mlat: Subdirección General de Cooperación Jurídica Internacional, Ministerio de
-    Justicia
-cooperation_assessment: Spain is a *highly capable* cybercrime cooperation partner
-  with two specialised national cyber units — the Guardia Civil's Grupo de Delitos
-  Telemáticos (GDT) and the Policía Nacional's UCC/Brigada Central de Investigación
-  Tecnológica (BIT). Spain ratified the Budapest Convention in 2010 and updated substantive
-  and procedural law in 2015 to align with it. *Almost certainly* a core EU cooperation
-  partner via Europol EC3, Eurojust, and European Investigation Order frameworks.
+  budapest: "Guardia Civil / Cuerpo Nacional de Policía"
+  mlat: "Subdirección General de Cooperación Jurídica Internacional, Ministerio de"
+cooperation_assessment: "Spain is a *highly capable* cybercrime cooperation partner"
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: Law 25/2007 on data retention (pre-Digital Rights Ireland); post-CJEU
-    restrictions apply
-  primary_law: Código Penal (Criminal Code) arts. 197-201, 248, 264; Ley de Enjuiciamiento
-    Criminal (LECrim)
-  primary_law_date: '1995'
+  data_retention: "Law 25/2007 on data retention (pre-Digital Rights Ireland); post-CJEU"
+  primary_law: "Código Penal (Criminal Code) arts. 197-201, 248, 264; Ley de Enjuiciamiento"
+  primary_law_date: 1995
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
-  - real-time-collection
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
+    - real-time-collection
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -31,40 +24,43 @@ ic_capacity:
   rating: high
 iso_code: ES
 key_agencies:
-- '[[spain-guardia-civil]]'
-- '[[spain-national-police]]'
-last_verified: '2026-04-18'
+  - "[[spain-guardia-civil]]"
+  - "[[spain-national-police]]"
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[operation-haechi-vi]]'
-- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
-- '[[operation-eur-600m-crypto-scam-network-2025]]'
-- '[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]'
-- '[[carbanak-cobalt-takedown]]'
+  - "[[operation-haechi-vi]]"
+  - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
+  - "[[operation-eur-600m-crypto-scam-network-2025]]"
+  - "[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]"
+  - "[[carbanak-cobalt-takedown]]"
+  - "[[leakbase-takedown-2026]]"
 region: western-europe
 source_count: 6
 sources:
-- '[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]'
-- '[[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]]'
-- '[[2023-12-11_interior-gob-es_policia-nacional-detiene-lider-kelvin-security]]'
-- '[[2026-03-12-eurojust-proxy-service-takedown]]'
-- '[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]'
-- '[[2026-04-18_policia-es_bcit]]'
-title: Kingdom of Spain
+  - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
+  - "[[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]]"
+  - "[[2023-12-11_interior-gob-es_policia-nacional-detiene-lider-kelvin-security]]"
+  - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+  - "[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]"
+  - "[[2026-04-18_policia-es_bcit]]"
+title: "Kingdom of Spain"
 treaty_memberships:
-- date: '2010-06-03'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2010-06-03
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Spain is a **key EU cybercrime cooperation partner**, with two specialised national cyber investigation bodies operating in parallel: the **Guardia Civil's Grupo de Delitos Telemáticos (GDT)** — founded 1996 as one of Europe's earliest cybercrime units — and the **Policía Nacional's Brigada Central de Investigación Tecnológica (BIT)**. Spain ratified the [[budapest-convention|Budapest Convention]] on **3 June 2010** and modified its Criminal Code and Criminal Procedure Act in 2015 to implement Convention requirements.

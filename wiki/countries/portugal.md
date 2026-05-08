@@ -1,23 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: Polícia Judiciária
-  mlat: Office of the Attorney General (Procuradoria-Geral da República)
-cooperation_assessment: Portugal is a **Budapest Convention party** and EU member.
-  Its cybercrime law (Law 109/2009) transposed the Budapest Convention into national
-  law and is considered one of the more faithful national implementations. The Polícia
-  Judiciária's Unidade Nacional de Combate ao Cibercrime e Criminalidade Tecnológica
-  (UNC3T) handles most cybercrime investigations.
+  budapest: "Polícia Judiciária"
+  mlat: "Office of the Attorney General (Procuradoria-Geral da República)"
+cooperation_assessment: "Portugal is a **Budapest Convention party** and EU member."
 created: 2026-04-10
 cybercrime_legislation:
   data_retention: unknown
-  primary_law: Law 109/2009 (Cybercrime Law, Lei do Cibercrime)
-  primary_law_date: '2009-09-15'
+  primary_law: "Law 109/2009 (Cybercrime Law, Lei do Cibercrime)"
+  primary_law_date: 2009-09-15
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: unknown
@@ -26,29 +23,33 @@ ic_capacity:
   rating: medium
 iso_code: PT
 key_agencies:
-- '[[portugal-police]]'
-last_verified: '2026-04-10'
+  - "[[portugal-police]]"
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[operation-haechi-vi]]'
+  - "[[operation-haechi-vi]]"
+  - "[[leakbase-takedown-2026]]"
 region: western-europe
 source_count: 3
-sources: []
-title: Portuguese Republic
+sources:
+  []
+title: "Portuguese Republic"
 treaty_memberships:
-- date: '2010-03-24'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2010-03-24
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Portugal is an EU member state and **[[budapest-convention|Budapest Convention]] party**. Its 2009 Cybercrime Law (*Lei do Cibercrime*, Law 109/2009) is widely cited as a close implementation of the Budapest Convention. The **Polícia Judiciária** (PJ) — Portugal's criminal investigation police — hosts the **Unidade Nacional de Combate ao Cibercrime e Criminalidade Tecnológica (UNC3T)**, which handles most cybercrime investigations including international cooperation.

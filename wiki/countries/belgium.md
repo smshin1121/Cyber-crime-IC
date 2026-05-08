@@ -1,25 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: Federal Computer Crime Unit (FCCU) — Federal Judicial Police
-  mlat: Federal Public Service Justice (SPF Justice)
-cooperation_assessment: Belgium is *almost certainly* a highly capable cooperation
-  partner. As host to EU institutions, Europol's proximity network, and with the FCCU
-  as a specialized cybercrime police unit, Belgium integrates deeply into EU cooperation
-  mechanisms (EIO, Europol, Eurojust). Legislative framework is fully aligned with
-  the Budapest Convention.
+  budapest: "Federal Computer Crime Unit (FCCU) — Federal Judicial Police"
+  mlat: "Federal Public Service Justice (SPF Justice)"
+cooperation_assessment: "Belgium is *almost certainly* a highly capable cooperation"
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: Partially invalidated by CJEU/Constitutional Court; current framework
-    limited
-  primary_law: Loi du 28 novembre 2000 relative à la criminalité informatique (Law
-    of 28 November 2000 on Computer Crime)
-  primary_law_date: '2000-11-28'
+  data_retention: "Partially invalidated by CJEU/Constitutional Court; current framework"
+  primary_law: "Loi du 28 novembre 2000 relative à la criminalité informatique (Law"
+  primary_law_date: 2000-11-28
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -27,38 +22,42 @@ ic_capacity:
   english_proficiency: high
   rating: high
 iso_code: BE
-key_agencies: []
-last_verified: '2026-04-18'
+key_agencies:
+  []
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[operation-eur-3m-online-investment-fraud-2025]]'
-- '[[operation-eur-600m-crypto-scam-network-2025]]'
-- '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
-- '[[operation-avalanche]]'
-- '[[operation-weleakinfo-to-and-related-domain-names-seized]]'
+  - "[[operation-eur-3m-online-investment-fraud-2025]]"
+  - "[[operation-eur-600m-crypto-scam-network-2025]]"
+  - "[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+  - "[[operation-avalanche]]"
+  - "[[operation-weleakinfo-to-and-related-domain-names-seized]]"
+  - "[[leakbase-takedown-2026]]"
 region: western-europe
 source_count: 5
 sources:
-- '[[2026-04-18_coe-int_belgium-octopus-cybercrime-community-country-profile]]'
-- '[[2026-03-12-eurojust-proxy-service-takedown]]'
-- '[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]]'
-- '[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]'
-- '[[2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr]]'
-title: Kingdom of Belgium
+  - "[[2026-04-18_coe-int_belgium-octopus-cybercrime-community-country-profile]]"
+  - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+  - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]]"
+  - "[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]"
+  - "[[2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr]]"
+title: "Kingdom of Belgium"
 treaty_memberships:
-- date: '2012-08-20'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2012-08-20
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Belgium ratified the [[budapest-convention|Budapest Convention on Cybercrime]] on 20 August 2012 [1]. Its substantive cybercrime law pre-dates the Convention: the **Law of 28 November 2000 on Computer Crime** introduced new offences into the Penal Code including computer forgery (Article 210bis), computer fraud (Article 504quater), hacking (Article 550bis), and data/system interference (Article 550ter) [2]. Procedural amendments through 2016 brought Belgian procedural law into full alignment with the Budapest Convention, including provisions on expedited preservation and partial disclosure of traffic data [3].
