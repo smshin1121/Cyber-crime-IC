@@ -28,6 +28,7 @@ notable_operations:
   - "[[e-note-crypto-exchange-takedown-2025]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
+  - "[[black-axe-switzerland-takedown-2026]]"
 notable_cases:
 
 criminalization_status:
@@ -36,7 +37,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 7
+source_count: 8
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -45,6 +46,7 @@ sources:
   - "[[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]]"
   - "[[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown]]"
   - "[[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown]]"
+  - "[[2026-04-28_europol_black-axe-switzerland-10-arrests]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -109,3 +111,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [5] | [[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown\|U.S. and International Partners Take Down E-Note Crypto Exchange and Indict Russian Operator]] | USAO-EDMI / FBI Detroit / Michigan State Police | 2025-12-17 | https://www.justice.gov/usao-edmi/news-and-press-releases-9 |
 | [6] | [[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown\|Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe]] | Eurojust | 2025-09-23 | https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe |
 | [7] | [[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown\|Decisive actions against cryptocurrency scammers earning over EUR 600 million]] | Eurojust | 2025-11-04 | https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million |
+| [8] | [[2026-04-28_europol_black-axe-switzerland-10-arrests\|Europol supports hit against 'Black Axe' criminal organisation in Switzerland: 10 arrests]] | Europol | 2026-04-28 | https://www.europol.europa.eu/media-press/newsroom/news/europol-supports-hit-against-black-axe-criminal-organisation-in-switzerland-10-arrests |

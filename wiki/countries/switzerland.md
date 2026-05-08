@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "fedpol (Federal Office of Police)"
   mlat: "Federal Office of Justice (Bundesamt für Justiz, BJ)"
@@ -36,6 +36,7 @@ operations_participated:
   - "[[operation-contender-2]]"
   - "[[operation-us-v-vyacheslav-igorevich-penchukov]]"
   - "[[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]]"
+  - "[[black-axe-switzerland-takedown-2026]]"
 region: western-europe
 source_count: 1
 sources:
@@ -45,12 +46,10 @@ treaty_memberships:
   - date: 2011-09-21
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
 updated: 2026-05-09

@@ -86,6 +86,7 @@ related_cases:
 
 related_operations:
   - "[[operation-jackal-iii]]"
+  - "[[black-axe-switzerland-takedown-2026]]"
 challenges_encountered:
 
 lessons_learned:
@@ -99,7 +100,7 @@ sources:
   - "[[2023-08-10_irishexaminer-com_34-arrested-in-ireland-as-part-of-interpol-operation-targeting-west-african-crime-syndicate]]"
   - "[[2023-08-08_brusselstimes-com_internet-scams-interpol-swoops-down-on-west-africa-based-criminal-networks]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-05-09
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Jackal was INTERPOL's first dedicated operation targeting **Black Axe** and similar West African organized crime groups, coordinated from 15 to 29 May 2023 across **21 countries** on five continents. The operation resulted in **103 arrests**, identification of **1,110 suspects**, blocking of **208 bank accounts**, and seizure/freezing of **EUR 2.15 million**. Black Axe is identified as responsible for the majority of the world's cyber-enabled financial fraud, particularly business email compromise (BEC)."

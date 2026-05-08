@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | Europol 2026-04-28 — Black Axe Switzerland takedown (Zurich-led, 10 arrests, CH-DE)
+- Source: `raw/press-releases/2026-04-28_europol_black-axe-switzerland-10-arrests.md` (Europol newsroom press release; tier-1 primary)
+- Pages created: [[2026-04-28_europol_black-axe-switzerland-10-arrests]] (source summary), [[black-axe-switzerland-takedown-2026]] (operation, case_id `CYB-2026-037`)
+- Pages updated: [[switzerland]], [[germany]] (operations_participated); [[europol-ec3]] (operations_participated); [[online-fraud-ic]], [[money-laundering-ic]] (notable_operations + sources + body Reference rows); related_operations cross-links to [[operation-jackal]], [[operation-jackal-iii]], [[black-axe-bec-2021]]; index/master indexes reconciled.
+- Key findings: Zurich-led (Staatsanwaltschaft II Zürich + Kantonspolizei + Stadtpolizei + 5 other Swiss cantons) action day on 2026-04-28 with German support (Bavarian State Criminal Police Office); 10 arrests including Black Axe "Regional Head" for Southern Europe; predicate offences are romance scams + other cyber-fraud + money laundering, with damages in millions of CHF. Europol contributed information analysis and a data sprint held in Madrid. First wiki record of the @ON Network (Project ISF4@ON, EU-funded) led by the Italian Antimafia Investigation Directorate (DIA) as an analytical-support mechanism for a non-Italian Black Axe action day. Switzerland (non-EU) acting as action-day lead with a single named EU participating country (Germany) is a novel pattern in the Black Axe corpus.
+
 ## [2026-05-09] ingest | Eurojust 2025-11-04 — €600M cryptocurrency money-laundering takedown (FR-BE-CY-DE-ES, JIT-anchored)
 - Source: `raw/press-releases/2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown.md` (Eurojust press release, tier-1 primary)
 - Pages created: [[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown]] (source summary), [[eurojust-600m-crypto-money-laundering-takedown-2025]] (operation, case_id `CYB-2025-205`)

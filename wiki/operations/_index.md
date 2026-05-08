@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (153 canonical / 27 absorbed / 180 records)
+# Operations (154 canonical / 27 absorbed / 181 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (153)
+## Canonical Operations (154)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -155,6 +155,7 @@ updated: 2026-04-14
 | [[operation-switch-off-illegal-iptv-2026]] | CYB-2026-034 | 3 | completed | umbrella | 3 | 4.20 | 1 |
 | [[albania-austria-call-centre-investment-fraud-2026]] | CYB-2026-035 | 3 | completed | umbrella | 3 | 4.30 | 1 |
 | [[dnipro-fraudulent-call-centre-takedown-2026]] | CYB-2026-036 | 3 | completed | umbrella | 3 | 4.15 | 1 |
+| [[black-axe-switzerland-takedown-2026]] | CYB-2026-037 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |
 | [[bidencash-takedown]] | — | 3 | completed | umbrella | 4 | 4.50 | 1 |

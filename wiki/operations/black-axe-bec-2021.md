@@ -58,7 +58,7 @@ missing_fields:
 related_cases:
 
 related_operations:
-
+  - "[[black-axe-switzerland-takedown-2026]]"
 challenges_encountered:
   - "The operation targeted a distributed West African criminal ecosystem rather than a single defendant or platform."
 lessons_learned:
@@ -70,7 +70,7 @@ sources:
   - "[[2024-08-28_interpol_operation-jackal-iii-black-axe]]"
   - "[[2022-10-21_vanguardngr-com_interpol-arrests-over-70-suspected-fraudsters-linked-to-black-axe-cult-in-nigeria]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-05-09
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL's Operation Jackal was a multinational crackdown on Black Axe and related West African cyber-enabled financial crime groups. Officially announced on 2022-10-14, it produced 75 arrests, 49 searches, and EUR 1.2 million intercepted in bank accounts."
