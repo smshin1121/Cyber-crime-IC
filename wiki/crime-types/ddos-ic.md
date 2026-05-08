@@ -25,6 +25,7 @@ notable_operations:
   - "[[ddos-for-hire-sweep-2016]]"
   - "[[operation-pleiades]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[operation-power-off-2025-05]]"
 notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
 criminalization_status:
@@ -33,7 +34,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 6
+source_count: 7
 sources:
   - "[[fbi-international-ddos-for-hire-sweep]]"
   - "[[cyberscoop-international-ddos-for-hire-sweep]]"
@@ -41,6 +42,7 @@ sources:
   - "[[2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages]]"
   - "[[2026-04-13_europol_operation-poweroff-75000-ddos-users]]"
   - "[[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname]]"
+  - "[[2025-05-07_europol_ddos-for-hire-empire-poland-4-administrators-us-9-domains]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: active
@@ -75,3 +77,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [4] | [[2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages|Law Enforcement Seizes 9 DDoS-for-Hire Webpages as Part of Global Crackdown on ‘Booter’ and ‘Stresser’ DDoS Services]] | US DOJ CDCA | 2024-09-01 | https://www.justice.gov/usao-cdca/pr/law-enforcement-seizes-9-ddos-hire-webpages-part-global-crackdown-booter-and-stresser |
 | [5] | [[2026-04-13_europol_operation-poweroff-75000-ddos-users\|Europol-supported global operation targets over 75 000 users engaged in DDoS attacks – Operation PowerOFF is a global effort aimed at dismantling criminal DDoS-for-hire infrastructure]] | Europol | 2026-04-13 | https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks |
 | [6] | [[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname\|Justice Department Announces Actions to Combat Two Russian State-Sponsored Cyber Criminal Hacking Groups]] | US DOJ (OPA) | 2025-12-10 | https://www.justice.gov/opa/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal |
+| [7] | [[2025-05-07_europol_ddos-for-hire-empire-poland-4-administrators-us-9-domains\|DDoS-for-hire empire brought down: Poland arrests 4 administrators, US seizes 9 domains]] | Europol | 2025-05-07 | https://www.europol.europa.eu/media-press/newsroom/news/ddos-for-hire-empire-brought-down-poland-arrests-4-administrators-us-seizes-9-domains |

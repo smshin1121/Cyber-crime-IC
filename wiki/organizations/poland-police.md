@@ -6,8 +6,7 @@ contact_point_for:
 
 country: "[[poland]]"
 jurisdiction:
-  -
-    - poland
+
 created: 2026-04-10
 established: 2022-01-12
 headquarters: "ul. Wąwozowa 18, Warsaw, Poland"
@@ -16,7 +15,7 @@ key_roles:
   - "Cooperation with Europol EC3 and Interpol"
   - "Prevention of IT-system-related criminal offences"
   - "Target staffing of 1,800 officers by 2025"
-last_verified: 2026-04-10
+last_verified: 2026-05-09
 mandate: "Polish police service with nationwide competence to recognize and combat"
 notable_cases:
 
@@ -27,6 +26,7 @@ operations_participated:
   - "[[operation-morpheus]]"
   - "[[operation-firewall]]"
   - "[[operation-power-off]]"
+  - "[[operation-power-off-2025-05]]"
 org_type: national-unit
 parent_org: "Komenda Główna Policji (Police Headquarters, Ministry of Interior and"
 source_count: 3
@@ -35,7 +35,7 @@ sources:
 status: active
 title: "Central Bureau for Combating Cybercrime (CBZC) — Poland"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-09
 ---
 ## Summary
 

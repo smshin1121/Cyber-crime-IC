@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | Europol 2025-05-07 — Operation PowerOFF May 2025 phase (Polish-led DDoS-for-hire empire takedown, PL/US/DE/NL)
+- Source: `raw/press-releases/2025-05-07_europol_ddos-for-hire-empire-poland-4-administrators-us-9-domains.md` (Europol newsroom press release; tier-1 primary)
+- Pages created: [[2025-05-07_europol_ddos-for-hire-empire-poland-4-administrators-us-9-domains]] (source summary), [[operation-power-off-2025-05]] (operation, case_id `CYB-2025-214`, parent_operation [[operation-power-off]])
+- Pages updated: [[poland]], [[united-states]], [[germany]], [[netherlands]] (operations_participated); [[europol-ec3]], [[poland-police]], [[fbi]], [[us-doj]], [[germany-bka]], [[dutch-police]] (operations_participated); [[ddos-ic]] (notable_operations + sources + body Reference row); related_operations cross-links to [[operation-power-off]] and [[operation-power-off-2026-04]]; index/master indexes reconciled.
+- Key findings: Polish CBZC arrested 4 administrators of 6 stresser/booter services (Cfxapi, Cfxsecurity, neostress, jetstress, quickdown, zapcut, active 2022-2025); US (USDOJ + FBI + HSI + DCIS) seized 9 booter-service domains during the coordinated week; Dutch authorities deployed fake booter sites as warnings + shared data from Dutch data-centre infrastructure seizures with Poland; German BKA + ZIT Frankfurt identified one suspect and shared intelligence on others; Europol EC3 analytical and operational support throughout. First wiki record of: (a) Polish Central Cybercrime Bureau (CBZC) as lead Polish federal-cybercrime authority for an Operation PowerOFF phase; (b) Dutch fake-booter-site warning methodology as a discrete deception-based deterrence IC mechanism class.
+
 ## [2026-05-09] ingest | Treasury 2025-10-14 — US-UK largest-ever sanctions action vs SE Asia cybercriminal networks (Prince Group TCO + Huione Group)
 - Source: `raw/press-releases/2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia.md` (US Treasury press release SB0278; tier-1 primary)
 - Pages created: [[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia]] (source summary), [[us-uk-prince-group-tco-huione-group-sanctions-2025]] (operation, case_id `CYB-2025-213`)

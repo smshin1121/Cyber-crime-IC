@@ -58,6 +58,7 @@ operations_participated:
   - "[[e-note-crypto-exchange-takedown-2025]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[operation-power-off-2025-05]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

@@ -57,7 +57,8 @@ organizations:
 mechanisms_used:
   - "[[search-seizure]]"
   - "[[domain-seizure]]"
-legal_basis: []
+legal_basis:
+  []
 results:
   arrests: 4
   indictments: 0
@@ -73,35 +74,38 @@ results:
     - "21 jurisdictions joined the action week"
     - "Operational sprints leading up to the action week targeted high-value users of DDoS-for-hire platforms across the globe"
 edges:
-  - source_actor: "europol-ec3"
-    target_actor: "united-states"
+  - source_actor: europol-ec3
+    target_actor: united-states
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "japan"
+  - source_actor: europol-ec3
+    target_actor: japan
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "thailand"
+  - source_actor: europol-ec3
+    target_actor: thailand
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "brazil"
+  - source_actor: europol-ec3
+    target_actor: brazil
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  - "indictments"
-  - "servers_seized"
-related_cases: []
+  - indictments
+  - servers_seized
+related_cases:
+  []
 related_operations:
   - "[[operation-power-off]]"
-challenges_encountered: []
+  - "[[operation-power-off-2025-05]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Operation PowerOFF's 2026 action-week scope (21 countries, including Japan, Thailand, Brazil and Australia outside the EU/Five-Eyes core) materially extends the umbrella's geographic reach beyond its 2018 European-anchored origins."
   - "The user-warning methodology (75 000+ warning letters; 3 million+ criminal user accounts identified) reinforces an SNA pattern in which booter takedowns generate large-scale prevention messaging downstream of infrastructure seizure rather than focusing on narrow apex-user prosecution."
@@ -110,7 +114,7 @@ sources:
   - "[[2026-04-13_europol_operation-poweroff-75000-ddos-users]]"
 summary: "The 2026-04 action week under the long-running [[operation-power-off|Operation PowerOFF]] umbrella, coordinated by Europol, targeting DDoS-for-hire (booter) infrastructure and users. The 21-country roster (verbatim from the Europol release) includes Australia, Austria, Belgium, Brazil, Bulgaria, Denmark, Estonia, Finland, Germany, Japan, Latvia, Lithuania, Luxembourg, Netherlands, Norway, Poland, Portugal, Sweden, Thailand, the United Kingdom, and the United States. Reported results: 53 domains taken down, 4 arrests, 25 search warrants, 75 000+ user-warning communications, and 3 million+ criminal user accounts identified in seized booter-service databases."
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

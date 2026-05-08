@@ -160,6 +160,7 @@ operations_participated:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
+  - "[[operation-power-off-2025-05]]"
 region: north-america
 source_count: 1
 sources:

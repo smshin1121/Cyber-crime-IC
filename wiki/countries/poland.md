@@ -35,6 +35,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-power-off-2025-05]]"
 region: eastern-europe
 source_count: 3
 sources:

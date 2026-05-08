@@ -174,6 +174,7 @@ related_operations:
   - "[[ddos-for-hire-sweep-2016]]"
   - "[[operation-us-v-miller-poweroff]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[operation-power-off-2025-05]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
   - "Reconstituted booter services repeatedly reappeared under new domains after earlier seizures."
@@ -194,7 +195,7 @@ sources:
   - "[[2024-12-12_cyberscoop-com_international-crackdown-disrupts-ddos-for-hire-operations]]"
   - "[[2024-12-12_theregister-com_operation-poweroff-extinguishes-18-more-ddos-booters]]"
 created: 2026-04-10
-updated: 2026-05-08
+updated: 2026-05-09
 summary: "Operation PowerOFF is an ongoing multi-phase international law enforcement campaign against DDoS-for-hire booter and stresser services. Public Europol and DOJ records show recurring enforcement from 2018 through the April 2026 action week, combining domain seizures, administrator arrests, U.S. prosecutions, user identification, warning campaigns, and public-private cooperation. The latest documented phase involved 21 countries, 53 domain takedowns, 25 search warrants, 4 arrests, more than 75,000 warning messages, and intelligence derived from more than 3 million user accounts."
 ---
 # Operation PowerOFF

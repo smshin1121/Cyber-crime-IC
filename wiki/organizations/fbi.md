@@ -67,6 +67,7 @@ operations_participated:
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
+  - "[[operation-power-off-2025-05]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

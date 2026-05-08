@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (164 canonical / 27 absorbed / 191 records)
+# Operations (165 canonical / 27 absorbed / 192 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (164)
+## Canonical Operations (165)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -148,6 +148,7 @@ updated: 2026-04-14
 | [[project-compass-the-com-network-2025]] | CYB-2025-211 | 3 | ongoing | umbrella | 1 | 4.00 | 1 |
 | [[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]] | CYB-2025-212 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[us-uk-prince-group-tco-huione-group-sanctions-2025]] | CYB-2025-213 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[operation-power-off-2025-05]] | CYB-2025-214 | 3 | completed | follow-on | 1 | 4.00 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |

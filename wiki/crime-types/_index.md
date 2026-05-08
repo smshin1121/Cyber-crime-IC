@@ -23,7 +23,7 @@ updated: 2026-04-27
 | [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | — | 3 |
 | [[dark-web-ic]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025 | 5 |
 | [[ddos-extortion]] | — | — | — | — | 1 |
-| [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 6 |
+| [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 7 |
 | [[drug-trafficking]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025 | 5 |
 | [[extortion-ic]] | — | — | — | project-compass-the-com-network-2025, us-uk-prince-group-tco-huione-group-sanctions-2025 | 3 |
 | [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03, leakbase-takedown-2026 | 8 |
