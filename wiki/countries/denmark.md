@@ -32,6 +32,7 @@ operations_participated:
   - "[[darkmarket-takedown|DarkMarket Takedown]]"
   - "[[operation-power-off-2026-04]]"
   - "[[operation-endgame-phase3]]"
+  - "[[project-compass-the-com-network-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
@@ -39,7 +40,7 @@ source_count: 1
 sources:
   - "[[2026-04-17_en-wikipedia-org_national-special-crime-unit-denmark]]"
 created: 2026-04-11
-updated: 2026-05-08
+updated: 2026-05-09
 status: corpus-linked
 ---
 ## Summary

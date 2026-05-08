@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (161 canonical / 27 absorbed / 188 records)
+# Operations (162 canonical / 27 absorbed / 189 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (161)
+## Canonical Operations (162)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -145,6 +145,7 @@ updated: 2026-04-14
 | [[spf-fpb-operation-cryptoscam-2025]] | CYB-2025-207 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]] | CYB-2025-209 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[archetyp-market-takedown-operation-deep-sentinel-2025]] | CYB-2025-210 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[project-compass-the-com-network-2025]] | CYB-2025-211 | 3 | ongoing | umbrella | 1 | 4.00 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |

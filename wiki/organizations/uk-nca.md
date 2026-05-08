@@ -62,6 +62,7 @@ operations_participated:
   - "[[operation-cronos-phase2]]"
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
+  - "[[project-compass-the-com-network-2025]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

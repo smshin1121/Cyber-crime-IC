@@ -8,14 +8,14 @@ treaty_memberships:
   - not-assessed
 ic_capacity: not-assessed
 operations_participated:
-
+  - "[[project-compass-the-com-network-2025]]"
 source_count: 0
 created: 2026-04-20
-updated: 2026-05-03
+updated: 2026-05-09
 status: needs-official-source-ingestion
-last_verified: 2026-05-03
+last_verified: 2026-05-09
 sources:
-  []
+
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---

@@ -34,6 +34,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[project-compass-the-com-network-2025]]"
 region: western-europe
 source_count: 3
 sources:

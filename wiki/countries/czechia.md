@@ -10,6 +10,7 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[project-compass-the-com-network-2025]]"
 source_count: 0
 sources:
 

@@ -39,6 +39,7 @@ operations_participated:
   - "[[leakbase-takedown-2026]]"
   - "[[operation-endgame-phase3]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[project-compass-the-com-network-2025]]"
 region: north-america
 source_count: 5
 sources:

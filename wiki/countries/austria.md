@@ -31,6 +31,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[project-compass-the-com-network-2025]]"
 notable_cases:
 
 cooperation_assessment: ""

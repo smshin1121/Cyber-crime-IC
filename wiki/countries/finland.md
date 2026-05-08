@@ -36,6 +36,7 @@ operations_participated:
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[project-compass-the-com-network-2025]]"
 region: northern-europe
 source_count: 6
 sources:

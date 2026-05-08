@@ -59,6 +59,7 @@ operations_participated:
   - "[[operation-endgame-phase3]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[project-compass-the-com-network-2025]]"
 region: western-europe
 source_count: 5
 sources:

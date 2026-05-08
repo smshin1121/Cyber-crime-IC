@@ -39,6 +39,7 @@ operations_participated:
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[project-compass-the-com-network-2025]]"
 region: eastern-europe
 source_count: 4
 sources:

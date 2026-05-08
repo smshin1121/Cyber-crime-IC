@@ -10,27 +10,29 @@ criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
-    []
+
 estimated_annual_loss: "unquantifiable (harm to children)"
 key_organizations:
   - "[[europol-ec3]]"
   - "[[interpol-igci]]"
   - "[[ncmec|NCMEC]]"
 notable_cases:
-  []
+
 notable_operations:
   - "[[operation-stream-kidflix]]"
   - "[[operation-cyber-guardian]]"
   - "[[operation-orion-international]]"
   - "[[operation-eclipse-csam-americas]]"
+  - "[[project-compass-the-com-network-2025]]"
 relevant_legal_frameworks:
-  []
-source_count: 4
+
+source_count: 5
 sources:
   - "[[2026-03-05_interpol_operation-eclipse-csam-americas]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
   - "[[2025-04-04_securityaffairs-com_operation-stream-kidflix]]"
   - "[[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam]]"
+  - "[[2026-02_europol_project-compass-the-com-network]]"
 title: "CSAM (Child Sexual Abuse Material) — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -39,7 +41,7 @@ typical_ic_challenges:
 typical_mechanisms:
   - "[[interpol-icse-database|INTERPOL ICSE Database]]"
   - "[[europol-vidtf|Europol Victim Identification Task Force]]"
-updated: "2026-05-08"
+updated: 2026-05-09
 status: active
 ---
 ## Summary
@@ -70,3 +72,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [2] | [[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america|20 rescued, 144 arrested in major child abuse operation across South America]] | INTERPOL | 2024-09-26 | https://www.interpol.int/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America |
 | [3] | [[2025-04-04_securityaffairs-com_operation-stream-kidflix|Operation Stream / Kidflix]] | Security Affairs / TRM Labs | 2025-04-04 | https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html |
 | [4] | [[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam|Operation Cyber Guardian: Asia 6-Country Joint Crackdown on Child Sexual Abuse Material]] | Korea Policy Briefing / Seoul Shinmun | 2025-04-07 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866 |
+| [5] | [[2026-02_europol_project-compass-the-com-network\|Project Compass — A project dedicated to fighting against The Com (Europol Operations page)]] | Europol European Counter Terrorism Centre (ECTC) | 2026-02 (approx.) | https://www.europol.europa.eu/how-we-work/operations/project-compass |

@@ -7,6 +7,7 @@ legal_system: not-assessed
 operations_participated:
   - "[[operation-avalanche]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[project-compass-the-com-network-2025]]"
 region: western-europe
 source_count: 0
 sources:

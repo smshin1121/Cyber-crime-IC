@@ -10,9 +10,10 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[operation-perfect-storm-pay-tv-piracy-2019]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[project-compass-the-com-network-2025]]"
 source_count: 0
 sources:
-  []
+
 created: 2026-05-04
 updated: 2026-05-09
 status: needs-official-source-ingestion

@@ -45,6 +45,7 @@ operations_participated:
   - "[[operation-endgame-phase3]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
+  - "[[project-compass-the-com-network-2025]]"
 region: western-europe
 source_count: 6
 sources:

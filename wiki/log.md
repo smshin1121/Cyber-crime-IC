@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | Europol ECTC — Project Compass against The Com network (28-country, January 2025 — ongoing)
+- Source: `raw/policy-documents/2026-02_europol_project-compass-the-com-network.md` (Europol Operations / Project Compass page; tier-1 primary)
+- Pages created: [[2026-02_europol_project-compass-the-com-network]] (source summary), [[project-compass-the-com-network-2025]] (operation, case_id `CYB-2025-211`)
+- Pages updated: 30 country pages (AU/AT/BE/CA/HR/CZ/DK/FI/FR/DE/EL/HU/IS/IE/IT/LU/MT/NL/NZ/NO/PL/PT/RO/SK/SI/ES/SE/CH/UK/US) operations_participated; 4 org pages (europol-ec3/fbi/uk-nca/canada-rcmp) operations_participated; [[csam-ic]], [[extortion-ic]] (notable_operations + sources); related_operations cross-links to [[operation-stream-kidflix]], [[labhost-phishing-as-a-service-takedown-2024]]; index/master indexes reconciled.
+- Key findings: Europol European Counter Terrorism Centre (ECTC)–coordinated 28-country project active since January 2025 targeting The Com (nihilistic extremist transnational virtual network). Subgroups: Cyber Com (network intrusions / ransomware), Offline Com (terrorism), (S)extortion Com (CSAM extortion of minors); subgroup 764 active since 2021 (recruitment/grooming/violence). Results snapshot: 30 perpetrators arrested (contributed to AP Dolphin); 4 victims safeguarded; 62 identified or partial victims; 179 identified or partial perpetrators; 9 awareness-raising activities. First wiki record of: (a) Europol ECTC as coordination authority for a long-running cybercrime+extremism cooperation project; (b) 28-country roster combining Five Eyes + 22 EU MS + 3 EFTA partners; (c) "data sprints" as a discrete IC mechanism class; (d) The Com / 764 as a wiki entity bridging cybercrime, CSAM, and counter-terrorism corpora.
+
 ## [2026-05-09] ingest | Eurojust 2022-11-10 — Massive cryptocurrency investment fraud takedown (Sweden-led 8-country JIT, 10-country action 2022-11-08→2022-11-09)
 - Source: `raw/press-releases/2022-11-10_eurojust_massive-investment-fraud-hundreds-thousands-victims.md` (Eurojust press release; tier-1 primary)
 - Pages created: [[2022-11-10_eurojust_massive-investment-fraud-hundreds-thousands-victims]] (source summary), [[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]] (operation, case_id `CYB-2022-201`)

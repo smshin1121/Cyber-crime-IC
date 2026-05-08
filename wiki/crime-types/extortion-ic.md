@@ -3,13 +3,16 @@ type: crime-type
 title: "Extortion — IC Perspective"
 status: corpus-linked
 created: 2026-04-10
-updated: "2026-04-29"
-last_verified: 2026-04-10
-source_count: 1
+updated: 2026-05-09
+last_verified: 2026-05-09
+source_count: 2
 sources:
   - "[[europol-operation-pleiades]]"
+  - "[[2026-02_europol_project-compass-the-com-network]]"
 category: cybercrime-related
 broadly_criminalized: varies-by-jurisdiction
+notable_operations:
+  - "[[project-compass-the-com-network-2025]]"
 ---
 ## Summary
 

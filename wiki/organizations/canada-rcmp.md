@@ -43,6 +43,7 @@ operations_participated:
   - "[[operation-disruptor]]"
   - "[[operation-endgame-phase3]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[project-compass-the-com-network-2025]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
 source_count: 3

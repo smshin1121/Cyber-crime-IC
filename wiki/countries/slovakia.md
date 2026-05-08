@@ -3,17 +3,19 @@ type: country
 title: Slovakia
 status: needs-official-source-ingestion
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-09
 source_count: 0
 sources:
-  []
-last_verified: 2026-05-07
+
+last_verified: 2026-05-09
 legal_system: not-assessed
 ic_capacity: not-assessed
 treaty_memberships:
   - not-assessed
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+operations_participated:
+  - "[[project-compass-the-com-network-2025]]"
 ---
 ## Summary
 

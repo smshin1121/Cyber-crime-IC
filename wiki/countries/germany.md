@@ -64,6 +64,7 @@ operations_participated:
   - "[[black-axe-switzerland-takedown-2026]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[project-compass-the-com-network-2025]]"
 region: western-europe
 source_count: 5
 sources:

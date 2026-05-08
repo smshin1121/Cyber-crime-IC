@@ -10,6 +10,7 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[operation-onymous|Operation Onymous]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[project-compass-the-com-network-2025]]"
 source_count: 0
 sources:
 
