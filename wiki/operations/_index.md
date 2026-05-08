@@ -127,7 +127,7 @@ updated: 2026-04-14
 | [[operation-catalyst]] | CYB-2025-018 | 3 | completed | umbrella | 3 | 4.15 | 1 |
 | [[operation-pangea-xvii]] | CYB-2025-019 | 3 | completed | umbrella | 4 | 4.40 | 1 |
 | [[operation-chakra-iv]] | CYB-2025-021 | 3 | completed | umbrella | 3 | 3.00 | 3 |
-| [[operation-chakra-v]] | CYB-2025-022 | 3 | completed | umbrella | 1 | 2.60 | 3 |
+| [[operation-chakra-v]] | CYB-2025-022 | 3 | completed | umbrella | 3 | 3.10 | 3 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
 | [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | umbrella | 5 | 4.50 | 2 |
 | [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | umbrella | 5 | 4.60 | 2 |

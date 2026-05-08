@@ -48,6 +48,7 @@ results:
     - "Searches conducted at 19 locations across Delhi, Haryana, and Uttar Pradesh."
     - "Two illegal call centers dismantled."
     - "The scam targeted Japanese citizens through technical-support impersonation."
+    - "Hindustan Times reported alleged losses of over INR 1.2 crore, about 20.3 million Japanese yen."
 edges:
   - source_actor: "CBI India"
     target_actor: "Japan National Police Agency"
@@ -59,10 +60,9 @@ edges:
     cooperation_type: public_private_cooperation
     legal_basis: informal
     direction: undirected
-credibility_index: 2.6
+credibility_index: 3.1
 source_tier: 3
-missing_fields:
-  - loss_total
+missing_fields: []
 related_cases: []
 related_operations:
   - "[[operation-chakra-ii]]"
@@ -71,11 +71,13 @@ related_operations:
 challenges_encountered: []
 lessons_learned:
   - "Foreign victim intelligence plus private-sector technical support can identify cross-border call-center fraud infrastructure."
-source_count: 1
+source_count: 3
 sources:
   - "[[2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam]]"
+  - "[[2025-05-29_abplive-com_operation-chakra-v-cbi-crackdown-global-tech-support-scam-japan]]"
+  - "[[2025-05-30_hindustantimes-com_cbi-busts-two-illegal-call-centres-cheating-japan-citizens-6-held]]"
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Chakra-V was a CBI-led action against two illegal tech-support scam call centers targeting Japanese citizens. CBI coordinated with Japan's National Police Agency and Microsoft, searched 19 locations, and arrested six operatives."
@@ -106,6 +108,7 @@ The source states that CBI worked closely with Japan's National Police Agency an
 | Locations searched | 19 |
 | Illegal call centers dismantled | 2 |
 | Victim country | Japan |
+| Alleged victim losses | Over INR 1.2 crore / about JPY 20.3 million |
 
 ## Scope Note
 
@@ -116,3 +119,5 @@ This page is included under [[voice-phishing-ic]] because the target was an ille
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Operation Chakra-V: CBI busts transnational scam that posed as tech support to cheat Japanese citizens | The New Indian Express | 2025-05-29 | https://www.newindianexpress.com/nation/2025/May/29/operation-chakra-v-cbi-busts-transnational-scam-that-posed-as-tech-support-to-cheat-japanese-citizens |
+| [2] | What Is Operation Chakra V? Inside CBI's Crackdown On Global Cyber Scam Targeting Japanese Citizens | ABP Live | 2025-05-29 | https://news.abplive.com/cities/cbi-operation-chakra-v-busts-global-tech-support-scam-japan-1775783 |
+| [3] | CBI busts two illegal call centres cheating Japan citizens; 6 held | Hindustan Times | 2025-05-30 | https://www.hindustantimes.com/cities/delhi-news/cbi-busts-two-illegal-call-centres-cheating-japan-citizens-6-held-101748543262322.html |

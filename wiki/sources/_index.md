@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (652)
+# Sources (654)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -114,7 +114,9 @@ updated: 2026-04-14
 | [[2025-06-04_justice-gov_in-re-seizure-of-bidencash-marketplace-domains-and-cryptocurrency]] | press-release | US DOJ (Eastern District of Virginia) | ? | high | ? |
 | [[2025-06-01_therecord-media_us-and-netherlands-take-down-bidencash-cybercrime-marketplace-infrastructure]] | press-release | The Record | ? | high | ? |
 | [[2025-06-01_thehackernews-com_doj-seizes-145-domains-tied-to-bidencash-marketplace]] | press-release | The Hacker News | ? | medium | ? |
+| [[2025-05-30_hindustantimes-com_cbi-busts-two-illegal-call-centres-cheating-japan-citizens-6-held]] | news | Hindustan Times | ? | medium | ? |
 | [[2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam]] | news | The New Indian Express | ? | medium | ? |
+| [[2025-05-29_abplive-com_operation-chakra-v-cbi-crackdown-global-tech-support-scam-japan]] | news | ABP Live | ? | medium | ? |
 | [[2025-05-28_krebsonsecurity-com_pakistan-arrests-21-in-heartsender-malware-service]] | press-release | KrebsOnSecurity | ? | medium | ? |
 | [[2025-05-28-thehackernews-danabot-malware]] | news | The Hacker News | ? | medium | ? |
 | [[the-hacker-news-operation-endgame-phase-2-ransomware-kill-chain-disrup]] | news | The Hacker News | 3 | medium | ? |

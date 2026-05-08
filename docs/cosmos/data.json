@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T04:22:59Z",
+  "generated_at": "2026-05-08T04:39:18Z",
   "root": null,
   "stats": {
-    "total_nodes": 1304,
-    "total_edges": 12262,
+    "total_nodes": 1306,
+    "total_edges": 12264,
     "broken_links": 0,
     "orphans": 106,
     "by_type": {
@@ -19,7 +19,7 @@
       "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 652
+      "source": 654
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4868 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4870 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -6870,10 +6870,10 @@
         "Chakra 5"
       ],
       "summary": "Operation Chakra-V was a CBI-led action against two illegal tech-support scam call centers targeting Japanese citizens. CBI coordinated with Japan's National Police Agency and Microsoft, searched 19 locations across Delhi, Haryana, and Uttar…",
-      "source_count": 1,
+      "source_count": 3,
       "created": "2026-05-05",
-      "updated": "2026-05-05",
-      "degree": 27,
+      "updated": "2026-05-08",
+      "degree": 29,
       "path": "wiki/operations/operation-chakra-v.md",
       "meta": {
         "status": "completed",
@@ -19315,6 +19315,20 @@
       "meta": {}
     },
     {
+      "id": "2025-05-29_abplive-com_operation-chakra-v-cbi-crackdown-global-tech-support-scam-japan",
+      "type": "source",
+      "title": "What Is Operation Chakra V? Inside CBI's Crackdown On Global Cyber Scam Targeting Japanese Citizens",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary ABP Live provides an explanatory media account of Operation Chakra V, corroborating the six arrests, 19 searches, two illegal call centers, Japan-victim targeting, and Microsoft/Japan NPA cooperation. ## Relevance to IC The source…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 1,
+      "path": "wiki/sources/2025-05-29_abplive-com_operation-chakra-v-cbi-crackdown-global-tech-support-scam-japan.md",
+      "meta": {}
+    },
+    {
       "id": "2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam",
       "type": "source",
       "title": "Operation Chakra-V: CBI busts transnational scam that posed as tech support to cheat Japanese citizens",
@@ -19326,6 +19340,20 @@
       "updated": null,
       "degree": 2,
       "path": "wiki/sources/2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-05-30_hindustantimes-com_cbi-busts-two-illegal-call-centres-cheating-japan-citizens-6-held",
+      "type": "source",
+      "title": "CBI busts two illegal call centres cheating Japan citizens; 6 held",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Hindustan Times corroborates Operation Chakra V's arrest, search, call-center, and Japan-victim facts and adds a public loss estimate of more than INR 1.2 crore, about 20.3 million Japanese yen. ## Relevance to IC The report…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 1,
+      "path": "wiki/sources/2025-05-30_hindustantimes-com_cbi-busts-two-illegal-call-centres-cheating-japan-citizens-6-held.md",
       "meta": {}
     },
     {
@@ -92543,6 +92571,12 @@
       "directed": false
     },
     {
+      "source": "2025-05-29_abplive-com_operation-chakra-v-cbi-crackdown-global-tech-support-scam-japan",
+      "target": "operation-chakra-v",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam",
       "target": "operation-chakra-v",
       "kind": "pages_updated",
@@ -92551,6 +92585,12 @@
     {
       "source": "2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam",
       "target": "voice-phishing-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-05-30_hindustantimes-com_cbi-busts-two-illegal-call-centres-cheating-japan-citizens-6-held",
+      "target": "operation-chakra-v",
       "kind": "pages_updated",
       "directed": true
     },
