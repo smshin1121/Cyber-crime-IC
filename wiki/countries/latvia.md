@@ -2,15 +2,16 @@
 created: 2026-04-10
 ic_capacity: not-assessed
 iso_code: LV
-last_verified: 2026-05-03
+last_verified: 2026-05-08
 legal_system: not-assessed
 operations_participated:
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 region: eastern-europe
 source_count: 0
 sources:
-  []
+
 title: "Republic of Latvia"
 treaty_memberships:
   - not-assessed

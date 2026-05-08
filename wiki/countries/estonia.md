@@ -8,19 +8,18 @@ cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
   procedural_powers:
-    []
+
   data_retention: ""
 treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: party
     date: ""
     reservations:
-      []
 central_authority:
   mlat: ""
   budapest: ""
 key_agencies:
-  []
+
 ic_capacity:
   rating: high
   digital_forensics: high
@@ -28,15 +27,15 @@ ic_capacity:
   english_proficiency: high
   avg_mlat_response_days: unknown
 bilateral_agreements:
-  []
+
 operations_participated:
-  []
+  - "[[operation-power-off-2026-04]]"
 notable_cases:
-  []
+
 cooperation_assessment: ""
 source_count: 3
 created: 2026-04-20
-updated: 2026-04-29
+updated: 2026-05-08
 status: corpus-linked
 sources:
   - "[[2019-03-21_justice-gov_estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement]]"

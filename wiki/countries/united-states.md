@@ -140,6 +140,7 @@ operations_participated:
   - "[[carbanak-cobalt-takedown]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 region: north-america
 source_count: 1
 sources:
@@ -148,11 +149,11 @@ title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
 updated: 2026-05-08

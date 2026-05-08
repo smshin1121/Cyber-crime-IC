@@ -29,7 +29,7 @@ key_agencies:
 last_verified: 2026-05-08
 legal_system: common-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -57,6 +57,7 @@ operations_participated:
   - "[[operation-us-v-onomen-uduebor]]"
   - "[[operation-us-v-banmeet-singh-dark-web]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 region: western-europe
 source_count: 5
 sources:
@@ -70,12 +71,10 @@ treaty_memberships:
   - date: 2011-05-25
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
 updated: 2026-05-08

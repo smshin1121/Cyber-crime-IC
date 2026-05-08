@@ -2,7 +2,7 @@
 type: operation
 title: "Operation PowerOFF"
 aliases:
-  - "PowerOFF"
+  - PowerOFF
   - "Power Off"
   - "Operation Power Off"
 case_id: CYB-2018-006
@@ -173,6 +173,7 @@ related_cases:
 related_operations:
   - "[[ddos-for-hire-sweep-2016]]"
   - "[[operation-us-v-miller-poweroff]]"
+  - "[[operation-power-off-2026-04]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
   - "Reconstituted booter services repeatedly reappeared under new domains after earlier seizures."

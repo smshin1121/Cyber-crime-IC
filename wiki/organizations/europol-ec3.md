@@ -115,6 +115,7 @@ operations_participated:
   - "[[operation-hyperion]]"
   - "[[operation-disruptor]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

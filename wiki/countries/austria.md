@@ -8,7 +8,7 @@ cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
   procedural_powers:
-    []
+
   data_retention: ""
 treaty_memberships:
   - not-assessed
@@ -16,7 +16,7 @@ central_authority:
   mlat: ""
   budapest: ""
 key_agencies:
-  []
+
 ic_capacity:
   rating: unknown
   digital_forensics: unknown
@@ -24,12 +24,13 @@ ic_capacity:
   english_proficiency: medium
   avg_mlat_response_days: unknown
 bilateral_agreements:
-  []
+
 operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
+  - "[[operation-power-off-2026-04]]"
 notable_cases:
-  []
+
 cooperation_assessment: ""
 source_count: 1
 sources:
@@ -37,7 +38,7 @@ sources:
 created: 2026-04-14
 updated: 2026-05-08
 status: needs-official-source-ingestion
-last_verified: 2026-04-29
+last_verified: 2026-05-08
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---

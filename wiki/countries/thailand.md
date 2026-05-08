@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: ""
   mlat: "Office of the Attorney General"
@@ -27,23 +27,23 @@ key_agencies:
 last_verified: 2026-05-08
 legal_system: civil-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[operation-haechi-vi]]"
   - "[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
   - "[[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 region: southeast-asia
 source_count: 3
 sources:
-  []
+
 title: "Kingdom of Thailand"
 treaty_memberships:
   - date: ""
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: non-party
 type: country
 updated: 2026-05-08

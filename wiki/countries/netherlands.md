@@ -30,7 +30,7 @@ key_agencies:
 last_verified: 2026-05-08
 legal_system: civil-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -53,6 +53,7 @@ operations_participated:
   - "[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]"
   - "[[operation-us-v-monroeville-man]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 region: western-europe
 source_count: 5
 sources:
@@ -66,12 +67,10 @@ treaty_memberships:
   - date: 2006-11-16
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
 updated: 2026-05-08

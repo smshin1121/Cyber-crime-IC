@@ -664,3 +664,14 @@
   - LeakBase: 142,000+ members, 215,000+ messages, two domains seized, no per-country arrest counts disclosed in the cited tier-1 source.
   - DOJ release explicitly chains the takedown with predecessor RaidForums (2022) and BreachForums (2023, founder convicted 2025) — establishing a US-led / Europol-coordinated takedown cycle on the open-web English-language cybercriminal-forum vertical.
   - Korean involvement not named in cited tier-1 source — South Korea not added to `participating_countries`.
+
+
+## [2026-05-08] ingest | Europol 2026-04-13 — Operation PowerOFF (2026 action week, 21 countries)
+- Source: raw/press-releases/2026-04-13_europol_operation-poweroff-75000-ddos-users.md (Europol newsroom; participating-country roster + methodology paragraphs preserved verbatim from `window.SERVER_DATA.body`)
+- Pages created: wiki/operations/operation-power-off-2026-04.md (follow-on to umbrella `[[operation-power-off]]`), wiki/sources/2026-04-13_europol_operation-poweroff-75000-ddos-users.md
+- Pages updated: 21 country pages (AU, AT, BE, BR, BG, DK, EE, FI, DE, JP, LV, LT, LU, NL, NO, PL, PT, SE, TH, UK, US — `operations_participated`), 1 organization page (europol-ec3 — `operations_participated`), 1 crime-type page (ddos-ic — `notable_operations` + sources), 1 parent operation (operation-power-off — `related_operations`). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - 2026-04-13 Operation PowerOFF action week verbatim 21-country roster preserved: Australia, Austria, Belgium, Brazil, Bulgaria, Denmark, Estonia, Finland, Germany, Japan, Latvia, Lithuania, Luxembourg, Netherlands, Norway, Poland, Portugal, Sweden, Thailand, United Kingdom, United States.
+  - Reported results: 53 domains taken down, 4 arrests, 25 search warrants, 75 000+ user-warning communications, 3 million+ criminal user accounts identified in seized booter-service databases.
+  - Korean involvement not named — South Korea not added to `participating_countries` for this phase.
+  - Body extraction caveat documented: Europol newsroom embeds press-release body as JSON inside `window.SERVER_DATA`; the captured 2 416-byte body field covers the participating-countries paragraph and methodology paragraphs but truncates at the `Operation PowerOFF: disrupt and prevent` H2; future re-fetch under a different extraction path is flagged as open work.

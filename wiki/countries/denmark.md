@@ -8,14 +8,13 @@ cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
   procedural_powers:
-    []
+
   data_retention: ""
 treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
     reservations:
-      []
 central_authority:
   mlat: ""
   budapest: ""
@@ -28,17 +27,18 @@ ic_capacity:
   english_proficiency: high
   avg_mlat_response_days: unknown
 bilateral_agreements:
-  []
+
 operations_participated:
   - "[[darkmarket-takedown|DarkMarket Takedown]]"
+  - "[[operation-power-off-2026-04]]"
 notable_cases:
-  []
+
 cooperation_assessment: ""
 source_count: 1
 sources:
   - "[[2026-04-17_en-wikipedia-org_national-special-crime-unit-denmark]]"
 created: 2026-04-11
-updated: 2026-04-29
+updated: 2026-05-08
 status: corpus-linked
 ---
 ## Summary

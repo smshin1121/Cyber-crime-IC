@@ -1,26 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: Keskusrikospoliisi (KRP) — National Bureau of Investigation
-  mlat: Ministry of Justice
-cooperation_assessment: Finland is *almost certainly* a highly capable cooperation
-  partner. The Keskusrikospoliisi (KRP) serves as MLA central contact point for EU
-  requests and as the operational hub for major cybercrime investigations. Finland
-  has strong English-language capability, an established EU cooperation footprint,
-  and a comprehensive Chapter 38 Criminal Code framework. NATO membership (2023) has
-  *likely* further integrated Finland into Western intelligence cooperation.
+  budapest: "Keskusrikospoliisi (KRP) — National Bureau of Investigation"
+  mlat: "Ministry of Justice"
+cooperation_assessment: "Finland is *almost certainly* a highly capable cooperation"
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: EU Data Retention-era framework; affected by CJEU rulings
-  primary_law: Rikoslaki (Criminal Code of Finland) Chapter 38 — Data and communications
-    offences
-  primary_law_date: 1889 (Criminal Code); Chapter 38 cybercrime provisions substantially
-    revised 2000s-2010s
+  data_retention: "EU Data Retention-era framework; affected by CJEU rulings"
+  primary_law: "Rikoslaki (Criminal Code of Finland) Chapter 38 — Data and communications"
+  primary_law_date: "1889 (Criminal Code); Chapter 38 cybercrime provisions substantially"
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -28,30 +22,35 @@ ic_capacity:
   english_proficiency: high
   rating: high
 iso_code: FI
-key_agencies: []
-last_verified: '2026-04-10'
+key_agencies:
+  []
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[operation-avalanche]]'
-- '[[operation-contender-2]]'
+  - "[[operation-avalanche]]"
+  - "[[operation-contender-2]]"
+  - "[[operation-power-off-2026-04]]"
 region: northern-europe
 source_count: 6
-sources: []
-title: Republic of Finland
+sources:
+  []
+title: "Republic of Finland"
 treaty_memberships:
-- date: '2007-05-24'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2007-05-24
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Finland is a Party to the [[budapest-convention|Budapest Convention on Cybercrime]], having signed on 23 November 2001 and ratified in **May 2007** [1]. Finland signed the [[second-additional-protocol|Second Additional Protocol (CETS 224)]] on 12 May 2022 as part of the initial group of 22 signatories [2]. Finland's substantive cybercrime framework is located in **Chapter 38 of the Criminal Code (Rikoslaki)**, titled "Data and communications offences" [3][4].

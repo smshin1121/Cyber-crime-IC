@@ -1,26 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: GDBOP — Cybercrime Unit (General Directorate Combating Organized Crime,
-    Ministry of Interior)
-  mlat: Ministry of Justice
-cooperation_assessment: Bulgaria is *likely* a cooperative partner, particularly within
-  EU frameworks (European Investigation Order, Europol, Eurojust). It was among the
-  earlier ratifiers of the Budapest Convention (2005) and the GDBOP Cybercrime Unit
-  serves as operational point. Capacity is *likely* medium — higher than non-EU peers
-  but *likely* below top-tier Western European states.
+  budapest: "GDBOP — Cybercrime Unit (General Directorate Combating Organized Crime,"
+  mlat: "Ministry of Justice"
+cooperation_assessment: "Bulgaria is *likely* a cooperative partner, particularly within"
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: EU Data Retention Directive-era framework; partially affected by
-    CJEU rulings
-  primary_law: Criminal Code (Наказателен кодекс) Articles 212a, 319a-319e; Criminal
-    Procedure Code
-  primary_law_date: '2002'
+  data_retention: "EU Data Retention Directive-era framework; partially affected by"
+  primary_law: "Criminal Code (Наказателен кодекс) Articles 212a, 319a-319e; Criminal"
+  primary_law_date: 2002
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -28,35 +22,39 @@ ic_capacity:
   english_proficiency: medium
   rating: medium
 iso_code: BG
-key_agencies: []
-last_verified: '2026-04-10'
+key_agencies:
+  []
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[operation-haechi-vi]]'
-- '[[doublevpn-takedown]]'
-- '[[operation-dark-huntor]]'
-- '[[operation-avalanche]]'
+  - "[[operation-haechi-vi]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-avalanche]]"
+  - "[[operation-power-off-2026-04]]"
 region: eastern-europe
 source_count: 4
-sources: []
-title: Republic of Bulgaria
+sources:
+  []
+title: "Republic of Bulgaria"
 treaty_memberships:
-- date: '2005-04-07'
-  framework: '[[budapest-convention]]'
-  reservations:
-  - Article 14
-  - Article 27 (declaration)
-  - Article 35 (declaration)
-  status: party
-- date: '2022-05-12'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2005-04-07
+    framework: "[[budapest-convention]]"
+    reservations:
+      - "Article 14"
+      - "Article 27 (declaration)"
+      - "Article 35 (declaration)"
+    status: party
+  - date: 2022-05-12
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Bulgaria deposited its instrument of ratification of the [[budapest-convention|Budapest Convention on Cybercrime]] on **7 April 2005**, entering into force 1 August 2005 [1][2]. As an EU member state (since 2007), Bulgaria implements EU cybercrime-related directives (NIS, NIS2, Attacks on Information Systems Directive) and participates in EU cooperation frameworks including the European Investigation Order, Europol, and Eurojust.

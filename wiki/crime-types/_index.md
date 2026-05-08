@@ -23,7 +23,7 @@ updated: 2026-04-27
 | [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | — | 3 |
 | [[dark-web-ic]] | — | — | — | — | 4 |
 | [[ddos-extortion]] | — | — | — | — | 1 |
-| [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades | 4 |
+| [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 5 |
 | [[drug-trafficking]] | — | — | — | — | 4 |
 | [[extortion-ic]] | — | — | — | — | 1 |
 | [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03, leakbase-takedown-2026 | 3 |

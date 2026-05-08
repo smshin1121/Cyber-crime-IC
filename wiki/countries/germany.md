@@ -55,6 +55,7 @@ operations_participated:
   - "[[nemesis-market-takedown]]"
   - "[[operation-weleakinfo-com-domain-name-seized]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 region: western-europe
 source_count: 5
 sources:
@@ -68,12 +69,10 @@ treaty_memberships:
   - date: 2009-03-09
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
 updated: 2026-05-08

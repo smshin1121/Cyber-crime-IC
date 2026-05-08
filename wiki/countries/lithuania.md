@@ -11,13 +11,14 @@ operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 source_count: 0
 sources:
-  []
+
 created: 2026-04-10
 updated: 2026-05-08
 status: needs-official-source-ingestion
-last_verified: 2026-05-03
+last_verified: 2026-05-08
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---

@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "Federal Computer Crime Unit (FCCU) — Federal Judicial Police"
   mlat: "Federal Public Service Justice (SPF Justice)"
@@ -23,11 +23,11 @@ ic_capacity:
   rating: high
 iso_code: BE
 key_agencies:
-  []
+
 last_verified: 2026-05-08
 legal_system: civil-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
   - "[[operation-eur-600m-crypto-scam-network-2025]]"
@@ -35,6 +35,7 @@ operations_participated:
   - "[[operation-avalanche]]"
   - "[[operation-weleakinfo-to-and-related-domain-names-seized]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 region: western-europe
 source_count: 5
 sources:
@@ -48,12 +49,10 @@ treaty_memberships:
   - date: 2012-08-20
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
 updated: 2026-05-08

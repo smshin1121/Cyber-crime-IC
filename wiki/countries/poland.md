@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "Police Headquarters / CBZC"
   mlat: "Ministry of Justice (Ministerstwo Sprawiedliwości)"
@@ -27,26 +27,25 @@ key_agencies:
 last_verified: 2026-05-08
 legal_system: civil-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-avalanche]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[operation-power-off-2026-04]]"
 region: eastern-europe
 source_count: 3
 sources:
-  []
+
 title: "Republic of Poland"
 treaty_memberships:
   - date: 2015-02-20
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
 updated: 2026-05-08
