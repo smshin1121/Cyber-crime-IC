@@ -6,7 +6,7 @@ aliases:
   - "Sluzhba bezpeky Ukrainy"
 status: active
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-08
 last_verified: 2026-05-07
 org_type: national-security-agency
 country: "[[ukraine]]"
@@ -17,6 +17,7 @@ key_roles:
   - "Execution of searches and detentions in source-backed international cybercrime matters"
 operations_participated:
   - "[[operation-trident-breach]]"
+  - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
 cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[netherlands-politie]]"
@@ -32,7 +33,7 @@ The Security Service of Ukraine (SBU) is recorded here because the FBI's public 
 
 ## IC Relevance
 
-Use this page when a source specifically names the SBU. Use [[ukraine-police]] for later National Police/Cyber Police references where the source identifies that institution instead.
+Use this page when a source specifically names the SBU. Use [[ukraine-police]] for later National Police/Cyber Police references where the source identifies that institution instead. Eurojust's Dnipro call-centre release also names the SBU as a Ukrainian action-day partner.
 
 ## References
 

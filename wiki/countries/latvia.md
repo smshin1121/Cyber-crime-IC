@@ -6,6 +6,7 @@ last_verified: 2026-05-03
 legal_system: not-assessed
 operations_participated:
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
+  - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
 region: eastern-europe
 source_count: 0
 sources:
@@ -14,7 +15,7 @@ title: "Republic of Latvia"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-03
+updated: 2026-05-08
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
@@ -32,6 +33,7 @@ No direct country-profile source is linked in this repository for this page. As 
 | Linked operation | Verification role |
 |---|---|
 | [[operation-eur-3m-online-investment-fraud-2025]] | Relationship edge retained from operation/case metadata; use the operation page and its references for claim-level verification. |
+| [[dnipro-fraudulent-call-centre-takedown-2026]] | Relationship edge retained from operation metadata and Eurojust source attribution; use the operation page and its references for claim-level verification. |
 
 ## Follow-up Source Targets
 

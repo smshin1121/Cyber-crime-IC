@@ -30,6 +30,7 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[operation-power-off]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
+  - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
 org_type: national-unit
 parent_org: ""
 source_count: 3

@@ -55,6 +55,7 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[belgium-netherlands-phishing-gang]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
+  - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
   - "[[operation-us-v-parsarad-nemesis]]"
   - "[[blackcat-lockeroga-kelvin-security-2023]]"

@@ -26,6 +26,7 @@ operations_participated:
   - "[[operation-firewall]]"
   - "[[operation-tovar]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
+  - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
 org_type: national-unit
 parent_org: "Національна поліція України (National Police of Ukraine) — Ministry of"
 source_count: 3

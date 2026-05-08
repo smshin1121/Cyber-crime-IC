@@ -36,6 +36,7 @@ operations_participated:
 - '[[darkmarket-takedown]]'
 - '[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]'
 - '[[operation-avalanche]]'
+- '[[dnipro-fraudulent-call-centre-takedown-2026]]'
 region: eastern-europe
 source_count: 3
 sources: []
@@ -50,7 +51,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
 
 ## Summary

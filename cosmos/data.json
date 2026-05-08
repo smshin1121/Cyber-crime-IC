@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T09:09:49Z",
+  "generated_at": "2026-05-08T09:28:32Z",
   "root": null,
   "stats": {
-    "total_nodes": 1347,
-    "total_edges": 12618,
+    "total_nodes": 1351,
+    "total_edges": 12668,
     "broken_links": 0,
     "orphans": 105,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 167,
+      "operation": 168,
       "organization": 147,
       "procedure": 2,
-      "source": 677
+      "source": 680
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 140
+      "canonical_operation": 141
     }
   },
   "nodes": [
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 140 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 167 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 28 | | Period 3 (2023-2025) | 79 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 141 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 168 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 28 | | Period 3 (2023-2025) | 80 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4890 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4893 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -3211,8 +3211,8 @@
       "summary": "Republic of Latvia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source…",
       "source_count": 0,
       "created": "2026-04-10",
-      "updated": "2026-05-03",
-      "degree": 28,
+      "updated": "2026-05-08",
+      "degree": 32,
       "path": "wiki/countries/latvia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3244,8 +3244,8 @@
       "summary": "Republic of Lithuania is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source…",
       "source_count": 0,
       "created": "2026-04-10",
-      "updated": "2026-05-03",
-      "degree": 31,
+      "updated": "2026-05-08",
+      "degree": 35,
       "path": "wiki/countries/lithuania.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4278,8 +4278,8 @@
       "summary": "Ukraine is a Budapest Convention party since 2005 and has been one of the most operationally active eastern European cybercrime cooperation partners. The Cyberpolice of Ukraine (ukraine-police) — Department of Cyber Police within the National…",
       "source_count": 3,
       "created": "2026-04-10",
-      "updated": "2026-04-21",
-      "degree": 43,
+      "updated": "2026-05-08",
+      "degree": 46,
       "path": "wiki/countries/ukraine.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4826,10 +4826,10 @@
         "business email compromise"
       ],
       "summary": "Online fraud encompasses a broad spectrum of cyber-enabled financial crimes, including voice phishing (보이스피싱), romance scams, business email compromise (BEC), investment fraud, online gambling fraud, and e-commerce fraud. From an international…",
-      "source_count": 14,
+      "source_count": 17,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 102,
+      "degree": 107,
       "path": "wiki/crime-types/online-fraud-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -4885,10 +4885,10 @@
         "illegal call center"
       ],
       "summary": "Voice phishing, vishing, and phone-enabled fraud are cyber-enabled fraud schemes in which criminals use telephone, VoIP, call-center, or remote-support channels to impersonate trusted parties and pressure victims into transferring funds,…",
-      "source_count": 19,
+      "source_count": 22,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 72,
+      "degree": 78,
       "path": "wiki/crime-types/voice-phishing-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5365,7 +5365,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 6,
+      "degree": 7,
       "path": "wiki/mechanisms/cryptocurrency-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5420,7 +5420,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 57,
+      "degree": 58,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5473,7 +5473,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 26,
+      "degree": 27,
       "path": "wiki/mechanisms/eurojust-coordination-meeting.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5673,7 +5673,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 44,
+      "degree": 45,
       "path": "wiki/mechanisms/joint-investigation-team.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5760,7 +5760,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 62,
+      "degree": 63,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5866,7 +5866,7 @@
       "source_count": 3,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 29,
+      "degree": 30,
       "path": "wiki/operations/albania-austria-call-centre-investment-fraud-2026.md",
       "meta": {
         "status": "completed",
@@ -6271,6 +6271,30 @@
         "operation_type": "infrastructure-seizure",
         "outcome": "partial",
         "results_arrests": 0,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "dnipro-fraudulent-call-centre-takedown-2026",
+      "type": "operation",
+      "title": "Dnipro Fraudulent Call Centre Takedown (2026)",
+      "title_ko": null,
+      "aliases": [
+        "11 arrests during actions against fraudulent call centre"
+      ],
+      "summary": "Latvian, Lithuanian, and Ukrainian authorities, coordinated by Eurojust, dismantled a fraudulent call centre operating across three offices in Dnipro. The group used a fake cryptocurrency investment scheme, remote-access software, and bank and…",
+      "source_count": 3,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 44,
+      "path": "wiki/operations/dnipro-fraudulent-call-centre-takedown-2026.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "success",
+        "results_arrests": 11,
         "operation_scope": "canonical_operation"
       }
     },
@@ -9734,7 +9758,7 @@
       "source_count": 3,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 41,
+      "degree": 43,
       "path": "wiki/operations/ukraine-fraudulent-call-centres-takedown-2025.md",
       "meta": {
         "status": "completed",
@@ -10461,7 +10485,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 240,
+      "degree": 245,
       "path": "wiki/organizations/eurojust.md",
       "meta": {
         "org_type": "regional-org",
@@ -11207,7 +11231,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-05-08",
-      "degree": 17,
+      "degree": 20,
       "path": "wiki/organizations/latvia-state-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11225,7 +11249,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-05-08",
-      "degree": 17,
+      "degree": 20,
       "path": "wiki/organizations/lithuania-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -12358,7 +12382,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-05-08",
-      "degree": 25,
+      "degree": 28,
       "path": "wiki/organizations/ukraine-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -12379,8 +12403,8 @@
       "summary": "The Security Service of Ukraine (SBU) is recorded here because the FBI's public Operation Trident Breach release explicitly names SBU participation in the 2010 Zeus/Jabber Zeus banking-theft operation. The SBU detained five individuals on 30…",
       "source_count": 1,
       "created": "2026-05-07",
-      "updated": "2026-05-07",
-      "degree": 9,
+      "updated": "2026-05-08",
+      "degree": 12,
       "path": "wiki/organizations/ukraine-sbu.md",
       "meta": {
         "org_type": "national-security-agency",
@@ -20920,6 +20944,48 @@
       "updated": "2026-05-07",
       "degree": 2,
       "path": "wiki/sources/2026-02-20_helpnetsecurity_operation-red-card-2-africa-cybercrime.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-02-23_bordersecurityreport_11-arrests-fraudulent-call-centre",
+      "type": "source",
+      "title": "11 arrests during actions against fraudulent call centre",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Border Security Report carried a public report on the Eurojust-coordinated Dnipro fraudulent call-centre action. ## Relevance to IC The source provides an additional public URL for the same international call-centre action and…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 3,
+      "path": "wiki/sources/2026-02-23_bordersecurityreport_11-arrests-fraudulent-call-centre.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-02-23_eurojust-ukraine-term_11-arrests-fraudulent-call-centre",
+      "type": "source",
+      "title": "Eurojust Ukraine topic page - 11 arrests during actions against fraudulent call centre",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Eurojust topic-page listing for Ukraine that includes the 2026-02-23 fraudulent call-centre action. ## Relevance to IC The topic page is used only as a supporting source to preserve the Ukraine casework index relationship. The…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 3,
+      "path": "wiki/sources/2026-02-23_eurojust-ukraine-term_11-arrests-fraudulent-call-centre.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-02-23_eurojust_11-arrests-fraudulent-call-centre",
+      "type": "source",
+      "title": "11 arrests during actions against fraudulent call centre",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Official Eurojust press release on the Latvia-Lithuania-Ukraine action against a Dnipro fraudulent call centre. ## Relevance to IC This is the controlling source for the three participating countries, Eurojust-hosted JIT,…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "degree": 3,
+      "path": "wiki/sources/2026-02-23_eurojust_11-arrests-fraudulent-call-centre.md",
       "meta": {}
     },
     {
@@ -48590,7 +48656,19 @@
     },
     {
       "source": "latvia",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "latvia",
       "target": "operation-eur-3m-online-investment-fraud-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
       "kind": "body",
       "directed": false
     },
@@ -48614,6 +48692,12 @@
     },
     {
       "source": "lithuania",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "lithuania",
       "target": "alphabay-takedown",
       "kind": "body",
       "directed": false
@@ -48621,6 +48705,12 @@
     {
       "source": "lithuania",
       "target": "emotet-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "lithuania",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
       "kind": "body",
       "directed": false
     },
@@ -50079,6 +50169,12 @@
     {
       "source": "ukraine",
       "target": "operation-avalanche",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -51992,6 +52088,12 @@
     },
     {
       "source": "online-fraud-ic",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
       "target": "albania-austria-call-centre-investment-fraud-2026",
       "kind": "notable_operations",
       "directed": true
@@ -52041,6 +52143,12 @@
     {
       "source": "online-fraud-ic",
       "target": "ukraine-fraudulent-call-centres-takedown-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
       "kind": "body",
       "directed": false
     },
@@ -52328,6 +52436,12 @@
     },
     {
       "source": "voice-phishing-ic",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "voice-phishing-ic",
       "target": "albania-austria-call-centre-investment-fraud-2026",
       "kind": "notable_operations",
       "directed": true
@@ -52467,6 +52581,12 @@
     {
       "source": "voice-phishing-ic",
       "target": "ukraine-fraudulent-call-centres-takedown-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "voice-phishing-ic",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
       "kind": "body",
       "directed": false
     },
@@ -56619,6 +56739,168 @@
     {
       "source": "de-ch-crypto-mixer-takedown-2025",
       "target": "south-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "eurojust",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "voice-phishing-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "eurojust",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "joint-investigation-team",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "eurojust-coordination-meeting",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "cryptocurrency-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "eurojust",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "latvia-state-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "lithuania-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "ukraine-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "ukraine-sbu",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "latvia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "lithuania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "ukraine",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "ukraine-fraudulent-call-centres-takedown-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "albania-austria-call-centre-investment-fraud-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "ukraine-fraudulent-call-centres-takedown-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "latvia-state-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "lithuania-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "ukraine-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "ukraine-sbu",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "latvia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "lithuania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "ukraine",
       "kind": "body",
       "directed": false
     },
@@ -81644,6 +81926,12 @@
     },
     {
       "source": "eurojust",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
       "target": "albania-austria-call-centre-investment-fraud-2026",
       "kind": "operations_participated",
       "directed": true
@@ -85310,6 +85598,12 @@
     },
     {
       "source": "latvia-state-police",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "latvia-state-police",
       "target": "cert-lv",
       "kind": "body",
       "directed": false
@@ -85353,6 +85647,12 @@
     {
       "source": "lithuania-police",
       "target": "ukraine-fraudulent-call-centres-takedown-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "lithuania-police",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -88628,6 +88928,12 @@
     },
     {
       "source": "ukraine-police",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine-police",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -88659,6 +88965,12 @@
     {
       "source": "ukraine-sbu",
       "target": "operation-trident-breach",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine-sbu",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -96251,6 +96563,60 @@
       "target": "operation-red-card-2",
       "kind": "body",
       "directed": false
+    },
+    {
+      "source": "2026-02-23_bordersecurityreport_11-arrests-fraudulent-call-centre",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-23_bordersecurityreport_11-arrests-fraudulent-call-centre",
+      "target": "online-fraud-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-23_bordersecurityreport_11-arrests-fraudulent-call-centre",
+      "target": "voice-phishing-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-23_eurojust-ukraine-term_11-arrests-fraudulent-call-centre",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-23_eurojust-ukraine-term_11-arrests-fraudulent-call-centre",
+      "target": "online-fraud-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-23_eurojust-ukraine-term_11-arrests-fraudulent-call-centre",
+      "target": "voice-phishing-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-23_eurojust_11-arrests-fraudulent-call-centre",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-23_eurojust_11-arrests-fraudulent-call-centre",
+      "target": "online-fraud-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-02-23_eurojust_11-arrests-fraudulent-call-centre",
+      "target": "voice-phishing-ic",
+      "kind": "pages_updated",
+      "directed": true
     },
     {
       "source": "2026-03-05_diariolibre_operation-eclipse-dominican-republic",

@@ -10,11 +10,12 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
+  - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
 source_count: 0
 sources:
   []
 created: 2026-04-10
-updated: 2026-05-03
+updated: 2026-05-08
 status: needs-official-source-ingestion
 last_verified: 2026-05-03
 assessment_confidence: limited
@@ -34,6 +35,7 @@ No direct country-profile source is linked in this repository for this page. As 
 |---|---|
 | [[alphabay-takedown]] | Relationship edge retained from operation/case metadata; use the operation page and its references for claim-level verification. |
 | [[emotet-takedown]] | Relationship edge retained from operation/case metadata; use the operation page and its references for claim-level verification. |
+| [[dnipro-fraudulent-call-centre-takedown-2026]] | Relationship edge retained from operation metadata and Eurojust source attribution; use the operation page and its references for claim-level verification. |
 
 ## Follow-up Source Targets
 

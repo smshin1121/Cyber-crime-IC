@@ -38,6 +38,7 @@ notable_operations:
   - "[[operation-first-light-2024]]"
   - "[[belgium-netherlands-phishing-gang]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
+  - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
   - "[[operation-chakra-ii]]"
   - "[[operation-chakra-iii]]"
@@ -50,7 +51,7 @@ criminalization_status:
   definition_varies: true
   problem_jurisdictions: []
 estimated_annual_loss: "South Korea reports large recurring domestic losses; global phone-enabled fraud loss is not consistently separated from wider online-fraud statistics."
-source_count: 19
+source_count: 22
 sources:
   - "[[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]]"
   - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
@@ -68,6 +69,9 @@ sources:
   - "[[2025-12-16_eurojust_fraudulent-call-centres-ukraine]]"
   - "[[2025-12-16_helpnetsecurity_ukraine-scam-call-centers]]"
   - "[[2025-12-17_01net_ukraine-call-center-10m-fraud]]"
+  - "[[2026-02-23_eurojust_11-arrests-fraudulent-call-centre]]"
+  - "[[2026-02-23_bordersecurityreport_11-arrests-fraudulent-call-centre]]"
+  - "[[2026-02-23_eurojust-ukraine-term_11-arrests-fraudulent-call-centre]]"
   - "[[2026-04-29_eurojust_fraud-call-centres-eu-citizens]]"
   - "[[2026-04-29_europol_call-centres-eur-50m-online-fraud]]"
   - "[[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]]"
@@ -88,6 +92,7 @@ The category remains closely related to [[online-fraud-ic]], [[bec-ic]], [[money
 | Global phone and impersonation scam sweeps | INTERPOL coordination, account blocking, I-GRIP asset recovery | [[operation-haechi-iii]], [[operation-haechi-iv]], [[operation-haechi-vi]], [[operation-first-light-2024]] |
 | European bank-helpdesk or phone-phishing gangs | Eurojust judicial coordination, Europol support, synchronized searches | [[belgium-netherlands-phishing-gang]] |
 | Ukrainian call-centre networks targeting European victims | Eurojust JIT support, coordination meetings, action-day travel/funding, synchronized searches | [[ukraine-fraudulent-call-centres-takedown-2025]] |
+| Dnipro fraudulent call-centre action | Eurojust-hosted JIT, Latvia-Lithuania-Ukraine judicial/police coordination, synchronized searches and asset seizures | [[dnipro-fraudulent-call-centre-takedown-2026]] |
 | Albanian investment-fraud call centres targeting EU citizens | Austria-Albania JIT, Eurojust coordination, Europol action-day evidence exchange | [[albania-austria-call-centre-investment-fraud-2026]] |
 | Tech-support scam call centers | Lead-country raids, foreign victim intelligence, public-private cooperation | [[operation-chakra-ii]], [[operation-chakra-iii]], [[operation-chakra-iv]], [[operation-chakra-v]] |
 
@@ -102,6 +107,7 @@ The category remains closely related to [[online-fraud-ic]], [[bec-ic]], [[money
 | [[operation-haechi-v]] | 2024 | 40 countries | 5,500+ arrests; over USD 400 million seized | Korea and China dismantled a voice-phishing syndicate causing about USD 1.1 billion in losses. |
 | [[belgium-netherlands-phishing-gang]] | 2024 | Belgium, Netherlands | 8 arrests; 17 searches | Phone-phishing and bank-helpdesk fraud group supported by Eurojust and Europol. |
 | [[ukraine-fraudulent-call-centres-takedown-2025]] | 2025 | Czech Republic, Latvia, Lithuania, Ukraine | 12 arrests; 72 searches; 45 suspects identified; over EUR 10 million in estimated losses | Eurojust-supported JIT action against Ukrainian call centres using police/bank impersonation, remote-access software, and forged documents against European victims. |
+| [[dnipro-fraudulent-call-centre-takedown-2026]] | 2026 | Latvia, Lithuania, Ukraine | 11 arrests; 32 searches; EUR 400,000 cash, two cryptocurrency wallets, and eight luxury cars seized | Eurojust-coordinated JIT action against a Dnipro call centre using fake cryptocurrency investments and remote-access software against European victims. |
 | [[albania-austria-call-centre-investment-fraud-2026]] | 2026 | Austria, Albania | 10 arrests; three call centres and nine residences searched; EUR 891,735 seized | Tirana-based multilingual investment-fraud call centres targeting EU citizens through telephone broker impersonation and recovery-scam follow-up. |
 | [[operation-chakra-ii]] | 2023 | India with foreign law-enforcement and private-sector inputs | 76 searches; nine call centers searched | CBI action against tech-support and cyber-enabled financial fraud call-center infrastructure. |
 | [[operation-chakra-iii]] | 2024 | India, United States | 43 arrests; 951 devices seized | Tech-support scam call centers targeting foreign victims. |
@@ -149,6 +155,9 @@ This distinction prevents the SNA from silently merging all online fraud into vo
 | [14] | Fraudulent call centres in Ukraine rolled up | Eurojust | 2025-12-16 | https://www.eurojust.europa.eu/news/fraudulent-call-centres-ukraine-rolled |
 | [15] | European police busts Ukraine scam call centers | Help Net Security | 2025-12-16 | https://www.helpnetsecurity.com/2025/12/16/ukraine-scam-call-centers/ |
 | [16] | Phone scams: criminal call center stole more than EUR 10 million from 400 people | 01net | 2025-12-17 | https://www.01net.com/actualites/arnaques-telephoniques-call-center-criminel-vole-plus-10-millions-euros-400-personnes.html |
-| [17] | Fraud call centres targeting EU citizens shut down with Eurojust's support - over EUR 50 million in damages uncovered | Eurojust | 2026-04-29 | https://www.eurojust.europa.eu/news/fraud-call-centres-targeting-eu-citizens-shut-down-eurojusts-support-over-eur-50-million |
-| [18] | Call centres dismantled and ten arrested in EUR 50 million online fraud case | Europol | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/call-centres-dismantled-and-ten-arrested-in-eur-50-million-online-fraud-case |
-| [19] | European police bust Albanian investment and call centre scam | Reuters / MarketScreener | 2026-04-29 | https://www.marketscreener.com/news/european-police-bust-albanian-investment-and-call-centre-scam-ce7f58dad889f622 |
+| [17] | 11 arrests during actions against fraudulent call centre | Eurojust | 2026-02-23 | https://www.eurojust.europa.eu/news/11-arrests-during-actions-against-fraudulent-call-centre |
+| [18] | 11 arrests during actions against fraudulent call centre | Border Security Report | 2026-02-23 | https://www.border-security-report.com/11-arrests-during-actions-against-fraudulent-call-centre/ |
+| [19] | Eurojust Ukraine topic page - 11 arrests during actions against fraudulent call centre | Eurojust | 2026-02-23 | https://www.eurojust.europa.eu/term/ukraine?page=0 |
+| [20] | Fraud call centres targeting EU citizens shut down with Eurojust's support - over EUR 50 million in damages uncovered | Eurojust | 2026-04-29 | https://www.eurojust.europa.eu/news/fraud-call-centres-targeting-eu-citizens-shut-down-eurojusts-support-over-eur-50-million |
+| [21] | Call centres dismantled and ten arrested in EUR 50 million online fraud case | Europol | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/call-centres-dismantled-and-ten-arrested-in-eur-50-million-online-fraud-case |
+| [22] | European police bust Albanian investment and call centre scam | Reuters / MarketScreener | 2026-04-29 | https://www.marketscreener.com/news/european-police-bust-albanian-investment-and-call-centre-scam-ce7f58dad889f622 |

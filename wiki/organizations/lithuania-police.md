@@ -23,6 +23,7 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[romania-phishing-takedown-2024]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
+  - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
 org_type: national-unit
 parent_org: "Policijos departamentas prie LR VRM (Police Department under the Ministry"
 source_count: 3
