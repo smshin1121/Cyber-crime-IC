@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "법무부 국제형사과"
   mlat: "법무부 국제형사과 (Ministry of Justice, International Criminal Affairs Division)"
@@ -30,10 +30,10 @@ key_agencies:
   - "[[kisa]]"
   - "[[ministry-of-science-and-ict-korea]]"
   - "[[seoul-metropolitan-police]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[operation-haechi-v]]"
@@ -46,7 +46,7 @@ operations_participated:
   - "[[operation-us-v-evgenii-ptitsyn]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
 region: east-asia
-source_count: 18
+source_count: 19
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
   - "[[2024-12-02-interpol-operation-haechi-v]]"
@@ -56,21 +56,20 @@ sources:
   - "[[2025-09-25-interpol-operation-haechi-vi]]"
   - "[[2025-10-18-korea-cambodia-scam-repatriation]]"
   - "[[2026-04-17_coe-int_treaty-185-signatures-chart]]"
+  - "[[2026-03-03_korean-press_korea-philippines-police-mou-second-revision]]"
 title: "Republic of Korea (South Korea)"
 treaty_memberships:
   - date: 2023-02
     framework: "[[budapest-convention]]"
     notes: "Invited February 2023; implementing legislation (형사소송법 amendment for preservation-request"
     reservations:
-      []
     status: invited-to-accede
   - date: ""
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: under-review
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 > [!warning] Status — Major reorganization of prosecution system pending (2026-10-02)
 > On **2026-10-02** the [[supreme-prosecutors-office-korea|대검찰청 (Supreme Prosecutors' Office)]] will be **abolished** after 78 years and replaced by two new bodies: **공소청 (Prosecution Service, under 법무부)** for prosecution only, and **중대범죄수사청 / 중수청 (Serious Crimes Investigation Agency, under 행정안전부)** for investigation of six serious-crime categories including **cybercrime**. This is a fundamental restructuring of Korea's criminal justice architecture and will reshape how foreign partners engage with Korea on cybercrime MLAT, extradition, and investigative cooperation. See [[supreme-prosecutors-office-korea]] and [[spo-international-cooperation]] for details. Until 2026-09-30 the existing SPO structure remains in effect.
@@ -296,3 +295,4 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [16] | 사이버범죄협약(일명 부다페스트협약) 가입의향서 제출 | 외교부 | 2022 | https://www.mofa.go.kr/eng/wpge/m_25525/contents.do |
 | [17] | 사이버범죄 국제조약의 동향 — 부다페스트 협약 제2 추가의정서 및 UN 사이버범죄 조약 | 저스티스 / 한국법학원 | 2025 | https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10585090 |
 | [18] | Treaty 185 signatures chart | Council of Europe Treaty Office | 2026-04-17 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
+| [19] | [[2026-03-03_korean-press_korea-philippines-police-mou-second-revision\|한국-필리핀 경찰 양해각서 개정 통해 초국가범죄 공조 강화… 도피사범 송환 협력 확대한다]] | 경찰청 (Korea.kr 정책브리핑) | 2026-03-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156747062 |

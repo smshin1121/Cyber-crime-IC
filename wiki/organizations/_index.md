@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-# Organizations (151)
+# Organizations (152)
 
 | Organization | Type | Country/HQ | Key IC Roles | Operations | Sources |
 |--------------|------|------------|--------------|------------|---------|
@@ -69,6 +69,7 @@ updated: 2026-04-08
 | [[nigeria-police-force]] | national-agency | Abuja, Nigeria | domestic arrests; cybercrime unit execution | 3 | 3 |
 | [[norway-nsm]] | national-agency | Norway | Norway's national security authority for preventive security and cybersecurity.; Operates national cybersecurity and NorCERT-style defensive functions distinct from police cybercrime investigation. | — | 1 |
 | [[pakistan-fia]] | national-agency | Islamabad, Pakistan | Cybercrime investigation and national cybercrime reporting in Pakistan.; INTERPOL NCB Pakistan context where cross-border cybercrime cases involve Pakistani enforcement. | 1 | 1 |
+| [[philippine-national-police]] | national-agency | Camp Crame, Quezon City, Philippines | National police force of the Philippines; Philippine counterpart for bilateral police MOUs and international cooperation | 1 | 1 |
 | [[portuguese-judicial-police]] | national-agency | Lisbon, Portugal | Compatibility label for Portugal's Policia Judiciaria and its cybercrime unit references.; Routes detailed cybercrime-unit context to [[portugal-policia-judiciaria]]. | 4 | 3 |
 | [[romanian-police]] | national-agency | Bucharest, Romania | Compatibility label for Romanian police cybercrime participation in older operation records.; Routes institution-level detail to [[romania-police]]. | 3 | 3 |
 | [[singapore-csa]] | national-agency | Singapore | National cybersecurity coordination and strategy; Operate SingCERT (Singapore Computer Emergency Response Team) | — | 4 |

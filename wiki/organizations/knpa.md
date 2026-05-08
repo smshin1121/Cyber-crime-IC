@@ -13,8 +13,7 @@ established: 1945-10-21
 parent_org: "[[ministry-of-interior-korea]]"
 country: "[[south-korea]]"
 jurisdiction:
-  -
-    - south-korea
+
 headquarters: "Seoul, South Korea"
 mandate: "National police service of the Republic of Korea; responsible for general law enforcement, investigation, and public safety. Houses the National Investigation Headquarters (국가수사본부) which oversees cybercrime investigation."
 member_states: 0
@@ -29,7 +28,7 @@ cooperation_partners:
   - "[[europol-ec3]]"
   - "[[fbi-cyber-division]]"
 frameworks_administered:
-
+  - "[[korea-philippines-police-mou-2026-revision]]"
 mechanisms_operated:
 
 operations_participated:
@@ -46,8 +45,8 @@ source_count: 2
 sources:
 
 created: 2026-04-10
-updated: 2026-05-08
-last_verified: 2026-05-08
+updated: 2026-05-09
+last_verified: 2026-05-09
 ---
 ## Summary
 

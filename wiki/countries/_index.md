@@ -69,7 +69,7 @@ total: 61
 | 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 0 |
-| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 18 |
+| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 19 |
 | 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇦 | [[laos]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | not-assessed | — | unknown | unknown | 0 |
@@ -91,7 +91,7 @@ total: 61
 | 🇳🇵 | [[nepal]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇦 | [[panama]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇪 | [[peru]] | not-assessed | — | unknown | unknown | 0 |
-| 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 0 |
+| 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 1 |
 | 🇵🇰 | [[pakistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇱 | [[poland]] | civil-law | party (2015) | medium | unknown | 3 |
 | 🇵🇹 | [[portugal]] | civil-law | party (2010) | medium | unknown | 3 |

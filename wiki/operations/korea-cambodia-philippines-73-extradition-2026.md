@@ -49,6 +49,7 @@ legal_basis:
   - "Korean domestic criminal process (extradition into Korea as requesting state)"
   - "Cambodia–Korea law-enforcement cooperation (operational, including in-country `코리아전담반`)"
   - "Philippines–Korea law-enforcement cooperation (operational)"
+  - "[[korea-philippines-police-mou-2026-revision]]"
 results:
   arrests: 73
   indictments: 0
@@ -68,23 +69,23 @@ results:
     - "Auto-loan fraud cohort (3): 2022-2024 offences, ~₩12 billion in losses"
     - "Sex-exploitation cohort: 24 (overlaps with the voice-phishing cohort per source)"
 edges:
-  - source_actor: "knpa"
-    target_actor: "cambodia"
+  - source_actor: knpa
+    target_actor: cambodia
     cooperation_type: extradition
     legal_basis: bilateral_MOU
     direction: directed
-  - source_actor: "knpa"
-    target_actor: "philippines"
+  - source_actor: knpa
+    target_actor: philippines
     cooperation_type: extradition
     legal_basis: bilateral_MOU
     direction: directed
-  - source_actor: "knpa"
-    target_actor: "ministry-of-foreign-affairs-korea"
+  - source_actor: knpa
+    target_actor: ministry-of-foreign-affairs-korea
     cooperation_type: joint_investigation
     legal_basis: domestic_task_force
     direction: undirected
-  - source_actor: "knpa"
-    target_actor: "ministry-of-justice-korea"
+  - source_actor: knpa
+    target_actor: ministry-of-justice-korea
     cooperation_type: joint_investigation
     legal_basis: domestic_task_force
     direction: undirected
@@ -92,10 +93,12 @@ credibility_index: 4.0
 source_tier: 1
 missing_fields:
   - "indictments (post-extradition prosecution outcomes pending)"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[korea-cambodia-scam-repatriation]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "The 2026-04-27 announcement is the first wiki-recorded Korean operation that explicitly names a whole-government task-force (범정부 「초국가범죄 특별대응TF」) coordinating KNPA, MOFA, MOJ, and NIS in the same extradition cycle, materially expanding the public-record SNA pattern for Korea-as-requesting-state cooperation beyond the KNPA-only frame."
   - "The Cambodia 42-person tranche is operationally tied to a Korea-side field unit named 「코리아전담반」 — a Korean police construct deployed into Cambodian jurisdiction with Cambodian National Police partnership. This is a discrete cooperation mechanism that warrants tracking as an emerging Korean IC pattern in Southeast Asian scam-compound jurisdictions."
@@ -105,7 +108,7 @@ sources:
   - "[[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition]]"
 summary: "On 2026-04-27 the Korean National Police Agency announced the extradition of 73 Korean-national online-scam suspects from Cambodia (42) and the Philippines (31) over a roughly two-month operation period (2026-02-26 to 2026-04-27). Coordinated through a whole-government 「초국가범죄 특별대응TF」 task force (KNPA + 외교부 + 법무부 + 국가정보원) and the in-Cambodia 「코리아전담반」 field unit, the cohort comprises voice phishing, romance scam, illegal gambling-site, 2011 capital-firm data-breach, and auto-loan fraud cases. KNPA frames the operation as the largest single-country cyber-fugitive extradition into Korea on record."
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

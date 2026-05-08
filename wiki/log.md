@@ -768,3 +768,15 @@
   - Verbatim victim-loss figures: 13 named victims with USD 56M+ losses, 41 additional victims paid USD 13M ransom, total estimated period losses in the hundreds of millions of dollars.
   - Notable verbatim findings: pediatric-healthcare patient data weaponised for extortion; government 911-system shutdown; organisation operations from Lakhtinskaya Street, St. Petersburg with multiple former Russian law-enforcement officers among membership.
   - Korean involvement not named.
+
+
+## [2026-05-08] ingest | KNPA 2026-03-03 — Korea-Philippines police MOU 2nd revision (legal-framework)
+- Source: raw/press-releases/2026-03-03_korean-press_korea-philippines-police-mou-second-revision.md (KNPA via Korea.kr 정책브리핑 newsId 156747062; Korea.kr is connection-reset on TLS-spoof and WebFetch — secondary capture from 시사경찰일보 / police112.net article 46005 with explicit fidelity caveat in source page)
+- Pages created: wiki/legal-frameworks/korea-philippines-police-mou-2026-revision.md (first wiki bilateral-MOU legal-framework entry for a Korea-led police bilateral), wiki/sources/2026-03-03_korean-press_korea-philippines-police-mou-second-revision.md, wiki/organizations/philippine-national-police.md (stub — first wiki entry for the Philippine National Police)
+- Pages updated: 2 country pages (south-korea, philippines — sources), 2 organization pages (knpa, philippine-national-police — frameworks_administered), 1 operation (korea-cambodia-philippines-73-extradition-2026 — legal_basis now explicitly cites the bilateral MOU). Indexes regenerated via tools/reconcile_indexes.py.
+- Key findings:
+  - 2026-03-03 Manila signing of the second Korea–Philippines police cooperation MOU revision since the original 2007 agreement. Signed by Acting KNPA Commissioner Yoo Jae-sung 유재성 and Philippine National Police Chief Jose Melencio Nartatez Jr.
+  - Substantive scope expansion: drugs + online scams + sophisticated transnational crime. Operationalises the bilateral Korean-fugitive extradition pathway demonstrated at scale by the 2026-04-27 73-person extradition cycle (31 Korean nationals extradited from the Philippines).
+  - Korean Desk (코리안 데스크) — originally established at Philippine National Capital Region Police Office in 2012; 2026 revision adds 1 additional KNPA liaison officer (경찰협력관) deployed during H1 2026.
+  - Related multilateral structures named: IICA (International Cooperation Consultative Body, KNPA-led), ANCRA (Asia Narcotic Crime Response Cooperation), ICON (International Drug Investigation Conference, Seoul 2026).
+  - First wiki public-record bilateral police MOU entry for a Korea-led IC framework — directly project-relevant for Korean cybercrime IC posture documentation.

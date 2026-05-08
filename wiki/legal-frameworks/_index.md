@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-# Legal Frameworks (22)
+# Legal Frameworks (23)
 
 | Framework | Type | Status | Parties | Scope (IC) | Date |
 |-----------|------|--------|---------|------------|------|
@@ -19,6 +19,7 @@ updated: 2026-04-08
 | [[firearms-offenses]] | national-legislation | in-force | — | IC | — |
 | [[first-additional-protocol-xenophobia]] | protocol | in-force | — | substantive + IC | 2003-01-28 |
 | [[korea-china-mlat]] | bilateral-treaty | in-force | — | IC | — |
+| [[korea-philippines-police-mou-2026-revision]] | bilateral-mou | in-force | 2 | IC | 2007 |
 | [[korea-us-mlat]] | bilateral-treaty | in-force | — | IC | — |
 | [[malabo-convention]] | regional-agreement | in-force | — | substantive + procedural + IC | 2014-06-27 |
 | [[money-laundering-statutes]] | national-legislation | in-force | — | IC | — |
