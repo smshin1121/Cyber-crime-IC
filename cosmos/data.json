@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T05:28:20Z",
+  "generated_at": "2026-05-08T05:40:09Z",
   "root": null,
   "stats": {
-    "total_nodes": 1308,
-    "total_edges": 12266,
+    "total_nodes": 1310,
+    "total_edges": 12268,
     "broken_links": 0,
     "orphans": 106,
     "by_type": {
@@ -19,7 +19,7 @@
       "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 656
+      "source": 658
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4872 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4874 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -9378,10 +9378,10 @@
         "Spanish pay-TV streaming network takedown"
       ],
       "summary": "The Spanish pay-TV streaming network takedown was a June 2020 Eurojust-supported action against a criminal organisation selling illegal access to subscription television channels, streaming services, and films. The source reports that the group…",
-      "source_count": 1,
+      "source_count": 3,
       "created": "2026-05-04",
-      "updated": "2026-05-04",
-      "degree": 35,
+      "updated": "2026-05-08",
+      "degree": 37,
       "path": "wiki/operations/spanish-pay-tv-streaming-network-takedown-2020.md",
       "meta": {
         "status": "completed",
@@ -14580,6 +14580,34 @@
       "updated": "2026-05-04",
       "degree": 3,
       "path": "wiki/sources/2020-06-10_eurojust_eurojust-supports-new-major-crackdown-fraud-pay-tv.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-06-10_lne-es_policia-nacional-desarticula-red-television-pirata-dos-millones-clientes",
+      "type": "source",
+      "title": "La Policia Nacional desarticula una red de television pirata con dos millones de clientes",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary La Nueva Espana / EFE corroborates the Spanish pay-TV streaming network takedown with Spain-side reporting on arrests, searches, servers, subscribers, websites, channels, proceeds, and seized assets. ## Relevance to IC The report…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 1,
+      "path": "wiki/sources/2020-06-10_lne-es_policia-nacional-desarticula-red-television-pirata-dos-millones-clientes.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-06-11_gigazine-net_illegal-streaming-ring",
+      "type": "source",
+      "title": "A group that provided 2 million people with a cheap way to connect to multiple paid streaming services such as Netflix is arrested",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary GIGAZINE provides English-language media corroboration for the June 2020 illegal pay-TV and streaming access operation, confirming arrest, server, subscriber, service, and payment-channel details. ## Relevance to IC The source…",
+      "source_count": 0,
+      "created": "2026-05-08",
+      "updated": null,
+      "degree": 1,
+      "path": "wiki/sources/2020-06-11_gigazine-net_illegal-streaming-ring.md",
       "meta": {}
     },
     {
@@ -89055,6 +89083,18 @@
     {
       "source": "2020-06-10_eurojust_eurojust-supports-new-major-crackdown-fraud-pay-tv",
       "target": "illegal-iptv-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-06-10_lne-es_policia-nacional-desarticula-red-television-pirata-dos-millones-clientes",
+      "target": "spanish-pay-tv-streaming-network-takedown-2020",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-06-11_gigazine-net_illegal-streaming-ring",
+      "target": "spanish-pay-tv-streaming-network-takedown-2020",
       "kind": "pages_updated",
       "directed": true
     },

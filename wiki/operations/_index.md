@@ -57,7 +57,7 @@ updated: 2026-04-14
 | [[operation-nova]] | CYB-2020-050 | 2 | completed | umbrella | 5 | 2.55 | 3 |
 | [[operation-nightfury]] | CYB-2020-051 | 2 | completed | umbrella | 6 | 2.55 | 3 |
 | [[qqaazz-money-laundering-takedown]] | CYB-2020-052 | 2 | completed | umbrella | 5 | 1.88 | 3 |
-| [[spanish-pay-tv-streaming-network-takedown-2020]] | CYB-2020-053 | 2 | completed | umbrella | 1 | 4.20 | 1 |
+| [[spanish-pay-tv-streaming-network-takedown-2020]] | CYB-2020-053 | 2 | completed | umbrella | 3 | 4.20 | 1 |
 | [[romania-phishing-takedown-2024]] | CYB-2020-054 | 2 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-disruptor]] | CYB-2020-055 | 2 | completed | umbrella | 5 | 4.50 | 1 |
 | [[darkmarket-takedown]] | CYB-2021-001 | 2 | completed | umbrella | 5 | 4.50 | 1 |
