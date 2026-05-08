@@ -1,14 +1,14 @@
 # Wiki Index
 
-*Last updated: 2026-05-03 | Total pages: 1375 | Total sources: 689*
+*Last updated: 2026-05-03 | Total pages: 1377 | Total sources: 689*
 
-## Legal Frameworks (23)
+## Legal Frameworks (24)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
 - [[un-cybercrime-convention-2024]] — First globally negotiated UN cybercrime convention; adopted 2024-12-24; not yet in force (needs 40 ratifications); broader membership than Budapest
 - [[second-additional-protocol]] — CETS No. 224; modernizes Budapest with direct provider access, emergency disclosure, JITs, video conferencing; not yet in force
 - [[cloud-act]] — US law enabling executive agreements for cross-border data access; bypasses MLAT; UK first agreement (2022)
 
-## Organizations (152)
+## Organizations (153)
 - [[europol-ec3]] — EU's central coordination hub for cybercrime investigations; coordinated 7 ingested operations
 - [[interpol]] — International Criminal Police Organization; 196 member countries; I-24/7 network; Red Notices; parent of IGCI
 - [[interpol-igci]] — INTERPOL's innovation and cyber hub in Singapore; 196 member countries; HAECHI, Jackal, Synergia, Serengeti, First Light, Sentinel operations

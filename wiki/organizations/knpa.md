@@ -29,6 +29,7 @@ cooperation_partners:
   - "[[fbi-cyber-division]]"
 frameworks_administered:
   - "[[korea-philippines-police-mou-2026-revision]]"
+  - "[[korea-cambodia-joint-task-force-mou-2025]]"
 mechanisms_operated:
 
 operations_participated:

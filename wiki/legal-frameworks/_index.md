@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-# Legal Frameworks (23)
+# Legal Frameworks (24)
 
 | Framework | Type | Status | Parties | Scope (IC) | Date |
 |-----------|------|--------|---------|------------|------|
@@ -18,6 +18,7 @@ updated: 2026-04-08
 | [[cybersecurity-act-2018]] | national-legislation | in-force | 1 | procedural | 2018-02-05 |
 | [[firearms-offenses]] | national-legislation | in-force | — | IC | — |
 | [[first-additional-protocol-xenophobia]] | protocol | in-force | — | substantive + IC | 2003-01-28 |
+| [[korea-cambodia-joint-task-force-mou-2025]] | bilateral-mou | in-force | 2 | IC | 2025-11-10 |
 | [[korea-china-mlat]] | bilateral-treaty | in-force | — | IC | — |
 | [[korea-philippines-police-mou-2026-revision]] | bilateral-mou | in-force | 2 | IC | 2007 |
 | [[korea-us-mlat]] | bilateral-treaty | in-force | — | IC | — |

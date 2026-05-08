@@ -17,6 +17,7 @@ legal_basis:
   - "Korean domestic criminal process"
   - "Cambodia-Korea law enforcement cooperation"
   - "repatriation and custody-transfer procedures"
+  - "[[korea-cambodia-joint-task-force-mou-2025]]"
 lessons_learned:
 
 mechanisms_used:
@@ -74,7 +75,7 @@ timeframe:
 title: "Korea-Cambodia Scam Centre Repatriation"
 title_ko: "한-캄보디아 스캠센터 피의자 송환"
 type: operation
-updated: 2026-05-08
+updated: 2026-05-09
 operation_role: umbrella
 parent_operation: ""
 summary: "In October 2025 and January 2026, South Korea repatriated **107+ nationals** from Cambodia suspected of operating in online scam centres conducting voice phishing, romance scams, and \"pig butchering\" cryptocurrency fraud. An additional **20+ suspects** were repatriated from Laos, Vietnam, Thailand, and the Philippines. The Korean government estimated approximately **1,000 Korean citizens** were working in Cambodian scam centres. The January 2026 batch allegedly scammed fellow Koreans out of **KRW 48.6 billion (USD 33 million)**."

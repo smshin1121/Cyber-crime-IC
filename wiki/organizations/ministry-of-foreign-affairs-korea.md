@@ -9,7 +9,7 @@ aliases:
   - "Korea MOFA"
 org_type: national-agency
 status: active
-established: "1948"
+established: 1948
 parent_org: "Government of the Republic of Korea"
 country: "[[south-korea]]"
 headquarters: "Seoul, Republic of Korea"
@@ -24,16 +24,19 @@ cooperation_partners:
   - "[[knpa]]"
 operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
-notable_cases: []
-contact_point_for: []
+notable_cases:
+  []
+contact_point_for:
+  []
 source_count: 1
 sources:
   - "[[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition]]"
 created: 2026-05-08
-updated: 2026-05-08
-last_verified: 2026-05-08
+updated: 2026-05-09
+last_verified: 2026-05-09
+frameworks_administered:
+  - "[[korea-cambodia-joint-task-force-mou-2025]]"
 ---
-
 > [!info] Stub
 > This page was auto-created during ingestion of the 2026-04-27 KNPA announcement of the Korea–Cambodia–Philippines 73-person extradition operation, in which the Korean Ministry of Foreign Affairs is named as a member of the whole-government 「초국가범죄 특별대응TF」 task force. It will be expanded as additional MOFA-related sources are ingested.
 

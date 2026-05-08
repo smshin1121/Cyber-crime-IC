@@ -50,6 +50,7 @@ legal_basis:
   - "Cambodia–Korea law-enforcement cooperation (operational, including in-country `코리아전담반`)"
   - "Philippines–Korea law-enforcement cooperation (operational)"
   - "[[korea-philippines-police-mou-2026-revision]]"
+  - "[[korea-cambodia-joint-task-force-mou-2025]]"
 results:
   arrests: 73
   indictments: 0
@@ -94,11 +95,11 @@ source_tier: 1
 missing_fields:
   - "indictments (post-extradition prosecution outcomes pending)"
 related_cases:
-  []
+
 related_operations:
   - "[[korea-cambodia-scam-repatriation]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "The 2026-04-27 announcement is the first wiki-recorded Korean operation that explicitly names a whole-government task-force (범정부 「초국가범죄 특별대응TF」) coordinating KNPA, MOFA, MOJ, and NIS in the same extradition cycle, materially expanding the public-record SNA pattern for Korea-as-requesting-state cooperation beyond the KNPA-only frame."
   - "The Cambodia 42-person tranche is operationally tied to a Korea-side field unit named 「코리아전담반」 — a Korean police construct deployed into Cambodian jurisdiction with Cambodian National Police partnership. This is a discrete cooperation mechanism that warrants tracking as an emerging Korean IC pattern in Southeast Asian scam-compound jurisdictions."

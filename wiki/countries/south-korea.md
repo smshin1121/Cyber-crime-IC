@@ -46,7 +46,7 @@ operations_participated:
   - "[[operation-us-v-evgenii-ptitsyn]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
 region: east-asia
-source_count: 19
+source_count: 20
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
   - "[[2024-12-02-interpol-operation-haechi-v]]"
@@ -57,16 +57,17 @@ sources:
   - "[[2025-10-18-korea-cambodia-scam-repatriation]]"
   - "[[2026-04-17_coe-int_treaty-185-signatures-chart]]"
   - "[[2026-03-03_korean-press_korea-philippines-police-mou-second-revision]]"
+  - "[[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing]]"
 title: "Republic of Korea (South Korea)"
 treaty_memberships:
   - date: 2023-02
     framework: "[[budapest-convention]]"
     notes: "Invited February 2023; implementing legislation (형사소송법 amendment for preservation-request"
-    reservations:
+    reservations: ""
     status: invited-to-accede
   - date: ""
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: under-review
 type: country
 updated: 2026-05-09
@@ -296,3 +297,4 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [17] | 사이버범죄 국제조약의 동향 — 부다페스트 협약 제2 추가의정서 및 UN 사이버범죄 조약 | 저스티스 / 한국법학원 | 2025 | https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10585090 |
 | [18] | Treaty 185 signatures chart | Council of Europe Treaty Office | 2026-04-17 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
 | [19] | [[2026-03-03_korean-press_korea-philippines-police-mou-second-revision\|한국-필리핀 경찰 양해각서 개정 통해 초국가범죄 공조 강화… 도피사범 송환 협력 확대한다]] | 경찰청 (Korea.kr 정책브리핑) | 2026-03-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156747062 |
+| [20] | [[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing\|조현 외교장관 캄보디아 방문 결과 — 한-캄보디아 공동 전담반(코리아전담반) MOU 서명]] | 외교부 + 경찰청 (Korea.kr 정책브리핑) | 2025-11-10 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156727324 |
