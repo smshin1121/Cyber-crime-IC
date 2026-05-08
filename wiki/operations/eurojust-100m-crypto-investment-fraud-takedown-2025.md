@@ -73,28 +73,28 @@ results:
     - "23-country corpus (proceeds-laundering or victim jurisdictions); 6 named action-day countries (Spain, Portugal, Italy, Romania, Bulgaria, Lithuania)"
     - "Active since at least 2018"
 edges:
-  - source_actor: "spain"
-    target_actor: "lithuania"
+  - source_actor: spain
+    target_actor: lithuania
     cooperation_type: joint_investigation
     legal_basis: europol-jit
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "spain"
+  - source_actor: europol-ec3
+    target_actor: spain
     cooperation_type: technical_assistance
     legal_basis: europol-jit
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "lithuania"
+  - source_actor: europol-ec3
+    target_actor: lithuania
     cooperation_type: technical_assistance
     legal_basis: europol-jit
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "portugal"
+  - source_actor: europol-ec3
+    target_actor: portugal
     cooperation_type: technical_assistance
     legal_basis: informal
     direction: undirected
-  - source_actor: "eurojust"
-    target_actor: "spain"
+  - source_actor: eurojust
+    target_actor: spain
     cooperation_type: coordination
     legal_basis: european-arrest-warrant
     direction: undirected
@@ -103,9 +103,12 @@ source_tier: 1
 missing_fields:
   - "indictments (post-arrest charging not enumerated)"
   - "individual victim breakdowns by country"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "First wiki record explicitly capturing a Spain-Lithuania JIT pattern in a major cryptocurrency-investment-fraud joint action day, with Europol joining as a third operational party. The 23-country corpus is among the wider per-operation jurisdictional coverage in the wiki."
   - "Europol cryptocurrency-expert in-country deployment to Portugal demonstrates a discrete IC mechanism class for cross-jurisdictional crypto-asset seizure that complements traditional JIT and EAW/EIO instruments."

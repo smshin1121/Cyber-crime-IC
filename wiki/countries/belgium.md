@@ -36,6 +36,7 @@ operations_participated:
   - "[[operation-weleakinfo-to-and-related-domain-names-seized]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
 region: western-europe
 source_count: 5
 sources:

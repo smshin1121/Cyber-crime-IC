@@ -8,19 +8,18 @@ cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
   procedural_powers:
-    []
+
   data_retention: ""
 treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
     reservations:
-      []
 central_authority:
   mlat: ""
   budapest: ""
 key_agencies:
-  []
+
 ic_capacity:
   rating: unknown
   digital_forensics: unknown
@@ -28,17 +27,18 @@ ic_capacity:
   english_proficiency: high
   avg_mlat_response_days: unknown
 bilateral_agreements:
-  []
+
 operations_participated:
   - "[[operation-shrouded-horizon]]"
+  - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
 notable_cases:
-  []
+
 cooperation_assessment: ""
 source_count: 1
 sources:
   - "[[2025-01-27_eurojust-europa-eu_criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-bu]]"
 created: 2026-04-17
-updated: 2026-04-29
+updated: 2026-05-09
 status: corpus-linked
 ---
 ## Summary

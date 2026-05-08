@@ -23,9 +23,10 @@ operations_participated:
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-eastwood]]"
   - "[[operation-endgame-phase3]]"
+  - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
 created: 2026-04-10
-updated: 2026-05-08
-last_verified: 2026-05-08
+updated: 2026-05-09
+last_verified: 2026-05-09
 source_count: 5
 sources:
   - "[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]]"

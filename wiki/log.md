@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | Eurojust 2025-11-04 — €600M cryptocurrency money-laundering takedown (FR-BE-CY-DE-ES, JIT-anchored)
+- Source: `raw/press-releases/2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown.md` (Eurojust press release, tier-1 primary)
+- Pages created: [[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown]] (source summary), [[eurojust-600m-crypto-money-laundering-takedown-2025]] (operation, case_id `CYB-2025-205`)
+- Pages updated: [[france]], [[belgium]], [[cyprus]], [[germany]], [[spain]] (operations_participated); [[eurojust]], [[france-gendarmerie]] (operations_participated); [[online-fraud-ic]], [[money-laundering-ic]] (notable_operations + sources + body Reference rows); [[eurojust-100m-crypto-investment-fraud-takedown-2025]] (related_operations cross-link); index/master indexes reconciled.
+- Key findings: France-Belgium JIT extended via Eurojust coordination meetings to non-JIT jurisdictions (Cyprus, Germany, Spain) for synchronised 2025-10-27 / 2025-10-29 action days — 9 arrests at home addresses, EUR 800k bank / EUR 415k crypto / EUR 300k cash frozen, ~EUR 600M laundered through dozens of fake crypto-investment platforms with social-media / cold-call / fake-celebrity recruitment. Pairs structurally with the September-2025 €100M Eurojust crypto-investment-fraud takedown to evidence a recurring 2025 EU JIT-anchored crypto-investment-fraud enforcement model.
+
 ## [2026-05-03] audit | Source-grounding and treaty-status consistency pass
 - Scope: follow-up whole-corpus consistency check after the source/depth audits, focused on stale source-scope notes, source-summary bleed, and Korea/Budapest Convention party-status contradictions.
 - Country profiles: 67 zero-source country pages normalized into assessment-control records, removing unsupported legal-capacity claims while preserving operation backlinks and follow-up source targets.
