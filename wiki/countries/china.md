@@ -2,7 +2,7 @@
 created: 2026-04-08
 ic_capacity: not-assessed
 iso_code: CN
-last_verified: 2026-05-03
+last_verified: 2026-05-08
 legal_system: not-assessed
 operations_participated:
   - "[[korea-china-voice-phishing-qingdao]]"
@@ -10,15 +10,16 @@ operations_participated:
   - "[[operation-first-light-2024]]"
   - "[[isoon-apt27-indictment]]"
   - "[[operation-haechi-vi]]"
+  - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
 region: east-asia
 source_count: 0
 sources:
-  []
+
 title: "People's Republic of China"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-03
+updated: 2026-05-08
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

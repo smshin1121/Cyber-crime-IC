@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (680)
+# Sources (681)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -15,6 +15,7 @@ updated: 2026-04-14
 | [[2026-05-07_hsa_operation-pangea-xviii-illegal-health-products]] | press-release | Health Sciences Authority Singapore | ? | high | ? |
 | [[2026-05-07_danish-medicines-agency_operation-pangea-xviii-falsified-medicines]] | press-release | Danish Medicines Agency | ? | high | ? |
 | [[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]] | news | Reuters / MarketScreener | 2 | medium | ? |
+| [[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2026-04-29_europol_call-centres-eur-50m-online-fraud]] | press-release | Europol | 1 | high | ? |
 | [[2026-04-29_eurojust_fraud-call-centres-eu-citizens]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-04-18_microsoft-com_gamarue-threat-profile]] | corporate-reference | Microsoft | 3 | medium | ? |

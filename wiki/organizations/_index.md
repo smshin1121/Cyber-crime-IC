@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-# Organizations (147)
+# Organizations (148)
 
 | Organization | Type | Country/HQ | Key IC Roles | Operations | Sources |
 |--------------|------|------------|--------------|------------|---------|
@@ -20,7 +20,7 @@ updated: 2026-04-08
 | [[russian-ministry-of-interior]] | interior-ministry | [[russia]] | Historic Russian law-enforcement participant in the 2015 Simda botnet disruption.; Provides a rare pre-2022 data point for Russia-inclusive cybercrime cooperation with INTERPOL and private-sector technical partners. | 1 | 2 |
 | [[c-proc]] | international-org | Bucharest, Romania | Delivery of capacity building programmes for cybercrime and electronic evidence; Support to countries implementing the Budapest Convention and its Protocols | — | 5 |
 | [[icann]] | international-org | — | Domain-name governance and infrastructure actor relevant to malware and botnet domain disruption.; Appears where cybercrime operations require coordination around domain registration, sinkholing, or abuse handling. | 1 | 2 |
-| [[interpol]] | international-org | Lyon, France | — | 37 | 4 |
+| [[interpol]] | international-org | Lyon, France | — | 38 | 4 |
 | [[interpol-igci]] | international-org | Singapore | — | 22 | 11 |
 | [[unodc]] | international-org | Vienna, Austria | — | 4 | 8 |
 | [[council-of-europe]] | international-organization | Strasbourg, France | Administers the Budapest Convention ecosystem for cybercrime law harmonization and international cooperation.; Maintains treaty status and party-observer information for Convention 185. | — | 3 |
@@ -41,10 +41,11 @@ updated: 2026-04-08
 | [[cbi-india]] | national-agency | New Delhi, India | Lead agency for Operation Chakra series (I-V) against transnational cybercrime; International Operations Division handles cross-border case coordination | 4 | 4 |
 | [[cert-lv]] | national-agency | Latvia | Latvia's national computer security incident response institution.; Provides incident-response and cyber-resilience context distinct from police or prosecution functions. | — | 1 |
 | [[cert-mu]] | national-agency | Mauritius | Mauritius national computer emergency response team.; Provides incident-response and cybersecurity coordination distinct from Mauritius Police cybercrime investigation. | — | 2 |
-| [[china-mps]] | national-agency | Beijing, China | Coordinated Myanmar-Kokang cyber fraud crackdown (2023-2024); Bilateral border law enforcement cooperation with Myanmar, Thailand, Cambodia, Laos, Philippines | 1 | 3 |
+| [[china-mps]] | national-agency | Beijing, China | Coordinated Myanmar-Kokang cyber fraud crackdown (2023-2024); Bilateral border law enforcement cooperation with Myanmar, Thailand, Cambodia, Laos, Philippines | 2 | 3 |
 | [[dod-inspector-general]] | national-agency | United States | Independent oversight office for the US Department of Defense.; Parent organization for [[us-dcis\|Defense Criminal Investigative Service]]. | 1 | 2 |
+| [[dubai-police]] | national-agency | Dubai, United Arab Emirates | Lead emirate-level cybercrime investigations and arrests in Dubai jurisdiction; International liaison for UAE cyber and financial-crime cooperation, including with Interpol and US/EU law-enforcement partners | 1 | 1 |
 | [[dutch-police]] | national-agency | Netherlands | Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles.; Routes current institutional context to [[netherlands-politie]]. | 3 | 3 |
-| [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 21 | 3 |
+| [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 22 | 3 |
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 88 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | Compatibility label for Bundeskriminalamt references in older operation records.; Routes detailed mandate, cybercrime division, and international-cooperation context to [[germany-bka]]. | 2 | 3 |
 | [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 29 | 5 |
@@ -55,7 +56,7 @@ updated: 2026-04-08
 | [[kisa]] | national-agency | Naju, South Korea | Operate KrCERT/CC — national CSIRT for South Korea (launched December 2010); Manage .kr ccTLD and Korean IPv4/IPv6 address space | — | 7 |
 | [[knpa]] | national-agency | Seoul, South Korea | National police service operations; Criminal investigation via 국가수사본부 (NIO) | 3 | 2 |
 | [[london-metropolitan-police]] | national-agency | London, United Kingdom | Compatibility page for London Metropolitan Police references in older operation records.; Routes broader Metropolitan Police context to [[uk-metropolitan-police]] and cyber-specific references to [[uk-met-police-cyber]]. | 2 | 2 |
-| [[malaysia-police]] | national-agency | Bukit Aman, Kuala Lumpur, Malaysia | Lead Malaysia federal cybercrime and commercial crime investigations; Commercial Crime Investigation Department (CCID) — primary cybercrime investigative unit | — | 5 |
+| [[malaysia-police]] | national-agency | Bukit Aman, Kuala Lumpur, Malaysia | Lead Malaysia federal cybercrime and commercial crime investigations; Commercial Crime Investigation Department (CCID) — primary cybercrime investigative | — | 5 |
 | [[maroc-cert]] | national-agency | Morocco | Morocco's national CERT / incident-response function.; Technical-response counterpart to police or intelligence-led cybercrime enforcement. | — | 1 |
 | [[ministry-of-science-and-ict-korea]] | national-agency | Sejong, South Korea | Supervises [[kisa]] (Korea Internet & Security Agency) and KrCERT/CC; Policy authority for cybersecurity and information protection under 정보통신망법 | — | 4 |
 | [[morocco-dgsn]] | national-agency | Morocco | Morocco's National Security Directorate and parent context for judicial police references.; Relevant to Moroccan cybercrime arrests when police-side attribution is used. | 1 | 3 |
@@ -73,10 +74,10 @@ updated: 2026-04-08
 | [[switzerland-fedpol]] | national-agency | Bern, Switzerland | — | 7 | 4 |
 | [[switzerland-ncsc]] | national-agency | Switzerland | Switzerland's federal cybersecurity office and national cybersecurity coordination point.; Provides national CERT/GovCERT and NCSC/BACS/OFCS continuity context. | — | 2 |
 | [[thailand-police]] | national-agency | Bangkok, Thailand | Variant reference for ambiguous Thai cybercrime police labels.; Routes specific cybercrime-bureau content to [[thailand-royal-police]]. | 2 | 3 |
-| [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 3 | 8 |
+| [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 4 | 8 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 33 | 13 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 11 | 3 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 939 | 5 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 940 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 7 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | federal prosecution; international evidence coordination | 10 | 3 |
 | [[krcert-cc]] | national-cert | [[south-korea]] | Coordinates incident response and public cyber-security guidance for the Korean internet ecosystem.; Provides the operational CERT/CC-facing function associated with KISA's national cyber-security mandate. | — | 1 |
@@ -127,7 +128,7 @@ updated: 2026-04-08
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 9 | 3 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 4 | 4 |
 | [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 2 | 3 |
-| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 19 | 4 |
+| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 20 | 4 |
 | [[ncmec]] | nonprofit-clearinghouse | [[united-states]] | Receives and routes child sexual exploitation tips through CyberTipline channels.; Supports law-enforcement victim identification and child-protection investigations. | — | 2 |
 | [[uk-met-police-cyber]] | police-cybercrime-unit | [[united-kingdom]] | Supports investigations into cyber extortion, DDoS-for-ransom, and cyber-enabled fraud affecting London or UK victims.; Acts as a UK metropolitan cybercrime partner in Europol-supported operations. | 2 | 2 |
 | [[trend-micro]] | private-cybersecurity-company | [[japan]] | Provides malware telemetry, threat intelligence, and technical analysis to INTERPOL-led cybercrime operations.; Appears repeatedly in public-private cooperation chains for BEC, botnet, phishing, and malicious-infrastructure disruptions. | 9 | 6 |

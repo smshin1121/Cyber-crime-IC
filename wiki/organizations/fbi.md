@@ -16,7 +16,7 @@ key_roles:
   - "international liaison"
   - "infrastructure seizure support"
   - "victim notification"
-last_verified: 2026-04-17
+last_verified: 2026-05-08
 mandate: "Legacy compatibility page for FBI references in older operation records."
 mechanisms_operated:
 
@@ -47,6 +47,7 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[operation-raptor]]"
   - "[[operation-disruptor]]"
+  - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3
@@ -57,7 +58,7 @@ sources:
 status: active
 title: FBI
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 jurisdiction: "United States"
 ---
 ## Summary

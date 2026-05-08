@@ -1,30 +1,21 @@
 ---
 bilateral_agreements:
-- '[[korea-us-mlat]]'
+  - "[[korea-us-mlat]]"
 central_authority:
-  budapest: US Department of Justice, Computer Crime and Intellectual Property Section
-    (CCIPS)
-  mlat: US Department of Justice, Office of International Affairs (OIA)
-cooperation_assessment: The United States is almost certainly the most central actor
-  in the international cybercrime cooperation network, owing to the global reach of
-  US-headquartered technology companies, the extraterritorial application of US criminal
-  law, and the dominant role of the FBI and DOJ in leading or participating in multinational
-  cybercrime operations. The US has 30+ bilateral MLATs and is a party to the Budapest
-  Convention. However, MLAT response times from the US are widely reported to be slow
-  (often 180+ days), which has driven development of alternatives such as the CLOUD
-  Act.
+  budapest: "US Department of Justice, Computer Crime and Intellectual Property Section"
+  mlat: "US Department of Justice, Office of International Affairs (OIA)"
+cooperation_assessment: "The United States is almost certainly the most central actor"
 created: 2026-04-08
 cybercrime_legislation:
-  data_retention: No mandatory data retention; voluntary preservation via 18 U.S.C.
-    § 2703(f)
-  primary_law: Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030
-  primary_law_date: '1986-10-16'
+  data_retention: "No mandatory data retention; voluntary preservation via 18 U.S.C."
+  primary_law: "Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030"
+  primary_law_date: 1986-10-16
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
-  - real-time-collection
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
+    - real-time-collection
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 180+
@@ -33,137 +24,140 @@ ic_capacity:
   rating: high
 iso_code: US
 key_agencies:
-- '[[fbi-cyber-division]]'
-- '[[us-doj]]'
-- '[[us-secret-service]]'
-last_verified: '2026-04-10'
+  - "[[fbi-cyber-division]]"
+  - "[[us-doj]]"
+  - "[[us-secret-service]]"
+last_verified: 2026-05-08
 legal_system: common-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[alphabay-takedown]]'
-- '[[emotet-takedown]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[phobos-8base-crackdown]]'
-- '[[qakbot-gallyamov-indictment]]'
-- '[[operation-checkmate-blacksuit]]'
-- '[[isoon-apt27-indictment]]'
-- '[[operation-haechi-v]]'
-- '[[operation-haechi-vi]]'
-- '[[hive-ransomware-takedown]]'
-- '[[operation-shrouded-horizon]]'
-- '[[infraud-organization-takedown]]'
-- '[[operation-avalanche]]'
-- '[[911-s5-botnet-takedown]]'
-- '[[goznym-takedown]]'
-- '[[fin7-takedown]]'
-- '[[proxy-service-takedown-2026-03]]'
-- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
-- '[[darkmarket-takedown]]'
-- '[[operation-us-v-parsarad-nemesis]]'
-- '[[doublevpn-takedown]]'
-- '[[operation-dark-huntor]]'
-- '[[cryptex-pm2btc-sanctions]]'
-- '[[lumma-stealer-takedown]]'
-- '[[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]]'
-- '[[operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware]]'
-- '[[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]]'
-- '[[operation-justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target]]'
-- '[[operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]]'
-- '[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]'
-- '[[nemesis-market-takedown]]'
-- '[[operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide]]'
-- '[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]'
-- '[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]'
-- '[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]]'
-- '[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-4]]'
-- '[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-5]]'
-- '[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-6]]'
-- '[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7]]'
-- '[[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]]'
-- '[[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]]'
-- '[[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]]'
-- '[[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]]'
-- '[[operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy]]'
-- '[[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]]'
-- '[[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]]'
-- '[[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]]'
-- '[[operation-florida-computer-programmer-arrested-for-hacking]]'
-- '[[operation-florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually]]'
-- '[[operation-foreign-national-indicted-in-wire-fraud-scheme]]'
-- '[[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]]'
-- '[[operation-former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat]]'
-- '[[operation-former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud]]'
-- '[[operation-former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]]'
-- '[[operation-former-emergency-physician-pleads-guilty-to-possessing-child-pornography]]'
-- '[[operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]'
-- '[[operation-former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]]'
-- '[[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]]'
-- '[[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]]'
-- '[[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]]'
-- '[[operation-greene-county-man-indicted-cyberstalking-and-interstate-threats]]'
-- '[[operation-illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer]]'
-- '[[operation-in-re-bidencash-marketplace-seizure]]'
-- '[[operation-independence-pair-indicted-for-drug-and-firearms-offenses]]'
-- '[[operation-individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency-mixer]]'
-- '[[operation-international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]'
-- '[[operation-international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri]]'
-- '[[operation-international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-]]'
-- '[[operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]]'
-- '[[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-other-drugs-and-money-laundering-]]'
-- '[[operation-irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p]]'
-- '[[operation-issaquah-washington-man-sentenced-to-7-years-in-prison-for-dealing-fentanyl-and-other-drugs-on-the-darknet]]'
-- '[[operation-jefferson-county-man-sentenced-to-6-12-years-in-prison-for-possession-of-child-pornography]]'
-- '[[operation-jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies]]'
-- '[[operation-jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-prison]]'
-- '[[operation-justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams]]'
-- '[[operation-justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams]]'
-- '[[operation-justice-dept-seizes-over-112m-in-funds-linked-to-cryptocurrency-investment-schemes-with-over-half-seized-in-lo]]'
-- '[[operation-kansas-city-woman-indicted-for-fraudulent-tax-returns]]'
-- '[[operation-kansas-farmer-indicted-for-insurance-fraud]]'
-- '[[operation-kansas-man-pleads-guilty-to-child-pornography-possession]]'
-- '[[operation-kansas-woman-indicted-for-defrauding-elderly-victims]]'
-- '[[operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]]'
-- '[[operation-kent-washington-resident-indicted-for-dealing-fentanyl-while-illegally-possessing-firearm]]'
-- '[[operation-kentucky-man-pleads-guilty-advertising-child-pornography]]'
-- '[[operation-kentucky-man-pleads-guilty-to-advertising-child-pornography]]'
-- '[[operation-kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]]'
-- '[[operation-key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-in-prison]]'
-- '[[operation-king-county-couple-indicted-for-drug-and-illegal-weapons-possession]]'
-- '[[operation-king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years]]'
-- '[[operation-kirkwood-resident-pleads-guilty-for-identity-theft]]'
-- '[[operation-knox-county-man-sentenced-to-60-years-imprisonment-for-two-counts-of-production-of-child-pornography]]'
-- '[[operation-kosovo-national-pleads-guilty-to-operating-an-online-criminal-marketplace]]'
-- '[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]'
-- '[[operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v]]'
-- '[[operation-laredo-professor-charged-with-distribution-and-production-of-child-pornography]]'
-- '[[operation-latvian-national-charged-for-alleged-role-in-transnational-cybercrime-organization]]'
-- '[[operation-leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison]]'
-- '[[operation-leader-of-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-to-11-years-imprisonment]]'
-- '[[operation-leader-of-international-malvertising-and-ransomware-schemes-extradited-from-poland-to-face-cybercrime-charges]]'
-- '[[operation-leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in-prison]]'
-- '[[operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-]]'
-- '[[carbanak-cobalt-takedown]]'
+  - "[[alphabay-takedown]]"
+  - "[[emotet-takedown]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[phobos-8base-crackdown]]"
+  - "[[qakbot-gallyamov-indictment]]"
+  - "[[operation-checkmate-blacksuit]]"
+  - "[[isoon-apt27-indictment]]"
+  - "[[operation-haechi-v]]"
+  - "[[operation-haechi-vi]]"
+  - "[[hive-ransomware-takedown]]"
+  - "[[operation-shrouded-horizon]]"
+  - "[[infraud-organization-takedown]]"
+  - "[[operation-avalanche]]"
+  - "[[911-s5-botnet-takedown]]"
+  - "[[goznym-takedown]]"
+  - "[[fin7-takedown]]"
+  - "[[proxy-service-takedown-2026-03]]"
+  - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
+  - "[[darkmarket-takedown]]"
+  - "[[operation-us-v-parsarad-nemesis]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-dark-huntor]]"
+  - "[[cryptex-pm2btc-sanctions]]"
+  - "[[lumma-stealer-takedown]]"
+  - "[[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]]"
+  - "[[operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware]]"
+  - "[[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]]"
+  - "[[operation-justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target]]"
+  - "[[operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]]"
+  - "[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]"
+  - "[[nemesis-market-takedown]]"
+  - "[[operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide]]"
+  - "[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]"
+  - "[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]"
+  - "[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]]"
+  - "[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-4]]"
+  - "[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-5]]"
+  - "[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-6]]"
+  - "[[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7]]"
+  - "[[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]]"
+  - "[[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]]"
+  - "[[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]]"
+  - "[[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]]"
+  - "[[operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy]]"
+  - "[[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]]"
+  - "[[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]]"
+  - "[[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]]"
+  - "[[operation-florida-computer-programmer-arrested-for-hacking]]"
+  - "[[operation-florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually]]"
+  - "[[operation-foreign-national-indicted-in-wire-fraud-scheme]]"
+  - "[[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]]"
+  - "[[operation-former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat]]"
+  - "[[operation-former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud]]"
+  - "[[operation-former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]]"
+  - "[[operation-former-emergency-physician-pleads-guilty-to-possessing-child-pornography]]"
+  - "[[operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]"
+  - "[[operation-former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]]"
+  - "[[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]]"
+  - "[[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]]"
+  - "[[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]]"
+  - "[[operation-greene-county-man-indicted-cyberstalking-and-interstate-threats]]"
+  - "[[operation-illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer]]"
+  - "[[operation-in-re-bidencash-marketplace-seizure]]"
+  - "[[operation-independence-pair-indicted-for-drug-and-firearms-offenses]]"
+  - "[[operation-individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency-mixer]]"
+  - "[[operation-international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]"
+  - "[[operation-international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri]]"
+  - "[[operation-international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-]]"
+  - "[[operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]]"
+  - "[[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-other-drugs-and-money-laundering-]]"
+  - "[[operation-irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p]]"
+  - "[[operation-issaquah-washington-man-sentenced-to-7-years-in-prison-for-dealing-fentanyl-and-other-drugs-on-the-darknet]]"
+  - "[[operation-jefferson-county-man-sentenced-to-6-12-years-in-prison-for-possession-of-child-pornography]]"
+  - "[[operation-jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies]]"
+  - "[[operation-jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-prison]]"
+  - "[[operation-justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams]]"
+  - "[[operation-justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams]]"
+  - "[[operation-justice-dept-seizes-over-112m-in-funds-linked-to-cryptocurrency-investment-schemes-with-over-half-seized-in-lo]]"
+  - "[[operation-kansas-city-woman-indicted-for-fraudulent-tax-returns]]"
+  - "[[operation-kansas-farmer-indicted-for-insurance-fraud]]"
+  - "[[operation-kansas-man-pleads-guilty-to-child-pornography-possession]]"
+  - "[[operation-kansas-woman-indicted-for-defrauding-elderly-victims]]"
+  - "[[operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]]"
+  - "[[operation-kent-washington-resident-indicted-for-dealing-fentanyl-while-illegally-possessing-firearm]]"
+  - "[[operation-kentucky-man-pleads-guilty-advertising-child-pornography]]"
+  - "[[operation-kentucky-man-pleads-guilty-to-advertising-child-pornography]]"
+  - "[[operation-kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]]"
+  - "[[operation-key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-in-prison]]"
+  - "[[operation-king-county-couple-indicted-for-drug-and-illegal-weapons-possession]]"
+  - "[[operation-king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years]]"
+  - "[[operation-kirkwood-resident-pleads-guilty-for-identity-theft]]"
+  - "[[operation-knox-county-man-sentenced-to-60-years-imprisonment-for-two-counts-of-production-of-child-pornography]]"
+  - "[[operation-kosovo-national-pleads-guilty-to-operating-an-online-criminal-marketplace]]"
+  - "[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"
+  - "[[operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v]]"
+  - "[[operation-laredo-professor-charged-with-distribution-and-production-of-child-pornography]]"
+  - "[[operation-latvian-national-charged-for-alleged-role-in-transnational-cybercrime-organization]]"
+  - "[[operation-leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison]]"
+  - "[[operation-leader-of-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-to-11-years-imprisonment]]"
+  - "[[operation-leader-of-international-malvertising-and-ransomware-schemes-extradited-from-poland-to-face-cybercrime-charges]]"
+  - "[[operation-leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in-prison]]"
+  - "[[operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-]]"
+  - "[[carbanak-cobalt-takedown]]"
+  - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
 region: north-america
 source_count: 1
 sources:
-- '[[2026-03-12-eurojust-proxy-service-takedown]]'
-title: United States of America
+  - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+title: "United States of America"
 treaty_memberships:
-- date: '2006-09-29'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: '2022'
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: signatory
+  - date: 2006-09-29
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: party
+  - date: 2022
+    framework: "[[second-additional-protocol]]"
+    reservations:
+      []
+    status: signatory
 type: country
-updated: 2026-05-03
+updated: 2026-05-08
 ---
-
 ## Summary
 
 The United States holds the **highest centrality** in the international cybercrime cooperation network. As home to the world's largest technology companies (Google, Meta, Microsoft, Apple, etc.), the US is *almost certainly* the most frequently requested country for cross-border digital evidence. The [[fbi-cyber-division|FBI Cyber Division]] and [[us-doj|Department of Justice]] lead or participate in the majority of major international cybercrime operations, and US federal prosecutors have brought more international cybercrime cases than any other jurisdiction.

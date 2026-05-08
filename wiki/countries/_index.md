@@ -47,7 +47,6 @@ total: 61
 | 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 6 |
 | 🇫🇮 | [[finland]] | civil-law | party (2007) | high | 90-180 | 6 |
 | 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 6 |
-|  | [[norway]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 5 |
 | 🇬🇪 | [[georgia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇭 | [[ghana]] | not-assessed | — | unknown | unknown | 0 |
@@ -88,6 +87,7 @@ total: 61
 | 🇳🇬 | [[nigeria]] | not-assessed | — | unknown | unknown | 0 |
 | 🇳🇮 | [[nicaragua]] | not-assessed | — | unknown | unknown | 0 |
 | 🇳🇱 | [[netherlands]] | civil-law | party (2006) | high | 60-120 | 5 |
+| 🇳🇴 | [[norway]] | not-assessed | — | unknown | unknown | 0 |
 | 🇳🇵 | [[nepal]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇦 | [[panama]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇪 | [[peru]] | not-assessed | — | unknown | unknown | 0 |

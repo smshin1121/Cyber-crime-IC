@@ -1,24 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+  []
 central_authority:
-  budapest: ''
-  mlat: Office of the Attorney General
-cooperation_assessment: Thailand is a **non-party** to the Budapest Convention. Its
-  2007 Computer Crime Act (CCA) and 2017 amendments have been criticized by civil
-  society for speech-restricting provisions but provide substantive cybercrime offences.
-  Thailand cooperates internationally primarily through Interpol, ASEAN channels,
-  and bilateral MLATs. The **Cyber Crime Investigation Bureau (CCIB)** of the Royal
-  Thai Police handles most cybercrime investigations.
+  budapest: ""
+  mlat: "Office of the Attorney General"
+cooperation_assessment: "Thailand is a **non-party** to the Budapest Convention. Its"
 created: 2026-04-10
 cybercrime_legislation:
   data_retention: unknown
-  primary_law: Computer Crime Act B.E. 2550 (2007), amended B.E. 2560 (2017)
-  primary_law_date: '2007-06-18'
+  primary_law: "Computer Crime Act B.E. 2550 (2007), amended B.E. 2560 (2017)"
+  primary_law_date: 2007-06-18
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: unknown
@@ -27,28 +23,31 @@ ic_capacity:
   rating: medium
 iso_code: TH
 key_agencies:
-- '[[thailand-royal-police]]'
-last_verified: '2026-04-10'
+  - "[[thailand-royal-police]]"
+last_verified: 2026-05-08
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+  []
 operations_participated:
-- '[[alphabay-takedown]]'
-- '[[operation-haechi-vi]]'
-- '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
-- '[[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
+  - "[[alphabay-takedown]]"
+  - "[[operation-haechi-vi]]"
+  - "[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+  - "[[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+  - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
 region: southeast-asia
 source_count: 3
-sources: []
-title: Kingdom of Thailand
+sources:
+  []
+title: "Kingdom of Thailand"
 treaty_memberships:
-- date: ''
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: non-party
+  - date: ""
+    framework: "[[budapest-convention]]"
+    reservations:
+      []
+    status: non-party
 type: country
-updated: 2026-04-21
+updated: 2026-05-08
 ---
-
 ## Summary
 
 Thailand is a **non-party** to the [[budapest-convention|Budapest Convention]] but has substantive cybercrime legislation under the **Computer Crime Act B.E. 2550 (2007)**, as amended in 2017 (B.E. 2560). The Act has been widely criticized by civil society organizations for provisions that criminalize content considered harmful to national security or public order, which are distinct from conventional cybercrime offences.

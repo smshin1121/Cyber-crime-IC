@@ -12,7 +12,9 @@ status: active
 established: 1949-10-15
 parent_org: ""
 country: "[[china]]"
-jurisdiction: [[china]]
+jurisdiction:
+  -
+    - china
 headquarters: "Beijing, China"
 mandate: "National law enforcement and public security, including cybercrime investigation and cross-border enforcement cooperation"
 key_roles:
@@ -20,17 +22,18 @@ key_roles:
   - "Bilateral border law enforcement cooperation with Myanmar, Thailand, Cambodia, Laos, Philippines"
   - "Domestic telecom/online fraud prevention campaign"
 cooperation_partners:
-  []
+
 operations_participated:
   - "[[myanmar-kokang-scam-compound-crackdown]]"
+  - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
 source_count: 3
 sources:
   - https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html
   - https://news.cgtn.com/news/2023-11-21/31-000-telecom-scam-suspects-handed-over-to-China-by-Myanmar-1oUBBpIdweA/index.html
   - https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html
 created: 2026-04-10
-updated: "2026-04-29"
-last_verified: 2026-04-29
+updated: 2026-05-08
+last_verified: 2026-05-08
 coverage_status: audit-normalized
 ---
 ## Summary

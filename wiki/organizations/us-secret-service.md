@@ -15,7 +15,7 @@ frameworks_administered:
 headquarters: "Washington, D.C., United States"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "Combat financial cybercrime through a unified national network of Cyber Fraud"
 mechanisms_operated:
 
@@ -42,6 +42,7 @@ operations_participated:
   - "[[operation-open-market]]"
   - "[[operation-hyperion]]"
   - "[[operation-disruptor]]"
+  - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
 source_count: 4
@@ -50,7 +51,7 @@ sources:
 status: active
 title: "US Secret Service — Cyber Fraud Task Forces"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-08
 ---
 ## Current Status (as of 2026-04-10)
 

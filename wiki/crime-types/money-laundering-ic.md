@@ -7,7 +7,7 @@ aliases:
   - "crypto mixer"
   - "cryptocurrency mixing service"
   - "자금세탁"
-crime_category: "cyber-enabled"
+crime_category: cyber-enabled
 typical_ic_challenges:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
@@ -24,17 +24,21 @@ notable_operations:
   - "[[2bagoldmule-qqaazz]]"
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
-notable_cases: []
+  - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+notable_cases:
+
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
-  problem_jurisdictions: []
+  problem_jurisdictions:
+
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 3
+source_count: 4
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
   - "[[2026-02-03_eurojust_successful-operation-illegal-streaming-services]]"
+  - "[[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests]]"
 created: 2026-04-14
 updated: 2026-05-08
 ---
@@ -95,3 +99,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [1] | [[2025-12-01-eurojust-de-ch-crypto-mixer-takedown|Cryptocurrency mixing service used to launder money taken down]] | Eurojust | 2025-12-01 | https://www.eurojust.europa.eu/news/cryptocurrency-mixing-service-used-launder-money-taken-down |
 | [2] | [[2026-01-29_ace_operation-switch-off-illegal-iptv-ring|ACE Applauds Coordinated Global Law-Enforcement Action Against Industrial-Scale Illegal IPTV Ring]] | Alliance for Creativity and Entertainment | 2026-01-29 | https://www.alliance4creativity.com/news/ace-applauds-coordinated-global-law-enforcement-action-against-industrial-scale-illegal-iptv-ring/ |
 | [3] | [[2026-02-03_eurojust_successful-operation-illegal-streaming-services|Successful operation against illegal streaming services with millions of users worldwide]] | Eurojust | 2026-02-03 | https://www.eurojust.europa.eu/news/successful-operation-against-illegal-streaming-services-millions-users-worldwide |
+| [4] | [[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests\|Coordinated Takedown of Scam Centers Leads to at Least 276 Arrests; Alleged Managers and Recruiters Charged in San Diego]] | US DOJ (OPA) | 2026-04-29 | https://www.justice.gov/opa/pr/coordinated-takedown-scam-centers-leads-least-276-arrests-alleged-managers-and-recruiters |

@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (141 canonical / 27 absorbed / 168 records)
+# Operations (142 canonical / 27 absorbed / 169 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (141)
+## Canonical Operations (142)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -137,6 +137,7 @@ updated: 2026-04-14
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |
 | [[operation-red-card-2]] | CYB-2026-003 | 3 | completed | umbrella | 4 | 4.25 | 1 |
+| [[coordinated-cryptocurrency-scam-center-takedown-2026]] | CYB-2026-008 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | umbrella | 5 | 4.40 | 2 |
 | [[operation-pangea-xviii]] | CYB-2026-032 | 3 | completed | umbrella | 4 | 4.40 | 1 |
 | [[operation-eclipse-csam-americas]] | CYB-2026-033 | 3 | completed | umbrella | 4 | 4.20 | 1 |

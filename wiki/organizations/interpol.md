@@ -14,7 +14,7 @@ frameworks_administered:
 headquarters: "Lyon, France"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-08
 mandate: "Enable police cooperation across 196 member countries through secure communications"
 mechanisms_operated:
 
@@ -61,6 +61,7 @@ operations_participated:
   - "[[operation-soga-x]]"
   - "[[operation-eclipse-csam-americas]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
+  - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
 org_type: international-org
 parent_org: ""
 source_count: 4

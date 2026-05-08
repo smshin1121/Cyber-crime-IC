@@ -1,12 +1,22 @@
 ---
 type: crime-type
 title: "Online Fraud — International Cooperation Perspective"
-aliases: ["online fraud", "cyber-enabled fraud", "internet fraud", "voice phishing", "romance scam", "investment fraud", "BEC", "business email compromise"]
-crime_category: "cyber-enabled"
-typical_ic_challenges: []
+aliases:
+  - "online fraud"
+  - "cyber-enabled fraud"
+  - "internet fraud"
+  - "voice phishing"
+  - "romance scam"
+  - "investment fraud"
+  - BEC
+  - "business email compromise"
+crime_category: cyber-enabled
+typical_ic_challenges:
+
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-typical_mechanisms: []
+typical_mechanisms:
+
 key_organizations:
   - "[[interpol-igci]]"
   - "[[fbi-cyber-division]]"
@@ -22,14 +32,16 @@ notable_operations:
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
+  - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
-  problem_jurisdictions: []
+  problem_jurisdictions:
+
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 17
+source_count: 18
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -48,6 +60,7 @@ sources:
   - "[[2026-04-29_eurojust_fraud-call-centres-eu-citizens]]"
   - "[[2026-04-29_europol_call-centres-eur-50m-online-fraud]]"
   - "[[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]]"
+  - "[[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests]]"
 created: 2026-04-08
 updated: 2026-05-08
 ---
@@ -128,3 +141,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [15] | Fraud call centres targeting EU citizens shut down with Eurojust's support - over EUR 50 million in damages uncovered | Eurojust | 2026-04-29 | https://www.eurojust.europa.eu/news/fraud-call-centres-targeting-eu-citizens-shut-down-eurojusts-support-over-eur-50-million |
 | [16] | Call centres dismantled and ten arrested in EUR 50 million online fraud case | Europol | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/call-centres-dismantled-and-ten-arrested-in-eur-50-million-online-fraud-case |
 | [17] | European police bust Albanian investment and call centre scam | Reuters / MarketScreener | 2026-04-29 | https://www.marketscreener.com/news/european-police-bust-albanian-investment-and-call-centre-scam-ce7f58dad889f622 |
+| [18] | [[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests\|Coordinated Takedown of Scam Centers Leads to at Least 276 Arrests; Alleged Managers and Recruiters Charged in San Diego]] | US DOJ (OPA) | 2026-04-29 | https://www.justice.gov/opa/pr/coordinated-takedown-scam-centers-leads-least-276-arrests-alleged-managers-and-recruiters |
