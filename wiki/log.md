@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | SPF 2025-06-17 — Operation Cryptoscam (Singapore-Brazil-INTERPOL crypto-tracing cooperation, May 2025 FPB action)
+- Source: `raw/press-releases/2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil.md` (Singapore Police Force press release; tier-1 primary)
+- Pages created: [[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil]] (source summary), [[spf-fpb-operation-cryptoscam-2025]] (operation, case_id `CYB-2025-207`)
+- Pages updated: [[singapore]], [[brazil]] (operations_participated); [[singapore-police]], [[interpol-igci]], [[brazil-ministry-of-justice-public-security]] (operations_participated); [[online-fraud-ic]], [[money-laundering-ic]] (notable_operations + sources + body Reference rows); [[interpol-i24-7]] (operations_using); index/master indexes reconciled.
+- Key findings: SPF-originated investigation traced a USD 1.4M January-2024 cryptocurrency-wallet compromise (Singapore victim) to Brazil; FPB alerted via INTERPOL channels; May 2025 FPB executed two simultaneous operations (Operation Cryptoscam being the SPF-originated track) producing 26 search-and-seizure warrants and 11 arrest warrants. Brazil-side authorities: Repression Electronic Bank Fraud Coordination + FPB Regional Office Itajaí, Santa Catarina. First wiki record of Singapore-Brazil bilateral cybercrime cooperation pattern; ASEAN-LATAM cybercrime cooperation channel via INTERPOL.
+
 ## [2026-05-09] ingest | Europol 2024-04-18 — LabHost phishing-as-a-service takedown (UK Met-led, 19-country joint action 2024-04-14 to 2024-04-17)
 - Source: `raw/press-releases/2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost.md` (Europol newsroom press release; tier-1 primary)
 - Pages created: [[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost]] (source summary), [[labhost-phishing-as-a-service-takedown-2024]] (operation, case_id `CYB-2024-202`)

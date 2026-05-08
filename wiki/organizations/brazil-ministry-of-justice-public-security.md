@@ -11,7 +11,9 @@ status: active
 established: ""
 parent_org: ""
 country: "[[brazil]]"
-jurisdiction: [[brazil]]
+jurisdiction:
+  -
+    - brazil
 headquarters: "Brasilia, Brazil"
 mandate: "Federal justice and public-security ministry coordinating national public-security policy and Operation 404 cyber operations through its public-security structures."
 member_states: 0
@@ -24,13 +26,14 @@ cooperation_partners:
 operations_participated:
   - "[[operation-404-digital-piracy-2019]]"
   - "[[operation-power-off]]"
+  - "[[spf-fpb-operation-cryptoscam-2025]]"
 source_count: 2
 sources:
   - "[[2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet]]"
   - "[[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]]"
 created: 2026-05-04
-updated: 2026-05-08
-last_verified: 2026-05-08
+updated: 2026-05-09
+last_verified: 2026-05-09
 coverage_status: operation-linked
 ---
 ## Summary

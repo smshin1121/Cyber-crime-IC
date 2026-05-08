@@ -14,7 +14,7 @@ treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
-    reservations:
+    reservations: ""
 central_authority:
   mlat: ""
   budapest: ""
@@ -31,6 +31,7 @@ bilateral_agreements:
 operations_participated:
   - "[[operation-orion-international]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[spf-fpb-operation-cryptoscam-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
@@ -41,7 +42,7 @@ sources:
   - "[[2025-03-25_everettindependent_brazilian-nationals-with-local-ties-charged-in-firearms-investigation]]"
   - "[[2026-04-18_justice-gov_brazilian-national-indicted-selling-firearms]]"
 created: 2026-04-13
-updated: 2026-05-08
+updated: 2026-05-09
 status: corpus-linked
 ---
 ## Summary

@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (157 canonical / 27 absorbed / 184 records)
+# Operations (158 canonical / 27 absorbed / 185 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (157)
+## Canonical Operations (158)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -141,6 +141,7 @@ updated: 2026-04-14
 | [[eurojust-100m-crypto-investment-fraud-takedown-2025]] | CYB-2025-204 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[eurojust-600m-crypto-money-laundering-takedown-2025]] | CYB-2025-205 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[india-cbi-noida-tech-support-scam-takedown-2025]] | CYB-2025-206 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[spf-fpb-operation-cryptoscam-2025]] | CYB-2025-207 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |

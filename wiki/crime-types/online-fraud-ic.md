@@ -43,6 +43,7 @@ notable_operations:
   - "[[operation-token-mirrors-2026]]"
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[spf-fpb-operation-cryptoscam-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -52,7 +53,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 28
+source_count: 29
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -82,6 +83,7 @@ sources:
   - "[[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation]]"
   - "[[2025-07-11_nca-uk_major-scam-centre-targeted-after-international-operation]]"
   - "[[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost]]"
+  - "[[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -173,3 +175,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [26] | [[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation\|Ten foreign nationals charged in an international operation targeting cryptocurrency market manipulation]] | IRS Criminal Investigation | 2026-03-30 | https://www.irs.gov/compliance/criminal-investigation/ten-foreign-nationals-charged-in-an-international-operation-targeting-cryptocurrency-market-manipulation |
 | [27] | [[2025-07-11_nca-uk_major-scam-centre-targeted-after-international-operation\|Major scam centre targeted after international operation]] | UK National Crime Agency | 2025-07-11 | https://www.nationalcrimeagency.gov.uk/news/major-scam-centre-targeted-after-international-operation |
 | [28] | [[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost\|International investigation disrupts phishing-as-a-service platform LabHost]] | Europol | 2024-04-18 | https://www.europol.europa.eu/media-press/newsroom/news/international-investigation-disrupts-phishing-service-platform-labhost |
+| [29] | [[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil\|Singapore Police Force Partners INTERPOL And Federal Police Of Brazil In Transnational Operation Against Cybercriminals]] | Singapore Police Force | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_singapore_police_force_partners_interpol_and_federal_police_of_brazil |

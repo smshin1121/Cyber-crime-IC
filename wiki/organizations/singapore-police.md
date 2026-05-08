@@ -1,38 +1,41 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: "[[singapore]]"
-jurisdiction: [[singapore]]
+jurisdiction:
+  -
+    - singapore
 created: 2026-04-10
 established: 2015-06
 frameworks_administered:
-  []
+
 headquarters: Singapore
 key_roles:
-  []
-last_verified: 2026-04-10
+
+last_verified: 2026-05-09
 mandate: "Build up Singapore Police Force anti-cybercrime capabilities through specialized"
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "Singapore Police Force, Cybercrime Command, Criminal Investigation"
 operations_participated:
   - "[[operation-cyber-guardian]]"
   - "[[operation-chakra-ii]]"
+  - "[[spf-fpb-operation-cryptoscam-2025]]"
 org_type: national-unit
 parent_org: "[[singapore-police]]"
 source_count: 7
 sources:
-  []
+
 status: active
 title: "Singapore Police Force — Cybercrime Command"
 type: organization
-updated: "2026-05-08"
+updated: 2026-05-09
 ---
 ## Summary
 

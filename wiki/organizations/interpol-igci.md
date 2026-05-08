@@ -14,7 +14,7 @@ frameworks_administered:
 headquarters: Singapore
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-09
 mandate: "INTERPOL's innovation and cyber hub, providing cutting-edge research, digital"
 mechanisms_operated:
 
@@ -46,6 +46,7 @@ operations_participated:
   - "[[operation-catalyst]]"
   - "[[operation-pangea-xvii]]"
   - "[[operation-pangea-xviii]]"
+  - "[[spf-fpb-operation-cryptoscam-2025]]"
 org_type: international-org
 parent_org: "[[interpol]]"
 source_count: 11
@@ -54,7 +55,7 @@ sources:
 status: active
 title: "INTERPOL Global Complex for Innovation (IGCI)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 > [!info] Updated 2026-04-08
 > Added 6 new operations: Jackal, Jackal III, First Light 2024, HAECHI IV, HAECHI VI, Sentinel Africa.

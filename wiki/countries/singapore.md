@@ -9,6 +9,7 @@ operations_participated:
   - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
   - "[[operation-avalanche]]"
   - "[[operation-token-mirrors-2026]]"
+  - "[[spf-fpb-operation-cryptoscam-2025]]"
 region: southeast-asia
 source_count: 0
 sources:
