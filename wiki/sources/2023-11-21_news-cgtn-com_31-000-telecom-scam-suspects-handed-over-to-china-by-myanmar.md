@@ -2,7 +2,7 @@
 type: source
 title: "31,000 Telecom Scam Suspects Handed Over to China by Myanmar"
 raw_path: raw/press-releases/2023-11-21_news-cgtn-com_31-000-telecom-scam-suspects-handed-over-to-china-by-myanmar.md
-source_type: press-release
+source_type: news
 publisher: CGTN
 author: ""
 publish_date: 2023-11-21
@@ -12,11 +12,12 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-
+  - "[[myanmar-kokang-scam-compound-crackdown]]"
 key_findings:
   - "The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern Myanmar's Shan State. The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the."
 collection_url: https://news.cgtn.com/news/2023-11-21/31-000-telecom-scam-suspects-handed-over-to-China-by-Myanmar-1oUBBpIdweA/index.html
 created: 2026-04-17
+updated: 2026-05-08
 copyright_policy: summary-only
 ---
 ## Source Summary

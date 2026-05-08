@@ -84,12 +84,13 @@ lessons_learned:
   - "Non-state armed groups can serve as de facto enforcement partners when state authorities are unable or unwilling to act"
   - "Military-kinetic operations (Operation 1027) can achieve anti-cybercrime objectives that law enforcement alone could not"
   - "Scam compound displacement: crackdown in one region caused relocation to other parts of Myanmar, Cambodia, and Laos"
-source_count: 2
+source_count: 3
 sources:
   - "[[2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown]]"
   - "[[2023-11-21_news-cgtn-com_31-000-telecom-scam-suspects-handed-over-to-china-by-myanmar]]"
+  - "[[2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown]]"
 created: 2026-04-10
-updated: 2026-04-29
+updated: 2026-05-08
 operation_role: umbrella
 parent_operation: ""
 summary: "The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern Myanmar's Shan State. The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the Three Brotherhood Alliance (a coalition of ethnic armed organizations including the MNDAA) that physically overran the scam compound territories."
@@ -336,3 +337,4 @@ This keeps the canonical record analytically bounded and reproducible.
 |---|---|---|---|---|
 | [1] | Myanmar Rebel Offensive Helps China's Cybercrime Crackdown | VOA News | 2023-11-20 | https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html |
 | [2] | 31,000 Telecom Scam Suspects Handed Over to China by Myanmar | CGTN | 2023-11-21 | https://news.cgtn.com/news/2023-11-21/31-000-telecom-scam-suspects-handed-over-to-China-by-Myanmar-1oUBBpIdweA/index.html |
+| [3] | Ministry Releases Details of Successful Crackdown | China Daily | 2024-01-05 | https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html |

@@ -2,7 +2,7 @@
 type: source
 title: "Ministry Releases Details of Successful Crackdown"
 raw_path: raw/press-releases/2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown.md
-source_type: press-release
+source_type: news
 publisher: "China Daily"
 author: ""
 publish_date: 2024-01-05
@@ -12,11 +12,13 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-
+  - "[[myanmar-kokang-scam-compound-crackdown]]"
 key_findings:
-  - "The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern Myanmar's Shan State. The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the."
+  - "China MPS said 41,000 telecom-fraud suspects were handed over to China in 2023 with cooperation from parties in Myanmar."
+  - "The article records arrest warrants for key leaders of telecom-fraud groups in northern Myanmar's Kokang region and Yunnan-led border law-enforcement cooperation."
 collection_url: https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html
 created: 2026-04-17
+updated: 2026-05-08
 text_status: summarized
 content_hash: sha256:571e49e1e2ab8d0500c04ea3b1ea616ea7b22bb4e3af2e3c4e153273dcc3ae13
 word_count: 763
@@ -27,8 +29,8 @@ copyright_policy: summary-only
 ---
 ## Source Summary
 
-The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern Myanmar's Shan State. The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the Three Brotherhood Alliance (a coalition of ethnic armed organizations including the MNDAA) that physically overran the scam compound territories.
+China Daily reports China MPS anti-fraud enforcement figures for 2023, including 41,000 telecom-fraud suspects handed over to China with cooperation from parties in Myanmar. The article also records arrest warrants for key leaders of telecom-fraud groups in northern Myanmar's Kokang region and Yunnan-led border law-enforcement cooperation.
 
 ## Relevance to IC
 
-The `raw_path` metadata links this source page to the archived corpus record `raw/press-releases/2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown.md`, preserving traceable review without classifying the page as a placeholder.
+This source supplies the 41,000-suspect year-end figure and directly supports the China-Myanmar international-cooperation classification for the Myanmar-Kokang scam-compound crackdown.

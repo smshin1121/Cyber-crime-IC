@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (659)
+# Sources (660)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -311,6 +311,7 @@ updated: 2026-04-14
 | [[2024-02-20-europol-operation-cronos-lockbit]] | press-release | Europol | ? | high | ? |
 | [[kaspersky-operation-avalanche]] | press-release | Kaspersky | 3 | medium | ? |
 | [[2024-01-26_opa_banmeet-singh-dark-web-vendor-plea]] | court-document | US DOJ Office of Public Affairs | ? | high | ? |
+| [[2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown]] | news | China Daily | ? | medium | ? |
 | [[2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th]] | press-release | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2024-01-01_bleepingcomputer-com_russian-trickbot-malware-dev-sentenced-to-64-months-in-prison]] | press-release | BleepingComputer | ? | medium | ? |
 | [[2023-12-21_mynavi-techplus_interpol-operation-haechi-iv]] | news | TECH+ | ? | medium | ? |
@@ -324,8 +325,8 @@ updated: 2026-04-14
 | [[2023-12-11_interior-gob-es_policia-nacional-detiene-lider-kelvin-security]] | press-release | Ministry of the Interior of Spain | 1 | high | ? |
 | [[2023-11-29_mdfl_adejumo-jinadu-xdedic-sentencing]] | court-document | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2023-11-28_eurojust_ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol]] | press-release | Eurojust | 1 | high | ? |
-| [[2023-11-21_news-cgtn-com_31-000-telecom-scam-suspects-handed-over-to-china-by-myanmar]] | press-release | CGTN | ? | medium | ? |
-| [[2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown]] | press-release | VOA News | ? | medium | ? |
+| [[2023-11-21_news-cgtn-com_31-000-telecom-scam-suspects-handed-over-to-china-by-myanmar]] | news | CGTN | ? | medium | ? |
+| [[2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown]] | news | VOA News | ? | medium | ? |
 | [[2026-04-18_justice-gov_monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2023-10-19_thenewsmill-com_cbi-launches-operation-chakra-2-against-cyber-criminals]] | news | The News Mill / ANI | ? | medium | ? |
 | [[2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes]] | press-release | Press Information Bureau / Ministry of Home Affairs | ? | high | ? |

@@ -79,7 +79,7 @@ updated: 2026-04-14
 | [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[hive-ransomware-takedown]] | CYB-2023-006 | 3 | completed | umbrella | 5 | 3.25 | 2 |
 | [[operation-chakra-ii]] | CYB-2023-019 | 3 | completed | umbrella | 3 | 3.40 | 1 |
-| [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | umbrella | 2 | 3.80 | 2 |
+| [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | umbrella | 3 | 3.80 | 2 |
 | [[africa-cyber-surge-ii]] | CYB-2023-050 | 3 | completed | umbrella | 5 | 4.12 | 1 |
 | [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | umbrella | 5 | 4.12 | 1 |
 | [[operation-nervone]] | CYB-2023-052 | 3 | completed | umbrella | 5 | 4.18 | 1 |

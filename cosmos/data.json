@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T06:42:32Z",
+  "generated_at": "2026-05-08T06:49:46Z",
   "root": null,
   "stats": {
-    "total_nodes": 1311,
-    "total_edges": 12273,
+    "total_nodes": 1312,
+    "total_edges": 12277,
     "broken_links": 0,
-    "orphans": 106,
+    "orphans": 105,
     "by_type": {
       "analysis": 108,
       "audit": 1,
@@ -19,7 +19,7 @@
       "operation": 162,
       "organization": 146,
       "procedure": 2,
-      "source": 659
+      "source": 660
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
@@ -1391,7 +1391,7 @@
       "title": "Source Duplicate Audit (2026-05-08)",
       "title_ko": null,
       "aliases": [],
-      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4876 -…",
+      "summary": "This audit checks whether multiple wiki/sources pages point to the same original URL or fetched content. Pages marked with duplicate_of are preserved aliases and are separated from active unresolved duplicates. - Source pages audited: 4877 -…",
       "source_count": 0,
       "created": "2026-05-08",
       "updated": "2026-05-08",
@@ -6468,10 +6468,10 @@
         "Northern Myanmar Telecom Fraud Crackdown"
       ],
       "summary": "The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-10",
-      "updated": "2026-04-29",
-      "degree": 43,
+      "updated": "2026-05-08",
+      "degree": 46,
       "path": "wiki/operations/myanmar-kokang-scam-compound-crackdown.md",
       "meta": {
         "status": "completed",
@@ -9889,7 +9889,7 @@
       "source_count": 3,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 9,
+      "degree": 10,
       "path": "wiki/organizations/china-mps-cyber.md",
       "meta": {
         "org_type": "national-police-cyber-function",
@@ -16593,8 +16593,8 @@
       "summary": "## Source Summary The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone…",
       "source_count": 0,
       "created": "2026-04-17",
-      "updated": null,
-      "degree": 1,
+      "updated": "2026-05-08",
+      "degree": 2,
       "path": "wiki/sources/2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown.md",
       "meta": {}
     },
@@ -16607,8 +16607,8 @@
       "summary": "## Source Summary The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone…",
       "source_count": 0,
       "created": "2026-04-17",
-      "updated": null,
-      "degree": 0,
+      "updated": "2026-05-08",
+      "degree": 1,
       "path": "wiki/sources/2023-11-21_news-cgtn-com_31-000-telecom-scam-suspects-handed-over-to-china-by-myanmar.md",
       "meta": {}
     },
@@ -16806,6 +16806,20 @@
       "updated": null,
       "degree": 15,
       "path": "wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown",
+      "type": "source",
+      "title": "Ministry Releases Details of Successful Crackdown",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary China Daily reports China MPS anti-fraud enforcement figures for 2023, including 41,000 telecom-fraud suspects handed over to China with cooperation from parties in Myanmar. The article also records arrest warrants for key leaders…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": "2026-05-08",
+      "degree": 2,
+      "path": "wiki/sources/2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown.md",
       "meta": {}
     },
     {
@@ -78601,6 +78615,12 @@
       "directed": false
     },
     {
+      "source": "china-mps-cyber",
+      "target": "2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "china-mps",
       "target": "china",
       "kind": "country",
@@ -90469,6 +90489,18 @@
       "directed": true
     },
     {
+      "source": "2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown",
+      "target": "myanmar-kokang-scam-compound-crackdown",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2023-11-21_news-cgtn-com_31-000-telecom-scam-suspects-handed-over-to-china-by-myanmar",
+      "target": "myanmar-kokang-scam-compound-crackdown",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2023-11-28_eurojust_ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol",
       "target": "blackcat-lockeroga-kelvin-security-2023",
       "kind": "pages_updated",
@@ -90569,6 +90601,12 @@
       "target": "xdedic-marketplace-takedown",
       "kind": "body",
       "directed": false
+    },
+    {
+      "source": "2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown",
+      "target": "myanmar-kokang-scam-compound-crackdown",
+      "kind": "pages_updated",
+      "directed": true
     },
     {
       "source": "2024-02-20-europol-operation-cronos-lockbit",

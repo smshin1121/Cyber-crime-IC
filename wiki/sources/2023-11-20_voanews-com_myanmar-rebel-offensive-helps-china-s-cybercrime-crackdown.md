@@ -2,7 +2,7 @@
 type: source
 title: "Myanmar Rebel Offensive Helps China's Cybercrime Crackdown"
 raw_path: raw/press-releases/2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown.md
-source_type: press-release
+source_type: news
 publisher: "VOA News"
 author: ""
 publish_date: 2023-11-20
@@ -12,11 +12,12 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-
+  - "[[myanmar-kokang-scam-compound-crackdown]]"
 key_findings:
   - "The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern Myanmar's Shan State. The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the."
 collection_url: https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html
 created: 2026-04-17
+updated: 2026-05-08
 text_status: summarized
 content_hash: sha256:4823b64f60becdb204059f198b5716990dbdb7be4ae49e218ceaf6791119f52b
 word_count: 1552
