@@ -119,12 +119,15 @@ missing_fields:
   - "specific Romania-side action detail"
   - "specific cryptocurrency totals seized vs other assets within the EUR 7.8M seizure"
   - "indictment counts in any jurisdiction (the cited release describes pre-indictment action-day events)"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-raptor]]"
   - "[[150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]]"
   - "[[operation-owners-of-empire-market-charged-in-chicago-with-operating-430-million-dark-web-marketplace]]"
-challenges_encountered: []
+  - "[[xss-is-cybercrime-forum-takedown-2025]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "First wiki record of Operation Deep Sentinel as a discrete operation-name and the most fully-articulated Germany-Spain-Netherlands-Sweden-Romania-US 6-jurisdiction darknet-marketplace takedown architecture in the corpus."
   - "Demonstrates explicit Eurojust EIO + MLA coordination as a discrete IC mechanism class for darknet-marketplace takedowns — a structurally similar pattern to [[eurojust-100m-crypto-investment-fraud-takedown-2025|the 2025-09 €100M crypto-investment-fraud takedown]] (Eurojust EAW + EIO + freezing-order coordination), applied here to drug-marketplace infrastructure."

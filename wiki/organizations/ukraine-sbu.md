@@ -2,12 +2,12 @@
 type: organization
 title: "Security Service of Ukraine (SBU)"
 aliases:
-  - "SBU"
+  - SBU
   - "Sluzhba bezpeky Ukrainy"
 status: active
 created: 2026-05-07
-updated: 2026-05-08
-last_verified: 2026-05-07
+updated: 2026-05-09
+last_verified: 2026-05-09
 org_type: national-security-agency
 country: "[[ukraine]]"
 headquarters: "Kyiv, Ukraine"
@@ -18,6 +18,7 @@ key_roles:
 operations_participated:
   - "[[operation-trident-breach]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
+  - "[[xss-is-cybercrime-forum-takedown-2025]]"
 cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[netherlands-politie]]"
@@ -25,7 +26,7 @@ cooperation_partners:
 source_count: 1
 sources:
   - "[[2010-10-01_fbi_operation-trident-breach]]"
-jurisdiction: "Ukraine"
+jurisdiction: Ukraine
 ---
 ## Summary
 

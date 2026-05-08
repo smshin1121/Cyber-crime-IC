@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (707)
+# Sources (708)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -128,6 +128,7 @@ updated: 2026-04-14
 | [[2025-07-25_scworld-com_operation-checkmate-shuts-down-blacksuits-extortion-sites]] | news | SC Media | 3 | medium | ? |
 | [[2025-07-25_bitdefender-com_after-500-million-in-ransom-demands-law-enforcement-seizes-blacksuit-site]] | news | Bitdefender | 3 | medium | ? |
 | [[2025-07-24_bleepingcomputer-com_law-enforcement-seizes-blacksuit-ransomware-leak-sites]] | news | BleepingComputer | 3 | medium-high | ? |
+| [[2025-07-23_europol_xss-is-cybercrime-forum-administrator-arrested-ukraine]] | press-release | Europol | ? | high | ? |
 | [[2025-07-16_polizei-sachsen_operation-eastwood]] | press-release | Polizei Sachsen / German Federal Criminal Police Office | ? | high | ? |
 | [[2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down]] | press-release | Eurojust | ? | high | ? |
 | [[2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy]] | press-release | US Attorney's Office, District of Oregon (USAO-OR) | ? | high | ? |

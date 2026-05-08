@@ -57,7 +57,8 @@ mechanisms_used:
   - "[[search-seizure]]"
   - "[[domain-seizure]]"
   - "[[eurojust-coordination-meeting]]"
-legal_basis: []
+legal_basis:
+  []
 results:
   arrests: 0
   indictments: 0
@@ -74,24 +75,27 @@ results:
     - "Investigative assistance provided by Canada, Germany, Greece, Kosovo, Malaysia, and the Netherlands"
     - "Synchronized 14-country action coordinated by Europol in The Hague on 2026-03-03 and 2026-03-04"
 edges:
-  - source_actor: "fbi"
-    target_actor: "europol-ec3"
+  - source_actor: fbi
+    target_actor: europol-ec3
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "us-doj"
-    target_actor: "europol-ec3"
+  - source_actor: us-doj
+    target_actor: europol-ec3
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  - "arrests"
-  - "indictments"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - arrests
+  - indictments
+related_cases:
+  []
+related_operations:
+  - "[[xss-is-cybercrime-forum-takedown-2025]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "DOJ frames LeakBase as the latest in a sequence of large English-language hacker-forum takedowns — RaidForums (2022) and BreachForums (2023, founder convicted 2025) — suggesting the displacement-and-takedown cycle on the open-web cybercrime forum vertical is now an established US-led, Europol-coordinated pattern."
   - "Cooperation split between 'active enforcement' countries (8) and 'assistance' countries (6) is explicit in the cited tier-1 source and is captured in the body table as a non-uniform participation roster for SNA edge weighting."
@@ -100,7 +104,7 @@ sources:
   - "[[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum]]"
 summary: "LeakBase, an open-web English-language forum that DOJ describes as one of the world's largest cybercriminal data-trading platforms (over 142,000 members, over 215,000 messages), was dismantled on 2026-03-03 and 2026-03-04 in a synchronized 14-country action coordinated by Europol in The Hague. The US lead was the FBI Salt Lake City Field Office, with prosecution by USAO-Utah and CCIPS, and the action follows the DOJ-led RaidForums (2022) and BreachForums (2023) takedowns."
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

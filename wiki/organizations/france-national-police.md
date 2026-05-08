@@ -4,13 +4,15 @@ aliases:
 contact_point_for:
 
 country: "[[france]]"
-jurisdiction: [[france]]
+jurisdiction:
+  -
+    - france
 created: 2026-04-10
 established: 2023-11-23
 headquarters: "Nanterre, France"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-09
 mandate: "National-competence French police cybercrime office coordinating complex"
 notable_cases:
 
@@ -24,6 +26,7 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
   - "[[operation-power-off]]"
+  - "[[xss-is-cybercrime-forum-takedown-2025]]"
 org_type: national-unit
 parent_org: "Direction Nationale de la Police Judiciaire (Police Nationale, Ministry"
 source_count: 3
@@ -32,7 +35,7 @@ sources:
 status: active
 title: "Office anti-cybercriminalité (OFAC) — French National Police"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-09
 ---
 ## Summary
 

@@ -39,6 +39,7 @@ operations_participated:
   - "[[operation-avalanche]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[xss-is-cybercrime-forum-takedown-2025]]"
 region: eastern-europe
 source_count: 3
 sources:

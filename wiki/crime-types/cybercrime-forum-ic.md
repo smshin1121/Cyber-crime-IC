@@ -26,6 +26,7 @@ notable_operations:
   - "[[xdedic-marketplace-takedown]]"
   - "[[marketplace-a-dekhtyarchuk-indictment]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[xss-is-cybercrime-forum-takedown-2025]]"
 notable_cases:
 
 criminalization_status:
@@ -34,15 +35,16 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 5
+source_count: 6
 sources:
   - "[[2015-07-15_fbi-gov_cyber-criminal-forum-taken-down]]"
   - "[[2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa]]"
   - "[[2018-02-07_justice-gov_thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organ]]"
   - "[[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation]]"
   - "[[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum]]"
+  - "[[2025-07-23_europol_xss-is-cybercrime-forum-administrator-arrested-ukraine]]"
 created: 2026-04-17
-updated: 2026-05-08
+updated: 2026-05-09
 status: active
 ---
 ## Summary
@@ -74,3 +76,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [3] | [[2018-02-07_justice-gov_thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organ|Thirty-Six Defendants Indicted For Alleged Roles In Transnational Criminal Organization Responsible For More Than $530 Million In Losses From Cybercrimes]] | US DOJ (District of Nevada) | 2018-02-07 | https://www.justice.gov/usao-nv/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization |
 | [4] | [[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation|Cracked and Nulled Marketplaces Disrupted in International Cyber Operation]] | U.S. Department of Justice | 2025-01-30 | https://www.justice.gov/opa/pr/cracked-and-nulled-marketplaces-disrupted-international-cyber-operation |
 | [5] | [[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum\|United States Leads Dismantlement of One of the World's Largest Hacker Forums]] | US DOJ (OPA) | 2026-03-04 | https://www.justice.gov/opa/pr/united-states-leads-dismantlement-one-worlds-largest-hacker-forums |
+| [6] | [[2025-07-23_europol_xss-is-cybercrime-forum-administrator-arrested-ukraine\|Key figure behind major Russian-speaking cybercrime forum targeted in Ukraine]] | Europol | 2025-07-23 | https://www.europol.europa.eu/media-press/newsroom/news/key-figure-behind-major-russian-speaking-cybercrime-forum-targeted-in-ukraine |

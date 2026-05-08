@@ -120,15 +120,16 @@ missing_fields:
   - "victims recovered or notified count"
   - "post-arrest charging timelines and indictment counts"
 related_cases:
-  []
+
 related_operations:
   - "[[operation-cronos-phase1]]"
   - "[[operation-endgame]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[2bagoldmule-qqaazz]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[xss-is-cybercrime-forum-takedown-2025]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Demonstrates the most fully-articulated 19-country action-day enumeration in the wiki for a phishing-as-a-service takedown, covering EU member states, EFTA partners, Five Eyes (US, UK, Canada, Australia, NZ), and the Pacific."
   - "Establishes the Europol J-CAT (Joint Cybercrime Action Taskforce, hosted at Europol HQ) as a discrete IC mechanism class for organising multilateral cybercrime takedowns — supplementing the bilateral MLAT and EU JIT models tracked elsewhere in the wiki."
