@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (630)
+# Sources (635)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -449,8 +449,13 @@ updated: 2026-04-14
 | [[2020-10-15_occrp-org_pan-continental-operation-busts-money-launderers-for-europes-cybercriminals]] | news | OCCRP | ? | medium | ? |
 | [[2020-10-15_cyberscoop-com_fbi-accuses-russian-money-laundering-qqaazz]] | press-release | CyberScoop | ? | medium | ? |
 | [[2020-10-15_ap_europol-fbi-arrest-20-cybercrime-money-launderers-from-various-nations]] | news | Associated Press | ? | medium | ? |
+| [[2020-10-13_incibe-es_operacion-internacional-contra-un-grupo-de-ciberdelincuentes]] | bulletin | INCIBE-CERT | ? | medium | ? |
+| [[2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals]] | bulletin | INCIBE-CERT | ? | medium | ? |
 | [[2020-10-12_cyberscoop-com_cyber-command-microsoft-take-action-against-trickbot]] | press-release | CyberScoop | ? | medium | ? |
+| [[2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro]] | press-release | Europol | ? | high | ? |
 | [[2020-10-15_wdpa_nazarovi-qqaazz-indictment]] | court-document | US DOJ (Western District of Pennsylvania) | ? | high | ? |
+| [[2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]] | news | Il Metropolitano | ? | medium | ? |
+| [[2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds]] | press-release | Eurojust | ? | high | ? |
 | [[2020-07-21_lgtr-justiz-rlp-de_cyberbunker-indictment-admitted]] | court-press-release | Landgericht Trier | 1 | high | ? |
 | [[2020-06-10_eurojust_eurojust-supports-new-major-crackdown-fraud-pay-tv]] | news | Eurojust | ? | high | ? |
 | [[interpol-operation-goldfish-alpha-night-fury]] | press-release | INTERPOL | 2 | high | ? |

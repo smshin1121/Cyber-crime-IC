@@ -5,16 +5,17 @@ raw_path: raw/press-releases/2024-01-01_europol-europa-eu_hook-line-and-sinker-c
 source_type: press-release
 publisher: Europol
 author: ""
-publish_date: 2024-01-01
+publish_date: 2020-09-29
 ingest_date: 2026-04-17
 language: en
 reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-
+  - romania-phishing-takedown-2024
 key_findings:
-  - "Europol and Romanian police and prosecutors conducted a joint operation that resulted in the arrest of 16 members of a cybercrime network in Romania that had been phishing bank credentials and conducting illegal fund transfers. The operation, which ran from 2023 to early 2024, dismantled the criminal network responsible for stealing banking credentials through phishing attacks and transferring victims' funds to accounts controlled by the group."
+  - "Europol described a joint operation between Estonia, Lithuania and Romania, supported by Europol and Eurojust, against a phishing and bank-fraud OCG."
+  - "The action day resulted in 3 arrests and 4 searches in Romania, with almost 600 victims identified in Estonia and Lithuania."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania
 created: 2026-04-17
 defendant_names:
@@ -29,7 +30,7 @@ last_fetcher: jina
 ---
 ## Source Summary
 
-Europol and Romanian police and prosecutors conducted a joint operation that resulted in the arrest of 16 members of a cybercrime network in Romania that had been phishing bank credentials and conducting illegal fund transfers. The operation, which ran from 2023 to early 2024, dismantled the criminal network responsible for stealing banking credentials through phishing attacks and transferring victims' funds to accounts controlled by the group.
+Europol described a joint operation between Estonia, Lithuania and Romania, supported by Europol and Eurojust, against a phishing and bank-fraud OCG. The action day resulted in 3 arrests and 4 house searches in Romania, with almost 600 victims identified in Estonia and Lithuania.
 
 ## Relevance to IC
 

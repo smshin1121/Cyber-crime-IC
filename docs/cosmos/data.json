@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-08T02:22:15Z",
+  "generated_at": "2026-05-08T03:06:28Z",
   "root": null,
   "stats": {
-    "total_nodes": 1280,
-    "total_edges": 12042,
+    "total_nodes": 1286,
+    "total_edges": 12105,
     "broken_links": 0,
     "orphans": 107,
     "by_type": {
@@ -16,14 +16,14 @@
       "crime-type": 25,
       "legal-framework": 22,
       "mechanism": 28,
-      "operation": 160,
+      "operation": 161,
       "organization": 146,
       "procedure": 2,
-      "source": 630
+      "source": 635
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 133
+      "canonical_operation": 134
     }
   },
   "nodes": [
@@ -51,7 +51,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 60,
+      "degree": 65,
       "path": "wiki/analysis/absorbed-wrapper-source-normalization-2026-04-26.md",
       "meta": {}
     },
@@ -79,7 +79,7 @@
       "source_count": 0,
       "created": "2026-04-28",
       "updated": "2026-04-28",
-      "degree": 54,
+      "degree": 56,
       "path": "wiki/analysis/absorbed-wrapper-source-normalization-2026-04-28.md",
       "meta": {}
     },
@@ -93,7 +93,7 @@
       "source_count": 0,
       "created": "2026-04-29",
       "updated": "2026-04-29",
-      "degree": 54,
+      "degree": 56,
       "path": "wiki/analysis/absorbed-wrapper-source-normalization-2026-04-29.md",
       "meta": {}
     },
@@ -107,7 +107,7 @@
       "source_count": 0,
       "created": "2026-04-27",
       "updated": "2026-04-27",
-      "degree": 108,
+      "degree": 109,
       "path": "wiki/analysis/canonical-operation-assessment-enrichment-2026-04-27.md",
       "meta": {}
     },
@@ -121,7 +121,7 @@
       "source_count": 0,
       "created": "2026-04-27",
       "updated": "2026-04-27",
-      "degree": 108,
+      "degree": 109,
       "path": "wiki/analysis/canonical-operation-enrichment-queue-2026-04-27.md",
       "meta": {}
     },
@@ -149,7 +149,7 @@
       "source_count": 0,
       "created": "2026-04-27",
       "updated": "2026-04-27",
-      "degree": 108,
+      "degree": 109,
       "path": "wiki/analysis/canonical-operation-source-enrichment-2026-04-27.md",
       "meta": {}
     },
@@ -163,7 +163,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 46,
+      "degree": 47,
       "path": "wiki/analysis/content-depth-audit-2026-04-26.md",
       "meta": {}
     },
@@ -691,7 +691,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 133 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 160 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 26 | | Period 3 (2023-2025) | 74 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 134 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 161 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 27 | | Period 3 (2023-2025) | 74 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-08",
@@ -765,7 +765,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 120,
+      "degree": 121,
       "path": "wiki/analysis/multisource-content-enrichment-2026-04-26.md",
       "meta": {}
     },
@@ -779,7 +779,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 120,
+      "degree": 121,
       "path": "wiki/analysis/multisource-content-enrichment-queue-2026-04-26.md",
       "meta": {}
     },
@@ -793,7 +793,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-07",
-      "degree": 1,
+      "degree": 2,
       "path": "wiki/analysis/non-ic-public-exclusion-audit-2026-05-06.md",
       "meta": {}
     },
@@ -807,7 +807,7 @@
       "source_count": 0,
       "created": "2026-04-19",
       "updated": "2026-04-29",
-      "degree": 67,
+      "degree": 68,
       "path": "wiki/analysis/operation-audit-queue-2026-04.md",
       "meta": {}
     },
@@ -821,7 +821,7 @@
       "source_count": 0,
       "created": "2026-04-22",
       "updated": "2026-04-22",
-      "degree": 43,
+      "degree": 44,
       "path": "wiki/analysis/operation-low-source-triage-2026-04-22.md",
       "meta": {}
     },
@@ -891,7 +891,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/analysis/residual-content-enrichment-2026-04-26.md",
       "meta": {}
     },
@@ -1521,7 +1521,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-04-26",
-      "degree": 70,
+      "degree": 71,
       "path": "wiki/analysis/targeted-content-enrichment-2026-04-26.md",
       "meta": {}
     },
@@ -2566,7 +2566,7 @@
       "source_count": 3,
       "created": "2026-04-20",
       "updated": "2026-04-29",
-      "degree": 13,
+      "degree": 15,
       "path": "wiki/countries/estonia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3126,7 +3126,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 26,
+      "degree": 28,
       "path": "wiki/countries/lithuania.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3631,7 +3631,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-21",
-      "degree": 56,
+      "degree": 58,
       "path": "wiki/countries/romania.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4625,7 +4625,7 @@
       "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-04-14",
-      "degree": 91,
+      "degree": 92,
       "path": "wiki/crime-types/online-fraud-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5269,7 +5269,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 22,
+      "degree": 24,
       "path": "wiki/mechanisms/eurojust-coordination-meeting.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5378,7 +5378,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 117,
+      "degree": 118,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5469,7 +5469,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 39,
+      "degree": 41,
       "path": "wiki/mechanisms/joint-investigation-team.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6821,7 +6821,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 66,
+      "degree": 67,
       "path": "wiki/operations/operation-chakra-iii.md",
       "meta": {
         "status": "completed",
@@ -9245,6 +9245,32 @@
       }
     },
     {
+      "id": "romania-phishing-takedown-2024",
+      "type": "operation",
+      "title": "Hook, Line and Sinker Phishing Takedown",
+      "title_ko": "Hook, Line and Sinker phishing takedown",
+      "aliases": [
+        "Hook Line and Sinker",
+        "Hook, line and sinker: cybercrime network phishing bank credentials arrested in Romania",
+        "Romania phishing network takedown"
+      ],
+      "summary": "Hook, Line and Sinker was a 2020 Eurojust-supported joint action day against a Romania-based organized crime group carrying out phishing, identity theft, and bank fraud against victims in Estonia and Lithuania. Romanian authorities executed the…",
+      "source_count": 5,
+      "created": "2026-04-08",
+      "updated": "2026-05-08",
+      "degree": 53,
+      "path": "wiki/operations/romania-phishing-takedown-2024.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "umbrella",
+        "source_tier": 1,
+        "operation_type": "arrest-sweep",
+        "outcome": "success",
+        "results_arrests": 3,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "rydox-marketplace-takedown",
       "type": "operation",
       "title": "Rydox Marketplace Takedown",
@@ -10061,7 +10087,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 216,
+      "degree": 220,
       "path": "wiki/organizations/eurojust.md",
       "meta": {
         "org_type": "regional-org",
@@ -10080,7 +10106,7 @@
       "source_count": 9,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 420,
+      "degree": 423,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -10825,7 +10851,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 11,
+      "degree": 14,
       "path": "wiki/organizations/lithuania-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -11400,7 +11426,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 17,
+      "degree": 21,
       "path": "wiki/organizations/romania-diicot.md",
       "meta": {
         "org_type": "prosecution-office",
@@ -11455,7 +11481,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 12,
+      "degree": 16,
       "path": "wiki/organizations/romanian-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -11473,7 +11499,7 @@
       "source_count": 3,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 8,
+      "degree": 11,
       "path": "wiki/organizations/romanian-prosecution.md",
       "meta": {
         "org_type": "prosecution-compatibility-page",
@@ -14545,6 +14571,34 @@
       "meta": {}
     },
     {
+      "id": "2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds",
+      "type": "source",
+      "title": "Eurojust supports successful takedown in Romania of an OCG carrying out elaborated cybercrime and bank frauds in Lithuania and Estonia",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Eurojust described the takedown of a phishing and bank-fraud OCG operating from Romania against victims in Lithuania and Estonia. ## Relevance to IC This source adds a judicial-cooperation record for romania-phishing-takedown-2024.",
+      "source_count": 0,
+      "created": "2026-04-23",
+      "updated": null,
+      "degree": 4,
+      "path": "wiki/sources/2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania",
+      "type": "source",
+      "title": "Hook, line and sinker: cybercrime network phishing bank credentials arrested in Romania",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Il Metropolitano republished the details of the Romania phishing-network takedown. ## Relevance to IC This source adds another distinct URL for romania-phishing-takedown-2024.",
+      "source_count": 0,
+      "created": "2026-04-23",
+      "updated": null,
+      "degree": 5,
+      "path": "wiki/sources/2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania.md",
+      "meta": {}
+    },
+    {
       "id": "2020-10-12_cyberscoop-com_cyber-command-microsoft-take-action-against-trickbot",
       "type": "source",
       "title": "Cyber Command, Microsoft take action against Trickbot",
@@ -14556,6 +14610,34 @@
       "updated": null,
       "degree": 1,
       "path": "wiki/sources/2020-10-12_cyberscoop-com_cyber-command-microsoft-take-action-against-trickbot.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals",
+      "type": "source",
+      "title": "International operation against a group of cybercriminals",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INCIBE's English bulletin summarized the Romania phishing takedown against victims in Estonia and Lithuania. ## Relevance to IC This source adds a second INCIBE URL for romania-phishing-takedown-2024.",
+      "source_count": 0,
+      "created": "2026-04-23",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals.md",
+      "meta": {}
+    },
+    {
+      "id": "2020-10-13_incibe-es_operacion-internacional-contra-un-grupo-de-ciberdelincuentes",
+      "type": "source",
+      "title": "Operación internacional contra un grupo de ciberdelincuentes",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary INCIBE summarized the Romania-Estonia-Lithuania phishing takedown and linked it to Europol and Eurojust. ## Relevance to IC This source adds Spanish CERT coverage for romania-phishing-takedown-2024.",
+      "source_count": 0,
+      "created": "2026-04-23",
+      "updated": null,
+      "degree": 3,
+      "path": "wiki/sources/2020-10-13_incibe-es_operacion-internacional-contra-un-grupo-de-ciberdelincuentes.md",
       "meta": {}
     },
     {
@@ -16516,6 +16598,20 @@
       "updated": null,
       "degree": 1,
       "path": "wiki/sources/2024-01-01_bleepingcomputer-com_russian-trickbot-malware-dev-sentenced-to-64-months-in-prison.md",
+      "meta": {}
+    },
+    {
+      "id": "2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro",
+      "type": "source",
+      "title": "Hook, Line and Sinker: Cybercrime Network Phishing Bank Credentials Arrested in Romania",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Europol described a joint operation between Estonia, Lithuania and Romania, supported by Europol and Eurojust, against a phishing and bank-fraud OCG. The action day resulted in 3 arrests and 4 house searches in Romania, with…",
+      "source_count": 0,
+      "created": "2026-04-17",
+      "updated": "2026-04-18",
+      "degree": 4,
+      "path": "wiki/sources/2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro.md",
       "meta": {}
     },
     {
@@ -21294,6 +21390,36 @@
     },
     {
       "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2020-10-13_incibe-es_operacion-internacional-contra-un-grupo-de-ciberdelincuentes",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
+      "target": "2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-26",
       "target": "2025-06-01_therecord-media_us-and-netherlands-take-down-bidencash-cybercrime-marketplace-infrastructure",
       "kind": "body",
       "directed": false
@@ -21966,6 +22092,18 @@
     },
     {
       "source": "absorbed-wrapper-source-normalization-2026-04-28",
+      "target": "2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-28",
+      "target": "2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-28",
       "target": "2025-05-28_krebsonsecurity-com_pakistan-arrests-21-in-heartsender-malware-service",
       "kind": "body",
       "directed": false
@@ -22290,6 +22428,18 @@
     },
     {
       "source": "absorbed-wrapper-source-normalization-2026-04-29",
+      "target": "2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-29",
+      "target": "2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "absorbed-wrapper-source-normalization-2026-04-29",
       "target": "2025-05-28_krebsonsecurity-com_pakistan-arrests-21-in-heartsender-malware-service",
       "kind": "body",
       "directed": false
@@ -22392,6 +22542,12 @@
     },
     {
       "source": "canonical-operation-assessment-enrichment-2026-04-27",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "canonical-operation-assessment-enrichment-2026-04-27",
       "target": "operation-first-light-2024",
       "kind": "body",
       "directed": false
@@ -23268,6 +23424,12 @@
     },
     {
       "source": "canonical-operation-enrichment-queue-2026-04-27",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "canonical-operation-enrichment-queue-2026-04-27",
       "target": "operation-sentinel-africa",
       "kind": "body",
       "directed": false
@@ -24043,6 +24205,12 @@
     {
       "source": "canonical-operation-source-enrichment-2026-04-27",
       "target": "operation-germany-romania-trusted-seller-fraud-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "canonical-operation-source-enrichment-2026-04-27",
+      "target": "romania-phishing-takedown-2024",
       "kind": "body",
       "directed": false
     },
@@ -24703,6 +24871,12 @@
     {
       "source": "content-depth-audit-2026-04-26",
       "target": "operation-shrouded-horizon",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "content-depth-audit-2026-04-26",
+      "target": "romania-phishing-takedown-2024",
       "kind": "body",
       "directed": false
     },
@@ -35610,6 +35784,12 @@
     },
     {
       "source": "multisource-content-enrichment-2026-04-26",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "multisource-content-enrichment-2026-04-26",
       "target": "operation-eur-100m-illegal-financial-service-laundering-2025",
       "kind": "body",
       "directed": false
@@ -36325,6 +36505,12 @@
     {
       "source": "multisource-content-enrichment-queue-2026-04-26",
       "target": "operation-germany-romania-trusted-seller-fraud-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "multisource-content-enrichment-queue-2026-04-26",
+      "target": "romania-phishing-takedown-2024",
       "kind": "body",
       "directed": false
     },
@@ -37049,6 +37235,12 @@
       "directed": false
     },
     {
+      "source": "non-ic-public-exclusion-audit-2026-05-06",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-audit-queue-2026-04",
       "target": "operation-orion-international",
       "kind": "body",
@@ -37195,6 +37387,12 @@
     {
       "source": "operation-audit-queue-2026-04",
       "target": "doublevpn-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-audit-queue-2026-04",
+      "target": "romania-phishing-takedown-2024",
       "kind": "body",
       "directed": false
     },
@@ -37699,6 +37897,12 @@
     {
       "source": "operation-low-source-triage-2026-04-22",
       "target": "operation-delilah",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-low-source-triage-2026-04-22",
+      "target": "romania-phishing-takedown-2024",
       "kind": "body",
       "directed": false
     },
@@ -38539,6 +38743,12 @@
     {
       "source": "residual-content-enrichment-2026-04-26",
       "target": "operation-germany-romania-trusted-seller-fraud-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "residual-content-enrichment-2026-04-26",
+      "target": "romania-phishing-takedown-2024",
       "kind": "body",
       "directed": false
     },
@@ -44569,6 +44779,12 @@
     {
       "source": "targeted-content-enrichment-2026-04-26",
       "target": "ddos-for-hire-sweep-2016",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "targeted-content-enrichment-2026-04-26",
+      "target": "romania-phishing-takedown-2024",
       "kind": "body",
       "directed": false
     },
@@ -74699,6 +74915,156 @@
       "directed": true
     },
     {
+      "source": "romania-phishing-takedown-2024",
+      "target": "eurojust",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "romania-diicot",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "joint-investigation-team",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "eurojust-coordination-meeting",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "eurojust",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "romanian-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "romania-diicot",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "lithuania-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "romania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "estonia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "lithuania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "operation-chakra-iii",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "romanian-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "romania-diicot",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "lithuania-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "romania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "estonia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "lithuania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "joint-investigation-team",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania-phishing-takedown-2024",
+      "target": "eurojust-coordination-meeting",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "rydox-marketplace-takedown",
       "target": "us-doj",
       "kind": "coordinating_body",
@@ -78102,6 +78468,12 @@
     },
     {
       "source": "eurojust",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
       "target": "europol-ec3",
       "kind": "body",
       "directed": false
@@ -78325,6 +78697,12 @@
     {
       "source": "europol-ec3",
       "target": "rex-mundi-takedown",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
+      "target": "romania-phishing-takedown-2024",
       "kind": "operations_participated",
       "directed": true
     },
@@ -81606,6 +81984,12 @@
     },
     {
       "source": "lithuania-police",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "lithuania-police",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -82998,6 +83382,12 @@
     },
     {
       "source": "romania-diicot",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "romania-diicot",
       "target": "romania-public-ministry",
       "kind": "parent_org",
       "directed": true
@@ -83136,6 +83526,12 @@
     },
     {
       "source": "romanian-police",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "romanian-police",
       "target": "romania-police",
       "kind": "parent_org",
       "directed": true
@@ -83149,6 +83545,12 @@
     {
       "source": "romanian-police",
       "target": "carbanak-cobalt-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romanian-police",
+      "target": "romania-phishing-takedown-2024",
       "kind": "body",
       "directed": false
     },
@@ -83190,6 +83592,12 @@
     },
     {
       "source": "romanian-prosecution",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "romanian-prosecution",
       "target": "operation-bakovia",
       "kind": "operations_participated",
       "directed": true
@@ -83202,7 +83610,19 @@
     },
     {
       "source": "romanian-prosecution",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romanian-prosecution",
       "target": "operation-bakovia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romanian-prosecution",
+      "target": "2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds",
       "kind": "body",
       "directed": false
     },
@@ -87593,8 +88013,56 @@
       "directed": true
     },
     {
+      "source": "2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2020-10-12_cyberscoop-com_cyber-command-microsoft-take-action-against-trickbot",
       "target": "south-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2020-10-13_incibe-es_operacion-internacional-contra-un-grupo-de-ciberdelincuentes",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2020-10-13_incibe-es_operacion-internacional-contra-un-grupo-de-ciberdelincuentes",
+      "target": "romania-phishing-takedown-2024",
       "kind": "body",
       "directed": false
     },
@@ -88857,6 +89325,12 @@
       "target": "south-korea",
       "kind": "body",
       "directed": false
+    },
+    {
+      "source": "2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro",
+      "target": "romania-phishing-takedown-2024",
+      "kind": "pages_updated",
+      "directed": true
     },
     {
       "source": "2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th",

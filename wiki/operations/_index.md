@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (133 canonical / 27 absorbed / 160 records)
+# Operations (134 canonical / 27 absorbed / 161 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (133)
+## Canonical Operations (134)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -58,6 +58,7 @@ updated: 2026-04-14
 | [[operation-nightfury]] | CYB-2020-051 | 2 | completed | umbrella | 6 | 2.55 | 3 |
 | [[qqaazz-money-laundering-takedown]] | CYB-2020-052 | 2 | completed | umbrella | 5 | 1.88 | 3 |
 | [[spanish-pay-tv-streaming-network-takedown-2020]] | CYB-2020-053 | 2 | completed | umbrella | 1 | 4.20 | 1 |
+| [[romania-phishing-takedown-2024]] | CYB-2020-054 | 2 | completed | umbrella | 5 | 4.30 | 1 |
 | [[darkmarket-takedown]] | CYB-2021-001 | 2 | completed | umbrella | 5 | 4.50 | 1 |
 | [[operation-secreto]] | CYB-2021-001 | 2 | completed | umbrella | 4 | 2.28 | 2 |
 | [[operation-haechi-ii]] | CYB-2021-002 | 2 | completed | umbrella | 5 | 3.80 | 2 |

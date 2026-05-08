@@ -25,6 +25,7 @@ official_name_ko: ""
 operations_participated:
   - "[[operation-bakovia]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[romania-phishing-takedown-2024]]"
 org_type: prosecution-office
 parent_org: "[[romania-public-ministry]]"
 source_count: 0

@@ -21,6 +21,7 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
   - "[[operation-eastwood]]"
+  - "[[romania-phishing-takedown-2024]]"
 org_type: national-unit
 parent_org: "Policijos departamentas prie LR VRM (Police Department under the Ministry"
 source_count: 3

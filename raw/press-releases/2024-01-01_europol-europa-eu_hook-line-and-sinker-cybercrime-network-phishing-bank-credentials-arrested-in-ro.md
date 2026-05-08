@@ -5,7 +5,7 @@ collection_url: https://www.europol.europa.eu/media-press/newsroom/news/hook-lin
 final_url: https://www.europol.europa.eu/media-press/newsroom/news/hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania
 collection_domain: europol.europa.eu
 collection_date: 2026-04-28
-publish_date: 2024-01-01
+publish_date: 2020-09-29
 language: en
 status: collected
 text_status: parsed
@@ -29,15 +29,16 @@ This record preserves the source metadata and source-page digest so the source c
 - Title: Hook, Line and Sinker: Cybercrime Network Phishing Bank Credentials Arrested in Romania
 - Publisher: Europol
 - Source type: press-release
-- Publication date: 2024-01-01
+- Publication date: 2020-09-29
 - URL: https://www.europol.europa.eu/media-press/newsroom/news/hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania
 
 ### Key Findings
-- Europol and Romanian police and prosecutors conducted a joint operation that resulted in the arrest of 16 members of a cybercrime network in Romania that had been phishing bank credentials and conducting illegal fund transfers. The operation, which ran from 2023 to early 2024, dismantled the criminal network responsible for stealing banking credentials through phishing attacks and transferring victims' funds to accounts controlled by the group.
+- Europol described a joint operation between Estonia, Lithuania and Romania, supported by Europol and Eurojust, against a phishing and bank-fraud OCG.
+- The action day resulted in 3 arrests and 4 searches in Romania, with almost 600 victims identified in Estonia and Lithuania.
 
 ### Source Page Summary
 
-Europol and Romanian police and prosecutors conducted a joint operation that resulted in the arrest of 16 members of a cybercrime network in Romania that had been phishing bank credentials and conducting illegal fund transfers. The operation, which ran from 2023 to early 2024, dismantled the criminal network responsible for stealing banking credentials through phishing attacks and transferring victims' funds to accounts controlled by the group. This source was generated from raw/press-releases/2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro.md to make the raw corpus addressable from the source index.
+Europol described a joint operation between Estonia, Lithuania and Romania, supported by Europol and Eurojust, against a phishing and bank-fraud OCG. The action day resulted in 3 arrests and 4 house searches in Romania, with almost 600 victims identified in Estonia and Lithuania. This source was generated from raw/press-releases/2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro.md to make the raw corpus addressable from the source index.
 
 ## Extracted Text
 
