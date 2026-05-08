@@ -34,13 +34,14 @@ notable_operations:
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-stryzhak-nefilim]]"
+  - "[[us-v-evgenii-ptitsyn]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 14
+source_count: 15
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -56,6 +57,7 @@ sources:
   - "[[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]]"
   - "[[2026-05-04_justice-gov_member-prolific-russian-ransomware-group-zolotarjovs-sentenced]]"
   - "[[2025-12-18_justice-gov_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
+  - "[[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -238,3 +240,4 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [12] | [[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown\|U.S. and International Partners Take Down E-Note Crypto Exchange and Indict Russian Operator]] | USAO-EDMI / FBI Detroit / Michigan State Police | 2025-12-17 | https://www.justice.gov/usao-edmi/news-and-press-releases-9 |
 | [13] | [[2026-05-04_justice-gov_member-prolific-russian-ransomware-group-zolotarjovs-sentenced\|Member of Prolific Russian Ransomware Group Sentenced to Prison]] | US DOJ (OPA) | 2026-05-04 | https://www.justice.gov/opa/pr/member-prolific-russian-ransomware-group-sentenced-prison |
 | [14] | [[2025-12-18_justice-gov_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware\|Ukrainian National Pleads Guilty to Conspiracy to Use Nefilim Ransomware to Attack Companies in the United States and Other Countries]] | US DOJ (OPA) | 2025-12-18 | https://www.justice.gov/opa/pr/ukrainian-national-pleads-guilty-conspiracy-use-nefilim-ransomware-attack-companies-united |
+| [15] | [[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos\|Russian Ransomware Administrator Pleads Guilty to Wire Fraud Conspiracy (Phobos administrator Evgenii Ptitsyn)]] | US DOJ USAO-Maryland | 2026-03-04 | https://www.justice.gov/usao-md/pr/russian-ransomware-administrator-pleads-guilty-wire-fraud-conspiracy |

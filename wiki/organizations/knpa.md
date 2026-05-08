@@ -39,7 +39,7 @@ operations_participated:
   - "[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
 notable_cases:
-
+  - "[[us-v-evgenii-ptitsyn]]"
 contact_point_for:
   - network: "[[interpol-i24-7]]"
     role: "NCB Korea"

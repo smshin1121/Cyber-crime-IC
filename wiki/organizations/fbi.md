@@ -26,6 +26,7 @@ notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-dragomir-romanian-iab]]"
+  - "[[us-v-evgenii-ptitsyn]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:

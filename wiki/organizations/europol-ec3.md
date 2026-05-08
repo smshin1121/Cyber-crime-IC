@@ -14,13 +14,13 @@ frameworks_administered:
 headquarters: "The Hague, Netherlands"
 key_roles:
 
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 mandate: "EU hub for coordinating cybercrime investigations, providing operational"
 mechanisms_operated:
 
 member_states: 27
 notable_cases:
-
+  - "[[us-v-evgenii-ptitsyn]]"
 official_name: "European Cybercrime Centre"
 official_name_ko: "유럽사이버범죄센터"
 operations_participated:
@@ -125,7 +125,7 @@ sources:
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Current Status (as of 2026-04-10)
 

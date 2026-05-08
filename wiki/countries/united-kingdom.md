@@ -26,10 +26,10 @@ iso_code: GB
 key_agencies:
   - "[[uk-nca]]"
   - "[[uk-met-police-cyber]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: common-law
 notable_cases:
-
+  - "[[us-v-evgenii-ptitsyn]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -80,7 +80,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

@@ -33,7 +33,7 @@ key_agencies:
 last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-
+  - "[[us-v-evgenii-ptitsyn]]"
 operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[operation-haechi-v]]"
@@ -46,7 +46,7 @@ operations_participated:
   - "[[operation-us-v-evgenii-ptitsyn]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
 region: east-asia
-source_count: 21
+source_count: 22
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
   - "[[2024-12-02-interpol-operation-haechi-v]]"
@@ -59,6 +59,7 @@ sources:
   - "[[2026-03-03_korean-press_korea-philippines-police-mou-second-revision]]"
   - "[[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing]]"
   - "[[2025-11-01_korean-press_korea-china-anti-scam-mou-signing]]"
+  - "[[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos]]"
 title: "Republic of Korea (South Korea)"
 treaty_memberships:
   - date: 2023-02
@@ -300,3 +301,4 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [19] | [[2026-03-03_korean-press_korea-philippines-police-mou-second-revision\|한국-필리핀 경찰 양해각서 개정 통해 초국가범죄 공조 강화… 도피사범 송환 협력 확대한다]] | 경찰청 (Korea.kr 정책브리핑) | 2026-03-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156747062 |
 | [20] | [[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing\|조현 외교장관 캄보디아 방문 결과 — 한-캄보디아 공동 전담반(코리아전담반) MOU 서명]] | 외교부 + 경찰청 (Korea.kr 정책브리핑) | 2025-11-10 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156727324 |
 | [21] | [[2025-11-01_korean-press_korea-china-anti-scam-mou-signing\|한·중 경찰, 캄보디아 등 초국가 스캠 범죄 공동 대응 MOU 체결]] | 경찰청 + 중국 공안부 (via Kyunghyang) | 2025-11-01 | https://www.khan.co.kr/article/202511021137001 |
+| [22] | [[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos\|Russian Ransomware Administrator Pleads Guilty (Phobos / Ptitsyn — extradited from South Korea Nov 2024)]] | US DOJ USAO-Maryland | 2026-03-04 | https://www.justice.gov/usao-md/pr/russian-ransomware-administrator-pleads-guilty-wire-fraud-conspiracy |

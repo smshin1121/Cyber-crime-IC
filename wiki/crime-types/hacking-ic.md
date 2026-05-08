@@ -20,6 +20,7 @@ notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-dragomir-romanian-iab]]"
+  - "[[us-v-evgenii-ptitsyn]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"

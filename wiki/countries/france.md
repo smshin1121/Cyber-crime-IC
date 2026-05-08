@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "OCLCTIC (Office central de lutte contre la criminalité liée aux technologies"
   mlat: "Ministère de la Justice — Direction des affaires criminelles et des grâces"
@@ -27,10 +27,11 @@ key_agencies:
   - "[[france-gendarmerie]]"
   - "[[france-national-police]]"
   - "[[france-junalco]]"
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
+  - "[[us-v-evgenii-ptitsyn]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -54,15 +55,13 @@ treaty_memberships:
   - date: 2006-01-10
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
     reservations:
-      []
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

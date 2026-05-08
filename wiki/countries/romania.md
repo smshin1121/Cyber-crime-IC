@@ -30,6 +30,7 @@ last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
   - "[[us-v-dragomir-romanian-iab]]"
+  - "[[us-v-evgenii-ptitsyn]]"
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-avalanche]]"
@@ -43,11 +44,11 @@ title: Romania
 treaty_memberships:
   - date: 2004-09-12
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
 updated: 2026-05-09

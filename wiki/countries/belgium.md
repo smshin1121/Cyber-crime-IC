@@ -24,10 +24,10 @@ ic_capacity:
 iso_code: BE
 key_agencies:
 
-last_verified: 2026-05-08
+last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-
+  - "[[us-v-evgenii-ptitsyn]]"
 operations_participated:
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
   - "[[operation-eur-600m-crypto-scam-network-2025]]"
@@ -48,14 +48,14 @@ title: "Kingdom of Belgium"
 treaty_memberships:
   - date: 2012-08-20
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

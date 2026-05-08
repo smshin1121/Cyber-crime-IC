@@ -33,5 +33,5 @@ updated: 2026-04-27
 | [[money-laundering-ic]] | cyber-enabled | Yes | mlat-process, europol-jit | de-ch-crypto-mixer-takedown-2025, 2bagoldmule-qqaazz, cryptex-pm2btc-sanctions | 5 |
 | [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 20 |
 | [[organized-crime-ic]] | — | — | — | — | 4 |
-| [[ransomware-ic]] | cyber-dependent | Yes | — | operation-cronos-phase1, operation-endgame-phase1, operation-cronos-phase3 | 14 |
+| [[ransomware-ic]] | cyber-dependent | Yes | — | operation-cronos-phase1, operation-endgame-phase1, operation-cronos-phase3 | 15 |
 | [[voice-phishing-ic]] | cyber-enabled | Yes | interpol-i-grip, interpol-i24-7, informal-cooperation | korea-china-voice-phishing-qingdao, operation-haechi-iii, operation-haechi-iv | 23 |

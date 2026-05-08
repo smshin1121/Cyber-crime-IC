@@ -34,6 +34,7 @@ operations_participated:
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"
+  - "[[us-v-evgenii-ptitsyn]]"
 cooperation_assessment: ""
 source_count: 4
 created: 2026-04-20

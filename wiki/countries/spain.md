@@ -30,6 +30,7 @@ last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
   - "[[us-v-stryzhak-nefilim]]"
+  - "[[us-v-evgenii-ptitsyn]]"
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
@@ -50,11 +51,11 @@ title: "Kingdom of Spain"
 treaty_memberships:
   - date: 2010-06-03
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: 2022-05-12
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: signatory
 type: country
 updated: 2026-05-09

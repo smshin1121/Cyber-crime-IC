@@ -25,6 +25,7 @@ notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-dragomir-romanian-iab]]"
+  - "[[us-v-evgenii-ptitsyn]]"
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:
