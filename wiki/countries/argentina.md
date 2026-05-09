@@ -11,11 +11,12 @@ operations_participated:
   - "[[operation-orion-international]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
-source_count: 0
+  - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
+source_count: 1
 sources:
-
+  - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
 created: 2026-04-13
-updated: 2026-05-03
+updated: 2026-05-10
 status: needs-official-source-ingestion
 last_verified: 2026-05-03
 assessment_confidence: limited

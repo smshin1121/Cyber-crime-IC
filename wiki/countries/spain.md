@@ -63,8 +63,9 @@ operations_participated:
   - "[[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]]"
+  - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
 region: western-europe
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]]"
@@ -78,6 +79,7 @@ sources:
   - "[[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
+  - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
 title: "Kingdom of Spain"
 treaty_memberships:
   - date: 2010-06-03

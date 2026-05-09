@@ -11,11 +11,13 @@ operations_participated:
   - "[[operation-orion-international]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
   - "[[fiscalia-colombia-criptoactivos-fraud-network-takedown-2025]]"
-source_count: 1
+  - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
+source_count: 2
 sources:
   - "[[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos]]"
+  - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
 created: 2026-04-13
-updated: 2026-05-03
+updated: 2026-05-10
 status: needs-official-source-ingestion
 last_verified: 2026-05-03
 assessment_confidence: limited

@@ -3,10 +3,10 @@ type: country
 title: "Dominican Republic"
 status: needs-official-source-ingestion
 created: 2026-05-07
-updated: 2026-05-07
-source_count: 0
+updated: 2026-05-10
+source_count: 1
 sources:
-  []
+  - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
 last_verified: 2026-05-07
 legal_system: not-assessed
 ic_capacity: not-assessed
@@ -14,6 +14,8 @@ treaty_memberships:
   - not-assessed
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+operations_participated:
+  - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
 ---
 ## Summary
 

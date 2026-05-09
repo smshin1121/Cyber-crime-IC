@@ -38,13 +38,15 @@ operations_participated:
   - "[[operation-disruptor]]"
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
-source_count: 3
+  - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
+source_count: 4
 sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
   - "[[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service]]"
   - "[[2024-06-07_fbi-gov_the-911-s5-cyber-threat]]"
+  - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
 created: 2026-04-10
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 coverage_status: audit-normalized
 ---
@@ -71,3 +73,4 @@ This page has been normalized for the organization audit: it includes role metad
 | [1] | [[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet|911 S5 Botnet Dismantled and Its Administrator Arrested in Coordinated International Operation]] | U.S. Department of Justice | 2024-05-29 | https://www.justice.gov/archives/opa/pr/911-s5-botnet-dismantled-and-its-administrator-arrested-coordinated-international-operation |
 | [2] | [[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service|Guidance on the 911 S5 Residential Proxy Service]] | Internet Crime Complaint Center (IC3) | 2024-05-29 | https://www.ic3.gov/PSA/2024/PSA240529 |
 | [3] | [[2024-06-07_fbi-gov_the-911-s5-cyber-threat|Inside the FBI Podcast: The 911 S5 Cyber Threat]] | Federal Bureau of Investigation | 2024-06-07 | https://www.fbi.gov/news/podcasts/inside-the-fbi-podcast-the-911-s5-cyber-threat |
+| [4] | [[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional\|MPF CABA — Operación Aliados por la Infancia VI: 270 raids across 13 jurisdictions (AR+BR+PA+DO+GT+UY+PY+CR+ES+PE+HN+FR+PR), 84 arrests]] | Ministerio Público Fiscal CABA — Cuerpo de Investigaciones Judiciales | 2026-04-29 | https://mpfciudad.gob.ar/noticias/operativo-internacional-aliados-por-la-infancia-vi |

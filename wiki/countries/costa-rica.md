@@ -9,11 +9,12 @@ treaty_memberships:
 ic_capacity: not-assessed
 operations_participated:
   - "[[operation-shrouded-horizon]]"
-source_count: 0
+  - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
+source_count: 1
 sources:
-  []
+  - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
 created: 2026-04-17
-updated: 2026-05-03
+updated: 2026-05-10
 status: needs-official-source-ingestion
 last_verified: 2026-05-03
 assessment_confidence: limited

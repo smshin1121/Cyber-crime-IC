@@ -1,5 +1,16 @@
 # Activity Log
 
+## [2026-05-10] ingest [iter 117, single-agent, new-publisher tier-1] | Operación Aliados por la Infancia VI (MPF CABA, 2026-04-29, AR-led 13-jurisdiction CSAM operation)
+- Sources: 1 raw + 1 source page (es) + 1 operation page (3 new pages)
+- Pages created: `raw/press-releases/2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional.md`, `wiki/sources/2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional.md`, `wiki/operations/aliados-por-la-infancia-vi-mpf-caba-2026.md`.
+- Pages NOT updated (per task instruction: do NOT touch backlinks): country (argentina, brazil, panama, dominican-republic, guatemala, uruguay, paraguay, costa-rica, spain, peru, honduras, france), organization (us-dhs, ncmec), crime-type (csam-ic), mechanism (informal-cooperation).
+- Key findings:
+  - **First wiki ingest from mpfciudad.gob.ar (Ministerio Público Fiscal de la Ciudad Autónoma de Buenos Aires)**, the prosecutor's office of the City of Buenos Aires that coordinates the recurring "Aliados por la Infancia" multilateral CSAM operation series. Iteration **VI** (April 28-29 2026) is the largest published instance: **270 raids across 13 jurisdictions, 84 detentions** (26 in Argentina, 44 Brazil, 7 Panama, 3 Uruguay, 3 Peru, 1 Puerto Rico).
+  - **Tripartite IC channel** explicitly named in the primary source: U.S. Embassy in Buenos Aires + U.S. Department of Homeland Security + MPF CABA via Cuerpo de Investigaciones Judiciales (CIJ). Detection driven by **ICACCOPS (Internet Crimes Against Children Child Online Protection System)** via Argentine agreement with the National Criminal Justice Training Center (Fox Valley Technical College, Wisconsin) plus **CPS (Child Protection System)** by Child Rescue Coalition. Inbound tip stream: NCMEC CyberTipline.
+  - Argentine federal/city enforcement line of effort named (Policía de la Ciudad, Policía Federal Argentina, Gendarmería Nacional, Prefectura Naval Argentina) — none currently wiki entities; left in prose only per L23.
+  - Per L19, included only the 12 jurisdictions enumerated in the verified raid breakdown; Mexico/Colombia/El Salvador (mentioned only in secondary press summaries) excluded; Puerto Rico left in prose only since no Puerto Rico country wiki page exists. Headline-vs-detail country count discrepancy ("otros 15 países" vs. enumerated 12) flagged in Contradictions section.
+- Process notes: WebFetch on PDI Chile (HTTP 403) and gov.br PF and gob.mx FGR landing pages all blocked; pivoted to MPF CABA via curl_cffi chrome124 (200 OK, 439KB, BeautifulSoup get_text). Pre-checked candidates: AFP Australia (already ingested 2026-05-08), RCMP (already ingested), KNPA (already ingested), NPA Japan (already ingested), Brazil PF (Operação Cryptoscam already exists as `spf-fpb-operation-cryptoscam-2025`), PDI Chile Orión III (couldn't get tier-1 primary URL — Cloudflare 403 — deferred). Per L23, lead_agency / coordinating_body left as empty strings (Argentine prosecutor entity not yet a wiki entity page).
+
 ## [2026-05-10] ingest [iter 114, partner-state primary source] | Italy → US extradition of PRC HAFNIUM hacker (Polizia di Stato, 2026-04-27, IT+US)
 - Sources: 1 raw + 1 source page (it) + 1 operation page (3 new pages)
 - Pages created: `raw/press-releases/2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti.md`, `wiki/sources/2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti.md`, `wiki/operations/italy-china-us-hafnium-hacker-extradition-2026.md`.
@@ -1763,3 +1774,17 @@
   - L19-strict applied: only 2 wikilinked agencies (fbi, us-doj) named in source AND with wiki pages. NZ Police Financial Crime Group kept as plain prose (no wiki org page yet).
   - L23-strict applied: lead_agency=`[[fbi]]`; coordinating_body left empty.
   - 5 reference rows appended; 8 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | Operación Aliados por la Infancia VI — 13-jurisdiction CSAM enforcement (MPF CABA, April 2026)
+- Source: raw/press-releases/2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional.md (Ministerio Público Fiscal CABA — Cuerpo de Investigaciones Judiciales; es).
+- Pages created: wiki/sources/2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional.md, wiki/operations/aliados-por-la-infancia-vi-mpf-caba-2026.md (provisional, source_count=1).
+- Pages updated: 12 country pages (argentina, brazil, panama, dominican-republic, guatemala, uruguay, paraguay, costa-rica, spain, peru, honduras, france); 2 agencies (us-dhs, ncmec); crime-types/csam-ic; mechanisms/informal-cooperation.
+- Key findings:
+  - **First wiki record from MPF CABA / mpfciudad.gob.ar** — Argentine prosecutor's office (Buenos Aires Autonomous City) — new tier-1 publisher in the wiki.
+  - **First wiki record of multi-Latin-America CSAM mega-op coordinating 13 jurisdictions** simultaneously: 270 search warrants (68 AR + 202 abroad), 84 detentions, distribution AR(26) + BR(44) + PA(7) + UY(3) + PE(3) + PR(1).
+  - **AR-led coordination model with US partner** (DHS HSI cybercrime division acknowledged in source) — neither MLAT nor a treaty article is cited; cooperation framed as informal multi-jurisdictional sharing supported by NCMEC tip-line / CyberTipline data.
+  - Puerto Rico named in source but no wiki page yet → kept in body prose only per L19/L23.
+  - Agency-naming gap: foreign-jurisdiction executing agencies NOT enumerated in MPF CABA release — recorded as `missing_fields` for future enrichment.
+  - L19-strict applied: only 2 wikilinked agencies (us-dhs, ncmec) named in source AND with wiki pages.
+  - L23-strict applied: lead_agency/coordinating_body left empty (MPF CABA + CIJ are prosecutor entities without wiki pages).
+  - 3 reference rows appended; 16 pages with `updated:` bumped.

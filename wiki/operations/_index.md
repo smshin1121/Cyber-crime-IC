@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (243 canonical / 27 absorbed / 270 records)
+# Operations (244 canonical / 27 absorbed / 271 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (243)
+## Canonical Operations (244)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -234,6 +234,7 @@ updated: 2026-04-14
 | [[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]] | CYB-2026-101 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-sanctions-kok-an-scam-center-network-2026]] | CYB-2026-103 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[italy-china-us-hafnium-hacker-extradition-2026]] | CYB-2026-114 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[aliados-por-la-infancia-vi-mpf-caba-2026]] | CYB-2026-117 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]] | CYB-2026-117 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[tycoon-2fa-phishing-as-a-service-takedown-2026]] | CYB-2026-118 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]] | CYB-2026-119 | 3 | ongoing | — | 1 | 3.00 | 1 |

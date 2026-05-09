@@ -3,13 +3,12 @@ type: organization
 title: "National Center for Missing and Exploited Children"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: 2026-05-10
 last_verified: 2026-04-29
 org_type: nonprofit-clearinghouse
 country: "[[united-states]]"
 jurisdiction:
-  -
-    - united-states
+
 official_name: "National Center for Missing and Exploited Children"
 mandate: "U.S. clearinghouse and referral partner for missing children and child sexual exploitation reports, including CyberTipline reporting."
 key_roles:
@@ -21,12 +20,14 @@ cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
   - "[[interpol-icse-database]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-18_justice-gov_justice-department-announces-results-operation-restore-justice]]"
   - "[[2026-04-17_ic3-gov_internet-crime-complaint-center-ic3]]"
+  - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
 operations_participated:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
 ---
 ## Summary
 

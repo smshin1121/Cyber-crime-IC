@@ -35,16 +35,18 @@ operations_participated:
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
+  - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 5
+source_count: 6
 sources:
   - "[[2022-01-20_justice-gov_brazilian-national-pleads-guilty-to-role-in-nationwide-rideshare-and-delivery-ac]]"
   - "[[2025-02-22_bitget_brazilian-national-20-year-sentence-290m-bitcoin-ponzi-scheme]]"
   - "[[2025-03-25_everettindependent_brazilian-nationals-with-local-ties-charged-in-firearms-investigation]]"
   - "[[2026-04-18_justice-gov_brazilian-national-indicted-selling-firearms]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
+  - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
 created: 2026-04-13
 updated: 2026-05-10
 status: corpus-linked

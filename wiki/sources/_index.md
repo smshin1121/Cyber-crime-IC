@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (797)
+# Sources (798)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -19,6 +19,7 @@ updated: 2026-04-14
 | [[2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition]] | press-release | 서울동부지방검찰청 (Seoul Eastern District Prosecutors' Office) / 보이스피싱범죄 합동수사부 | ? | high | ? |
 | [[2026-04-30_justice-gov_versus-project-creator-extradited-colombia]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]] | press-release | U.S. Secret Service (republishing U.S. Attorney's Office, District of Columbia) | ? | high | ? |
+| [[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]] | press-release | Ministerio Público Fiscal de la Ciudad Autónoma de Buenos Aires (MPF CABA) — Cuerpo de Investigaciones Judiciales (CIJ) | ? | high | ? |
 | [[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]] | news | Reuters / MarketScreener | 2 | medium | ? |
 | [[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]] | press-release | Europol | ? | high | ? |

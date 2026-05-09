@@ -9,10 +9,12 @@ treaty_memberships:
 ic_capacity: not-assessed
 operations_participated:
   - "[[operation-eclipse-csam-americas]]"
-source_count: 0
-sources: []
+  - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
+source_count: 1
+sources:
+  - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-10
 status: needs-official-source-ingestion
 last_verified: 2026-05-08
 assessment_confidence: limited
