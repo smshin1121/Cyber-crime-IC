@@ -27,15 +27,17 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[flubot-takedown-2022]]"
 org_type: national-agency
 parent_org: "Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-"
-source_count: 5
+source_count: 6
 sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
 status: active
 title: "Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -112,3 +114,4 @@ Specific operation attributions require further source ingestion. CYCO reports a
 | [3] | CYCO receives significantly more complaints of economic offences | Swiss Federal Council (admin.ch) | n.d. | https://www.news.admin.ch/en/nsb?id=48600 |
 | [4] | Switzerland — Cybercrime country profile | Council of Europe / Octopus | n.d. | https://www.coe.int/en/web/octopus/-/switzerland |
 | [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
+| [6] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |

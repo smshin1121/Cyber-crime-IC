@@ -1937,3 +1937,39 @@
   - L24 strict ≥2-country IC compliance verified: Italian source verbatim names "le polizie nazionali di Francia e Romania" as cooperating LE jurisdictions, with "il coordinamento di EUROPOL"; 5 named-and-existing-in-wiki participating_agencies.
   - L23 strict applied: lead_agency=`[[italy-polizia-postale]]`; coordinating_body=`[[europol-ec3]]`.
   - 7 reference rows appended; 14 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | FluBot Android-banking-malware takedown — Europol EC3 day of action (May–June 2022)
+- Source: raw/press-releases/2022-06-07_fedpol_flubot-android-malware-takedown.md (fedpol/OAG primary press release; en) + parallel Europol EC3 release 2022-06-01 cross-cited.
+- Pages created: wiki/sources/2022-06-07_fedpol_flubot-android-malware-takedown.md, wiki/operations/flubot-takedown-2022.md (provisional, source_count=2).
+- Pages updated: none (per task: "Do NOT modify country/agency pages — backlinks come later").
+- Iter 126 publisher choice: fedpol Switzerland (candidate #9 from task list) — first wiki record from fedpol primary publisher (note: existing 2025-07-29 OAG/fedpol real-time-phishing record references fedpol but is on bag.admin.ch; this is the first record on the canonical news.admin.ch / fedpol portal pathway).
+- Key findings:
+  - **Eleven-jurisdiction LE cooperation** explicitly named between two tier-1 publishers — fedpol (Swiss federal LE, primary) names Europol + Dutch police + 11 countries qualitatively; parallel Europol release names all eleven national LE agencies individually (AFP / Belgian Federal Police / Finland NBI / Hungary NNI / An Garda Síochána / Romanian Police / Polisen / fedpol / Spain Policia Nacional / Dutch Politie / US Secret Service).
+  - **Dutch Police technically destroyed FluBot infrastructure** in May 2022; 10,000 victims disconnected from FluBot network during the Dutch raid (per Politie cited via Europol-aligned reporting).
+  - **Switzerland operational and strategic partner** under OAG (Bundesanwaltschaft) leadership; fedpol coordinated international information exchange in particular with Europol; NCSC + cantonal police + telcos + Switch were Swiss-side contributors.
+  - **No arrests reported on the announcement day** — investigations to identify perpetrators continuing as of June 2022. Tier-1 records do not enumerate server / domain seizure counts.
+  - **L24 strict ≥2-country IC compliance**: fedpol primary release names "international operation coordinated by Europol... in which eleven countries participated" and Europol parallel release names all eleven national LE agencies. 11 cooperating LE jurisdictions: AU, BE, FI, HU, IE, NL, RO, SE, CH, ES, US.
+  - L19 strict applied: 11 wikilinked agencies all named in source AND with wiki pages (australia-afp, belgium-federal-police, finland-nbi, ireland-garda, romania-police, sweden-police, switzerland-fedpol, spanish-national-police, netherlands-politie, us-secret-service, europol-ec3). Hungary NNI kept in prose only since no canonical wiki entity page exists for Nemzeti Nyomozó Iroda. OAG / Switzerland NCSC referenced (NCSC has wiki page); cantonal police / Swiss telcos / Switch in prose only.
+  - L23 strict applied: lead_agency=`[[netherlands-politie]]` (Politie destroyed the FluBot infrastructure per fedpol primary); coordinating_body=`[[europol-ec3]]` (per fedpol primary "coordinated by Europol").
+  - Lint: HIGH=11 (all expected missing_backlink for the 11 newly-referenced agencies — backlink propagation deferred per task instruction); CRITICAL=0; MEDIUM=0; LOW=0.
+  - check_links: broken=2 (both pre-existing legacy LESSONS.md backlinks in unrelated bohemia-cannabia HTML, NOT introduced by this iter).
+- Rejected first candidates this iter:
+  - Korean KNPA cyber.go.kr — page structure changed since previous fetches; recent KR-CN/VN/PH/KH/TH cooperation press releases in cyber.go.kr/portal/notice/ require dedicated re-discovery.
+  - Mexico FGR press portal — bot-protected; no candidate named foreign-LE counterpart explicitly in tier-1 fashion.
+  - Israel Lahav 433 — gov.il news portal returned generic-organized-crime hits; no clear cybercrime IC operation candidate this iter.
+  - Sweden Polisen 2026 — recent Polisen news this year was already covered (Operation GRIMM, Operation Candy, EMPACT Trident) per iter 122 rejection log.
+  - AFP fourth distinct op — three already in wiki (iters 121-123).
+  - Council of Europe T-CY plenary 13–14 Nov 2025 — workplan adoption rather than concrete IC operation; not a takedown.
+  - Operation SECURE Bangkok Feb 2025 (GLACY-e + INTERPOL Cybercrime Directorate) — capacity-building exercise pattern, deferred for separate ingestion.
+
+## [2026-05-10] ingest | FluBot Android-banking-malware takedown — 11-country Europol EC3 day of action (May-June 2022)
+- Source: raw/press-releases/2022-06-07_fedpol_flubot-android-malware-takedown.md (fedpol Switzerland / OAG; en).
+- Pages created: wiki/sources/2022-06-07_fedpol_flubot-android-malware-takedown.md, wiki/operations/flubot-takedown-2022.md (provisional, source_count=1).
+- Pages updated: 11 country pages (australia, belgium, finland, hungary, ireland, netherlands, romania, spain, sweden, switzerland, united-states); 11 agencies (netherlands-politie, europol-ec3, switzerland-fedpol, australia-afp, belgium-federal-police, finland-nbi, ireland-garda, romania-police, sweden-police, spanish-national-police, us-secret-service); 3 crime-types (malware-ic, banking-trojan-ic, bank-fraud-ic).
+- Key findings:
+  - **First wiki record from fedpol Switzerland** (admin.ch news.admin.ch) — new tier-1 publisher in the wiki.
+  - **First wiki record of FluBot Android-banking-malware takedown** — Europol EC3-coordinated 11-country day of action (May 2022); Dutch police destroyed infrastructure and deactivated malware; fedpol coordinated Switzerland-side info exchange.
+  - **11-country IC scope** (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US) — biggest country count this milestone block (parallels iter 122 Warzone RAT 11-country scope).
+  - L24 strict ≥2-country IC compliance verified verbatim from fedpol English release; 11 wiki-linked agencies all named in source AND with wiki pages. Hungary NNI kept in body prose only (no wiki page).
+  - L23 strict applied: lead_agency=`[[netherlands-politie]]`; coordinating_body=`[[europol-ec3]]`.
+  - 14 reference rows appended; 25 pages with `updated:` bumped.

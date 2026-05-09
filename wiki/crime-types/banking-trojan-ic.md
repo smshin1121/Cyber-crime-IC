@@ -24,22 +24,24 @@ key_organizations:
 notable_operations:
   - "[[zeus-spyeye-jit-takedown]]"
   - "[[banking-trojan-fraud-sentencing-2017]]"
+  - "[[flubot-takedown-2022]]"
 notable_cases:
-  []
+
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
-    []
+
 estimated_annual_loss: ""
-source_count: 4
+source_count: 5
 sources:
   - "[[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]]"
   - "[[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]]"
   - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
   - "[[2019-12-05_thehackernews-com_fbi-puts-5-million-bounty-on-russian-hackers-behind-dridex-banking-malware]]"
+  - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
 created: 2026-04-17
-updated: "2026-04-29"
+updated: 2026-05-10
 status: active
 ---
 ## Summary
@@ -70,3 +72,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [2] | [[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled|Bugat Botnet Administrator Arrested and Malware Disabled]] | US DOJ | 2015-10-13 | https://www.justice.gov/opa/pr/bugat-botnet-administrator-arrested-and-malware-disabled |
 | [3] | [[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware|Europol Arrests Gang Behind Zeus and SpyEye Banking Malware]] | The Hacker News | 2015-06-27 | https://thehackernews.com/2015/06/zeus-spyeye-banking-malware.html?m=1 |
 | [4] | [[2019-12-05_thehackernews-com_fbi-puts-5-million-bounty-on-russian-hackers-behind-dridex-banking-malware|FBI Puts $5 Million Bounty On Russian Hackers Behind Dridex Banking Malware]] | The Hacker News | 2019-12-05 | https://thehackernews.com/2019/12/dridex-russian-hackers-wanted-by-fbi.html |
+| [5] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |

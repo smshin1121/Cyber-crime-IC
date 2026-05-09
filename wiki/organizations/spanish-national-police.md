@@ -34,18 +34,20 @@ operations_participated:
   - "[[cyber-fraud-international-2015]]"
   - "[[operation-secreto]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[flubot-takedown-2022]]"
 org_type: national-agency
 parent_org: "[[spain-national-police]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_policia-es_bcit]]"
   - "[[europol-carbanakcobalt-mastermind-arrest]]"
   - "[[europol-operation-secreto]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
 status: active
 title: "Spanish National Police"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 coverage_status: audit-normalized
 ---
 ## Summary
@@ -72,3 +74,4 @@ This page has been normalized for the organization audit: it includes role metad
 | [2] | [[europol-carbanakcobalt-mastermind-arrest|Europol: Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain (Carbanak/Cobalt)]] | Europol | 2018-03-26 | https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain |
 | [3] | [[europol-operation-secreto|Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto)]] | Europol | 2021-02-03 | https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks |
 | [4] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
+| [5] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |

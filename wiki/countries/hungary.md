@@ -37,17 +37,19 @@ operations_participated:
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[flubot-takedown-2022]]"
 notable_cases:
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 cooperation_assessment: ""
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-02-05_coe-int_cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protoco]]"
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
 created: 2026-04-11
-updated: 2026-05-09
+updated: 2026-05-10
 status: corpus-linked
 ---
 ## Summary

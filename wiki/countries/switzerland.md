@@ -41,11 +41,13 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[flubot-takedown-2022]]"
 region: western-europe
-source_count: 2
+source_count: 3
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
 title: "Swiss Confederation"
 treaty_memberships:
   - date: 2011-09-21
@@ -57,7 +59,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 

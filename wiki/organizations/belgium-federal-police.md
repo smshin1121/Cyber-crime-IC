@@ -34,11 +34,12 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[operation-otf-grimm]]"
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
+  - "[[flubot-takedown-2022]]"
 notable_cases:
 
 contact_point_for:
   - "[[24-7-network]]"
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-18_coe-int_belgium-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-18_politie-be_djsoc-fccu]]"
@@ -46,6 +47,7 @@ sources:
   - "[[2026-04-18_politie-be_internetcriminaliteit-fccu-contact]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
+  - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
 created: 2026-04-10
 updated: 2026-05-10
 last_verified: 2026-04-18

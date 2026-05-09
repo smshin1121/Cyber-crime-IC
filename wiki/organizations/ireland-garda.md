@@ -26,13 +26,15 @@ operations_participated:
   - "[[operation-hyperion]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
-source_count: 3
+  - "[[flubot-takedown-2022]]"
+source_count: 4
 sources:
   - "[[2022-10-14_garda-ie_interpol-operation-jackal-ireland-operation-skein-14th-october-2022]]"
   - "[[2023-08-10_garda-ie_interpol-operation-jackal-ireland-operation-skein-update-august-2023]]"
   - "[[2024-07-16_garda-ie_interpol-operation-jackal-ireland-operation-skein-july-2024]]"
+  - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
 created: 2026-04-12
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 ---
 ## Summary

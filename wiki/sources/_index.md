@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (806)
+# Sources (807)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -530,6 +530,7 @@ updated: 2026-04-14
 | [[2022-10-18_mha-gov-sg_interpol-global-cybercrime-conference-killer-bee]] | speech | Singapore Ministry of Home Affairs | ? | high | ? |
 | [[2022-10-14_interpol-int_international-crackdown-on-west-african-financial-crime-rings]] | press-release | INTERPOL | ? | high | ? |
 | [[2022-10-14_garda-ie_interpol-operation-jackal-ireland-operation-skein-14th-october-2022]] | press-release | An Garda Siochana | ? | high | ? |
+| [[2022-06-07_fedpol_flubot-android-malware-takedown]] | press-release | Federal Office of Police (fedpol) / Office of the Attorney General of Switzerland (OAG) | 1 | high | ? |
 | [[2026-04-18_justice-gov_weleakinfoto-and-related-domain-names-seized]] | press-release | US DOJ USAO | ? | high | ? |
 | [[interpol-operation-killer-bee]] | press-release | INTERPOL | 2 | high | ? |
 | [[2022-05-30_trendmicro_operation-killer-bee-agent-tesla-bec-actors]] | press-release | Trend Micro | ? | medium | ? |

@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (252 canonical / 27 absorbed / 279 records)
+# Operations (253 canonical / 27 absorbed / 280 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (252)
+## Canonical Operations (253)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -74,6 +74,7 @@ updated: 2026-04-14
 | [[black-axe-bec-2021]] | CYB-2022-052 | 3 | completed | umbrella | 4 | 4.40 | 1 |
 | [[marketplace-a-dekhtyarchuk-indictment]] | CYB-2022-054 | 3 | completed | umbrella | 5 | 4.20 | 1 |
 | [[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]] | CYB-2022-201 | 2 | completed | — | 1 | 4.50 | 1 |
+| [[flubot-takedown-2022]] | CYB-2022-FLUBOT | 2 | completed | standalone | 2 | 4.40 | 1 |
 | [[franco-israeli-ceo-fraud]] | CYB-2023-001 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-jackal]] | CYB-2023-002 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | umbrella | 5 | 1.88 | 3 |

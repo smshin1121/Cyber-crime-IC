@@ -29,12 +29,14 @@ operations_participated:
   - "[[operation-cookie-monster]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
+  - "[[flubot-takedown-2022]]"
 org_type: national-unit
 parent_org: "[[romania-police]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
+  - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
 status: active
 title: "Romanian National Police — Service for Combating Cybercrime (DCCO)"
 type: organization

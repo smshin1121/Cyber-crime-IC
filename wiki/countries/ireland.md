@@ -14,11 +14,13 @@ operations_participated:
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
-source_count: 1
+  - "[[flubot-takedown-2022]]"
+source_count: 2
 sources:
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
+  - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
 created: 2026-04-11
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 assessment_confidence: limited
