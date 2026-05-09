@@ -12,14 +12,14 @@ total: 61
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
 | 🇦🇪 | [[united-arab-emirates]] | not-assessed | — | unknown | unknown | 0 |
-| 🇦🇱 | [[albania]] | civil-law | party (2002) | medium | unknown | 3 |
+| 🇦🇱 | [[albania]] | civil-law | party (2002) | medium | unknown | 4 |
 | 🇦🇲 | [[armenia]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇦🇷 | [[argentina]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇹 | [[austria]] | civil-law | — | unknown | unknown | 1 |
 | 🇦🇺 | [[australia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇦🇼 | [[aruba]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇿 | [[azerbaijan]] | not-assessed | — | unknown | unknown | 0 |
-| 🇧🇦 | [[bosnia-and-herzegovina]] | not-assessed | — | unknown | unknown | 1 |
+| 🇧🇦 | [[bosnia-and-herzegovina]] | not-assessed | — | unknown | unknown | 2 |
 | 🇧🇪 | [[belgium]] | civil-law | party (2012) | high | 90-180 | 6 |
 | 🇧🇬 | [[bulgaria]] | civil-law | party (2005) | medium | 90-180 | 5 |
 | 🇧🇯 | [[benin]] | civil-law | party (2024) | low | unknown | 4 |
@@ -39,7 +39,7 @@ total: 61
 | 🇨🇾 | [[cyprus]] | civil-law | not-assessed | unknown | unknown | 1 |
 | 🇨🇿 | [[czech-republic]] | civil-law | party (2013) | medium | 90-180 | 7 |
 | 🇨🇿 | [[czechia]] | not-assessed | — | unknown | unknown | 0 |
-| 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 8 |
+| 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 9 |
 | 🇩🇰 | [[denmark]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇪🇨 | [[ecuador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇪🇪 | [[estonia]] | civil-law | party | high | unknown | 5 |
@@ -103,7 +103,7 @@ total: 61
 | 🇷🇼 | [[rwanda]] | mixed | party (2025) | medium | unknown | 3 |
 | 🇸🇪 | [[sweden]] | not-assessed | — | unknown | unknown | 1 |
 | 🇸🇬 | [[singapore]] | not-assessed | — | unknown | unknown | 0 |
-| 🇸🇮 | [[slovenia]] | not-assessed | — | unknown | unknown | 0 |
+| 🇸🇮 | [[slovenia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇸🇷 | [[suriname]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇸 | [[south-sudan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇻 | [[el-salvador]] | not-assessed | — | unknown | unknown | 0 |
@@ -120,7 +120,7 @@ total: 61
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇳 | [[vietnam]] | civil-law | not-assessed | low | unknown | 2 |
-| 🇽🇰 | [[kosovo]] | not-assessed | — | unknown | unknown | 0 |
+| 🇽🇰 | [[kosovo]] | not-assessed | — | unknown | unknown | 1 |
 | 🇿🇦 | [[south-africa]] | not-assessed | — | unknown | unknown | 1 |
 | 🇿🇲 | [[zambia]] | common-law | non-party | low | unknown | 2 |
 |  | [[algeria]] | not-assessed | — | unknown | unknown | 0 |
@@ -144,7 +144,7 @@ total: 61
 |  | [[iraq]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[jamaica]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[kuwait]] | not-assessed | — | unknown | unknown | 0 |
-|  | [[lebanon]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[lebanon]] | not-assessed | — | unknown | unknown | 1 |
 |  | [[macau]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[madagascar]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[maldives]] | not-assessed | — | unknown | unknown | 0 |

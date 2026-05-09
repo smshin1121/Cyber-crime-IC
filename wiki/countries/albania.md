@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "Albanian State Police — Cybercrime Investigation Unit"
   mlat: "Ministry of Justice"
@@ -22,31 +22,30 @@ ic_capacity:
   rating: medium
 iso_code: AL
 key_agencies:
-  []
+
 last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-  []
+
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
 region: balkans
-source_count: 3
+source_count: 4
 sources:
-  []
+  - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
 title: "Republic of Albania"
 treaty_memberships:
   - date: 2002-06-20
     framework: "[[budapest-convention]]"
-    reservations:
-      []
+    reservations: ""
     status: party
   - date: ""
     framework: "[[second-additional-protocol]]"
-    reservations:
-      []
+    reservations: ""
     status: in-progress
 type: country
 updated: 2026-05-09
@@ -98,3 +97,4 @@ Capacity is *likely* medium overall. Albania benefits from Council of Europe cap
 | [1] | Chart of signatures and ratifications of Treaty 185 | Council of Europe | updated monthly | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
 | [2] | Octocom legal profile — Albania | Council of Europe | 2020 | https://rm.coe.int/octocom-legal-profile-albania/1680a248cd |
 | [3] | CyberSEE: Albania commences legislative reform for the Second Additional Protocol | Council of Europe | 2024 | https://www.coe.int/en/web/cybercrime/-/cybersee-albania-commences-legislative-reform-for-the-ratification-and-effective-implementation-of-the-second-additional-protocol-to-the-budapest-convention |
+| [4] | [[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia\|Operation PANDORA — 12 phone-fraud call-centres takedown (DE-led; AL+BA+XK+LB call-centres + SI victims; 21 detained, 39 identified)]] | Slovenska policija | 2024-05-03 | https://www.policija.si/eng/newsroom/news-archive/news-archive/121805-victims-also-from-slovenia-europol-s-international-operation-pandora-shuts-down-12-phone-fraud-call-centres |

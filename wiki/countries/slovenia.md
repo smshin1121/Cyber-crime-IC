@@ -10,13 +10,14 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
-source_count: 0
+  - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
+source_count: 1
 created: 2026-04-20
 updated: 2026-05-09
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 sources:
-
+  - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---

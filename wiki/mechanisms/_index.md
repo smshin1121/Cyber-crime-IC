@@ -11,7 +11,7 @@ updated: 2026-04-14
 | Mechanism | Type | Formality | Speed | Administered By | Legal Basis | Sources |
 |-----------|------|-----------|-------|-----------------|-------------|---------|
 | [[24-7-network]] | 24-7-network | semi-formal | hours | [[council-of-europe]] | budapest-convention | 2 |
-| [[asset-freezing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 8 |
+| [[asset-freezing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 9 |
 | [[asset-recovery]] | cooperation-or-enforcement-mechanism | — | — | — | — | 3 |
 | [[capacity-building-ic]] | cooperation-or-enforcement-mechanism | — | — | — | — | 1 |
 | [[cryptocurrency-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 7 |

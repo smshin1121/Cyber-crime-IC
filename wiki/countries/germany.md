@@ -78,8 +78,9 @@ operations_participated:
   - "[[operation-otf-grimm]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
+  - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
 region: western-europe
-source_count: 8
+source_count: 9
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -89,6 +90,7 @@ sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
+  - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09

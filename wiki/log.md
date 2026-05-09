@@ -1586,3 +1586,17 @@
     - Hungarian action day: 1 additional suspect arrested
   - Investigation explicitly marked "rozwojowy" (ongoing) with further action days planned domestically and abroad.
   - L19/L23-strict applied: agent only added wikilinks for entities both named in tier-1 source AND with existing wiki org pages. Spain/Hungary country wikilinks retained but no Spanish/Hungarian agency wikilinks added.
+
+## [2026-05-09] ingest | Operation PANDORA — 12 phone-fraud call-centres takedown (DE-led, AL+BA+XK+LB centres, SI victims; 2024-04-18)
+- Source: raw/press-releases/2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia.md (Slovenian Police; en) + cross-check Europol 2024-05-02
+- Pages created: wiki/sources/2024-05-03_policija-si_..., wiki/operations/operation-pandora-12-phone-fraud-call-centres-2024.md (provisional, source_count=2: SI + Europol cross-check).
+- Pages updated: 6 country pages (DE, AL, BA, XK, LB, SI), agencies (germany-bka, europol-ec3), crime-types/online-fraud-ic, mechanisms/asset-freezing.
+- Key findings:
+  - **First wiki record sourced from policija.si** (Slovenska policija) — first Slovenian-language tier-1 IC primary in wiki.
+  - 2024-04-18 simultaneous raids on **12 call centres across 4 perpetrator-side countries** (Albania, Bosnia and Herzegovina, Kosovo, Lebanon). 21 detained of 39 identified. ~6 country IC scope (DE+AL+BA+XK+LB+SI). DE LKA BW + BKA-led, Europol-coordinated with mobile offices deployed to all 4 perpetrator-side countries.
+  - **Country-specialised fraud-type pattern documented**: BiH = debt-collection fraud; Kosovo = online banking fraud; Albania = investment fraud; Lebanon = prepaid-card fraud — each call-centre cluster specialised in a distinct vertical, not generic shared-fraud model. New benchmark for understanding multi-country call-centre infrastructure beyond a single fraud type.
+  - Trigger: Freiburg, Germany bank teller flagged a EUR 100K cash-withdrawal as fake-police-officer scam in Dec 2023 → German LKA BW + BKA opened investigation → ~1.3M scam calls intercepted across 4 months → 7,500+ calls crossed criminal-proceedings threshold → action day.
+  - **80% loss-prevention rate in indicted crimes** — high pre-emptive interception efficiency. EUR 10M+ potential damages prevented; EUR 1M cash + assets seized.
+  - SI victim arc since 2023-07: ~40 cases against legal persons, ~EUR 3.8M damage; stolen funds routed to bank accounts in Germany — illustrates German banking layer used for SI-victim flow.
+  - L19/L23-strict applied: only [[germany-bka]] and [[europol-ec3]] wikilinked in participating_agencies (only ones with wiki org pages); LKA BW, Polizeipräsidium Freiburg, Staatsanwaltschaft Freiburg, Generalstaatsanwaltschaft Karlsruhe, and the AL/BA/XK/LB/SI national police are described in body prose only.
+  - legal_basis: [] kept empty per L23 (sources don't enumerate specific JIT/MLAT/EAW instruments).

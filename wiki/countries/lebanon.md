@@ -3,10 +3,10 @@ type: country
 title: Lebanon
 status: needs-official-source-ingestion
 created: 2026-05-07
-updated: 2026-05-07
-source_count: 0
+updated: 2026-05-09
+source_count: 1
 sources:
-  []
+  - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
 last_verified: 2026-05-07
 legal_system: not-assessed
 ic_capacity: not-assessed
@@ -14,6 +14,8 @@ treaty_memberships:
   - not-assessed
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+operations_participated:
+  - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
 ---
 ## Summary
 

@@ -67,9 +67,10 @@ operations_participated:
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -77,6 +78,7 @@ sources:
   - "[[2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look]]"
   - "[[2026-04-18_coe-int_germany-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization

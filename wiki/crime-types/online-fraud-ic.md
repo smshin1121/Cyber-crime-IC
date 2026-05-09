@@ -82,6 +82,7 @@ notable_operations:
   - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
+  - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -99,7 +100,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 75
+source_count: 76
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -176,6 +177,7 @@ sources:
   - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
+  - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -314,3 +316,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [73] | [[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained\|KZ-AM Yerevan two-call-centre takedown — 41 detained, 70+ computers + 1kg gold + 5 vehicles + USD 30K + cold crypto wallet seized]] | Sputnik Kazakhstan (citing MIA RK) | 2025-02-18 | https://ru.sputnik.kz/20250218/politseyskie-kazakhstana-i-armenii-zaderzhali-internet-moshennikov-50945815.html |
 | [74] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
 | [75] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
+| [76] | [[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia\|Operation PANDORA — 12 phone-fraud call-centres takedown (DE-led; AL+BA+XK+LB call-centres + SI victims; 21 detained, 39 identified)]] | Slovenska policija | 2024-05-03 | https://www.policija.si/eng/newsroom/news-archive/news-archive/121805-victims-also-from-slovenia-europol-s-international-operation-pandora-shuts-down-12-phone-fraud-call-centres |

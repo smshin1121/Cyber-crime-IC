@@ -11,9 +11,11 @@ operations_participated:
   - "[[operation-pleiades]]"
   - "[[operation-shrouded-horizon]]"
   - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
-source_count: 1
+  - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
+source_count: 2
 sources:
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
+  - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: needs-official-source-ingestion
