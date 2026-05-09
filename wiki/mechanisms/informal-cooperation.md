@@ -14,6 +14,7 @@ operations_using:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
 ---
 ## Summary
 

@@ -41,6 +41,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
 region: southern-europe
 source_count: 6
 sources:
