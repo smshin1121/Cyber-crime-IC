@@ -7,6 +7,7 @@ legal_system: not-assessed
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
+  - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
 region: southeast-asia
 source_count: 0
 sources:

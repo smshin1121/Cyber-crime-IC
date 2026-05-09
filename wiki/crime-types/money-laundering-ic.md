@@ -55,6 +55,7 @@ notable_operations:
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
+  - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -68,7 +69,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 41
+source_count: 42
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -111,6 +112,7 @@ sources:
   - "[[2025-10-30_pf-gov-br_operacao-magna-fraus-fase-2-pix-fraud]]"
   - "[[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day]]"
   - "[[2025-07-29_oag-fedpol_real-time-phishing-uk-conviction]]"
+  - "[[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -209,3 +211,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [39] | [[2025-10-30_pf-gov-br_operacao-magna-fraus-fase-2-pix-fraud\|Operação Magna Fraus Phase 2 — PF dismantles cyber-financial crime org draining PIX accounts (R$ 813M, BR+ES+AR+PT)]] | Polícia Federal (Brazil) | 2025-10-30 | https://www.gov.br/pf/pt-br/assuntos/noticias/2025/10/pf-deflagra-segunda-fase-de-operacao-contra-organizacao-criminosa-especializada-em-fraudes-bancarias-digitais |
 | [40] | [[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day\|Eurojust assists operation in Romania and Moldova against laundering of phishing fraud proceeds (EUR 20M, 44 search locations, JIT)]] | Eurojust | 2025-06-12 | https://www.eurojust.europa.eu/news/eurojust-assists-operation-romania-and-moldova-against-laundering-phishing-fraud-proceeds |
 | [41] | [[2025-07-29_oag-fedpol_real-time-phishing-uk-conviction\|Swiss OAG/fedpol real-time phishing joint investigation — UK conviction 7yr (CH+UK, CHF 2.4M)]] | Swiss OAG / fedpol | 2025-07-29 | https://www.bag.admin.ch/en/newnsb/b4yhFXHLpERSkhgNMVb89 |
+| [42] | [[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate\|INP-FBI global phishing MFA-bypass syndicate (ID+US; USD 20M, 17K accounts, 34K victims; GWL+FYT couple)]] | Indonesian National Police (Polri) | 2026-04-23 | https://inp.polri.go.id/artikel/inp-and-fbi-uncover-global-phishing-syndicate-responsible-for-20-million-loss |

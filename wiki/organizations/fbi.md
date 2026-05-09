@@ -100,6 +100,7 @@ operations_participated:
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

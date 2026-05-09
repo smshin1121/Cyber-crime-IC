@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (764)
+# Sources (765)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -28,6 +28,7 @@ updated: 2026-04-14
 | [[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition]] | press-release | 경찰청 (KNPA, via Korea.kr 정책브리핑) | ? | high | ? |
 | [[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |
 | [[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
+| [[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate]] | press-release | Indonesian National Police (INP) — official English newsroom (inp.polri.go.id) | ? | high | ? |
 | [[2026-04-18_microsoft-com_gamarue-threat-profile]] | corporate-reference | Microsoft | 3 | medium | ? |
 | [[2026-04-18_europol-europa-eu_carbanak-cobalt-infographic]] | infographic | Europol | 2 | high | ? |
 | [[2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure]] | official-guidance | Federal Office for Information Security (BSI) | 2 | high | ? |

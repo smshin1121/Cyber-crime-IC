@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | Indonesia INP + US FBI global phishing MFA-bypass syndicate (2026-04-23, ID+US)
+- Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
+- Pages updated: 2 country (ID, US), 2 organization (indonesia-police, fbi), 3 crime-type (online-fraud-ic, cybercrime-infrastructure-ic, money-laundering-ic).
+- Key findings:
+  - **Indonesia INP-FBI MFA-bypass phishing syndicate (Polri 2026-04-23)**: 2 suspects arrested 2026-04-22 in Jakarta — **GWL** (developer since 2018) + **FYT** (crypto-laundering); identified as a couple. Indonesian National Police (Polri) Bareskrim ↔ FBI bilateral cooperation. Senior official: Insp. Gen. Nunung Syaifuddin (Deputy Chief of Bareskrim). **Scale**: 17,000 accounts compromised, **34,000 victims globally**, **USD 20M loss**, 9 Indonesian corporates + US victims. Charge: ITE Law (max 15 years). **First wiki record of Indonesia INP/Polri-FBI bilateral on MFA-bypass phishing-as-development-platform** — distinct from W3LL (different actor) and Bali villa raid (immigration vs BEC).
+- Process notes: Indonesian-language outlet's English newsroom used as tier-1 primary. `inp.polri.go.id` accessible via curl_cffi chrome124. ITE Law (Indonesian Information & Electronic Transactions Law) referenced; no wiki legal-framework page so prose-only.
+
 ## [2026-05-09] ingest [single agent, regional focus] | Swiss OAG + fedpol real-time phishing joint investigation — UK conviction 7yr (2025-07-29, CH+UK)
 - Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
 - Pages updated: 2 country (CH, UK), 4 organization (switzerland-fedpol, europol-ec3, eurojust, uk-nca), 3 crime-type (bank-fraud-ic, online-fraud-ic, money-laundering-ic).

@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (210 canonical / 27 absorbed / 237 records)
+# Operations (211 canonical / 27 absorbed / 238 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (210)
+## Canonical Operations (211)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -145,7 +145,7 @@ updated: 2026-04-14
 | [[operation-chakra-v]] | CYB-2025-022 | 3 | completed | umbrella | 3 | 3.10 | 3 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
 | [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | umbrella | 5 | 4.50 | 2 |
-| [[oag-fedpol-real-time-phishing-uk-conviction-2025]] | CYB-2025-097 | 3 | completed | standalone | 1 | 4.20 | 1 |
+| [[oag-fedpol-real-time-phishing-uk-conviction-2025]] | CYB-2025-097 | 3 | completed | standalone | 3 | 4.20 | 1 |
 | [[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]] | CYB-2025-110 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | umbrella | 5 | 4.60 | 2 |
 | [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | umbrella | 5 | 4.70 | 2 |
@@ -199,6 +199,7 @@ updated: 2026-04-14
 | [[dnipro-fraudulent-call-centre-takedown-2026]] | CYB-2026-036 | 3 | completed | umbrella | 3 | 4.15 | 1 |
 | [[black-axe-switzerland-takedown-2026]] | CYB-2026-037 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-token-mirrors-2026]] | CYB-2026-038 | 3 | ongoing | — | 1 | 4.00 | 1 |
+| [[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]] | CYB-2026-064 | 3 | completed | standalone | 1 | 3.40 | 1 |
 | [[operation-candy-encrypted-comms-drugs-2026]] | CYB-2026-068 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[us-doj-iranian-mois-handala-domain-seizure-2026]] | CYB-2026-072 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-alice-csam-fraud-2026]] | CYB-2026-079 | 3 | completed | — | 1 | 4.00 | 1 |
