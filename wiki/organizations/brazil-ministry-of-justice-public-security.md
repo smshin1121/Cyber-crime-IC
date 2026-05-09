@@ -27,6 +27,7 @@ operations_participated:
   - "[[operation-power-off]]"
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
+  - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
 source_count: 2
 sources:
   - "[[2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet]]"

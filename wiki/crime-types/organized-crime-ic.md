@@ -4,7 +4,7 @@ title: "Organized Crime - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-09
-source_count: 10
+source_count: 11
 sources:
   - "[[2019-05-01_bbc-com_technology-48294788]]"
   - "[[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]]"
@@ -16,6 +16,7 @@ sources:
   - "[[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand]]"
   - "[[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network]]"
   - "[[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting]]"
+  - "[[2025-12-16_pf-gov-br_operacao-dark-bet-trafico-cibercrime-nigeria-brasileiros]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -24,6 +25,7 @@ notable_operations:
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
 notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"

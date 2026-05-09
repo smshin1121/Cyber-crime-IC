@@ -18,6 +18,7 @@ operations_participated:
   - "[[nigerian-bec-convictions-2023]]"
   - "[[operation-contender-2]]"
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
+  - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
 region: west-africa
 source_count: 0
 sources:

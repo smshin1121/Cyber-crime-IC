@@ -62,6 +62,7 @@ notable_operations:
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -77,7 +78,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 53
+source_count: 54
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -132,6 +133,7 @@ sources:
   - "[[2025-06-30_europol_crypto-investment-fraud-ring-dismantled-spain-460m]]"
   - "[[2025-10-30_pf-gov-br_operacao-magna-fraus-fase-2-pix-fraud]]"
   - "[[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting]]"
+  - "[[2025-12-16_pf-gov-br_operacao-dark-bet-trafico-cibercrime-nigeria-brasileiros]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -248,3 +250,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [51] | [[2025-06-30_europol_crypto-investment-fraud-ring-dismantled-spain-460m\|Crypto investment fraud ring dismantled in Spain after defrauding 5,000 victims worldwide (EUR 460M, ES+EE+FR+US)]] | Europol | 2025-06-30 | https://www.europol.europa.eu/media-press/newsroom/news/crypto-investment-fraud-ring-dismantled-in-spain-after-defrauding-5-000-victims-worldwide |
 | [52] | [[2025-10-30_pf-gov-br_operacao-magna-fraus-fase-2-pix-fraud\|Operação Magna Fraus Phase 2 — PF dismantles cyber-financial crime org draining PIX accounts (R$ 813M, BR+ES+AR+PT)]] | Polícia Federal (Brazil) | 2025-10-30 | https://www.gov.br/pf/pt-br/assuntos/noticias/2025/10/pf-deflagra-segunda-fase-de-operacao-contra-organizacao-criminosa-especializada-em-fraudes-bancarias-digitais |
 | [53] | [[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting\|경찰청 「Breaking Chains 제2차 국제공조 회의」 — 22-국 합동 동남아 스캠 단속 (브레이킹 체인스)]] | 경찰청 (Korea.kr 정책브리핑) | 2026-02-05 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156743085 |
+| [54] | [[2025-12-16_pf-gov-br_operacao-dark-bet-trafico-cibercrime-nigeria-brasileiros\|Operação Dark Bet — PF dismantles BET-sector Brazil→Nigeria trafficking + forced cybercrime labour ring (R$ 446M, BR+NG)]] | Polícia Federal (Brazil) | 2025-12-16 | https://www.gov.br/pf/pt-br/assuntos/noticias/2025/12/pf-deflagra-operacao-contra-trafico-internacional-de-brasileiros |

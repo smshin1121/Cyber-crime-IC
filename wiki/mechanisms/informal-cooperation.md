@@ -15,6 +15,7 @@ operations_using:
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
+  - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
 ---
 ## Summary
 

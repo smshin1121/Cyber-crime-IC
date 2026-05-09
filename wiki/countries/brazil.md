@@ -33,6 +33,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
+  - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
 notable_cases:
 
 cooperation_assessment: ""

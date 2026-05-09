@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (200 canonical / 27 absorbed / 227 records)
+# Operations (201 canonical / 27 absorbed / 228 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (200)
+## Canonical Operations (201)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -172,6 +172,7 @@ updated: 2026-04-14
 | [[us-uk-prince-group-tco-huione-group-sanctions-2025]] | CYB-2025-213 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-power-off-2025-05]] | CYB-2025-214 | 3 | completed | follow-on | 1 | 4.00 | 1 |
 | [[xss-is-cybercrime-forum-takedown-2025]] | CYB-2025-215 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[operation-dark-bet-pf-brazil-nigeria-2025]] | CYB-2025-218 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[pf-magna-fraus-pix-fraud-2025]] | CYB-2025-310 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
