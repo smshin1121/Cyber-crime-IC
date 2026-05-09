@@ -51,6 +51,7 @@ notable_operations:
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
   - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
+  - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -64,7 +65,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 37
+source_count: 38
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -103,6 +104,7 @@ sources:
   - "[[2024-08-08_justice-gov_dprk-it-worker-fraud-disruption-knoot-chapman-didenko]]"
   - "[[2024-10-08_politie_bohemia-cannabia-darknet-marketplace-takedown]]"
   - "[[2024-09-04_treasury_sanctions-doppelganger-russian-malign-influence-operators]]"
+  - "[[2025-06-30_europol_crypto-investment-fraud-ring-dismantled-spain-460m]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -197,3 +199,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [35] | [[2024-08-08_justice-gov_dprk-it-worker-fraud-disruption-knoot-chapman-didenko\|Department Disrupts North Korean Remote IT Worker Fraud Schemes (Knoot Nashville facilitator + Chapman/Didenko cross-references)]] | US DOJ USAO-MDTN | 2024-08-08 | https://www.justice.gov/usao-mdtn/pr/department-disrupts-north-korean-remote-it-worker-fraud-schemes-through-charges-and |
 | [36] | [[2024-10-08_politie_bohemia-cannabia-darknet-marketplace-takedown\|11-country International Action against World's Largest Darkweb Market (Bohemia + Cannabia)]] | Netherlands Politie | 2024-10-08 | https://www.politie.nl/nieuws/2024/oktober/8/11-internationale-actie-tegen-werelds-grootste-darkweb-markt-bohemia-cannabia.html |
 | [37] | [[2024-09-04_treasury_sanctions-doppelganger-russian-malign-influence-operators\|Treasury Takes Action as Part of a U.S. Government Response to Russia's Foreign Malign Influence Operations (Doppelganger companion sanctions)]] | US Department of the Treasury (OFAC), Press Release JY-2559 | 2024-09-04 | https://home.treasury.gov/news/press-releases/jy2559 |
+| [38] | [[2025-06-30_europol_crypto-investment-fraud-ring-dismantled-spain-460m\|Crypto investment fraud ring dismantled in Spain after defrauding 5,000 victims worldwide (EUR 460M, ES+EE+FR+US)]] | Europol | 2025-06-30 | https://www.europol.europa.eu/media-press/newsroom/news/crypto-investment-fraud-ring-dismantled-in-spain-after-defrauding-5-000-victims-worldwide |

@@ -34,6 +34,7 @@ operations_participated:
   - "[[operation-hyperion]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
 notable_cases:
 
 contact_point_for:

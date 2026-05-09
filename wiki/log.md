@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent] | Europol Spain EUR 460M crypto investment fraud ring takedown (2025-06-30, ES+EE+FR+US)
+- Sources: 1 raw + 1 source page + 1 operation page (3 new pages)
+- Pages updated: 4 country (ES, EE, FR, US), 4 organization (europol-ec3, spain-guardia-civil, france-gendarmerie-nationale, us-dhs), 2 crime-type (online-fraud-ic, money-laundering-ic) + Reference rows.
+- Key findings:
+  - **Crypto investment fraud Spain EUR 460M (Europol 2025-06-30)**: 4-jurisdiction action (Spain Guardia Civil + Estonia Police and Border Guard Board + France New Caledonia National Gendarmerie + USA HSI) coordinated by Europol EC3. Action day 2025-06-25. 5 arrests (3 in Canary Islands, 2 in Madrid), 5 searches, EUR 460M laundered, 5,000+ victims worldwide. Hong Kong corporate-and-banking layer named as alleged laundering pivot but NOT participating action-day jurisdiction (per L19, kept out of `participating_countries`).
+- Process notes: Single-agent broader-discovery dispatch. Europol React SPA → curl_cffi chrome124 + SERVER_DATA inline-JSON parse (per L20). Cache-aware Windows cp949 fix per L8.
+- Wiki coverage milestone: agent reported very dense coverage of 2024-2026 tier-1 IC actions; ~12 prior candidates (Operation PowerOFF / Tycoon 2FA / Operation Talent / Operation Atlantic / Cracked-Nulled / LeakBase / SocksEscort / SIMCARTEL / Albanian call centres / Versus Project / Rydox / Cryptomixer / NCA-Nigeria Meta / India CBI Noida / Operation Sentinel / Red Card / HAECHI VI / Synergia III / Vachon-Desjardins / Endgame / Volkov / Medjedovic / Ukraine ransomware) all already in wiki — saturation signal for future iterations.
+
 ## [2026-05-09] ingest [single agent] | Europol Tycoon 2FA phishing-as-a-service platform takedown (2026-03-04)
 - Sources: 1 raw + 1 source page + 1 operation page (3 new pages)
 - Pages updated: 6 country (LV, LT, PT, PL, ES, UK), 11 organization (europol-ec3, latvia-state-police, lithuania-police, portugal-policia-judiciaria, poland-police, spain-national-police, spain-guardia-civil, uk-nca, microsoft, trend-micro, shadowserver), 3 crime-type (cybercrime-infrastructure-ic, online-fraud-ic, hacking-ic) + 5 cross-links to related operations (LabHost, Lumma Stealer, W3LL, LeakBase, XSS.is forum) + body Reference rows.

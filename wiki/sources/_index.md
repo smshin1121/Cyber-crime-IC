@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (750)
+# Sources (751)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -159,6 +159,7 @@ updated: 2026-04-14
 | [[2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme]] | press-release | Internal Revenue Service (Criminal Investigation) | ? | high | ? |
 | [[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions]] | press-release | U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC) | ? | high | ? |
 | [[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
+| [[2025-06-30_europol_crypto-investment-fraud-ring-dismantled-spain-460m]] | press-release | Europol | ? | high | ? |
 | [[2025-06-27_immuniweb-com_cybercrime-investigations-weekly-trusted-seller-fraud]] | news | ImmuniWeb | ? | medium | ? |
 | [[2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts]] | report | INSIGHT EU Monitoring | ? | medium | ? |
 | [[2025-06-26_hsa_operation-pangea-xvii-online-listings]] | press-release | Health Sciences Authority Singapore | ? | high | ? |

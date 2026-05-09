@@ -3,11 +3,13 @@ type: organization
 title: "France Gendarmerie Nationale"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-29
 org_type: national-gendarmerie
 country: "[[france]]"
-jurisdiction: [[france]]
+jurisdiction:
+  -
+    - france
 official_name: "Gendarmerie nationale"
 mandate: "French national gendarmerie with judicial-police and cybercrime capabilities through its cyber command and C3N."
 key_roles:
@@ -19,6 +21,7 @@ operations_participated:
   - "[[operation-endgame-phase2]]"
   - "[[operation-kraken-ghost-platform]]"
   - "[[franco-israeli-ceo-fraud]]"
+  - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
 cooperation_partners:
   - "[[france-gendarmerie]]"
   - "[[france-junalco]]"

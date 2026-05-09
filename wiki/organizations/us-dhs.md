@@ -37,6 +37,7 @@ operations_participated:
   - "[[operation-trident-breach]]"
   - "[[operation-disruptor]]"
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
+  - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
 source_count: 3
 sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"

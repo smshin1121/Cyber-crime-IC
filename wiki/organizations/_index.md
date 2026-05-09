@@ -81,14 +81,14 @@ updated: 2026-04-08
 | [[thailand-police]] | national-agency | Bangkok, Thailand | Variant reference for ambiguous Thai cybercrime police labels.; Routes specific cybercrime-bureau content to [[thailand-royal-police]]. | 2 | 3 |
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 6 | 8 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 45 | 13 |
-| [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 12 | 3 |
+| [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 13 | 3 |
 | [[us-doj]] | national-agency | Washington, D.C., United States | — | 960 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 23 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | federal prosecution; international evidence coordination | 10 | 3 |
 | [[krcert-cc]] | national-cert | [[south-korea]] | Coordinates incident response and public cyber-security guidance for the Korean internet ecosystem.; Provides the operational CERT/CC-facing function associated with KISA's national cyber-security mandate. | — | 1 |
 | [[portugal-policia-judiciaria]] | national-criminal-police | Lisbon, Portugal | Parent organization for [[portugal-police\|UNC3T]], Portugal's specialized cybercrime unit.; Participates in international cyber-enabled fraud, money-laundering, and cybercrime operations through PJ and UNC3T channels. | 6 | 3 |
 | [[french-high-tech-crime-unit]] | national-cybercrime-unit | [[france]] | Acts as the French specialist police channel in cyber-extortion investigations that require cross-border arrests or evidence support.; Coordinates with Europol and foreign police partners when French suspects, victims, or warrants intersect with foreign infrastructure or custody. | 1 | 1 |
-| [[france-gendarmerie-nationale]] | national-gendarmerie | [[france]] | Parent organization for [[france-gendarmerie\|C3N]] and the Gendarmerie's cyber-investigative architecture.; Provides national and regional investigative capacity for serious cyber-enabled crime, dark-web investigations, and international cooperation. | 5 | 3 |
+| [[france-gendarmerie-nationale]] | national-gendarmerie | [[france]] | Parent organization for [[france-gendarmerie\|C3N]] and the Gendarmerie's cyber-investigative architecture.; Provides national and regional investigative capacity for serious cyber-enabled crime, dark-web investigations, and international cooperation. | 6 | 3 |
 | [[ireland-garda-siochana]] | national-police | [[ireland]] | Conducts Irish-side searches, arrests, charging activity, bank-account blocking, and recovery work in fraud and laundering operations.; Acts as a recurring national participant in INTERPOL-led Operation Jackal / Operation Skein activity. | 2 | 3 |
 | [[polizia-di-stato]] | national-police | [[italy]] | Parent organization for [[italy-polizia-postale\|Italy Postal Police and Cyber Security Service]].; Provides State Police participation in cyber-enabled fraud, ransomware-support infrastructure, and communications-security cases. | 5 | 3 |
 | [[royal-malaysia-police]] | national-police | Bukit Aman, Kuala Lumpur, Malaysia | Parent organization for [[malaysia-police\|Commercial Crime Investigation Department cybercrime work]].; Participates in ASEAN and INTERPOL-facing cyber-enabled fraud and online child-protection cooperation. | 3 | 3 |
@@ -127,7 +127,7 @@ updated: 2026-04-08
 | [[seoul-metropolitan-police]] | national-unit | Jongno-gu, Seoul, South Korea | — | 1 | 3 |
 | [[singapore-police]] | national-unit | Singapore | — | 4 | 7 |
 | [[south-africa-hawks]] | national-unit | South Africa | SAPS specialized unit for organized crime, economic crime, and serious cybercrime.; Primary South African police-side node for serious cybercrime investigation when DPCI is named. | — | 2 |
-| [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 8 | 2 |
+| [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 9 | 2 |
 | [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 9 | 2 |
 | [[sweden-police]] | national-unit | Stockholm, Sweden | — | 12 | 3 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 9 | 3 |
@@ -157,7 +157,7 @@ updated: 2026-04-08
 | [[apcert]] | regional-cert-network | — | Provides regional CERT-to-CERT coordination context for incident response and cyber-security capacity building.; Connects national CERTs such as [[kisa]] / KrCERT and SingCERT-facing functions. | — | 2 |
 | [[afripol]] | regional-org | Algiers, Algeria | continental police coordination; joint cyber operations with INTERPOL | 9 | 3 |
 | [[eurojust]] | regional-org | The Hague, Netherlands | — | 58 | 9 |
-| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 108 | 9 |
+| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 109 | 9 |
 | [[african-union]] | regional-organization | Addis Ababa, Ethiopia | Sets continental cyber-security, cybercrime, electronic-commerce, and personal-data-protection policy baselines through AU instruments.; Provides the regional treaty context used by African states and partners when harmonizing cybercrime laws and digital-evidence powers. | — | 1 |
 | [[aseanapol]] | regional-policing-body | — | Provides a Southeast Asian regional-policing layer for multilateral cyber-enabled fraud and online-scam operations.; Supports information sharing and regional coordination alongside INTERPOL and national police agencies. | 1 | 2 |
 | [[australia-asd]] | signals-intelligence-cyber-agency | [[australia]] | Operates ASD's Australian Cyber Security Centre as Australia's national cyber security lead.; Provides cyber threat monitoring, alerts, advisories, partnership programs, exercises, and uplift services for government, industry, critical infrastructure, and the public. | — | 2 |

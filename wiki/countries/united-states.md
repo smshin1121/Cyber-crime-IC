@@ -198,6 +198,7 @@ operations_participated:
   - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
   - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
   - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
+  - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
 region: north-america
 source_count: 1
 sources:

@@ -32,6 +32,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
 notable_cases:
 
 cooperation_assessment: ""

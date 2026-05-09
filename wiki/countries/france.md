@@ -51,6 +51,7 @@ operations_participated:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
+  - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
 region: western-europe
 source_count: 6
 sources:
