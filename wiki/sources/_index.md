@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (805)
+# Sources (806)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -191,6 +191,7 @@ updated: 2026-04-14
 | [[2025-07-16_eurojust_hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down]] | press-release | Eurojust | ? | high | ? |
 | [[2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy]] | press-release | US Attorney's Office, District of Oregon (USAO-OR) | ? | high | ? |
 | [[2025-07-16_cyberscoop_noname05716-disruption-operation-eastwood-europol]] | news | CyberScoop | ? | medium | ? |
+| [[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]] | press-release | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | ? | high | ? |
 | [[2025-07-11_tga_operation-pangea-xvii-counterfeit-goods]] | press-release | Therapeutic Goods Administration | ? | high | ? |
 | [[2025-07-11_nca-uk_major-scam-centre-targeted-after-international-operation]] | press-release | UK National Crime Agency (NCA) | ? | high | ? |
 | [[2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme]] | press-release | Internal Revenue Service (Criminal Investigation) | ? | high | ? |

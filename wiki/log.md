@@ -1925,3 +1925,15 @@
   - L19/L23 strict applied: 4 wikilinked agencies named in source AND with wiki pages; lead_agency=`""`; coordinating_body=`[[eurojust]]`. USAO C.D. Cal., IRS-CI, HSI, US Marshals Service, Swedish Prosecution Authority National Unit Against Organised Crime kept in body prose only (no wiki pages yet).
   - 5 reference rows appended; 9 pages with `updated:` bumped.
 - L24 reject + retry note: First iter 124 ingest attempt (Delhi Police IFSO SIMBOX, ANI India source) was rejected. Reason: ANI is a private news wire (not tier-1 primary), and the source explicitly acknowledged "Foreign-LE counterpart agencies — none named in the primary release" — Taiwan/Cambodia/Pakistan/Nepal/China appeared only as adversary/origin/destination states, not as cooperating LE jurisdictions. Per L19 strict re-interpretation + new L24, that ingest failed the ≥2-country IC requirement and was deleted before commit. Re-ingested with stricter prompt yielded the Eurojust SE-US op above.
+
+## [2026-05-10] ingest | Operazione ELICIUS — Italy-France-Romania task force vs. "Diskstation" Romanian-national NAS-ransomware gang (2024-2025)
+- Source: raw/press-releases/2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware.md (Polizia di Stato — Servizio Polizia Postale; it).
+- Pages created: wiki/sources/2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware.md, wiki/operations/operazione-elicius-italy-france-romania-diskstation-ransomware-2025.md (provisional, source_count=1).
+- Pages updated: 3 country pages (italy, france, romania); 5 agencies (polizia-di-stato, italy-polizia-postale, france-national-police, romania-police, europol-ec3); 2 crime-types (ransomware-ic, extortion-ic); legal-frameworks/budapest-convention; mechanisms/joint-investigation-team.
+- Key findings:
+  - **Second wiki record from commissariatodips.it** (after iter 114 HAFNIUM extradition) — Polizia Postale public portal now multi-source publisher.
+  - **First wiki record of IT-FR-RO joint task force vs. NAS-ransomware** — "Diskstation" Romanian-national OCG exploiting Synology DiskStation NAS devices for ransomware deployment + extortion (artt. 615-ter + 629 Italian Criminal Code).
+  - Bucharest searches June 2024 → 44-y-o Romanian primary suspect placed in pre-trial custody by GIP Tribunale di Milano. Multiple suspects caught in flagrante delicto. Announcement 2025-07-14.
+  - L24 strict ≥2-country IC compliance verified: Italian source verbatim names "le polizie nazionali di Francia e Romania" as cooperating LE jurisdictions, with "il coordinamento di EUROPOL"; 5 named-and-existing-in-wiki participating_agencies.
+  - L23 strict applied: lead_agency=`[[italy-polizia-postale]]`; coordinating_body=`[[europol-ec3]]`.
+  - 7 reference rows appended; 14 pages with `updated:` bumped.

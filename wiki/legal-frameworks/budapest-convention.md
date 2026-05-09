@@ -39,6 +39,7 @@ official_name_ko: "사이버범죄에 관한 협약 (부다페스트 협약)"
 operations_enabled:
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
   - "[[warzone-rat-takedown-2024]]"
+  - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
 parties:
   notable_non_parties:
     - Russia
@@ -58,7 +59,7 @@ scope:
   jurisdiction: true
   procedural_law: true
   substantive_law: true
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-04-17_coe-int_about-the-convention-budapest-convention]]"
   - "[[2026-04-17_coe-int_parties-observers-to-the-budapest-convention]]"
@@ -70,6 +71,7 @@ sources:
   - "[[2026-04-17_coe-int_treaty-185-signatures-chart]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
+  - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
 sponsoring_body: "[[council-of-europe]]"
 status: in-force
 title: "Budapest Convention on Cybercrime"
@@ -201,3 +203,4 @@ South Korea has been **invited to accede** but is **not yet a party** in the Cou
 | [8] | Treaty 185 signatures chart | Council of Europe Treaty Office | 2026-04-17 | [원본](https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185) |
 | [9] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |
 | [10] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
+| [11] | [[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware\|Polizia di Stato — Operazione ELICIUS: IT-FR-RO joint task force vs. 'Diskstation' Romanian-national NAS-ransomware gang (Bucharest searches Jun 2024 → Jul 2025 announcement, Milan GIP custody)]] | Polizia di Stato — Servizio Polizia Postale (commissariatodips.it) | 2025-07-14 | https://www.commissariatodips.it/notizie/articolo/operazione-elicius-individuata-pericolosa-gang-hacker-internazionale-diskstation/index.html |

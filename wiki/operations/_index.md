@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (251 canonical / 27 absorbed / 278 records)
+# Operations (252 canonical / 27 absorbed / 279 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (251)
+## Canonical Operations (252)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -194,6 +194,7 @@ updated: 2026-04-14
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]] | CYB-2025-AIT-PR2510 | 3 | ongoing | — | 1 | 4.40 | 1 |
 | [[operation-cumberland-ai-csam-2025]] | CYB-2025-CMB | 3 | ongoing | — | 1 | 4.60 | 1 |
+| [[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]] | CYB-2025-ELI | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-otf-grimm]] | CYB-2025-EU-OTFGRIMM | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[operation-fever-cbzc-eu-presidency-2025]] | CYB-2025-FEVER | 3 | completed | — | 1 | 4.60 | 1 |
 | [[frontier-plus-cross-border-anti-scam-2025]] | CYB-2025-FRONTIER-PLUS-01 | 3 | completed | — | 1 | 4.50 | 1 |
