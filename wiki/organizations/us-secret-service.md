@@ -20,7 +20,7 @@ mandate: "Combat financial cybercrime through a unified national network of Cybe
 mechanisms_operated:
 
 notable_cases:
-
+  - "[[us-v-szabo-swatting-ring]]"
 official_name: "United States Secret Service, Cyber Fraud Task Forces"
 operations_participated:
   - "[[goznym-takedown]]"
@@ -47,11 +47,12 @@ operations_participated:
   - "[[operation-atlantic-approval-phishing-2026]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
+  - "[[operation-us-v-szabo-swatting-ring]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
-source_count: 4
+source_count: 5
 sources:
-
+  - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
 status: active
 title: "US Secret Service — Cyber Fraud Task Forces"
 type: organization
@@ -152,3 +153,4 @@ USSS cooperation capacity is *highly likely* among the strongest in the US feder
 | [2] | ECTF and FCTF | US Secret Service | n.d. | https://www.secretservice.gov/investigations/cyber |
 | [3] | Cyber Investigations | US Secret Service | n.d. | https://www.secretservice.gov/investigations/cyber |
 | [4] | Electronic Crimes Task Forces Overview | CISA / USSS | n.d. | https://www.cisa.gov/sites/default/files/publications/USSS%20Electronic%20Crimes%20Task%20Forces.pdf |
+| [5] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting sentencing — USSS Washington FO + Criminal Investigative Div + Bucharest Resident Office]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |

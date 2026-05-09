@@ -26,18 +26,20 @@ operations_participated:
   - "[[leakbase-takedown-2026]]"
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[operation-token-mirrors-2026]]"
+  - "[[operation-us-v-szabo-swatting-ring]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"
   - "[[us-dcis]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-17_justice-gov_criminal-division-computer-crime-and-intellectual-property-section-ccips]]"
   - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
   - "[[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]]"
   - "[[2023-07-01_oodaloop-com_doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-c]]"
+  - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"
@@ -54,6 +56,7 @@ notable_cases:
   - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
   - "[[us-v-redman-twitter-nft-2025]]"
+  - "[[us-v-szabo-swatting-ring]]"
 ---
 ## Summary
 

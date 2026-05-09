@@ -23,21 +23,24 @@ key_organizations:
 notable_operations:
   - "[[operation-otf-grimm]]"
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
+  - "[[operation-us-v-szabo-swatting-ring]]"
 notable_cases:
   - "[[us-v-kevin-james-strutz]]"
+  - "[[us-v-szabo-swatting-ring]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 5
+source_count: 6
 sources:
   - "[[2024-07-10_secretservice_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate]]"
   - "[[2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking]]"
   - "[[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
+  - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
 created: 2026-04-27
 updated: 2026-04-29
 status: active
@@ -71,3 +74,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [3] | [[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her|Former privacy consultant convicted of cyberstalking campaign against former roommate, her family members, boyfriend, police and prosecutors]] | US DOJ USAO | 2024-03-22 | https://www.justice.gov/usao-wdwa/pr/former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her |
 | [4] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — VaaS recruitment via online platforms; 280 arrests across 11 countries]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
 | [5] | [[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation\|Hungary-Romania Discord swatting/doxing joint investigation — bilateral HU-RO operation, 4 suspects, terrorcselekmény charge]] | Hungarian National Police (KR NNI) | 2026-01-26 | https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/bunugyek/swatting-es-doxing-miatt-indult-nyomozas |
+| [6] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting ring sentencing — RO national extradited to US Nov-2024 for swatting/bomb threats vs 75+ US officials]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |

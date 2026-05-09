@@ -43,6 +43,7 @@ notable_cases:
   - "[[us-v-fourteen-dprk-it-workers-2024]]"
   - "[[us-v-five-scattered-spider-members-2024]]"
   - "[[us-v-redman-twitter-nft-2025]]"
+  - "[[us-v-szabo-swatting-ring]]"
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:
@@ -1007,11 +1008,12 @@ operations_participated:
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
   - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
+  - "[[operation-us-v-szabo-swatting-ring]]"
 org_type: national-agency
 parent_org: ""
-source_count: 5
+source_count: 6
 sources:
-
+  - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
 status: active
 title: "US Department of Justice (DOJ)"
 type: organization
@@ -1196,6 +1198,7 @@ DOJ is *highly likely* the most important US counterpart for Korean cybercrime c
 | [3] | Criminal Division — Computer Crime and Intellectual Property Section (CCIPS) | US Department of Justice | — | https://www.justice.gov/criminal/criminal-ccips |
 | [4] | US DoJ scraps crypto crimes team citing Trump order ("Ending Regulation by Prosecution" memo) | Global Government Fintech | 2026 | https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/ |
 | [5] | Criminal Division — Cybersecurity Unit | US Department of Justice | — | https://www.justice.gov/criminal/criminal-ccips/cybersecurity-unit |
+| [6] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting ring sentencing — RO national extradited to US Nov-2024; OIA MLA + USAO-DC prosecution]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |
 
 > [!note]
 > The original page body was created based on general knowledge (source_count: 0 in the frontmatter). The Current Status and History and Reorganizations sections above are verified against web sources as of 2026-04-10. Additional historical claims (e.g., 1870 establishment, OIA MLAT statistics) should be verified against DOJ annual reports.

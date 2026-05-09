@@ -32,6 +32,7 @@ notable_cases:
   - "[[us-v-dragomir-romanian-iab]]"
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
+  - "[[us-v-szabo-swatting-ring]]"
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-avalanche]]"
@@ -46,10 +47,12 @@ operations_participated:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
+  - "[[operation-us-v-szabo-swatting-ring]]"
 region: eastern-europe
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
+  - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
 title: Romania
 treaty_memberships:
   - date: 2004-09-12
@@ -116,3 +119,4 @@ High institutional capacity (DIICOT, specialized cybercrime judges), EU integrat
 | [3] | Chart of Signatures and Ratifications of Treaty 185 | Council of Europe | 2025 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
 | [4] | Cybercrime Programme Office (C-PROC) | Council of Europe | — | https://www.coe.int/en/web/cybercrime/cybercrime-office-c-proc- |
 | [5] | [[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation\|Hungary-Romania Discord swatting/doxing joint investigation — 4 suspects (HU+RO Bihor County), KR NNI cyber investigators participated in Romanian search]] | Hungarian National Police (KR NNI) | 2026-01-26 | https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/bunugyek/swatting-es-doxing-miatt-indult-nyomozas |
+| [6] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting ring sentencing — RO national extradited to US Nov-2024 for swatting/bomb threats vs 75+ US officials]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |

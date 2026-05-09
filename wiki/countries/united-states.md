@@ -54,6 +54,7 @@ notable_cases:
   - "[[us-v-five-scattered-spider-members-2024]]"
   - "[[us-v-redman-twitter-nft-2025]]"
   - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
+  - "[[us-v-szabo-swatting-ring]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -209,11 +210,13 @@ operations_participated:
   - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
   - "[[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
+  - "[[operation-us-v-szabo-swatting-ring]]"
 region: north-america
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
+  - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

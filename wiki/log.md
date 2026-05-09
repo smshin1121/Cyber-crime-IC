@@ -1474,3 +1474,15 @@
   - Modus: shipper / Police / Military impersonation + romance fraud (lừa đảo tình cảm). Victims: >8,000 nationwide in VN; estimated take >300 billion VND (~USD 12M at late-2025 rates).
   - Diplomatic context: takedown framed in immediate aftermath of Hà Nội Convention (UN Convention against Cybercrime) signing ceremony hosted by Việt Nam in Hà Nội on 25-26 October 2025.
   - L19 applied: Cambodian counterpart agency named only generically ("lực lượng chức năng của Campuchia"); removed `[[cambodian-national-police]]` from participating_agencies and recorded gap in missing_fields. Body prose retains the analytical inference as a hypothesis.
+
+## [2026-05-09] ingest | US v. Szabo swatting ring sentencing — Romania-US extradition (2024-2026)
+- Source: raw/press-releases/2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months.md (US Secret Service republishing USAO-DC; en)
+- Pages created: wiki/sources/, wiki/cases/us-v-szabo-swatting-ring.md, wiki/operations/operation-us-v-szabo-swatting-ring.md (case+operation pair per existing wiki convention for prosecutions; provisional, source_count=1)
+- Pages updated: countries/united-states, countries/romania, four agency pages (us-doj, us-secret-service, fbi, office-of-international-affairs), cyberstalking-ic crime-type, three mechanisms (mutual-legal-assistance, extradition, mlat-process).
+- Key findings:
+  - Thomasz Szabo (RO national, 27, aka "Plank"/"Jonah"/"Cypher") sentenced 2026-04-29 in USDC-DC to 48 months prison + 3 years supervised release for leading online swatting ring (late Dec 2023 → early Jan 2024) targeting 25+ Members of Congress, 6+ senior US Executive officials, 13+ senior federal LE officials, federal judges, 27+ state officials, 4 religious institutions, multiple journalists. Plus earlier personal threats: Dec 2020 NYC synagogues + Jan 2021 US Capitol explosives/President-elect.
+  - **Extradited from Romania to US in November 2024**; Romanian authorities' assistance described as "critical." DOJ Office of International Affairs used MLA requests for foreign evidence.
+  - First wiki record of US-RO swatting/bomb-threat extradition demonstrating US capacity to extradite a foreign national for cyber-enabled threat conduct (conspiracy + threats involving explosives) targeting US legislators on the basis of conspiracy charges rather than a single hacking-statute count.
+  - In-country liaison framework documented: FBI Legat Bucharest + USSS Bucharest Resident Office as the embedded US LE presence enabling MLA-fast-tracking.
+  - Multiple cooperating USAOs (WD WA, D SD, MD FL, SD FL, SD IL, ND NY) — illustrates how a swatting/bomb-threat ring with victims in many federal districts consolidates into a single DC prosecution with USAO-DC lead.
+  - L19-strict applied: agent (correctly) did NOT include `[[romania-police]]` / `[[romania-diicot]]` in participating_agencies because tier-1 release names "Romanian authorities" generically; flagged in missing_fields.
