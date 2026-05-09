@@ -8,19 +8,18 @@ cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
   procedural_powers:
-    []
+
   data_retention: ""
 treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
     reservations:
-      []
 central_authority:
   mlat: ""
   budapest: ""
 key_agencies:
-  []
+
 ic_capacity:
   rating: unknown
   digital_forensics: unknown
@@ -28,11 +27,12 @@ ic_capacity:
   english_proficiency: low
   avg_mlat_response_days: unknown
 bilateral_agreements:
-  []
+
 operations_participated:
   - "[[darkmarket-takedown|DarkMarket Takedown]]"
+  - "[[crimenetwork-relaunch-takedown-2026]]"
 notable_cases:
-  []
+
 cooperation_assessment: ""
 source_count: 4
 sources:

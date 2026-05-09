@@ -11,6 +11,8 @@ sources:
   - "[[2017-07-20_edca_cazes-alphabay-indictment]]"
   - "[[2018-08-28_sdfl_vallerius-dream-market-sentencing]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[crimenetwork-relaunch-takedown-2026]]"
 ---
 ## Summary
 

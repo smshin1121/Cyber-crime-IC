@@ -73,6 +73,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
+  - "[[crimenetwork-relaunch-takedown-2026]]"
 region: western-europe
 source_count: 5
 sources:

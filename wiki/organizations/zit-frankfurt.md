@@ -3,11 +3,13 @@ type: organization
 title: "ZIT Frankfurt"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-29
 org_type: prosecutor-cybercrime-unit
 country: "[[germany]]"
-jurisdiction: [[germany]]
+jurisdiction:
+  -
+    - germany
 headquarters: "Frankfurt am Main, Germany"
 parent_org: "[[germany-frankfurt-prosecutor]]"
 mandate: "Specialized central office for internet and computer crime within the General Public Prosecutor's Office Frankfurt am Main."
@@ -18,6 +20,7 @@ operations_participated:
   - "[[nemesis-market-takedown]]"
   - "[[operation-endgame-phase1]]"
   - "[[operation-endgame-phase2]]"
+  - "[[crimenetwork-relaunch-takedown-2026]]"
 cooperation_partners:
   - "[[germany-bka]]"
   - "[[eurojust]]"

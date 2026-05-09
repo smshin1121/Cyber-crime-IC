@@ -11,6 +11,8 @@ sources:
   - "[[2024-06-26_trmlabs_detroit-man-sentenced-over-ten-years-drug-trafficking-crypto-money-laundering]]"
   - "[[2024-07-16_garda-ie_interpol-operation-jackal-ireland-operation-skein-july-2024]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[crimenetwork-relaunch-takedown-2026]]"
 ---
 ## Summary
 

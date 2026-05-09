@@ -36,6 +36,7 @@ operations_participated:
   - "[[black-axe-spain-takedown-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
+  - "[[crimenetwork-relaunch-takedown-2026]]"
 notable_cases:
 
 contact_point_for:

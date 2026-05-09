@@ -82,6 +82,7 @@ operations_participated:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+  - "[[crimenetwork-relaunch-takedown-2026]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

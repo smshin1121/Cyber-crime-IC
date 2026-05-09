@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (201 canonical / 27 absorbed / 228 records)
+# Operations (202 canonical / 27 absorbed / 229 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (201)
+## Canonical Operations (202)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -172,7 +172,7 @@ updated: 2026-04-14
 | [[us-uk-prince-group-tco-huione-group-sanctions-2025]] | CYB-2025-213 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-power-off-2025-05]] | CYB-2025-214 | 3 | completed | follow-on | 1 | 4.00 | 1 |
 | [[xss-is-cybercrime-forum-takedown-2025]] | CYB-2025-215 | 3 | completed | — | 1 | 4.50 | 1 |
-| [[operation-dark-bet-pf-brazil-nigeria-2025]] | CYB-2025-218 | 3 | ongoing | — | 1 | 4.00 | 1 |
+| [[operation-dark-bet-pf-brazil-nigeria-2025]] | CYB-2025-218 | 3 | ongoing | — | 2 | 4.00 | 1 |
 | [[pf-magna-fraus-pix-fraud-2025]] | CYB-2025-310 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
@@ -207,6 +207,7 @@ updated: 2026-04-14
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |
 | [[bidencash-takedown]] | — | 3 | completed | umbrella | 4 | 4.50 | 1 |
 | [[carding-action-2020]] | — | 2 | completed | umbrella | 6 | 3.50 | 2 |
+| [[crimenetwork-relaunch-takedown-2026]] | — | 3 | completed | — | 1 | 4.50 | 1 |
 | [[cyberbunker-takedown]] | — | 2 | completed | umbrella | 5 | 4.00 | 1 |
 | [[nemesis-market-takedown]] | — | 3 | completed | umbrella | 5 | — | — |
 | [[operation-endgame]] | — | 3 | ongoing | umbrella | 9 | — | — |

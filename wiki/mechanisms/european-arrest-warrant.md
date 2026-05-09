@@ -11,6 +11,7 @@ sources:
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
+  - "[[crimenetwork-relaunch-takedown-2026]]"
 ---
 ## Summary
 
