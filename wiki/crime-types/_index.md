@@ -20,7 +20,7 @@ updated: 2026-04-27
 | [[csam-ic]] | content-related | Yes | interpol-icse-database\|INTERPOL ICSE Database, europol-vidtf\|Europol Victim Identification Task Force | operation-stream-kidflix, operation-cyber-guardian, operation-orion-international | 11 |
 | [[cybercrime-forum-ic]] | cyber-dependent | Yes | search-seizure, domain-seizure, extradition | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 7 |
 | [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 23 |
-| [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | — | 3 |
+| [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | operation-otf-grimm | 4 |
 | [[dark-web-ic]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025, operation-candy-encrypted-comms-drugs-2026, bohemia-cannabia-darknet-marketplace-takedown-2024 | 10 |
 | [[ddos-extortion]] | — | — | — | — | 1 |
 | [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 8 |
@@ -32,6 +32,6 @@ updated: 2026-04-27
 | [[malware-ic]] | cyber-dependent | Yes | sinkholing, domain-seizure, search-seizure | operation-avalanche, andromeda-botnet-takedown, simda-botnet-takedown | 13 |
 | [[money-laundering-ic]] | cyber-enabled | Yes | mlat-process, europol-jit | de-ch-crypto-mixer-takedown-2025, 2bagoldmule-qqaazz, cryptex-pm2btc-sanctions | 45 |
 | [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 65 |
-| [[organized-crime-ic]] | — | — | — | matrix-encrypted-messaging-takedown-2024, black-axe-spain-takedown-2026, operation-candy-encrypted-comms-drugs-2026 | 14 |
+| [[organized-crime-ic]] | — | — | — | matrix-encrypted-messaging-takedown-2024, black-axe-spain-takedown-2026, operation-candy-encrypted-comms-drugs-2026 | 15 |
 | [[ransomware-ic]] | cyber-dependent | Yes | — | operation-cronos-phase1, operation-endgame-phase1, operation-cronos-phase3 | 27 |
 | [[voice-phishing-ic]] | cyber-enabled | Yes | interpol-i-grip, interpol-i24-7, informal-cooperation | korea-china-voice-phishing-qingdao, operation-haechi-iii, operation-haechi-iv | 26 |

@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[denmark]]"
 jurisdiction:
-  -
-    - denmark
+
 created: 2026-04-10
 established: 2022-01-01
 frameworks_administered:
@@ -30,11 +29,12 @@ operations_participated:
   - "[[operation-endgame-phase2]]"
   - "[[darkmarket-takedown]]"
   - "[[operation-endgame-phase3]]"
+  - "[[operation-otf-grimm]]"
 org_type: national-unit
 parent_org: "[[denmark-national-police]]"
-source_count: 2
+source_count: 3
 sources:
-
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 status: active
 title: "National Cyber Crime Center (NC3) / National Special Crime Unit (NSK)"
 type: organization
@@ -91,3 +91,4 @@ Denmark is a party to the Budapest Convention (since 2005) and a member of Europ
 |---|---|---|---|---|
 | [1] | National Special Crime Unit | Danish police (politi.dk) | n.d. | https://politi.dk/en/about-the-police/national-special-crime-unit |
 | [2] | National Special Crime Unit (Denmark) | Wikipedia | n.d. | https://en.wikipedia.org/wiki/National_Special_Crime_Unit_(Denmark) |
+| [3] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |

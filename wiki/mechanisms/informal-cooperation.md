@@ -5,9 +5,10 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
-source_count: 1
+source_count: 2
 sources:
   - "[[voa-operation-avalanche]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -18,6 +19,7 @@ operations_using:
   - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
+  - "[[operation-otf-grimm]]"
 ---
 ## Summary
 

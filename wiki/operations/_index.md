@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (216 canonical / 27 absorbed / 243 records)
+# Operations (217 canonical / 27 absorbed / 244 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (216)
+## Canonical Operations (217)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -179,6 +179,7 @@ updated: 2026-04-14
 | [[pf-magna-fraus-pix-fraud-2025]] | CYB-2025-310 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]] | CYB-2025-AIT-PR2510 | 3 | ongoing | — | 1 | 4.40 | 1 |
+| [[operation-otf-grimm]] | CYB-2025-EU-OTFGRIMM | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[operation-fever-cbzc-eu-presidency-2025]] | CYB-2025-FEVER | 3 | completed | — | 1 | 4.60 | 1 |
 | [[frontier-plus-cross-border-anti-scam-2025]] | CYB-2025-FRONTIER-PLUS-01 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-octopus-investment-fraud-czechia-ukraine-2025]] | CYB-2025-OCTOPUS-CZ | 3 | completed | — | 1 | 4.00 | 1 |

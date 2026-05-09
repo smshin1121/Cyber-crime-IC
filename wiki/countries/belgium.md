@@ -42,14 +42,16 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+  - "[[operation-otf-grimm]]"
 region: western-europe
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-04-18_coe-int_belgium-octopus-cybercrime-community-country-profile]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]]"
   - "[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]"
   - "[[2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 title: "Kingdom of Belgium"
 treaty_memberships:
   - date: 2012-08-20
@@ -120,3 +122,4 @@ Capacity is *highly likely* high. The FCCU/RCCU structure provides both national
 | [3] | Belgium Country Profile — Octopus Cybercrime Community | Council of Europe | 2020+ | https://www.coe.int/en/web/octopus/country-wiki-ap/-/asset_publisher/CmDb7M4RGb4Z/content/belgium |
 | [4] | 22 countries sign Second Additional Protocol | Council of Europe | 2022-05-12 | https://www.coe.int/en/web/cybercrime/second-additional-protocol/-/asset_publisher/isHU0Xq21lhu/content/opening-coecyber2ap |
 | [5] | FCCU — Federal Computer Crime Unit | Belgian Federal Police | — | http://web.archive.org/web/20210124163352/https://www.police.be/5998/fr/a-propos/directions-centrales/federal-computer-crime-unit |
+| [6] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, BE+DK+FI+FR+DE+IS+NL+NO+ES+SE+UK)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |

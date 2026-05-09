@@ -1,16 +1,17 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
   - "[[norway-nc3]]"
 country: "[[norway]]"
-jurisdiction: [[norway]]
+jurisdiction:
+
 created: 2026-04-10
 established: ""
 frameworks_administered:
-  []
+
 headquarters: Norway
 key_roles:
   - "National criminal investigation service for serious and organized crime in Norway."
@@ -19,22 +20,24 @@ key_roles:
 last_verified: 2026-04-29
 mandate: "Norway's National Criminal Investigation Service and parent structure for the national cybercrime center."
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "Nasjonal enhet for bekjempelse av organisert og annen alvorlig kriminalitet (Kripos)"
 operations_participated:
   - "[[operation-card-shop]]"
+  - "[[operation-otf-grimm]]"
 org_type: national-unit
 parent_org: ""
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-17_politiet-no_official-website]]"
   - "[[2026-04-17_politiet-no_nasjonalt-cyberkrimsenter-nc3]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 status: active
 title: Kripos
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 coverage_status: audit-normalized
 ---
 ## Summary
@@ -59,3 +62,4 @@ This page has been normalized for the organization audit: it includes role metad
 |---|---|---|---|---|
 | [1] | [[2026-04-17_politiet-no_official-website|Official website]] | Kripos | 2026-04-17 | https://www.politiet.no/en/about-the-police-service/organisation/specialist-agencies/kripos/ |
 | [2] | [[2026-04-17_politiet-no_nasjonalt-cyberkrimsenter-nc3|nasjonalt cyberkrimsenter nc3]] | politiet.no | 2026-04-17 | https://www.politiet.no/en/about-the-police-service/organisation/specialist-agencies/kripos/nasjonalt-cyberkrimsenter-nc3/ |
+| [3] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |

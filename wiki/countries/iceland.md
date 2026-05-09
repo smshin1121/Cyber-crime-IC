@@ -9,9 +9,10 @@ treaty_memberships:
 ic_capacity: not-assessed
 operations_participated:
   - "[[project-compass-the-com-network-2025]]"
-source_count: 0
+  - "[[operation-otf-grimm]]"
+source_count: 1
 sources:
-
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 created: 2026-04-12
 updated: 2026-05-09
 status: needs-official-source-ingestion

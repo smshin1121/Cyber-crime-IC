@@ -29,11 +29,12 @@ operations_participated:
   - "[[operation-power-off]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[operation-otf-grimm]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 status: active
 title: "Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority"
 type: organization
@@ -98,3 +99,4 @@ Specific operation attributions are not confirmed in currently ingested sources.
 | [1] | Swedish Cybercrime Centre (SC3) | IDG ordlista (Computer Sweden) | n.d. | https://it-ord.computersweden.se/ord/swedish-cybercrime-center/ |
 | [2] | Så arbetar Polisen med cyberbrott — "vi har bra kompetens" | Computer Sweden | n.d. | https://computersweden.se/article/3610197/sa-arbetar-polisen-med-cyberbrott-vi-har-en-bra-kompetens.html |
 | [3] | Utredare cyberbrott vid Nationellt it-brottscentrum, NOA | Swedish Police Authority (via LinkedIn jobs) | n.d. | https://se.linkedin.com/jobs/view/utredare-cyberbrott-vid-nationellt-it-brottscentrum-noa-at-swedish-police-authority-3817298413 |
+| [4] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, Europol-coordinated)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |

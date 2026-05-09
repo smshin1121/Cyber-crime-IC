@@ -75,15 +75,17 @@ operations_participated:
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
+  - "[[operation-otf-grimm]]"
 org_type: national-agency
 parent_org: ""
-source_count: 13
+source_count: 14
 sources:
   - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
   - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
   - "[[2026-04-18_gov-uk_financial-sanctions-guidance-for-ransomware]]"
   - "[[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]]"
   - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 status: active
 title: "UK National Crime Agency (NCA)"
 type: organization
@@ -243,3 +245,4 @@ Direct NCA-Korea cybercrime cooperation is *likely* less developed than FBI-Kore
 | [11] | Financial sanctions guidance for ransomware | Office of Financial Sanctions Implementation | 2026-01-28 | https://www.gov.uk/government/publications/financial-sanctions-guidance-for-ransomware/financial-sanctions-guidance-for-ransomware |
 | [12] | UK and allies sanction prolific cyber hacker | UK Government / FCDO / NCA / NCSC | 2024-05-07 | https://www.gov.uk/government/news/uk-and-allies-sanction-prolific-cyber-hacker |
 | [13] | Operation Destabilise: NCA disrupts multi-billion money laundering networks | National Crime Agency | 2024-12-04 | https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests |
+| [14] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, Europol-coordinated)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |

@@ -16,10 +16,11 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[operation-otf-grimm]]"
 region: northern-europe
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 title: "Kingdom of Sweden"
 treaty_memberships:
   - not-assessed

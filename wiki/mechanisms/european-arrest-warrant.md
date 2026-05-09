@@ -5,13 +5,15 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
-source_count: 1
+source_count: 2
 sources:
   - "[[europol-fraudulent-shopping-sites-takedown]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
+  - "[[operation-otf-grimm]]"
 ---
 ## Summary
 

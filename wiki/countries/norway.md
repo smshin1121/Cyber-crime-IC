@@ -8,10 +8,11 @@ operations_participated:
   - "[[operation-avalanche]]"
   - "[[operation-power-off-2026-04]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-otf-grimm]]"
 region: western-europe
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 title: "Kingdom of Norway"
 treaty_memberships:
   - not-assessed

@@ -139,11 +139,12 @@ operations_participated:
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
+  - "[[operation-otf-grimm]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
-source_count: 9
+source_count: 10
 sources:
-
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
@@ -232,3 +233,4 @@ The [[phobos-8base-crackdown|Phobos/8Base crackdown]] (2025) is the most directl
 | [7] | Franco-Israeli gang behind EUR 38 million CEO fraud busted | Europol | 2023-02-08 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted) |
 | [8] | European Cybercrime Centre: Structure and Collaboration | Europol | — | https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3/european-cybercrime-centre-structure-and-collaboration |
 | [9] | European Cybercrime Centre (EC3) — overview | Europol EC3 (ec3.pro) | — | https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3 |
+| [10] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, ESOCC-coordinated)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |

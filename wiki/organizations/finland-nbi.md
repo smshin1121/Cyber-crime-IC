@@ -26,13 +26,15 @@ cooperation_partners:
 operations_participated:
   - "[[e-note-crypto-exchange-takedown-2025]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
+  - "[[operation-otf-grimm]]"
 notable_cases:
-  []
+
 contact_point_for:
-  []
-source_count: 1
+
+source_count: 2
 sources:
   - "[[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 created: 2026-05-08
 updated: 2026-05-09
 last_verified: 2026-05-09

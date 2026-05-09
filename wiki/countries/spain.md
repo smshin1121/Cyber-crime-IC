@@ -57,8 +57,9 @@ operations_participated:
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
+  - "[[operation-otf-grimm]]"
 region: western-europe
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]]"
@@ -66,6 +67,7 @@ sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]"
   - "[[2026-04-18_policia-es_bcit]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 title: "Kingdom of Spain"
 treaty_memberships:
   - date: 2010-06-03

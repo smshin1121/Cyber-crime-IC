@@ -37,10 +37,11 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-otf-grimm]]"
 region: northern-europe
-source_count: 6
+source_count: 7
 sources:
-
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 title: "Republic of Finland"
 treaty_memberships:
   - date: 2007-05-24
@@ -124,3 +125,4 @@ Capacity is *almost certainly* high. Finland has strong technical and legal infr
 | [4] | Cybercrime, Law and Technology in Finland and Beyond (Polamk report 133) | Police University College of Finland | — | https://www.theseus.fi/bitstream/handle/10024/166377/POLAMK_rap133_web.pdf?sequence=2&isAllowed=y |
 | [5] | National Bureau of Investigation (Finland) | Wikipedia (summarising Finnish Police sources) | — | https://en.wikipedia.org/wiki/National_Bureau_of_Investigation_(Finland) |
 | [6] | Finland ratified the Additional Protocol on Xenophobia and Racism | Council of Europe Cybercrime News | — | https://www.coe.int/en/web/cybercrime/activities1/-/asset_publisher/LvcD1GIJBu1K/content/finland-ratified-the-additional-protocol-on-xenophobia-and-racism |
+| [7] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, BE+DK+FI+FR+DE+IS+NL+NO+ES+SE+UK)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |

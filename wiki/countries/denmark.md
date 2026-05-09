@@ -35,12 +35,14 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[operation-otf-grimm]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-17_en-wikipedia-org_national-special-crime-unit-denmark]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 created: 2026-04-11
 updated: 2026-05-09
 status: corpus-linked

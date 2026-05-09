@@ -1360,3 +1360,15 @@
   - 138 identified victims, CZK 43M confirmed losses; principal organizer named as 31-year-old from Donetsk region.
   - Operationally distinct from Operation CONNECT (already in wiki) despite joint announcement: different JIT membership (CZ-UA vs. CZ-UA-LT-LV), different fraud scheme (investment fraud vs. police/bank impersonation), different action day (2025-11-20 vs. 2025-12-09).
   - Provisional record: published below preferred source_count>=5 threshold because tier-1 primary uniquely names this branch.
+
+## [2026-05-09] ingest | Operation OTF GRIMM (Operational Taskforce GRIMM) — Sweden-led Europol VaaS taskforce one-year anniversary
+- Source: raw/press-releases/2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests.md (Europol ESOCC; en)
+- Pages created: wiki/sources/2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests.md, wiki/operations/operation-otf-grimm.md (provisional, source_count=1)
+- Pages updated: 11 country pages (BE+DK+FI+FR+DE+IS+NL+NO+ES+SE+UK), 11 agency pages (sweden-police, europol-ec3, belgium-federal-police, denmark-police, finland-nbi, france-gendarmerie, germany-bka, netherlands-politie, norway-kripos, spain-national-police, uk-nca), crime-types (organized-crime-ic, cyberstalking-ic), mechanisms (european-arrest-warrant, informal-cooperation, public-private-cooperation, extradition).
+- Key findings:
+  - First wiki record of "violence-as-a-service" (VaaS) as a cyber-investigative subject — online recruitment-and-assignment surface for physical violence (encrypted-messaging, gaming platforms, mainstream social media).
+  - 280 arrests across 11 participating countries in 12 months (193 in first 6 months).
+  - 1,400+ individuals identified as VaaS-linked; ~14,000 digital recruitment accounts mapped.
+  - Three OTF GRIMM-linked fugitives newly published on EU Most Wanted (2 Swedish, 1 German).
+  - Tier-1 release does NOT designate OTF GRIMM as a JIT and does NOT name Eurojust — taskforce is structured as a Europol Operational Taskforce (ESOCC-coordinated) rather than a JIT/Eurojust instrument. Cross-border enforcement spine: domestic powers + EAW + Europol-channelled police-to-police + provider-side cooperation (Google/Meta/TikTok/Snapchat).
+  - Six-month role taxonomy (193): 63 perpetrators / 84 recruiters / 40 enablers / 6 instigators — enforcement currently denser at operational tier than principal tier.

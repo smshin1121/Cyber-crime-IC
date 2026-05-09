@@ -24,10 +24,11 @@ operations_participated:
   - "[[operation-eastwood]]"
   - "[[operation-endgame-phase3]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
+  - "[[operation-otf-grimm]]"
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
-source_count: 5
+source_count: 6
 sources:
   - "[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]]"
   - "[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels]]"
@@ -35,6 +36,7 @@ sources:
   - "[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]"
   - "[[2019-12-17_legifrance-gouv-fr_circulaire-du-17-d-cembre-2019-relative-la-comp-tence-nationale-concurrente]]"
   - "[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 ---
 ## Summary
 
@@ -67,6 +69,7 @@ That division is important for this repo because French participation in multina
 | [3] | France - Octopus Cybercrime Community country profile | Council of Europe | current | https://www.coe.int/en/web/octopus/-/france |
 | [4] | France and Cyber security | Ministry for Europe and Foreign Affairs | current | https://www.diplomatie.gouv.fr/en/french-foreign-policy/digital-diplomacy/france-s-international-digital-strategy/ |
 | [5] | Circulaire du 17 décembre 2019 relative à la compétence nationale concurrente | Legifrance | 2019-12-17 | https://www.legifrance.gouv.fr/ |
+| [6] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
 ### Supplemental Source
 
 - Cybercriminalit챕 : 챕tat des lieux | Gendarmerie nationale | 2026-01-13 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/dossiers/lutte-contre-la-criminalite-organisee/cybercriminalite-etat-des-lieux

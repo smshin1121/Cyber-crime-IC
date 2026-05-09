@@ -21,12 +21,12 @@ updated: 2026-04-14
 | [[empact]] | liaison-network | formal | weeks | [[europol-ec3]] | eu-policy-cycle | 3 |
 | [[eu-policy-cycle]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[eurojust-coordination-meeting]] | cooperation-or-enforcement-mechanism | — | — | — | — | 5 |
-| [[european-arrest-warrant]] | cooperation-or-enforcement-mechanism | — | — | — | — | 1 |
+| [[european-arrest-warrant]] | cooperation-or-enforcement-mechanism | — | — | — | — | 2 |
 | [[european-investigation-order]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[european-judicial-cybercrime-network]] | liaison-network | semi-formal | weeks-months | [[eurojust]] | Council Conclusions on the establishment of a European Judicial Cybercrime Network (Council of the EU, 9 June 2016) | 1 |
 | [[europol-jit]] | joint-investigation-team | formal | weeks-months | [[eurojust]] | budapest-convention, EU Council Framework Decision 2002/465/JHA | 2 |
-| [[extradition]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
-| [[informal-cooperation]] | cooperation-or-enforcement-mechanism | — | — | — | — | 1 |
+| [[extradition]] | cooperation-or-enforcement-mechanism | — | — | — | — | 5 |
+| [[informal-cooperation]] | cooperation-or-enforcement-mechanism | — | — | — | — | 2 |
 | [[interpol-asean-desk]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[interpol-i-grip]] | information-sharing-platform | semi-formal | hours-days | [[interpol-igci]] | INTERPOL Constitution Art. 2 (mutual assistance), National anti-money laundering / proceeds of crime legislation | 2 |
 | [[interpol-i24-7]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
@@ -35,6 +35,6 @@ updated: 2026-04-14
 | [[marketplace-admin-liability]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[mlat-process]] | formal-mlat | formal | months | Central authorities of each state | budapest-convention, Bilateral MLATs between states | 2 |
 | [[mutual-legal-assistance]] | cooperation-or-enforcement-mechanism | — | — | — | — | 1 |
-| [[public-private-cooperation]] | cooperation-or-enforcement-mechanism | — | — | — | — | 2 |
+| [[public-private-cooperation]] | cooperation-or-enforcement-mechanism | — | — | — | — | 3 |
 | [[search-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 5 |
 | [[sinkholing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |

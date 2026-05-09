@@ -21,22 +21,23 @@ key_organizations:
   - "[[fbi]]"
   - "[[us-doj]]"
 notable_operations:
-  []
+  - "[[operation-otf-grimm]]"
 notable_cases:
   - "[[us-v-kevin-james-strutz]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
-    []
+
 estimated_annual_loss: ""
-source_count: 3
+source_count: 4
 sources:
   - "[[2024-07-10_secretservice_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate]]"
   - "[[2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking]]"
   - "[[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her]]"
+  - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
 created: 2026-04-27
-updated: "2026-04-29"
+updated: 2026-04-29
 status: active
 ---
 ## Summary
@@ -66,3 +67,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [1] | [[2024-07-10_secretservice_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate|Pernicious Cyberstalker Sentenced to 9 Years in Prison for Unrelenting Harassment of Former Roommate and Others]] | United States Secret Service | 2024-07-10 | https://www.secretservice.gov/newsroom/releases/2024/07/pernicious-cyberstalker-sentenced-9-years-prison-unrelenting-harassment |
 | [2] | [[2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking|Former Computer Privacy Consultant Convicted of Cyberstalking]] | US DOJ Office of Public Affairs | 2024-03-22 | https://www.justice.gov/opa/pr/former-computer-privacy-consultant-convicted-cyberstalking |
 | [3] | [[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her|Former privacy consultant convicted of cyberstalking campaign against former roommate, her family members, boyfriend, police and prosecutors]] | US DOJ USAO | 2024-03-22 | https://www.justice.gov/usao-wdwa/pr/former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her |
+| [4] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — VaaS recruitment via online platforms; 280 arrests across 11 countries]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
