@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (767)
+# Sources (768)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -354,6 +354,7 @@ updated: 2026-04-14
 | [[2024-09-26_fincen_treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency]] | press-release | Financial Crimes Enforcement Network | 1 | high | ? |
 | [[2024-09-26_fincen_imposition-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2btc]] | legal-notice | Financial Crimes Enforcement Network | 1 | high | ? |
 | [[2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc]] | analysis | Chainalysis | 3 | medium-high | ? |
+| [[2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown]] | press-release | Ministerio de Seguridad Nacional, República Argentina (argentina.gob.ar / Policía Federal Argentina sub-section) | ? | high | ? |
 | [[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]] | news | Brazil Ministry of Justice and Public Security | ? | high | ? |
 | [[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized]] | press-release | Bundeskriminalamt (BKA) / Generalstaatsanwaltschaft Frankfurt am Main – ZIT | 1 | high | ? |
 | [[2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform]] | press-release | The Register | ? | medium | ? |

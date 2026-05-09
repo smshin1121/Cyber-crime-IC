@@ -1,6 +1,6 @@
 ---
 bilateral_agreements:
-  []
+
 central_authority:
   budapest: "Policía Nacional — Dirección de Investigación Criminal e INTERPOL (DIJIN)"
   mlat: "Fiscalía General de la Nación (Office of the Attorney General)"
@@ -21,7 +21,7 @@ ic_capacity:
   rating: medium
 iso_code: CO
 key_agencies:
-  []
+
 last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
@@ -31,16 +31,16 @@ operations_participated:
   - "[[operation-haechi-ii]]"
   - "[[imminent-monitor-rat-takedown]]"
   - "[[operation-avalanche]]"
+  - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
 region: south-america
 source_count: 5
 sources:
-  []
+
 title: "Republic of Colombia"
 treaty_memberships:
   - date: 2020-03-16
     framework: "[[budapest-convention]]"
     reservations:
-      []
     status: party
 type: country
 updated: 2026-05-09

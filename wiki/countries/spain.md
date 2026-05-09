@@ -56,6 +56,7 @@ operations_participated:
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
 region: western-europe
 source_count: 6
 sources:

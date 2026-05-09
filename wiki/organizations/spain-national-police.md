@@ -37,6 +37,7 @@ operations_participated:
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
+  - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
 notable_cases:
 
 contact_point_for:

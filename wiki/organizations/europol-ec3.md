@@ -137,6 +137,7 @@ operations_participated:
   - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
+  - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

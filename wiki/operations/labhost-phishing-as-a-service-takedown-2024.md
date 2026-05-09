@@ -130,6 +130,7 @@ related_operations:
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
 challenges_encountered:
 
 lessons_learned:

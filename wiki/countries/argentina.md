@@ -10,6 +10,7 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[operation-orion-international]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
+  - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
 source_count: 0
 sources:
 

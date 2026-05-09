@@ -138,14 +138,17 @@ missing_fields:
   - "arrests and / or named suspects (the cited release does not enumerate arrests; it focuses on infrastructure disruption)"
   - "specific judicial authority orchestrating each national seizure"
   - "specific Europol command-post / coordination-centre arrangement (e.g., on-site coordination centre vs. virtual command post) is not enumerated in the cited release"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[lumma-stealer-takedown]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[leakbase-takedown-2026]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
-challenges_encountered: []
+  - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "First wiki record of the Europol Cyber Intelligence Extension Programme (CIEP) as a discrete IC mechanism class — a first-of-its-kind Europol programme that physically embeds private-sector experts at The Hague alongside EC3 analysts and investigators on specific operational projects. Distinct from the EC3 Advisory Groups (steady-state info-sharing) and from one-off Europol mobile-office deployments to national LE."
   - "Two-tier public-private cooperation pattern: EC3 Advisory Groups (steady-state info-sharing) → CIEP (operational embedding). The Tycoon 2FA case is described as the first publicised CIEP-driven operational outcome."

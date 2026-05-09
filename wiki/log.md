@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | Operación KAERB iServer PhaaS takedown (2024-09-24, ES+AR+CO+CL+EC+PE 6-country LatAm-Iberian)
+- Sources: 1 raw + 1 source page (es) + 1 operation page (3 new pages)
+- Pages updated: 6 country (ES, AR, CO, CL, EC, PE), 4 organization (spain-national-police, spain-guardia-civil, europol-ec3, group-ib), 2 crime-type (online-fraud-ic, cybercrime-infrastructure-ic), 2 cross-link (Tycoon 2FA + LabHost sister PhaaS ops).
+- Key findings:
+  - **Operación KAERB iServer PhaaS takedown (Argentina Ministerio de Seguridad 2024-09-24)**: KAERB = "Break" reversed. Targeted **iServer** Spanish-language phishing-as-a-service platform active for ≥5 years with 2,000+ subscriber accounts ("desbloqueadores"). Action day 2024-09-10. **6-country LatAm-Iberian IC chain** (rare structural pattern in wiki): Spain + Argentina + Colombia + Chile + Ecuador + Peru. **17 arrests** + 28 home searches + **921 electronic devices seized**. Victims: **483,000 globally** (Chile 77K, Colombia 70K, Ecuador 42K, Peru 41.5K, Spain 30K, Argentina 29K, ~193.5K other). Argentina footprint: 5 arrests, 12 raids (CABA 5, Santa Fe 3, Córdoba 3, Jujuy 1). Apex suspect (iServer administrator) residing in Santa Fe Province, Argentina. Coordination: **EUROPOL + AMERIPOL + PAcCTO 2.0 + Group-IB** public-private partnership. Press-conference principals: Sec. Alejandra Monteoliva (AR), Counsellor Francisco Arenas Morales (ES), Comisario Gustavo Cabada (PFA Ciberpatrullaje), Cmdt. Gen. Claudio Miguel Brilloni (Gendarmería Nacional). **First wiki record of AMERIPOL + PAcCTO Iberian-LatAm coordination + Spanish-language PhaaS takedown** (sister to LabHost + Tycoon 2FA English/EU PhaaS takedowns; cross-linked).
+- Process notes: Spanish-language tier-1 source. fiscales.gob.ar DNS unresolvable; pivoted to argentina.gob.ar Ministry of Security as equivalent tier-1. Per L19 secondary-press suspect name (Iván David Cudde) NOT asserted. spain-guardia-civil missing-backlink HIGH lint backfilled.
+
 ## [2026-05-09] ingest [single agent, regional focus] | AIT-Taiwan elder romance fraud first MLAA proffer takedown (2025-05-14, US+TW)
 - Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
 - Pages updated: 2 country (TW, US), 2 crime-type (online-fraud-ic, money-laundering-ic).

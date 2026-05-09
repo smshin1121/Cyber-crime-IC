@@ -12,6 +12,7 @@ operations_participated:
   - "[[operation-contender-3]]"
   - "[[operation-serengeti-2]]"
   - "[[operation-synergia-iii]]"
+  - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
 org_type: private-sector-partner
 jurisdiction: private-sector
 key_roles:
