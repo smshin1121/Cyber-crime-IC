@@ -11,6 +11,7 @@ operations_participated:
   - "[[operation-token-mirrors-2026]]"
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 region: southeast-asia
 source_count: 0
 sources:

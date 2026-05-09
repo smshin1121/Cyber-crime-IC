@@ -3,11 +3,13 @@ type: organization
 title: "Thai Royal Police"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-29
 org_type: national-police
 country: "[[thailand]]"
-jurisdiction: [[thailand]]
+jurisdiction:
+  -
+    - thailand
 official_name: "Royal Thai Police"
 canonical_page: "[[thailand-royal-police]]"
 mandate: "Thailand national police institution and parent context for the Cyber Crime Investigation Bureau."
@@ -18,6 +20,7 @@ operations_participated:
   - "[[alphabay-takedown]]"
   - "[[operation-cyber-guardian]]"
   - "[[rex-mundi-takedown]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 cooperation_partners:
   - "[[thailand-royal-police]]"
   - "[[fbi-cyber-division]]"

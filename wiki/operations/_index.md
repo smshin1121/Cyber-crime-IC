@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (204 canonical / 27 absorbed / 231 records)
+# Operations (205 canonical / 27 absorbed / 232 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (204)
+## Canonical Operations (205)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -184,6 +184,7 @@ updated: 2026-04-14
 | [[operation-power-off-2026-04]] | CYB-2026-010 | 3 | completed | follow-on | 1 | 4.00 | 1 |
 | [[korea-cambodia-philippines-73-extradition-2026]] | CYB-2026-011 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[uk-nigeria-meta-scam-centre-disruption-2026]] | CYB-2026-012 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[cross-border-online-cse-operation-spf-2026]] | CYB-2026-013 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[us-v-volkov-yanluowang-sentencing]] | CYB-2026-013 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[black-axe-spain-takedown-2026]] | CYB-2026-014 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[knpa-breaking-chains-2nd-international-operation-meeting-2026]] | CYB-2026-014 | 3 | ongoing | — | 1 | 4.00 | 1 |

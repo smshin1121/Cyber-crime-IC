@@ -1,46 +1,50 @@
 ---
 aliases:
-- PDRM
-- RMP
-- CCID PDRM
-- Royal Malaysia Police Cybercrime
-- Polis Diraja Malaysia
-contact_point_for: []
+  - PDRM
+  - RMP
+  - "CCID PDRM"
+  - "Royal Malaysia Police Cybercrime"
+  - "Polis Diraja Malaysia"
+contact_point_for:
+  []
 cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[australia-afp]]'
-- '[[interpol-igci]]'
-- '[[aseanapol]]'
-country: '[[malaysia]]'
-jurisdiction: [[malaysia]]
+  - "[[fbi-cyber-division]]"
+  - "[[australia-afp]]"
+  - "[[interpol-igci]]"
+  - "[[aseanapol]]"
+country: "[[malaysia]]"
+jurisdiction:
+  -
+    - malaysia
 created: 2026-04-10
-established: '2004-12-01'
-frameworks_administered: []
-headquarters: Bukit Aman, Kuala Lumpur, Malaysia
+established: 2004-12-01
+frameworks_administered:
+  []
+headquarters: "Bukit Aman, Kuala Lumpur, Malaysia"
 key_roles:
-- Lead Malaysia federal cybercrime and commercial crime investigations
-- Commercial Crime Investigation Department (CCID) — primary cybercrime investigative
-  unit
-- CyberCrime Investigation Division within CCID
-- International liaison with FBI, Australian Federal Police, INTERPOL
-- ASEAN cybercrime cooperation
-last_verified: '2026-04-10'
-mandate: Lead investigation and prosecution of commercial crimes and cybercrimes in
-  Malaysia, including fraud, criminal breach of trust, forgery, and technology-enabled
-  offences. Coordinates cybercrime international cooperation through liaison with
-  FBI, AFP, INTERPOL, and ASEAN partners.
-mechanisms_operated: []
-notable_cases: []
-official_name: Polis Diraja Malaysia, Commercial Crime Investigation Department
-operations_participated: []
+  - "Lead Malaysia federal cybercrime and commercial crime investigations"
+  - "Commercial Crime Investigation Department (CCID) — primary cybercrime investigative"
+  - "CyberCrime Investigation Division within CCID"
+  - "International liaison with FBI, Australian Federal Police, INTERPOL"
+  - "ASEAN cybercrime cooperation"
+last_verified: 2026-04-10
+mandate: "Lead investigation and prosecution of commercial crimes and cybercrimes in"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Polis Diraja Malaysia, Commercial Crime Investigation Department"
+operations_participated:
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 org_type: national-agency
-parent_org: '[[royal-malaysia-police]]'
+parent_org: "[[royal-malaysia-police]]"
 source_count: 5
-sources: []
+sources:
+  []
 status: active
-title: Royal Malaysia Police — Commercial Crime Investigation Department (Cyber Crime)
+title: "Royal Malaysia Police — Commercial Crime Investigation Department (Cyber Crime)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

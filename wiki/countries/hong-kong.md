@@ -5,11 +5,11 @@ iso_code: HK
 last_verified: 2026-05-03
 legal_system: not-assessed
 operations_participated:
-  []
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 region: east-asia
 source_count: 0
 sources:
-  []
+
 title: "Hong Kong Special Administrative Region"
 treaty_memberships:
   - not-assessed

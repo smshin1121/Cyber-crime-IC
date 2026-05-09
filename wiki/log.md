@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | Singapore Police Force 7-country cross-border online CSE operation (2026-04-28, SG+HK+JP+KR+MY+TH+BN)
+- Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
+- Pages updated: 7 country (SG, HK, JP, KR, MY, TH, BN), 6 organization (singapore-police, hong-kong-police, japan-npa, knpa, knpa-cyber-bureau, malaysia-police, royal-malaysia-police, thailand-royal-police, thai-royal-police), 1 crime-type (csam-ic), 1 cross-link (operation-cyber-guardian related operation).
+- Key findings:
+  - **SPF cross-border online CSE op (Singapore Police Force 2026-04-28)**: 7-jurisdiction multilateral operation (SG+HK+JP+KR+MY+TH+BN). Operation period 23 Mar 2026 – 17 Apr 2026. Aggregate: **326 arrests + 119 under investigation = 445 subjects** (430 men + 15 women, ages 12-72); **382 locations raided**; seizures 116 computers + 340 phones + 25 tablets + 140 storage devices + 16 routers. Singapore subset: 11 men aged 22-44 arrested + 16 under investigation; lead unit Specialised Crime Branch CID; Deputy Commissioner Zhang Weihan quoted. Crime focus: CSAM production/distribution/possession, sexual communication with minors, commercial sexual exploitation, intimate-image abuse, obscene material distribution. **Distinct from existing 2025 6-country [[operation-cyber-guardian]] (Asia-led CSAM crackdown) — Brunei is the new 7th participant**, marking expansion of the Asia-Pacific CSE-IC corridor.
+- Process notes: Single-agent regional-focus dispatch (AFP/JP/SG/IT/Eurojust priority). AFP 2024-2026 candidates all in wiki — pivoted to Singapore SPF. Royal Brunei Police Force has no wiki org page; referenced in prose only. Backfilled wiki org-page duplicates (knpa-cyber-bureau, royal-malaysia-police, thai-royal-police variants both backlinked alongside canonical knpa, malaysia-police, thailand-royal-police).
+
 ## [2026-05-09] ingest [single agent, regional focus] | Italy Polizia Postale + HSI + Europol live-distant child abuse operation (2026-02-02, IT+US)
 - Sources: 1 raw + 1 source page (it) + 1 operation page (3 new pages)
 - Pages updated: 2 country (IT, US), 2 organization (italy-polizia-postale, europol-ec3), 1 crime-type (csam-ic), 1 cross-link (Mad Hatter related operation).

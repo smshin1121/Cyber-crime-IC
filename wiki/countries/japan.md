@@ -14,6 +14,7 @@ operations_participated:
   - "[[lumma-stealer-takedown]]"
   - "[[operation-power-off-2026-04]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 region: east-asia
 source_count: 0
 sources:

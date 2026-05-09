@@ -3,11 +3,13 @@ type: organization
 title: "Royal Malaysia Police"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-29
 org_type: national-police
 country: "[[malaysia]]"
-jurisdiction: [[malaysia]]
+jurisdiction:
+  -
+    - malaysia
 official_name: "Polis Diraja Malaysia"
 headquarters: "Bukit Aman, Kuala Lumpur, Malaysia"
 mandate: "Malaysia's national police force; cybercrime investigations are primarily represented in the corpus through CCID."
@@ -18,6 +20,7 @@ operations_participated:
   - "[[operation-cyber-guardian]]"
   - "[[operation-first-light-2024]]"
   - "[[operation-jackal]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 cooperation_partners:
   - "[[malaysia-police]]"
   - "[[aseanapol]]"

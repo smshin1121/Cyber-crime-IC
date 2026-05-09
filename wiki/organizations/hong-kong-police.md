@@ -1,41 +1,46 @@
 ---
 aliases:
-- CSTCB
-- HKP CSTCB
-- Cyber Security and Technology Crime Bureau
-contact_point_for: []
+  - CSTCB
+  - "HKP CSTCB"
+  - "Cyber Security and Technology Crime Bureau"
+contact_point_for:
+  []
 cooperation_partners:
-- '[[interpol-igci]]'
-country: '[[hong-kong]]'
-jurisdiction: [[hong-kong]]
+  - "[[interpol-igci]]"
+country: "[[hong-kong]]"
+jurisdiction:
+  -
+    - hong-kong
 created: 2026-04-10
-established: '2015-01-01'
-frameworks_administered: []
-headquarters: Hong Kong SAR
+established: 2015-01-01
+frameworks_administered:
+  []
+headquarters: "Hong Kong SAR"
 key_roles:
-- Primary Hong Kong law enforcement unit for cybercrime and cyber security
-- Technology Crime Division — cybercrime investigation
-- Cyber Security Division — cyber security incident response
-- Cyber Intelligence Division — threat intelligence
-- Forensics and Training Division — digital forensics and capacity building
-- Cross-border technology crime liaison
-last_verified: '2026-04-10'
-mandate: Maintain cyber security of Hong Kong and prevent/detect technology crimes.
-  Handles cyber security issues, technology crime investigations, computer forensic
-  examinations, and prevention of technology crime. Maintains liaison with local and
-  overseas law enforcement agencies for combating cross-border technology crimes.
-mechanisms_operated: []
-notable_cases: []
-official_name: Hong Kong Police Force, Cyber Security and Technology Crime Bureau
-operations_participated: []
+  - "Primary Hong Kong law enforcement unit for cybercrime and cyber security"
+  - "Technology Crime Division — cybercrime investigation"
+  - "Cyber Security Division — cyber security incident response"
+  - "Cyber Intelligence Division — threat intelligence"
+  - "Forensics and Training Division — digital forensics and capacity building"
+  - "Cross-border technology crime liaison"
+last_verified: 2026-04-10
+mandate: "Maintain cyber security of Hong Kong and prevent/detect technology crimes."
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Hong Kong Police Force, Cyber Security and Technology Crime Bureau"
+operations_participated:
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 org_type: national-unit
-parent_org: '[[hong-kong-police]]'
+parent_org: "[[hong-kong-police]]"
 source_count: 5
-sources: []
+sources:
+  []
 status: active
-title: Hong Kong Police Force — Cyber Security and Technology Crime Bureau
+title: "Hong Kong Police Force — Cyber Security and Technology Crime Bureau"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

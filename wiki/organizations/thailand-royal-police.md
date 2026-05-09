@@ -39,6 +39,7 @@ operations_participated:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 org_type: national-agency
 parent_org: "[[thailand-royal-police]]"
 source_count: 8

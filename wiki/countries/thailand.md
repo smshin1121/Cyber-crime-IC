@@ -39,6 +39,7 @@ operations_participated:
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 region: southeast-asia
 source_count: 3
 sources:

@@ -8,6 +8,7 @@ operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[leakbase-takedown-2026]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 region: southeast-asia
 source_count: 0
 sources:

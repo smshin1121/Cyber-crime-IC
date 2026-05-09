@@ -49,6 +49,7 @@ operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 region: east-asia
 source_count: 23
 sources:

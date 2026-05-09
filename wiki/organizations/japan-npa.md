@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[japan]]"
 jurisdiction:
-  -
-    - japan
+
 created: 2026-04-10
 established: 2022-04-01
 frameworks_administered:
@@ -34,6 +33,7 @@ operations_participated:
   - "[[operation-chakra-v]]"
   - "[[operation-tovar]]"
   - "[[operation-card-shop]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 org_type: national-agency
 parent_org: "[[japan-npa-headquarters]]"
 source_count: 6

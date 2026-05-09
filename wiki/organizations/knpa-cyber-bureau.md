@@ -34,6 +34,7 @@ operations_participated:
   - "[[operation-haechi-ii]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 org_type: national-unit
 parent_org: "[[knpa]]"
 predecessor: ""

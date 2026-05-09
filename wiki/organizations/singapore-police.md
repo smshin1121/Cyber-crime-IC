@@ -27,6 +27,7 @@ operations_participated:
   - "[[operation-chakra-ii]]"
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
+  - "[[cross-border-online-cse-operation-spf-2026]]"
 org_type: national-unit
 parent_org: "[[singapore-police]]"
 source_count: 7
