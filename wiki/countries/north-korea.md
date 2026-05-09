@@ -36,6 +36,7 @@ notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
+  - "[[us-v-fourteen-dprk-it-workers-2024]]"
 cooperation_assessment: "DPRK is a non-cooperative jurisdiction in the public IC corpus. The state is the named threat-source for multiple ransomware, DDoS, fraudulent IT worker, and other cybercrime operations targeting US, ROK, and global victims, including via designated entities such as the DPRK Ministry of Defense. Public US enforcement against DPRK cyber and IT-worker revenue-generation operations proceeds through US-jurisdictional charges against US-based enablers and through sanctions actions, with no public-record DPRK-side cooperation."
 last_verified: 2026-05-09
 created: 2026-05-09

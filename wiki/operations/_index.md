@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (188 canonical / 27 absorbed / 215 records)
+# Operations (189 canonical / 27 absorbed / 216 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (188)
+## Canonical Operations (189)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -112,6 +112,7 @@ updated: 2026-04-14
 | [[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]] | CYB-2024-098 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-final-exchange-bka-russian-crypto-exchanges-2024]] | CYB-2024-099 | 2 | completed | — | 6 | 3.80 | 1 |
 | [[operation-magnus-redline-meta-stealer-takedown-2024]] | CYB-2024-100 | 2 | completed | — | 1 | — | — |
+| [[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]] | CYB-2024-101 | 2 | completed | — | 1 | — | 1 |
 | [[operation-cronos-phase2]] | CYB-2024-201 | 2 | completed | phase | 1 | 4.00 | 1 |
 | [[labhost-phishing-as-a-service-takedown-2024]] | CYB-2024-202 | 2 | completed | — | 1 | 4.00 | 1 |
 | [[matrix-encrypted-messaging-takedown-2024]] | CYB-2024-203 | 2 | completed | — | 1 | 4.50 | 1 |

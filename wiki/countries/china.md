@@ -31,6 +31,7 @@ notable_cases:
   - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
+  - "[[us-v-fourteen-dprk-it-workers-2024]]"
 ---
 ## Summary
 

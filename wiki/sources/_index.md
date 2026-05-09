@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (741)
+# Sources (742)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -339,6 +339,7 @@ updated: 2026-04-14
 | [[2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | press-release | Reuters | ? | medium | ? |
 | [[2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups]] | press-release | Eurojust | ? | high | ? |
 | [[2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app]] | press-release | Australian Federal Police | ? | medium | ? |
+| [[2024-09-04_justice-gov_doppelganger-russian-influence-operation-domain-seizures]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |
 | [[2024-09-01_newsonair-gov-in_cbi-operation-chakra-iii-dismantles-virtual-asset-network]] | press-release | News on Air (Gov India) | ? | medium | ? |
 | [[2024-08-28_interpol_operation-jackal-iii-black-axe]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-08-28-interpol-operation-jackal-iii]] | press-release | INTERPOL | ? | high | ? |
