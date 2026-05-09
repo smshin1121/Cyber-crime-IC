@@ -54,6 +54,7 @@ notable_operations:
   - "[[operation-atlantic-approval-phishing-2026]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
+  - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -66,7 +67,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 42
+source_count: 43
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -110,6 +111,7 @@ sources:
   - "[[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network]]"
   - "[[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds]]"
   - "[[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker]]"
+  - "[[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -215,3 +217,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [40] | [[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network\|Treasury Sanctions Cambodian Senator Kok An and Scam Center Network Defrauding Americans]] | US Department of the Treasury (OFAC), Press Release SB-0469 | 2026-04-23 | https://home.treasury.gov/news/press-releases/sb0469 |
 | [41] | [[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds\|Treasury Sanctions DPRK Bankers and Institutions Involved in Laundering Cybercrime Proceeds and IT Worker Funds]] | US Department of the Treasury (OFAC), Press Release SB-0302 | 2025-11-04 | https://home.treasury.gov/news/press-releases/sb0302 |
 | [42] | [[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker\|Two North Korean Nationals and Three Facilitators Indicted for Multi-Year Fraudulent Remote Information Technology Worker Scheme]] | US DOJ (OPA), Press Release 25-105 | 2025-01-23 | https://www.justice.gov/opa/pr/two-north-korean-nationals-and-three-facilitators-indicted-multi-year-fraudulent-remote |
+| [43] | [[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong\|Treasury Sanctions Fraud Network Funding DPRK Weapons Programs]] | US Department of the Treasury (OFAC), Press Release SB-0230 | 2025-08-27 | https://home.treasury.gov/news/press-releases/sb0230 |

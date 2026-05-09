@@ -16,6 +16,8 @@ assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 operations_participated:
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
+notable_cases:
+  - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
 ---
 ## Summary
 

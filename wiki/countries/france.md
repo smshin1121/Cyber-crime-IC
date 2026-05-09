@@ -34,6 +34,7 @@ notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
+  - "[[us-v-kai-west-intelbroker-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

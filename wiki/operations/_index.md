@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (178 canonical / 27 absorbed / 205 records)
+# Operations (179 canonical / 27 absorbed / 206 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (178)
+## Canonical Operations (179)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -140,6 +140,7 @@ updated: 2026-04-14
 | [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | umbrella | 5 | 4.70 | 2 |
 | [[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]] | CYB-2025-111 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-garantex-grinex-russian-network-sanctions-2025]] | CYB-2025-112 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]] | CYB-2025-113 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-endgame-phase3]] | CYB-2025-201 | 3 | completed | phase | 1 | 4.00 | 1 |
 | [[sg-th-altdos-desorden-ghostr-takedown-2025]] | CYB-2025-201 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[e-note-crypto-exchange-takedown-2025]] | CYB-2025-202 | 3 | completed | — | 1 | 4.00 | 1 |

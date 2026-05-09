@@ -15,13 +15,13 @@ frameworks_administered:
 headquarters: "Washington, D.C., United States"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-09
 mandate: "Investigate cyber threats to the United States including state-sponsored"
 mechanisms_operated:
 
 member_states: 0
 notable_cases:
-
+  - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
 official_name: "Cyber Division, Federal Bureau of Investigation"
 official_name_ko: "미국 연방수사국 사이버과"
 operations_participated:
@@ -121,7 +121,7 @@ sources:
 status: active
 title: "FBI Cyber Division"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-09
 ---
 ## Current Status (as of 2026-04-10)
 

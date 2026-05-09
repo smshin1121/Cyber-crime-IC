@@ -13,6 +13,7 @@ operations_participated:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
+  - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
 region: east-asia
 source_count: 1
 sources:

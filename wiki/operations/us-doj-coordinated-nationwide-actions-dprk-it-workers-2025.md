@@ -102,6 +102,7 @@ related_cases:
 related_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
+  - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
 challenges_encountered:
 
 lessons_learned:

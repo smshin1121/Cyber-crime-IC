@@ -49,6 +49,7 @@ notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
+  - "[[us-v-kai-west-intelbroker-2025]]"
 ---
 ## Summary
 

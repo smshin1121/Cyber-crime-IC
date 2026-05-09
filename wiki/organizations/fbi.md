@@ -35,6 +35,8 @@ notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
+  - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
+  - "[[us-v-kai-west-intelbroker-2025]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:

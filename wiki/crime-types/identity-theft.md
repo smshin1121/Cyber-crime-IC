@@ -15,6 +15,7 @@ category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_cases:
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
+  - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
 ---
 ## Summary
 

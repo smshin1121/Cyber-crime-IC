@@ -19,6 +19,8 @@ notable_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
+notable_cases:
+  - "[[us-v-kai-west-intelbroker-2025]]"
 ---
 ## Summary
 

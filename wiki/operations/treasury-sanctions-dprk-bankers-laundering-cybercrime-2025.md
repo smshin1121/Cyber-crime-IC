@@ -66,13 +66,15 @@ edges:
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
-  - cryptocurrency_seized (release names funds linked to designees but does not state seizure dollar amount)
-  - specific MSMT partner-state actions concurrent with this designation
-  - identity of the "DPRK ransomware actor" referenced in connection with First Credit Bank funds
-  - whether China or Russia provided any cooperation or were merely host jurisdictions for designees
-related_cases: []
+  - "cryptocurrency_seized (release names funds linked to designees but does not state seizure dollar amount)"
+  - "specific MSMT partner-state actions concurrent with this designation"
+  - "identity of the \"DPRK ransomware actor\" referenced in connection with First Credit Bank funds"
+  - "whether China or Russia provided any cooperation or were merely host jurisdictions for designees"
+related_cases:
+  []
 related_operations:
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
+  - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
 lessons_learned:
@@ -86,7 +88,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional page
 > This operation page is published from a single tier-1 source (OFAC SB-0302). Per the project's preferred publication threshold (`source_count >= 5`), it is treated as provisional pending corroborating sources (MSMT report excerpt, follow-on enforcement actions, partner-state designations).
 

@@ -32,6 +32,7 @@ notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[uk-collins-aerospace-airport-ransomware-arrest-2025]]"
+  - "[[us-v-kai-west-intelbroker-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

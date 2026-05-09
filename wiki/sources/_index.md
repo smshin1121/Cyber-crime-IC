@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (725)
+# Sources (728)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -133,6 +133,7 @@ updated: 2026-04-14
 | [[2025-09-23_decripto-org_eurojust-dismantles-eur-100-million-crypto-scam-five-arrests-and-seizures]] | news | Decripto | ? | medium | ? |
 | [[2025-09-23_721news-com_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 721news | ? | medium | ? |
 | [[2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 112WWFT | ? | medium | ? |
+| [[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2025-08-22_kaspersky_serengeti-20-interpol-led-action]] | press-release | Kaspersky | ? | high | ? |
 | [[2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-08-22_group-ib_operation-serengeti-2-0]] | press-release | Group-IB | ? | high | ? |
@@ -156,6 +157,7 @@ updated: 2026-04-14
 | [[2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts]] | report | INSIGHT EU Monitoring | ? | medium | ? |
 | [[2025-06-26_hsa_operation-pangea-xvii-online-listings]] | press-release | Health Sciences Authority Singapore | ? | high | ? |
 | [[2025-06-25_mhra_operation-pangea-xvii-illegal-medicines]] | press-release | UK Medicines and Healthcare products Regulatory Agency | ? | high | ? |
+| [[2025-06-25_justice-gov-sdny_serial-hacker-intelbroker-kai-west-charged-25m-damages]] | press-release | U.S. Attorney's Office, Southern District of New York (with FBI New York Field Office) | ? | high | ? |
 | [[2025-06-25_interpol_operation-pangea-xvii-illicit-pharmaceuticals]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-06-25_eurojust-fraud-term_trusted-seller-accounts-germany-romania]] | government | Eurojust | ? | high | ? |
 | [[2025-06-25_eurojust-europa-eu_large-scale-fraud-using-trusted-online-seller-accounts-uncovered]] | press-release | Eurojust | ? | high | ? |
@@ -312,6 +314,7 @@ updated: 2026-04-14
 | [[2024-10-01-europol-operation-cronos-lockbit-phase3]] | press-release | Europol | ? | high | ? |
 | [[2024-04-01-interpol-operation-contender-2]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-09-27_the420-in_interpol-leads-to-144-arrests-and-rescues-20-child-victims-across-south-america]] | news | The420 | ? | medium | ? |
+| [[2024-09-27_justice-gov_three-irgc-cyber-actors-indicted-hack-and-leak-2024-election]] | press-release | US DOJ (Office of Public Affairs); USAO-DC; DOJ National Security Division; FBI | ? | high | ? |
 | [[2024-09-26_usao-edva_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]] | press-release | U.S. Attorney's Office, Eastern District of Virginia | 1 | high | ? |
 | [[2024-09-26_treasury_cryptex-pm2btc-coordinated-actions]] | press-release | U.S. Department of the Treasury | 1 | high | ? |
 | [[2024-09-26_justice-gov_two-russian-nationals-charged-money-laundering-services]] | press-release | US Department of Justice | 1 | high | ? |

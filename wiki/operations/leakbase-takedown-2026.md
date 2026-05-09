@@ -91,7 +91,7 @@ missing_fields:
   - arrests
   - indictments
 related_cases:
-
+  - "[[us-v-kai-west-intelbroker-2025]]"
 related_operations:
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"

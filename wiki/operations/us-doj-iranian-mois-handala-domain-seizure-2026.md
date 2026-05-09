@@ -74,8 +74,10 @@ missing_fields:
   - "Specific IDF / Israeli government Personnel PII set (the cited release reports ~190 individuals but not their organizational distribution)"
   - "Specific CJNG operational status — release describes 'partners' but does not enumerate CJNG arrests or disruption arising from this case"
   - "Specific subsequent indictments against MOIS personnel arising from this domain-seizure track"
-related_cases: []
-related_operations: []
+related_cases:
+  - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
+related_operations:
+  []
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
 lessons_learned:
@@ -91,7 +93,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 ## Summary
 
 On **19 March 2026**, the U.S. Department of Justice announced the **court-authorized seizure of 4 domains** controlled by Iran's **Ministry of Intelligence and Security (MOIS)** and used to operate the **Handala Hack** "faketivist" persona for cyber-enabled psychological operations and transnational repression against U.S. persons, Israeli persons, and Iranian dissidents.
