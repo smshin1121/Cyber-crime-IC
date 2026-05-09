@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | Italy Polizia Postale + HSI + Europol live-distant child abuse operation (2026-02-02, IT+US)
+- Sources: 1 raw + 1 source page (it) + 1 operation page (3 new pages)
+- Pages updated: 2 country (IT, US), 2 organization (italy-polizia-postale, europol-ec3), 1 crime-type (csam-ic), 1 cross-link (Mad Hatter related operation).
+- Key findings:
+  - **Italy Polizia Postale + HSI + Europol live-distant CSAM (Polizia di Stato 2026-02-02, modified 2026-02-03)**: Lead C.N.C.P.O. (Centro Nazionale per il Contrasto alla Pedopornografia Online) within Polizia Postale e per la sicurezza cibernetica; coordinated by Procura di Milano. **International partners explicitly named**: U.S. Homeland Security Investigations (HSI) and Europol — described as "determinante" (decisive). 2 arrests (Trento + Reggio Calabria) + 4 reported at liberty (Roma + Latina + Brescia + Milano, ages 47–57). Modus operandi: "buyers" → "traffickers/vendors" via Asian adult-content platforms → private rooms → real-time webcam abuse → "tips" via mainstream money-business services. **Sister operation to existing Mad Hatter** (Apr 2026) — both feature Italy Polizia Postale CNCPO + US LE bilateral cooperation against transnational online CSAM; cross-linked.
+- Process notes: Italian-language tier-1 source preserved per CLAUDE.md rule 11. Secondary press calls this "Operazione Light Bridge" but official Polizia di Stato release does NOT use that name — treated as unverified secondary alias per L19. WebFetch blocked on poliziadistato.it (HTTP 403); recovered via curl_cffi chrome124 per L20. HSI not in wiki as standalone organization page — referenced in prose only, no wikilink.
+
 ## [2026-05-09] ingest [single agent, regional focus] | Eurojust Romania-Moldova phishing/laundering JIT action day (2025-06-12, RO+MD)
 - Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
 - Pages updated: 4 country (RO, MD, UA, IT), 2 organization (eurojust, romania-diicot), 2 mechanism (joint-investigation-team, european-investigation-order), 2 crime-type (online-fraud-ic, money-laundering-ic).

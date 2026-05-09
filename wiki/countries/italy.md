@@ -43,6 +43,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
+  - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
 region: southern-europe
 source_count: 6
 sources:

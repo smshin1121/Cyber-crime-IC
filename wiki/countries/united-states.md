@@ -202,6 +202,7 @@ operations_participated:
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
+  - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
 region: north-america
 source_count: 1
 sources:

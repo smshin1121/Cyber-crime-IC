@@ -52,11 +52,11 @@ results:
     - "Approximately 50 specialised C.O.S.C. / S.O.S.C. operators deployed nationwide for the action day"
     - "Identification of AI-generated CSAM in the seized material — explicitly cited in the press release"
 edges:
-  - source_actor: "italy-polizia-postale"
-    target_actor: "fbi"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
+  - source_actor: italy-polizia-postale
+    target_actor: fbi
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
@@ -64,9 +64,12 @@ missing_fields:
   - "U.S.-side enforcement actions, if any (not disclosed)"
   - "names and number of CSAM platforms or services targeted (not disclosed)"
   - "victim-identification figures (the press release does not give a number of identified child victims)"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Italian C.N.C.P.O. continues to use long-duration (2024 → 2026) undercover online infiltration as the primary investigative model for transnational CSAM cases, with foreign-source identification feeding the simultaneous national execution phase."
   - "AI-generated CSAM is now appearing in the seized material of mainstream Polizia Postale operations and is treated as part of the same offence stream as conventionally produced material."
@@ -76,7 +79,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional / single-source page
 > This page is below the preferred `source_count >= 5` publication threshold. It is retained as a tier-1 primary-source operation page because the Italian Polizia di Stato press release is itself a high-reliability institutional announcement and the foreign cooperation partner (FBI) is explicitly named. Additional secondary coverage and any U.S.-side filings should be folded in when available, and the page should be promoted out of provisional status at that point.
 

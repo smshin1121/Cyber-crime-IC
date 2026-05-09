@@ -26,9 +26,10 @@ notable_operations:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
+  - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
 relevant_legal_frameworks:
 
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-03-05_interpol_operation-eclipse-csam-americas]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
@@ -37,6 +38,7 @@ sources:
   - "[[2026-02_europol_project-compass-the-com-network]]"
   - "[[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]]"
   - "[[2026-04-28_poliziadistato-it_operazione-mad-hatter-csam-fbi-cooperation]]"
+  - "[[2026-02-02_poliziadistato-it_live-distant-child-abuse-italy-hsi-europol]]"
 title: "CSAM (Child Sexual Abuse Material) — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -79,3 +81,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [5] | [[2026-02_europol_project-compass-the-com-network\|Project Compass — A project dedicated to fighting against The Com (Europol Operations page)]] | Europol European Counter Terrorism Centre (ECTC) | 2026-02 (approx.) | https://www.europol.europa.eu/how-we-work/operations/project-compass |
 | [6] | [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice\|Global cybercrime crackdown: over 373 000 dark web sites shut down (Operation Alice)]] | Europol | 2026-03-21 | https://www.europol.europa.eu/media-press/newsroom/news/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down |
 | [7] | [[2026-04-28_poliziadistato-it_operazione-mad-hatter-csam-fbi-cooperation\|Operazione Mad Hatter — Polizia Postale CNCPO + FBI cooperation against transnational online CSAM (incl. AI-generated)]] | Polizia di Stato (Questura di Milano) | 2026-04-28 | https://questure.poliziadistato.it/it/Milano/articolo/119469f080b60af7d931586091 |
+| [8] | [[2026-02-02_poliziadistato-it_live-distant-child-abuse-italy-hsi-europol\|Live-distant child abuse buyer/trafficker network — Italy Polizia Postale CNCPO + US HSI + Europol]] | Polizia di Stato | 2026-02-02 | https://www.poliziadistato.it/articolo/abusi-sessuali-su-minori-in-diretta-streaming |

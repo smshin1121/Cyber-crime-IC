@@ -134,6 +134,7 @@ operations_participated:
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
+  - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

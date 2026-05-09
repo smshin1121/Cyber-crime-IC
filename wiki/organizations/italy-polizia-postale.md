@@ -12,8 +12,7 @@ established: 1998
 parent_org: ""
 country: "[[italy]]"
 jurisdiction:
-  -
-    - italy
+
 headquarters: "Rome, Italy"
 mandate: "National cybercrime and communications-security police service within the Italian State Police structure, including the CNAIPIC critical-infrastructure mission."
 member_states: 0
@@ -25,7 +24,7 @@ key_roles:
 cooperation_partners:
   - "[[italy-dcsa]]"
 frameworks_administered:
-  []
+
 mechanisms_operated:
   - "[[24-7-network]]"
 operations_participated:
@@ -36,8 +35,9 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[operation-card-shop]]"
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
+  - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
 notable_cases:
-  []
+
 contact_point_for:
   - "[[24-7-network]]"
 source_count: 3
