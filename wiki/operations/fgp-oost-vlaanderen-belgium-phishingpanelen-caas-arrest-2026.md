@@ -55,7 +55,7 @@ results:
     - "Suspect remanded in custody (voorlopig aangehouden) by the Dendermonde investigating judge."
 edges:
   - source_actor: "Federale Gerechtelijke Politie Oost-Vlaanderen (Belgium)"
-    target_actor: "Europol"
+    target_actor: Europol
     cooperation_type: joint_investigation
     legal_basis: unknown
     direction: undirected
@@ -72,21 +72,24 @@ missing_fields:
   - "Dutch executing agency name (likely [[netherlands-politie]] but not explicitly named)"
   - "Specific articles of Belgian criminal law charged"
   - "Full enumerated list of other European countries where panels were used"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
-challenges_encountered: []
-lessons_learned: []
+  - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 > [!info] Provisional / sparse-source page
 > This page is built from a single tier-1 primary source: the 22 April 2026 Police.be press release. Many operational details (precise charges, full list of victim-states, executing Dutch agency, specific surrender instrument) are not stated in the source and are flagged below as such. The page should be re-evaluated as additional primary sources (Belgian prosecutor releases, Europol press release if any, court documents, or follow-up Dutch [[netherlands-politie|Politie]] communications) become available.
 

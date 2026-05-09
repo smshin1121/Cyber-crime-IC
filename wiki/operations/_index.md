@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (245 canonical / 27 absorbed / 272 records)
+# Operations (246 canonical / 27 absorbed / 273 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (245)
+## Canonical Operations (246)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -228,6 +228,7 @@ updated: 2026-04-14
 | [[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]] | CYB-2026-064 | 3 | completed | standalone | 1 | 3.40 | 1 |
 | [[operation-candy-encrypted-comms-drugs-2026]] | CYB-2026-068 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[us-doj-iranian-mois-handala-domain-seizure-2026]] | CYB-2026-072 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[pf-belgium-extradition-arrest-sao-paulo-2026]] | CYB-2026-074 | 3 | ongoing | — | 1 | 3.60 | 1 |
 | [[operation-alice-csam-fraud-2026]] | CYB-2026-079 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[w3ll-phishing-kit-takedown-2026]] | CYB-2026-088 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-atlantic-approval-phishing-2026]] | CYB-2026-095 | 3 | completed | — | 1 | 4.00 | 1 |

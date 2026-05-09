@@ -91,6 +91,7 @@ notable_operations:
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
   - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
+  - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -108,7 +109,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 84
+source_count: 85
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -194,6 +195,7 @@ sources:
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
   - "[[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation]]"
   - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
+  - "[[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -341,3 +343,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [82] | [[2026-04-22_police-be_phishingpanelen-leverancier-arrest\|Belgian Federal Police — CaaS phishing-panel supplier arrest, NL→BE surrender, EUR 28K cash + data carriers seized (FGP Oost-Vlaanderen + Europol)]] | Belgian Federal Police (Politie.be / Police.be) | 2026-04-22 | https://www.police.be/5998/nl/nieuws/crime-as-a-service-leverancier-phishingpanelen-aan-phishingbendes-opgepakt |
 | [83] | [[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation\|NZ Police — Wellington man arrested in NZ-FBI joint USD 265M cryptocurrency-theft RICO investigation; 13 arrested across NZ + California]] | New Zealand Police — Financial Crime Group | 2025-05-16 | https://www.police.govt.nz/news/release/wellington-based-man-arrested-international-cryptocurrency-scam-investigation |
 | [84] | [[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest\|Polri Tribrata News — INTERPOL Red Notice arrest of LCS at Soekarno-Hatta (May 2026); Cambodia-base 'abbishopee' online-fraud network; 23+ Laporan Polisi consolidated under Dittipidsiber Bareskrim]] | Indonesian National Police (Polri) — Tribrata News national newsroom | 2026-05-05 | https://tribratanews.polri.go.id/dnews/47828/penyamarannya-terbongkar-buronan-interpol-asal-indonesia-tertangkap-di-soekarno-hatta |
+| [85] | [[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo\|PF Brazil — Belgian-national fugitive arrested in São Paulo on STF mandado de prisão para extradição (Mar 2026); Belgian charges include falsificação de tecnologia da informação]] | Polícia Federal (Brazil) — Superintendência Regional em São Paulo / SR-SP | 2026-03-09 | https://www.gov.br/pf/pt-br/assuntos/noticias/2026/03/policia-federal-prende-foragido-belga-acusado-de-fraude-e-falsificacao-de-tecnologia-da-informacao-em-sao-paulo |

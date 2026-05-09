@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (799)
+# Sources (800)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -71,6 +71,7 @@ updated: 2026-04-14
 | [[2026-03-11_eurojust-fraud-term_online-fraud-group-france-germany]] | government | Eurojust | ? | high | ? |
 | [[2026-03-11_eurojust-cybercrime-term_online-fraud-group-france-germany]] | government | Eurojust | ? | high | ? |
 | [[2026-03-11-eurojust-de-fr-online-fraud-group]] | press-release | Eurojust | ? | high | ? |
+| [[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo]] | press-release | Polícia Federal (Brazil) — Comunicação Social da Polícia Federal em São Paulo (SCS/SR/SP) | ? | high | ? |
 | [[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand]] | press-release | Australian Federal Police | ? | high | ? |
 | [[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]] | press-release | Gendarmerie nationale (France) | 1 | high | ? |
 | [[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]] | press-release | Hellenic Police (Ελληνική Αστυνομία) — Headquarters / Directorate for the Confrontation of Organised Crime (Δ.Α.Ο.Ε.) | 1 | high | ? |

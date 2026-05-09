@@ -39,6 +39,7 @@ operations_using:
   - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
+  - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"

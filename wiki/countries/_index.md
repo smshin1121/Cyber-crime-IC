@@ -20,11 +20,11 @@ total: 61
 | 🇦🇼 | [[aruba]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇿 | [[azerbaijan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇧🇦 | [[bosnia-and-herzegovina]] | not-assessed | — | unknown | unknown | 3 |
-| 🇧🇪 | [[belgium]] | civil-law | party (2012) | high | 90-180 | 8 |
+| 🇧🇪 | [[belgium]] | civil-law | party (2012) | high | 90-180 | 9 |
 | 🇧🇬 | [[bulgaria]] | civil-law | party (2005) | medium | 90-180 | 6 |
 | 🇧🇯 | [[benin]] | civil-law | party (2024) | low | unknown | 4 |
 | 🇧🇴 | [[bolivia]] | not-assessed | — | unknown | unknown | 0 |
-| 🇧🇷 | [[brazil]] | civil-law | not-assessed | unknown | unknown | 6 |
+| 🇧🇷 | [[brazil]] | civil-law | not-assessed | unknown | unknown | 7 |
 | 🇧🇾 | [[belarus]] | not-assessed | — | unknown | unknown | 0 |
 | 🇧🇿 | [[belize]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇦 | [[canada]] | mixed | party (2015) | high | 90-180 | 6 |

@@ -69,11 +69,12 @@ missing_fields:
   - "Brazilian Penal Code articles cited in the underlying judicial petition (not enumerated in the release)"
   - "Names of the four temporary-arrest defendants and the corporate entities targeted"
   - "Status (victim vs. suspect) of the 5 Brazilian nationals among the 109 detained in Nigeria — the PF framing treats them as both coerced victims and accused"
-related_cases:
+related_cases: ""
 related_operations:
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
-challenges_encountered:
+  - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
+challenges_encountered: ""
 lessons_learned:
   - "First wiki record of a Brazil-Nigeria cybercrime cooperation case. Nigeria has previously appeared in the wiki primarily as a 419/BEC source jurisdiction; this case documents Nigeria as a destination for trafficked Brazilian scam-compound labour, expanding the West-African role in the wiki's scam-compound geography beyond Lagos-as-origin."
   - "The scam-compound model — recruitment via false jobs, document confiscation, debt bondage, armed surveillance, forced cybercrime production — previously catalogued for Cambodia/Myanmar/Laos now appears in Brazil-to-Nigeria flows. The IC question shifts from Southeast-Asia bilaterals (where Korean and ASEAN frameworks dominate) to a Latin-America-to-West-Africa axis with weaker ready-made cooperation infrastructure."
@@ -83,9 +84,8 @@ sources:
   - "[[2025-12-16_pf-gov-br_operacao-dark-bet-trafico-cibercrime-nigeria-brasileiros]]"
 summary: "On 2025-12-16 the Polícia Federal (Brazil) launched Operação Dark Bet to dismantle a Brazilian criminal organization that lured Brazilian nationals via false employment offers in two domestic online sports-betting (BET) platforms, trafficked them to Nigeria, and forced them under armed surveillance to commit cybercrimes (online scams) abroad. The investigation was triggered by the arrest of 109 persons in Nigeria including 5 Brazilian nationals on cybercrime charges. PF executed 11 search-and-seizure warrants across five Brazilian states (CE, MA, PR, SC, SP), 4 temporary arrests, and Justiça Federal-ordered asset blocks/sequestros exceeding R$ 446 million; two BET platforms were taken offline."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 ---
-
 ## Summary
 
 On **2025-12-16** the **Polícia Federal (Brazil)** launched **Operação Dark Bet** to dismantle a Brazilian criminal organization that lured Brazilian nationals via false employment offers in two domestic **online sports-betting (BET)** platforms, trafficked them to **Nigeria**, and forced them under armed surveillance to commit **cybercrimes** (online scams) abroad. The investigation was triggered by the arrest of **109 persons in Nigeria** — including **5 Brazilian nationals** — on cybercrime charges. PF executed **11 search-and-seizure warrants** across five Brazilian states (Ceará, Maranhão, Paraná, Santa Catarina, São Paulo), **4 temporary arrests**, and Justiça Federal-ordered asset blocks/sequestros **exceeding R$ 446 million**. Two BET platforms were taken offline by judicial order.

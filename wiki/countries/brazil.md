@@ -36,10 +36,11 @@ operations_participated:
   - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
+  - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 6
+source_count: 7
 sources:
   - "[[2022-01-20_justice-gov_brazilian-national-pleads-guilty-to-role-in-nationwide-rideshare-and-delivery-ac]]"
   - "[[2025-02-22_bitget_brazilian-national-20-year-sentence-290m-bitcoin-ponzi-scheme]]"
@@ -47,6 +48,7 @@ sources:
   - "[[2026-04-18_justice-gov_brazilian-national-indicted-selling-firearms]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
+  - "[[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo]]"
 created: 2026-04-13
 updated: 2026-05-10
 status: corpus-linked

@@ -88,6 +88,7 @@ related_operations:
   - "[[operation-haechi-vi]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
+  - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
 challenges_encountered:
 
 lessons_learned:
@@ -99,7 +100,7 @@ sources:
   - "[[2025-06-17_spf-singapore_singapore-police-force-partners-interpol-and-federal-police-of-brazil]]"
 summary: "On 2025-06-17 the Singapore Police Force (SPF) announced its role in Operation Cryptoscam — one of two simultaneous May 2025 operations launched by the Brazilian Federal Police (FPB) against criminal organisations involved in financial crimes, cyber fraud, drug trafficking, and money laundering. The two simultaneous operations together produced 26 search-and-seizure warrants and 11 arrest warrants. Operation Cryptoscam was originated by SPF based on a January 2024 police report of a USD 1.4 million cryptocurrency-wallet compromise affecting a Singapore victim, with stolen funds traced to Brazil and the FPB alerted via INTERPOL channels. Brazil-side investigation conducted by the Repression Electronic Bank Fraud Coordination and the FPB Regional Office in Itajaí, Santa Catarina."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 

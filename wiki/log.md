@@ -1,5 +1,16 @@
 # Activity Log
 
+## [2026-05-10] ingest [iter 119, single-agent, under-sourced tier-1 publisher] | PF Belgium-Brazil passive extradition arrest (PF/SR-SP, 2026-03-09, Belgian national wanted for IT-forgery + fraud)
+- Sources: 1 raw + 1 source page (pt) + 1 operation page (3 new pages)
+- Pages created: `raw/press-releases/2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo.md`, `wiki/sources/2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo.md`, `wiki/operations/pf-belgium-extradition-arrest-sao-paulo-2026.md`.
+- Pages NOT updated (per task instruction: do NOT touch backlinks): country (brazil, belgium), organization (brazil-ministry-of-justice-public-security), mechanism (extradition), legal-framework (budapest-convention), crime-type (online-fraud-ic), concept (dual-criminality).
+- Key findings:
+  - **Third wiki ingest from gov.br/pf** (after Operação Magna Fraus 2025-10-30 and Operação Dark Bet 2025-12-16) — the publisher remains under-sourced and benefits from a Belgium-as-requesting / Brazil-as-requested extradition record.
+  - **2026-03-09 PF/SR-SP arrest in São Paulo** of a Belgian national residing in Brazil on a STF *mandado de prisão para extradição* in response to a Belgian extradition request. Belgian charges enumerated by PF: document forgery, criminal threat, fraud, **falsificação de tecnologia da informação** (computer-related forgery — Budapest Convention Art. 7 territory), breach of trust, and unspecified additional offences.
+  - **First wiki record of the Brazilian-Portuguese rendering** *falsificação de tecnologia da informação* for what under Belgian law is *falsification informatique / informaticavalsheid* (Code pénal / Strafwetboek Art. 210bis) and under Budapest Convention is Art. 7. Translation pattern noted for future PF extradition releases.
+  - **Per L19**: only Brazil and Belgium asserted as participating_countries (both named in the primary source). Per L23: lead_agency and coordinating_body left as empty strings; Belgian counterpart authority and specific PF unit beyond SR/SP not named in the release. Per L17: no headcount/country-count fields to verify.
+- Process notes: gov.br/pf landing-page WebFetch produced minimal content; pivoted to direct article URL via WebFetch + curl_cffi chrome124 (200 OK, 110KB) for verbatim Portuguese capture. Rejected candidates this iter: PowerOFF 2026-04-16 (already heavily sourced — 2 PF, 1 Europol, 2 DOJ, multiple secondary), Operação Citrus 2026-02-26 (no IC element), Operação Cryptoscam 2025-05 (already in wiki as `spf-fpb-operation-cryptoscam-2025`), Operação Synergia III (Brazil+71 countries, but PF is secondary; INTERPOL is primary and already covered for Synergia series), Goiás Portuguese-Belgian fugitive 2026-04 (financial-fraud only, weaker cyber nexus than the IT-forgery-charged São Paulo case).
+
 ## [2026-05-10] ingest [iter 117, single-agent, new-publisher tier-1] | Operación Aliados por la Infancia VI (MPF CABA, 2026-04-29, AR-led 13-jurisdiction CSAM operation)
 - Sources: 1 raw + 1 source page (es) + 1 operation page (3 new pages)
 - Pages created: `raw/press-releases/2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional.md`, `wiki/sources/2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional.md`, `wiki/operations/aliados-por-la-infancia-vi-mpf-caba-2026.md`.
@@ -1804,3 +1815,16 @@
   - L23-strict applied: lead_agency = `[[indonesia-police|...]]` (verified existing org page); coordinating_body = `[[interpol|INTERPOL (Red Notice)]]` (verified existing org page) — no plain-text entity strings.
   - L1 applied: source URL fetched and verified against canonical national portal (`tribratanews.polri.go.id`) plus three regional mirror sub-domains.
 - Backlinks applied (orchestrator follow-up): 2 country pages (indonesia, cambodia); 2 agencies (indonesia-police, interpol); crime-types/online-fraud-ic; mechanisms/informal-cooperation; challenges/jurisdictional-conflicts (sources backlink); 3 related operations (indonesia-fbi-mfa-bypass, seoul-eastern-clark, lai-chau-cambodia-bokor). 3 reference rows appended.
+
+## [2026-05-10] ingest | PF Brazil-Belgium passive extradition arrest of Belgian national for IT-forgery + fraud (São Paulo, March 2026)
+- Source: raw/press-releases/2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo.md (Polícia Federal — Superintendência Regional em São Paulo; pt-BR).
+- Pages created: wiki/sources/2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo.md, wiki/operations/pf-belgium-extradition-arrest-sao-paulo-2026.md (provisional, source_count=1).
+- Pages updated: countries/brazil, countries/belgium; organizations/brazil-ministry-of-justice-public-security; crime-types/online-fraud-ic; mechanisms/extradition; 3 related operations (fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026, spf-fpb-operation-cryptoscam-2025, operation-dark-bet-pf-brazil-nigeria-2025).
+- Key findings:
+  - **Third wiki record from gov.br/pf** — under-sourced before (only 2 prior PF entries).
+  - **First wiki record of Brazil-Belgium passive extradition (cyber-related forgery)**: Belgian national arrested by PF/SR-SP on STF mandado de prisão para extradição (Belgian charges include falsificação de tecnologia da informação — Budapest Convention Art. 7 territory).
+  - **Cross-link to BE-NL CaaS phishing-panel supplier** (iter 113) — Brazil-Belgium and BE-NL records now form a Belgian-cybercrime cooperation cluster in the wiki.
+  - Defendant identity withheld in PF release per Brazilian pre-trial practice.
+  - L19-strict applied: only `[[brazil-ministry-of-justice-public-security]]` named-and-existing-in-wiki used in participating_agencies. Belgian counterpart authority NOT named in source — kept out of frontmatter.
+  - L23-strict applied: lead_agency/coordinating_body left empty (PF/SR-SP and STF mentioned in body prose only).
+  - 3 reference rows appended; 12 pages with `updated:` bumped.
