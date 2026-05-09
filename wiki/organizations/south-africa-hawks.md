@@ -1,35 +1,42 @@
 ---
 aliases:
-  - "DPCI"
+  - DPCI
   - "The Hawks"
-contact_point_for: []
+contact_point_for:
+
 cooperation_partners:
   - "[[south-africa-saps]]"
 country: "[[south-africa]]"
-jurisdiction: [[south-africa]]
+jurisdiction:
+
 created: 2026-04-10
 established: ""
-frameworks_administered: []
+frameworks_administered:
+
 headquarters: "South Africa"
 key_roles:
   - "SAPS specialized unit for organized crime, economic crime, and serious cybercrime."
   - "Primary South African police-side node for serious cybercrime investigation when DPCI is named."
 last_verified: 2026-04-29
 mandate: "South African Police Service specialized unit investigating organized crime, economic crime, and serious cybercrime."
-mechanisms_operated: []
-notable_cases: []
+mechanisms_operated:
+
+notable_cases:
+  - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 official_name: "Directorate for Priority Crime Investigation (DPCI)"
-operations_participated: []
+operations_participated:
+
 org_type: national-unit
 parent_org: "[[south-africa-saps]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-17_saps-gov-za_official-website]]"
   - "[[2026-04-17_coe-int_south-africa-octopus-cybercrime-community]]"
+  - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
 status: active
 title: "The Hawks"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 ## Summary
 

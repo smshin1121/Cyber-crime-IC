@@ -7,9 +7,9 @@ legal_system: not-assessed
 operations_participated:
   - "[[operation-haechi-vi]]"
 region: southern-africa
-source_count: 0
+source_count: 1
 sources:
-  []
+  - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
 title: "Republic of South Africa"
 treaty_memberships:
   - not-assessed
@@ -18,6 +18,8 @@ updated: 2026-05-03
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 ---
 ## Summary
 

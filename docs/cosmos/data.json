@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-09T07:34:33Z",
+  "generated_at": "2026-05-09T09:58:59Z",
   "root": null,
   "stats": {
-    "total_nodes": 1523,
-    "total_edges": 16452,
+    "total_nodes": 1543,
+    "total_edges": 16932,
     "broken_links": 0,
     "orphans": 103,
     "by_type": {
@@ -17,14 +17,14 @@
       "crime-type": 25,
       "legal-framework": 25,
       "mechanism": 28,
-      "operation": 235,
+      "operation": 245,
       "organization": 153,
       "procedure": 2,
-      "source": 762
+      "source": 772
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 208
+      "canonical_operation": 218
     }
   },
   "nodes": [
@@ -692,7 +692,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 208 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 235 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 41 | | Period 3 (2023-2025) | 134 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 218 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 245 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 41 | | Period 3 (2023-2025) | 144 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-09",
@@ -1823,7 +1823,7 @@
       "source_count": 2,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 50,
+      "degree": 51,
       "path": "wiki/challenges/jurisdictional-conflicts.md",
       "meta": {
         "challenge_category": "legal",
@@ -2135,7 +2135,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 16,
+      "degree": 19,
       "path": "wiki/countries/argentina.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2285,10 +2285,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Belgium ratified the Budapest Convention on Cybercrime on 20 August 2012 [1]. Its substantive cybercrime law pre-dates the Convention: the Law of 28 November 2000 on Computer Crime introduced new offences into the Penal Code including computer…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 61,
+      "degree": 65,
       "path": "wiki/countries/belgium.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2422,10 +2422,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Bulgaria deposited its instrument of ratification of the Budapest Convention on Cybercrime on 7 April 2005, entering into force 1 August 2005 [1][2]. As an EU member state (since 2007), Bulgaria implements EU cybercrime-related directives (NIS,…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 52,
+      "degree": 60,
       "path": "wiki/countries/bulgaria.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2545,7 +2545,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 9,
+      "degree": 12,
       "path": "wiki/countries/chile.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2579,7 +2579,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 23,
+      "degree": 26,
       "path": "wiki/countries/colombia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2712,10 +2712,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The Czech Republic signed the Budapest Convention on Cybercrime on 9 February 2005 and deposited its instrument of ratification on 22 August 2013, becoming the 40th Party [1][2]. Ratification entered into force on 1 December 2013 [2]. Czech…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 15,
+      "degree": 19,
       "path": "wiki/countries/czech-republic.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2763,10 +2763,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Denmark is maintained as a country node for the cybercrime international-cooperation corpus. The current page is source-backed only to the level shown in the references below; it does not infer treaty status, cybercrime-unit authority, or MLAT…",
-      "source_count": 1,
+      "source_count": 3,
       "created": "2026-04-11",
       "updated": "2026-05-09",
-      "degree": 49,
+      "degree": 55,
       "path": "wiki/countries/denmark.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2800,7 +2800,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 7,
+      "degree": 10,
       "path": "wiki/countries/ecuador.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2900,10 +2900,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Finland is a Party to the Budapest Convention on Cybercrime, having signed on 23 November 2001 and ratified in May 2007 [1]. Finland signed the Second Additional Protocol (CETS 224) on 12 May 2022 as part of the initial group of 22 signatories [2].…",
-      "source_count": 6,
+      "source_count": 7,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 49,
+      "degree": 53,
       "path": "wiki/countries/finland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2918,10 +2918,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "France is a foundational partner in European cybercrime cooperation. It was one of the early ratifying parties to the Budapest Convention on Cybercrime (ratified 10 January 2006; entry into force 1 May 2006) and operates a mature 24/7 Point of…",
-      "source_count": 6,
+      "source_count": 8,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 120,
+      "degree": 126,
       "path": "wiki/countries/france.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2986,10 +2986,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Germany is a key pillar of European cybercrime cooperation. The Bundeskriminalamt (BKA) (germany-bka) and the specialized cybercrime prosecutor's office in Frankfurt (Zentralstelle zur Bekämpfung der Internetkriminalität, ZIT) have led or co-led…",
-      "source_count": 5,
+      "source_count": 7,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 209,
+      "degree": 215,
       "path": "wiki/countries/germany.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3021,10 +3021,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Hellenic Republic is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 27,
+      "degree": 33,
       "path": "wiki/countries/greece.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3124,7 +3124,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-03",
-      "degree": 14,
+      "degree": 16,
       "path": "wiki/countries/hong-kong.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3156,10 +3156,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Iceland is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-12",
       "updated": "2026-05-09",
-      "degree": 8,
+      "degree": 11,
       "path": "wiki/countries/iceland.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3193,7 +3193,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 22,
+      "degree": 24,
       "path": "wiki/countries/indonesia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3257,10 +3257,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Ireland is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-11",
       "updated": "2026-05-09",
-      "degree": 35,
+      "degree": 38,
       "path": "wiki/countries/ireland.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3514,7 +3514,7 @@
       "source_count": 0,
       "created": "2026-04-26",
       "updated": "2026-05-03",
-      "degree": 5,
+      "degree": 6,
       "path": "wiki/countries/macau.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3563,7 +3563,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 35,
+      "degree": 38,
       "path": "wiki/countries/malaysia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3580,7 +3580,7 @@
       "source_count": 0,
       "created": "2026-05-06",
       "updated": "2026-05-08",
-      "degree": 7,
+      "degree": 10,
       "path": "wiki/countries/maldives.md",
       "meta": {
         "legal_system": "not-assessed"
@@ -3593,10 +3593,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Republic of Malta is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-05-04",
       "updated": "2026-05-09",
-      "degree": 15,
+      "degree": 18,
       "path": "wiki/countries/malta.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3779,10 +3779,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The Netherlands is almost certainly the most operationally active European country for cybercrime takedowns relative to its size. The Dutch National Police (netherlands-politie), through its National High Tech Crime Unit (NHTCU), has been…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 174,
+      "degree": 177,
       "path": "wiki/countries/netherlands.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3881,10 +3881,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Kingdom of Norway is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 27,
+      "degree": 30,
       "path": "wiki/countries/norway.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3968,7 +3968,7 @@
       "source_count": 0,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 8,
+      "degree": 11,
       "path": "wiki/countries/peru.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3985,7 +3985,7 @@
       "source_count": 1,
       "created": "2026-04-20",
       "updated": "2026-05-09",
-      "degree": 20,
+      "degree": 23,
       "path": "wiki/countries/philippines.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4054,7 +4054,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 86,
+      "degree": 89,
       "path": "wiki/countries/romania.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4190,7 +4190,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 49,
+      "degree": 52,
       "path": "wiki/countries/singapore.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4257,7 +4257,7 @@
       "source_count": 23,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 129,
+      "degree": 137,
       "path": "wiki/countries/south-korea.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4289,10 +4289,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Spain is a key EU cybercrime cooperation partner, with two specialised national cyber investigation bodies operating in parallel: the Guardia Civil's Grupo de Delitos Telemáticos (GDT) — founded 1996 as one of Europe's earliest cybercrime units —…",
-      "source_count": 6,
+      "source_count": 7,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 123,
+      "degree": 129,
       "path": "wiki/countries/spain.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4340,10 +4340,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Kingdom of Sweden is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 70,
+      "degree": 73,
       "path": "wiki/countries/sweden.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4360,7 +4360,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 63,
+      "degree": 66,
       "path": "wiki/countries/switzerland.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4378,7 +4378,7 @@
       "source_count": 2,
       "created": "2026-04-17",
       "updated": "2026-05-09",
-      "degree": 11,
+      "degree": 14,
       "path": "wiki/countries/taiwan.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4414,7 +4414,7 @@
       "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 59,
+      "degree": 62,
       "path": "wiki/countries/thailand.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4529,10 +4529,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Ukraine is a Budapest Convention party since 2005 and has been one of the most operationally active eastern European cybercrime cooperation partners. The Cyberpolice of Ukraine (ukraine-police) — Department of Cyber Police within the National…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 60,
+      "degree": 64,
       "path": "wiki/countries/ukraine.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4564,10 +4564,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The United Kingdom is one of the most active countries in international cybercrime cooperation. The National Crime Agency (NCA), through its National Cyber Crime Unit (NCCU), led Operation Cronos against the LockBit ransomware group — almost…",
-      "source_count": 5,
+      "source_count": 7,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 225,
+      "degree": 234,
       "path": "wiki/countries/united-kingdom.md",
       "meta": {
         "legal_system": "common-law",
@@ -4585,7 +4585,7 @@
       "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 381,
+      "degree": 389,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -4717,10 +4717,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Bank Fraud - IC Perspective is a crime-type node used to group source-backed operations and cases by the cybercrime conduct at issue. Current corpus coverage links this node to 18 operation records, 22 case records, and 0 source records.…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 6,
+      "degree": 8,
       "path": "wiki/crime-types/bank-fraud-ic.md",
       "meta": {}
     },
@@ -4773,7 +4773,7 @@
       "source_count": 6,
       "created": "2026-04-08",
       "updated": "2026-04-08",
-      "degree": 50,
+      "degree": 51,
       "path": "wiki/crime-types/bec-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -4822,7 +4822,7 @@
       "source_count": 11,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 53,
+      "degree": 54,
       "path": "wiki/crime-types/csam-ic.md",
       "meta": {
         "crime_category": "content-related"
@@ -4842,7 +4842,7 @@
       "source_count": 7,
       "created": "2026-04-17",
       "updated": "2026-05-09",
-      "degree": 35,
+      "degree": 36,
       "path": "wiki/crime-types/cybercrime-forum-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -4858,10 +4858,10 @@
         "cybercrime service infrastructure"
       ],
       "summary": "Cybercrime infrastructure disruption covers actions against the services that make other crimes scalable: botnet loaders, proxy networks, bulletproof VPNs, credential shops, hosting clusters, malware-delivery domains, and command-and-control…",
-      "source_count": 21,
+      "source_count": 23,
       "created": "2026-04-17",
       "updated": "2026-05-09",
-      "degree": 77,
+      "degree": 81,
       "path": "wiki/crime-types/cybercrime-infrastructure-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -4879,10 +4879,10 @@
         "cyber-enabled stalking"
       ],
       "summary": "Cyberstalking covers repeated online or electronic communications, threats, harassment, coercion, impersonation, and related misuse of digital platforms against specific victims. In the international-cooperation corpus it is usually not a large…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-27",
       "updated": "2026-04-29",
-      "degree": 9,
+      "degree": 11,
       "path": "wiki/crime-types/cyberstalking-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5012,10 +5012,10 @@
         "audiovisual piracy"
       ],
       "summary": "Illegal IPTV and streaming piracy operations cover enforcement actions against services that capture, redistribute, resell, or broker access to protected live and on-demand audiovisual content without authorization. The conduct is cyber-enabled…",
-      "source_count": 14,
+      "source_count": 15,
       "created": "2026-05-04",
       "updated": "2026-05-08",
-      "degree": 51,
+      "degree": 55,
       "path": "wiki/crime-types/illegal-iptv-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5054,10 +5054,10 @@
         "자금세탁"
       ],
       "summary": "Money laundering — particularly cryptocurrency-enabled money laundering through mixing services, illicit exchanges, and obfuscation tooling — is a cross-cutting cybercrime enabler that converts the proceeds of nearly every other cybercrime category…",
-      "source_count": 40,
+      "source_count": 46,
       "created": "2026-04-14",
       "updated": "2026-05-09",
-      "degree": 141,
+      "degree": 153,
       "path": "wiki/crime-types/money-laundering-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5079,10 +5079,10 @@
         "business email compromise"
       ],
       "summary": "Online fraud encompasses a broad spectrum of cyber-enabled financial crimes, including voice phishing (보이스피싱), romance scams, business email compromise (BEC), investment fraud, online gambling fraud, and e-commerce fraud. From an international…",
-      "source_count": 58,
+      "source_count": 66,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 233,
+      "degree": 256,
       "path": "wiki/crime-types/online-fraud-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5095,10 +5095,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Organized Crime - IC Perspective is a crime-type node used to group source-backed operations and cases by the cybercrime conduct at issue. Current corpus coverage links this node to 2 operation records, 1 case records, and 0 source records.…",
-      "source_count": 11,
+      "source_count": 16,
       "created": "2026-04-18",
       "updated": "2026-05-09",
-      "degree": 20,
+      "degree": 27,
       "path": "wiki/crime-types/organized-crime-ic.md",
       "meta": {}
     },
@@ -5138,10 +5138,10 @@
         "illegal call center"
       ],
       "summary": "Voice phishing, vishing, and phone-enabled fraud are cyber-enabled fraud schemes in which criminals use telephone, VoIP, call-center, or remote-support channels to impersonate trusted parties and pressure victims into transferring funds,…",
-      "source_count": 24,
+      "source_count": 26,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 86,
+      "degree": 94,
       "path": "wiki/crime-types/voice-phishing-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5178,7 +5178,7 @@
       "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 149,
+      "degree": 151,
       "path": "wiki/legal-frameworks/budapest-convention.md",
       "meta": {
         "status": "in-force",
@@ -5393,7 +5393,7 @@
       "source_count": 1,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 1,
+      "degree": 2,
       "path": "wiki/legal-frameworks/korea-us-mlat.md",
       "meta": {
         "status": "in-force"
@@ -5620,7 +5620,7 @@
       "source_count": 2,
       "created": "2026-04-08",
       "updated": "2026-04-29",
-      "degree": 30,
+      "degree": 31,
       "path": "wiki/mechanisms/24-7-network.md",
       "meta": {
         "mechanism_type": "24-7-network",
@@ -5635,10 +5635,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Asset Freezing is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work. Current…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 46,
+      "degree": 48,
       "path": "wiki/mechanisms/asset-freezing.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5670,7 +5670,7 @@
       "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 4,
+      "degree": 5,
       "path": "wiki/mechanisms/capacity-building-ic.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5707,7 +5707,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-10",
-      "degree": 13,
+      "degree": 14,
       "path": "wiki/mechanisms/direct-provider-request.md",
       "meta": {
         "mechanism_type": "provider-disclosure",
@@ -5725,7 +5725,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 45,
+      "degree": 46,
       "path": "wiki/mechanisms/domain-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5738,10 +5738,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Electronic Evidence is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work.…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 60,
+      "degree": 63,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5791,10 +5791,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Eurojust Coordination Meeting is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 38,
+      "degree": 40,
       "path": "wiki/mechanisms/eurojust-coordination-meeting.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5807,10 +5807,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "European Arrest Warrant is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work.…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 18,
+      "degree": 20,
       "path": "wiki/mechanisms/european-arrest-warrant.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5823,10 +5823,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "European Investigation Order is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 22,
+      "degree": 25,
       "path": "wiki/mechanisms/european-investigation-order.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5869,7 +5869,7 @@
       "source_count": 2,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 41,
+      "degree": 42,
       "path": "wiki/mechanisms/europol-jit.md",
       "meta": {
         "mechanism_type": "joint-investigation-team",
@@ -5884,10 +5884,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Extradition is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work. Current…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 43,
+      "degree": 46,
       "path": "wiki/mechanisms/extradition.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5900,10 +5900,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Informal Police Cooperation is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 198,
+      "degree": 209,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5957,7 +5957,7 @@
       "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 12,
+      "degree": 13,
       "path": "wiki/mechanisms/interpol-i24-7.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5991,10 +5991,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Joint Investigation Team (JIT) is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 48,
+      "degree": 54,
       "path": "wiki/mechanisms/joint-investigation-team.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6031,7 +6031,7 @@
       "source_count": 2,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 59,
+      "degree": 62,
       "path": "wiki/mechanisms/mlat-process.md",
       "meta": {
         "mechanism_type": "formal-mlat",
@@ -6046,10 +6046,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Mutual Legal Assistance is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work.…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 100,
+      "degree": 106,
       "path": "wiki/mechanisms/mutual-legal-assistance.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6062,10 +6062,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Public-Private Cybercrime Cooperation is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 83,
+      "degree": 85,
       "path": "wiki/mechanisms/public-private-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6078,10 +6078,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Search and Seizure is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work.…",
-      "source_count": 4,
+      "source_count": 6,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 94,
+      "degree": 99,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6212,7 +6212,7 @@
       "source_count": 3,
       "created": "2026-05-08",
       "updated": "2026-05-09",
-      "degree": 33,
+      "degree": 35,
       "path": "wiki/operations/albania-austria-call-centre-investment-fraud-2026.md",
       "meta": {
         "status": "completed",
@@ -6503,6 +6503,31 @@
       }
     },
     {
+      "id": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "type": "operation",
+      "title": "Bulgaria–U.S. Coordinated Takedown of zamunda.net, arenabg.com, and zelka.org Piracy Sites (January 2026)",
+      "title_ko": "불가리아–미국 zamunda.net·arenabg.com·zelka.org 저작권 침해 사이트 단속 (2026년 1월)",
+      "aliases": [
+        "Zamunda ArenaBG Zelka takedown",
+        "Bulgarian torrent giants takedown 2026",
+        "DOJ Bulgaria piracy domain seizure 2026"
+      ],
+      "summary": "On Friday, 30 January 2026 the U.S. Department of Justice's Office of Public Affairs (press release 26-82) announced the coordinated U.S.–Bulgaria takedown of three of the largest internet piracy platforms in the European Union — zamunda.net,…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 41,
+      "path": "wiki/operations/bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "takedown",
+        "outcome": "success",
+        "results_arrests": 4,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "carbanak-cobalt-takedown",
       "type": "operation",
       "title": "Carbanak/Cobalt Mastermind Arrest",
@@ -6538,7 +6563,7 @@
       "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-04-27",
-      "degree": 68,
+      "degree": 69,
       "path": "wiki/operations/carding-action-2020.md",
       "meta": {
         "status": "completed",
@@ -6612,7 +6637,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 58,
+      "degree": 61,
       "path": "wiki/operations/cross-border-online-cse-operation-spf-2026.md",
       "meta": {
         "status": "completed",
@@ -6662,7 +6687,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 33,
+      "degree": 34,
       "path": "wiki/operations/crypto-investment-fraud-spain-460m-takedown-2025.md",
       "meta": {
         "status": "completed",
@@ -6832,7 +6857,7 @@
       "source_count": 3,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 44,
+      "degree": 46,
       "path": "wiki/operations/dnipro-fraudulent-call-centre-takedown-2026.md",
       "meta": {
         "status": "completed",
@@ -6958,7 +6983,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 52,
+      "degree": 53,
       "path": "wiki/operations/eurojust-100m-crypto-investment-fraud-takedown-2025.md",
       "meta": {
         "status": "completed",
@@ -7092,6 +7117,32 @@
       }
     },
     {
+      "id": "frontier-plus-cross-border-anti-scam-2025",
+      "type": "operation",
+      "title": "FRONTIER+ First Joint Cross-Border Anti-Scam Operation (2025)",
+      "title_ko": null,
+      "aliases": [
+        "FRONTIER+ Operation 2025",
+        "Operation FRONTIER+ April-May 2025",
+        "HK-led FRONTIER+ first joint operation",
+        "Cross-border Anti-Scam Collaboration Platform first joint operation"
+      ],
+      "summary": "Between 28 April and 28 May 2025, the Hong Kong Police Force led the first joint enforcement operation conducted under the Cross-border Anti-Scam Collaboration Platform \"FRONTIER+\", working with police forces of Malaysia, the Maldives, Singapore,…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 48,
+      "path": "wiki/operations/frontier-plus-cross-border-anti-scam-2025.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "arrest-sweep",
+        "outcome": "success",
+        "results_arrests": 1858,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "global-airport-action-day",
       "type": "operation",
       "title": "Global Airport Action Day",
@@ -7132,6 +7183,32 @@
         "operation_type": "joint-investigation",
         "outcome": "success",
         "results_arrests": 10,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "greek-daoe-crypto-investment-fraud-2026",
+      "type": "operation",
+      "title": "Hellenic Police DAOE Cryptocurrency-Investment Ponzi Takedown (2026)",
+      "title_ko": null,
+      "aliases": [
+        "DAOE crypto investment fraud takedown",
+        "Δ.Α.Ο.Ε. εξάρθρωση κρυπτονομισμάτων 2026",
+        "Greek FBI €14.5M crypto fraud bust"
+      ],
+      "summary": "On the morning of 2026-03-05, the Hellenic Police Department for the Confrontation of Organised Crime of Crete (Τ.Α.Ο.Ε.Κ. Κρήτης), operating within the Directorate for the Confrontation of Organised Crime (Δ.Α.Ο.Ε.), dismantled a transnational…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 42,
+      "path": "wiki/operations/greek-daoe-crypto-investment-fraud-2026.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "standalone",
+        "source_tier": 1,
+        "operation_type": "takedown",
+        "outcome": "success",
+        "results_arrests": 12,
         "operation_scope": "canonical_operation"
       }
     },
@@ -7204,6 +7281,32 @@
         "source_tier": 1,
         "operation_type": "takedown",
         "outcome": "success",
+        "results_arrests": 2,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "type": "operation",
+      "title": "Indonesia INP-FBI MFA-Bypass Phishing Syndicate Takedown (2026)",
+      "title_ko": "INP-FBI MFA 우회 피싱 신디케이트 검거 (2026)",
+      "aliases": [
+        "INP FBI Jakarta phishing arrest 2026",
+        "GWL FYT Jakarta MFA-bypass phishing",
+        "Indonesia $20 million phishing syndicate 2026"
+      ],
+      "summary": "On Wednesday, 22 April 2026, the Indonesian National Police (Kepolisian Negara Republik Indonesia, \"Polri\") through its Criminal Investigation Agency (Badan Reserse Kriminal, \"Bareskrim\") arrested an Indonesian couple in Jakarta in a cross-border…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 31,
+      "path": "wiki/operations/indonesia-fbi-mfa-bypass-phishing-syndicate-2026.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "standalone",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "partial",
         "results_arrests": 2,
         "operation_scope": "canonical_operation"
       }
@@ -7303,7 +7406,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 73,
+      "degree": 74,
       "path": "wiki/operations/knpa-breaking-chains-2nd-international-operation-meeting-2026.md",
       "meta": {
         "status": "ongoing",
@@ -7328,7 +7431,7 @@
       "source_count": 1,
       "created": "2026-05-08",
       "updated": "2026-05-09",
-      "degree": 69,
+      "degree": 74,
       "path": "wiki/operations/korea-cambodia-philippines-73-extradition-2026.md",
       "meta": {
         "status": "completed",
@@ -7349,7 +7452,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 70,
+      "degree": 71,
       "path": "wiki/operations/korea-cambodia-scam-repatriation.md",
       "meta": {
         "status": "ongoing",
@@ -7400,7 +7503,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 87,
+      "degree": 88,
       "path": "wiki/operations/labhost-phishing-as-a-service-takedown-2024.md",
       "meta": {
         "status": "completed",
@@ -7547,7 +7650,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 27,
+      "degree": 28,
       "path": "wiki/operations/mexico-yucatan-nayarit-csam-afp-fgr-2026.md",
       "meta": {
         "status": "ongoing",
@@ -7658,6 +7761,57 @@
       }
     },
     {
+      "id": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "type": "operation",
+      "title": "OAG/fedpol Real-Time Phishing Joint Investigation - UK Conviction (2025)",
+      "title_ko": null,
+      "aliases": [
+        "OAG fedpol UK phishing kit conviction",
+        "Swiss-UK real-time phishing case",
+        "English student Swiss phishing kit case"
+      ],
+      "summary": "A joint criminal investigation by the Office of the Attorney General of Switzerland (OAG / Bundesanwaltschaft) and the Federal Office of Police (fedpol) identified a British national as the developer and distributor of a phishing kit used in a…",
+      "source_count": 3,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 31,
+      "path": "wiki/operations/oag-fedpol-real-time-phishing-uk-conviction-2025.md",
+      "meta": {
+        "status": "completed",
+        "operation_role": "standalone",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "success",
+        "results_arrests": 1,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "type": "operation",
+      "title": "Operación KAERB — iServer phishing-as-a-service platform takedown (announced September 2024)",
+      "title_ko": null,
+      "aliases": [
+        "Operation Kaerb",
+        "iServer takedown 2024",
+        "PAcCTO 2.0 / AMERIPOL / EUROPOL six-country phone-unlock phishing takedown"
+      ],
+      "summary": "On 24 September 2024, the Argentine Ministry of Security (Ministerio de Seguridad de la Nación) and the Europol–Argentina–Spain–Colombia–Chile–Ecuador–Peru coalition announced the takedown of the iServer phishing-as-a-service platform in a…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 41,
+      "path": "wiki/operations/operacion-kaerb-iserver-phishing-as-a-service-takedown-2024.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "takedown",
+        "outcome": "success",
+        "results_arrests": 17,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
       "type": "operation",
       "title": "Operation Secreto Follow-On Action",
@@ -7719,7 +7873,7 @@
       "source_count": 3,
       "created": "2026-05-04",
       "updated": "2026-05-08",
-      "degree": 36,
+      "degree": 38,
       "path": "wiki/operations/operation-404-digital-piracy-2019.md",
       "meta": {
         "status": "ongoing",
@@ -8572,7 +8726,7 @@
       "source_count": 1,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 80,
+      "degree": 81,
       "path": "wiki/operations/operation-endgame-phase3.md",
       "meta": {
         "status": "completed",
@@ -8621,7 +8775,7 @@
       "source_count": 5,
       "created": "2026-04-19",
       "updated": "2026-04-27",
-      "degree": 72,
+      "degree": 74,
       "path": "wiki/operations/operation-eur-100m-crypto-investment-fraud-2025.md",
       "meta": {
         "status": "completed",
@@ -8693,7 +8847,7 @@
       "source_count": 5,
       "created": "2026-04-19",
       "updated": "2026-04-27",
-      "degree": 71,
+      "degree": 73,
       "path": "wiki/operations/operation-eur-3m-online-investment-fraud-2025.md",
       "meta": {
         "status": "ongoing",
@@ -8717,7 +8871,7 @@
       "source_count": 5,
       "created": "2026-04-19",
       "updated": "2026-04-27",
-      "degree": 61,
+      "degree": 63,
       "path": "wiki/operations/operation-eur-600m-crypto-scam-network-2025.md",
       "meta": {
         "status": "completed",
@@ -9517,6 +9671,30 @@
       }
     },
     {
+      "id": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "type": "operation",
+      "title": "Operation OCTOPUS — Czech-Ukrainian Investment-Fraud Call-Centre Takedown (2025)",
+      "title_ko": null,
+      "aliases": [
+        "Operace OCTOPUS",
+        "OCTOPUS investment fraud Kyiv 2025"
+      ],
+      "summary": "Operation OCTOPUS was an investment-fraud call-centre takedown coordinated by Eurojust through a bilateral Joint Investigation Team between the Czech Republic and Ukraine. The Czech National Centre Against Terrorism, Extremism and Cybercrime…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 48,
+      "path": "wiki/operations/operation-octopus-investment-fraud-czechia-ukraine-2025.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "takedown",
+        "outcome": "success",
+        "results_arrests": 17,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "operation-onymous",
       "type": "operation",
       "title": "Operation Onymous",
@@ -9615,6 +9793,33 @@
       }
     },
     {
+      "id": "operation-otf-grimm",
+      "type": "operation",
+      "title": "Operational Taskforce GRIMM (OTF GRIMM) — Sweden-led Europol Taskforce on Violence-as-a-Service",
+      "title_ko": "OTF GRIMM 작전 — 스웨덴 주도 유로폴 폭력 대행 서비스 대응 태스크포스",
+      "aliases": [
+        "OTF GRIMM",
+        "Operation GRIMM",
+        "Operational Taskforce GRIMM",
+        "Europol GRIMM taskforce",
+        "violence-as-a-service taskforce"
+      ],
+      "summary": "Operational Taskforce GRIMM (OTF GRIMM) is the Sweden-led, Europol-coordinated international cooperation against violence-as-a-service (VaaS) — the model in which serious organised-crime principals outsource physical violence (intimidation,…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 91,
+      "path": "wiki/operations/operation-otf-grimm.md",
+      "meta": {
+        "status": "ongoing",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "ongoing",
+        "results_arrests": 280,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "operation-pangea-xvii",
       "type": "operation",
       "title": "Operation Pangea XVII",
@@ -9676,7 +9881,7 @@
       "source_count": 3,
       "created": "2026-05-04",
       "updated": "2026-05-04",
-      "degree": 39,
+      "degree": 40,
       "path": "wiki/operations/operation-perfect-storm-pay-tv-piracy-2019.md",
       "meta": {
         "status": "completed",
@@ -10140,7 +10345,7 @@
       "source_count": 3,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 64,
+      "degree": 65,
       "path": "wiki/operations/operation-switch-off-illegal-iptv-2026.md",
       "meta": {
         "status": "completed",
@@ -10936,6 +11141,32 @@
       }
     },
     {
+      "id": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "type": "operation",
+      "title": "Seoul Eastern District Prosecutors' Office — Clark (Philippines) Voice-Phishing Call-Centre On-Site Arrest, Extradition, and Indictment (2025-2026)",
+      "title_ko": "서울동부지검 합수부 — 필리핀 클락 보이스피싱 콜센터 4명 현장 검거·강제송환·구속기소 (2025–2026)",
+      "aliases": [
+        "Clark Philippines voice phishing 4-arrest 2026",
+        "필리핀 클락 보이스피싱 4명 검거 송환 2026",
+        "서울동부지검 합동수사부 필리핀 작전 2026",
+        "review-task voice phishing scam Clark Philippines 2025"
+      ],
+      "summary": "On 2026-04-30 the Seoul Eastern District Prosecutors' Office (대검찰청 subordinate office) Voice-Phishing Joint Investigation Unit (보이스피싱범죄 합동수사부, 부장검사 이태순; \"합수부\") announced the on-site arrest in Clark, Philippines of 4 Korean-national voice-phishing…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 39,
+      "path": "wiki/operations/seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "success",
+        "results_arrests": 4,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "sg-th-altdos-desorden-ghostr-takedown-2025",
       "type": "operation",
       "title": "Singapore-Thailand Joint Arrest of ALTDOS / DESORDEN / GHOSTR / 0mid16B Data-Breach-Extortion Threat Actor (SPF + Royal Thai Police, 26 February 2025)",
@@ -11484,7 +11715,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 69,
+      "degree": 70,
       "path": "wiki/operations/tycoon-2fa-phishing-as-a-service-takedown-2026.md",
       "meta": {
         "status": "completed",
@@ -11531,7 +11762,7 @@
       "source_count": 3,
       "created": "2026-05-08",
       "updated": "2026-05-08",
-      "degree": 43,
+      "degree": 46,
       "path": "wiki/operations/ukraine-fraudulent-call-centres-takedown-2025.md",
       "meta": {
         "status": "completed",
@@ -11672,6 +11903,32 @@
       }
     },
     {
+      "id": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "type": "operation",
+      "title": "U.S.-Taiwan Cross-Border Elder/Romance Financial Fraud Takedown — First In-Country MLAA Proffer (2025)",
+      "title_ko": "미국-대만 노인 대상 로맨스 금융사기 망 와해 — 2002년 MLAA 체결 후 첫 미국 현지 신문 (2025)",
+      "aliases": [
+        "AIT PR-2510 Taiwan-US elder fraud takedown",
+        "TTDPO Taichung-HSI Liao Huang romance fraud 2025",
+        "Taiwan CIB-HSI MLAA proffer interview 2025",
+        "U.S.-Taiwan MLAA first prosecutor on-site interview 2025"
+      ],
+      "summary": "On 14 May 2025, the United States (through the American Institute in Taiwan, AIT) and Taiwan (through the Taiwan Taichung District Prosecutors Office, the National Police Agency Criminal Investigation Bureau, and the Ministry of Justice) jointly…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 23,
+      "path": "wiki/operations/us-taiwan-elder-romance-fraud-mlaa-takedown-2025.md",
+      "meta": {
+        "status": "ongoing",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "partial",
+        "results_arrests": 1,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "us-uk-prince-group-tco-huione-group-sanctions-2025",
       "type": "operation",
       "title": "US-UK Largest-Ever Sanctions Action Against Southeast Asia Cybercriminal Networks (Prince Group TCO + Huione Group, 2025-10-14)",
@@ -11736,7 +11993,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 28,
+      "degree": 29,
       "path": "wiki/operations/veriftools-fake-id-marketplace-followup-arrests-2026.md",
       "meta": {
         "status": "ongoing",
@@ -11787,7 +12044,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 31,
+      "degree": 33,
       "path": "wiki/operations/w3ll-phishing-kit-takedown-2026.md",
       "meta": {
         "status": "completed",
@@ -12074,10 +12331,10 @@
       "title_ko": "",
       "aliases": [],
       "summary": "The Federal Computer Crime Unit (FCCU) is Belgium's specialized national cybercrime police unit within the federal judicial police structure. It sits inside the broader serious-and-organized-crime directorate and provides Belgium's national-level…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 15,
+      "degree": 17,
       "path": "wiki/organizations/belgium-federal-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -12117,7 +12374,7 @@
       "source_count": 2,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 9,
+      "degree": 13,
       "path": "wiki/organizations/bulgaria-ministry-of-interior.md",
       "meta": {
         "org_type": "ministry",
@@ -12134,7 +12391,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 17,
+      "degree": 21,
       "path": "wiki/organizations/bulgaria-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -12403,10 +12660,10 @@
       "title_ko": "체코 국립 테러·극단주의·사이버범죄 대응센터",
       "aliases": [],
       "summary": "The National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK — Národní centrála proti terorismu, extremismu a kybernetické kriminalitě) is a national-competence unit of the Police of the Czech Republic that consolidates Czech law…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-05-08",
-      "degree": 15,
+      "degree": 20,
       "path": "wiki/organizations/czechia-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -12456,10 +12713,10 @@
       "title_ko": "덴마크 국립사이버범죄센터 (NC3) / 특수범죄국 (NSK)",
       "aliases": [],
       "summary": "The National Cyber Crime Center (NC3 — Nationalt Cyber Crime Center) is Denmark's specialized cybercrime center, embedded within the National Special Crime Unit (NSK — National enhed for Særlig Kriminalitet). NSK was created on January 1, 2022 by…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-05-08",
-      "degree": 20,
+      "degree": 24,
       "path": "wiki/organizations/denmark-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -12553,10 +12810,10 @@
       "title_ko": "유럽연합 형사사법협력기구 (유로저스트)",
       "aliases": [],
       "summary": "Eurojust (유로저스트) is the European Union Agency for Criminal Justice Cooperation, headquartered in The Hague alongside Europol EC3. Established in 2002, Eurojust provides the judicial coordination dimension of cross-border criminal investigations.…",
-      "source_count": 9,
+      "source_count": 10,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 302,
+      "degree": 314,
       "path": "wiki/organizations/eurojust.md",
       "meta": {
         "org_type": "regional-org",
@@ -12572,10 +12829,10 @@
       "title_ko": "유럽사이버범죄센터",
       "aliases": [],
       "summary": "The European Cybercrime Centre (EC3) is Europol's dedicated unit for combating cybercrime across the EU. Established in January 2013, it serves as the central coordination hub for major EU cybercrime operations, providing analytical, forensic, and…",
-      "source_count": 9,
+      "source_count": 10,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 538,
+      "degree": 556,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -12630,7 +12887,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-05-09",
-      "degree": 227,
+      "degree": 230,
       "path": "wiki/organizations/fbi.md",
       "meta": {
         "org_type": "national-agency",
@@ -12650,10 +12907,10 @@
         "KRP"
       ],
       "summary": "The Finnish National Bureau of Investigation (Keskusrikospoliisi, KRP; English: National Bureau of Investigation, NBI) is Finland's national criminal investigation agency under the Ministry of the Interior. In the public IC corpus the agency is…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-05-08",
       "updated": "2026-05-09",
-      "degree": 15,
+      "degree": 18,
       "path": "wiki/organizations/finland-nbi.md",
       "meta": {
         "org_type": "national-agency",
@@ -12703,10 +12960,10 @@
       "title_ko": "프랑스 국가헌병대 사이버범죄 대응 센터 (C3N)",
       "aliases": [],
       "summary": "The Centre de lutte contre les criminalités numériques (C3N) is the French Gendarmerie's national judicial cybercrime unit. It sits inside the broader Gendarmerie cyber architecture and operates as one of the main state bodies handling higher-end…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 36,
+      "degree": 40,
       "path": "wiki/organizations/france-gendarmerie.md",
       "meta": {
         "org_type": "national-unit",
@@ -12830,10 +13087,10 @@
       "title_ko": "독일 연방형사경찰청",
       "aliases": [],
       "summary": "The Bundeskriminalamt (BKA) is Germany's federal criminal police, headquartered in Wiesbaden. It serves as INTERPOL NCB Germany and as Germany's central Europol National Unit, making it the primary coordination point for all international law…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 150,
+      "degree": 153,
       "path": "wiki/organizations/germany-bka.md",
       "meta": {
         "org_type": "national-agency",
@@ -12907,7 +13164,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 28,
+      "degree": 31,
       "path": "wiki/organizations/group-ib.md",
       "meta": {
         "org_type": "private-sector-partner",
@@ -12928,7 +13185,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 6,
+      "degree": 11,
       "path": "wiki/organizations/hong-kong-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -13000,7 +13257,7 @@
       "source_count": 2,
       "created": "2026-04-17",
       "updated": "2026-05-09",
-      "degree": 12,
+      "degree": 17,
       "path": "wiki/organizations/indonesia-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -13071,7 +13328,7 @@
       "source_count": 4,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 147,
+      "degree": 150,
       "path": "wiki/organizations/interpol.md",
       "meta": {
         "org_type": "international-org",
@@ -13288,7 +13545,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 48,
+      "degree": 53,
       "path": "wiki/organizations/knpa.md",
       "meta": {
         "org_type": "national-agency",
@@ -13387,7 +13644,7 @@
       "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 15,
+      "degree": 16,
       "path": "wiki/organizations/malaysia-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -13502,7 +13759,7 @@
       "source_count": 2,
       "created": "2026-04-26",
       "updated": "2026-05-08",
-      "degree": 16,
+      "degree": 20,
       "path": "wiki/organizations/ministry-of-justice-korea.md",
       "meta": {
         "org_type": "ministry",
@@ -13721,10 +13978,10 @@
       "title_ko": "",
       "aliases": [],
       "summary": "The Team High Tech Crime (THTC) is the Dutch police's core national cybercrime investigation team. It is one of the most visible and operationally central cybercrime units in Europe and appears repeatedly in major multinational disruptions…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 128,
+      "degree": 131,
       "path": "wiki/organizations/netherlands-politie.md",
       "meta": {
         "org_type": "national-unit",
@@ -13775,10 +14032,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Kripos is retained as an organization node in the international cybercrime cooperation graph. The current mandate field records: Norway's National Criminal Investigation Service and parent structure for the national cybercrime center. Country or…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 8,
+      "degree": 12,
       "path": "wiki/organizations/norway-kripos.md",
       "meta": {
         "org_type": "national-unit",
@@ -13875,7 +14132,7 @@
       "source_count": 1,
       "created": "2026-05-08",
       "updated": "2026-05-09",
-      "degree": 8,
+      "degree": 10,
       "path": "wiki/organizations/philippine-national-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -14078,7 +14335,7 @@
       "source_count": 3,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 19,
+      "degree": 22,
       "path": "wiki/organizations/royal-malaysia-police.md",
       "meta": {
         "org_type": "national-police",
@@ -14188,7 +14445,7 @@
       "source_count": 7,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 33,
+      "degree": 36,
       "path": "wiki/organizations/singapore-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -14248,7 +14505,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 30,
+      "degree": 33,
       "path": "wiki/organizations/spain-guardia-civil.md",
       "meta": {
         "org_type": "national-unit",
@@ -14264,10 +14521,10 @@
       "title_ko": "",
       "aliases": [],
       "summary": "The Spanish National Police is one of Spain's two core national cybercrime actors. Its Brigada Central de Investigacion Tecnologica (BCIT) is the specialized unit that addresses a broad range of cyber-enabled crime, including child-exploitation…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 44,
+      "degree": 51,
       "path": "wiki/organizations/spain-national-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -14309,7 +14566,7 @@
       "source_count": 9,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 18,
+      "degree": 21,
       "path": "wiki/organizations/spo-international-cooperation.md",
       "meta": {
         "org_type": "prosecution-office",
@@ -14333,7 +14590,7 @@
       "source_count": 7,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 18,
+      "degree": 24,
       "path": "wiki/organizations/supreme-prosecutors-office-korea.md",
       "meta": {
         "org_type": "prosecution-office",
@@ -14349,10 +14606,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The Nationellt IT-brottscentrum — National IT Crime Centre, also branded SC3 (Swedish Cybercrime Centre) and more recently NC3 — began operations on 1 October 2015 as the Swedish Police Authority's expert function for investigating complex…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 34,
+      "degree": 39,
       "path": "wiki/organizations/sweden-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -14371,7 +14628,7 @@
       "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 24,
+      "degree": 28,
       "path": "wiki/organizations/switzerland-fedpol.md",
       "meta": {
         "org_type": "national-agency",
@@ -14456,7 +14713,7 @@
       "source_count": 8,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 32,
+      "degree": 35,
       "path": "wiki/organizations/thailand-royal-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -14524,10 +14781,10 @@
       "title_ko": "영국 국가범죄수사국",
       "aliases": [],
       "summary": "The National Crime Agency (NCA) is the United Kingdom's lead law enforcement agency for tackling serious and organised crime. Established on 7 October 2013, replacing the Serious Organised Crime Agency (SOCA), the NCA has a broad mandate covering…",
-      "source_count": 13,
+      "source_count": 14,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 188,
+      "degree": 194,
       "path": "wiki/organizations/uk-nca.md",
       "meta": {
         "org_type": "national-agency",
@@ -14543,10 +14800,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The Cyber Police Department of the National Police of Ukraine (Департамент кіберполіції Національної поліції України) was established during the 2015 Ukrainian internal affairs reform. It was formally created under Ministry of Internal Affairs…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-05-08",
-      "degree": 28,
+      "degree": 32,
       "path": "wiki/organizations/ukraine-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -14565,10 +14822,10 @@
         "Sluzhba bezpeky Ukrainy"
       ],
       "summary": "The Security Service of Ukraine (SBU) is recorded here because the FBI's public Operation Trident Breach release explicitly names SBU participation in the 2010 Zeus/Jabber Zeus banking-theft operation. The SBU detained five individuals on 30…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-05-07",
       "updated": "2026-05-09",
-      "degree": 16,
+      "degree": 20,
       "path": "wiki/organizations/ukraine-sbu.md",
       "meta": {
         "org_type": "national-security-agency",
@@ -14681,7 +14938,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 333,
+      "degree": 334,
       "path": "wiki/organizations/us-doj.md",
       "meta": {
         "org_type": "national-agency",
@@ -14810,7 +15067,7 @@
       "source_count": 3,
       "created": "2026-04-17",
       "updated": "2026-04-29",
-      "degree": 37,
+      "degree": 42,
       "path": "wiki/organizations/usdoj.md",
       "meta": {
         "org_type": "national-agency",
@@ -20199,6 +20456,20 @@
       "meta": {}
     },
     {
+      "id": "2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown",
+      "type": "source",
+      "title": "Argentine Ministry of Security / Policía Federal Argentina press release: Desarticulamos una red internacional de ciberdelincuentes (Operación KAERB — iServer phishing-as-a-service takedown)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Profile This is an institutional press release dated 24 September 2024, published on the Government of Argentina's official portal (argentina.gob.ar) under the Ministerio de Seguridad Nacional / Policía Federal Argentina path. It…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 3,
+      "path": "wiki/sources/2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown.md",
+      "meta": {}
+    },
+    {
       "id": "2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc",
       "type": "source",
       "title": "OFAC Designates Russian Exchange Cryptex, FinCEN names PM2BTC",
@@ -22033,6 +22304,20 @@
       "meta": {}
     },
     {
+      "id": "2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network",
+      "type": "source",
+      "title": "United States and Taiwan Collaborate to Dismantle International Financial Fraud Network (AIT PR-2510)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Official press release PR-2510 issued by the American Institute in Taiwan (AIT) on 2025-05-14, announcing the joint U.S.-Taiwan dismantling of a Taiwanese-led financial-fraud network that targeted elderly victims across the United States and…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 5,
+      "path": "wiki/sources/2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network.md",
+      "meta": {}
+    },
+    {
       "id": "2025-05-15_eucrim_pedophile-platform-kidflix-shut-down",
       "type": "source",
       "title": "Pedophile Platform 'Kidflix' Shut Down",
@@ -22352,6 +22637,20 @@
       "updated": null,
       "degree": 8,
       "path": "wiki/sources/2025-06-01_therecord-media_us-and-netherlands-take-down-bidencash-cybercrime-marketplace-infrastructure.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025",
+      "type": "source",
+      "title": "Hong Kong Police conducts cross-border anti-scam operation with six countries and regions (FRONTIER+ first joint operation)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Official Hong Kong SAR Government Information Services press release (P2025060300475) of 2025-06-03 reporting the results of the first joint operation conducted under the Cross-border Anti-Scam Collaboration Platform \"FRONTIER+\", executed…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 5,
+      "path": "wiki/sources/2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025.md",
       "meta": {}
     },
     {
@@ -22800,6 +23099,20 @@
       "updated": "2026-04-23",
       "degree": 1,
       "path": "wiki/sources/2025-07-28_techradar-com_top-ransomware-group-blacksuit-has-dark-web-extortion-sites-seized-and-shut-down.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-07-29_oag-fedpol_real-time-phishing-uk-conviction",
+      "type": "source",
+      "title": "Cybercrime: International investigations by the OAG and fedpol result in conviction for real-time phishing in the UK",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Official press release issued on 29 July 2025 by the Office of the Attorney General of Switzerland (Bundesanwaltschaft / Ministère public de la Confédération / Ministero pubblico della Confederazione, \"OAG\"), in cooperation with…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 4,
+      "path": "wiki/sources/2025-07-29_oag-fedpol_real-time-phishing-uk-conviction.md",
       "meta": {}
     },
     {
@@ -23657,6 +23970,20 @@
       "meta": {}
     },
     {
+      "id": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "type": "source",
+      "title": "Mezinárodní operace OCTOPUS a CONNECT (NCTEKK)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Czech Police press release dated 2025-12-16 jointly announcing two Eurojust-coordinated international operations against fraudulent call centres in Ukraine. Operation OCTOPUS (concluded 2025-11-20) targeted an investment-fraud network and produced…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 13,
+      "path": "wiki/sources/2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv.md",
+      "meta": {}
+    },
+    {
       "id": "2025-12-17_01net_ukraine-call-center-10m-fraud",
       "type": "source",
       "title": "Phone scams: criminal call center stole more than EUR 10 million from 400 people",
@@ -23808,6 +24135,20 @@
       "updated": "2026-05-08",
       "degree": 4,
       "path": "wiki/sources/2026-01-29_ace_operation-switch-off-illegal-iptv-ring.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "type": "source",
+      "title": "U.S. Law Enforcement Assists Bulgarian Law Enforcement in Taking Down Three of the Largest Piracy Sites in The European Union",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary US Department of Justice Office of Public Affairs press release 26-82, dated Friday, 30 January 2026, announcing that the U.S. government executed seizure warrants against three U.S.-registered internet domains — zamunda.net,…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 11,
+      "path": "wiki/sources/2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown.md",
       "meta": {}
     },
     {
@@ -24074,6 +24415,20 @@
       "updated": "2026-05-08",
       "degree": 2,
       "path": "wiki/sources/2026-03-05_petersandpeters_operation-eclipse-60-arrests.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown",
+      "type": "source",
+      "title": "Hellenic Police DAOE: Dismantling of Cryptocurrency-Investment Fraud Organisation – 12 Arrests (2026-03-06)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source - Publisher: Hellenic Police Headquarters (Αρχηγείο Ελληνικής Αστυνομίας) — official \"ΔΕΛΤΙΟ ΤΥΠΟΥ\" (press release) - URL: - Published: 2026-03-06 (Athens). Action day: 2026-03-05. - Language: Greek (el) - Source Tier: 1 (national…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 5,
+      "path": "wiki/sources/2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown.md",
       "meta": {}
     },
     {
@@ -24777,6 +25132,20 @@
       "meta": {}
     },
     {
+      "id": "2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate",
+      "type": "source",
+      "title": "INP and FBI Uncover Global Phishing Syndicate Responsible for $20 Million Loss",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Profile This is an English-language press release on the official newsroom of the Indonesian National Police (Kepolisian Negara Republik Indonesia, \"Polri\"), at inp.polri.go.id, dated 23 April 2026. The byline (mg/inp/pr/rs) identifies it…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 4,
+      "path": "wiki/sources/2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate.md",
+      "meta": {}
+    },
+    {
       "id": "2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network",
       "type": "source",
       "title": "Treasury Sanctions Cambodian Senator Kok An and Scam Center Network Defrauding Americans",
@@ -24889,6 +25258,20 @@
       "meta": {}
     },
     {
+      "id": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
+      "type": "source",
+      "title": "OTF GRIMM one-year anniversary: violence-as-a-service targets published on EU Most Wanted – 280 arrests in one year as Europe targets the architects of violence-as-a-service",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Europol newsroom announcement marking the one-year anniversary of Operational Taskforce GRIMM (OTF GRIMM), the Sweden-led, Europol-coordinated international cooperation against violence-as-a-service (VaaS) — the model in which serious…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 12,
+      "path": "wiki/sources/2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests.md",
+      "meta": {}
+    },
+    {
       "id": "2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests",
       "type": "source",
       "title": "Coordinated Takedown of Scam Centers Leads to at Least 276 Arrests; Alleged Managers and Recruiters Charged in San Diego",
@@ -24928,6 +25311,20 @@
       "updated": null,
       "degree": 13,
       "path": "wiki/sources/2026-04-30_justice-gov_versus-project-creator-extradited-colombia.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition",
+      "type": "source",
+      "title": "서울동부지검 합동수사부 — 필리핀 클락(Clark) 보이스피싱 콜센터 4명 현장 검거·강제송환·구속기소",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Tier-1 Korean-language primary press release issued by the Seoul Eastern District Prosecutors' Office (대검찰청 subordinate office) on 2026-04-30 (10:00 embargo), announcing the arrest, forced repatriation, and indictment-in-custody…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 8,
+      "path": "wiki/sources/2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition.md",
       "meta": {}
     },
     {
@@ -51674,6 +52071,12 @@
     },
     {
       "source": "argentina",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "argentina",
       "target": "operation-orion-international",
       "kind": "body",
       "directed": false
@@ -52148,6 +52551,12 @@
     },
     {
       "source": "belgium",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "belgium",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -52155,6 +52564,12 @@
     {
       "source": "belgium",
       "target": "second-additional-protocol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "belgium",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
       "kind": "body",
       "directed": false
     },
@@ -52358,6 +52773,18 @@
     },
     {
       "source": "bulgaria",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "bulgaria",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "bulgaria",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -52365,6 +52792,12 @@
     {
       "source": "bulgaria",
       "target": "second-additional-protocol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria",
+      "target": "2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown",
       "kind": "body",
       "directed": false
     },
@@ -52550,6 +52983,12 @@
     },
     {
       "source": "chile",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "chile",
       "target": "operation-orion-international",
       "kind": "body",
       "directed": false
@@ -52712,6 +53151,12 @@
     },
     {
       "source": "colombia",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "colombia",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -52868,7 +53313,19 @@
     },
     {
       "source": "czech-republic",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "czech-republic",
       "target": "budapest-convention",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "czech-republic",
+      "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
       "kind": "body",
       "directed": false
     },
@@ -52941,6 +53398,18 @@
     {
       "source": "denmark",
       "target": "operation-fever-cbzc-eu-presidency-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "denmark",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "denmark",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -53025,6 +53494,12 @@
     {
       "source": "ecuador",
       "target": "operation-orion-international",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ecuador",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
       "kind": "operations_participated",
       "directed": true
     },
@@ -53186,6 +53661,12 @@
     },
     {
       "source": "finland",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "finland",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -53193,6 +53674,12 @@
     {
       "source": "finland",
       "target": "second-additional-protocol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "finland",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
       "kind": "body",
       "directed": false
     },
@@ -53319,6 +53806,18 @@
     {
       "source": "france",
       "target": "crypto-investment-fraud-spain-460m-takedown-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -53636,6 +54135,18 @@
     },
     {
       "source": "germany",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany",
       "target": "germany-bka",
       "kind": "body",
       "directed": false
@@ -53732,6 +54243,18 @@
     },
     {
       "source": "greece",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "greece",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "greece",
       "target": "operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto",
       "kind": "body",
       "directed": false
@@ -53787,6 +54310,12 @@
     {
       "source": "hong-kong",
       "target": "cross-border-online-cse-operation-spf-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "hong-kong",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -53875,6 +54404,12 @@
       "directed": true
     },
     {
+      "source": "iceland",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "india",
       "target": "operation-haechi-vi",
       "kind": "operations_participated",
@@ -53913,6 +54448,12 @@
     {
       "source": "indonesia",
       "target": "w3ll-phishing-kit-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "indonesia",
+      "target": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -53985,6 +54526,12 @@
     {
       "source": "ireland",
       "target": "operation-fever-cbzc-eu-presidency-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ireland",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -54487,6 +55034,12 @@
       "directed": false
     },
     {
+      "source": "macau",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "macedonia",
       "target": "operation-shrouded-horizon",
       "kind": "operations_participated",
@@ -54536,6 +55089,12 @@
     },
     {
       "source": "malaysia",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "malaysia",
       "target": "operation-haechi-vi",
       "kind": "body",
       "directed": false
@@ -54543,6 +55102,12 @@
     {
       "source": "maldives",
       "target": "operation-secure-interpol",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "maldives",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -54573,6 +55138,12 @@
     {
       "source": "malta",
       "target": "eurojust-600m-crypto-money-laundering-takedown-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "malta",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -54998,6 +55569,12 @@
     },
     {
       "source": "netherlands",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "netherlands",
       "target": "netherlands-politie",
       "kind": "body",
       "directed": false
@@ -55316,6 +55893,12 @@
     },
     {
       "source": "norway",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "norway",
       "target": "operation-avalanche",
       "kind": "body",
       "directed": false
@@ -55370,6 +55953,12 @@
     },
     {
       "source": "peru",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "peru",
       "target": "operation-orion-international",
       "kind": "body",
       "directed": false
@@ -55383,6 +55972,12 @@
     {
       "source": "philippines",
       "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "philippines",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -55652,6 +56247,12 @@
     },
     {
       "source": "romania",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "romania",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -55880,6 +56481,12 @@
     },
     {
       "source": "singapore",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "singapore",
       "target": "operation-haechi-vi",
       "kind": "body",
       "directed": false
@@ -56043,6 +56650,18 @@
     {
       "source": "south-korea",
       "target": "cross-border-online-cse-operation-spf-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "south-korea",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "south-korea",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -56306,6 +56925,18 @@
     },
     {
       "source": "spain",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "spain",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "spain",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -56420,6 +57051,12 @@
     },
     {
       "source": "sweden",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "sweden",
       "target": "operation-haechi-vi",
       "kind": "body",
       "directed": false
@@ -56504,6 +57141,12 @@
     },
     {
       "source": "switzerland",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "switzerland",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -56541,6 +57184,12 @@
     {
       "source": "taiwan",
       "target": "us-doj-coordinated-nationwide-actions-dprk-it-workers-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "taiwan",
+      "target": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -56649,6 +57298,12 @@
     {
       "source": "thailand",
       "target": "cross-border-online-cse-operation-spf-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "thailand",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -56792,6 +57447,12 @@
     },
     {
       "source": "ukraine",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -56805,6 +57466,12 @@
     {
       "source": "ukraine",
       "target": "second-additional-protocol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "ukraine",
+      "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
       "kind": "body",
       "directed": false
     },
@@ -57153,6 +57820,24 @@
     {
       "source": "united-kingdom",
       "target": "operation-fever-cbzc-eu-presidency-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "united-kingdom",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "united-kingdom",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "united-kingdom",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -57770,6 +58455,24 @@
     },
     {
       "source": "united-states",
+      "target": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "united-states",
+      "target": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "united-states",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "united-states",
       "target": "fbi-cyber-division",
       "kind": "body",
       "directed": false
@@ -57927,6 +58630,12 @@
     {
       "source": "bank-fraud-ic",
       "target": "pf-magna-fraus-pix-fraud-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "bank-fraud-ic",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
       "kind": "notable_operations",
       "directed": true
     },
@@ -58634,6 +59343,18 @@
     },
     {
       "source": "cybercrime-infrastructure-ic",
+      "target": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "cybercrime-infrastructure-ic",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "cybercrime-infrastructure-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -58795,6 +59516,18 @@
       "directed": false
     },
     {
+      "source": "cybercrime-infrastructure-ic",
+      "target": "2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "cybercrime-infrastructure-ic",
+      "target": "2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "cyberstalking-ic",
       "target": "fbi",
       "kind": "key_organizations",
@@ -58804,6 +59537,12 @@
       "source": "cyberstalking-ic",
       "target": "us-doj",
       "kind": "key_organizations",
+      "directed": true
+    },
+    {
+      "source": "cyberstalking-ic",
+      "target": "operation-otf-grimm",
+      "kind": "notable_operations",
       "directed": true
     },
     {
@@ -58845,6 +59584,12 @@
     {
       "source": "cyberstalking-ic",
       "target": "csam-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "cyberstalking-ic",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
       "kind": "body",
       "directed": false
     },
@@ -59516,6 +60261,12 @@
     },
     {
       "source": "illegal-iptv-ic",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "illegal-iptv-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -59619,6 +60370,12 @@
     {
       "source": "illegal-iptv-ic",
       "target": "2026-04-18_justice-gov_cyber-ip-europe",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "illegal-iptv-ic",
+      "target": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
       "kind": "body",
       "directed": false
     },
@@ -60062,6 +60819,42 @@
     },
     {
       "source": "money-laundering-ic",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -60357,6 +61150,42 @@
     {
       "source": "money-laundering-ic",
       "target": "2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2025-07-29_oag-fedpol_real-time-phishing-uk-conviction",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown",
       "kind": "body",
       "directed": false
     },
@@ -60668,6 +61497,54 @@
     },
     {
       "source": "online-fraud-ic",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -60967,6 +61844,54 @@
       "directed": false
     },
     {
+      "source": "online-fraud-ic",
+      "target": "2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2025-07-29_oag-fedpol_real-time-phishing-uk-conviction",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "organized-crime-ic",
       "target": "us-v-chen-zhi-prince-group-edny-2025",
       "kind": "notable_cases",
@@ -61011,6 +61936,36 @@
     {
       "source": "organized-crime-ic",
       "target": "operation-dark-bet-pf-brazil-nigeria-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "organized-crime-ic",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "organized-crime-ic",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "organized-crime-ic",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "organized-crime-ic",
+      "target": "operation-otf-grimm",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "organized-crime-ic",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
       "kind": "notable_operations",
       "directed": true
     },
@@ -61514,6 +62469,18 @@
     },
     {
       "source": "voice-phishing-ic",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "voice-phishing-ic",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "voice-phishing-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -61677,6 +62644,18 @@
     {
       "source": "voice-phishing-ic",
       "target": "2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "voice-phishing-ic",
+      "target": "2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "voice-phishing-ic",
+      "target": "2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025",
       "kind": "body",
       "directed": false
     },
@@ -63794,6 +64773,12 @@
     },
     {
       "source": "albania-austria-call-centre-investment-fraud-2026",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "albania-austria-call-centre-investment-fraud-2026",
       "target": "eurojust",
       "kind": "body",
       "directed": false
@@ -65647,6 +66632,174 @@
       "directed": false
     },
     {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "europol-ec3",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "illegal-iptv-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "usdoj",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "domain-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "capacity-building-ic",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "usdoj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "bulgaria-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "bulgaria-ministry-of-interior",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "bulgaria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "romania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "greece",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "operation-switch-off-illegal-iptv-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "operation-perfect-storm-pay-tv-piracy-2019",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "operation-404-digital-piracy-2019",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "usdoj",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "greece",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "bulgaria",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "romania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "bulgaria-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "bulgaria-ministry-of-interior",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "south-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "target": "operation-404-digital-piracy-2019",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "carbanak-cobalt-takedown",
       "target": "europol-ec3",
       "kind": "coordinating_body",
@@ -66369,6 +67522,12 @@
     {
       "source": "cross-border-online-cse-operation-spf-2026",
       "target": "operation-cyber-guardian",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "cross-border-online-cse-operation-spf-2026",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
       "kind": "related_operations",
       "directed": true
     },
@@ -67557,6 +68716,12 @@
     {
       "source": "dnipro-fraudulent-call-centre-takedown-2026",
       "target": "albania-austria-call-centre-investment-fraud-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "dnipro-fraudulent-call-centre-takedown-2026",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
       "kind": "related_operations",
       "directed": true
     },
@@ -69289,6 +70454,180 @@
       "directed": false
     },
     {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "hong-kong-police",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "hong-kong-police",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "hong-kong-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "royal-malaysia-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "singapore-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "knpa",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "thailand-royal-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "hong-kong",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "malaysia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "maldives",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "singapore",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "south-korea",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "thailand",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "cross-border-online-cse-operation-spf-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "hong-kong-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "malaysia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "maldives",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "singapore",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "south-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "thailand",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "royal-malaysia-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "singapore-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "knpa",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "thailand-royal-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "informal-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "cross-border-online-cse-operation-spf-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "frontier-plus-cross-border-anti-scam-2025",
+      "target": "2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "global-airport-action-day",
       "target": "interpol",
       "kind": "coordinating_body",
@@ -69591,6 +70930,162 @@
     {
       "source": "goznym-takedown",
       "target": "ukraine",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "european-investigation-order",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "greece",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "germany",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "malta",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "ireland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "denmark",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "bulgaria",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "albania-austria-call-centre-investment-fraud-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "operation-eur-100m-crypto-investment-fraud-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "operation-eur-600m-crypto-scam-network-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "france",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "germany",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "malta",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "united-kingdom",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "ireland",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "denmark",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "bulgaria",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "european-investigation-order",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "mutual-legal-assistance",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "search-seizure",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "greek-daoe-crypto-investment-fraud-2026",
+      "target": "greece",
       "kind": "body",
       "directed": false
     },
@@ -70101,6 +71596,144 @@
     {
       "source": "india-cbi-noida-tech-support-scam-takedown-2025",
       "target": "2025-07-11_nca-uk_major-scam-centre-targeted-after-international-operation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "jurisdictional-conflicts",
+      "kind": "challenges_encountered",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "indonesia-police",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "bec-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "indonesia-police",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "indonesia-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "fbi",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "indonesia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "w3ll-phishing-kit-takedown-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "veriftools-fake-id-marketplace-followup-arrests-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "w3ll-phishing-kit-takedown-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "indonesia-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "fbi",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "budapest-convention",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "24-7-network",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "interpol-i24-7",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "joint-investigation-team",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "informal-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
       "kind": "body",
       "directed": false
     },
@@ -70760,6 +72393,12 @@
     },
     {
       "source": "korea-cambodia-philippines-73-extradition-2026",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "korea-cambodia-philippines-73-extradition-2026",
       "target": "knpa",
       "kind": "body",
       "directed": false
@@ -71205,6 +72844,12 @@
     {
       "source": "labhost-phishing-as-a-service-takedown-2024",
       "target": "tycoon-2fa-phishing-as-a-service-takedown-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "labhost-phishing-as-a-service-takedown-2024",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
       "kind": "related_operations",
       "directed": true
     },
@@ -72453,6 +74098,270 @@
     {
       "source": "nigerian-bec-convictions-2023",
       "target": "mutual-legal-assistance",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "eurojust",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "bank-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "switzerland-fedpol",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "joint-investigation-team",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "eurojust-coordination-meeting",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "switzerland-fedpol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "uk-nca",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "eurojust",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "switzerland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "switzerland-fedpol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "switzerland",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "target": "united-kingdom",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "europol-ec3",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "spain-national-police",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "spain-national-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "spain-guardia-civil",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "group-ib",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "argentina",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "spain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "colombia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "chile",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "ecuador",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "peru",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "argentina",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "spain",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "colombia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "chile",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "ecuador",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "peru",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "group-ib",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "spain-national-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "spain-guardia-civil",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "informal-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "target": "carding-action-2020",
       "kind": "body",
       "directed": false
     },
@@ -79640,6 +81549,12 @@
     },
     {
       "source": "operation-eur-100m-crypto-investment-fraud-2025",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-eur-100m-crypto-investment-fraud-2025",
       "target": "eurojust",
       "kind": "body",
       "directed": false
@@ -80041,6 +81956,12 @@
       "directed": true
     },
     {
+      "source": "operation-eur-3m-online-investment-fraud-2025",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
       "source": "operation-eur-600m-crypto-scam-network-2025",
       "target": "eurojust",
       "kind": "coordinating_body",
@@ -80116,6 +82037,12 @@
       "source": "operation-eur-600m-crypto-scam-network-2025",
       "target": "spain",
       "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-eur-600m-crypto-scam-network-2025",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "related_operations",
       "directed": true
     },
     {
@@ -84661,6 +86588,216 @@
       "directed": false
     },
     {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "eurojust",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "czechia-police",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "eurojust",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "joint-investigation-team",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "eurojust-coordination-meeting",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "asset-freezing",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "czechia-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "ukraine-sbu",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "ukraine-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "eurojust",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "czech-republic",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "ukraine",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "ukraine-fraudulent-call-centres-takedown-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "dnipro-fraudulent-call-centre-takedown-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "operation-eur-3m-online-investment-fraud-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "joint-investigation-team",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "czech-republic",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "ukraine",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "czechia-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "ukraine-sbu",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "ukraine-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "ukraine-fraudulent-call-centres-takedown-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "online-fraud-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "organized-crime-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "eurojust-100m-crypto-investment-fraud-takedown-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "crypto-investment-fraud-spain-460m-takedown-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "budapest-convention",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "search-seizure",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "electronic-evidence",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "asset-freezing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-onymous",
       "target": "jurisdictional-conflicts",
       "kind": "challenges_encountered",
@@ -85431,6 +87568,396 @@
     {
       "source": "operation-orion-international",
       "target": "venezuela",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "europol-ec3",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "organized-crime-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "sweden-police",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "european-arrest-warrant",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "public-private-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "sweden-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "belgium-federal-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "denmark-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "finland-nbi",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "france-gendarmerie",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "germany-bka",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "netherlands-politie",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "norway-kripos",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "spain-national-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "uk-nca",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "europol-ec3",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "belgium",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "denmark",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "finland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "germany",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "iceland",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "netherlands",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "norway",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "spain",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "sweden",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "united-kingdom",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "csam-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "cybercrime-forum-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "sweden-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "belgium",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "denmark",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "finland",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "france",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "germany",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "iceland",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "netherlands",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "norway",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "spain",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "sweden",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "united-kingdom",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "joint-investigation-team",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "european-arrest-warrant",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "informal-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "public-private-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "denmark-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "finland-nbi",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "france-gendarmerie",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "germany-bka",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "netherlands-politie",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "norway-kripos",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "spain-national-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "uk-nca",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "europol-jit",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "extradition",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "mlat-process",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "european-investigation-order",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "direct-provider-request",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "operation-endgame-phase3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "south-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-otf-grimm",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
       "kind": "body",
       "directed": false
     },
@@ -94573,6 +97100,150 @@
       "directed": false
     },
     {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "supreme-prosecutors-office-korea",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "voice-phishing-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "supreme-prosecutors-office-korea",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "supreme-prosecutors-office-korea",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "spo-international-cooperation",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "ministry-of-justice-korea",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "interpol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "south-korea",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "philippines",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "korea-cambodia-scam-repatriation",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "supreme-prosecutors-office-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "philippine-national-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "spo-international-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "ministry-of-justice-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "interpol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "south-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "philippines",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "knpa",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "target": "voice-phishing-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "sg-th-altdos-desorden-ghostr-takedown-2025",
       "target": "jurisdictional-conflicts",
       "kind": "challenges_encountered",
@@ -97430,6 +100101,12 @@
     },
     {
       "source": "tycoon-2fa-phishing-as-a-service-takedown-2026",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "tycoon-2fa-phishing-as-a-service-takedown-2026",
       "target": "europol-ec3",
       "kind": "body",
       "directed": false
@@ -97755,6 +100432,12 @@
     {
       "source": "ukraine-fraudulent-call-centres-takedown-2025",
       "target": "operation-eur-3m-online-investment-fraud-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "ukraine-fraudulent-call-centres-takedown-2025",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
       "kind": "related_operations",
       "directed": true
     },
@@ -98421,6 +101104,108 @@
     {
       "source": "us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024",
       "target": "search-seizure",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "mlat-process",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "taiwan",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "mexico-yucatan-nayarit-csam-afp-fgr-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "united-states",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "taiwan",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "mutual-legal-assistance",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "mlat-process",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "informal-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "korea-us-mlat",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "target": "2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network",
       "kind": "body",
       "directed": false
     },
@@ -100477,6 +103262,12 @@
       "directed": true
     },
     {
+      "source": "belgium-federal-police",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "brazil-ministry-of-justice-public-security",
       "target": "us-doj",
       "kind": "cooperation_partners",
@@ -100580,6 +103371,12 @@
     },
     {
       "source": "bulgaria-ministry-of-interior",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-ministry-of-interior",
       "target": "bulgaria-police",
       "kind": "body",
       "directed": false
@@ -100617,6 +103414,12 @@
     {
       "source": "bulgaria-police",
       "target": "operation-card-shop",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "bulgaria-police",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -101444,9 +104247,21 @@
     },
     {
       "source": "czechia-police",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "czechia-police",
       "target": "czech-police",
       "kind": "parent_org",
       "directed": true
+    },
+    {
+      "source": "czechia-police",
+      "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "dea",
@@ -101672,9 +104487,21 @@
     },
     {
       "source": "denmark-police",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "denmark-police",
       "target": "denmark-national-police",
       "kind": "parent_org",
       "directed": true
+    },
+    {
+      "source": "denmark-police",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "dod-inspector-general",
@@ -102254,6 +105081,18 @@
     },
     {
       "source": "eurojust",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
       "target": "europol-ec3",
       "kind": "body",
       "directed": false
@@ -102291,6 +105130,12 @@
     {
       "source": "eurojust",
       "target": "united-kingdom",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "eurojust",
+      "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
       "kind": "body",
       "directed": false
     },
@@ -102914,6 +105759,30 @@
     },
     {
       "source": "europol-ec3",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "europol-ec3",
       "target": "operation-cronos-phase1",
       "kind": "body",
       "directed": false
@@ -102969,6 +105838,12 @@
     {
       "source": "europol-ec3",
       "target": "ransomware-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "europol-ec3",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
       "kind": "body",
       "directed": false
     },
@@ -103784,6 +106659,12 @@
     },
     {
       "source": "fbi",
+      "target": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi",
       "target": "fbi-cyber-division",
       "kind": "parent_org",
       "directed": true
@@ -103833,6 +106714,12 @@
     {
       "source": "finland-nbi",
       "target": "latvia-sim-box-cybercrime-as-a-service-takedown-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "finland-nbi",
+      "target": "operation-otf-grimm",
       "kind": "operations_participated",
       "directed": true
     },
@@ -104018,9 +106905,21 @@
     },
     {
       "source": "france-gendarmerie",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france-gendarmerie",
       "target": "france-gendarmerie-nationale",
       "kind": "parent_org",
       "directed": true
+    },
+    {
+      "source": "france-gendarmerie",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "france-junalco",
@@ -104642,6 +107541,12 @@
     },
     {
       "source": "germany-bka",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany-bka",
       "target": "germany-bmi",
       "kind": "parent_org",
       "directed": true
@@ -104960,6 +107865,12 @@
     },
     {
       "source": "group-ib",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "group-ib",
       "target": "operation-delilah",
       "kind": "body",
       "directed": false
@@ -105003,6 +107914,12 @@
     {
       "source": "hong-kong-police",
       "target": "cross-border-online-cse-operation-spf-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "hong-kong-police",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -105093,6 +108010,12 @@
     {
       "source": "indonesia-police",
       "target": "w3ll-phishing-kit-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "indonesia-police",
+      "target": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -105567,6 +108490,12 @@
     {
       "source": "interpol",
       "target": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -106406,6 +109335,12 @@
     },
     {
       "source": "knpa",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "knpa",
       "target": "ministry-of-interior-korea",
       "kind": "parent_org",
       "directed": true
@@ -106658,6 +109593,12 @@
     },
     {
       "source": "malaysia-police",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "malaysia-police",
       "target": "royal-malaysia-police",
       "kind": "parent_org",
       "directed": true
@@ -106893,6 +109834,12 @@
     {
       "source": "ministry-of-justice-korea",
       "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ministry-of-justice-korea",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -107504,6 +110451,12 @@
     },
     {
       "source": "netherlands-politie",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "netherlands-politie",
       "target": "netherlands-politie-parent",
       "kind": "parent_org",
       "directed": true
@@ -107606,7 +110559,19 @@
     },
     {
       "source": "norway-kripos",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "norway-kripos",
       "target": "norway",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "norway-kripos",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
       "kind": "body",
       "directed": false
     },
@@ -107901,6 +110866,12 @@
     {
       "source": "philippine-national-police",
       "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "philippine-national-police",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -108608,6 +111579,12 @@
     },
     {
       "source": "royal-malaysia-police",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "royal-malaysia-police",
       "target": "malaysia-police",
       "kind": "body",
       "directed": false
@@ -108920,6 +111897,12 @@
     },
     {
       "source": "singapore-police",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "singapore-police",
       "target": "interpol-igci",
       "kind": "body",
       "directed": false
@@ -109045,6 +112028,12 @@
       "directed": true
     },
     {
+      "source": "spain-guardia-civil",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "spain-national-police",
       "target": "spain-guardia-civil",
       "kind": "cooperation_partners",
@@ -109119,6 +112108,18 @@
     {
       "source": "spain-national-police",
       "target": "crimenetwork-relaunch-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "spain-national-police",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "spain-national-police",
+      "target": "operation-otf-grimm",
       "kind": "operations_participated",
       "directed": true
     },
@@ -109250,6 +112251,12 @@
     },
     {
       "source": "spo-international-cooperation",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "spo-international-cooperation",
       "target": "supreme-prosecutors-office-korea",
       "kind": "parent_org",
       "directed": true
@@ -109276,6 +112283,12 @@
       "source": "supreme-prosecutors-office-korea",
       "target": "south-korea",
       "kind": "country",
+      "directed": true
+    },
+    {
+      "source": "supreme-prosecutors-office-korea",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "operations_participated",
       "directed": true
     },
     {
@@ -109376,7 +112389,19 @@
     },
     {
       "source": "sweden-police",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "sweden-police",
       "target": "budapest-convention",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "sweden-police",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
       "kind": "body",
       "directed": false
     },
@@ -109431,6 +112456,12 @@
     {
       "source": "switzerland-fedpol",
       "target": "operation-alice-csam-fraud-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "switzerland-fedpol",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -109677,6 +112708,12 @@
     {
       "source": "thailand-royal-police",
       "target": "cross-border-online-cse-operation-spf-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "thailand-royal-police",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -110294,6 +113331,18 @@
     },
     {
       "source": "uk-nca",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "uk-nca",
+      "target": "operation-otf-grimm",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "uk-nca",
       "target": "united-kingdom",
       "kind": "body",
       "directed": false
@@ -110349,6 +113398,12 @@
     {
       "source": "uk-nca",
       "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "uk-nca",
+      "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
       "kind": "body",
       "directed": false
     },
@@ -110414,7 +113469,19 @@
     },
     {
       "source": "ukraine-police",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine-police",
       "target": "budapest-convention",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "ukraine-police",
+      "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
       "kind": "body",
       "directed": false
     },
@@ -110462,6 +113529,12 @@
     },
     {
       "source": "ukraine-sbu",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine-sbu",
       "target": "ukraine-police",
       "kind": "body",
       "directed": false
@@ -110469,6 +113542,12 @@
     {
       "source": "ukraine-sbu",
       "target": "2010-10-01_fbi_operation-trident-breach",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "ukraine-sbu",
+      "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
       "kind": "body",
       "directed": false
     },
@@ -111356,6 +114435,12 @@
     },
     {
       "source": "us-doj",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-doj",
       "target": "isoon-apt27-indictment",
       "kind": "body",
       "directed": false
@@ -112077,6 +115162,12 @@
     {
       "source": "usdoj",
       "target": "darkode-takedown",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "usdoj",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -116227,6 +119318,12 @@
       "directed": true
     },
     {
+      "source": "2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown",
+      "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc",
       "target": "cryptex-pm2btc-sanctions",
       "kind": "pages_updated",
@@ -118195,6 +121292,18 @@
       "directed": false
     },
     {
+      "source": "2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network",
+      "target": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network",
+      "target": "us-taiwan-elder-romance-fraud-mlaa-takedown-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2025-05-15_eucrim_pedophile-platform-kidflix-shut-down",
       "target": "operation-stream-kidflix",
       "kind": "pages_updated",
@@ -118503,6 +121612,18 @@
     {
       "source": "2025-06-01_therecord-media_us-and-netherlands-take-down-bidencash-cybercrime-marketplace-infrastructure",
       "target": "bidencash-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025",
+      "target": "frontier-plus-cross-border-anti-scam-2025",
       "kind": "body",
       "directed": false
     },
@@ -119441,6 +122562,18 @@
       "target": "operation-checkmate-blacksuit",
       "kind": "pages_updated",
       "directed": true
+    },
+    {
+      "source": "2025-07-29_oag-fedpol_real-time-phishing-uk-conviction",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-29_oag-fedpol_real-time-phishing-uk-conviction",
+      "target": "oag-fedpol-real-time-phishing-uk-conviction-2025",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "2025-08-11-doj-blacksuit-royal-ransomware-takedown",
@@ -120859,6 +123992,36 @@
       "directed": false
     },
     {
+      "source": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "target": "operation-octopus-investment-fraud-czechia-ukraine-2025",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "target": "joint-investigation-team",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "target": "online-fraud-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "target": "voice-phishing-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2025-12-17_01net_ukraine-call-center-10m-fraud",
       "target": "ukraine-fraudulent-call-centres-takedown-2025",
       "kind": "pages_updated",
@@ -121088,6 +124251,54 @@
     },
     {
       "source": "2026-01-29_ace_operation-switch-off-illegal-iptv-ring",
+      "target": "illegal-iptv-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "target": "bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "target": "bulgaria",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "target": "united-states",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "target": "bulgaria-police",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "target": "bulgaria-ministry-of-interior",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "target": "europol-ec3",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
+      "target": "usdoj",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown",
       "target": "illegal-iptv-ic",
       "kind": "pages_updated",
       "directed": true
@@ -121851,6 +125062,18 @@
     {
       "source": "2026-03-05_petersandpeters_operation-eclipse-60-arrests",
       "target": "operation-eclipse-csam-americas",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown",
+      "target": "greek-daoe-crypto-investment-fraud-2026",
       "kind": "body",
       "directed": false
     },
@@ -122761,6 +125984,12 @@
       "directed": false
     },
     {
+      "source": "2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate",
+      "target": "indonesia-fbi-mfa-bypass-phishing-syndicate-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network",
       "target": "treasury-sanctions-kok-an-scam-center-network-2026",
       "kind": "pages_updated",
@@ -123055,6 +126284,18 @@
       "directed": true
     },
     {
+      "source": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
+      "target": "operation-otf-grimm",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
+      "target": "operation-otf-grimm",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests",
       "target": "coordinated-cryptocurrency-scam-center-takedown-2026",
       "kind": "pages_updated",
@@ -123225,6 +126466,42 @@
     {
       "source": "2026-04-30_justice-gov_versus-project-creator-extradited-colombia",
       "target": "archetyp-market-takedown-operation-deep-sentinel-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition",
+      "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition",
+      "target": "supreme-prosecutors-office-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition",
+      "target": "ministry-of-justice-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition",
+      "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition",
+      "target": "knpa",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition",
+      "target": "voice-phishing-ic",
       "kind": "body",
       "directed": false
     },

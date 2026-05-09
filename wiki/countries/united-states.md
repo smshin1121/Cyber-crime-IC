@@ -53,6 +53,7 @@ notable_cases:
   - "[[us-v-fourteen-dprk-it-workers-2024]]"
   - "[[us-v-five-scattered-spider-members-2024]]"
   - "[[us-v-redman-twitter-nft-2025]]"
+  - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -209,9 +210,10 @@ operations_participated:
   - "[[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
 region: north-america
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+  - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

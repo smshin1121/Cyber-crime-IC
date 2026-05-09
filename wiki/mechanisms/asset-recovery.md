@@ -4,10 +4,13 @@ title: "Asset Recovery"
 status: corpus-linked
 created: 2026-05-06
 updated: 2026-05-06
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks]]"
+  - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+cases_using:
+  - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 ---
 ## Summary
 

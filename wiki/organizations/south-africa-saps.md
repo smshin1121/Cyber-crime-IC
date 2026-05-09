@@ -2,15 +2,16 @@
 aliases:
   - SAPS
 contact_point_for:
-  []
+
 cooperation_partners:
   - "[[south-africa-hawks]]"
 country: "[[south-africa]]"
-jurisdiction: [[south-africa]]
+jurisdiction:
+
 created: 2026-04-10
 established: ""
 frameworks_administered:
-  []
+
 headquarters: "South Africa"
 key_roles:
   - "South Africa's national police service."
@@ -18,22 +19,23 @@ key_roles:
 last_verified: 2026-04-29
 mandate: "South Africa's national police service; hosts DPCI (Hawks) for serious cybercrime investigations."
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+  - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 official_name: "South African Police Service (SAPS)"
 operations_participated:
-  []
+
 org_type: national-agency
 parent_org: ""
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-17_saps-gov-za_www-saps-gov-za]]"
   - "[[2026-04-17_coe-int_south-africa-octopus-cybercrime-community]]"
+  - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
 status: active
 title: "South African Police Service"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 coverage_status: audit-normalized
 ---
 ## Summary
@@ -58,3 +60,4 @@ This page has been normalized for the organization audit: it includes role metad
 |---|---|---|---|---|
 | [1] | [[2026-04-17_saps-gov-za_www-saps-gov-za|www.saps.gov.za]] | saps.gov.za | 2026-04-17 | https://www.saps.gov.za/ |
 | [2] | [[2026-04-17_coe-int_south-africa-octopus-cybercrime-community|South Africa — Octopus Cybercrime Community]] | Council of Europe | 2026-04-17 | https://www.coe.int/en/web/octopus/-/south-africa |
+| [3] | [[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate\|NPA AFU R43M restraint vs Bryanston call-centre syndicate (DPCI Hawks executed 14-Apr-2026 with sheriffs and AFU)]] | National Prosecuting Authority of South Africa | 2026-04-21 | https://www.npa.gov.za/media/afu-secures-r43-million-restraint-order-against-international-call-centre-scam-syndicate |

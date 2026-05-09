@@ -34,9 +34,9 @@ operations_participated:
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
 region: oceania
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
 title: "Commonwealth of Australia"
 treaty_memberships:
   - not-assessed
@@ -45,6 +45,8 @@ updated: 2026-05-09
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 ---
 ## Summary
 

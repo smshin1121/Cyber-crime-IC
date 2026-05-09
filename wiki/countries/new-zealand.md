@@ -4,9 +4,9 @@ title: "New Zealand"
 status: needs-official-source-ingestion
 created: 2026-04-26
 updated: 2026-05-09
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
 last_verified: 2026-05-09
 legal_system: not-assessed
 ic_capacity: not-assessed
@@ -18,6 +18,8 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
+notable_cases:
+  - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 ---
 ## Summary
 

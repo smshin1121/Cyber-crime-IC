@@ -2,14 +2,17 @@
 type: concept
 title: "Extraterritorial Jurisdiction"
 created: 2026-04-18
-updated: "2026-04-29"
+updated: 2026-04-29
 summary: "Extraterritorial jurisdiction is a state's assertion of legal authority over conduct, persons, evidence, or effects connected to another territory."
 status: active
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-29_uscode-house-gov_18-usc-1030-computer-fraud-and-abuse-act]]"
   - "[[2026-04-29_uscode-house-gov_18-usc-1343-wire-fraud]]"
   - "[[2026-04-29_justice-gov_cloud-act-executive-agreements]]"
+  - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
+applied_in_cases:
+  - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 ---
 ## Summary
 
@@ -38,3 +41,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [1] | [[2026-04-29_uscode-house-gov_18-usc-1030-computer-fraud-and-abuse-act|18 U.S.C. 1030 - Fraud and related activity in connection with computers]] | Office of the Law Revision Counsel, U.S. House of Representatives | 2026-04-18 | https://uscode.house.gov/view.xhtml?req=%28title%3A18+section%3A1030+edition%3Aprelim%29 |
 | [2] | [[2026-04-29_uscode-house-gov_18-usc-1343-wire-fraud|18 U.S.C. 1343 - Fraud by wire, radio, or television]] | Office of the Law Revision Counsel, U.S. House of Representatives | 2026-04-14 | https://uscode.house.gov/view.xhtml?req=%28title%3A18+section%3A1343+edition%3Aprelim%29 |
 | [3] | [[2026-04-29_justice-gov_cloud-act-executive-agreements|Regarding CLOUD Act Executive Agreements]] | U.S. Department of Justice | 2023-10-01 | https://www.justice.gov/es/node/1397306 |
+| [4] | [[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate\|NPA AFU R43M restraint vs Bryanston call-centre syndicate (ZA jurisdiction over fraud targeting AU/NZ/CA/US victims)]] | National Prosecuting Authority of South Africa | 2026-04-21 | https://www.npa.gov.za/media/afu-secures-r43-million-restraint-order-against-international-call-centre-scam-syndicate |

@@ -1385,3 +1385,15 @@
   - Greek FIU traced 4 offshore companies in Bulgaria linked to 2 organisation members.
   - First wiki record sourced from astynomia.gr — confirms curl_cffi chrome120 viable bypass for Hellenic Police Cloudflare wall (LESSONS L11/L20).
 - LESSONS update: L11 working pattern confirmed for astynomia.gr — chrome120 succeeded on first try, no chrome124 fallback or Wayback needed.
+
+## [2026-05-09] ingest | NPA AFU R43M restraint vs Bryanston call-centre fraud syndicate (South Africa, POCA s.26)
+- Source: raw/press-releases/2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate.md (National Prosecuting Authority of South Africa; en)
+- Pages created: wiki/sources/2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate.md, wiki/cases/bryanston-call-centre-investment-fraud-syndicate-2026.md (provisional, source_count=1)
+- Pages updated: 6 country pages (ZA+IL+AU+NZ+CA+US), south-africa-hawks, south-africa-saps, three crime-types (online-fraud-ic, money-laundering-ic, organized-crime-ic), two mechanisms (asset-freezing, asset-recovery), concept (extraterritorial-jurisdiction, applied_in_cases backlink).
+- Key findings:
+  - First wiki record sourced from npa.gov.za — South African National Prosecuting Authority publishes Asset Forfeiture Unit press releases as tier-1 IC primary on the asset-recovery side of cross-border fraud.
+  - POCA s.26 provisional restraint of R43.9M (~USD 2.4M) — multiple Gauteng immovable properties + luxury vehicle inventory (Mercedes-Benz A45S AMG, Aston Martin DB9, VW Golf 8 GTI, Toyota Fortuner, Jaguar E-Pace, Ford Ranger, Toyota Hilux).
+  - "International Israeli syndicate" Bryanston call centres targeting AU/NZ/CA/US victims — fact pattern is transnational but tier-1 source describes the asset-restraint phase as domestic ZA inter-agency (DPCI + NPA SCCU + NPA AFU) only.
+  - Cooperation channel: domestic-only at the visible asset-restraint phase; foreign LE participation (UK NCA, US DHS/Secret Service, AFP, INTERPOL Project Jackal) appears in non-tier-1 reporting but is NOT asserted on the case page per L19.
+  - 27 January 2026 arrest action; 26 February 2026 restraint order; 14 April 2026 execution; 4 June 2026 next criminal-case date (Palm Ridge Magistrates' Court).
+- Local build: web/build_static.py executed successfully at iter 90 milestone (last build was iter 80).

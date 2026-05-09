@@ -29,6 +29,7 @@ legal_system: mixed
 notable_cases:
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
   - "[[us-v-redman-twitter-nft-2025]]"
+  - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -45,9 +46,9 @@ operations_participated:
   - "[[operation-atlantic-approval-phishing-2026]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
 region: north-america
-source_count: 5
+source_count: 6
 sources:
-
+  - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
 title: Canada
 treaty_memberships:
   - date: 2015-07-08
@@ -127,3 +128,4 @@ Capacity is *almost certainly* high. Canada has deep technical resources, biling
 | [3] | Criminal Code, Section 342.1 | Justice Laws Website (Government of Canada) | — | https://laws-lois.justice.gc.ca/eng/acts/C-46/section-342.1.html |
 | [4] | Cybercrime and the Criminal Code | Royal Canadian Mounted Police | — | https://www.rcmp-grc.gc.ca/en/nc3 |
 | [5] | National Cybercrime Coordination Centre (NC3) | Royal Canadian Mounted Police | — | https://www.rcmp-grc.gc.ca/en/nc3 |
+| [6] | [[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate\|NPA AFU R43M restraint vs Bryanston call-centre syndicate (Canada named as victim country)]] | National Prosecuting Authority of South Africa | 2026-04-21 | https://www.npa.gov.za/media/afu-secures-r43-million-restraint-order-against-international-call-centre-scam-syndicate |

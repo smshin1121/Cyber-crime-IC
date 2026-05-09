@@ -74,7 +74,7 @@ updated: 2026-04-08
 | [[portuguese-judicial-police]] | national-agency | Lisbon, Portugal | Compatibility label for Portugal's Policia Judiciaria and its cybercrime unit references.; Routes detailed cybercrime-unit context to [[portugal-policia-judiciaria]]. | 4 | 3 |
 | [[romanian-police]] | national-agency | Bucharest, Romania | Compatibility label for Romanian police cybercrime participation in older operation records.; Routes institution-level detail to [[romania-police]]. | 4 | 3 |
 | [[singapore-csa]] | national-agency | Singapore | National cybersecurity coordination and strategy; Operate SingCERT (Singapore Computer Emergency Response Team) | — | 4 |
-| [[south-africa-saps]] | national-agency | South Africa | South Africa's national police service.; Parent policing context for DPCI / Hawks serious cybercrime investigations. | — | 2 |
+| [[south-africa-saps]] | national-agency | South Africa | South Africa's national police service.; Parent policing context for DPCI / Hawks serious cybercrime investigations. | — | 3 |
 | [[spanish-national-police]] | national-agency | Madrid, Spain | Compatibility label for Spanish National Police references in older operation pages.; Routes cybercrime-unit context to [[spain-national-police]]. | 4 | 3 |
 | [[switzerland-fedpol]] | national-agency | Bern, Switzerland | — | 9 | 4 |
 | [[switzerland-ncsc]] | national-agency | Switzerland | Switzerland's federal cybersecurity office and national cybersecurity coordination point.; Provides national CERT/GovCERT and NCSC/BACS/OFCS continuity context. | — | 2 |
@@ -126,7 +126,7 @@ updated: 2026-04-08
 | [[romania-police]] | national-unit | Bucharest, Romania | — | 3 | 0 |
 | [[seoul-metropolitan-police]] | national-unit | Jongno-gu, Seoul, South Korea | — | 1 | 3 |
 | [[singapore-police]] | national-unit | Singapore | — | 6 | 7 |
-| [[south-africa-hawks]] | national-unit | South Africa | SAPS specialized unit for organized crime, economic crime, and serious cybercrime.; Primary South African police-side node for serious cybercrime investigation when DPCI is named. | — | 2 |
+| [[south-africa-hawks]] | national-unit | South Africa | SAPS specialized unit for organized crime, economic crime, and serious cybercrime.; Primary South African police-side node for serious cybercrime investigation when DPCI is named. | — | 3 |
 | [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 10 | 2 |
 | [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 13 | 3 |
 | [[sweden-police]] | national-unit | Stockholm, Sweden | — | 13 | 4 |

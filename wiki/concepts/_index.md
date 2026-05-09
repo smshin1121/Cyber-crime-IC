@@ -16,7 +16,7 @@ updated: 2026-04-08
 | [[effects-doctrine]] | — | — | — | - | 3 |
 | [[eu-member-states]] | — | — | — | - | 4 |
 | [[extradition-practice]] | — | — | — | - | 1 |
-| [[extraterritorial-jurisdiction]] | — | — | — | - | 3 |
+| [[extraterritorial-jurisdiction]] | — | — | — | bryanston-call-centre-investment-fraud-syndicate-2026 | 4 |
 | [[harmonization-of-cybercrime-laws]] | — | — | — | - | 4 |
 | [[money-mule-networks]] | — | — | — | - | 1 |
 | [[nationality-principle]] | 속인주의 | jurisdictional-doctrine | international-law | - | 2 |
