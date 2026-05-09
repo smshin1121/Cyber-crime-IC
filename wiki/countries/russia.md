@@ -39,10 +39,12 @@ operations_participated:
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
   - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
+  - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
 cooperation_assessment: ""
 source_count: 4
 created: 2026-04-20

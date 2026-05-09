@@ -72,6 +72,7 @@ operations_participated:
   - "[[black-axe-spain-takedown-2026]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
+  - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
 region: western-europe
 source_count: 5
 sources:

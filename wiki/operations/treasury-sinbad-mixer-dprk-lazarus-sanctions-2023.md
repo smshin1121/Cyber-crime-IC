@@ -67,12 +67,14 @@ missing_fields:
   - "identity of operators/jurisdiction of Sinbad.io infrastructure (the entity is sanctioned without naming a host country or natural persons)"
   - "specific partner-state actions concurrent with this designation (e.g., whether South Korea, Japan, or EU coordinated)"
   - "post-designation outcome of Sinbad.io domain/service availability (release does not record domain seizure or operator arrest)"
-related_cases: []
+related_cases:
+  - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
 related_operations:
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
   - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
   - "[[de-ch-crypto-mixer-takedown-2025]]"
+  - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
   - "[[extraterritorial-jurisdiction]]"

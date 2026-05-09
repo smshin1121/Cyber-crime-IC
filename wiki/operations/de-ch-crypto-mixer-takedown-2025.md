@@ -84,6 +84,7 @@ missing_fields:
 related_operations:
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[2bagoldmule-qqaazz]]"
+  - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
@@ -97,7 +98,7 @@ sources:
   - "[[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]]"
   - "[[2025-11-26_europol_cryptomixer-operation-olympia-takedown]]"
 created: 2026-04-14
-updated: 2026-04-29
+updated: 2026-05-09
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Olympia (24-28 November 2025) was the joint German-Swiss takedown of Cryptomixer (cryptomixer.io) — a hybrid clear-web + dark-web cryptocurrency mixing service active since 2016 that had laundered over EUR 1.3 billion in Bitcoin for ransomware groups, dark web markets, drug traffickers, weapons traffickers, and payment-card fraudsters. Lead authorities: German BKA + Frankfurt am Main Prosecutor General's Office Cyber Crime Centre (ZIT); Zurich City Police (Stadtpolizei Zürich); Zurich Cantonal Police (Kantonspolizei Zürich); Public Prosecutor's Office Zurich (Staatsanwaltschaft Zürich). Europol coordination via the Joint Cybercrime Action Taskforce (J-CAT) at Europol HQ The Hague + on-the-spot cybercrime expert support and forensic assistance during the action days. Eurojust judicial coordination. Action-day seizures: 3 servers in Switzerland, the cryptomixer.io clearnet domain, 12+ TB of operational data, and EUR 25 million+ worth of Bitcoin. Splash banner placed on cryptomixer.io after takedown. Predecessor in same Europol-supported mixer-takedown chronology: Chipmixer (March 2023)."

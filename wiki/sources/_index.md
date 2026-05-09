@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (737)
+# Sources (740)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -135,6 +135,7 @@ updated: 2026-04-14
 | [[2025-09-23_721news-com_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 721news | ? | medium | ? |
 | [[2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 112WWFT | ? | medium | ? |
 | [[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers]] | press-release | UK National Crime Agency (with City of London Police; Crown Prosecution Service quoted) | ? | high | ? |
+| [[2025-09-18_justice-gov_united-kingdom-national-charged-multiple-cyber-attacks-jubair]] | press-release | U.S. Department of Justice — Office of Public Affairs (with U.S. Attorney's Office for the District of New Jersey, Criminal Division (CCIPS), Office of International Affairs, and FBI Cyber Division / FBI Newark Field Office) | ? | high | ? |
 | [[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2025-08-22_kaspersky_serengeti-20-interpol-led-action]] | press-release | Kaspersky | ? | high | ? |
 | [[2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks]] | press-release | INTERPOL | ? | high | ? |
@@ -259,6 +260,7 @@ updated: 2026-04-14
 | [[2025-01-27_eurojust-fraud-term_illegal-financial-service-laundering]] | government | Eurojust | ? | high | ? |
 | [[2025-01-27_eurojust-financial-crime-term_illegal-financial-service-laundering]] | government | Eurojust | ? | high | ? |
 | [[2025-01-17_uefa_operation-kratos-international-anti-piracy-operation]] | news | UEFA | ? | medium | ? |
+| [[2025-01-10_justice-gov_operators-cryptocurrency-mixers-blender-sinbad-charged-money-laundering]] | press-release | U.S. Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2025-01-01_en-wikipedia-org_silk-road-marketplace]] | press-release | Wikipedia | ? | medium | ? |
 | [[2024-12-19_politie-nl_27-jarige-man-aangehouden-voor-phishing]] | press-release | Dutch National Police | 1 | high | ? |
 | [[2024-12-18_doj-wdtx_ukrainian-national-sentenced-raccoon-infostealer]] | press-release | US Attorney's Office, Western District of Texas (USAO-WDTX) | ? | high | ? |
@@ -330,6 +332,7 @@ updated: 2026-04-14
 | [[2024-09-26_fincen_imposition-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2btc]] | legal-notice | Financial Crimes Enforcement Network | 1 | high | ? |
 | [[2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc]] | analysis | Chainalysis | 3 | medium-high | ? |
 | [[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]] | news | Brazil Ministry of Justice and Public Security | ? | high | ? |
+| [[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized]] | press-release | Bundeskriminalamt (BKA) / Generalstaatsanwaltschaft Frankfurt am Main – ZIT | 1 | high | ? |
 | [[2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform]] | press-release | The Register | ? | medium | ? |
 | [[2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh]] | press-release | The Record | ? | medium | ? |
 | [[2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | press-release | Reuters | ? | medium | ? |

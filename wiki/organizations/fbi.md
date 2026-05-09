@@ -38,6 +38,8 @@ notable_cases:
   - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
   - "[[us-v-kai-west-intelbroker-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
+  - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
+  - "[[us-v-jubair-scattered-spider-2025]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:

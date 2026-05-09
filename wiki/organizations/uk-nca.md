@@ -24,6 +24,7 @@ notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[uk-collins-aerospace-airport-ransomware-arrest-2025]]"
   - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
+  - "[[us-v-jubair-scattered-spider-2025]]"
 official_name: "National Crime Agency"
 official_name_ko: "영국 국가범죄수사국"
 operations_participated:

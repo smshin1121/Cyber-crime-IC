@@ -16,12 +16,14 @@ crime_charged:
   - "[[cybercrime-forum-ic]]"
 defendants:
   - name: "Kai West (a/k/a 'IntelBroker', a/k/a 'Kyle Northern')"
-    nationality: "British"
+    nationality: British
     age: 25
     status: "arrested in France ~February 2025; held in French pre-trial detention pending U.S. extradition"
     sentence: ""
-    location_at_arrest: "France"
-related_operation: "[[leakbase-takedown-2026]]"
+    location_at_arrest: France
+related_operation:
+  - "[[leakbase-takedown-2026]]"
+  - "[[us-v-jubair-scattered-spider-2025]]"
 ic_elements:
   mlat_requests:
     - "France (assistance acknowledged)"
@@ -30,13 +32,14 @@ ic_elements:
     - "Netherlands (assistance acknowledged)"
   extradition: "United States seeking extradition of Kai West from France (US-France extradition treaty track; pre-trial detention in France since ~Feb 2025)"
   evidence_from_abroad:
-    - "France"
-    - "Spain"
+    - France
+    - Spain
     - "United Kingdom"
-    - "Netherlands"
+    - Netherlands
   foreign_arrests:
     - "France (~February 2025)"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi]]"
   - "[[us-doj]]"
@@ -56,7 +59,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional case page (source_count = 1)
 > Below the preferred publication threshold of source_count >= 5. The page is published as a provisional record because the SDNY press release is a tier-1 primary source and the case has clear durable IC value (US-France extradition track + four-jurisdiction MLA assistance + BreachForums nexus). Should be promoted to a full case page once additional tier-1 filings (indictment PDF, complaint PDF, extradition order) are ingested.
 

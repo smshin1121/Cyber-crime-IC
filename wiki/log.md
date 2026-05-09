@@ -1,5 +1,14 @@
 # Activity Log
 
+## [2026-05-09] ingest [parallel batch x3] | BKA Operation Final Exchange (2024-09-19) + DOJ Blender/Sinbad mixer indictment (2025-01-10) + DOJ-OPA Jubair US-side parallel (2025-09-18)
+- Sources: 3 raw + 3 source pages + 1 operation page + 2 case pages (9 new pages)
+- Pages updated: 5 country (DE, RU, US, NL, FI, UK), 5 organization (germany-bka, fbi, us-doj, office-of-international-affairs, uk-nca), 5 crime-type (money-laundering-ic, ransomware-ic, cybercrime-infrastructure-ic, hacking-ic, extortion-ic) + body Reference rows; cross-links to existing operations [[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]], [[treasury-garantex-grinex-russian-network-sanctions-2025]], [[de-ch-crypto-mixer-takedown-2025]], [[uk-jubair-flowers-tfl-cyber-attack-2025]], [[us-v-kai-west-intelbroker-2025]].
+- Key findings:
+  - **BKA Operation Final Exchange (2024-09-19)**: First wiki record of single-jurisdiction takedown of 47 Russian-language no-KYC cryptocurrency exchanges (Xchange.cash, Bankcomat, CoinBlinker, Cryptostrike, Baksman, Prostocash + 41 others). Charged under §§ 127, 261 StGB. Establishes the **no-KYC instant-swap exchange ecosystem-as-category-target** disruption model.
+  - **DOJ Blender/Sinbad mixer indictment (2025-01-10)**: 3 Russian nationals (Ostapenko + Oleynik + Tarasov) charged in N.D. Ga. for operating Blender.io (2018-2022) and successor Sinbad.io (2022-2023) mixers. Tri-national arrest cooperation: Netherlands FIOD + Finland NBI + FBI (2024-12-01). Lazarus Group / DPRK heist proceeds nexus (Axie Infinity USD 620M + Horizon Bridge USD 100M).
+  - **DOJ-OPA Jubair US-side parallel (2025-09-18, PR# 25-967)**: Thalha Jubair (UK national, Scattered Spider) charged in D.N.J. complaint with ~120 network intrusions affecting 47 US victims; >USD 115M ransom; victims include US Courts (federal judiciary) and a US critical infrastructure company. **First wiki-recorded parallel UK + US prosecution model for a single Scattered Spider defendant** (companion to existing UK NCA TfL case page).
+- Process notes: Iter 59 used parallel multi-agent harness (3 of 3 successful). Lint caught 2 stale wikilinks ([[zit-frankfurt]], [[germany-frankfurt-prosecutor]]) in Final Exchange operation page; cleaned via direct frontmatter edit.
+
 ## [2026-05-09] ingest [parallel batch x3] | Treasury jy1933 Sinbad mixer DPRK (2023-11-29) + Treasury sb0205 Korea Sobaeksu DPRK IT (2025-07-24) + Treasury sb0416 Amnokgang DPRK IT facilitators (2026-03-12)
 - Sources: 3 raw + 3 source pages + 3 operation pages (9 new pages)
 - Pages updated: 5 country (US, NK, VN, LA, ES), 4 organization (us-treasury, us-doj, us-dhs, fbi), 3 crime-type (money-laundering-ic, online-fraud-ic, ransomware-ic) + 6 cross-links to existing DPRK Treasury operations.

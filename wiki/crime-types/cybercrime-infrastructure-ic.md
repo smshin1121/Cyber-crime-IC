@@ -32,6 +32,7 @@ notable_operations:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
+  - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
 notable_cases:
 
 criminalization_status:
@@ -40,7 +41,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 10
+source_count: 11
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -52,6 +53,7 @@ sources:
   - "[[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land]]"
   - "[[2025-02-11_treasury_us-au-uk-zservers-sanctions-lockbit-ransomware]]"
   - "[[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions]]"
+  - "[[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: active
@@ -90,3 +92,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [8] | [[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land\|United States, Australia, and United Kingdom Sanction Russian Cybercrime Infrastructure Supporting Ransomware]] | US Department of the Treasury (OFAC), Press Release SB-0319 | 2025-11-19 | https://home.treasury.gov/news/press-releases/sb0319 |
 | [9] | [[2025-02-11_treasury_us-au-uk-zservers-sanctions-lockbit-ransomware\|US/AU/UK Jointly Sanction Key Infrastructure that Enables Ransomware Attacks (Zservers)]] | US Department of the Treasury (OFAC), Press Release SB-0018 | 2025-02-11 | https://home.treasury.gov/news/press-releases/sb0018 |
 | [10] | [[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions\|Treasury Sanctions Global Bulletproof Hosting Service Enabling Cybercriminals and Technology Theft (Aeza Group)]] | US Department of the Treasury (OFAC), Press Release SB-0185 | 2025-07-01 | https://home.treasury.gov/news/press-releases/sb0185 |
+| [11] | [[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized\|Operation Final Exchange — 47 Russian-language no-KYC cryptocurrency exchanges seized]] | German BKA + GenStA Frankfurt am Main | 2024-09-19 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240919_PM_finalexchange.html |

@@ -5,7 +5,7 @@ aliases:
   - "OFAC SB-0225"
   - "Garantex re-designation"
   - "Grinex designation"
-case_id: "CYB-2025-112"
+case_id: CYB-2025-112
 period: 3
 operation_type: takedown
 status: completed
@@ -13,14 +13,14 @@ enforcement_type:
   - asset_freeze
 outcome: success
 timeframe:
-  announced: "2025-08-14"
-  start: "2025-08-14"
-  end: "2025-08-14"
+  announced: 2025-08-14
+  start: 2025-08-14
+  end: 2025-08-14
   ongoing: false
 crime_types:
   - "[[ransomware-ic]]"
   - "[[money-laundering-ic]]"
-crime_type: "money-laundering-ic"
+crime_type: money-laundering-ic
 target_entity: "Garantex Europe OU (re-designated); Grinex (successor exchange); 3 Garantex executives (Sergey Mendeleev, Aleksandr Mira Serda, Pavel Karavatsky); 6 associated companies in Russia and the Kyrgyz Republic (A7 LLC, A71 LLC, A7 Agent LLC, Old Vector, InDeFi Bank, Exved). Ransomware nexus: Conti, Black Basta, LockBit, NetWalker, Phoenix Cryptolocker."
 lead_agency: "[[us-treasury]]"
 coordinating_body: "[[us-treasury]]"
@@ -31,7 +31,8 @@ participating_agencies:
   - "[[us-treasury]]"
   - "[[us-secret-service]]"
   - "[[fbi]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[asset-freezing]]"
 results:
@@ -49,23 +50,27 @@ results:
     - "6 associated companies designated (Russia and Kyrgyz Republic)"
     - "USD 5 million State Department reward offer for Mira Serda; USD 1 million for other Garantex leaders"
 edges:
-  - source_actor: "us-treasury"
-    target_actor: "us-secret-service"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "us-treasury"
-    target_actor: "fbi"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
+  - source_actor: us-treasury
+    target_actor: us-secret-service
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: us-treasury
+    target_actor: fbi
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
 credibility_index: 4.5
 source_tier: 1
-missing_fields: []
-related_cases: []
+missing_fields:
+  []
+related_cases:
+  []
 related_operations:
   - "[[cryptex-pm2btc-sanctions]]"
-challenges_encountered: []
+  - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Sanctions-evasion infrastructure can be reconstituted within days of an enforcement action; designating successor entities is necessary to close the loophole."
   - "Coordination between cyber-authority sanctions (E.O. 13694) and country-specific sanctions (E.O. 14024) can layer pressure on dual-purpose criminal-state finance networks."
@@ -75,7 +80,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional page
 > This operation page is published below the preferred 5-source threshold (current `source_count: 1`). It is retained because the action is a high-salience tier-1 government primary-source designation that closes a specific sanctions-evasion loophole opened by the March 2025 [[us-secret-service|USSS]]-led Garantex disruption already documented in the wiki. The page should be enriched as additional reporting (Chainalysis, TRM Labs, OFAC SDN list entries, follow-on indictments) becomes available.
 

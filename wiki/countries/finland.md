@@ -27,7 +27,7 @@ key_agencies:
 last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-
+  - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
 operations_participated:
   - "[[operation-avalanche]]"
   - "[[operation-contender-2]]"

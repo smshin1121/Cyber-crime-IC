@@ -47,6 +47,8 @@ notable_cases:
   - "[[us-v-kai-west-intelbroker-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
   - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
+  - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
+  - "[[us-v-jubair-scattered-spider-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

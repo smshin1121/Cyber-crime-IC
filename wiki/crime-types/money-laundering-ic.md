@@ -46,17 +46,19 @@ notable_operations:
   - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
+  - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
+  - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 29
+source_count: 31
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -87,6 +89,8 @@ sources:
   - "[[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933]]"
   - "[[2025-07-24_treasury_dprk-it-worker-korea-sobaeksu-sanctions-sb0205]]"
   - "[[2026-03-12_treasury_dprk-it-worker-fraud-facilitators-amnokgang-vietnam-sb0416]]"
+  - "[[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized]]"
+  - "[[2025-01-10_justice-gov_operators-cryptocurrency-mixers-blender-sinbad-charged-money-laundering]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -173,3 +177,5 @@ This page focuses on the **international cooperation** dimension: how states and
 | [27] | [[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933\|Treasury Sanctions Mixer Used by the DPRK to Launder Stolen Virtual Currency (Sinbad.io)]] | US Department of the Treasury (OFAC), Press Release JY-1933 | 2023-11-29 | https://home.treasury.gov/news/press-releases/jy1933 |
 | [28] | [[2025-07-24_treasury_dprk-it-worker-korea-sobaeksu-sanctions-sb0205\|Treasury Sanctions Clandestine IT Worker Network Funding the DPRK's Weapons Programs (Korea Sobaeksu)]] | US Department of the Treasury (OFAC), Press Release SB-0205 | 2025-07-24 | https://home.treasury.gov/news/press-releases/sb0205 |
 | [29] | [[2026-03-12_treasury_dprk-it-worker-fraud-facilitators-amnokgang-vietnam-sb0416\|Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses (Amnokgang/Vietnam)]] | US Department of the Treasury (OFAC), Press Release SB-0416 | 2026-03-12 | https://home.treasury.gov/news/press-releases/sb0416 |
+| [30] | [[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized\|Operation Final Exchange — 47 Russian-language no-KYC cryptocurrency exchanges seized]] | German BKA + Generalstaatsanwaltschaft Frankfurt am Main | 2024-09-19 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240919_PM_finalexchange.html |
+| [31] | [[2025-01-10_justice-gov_operators-cryptocurrency-mixers-blender-sinbad-charged-money-laundering\|Operators of Cryptocurrency Mixers Charged with Money Laundering (Blender.io + Sinbad.io / Ostapenko, Oleynik, Tarasov)]] | US DOJ (OPA) | 2025-01-10 | https://www.justice.gov/opa/pr/operators-cryptocurrency-mixers-charged-money-laundering |

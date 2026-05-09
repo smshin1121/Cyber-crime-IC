@@ -63,6 +63,7 @@ operations_participated:
   - "[[de-ch-crypto-mixer-takedown-2025]]"
   - "[[black-axe-spain-takedown-2026]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

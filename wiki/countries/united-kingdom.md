@@ -34,6 +34,7 @@ notable_cases:
   - "[[uk-collins-aerospace-airport-ransomware-arrest-2025]]"
   - "[[us-v-kai-west-intelbroker-2025]]"
   - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
+  - "[[us-v-jubair-scattered-spider-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

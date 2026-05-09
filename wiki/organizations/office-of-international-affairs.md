@@ -51,6 +51,8 @@ notable_cases:
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
   - "[[us-v-kai-west-intelbroker-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
+  - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
+  - "[[us-v-jubair-scattered-spider-2025]]"
 ---
 ## Summary
 

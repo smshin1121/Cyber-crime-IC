@@ -21,6 +21,7 @@ notable_operations:
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
 notable_cases:
   - "[[us-v-kai-west-intelbroker-2025]]"
+  - "[[us-v-jubair-scattered-spider-2025]]"
 ---
 ## Summary
 

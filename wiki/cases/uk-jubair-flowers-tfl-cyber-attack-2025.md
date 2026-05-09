@@ -32,14 +32,18 @@ defendants:
       - "Conspiring to commit unauthorised acts against TfL — Computer Misuse Act 1990"
       - "Conspiring to infiltrate and damage the networks of SSM Health Care Corporation (US) — Computer Misuse Act / fraud-related charges (per CPS statement)"
       - "Attempting to infiltrate and damage the networks of Sutter Health (US) — Computer Misuse Act / fraud-related charges (per CPS statement)"
-related_operation: ""
+related_operation:
+  - "[[us-v-jubair-scattered-spider-2025]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: "None — both defendants are UK nationals arrested on UK soil and prosecuted in UK courts. No US extradition request announced; UK prosecution covers Flowers' alleged offences against US healthcare entities directly."
   evidence_from_abroad:
     - "United States (SSM Health Care Corporation and Sutter Health victim incident evidence — likely (55-80%) supplied via FBI cooperation, not specified in source)"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[uk-nca]]"
   - "[[city-of-london-police]]"
@@ -57,7 +61,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional case page (source_count = 1)
 > Below the preferred publication threshold of source_count >= 5. The page is published as a provisional record because the NCA press release is a tier-1 primary source and the case has clear durable IC value (UK-as-venue prosecution for cross-border attacks on US victims; RIPA s.49 password-disclosure charge; Scattered Spider attribution). Should be promoted to a full case page once additional tier-1 filings (CPS charge sheet, Crown Court indictment, judgment) are ingested.
 
