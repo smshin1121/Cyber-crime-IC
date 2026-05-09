@@ -3,7 +3,7 @@ type: mechanism
 title: "Joint Investigation Team (JIT)"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-04-10
 source_count: 6
 sources:
@@ -21,6 +21,7 @@ operations_using:
   - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
+  - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
 ---
 ## Summary
 

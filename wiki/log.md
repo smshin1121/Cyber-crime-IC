@@ -1750,3 +1750,16 @@
   - L19-strict applied: 7 wikilinked agencies all named in source AND have wiki pages. Koninklijke Marechaussee mentioned in prose only (no wiki page yet).
   - L23-strict applied: lead_agency/coordinating_body left empty (OM.nl release describes a tri-lateral op without designating a single lead/coordinator).
   - 9 reference rows appended; 17 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | NZ-US joint USD 265M cryptocurrency-theft RICO investigation (NZ Police + FBI, May 2025)
+- Source: raw/press-releases/2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation.md (New Zealand Police — Financial Crime Group; en).
+- Pages created: wiki/sources/2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation.md, wiki/operations/nz-fbi-malone-lam-265m-cryptocurrency-scam-2025.md (provisional, source_count=1).
+- Pages updated: countries/new-zealand, countries/united-states; agencies fbi, us-doj; crime-types online-fraud-ic + money-laundering-ic + organized-crime-ic; mechanisms joint-investigation-team + search-seizure.
+- Key findings:
+  - **Second wiki record from NZ Police** (police.govt.nz) — first since a 2016 darknet-drug item; promoted to fresher tier-1 publisher coverage; first NZ-US bilateral cybercrime IC record in the wiki.
+  - **Coordinated three-day search-warrant operation** Auckland–Wellington–California: 13 arrests, 1 Wellington-based NZ resident indicted by US DOJ under RICO + wire-fraud + money-laundering conspiracy.
+  - **USD 265M / NZD 450M cryptocurrency theft** from 7 victims March–August 2024 by multinational organised crime group; high-profile spending pattern (~USD 9M exotic cars, watches, Hamptons/Miami rentals, private-jet, nightclub spending).
+  - Co-defendant of Malone Lam (named in some external reporting; not asserted in NZ release).
+  - L19-strict applied: only 2 wikilinked agencies (fbi, us-doj) named in source AND with wiki pages. NZ Police Financial Crime Group kept as plain prose (no wiki org page yet).
+  - L23-strict applied: lead_agency=`[[fbi]]`; coordinating_body left empty.
+  - 5 reference rows appended; 8 pages with `updated:` bumped.

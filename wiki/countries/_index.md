@@ -115,7 +115,7 @@ total: 61
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 2 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 7 |
-| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 9 |
+| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 10 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 0 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |
@@ -151,7 +151,7 @@ total: 61
 |  | [[mongolia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[mozambique]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[namibia]] | not-assessed | — | unknown | unknown | 0 |
-|  | [[new-zealand]] | not-assessed | — | unknown | unknown | 2 |
+|  | [[new-zealand]] | not-assessed | — | unknown | unknown | 3 |
 |  | [[niger]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[palestine]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[qatar]] | not-assessed | — | unknown | unknown | 0 |

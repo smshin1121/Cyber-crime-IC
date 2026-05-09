@@ -217,8 +217,9 @@ operations_participated:
   - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
+  - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
 region: north-america
-source_count: 9
+source_count: 10
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -229,6 +230,7 @@ sources:
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
+  - "[[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29
