@@ -54,8 +54,9 @@ operations_participated:
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
+  - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
 region: east-asia
-source_count: 25
+source_count: 26
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
   - "[[2024-12-02-interpol-operation-haechi-v]]"
@@ -72,6 +73,7 @@ sources:
   - "[[2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms]]"
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
+  - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
 title: "Republic of Korea (South Korea)"
 treaty_memberships:
   - date: 2023-02
@@ -317,3 +319,4 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [23] | [[2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms\|Two U.S. Nationals Sentenced for Facilitating DPRK IT Worker Schemes (refers to October 2023 joint US-ROK guidance)]] | US DOJ (OPA) | 2026-05-07 | https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker-0 |
 | [24] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition — Lithuanian hacker arrested in Georgia via Red Notice (KR+LT+GE; 8 KR victims, ₩16M loss; 5y4m investigation)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |
 | [25] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
+| [26] | [[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests\|KNPA-Vietnam Public Security joint arrest of 5 Cambodia-Bavet romance-scam cadre in Vietnam (Da Nang+HCMC+Khanh Hoa, Oct 2025); 192 KR victims, ~₩4.6B losses]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2025-11-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156724852 |

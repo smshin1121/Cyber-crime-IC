@@ -33,16 +33,18 @@ operations_participated:
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
+  - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 2
+source_count: 3
 created: 2026-04-20
-updated: 2026-05-09
+updated: 2026-05-10
 status: corpus-linked
 sources:
   - "[[2020-01-01_en-vietnamplus-vn_thailand-forms-new-police-agency-to-tackle-cybercrimes]]"
   - "[[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown]]"
+  - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
 ---
 ## Summary
 

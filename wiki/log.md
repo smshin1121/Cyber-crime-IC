@@ -2028,3 +2028,33 @@
   - L24 strict ≥2-country IC compliance verified verbatim from Korean release ("한·캄 경찰 간 합동작전").
   - L23 strict applied: lead_agency=`[[knpa]]`; coordinating_body=`[[knpa]]`.
   - 11 reference rows appended; 17 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | Iter 129 — KNPA Korea–Vietnam joint arrest of 5 Cambodia-Bavet romance-scam cadre in Vietnam (2025-10-28)
+- Source: raw/press-releases/2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests.md (Korea.kr 정책브리핑 newsId=156724852, KNPA tier-1 release; verbatim body recovered via Herald Corp / Kyunghyang / Insidevina secondary reproductions because korea.kr HTML view exposes only title and body lives in PDF/HWPX attachments)
+- Pages created:
+  - wiki/sources/2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests.md
+  - wiki/operations/knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025.md
+- Pages updated: (none — country/agency backlinks intentionally not modified per iteration scope; will be reconciled by standard backlink sweep)
+- Key findings:
+  - Korea–Vietnam bilateral LE cooperation with explicit primary-source acknowledgment (KNPA International Cooperation Officer Lee Jae-young, 이재영 경찰청 국제협력관) — satisfies L24 strict ≥2-country IC requirement.
+  - 5 Korean-national cadre arrested simultaneously in Da Nang, Ho Chi Minh City, Khanh Hoa Province on 2025-10-28; 192 Korean victims, ₩4.6B (~USD 3.5M) in losses; romance-scam (로맨스스캠) + crypto-investment manipulation modus operandi.
+  - L24 application: Cambodia (operating base) recorded in prose only and excluded from participating_countries; primary source identifies Vietnam Public Security as the only foreign LE counterpart.
+  - L23 strict applied: lead_agency=`[[knpa]]`, coordinating_body=`[[knpa]]`; Vietnamese authority recorded in prose only because no `vietnam-public-security` wiki page exists.
+  - Cooperation channel: Korean Embassy police attaché (경찰주재관) in Da Nang and Ho Chi Minh City interfacing with Vietnamese provincial-level public-security units — operational standing channel, non-treaty.
+
+## [2026-05-10] ingest | KNPA-Vietnam joint arrest of Cambodia-Bavet romance-scam cadre in Vietnam (Oct 2025) — iter 129
+- Source: raw/press-releases/2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests.md (KNPA via 대한민국 정책브리핑 korea.kr; ko).
+- Pages created: wiki/sources/2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests.md, wiki/operations/knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025.md (provisional, source_count=1).
+- Pages updated: countries/south-korea, countries/vietnam; agencies knpa, ministry-of-foreign-affairs-korea; crime-types online-fraud-ic + organized-crime-ic; mechanisms/informal-cooperation.
+- Key findings:
+  - **Second wiki record from korea.kr 정책브리핑** (after iter 128 Cambodia-Korea-dedicated Squad).
+  - **First wiki record of KR-VN bilateral op** with embedded LE liaison via Korean Embassy police attachés (경찰주재관) Da Nang + HCMC + Khanh Hoa.
+  - 5 Korean-national cadre arrested simultaneously 2025-10-28 across 3 Vietnamese cities (Da Nang, HCMC, Khanh Hoa); separate Bac Ninh arrest of leader-class subject same release window.
+  - 192 Korean victims, ~₩4.6B (~USD 3.5M) cumulative losses; modus operandi = dating-app/SNS romance lures + crypto-investment manipulation.
+  - L24 strict ≥2-country IC compliance verified ("한·베 법집행기관간 신뢰와 협력의 결실"); Cambodia (operating base) correctly excluded from participating_countries — recorded in body prose only.
+  - Vietnam Public Security (베트남 공안청) named in source but no wiki org page yet → kept in body prose only per L19/L23.
+  - L23 strict applied: lead_agency=`[[knpa]]`; coordinating_body=`[[knpa]]`.
+  - 3 reference rows appended; 8 pages with `updated:` bumped.
+
+## [2026-05-10] /loop suspended at iter 129 per user
+- User instruction "129까지 하고 잠시 중단" received. Iter 129 fully ingested + backlinked + committed locally; iter 130 milestone push deferred. 9 unpushed commits accumulated since iter 120 push (`d7cae6a23`): iters 121-129. Lint clean (HIGH=0, CRITICAL=0, MEDIUM=0, LOW=0). check_links broken=2 (both pre-existing legacy bohemia-cannabia LESSONS.md backlinks). ZZPROT 0. Loop ScheduleWakeup not re-armed.

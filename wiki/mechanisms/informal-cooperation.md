@@ -45,6 +45,7 @@ operations_using:
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
+  - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
 ---
 ## Summary
 

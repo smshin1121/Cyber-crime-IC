@@ -25,14 +25,16 @@ cooperation_partners:
 operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
+  - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
 notable_cases:
 
 contact_point_for:
 
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition]]"
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
+  - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
 created: 2026-05-08
 updated: 2026-05-10
 last_verified: 2026-05-09

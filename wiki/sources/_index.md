@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (809)
+# Sources (810)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -140,6 +140,7 @@ updated: 2026-04-14
 | [[2025-11-05_eurojust-fraud-term_eur-300m-global-credit-card-fraud]] | government | Eurojust | ? | high | ? |
 | [[2025-11-05_112wwft-nl_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18-arrests]] | news | 112WWFT | ? | medium | ? |
 | [[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
+| [[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]] | press-release | 경찰청 (Korean National Police Agency) | ? | high | ? |
 | [[2025-11-04_eurojust_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | press-release | Eurojust | 2 | high | ? |
 | [[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown]] | press-release | Eurojust | ? | high | ? |
 | [[2025-11-04_112wwft-nl_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | news | 112WWFT | ? | medium | ? |
