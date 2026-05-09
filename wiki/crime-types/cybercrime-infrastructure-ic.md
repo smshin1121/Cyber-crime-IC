@@ -48,6 +48,7 @@ notable_operations:
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
+  - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -56,7 +57,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 27
+source_count: 28
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -85,6 +86,7 @@ sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
+  - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
 created: 2026-04-17
 updated: 2026-05-10
 status: active
@@ -140,3 +142,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [25] | [[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown\|SG-HK-MY tri-lateral GSM gateway scam syndicate takedown — 11 arrests, 226 GSM gateways seized; FRONTIER+ umbrella]] | Singapore Police Force (Public Affairs Dept) | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_11_persons_arrested_in_a_joint_enforcement_operation_against_a_transnational_scam_syndicate |
 | [26] | [[2026-04-22_police-be_phishingpanelen-leverancier-arrest\|Belgian Federal Police — CaaS phishing-panel supplier arrest, NL→BE surrender, EUR 28K cash + data carriers seized (FGP Oost-Vlaanderen + Europol)]] | Belgian Federal Police (Politie.be / Police.be) | 2026-04-22 | https://www.police.be/5998/nl/nieuws/crime-as-a-service-leverancier-phishingpanelen-aan-phishingbendes-opgepakt |
 | [27] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |
+| [28] | [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits\|AFP intelligence leads to 8 arrests over Malaysia-based phishing-kit-as-a-service syndicate cloning AU myGov, MY and US Government services; 4 servers + 60+TB seized]] | Australian Federal Police (AFP) | 2023-11-27 | https://www.afp.gov.au/news-centre/media-release/afp-intelligence-leads-eight-arrests-over-phishing-kits |

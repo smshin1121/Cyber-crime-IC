@@ -35,7 +35,7 @@ updated: 2026-04-08
 | [[ministry-of-interior-korea]] | ministry | [[south-korea]] | Parent-ministry context for [[knpa]] in the current corpus.; Relevant to proposed or future Korean serious-crime investigation structures that include cybercrime. | — | 2 |
 | [[ministry-of-justice-korea]] | ministry | [[south-korea]] | Parent-ministry context for prosecutor-side international cooperation and post-reform prosecution structures.; Relevant to MLAT, extradition, and cybercrime treaty engagement alongside the prosecution service. | 3 | 3 |
 | [[singapore-mddi]] | ministry | [[singapore]] | Parent-ministry context for [[singapore-csa]] in the corpus.; Provides policy and agency-management context for Singapore's national cybersecurity posture. | — | 1 |
-| [[australia-afp]] | national-agency | Canberra, Australia | — | 19 | 7 |
+| [[australia-afp]] | national-agency | Canberra, Australia | — | 20 | 8 |
 | [[australian-criminal-intelligence-commission]] | national-agency | Australia | National criminal intelligence agency supporting serious and organized crime investigations.; Provides intelligence-sharing context for Australian cybercrime enforcement alongside [[australia-afp]]. | 1 | 1 |
 | [[brazil-ministry-of-justice-public-security]] | national-agency | Brasilia, Brazil | National public-security coordination; Cyber operations coordination through Ciberlab/Senasp structures | 7 | 4 |
 | [[cambodian-national-police]] | national-agency | Phnom Penh, Cambodia | National police force of Cambodia; Cambodian counterpart for the Korea–Cambodia Joint Task Force for Korean nationals (코리아전담반) MOU and joint operations | 2 | 1 |
@@ -47,7 +47,7 @@ updated: 2026-04-08
 | [[dubai-police]] | national-agency | Dubai, United Arab Emirates | Lead emirate-level cybercrime investigations and arrests in Dubai jurisdiction; International liaison for UAE cyber and financial-crime cooperation, including with Interpol and US/EU law-enforcement partners | 1 | 1 |
 | [[dutch-police]] | national-agency | Netherlands | Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles.; Routes current institutional context to [[netherlands-politie]]. | 6 | 3 |
 | [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 61 | 10 |
-| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 91 | 13 |
+| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 92 | 14 |
 | [[finland-nbi]] | national-agency | Vantaa, Finland | Lead Finnish national investigative agency for serious and transnational cybercrime; Finnish Europol national unit and INTERPOL national central bureau (NCB) liaison | 5 | 4 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | Compatibility label for Bundeskriminalamt references in older operation records.; Routes detailed mandate, cybercrime division, and international-cooperation context to [[germany-bka]]. | 2 | 3 |
 | [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 44 | 8 |
@@ -58,7 +58,7 @@ updated: 2026-04-08
 | [[kisa]] | national-agency | Naju, South Korea | Operate KrCERT/CC — national CSIRT for South Korea (launched December 2010); Manage .kr ccTLD and Korean IPv4/IPv6 address space | — | 7 |
 | [[knpa]] | national-agency | Seoul, South Korea | National police service operations; Criminal investigation via 국가수사본부 (NIO) | 8 | 3 |
 | [[london-metropolitan-police]] | national-agency | London, United Kingdom | Compatibility page for London Metropolitan Police references in older operation records.; Routes broader Metropolitan Police context to [[uk-metropolitan-police]] and cyber-specific references to [[uk-met-police-cyber]]. | 2 | 2 |
-| [[malaysia-police]] | national-agency | Bukit Aman, Kuala Lumpur, Malaysia | Lead Malaysia federal cybercrime and commercial crime investigations; Commercial Crime Investigation Department (CCID) — primary cybercrime investigative | 2 | 5 |
+| [[malaysia-police]] | national-agency | Bukit Aman, Kuala Lumpur, Malaysia | Lead Malaysia federal cybercrime and commercial crime investigations; Commercial Crime Investigation Department (CCID) — primary cybercrime investigative | 3 | 6 |
 | [[maroc-cert]] | national-agency | Morocco | Morocco's national CERT / incident-response function.; Technical-response counterpart to police or intelligence-led cybercrime enforcement. | — | 1 |
 | [[ministry-of-foreign-affairs-korea]] | national-agency | Seoul, Republic of Korea | Treaty negotiation and management for the Republic of Korea, including mutual legal assistance treaties and extradition treaties; Diplomatic channel for Korean MLAT and extradition requests in coordination with the Ministry of Justice | 1 | 1 |
 | [[ministry-of-science-and-ict-korea]] | national-agency | Sejong, South Korea | Supervises [[kisa]] (Korea Internet & Security Agency) and KrCERT/CC; Policy authority for cybersecurity and information protection under 정보통신망법 | — | 4 |

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (801)
+# Sources (802)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -463,6 +463,7 @@ updated: 2026-04-14
 | [[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2023-11-29_mdfl_adejumo-jinadu-xdedic-sentencing]] | court-document | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2023-11-28_eurojust_ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol]] | press-release | Eurojust | 1 | high | ? |
+| [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]] | press-release | Australian Federal Police | ? | high | ? |
 | [[2023-11-21_news-cgtn-com_31-000-telecom-scam-suspects-handed-over-to-china-by-myanmar]] | news | CGTN | ? | medium | ? |
 | [[2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown]] | news | VOA News | ? | medium | ? |
 | [[2026-04-18_justice-gov_monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb]] | press-release | US DOJ USAO | ? | high | ? |

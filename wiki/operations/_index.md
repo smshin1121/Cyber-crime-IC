@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (247 canonical / 27 absorbed / 274 records)
+# Operations (248 canonical / 27 absorbed / 275 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (247)
+## Canonical Operations (248)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -249,6 +249,7 @@ updated: 2026-04-14
 | [[operation-us-v-szabo-swatting-ring]] | CYB-2026-USRO-01 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |
+| [[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]] | — | 2 | completed | — | 1 | 3.00 | 1 |
 | [[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]] | — | 3 | ongoing | — | 1 | 3.00 | 1 |
 | [[bidencash-takedown]] | — | 3 | completed | umbrella | 4 | 4.50 | 1 |
 | [[carding-action-2020]] | — | 2 | completed | umbrella | 6 | 3.50 | 2 |

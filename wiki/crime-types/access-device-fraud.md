@@ -4,17 +4,19 @@ title: "Access Device Fraud"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-10
-source_count: 5
+source_count: 6
 sources:
   - "[[2018-02-07_cyberscoop_infraud-doj-arrests-svyatoslav-bondarenko-sergey-medvedev]]"
   - "[[2018-02-07_justice-gov_thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organ]]"
   - "[[2018-02-07_nv_infraud-organization-indictment]]"
   - "[[2020-01-27_justice-gov_bay-area-residents-sentenced-to-five-years-for-counterfeit-currency-and-credit-c]]"
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
+  - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
+  - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
 ---
 ## Summary
 

@@ -1852,3 +1852,15 @@
 - 8 first-wiki structural records this milestone: BTA (state wire); FGP Oost-Vlaanderen East Flanders bilateral CaaS supplier-tier arrest; commissariatodips.it Polizia Postale public portal; OM.nl Landelijk Parket operational; NZ Police Financial Crime Group; MPF CABA prosecutor's office; multi-Latin-America 13-jurisdiction CSAM mega-op; tribratanews.polri.go.id national newsroom.
 - 3 first-pattern operations: PRC-attribution operational counterpart to existing prosecution case (HAFNIUM Xu Zewei); Operation Endgame CAV-sub-operation (NL/US/FI AvCheck); INTERPOL Red Notice + airport-arrest pattern documented for Cambodia-base scam-compound fugitives (Polri LCS).
 - web/build_static.py: queued for background run after push.
+
+## [2026-05-10] ingest | AFP-RMP-FBI Malaysia myGov phishing-kit-as-a-service syndicate dismantling (Nov 2023)
+- Source: raw/press-releases/2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits.md (Australian Federal Police; en).
+- Pages created: wiki/sources/2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits.md, wiki/operations/afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023.md (provisional, source_count=1).
+- Pages updated: countries/australia, countries/malaysia, countries/united-states; agencies australia-afp, malaysia-police, fbi-cyber-division; crime-types online-fraud-ic + cybercrime-infrastructure-ic + identity-theft + access-device-fraud; mechanisms/informal-cooperation.
+- Key findings:
+  - **First wiki record from afp.gov.au** as a primary source — only secondary outlets (csoonline) had been ingested before. AU AFP promoted to direct tier-1 publisher coverage.
+  - **AU/MY/US tri-lateral phishing-kit-as-a-service takedown** — 35-y-o Malaysian alleged syndicate operator + 7 others arrested 2023-11-06 across Borneo + Malaysian technology park; 4 servers + 60+ TB data + cryptocurrency seed phrases recovered.
+  - **myGov + Malaysian Government + US Government phishing-kit templates** all cloned by the syndicate — first wiki record of phishing-kit-as-a-service supplier-tier prosecution from APAC perspective (parallels iter 113 BE-NL CaaS supplier-tier arrest pattern).
+  - L19-strict applied: 3 wikilinked agencies (australia-afp, malaysia-police, fbi-cyber-division) named in source AND with wiki pages.
+  - L23-strict applied: lead_agency=`[[malaysia-police]]` (existing wiki page); coordinating_body left empty.
+  - 7 reference rows appended; 12 pages with `updated:` bumped.

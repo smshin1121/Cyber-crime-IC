@@ -3,8 +3,8 @@ type: crime-type
 title: "Identity Theft"
 status: corpus-linked
 created: 2026-04-18
-updated: 2026-05-09
-source_count: 12
+updated: 2026-05-10
+source_count: 13
 sources:
   - "[[2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story]]"
   - "[[2015-09-12_justice-gov_san-francisco-resident-charged-in-alleged-identity-theft-bank-fraud-and-aggravat]]"
@@ -18,6 +18,7 @@ sources:
   - "[[2025-09-10_rcmp_canada-fbi-twitter-nft-redman-extradition]]"
   - "[[2026-04-09_politie_veriftools-identity-fraud-arrests]]"
   - "[[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation]]"
+  - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_cases:
@@ -31,6 +32,7 @@ notable_operations:
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
+  - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
 ---
 ## Summary
 

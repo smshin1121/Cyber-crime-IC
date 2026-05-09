@@ -36,15 +36,16 @@ official_name: "Polis Diraja Malaysia, Commercial Crime Investigation Department
 operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
 org_type: national-agency
 parent_org: "[[royal-malaysia-police]]"
-source_count: 5
+source_count: 6
 sources:
-
+  - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
 status: active
 title: "Royal Malaysia Police — Commercial Crime Investigation Department (Cyber Crime)"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -104,3 +105,4 @@ PDRM's cooperation capacity is *likely* moderate-to-high for regional and Five E
 | [3] | Royal Malaysia Police | Wikipedia | n.d. | https://en.wikipedia.org/wiki/Royal_Malaysia_Police |
 | [4] | Malaysia | Council of Europe Octopus Cybercrime Community | n.d. | https://www.coe.int/en/web/octopus/-/malaysia |
 | [5] | Malaysia's Cybercrime Law Reform Underway: Notes from CYDES 2025 | sonnyzulhuda.com | 2025-07-05 | https://sonnyzulhuda.com/2025/07/05/malaysias-cybercrime-law-reform-underway-notes-from-the-cydes-2025/ |
+| [6] | [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits\|AFP intelligence leads to 8 arrests over Malaysia-based phishing-kit-as-a-service syndicate cloning AU myGov, MY and US Government services; 4 servers + 60+TB seized]] | Australian Federal Police (AFP) | 2023-11-27 | https://www.afp.gov.au/news-centre/media-release/afp-intelligence-leads-eight-arrests-over-phishing-kits |

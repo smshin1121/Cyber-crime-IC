@@ -34,16 +34,18 @@ operations_participated:
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
 region: oceania
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
 title: "Commonwealth of Australia"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

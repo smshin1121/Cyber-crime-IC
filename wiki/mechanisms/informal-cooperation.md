@@ -41,6 +41,7 @@ operations_using:
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
   - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
+  - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
 ---
 ## Summary
 

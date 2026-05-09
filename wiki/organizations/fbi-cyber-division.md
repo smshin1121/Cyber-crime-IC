@@ -116,11 +116,13 @@ operations_participated:
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
+  - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
-source_count: 13
+source_count: 14
 sources:
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
+  - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
 status: active
 title: "FBI Cyber Division"
 type: organization
@@ -258,3 +260,4 @@ The FBI maintains a Legal Attache office at the US Embassy in Seoul, which serve
 | [11] | Bryan A. Vorndran — leadership profile | FBI | — | https://www.fbi.gov/about/leadership-and-structure/vorndran |
 | [12] | FBI says even in an AI-powered world, security basics still matter (Operation Winter Shield) | CyberScoop | 2025–2026 | https://cyberscoop.com/fbi-operation-winter-shield-ai-cyber-defense-jason-bilnoski/ |
 | [13] | [[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti\|Commissariato di P.S. on-line — IT-US extradition of PRC HAFNIUM-campaign hacker Xu Zewei (Malpensa Jul 2025 arrest → Milan Apr 2026 extradition)]] | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | 2026-04-27 | https://www.commissariatodips.it/notizie/articolo/la-polizia-di-stato-esegue-lestradizione-di-un-pericoloso-hacker-cinese/index.html |
+| [14] | [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits\|AFP intelligence leads to 8 arrests over Malaysia-based phishing-kit-as-a-service syndicate cloning AU myGov, MY and US Government services; 4 servers + 60+TB seized]] | Australian Federal Police (AFP) | 2023-11-27 | https://www.afp.gov.au/news-centre/media-release/afp-intelligence-leads-eight-arrests-over-phishing-kits |
