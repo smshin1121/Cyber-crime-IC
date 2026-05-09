@@ -52,6 +52,7 @@ notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
   - "[[us-v-fourteen-dprk-it-workers-2024]]"
   - "[[us-v-five-scattered-spider-members-2024]]"
+  - "[[us-v-redman-twitter-nft-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

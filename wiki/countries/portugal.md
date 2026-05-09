@@ -27,7 +27,7 @@ key_agencies:
 last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
-
+  - "[[us-v-redman-twitter-nft-2025]]"
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[leakbase-takedown-2026]]"

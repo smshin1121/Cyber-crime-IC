@@ -20,7 +20,7 @@ mandate: "Enable a coordinated Canadian law enforcement response to cybercrime b
 mechanisms_operated:
 
 notable_cases:
-
+  - "[[us-v-redman-twitter-nft-2025]]"
 official_name: "Royal Canadian Mounted Police — National Cybercrime Coordination Centre"
 official_name_ko: "캐나다 기마경찰대 국가사이버범죄조정센터"
 operations_participated:

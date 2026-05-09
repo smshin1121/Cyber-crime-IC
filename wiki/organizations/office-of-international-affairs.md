@@ -53,6 +53,7 @@ notable_cases:
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
   - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
+  - "[[us-v-redman-twitter-nft-2025]]"
 ---
 ## Summary
 

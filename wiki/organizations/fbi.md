@@ -43,6 +43,7 @@ notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
   - "[[us-v-fourteen-dprk-it-workers-2024]]"
   - "[[us-v-five-scattered-spider-members-2024]]"
+  - "[[us-v-redman-twitter-nft-2025]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:

@@ -31,6 +31,7 @@ notable_cases:
   - "[[us-v-jubair-scattered-spider-2025]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
   - "[[us-v-five-scattered-spider-members-2024]]"
+  - "[[us-v-redman-twitter-nft-2025]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
@@ -45,7 +46,7 @@ notable_operations:
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 22
+source_count: 23
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -69,6 +70,7 @@ sources:
   - "[[2025-01-03_treasury_sanctions-integrity-technology-group-flax-typhoon]]"
   - "[[2025-01-17_treasury_sanctions-yin-kecheng-sichuan-juxinhe-salt-typhoon]]"
   - "[[2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down]]"
+  - "[[2025-09-10_rcmp_canada-fbi-twitter-nft-redman-extradition]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -129,3 +131,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [20] | [[2025-01-03_treasury_sanctions-integrity-technology-group-flax-typhoon\|Treasury Sanctions Integrity Technology Group, Inc. for Malicious Cyber Activity (Flax Typhoon)]] | US Department of the Treasury (OFAC), Press Release JY-2769 | 2025-01-03 | https://home.treasury.gov/news/press-releases/jy2769 |
 | [21] | [[2025-01-17_treasury_sanctions-yin-kecheng-sichuan-juxinhe-salt-typhoon\|Treasury Sanctions Yin Kecheng and Sichuan Juxinhe Network Technology for Cyberespionage Activities (Salt Typhoon)]] | US Department of the Treasury (OFAC), Press Release JY-2792 | 2025-01-17 | https://home.treasury.gov/news/press-releases/jy2792 |
 | [22] | [[2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down\|Global phishing-as-a-service platform taken down in coordinated public-private action (Tycoon 2FA)]] | Europol | 2026-03-04 | https://www.europol.europa.eu/media-press/newsroom/news/global-phishing-service-platform-taken-down-in-coordinated-public-private-action |
+| [23] | [[2025-09-10_rcmp_canada-fbi-twitter-nft-redman-extradition\|RCMP-FBI Twitter/NFT theft extradition (Redman, CA→PT→US, EDVA No. 1:25-cr-129)]] | RCMP Central Region (CNW mirror) + DOJ EDVA | 2025-09-10 | https://www.canada.ca/en/royal-canadian-mounted-police/news.html |

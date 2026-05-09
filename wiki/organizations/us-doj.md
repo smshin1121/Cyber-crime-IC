@@ -42,6 +42,7 @@ notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
   - "[[us-v-fourteen-dprk-it-workers-2024]]"
   - "[[us-v-five-scattered-spider-members-2024]]"
+  - "[[us-v-redman-twitter-nft-2025]]"
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:

@@ -18,6 +18,7 @@ cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
   - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
+  - "[[us-v-redman-twitter-nft-2025]]"
 ---
 ## Summary
 

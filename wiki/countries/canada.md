@@ -28,6 +28,7 @@ last_verified: 2026-05-09
 legal_system: mixed
 notable_cases:
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
+  - "[[us-v-redman-twitter-nft-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
