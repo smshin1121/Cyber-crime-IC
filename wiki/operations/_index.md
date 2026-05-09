@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (217 canonical / 27 absorbed / 244 records)
+# Operations (218 canonical / 27 absorbed / 245 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (217)
+## Canonical Operations (218)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -202,6 +202,7 @@ updated: 2026-04-14
 | [[operation-switch-off-illegal-iptv-2026]] | CYB-2026-034 | 3 | completed | umbrella | 3 | 4.20 | 1 |
 | [[albania-austria-call-centre-investment-fraud-2026]] | CYB-2026-035 | 3 | completed | umbrella | 3 | 4.30 | 1 |
 | [[dnipro-fraudulent-call-centre-takedown-2026]] | CYB-2026-036 | 3 | completed | umbrella | 3 | 4.15 | 1 |
+| [[greek-daoe-crypto-investment-fraud-2026]] | CYB-2026-036 | 3 | completed | standalone | 1 | 4.40 | 1 |
 | [[black-axe-switzerland-takedown-2026]] | CYB-2026-037 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-token-mirrors-2026]] | CYB-2026-038 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]] | CYB-2026-064 | 3 | completed | standalone | 1 | 3.40 | 1 |

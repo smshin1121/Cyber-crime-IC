@@ -39,10 +39,11 @@ operations_participated:
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 region: eastern-europe
-source_count: 4
+source_count: 5
 sources:
-
+  - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
 title: "Republic of Bulgaria"
 treaty_memberships:
   - date: 2005-04-07
@@ -117,3 +118,4 @@ Capacity is *likely* medium. Bulgaria benefits from EU funding and Europol integ
 | [2] | Bulgaria — Octopus Cybercrime Community | Council of Europe | — | https://www.coe.int/en/web/octopus/-/bulgaria |
 | [3] | General Directorate Combating Organized Crime (GDBOP) | Bulgarian Ministry of Interior / NetLaw | — | https://www.netlaw.bg/en/a/general-directorate-combating-organized-crime-ministry-of-interior-bulgaria |
 | [4] | 22 countries sign Second Additional Protocol | Council of Europe | 2022-05-12 | https://www.coe.int/en/web/cybercrime/second-additional-protocol/-/asset_publisher/isHU0Xq21lhu/content/opening-coecyber2ap |
+| [5] | [[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown\|Hellenic Police DAOE crypto-investment Ponzi takedown — €14.5M, 12 arrests, 8 countries (GR+FR+DE+MT+UK+IE+DK+BG); Bulgaria offshore companies link]] | Hellenic Police HQ (Δ.Α.Ο.Ε.) | 2026-03-06 | https://www.astynomia.gr/2026/03/06/06-03-2026-d-a-o-e-exarthrosi-egklimatikis-organosis-pou-diepratte-apates-me-to-proschima-ton-ependyseon-se-kryptonomismata-12-syllipseis/ |

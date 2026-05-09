@@ -53,8 +53,9 @@ operations_participated:
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 region: western-europe
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]"
@@ -63,6 +64,7 @@ sources:
   - "[[2023-11-23_legifrance-gouv-fr_d-cret-n-2023-1083-du-23-novembre-2023-portant-cr-ation-de-l-office-anti-cybercr]]"
   - "[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
 title: "French Republic"
 treaty_memberships:
   - date: 2006-01-10

@@ -85,8 +85,9 @@ operations_participated:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 region: western-europe
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
   - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
@@ -94,6 +95,7 @@ sources:
   - "[[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]]"
   - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
 title: "United Kingdom"
 treaty_memberships:
   - date: 2011-05-25

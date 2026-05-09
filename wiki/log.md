@@ -1372,3 +1372,16 @@
   - Three OTF GRIMM-linked fugitives newly published on EU Most Wanted (2 Swedish, 1 German).
   - Tier-1 release does NOT designate OTF GRIMM as a JIT and does NOT name Eurojust — taskforce is structured as a Europol Operational Taskforce (ESOCC-coordinated) rather than a JIT/Eurojust instrument. Cross-border enforcement spine: domestic powers + EAW + Europol-channelled police-to-police + provider-side cooperation (Google/Meta/TikTok/Snapchat).
   - Six-month role taxonomy (193): 63 perpetrators / 84 recruiters / 40 enablers / 6 instigators — enforcement currently denser at operational tier than principal tier.
+
+## [2026-05-09] ingest | Hellenic Police DAOE crypto-investment Ponzi takedown — €14.5M, 12 arrests, 8 countries
+- Source: raw/press-releases/2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown.md (Hellenic Police HQ Directorate for the Confrontation of Organised Crime / Δ.Α.Ο.Ε.; el)
+- Pages created: wiki/sources/2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown.md, wiki/operations/greek-daoe-crypto-investment-fraud-2026.md (provisional, source_count=1)
+- Pages updated: 8 country pages (GR+FR+DE+MT+UK+IE+DK+BG), crime-types (online-fraud-ic, money-laundering-ic, organized-crime-ic), mechanisms (european-investigation-order, mutual-legal-assistance, search-seizure), 3 related operations (albania-austria-call-centre-investment-fraud-2026, operation-eur-100m-crypto-investment-fraud-2025, operation-eur-600m-crypto-scam-network-2025).
+- Key findings:
+  - Single national-led organised-crime takedown exercising **both EIO and classical MLA in parallel** — EIO to FR/DE/MT (EU Member States), MLA to UK (post-Brexit) / IE (EIO opt-out) / DK (EIO opt-out) — confirms continued necessity of MLA channel even within European judicial space.
+  - 12 arrests; €14.5M total illicit gain; 73 identified victims; €760,900 confirmed direct losses; >USD 2M digital-currency circulation on seized devices.
+  - Combined financial-supervisory authority (Hellenic Capital Market Commission) and police organised-crime unit on action day — on-scene certification-status assessment alongside law-enforcement seizure.
+  - Ponzi structure documented: 4-person leadership / 3 senior recruiters / 7 operational + support; 21 internal ranks; 90-day in-house "academy"; rebranding pattern.
+  - Greek FIU traced 4 offshore companies in Bulgaria linked to 2 organisation members.
+  - First wiki record sourced from astynomia.gr — confirms curl_cffi chrome120 viable bypass for Hellenic Police Cloudflare wall (LESSONS L11/L20).
+- LESSONS update: L11 working pattern confirmed for astynomia.gr — chrome120 succeeded on first try, no chrome124 fallback or Wayback needed.

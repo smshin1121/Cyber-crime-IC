@@ -76,8 +76,9 @@ operations_participated:
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 region: western-europe
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -85,6 +86,7 @@ sources:
   - "[[2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look]]"
   - "[[2026-04-18_coe-int_germany-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09

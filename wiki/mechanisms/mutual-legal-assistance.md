@@ -5,10 +5,13 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-04-29
 last_verified: 2026-04-10
-source_count: 1
+source_count: 2
 sources:
   - "[[voa-infraud-organization-takedown]]"
+  - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 ---
 ## Summary
 

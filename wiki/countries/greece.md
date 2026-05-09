@@ -11,10 +11,11 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 region: southern-europe
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
 title: "Hellenic Republic"
 treaty_memberships:
   - not-assessed

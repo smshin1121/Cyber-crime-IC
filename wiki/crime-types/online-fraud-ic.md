@@ -73,6 +73,7 @@ notable_operations:
   - "[[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -89,7 +90,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 65
+source_count: 66
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -156,6 +157,7 @@ sources:
   - "[[2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network]]"
   - "[[2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown]]"
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
+  - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -284,3 +286,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [63] | [[2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network\|US-Taiwan elder romance fraud takedown — first in-country MLAA proffer since 2002 (US+TW; USD 100M+, hundreds of victims)]] | American Institute in Taiwan (AIT PR-2510) | 2025-05-14 | https://www.ait.org.tw/us-tw-collaborate-to-dismantle-international-financial-fraud-network/ |
 | [64] | [[2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown\|Operación KAERB — iServer phishing-as-a-service takedown (ES+AR+CO+CL+EC+PE; 17 arrests, 921 devices, 483K victims globally)]] | Ministerio de Seguridad de la Nación (Argentina) | 2024-09-24 | https://www.argentina.gob.ar/noticias/operacion-kaerb |
 | [65] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
+| [66] | [[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown\|Hellenic Police DAOE crypto-investment Ponzi takedown — €14.5M, 12 arrests, 8 countries (GR+FR+DE+MT+UK+IE+DK+BG); EIO+MLA channels exercised in parallel]] | Hellenic Police HQ (Δ.Α.Ο.Ε.) | 2026-03-06 | https://www.astynomia.gr/2026/03/06/06-03-2026-d-a-o-e-exarthrosi-egklimatikis-organosis-pou-diepratte-apates-me-to-proschima-ton-ependyseon-se-kryptonomismata-12-syllipseis/ |

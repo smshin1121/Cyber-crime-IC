@@ -59,6 +59,7 @@ notable_operations:
   - "[[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -72,7 +73,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 45
+source_count: 46
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -119,6 +120,7 @@ sources:
   - "[[2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network]]"
   - "[[2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown]]"
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
+  - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -221,3 +223,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [43] | [[2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network\|US-Taiwan elder romance fraud takedown — first in-country MLAA proffer since 2002 (US+TW; USD 100M+, hundreds of victims)]] | American Institute in Taiwan (AIT PR-2510) | 2025-05-14 | https://www.ait.org.tw/us-tw-collaborate-to-dismantle-international-financial-fraud-network/ |
 | [44] | [[2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown\|US-Bulgaria Zamunda+ArenaBG+Zelka piracy takedown (BG+US+RO+GR)]] | US DOJ (OPA), PR 26-82 | 2026-01-30 | https://www.justice.gov/opa/pr/us-law-enforcement-assists-bulgarian-law-enforcement-taking-down-three-largest-piracy-sites |
 | [45] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
+| [46] | [[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown\|Hellenic Police DAOE crypto-investment Ponzi takedown — €14.5M, 12 arrests, 8 countries (GR+FR+DE+MT+UK+IE+DK+BG); EIO+MLA channels exercised in parallel]] | Hellenic Police HQ (Δ.Α.Ο.Ε.) | 2026-03-06 | https://www.astynomia.gr/2026/03/06/06-03-2026-d-a-o-e-exarthrosi-egklimatikis-organosis-pou-diepratte-apates-me-to-proschima-ton-ependyseon-se-kryptonomismata-12-syllipseis/ |

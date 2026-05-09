@@ -58,7 +58,7 @@ results:
 related_cases:
 
 related_operations:
-
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 challenges_encountered:
 
 lessons_learned:

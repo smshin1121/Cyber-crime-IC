@@ -70,13 +70,14 @@ results:
 credibility_index: 4.3
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
-  []
+
 related_operations:
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 challenges_encountered:
   - "Victim countries were broader than the formal participating-country list; metadata therefore records Austria and Albania as participating countries and keeps victim-market detail in results and evidence notes."
 lessons_learned:

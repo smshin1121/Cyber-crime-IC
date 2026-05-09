@@ -36,13 +36,15 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[greek-daoe-crypto-investment-fraud-2026]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-17_en-wikipedia-org_national-special-crime-unit-denmark]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
 created: 2026-04-11
 updated: 2026-05-09
 status: corpus-linked
