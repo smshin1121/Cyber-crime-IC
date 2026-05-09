@@ -207,6 +207,7 @@ operations_participated:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
   - "[[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]]"
+  - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
 region: north-america
 source_count: 1
 sources:

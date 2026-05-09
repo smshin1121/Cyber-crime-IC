@@ -44,6 +44,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
 region: eastern-europe
 source_count: 4
 sources:

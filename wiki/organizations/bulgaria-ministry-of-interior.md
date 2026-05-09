@@ -3,11 +3,13 @@ type: organization
 title: "Bulgaria Ministry of Interior"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-29
 org_type: ministry
 country: "[[bulgaria]]"
-jurisdiction: [[bulgaria]]
+jurisdiction:
+  -
+    - bulgaria
 mandate: "Bulgarian internal-security ministry and parent institution for GDBOP/GDCOC high-tech crime functions."
 key_roles:
   - "Parent organization for [[bulgaria-police|Bulgarian cybercrime police / GDBOP]] functions."
@@ -15,6 +17,7 @@ key_roles:
 operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[doublevpn-takedown]]"
+  - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
 cooperation_partners:
   - "[[bulgaria-police]]"
   - "[[europol-ec3]]"

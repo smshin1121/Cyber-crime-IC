@@ -38,6 +38,7 @@ operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
 region: eastern-europe
 source_count: 4
 sources:

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (768)
+# Sources (769)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -83,6 +83,7 @@ updated: 2026-04-14
 | [[2026-02-02_poliziadistato-it_live-distant-child-abuse-italy-hsi-europol]] | press-release | Polizia di Stato (Italian State Police) — Ufficio stampa | ? | high | ? |
 | [[2026-02_europol_project-compass-the-com-network]] | policy-document | Europol European Counter Terrorism Centre (ECTC) | ? | high | ? |
 | [[2026-02-01_interpol-int_annual-report-2024-operation-first-light]] | annual-report | INTERPOL | ? | high | ? |
+| [[2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown]] | press-release | US Department of Justice — Office of Public Affairs | ? | high | ? |
 | [[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]] | press-release | Alliance for Creativity and Entertainment | ? | medium | ? |
 | [[2026-01-28_yna_co_kr_136-scam-suspects-nabbed-by-joint-s-korea-cambodia-police-team]] | news | Yonhap News Agency | ? | medium | ? |
 | [[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]] | press-release | Office of Financial Sanctions Implementation | ? | high | ? |

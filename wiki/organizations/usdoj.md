@@ -36,6 +36,7 @@ operations_participated:
   - "[[operation-shrouded-horizon]]"
   - "[[operation-wirewire]]"
   - "[[darkode-takedown]]"
+  - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
 org_type: national-agency
 parent_org: "[[us-doj]]"
 source_count: 3

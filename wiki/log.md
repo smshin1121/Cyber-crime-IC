@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | DOJ-Bulgaria Zamunda+ArenaBG+Zelka piracy takedown (2026-01-30, BG+US+RO+GR)
+- Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
+- Pages updated: 4 country (BG, US, RO, GR), 4 organization (us-doj, usdoj, bulgaria-police, bulgaria-ministry-of-interior, europol-ec3), 3 crime-type (illegal-iptv-ic, organized-crime-ic, money-laundering-ic).
+- Key findings:
+  - **DOJ-Bulgaria piracy takedown (DOJ OPA PR 26-82, 2026-01-30)**: Three of the largest piracy sites in the European Union — **zamunda.net + arenabg.com + zelka.org** (3 US-registered domains, S.D. Miss. seizure warrants). Bulgarian agencies: National Investigative Service + Ministry of Interior General Directorate Combating Organized Crime (GDCOC/GDBOP) + State Agency for National Security + Prosecutor's Office. US agencies: USAO S.D. Miss. + HSI New Orleans + IPR Center + OPDAT + CCIPS. **In-region attachés**: HSI Athens (GR) + CBP Sofia (BG) + ICHIP Bucharest (RO). Multilateral: **Europol "critical role"**. BTA same-day corroboration: 4 detained, 30 addresses searched, supervised by Sofia City + Sofia District Prosecutor's Offices, coordinated by Acting Prosecutor General Borislav Sarafov. **DOJ ICHIP April 2026 summary**: 3 individuals charged with online piracy + money laundering under **a new Bulgarian piracy-platform-operator statute drafted with OPDAT and CCIPS assistance ("the first law of its kind in Europe")** — important capacity-building IC artifact. **First wiki record of OPDAT/CCIPS-assisted Bulgarian piracy-platform-operator statute drafting** (treaty-level cybercrime-law capacity-building cooperation pattern).
+- Process notes: DOJ Akamai + curl_cffi chrome124 (per L21). DIICOT (priority 2) blocked by JS challenge — pivoted. Hong Kong CSTCB Operation SECURE skip-list. usdoj missing-backlink HIGH lint backfilled.
+
 ## [2026-05-09] ingest [single agent, regional focus] | Operación KAERB iServer PhaaS takedown (2024-09-24, ES+AR+CO+CL+EC+PE 6-country LatAm-Iberian)
 - Sources: 1 raw + 1 source page (es) + 1 operation page (3 new pages)
 - Pages updated: 6 country (ES, AR, CO, CL, EC, PE), 4 organization (spain-national-police, spain-guardia-civil, europol-ec3, group-ib), 2 crime-type (online-fraud-ic, cybercrime-infrastructure-ic), 2 cross-link (Tycoon 2FA + LabHost sister PhaaS ops).

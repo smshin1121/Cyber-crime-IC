@@ -10,6 +10,7 @@ operations_participated:
   - "[[operation-endgame-phase3]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
 region: southern-europe
 source_count: 0
 sources:

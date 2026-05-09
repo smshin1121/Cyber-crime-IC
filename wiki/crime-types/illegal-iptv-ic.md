@@ -2,10 +2,10 @@
 type: crime-type
 title: "Illegal IPTV and Streaming Piracy Operations in International Cooperation"
 aliases:
-  - illegal IPTV
-  - illegal streaming
-  - pirate streaming
-  - audiovisual piracy
+  - "illegal IPTV"
+  - "illegal streaming"
+  - "pirate streaming"
+  - "audiovisual piracy"
 crime_category: cyber-enabled
 typical_ic_challenges:
   - "streaming infrastructure and control panels are distributed across jurisdictions"
@@ -30,13 +30,16 @@ notable_operations:
   - "[[operation-404-digital-piracy-2019]]"
   - "[[operation-taken-down-illegal-iptv-2024]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
-notable_cases: []
+  - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
+notable_cases:
+
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
-  problem_jurisdictions: []
+  problem_jurisdictions:
+
 estimated_annual_loss: ""
-source_count: 14
+source_count: 15
 sources:
   - "[[2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet]]"
   - "[[2019-09-18_eurojust_eurojust-helps-unravel-massive-trans-european-pay-tv-fraud]]"
@@ -52,6 +55,7 @@ sources:
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
   - "[[2026-02-03_eurojust_successful-operation-illegal-streaming-services]]"
   - "[[2026-04-18_justice-gov_cyber-ip-europe]]"
+  - "[[2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown]]"
 created: 2026-05-04
 updated: 2026-05-08
 status: active
@@ -86,3 +90,4 @@ Use this category when the operation target is an illegal IPTV, pirate streaming
 | [12] | [[2026-01-29_ace_operation-switch-off-illegal-iptv-ring|ACE Applauds Coordinated Global Law-Enforcement Action Against Industrial-Scale Illegal IPTV Ring]] | Alliance for Creativity and Entertainment | 2026-01-29 | https://www.alliance4creativity.com/news/ace-applauds-coordinated-global-law-enforcement-action-against-industrial-scale-illegal-iptv-ring/ |
 | [13] | [[2026-02-03_eurojust_successful-operation-illegal-streaming-services|Successful operation against illegal streaming services with millions of users worldwide]] | Eurojust | 2026-02-03 | https://www.eurojust.europa.eu/news/successful-operation-against-illegal-streaming-services-millions-users-worldwide |
 | [14] | [[2026-04-18_justice-gov_cyber-ip-europe|Cyber & IP Europe]] | US DOJ | 2026-04-18 | https://www.justice.gov/criminal/criminal-opdat/cyber-ip-europe |
+| [15] | [[2026-01-30_justice-gov_us-law-enforcement-assists-bulgarian-piracy-sites-takedown\|US-Bulgaria Zamunda+ArenaBG+Zelka piracy takedown — DOJ + Bulgarian National Investigative Service + GDCOC + SANS + Europol (BG+US+RO+GR)]] | US DOJ (OPA), PR 26-82 | 2026-01-30 | https://www.justice.gov/opa/pr/us-law-enforcement-assists-bulgarian-law-enforcement-taking-down-three-largest-piracy-sites |

@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[bulgaria]]"
 jurisdiction:
-  -
-    - bulgaria
+
 created: 2026-04-10
 established: 2013
 frameworks_administered:
@@ -30,6 +29,7 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-firewall]]"
   - "[[operation-card-shop]]"
+  - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
 org_type: national-unit
 parent_org: "[[bulgaria-ministry-of-interior]]"
 source_count: 2

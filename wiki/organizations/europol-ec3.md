@@ -138,6 +138,7 @@ operations_participated:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
+  - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9
