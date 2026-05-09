@@ -56,6 +56,7 @@ notable_operations:
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
+  - "[[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -69,7 +70,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 42
+source_count: 43
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -113,6 +114,7 @@ sources:
   - "[[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day]]"
   - "[[2025-07-29_oag-fedpol_real-time-phishing-uk-conviction]]"
   - "[[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate]]"
+  - "[[2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -212,3 +214,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [40] | [[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day\|Eurojust assists operation in Romania and Moldova against laundering of phishing fraud proceeds (EUR 20M, 44 search locations, JIT)]] | Eurojust | 2025-06-12 | https://www.eurojust.europa.eu/news/eurojust-assists-operation-romania-and-moldova-against-laundering-phishing-fraud-proceeds |
 | [41] | [[2025-07-29_oag-fedpol_real-time-phishing-uk-conviction\|Swiss OAG/fedpol real-time phishing joint investigation — UK conviction 7yr (CH+UK, CHF 2.4M)]] | Swiss OAG / fedpol | 2025-07-29 | https://www.bag.admin.ch/en/newnsb/b4yhFXHLpERSkhgNMVb89 |
 | [42] | [[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate\|INP-FBI global phishing MFA-bypass syndicate (ID+US; USD 20M, 17K accounts, 34K victims; GWL+FYT couple)]] | Indonesian National Police (Polri) | 2026-04-23 | https://inp.polri.go.id/artikel/inp-and-fbi-uncover-global-phishing-syndicate-responsible-for-20-million-loss |
+| [43] | [[2025-05-14_ait-org-tw_us-taiwan-collaborate-dismantle-international-financial-fraud-network\|US-Taiwan elder romance fraud takedown — first in-country MLAA proffer since 2002 (US+TW; USD 100M+, hundreds of victims)]] | American Institute in Taiwan (AIT PR-2510) | 2025-05-14 | https://www.ait.org.tw/us-tw-collaborate-to-dismantle-international-financial-fraud-network/ |

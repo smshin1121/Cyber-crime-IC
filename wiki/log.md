@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | AIT-Taiwan elder romance fraud first MLAA proffer takedown (2025-05-14, US+TW)
+- Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
+- Pages updated: 2 country (TW, US), 2 crime-type (online-fraud-ic, money-laundering-ic).
+- Key findings:
+  - **AIT-Taiwan elder romance fraud takedown (AIT PR-2510, 2025-05-14)**: Taiwan-US joint takedown of Taiwanese-led elder fraud organisation. Hundreds of elderly US victims; >USD 100M laundered; investigation opened May 2023. Cooperating units: Taiwan NPA-CIB + MOJ + TTDPO + Administrative Enforcement Agency + Taichung City Police; HSI Taipei + HSI Los Angeles + HSI Nashville; AIT. **Landmark IC milestone**: **first in-country MLAA proffer interview by a Taiwanese prosecutor in the US since the 2002 Mutual Legal Assistance Agreement (MLAA)** — prosecutor Chang Fu-chun questioned witness Sun in Nashville, April 2025; HSI delegation visited TTDPO March 2025. **Defendants** (TTDPO indictment subset, 3 victims/USD 5.32M): Liao 廖 (36, ringleader, arrested 2025-01-24 Taoyuan, 10-yr recommended), Huang 黃 (39, collections, 5-yr), Hsiao 肖, Sun 孫 (US-based). Charges: Organized Crime Prevention Act + Money Laundering Control Act + Passport Act + Criminal Code. Assets: BTC/USDT + Lexus + Swiss watch + diamond ring + mother's accounts. **First wiki record of Taiwan-US MLAA proffer-interview cooperation pathway**, distinct from formal extradition (Taiwan has no formal extradition treaty with US).
+- Process notes: AIT tier-1 primary + Taipei Times + Focus Taiwan as cross-confirmation. Taiwan agencies (CIB, MOJ, TTDPO, AEA, Taichung Police) and HSI have no wiki org pages — referenced in prose only. Provisional callout.
+
 ## [2026-05-09] ingest [single agent, regional focus] | FRONTIER+ Cross-border Anti-Scam Collaboration Platform 1st joint operation (2025-06-03, 7 jurisdictions)
 - Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
 - Pages updated: 7 country (HK, MO, MY, MV, SG, KR, TH), 5 organization (hong-kong-police, singapore-police, knpa, malaysia-police+royal-malaysia-police, thailand-royal-police), 2 crime-type (online-fraud-ic, voice-phishing-ic), 1 cross-link (existing cross-border-online-cse-operation-spf-2026 sister op).

@@ -206,6 +206,7 @@ operations_participated:
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
+  - "[[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]]"
 region: north-america
 source_count: 1
 sources:

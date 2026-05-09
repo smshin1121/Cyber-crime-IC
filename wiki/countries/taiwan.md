@@ -14,7 +14,7 @@ treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
-    reservations:
+    reservations: ""
 central_authority:
   mlat: ""
   budapest: ""
@@ -32,6 +32,7 @@ operations_participated:
   - "[[andromeda-botnet-takedown]]"
   - "[[operation-avalanche]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
+  - "[[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
