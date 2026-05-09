@@ -14,6 +14,7 @@ mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[romania-moldova-phishing-laundering-jit-2025]]"
 ---
 ## Summary
 

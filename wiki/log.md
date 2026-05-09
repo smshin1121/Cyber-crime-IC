@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | Eurojust Romania-Moldova phishing/laundering JIT action day (2025-06-12, RO+MD)
+- Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
+- Pages updated: 4 country (RO, MD, UA, IT), 2 organization (eurojust, romania-diicot), 2 mechanism (joint-investigation-team, european-investigation-order), 2 crime-type (online-fraud-ic, money-laundering-ic).
+- Key findings:
+  - **Eurojust Romania-Moldova phishing/laundering JIT (2025-06-12)**: Action day on JIT set up March 2025 (Eurojust-financed); investigation initiated by Moldova PCCOCS in November 2022. Lead: Romania DIICOT (Galați Regional Structure) + Moldova PCCOCS. **44 search locations** across both countries. OCG active since at least 2013, suspect nationalities Romanian + Moldovan + Ukrainian + Italian; **30 victims identified across the EU; aggregate EUR 20M loss**. Call centres located in Moldova. EIOs paired with JIT; **Moldova one of twelve Liaison Prosecutor countries at Eurojust** — significant for non-EU LE cooperation pattern. Laundering chain: false-Romanian-ID bank accounts → financial platforms → cryptocurrency wallets. **First wiki record of Romania-Moldova JIT pairing** — important RO-MD bilateral cooperation pattern not previously captured (existing Moldova-anchored cases: GoZNyM, xDedic, Carbanak, DarkMarket are all multi-country US-led).
+- Process notes: Single-agent regional-focus dispatch (JP/AFP/IT/ES/Eurojust priority). Eurojust English-language tier-1 source. Agent skipped Japan-NPA-India CBI tech-support scam candidate (already in wiki as operation-chakra-v + india-cbi-noida-tech-support-scam-takedown-2025) and AFP Pompilid (Five Eyes already-saturated CSAM channel) in favor of structurally underrepresented Moldova-anchored JIT.
+
 ## [2026-05-09] ingest [single agent, regional focus] | RCMP Canada-FBI Twitter/NFT theft Redman case (CA→PT→US extradition, sentencing 2025-09-10)
 - Sources: 1 raw (RCMP CNW mirror + DOJ EDVA cross-reference) + 1 source page (en) + 1 case page (3 new pages)
 - Pages updated: 3 country (CA, US, PT), 4 organization (canada-rcmp, us-doj, fbi, office-of-international-affairs), 3 crime-type (hacking-ic, online-fraud-ic, identity-theft), 1 mechanism (extradition).

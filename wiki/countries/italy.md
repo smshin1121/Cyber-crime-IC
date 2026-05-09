@@ -42,6 +42,7 @@ operations_participated:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
+  - "[[romania-moldova-phishing-laundering-jit-2025]]"
 region: southern-europe
 source_count: 6
 sources:

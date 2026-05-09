@@ -9,6 +9,8 @@ source_count: 1
 sources:
   - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[romania-moldova-phishing-laundering-jit-2025]]"
 ---
 ## Summary
 

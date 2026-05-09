@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[romania]]"
 jurisdiction:
-  -
-    - romania
+
 created: 2026-04-10
 established: 2004
 frameworks_administered:
@@ -30,6 +29,7 @@ operations_participated:
   - "[[romania-phishing-takedown-2024]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
+  - "[[romania-moldova-phishing-laundering-jit-2025]]"
 org_type: prosecution-office
 parent_org: "[[romania-public-ministry]]"
 source_count: 0

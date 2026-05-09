@@ -41,6 +41,7 @@ operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[romania-moldova-phishing-laundering-jit-2025]]"
 region: eastern-europe
 source_count: 3
 sources:

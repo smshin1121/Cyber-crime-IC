@@ -14,7 +14,7 @@ treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
-    reservations:
+    reservations: ""
 central_authority:
   mlat: ""
   budapest: ""
@@ -31,6 +31,7 @@ bilateral_agreements:
 operations_participated:
   - "[[darkmarket-takedown|DarkMarket Takedown]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
+  - "[[romania-moldova-phishing-laundering-jit-2025]]"
 notable_cases:
 
 cooperation_assessment: ""

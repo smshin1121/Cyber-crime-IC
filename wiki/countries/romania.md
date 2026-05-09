@@ -42,6 +42,7 @@ operations_participated:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[romania-moldova-phishing-laundering-jit-2025]]"
 region: eastern-europe
 source_count: 4
 sources:
