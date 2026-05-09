@@ -48,6 +48,7 @@ notable_operations:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
 notable_cases:
 
 criminalization_status:
@@ -56,7 +57,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "South Korea reports large recurring domestic losses; global phone-enabled fraud loss is not consistently separated from wider online-fraud statistics."
-source_count: 25
+source_count: 26
 sources:
   - "[[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]]"
   - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
@@ -83,6 +84,7 @@ sources:
   - "[[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition]]"
   - "[[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting]]"
   - "[[2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition]]"
+  - "[[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025]]"
 created: 2026-04-08
 updated: 2026-05-08
 ---
@@ -172,3 +174,4 @@ This distinction prevents the SNA from silently merging all online fraud into vo
 | [23] | [[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition\|온라인 스캠 조직원 73명 국내 송환 (캄보디아·필리핀 거점)]] | 경찰청 (Korea.kr 정책브리핑 / Kyunghyang) | 2026-04-27 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156740857 |
 | [24] | [[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting\|경찰청 「Breaking Chains 제2차 국제공조 회의」 — 22-국 합동 동남아 스캠 단속 (브레이킹 체인스)]] | 경찰청 (Korea.kr 정책브리핑) | 2026-02-05 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156743085 |
 | [25] | [[2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition\|서울동부지검 합수부 — Clark, Philippines 보이스피싱 콜센터 4명 강제송환 + 인지구속기소 (KR+PH+INTERPOL)]] | 서울동부지방검찰청 (SPO Korea) | 2026-04-30 | https://www.spo.go.kr/site/spo/main.do |
+| [26] | [[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025\|FRONTIER+ Cross-border Anti-Scam Collaboration Platform 1st joint operation (HK+MO+MY+MV+SG+KR+TH; 1,858 arrests)]] | HKSAR Government (info.gov.hk) | 2025-06-03 | https://www.info.gov.hk/gia/general/202506/03/P2025060300475.htm |

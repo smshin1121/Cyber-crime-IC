@@ -59,48 +59,51 @@ results:
     - "Singapore: 11 men arrested (aged 22-44) and 16 others under investigation."
     - "Devices and items seized: 116 computers, 340 handphones, 25 tablets, 140 storage devices, 16 routers."
 edges:
-  - source_actor: "singapore-police"
-    target_actor: "hong-kong-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "singapore-police"
-    target_actor: "japan-npa"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "singapore-police"
-    target_actor: "knpa-cyber-bureau"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "singapore-police"
-    target_actor: "royal-malaysia-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "singapore-police"
-    target_actor: "thai-royal-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
+  - source_actor: singapore-police
+    target_actor: hong-kong-police
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: singapore-police
+    target_actor: japan-npa
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: singapore-police
+    target_actor: knpa-cyber-bureau
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: singapore-police
+    target_actor: royal-malaysia-police
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: singapore-police
+    target_actor: thai-royal-police
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
   - "per-country arrest breakdown beyond Singapore"
   - "umbrella operation name (not given in the SPF release text)"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-cyber-guardian]]"
-challenges_encountered: []
-lessons_learned: []
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-28_police-gov-sg_326-arrested-119-investigated-cross-border-online-cse-operation]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional / single-source
 > This page is provisional and currently relies on a single tier-1 primary source (the Singapore Police Force press release of 28 April 2026). Per the wiki's preferred publication threshold, additional tier-1 corroborating sources from partner jurisdictions (HKPF, JNPA, KNPA, RMP, RTP, RBPF) should be ingested before this page is treated as fully established.
 

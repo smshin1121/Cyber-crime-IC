@@ -16,6 +16,7 @@ assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 operations_participated:
   - "[[operation-secure-interpol]]"
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
 ---
 ## Summary
 

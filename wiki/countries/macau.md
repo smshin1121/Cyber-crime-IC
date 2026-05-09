@@ -6,7 +6,7 @@ created: 2026-04-26
 updated: 2026-05-03
 source_count: 0
 sources:
-  []
+
 last_verified: 2026-05-03
 legal_system: not-assessed
 ic_capacity: not-assessed
@@ -14,6 +14,8 @@ treaty_memberships:
   - not-assessed
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+operations_participated:
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
 ---
 ## Summary
 

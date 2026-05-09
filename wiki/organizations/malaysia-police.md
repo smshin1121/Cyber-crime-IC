@@ -6,7 +6,7 @@ aliases:
   - "Royal Malaysia Police Cybercrime"
   - "Polis Diraja Malaysia"
 contact_point_for:
-  []
+
 cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[australia-afp]]"
@@ -14,12 +14,11 @@ cooperation_partners:
   - "[[aseanapol]]"
 country: "[[malaysia]]"
 jurisdiction:
-  -
-    - malaysia
+
 created: 2026-04-10
 established: 2004-12-01
 frameworks_administered:
-  []
+
 headquarters: "Bukit Aman, Kuala Lumpur, Malaysia"
 key_roles:
   - "Lead Malaysia federal cybercrime and commercial crime investigations"
@@ -30,17 +29,18 @@ key_roles:
 last_verified: 2026-04-10
 mandate: "Lead investigation and prosecution of commercial crimes and cybercrimes in"
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "Polis Diraja Malaysia, Commercial Crime Investigation Department"
 operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
 org_type: national-agency
 parent_org: "[[royal-malaysia-police]]"
 source_count: 5
 sources:
-  []
+
 status: active
 title: "Royal Malaysia Police — Commercial Crime Investigation Department (Cyber Crime)"
 type: organization

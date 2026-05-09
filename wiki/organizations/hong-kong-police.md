@@ -4,17 +4,16 @@ aliases:
   - "HKP CSTCB"
   - "Cyber Security and Technology Crime Bureau"
 contact_point_for:
-  []
+
 cooperation_partners:
   - "[[interpol-igci]]"
 country: "[[hong-kong]]"
 jurisdiction:
-  -
-    - hong-kong
+
 created: 2026-04-10
 established: 2015-01-01
 frameworks_administered:
-  []
+
 headquarters: "Hong Kong SAR"
 key_roles:
   - "Primary Hong Kong law enforcement unit for cybercrime and cyber security"
@@ -26,17 +25,18 @@ key_roles:
 last_verified: 2026-04-10
 mandate: "Maintain cyber security of Hong Kong and prevent/detect technology crimes."
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "Hong Kong Police Force, Cyber Security and Technology Crime Bureau"
 operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
 org_type: national-unit
 parent_org: "[[hong-kong-police]]"
 source_count: 5
 sources:
-  []
+
 status: active
 title: "Hong Kong Police Force — Cyber Security and Technology Crime Bureau"
 type: organization

@@ -6,6 +6,7 @@ last_verified: 2026-05-03
 legal_system: not-assessed
 operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
 region: east-asia
 source_count: 0
 sources:

@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | FRONTIER+ Cross-border Anti-Scam Collaboration Platform 1st joint operation (2025-06-03, 7 jurisdictions)
+- Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
+- Pages updated: 7 country (HK, MO, MY, MV, SG, KR, TH), 5 organization (hong-kong-police, singapore-police, knpa, malaysia-police+royal-malaysia-police, thailand-royal-police), 2 crime-type (online-fraud-ic, voice-phishing-ic), 1 cross-link (existing cross-border-online-cse-operation-spf-2026 sister op).
+- Key findings:
+  - **FRONTIER+ Cross-border Anti-Scam Collaboration Platform 1st joint op (info.gov.hk 2025-06-03)**: First joint operation of regional anti-scam platform. **Operation period 2025-04-28 – 2025-05-28 (1 month)**. **7 participating jurisdictions** in this op: HK SAR + Macao SAR + Malaysia + Maldives + Singapore + South Korea + Thailand. **2,700+ personnel deployed**; **1,858 arrests** (ages 14–81): HK 337, Macao 9, Malaysia 708, Maldives 0, Singapore 106, South Korea 116, Thailand 582. **9,268 scam cases**; **aggregate loss USD 225M**; **32,607 bank accounts frozen**; ~USD 20M intercepted. Platform launched October 2024; HK release lists 10 members vs SPF CAD 2024 lists 11 (adds Brunei) — preserved as Contradiction. Singapore-side 106 arrests + S$7.7M cross-source confirmed against Singapore CAD 2024 report. **First wiki record of FRONTIER+ regional platform** + standing-platform IC mechanism distinct from one-off operation models.
+- Process notes: HKSAR info.gov.hk tier-1 primary + Annex PDF (per-jurisdiction breakdown table). Macao SAR and Maldives Police Service have no wiki org pages (prose-only). Macao country page exists as `macau.md`.
+
 ## [2026-05-09] ingest [single agent, regional focus] | Indonesia INP + US FBI global phishing MFA-bypass syndicate (2026-04-23, ID+US)
 - Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
 - Pages updated: 2 country (ID, US), 2 organization (indonesia-police, fbi), 3 crime-type (online-fraud-ic, cybercrime-infrastructure-ic, money-laundering-ic).

@@ -40,6 +40,7 @@ operations_participated:
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
 region: southeast-asia
 source_count: 3
 sources:

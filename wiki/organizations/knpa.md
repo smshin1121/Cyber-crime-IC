@@ -40,6 +40,7 @@ operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"

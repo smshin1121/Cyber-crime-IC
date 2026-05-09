@@ -12,6 +12,7 @@ operations_participated:
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
+  - "[[frontier-plus-cross-border-anti-scam-2025]]"
 region: southeast-asia
 source_count: 0
 sources:
