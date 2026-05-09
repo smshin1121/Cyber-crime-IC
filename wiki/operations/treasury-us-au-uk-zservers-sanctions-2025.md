@@ -85,14 +85,15 @@ missing_fields:
   - "specific MLAT or Five Eyes information-sharing instrument used for trilateral coordination"
   - "specific FCDO sanctions notice / OFSI reference number for XHOST and the four UK-side individuals"
 related_cases:
-  []
+
 related_operations:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
   - "[[operation-cronos-phase1]]"
   - "[[operation-cronos-phase3]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
+  - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "BPH providers are a distinct, designable layer of the ransomware supply chain — sanctioning the infrastructure operator (rather than only the ransomware affiliates) attacks the dependency that the affiliates themselves cannot quickly replace."
   - "Russian BPH operators routinely use UK and other Western shell companies (here, XHOST Internet Solutions LP) as front entities; the UK FCDO supplemental designations show that trilateral coordination can also reach the Western-registered fronts that pure OFAC action would not capture."

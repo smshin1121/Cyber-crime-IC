@@ -25,7 +25,7 @@ operations_participated:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[operation-atlantic-approval-phishing-2026]]"
 notable_cases:
-
+  - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
 contact_point_for:
 
 source_count: 1

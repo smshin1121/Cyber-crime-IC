@@ -27,6 +27,7 @@ notable_cases:
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
   - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
   - "[[us-v-kai-west-intelbroker-2025]]"
+  - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
@@ -37,7 +38,7 @@ notable_operations:
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 14
+source_count: 15
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -53,6 +54,7 @@ sources:
   - "[[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker]]"
   - "[[2024-09-27_justice-gov_three-irgc-cyber-actors-indicted-hack-and-leak-2024-election]]"
   - "[[2025-06-25_justice-gov-sdny_serial-hacker-intelbroker-kai-west-charged-25m-damages]]"
+  - "[[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -105,3 +107,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [12] | [[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker\|Two North Korean Nationals and Three Facilitators Indicted for Multi-Year Fraudulent Remote Information Technology Worker Scheme]] | US DOJ (OPA), Press Release 25-105 | 2025-01-23 | https://www.justice.gov/opa/pr/two-north-korean-nationals-and-three-facilitators-indicted-multi-year-fraudulent-remote |
 | [13] | [[2024-09-27_justice-gov_three-irgc-cyber-actors-indicted-hack-and-leak-2024-election\|Three IRGC Cyber Actors Indicted for 'Hack-and-Leak' Operation Designed to Influence the 2024 U.S. Presidential Election]] | US DOJ (OPA) | 2024-09-27 | https://www.justice.gov/archives/opa/pr/three-irgc-cyber-actors-indicted-hack-and-leak-operation-designed-influence-2024-us |
 | [14] | [[2025-06-25_justice-gov-sdny_serial-hacker-intelbroker-kai-west-charged-25m-damages\|Serial Hacker 'IntelBroker' Charged For Causing $25 Million In Damages To Victims]] | US DOJ USAO-SDNY | 2025-06-25 | https://www.justice.gov/usao-sdny/pr/serial-hacker-intelbroker-charged-causing-25-million-damages-victims |
+| [15] | [[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers\|Two charged for TfL cyber attack (Jubair + Flowers)]] | UK National Crime Agency | 2025-09-18 | https://www.nationalcrimeagency.gov.uk/news/two-charged-for-tfl-cyber-attack |

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (731)
+# Sources (734)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -133,6 +133,7 @@ updated: 2026-04-14
 | [[2025-09-23_decripto-org_eurojust-dismantles-eur-100-million-crypto-scam-five-arrests-and-seizures]] | news | Decripto | ? | medium | ? |
 | [[2025-09-23_721news-com_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 721news | ? | medium | ? |
 | [[2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 112WWFT | ? | medium | ? |
+| [[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers]] | press-release | UK National Crime Agency (with City of London Police; Crown Prosecution Service quoted) | ? | high | ? |
 | [[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2025-08-22_kaspersky_serengeti-20-interpol-led-action]] | press-release | Kaspersky | ? | high | ? |
 | [[2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks]] | press-release | INTERPOL | ? | high | ? |
@@ -311,6 +312,7 @@ updated: 2026-04-14
 | [[2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator]] | press-release | Information Age / ACS | ? | medium | ? |
 | [[2024-10-02_therecord-media_operation-cronos-phase-3-lockbit]] | news | The Record | ? | medium | ? |
 | [[2024-10-02_aptantech-com_operation-contender-2-leads-to-arrests-of-8-cybercrime-suspects]] | news | aptantech | ? | medium | ? |
+| [[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623]] | press-release | U.S. Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2024-10-01_the420-in_operation-chakra-iii-inside-cbi-s-explosive-takedown]] | press-release | The420.in | ? | medium | ? |
 | [[2024-10-01_interpol-int-fr_operation-contender-2]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-10-01_europol-europa-eu_operation-cronos-phase-3]] | press-release | Europol | ? | high | ? |
@@ -422,6 +424,7 @@ updated: 2026-04-14
 | [[2023-06-30_coe_glacy-supports-interpols-africa-cyber-surge-operation-ii]] | report | Council of Europe | 2 | high | ? |
 | [[2023-06-06_interpol_operation-jackal-black-axe-bec]] | press-release | INTERPOL | ? | high | ? |
 | [[2023-06-06-interpol-operation-jackal]] | press-release | INTERPOL | ? | high | ? |
+| [[2023-05-16_treasury_matveev-russian-ransomware-actor-sanctions-jy1486]] | press-release | U.S. Department of the Treasury (OFAC) | ? | high | ? |
 | [[2026-04-18_justice-gov_federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2023-04-05_justice-gov_criminal-marketplace-disrupted-genesis-market]] | press-release | US DOJ | ? | high | ? |
 | [[2023-04-05_europol_operation-cookie-monster-genesis-market]] | press-release | Europol | ? | high | ? |

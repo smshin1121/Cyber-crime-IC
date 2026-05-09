@@ -20,14 +20,12 @@ legal_basis:
   - "[[budapest-convention]]"
   - "[[mutual-legal-assistance]]"
   - "domestic ransomware disruption and victim-remediation authorities"
-
 lessons_learned:
 
 mechanisms_used:
   - "[[mlat-process]]"
   - "[[public-private-cooperation]]"
   - "[[informal-cooperation]]"
-
 missing_fields:
 
 operation_type: takedown
@@ -61,7 +59,7 @@ related_operations:
   - "[[blackcat-lockeroga-kelvin-security-2023]]"
   - "[[operation-cronos-phase1]]"
   - "[[operation-checkmate-blacksuit]]"
-
+  - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
 results:
   arrests: 0
   cryptocurrency_seized: ""
@@ -92,7 +90,7 @@ timeframe:
 title: "Hive Ransomware Infrastructure Takedown"
 title_ko: "명시되지 않음 (Hive 랜섬웨어 인프라 해체)"
 type: operation
-updated: 2026-04-29
+updated: 2026-05-09
 ---
 ## Summary
 

@@ -77,6 +77,7 @@ related_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
+  - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
 challenges_encountered:
 
 lessons_learned:

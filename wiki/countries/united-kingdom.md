@@ -33,6 +33,7 @@ notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[uk-collins-aerospace-airport-ransomware-arrest-2025]]"
   - "[[us-v-kai-west-intelbroker-2025]]"
+  - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -73,6 +74,7 @@ operations_participated:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
+  - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
 region: western-europe
 source_count: 5
 sources:

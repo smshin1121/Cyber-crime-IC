@@ -6,7 +6,7 @@ aliases:
   - "Aeza Group OFAC designation"
   - "Treasury SB-0185"
   - "US-UK Aeza bulletproof hosting sanctions 2025"
-case_id: "CYB-2025-115"
+case_id: CYB-2025-115
 period: 3
 operation_type: takedown
 status: completed
@@ -32,8 +32,10 @@ participating_countries:
 participating_agencies:
   - "[[us-treasury]]"
   - "[[uk-nca]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 0
@@ -48,21 +50,24 @@ results:
     - "Bilateral U.S.–UK coordination: OFAC designated the Aeza UK front company (Aeza International Ltd.) in coordination with the UK National Crime Agency."
     - "On-record acknowledgment that Penzev and Bozoyan had been arrested by Russian law enforcement in connection with placing the BlackSprut illicit-drug marketplace on Aeza infrastructure (host-state enforcement parallel to U.S. designations)."
 edges:
-  - source_actor: "us-treasury"
-    target_actor: "uk-nca"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
+  - source_actor: us-treasury
+    target_actor: uk-nca
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
   - "specific SDN-list identifiers for designated persons (DOB, passport, residential address)"
   - "specific bilateral MLAT, MOU, or Five Eyes information-sharing instrument cited as the basis for the US-UK coordination"
   - "specific victim-company identities and aggregate financial losses attributable to Aeza-hosted operations"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
-challenges_encountered: []
+  - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Cross-jurisdictional shell exposure: the Aeza UK branch (Aeza International Ltd.) demonstrates that Russian BPH providers actively use UK corporate registrations to lease IP addresses to cybercriminals. A US-UK bilateral designation pairing was needed to reach the UK shell with simultaneous legal effect in both jurisdictions."
   - "Sanctions-evasion-by-rebranding pattern: Treasury's subsequent November 2025 designation of Hypercore Ltd. (UK) and enabler entities in Serbia and Uzbekistan, framed on the record as a response to Aeza's post-designation rebranding strategy, demonstrates that single-shot BPH sanctions actions are typically insufficient against Russia-headquartered providers and require maintenance-of-pressure follow-on cycles."
@@ -73,7 +78,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 # Treasury–UK NCA Sanctions on Aeza Group Russian Bulletproof Hosting (2025)
 
 ## Summary

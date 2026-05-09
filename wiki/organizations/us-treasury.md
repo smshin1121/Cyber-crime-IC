@@ -37,6 +37,8 @@ operations_participated:
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
+  - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
+  - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
 org_type: national-agency
 parent_org: "[[us-federal-government]]"
 source_count: 8

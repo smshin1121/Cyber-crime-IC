@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (181 canonical / 27 absorbed / 208 records)
+# Operations (183 canonical / 27 absorbed / 210 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (181)
+## Canonical Operations (183)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -86,6 +86,7 @@ updated: 2026-04-14
 | [[operation-nervone]] | CYB-2023-052 | 3 | completed | umbrella | 5 | 4.18 | 1 |
 | [[nigerian-bec-convictions-2023]] | CYB-2023-053 | 3 | completed | umbrella | 5 | 4.20 | 1 |
 | [[operation-cookie-monster]] | CYB-2023-054 | 3 | completed | umbrella | 4 | 4.50 | 1 |
+| [[treasury-matveev-russian-ransomware-sanctions-2023]] | CYB-2023-099 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[operation-orion-international]] | CYB-2024-001 | 3 | completed | umbrella | 4 | — | — |
 | [[operation-cronos-phase1]] | CYB-2024-002 | 3 | completed | umbrella | 7 | 2.28 | 2 |
 | [[operation-endgame-phase1]] | CYB-2024-003 | 3 | completed | umbrella | 5 | 2.28 | 2 |
@@ -107,6 +108,7 @@ updated: 2026-04-14
 | [[rydox-marketplace-takedown]] | CYB-2024-053 | 3 | completed | umbrella | 5 | 4.40 | 1 |
 | [[operation-taken-down-illegal-iptv-2024]] | CYB-2024-054 | 3 | completed | umbrella | 3 | 4.20 | 1 |
 | [[operation-soga-x]] | CYB-2024-055 | 3 | completed | umbrella | 3 | 4.25 | 1 |
+| [[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]] | CYB-2024-098 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-cronos-phase2]] | CYB-2024-201 | 2 | completed | phase | 1 | 4.00 | 1 |
 | [[labhost-phishing-as-a-service-takedown-2024]] | CYB-2024-202 | 2 | completed | — | 1 | 4.00 | 1 |
 | [[matrix-encrypted-messaging-takedown-2024]] | CYB-2024-203 | 2 | completed | — | 1 | 4.50 | 1 |

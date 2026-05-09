@@ -46,6 +46,7 @@ notable_cases:
   - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
   - "[[us-v-kai-west-intelbroker-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
+  - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -179,6 +180,8 @@ operations_participated:
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
+  - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
+  - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
 region: north-america
 source_count: 1
 sources:

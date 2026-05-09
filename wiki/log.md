@@ -1,5 +1,14 @@
 # Activity Log
 
+## [2026-05-09] ingest [parallel batch x3] | Treasury jy1486 Matveev sanctions (2023-05-16) + Treasury jy2623 Evil Corp tri-lateral (2024-10-01) + NCA TfL Jubair/Flowers case (2025-09-18)
+- Sources: 3 raw + 3 source pages + 2 operation pages + 1 case page (9 new pages)
+- Pages updated: 4 country (US, UK, AU, RU), 5 organization (us-treasury, us-doj, fbi, uk-nca, city-of-london-police), 3 crime-type (ransomware-ic, hacking-ic + asset-freezing mechanism); 7 cross-links to existing operations.
+- Key findings:
+  - **Treasury jy1486 (2023-05-16)**: Mikhail Matveev OFAC sanctions + parallel DOJ-NJ + DOJ-DC indictments + USD 10M State Rewards. Multi-ecosystem attribution (LockBit + Babuk + Hive). Tri-track parallel-action pattern (administrative + criminal + reward) as the operative IC lesson when Russian extradition is unavailable.
+  - **Treasury jy2623 (2024-10-01)**: Evil Corp tri-lateral US/UK/AU sanctions — 7 OFAC + 15 UK FCDO + 3 AU DFAT designees + 2 entities. Concurrent DOJ-EDTX BitPaymer indictment vs Aleksandr Ryzhenkov. **First wiki-recorded tri-lateral cyber-sanctions action**, predicate template for the **9-month BPH chain** (Feb/Jul/Nov 2025).
+  - **NCA TfL Jubair/Flowers case (2025-09-18)**: 2 UK defendants charged under Computer Misuse Act for 31 Aug 2024 TfL attack; Flowers additionally faces charges related to US healthcare attacks on SSM Health and Sutter Health. Demonstrates the **UK-as-prosecution-venue + US-target-victim pattern** — UK can prosecute cross-border attacks on US victims standalone without US extradition.
+- Process notes: Iteration 57 used parallel multi-agent harness (3 of 3 successful). Agent C had to bypass NCA URL 404 via Wayback Machine snapshot (2025-09-26) to recover content; documented in raw frontmatter.
+
 ## [2026-05-09] ingest [parallel batch x3] | Treasury sb0018 Zservers (2025-02-11) + Treasury sb0185 Aeza Group (2025-07-01) + DOJ Romeo Chita Romanian cyber fraud ring (2018-10-09)
 - Sources: 3 raw + 3 source pages + 2 operation pages + 1 case page (9 new pages total)
 - Pages updated: 11 country pages (US, UK, AU, RU, RO, CA, HR, LV, HU, BA, CN, JO, MY), 4 organization pages (us-treasury, fbi, us-doj, uk-nca, office-of-international-affairs), 5 crime-type pages (ransomware-ic, cybercrime-infrastructure-ic, malware-ic, online-fraud-ic, money-laundering-ic, organized-crime-ic) + body Reference rows; cross-links to existing operations [[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]], [[operation-cronos-phase1]], [[operation-cronos-phase3]].

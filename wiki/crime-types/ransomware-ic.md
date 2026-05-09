@@ -35,6 +35,8 @@ notable_operations:
   - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
+  - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
+  - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-stryzhak-nefilim]]"
@@ -42,13 +44,14 @@ notable_cases:
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
   - "[[uk-collins-aerospace-airport-ransomware-arrest-2025]]"
+  - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 22
+source_count: 24
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -72,6 +75,8 @@ sources:
   - "[[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion]]"
   - "[[2025-02-11_treasury_us-au-uk-zservers-sanctions-lockbit-ransomware]]"
   - "[[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions]]"
+  - "[[2023-05-16_treasury_matveev-russian-ransomware-actor-sanctions-jy1486]]"
+  - "[[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -262,3 +267,5 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [20] | [[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion\|Treasury Sanctions Cryptocurrency Exchange and Network Enabling Sanctions Evasion and Cyber Criminals]] | US Department of the Treasury (OFAC), Press Release SB-0225 | 2025-08-14 | https://home.treasury.gov/news/press-releases/sb0225 |
 | [21] | [[2025-02-11_treasury_us-au-uk-zservers-sanctions-lockbit-ransomware\|US/AU/UK Jointly Sanction Key Infrastructure that Enables Ransomware Attacks (Zservers)]] | US Department of the Treasury (OFAC), Press Release SB-0018 | 2025-02-11 | https://home.treasury.gov/news/press-releases/sb0018 |
 | [22] | [[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions\|Treasury Sanctions Global Bulletproof Hosting Service Enabling Cybercriminals and Technology Theft (Aeza Group)]] | US Department of the Treasury (OFAC), Press Release SB-0185 | 2025-07-01 | https://home.treasury.gov/news/press-releases/sb0185 |
+| [23] | [[2023-05-16_treasury_matveev-russian-ransomware-actor-sanctions-jy1486\|Treasury Sanctions Russian Ransomware Actor Complicit in Attacks on Police and U.S. Critical Infrastructure (Matveev)]] | US Department of the Treasury (OFAC), Press Release JY-1486 | 2023-05-16 | https://home.treasury.gov/news/press-releases/jy1486 |
+| [24] | [[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623\|Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia]] | US Department of the Treasury (OFAC), Press Release JY-2623 | 2024-10-01 | https://home.treasury.gov/news/press-releases/jy2623 |

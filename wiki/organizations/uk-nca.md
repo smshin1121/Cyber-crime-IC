@@ -23,6 +23,7 @@ member_states: 0
 notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[uk-collins-aerospace-airport-ransomware-arrest-2025]]"
+  - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
 official_name: "National Crime Agency"
 official_name_ko: "영국 국가범죄수사국"
 operations_participated:
@@ -67,6 +68,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-atlantic-approval-phishing-2026]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
+  - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13
