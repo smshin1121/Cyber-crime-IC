@@ -1510,3 +1510,26 @@
   - **Liaison-officer/embassy-expert framework explicitly credited** in tier-1 release: "particolarmente rafforzato anche grazie all'istituzione di esperti presso le rispettive ambasciate" — rare named acknowledgement of bilateral liaison-officer infrastructure as cooperation mechanism in a public release.
   - **Tourist-flow detection**: suspect arrested at Riccione hotel while on family holiday — illustrates international wanted-person notice operational effectiveness when subjects travel to MLAT-partner jurisdictions.
   - L19-strict applied: tier-1 deliberately omits suspect identity, USD totals, prison of remand. Italian regional media (Resto del Carlino, RiminiToday) reported these (Roman Khlynovskiy, 42, Kazakh; ~USD 31M; Busto Arsizio remand) but recorded only as contextual notes in raw + missing_fields. NOT asserted in frontmatter (e.g., Kazakhstan NOT in participating_countries).
+
+## [2026-05-09] ingest | GIGN-FBI Saint-Martin crypto-hacker arrest (FR+US, USD 46M recovered, 2026-03-04)
+- Source: raw/press-releases/2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest.md (Gendarmerie nationale, France; fr)
+- Pages created: wiki/sources/2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest.md, wiki/operations/gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026.md (provisional, source_count=1).
+- Pages updated: countries (france, united-states), agencies (france-gendarmerie-nationale, fbi), crime-types (hacking-ic, money-laundering-ic), mechanisms (extradition, search-seizure, cryptocurrency-seizure, asset-recovery, informal-cooperation).
+- Key findings:
+  - First wiki record sourced from gendarmerie.interieur.gouv.fr (French Gendarmerie official institutional press).
+  - 24-y-o US national arrested 2026-03-04 in Saint-Martin (Caribbean overseas collectivity of FR) on US international arrest warrant for theft of ~USD 46M crypto. Joint action: ~10 GIGN operators (Antenne Guadeloupe) + 3 SR Saint-Martin investigators + 3 FBI agents. Full USD 46M recovered, EUR 250K cash, IT equipment, wallet credentials, multiple phones, 1 loaded Glock pistol seized.
+  - Cooperation channel: FBI → COMGEND Saint-Barthélemy/Saint-Martin → SR "cellule internationale" under parquet général de Guadeloupe. Caribbean tri-national geography (FR overseas + UK + NL) noted but UK/NL roles in 2026-03-04 action only "local partners" (not asserted in participating_countries per L19).
+  - 100% asset-recovery outcome — illustrates crypto-extortion case where recovery happens at suspect-arrest moment via wallet-credential seizure rather than blockchain-trace forensics.
+  - Caribbean International Intelligence Meeting (FBI-DEA piloted) referenced as environmental context, not operational.
+
+## [2026-05-09] iter 100 milestone integrity sweep
+- Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0
+- check_links: broken=2 (both pre-existing LESSONS.md backlinks in unrelated bohemia-cannabia HTML — legacy)
+- ZZPROT/PROT[0-9] placeholders: 0 across wiki/ + docs/
+- [[challenges]]/[[concepts]]/[[wikilink]]/[[lessons]] placeholder wikilinks: 0
+- web/build_static.py: 1580 pages built successfully
+- Fixed 5 pre-existing build-pipeline bugs found during sweep:
+  - 3 missing_page in greek-daoe-crypto-investment-fraud-2026 (lead_agency/coordinating_body plain-text strings auto-linked by builder → emptied frontmatter, descriptive text retained in body)
+  - 2 missing_page in hungary-romania-swatting-doxing-discord-2026 + lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025 (same root cause)
+- Wiki freshness audit: most-recent `updated:` distribution shows 887 pages at 2026-04-29, 1030 pages at 2026-04-26, 247 pages at 2026-05-09. The wide 4월-말~5월-9 distribution indicates most entity pages have not been bumped on `updated:` since their pre-iter-87 baseline. This is technically expected (only directly modified pages get bumped) but suggests need for a cross-cutting `last_verified` refresh in subsequent iters.
+- Source-count total: 9,201 across 2,745 pages.

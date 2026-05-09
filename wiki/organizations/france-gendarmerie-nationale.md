@@ -8,8 +8,7 @@ last_verified: 2026-04-29
 org_type: national-gendarmerie
 country: "[[france]]"
 jurisdiction:
-  -
-    - france
+
 official_name: "Gendarmerie nationale"
 mandate: "French national gendarmerie with judicial-police and cybercrime capabilities through its cyber command and C3N."
 key_roles:
@@ -22,16 +21,18 @@ operations_participated:
   - "[[operation-kraken-ghost-platform]]"
   - "[[franco-israeli-ceo-fraud]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
+  - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
 cooperation_partners:
   - "[[france-gendarmerie]]"
   - "[[france-junalco]]"
   - "[[france-national-police]]"
   - "[[europol-ec3]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-la-menace-cyber]]"
   - "[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqu-teurs-pour-traquer-les-cyber-criminels]]"
   - "[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]"
+  - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
 ---
 ## Summary
 

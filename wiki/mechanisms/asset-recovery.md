@@ -4,13 +4,16 @@ title: "Asset Recovery"
 status: corpus-linked
 created: 2026-05-06
 updated: 2026-05-06
-source_count: 2
+source_count: 3
 sources:
   - "[[2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
+  - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 cases_using:
   - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
+operations_using:
+  - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
 ---
 ## Summary
 

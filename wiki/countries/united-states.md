@@ -212,13 +212,15 @@ operations_participated:
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
   - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
+  - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
 region: north-america
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
   - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
+  - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

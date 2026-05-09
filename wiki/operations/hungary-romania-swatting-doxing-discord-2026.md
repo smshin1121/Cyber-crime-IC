@@ -23,8 +23,8 @@ crime_types:
   - "[[cyberstalking-ic]]"
 crime_type: "[[cyberstalking-ic]]"
 target_entity: "Four young suspects (ages 16-20) coordinating a multi-month swatting and doxing campaign against Hungarian schools, religious institutions, residences, and police units, originating in Discord disputes"
-lead_agency: "Készenléti Rendőrség Nemzeti Nyomozó Iroda (KR NNI) Kiberbűnözés Elleni Főosztály"
-coordinating_body: "Készenléti Rendőrség Nemzeti Nyomozó Iroda (KR NNI)"
+lead_agency: ""
+coordinating_body: ""
 participating_countries:
   - "[[hungary]]"
   - "[[romania]]"

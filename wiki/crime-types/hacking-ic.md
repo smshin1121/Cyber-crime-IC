@@ -44,9 +44,10 @@ notable_operations:
   - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
   - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 23
+source_count: 24
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -71,6 +72,7 @@ sources:
   - "[[2025-01-17_treasury_sanctions-yin-kecheng-sichuan-juxinhe-salt-typhoon]]"
   - "[[2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down]]"
   - "[[2025-09-10_rcmp_canada-fbi-twitter-nft-redman-extradition]]"
+  - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -132,3 +134,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [21] | [[2025-01-17_treasury_sanctions-yin-kecheng-sichuan-juxinhe-salt-typhoon\|Treasury Sanctions Yin Kecheng and Sichuan Juxinhe Network Technology for Cyberespionage Activities (Salt Typhoon)]] | US Department of the Treasury (OFAC), Press Release JY-2792 | 2025-01-17 | https://home.treasury.gov/news/press-releases/jy2792 |
 | [22] | [[2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down\|Global phishing-as-a-service platform taken down in coordinated public-private action (Tycoon 2FA)]] | Europol | 2026-03-04 | https://www.europol.europa.eu/media-press/newsroom/news/global-phishing-service-platform-taken-down-in-coordinated-public-private-action |
 | [23] | [[2025-09-10_rcmp_canada-fbi-twitter-nft-redman-extradition\|RCMP-FBI Twitter/NFT theft extradition (Redman, CA→PT→US, EDVA No. 1:25-cr-129)]] | RCMP Central Region (CNW mirror) + DOJ EDVA | 2025-09-10 | https://www.canada.ca/en/royal-canadian-mounted-police/news.html |
+| [24] | [[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest\|GIGN-FBI Saint-Martin crypto-hacker arrest — FR+US, USD 46M crypto recovered, mandat d'arrêt international + extradition pending]] | Gendarmerie nationale (France) | 2026-03-06 | https://www.gendarmerie.interieur.gouv.fr/presentation/a-l-international/cooperation-internationale-une-target-principale-interpellee-lors-d-une-operation-conjointe-du-gign-et-du-fbi-a-saint-martin |

@@ -54,8 +54,9 @@ operations_participated:
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[operation-otf-grimm]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
+  - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
 region: western-europe
-source_count: 8
+source_count: 9
 sources:
   - "[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]"
@@ -65,6 +66,7 @@ sources:
   - "[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
+  - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
 title: "French Republic"
 treaty_memberships:
   - date: 2006-01-10

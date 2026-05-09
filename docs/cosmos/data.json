@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generated_at": "2026-05-09T09:58:59Z",
+  "generated_at": "2026-05-09T13:08:21Z",
   "root": null,
   "stats": {
-    "total_nodes": 1543,
-    "total_edges": 16932,
+    "total_nodes": 1561,
+    "total_edges": 17259,
     "broken_links": 0,
     "orphans": 103,
     "by_type": {
@@ -17,14 +17,14 @@
       "crime-type": 25,
       "legal-framework": 25,
       "mechanism": 28,
-      "operation": 245,
+      "operation": 254,
       "organization": 153,
       "procedure": 2,
-      "source": 772
+      "source": 781
     },
     "operation_scope": {
       "absorbed_follow_on": 27,
-      "canonical_operation": 218
+      "canonical_operation": 227
     }
   },
   "nodes": [
@@ -692,7 +692,7 @@
       "title": "사이버범죄 국제공조 통계 대시보드",
       "title_ko": null,
       "aliases": [],
-      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 218 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 245 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 41 | | Period 3 (2023-2025) | 144 | | Period 4…",
+      "summary": "# 사이버범죄 국제공조 통계 대시보드 --- ## 1. 작전 집계 통계 ### 전체 현황 | 지표 | 값 | |------|-----| | 정본 작전 수 | 227 | | 흡수 follow-on 기록 | 27 | | 전체 operation 레코드 | 254 | | Period 1 (pre-2019) | 33 | | Period 2 (2019-2022) | 41 | | Period 3 (2023-2025) | 153 | | Period 4…",
       "source_count": 0,
       "created": "2026-04-08",
       "updated": "2026-05-09",
@@ -1780,7 +1780,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 24,
+      "degree": 25,
       "path": "wiki/cases/us-v-xu-zewei-hafnium-extradited-italy.md",
       "meta": {
         "status": "indicted",
@@ -1929,7 +1929,7 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Extraterritorial jurisdiction is the basis on which a state applies domestic law to conduct, actors, infrastructure, evidence, or effects connected to another country. In cybercrime records it matters because an intrusion can be launched abroad,…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-18",
       "updated": "2026-04-29",
       "degree": 14,
@@ -2184,7 +2184,7 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Commonwealth of Australia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-08",
       "updated": "2026-05-09",
       "degree": 124,
@@ -2355,10 +2355,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Bosnia and Herzegovina is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-17",
       "updated": "2026-05-09",
-      "degree": 13,
+      "degree": 16,
       "path": "wiki/countries/bosnia-and-herzegovina.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2456,10 +2456,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Cambodia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-04-20",
       "updated": "2026-05-09",
-      "degree": 28,
+      "degree": 32,
       "path": "wiki/countries/cambodia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2491,7 +2491,7 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Canada signed the Budapest Convention on Cybercrime on 23 November 2001 — the day it was opened for signature — and completed ratification on 8 July 2015 after passing the Protecting Canadians from Online Crime Act (Bill C-13, 2014) which…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-05-09",
       "degree": 84,
@@ -2542,10 +2542,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Chile is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 12,
+      "degree": 16,
       "path": "wiki/countries/chile.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2576,10 +2576,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Colombia deposited its instrument of accession to the Budapest Convention on Cybercrime on 16 March 2020, becoming the 65th Party [1][2]. Its substantive cybercrime law is Ley 1273 de 2009 \"De la protección de la información y de los datos\", which…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 26,
+      "degree": 31,
       "path": "wiki/countries/colombia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2849,10 +2849,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Estonia is maintained as a country node for the cybercrime international-cooperation corpus. The current page is source-backed only to the level shown in the references below; it does not infer treaty status, cybercrime-unit authority, or MLAT…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-20",
       "updated": "2026-05-09",
-      "degree": 31,
+      "degree": 35,
       "path": "wiki/countries/estonia.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2918,10 +2918,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "France is a foundational partner in European cybercrime cooperation. It was one of the early ratifying parties to the Budapest Convention on Cybercrime (ratified 10 January 2006; entry into force 1 May 2006) and operates a mature 24/7 Point of…",
-      "source_count": 8,
+      "source_count": 9,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 126,
+      "degree": 128,
       "path": "wiki/countries/france.md",
       "meta": {
         "legal_system": "civil-law",
@@ -2969,10 +2969,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Georgia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 14,
+      "degree": 18,
       "path": "wiki/countries/georgia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -2986,10 +2986,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Germany is a key pillar of European cybercrime cooperation. The Bundeskriminalamt (BKA) (germany-bka) and the specialized cybercrime prosecutor's office in Frankfurt (Zentralstelle zur Bekämpfung der Internetkriminalität, ZIT) have led or co-led…",
-      "source_count": 7,
+      "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 215,
+      "degree": 219,
       "path": "wiki/countries/germany.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3138,10 +3138,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Hungary is maintained as a country node for the cybercrime international-cooperation corpus. The current page is source-backed only to the level shown in the references below; it does not infer treaty status, cybercrime-unit authority, or MLAT…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-04-11",
       "updated": "2026-05-09",
-      "degree": 29,
+      "degree": 32,
       "path": "wiki/countries/hungary.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3274,7 +3274,7 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Israel is maintained as a country node for the cybercrime international-cooperation corpus. The current page is source-backed only to the level shown in the references below; it does not infer treaty status, cybercrime-unit authority, or MLAT…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-17",
       "updated": "2026-05-09",
       "degree": 17,
@@ -3292,10 +3292,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Italy ratified the Budapest Convention in 2008 via Law No. 48 of 18 March 2008, which simultaneously introduced significant reforms to the Italian Criminal Code, Code of Criminal Procedure, and corporate liability framework under Legislative Decree…",
-      "source_count": 6,
+      "source_count": 7,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 79,
+      "degree": 83,
       "path": "wiki/countries/italy.md",
       "meta": {
         "legal_system": "civil-law",
@@ -3444,10 +3444,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Republic of Latvia is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 48,
+      "degree": 52,
       "path": "wiki/countries/latvia.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3477,10 +3477,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Republic of Lithuania is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 52,
+      "degree": 56,
       "path": "wiki/countries/lithuania.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3627,10 +3627,10 @@
       "title_ko": "멕시코",
       "aliases": [],
       "summary": "Mexico is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-18",
       "updated": "2026-05-09",
-      "degree": 13,
+      "degree": 17,
       "path": "wiki/countries/mexico.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3797,7 +3797,7 @@
       "title_ko": null,
       "aliases": [],
       "summary": "New Zealand is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-26",
       "updated": "2026-05-09",
       "degree": 17,
@@ -3965,10 +3965,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Peru is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-13",
       "updated": "2026-05-03",
-      "degree": 11,
+      "degree": 15,
       "path": "wiki/countries/peru.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -3982,7 +3982,7 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Philippines is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-04-20",
       "updated": "2026-05-09",
       "degree": 23,
@@ -4051,10 +4051,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Romania is a major European cybercrime cooperation partner. It is a Budapest Convention party since 2004 (one of the earliest) and hosts the Council of Europe Cybercrime Programme Office (C-PROC) in Bucharest, which runs global capacity-building…",
-      "source_count": 4,
+      "source_count": 6,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 89,
+      "degree": 98,
       "path": "wiki/countries/romania.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4237,7 +4237,7 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Republic of South Africa is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-10",
       "updated": "2026-05-03",
       "degree": 24,
@@ -4254,10 +4254,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "South Korea is a highly capable partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime…",
-      "source_count": 23,
+      "source_count": 24,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 137,
+      "degree": 142,
       "path": "wiki/countries/south-korea.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4496,10 +4496,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Turkey is retained as a country navigation and relationship node for the cybercrime international-cooperation corpus. This page is an assessment-control record because the repository does not currently link a country-specific source page for this…",
-      "source_count": 0,
+      "source_count": 1,
       "created": "2026-04-12",
       "updated": "2026-05-03",
-      "degree": 7,
+      "degree": 11,
       "path": "wiki/countries/turkey.md",
       "meta": {
         "legal_system": "not-assessed",
@@ -4529,10 +4529,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Ukraine is a Budapest Convention party since 2005 and has been one of the most operationally active eastern European cybercrime cooperation partners. The Cyberpolice of Ukraine (ukraine-police) — Department of Cyber Police within the National…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 64,
+      "degree": 69,
       "path": "wiki/countries/ukraine.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4582,10 +4582,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The United States holds the highest centrality in the international cybercrime cooperation network. As home to the world's largest technology companies (Google, Meta, Microsoft, Apple, etc.), the US is almost certainly the most frequently requested…",
-      "source_count": 1,
+      "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 389,
+      "degree": 398,
       "path": "wiki/countries/united-states.md",
       "meta": {
         "legal_system": "common-law",
@@ -4651,10 +4651,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Vietnam is maintained as a country node for the cybercrime international-cooperation corpus. The current page is source-backed only to the level shown in the references below; it does not infer treaty status, cybercrime-unit authority, or MLAT…",
-      "source_count": 1,
+      "source_count": 2,
       "created": "2026-04-20",
       "updated": "2026-05-09",
-      "degree": 18,
+      "degree": 22,
       "path": "wiki/countries/vietnam.md",
       "meta": {
         "legal_system": "civil-law",
@@ -4879,10 +4879,10 @@
         "cyber-enabled stalking"
       ],
       "summary": "Cyberstalking covers repeated online or electronic communications, threats, harassment, coercion, impersonation, and related misuse of digital platforms against specific victims. In the international-cooperation corpus it is usually not a large…",
-      "source_count": 4,
+      "source_count": 6,
       "created": "2026-04-27",
       "updated": "2026-04-29",
-      "degree": 11,
+      "degree": 20,
       "path": "wiki/crime-types/cyberstalking-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -4957,10 +4957,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Extortion — IC Perspective is a crime-type node used to group source-backed operations and cases by the cybercrime conduct at issue. Current corpus coverage links this node to 0 operation records, 0 case records, and 1 source records.…",
-      "source_count": 6,
+      "source_count": 8,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 17,
+      "degree": 20,
       "path": "wiki/crime-types/extortion-ic.md",
       "meta": {}
     },
@@ -4977,10 +4977,10 @@
         "APT"
       ],
       "summary": "Hacking and computer intrusion cover unauthorized access to computers, networks, accounts, devices, and data. In international-cooperation analysis this category includes financially motivated intrusion, contractor or state-directed intrusion,…",
-      "source_count": 23,
+      "source_count": 24,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 73,
+      "degree": 76,
       "path": "wiki/crime-types/hacking-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -4993,7 +4993,7 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Identity Theft is a crime-type node used to group source-backed operations and cases by the cybercrime conduct at issue. Current corpus coverage links this node to 12 operation records, 14 case records, and 0 source records. Representative linked…",
-      "source_count": 11,
+      "source_count": 12,
       "created": "2026-04-18",
       "updated": "2026-05-09",
       "degree": 13,
@@ -5032,10 +5032,10 @@
         "malware-enabled cybercrime"
       ],
       "summary": "Malware operations in this wiki cover botnets, loaders, banking trojans, infostealers, remote-access tools, and malware-enabled proxy services where cross-border coordination is necessary to identify operators, seize infrastructure, notify victims,…",
-      "source_count": 13,
+      "source_count": 14,
       "created": "2026-04-17",
       "updated": "2026-05-09",
-      "degree": 67,
+      "degree": 71,
       "path": "wiki/crime-types/malware-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -5054,10 +5054,10 @@
         "자금세탁"
       ],
       "summary": "Money laundering — particularly cryptocurrency-enabled money laundering through mixing services, illicit exchanges, and obfuscation tooling — is a cross-cutting cybercrime enabler that converts the proceeds of nearly every other cybercrime category…",
-      "source_count": 46,
+      "source_count": 51,
       "created": "2026-04-14",
       "updated": "2026-05-09",
-      "degree": 153,
+      "degree": 164,
       "path": "wiki/crime-types/money-laundering-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5079,10 +5079,10 @@
         "business email compromise"
       ],
       "summary": "Online fraud encompasses a broad spectrum of cyber-enabled financial crimes, including voice phishing (보이스피싱), romance scams, business email compromise (BEC), investment fraud, online gambling fraud, and e-commerce fraud. From an international…",
-      "source_count": 66,
+      "source_count": 72,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 256,
+      "degree": 272,
       "path": "wiki/crime-types/online-fraud-ic.md",
       "meta": {
         "crime_category": "cyber-enabled"
@@ -5095,10 +5095,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Organized Crime - IC Perspective is a crime-type node used to group source-backed operations and cases by the cybercrime conduct at issue. Current corpus coverage links this node to 2 operation records, 1 case records, and 0 source records.…",
-      "source_count": 16,
+      "source_count": 20,
       "created": "2026-04-18",
       "updated": "2026-05-09",
-      "degree": 27,
+      "degree": 32,
       "path": "wiki/crime-types/organized-crime-ic.md",
       "meta": {}
     },
@@ -5113,10 +5113,10 @@
         "RaaS"
       ],
       "summary": "Ransomware is almost certainly the single most significant cybercrime type driving international cooperation in the 2020s. Ransomware attacks encrypt victims' data and demand payment (typically in cryptocurrency) for decryption keys. The…",
-      "source_count": 27,
+      "source_count": 28,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 113,
+      "degree": 116,
       "path": "wiki/crime-types/ransomware-ic.md",
       "meta": {
         "crime_category": "cyber-dependent"
@@ -5178,7 +5178,7 @@
       "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-05-03",
-      "degree": 151,
+      "degree": 152,
       "path": "wiki/legal-frameworks/budapest-convention.md",
       "meta": {
         "status": "in-force",
@@ -5503,7 +5503,7 @@
       "source_count": 8,
       "created": "2026-04-08",
       "updated": "2026-04-10",
-      "degree": 15,
+      "degree": 17,
       "path": "wiki/legal-frameworks/un-cybercrime-convention-2024.md",
       "meta": {
         "status": "not-yet-in-force",
@@ -5635,10 +5635,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Asset Freezing is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work. Current…",
-      "source_count": 5,
+      "source_count": 7,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 48,
+      "degree": 50,
       "path": "wiki/mechanisms/asset-freezing.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5651,10 +5651,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Asset Recovery is a cooperation or enforcement mechanism node used for operations where public reporting identifies recovered criminal proceeds, returned victim funds, or coordinated recovery of assets linked to cross-border cybercrime. Current…",
-      "source_count": 1,
+      "source_count": 3,
       "created": "2026-05-06",
       "updated": "2026-05-06",
-      "degree": 7,
+      "degree": 8,
       "path": "wiki/mechanisms/asset-recovery.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5683,10 +5683,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Cryptocurrency Seizure is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work.…",
-      "source_count": 4,
+      "source_count": 6,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 13,
+      "degree": 15,
       "path": "wiki/mechanisms/cryptocurrency-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5738,10 +5738,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Electronic Evidence is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work.…",
-      "source_count": 5,
+      "source_count": 7,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 63,
+      "degree": 65,
       "path": "wiki/mechanisms/electronic-evidence.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5791,10 +5791,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Eurojust Coordination Meeting is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 40,
+      "degree": 42,
       "path": "wiki/mechanisms/eurojust-coordination-meeting.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5810,7 +5810,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 20,
+      "degree": 21,
       "path": "wiki/mechanisms/european-arrest-warrant.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5884,10 +5884,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Extradition is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work. Current…",
-      "source_count": 5,
+      "source_count": 11,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 46,
+      "degree": 60,
       "path": "wiki/mechanisms/extradition.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5900,10 +5900,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Informal Police Cooperation is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption…",
-      "source_count": 2,
+      "source_count": 7,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 209,
+      "degree": 218,
       "path": "wiki/mechanisms/informal-cooperation.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -5994,7 +5994,7 @@
       "source_count": 2,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 54,
+      "degree": 56,
       "path": "wiki/mechanisms/joint-investigation-team.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6028,10 +6028,10 @@
         "Mutual Legal Assistance"
       ],
       "summary": "The MLAT process is the formal mutual legal assistance workflow for requesting evidence, service, search, seizure, testimony, or other judicial assistance from another state. In cybercrime it remains important where provider data, bank records,…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 62,
+      "degree": 67,
       "path": "wiki/mechanisms/mlat-process.md",
       "meta": {
         "mechanism_type": "formal-mlat",
@@ -6046,10 +6046,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Mutual Legal Assistance is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work.…",
-      "source_count": 2,
+      "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 106,
+      "degree": 112,
       "path": "wiki/mechanisms/mutual-legal-assistance.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -6078,10 +6078,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "Search and Seizure is a cooperation or enforcement mechanism node used to classify how cybercrime matters move across borders, from evidence handling and police coordination to seizure, takedown, extradition, or public-private disruption work.…",
-      "source_count": 6,
+      "source_count": 10,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 99,
+      "degree": 103,
       "path": "wiki/mechanisms/search-seizure.md",
       "meta": {
         "mechanism_type": "cooperation-or-enforcement-mechanism"
@@ -7092,6 +7092,31 @@
       }
     },
     {
+      "id": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "type": "operation",
+      "title": "Fiscalía Colombia Cryptoactivos Fraud Network Takedown — Medellín-Hub Network Defrauding Colombia/Chile/Peru (2021–2025)",
+      "title_ko": "콜롬비아 검찰 가짜 가상자산 투자 사기 네트워크 일제 단속 (2021–2025, 메데인 허브)",
+      "aliases": [
+        "Desarticulada red criptoactivos Medellín 14 capturados",
+        "Fiscalía Colombia DECDI cripto investment fraud takedown 2025",
+        "Fiscalía bulletin 57752 cripto network"
+      ],
+      "summary": "On 18 November 2025, the Fiscalía General de la Nación de Colombia announced (Boletín 57752) the dismantling of an organised criminal network that had operated fraudulent cryptocurrency- and securities-investment platforms from 2021 through October…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 18,
+      "path": "wiki/operations/fiscalia-colombia-criptoactivos-fraud-network-takedown-2025.md",
+      "meta": {
+        "status": "ongoing",
+        "source_tier": 1,
+        "operation_type": "arrest-sweep",
+        "outcome": "partial",
+        "results_arrests": 14,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "franco-israeli-ceo-fraud",
       "type": "operation",
       "title": "Franco-Israeli CEO Fraud Investigation",
@@ -7139,6 +7164,31 @@
         "operation_type": "arrest-sweep",
         "outcome": "success",
         "results_arrests": 1858,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "type": "operation",
+      "title": "GIGN–FBI Saint-Martin Cryptocurrency Hacker Arrest (France–United States, 2026)",
+      "title_ko": "GIGN–FBI 생마르탱 암호화폐 해커 검거 (프랑스–미국, 2026)",
+      "aliases": [
+        "Saint-Martin GIGN FBI cryptocurrency arrest 2026",
+        "Coopération internationale GIGN FBI Saint-Martin mars 2026",
+        "Antenne GIGN Guadeloupe interpellation hacker 46 millions de dollars"
+      ],
+      "summary": "On 4 March 2026, around the evening hours, a joint operation conducted by the Antenne GIGN de Guadeloupe (about ten GIGN operators), three investigators from the Section de recherches (S.R.) de Saint-Martin / Saint-Barthélemy, and three agents of…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 19,
+      "path": "wiki/operations/gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "arrest-sweep",
+        "outcome": "success",
+        "results_arrests": 1,
         "operation_scope": "canonical_operation"
       }
     },
@@ -7213,6 +7263,32 @@
       }
     },
     {
+      "id": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "type": "operation",
+      "title": "Hakkari-Centred Illegal Betting and Qualified Fraud Network — 18-Province Sweep + Sarajevo Red Notice Arrest (Türkiye–Bosnia and Herzegovina, 2026)",
+      "title_ko": "하카리 중심 불법 베팅·자격사기 조직 단속 — 18개 도(道) 동시 작전 + 사라예보 적색수배 검거 (튀르키예–보스니아헤르체고비나, 2026)",
+      "aliases": [
+        "Hakkari illegal betting and qualified fraud operation",
+        "20 milyar lira siber suç ağı",
+        "Yüksekova Cumhuriyet Başsavcılığı bahis-dolandırıcılık operasyonu 2026",
+        "Saraybosna kırmızı bülten yakalama 2026"
+      ],
+      "summary": "On 31 March 2026 the Republic of Türkiye's Ministry of Interior, via the official state news agency Anadolu Ajansı, announced the conclusion of a four-month investigation centred in Hakkari province against a transnational organised criminal group…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 17,
+      "path": "wiki/operations/hakkari-illegal-betting-fraud-network-bosnia-arrest-2026.md",
+      "meta": {
+        "status": "ongoing",
+        "source_tier": 1,
+        "operation_type": "arrest-sweep",
+        "outcome": "partial",
+        "results_arrests": 53,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "hive-ransomware-takedown",
       "type": "operation",
       "title": "Hive Ransomware Infrastructure Takedown",
@@ -7232,6 +7308,31 @@
         "source_tier": 2,
         "operation_type": "takedown",
         "outcome": "success",
+        "results_arrests": 0,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "hungary-romania-swatting-doxing-discord-2026",
+      "type": "operation",
+      "title": "Hungary-Romania Swatting and Doxing Discord Joint Operation (2026)",
+      "title_ko": null,
+      "aliases": [
+        "Swatting és doxing miatt indult nyomozás",
+        "Hungarian-Romanian Discord swatting takedown",
+        "KR NNI / TEK / Bihor County 2026-01-20 joint operation"
+      ],
+      "summary": "A six-month Hungarian-Romanian joint investigation into a Discord-based swatting and doxing campaign culminated in a coordinated four-location raid on 2026-01-20. The Hungarian National Bureau of Investigation (Készenléti Rendőrség Nemzeti Nyomozó…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 21,
+      "path": "wiki/operations/hungary-romania-swatting-doxing-discord-2026.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "partial",
         "results_arrests": 0,
         "operation_scope": "canonical_operation"
       }
@@ -7390,6 +7491,31 @@
       }
     },
     {
+      "id": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "type": "operation",
+      "title": "Italy Riccione Cyber-Extortion Arrest — Italy-FBI Cooperation (Riccione, 31 July 2025)",
+      "title_ko": "이탈리아 리치오네 사이버 갈취범 체포 — 이탈리아·FBI 공조 (2025년 7월 31일)",
+      "aliases": [
+        "Riccione cybercriminal arrest 2025",
+        "Polizia Postale Riccione FBI arrest 2025",
+        "Italian-Australian / Kazakh extortion arrest Riccione 2025"
+      ],
+      "summary": "On 2025-07-31, officers of the Italian Polizia di Stato — Servizio Polizia postale e per la sicurezza cibernetica arrested a foreign national at a hotel in Riccione (Rimini province, Emilia-Romagna, Italy) who was internationally wanted in…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 23,
+      "path": "wiki/operations/italy-riccione-cyber-extortion-arrest-khlynovskiy-2025.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "arrest-sweep",
+        "outcome": "success",
+        "results_arrests": 1,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
       "type": "operation",
       "title": "KNPA Operation Breaking Chains — 2nd International Cooperation Operations Meeting (2026)",
@@ -7406,7 +7532,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 74,
+      "degree": 77,
       "path": "wiki/operations/knpa-breaking-chains-2nd-international-operation-meeting-2026.md",
       "meta": {
         "status": "ongoing",
@@ -7414,6 +7540,31 @@
         "operation_type": "joint-investigation",
         "outcome": "partial",
         "results_arrests": 59,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "type": "operation",
+      "title": "KNPA KMSAuto Clipper Malware — Lithuania-Georgia-Korea Three-State Extradition (2020–2025)",
+      "title_ko": "가상자산 편취 악성프로그램(KMSAuto) 유포 외국인 해커 인터폴 수배·송환 (한국·리투아니아·조지아 공조)",
+      "aliases": [
+        "KMSAuto memory-hacking clipper extradition",
+        "KNPA Lithuanian KMSAuto hacker extradition 2025",
+        "Korea-Lithuania-Georgia crypto clipper extradition"
+      ],
+      "summary": "On 2025-12-29 the Korean National Police Agency National Office of Investigation (국가수사본부) announced the extradition into Korea of a 29-year-old Lithuanian national identified only as 'A', accused of distributing a memory-hacking clipper malware…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 42,
+      "path": "wiki/operations/knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "success",
+        "results_arrests": 1,
         "operation_scope": "canonical_operation"
       }
     },
@@ -7431,7 +7582,7 @@
       "source_count": 1,
       "created": "2026-05-08",
       "updated": "2026-05-09",
-      "degree": 74,
+      "degree": 79,
       "path": "wiki/operations/korea-cambodia-philippines-73-extradition-2026.md",
       "meta": {
         "status": "completed",
@@ -7452,7 +7603,7 @@
       "source_count": 5,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 71,
+      "degree": 75,
       "path": "wiki/operations/korea-cambodia-scam-repatriation.md",
       "meta": {
         "status": "ongoing",
@@ -7515,6 +7666,57 @@
       }
     },
     {
+      "id": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "type": "operation",
+      "title": "Lai Châu Provincial Police + Vietnam MPS — Bokor Hill (Kampot, Cambodia) Transnational Online-Fraud Takedown (28-Oct-2025)",
+      "title_ko": null,
+      "aliases": [
+        "Bokor Hill scam compound takedown 2025",
+        "Lai Chau-Cambodia online fraud takedown 2025",
+        "Sung Thi Mai (Vi) Vietnamese online fraud ring 2025",
+        "Vietnam MPS Cambodia scam compound 59-arrest 2025"
+      ],
+      "summary": "On 28 October 2025, a special working group of Lai Châu Provincial Police of Việt Nam led — in coordination with the Representative Office of the Ministry of Public Security of Việt Nam in Cambodia (Cơ quan đại diện Bộ Công an Việt Nam tại…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 22,
+      "path": "wiki/operations/lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "takedown",
+        "outcome": "success",
+        "results_arrests": 59,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
+      "id": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "type": "operation",
+      "title": "Latvia Phone-Fraud Money-Mule Network Takedown — €2M Vishing Case (Latvia–Estonia–Germany–Ukraine, 2023–2026)",
+      "title_ko": "라트비아 보이스피싱·돈세탁 조직 단속 — 4국 공조 (2023–2026)",
+      "aliases": [
+        "Latvia €2M vishing case",
+        "Valsts policija telefonkrāpšanas lieta",
+        "Latvia phone-fraud 170 money mules case"
+      ],
+      "summary": "A multi-year Latvian-led criminal investigation into an international organised crime group conducting vishing (telephone fraud) campaigns against EU citizens has, as of 2026-03-18, produced arrests and convictions across four jurisdictions…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 38,
+      "path": "wiki/operations/latvia-phone-fraud-money-mule-network-takedown-2026.md",
+      "meta": {
+        "status": "ongoing",
+        "source_tier": 1,
+        "operation_type": "joint-investigation",
+        "outcome": "partial",
+        "results_arrests": 18,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "latvia-sim-box-cybercrime-as-a-service-takedown-2025",
       "type": "operation",
       "title": "Latvia SIM-Box Cybercrime-as-a-Service Network Takedown (2025)",
@@ -7527,7 +7729,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 34,
+      "degree": 37,
       "path": "wiki/operations/latvia-sim-box-cybercrime-as-a-service-takedown-2025.md",
       "meta": {
         "status": "completed",
@@ -8049,7 +8251,7 @@
       "source_count": 1,
       "created": "2026-04-18",
       "updated": "2026-04-29",
-      "degree": 21,
+      "degree": 23,
       "path": "wiki/operations/operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u.md",
       "meta": {
         "status": "absorbed",
@@ -10773,6 +10975,30 @@
       }
     },
     {
+      "id": "operation-us-v-szabo-swatting-ring",
+      "type": "operation",
+      "title": "U.S.–Romania Swatting Ring Prosecution (Szabo)",
+      "title_ko": null,
+      "aliases": [
+        "United States v. Thomasz Szabo",
+        "Plank / Jonah / Cypher swatting ring case"
+      ],
+      "summary": "Single-defendant transnational prosecution: Romania-based ringleader Thomasz Szabo extradited to the United States and ultimately sentenced (2026-04-29) for leading an online swatting / bomb-threat group that conducted a December 2023 – January…",
+      "source_count": 1,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 33,
+      "path": "wiki/operations/operation-us-v-szabo-swatting-ring.md",
+      "meta": {
+        "status": "completed",
+        "source_tier": 1,
+        "operation_type": "prosecution",
+        "outcome": "success",
+        "results_arrests": 1,
+        "operation_scope": "canonical_operation"
+      }
+    },
+    {
       "id": "operation-us-v-vyacheslav-igorevich-penchukov",
       "type": "operation",
       "title": "Vyacheslav Igorevich Penchukov Enforcement Action",
@@ -11078,7 +11304,7 @@
       "source_count": 1,
       "created": "2026-05-09",
       "updated": "2026-05-09",
-      "degree": 27,
+      "degree": 28,
       "path": "wiki/operations/romania-moldova-phishing-laundering-jit-2025.md",
       "meta": {
         "status": "completed",
@@ -12435,7 +12661,7 @@
       "source_count": 1,
       "created": "2026-05-08",
       "updated": "2026-05-09",
-      "degree": 10,
+      "degree": 11,
       "path": "wiki/organizations/cambodian-national-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -12810,10 +13036,10 @@
       "title_ko": "유럽연합 형사사법협력기구 (유로저스트)",
       "aliases": [],
       "summary": "Eurojust (유로저스트) is the European Union Agency for Criminal Justice Cooperation, headquartered in The Hague alongside Europol EC3. Established in 2002, Eurojust provides the judicial coordination dimension of cross-border criminal investigations.…",
-      "source_count": 10,
+      "source_count": 11,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 314,
+      "degree": 320,
       "path": "wiki/organizations/eurojust.md",
       "meta": {
         "org_type": "regional-org",
@@ -12832,7 +13058,7 @@
       "source_count": 10,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 556,
+      "degree": 557,
       "path": "wiki/organizations/europol-ec3.md",
       "meta": {
         "org_type": "regional-org",
@@ -12884,10 +13110,10 @@
       "title_ko": "",
       "aliases": [],
       "summary": "FBI is retained as the shorthand organization page for records that name the Federal Bureau of Investigation without specifying a subunit. The more detailed cybercrime unit page remains fbi-cyber-division, but this page now carries enough…",
-      "source_count": 3,
+      "source_count": 6,
       "created": "2026-04-17",
       "updated": "2026-05-09",
-      "degree": 230,
+      "degree": 244,
       "path": "wiki/organizations/fbi.md",
       "meta": {
         "org_type": "national-agency",
@@ -12943,10 +13169,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The Gendarmerie nationale is one of France's two major national law-enforcement institutions. In the cybercrime corpus it is the parent institution for C3N and the broader Gendarmerie cyber architecture, including COMCyberGEND and the regional…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-26",
       "updated": "2026-04-29",
-      "degree": 20,
+      "degree": 23,
       "path": "wiki/organizations/france-gendarmerie-nationale.md",
       "meta": {
         "org_type": "national-gendarmerie",
@@ -13325,10 +13551,10 @@
       "title_ko": "국제형사경찰기구 (인터폴)",
       "aliases": [],
       "summary": "INTERPOL (International Criminal Police Organization) is the world's largest international police organization, with 196 member countries. Headquartered in Lyon, France, INTERPOL facilitates cross-border police cooperation through its secure global…",
-      "source_count": 4,
+      "source_count": 6,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 150,
+      "degree": 161,
       "path": "wiki/organizations/interpol.md",
       "meta": {
         "org_type": "international-org",
@@ -13406,10 +13632,10 @@
         "Servizio Polizia postale e delle comunicazioni"
       ],
       "summary": "The Servizio Polizia postale e per la sicurezza cibernetica is Italy's core national cybercrime police service within the Polizia di Stato structure. It is the main institutional anchor for cybercrime investigation, online child-protection…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-18",
       "updated": "2026-05-08",
-      "degree": 38,
+      "degree": 43,
       "path": "wiki/organizations/italy-polizia-postale.md",
       "meta": {
         "org_type": "national-unit",
@@ -13519,10 +13745,10 @@
       "title_ko": "경찰청 사이버범죄 수사조직",
       "aliases": [],
       "summary": "This page documents the national cybercrime enforcement apparatus of the Korea National Police Agency (KNPA, 경찰청) across three named incarnations: 사이버안전국 (Cyber Safety Bureau, ~2014–2021), 사이버수사국 (Cyber Investigation Bureau, 2021–2023), and 수사국…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-08",
       "updated": "2026-05-08",
-      "degree": 63,
+      "degree": 68,
       "path": "wiki/organizations/knpa-cyber-bureau.md",
       "meta": {
         "org_type": "national-unit",
@@ -13542,10 +13768,10 @@
         "Korean National Police Agency"
       ],
       "summary": "The Korea National Police Agency (경찰청, KNPA) is the national police service of the Republic of Korea. Established in 1945, it is South Korea's primary law enforcement authority. Cybercrime investigation is handled within the 국가수사본부 (National…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 53,
+      "degree": 60,
       "path": "wiki/organizations/knpa.md",
       "meta": {
         "org_type": "national-agency",
@@ -13580,10 +13806,10 @@
         "Valsts policija"
       ],
       "summary": "Latvia State Police is the law-enforcement node for Latvian cybercrime investigation in this corpus. It should be distinguished from cert-lv, which covers national CSIRT and incident-response functions.",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-05-08",
-      "degree": 24,
+      "degree": 29,
       "path": "wiki/organizations/latvia-state-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -13598,10 +13824,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The Lithuanian Criminal Police Bureau (Lietuvos kriminalinės policijos biuras — LKPB) is the central criminal police authority of Lithuania, operating throughout the country on a non-territorial basis under the Police Department of the Ministry of…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 27,
+      "degree": 32,
       "path": "wiki/organizations/lithuania-police.md",
       "meta": {
         "org_type": "national-unit",
@@ -13756,10 +13982,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The Korea Ministry of Justice is the ministry context for prosecutor-side international cooperation, treaty engagement, mutual legal assistance, and extradition. In this corpus, the operational prosecutor-side detail remains on…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-26",
       "updated": "2026-05-08",
-      "degree": 20,
+      "degree": 24,
       "path": "wiki/organizations/ministry-of-justice-korea.md",
       "meta": {
         "org_type": "ministry",
@@ -14088,10 +14314,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The Office of International Affairs (OIA) is the DOJ Criminal Division component that carries much of the United States' formal cross-border legal process in cybercrime matters. In this corpus, OIA is not usually the technical investigator; it is…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 65,
+      "degree": 70,
       "path": "wiki/organizations/office-of-international-affairs.md",
       "meta": {
         "org_type": "justice-international-cooperation-office",
@@ -14245,7 +14471,7 @@
       "source_count": 0,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 35,
+      "degree": 37,
       "path": "wiki/organizations/romania-diicot.md",
       "meta": {
         "org_type": "prosecution-office",
@@ -14283,7 +14509,7 @@
       "source_count": 2,
       "created": "2026-04-26",
       "updated": "2026-05-09",
-      "degree": 11,
+      "degree": 12,
       "path": "wiki/organizations/romania-public-ministry.md",
       "meta": {
         "org_type": "prosecution-parent",
@@ -14297,10 +14523,10 @@
       "title_ko": "",
       "aliases": [],
       "summary": "Romanian Police is retained as an organization node in the international cybercrime cooperation graph. The current mandate field records: Legacy compatibility page for references to Romanian police cybercrime investigators. Country or jurisdiction…",
-      "source_count": 3,
+      "source_count": 4,
       "created": "2026-04-17",
       "updated": "2026-05-09",
-      "degree": 23,
+      "degree": 29,
       "path": "wiki/organizations/romanian-police.md",
       "meta": {
         "org_type": "national-agency",
@@ -14464,7 +14690,7 @@
         "The Hawks"
       ],
       "summary": "The Hawks, formally the Directorate for Priority Crime Investigation (DPCI), are the SAPS specialized unit for priority crime. In the cybercrime corpus, this page should be used where sources identify serious cybercrime, organized crime, or…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
       "degree": 5,
@@ -14484,7 +14710,7 @@
         "SAPS"
       ],
       "summary": "South African Police Service is retained as an organization node in the international cybercrime cooperation graph. The current mandate field records: South Africa's national police service; hosts DPCI (Hawks) for serious cybercrime investigations.…",
-      "source_count": 2,
+      "source_count": 3,
       "created": "2026-04-10",
       "updated": "2026-04-29",
       "degree": 6,
@@ -14587,10 +14813,10 @@
         "대검"
       ],
       "summary": "The Supreme Prosecutors' Office (대검찰청, SPO) is South Korea's highest prosecution body, headquartered in Seocho-gu, Seoul. Established in 1948 alongside the founding of the Republic of Korea, it operated for 78 years as the apex of Korea's…",
-      "source_count": 7,
+      "source_count": 8,
       "created": "2026-04-10",
       "updated": "2026-04-29",
-      "degree": 24,
+      "degree": 29,
       "path": "wiki/organizations/supreme-prosecutors-office-korea.md",
       "meta": {
         "org_type": "prosecution-office",
@@ -14935,10 +15161,10 @@
       "title_ko": "미국 법무부",
       "aliases": [],
       "summary": "The US Department of Justice (DOJ) is the central legal authority for international cybercrime cooperation involving the United States. Through its Office of International Affairs (OIA), DOJ serves as the central authority for all US bilateral…",
-      "source_count": 5,
+      "source_count": 6,
       "created": "2026-04-08",
       "updated": "2026-05-09",
-      "degree": 334,
+      "degree": 341,
       "path": "wiki/organizations/us-doj.md",
       "meta": {
         "org_type": "national-agency",
@@ -15026,10 +15252,10 @@
       "title_ko": null,
       "aliases": [],
       "summary": "The United States Secret Service (USSS) operates the Cyber Fraud Task Forces (CFTFs), announced in July 2020 as the unified successor to the Electronic Crimes Task Forces (ECTFs, first created in New York in 1995) and Financial Crimes Task Forces…",
-      "source_count": 4,
+      "source_count": 5,
       "created": "2026-04-10",
       "updated": "2026-05-09",
-      "degree": 79,
+      "degree": 84,
       "path": "wiki/organizations/us-secret-service.md",
       "meta": {
         "org_type": "national-unit",
@@ -23116,6 +23342,20 @@
       "meta": {}
     },
     {
+      "id": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "type": "source",
+      "title": "Arrestato a Rimini cybercriminale internazionale (Riccione, 31 July 2025)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Polizia di Stato (Italian State Police) press release dated 2025-07-31 announcing the arrest in Riccione (Rimini province, Emilia-Romagna) of an internationally wanted foreign national accused of having actively participated in…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 11,
+      "path": "wiki/sources/2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy.md",
+      "meta": {}
+    },
+    {
       "id": "2025-08-11-doj-blacksuit-royal-ransomware-takedown",
       "type": "source",
       "title": "Justice Department Announces Coordinated Disruption Actions Against BlackSuit (Royal) Ransomware Operations",
@@ -23592,6 +23832,20 @@
       "meta": {}
     },
     {
+      "id": "2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown",
+      "type": "source",
+      "title": "Báo Chính phủ (Vietnam) — Phá thành công chuyên án lừa đảo chiếm đoạt tài sản trên không gian mạng xuyên quốc gia (Lai Châu Provincial Police + Vietnam MPS Representative in Cambodia + Cambodian functional forces, Bokor Hill takedown, 28-Oct-2025)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Tier-1 Vietnamese-language primary press article published by Báo Chính phủ (Báo điện tử Chính phủ) — the electronic newspaper of the Government Office of the Socialist Republic of Việt Nam — on 29 October 2025 at 16:46 (GMT+7)…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 8,
+      "path": "wiki/sources/2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown.md",
+      "meta": {}
+    },
+    {
       "id": "2025-10-30_pf-gov-br_operacao-magna-fraus-fase-2-pix-fraud",
       "type": "source",
       "title": "PF deflagra segunda fase de operação contra organização criminosa especializada em fraudes bancárias digitais (Operação Magna Fraus, Phase 2)",
@@ -23771,6 +24025,20 @@
       "updated": "2026-05-08",
       "degree": 8,
       "path": "wiki/sources/2025-11-13_eurojust_operation-endgame-phase3-malware-operation.md",
+      "meta": {}
+    },
+    {
+      "id": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "type": "source",
+      "title": "Desarticulada red señala de diseñar un modelo de estafa a través de falsas plataformas de inversión de Criptoactivos (Fiscalía Colombia, Bolletín 57752, 18 noviembre 2025)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "Tier-1 primary press release from Colombia's Fiscalía General de la Nación reporting the dismantling of an organised criminal network that ran fraudulent cryptocurrency- and securities-investment platforms from 2021 through October 2025, defrauding…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 11,
+      "path": "wiki/sources/2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos.md",
       "meta": {}
     },
     {
@@ -24068,6 +24336,20 @@
       "meta": {}
     },
     {
+      "id": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "type": "source",
+      "title": "가상자산 편취 악성프로그램(KMSAuto) 유포 외국인 해커 인터폴 수배 후 한국 송환·구속",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary KNPA Korea.kr 정책브리핑 press release (newsId=156737083) dated 2025-12-29 (online embargo 2025-12-28 09:00) announcing the extradition into Korea of a Lithuanian national accused of operating a memory-hacking clipper malware…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 21,
+      "path": "wiki/sources/2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition.md",
+      "meta": {}
+    },
+    {
       "id": "2026-01-08_team-cymru_interpol-afripol-operation-sentinel-africa",
       "type": "source",
       "title": "Team Cymru supports INTERPOL and AFRIPOL in Operation Sentinel",
@@ -24093,6 +24375,20 @@
       "updated": null,
       "degree": 15,
       "path": "wiki/sources/2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "type": "source",
+      "title": "Swatting és doxing miatt indult nyomozás (Investigation launched for swatting and doxing) — Hungarian Police press release on Hungary-Romania joint operation",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Hungarian National Police press release of 2026-01-26 announcing the conclusion of a six-month investigation that began in mid-July 2025 with a wave of swatting and doxing offences in Hungary. The release confirms a 2026-01-20…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 11,
+      "path": "wiki/sources/2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation.md",
       "meta": {}
     },
     {
@@ -24432,6 +24728,20 @@
       "meta": {}
     },
     {
+      "id": "2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest",
+      "type": "source",
+      "title": "Coopération internationale : une « target principale » interpellée lors d'une opération conjointe du GIGN et du FBI à Saint-Martin",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Official French Gendarmerie nationale press release dated 6 March 2026, authored by commandant Céline Morin. Reports the arrest on 4 March 2026 in Saint-Martin (Caribbean overseas collectivity of France) of a 24-year-old U.S.…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 4,
+      "path": "wiki/sources/2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest.md",
+      "meta": {}
+    },
+    {
       "id": "2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand",
       "type": "source",
       "title": "International operation targets global organised crime networks: 15 arrests across Australia, Spain, Sweden and Thailand (Operation Candy)",
@@ -24670,6 +24980,20 @@
       "meta": {}
     },
     {
+      "id": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "type": "source",
+      "title": "€2 Million Defrauded: State Police Identify Over 170 Money Mules and Illegal Crypto-asset Exchangers in Phone-Fraud Case (Latvia)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Latvia Prosecutor General's Office (Latvijas Republikas prokuratūra) announcement dated 2026-03-18 reporting on a consolidated criminal investigation by the State Police (Valsts policija) Cybercrime Combating Department, 2nd…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 14,
+      "path": "wiki/sources/2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules.md",
+      "meta": {}
+    },
+    {
       "id": "2026-03-19_justice-gov_iranian-mois-cyber-psychological-operations-handala",
       "type": "source",
       "title": "Justice Department Disrupts Iranian Cyber Enabled Psychological Operations (MOIS Handala Hack 4-domain seizure)",
@@ -24723,6 +25047,20 @@
       "updated": null,
       "degree": 10,
       "path": "wiki/sources/2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "type": "source",
+      "title": "53 suspects apprehended in operations targeting illegal betting and qualified fraud (Hakkari-centred 18-province sweep + Sarajevo Red Notice arrest)",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "## Source Summary Anadolu Ajansı wire of 2026-03-31 (timestamp 2026-03-31T20:45:37) reproducing a statement by T.C. İçişleri Bakanlığı (Ministry of Interior of Türkiye) issued via the Bakanlık's NSosyal social-media account. The Ministry announces…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": "2026-05-09",
+      "degree": 10,
+      "path": "wiki/sources/2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest.md",
       "meta": {}
     },
     {
@@ -25297,6 +25635,20 @@
       "updated": "2026-05-08",
       "degree": 3,
       "path": "wiki/sources/2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam.md",
+      "meta": {}
+    },
+    {
+      "id": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "type": "source",
+      "title": "Romanian Citizen Sentenced in D.C. for 'Swatting' Members of Congress, Churches, and Former U.S. President",
+      "title_ko": null,
+      "aliases": [],
+      "summary": "U.S. Secret Service press release (republishing U.S. Attorney for D.C. announcement) on the 2026-04-29 sentencing of Romanian national Thomasz Szabo to 48 months in federal prison for leading a transnational online swatting ring that, between Dec…",
+      "source_count": 0,
+      "created": "2026-05-09",
+      "updated": null,
+      "degree": 18,
+      "path": "wiki/sources/2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months.md",
       "meta": {}
     },
     {
@@ -52629,6 +52981,12 @@
     },
     {
       "source": "bosnia-and-herzegovina",
+      "target": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "bosnia-and-herzegovina",
       "target": "operation-pleiades",
       "kind": "body",
       "directed": false
@@ -52845,6 +53203,12 @@
     },
     {
       "source": "cambodia",
+      "target": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "cambodia",
       "target": "operation-haechi-vi",
       "kind": "body",
       "directed": false
@@ -52984,6 +53348,12 @@
     {
       "source": "chile",
       "target": "operacion-kaerb-iserver-phishing-as-a-service-takedown-2024",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "chile",
+      "target": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -53157,6 +53527,12 @@
     },
     {
       "source": "colombia",
+      "target": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "colombia",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -53182,6 +53558,12 @@
     {
       "source": "colombia",
       "target": "imminent-monitor-rat-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "colombia",
+      "target": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
       "kind": "body",
       "directed": false
     },
@@ -53565,6 +53947,12 @@
     },
     {
       "source": "estonia",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "estonia",
       "target": "operation-synergia-ii",
       "kind": "body",
       "directed": false
@@ -53823,6 +54211,12 @@
     },
     {
       "source": "france",
+      "target": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -53854,6 +54248,12 @@
     {
       "source": "georgia",
       "target": "eurojust-massive-investment-fraud-hundreds-thousands-victims-2022",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "georgia",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -54147,6 +54547,12 @@
     },
     {
       "source": "germany",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "germany",
       "target": "germany-bka",
       "kind": "body",
       "directed": false
@@ -54352,6 +54758,12 @@
     {
       "source": "hungary",
       "target": "operation-fever-cbzc-eu-presidency-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "hungary",
+      "target": "hungary-romania-swatting-doxing-discord-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -54687,6 +55099,12 @@
     },
     {
       "source": "italy",
+      "target": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "italy",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -54921,6 +55339,12 @@
     },
     {
       "source": "latvia",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "latvia",
       "target": "operation-eur-3m-online-investment-fraud-2025",
       "kind": "body",
       "directed": false
@@ -54988,6 +55412,12 @@
     {
       "source": "lithuania",
       "target": "tycoon-2fa-phishing-as-a-service-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "lithuania",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -55162,6 +55592,12 @@
     {
       "source": "mexico",
       "target": "mexico-yucatan-nayarit-csam-afp-fgr-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "mexico",
+      "target": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -55959,6 +56395,12 @@
     },
     {
       "source": "peru",
+      "target": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "peru",
       "target": "operation-orion-international",
       "kind": "body",
       "directed": false
@@ -56253,6 +56695,18 @@
     },
     {
       "source": "romania",
+      "target": "hungary-romania-swatting-doxing-discord-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "romania",
+      "target": "operation-us-v-szabo-swatting-ring",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "romania",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -56278,6 +56732,18 @@
     {
       "source": "romania",
       "target": "second-additional-protocol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania",
+      "target": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romania",
+      "target": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
       "kind": "body",
       "directed": false
     },
@@ -56667,6 +57133,12 @@
     },
     {
       "source": "south-korea",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "south-korea",
       "target": "supreme-prosecutors-office-korea",
       "kind": "body",
       "directed": false
@@ -56758,6 +57230,12 @@
     {
       "source": "south-korea",
       "target": "korea-cambodia-scam-repatriation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "south-korea",
+      "target": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
       "kind": "body",
       "directed": false
     },
@@ -57362,6 +57840,12 @@
       "directed": false
     },
     {
+      "source": "turkey",
+      "target": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
       "source": "uganda",
       "target": "operation-synergia-iii",
       "kind": "body",
@@ -57453,6 +57937,12 @@
     },
     {
       "source": "ukraine",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ukraine",
       "target": "budapest-convention",
       "kind": "body",
       "directed": false
@@ -57472,6 +57962,12 @@
     {
       "source": "ukraine",
       "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "ukraine",
+      "target": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
       "kind": "body",
       "directed": false
     },
@@ -58473,6 +58969,24 @@
     },
     {
       "source": "united-states",
+      "target": "operation-us-v-szabo-swatting-ring",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "united-states",
+      "target": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "united-states",
+      "target": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "united-states",
       "target": "fbi-cyber-division",
       "kind": "body",
       "directed": false
@@ -58576,6 +59090,12 @@
     {
       "source": "vietnam",
       "target": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "vietnam",
+      "target": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -59547,6 +60067,18 @@
     },
     {
       "source": "cyberstalking-ic",
+      "target": "hungary-romania-swatting-doxing-discord-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "cyberstalking-ic",
+      "target": "operation-us-v-szabo-swatting-ring",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "cyberstalking-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -59590,6 +60122,18 @@
     {
       "source": "cyberstalking-ic",
       "target": "2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "cyberstalking-ic",
+      "target": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "cyberstalking-ic",
+      "target": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
       "kind": "body",
       "directed": false
     },
@@ -59871,6 +60415,12 @@
     },
     {
       "source": "extortion-ic",
+      "target": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "extortion-ic",
       "target": "europol-operation-pleiades",
       "kind": "body",
       "directed": false
@@ -59992,6 +60542,12 @@
     {
       "source": "hacking-ic",
       "target": "tycoon-2fa-phishing-as-a-service-takedown-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "hacking-ic",
+      "target": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
       "kind": "notable_operations",
       "directed": true
     },
@@ -60148,6 +60704,12 @@
     {
       "source": "hacking-ic",
       "target": "2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "hacking-ic",
+      "target": "2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest",
       "kind": "body",
       "directed": false
     },
@@ -60477,6 +61039,12 @@
     },
     {
       "source": "malware-ic",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "malware-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -60580,6 +61148,12 @@
     {
       "source": "malware-ic",
       "target": "2024-09-18_justice-gov_court-authorized-operation-disrupts-raptor-train-botnet-flax-typhoon",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "malware-ic",
+      "target": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
       "kind": "body",
       "directed": false
     },
@@ -60850,6 +61424,30 @@
     {
       "source": "money-laundering-ic",
       "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
       "kind": "notable_operations",
       "directed": true
     },
@@ -61186,6 +61784,30 @@
     {
       "source": "money-laundering-ic",
       "target": "2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "money-laundering-ic",
+      "target": "2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest",
       "kind": "body",
       "directed": false
     },
@@ -61545,6 +62167,30 @@
     },
     {
       "source": "online-fraud-ic",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "online-fraud-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -61892,6 +62538,30 @@
       "directed": false
     },
     {
+      "source": "online-fraud-ic",
+      "target": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "online-fraud-ic",
+      "target": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "organized-crime-ic",
       "target": "us-v-chen-zhi-prince-group-edny-2025",
       "kind": "notable_cases",
@@ -61966,6 +62636,24 @@
     {
       "source": "organized-crime-ic",
       "target": "greek-daoe-crypto-investment-fraud-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "organized-crime-ic",
+      "target": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "organized-crime-ic",
+      "target": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "organized-crime-ic",
+      "target": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
       "kind": "notable_operations",
       "directed": true
     },
@@ -62169,6 +62857,12 @@
     },
     {
       "source": "ransomware-ic",
+      "target": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "kind": "notable_operations",
+      "directed": true
+    },
+    {
+      "source": "ransomware-ic",
       "target": "budapest-convention",
       "kind": "relevant_legal_frameworks",
       "directed": true
@@ -62332,6 +63026,12 @@
     {
       "source": "ransomware-ic",
       "target": "2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "ransomware-ic",
+      "target": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
       "kind": "body",
       "directed": false
     },
@@ -63916,6 +64616,12 @@
     {
       "source": "mlat-process",
       "target": "direct-provider-request",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "mlat-process",
+      "target": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
       "kind": "body",
       "directed": false
     },
@@ -70340,6 +71046,66 @@
       "directed": true
     },
     {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "colombia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "chile",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "peru",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "mexico",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "colombia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "chile",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "peru",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "mexico",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "franco-israeli-ceo-fraud",
       "target": "europol-ec3",
       "kind": "coordinating_body",
@@ -70626,6 +71392,78 @@
       "target": "2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025",
       "kind": "body",
       "directed": false
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "fbi",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "hacking-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "france-gendarmerie-nationale",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "cryptocurrency-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "asset-recovery",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "france-gendarmerie-nationale",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "fbi",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "france",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
     },
     {
       "source": "global-airport-action-day",
@@ -71090,6 +71928,66 @@
       "directed": false
     },
     {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "interpol",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "turkey",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "cryptocurrency-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "interpol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "turkey",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "bosnia-and-herzegovina",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "target": "interpol",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "hive-ransomware-takedown",
       "target": "europol-ec3",
       "kind": "coordinating_body",
@@ -71280,6 +72178,90 @@
       "target": "treasury-matveev-russian-ransomware-sanctions-2023",
       "kind": "related_operations",
       "directed": true
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "cyberstalking-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "search-seizure",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "electronic-evidence",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "romanian-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "hungary",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "romania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "romanian-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "informal-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "budapest-convention",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "search-seizure",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "electronic-evidence",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "hungary-romania-swatting-doxing-discord-2026",
+      "target": "joint-investigation-team",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "imminent-monitor-rat-takedown",
@@ -71984,6 +72966,102 @@
       "directed": false
     },
     {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "extortion-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "italy-polizia-postale",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "italy-polizia-postale",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "fbi",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "italy",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "us-v-xu-zewei-hafnium-extradited-italy",
+      "kind": "related_cases",
+      "directed": true
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "italy-polizia-postale",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "fbi",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "italy",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "united-states",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "extradition",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "informal-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "target": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
       "target": "knpa",
       "kind": "coordinating_body",
@@ -72153,6 +73231,12 @@
     },
     {
       "source": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
+      "target": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
       "target": "knpa",
       "kind": "body",
       "directed": false
@@ -72268,6 +73352,192 @@
     {
       "source": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
       "target": "extradition",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "knpa",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "malware-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "knpa",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "mutual-legal-assistance",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "knpa",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "knpa-cyber-bureau",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "ministry-of-justice-korea",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "supreme-prosecutors-office-korea",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "lithuania-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "interpol",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "south-korea",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "lithuania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "georgia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "knpa",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "south-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "lithuania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "lithuania-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "interpol",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "georgia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "extradition",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "knpa-cyber-bureau",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "ministry-of-justice-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "supreme-prosecutors-office-korea",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "mutual-legal-assistance",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "mlat-process",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "informal-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "target": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
       "kind": "body",
       "directed": false
     },
@@ -72394,6 +73664,12 @@
     {
       "source": "korea-cambodia-philippines-73-extradition-2026",
       "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "korea-cambodia-philippines-73-extradition-2026",
+      "target": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
       "kind": "related_operations",
       "directed": true
     },
@@ -72538,6 +73814,12 @@
     {
       "source": "korea-cambodia-scam-repatriation",
       "target": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "korea-cambodia-scam-repatriation",
+      "target": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
       "kind": "related_operations",
       "directed": true
     },
@@ -72878,6 +74160,252 @@
       "directed": false
     },
     {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "informal-cooperation",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "vietnam",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "cambodia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "korea-cambodia-scam-repatriation",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "knpa-breaking-chains-2nd-international-operation-meeting-2026",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "cambodian-national-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "cambodia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "vietnam",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "un-cybercrime-convention-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "informal-cooperation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "korea-cambodia-scam-repatriation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "eurojust",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "online-fraud-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "latvia-state-police",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "eurojust-coordination-meeting",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "asset-freezing",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "latvia-state-police",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "eurojust",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "latvia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "estonia",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "germany",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "ukraine",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "latvia-sim-box-cybercrime-as-a-service-takedown-2025",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "latvia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "estonia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "germany",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "ukraine",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "latvia-state-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "european-arrest-warrant",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "eurojust-coordination-meeting",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "extradition",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "joint-investigation-team",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "asset-freezing",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "latvia-sim-box-cybercrime-as-a-service-takedown-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "europol-ec3",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "target": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "latvia-sim-box-cybercrime-as-a-service-takedown-2025",
       "target": "eurojust",
       "kind": "coordinating_body",
@@ -72976,6 +74504,12 @@
     {
       "source": "latvia-sim-box-cybercrime-as-a-service-takedown-2025",
       "target": "labhost-phishing-as-a-service-takedown-2024",
+      "kind": "related_operations",
+      "directed": true
+    },
+    {
+      "source": "latvia-sim-box-cybercrime-as-a-service-takedown-2025",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
       "kind": "related_operations",
       "directed": true
     },
@@ -75953,6 +77487,12 @@
       "source": "operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u",
       "target": "canada",
       "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u",
+      "target": "hungary-romania-swatting-doxing-discord-2026",
+      "kind": "related_operations",
       "directed": true
     },
     {
@@ -95078,6 +96618,156 @@
       "directed": true
     },
     {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "us-doj",
+      "kind": "coordinating_body",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "cyberstalking-ic",
+      "kind": "crime_type",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "us-doj",
+      "kind": "lead_agency",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "mutual-legal-assistance",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "extradition",
+      "kind": "legal_basis",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "mlat-process",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "extradition",
+      "kind": "mechanisms_used",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "us-doj",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "us-secret-service",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "fbi",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "office-of-international-affairs",
+      "kind": "participating_agencies",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "united-states",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "romania",
+      "kind": "participating_countries",
+      "directed": true
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "mlat-process",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "extradition",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "us-doj",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "us-secret-service",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "fbi",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "office-of-international-affairs",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "romania",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "romanian-police",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "romania-diicot",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "romania-public-ministry",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "mutual-legal-assistance",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "operation-us-v-szabo-swatting-ring",
+      "target": "hungary-romania-swatting-doxing-discord-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "operation-us-v-vyacheslav-igorevich-penchukov",
       "target": "us-doj",
       "kind": "coordinating_body",
@@ -105093,6 +106783,12 @@
     },
     {
       "source": "eurojust",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "eurojust",
       "target": "europol-ec3",
       "kind": "body",
       "directed": false
@@ -105136,6 +106832,12 @@
     {
       "source": "eurojust",
       "target": "2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "eurojust",
+      "target": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
       "kind": "body",
       "directed": false
     },
@@ -106665,6 +108367,24 @@
     },
     {
       "source": "fbi",
+      "target": "operation-us-v-szabo-swatting-ring",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi",
+      "target": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi",
+      "target": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "fbi",
       "target": "fbi-cyber-division",
       "kind": "parent_org",
       "directed": true
@@ -106678,6 +108398,24 @@
     {
       "source": "fbi",
       "target": "2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "fbi",
+      "target": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "fbi",
+      "target": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "fbi",
+      "target": "2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest",
       "kind": "body",
       "directed": false
     },
@@ -106816,6 +108554,12 @@
     {
       "source": "france-gendarmerie-nationale",
       "target": "crypto-investment-fraud-spain-460m-takedown-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "france-gendarmerie-nationale",
+      "target": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
       "kind": "operations_participated",
       "directed": true
     },
@@ -108501,6 +110245,18 @@
     },
     {
       "source": "interpol",
+      "target": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "interpol",
       "target": "interpol-igci",
       "kind": "body",
       "directed": false
@@ -108598,6 +110354,18 @@
     {
       "source": "interpol",
       "target": "operation-cyber-guardian",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "interpol",
+      "target": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "interpol",
+      "target": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
       "kind": "body",
       "directed": false
     },
@@ -108844,6 +110612,12 @@
     {
       "source": "italy-polizia-postale",
       "target": "italy-hsi-europol-live-distant-child-abuse-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "italy-polizia-postale",
+      "target": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -109197,6 +110971,12 @@
     },
     {
       "source": "knpa-cyber-bureau",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "knpa-cyber-bureau",
       "target": "knpa",
       "kind": "parent_org",
       "directed": true
@@ -109252,6 +111032,12 @@
     {
       "source": "knpa-cyber-bureau",
       "target": "kisa",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa-cyber-bureau",
+      "target": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
       "kind": "body",
       "directed": false
     },
@@ -109341,6 +111127,12 @@
     },
     {
       "source": "knpa",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "knpa",
       "target": "ministry-of-interior-korea",
       "kind": "parent_org",
       "directed": true
@@ -109348,6 +111140,12 @@
     {
       "source": "knpa",
       "target": "knpa-cyber-bureau",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "knpa",
+      "target": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
       "kind": "body",
       "directed": false
     },
@@ -109437,6 +111235,12 @@
     },
     {
       "source": "latvia-state-police",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "latvia-state-police",
       "target": "cert-lv",
       "kind": "body",
       "directed": false
@@ -109503,7 +111307,19 @@
     },
     {
       "source": "lithuania-police",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "lithuania-police",
       "target": "budapest-convention",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "lithuania-police",
+      "target": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
       "kind": "body",
       "directed": false
     },
@@ -109840,6 +111656,12 @@
     {
       "source": "ministry-of-justice-korea",
       "target": "seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "ministry-of-justice-korea",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
       "kind": "operations_participated",
       "directed": true
     },
@@ -110763,6 +112585,12 @@
     },
     {
       "source": "office-of-international-affairs",
+      "target": "operation-us-v-szabo-swatting-ring",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "office-of-international-affairs",
       "target": "us-doj",
       "kind": "parent_org",
       "directed": true
@@ -111435,6 +113263,12 @@
     },
     {
       "source": "romanian-police",
+      "target": "hungary-romania-swatting-doxing-discord-2026",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "romanian-police",
       "target": "romania-police",
       "kind": "parent_org",
       "directed": true
@@ -111460,6 +113294,12 @@
     {
       "source": "romanian-police",
       "target": "2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "romanian-police",
+      "target": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
       "kind": "body",
       "directed": false
     },
@@ -112293,6 +114133,12 @@
     },
     {
       "source": "supreme-prosecutors-office-korea",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "supreme-prosecutors-office-korea",
       "target": "ministry-of-justice-korea",
       "kind": "parent_org",
       "directed": true
@@ -112306,6 +114152,12 @@
     {
       "source": "supreme-prosecutors-office-korea",
       "target": "knpa-cyber-bureau",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "supreme-prosecutors-office-korea",
+      "target": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
       "kind": "body",
       "directed": false
     },
@@ -114441,6 +116293,12 @@
     },
     {
       "source": "us-doj",
+      "target": "operation-us-v-szabo-swatting-ring",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-doj",
       "target": "isoon-apt27-indictment",
       "kind": "body",
       "directed": false
@@ -114508,6 +116366,12 @@
     {
       "source": "us-doj",
       "target": "eurojust",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-doj",
+      "target": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
       "kind": "body",
       "directed": false
     },
@@ -114957,6 +116821,12 @@
     },
     {
       "source": "us-secret-service",
+      "target": "operation-us-v-szabo-swatting-ring",
+      "kind": "operations_participated",
+      "directed": true
+    },
+    {
+      "source": "us-secret-service",
       "target": "us-secret-service-hq",
       "kind": "parent_org",
       "directed": true
@@ -114964,6 +116834,12 @@
     {
       "source": "us-secret-service",
       "target": "fbi-cyber-division",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "us-secret-service",
+      "target": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
       "kind": "body",
       "directed": false
     },
@@ -122576,6 +124452,54 @@
       "directed": false
     },
     {
+      "source": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "target": "italy-riccione-cyber-extortion-arrest-khlynovskiy-2025",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "target": "italy",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "target": "united-states",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "target": "italy-polizia-postale",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "target": "fbi",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "target": "extortion-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "target": "ransomware-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy",
+      "target": "extradition",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2025-08-11-doj-blacksuit-royal-ransomware-takedown",
       "target": "operation-checkmate-blacksuit",
       "kind": "pages_updated",
@@ -123368,6 +125292,48 @@
       "directed": false
     },
     {
+      "source": "2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown",
+      "target": "lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown",
+      "target": "korea-cambodia-philippines-73-extradition-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown",
+      "target": "korea-cambodia-scam-repatriation",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown",
+      "target": "vietnam",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown",
+      "target": "cambodia",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown",
+      "target": "un-cybercrime-convention-2024",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown",
+      "target": "online-fraud-ic",
+      "kind": "body",
+      "directed": false
+    },
+    {
       "source": "2025-10-30_pf-gov-br_operacao-magna-fraus-fase-2-pix-fraud",
       "target": "pf-magna-fraus-pix-fraud-2025",
       "kind": "pages_updated",
@@ -123624,6 +125590,54 @@
       "target": "operation-endgame",
       "kind": "body",
       "directed": false
+    },
+    {
+      "source": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "target": "colombia",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "target": "chile",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "target": "peru",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "target": "mexico",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "target": "online-fraud-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "target": "money-laundering-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "target": "organized-crime-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos",
+      "target": "fiscalia-colombia-criptoactivos-fraud-network-takedown-2025",
+      "kind": "pages_updated",
+      "directed": true
     },
     {
       "source": "2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land",
@@ -124136,6 +126150,84 @@
       "directed": false
     },
     {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "south-korea",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "lithuania",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "georgia",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "knpa",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "knpa-cyber-bureau",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "ministry-of-justice-korea",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "supreme-prosecutors-office-korea",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "lithuania-police",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "interpol",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "malware-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "extradition",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition",
+      "target": "mutual-legal-assistance",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation",
       "target": "black-axe-spain-takedown-2026",
       "kind": "pages_updated",
@@ -124204,6 +126296,54 @@
     {
       "source": "2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation",
       "target": "black-axe-switzerland-takedown-2026",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "target": "hungary-romania-swatting-doxing-discord-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "target": "hungary",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "target": "romania",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "target": "romanian-police",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "target": "cyberstalking-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "target": "romania-moldova-phishing-laundering-jit-2025",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "target": "romania-diicot",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation",
+      "target": "cyberstalking-ic",
       "kind": "body",
       "directed": false
     },
@@ -125078,6 +127218,12 @@
       "directed": false
     },
     {
+      "source": "2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest",
+      "target": "gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand",
       "target": "operation-candy-encrypted-comms-drugs-2026",
       "kind": "pages_updated",
@@ -125540,6 +127686,60 @@
       "directed": false
     },
     {
+      "source": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "target": "latvia-phone-fraud-money-mule-network-takedown-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "target": "latvia",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "target": "estonia",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "target": "germany",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "target": "ukraine",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "target": "latvia-state-police",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "target": "eurojust",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "target": "online-fraud-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules",
+      "target": "money-laundering-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
       "source": "2026-03-19_justice-gov_iranian-mois-cyber-psychological-operations-handala",
       "target": "us-doj-iranian-mois-handala-domain-seizure-2026",
       "kind": "pages_updated",
@@ -125698,6 +127898,48 @@
     {
       "source": "2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation",
       "target": "money-laundering-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "target": "hakkari-illegal-betting-fraud-network-bosnia-arrest-2026",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "target": "turkey",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "target": "bosnia-and-herzegovina",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "target": "interpol",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "target": "online-fraud-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "target": "money-laundering-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest",
+      "target": "organized-crime-ic",
       "kind": "pages_updated",
       "directed": true
     },
@@ -126396,6 +128638,78 @@
       "target": "voice-phishing-ic",
       "kind": "pages_updated",
       "directed": true
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "operation-us-v-szabo-swatting-ring",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "united-states",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "romania",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "us-doj",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "us-secret-service",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "fbi",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "office-of-international-affairs",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "cyberstalking-ic",
+      "kind": "pages_updated",
+      "directed": true
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "mlat-process",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "mutual-legal-assistance",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "extradition",
+      "kind": "body",
+      "directed": false
+    },
+    {
+      "source": "2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months",
+      "target": "office-of-international-affairs",
+      "kind": "body",
+      "directed": false
     },
     {
       "source": "2026-04-30_justice-gov_versus-project-creator-extradited-colombia",

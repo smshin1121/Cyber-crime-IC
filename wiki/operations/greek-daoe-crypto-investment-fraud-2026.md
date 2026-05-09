@@ -27,8 +27,8 @@ crime_types:
   - "[[money-laundering-ic]]"
   - "[[organized-crime-ic]]"
 target_entity: "Transnational multi-member criminal organisation operating a cryptocurrency-investment Ponzi network from Greece since at least 2019"
-lead_agency: "Department for the Confrontation of Organised Crime of Crete (Τ.Α.Ο.Ε.Κ. Κρήτης), within the Hellenic Police Directorate for the Confrontation of Organised Crime (Δ.Α.Ο.Ε.)"
-coordinating_body: "Hellenic Police Directorate for the Confrontation of Organised Crime (Δ.Α.Ο.Ε.)"
+lead_agency: ""
+coordinating_body: ""
 participating_countries:
   - "[[greece]]"
   - "[[france]]"

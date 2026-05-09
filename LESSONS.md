@@ -213,6 +213,18 @@
 
 ---
 
+### L23. operation/case 페이지의 lead_agency·coordinating_body 평문 문자열은 build_static.py가 wikilink로 오인 (2026-05-09)
+
+- **상황**: iter 100 milestone integrity sweep에서 check_links broken 5건 발견. greek-daoe-crypto-investment-fraud-2026, hungary-romania-swatting-doxing-discord-2026, lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025 의 frontmatter `lead_agency:`/`coordinating_body:` 가 긴 평문 문자열 (예: "Készenléti Rendőrség Nemzeti Nyomozó Iroda (KR NNI) Kiberbűnözés Elleni Főosztály") 으로 채워져 있을 때, `web/build_static.py` 가 이를 미존재 wikilink target 으로 처리해 `wiki/_missing/<plain string>.html` 를 가리키는 dead link 5개 생성.
+- **왜 실패**: 빌더가 `lead_agency`/`coordinating_body` field 의 plain-text 값을 entity reference 로 자동 lookup. 해당 entity page 가 없으면 "missing" page placeholder. 위키 페이지가 없는 외국 LE 기관 (특히 Hungarian/Vietnamese/Korean script 명칭) 일수록 발생 빈도 높음.
+- **교훈**: **`lead_agency` / `coordinating_body` frontmatter 는 (1) `[[wikilink]]` 가 존재 entity 를 가리키거나, (2) 빈 문자열 `""` 둘 중 하나여야 한다. 평문 entity 명을 적으면 빌드 시점에 dead link 생성.** 기관 description/role 정보는 본문 prose 에 적어 보존.
+- **어떻게 적용**:
+  - 새 operation/case ingest 시 ingest agent 가 `lead_agency:` / `coordinating_body:` 에 평문 문자열을 넣지 못하도록 strict 규칙 추가
+  - Existing pages 에서 평문 frontmatter 값 발견 시 → 빈 문자열로 교체, 본문 prose 에 동등한 정보 보존
+  - `wiki/_missing/*.html` dead link 가 check_links 에 새로 떠오르면 즉시 frontmatter 점검
+
+---
+
 ### L22. nbi.gov.ph는 HTTPS TLS 핸드셰이크 실패 — HTTP plain으로 수집 (2026-05-09)
 
 - **상황**: 필리핀 NBI 보도자료 (`http://nbi.gov.ph/press_releases/...`) 를 `curl_cffi` chrome120 으로 HTTPS 수집 시도하면 `WRONG_VERSION_NUMBER` SSL 에러로 실패. HTTPS 자체가 server-side에서 깨져 있음.

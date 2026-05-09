@@ -25,8 +25,8 @@ crime_types:
   - "[[organized-crime-ic]]"
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Vietnamese-staffed online-fraud / property-appropriation cell operating from the Bokor Hill area within the Bokor Ecological Park complex (Tuek Chhou ward, Bokor city, Kampot province, Kingdom of Cambodia). Modi operandi reported: impersonation of shippers (delivery drivers), Police, and Military, plus romance-fraud, targeting victims in Việt Nam. Ringleader: Sùng Thị Mải (alias 'Vi'), born 1999, from Lào Cai province (Việt Nam)."
-lead_agency: "Lai Châu Provincial Police (Việt Nam) — Police Investigation Agency, named lead of the special working group"
-coordinating_body: "Ministry of Public Security of Việt Nam — overall command (Senior Lieutenant General Nguyễn Văn Long, Deputy Minister and Head of the Police Investigation Agency)"
+lead_agency: ""
+coordinating_body: ""
 participating_countries:
   - "[[vietnam]]"
   - "[[cambodia]]"
