@@ -19,7 +19,7 @@ total: 61
 | 🇦🇺 | [[australia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇦🇼 | [[aruba]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇿 | [[azerbaijan]] | not-assessed | — | unknown | unknown | 0 |
-| 🇧🇦 | [[bosnia-and-herzegovina]] | not-assessed | — | unknown | unknown | 0 |
+| 🇧🇦 | [[bosnia-and-herzegovina]] | not-assessed | — | unknown | unknown | 1 |
 | 🇧🇪 | [[belgium]] | civil-law | party (2012) | high | 90-180 | 6 |
 | 🇧🇬 | [[bulgaria]] | civil-law | party (2005) | medium | 90-180 | 5 |
 | 🇧🇯 | [[benin]] | civil-law | party (2024) | low | unknown | 4 |
@@ -111,7 +111,7 @@ total: 61
 | 🇹🇬 | [[togo]] | civil-law | non-party | low | unknown | 3 |
 | 🇹🇭 | [[thailand]] | civil-law | non-party | medium | unknown | 3 |
 | 🇹🇱 | [[timor-leste]] | not-assessed | — | unknown | unknown | 0 |
-| 🇹🇷 | [[turkey]] | not-assessed | — | unknown | unknown | 0 |
+| 🇹🇷 | [[turkey]] | not-assessed | — | unknown | unknown | 1 |
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 2 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 5 |

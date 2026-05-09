@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (220 canonical / 27 absorbed / 247 records)
+# Operations (221 canonical / 27 absorbed / 248 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (220)
+## Canonical Operations (221)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -206,6 +206,7 @@ updated: 2026-04-14
 | [[greek-daoe-crypto-investment-fraud-2026]] | CYB-2026-036 | 3 | completed | standalone | 1 | 4.40 | 1 |
 | [[black-axe-switzerland-takedown-2026]] | CYB-2026-037 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-token-mirrors-2026]] | CYB-2026-038 | 3 | ongoing | — | 1 | 4.00 | 1 |
+| [[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]] | CYB-2026-039 | 3 | ongoing | — | 1 | 3.60 | 1 |
 | [[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]] | CYB-2026-064 | 3 | completed | standalone | 1 | 3.40 | 1 |
 | [[operation-candy-encrypted-comms-drugs-2026]] | CYB-2026-068 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[us-doj-iranian-mois-handala-domain-seizure-2026]] | CYB-2026-072 | 3 | completed | — | 1 | 4.50 | 1 |

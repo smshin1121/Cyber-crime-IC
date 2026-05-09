@@ -10,9 +10,10 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[operation-pleiades]]"
   - "[[operation-shrouded-horizon]]"
-source_count: 0
+  - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
+source_count: 1
 sources:
-
+  - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: needs-official-source-ingestion

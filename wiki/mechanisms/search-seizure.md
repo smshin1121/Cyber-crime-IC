@@ -4,7 +4,7 @@ title: "Search and Seizure"
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-04-29
-source_count: 8
+source_count: 9
 sources:
   - "[[2021-10-09_shorenewsnetwork_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy]]"
   - "[[2026-01-13_komonews_4-people-federal-charges-drug-trafficking-conspiracy-marysville]]"
@@ -14,12 +14,14 @@ sources:
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
   - "[[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation]]"
+  - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
   - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
+  - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
 ---
 ## Summary
 

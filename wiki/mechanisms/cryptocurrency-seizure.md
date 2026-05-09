@@ -4,15 +4,17 @@ title: "Cryptocurrency Seizure"
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-04-29
-source_count: 4
+source_count: 5
 sources:
   - "[[2024-01-26_irs_defendant-pleads-guilty-dark-web-narcotics-150m-cryptocurrency-seizure]]"
   - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
   - "[[2024-06-26_trmlabs_detroit-man-sentenced-over-ten-years-drug-trafficking-crypto-money-laundering]]"
   - "[[2024-07-16_garda-ie_interpol-operation-jackal-ireland-operation-skein-july-2024]]"
+  - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[crimenetwork-relaunch-takedown-2026]]"
+  - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
 ---
 ## Summary
 

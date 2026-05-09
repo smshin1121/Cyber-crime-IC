@@ -1434,3 +1434,15 @@
   - Money-mule downstream layer: 170+ mules, 90 recognised as suspects; 1 illegal crypto-asset exchanger sentenced >6 years (sentencing-severity precedent for laundering-conduit role distinct from call-centre operator role).
   - €2M victim losses across 35 consolidated criminal matters (2023-09 → 2024-09); €829,650 under criminal-process asset arrest.
   - 13 fraudulent call-centre operators detained; 3 LV group members each sentenced 3 years.
+
+## [2026-05-09] ingest | Hakkari illegal-betting + qualified-fraud network — 18-province TR sweep + Sarajevo Red Notice arrest (TR+BA, 2026)
+- Source: raw/press-releases/2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest.md (Anadolu Ajansı reproducing T.C. İçişleri Bakanlığı statement; tr)
+- Pages created: wiki/sources/2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest.md, wiki/operations/hakkari-illegal-betting-fraud-network-bosnia-arrest-2026.md (provisional, source_count=1)
+- Pages updated: countries/turkey, countries/bosnia-and-herzegovina, organizations/interpol, three crime-types (online-fraud-ic, money-laundering-ic, organized-crime-ic), three mechanisms (extradition, search-seizure, cryptocurrency-seizure).
+- Key findings:
+  - First wiki record sourced from aa.com.tr (Anadolu Ajansı, official Turkish state news agency reproducing T.C. İçişleri Bakanlığı statement) — first **Turkish-language tier-1 IC primary** in wiki.
+  - Provincial-led Turkish cyber operation reaches intercontinental scope: **Yüksekova Cumhuriyet Başsavcılığı** (Hakkari province prosecutor's office) anchors 18-province sweep with international Red Notice extension via Türkiye **Interpol Daire Başkanlığı** rather than centralised national prosecutor.
+  - Cooperation pattern: Interpol Red Notice → Sarajevo apprehension of network's technical-infrastructure architect. 52 detained in TR + 1 in BA.
+  - Ministry of Interior characterises **~20 billion Turkish lira cumulative money traffic** as the highest transaction volume ever identified in a Turkish cyber-crime / fraud investigation.
+  - Modus operandi documented verbatim: illegal sports-betting platforms + qualified-fraud (nitelikli dolandırıcılık) via IT systems → 24/7 panel-system back-office → third-party-account layering → crypto-asset conversion. Server and management layers explicitly attributed to Bosnia and Herzegovina.
+  - Open questions per L19: BiH counterpart agency name (federal Federalna policija / MUP RS / SIPA / cantonal not specified by AA wire); specific MLA/extradition treaty instrument invoked; defendant case numbers.

@@ -61,6 +61,7 @@ notable_operations:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
+  - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -75,7 +76,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 48
+source_count: 49
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -125,6 +126,7 @@ sources:
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
+  - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -230,3 +232,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [46] | [[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown\|Hellenic Police DAOE crypto-investment Ponzi takedown — €14.5M, 12 arrests, 8 countries (GR+FR+DE+MT+UK+IE+DK+BG); EIO+MLA channels exercised in parallel]] | Hellenic Police HQ (Δ.Α.Ο.Ε.) | 2026-03-06 | https://www.astynomia.gr/2026/03/06/06-03-2026-d-a-o-e-exarthrosi-egklimatikis-organosis-pou-diepratte-apates-me-to-proschima-ton-ependyseon-se-kryptonomismata-12-syllipseis/ |
 | [47] | [[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate\|NPA AFU R43M restraint vs Bryanston call-centre syndicate (POCA s.26; ZA+IL+AU+NZ+CA+US)]] | National Prosecuting Authority of South Africa | 2026-04-21 | https://www.npa.gov.za/media/afu-secures-r43-million-restraint-order-against-international-call-centre-scam-syndicate |
 | [48] | [[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules\|Latvia €2M vishing money-mule case — 4-jurisdiction (LV+EE+DE+UA), 170+ mules, illegal crypto-asset exchanger sentenced >6yrs]] | Latvijas Republikas prokuratūra | 2026-03-18 | https://www.prokuratura.lv/lv/aktualitates/2026/aktualitates/izkrapti-2-miljoni-eiro-valsts-policija-telefonkrapsanas-lieta-noskaidro-vairak-neka-170-naudas-mulus-un-nelikumigos-kriptoaktivu-mainitajus-3712 |
+| [49] | [[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest\|Hakkari illegal betting + qualified-fraud network — Sarajevo Red Notice arrest (TR+BA; ~20bn TL transaction volume; 24/7 panel + crypto-conversion layering)]] | Anadolu Ajansı | 2026-03-31 | https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-ve-nitelikli-dolandiriciliga-yonelik-operasyonlarda-53-supheli-yakalandi/3887096 |

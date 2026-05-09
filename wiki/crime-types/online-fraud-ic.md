@@ -76,6 +76,7 @@ notable_operations:
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
+  - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -93,7 +94,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 69
+source_count: 70
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -164,6 +165,7 @@ sources:
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
   - "[[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
+  - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -296,3 +298,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [67] | [[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate\|NPA AFU R43M restraint vs Bryanston "international Israeli syndicate" call-centre fraud (ZA POCA s.26; AU/NZ/CA/US victims)]] | National Prosecuting Authority of South Africa | 2026-04-21 | https://www.npa.gov.za/media/afu-secures-r43-million-restraint-order-against-international-call-centre-scam-syndicate |
 | [68] | [[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation\|NBI Parañaque US-impersonation cyber-scam takedown — Li Zhenjie (CN national) impersonating New Haven PD/FBI to extort USD 3K-5K crypto from US victims]] | NBI Cybercrime Division (Philippines) | 2025-11-28 | http://nbi.gov.ph/press_releases/2025/11282025/9188/ |
 | [69] | [[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules\|Latvia €2M vishing money-mule case — 4-jurisdiction (LV+EE+DE+UA), AnyDesk-based vishing, 170+ mules, Eurojust-coordinated]] | Latvijas Republikas prokuratūra | 2026-03-18 | https://www.prokuratura.lv/lv/aktualitates/2026/aktualitates/izkrapti-2-miljoni-eiro-valsts-policija-telefonkrapsanas-lieta-noskaidro-vairak-neka-170-naudas-mulus-un-nelikumigos-kriptoaktivu-mainitajus-3712 |
+| [70] | [[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest\|Hakkari illegal betting + qualified-fraud network — 18-province TR sweep + Sarajevo Red Notice arrest (TR+BA; 53 detentions; ~20bn TL traffic)]] | Anadolu Ajansı | 2026-03-31 | https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-ve-nitelikli-dolandiriciliga-yonelik-operasyonlarda-53-supheli-yakalandi/3887096 |

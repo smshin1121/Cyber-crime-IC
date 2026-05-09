@@ -8,10 +8,10 @@ treaty_memberships:
   - not-assessed
 ic_capacity: not-assessed
 operations_participated:
-
-source_count: 0
+  - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
+source_count: 1
 sources:
-  []
+  - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
 created: 2026-04-12
 updated: 2026-05-03
 status: needs-official-source-ingestion

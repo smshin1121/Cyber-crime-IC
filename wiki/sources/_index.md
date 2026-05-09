@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (774)
+# Sources (775)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -44,6 +44,7 @@ updated: 2026-04-14
 | [[2026-04-09_politie_veriftools-identity-fraud-arrests]] | press-release | Politie (Netherlands National Police) | ? | high | ? |
 | [[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters]] | press-release | UK National Crime Agency | ? | high | ? |
 | [[2026-04-01_interpol-int_support-for-afripol-operation-first-light]] | institutional-page | INTERPOL | ? | high | ? |
+| [[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]] | press-release | Anadolu Agency (Anadolu Ajansı, AA) — official Turkish state news agency, reproducing T.C. İçişleri Bakanlığı (Ministry of Interior of Türkiye) statement | ? | high | ? |
 | [[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation]] | press-release | IRS Criminal Investigation (IRS-CI) | ? | high | ? |
 | [[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]] | press-release | Europol | ? | high | ? |

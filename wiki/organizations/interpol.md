@@ -65,11 +65,12 @@ operations_participated:
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
+  - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
 org_type: international-org
 parent_org: ""
-source_count: 4
+source_count: 5
 sources:
-
+  - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
 status: active
 title: "INTERPOL (International Criminal Police Organization)"
 type: organization
@@ -263,6 +264,7 @@ Korea's relationship with INTERPOL is *almost certainly* among the most active a
 | [2] | INTERPOL celebrates 10 years of innovation and collaboration in Singapore (IGCI 10th anniversary) | INTERPOL | 2025-06 | https://www.interpol.int/en/News-and-Events/News/2025/INTERPOL-celebrates-10-years-of-innovation-and-collaboration-in-Singapore |
 | [3] | INTERPOL's Asian conference to address regional crime threats | INTERPOL | 2025 | https://www.interpol.int/en/News-and-Events/News/2025/INTERPOL-s-Asian-conference-to-address-regional-crime-threats |
 | [4] | Group-IB supports INTERPOL's Operation Synergia III (2026 cyber takedown) | Intelligent CISO | 2026-03-16 | https://www.intelligentciso.com/2026/03/16/group-ib-supports-interpols-operation-synergia-iii-contributing-intelligence-to-global-cybercrime-takedown/ |
+| [5] | [[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest\|Hakkari illegal betting + qualified-fraud network — Sarajevo Red Notice arrest (TR+BA, 53 detentions, ~20bn TL traffic)]] | Anadolu Ajansı (T.C. İçişleri Bakanlığı reproduction) | 2026-03-31 | https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-ve-nitelikli-dolandiriciliga-yonelik-operasyonlarda-53-supheli-yakalandi/3887096 |
 
 > [!note]
 > The original page body was created from general knowledge (source_count: 0 in frontmatter). The Current Status section above is verified against web sources as of 2026-04-10. Detailed historical operational statistics should be verified against INTERPOL press releases and annual reports.
