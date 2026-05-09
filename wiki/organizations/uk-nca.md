@@ -72,6 +72,7 @@ operations_participated:
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

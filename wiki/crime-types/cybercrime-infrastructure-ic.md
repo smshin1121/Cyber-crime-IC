@@ -40,6 +40,7 @@ notable_operations:
   - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
   - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
   - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -48,7 +49,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 19
+source_count: 20
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -69,6 +70,7 @@ sources:
   - "[[2025-01-03_treasury_sanctions-integrity-technology-group-flax-typhoon]]"
   - "[[2025-01-17_treasury_sanctions-yin-kecheng-sichuan-juxinhe-salt-typhoon]]"
   - "[[2024-09-04_treasury_sanctions-doppelganger-russian-malign-influence-operators]]"
+  - "[[2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: active
@@ -116,3 +118,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [17] | [[2025-01-03_treasury_sanctions-integrity-technology-group-flax-typhoon\|Treasury Sanctions Integrity Technology Group, Inc. for Malicious Cyber Activity (Flax Typhoon)]] | US Department of the Treasury (OFAC), Press Release JY-2769 | 2025-01-03 | https://home.treasury.gov/news/press-releases/jy2769 |
 | [18] | [[2025-01-17_treasury_sanctions-yin-kecheng-sichuan-juxinhe-salt-typhoon\|Treasury Sanctions Yin Kecheng and Sichuan Juxinhe Network Technology for Cyberespionage Activities (Salt Typhoon)]] | US Department of the Treasury (OFAC), Press Release JY-2792 | 2025-01-17 | https://home.treasury.gov/news/press-releases/jy2792 |
 | [19] | [[2024-09-04_treasury_sanctions-doppelganger-russian-malign-influence-operators\|Treasury Takes Action as Part of a U.S. Government Response to Russia's Foreign Malign Influence Operations (Doppelganger companion sanctions)]] | US Department of the Treasury (OFAC), Press Release JY-2559 | 2024-09-04 | https://home.treasury.gov/news/press-releases/jy2559 |
+| [20] | [[2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down\|Global phishing-as-a-service platform taken down in coordinated public-private action (Tycoon 2FA)]] | Europol | 2026-03-04 | https://www.europol.europa.eu/media-press/newsroom/news/global-phishing-service-platform-taken-down-in-coordinated-public-private-action |

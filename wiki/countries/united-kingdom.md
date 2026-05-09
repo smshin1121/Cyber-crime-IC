@@ -81,6 +81,7 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 region: western-europe
 source_count: 5
 sources:

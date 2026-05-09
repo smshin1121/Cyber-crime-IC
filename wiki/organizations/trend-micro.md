@@ -8,8 +8,7 @@ last_verified: 2026-04-29
 org_type: private-cybersecurity-company
 country: "[[japan]]"
 jurisdiction:
-  -
-    - japan
+
 official_name: "Trend Micro"
 mandate: "Private cybersecurity vendor and threat-intelligence provider supporting public-sector cybercrime operations."
 key_roles:
@@ -25,6 +24,7 @@ operations_participated:
   - "[[operation-contender-3]]"
   - "[[operation-serengeti-2]]"
   - "[[operation-synergia-iii]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 cooperation_partners:
   - "[[interpol]]"
   - "[[interpol-igci]]"

@@ -132,6 +132,7 @@ operations_participated:
   - "[[black-axe-spain-takedown-2026]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

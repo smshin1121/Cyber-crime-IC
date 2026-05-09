@@ -34,6 +34,7 @@ operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[black-axe-spain-takedown-2026]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 notable_cases:
 
 contact_point_for:

@@ -129,6 +129,7 @@ related_operations:
   - "[[project-compass-the-com-network-2025]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 challenges_encountered:
 
 lessons_learned:

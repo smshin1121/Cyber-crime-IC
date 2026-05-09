@@ -37,6 +37,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 region: western-europe
 source_count: 3
 sources:

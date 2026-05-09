@@ -42,9 +42,10 @@ notable_operations:
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
   - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 21
+source_count: 22
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -67,6 +68,7 @@ sources:
   - "[[2024-11-20_justice-gov_five-members-scattered-spider-charged-cybercrime-attacks]]"
   - "[[2025-01-03_treasury_sanctions-integrity-technology-group-flax-typhoon]]"
   - "[[2025-01-17_treasury_sanctions-yin-kecheng-sichuan-juxinhe-salt-typhoon]]"
+  - "[[2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -126,3 +128,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [19] | [[2024-11-20_justice-gov_five-members-scattered-spider-charged-cybercrime-attacks\|Five Defendants Charged Federally with Running Scheme that Targeted Victim Companies via Phishing Text Messages (Scattered Spider)]] | US DOJ USAO-CDCA, Press Release 24-289 | 2024-11-20 | https://www.justice.gov/usao-cdca/pr/5-defendants-charged-federally-running-scheme-targeted-victim-companies-phishing-text |
 | [20] | [[2025-01-03_treasury_sanctions-integrity-technology-group-flax-typhoon\|Treasury Sanctions Integrity Technology Group, Inc. for Malicious Cyber Activity (Flax Typhoon)]] | US Department of the Treasury (OFAC), Press Release JY-2769 | 2025-01-03 | https://home.treasury.gov/news/press-releases/jy2769 |
 | [21] | [[2025-01-17_treasury_sanctions-yin-kecheng-sichuan-juxinhe-salt-typhoon\|Treasury Sanctions Yin Kecheng and Sichuan Juxinhe Network Technology for Cyberespionage Activities (Salt Typhoon)]] | US Department of the Treasury (OFAC), Press Release JY-2792 | 2025-01-17 | https://home.treasury.gov/news/press-releases/jy2792 |
+| [22] | [[2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down\|Global phishing-as-a-service platform taken down in coordinated public-private action (Tycoon 2FA)]] | Europol | 2026-03-04 | https://www.europol.europa.eu/media-press/newsroom/news/global-phishing-service-platform-taken-down-in-coordinated-public-private-action |

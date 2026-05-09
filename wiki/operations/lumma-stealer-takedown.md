@@ -70,6 +70,8 @@ organizations:
 crime_types:
   - "[[hacking-ic]]"
   - "[[malware-ic]]"
+related_operations:
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 ---
 > [!note] Source basis
 > This page is rebuilt from official Microsoft and DOJ material. The prior version had a malformed `sources` field and no usable references table, which made a legitimate international operation look under-sourced.

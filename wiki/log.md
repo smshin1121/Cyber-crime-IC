@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent] | Europol Tycoon 2FA phishing-as-a-service platform takedown (2026-03-04)
+- Sources: 1 raw + 1 source page + 1 operation page (3 new pages)
+- Pages updated: 6 country (LV, LT, PT, PL, ES, UK), 11 organization (europol-ec3, latvia-state-police, lithuania-police, portugal-policia-judiciaria, poland-police, spain-national-police, spain-guardia-civil, uk-nca, microsoft, trend-micro, shadowserver), 3 crime-type (cybercrime-infrastructure-ic, online-fraud-ic, hacking-ic) + 5 cross-links to related operations (LabHost, Lumma Stealer, W3LL, LeakBase, XSS.is forum) + body Reference rows.
+- Key findings:
+  - **Tycoon 2FA PhaaS Takedown (Europol 2026-03-04)**: 6-country EU action coordinated by Europol EC3 against Tycoon 2FA — adversary-in-the-middle (AitM) phishing-as-a-service platform active since at least August 2023. 330 domains taken down; ~30 months of operation disrupted; tens of millions of phishing emails per month at peak; ~100,000 organisations globally affected; ~62% of mid-2025 Microsoft-blocked phishing share. **First wiki record of Europol Cyber Intelligence Extension Programme (CIEP)** as IC mechanism class — public-private intelligence-sharing platform. Private partners credited: Cloudflare, Coinbase, Intel471, Microsoft (technical lead), Proofpoint, Shadowserver, SpyCloud, Trend Micro (initial intelligence). No arrests / named individual defendants in primary release — infrastructure-disruption focus.
+- Process notes: Single-agent broader-discovery dispatch. Europol newsroom is React SPA — agent recovered body via curl_cffi chrome124 + inline `window.SERVER_DATA={...}` JSON parse (per L20). Cross-linked to existing related PhaaS / forum / infostealer takedowns.
+
 ## [2026-05-09] ingest [single agent] | Treasury OFAC Doppelganger companion sanctions JY-2559 (2024-09-04)
 - Sources: 1 raw + 1 source page + 1 operation page (3 new pages)
 - Pages updated: 2 country (US, RU), 3 organization (us-treasury, us-doj, fbi), 2 crime-type (cybercrime-infrastructure-ic, money-laundering-ic) + body Reference rows + cross-link to existing DOJ Doppelganger operation.

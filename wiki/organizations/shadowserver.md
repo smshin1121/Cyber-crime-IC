@@ -32,6 +32,7 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-serengeti-2]]"
   - "[[operation-tovar]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 org_type: private-sector
 parent_org: ""
 source_count: 3

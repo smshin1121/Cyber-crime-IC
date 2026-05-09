@@ -87,13 +87,16 @@ missing_fields:
   - "post-2025-07-22 procedural status (extradition request to France, prosecution timeline)"
   - "specific status of the thesecure.biz private messaging platform (primary release describes it but does not enumerate takedown actions on it)"
   - "specific Europol IOCTA 2025 cross-references for xss.is data marketplaces (the report is referenced but not excerpted)"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[leakbase-takedown-2026]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[operation-stream-kidflix]]"
-challenges_encountered: []
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "First wiki record of the French Police Brigade de lutte contre la cybercriminalité (BL2C, Préfecture de Police de Paris) + Paris Prosecutor (Parquet de Paris JUNALCO) as France-side cybercrime authorities leading a transnational cybercrime forum takedown."
   - "First wiki record of the Europol virtual command post mechanism (established September 2024 for this case) as a discrete IC support class — distinct from the on-site coordination centre and the Europol specialist on-site deployment."

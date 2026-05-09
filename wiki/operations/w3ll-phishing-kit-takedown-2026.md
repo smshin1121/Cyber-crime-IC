@@ -74,11 +74,13 @@ missing_fields:
   - "Specific cryptocurrency-seizure totals (the release reports USD 20M attempted fraud but no recovered-funds figure)"
   - "Whether MLAR or informal police-to-police cooperation channel was the operative legal instrument between US and Indonesia"
   - "Whether the 'rebranded' post-2023 phishing kit retains the W3LL name or operates under a different brand"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[bidencash-takedown]]"
   - "[[leakbase-takedown-2026]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
 lessons_learned:
@@ -93,7 +95,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 ## Summary
 
 On **10 April 2026**, the **FBI Atlanta Field Office** and the **Indonesian National Police (Polri)** jointly announced the takedown of the **W3LL phishing kit** and its supporting marketplace **W3LLSTORE** — described by FBI Atlanta as the *first coordinated action against a phishing kit developer between the United States and Indonesia*. Indonesian authorities **detained the alleged developer 'G.L.'**; FBI Atlanta and the U.S. Attorney's Office for the Northern District of Georgia identified and seized US-side infrastructure facilitating the phishing service; key domains tied to the operation were seized.

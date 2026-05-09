@@ -37,6 +37,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-power-off-2025-05]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 region: eastern-europe
 source_count: 3
 sources:

@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (195 canonical / 27 absorbed / 222 records)
+# Operations (196 canonical / 27 absorbed / 223 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (195)
+## Canonical Operations (196)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -197,6 +197,7 @@ updated: 2026-04-14
 | [[operation-atlantic-approval-phishing-2026]] | CYB-2026-095 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[treasury-sanctions-kok-an-scam-center-network-2026]] | CYB-2026-103 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]] | CYB-2026-117 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[tycoon-2fa-phishing-as-a-service-takedown-2026]] | CYB-2026-118 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |
 | [[bidencash-takedown]] | — | 3 | completed | umbrella | 4 | 4.50 | 1 |

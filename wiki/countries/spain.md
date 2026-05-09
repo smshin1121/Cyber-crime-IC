@@ -51,6 +51,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 region: western-europe
 source_count: 6
 sources:

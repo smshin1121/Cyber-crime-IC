@@ -21,6 +21,7 @@ operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 cooperation_partners:
   - "[[portugal-police]]"
   - "[[europol-ec3]]"

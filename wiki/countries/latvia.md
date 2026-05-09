@@ -10,6 +10,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 region: eastern-europe
 source_count: 0
 sources:

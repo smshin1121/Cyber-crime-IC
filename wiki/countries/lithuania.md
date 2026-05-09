@@ -16,6 +16,7 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 source_count: 0
 sources:
 

@@ -32,6 +32,7 @@ operations_participated:
   - "[[operation-chakra-v]]"
   - "[[operation-tovar]]"
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
+  - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
 org_type: private-sector
 parent_org: ""
 source_count: 3
