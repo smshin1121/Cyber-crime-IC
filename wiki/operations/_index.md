@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (174 canonical / 27 absorbed / 201 records)
+# Operations (175 canonical / 27 absorbed / 202 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (174)
+## Canonical Operations (175)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -172,6 +172,7 @@ updated: 2026-04-14
 | [[black-axe-switzerland-takedown-2026]] | CYB-2026-037 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-token-mirrors-2026]] | CYB-2026-038 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[operation-candy-encrypted-comms-drugs-2026]] | CYB-2026-068 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[us-doj-iranian-mois-handala-domain-seizure-2026]] | CYB-2026-072 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-alice-csam-fraud-2026]] | CYB-2026-079 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[w3ll-phishing-kit-takedown-2026]] | CYB-2026-088 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-atlantic-approval-phishing-2026]] | CYB-2026-095 | 3 | completed | — | 1 | 4.00 | 1 |

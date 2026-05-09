@@ -986,6 +986,7 @@ operations_participated:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[operation-power-off-2025-05]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
+  - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

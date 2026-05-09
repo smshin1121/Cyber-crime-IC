@@ -14,7 +14,7 @@ treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
-    reservations:
+    reservations: ""
 central_authority:
   mlat: ""
   budapest: ""
@@ -32,6 +32,7 @@ operations_participated:
   - "[[darkode-takedown]]"
   - "[[operation-shrouded-horizon]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
+  - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
 notable_cases:
 
 cooperation_assessment: ""

@@ -168,6 +168,7 @@ operations_participated:
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[operation-atlantic-approval-phishing-2026]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
+  - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
 region: north-america
 source_count: 1
 sources:

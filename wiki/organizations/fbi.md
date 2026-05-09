@@ -73,6 +73,7 @@ operations_participated:
   - "[[operation-power-off-2025-05]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
+  - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3
