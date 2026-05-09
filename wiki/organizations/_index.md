@@ -50,7 +50,7 @@ updated: 2026-04-08
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 90 | 12 |
 | [[finland-nbi]] | national-agency | Vantaa, Finland | Lead Finnish national investigative agency for serious and transnational cybercrime; Finnish Europol national unit and INTERPOL national central bureau (NCB) liaison | 2 | 1 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | Compatibility label for Bundeskriminalamt references in older operation records.; Routes detailed mandate, cybercrime division, and international-cooperation context to [[germany-bka]]. | 2 | 3 |
-| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 40 | 5 |
+| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 41 | 5 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 5 | 3 |
 | [[indonesia-police]] | national-agency | Indonesia | Compatibility page for Indonesian police references in regional cybercrime operation records.; Preserves links where sources do not distinguish national police, cyber unit, or immigration enforcement. | 2 | 2 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination.; Italian participation node in encrypted communications and darknet-drug operations where DCSA is named. | 1 | 3 |
@@ -134,7 +134,7 @@ updated: 2026-04-08
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 6 | 4 |
 | [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 3 | 3 |
 | [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 24 | 4 |
-| [[ncmec]] | nonprofit-clearinghouse | [[united-states]] | Receives and routes child sexual exploitation tips through CyberTipline channels.; Supports law-enforcement victim identification and child-protection investigations. | — | 2 |
+| [[ncmec]] | nonprofit-clearinghouse | [[united-states]] | Receives and routes child sexual exploitation tips through CyberTipline channels.; Supports law-enforcement victim identification and child-protection investigations. | 1 | 2 |
 | [[uk-met-police-cyber]] | police-cybercrime-unit | [[united-kingdom]] | Supports investigations into cyber extortion, DDoS-for-ransom, and cyber-enabled fraud affecting London or UK victims.; Acts as a UK metropolitan cybercrime partner in Europol-supported operations. | 2 | 2 |
 | [[trend-micro]] | private-cybersecurity-company | [[japan]] | Provides malware telemetry, threat intelligence, and technical analysis to INTERPOL-led cybercrime operations.; Appears repeatedly in public-private cooperation chains for BEC, botnet, phishing, and malicious-infrastructure disruptions. | 10 | 6 |
 | [[intel-security]] | private-sector | — | Legacy private-sector security label in older Operation Source / Beebone records.; Represents vendor threat-intelligence support rather than law-enforcement authority. | 1 | 3 |
