@@ -68,6 +68,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
+  - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
 region: western-europe
 source_count: 5
 sources:

@@ -14,6 +14,7 @@ mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
+  - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
 ---
 ## Summary
 

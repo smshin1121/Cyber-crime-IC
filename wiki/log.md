@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | NL Politie + US FBI Veriftools fake-ID marketplace follow-up arrests (2026-04-09, NL+US)
+- Sources: 1 raw + 1 source page (nl) + 1 operation page (3 new pages)
+- Pages updated: 2 country (NL, US), 3 organization (netherlands-politie, netherlands-om, fbi), 3 crime-type (identity-theft, online-fraud-ic, cybercrime-infrastructure-ic), 2 mechanism (informal-cooperation, domain-seizure).
+- Key findings:
+  - **Veriftools fake-ID marketplace follow-up (Politie 2026-04-09)**: Follow-up to **2025-08-27 joint Politie-FBI server seizure** of Veriftools fake-ID marketplace. 7-8 Apr 2026 first arrest wave: 8 arrests (ages 20-34) + 9 summonses (incl. 2 minors). Server data turned out to be a "goldmine" (Dutch: "goudmijn"): 636,847 customer accounts; 915,655 fake-ID images; 5,169 fake NL documents; 236,002 fake US documents (USD 1,468,836.98 turnover); EUR 3M+ revenue last year. Rotterdam Team Cybercrime + AVIM + Netherlands OM led; FBI bilateral cooperation channel. **First wiki record of Veriftools** + first wiki record of post-seizure-data-mining-driven Dutch arrest wave. Body source-mining pattern (server seizure → forensic analysis → individual customer/operator arrests months later) is a documented IC pattern useful for `cybercrime-infrastructure-ic` analysis.
+- Process notes: Single-agent regional-focus dispatch. Dutch-language tier-1 source preserved per CLAUDE.md rule 11. US-side DOJ/FBI primary press release not in this ingest pass — secondary outlets (helpnetsecurity, hackernews, register, securityaffairs) report USD 6.4M figure but per L19 not asserted. `informal-cooperation` mechanism asserted (no MLAT cited in primary).
+
 ## [2026-05-09] ingest [single agent, regional focus] | AFP-FGR Mexico Yucatán+Nayarit CSAM bilateral investigation (2026-05-08, MX+AU)
 - Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
 - Pages updated: 2 country (MX, AU), 1 organization (australia-afp), 2 crime-type (csam-ic, dark-web-ic), 1 mechanism (informal-cooperation), 4 cross-link (Mad Hatter Italy + live-distant CSAM Italy + Eclipse CSAM Americas + Cyber Guardian).

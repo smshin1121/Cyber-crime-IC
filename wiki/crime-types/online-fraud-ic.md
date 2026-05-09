@@ -65,6 +65,7 @@ notable_operations:
   - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
+  - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -81,7 +82,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 57
+source_count: 58
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -140,6 +141,7 @@ sources:
   - "[[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest]]"
   - "[[2025-09-10_rcmp_canada-fbi-twitter-nft-redman-extradition]]"
   - "[[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day]]"
+  - "[[2026-04-09_politie_veriftools-identity-fraud-arrests]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -260,3 +262,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [55] | [[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest\|Deutscher Betreiber von "Crimenetwork" in Spanien festgenommen (BKA + Policía Nacional + Moldova CCCC)]] | BKA (Germany) | 2026-05-08 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260508_PM_Crimenetwork.html |
 | [56] | [[2025-09-10_rcmp_canada-fbi-twitter-nft-redman-extradition\|RCMP-FBI Twitter Partner Support Portal abuse / NFT theft extradition (Redman, CA→PT→US, EDVA No. 1:25-cr-129)]] | RCMP Central Region (CNW mirror) + DOJ EDVA | 2025-09-10 | https://www.canada.ca/en/royal-canadian-mounted-police/news.html |
 | [57] | [[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day\|Eurojust assists operation in Romania and Moldova against laundering of phishing fraud proceeds (EUR 20M, 44 search locations, JIT)]] | Eurojust | 2025-06-12 | https://www.eurojust.europa.eu/news/eurojust-assists-operation-romania-and-moldova-against-laundering-phishing-fraud-proceeds |
+| [58] | [[2026-04-09_politie_veriftools-identity-fraud-arrests\|Veriftools fake-ID marketplace follow-up arrests (NL Politie + US FBI; 8 arrests, server data goldmine)]] | Politie (Netherlands) | 2026-04-09 | https://www.politie.nl/nieuws/2026/april/9/07-data-op-servers-blijken-goudmijn---8-aanhoudingen-voor-identiteitsfraude.html |

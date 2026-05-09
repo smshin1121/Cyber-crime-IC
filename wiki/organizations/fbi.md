@@ -98,6 +98,7 @@ operations_participated:
   - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
   - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
+  - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

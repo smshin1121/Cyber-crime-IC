@@ -17,6 +17,7 @@ operations_using:
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
+  - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
 ---
 ## Summary
 

@@ -4,7 +4,7 @@ title: "Identity Theft"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-09
-source_count: 10
+source_count: 11
 sources:
   - "[[2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story]]"
   - "[[2015-09-12_justice-gov_san-francisco-resident-charged-in-alleged-identity-theft-bank-fraud-and-aggravat]]"
@@ -16,6 +16,7 @@ sources:
   - "[[2024-11-20_justice-gov_five-members-scattered-spider-charged-cybercrime-attacks]]"
   - "[[2024-08-08_justice-gov_dprk-it-worker-fraud-disruption-knoot-chapman-didenko]]"
   - "[[2025-09-10_rcmp_canada-fbi-twitter-nft-redman-extradition]]"
+  - "[[2026-04-09_politie_veriftools-identity-fraud-arrests]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_cases:
@@ -27,6 +28,7 @@ notable_cases:
 notable_operations:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
+  - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
 ---
 ## Summary
 

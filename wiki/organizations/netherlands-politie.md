@@ -63,6 +63,7 @@ operations_participated:
   - "[[operation-endgame-phase3]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
+  - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

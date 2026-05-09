@@ -33,6 +33,7 @@ operations_participated:
   - "[[operation-hyperion]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
+  - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
 notable_cases:
 
 contact_point_for:
