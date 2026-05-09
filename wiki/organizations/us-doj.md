@@ -1004,6 +1004,7 @@ operations_participated:
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
+  - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

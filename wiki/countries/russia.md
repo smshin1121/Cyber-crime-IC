@@ -42,6 +42,7 @@ operations_participated:
   - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
+  - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"

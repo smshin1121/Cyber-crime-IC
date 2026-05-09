@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (194 canonical / 27 absorbed / 221 records)
+# Operations (195 canonical / 27 absorbed / 222 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (194)
+## Canonical Operations (195)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -116,6 +116,7 @@ updated: 2026-04-14
 | [[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]] | CYB-2024-105 | 2 | completed | — | 1 | — | 1 |
 | [[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]] | CYB-2024-106 | 2 | ongoing | — | 1 | 4.60 | 1 |
 | [[bohemia-cannabia-darknet-marketplace-takedown-2024]] | CYB-2024-107 | 2 | completed | — | 1 | 4.00 | 1 |
+| [[treasury-doppelganger-russian-malign-influence-sanctions-2024]] | CYB-2024-108 | 2 | completed | — | 1 | — | 1 |
 | [[operation-cronos-phase2]] | CYB-2024-201 | 2 | completed | phase | 1 | 4.00 | 1 |
 | [[labhost-phishing-as-a-service-takedown-2024]] | CYB-2024-202 | 2 | completed | — | 1 | 4.00 | 1 |
 | [[matrix-encrypted-messaging-takedown-2024]] | CYB-2024-203 | 2 | completed | — | 1 | 4.50 | 1 |

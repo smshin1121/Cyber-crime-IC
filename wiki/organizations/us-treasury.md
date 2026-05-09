@@ -45,6 +45,7 @@ operations_participated:
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
   - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
   - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
+  - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
 org_type: national-agency
 parent_org: "[[us-federal-government]]"
 source_count: 8

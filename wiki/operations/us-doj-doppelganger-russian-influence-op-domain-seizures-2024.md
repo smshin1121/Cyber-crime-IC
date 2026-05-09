@@ -34,8 +34,10 @@ participating_agencies:
   - "[[us-doj]]"
   - "[[fbi]]"
   - "[[us-treasury]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 1
@@ -48,15 +50,19 @@ results:
     - "Two-count SDNY indictment unsealed against Konstantin Kalashnikov and Elena Mikhaylovna Afanasyeva (RT employees) — FARA conspiracy and money-laundering conspiracy. Both at large in Russia."
     - "Treasury OFAC same-day designations: 10 individuals + 2 entities under IEEPA."
     - "Approximately $9.7M alleged in covert payments to Tennessee-based Tenet Media."
-edges: []
+edges:
+  []
 credibility_index: 0.0
 source_tier: 1
 missing_fields:
-  - "foreign_cooperation_partners"
-  - "specific_legal_basis_statutes_in_frontmatter"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - foreign_cooperation_partners
+  - specific_legal_basis_statutes_in_frontmatter
+related_cases:
+  []
+related_operations:
+  - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "When the host state of foreign-national defendants is uncooperative (Russia post-2022), U.S. enforcement substitutes domain seizures + OFAC sanctions for unavailable extradition / MLAT pathways. The 'cooperation gap' is filled by unilateral U.S. process applied to U.S.-controlled choke points (registries, financial system)."
   - "An influence-operation case can be prosecuted under FARA + money-laundering conspiracy without naming foreign LE counterparts — but this leaves the operational defendants beyond reach. Indictment value is signaling and asset-freezing, not arrest."
@@ -67,7 +73,6 @@ created: 2026-05-09
 updated: 2026-05-09
 last_verified: 2026-05-09
 ---
-
 > [!info] Provisional page
 > Published below the preferred 5-source threshold (CLAUDE.md "Entity creation threshold"). One tier-1 primary source (DOJ OPA press release, 2024-09-04). Companion DOJ release on the RT/Tenet indictment, the Treasury OFAC designation memo (JY-2519), and the publicly available SDNY indictment text should be ingested to lift this page to standard publication state.
 

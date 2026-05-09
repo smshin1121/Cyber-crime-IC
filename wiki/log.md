@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent] | Treasury OFAC Doppelganger companion sanctions JY-2559 (2024-09-04)
+- Sources: 1 raw + 1 source page + 1 operation page (3 new pages)
+- Pages updated: 2 country (US, RU), 3 organization (us-treasury, us-doj, fbi), 2 crime-type (cybercrime-infrastructure-ic, money-laundering-ic) + body Reference rows + cross-link to existing DOJ Doppelganger operation.
+- Key findings:
+  - **Treasury OFAC Doppelganger companion (JY-2559, 2024-09-04)**: Same-day companion to existing [[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]] DOJ action. Designated 2 entities (ANO Dialog + ANO Dialog Regions) and 10 individuals: 6 RT executives (Margarita Simonyan, Elizaveta Brodskaia, Anton Anisimov, Andrey Kiyashko, Konstantin Kalashnikov, Elena Afanasyeva — last two also indicted by SDNY in DOJ companion), 3 RaHDit operatives (Garashchenko, Yermoshkina, Nezhentsev), 1 ANO Dialog leader (Vladimir Tabak). Authority: EO 14024 (IEEPA Russia harmful foreign activities). EU previously+separately sanctioned ANO Dialog for War on Fakes — referenced as prior action, not coordinated package. URL slug correction: prompt JY-2625 wrong; correct release JY-2559 (per L1).
+- Process notes: Single-agent ingest. Treasury URL needed L11 Cloudflare bypass via curl_cffi chrome120 (WebFetch timed out twice). Page tagged `[!warning] IC scope flag` (US unilateral, no FVEY co-designation; EU prior independent action only).
+
 ## [2026-05-09] ingest [parallel batch x2] | Treasury OFAC Integrity Technology Group / Flax Typhoon sanctions (2025-01-03) + Treasury OFAC Yin Kecheng / Salt Typhoon sanctions (2025-01-17)
 - Sources: 2 raw + 2 source pages + 2 operation pages (6 new pages)
 - Pages updated: 2 country (US, CN), 2 organization (us-treasury, fbi), 2 crime-type (hacking-ic, cybercrime-infrastructure-ic) + body Reference rows + 1 cross-link to existing DOJ Raptor Train operation.
