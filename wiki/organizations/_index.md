@@ -26,7 +26,7 @@ updated: 2026-04-08
 | [[council-of-europe]] | international-organization | Strasbourg, France | Administers the Budapest Convention ecosystem for cybercrime law harmonization and international cooperation.; Maintains treaty status and party-observer information for Convention 185. | — | 3 |
 | [[united-nations]] | international-organization | — | Provides the institutional framework for UNGA, UNODC, and the UN Cybercrime Convention process.; Hosts global norm-setting and treaty processes relevant to cybercrime and electronic evidence. | — | 2 |
 | [[interpol-icse-database]] | investigative-database | — | Supports comparison and deconfliction of child sexual exploitation material across jurisdictions.; Provides an INTERPOL-hosted mechanism for victim identification and international child-protection cooperation. | — | 2 |
-| [[office-of-international-affairs]] | justice-international-cooperation-office | [[united-states]] | Central US legal channel for mutual legal assistance and extradition work in cross-border cybercrime cases.; Supports prosecutors and investigators when foreign searches, arrests, evidence collection, or defendant transfers are required. | 12 | 7 |
+| [[office-of-international-affairs]] | justice-international-cooperation-office | [[united-states]] | Central US legal channel for mutual legal assistance and extradition work in cross-border cybercrime cases.; Supports prosecutors and investigators when foreign searches, arrests, evidence collection, or defendant transfers are required. | 13 | 8 |
 | [[german-police]] | law-enforcement-umbrella | [[germany]] | Preserves generic German police attribution from operation pages without over-assigning it to a single German agency.; Routes federal cybercrime and international-cooperation detail to [[germany-bka]]. | 1 | 3 |
 | [[city-of-london-police]] | local-police | London, United Kingdom | Economic crime and intellectual-property crime enforcement context in international digital-piracy operations. | 3 | 1 |
 | [[uk-metropolitan-police]] | metropolitan-police-service | London, United Kingdom | local and specialist police support; cyber extortion investigation support | 7 | 4 |
@@ -82,7 +82,7 @@ updated: 2026-04-08
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 8 | 8 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 48 | 14 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 14 | 4 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 967 | 11 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 968 | 12 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 23 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | federal prosecution; international evidence coordination | 11 | 3 |
 | [[krcert-cc]] | national-cert | [[south-korea]] | Coordinates incident response and public cyber-security guidance for the Korean internet ecosystem.; Provides the operational CERT/CC-facing function associated with KISA's national cyber-security mandate. | — | 1 |
@@ -129,7 +129,7 @@ updated: 2026-04-08
 | [[south-africa-hawks]] | national-unit | South Africa | SAPS specialized unit for organized crime, economic crime, and serious cybercrime.; Primary South African police-side node for serious cybercrime investigation when DPCI is named. | — | 3 |
 | [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 12 | 4 |
 | [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 14 | 4 |
-| [[sweden-police]] | national-unit | Stockholm, Sweden | — | 14 | 5 |
+| [[sweden-police]] | national-unit | Stockholm, Sweden | — | 15 | 6 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 10 | 4 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 6 | 4 |
 | [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 3 | 3 |
@@ -156,7 +156,7 @@ updated: 2026-04-08
 | [[ncfta]] | public-private-partnership | United States | public-private intelligence sharing; case support | 3 | 3 |
 | [[apcert]] | regional-cert-network | — | Provides regional CERT-to-CERT coordination context for incident response and cyber-security capacity building.; Connects national CERTs such as [[kisa]] / KrCERT and SingCERT-facing functions. | — | 2 |
 | [[afripol]] | regional-org | Algiers, Algeria | continental police coordination; joint cyber operations with INTERPOL | 10 | 3 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 67 | 15 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 68 | 16 |
 | [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 122 | 17 |
 | [[african-union]] | regional-organization | Addis Ababa, Ethiopia | Sets continental cyber-security, cybercrime, electronic-commerce, and personal-data-protection policy baselines through AU instruments.; Provides the regional treaty context used by African states and partners when harmonizing cybercrime laws and digital-evidence powers. | — | 1 |
 | [[aseanapol]] | regional-policing-body | — | Provides a Southeast Asian regional-policing layer for multilateral cyber-enabled fraud and online-scam operations.; Supports information sharing and regional coordination alongside INTERPOL and national police agencies. | 2 | 2 |

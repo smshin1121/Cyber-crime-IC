@@ -51,6 +51,7 @@ notable_operations:
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
+  - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
 notable_cases:
 
 criminalization_status:
@@ -59,7 +60,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "South Korea reports large recurring domestic losses; global phone-enabled fraud loss is not consistently separated from wider online-fraud statistics."
-source_count: 28
+source_count: 29
 sources:
   - "[[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]]"
   - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
@@ -89,6 +90,7 @@ sources:
   - "[[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025]]"
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
+  - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -181,3 +183,4 @@ This distinction prevents the SNA from silently merging all online fraud into vo
 | [26] | [[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025\|FRONTIER+ Cross-border Anti-Scam Collaboration Platform 1st joint operation (HK+MO+MY+MV+SG+KR+TH; 1,858 arrests)]] | HKSAR Government (info.gov.hk) | 2025-06-03 | https://www.info.gov.hk/gia/general/202506/03/P2025060300475.htm |
 | [27] | [[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown\|SG-HK-MY tri-lateral GSM gateway scam syndicate takedown — 11 arrests, 226 GSM gateways seized; FRONTIER+ umbrella]] | Singapore Police Force (Public Affairs Dept) | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_11_persons_arrested_in_a_joint_enforcement_operation_against_a_transnational_scam_syndicate |
 | [28] | [[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters\|RCMP Central Region (Ontario) — Toronto couple arrested as alleged top-50 worldwide subscribers of iSpoof.cc spoofing-as-a-service; 570+ Canadian victims (Feb 2025)]] | Royal Canadian Mounted Police — Central Region (Ontario) | 2025-02-20 | https://www.rcmp-grc.gc.ca/en/news/2025/02/ontario-rcmp-shuts-down-prolific-cyber-fraudsters |
+| [29] | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states\|Eurojust — main suspect in EUR 6M Swedish bank-employee-impersonation fraud extradited from US to Sweden (2026-04-10); 25 victims, action day Nov 2024 → 3 arrests US+SE]] | Eurojust | 2026-04-11 | https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states |

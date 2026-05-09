@@ -41,6 +41,7 @@ operations_using:
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
   - "[[warzone-rat-takedown-2024]]"
+  - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"

@@ -31,16 +31,18 @@ operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[operation-otf-grimm]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
 status: active
 title: "Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -103,3 +105,4 @@ Specific operation attributions are not confirmed in currently ingested sources.
 | [3] | Utredare cyberbrott vid Nationellt it-brottscentrum, NOA | Swedish Police Authority (via LinkedIn jobs) | n.d. | https://se.linkedin.com/jobs/view/utredare-cyberbrott-vid-nationellt-it-brottscentrum-noa-at-swedish-police-authority-3817298413 |
 | [4] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, Europol-coordinated)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
 | [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
+| [6] | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states\|Eurojust — main suspect in EUR 6M Swedish bank-employee-impersonation fraud extradited from US to Sweden (2026-04-10); 25 victims, action day Nov 2024 → 3 arrests US+SE]] | Eurojust | 2026-04-11 | https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states |

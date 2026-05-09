@@ -1914,3 +1914,14 @@
   - L19/L23 strict applied: only 2 wikilinked agencies (australia-afp, us-secret-service) named in source AND with wiki pages.
   - lead_agency=`[[australia-afp]]`; coordinating_body left empty.
   - 6 reference rows appended; 11 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | Sweden-US extradition in EUR 6M bank-impersonation fraud (Eurojust-coordinated, April 2026)
+- Source: raw/press-releases/2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states.md (Eurojust; en).
+- Pages created: wiki/sources/2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states.md, wiki/operations/sweden-us-bank-impersonation-fraud-extradition-2026.md (provisional, source_count=1).
+- Pages updated: countries/sweden, countries/united-states; agencies eurojust, sweden-police, us-doj, office-of-international-affairs; crime-types online-fraud-ic + voice-phishing-ic; mechanisms/extradition.
+- Key findings:
+  - **Sweden-US bilateral cooperation under Eurojust coordination** — Nov 2024 action day (3 arrests US+SE) → 2026-04-10 extradition execution from US to Sweden (US Marshals Service → Swedish LE).
+  - EUR 6M damages, 25 victims, telephone-based bank-employee-impersonation scheme operating since 2019.
+  - L19/L23 strict applied: 4 wikilinked agencies named in source AND with wiki pages; lead_agency=`""`; coordinating_body=`[[eurojust]]`. USAO C.D. Cal., IRS-CI, HSI, US Marshals Service, Swedish Prosecution Authority National Unit Against Organised Crime kept in body prose only (no wiki pages yet).
+  - 5 reference rows appended; 9 pages with `updated:` bumped.
+- L24 reject + retry note: First iter 124 ingest attempt (Delhi Police IFSO SIMBOX, ANI India source) was rejected. Reason: ANI is a private news wire (not tier-1 primary), and the source explicitly acknowledged "Foreign-LE counterpart agencies — none named in the primary release" — Taiwan/Cambodia/Pakistan/Nepal/China appeared only as adversary/origin/destination states, not as cooperating LE jurisdictions. Per L19 strict re-interpretation + new L24, that ingest failed the ≥2-country IC requirement and was deleted before commit. Re-ingested with stricter prompt yielded the Eurojust SE-US op above.

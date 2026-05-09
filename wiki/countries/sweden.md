@@ -18,16 +18,18 @@ operations_participated:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[operation-otf-grimm]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
 region: northern-europe
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
 title: "Kingdom of Sweden"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

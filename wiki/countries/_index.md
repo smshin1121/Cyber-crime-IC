@@ -101,7 +101,7 @@ total: 61
 | 🇷🇸 | [[serbia]] | civil-law | party (2009) | medium | unknown | 3 |
 | 🇷🇺 | [[russia]] | civil-law | non-party | low | 180+ | 4 |
 | 🇷🇼 | [[rwanda]] | mixed | party (2025) | medium | unknown | 3 |
-| 🇸🇪 | [[sweden]] | not-assessed | — | unknown | unknown | 2 |
+| 🇸🇪 | [[sweden]] | not-assessed | — | unknown | unknown | 3 |
 | 🇸🇬 | [[singapore]] | not-assessed | — | unknown | unknown | 1 |
 | 🇸🇮 | [[slovenia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇸🇷 | [[suriname]] | not-assessed | — | unknown | unknown | 0 |
@@ -115,7 +115,7 @@ total: 61
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 2 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 7 |
-| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 13 |
+| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 14 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 1 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |

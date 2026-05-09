@@ -91,9 +91,10 @@ operations_participated:
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
+  - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
 org_type: regional-org
 parent_org: ""
-source_count: 15
+source_count: 16
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
@@ -101,6 +102,7 @@ sources:
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
+  - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
 status: active
 title: Eurojust
 type: organization
@@ -267,3 +269,4 @@ Direct Eurojust-Korea judicial cooperation on cybercrime is *likely* limited but
 | [13] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
 | [14] | [[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown\|Operation LoopX — Austrian crypto-coin exit-scam takedown (AT+CY+CZ; 6 arrests, ~EUR 6M victim losses, 10M tokens 2017-2018)]] | Eurojust | 2024-05-08 | https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin |
 | [15] | [[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters\|RCMP Central Region (Ontario) — Toronto couple arrested as alleged top-50 worldwide subscribers of iSpoof.cc spoofing-as-a-service; 570+ Canadian victims (Feb 2025)]] | Royal Canadian Mounted Police — Central Region (Ontario) | 2025-02-20 | https://www.rcmp-grc.gc.ca/en/news/2025/02/ontario-rcmp-shuts-down-prolific-cyber-fraudsters |
+| [16] | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states\|Eurojust — main suspect in EUR 6M Swedish bank-employee-impersonation fraud extradited from US to Sweden (2026-04-10); 25 victims, action day Nov 2024 → 3 arrests US+SE]] | Eurojust | 2026-04-11 | https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states |

@@ -225,6 +225,20 @@
 
 ---
 
+### ❗ L24. participating_countries 는 협력국만 — 공격자/원천국/도착국은 제외 (2026-05-10, iter 124)
+
+- **상황**: iter 124 ingest agent 가 Delhi Police IFSO SIMBOX 사기조직 단속 (인도 단독 작전) 보도자료를 ANI 뉴스와이어에서 가져와 operation page 생성. participating_countries 에 [[india]], [[taiwan]], [[cambodia]], [[pakistan]], [[nepal]], [[china]] 6개국을 모두 wikilink 함. 그러나 Delhi Police 1차 statement 는 명시적으로 "Foreign-LE counterpart agencies — none named in the primary release" 라고 acknowledged. 즉 Taiwan/Cambodia/Pakistan/Nepal/China 는 모두 *공격 인프라 origin/handler/C2/recruitment* 역할이고 LE 협력 jurisdiction 이 아님.
+- **왜 실패**: L19 ("participating_countries 공식 출처 교차 검증") 이 "official source 에 언급되었으면 OK" 로 약하게 해석됨. 그러나 CLAUDE.md 의 IC scope 정의는 "≥2 countries' IC involvement" — 즉 **양국 이상의 LE/검찰이 협력한 작전**이어야 한다. 적국/원천국/도착국 표기가 IC 협력의 의미를 갖지 않는다.
+- **교훈**: **`participating_countries` 는 (1) 자국 LE + (2) 1개 이상의 외국 LE/검찰이 explicit 하게 협력했다고 1차 출처에 명시된 jurisdictions 만 포함한다.** 적국/원천국/도착국은 본문 prose 에 attribution 으로만 기록. 1차 출처가 "no foreign-LE counterpart named" 라고 명시하면 → 그 작전은 **IC 작전이 아니므로 wiki/operations/ 에 들어가지 않는다** (단일국가 cybercrime 수사이므로 ingest 거부).
+- **추가 강화**: **ANI India / Reuters / AP 등 사설 뉴스와이어는 tier-1 가 아니다.** 국가 통신사 (BTA Bulgaria, Tribrata News Polri, ANSA Italy, KCNA, Yonhap)이 official statement 를 그대로 reproduce 한 경우는 tier-1 으로 인정할 수 있으나, 사설 wire 는 secondary. CLAUDE.md "tier-1 primary source = national police agency, prosecutor's office, judicial body, intergovernmental org — NOT news outlets" 의 strict 해석.
+- **어떻게 적용**:
+  - ingest agent prompt 에 명시: "≥2-country IC requirement: At least 2 distinct countries' LE/prosecutorial agencies must have cooperated, with the cooperation explicitly acknowledged in the tier-1 primary source. Adversary/origin/destination states do NOT count."
+  - "Tier-1 publisher = national police agency, prosecutor's office, judicial body, or intergovernmental org. Private news wires (e.g., ANI India, AP, Reuters) do NOT count. State news wires reproducing official statements DO count."
+  - 1차 출처가 외국 LE 파트너를 명시하지 않으면 ingest 거부 → 다른 작전 선택
+  - L19 의 strict 해석으로 격상 (이미 "공식 출처 교차 검증" 이지만 명시적 "협력 jurisdictions only" rule 추가)
+
+---
+
 ### L22. nbi.gov.ph는 HTTPS TLS 핸드셰이크 실패 — HTTP plain으로 수집 (2026-05-09)
 
 - **상황**: 필리핀 NBI 보도자료 (`http://nbi.gov.ph/press_releases/...`) 를 `curl_cffi` chrome120 으로 HTTPS 수집 시도하면 `WRONG_VERSION_NUMBER` SSL 에러로 실패. HTTPS 자체가 server-side에서 깨져 있음.

@@ -95,6 +95,7 @@ notable_operations:
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
+  - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -112,7 +113,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 88
+source_count: 89
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -202,6 +203,7 @@ sources:
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
   - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
+  - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -353,3 +355,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [86] | [[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters\|RCMP Central Region (Ontario) — Toronto couple arrested as alleged top-50 worldwide subscribers of iSpoof.cc spoofing-as-a-service; 570+ Canadian victims (Feb 2025)]] | Royal Canadian Mounted Police — Central Region (Ontario) | 2025-02-20 | https://www.rcmp-grc.gc.ca/en/news/2025/02/ontario-rcmp-shuts-down-prolific-cyber-fraudsters |
 | [87] | [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits\|AFP intelligence leads to 8 arrests over Malaysia-based phishing-kit-as-a-service syndicate cloning AU myGov, MY and US Government services; 4 servers + 60+TB seized]] | Australian Federal Police (AFP) | 2023-11-27 | https://www.afp.gov.au/news-centre/media-release/afp-intelligence-leads-eight-arrests-over-phishing-kits |
 | [88] | [[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham\|AFP-USSS Operation Wickham — Melbourne man charged in Changjiang/Long River laundering of US investment-fraud proceeds (Oct 2023); AUD 21M restrained, AUD 100M+ allegedly laundered]] | Australian Federal Police (AFP) | 2023-10-26 | https://www.afp.gov.au/news-centre/media-release/melbourne-man-charged-laundering-cybercrime-victims-money |
+| [89] | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states\|Eurojust — main suspect in EUR 6M Swedish bank-employee-impersonation fraud extradited from US to Sweden (2026-04-10); 25 victims, action day Nov 2024 → 3 arrests US+SE]] | Eurojust | 2026-04-11 | https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states |
