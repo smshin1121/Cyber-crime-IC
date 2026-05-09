@@ -71,10 +71,13 @@ missing_fields:
   - "identity of the \"DPRK ransomware actor\" referenced in connection with First Credit Bank funds"
   - "whether China or Russia provided any cooperation or were merely host jurisdictions for designees"
 related_cases:
-  []
+
 related_operations:
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
+  - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
+  - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
+  - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
 lessons_learned:

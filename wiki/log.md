@@ -1,5 +1,15 @@
 # Activity Log
 
+## [2026-05-09] ingest [parallel batch x3] | Treasury jy1933 Sinbad mixer DPRK (2023-11-29) + Treasury sb0205 Korea Sobaeksu DPRK IT (2025-07-24) + Treasury sb0416 Amnokgang DPRK IT facilitators (2026-03-12)
+- Sources: 3 raw + 3 source pages + 3 operation pages (9 new pages)
+- Pages updated: 5 country (US, NK, VN, LA, ES), 4 organization (us-treasury, us-doj, us-dhs, fbi), 3 crime-type (money-laundering-ic, online-fraud-ic, ransomware-ic) + 6 cross-links to existing DPRK Treasury operations.
+- Key findings:
+  - **Treasury jy1933 (2023-11-29)**: First wiki record of mixer-as-laundering-vehicle for state-sponsored cyber theft pattern. Sinbad.io processed Lazarus Group heist proceeds: Axie Infinity (~USD 620M, March 2022), Horizon Bridge (~USD 100M, June 2022), Atomic Wallet (USD 100M, June 2023) — 3-heist crypto-laundering chain through one mixer.
+  - **Treasury sb0205 (2025-07-24)**: Korea Sobaeksu Trading Company + 3 DPRK individuals (Kim Se Un, Jo Kyong Hun, Myong Chol Min) sanctioned for DPRK IT-worker schemes funding nuclear/missile programs. Cross-agency coordination with DOJ + DHS + State + FBI + HSI cited in release.
+  - **Treasury sb0416 (2026-03-12)**: 6 individuals (incl. 3 Vietnamese nationals) + 2 entities (Amnokgang DPRK + Quangvietdnbg Vietnam) sanctioned for DPRK IT-worker fraud generating USD 800M revenue in 2024. **Amnokgang→Quangvietdnbg Vietnam-based front company structure** as a discrete IC pattern; ~21 cryptocurrency addresses across multiple blockchains in SDN List.
+- Together with previously-ingested SB-0230, SB-0302, SB-0319, JY-2326, JY-1486, JY-2623, the wiki now has **9 DPRK / Russian / cybercrime-infrastructure Treasury sanctions actions** documented.
+- Process notes: Iter 58 used parallel multi-agent harness (3 of 3 successful). Mid-cycle push checkpoint follows this commit.
+
 ## [2026-05-09] ingest [parallel batch x3] | Treasury jy1486 Matveev sanctions (2023-05-16) + Treasury jy2623 Evil Corp tri-lateral (2024-10-01) + NCA TfL Jubair/Flowers case (2025-09-18)
 - Sources: 3 raw + 3 source pages + 2 operation pages + 1 case page (9 new pages)
 - Pages updated: 4 country (US, UK, AU, RU), 5 organization (us-treasury, us-doj, fbi, uk-nca, city-of-london-police), 3 crime-type (ransomware-ic, hacking-ic + asset-freezing mechanism); 7 cross-links to existing operations.

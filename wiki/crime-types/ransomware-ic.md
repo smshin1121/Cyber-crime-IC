@@ -37,6 +37,7 @@ notable_operations:
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
   - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
+  - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-stryzhak-nefilim]]"
@@ -51,7 +52,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 24
+source_count: 25
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -77,6 +78,7 @@ sources:
   - "[[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions]]"
   - "[[2023-05-16_treasury_matveev-russian-ransomware-actor-sanctions-jy1486]]"
   - "[[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623]]"
+  - "[[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -269,3 +271,4 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [22] | [[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions\|Treasury Sanctions Global Bulletproof Hosting Service Enabling Cybercriminals and Technology Theft (Aeza Group)]] | US Department of the Treasury (OFAC), Press Release SB-0185 | 2025-07-01 | https://home.treasury.gov/news/press-releases/sb0185 |
 | [23] | [[2023-05-16_treasury_matveev-russian-ransomware-actor-sanctions-jy1486\|Treasury Sanctions Russian Ransomware Actor Complicit in Attacks on Police and U.S. Critical Infrastructure (Matveev)]] | US Department of the Treasury (OFAC), Press Release JY-1486 | 2023-05-16 | https://home.treasury.gov/news/press-releases/jy1486 |
 | [24] | [[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623\|Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia]] | US Department of the Treasury (OFAC), Press Release JY-2623 | 2024-10-01 | https://home.treasury.gov/news/press-releases/jy2623 |
+| [25] | [[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933\|Treasury Sanctions Mixer Used by the DPRK to Launder Stolen Virtual Currency (Sinbad.io)]] | US Department of the Treasury (OFAC), Press Release JY-1933 | 2023-11-29 | https://home.treasury.gov/news/press-releases/jy1933 |

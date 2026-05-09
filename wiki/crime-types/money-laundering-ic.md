@@ -43,6 +43,9 @@ notable_operations:
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
   - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
+  - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
+  - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
+  - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -53,7 +56,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 26
+source_count: 29
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -81,6 +84,9 @@ sources:
   - "[[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker]]"
   - "[[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion]]"
   - "[[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]]"
+  - "[[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933]]"
+  - "[[2025-07-24_treasury_dprk-it-worker-korea-sobaeksu-sanctions-sb0205]]"
+  - "[[2026-03-12_treasury_dprk-it-worker-fraud-facilitators-amnokgang-vietnam-sb0416]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -164,3 +170,6 @@ This page focuses on the **international cooperation** dimension: how states and
 | [24] | [[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker\|Two North Korean Nationals and Three Facilitators Indicted for Multi-Year Fraudulent Remote Information Technology Worker Scheme]] | US DOJ (OPA), Press Release 25-105 | 2025-01-23 | https://www.justice.gov/opa/pr/two-north-korean-nationals-and-three-facilitators-indicted-multi-year-fraudulent-remote |
 | [25] | [[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion\|Treasury Sanctions Cryptocurrency Exchange and Network Enabling Sanctions Evasion and Cyber Criminals]] | US Department of the Treasury (OFAC), Press Release SB-0225 | 2025-08-14 | https://home.treasury.gov/news/press-releases/sb0225 |
 | [26] | [[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong\|Treasury Sanctions Fraud Network Funding DPRK Weapons Programs]] | US Department of the Treasury (OFAC), Press Release SB-0230 | 2025-08-27 | https://home.treasury.gov/news/press-releases/sb0230 |
+| [27] | [[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933\|Treasury Sanctions Mixer Used by the DPRK to Launder Stolen Virtual Currency (Sinbad.io)]] | US Department of the Treasury (OFAC), Press Release JY-1933 | 2023-11-29 | https://home.treasury.gov/news/press-releases/jy1933 |
+| [28] | [[2025-07-24_treasury_dprk-it-worker-korea-sobaeksu-sanctions-sb0205\|Treasury Sanctions Clandestine IT Worker Network Funding the DPRK's Weapons Programs (Korea Sobaeksu)]] | US Department of the Treasury (OFAC), Press Release SB-0205 | 2025-07-24 | https://home.treasury.gov/news/press-releases/sb0205 |
+| [29] | [[2026-03-12_treasury_dprk-it-worker-fraud-facilitators-amnokgang-vietnam-sb0416\|Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses (Amnokgang/Vietnam)]] | US Department of the Treasury (OFAC), Press Release SB-0416 | 2026-03-12 | https://home.treasury.gov/news/press-releases/sb0416 |

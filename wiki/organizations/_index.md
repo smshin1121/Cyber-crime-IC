@@ -46,7 +46,7 @@ updated: 2026-04-08
 | [[dod-inspector-general]] | national-agency | United States | Independent oversight office for the US Department of Defense.; Parent organization for [[us-dcis\|Defense Criminal Investigative Service]]. | 1 | 2 |
 | [[dubai-police]] | national-agency | Dubai, United Arab Emirates | Lead emirate-level cybercrime investigations and arrests in Dubai jurisdiction; International liaison for UAE cyber and financial-crime cooperation, including with Interpol and US/EU law-enforcement partners | 1 | 1 |
 | [[dutch-police]] | national-agency | Netherlands | Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles.; Routes current institutional context to [[netherlands-politie]]. | 6 | 3 |
-| [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 42 | 3 |
+| [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 44 | 3 |
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 88 | 12 |
 | [[finland-nbi]] | national-agency | Vantaa, Finland | Lead Finnish national investigative agency for serious and transnational cybercrime; Finnish Europol national unit and INTERPOL national central bureau (NCB) liaison | 2 | 1 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | Compatibility label for Bundeskriminalamt references in older operation records.; Routes detailed mandate, cybercrime division, and international-cooperation context to [[germany-bka]]. | 2 | 3 |
@@ -81,9 +81,9 @@ updated: 2026-04-08
 | [[thailand-police]] | national-agency | Bangkok, Thailand | Variant reference for ambiguous Thai cybercrime police labels.; Routes specific cybercrime-bureau content to [[thailand-royal-police]]. | 2 | 3 |
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 6 | 8 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 42 | 13 |
-| [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 11 | 3 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 954 | 5 |
-| [[us-treasury]] | national-agency | Washington, D.C., United States | — | 16 | 8 |
+| [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 12 | 3 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 955 | 5 |
+| [[us-treasury]] | national-agency | Washington, D.C., United States | — | 19 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | federal prosecution; international evidence coordination | 10 | 3 |
 | [[krcert-cc]] | national-cert | [[south-korea]] | Coordinates incident response and public cyber-security guidance for the Korean internet ecosystem.; Provides the operational CERT/CC-facing function associated with KISA's national cyber-security mandate. | — | 1 |
 | [[portugal-policia-judiciaria]] | national-criminal-police | Lisbon, Portugal | Parent organization for [[portugal-police\|UNC3T]], Portugal's specialized cybercrime unit.; Participates in international cyber-enabled fraud, money-laundering, and cybercrime operations through PJ and UNC3T channels. | 4 | 3 |

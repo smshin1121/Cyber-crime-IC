@@ -182,6 +182,9 @@ operations_participated:
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
   - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
+  - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
+  - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
+  - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
 region: north-america
 source_count: 1
 sources:

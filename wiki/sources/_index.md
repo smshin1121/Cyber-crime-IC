@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (734)
+# Sources (737)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -47,6 +47,7 @@ updated: 2026-04-14
 | [[2026-03-13_cyberscoop-com_socksescort-proxy-network-botnet-takedown]] | news | CyberScoop | ? | medium | ? |
 | [[2026-03-13_cybernews_interpol-takes-down-45000-malicious-websites]] | news | Cybernews | ? | medium | ? |
 | [[2026-03-13_cybernews-com_major-residential-proxy-service-socksescort-down]] | news | Cybernews | ? | medium | ? |
+| [[2026-03-12_treasury_dprk-it-worker-fraud-facilitators-amnokgang-vietnam-sb0416]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]] | press-release | US DOJ USAO EDCA | 1 | high | ? |
 | [[2026-03-12_fbi-gov_avrecon-malware-infected-routers-exploited-as-residential-proxies-by-socksescort]] | threat-advisory | Federal Bureau of Investigation | 1 | high | ? |
 | [[2026-03-12-eurojust-proxy-service-takedown]] | press-release | Eurojust | 1 | high | ? |
@@ -144,6 +145,7 @@ updated: 2026-04-14
 | [[2025-07-28_techradar-com_top-ransomware-group-blacksuit-has-dark-web-extortion-sites-seized-and-shut-down]] | news | TechRadar | 3 | medium | ? |
 | [[2025-07-25_scworld-com_operation-checkmate-shuts-down-blacksuits-extortion-sites]] | news | SC Media | 3 | medium | ? |
 | [[2025-07-25_bitdefender-com_after-500-million-in-ransom-demands-law-enforcement-seizes-blacksuit-site]] | news | Bitdefender | 3 | medium | ? |
+| [[2025-07-24_treasury_dprk-it-worker-korea-sobaeksu-sanctions-sb0205]] | press-release | U.S. Department of the Treasury | ? | high | ? |
 | [[2025-07-24_bleepingcomputer-com_law-enforcement-seizes-blacksuit-ransomware-leak-sites]] | news | BleepingComputer | 3 | medium-high | ? |
 | [[2025-07-23_europol_xss-is-cybercrime-forum-administrator-arrested-ukraine]] | press-release | Europol | ? | high | ? |
 | [[2025-07-16_polizei-sachsen_operation-eastwood]] | press-release | Polizei Sachsen / German Federal Criminal Police Office | ? | high | ? |
@@ -394,6 +396,7 @@ updated: 2026-04-14
 | [[2023-12-19_bleepingcomputer_fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool]] | news | BleepingComputer | 3 | medium | ? |
 | [[2023-12-19-interpol-operation-haechi-iv]] | press-release | INTERPOL | ? | high | ? |
 | [[2023-12-11_interior-gob-es_policia-nacional-detiene-lider-kelvin-security]] | press-release | Ministry of the Interior of Spain | 1 | high | ? |
+| [[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2023-11-29_mdfl_adejumo-jinadu-xdedic-sentencing]] | court-document | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2023-11-28_eurojust_ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol]] | press-release | Eurojust | 1 | high | ? |
 | [[2023-11-21_news-cgtn-com_31-000-telecom-scam-suspects-handed-over-to-china-by-myanmar]] | news | CGTN | ? | medium | ? |

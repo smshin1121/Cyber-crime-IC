@@ -13,8 +13,7 @@ established: 2002-11-25
 parent_org: ""
 country: "[[united-states]]"
 jurisdiction:
-  -
-    - united-states
+
 headquarters: "Washington, D.C., United States"
 mandate: "Homeland security including cybercrime investigation through Homeland Security Investigations (HSI)"
 key_roles:
@@ -37,14 +36,15 @@ operations_participated:
   - "[[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"
   - "[[operation-trident-breach]]"
   - "[[operation-disruptor]]"
+  - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
 source_count: 3
 sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
   - "[[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service]]"
   - "[[2024-06-07_fbi-gov_the-911-s5-cyber-threat]]"
 created: 2026-04-10
-updated: 2026-04-29
-last_verified: 2026-04-29
+updated: 2026-05-09
+last_verified: 2026-05-09
 coverage_status: audit-normalized
 ---
 ## Summary

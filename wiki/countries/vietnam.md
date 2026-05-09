@@ -8,19 +8,18 @@ cybercrime_legislation:
   primary_law: "Law on Cybersecurity (2018)"
   primary_law_date: 2018
   procedural_powers:
-    []
+
   data_retention: ""
 treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
     reservations:
-      []
 central_authority:
   mlat: ""
   budapest: ""
 key_agencies:
-  []
+
 ic_capacity:
   rating: low
   digital_forensics: medium
@@ -28,15 +27,16 @@ ic_capacity:
   english_proficiency: medium
   avg_mlat_response_days: unknown
 bilateral_agreements:
-  []
+
 operations_participated:
   - "[[operation-haechi-vi]]"
+  - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
 notable_cases:
-  []
+
 cooperation_assessment: ""
 source_count: 1
 created: 2026-04-20
-updated: 2026-04-29
+updated: 2026-05-09
 status: corpus-linked
 sources:
   - "[[2020-01-01_en-vietnamplus-vn_thailand-forms-new-police-agency-to-tackle-cybercrimes]]"

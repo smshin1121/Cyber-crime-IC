@@ -55,6 +55,8 @@ notable_operations:
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
+  - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
+  - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -68,7 +70,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 44
+source_count: 46
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -114,6 +116,8 @@ sources:
   - "[[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker]]"
   - "[[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]]"
   - "[[2018-10-09_justice-gov_leader-international-cyber-fraud-ring-romeo-chita-racketeering]]"
+  - "[[2025-07-24_treasury_dprk-it-worker-korea-sobaeksu-sanctions-sb0205]]"
+  - "[[2026-03-12_treasury_dprk-it-worker-fraud-facilitators-amnokgang-vietnam-sb0416]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -221,3 +225,5 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [42] | [[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker\|Two North Korean Nationals and Three Facilitators Indicted for Multi-Year Fraudulent Remote Information Technology Worker Scheme]] | US DOJ (OPA), Press Release 25-105 | 2025-01-23 | https://www.justice.gov/opa/pr/two-north-korean-nationals-and-three-facilitators-indicted-multi-year-fraudulent-remote |
 | [43] | [[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong\|Treasury Sanctions Fraud Network Funding DPRK Weapons Programs]] | US Department of the Treasury (OFAC), Press Release SB-0230 | 2025-08-27 | https://home.treasury.gov/news/press-releases/sb0230 |
 | [44] | [[2018-10-09_justice-gov_leader-international-cyber-fraud-ring-romeo-chita-racketeering\|Leader of International Cyber Fraud Ring Returned to United States to Face Federal Racketeering Charges]] | US DOJ (OPA) / USAO N.D. Ohio | 2018-10-09 | https://www.justice.gov/archives/opa/pr/leader-international-cyber-fraud-ring-returned-united-states-face-federal-racketeering |
+| [45] | [[2025-07-24_treasury_dprk-it-worker-korea-sobaeksu-sanctions-sb0205\|Treasury Sanctions Clandestine IT Worker Network Funding the DPRK's Weapons Programs (Korea Sobaeksu)]] | US Department of the Treasury (OFAC), Press Release SB-0205 | 2025-07-24 | https://home.treasury.gov/news/press-releases/sb0205 |
+| [46] | [[2026-03-12_treasury_dprk-it-worker-fraud-facilitators-amnokgang-vietnam-sb0416\|Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses (Amnokgang/Vietnam)]] | US Department of the Treasury (OFAC), Press Release SB-0416 | 2026-03-12 | https://home.treasury.gov/news/press-releases/sb0416 |

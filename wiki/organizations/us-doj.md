@@ -994,6 +994,7 @@ operations_participated:
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
+  - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

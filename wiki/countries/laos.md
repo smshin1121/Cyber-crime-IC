@@ -9,6 +9,7 @@ treaty_memberships:
 ic_capacity: not-assessed
 operations_participated:
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
+  - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
 source_count: 0
 created: 2026-04-20
 updated: 2026-05-09

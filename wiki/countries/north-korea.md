@@ -29,6 +29,9 @@ operations_participated:
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
+  - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
+  - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
+  - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
 notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"

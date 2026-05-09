@@ -73,15 +73,20 @@ edges:
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
-  - cryptocurrency_seized (release names $600K transaction volume but does not state seizure dollar amount)
-  - whether China, Russia, or Laos provided any cooperation or are merely host jurisdictions for designees
-  - exact date in December 2024 when Andreyev / Kim Ung Sun activity began
-  - aggregate revenue total beyond the two named figures ($600K crypto-to-USD + $1M Shenyang Geumpungri profits)
-related_cases: []
+  - "cryptocurrency_seized (release names $600K transaction volume but does not state seizure dollar amount)"
+  - "whether China, Russia, or Laos provided any cooperation or are merely host jurisdictions for designees"
+  - "exact date in December 2024 when Andreyev / Kim Ung Sun activity began"
+  - "aggregate revenue total beyond the two named figures ($600K crypto-to-USD + $1M Shenyang Geumpungri profits)"
+related_cases:
+
 related_operations:
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
-challenges_encountered: []
+  - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
+  - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
+  - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
+challenges_encountered:
+
 lessons_learned:
   - "DPRK IT worker monetization can be disrupted at the cash-out chokepoint by designating non-DPRK nationals (here, a Russian national) who provide crypto-to-fiat conversion services for DPRK consular officials operating in third-country jurisdictions."
   - "The structural pattern is highly likely (>80%) to recur: a Russia-based DPRK consular official + a non-DPRK-national crypto facilitator + a Chinese front company + a DPRK-based trading company subordinate to the DPRK Ministry of People's Armed Forces General Political Bureau, all feeding Chinyong as the central defense-ministry-affiliated employer of overseas IT worker delegations in Russia and Laos."
@@ -92,7 +97,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 ## Summary
 
 On 2025-08-27, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) issued press release SB-0230 announcing sanctions on four targets — one Russian national (Vitaliy Sergeyevich Andreyev), one Russia-based DPRK consular official (Kim Ung Sun), one Chinese front company (Shenyang Geumpungri Network Technology Co., Ltd.), and one DPRK trading company (Korea Sinjin Trading Corporation) — for facilitating revenue generation for [[north-korea|the DPRK]] through the Chinyong Information Technology Cooperation Company IT worker network. All four designations were made pursuant to Executive Order 13687. The action documented approximately USD 600,000 in crypto-to-USD conversions since at least December 2024 and over USD 1 million in cumulative profits since 2021. The press release likely (>80% confidence) represents a coordinated diplomatic moment: it was issued the same day as a joint statement on DPRK IT worker threats by the U.S. Department of State and the foreign ministries of Japan and the Republic of Korea.

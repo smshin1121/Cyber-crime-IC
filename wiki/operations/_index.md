@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (183 canonical / 27 absorbed / 210 records)
+# Operations (186 canonical / 27 absorbed / 213 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (183)
+## Canonical Operations (186)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -87,6 +87,7 @@ updated: 2026-04-14
 | [[nigerian-bec-convictions-2023]] | CYB-2023-053 | 3 | completed | umbrella | 5 | 4.20 | 1 |
 | [[operation-cookie-monster]] | CYB-2023-054 | 3 | completed | umbrella | 4 | 4.50 | 1 |
 | [[treasury-matveev-russian-ransomware-sanctions-2023]] | CYB-2023-099 | 2 | completed | — | 1 | 4.50 | 1 |
+| [[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]] | CYB-2023-100 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[operation-orion-international]] | CYB-2024-001 | 3 | completed | umbrella | 4 | — | — |
 | [[operation-cronos-phase1]] | CYB-2024-002 | 3 | completed | umbrella | 7 | 2.28 | 2 |
 | [[operation-endgame-phase1]] | CYB-2024-003 | 3 | completed | umbrella | 5 | 2.28 | 2 |
@@ -145,6 +146,7 @@ updated: 2026-04-14
 | [[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]] | CYB-2025-113 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-us-au-uk-zservers-sanctions-2025]] | CYB-2025-114 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-aeza-group-bulletproof-hosting-sanctions-2025]] | CYB-2025-115 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]] | CYB-2025-116 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-endgame-phase3]] | CYB-2025-201 | 3 | completed | phase | 1 | 4.00 | 1 |
 | [[sg-th-altdos-desorden-ghostr-takedown-2025]] | CYB-2025-201 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[e-note-crypto-exchange-takedown-2025]] | CYB-2025-202 | 3 | completed | — | 1 | 4.00 | 1 |
@@ -185,6 +187,7 @@ updated: 2026-04-14
 | [[w3ll-phishing-kit-takedown-2026]] | CYB-2026-088 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-atlantic-approval-phishing-2026]] | CYB-2026-095 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[treasury-sanctions-kok-an-scam-center-network-2026]] | CYB-2026-103 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]] | CYB-2026-117 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |
 | [[bidencash-takedown]] | — | 3 | completed | umbrella | 4 | 4.50 | 1 |
