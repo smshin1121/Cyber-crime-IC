@@ -86,7 +86,7 @@ updated: 2026-04-08
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 23 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | federal prosecution; international evidence coordination | 11 | 3 |
 | [[krcert-cc]] | national-cert | [[south-korea]] | Coordinates incident response and public cyber-security guidance for the Korean internet ecosystem.; Provides the operational CERT/CC-facing function associated with KISA's national cyber-security mandate. | — | 1 |
-| [[portugal-policia-judiciaria]] | national-criminal-police | Lisbon, Portugal | Parent organization for [[portugal-police\|UNC3T]], Portugal's specialized cybercrime unit.; Participates in international cyber-enabled fraud, money-laundering, and cybercrime operations through PJ and UNC3T channels. | 6 | 3 |
+| [[portugal-policia-judiciaria]] | national-criminal-police | Lisbon, Portugal | Parent organization for [[portugal-police\|UNC3T]], Portugal's specialized cybercrime unit.; Participates in international cyber-enabled fraud, money-laundering, and cybercrime operations through PJ and UNC3T channels. | 7 | 4 |
 | [[french-high-tech-crime-unit]] | national-cybercrime-unit | [[france]] | Acts as the French specialist police channel in cyber-extortion investigations that require cross-border arrests or evidence support.; Coordinates with Europol and foreign police partners when French suspects, victims, or warrants intersect with foreign infrastructure or custody. | 1 | 1 |
 | [[france-gendarmerie-nationale]] | national-gendarmerie | [[france]] | Parent organization for [[france-gendarmerie\|C3N]] and the Gendarmerie's cyber-investigative architecture.; Provides national and regional investigative capacity for serious cyber-enabled crime, dark-web investigations, and international cooperation. | 7 | 4 |
 | [[ireland-garda-siochana]] | national-police | [[ireland]] | Conducts Irish-side searches, arrests, charging activity, bank-account blocking, and recovery work in fraud and laundering operations.; Acts as a recurring national participant in INTERPOL-led Operation Jackal / Operation Skein activity. | 2 | 3 |
@@ -128,7 +128,7 @@ updated: 2026-04-08
 | [[singapore-police]] | national-unit | Singapore | — | 6 | 7 |
 | [[south-africa-hawks]] | national-unit | South Africa | SAPS specialized unit for organized crime, economic crime, and serious cybercrime.; Primary South African police-side node for serious cybercrime investigation when DPCI is named. | — | 3 |
 | [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 10 | 2 |
-| [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 13 | 3 |
+| [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 14 | 4 |
 | [[sweden-police]] | national-unit | Stockholm, Sweden | — | 14 | 5 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 10 | 4 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 6 | 4 |

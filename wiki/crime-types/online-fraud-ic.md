@@ -83,6 +83,7 @@ notable_operations:
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
+  - "[[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -100,7 +101,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 76
+source_count: 77
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -178,8 +179,9 @@ sources:
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
+  - "[[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica]]"
 created: 2026-04-08
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -317,3 +319,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [74] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
 | [75] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
 | [76] | [[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia\|Operation PANDORA — 12 phone-fraud call-centres takedown (DE-led; AL+BA+XK+LB call-centres + SI victims; 21 detained, 39 identified)]] | Slovenska policija | 2024-05-03 | https://www.policija.si/eng/newsroom/news-archive/news-archive/121805-victims-also-from-slovenia-europol-s-international-operation-pandora-shuts-down-12-phone-fraud-call-centres |
+| [77] | [[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica\|PT-ES EAW surrender of Luso-Angolan cyber-fraud + money-laundering suspect (PT+ES+UK+AO; Caya/Elvas border surrender)]] | Polícia Judiciária (Portugal) | 2025-09-22 | https://www.policiajudiciaria.pt/detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica/ |

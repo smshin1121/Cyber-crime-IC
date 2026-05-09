@@ -1615,3 +1615,15 @@
   - Cooperation pattern: Europol J-CAT operational coordination + EC3 information exchange + analysis. National authorities for the 19 jurisdictions handled action-day coordination.
   - L19/L23-strict applied: 14 agency wikilinks all backed by tier-1 source naming AND existing wiki org pages. Agencies whose org pages don't yet exist (Hungary NNI Cybercrime, Iceland NCP, NZ Police, Belgium DJSOC, Republika Srpska MoI) described in body prose only.
   - legal_basis: [] kept empty per L23 (sources don't enumerate specific JIT/MLAT/EAW instruments — buyer-side phase delegated to national authorities).
+
+## [2026-05-09] ingest | PT-ES EAW surrender of Luso-Angolan cyber-fraud + money-laundering suspect (2025-09-22)
+- Source: raw/press-releases/2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica.md (Polícia Judiciária Portugal; pt)
+- Pages created: wiki/sources/..., wiki/operations/portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025.md (provisional, source_count=1).
+- Pages updated: 4 country pages (PT, ES, UK, AO), 2 agencies (portugal-policia-judiciaria, spain-national-police), 2 crime-types (online-fraud-ic, money-laundering-ic), 2 mechanisms (european-arrest-warrant, extradition).
+- Key findings:
+  - **First wiki record sourced from policiajudiciaria.pt** (Portuguese Polícia Judiciária) — first Portuguese-language tier-1 IC primary in wiki.
+  - Single-defendant cyber-fraud + money-laundering case demonstrating routine EAW execution arc: PT investigation 2024 (DIAP da Amadora, PJ UNC3T + UCI) → suspect resided UK from April 2025 → ES arrest Sep 2025 → Caya/Elvas border surrender → Criminal Court of Amadora preventive detention.
+  - 4-country IC scope (PT prosecuting, ES executing, UK residence, AO suspect dual-nationality).
+  - **Routine EAW pattern documented**: matured domestic investigation + EAW + bilateral PT-ES surrender without Eurojust/Europol involvement. Benchmark for "no JIT/no MLA" baseline cooperation in established EU bilateral channels.
+  - Modus operandi documented verbatim: cyber-fraud proceeds laundered through online-gaming platforms — gaming-platform laundering layer recorded in wiki for the first time as primary-source-attested.
+  - L19/L23-strict applied: only [[portugal-policia-judiciaria]] and [[spain-national-police]] in participating_agencies (named in tier-1 source AND wiki org pages exist). UK and Angolan agencies NOT in participating_agencies (not named at agency level in source).

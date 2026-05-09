@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (787)
+# Sources (788)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -159,6 +159,7 @@ updated: 2026-04-14
 | [[2025-09-23_decripto-org_eurojust-dismantles-eur-100-million-crypto-scam-five-arrests-and-seizures]] | news | Decripto | ? | medium | ? |
 | [[2025-09-23_721news-com_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 721news | ? | medium | ? |
 | [[2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | news | 112WWFT | ? | medium | ? |
+| [[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica]] | press-release | Policia Judiciaria (Portugal) | 1 | high | ? |
 | [[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers]] | press-release | UK National Crime Agency (with City of London Police; Crown Prosecution Service quoted) | ? | high | ? |
 | [[2025-09-18_justice-gov_united-kingdom-national-charged-multiple-cyber-attacks-jubair]] | press-release | U.S. Department of Justice — Office of Public Affairs (with U.S. Attorney's Office for the District of New Jersey, Criminal Division (CCIPS), Office of International Affairs, and FBI Cyber Division / FBI Newark Field Office) | ? | high | ? |
 | [[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |

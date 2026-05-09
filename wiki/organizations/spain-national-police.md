@@ -39,17 +39,19 @@ operations_participated:
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
   - "[[operation-otf-grimm]]"
+  - "[[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]]"
 notable_cases:
 
 contact_point_for:
   - "[[24-7-network]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-18_policia-es_bcit]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica]]"
 created: 2026-04-10
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 ---
 ## Summary
