@@ -36,17 +36,19 @@ operations_participated:
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
+  - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
 org_type: national-unit
 parent_org: "[[knpa]]"
 predecessor: ""
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
+  - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
 status: reorganized
 successor: ""
 title: "KNPA Cybercrime Enforcement Organization (경찰청 사이버범죄 수사조직)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 > [!warning] Status — Reorganized (as of 2023-12)
 > The standalone **경찰청 사이버수사국** (KNPA Cyber Investigation Bureau) was dissolved in late 2023 and its functions were absorbed into **경찰청 국가수사본부 수사국**, with a new **사이버수사심의관 (Cyber Investigation Deliberation Officer)** position created inside 수사국 at *deputy-director level* rather than bureau-director level. As of 2026-04-10 the **사이버수사국 no longer exists**; cybercrime investigation is conducted by the 사이버수사심의관 and 사이버수사과 within 수사국. A re-establishment of 사이버안전국 is under active consideration but has not yet been enacted (see [Current Status](#current-status-as-of-2026-04-10) below).
@@ -173,3 +175,4 @@ As a Korean national agency, this unit **is** the primary Korean operational ent
 | [4] | 경찰청, 사이버안전국·여청안전국 신설 추진…통합 3년 만에 재편 | 뉴시스 (Newsis) | 2026-04-06 | https://www.newsis.com/view/NISX20260406_0003578778 |
 | [5] | 국가수사본부 | 위키백과 | — | https://ko.wikipedia.org/wiki/%EA%B5%AD%EA%B0%80%EC%88%98%EC%82%AC%EB%B3%B8%EB%B6%80 |
 | [6] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition (KR+LT+GE; 사이버테러대응과 박우현 사이버수사심의관 spokesperson)]] | 경찰청 국가수사본부 사이버테러대응과 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |
+| [7] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |

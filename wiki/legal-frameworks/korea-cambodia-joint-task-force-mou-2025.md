@@ -18,7 +18,7 @@ parties:
   states_parties: 2
   signatories: 2
   notable_non_parties:
-    []
+
 key_provisions:
   - article: "(MOU body, signed 2025-11-10 in Phnom Penh)"
     topic: "Joint operational task force handling the entire process from report receipt to rescue, investigation, and suspect repatriation for cases involving Korean nationals"
@@ -45,11 +45,13 @@ operations_enabled:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
-source_count: 1
+  - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
+source_count: 2
 sources:
   - "[[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing]]"
+  - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -105,3 +107,4 @@ The 2025-11-10 MOU is, on its face, a primarily-bilateral arrangement, but it is
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | [[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing\|조현 외교장관 캄보디아 방문 결과 — 한-캄보디아 공동 전담반(코리아전담반) MOU 서명]] | 외교부 + 경찰청 (Korea.kr 정책브리핑 / overseas.mofa.go.kr) | 2025-11-10 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156727324 |
+| [2] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |

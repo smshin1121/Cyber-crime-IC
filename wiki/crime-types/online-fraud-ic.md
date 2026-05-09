@@ -96,6 +96,7 @@ notable_operations:
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
+  - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -113,7 +114,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 89
+source_count: 90
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -204,6 +205,7 @@ sources:
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
   - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
   - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
+  - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -356,3 +358,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [87] | [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits\|AFP intelligence leads to 8 arrests over Malaysia-based phishing-kit-as-a-service syndicate cloning AU myGov, MY and US Government services; 4 servers + 60+TB seized]] | Australian Federal Police (AFP) | 2023-11-27 | https://www.afp.gov.au/news-centre/media-release/afp-intelligence-leads-eight-arrests-over-phishing-kits |
 | [88] | [[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham\|AFP-USSS Operation Wickham — Melbourne man charged in Changjiang/Long River laundering of US investment-fraud proceeds (Oct 2023); AUD 21M restrained, AUD 100M+ allegedly laundered]] | Australian Federal Police (AFP) | 2023-10-26 | https://www.afp.gov.au/news-centre/media-release/melbourne-man-charged-laundering-cybercrime-victims-money |
 | [89] | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states\|Eurojust — main suspect in EUR 6M Swedish bank-employee-impersonation fraud extradited from US to Sweden (2026-04-10); 25 victims, action day Nov 2024 → 3 arrests US+SE]] | Eurojust | 2026-04-11 | https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states |
+| [90] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |

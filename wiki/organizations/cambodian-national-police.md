@@ -23,15 +23,17 @@ cooperation_partners:
 operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[korea-cambodia-scam-repatriation]]"
+  - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
 notable_cases:
-  []
+
 contact_point_for:
-  []
-source_count: 1
+
+source_count: 2
 sources:
   - "[[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing]]"
+  - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 frameworks_administered:
   - "[[korea-cambodia-joint-task-force-mou-2025]]"

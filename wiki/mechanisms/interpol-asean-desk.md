@@ -3,7 +3,7 @@ type: mechanism
 title: "INTERPOL ASEAN Desk"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-04-29
+updated: 2026-05-10
 source_count: 4
 sources:
   - "[[2020-01-01_interpol-int_interpol-report-highlights-key-cyberthreats-in-southeast-asia]]"
@@ -13,6 +13,7 @@ sources:
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
 ---
 ## Summary
 

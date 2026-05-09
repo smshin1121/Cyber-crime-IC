@@ -2001,3 +2001,30 @@
   - Eurojust Austria-Albania €50M call-centre fraud (April 2026) — already covered (albania-austria-call-centre-investment-fraud-2026.md).
   - Latvia-Ukraine Dnipro fraud call-centre (Feb 2026) — already covered (dnipro-fraudulent-call-centre-takedown-2026.md).
 - Backlinks applied (orchestrator follow-up): 3 country pages (germany, canada, united-states); 5 agencies (germany-bka, fbi, us-doj, us-dcis, canada-rcmp-federal-policing); 2 crime-types (ddos-ic, cybercrime-infrastructure-ic); mechanisms/informal-cooperation. Note: agent originally used `[[usdoj]]` (thin stub) → orchestrator switched to canonical `[[us-doj]]` for entity normalization (CLAUDE.md rule 19). 8 reference rows appended.
+
+## [2026-05-10] ingest | KNPA Korea-dedicated Squad Cambodia bilateral arrests (Iter 128)
+- Source: raw/press-releases/2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests.md (PDF attachment direct from korea.kr file 198362700)
+- Pages created:
+  - wiki/sources/2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests.md
+  - wiki/operations/knpa-cambodia-korea-task-force-redcorner-arrests-2026-02.md
+- Pages updated: none (no country/agency backlinks per task scope)
+- Key findings:
+  - KNPA tier-1 release confirms sustained Korea–Cambodia bilateral LE field cooperation through embedded Korea-dedicated Squad (코리아 전담반); 6 INTERPOL Red Notice arrests (2025-12-22 → 2026-02-10) plus 3 named Feb 2026 takedowns (₩8.4B + ₩10.6B in cited victim losses); cumulative 12 ops / 140 arrests / 4 rescues since Squad opening 2025-11.
+  - L24 satisfied: primary source explicitly names Cambodia National Police (캄보디아 경찰청) as cooperating LE partner with verbatim "한·캄 경찰 간 합동작전" attribution; bilateral (Korea + Cambodia), not adversary/origin-only.
+  - Materially distinct from existing Korea-Cambodia ops: korea-cambodia-scam-repatriation (earlier 2025 cohort), korea-cambodia-philippines-73-extradition-2026 (April 2026 73-person extradition), knpa-breaking-chains-2nd-international-operation-meeting-2026 (multilateral meeting). This page captures the discrete bilateral arrest sequence.
+  - First wiki-recorded primary-source datapoint on transnational fugitive concealment duration (~1 year 10 months avg for the 6 Red Notice subjects) and primary-source recognition of the balloon-effect (풍선효과) by KNPA International Police Cooperation Bureau Director-General Lee Jae-young.
+- Tier-1 fetch path: PDF attachment download via curl_cffi chrome120 (HTML resolved attachment URL) — bypasses Synap viewer iframe limitation noted in 2026-02-05 Breaking Chains source.
+
+## [2026-05-10] ingest | KNPA-Cambodia Korea-dedicated Squad Red Notice + compound cadre arrests (Dec 2025-Feb 2026)
+- Source: raw/press-releases/2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests.md (Korean National Police Agency via 대한민국 정책브리핑 korea.kr; ko).
+- Pages created: wiki/sources/2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests.md, wiki/operations/knpa-cambodia-korea-task-force-redcorner-arrests-2026-02.md (provisional, source_count=1).
+- Pages updated: countries/south-korea, countries/cambodia; 7 agencies (knpa, knpa-cyber-bureau, cambodian-national-police, seoul-metropolitan-police, ministry-of-foreign-affairs-korea, national-intelligence-service-korea, interpol); 4 crime-types (online-fraud-ic, voice-phishing-ic, money-laundering-ic, organized-crime-ic); 3 mechanisms (informal-cooperation, interpol-i24-7, interpol-asean-desk); legal-frameworks/korea-cambodia-joint-task-force-mou-2025.
+- Key findings:
+  - **First wiki record from korea.kr 정책브리핑** (Korean state policy briefing portal) — new tier-1 publisher distributing KNPA official statement with full PDF attachment under KOGL.
+  - **First wiki record of 코리아 전담반 (Korea-dedicated Squad)** Cambodia bilateral op — operationalisation of the Korea-Cambodia Joint Task Force MOU (already in wiki); embedded liaison + Korean police attaché (경찰주재관) model.
+  - **6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns** (manager-class, including 2 organisation 총책 + 1 head of Korean-victim money laundering at the Taizi 태자 단지 compound in Sihanoukville/Bavet zone).
+  - **Cumulative since 2025-11**: 12 ops, 4 Korean nationals rescued, 140 organised-crime suspects arrested.
+  - **Datapoint**: average pre-arrest in-country concealment ~1 year 10 months for the 6 Red Notice subjects — primary-source datapoint on transnational fugitive concealment.
+  - L24 strict ≥2-country IC compliance verified verbatim from Korean release ("한·캄 경찰 간 합동작전").
+  - L23 strict applied: lead_agency=`[[knpa]]`; coordinating_body=`[[knpa]]`.
+  - 11 reference rows appended; 17 pages with `updated:` bumped.

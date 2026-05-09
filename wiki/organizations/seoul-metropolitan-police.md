@@ -1,39 +1,41 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: "[[south-korea]]"
-jurisdiction: [[south-korea]]
+jurisdiction:
+
 created: 2026-04-08
 established: 1945-10-21
 frameworks_administered:
-  []
+
 headquarters: "Jongno-gu, Seoul, South Korea"
 key_roles:
-  []
+
 last_verified: 2026-04-10
 mandate: "Metropolitan police agency for the Seoul Special City under the Korea National"
 mechanisms_operated:
-  []
+
 member_states: 0
 notable_cases:
-  []
+
 official_name: "Seoul Metropolitan Police Agency"
 official_name_ko: "서울특별시경찰청"
 operations_participated:
   - "[[korea-china-voice-phishing-qingdao]]"
+  - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
 org_type: national-unit
 parent_org: "[[knpa]]"
-source_count: 3
+source_count: 4
 sources:
-  []
+  - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
 status: active
 title: "Seoul Metropolitan Police Agency (SMPA)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-10
 ---
 > [!info] Status — Active (parent org structure noted)
 > The **Seoul Metropolitan Police Agency (서울특별시경찰청, SMPA)** is active and not directly affected by the 2023 KNPA national-level reorganization that dissolved the standalone 경찰청 사이버수사국. SMPA's parent is the [[knpa|KNPA (Korea National Police Agency)]], not [[knpa-cyber-bureau]] directly — the prior `parent_org` wikilink has been corrected. SMPA underwent a **structural reorganization on 2023-10-30** into a 3-차장 체제 (Public Safety / Investigation / Everyday Life), 7 divisions, 26 departments, and 31 precincts [1][2].
@@ -75,3 +77,4 @@ SMPA has conducted bilateral cooperation with Chinese police on voice phishing c
 | [1] | 서울특별시경찰청 (연혁·조직) | 나무위키 | n.d. | https://namu.wiki/w/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%EA%B2%BD%EC%B0%B0%EC%B2%AD |
 | [2] | 서울경찰청 공식 사이트 | 서울특별시경찰청 | n.d. | https://www.smpa.go.kr/user/nd48138.do |
 | [3] | 사이버수사대 (정확한 현재 명칭: 사이버수사과/사이버수사팀) | 나무위키 | n.d. | https://namu.wiki/w/%EC%82%AC%EC%9D%B4%EB%B2%84%EC%88%98%EC%82%AC%EB%8C%80 |
+| [4] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |

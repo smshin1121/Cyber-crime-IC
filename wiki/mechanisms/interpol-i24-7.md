@@ -3,7 +3,7 @@ type: mechanism
 title: "INTERPOL I-24/7"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-09
+updated: 2026-05-10
 source_count: 4
 sources:
   - "[[2025-01-01_interpol-int_interpol-s-asian-conference-to-address-regional-crime-threats]]"
@@ -15,6 +15,7 @@ operations_using:
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
 ---
 ## Summary
 

@@ -68,9 +68,9 @@ total: 61
 | 🇯🇴 | [[jordan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 1 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
-| 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 3 |
+| 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 4 |
 | 🇰🇵 | [[north-korea]] | socialist-civil-law | — | very-low | 180+ | 1 |
-| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 24 |
+| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 25 |
 | 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 1 |
 | 🇱🇦 | [[laos]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | not-assessed | — | unknown | unknown | 1 |

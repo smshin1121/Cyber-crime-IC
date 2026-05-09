@@ -68,13 +68,15 @@ operations_participated:
   - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
   - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
+  - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
 org_type: international-org
 parent_org: ""
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
   - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
+  - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
 status: active
 title: "INTERPOL (International Criminal Police Organization)"
 type: organization
@@ -271,6 +273,7 @@ Korea's relationship with INTERPOL is *almost certainly* among the most active a
 | [5] | [[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest\|Hakkari illegal betting + qualified-fraud network — Sarajevo Red Notice arrest (TR+BA, 53 detentions, ~20bn TL traffic)]] | Anadolu Ajansı (T.C. İçişleri Bakanlığı reproduction) | 2026-03-31 | https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-ve-nitelikli-dolandiriciliga-yonelik-operasyonlarda-53-supheli-yakalandi/3887096 |
 | [6] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition — Lithuanian hacker arrested in Georgia via Red Notice (KR+LT+GE; 2.8M malware copies, 234 victim countries)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |
 | [7] | [[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest\|Polri Tribrata News — INTERPOL Red Notice arrest of LCS at Soekarno-Hatta (May 2026); Cambodia-base 'abbishopee' online-fraud network; 23+ Laporan Polisi consolidated under Dittipidsiber Bareskrim]] | Indonesian National Police (Polri) — Tribrata News national newsroom | 2026-05-05 | https://tribratanews.polri.go.id/dnews/47828/penyamarannya-terbongkar-buronan-interpol-asal-indonesia-tertangkap-di-soekarno-hatta |
+| [8] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
 
 > [!note]
 > The original page body was created from general knowledge (source_count: 0 in frontmatter). The Current Status section above is verified against web sources as of 2026-04-10. Detailed historical operational statistics should be verified against INTERPOL press releases and annual reports.

@@ -53,8 +53,9 @@ operations_participated:
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
+  - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
 region: east-asia
-source_count: 24
+source_count: 25
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
   - "[[2024-12-02-interpol-operation-haechi-v]]"
@@ -70,6 +71,7 @@ sources:
   - "[[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos]]"
   - "[[2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms]]"
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
+  - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
 title: "Republic of Korea (South Korea)"
 treaty_memberships:
   - date: 2023-02
@@ -82,7 +84,7 @@ treaty_memberships:
     reservations: ""
     status: under-review
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 > [!warning] Status — Major reorganization of prosecution system pending (2026-10-02)
 > On **2026-10-02** the [[supreme-prosecutors-office-korea|대검찰청 (Supreme Prosecutors' Office)]] will be **abolished** after 78 years and replaced by two new bodies: **공소청 (Prosecution Service, under 법무부)** for prosecution only, and **중대범죄수사청 / 중수청 (Serious Crimes Investigation Agency, under 행정안전부)** for investigation of six serious-crime categories including **cybercrime**. This is a fundamental restructuring of Korea's criminal justice architecture and will reshape how foreign partners engage with Korea on cybercrime MLAT, extradition, and investigative cooperation. See [[supreme-prosecutors-office-korea]] and [[spo-international-cooperation]] for details. Until 2026-09-30 the existing SPO structure remains in effect.
@@ -314,3 +316,4 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [22] | [[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos\|Russian Ransomware Administrator Pleads Guilty (Phobos / Ptitsyn — extradited from South Korea Nov 2024)]] | US DOJ USAO-Maryland | 2026-03-04 | https://www.justice.gov/usao-md/pr/russian-ransomware-administrator-pleads-guilty-wire-fraud-conspiracy |
 | [23] | [[2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms\|Two U.S. Nationals Sentenced for Facilitating DPRK IT Worker Schemes (refers to October 2023 joint US-ROK guidance)]] | US DOJ (OPA) | 2026-05-07 | https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker-0 |
 | [24] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition — Lithuanian hacker arrested in Georgia via Red Notice (KR+LT+GE; 8 KR victims, ₩16M loss; 5y4m investigation)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |
+| [25] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
