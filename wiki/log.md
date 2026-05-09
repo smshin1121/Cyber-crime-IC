@@ -1676,3 +1676,15 @@
 - Source-count total: 9,343 across 2,761 pages (Δ +142 source-count across +16 pages since iter 100 milestone)
 - Freshness audit: 248 pages at 2026-05-09 + several at 2026-05-10 (touched-page `updated:` bumps from 9 iters of backlinker-driven freshness remediation working as designed)
 - Touched 21 unique tier-1 publishers across iters 101-110: politsei.ee, sputnik.kz, policie.gov.cz (PATHFINDER), cbzc.policja.gov.pl (Kraków + Aether), policija.si, politi.dk, policiajudiciaria.pt, web.guardiacivil.es, eurojust.europa.eu (LoopX). Spans 30+ countries (DE, EE, US, UA, KZ, AM, GE/IR/SY/LB, CZ, AL, BA, XK, LB, SI, PL, ES, HU, RO, GR, IT, BE, NL, DK, AU, AT, FI, FR, IS, NZ, NO, CH, UK, PT, AO, BR, CY).
+
+## [2026-05-10] ingest | SG-HK-MY tri-lateral GSM gateway scam syndicate takedown — FRONTIER+ umbrella (April-June 2025)
+- Source: raw/press-releases/2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown.md (Singapore Police Force PAD; en)
+- Pages created: wiki/sources/..., wiki/operations/sg-hk-my-gsm-gateway-scam-takedown-2025.md (provisional, source_count=1).
+- Pages updated: 3 country pages (SG, HK, MY), 3 agencies (singapore-police, hong-kong-police, royal-malaysia-police), 3 crime-types (voice-phishing-ic, online-fraud-ic, cybercrime-infrastructure-ic), 2 mechanisms (informal-cooperation, extradition).
+- Key findings:
+  - **First wiki record of FRONTIER+ second joint operation** (operationally distinct from existing FRONTIER+ first joint op covered in `frontier-plus-cross-border-anti-scam-2025`). Two-month sustained tri-lateral takedown April-June 2025.
+  - 11 persons aged 24-48 arrested across SG+HK+MY. **226 GSM gateway devices seized** (SG: 75, HK: 141, MY: 10).
+  - 29-y-o suspect arrested in Malaysia 2025-06-03, **handed over to Singapore and charged 2025-06-05** under Penal Code ss. 420 r/w 120B (max 10 years + fine) — fast cross-border surrender pattern documented.
+  - **VoIP GSM gateway infrastructure pattern** documented: cloud-based remote OS linking GSM mobile networks across the three jurisdictions to disguise call origin. Modus operandi benchmark for transnational scam-call infrastructure.
+  - SPF units: CAD + CID + PID. Senior officer quote: David Chew (Director CAD).
+  - L19/L23-strict applied: 3 wikilinked agencies all named in source AND wiki org pages exist.

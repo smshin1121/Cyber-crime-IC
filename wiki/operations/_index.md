@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (237 canonical / 27 absorbed / 264 records)
+# Operations (238 canonical / 27 absorbed / 265 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (237)
+## Canonical Operations (238)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -113,7 +113,7 @@ updated: 2026-04-14
 | [[operation-final-exchange-bka-russian-crypto-exchanges-2024]] | CYB-2024-099 | 2 | completed | — | 6 | 3.80 | 1 |
 | [[operation-magnus-redline-meta-stealer-takedown-2024]] | CYB-2024-100 | 2 | completed | — | 1 | — | — |
 | [[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]] | CYB-2024-101 | 2 | completed | — | 1 | — | 1 |
-| [[austrian-crypto-coin-loopx-takedown-2024]] | CYB-2024-105 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[austrian-crypto-coin-loopx-takedown-2024]] | CYB-2024-105 | 3 | completed | — | 2 | 4.00 | 1 |
 | [[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]] | CYB-2024-105 | 2 | completed | — | 1 | — | 1 |
 | [[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]] | CYB-2024-106 | 2 | ongoing | — | 1 | 4.60 | 1 |
 | [[bohemia-cannabia-darknet-marketplace-takedown-2024]] | CYB-2024-107 | 2 | completed | — | 1 | 4.00 | 1 |
@@ -195,6 +195,7 @@ updated: 2026-04-14
 | [[frontier-plus-cross-border-anti-scam-2025]] | CYB-2025-FRONTIER-PLUS-01 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]] | CYB-2025-KZ-AM-001 | 3 | ongoing | — | 1 | 3.40 | 1 |
 | [[operation-octopus-investment-fraud-czechia-ukraine-2025]] | CYB-2025-OCTOPUS-CZ | 3 | completed | — | 1 | 4.00 | 1 |
+| [[sg-hk-my-gsm-gateway-scam-takedown-2025]] | CYB-2025-SG-HK-MY-GSM-01 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]] | CYB-2025-VN-BOKOR | 3 | completed | — | 1 | 4.00 | 1 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |

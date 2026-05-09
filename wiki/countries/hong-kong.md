@@ -7,15 +7,16 @@ legal_system: not-assessed
 operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
 region: east-asia
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
 title: "Hong Kong Special Administrative Region"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-03
+updated: 2026-05-10
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

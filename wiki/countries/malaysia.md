@@ -10,15 +10,16 @@ operations_participated:
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
 region: southeast-asia
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
 title: Malaysia
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

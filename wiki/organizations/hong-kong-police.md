@@ -32,15 +32,16 @@ official_name: "Hong Kong Police Force, Cyber Security and Technology Crime Bure
 operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
 org_type: national-unit
 parent_org: "[[hong-kong-police]]"
-source_count: 5
+source_count: 6
 sources:
-
+  - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
 status: active
 title: "Hong Kong Police Force — Cyber Security and Technology Crime Bureau"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -132,3 +133,4 @@ CSTCB's cooperation capacity is *likely* strong on routine fraud and cybercrime 
 | [3] | Cybersecurity Report 2024 | Hong Kong Police Force | 2024 | https://www.police.gov.hk/ppp_en/04_crime_matters/tcd/cybersecurityreport2024.html |
 | [4] | LCQ7: Manpower of the Police for tackling technology crimes | HKSAR Government | 2024-07-17 | https://www.info.gov.hk/gia/general/202407/17/P2024071700218.htm |
 | [5] | Digital Policy Office introduces initiatives to promote cybersecurity in 2025 | HKSAR Government | 2025-03-27 | https://www.info.gov.hk/gia/general/202503/27/P2025032700270.htm |
+| [6] | [[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown\|SG-HK-MY tri-lateral GSM gateway scam syndicate takedown — 11 arrests, 226 GSM gateways seized; FRONTIER+ umbrella]] | Singapore Police Force (Public Affairs Dept) | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_11_persons_arrested_in_a_joint_enforcement_operation_against_a_transnational_scam_syndicate |

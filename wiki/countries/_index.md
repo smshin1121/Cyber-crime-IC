@@ -54,7 +54,7 @@ total: 61
 | 🇬🇷 | [[greece]] | not-assessed | — | unknown | unknown | 1 |
 | 🇬🇹 | [[guatemala]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇾 | [[guyana]] | not-assessed | — | unknown | unknown | 0 |
-| 🇭🇰 | [[hong-kong]] | not-assessed | — | unknown | unknown | 0 |
+| 🇭🇰 | [[hong-kong]] | not-assessed | — | unknown | unknown | 1 |
 | 🇭🇳 | [[honduras]] | not-assessed | — | unknown | unknown | 0 |
 | 🇭🇷 | [[croatia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇭🇺 | [[hungary]] | civil-law | not-assessed | unknown | unknown | 4 |
@@ -84,7 +84,7 @@ total: 61
 | 🇲🇹 | [[malta]] | not-assessed | — | unknown | unknown | 1 |
 | 🇲🇺 | [[mauritius]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇽 | [[mexico]] | not-assessed | — | unknown | unknown | 1 |
-| 🇲🇾 | [[malaysia]] | not-assessed | — | unknown | unknown | 0 |
+| 🇲🇾 | [[malaysia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇳🇬 | [[nigeria]] | not-assessed | — | unknown | unknown | 0 |
 | 🇳🇮 | [[nicaragua]] | not-assessed | — | unknown | unknown | 0 |
 | 🇳🇱 | [[netherlands]] | civil-law | party (2006) | high | 60-120 | 7 |
@@ -102,7 +102,7 @@ total: 61
 | 🇷🇺 | [[russia]] | civil-law | non-party | low | 180+ | 4 |
 | 🇷🇼 | [[rwanda]] | mixed | party (2025) | medium | unknown | 3 |
 | 🇸🇪 | [[sweden]] | not-assessed | — | unknown | unknown | 2 |
-| 🇸🇬 | [[singapore]] | not-assessed | — | unknown | unknown | 0 |
+| 🇸🇬 | [[singapore]] | not-assessed | — | unknown | unknown | 1 |
 | 🇸🇮 | [[slovenia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇸🇷 | [[suriname]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇸 | [[south-sudan]] | not-assessed | — | unknown | unknown | 0 |

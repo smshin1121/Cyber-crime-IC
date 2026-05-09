@@ -49,6 +49,7 @@ notable_operations:
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
 notable_cases:
 
 criminalization_status:
@@ -57,7 +58,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "South Korea reports large recurring domestic losses; global phone-enabled fraud loss is not consistently separated from wider online-fraud statistics."
-source_count: 26
+source_count: 27
 sources:
   - "[[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]]"
   - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
@@ -85,8 +86,9 @@ sources:
   - "[[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting]]"
   - "[[2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition]]"
   - "[[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
 created: 2026-04-08
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -175,3 +177,4 @@ This distinction prevents the SNA from silently merging all online fraud into vo
 | [24] | [[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting\|경찰청 「Breaking Chains 제2차 국제공조 회의」 — 22-국 합동 동남아 스캠 단속 (브레이킹 체인스)]] | 경찰청 (Korea.kr 정책브리핑) | 2026-02-05 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156743085 |
 | [25] | [[2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition\|서울동부지검 합수부 — Clark, Philippines 보이스피싱 콜센터 4명 강제송환 + 인지구속기소 (KR+PH+INTERPOL)]] | 서울동부지방검찰청 (SPO Korea) | 2026-04-30 | https://www.spo.go.kr/site/spo/main.do |
 | [26] | [[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025\|FRONTIER+ Cross-border Anti-Scam Collaboration Platform 1st joint operation (HK+MO+MY+MV+SG+KR+TH; 1,858 arrests)]] | HKSAR Government (info.gov.hk) | 2025-06-03 | https://www.info.gov.hk/gia/general/202506/03/P2025060300475.htm |
+| [27] | [[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown\|SG-HK-MY tri-lateral GSM gateway scam syndicate takedown — 11 arrests, 226 GSM gateways seized; FRONTIER+ umbrella]] | Singapore Police Force (Public Affairs Dept) | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_11_persons_arrested_in_a_joint_enforcement_operation_against_a_transnational_scam_syndicate |

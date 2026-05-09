@@ -91,7 +91,7 @@ updated: 2026-04-08
 | [[france-gendarmerie-nationale]] | national-gendarmerie | [[france]] | Parent organization for [[france-gendarmerie\|C3N]] and the Gendarmerie's cyber-investigative architecture.; Provides national and regional investigative capacity for serious cyber-enabled crime, dark-web investigations, and international cooperation. | 7 | 4 |
 | [[ireland-garda-siochana]] | national-police | [[ireland]] | Conducts Irish-side searches, arrests, charging activity, bank-account blocking, and recovery work in fraud and laundering operations.; Acts as a recurring national participant in INTERPOL-led Operation Jackal / Operation Skein activity. | 2 | 3 |
 | [[polizia-di-stato]] | national-police | [[italy]] | Parent organization for [[italy-polizia-postale\|Italy Postal Police and Cyber Security Service]].; Provides State Police participation in cyber-enabled fraud, ransomware-support infrastructure, and communications-security cases. | 5 | 3 |
-| [[royal-malaysia-police]] | national-police | Bukit Aman, Kuala Lumpur, Malaysia | Parent organization for [[malaysia-police\|Commercial Crime Investigation Department cybercrime work]].; Participates in ASEAN and INTERPOL-facing cyber-enabled fraud and online child-protection cooperation. | 5 | 3 |
+| [[royal-malaysia-police]] | national-police | Bukit Aman, Kuala Lumpur, Malaysia | Parent organization for [[malaysia-police\|Commercial Crime Investigation Department cybercrime work]].; Participates in ASEAN and INTERPOL-facing cyber-enabled fraud and online child-protection cooperation. | 6 | 4 |
 | [[thai-royal-police]] | national-police | [[thailand]] | Executes foreign arrest requests and domestic enforcement actions in cybercrime cases with a Thailand nexus.; Parent institution for Thailand's [[thailand-royal-police\|Cyber Crime Investigation Bureau]] cybercrime capability. | 4 | 4 |
 | [[china-mps-cyber]] | national-police-cyber-function | [[china]] | Represents MPS-linked cybercrime enforcement and cyber-policing references in the corpus.; Supports or directs Chinese-side action in online fraud, telecom scam, and state-linked cybercrime cases depending on source context. | 3 | 3 |
 | [[canada-rcmp-federal-policing]] | national-police-division | [[canada]] | Parent operational context for the RCMP National Cybercrime Coordination Centre.; Supports Canadian federal law-enforcement participation in multinational cybercrime investigations. | 4 | 2 |
@@ -110,7 +110,7 @@ updated: 2026-04-08
 | [[dutch-nhtcu]] | national-unit | Netherlands | Legacy label for the Dutch National High Tech Crime Unit in older botnet, marketplace, and infrastructure-disruption records.; Routes detailed Dutch policing context to [[netherlands-politie]]. | 3 | 3 |
 | [[france-gendarmerie]] | national-unit | Pontoise, France | — | 10 | 6 |
 | [[france-national-police]] | national-unit | Nanterre, France | — | 11 | 4 |
-| [[hong-kong-police]] | national-unit | Hong Kong SAR | Primary Hong Kong law enforcement unit for cybercrime and cyber security; Technology Crime Division — cybercrime investigation | 2 | 5 |
+| [[hong-kong-police]] | national-unit | Hong Kong SAR | Primary Hong Kong law enforcement unit for cybercrime and cyber security; Technology Crime Division — cybercrime investigation | 3 | 6 |
 | [[ic3]] | national-unit | Washington, D.C. / West Virginia, United States | — | 1 | 4 |
 | [[ireland-garda]] | national-unit | Dublin, Ireland | National cybercrime investigation.; Digital forensics and cybercrime support for serious investigations. | 4 | 3 |
 | [[italy-polizia-postale]] | national-unit | Rome, Italy | Cybercrime investigation; Online child-protection investigations | 9 | 4 |
@@ -125,7 +125,7 @@ updated: 2026-04-08
 | [[portugal-police]] | national-unit | Lisbon, Portugal | — | 2 | 0 |
 | [[romania-police]] | national-unit | Bucharest, Romania | — | 3 | 0 |
 | [[seoul-metropolitan-police]] | national-unit | Jongno-gu, Seoul, South Korea | — | 1 | 3 |
-| [[singapore-police]] | national-unit | Singapore | — | 6 | 7 |
+| [[singapore-police]] | national-unit | Singapore | — | 7 | 8 |
 | [[south-africa-hawks]] | national-unit | South Africa | SAPS specialized unit for organized crime, economic crime, and serious cybercrime.; Primary South African police-side node for serious cybercrime investigation when DPCI is named. | — | 3 |
 | [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 11 | 3 |
 | [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 14 | 4 |
