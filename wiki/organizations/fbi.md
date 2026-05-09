@@ -103,14 +103,16 @@ operations_participated:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
+  - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers]]"
   - "[[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors]]"
   - "[[fbi-operation-shrouded-horizon]]"
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
+  - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
 status: active
 title: FBI
 type: organization
@@ -133,3 +135,4 @@ The FBI appears across DDoS, malware, darknet, botnet, and fraud records as a U.
 | [2] | [[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors|How to Identify and Remove VPN Applications That Contain 911 S5 Backdoors]] | Federal Bureau of Investigation | 2024-05-29 | https://www.fbi.gov/investigate/cyber/how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors |
 | [3] | [[fbi-operation-shrouded-horizon|FBI: Cyber Criminal Forum Taken Down (Operation Shrouded Horizon / Darkode)]] | FBI | 2015-07-15 | https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down |
 | [4] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting sentencing — FBI Washington FO + Counterterrorism Div + Legat Bucharest co-investigated]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |
+| [5] | [[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy\|Italy-FBI Riccione cyber-extortion arrest (US federal warrant executed by Italian Polizia Postale)]] | Polizia di Stato | 2025-07-31 | https://www.poliziadistato.it/articolo/arrestato-a-rimini-cybercriminale-internazionale |

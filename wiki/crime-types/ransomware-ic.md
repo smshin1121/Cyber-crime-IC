@@ -39,6 +39,7 @@ notable_operations:
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
   - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
   - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
+  - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-stryzhak-nefilim]]"
@@ -56,7 +57,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 27
+source_count: 28
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -85,6 +86,7 @@ sources:
   - "[[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933]]"
   - "[[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized]]"
   - "[[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel]]"
+  - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -280,3 +282,4 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [25] | [[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933\|Treasury Sanctions Mixer Used by the DPRK to Launder Stolen Virtual Currency (Sinbad.io)]] | US Department of the Treasury (OFAC), Press Release JY-1933 | 2023-11-29 | https://home.treasury.gov/news/press-releases/jy1933 |
 | [26] | [[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized\|Operation Final Exchange — 47 Russian-language no-KYC cryptocurrency exchanges seized]] | German BKA + GenStA Frankfurt am Main | 2024-09-19 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240919_PM_finalexchange.html |
 | [27] | [[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel\|North Korean Government Hacker Charged for Involvement in Ransomware Attacks Targeting U.S. Hospitals (Rim Jong Hyok / Andariel)]] | US DOJ (OPA) | 2024-07-25 | https://www.justice.gov/opa/pr/north-korean-government-hacker-charged-involvement-ransomware-attacks-targeting-us |
+| [28] | [[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy\|Italy-FBI Riccione cyber-extortion arrest of foreign national for US-targeted ransomware (IT+US, 2023-2025; "milioni di dollari" ransom demands)]] | Polizia di Stato | 2025-07-31 | https://www.poliziadistato.it/articolo/arrestato-a-rimini-cybercriminale-internazionale |

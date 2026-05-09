@@ -5,13 +5,14 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
-source_count: 5
+source_count: 6
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
   - "[[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown]]"
+  - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -26,6 +27,7 @@ operations_using:
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
   - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
+  - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
 ---
 ## Summary
 

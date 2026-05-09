@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (225 canonical / 27 absorbed / 252 records)
+# Operations (226 canonical / 27 absorbed / 253 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (225)
+## Canonical Operations (226)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -146,6 +146,7 @@ updated: 2026-04-14
 | [[operation-chakra-v]] | CYB-2025-022 | 3 | completed | umbrella | 3 | 3.10 | 3 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
 | [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | umbrella | 5 | 4.50 | 2 |
+| [[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]] | CYB-2025-085 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[oag-fedpol-real-time-phishing-uk-conviction-2025]] | CYB-2025-097 | 3 | completed | standalone | 3 | 4.20 | 1 |
 | [[fiscalia-colombia-criptoactivos-fraud-network-takedown-2025]] | CYB-2025-098 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]] | CYB-2025-110 | 3 | completed | — | 1 | 4.50 | 1 |

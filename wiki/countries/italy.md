@@ -44,8 +44,9 @@ operations_participated:
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
   - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
+  - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
 region: southern-europe
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-18_coe-int_italy-octopus-cybercrime-community-country-profile]]"
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
@@ -53,6 +54,7 @@ sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]]"
   - "[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]"
+  - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
 title: "Italian Republic"
 treaty_memberships:
   - date: 2008-06-05
