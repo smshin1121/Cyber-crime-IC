@@ -29,11 +29,12 @@ operations_participated:
   - "[[operation-power-off-2025-05]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[cbzc-krakow-money-laundering-jit-2025]]"
 org_type: national-unit
 parent_org: "Komenda Główna Policji (Police Headquarters, Ministry of Interior and"
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
 status: active
 title: "Central Bureau for Combating Cybercrime (CBZC) — Poland"
 type: organization
@@ -93,3 +94,4 @@ Specific operation attributions pending further source ingestion. Poland is *lik
 | [1] | Centralne Biuro Zwalczania Cyberprzestępczości | Wikipedia (pl) | n.d. | https://pl.wikipedia.org/wiki/Centralne_Biuro_Zwalczania_Cyberprzest%C4%99pczo%C5%9Bci |
 | [2] | Rok funkcjonowania Centralnego Biura Zwalczania Cyberprzestępczości | Informacyjny Serwis Policyjny (ISP) | 2023 | https://isp.policja.pl/isp/aktualnosci/17191,Rok-funkcjonowania-Centralnego-Biura-Zwalczania-Cyberprzestepczosci.html |
 | [3] | Ruszył proces doboru do Centralnego Biura Zwalczania Cyberprzestępczości | Polish Police (policja.pl) | 2022 | https://policja.pl/pol/aktualnosci/225154,Ruszyl-proces-doboru-do-Centralnego-Biura-Zwalczania-Cyberprzestepczosci.html |
+| [4] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |

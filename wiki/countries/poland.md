@@ -39,10 +39,11 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[cbzc-krakow-money-laundering-jit-2025]]"
 region: eastern-europe
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
 title: "Republic of Poland"
 treaty_memberships:
   - date: 2015-02-20
@@ -111,6 +112,7 @@ With CBZC's establishment in 2022, Poland has *highly likely* strengthened its i
 | [1] | Chart of Signatures and Ratifications of Treaty 185 | Council of Europe | 2025 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
 | [2] | About CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | Polish Police / CBZC | 2022 | https://cbzc.policja.gov.pl/ |
 | [3] | Poland establishes Central Bureau to fight cybercrime | CoE Cybercrime | 2022 | https://www.coe.int/en/web/cybercrime/-/poland-central-bureau |
+| [4] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
 
 > [!warning] Legal status check needed
 > Exact ratification date for Second Additional Protocol (CETS 224) should be verified against Council of Europe Treaty Office.

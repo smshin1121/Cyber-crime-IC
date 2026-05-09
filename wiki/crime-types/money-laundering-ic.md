@@ -66,6 +66,7 @@ notable_operations:
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
   - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
+  - "[[cbzc-krakow-money-laundering-jit-2025]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -80,7 +81,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 53
+source_count: 54
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -135,6 +136,7 @@ sources:
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
   - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
+  - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -245,3 +247,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [51] | [[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest\|GIGN-FBI Saint-Martin crypto-hacker arrest — USD 46M recovered + EUR 250K cash + Glock; mandat d'arrêt international + extradition]] | Gendarmerie nationale (France) | 2026-03-06 | https://www.gendarmerie.interieur.gouv.fr/presentation/a-l-international/cooperation-internationale-une-target-principale-interpellee-lors-d-une-operation-conjointe-du-gign-et-du-fbi-a-saint-martin |
 | [52] | [[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained\|KZ-AM Yerevan call-centre takedown — 41 detained (5 nationalities), cold crypto wallet + USD 30K + 1kg gold + 5 vehicles seized]] | Sputnik Kazakhstan (citing MIA RK) | 2025-02-18 | https://ru.sputnik.kz/20250218/politseyskie-kazakhstana-i-armenii-zaderzhali-internet-moshennikov-50945815.html |
 | [53] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
+| [54] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |

@@ -1571,3 +1571,18 @@
   - Call-centre infrastructure benchmark: 2-floor admin building, dedicated server room, physical guards, electronic alarm system, dozens of CCTV cameras. Hardened operational security typical of large fraud-as-a-service hubs.
   - Damage attribution: ≥9M CZK across ≥37 identified Czech victims; EU-wide damage in millions of EUR pending forensic analysis.
   - L19/L23-strict applied: agent backlinked czechia-police, czech-police, ukraine-sbu, eurojust correctly (all named in tier-1 source). Eurojust JIT framework, District State Prosecutor's Office in Hradec Králové (CZ), regional prosecutor's office in Zakarpattia (UA).
+
+## [2026-05-09] ingest | CBZC Kraków money-laundering JIT — PL+ES+CZ+HU Eurojust JIT, RO suspects, 5 cash-out countries (2025-12-16)
+- Source: raw/press-releases/2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary.md (Polish CBZC; pl)
+- Pages created: wiki/sources/..., wiki/operations/cbzc-krakow-money-laundering-jit-2025.md (provisional, source_count=1).
+- Pages updated: 4 country pages (PL, ES, CZ, HU), 3 agencies (poland-police, eurojust, czechia-police), 2 crime-types (money-laundering-ic, online-fraud-ic), 5 mechanisms (joint-investigation-team, eurojust-coordination-meeting, search-seizure, asset-freezing, electronic-evidence).
+- Key findings:
+  - **First wiki record sourced from cbzc.policja.gov.pl** (Polish Centralne Biuro Zwalczania Cyberprzestępczości — fresh Polish-language tier-1 distinct from existing FEVER ingest).
+  - **9 countries named in tier-1 source** — extraordinary IC scope: PL+ES+CZ+HU as JIT partners + RO (suspect nationality) + GR/IT/ES/BE/NL as cash-out countries. CBZC Kraków Branch leads under Prokuratura Regionalna w Krakowie.
+  - Money-mule cash-out infrastructure pattern: Romanian nationals using forged identity documents (>40 seized) to obtain Polish PESEL numbers → open Polish bank accounts → receive online-fraud proceeds → cash withdrawals across 5 EU member states (GR/IT/ES/BE/NL). ~EUR 2.23M + PLN 717K laundered.
+  - 12 charged, 10 in 3-month pretrial detention. Multi-country action days documented:
+    - 2025-12-05 Śląskie Voivodeship: 5 RO nationals arrested
+    - Czech action day: 3 CZ nationals arrested with direct CBZC Kraków + Czech police participation, 1 immediately remanded
+    - Hungarian action day: 1 additional suspect arrested
+  - Investigation explicitly marked "rozwojowy" (ongoing) with further action days planned domestically and abroad.
+  - L19/L23-strict applied: agent only added wikilinks for entities both named in tier-1 source AND with existing wiki org pages. Spain/Hungary country wikilinks retained but no Spanish/Hungarian agency wikilinks added.

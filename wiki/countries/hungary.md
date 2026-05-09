@@ -35,13 +35,15 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
+  - "[[cbzc-krakow-money-laundering-jit-2025]]"
 notable_cases:
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 cooperation_assessment: ""
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-02-05_coe-int_cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protoco]]"
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
+  - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
 created: 2026-04-11
 updated: 2026-05-09
 status: corpus-linked

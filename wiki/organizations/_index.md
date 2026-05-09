@@ -105,7 +105,7 @@ updated: 2026-04-08
 | [[bulgaria-police]] | national-unit | Sofia, Bulgaria | — | 6 | 2 |
 | [[canada-rcmp]] | national-unit | Ottawa, Ontario, Canada | — | 21 | 3 |
 | [[city-of-london-police-ip-crime-unit]] | national-unit | London, United Kingdom | Intellectual-property crime enforcement; International digital-piracy cooperation | 1 | 1 |
-| [[czechia-police]] | national-unit | Prague, Czech Republic | — | 6 | 4 |
+| [[czechia-police]] | national-unit | Prague, Czech Republic | — | 7 | 5 |
 | [[denmark-police]] | national-unit | Copenhagen, Denmark | — | 6 | 3 |
 | [[dutch-nhtcu]] | national-unit | Netherlands | Legacy label for the Dutch National High Tech Crime Unit in older botnet, marketplace, and infrastructure-disruption records.; Routes detailed Dutch policing context to [[netherlands-politie]]. | 3 | 3 |
 | [[france-gendarmerie]] | national-unit | Pontoise, France | — | 10 | 6 |
@@ -121,7 +121,7 @@ updated: 2026-04-08
 | [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 40 | 5 |
 | [[norway-kripos]] | national-unit | Norway | National criminal investigation service for serious and organized crime in Norway.; Institutional parent for [[norway-nc3\|Norway NC3]]. | 2 | 3 |
 | [[norway-nc3]] | national-unit | Norway | Norway's national cybercrime centre within [[norway-kripos\|Kripos]].; Cybercrime investigation and 24/7 contact-point context for Norway. | — | 1 |
-| [[poland-police]] | national-unit | ul. Wąwozowa 18, Warsaw, Poland | Nationwide cybercrime investigation; Cooperation with Europol EC3 and Interpol | 8 | 3 |
+| [[poland-police]] | national-unit | ul. Wąwozowa 18, Warsaw, Poland | Nationwide cybercrime investigation; Cooperation with Europol EC3 and Interpol | 9 | 4 |
 | [[portugal-police]] | national-unit | Lisbon, Portugal | — | 2 | 0 |
 | [[romania-police]] | national-unit | Bucharest, Romania | — | 3 | 0 |
 | [[seoul-metropolitan-police]] | national-unit | Jongno-gu, Seoul, South Korea | — | 1 | 3 |
@@ -156,7 +156,7 @@ updated: 2026-04-08
 | [[ncfta]] | public-private-partnership | United States | public-private intelligence sharing; case support | 3 | 3 |
 | [[apcert]] | regional-cert-network | — | Provides regional CERT-to-CERT coordination context for incident response and cyber-security capacity building.; Connects national CERTs such as [[kisa]] / KrCERT and SingCERT-facing functions. | — | 2 |
 | [[afripol]] | regional-org | Algiers, Algeria | continental police coordination; joint cyber operations with INTERPOL | 10 | 3 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 64 | 12 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 65 | 13 |
 | [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 115 | 10 |
 | [[african-union]] | regional-organization | Addis Ababa, Ethiopia | Sets continental cyber-security, cybercrime, electronic-commerce, and personal-data-protection policy baselines through AU instruments.; Provides the regional treaty context used by African states and partners when harmonizing cybercrime laws and digital-evidence powers. | — | 1 |
 | [[aseanapol]] | regional-policing-body | — | Provides a Southeast Asian regional-policing layer for multilateral cyber-enabled fraud and online-scam operations.; Supports information sharing and regional coordination alongside INTERPOL and national police agencies. | 2 | 2 |

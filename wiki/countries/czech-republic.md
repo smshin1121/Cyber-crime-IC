@@ -31,11 +31,13 @@ notable_cases:
 operations_participated:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
+  - "[[cbzc-krakow-money-laundering-jit-2025]]"
 region: central-europe
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
+  - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
 title: "Czech Republic"
 treaty_memberships:
   - date: 2013-08-22
@@ -107,3 +109,4 @@ Capacity is *likely* medium-high. The EU membership, established NCOZ Cyber Crim
 | [4] | Evolution of Police Roles in Combatting Cybercrime in the Czech Republic, 2015-2020 | Connections Quarterly Journal | 2020+ | https://connections-qj.org/article/evolution-police-roles-combatting-cybercrime-czech-republic-2015-2020 |
 | [5] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
 | [6] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
+| [7] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |

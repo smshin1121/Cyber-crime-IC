@@ -4,7 +4,7 @@ title: "Search and Seizure"
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-09
-source_count: 11
+source_count: 12
 sources:
   - "[[2021-10-09_shorenewsnetwork_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy]]"
   - "[[2026-01-13_komonews_4-people-federal-charges-drug-trafficking-conspiracy-marysville]]"
@@ -17,6 +17,7 @@ sources:
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
   - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
+  - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
@@ -26,6 +27,7 @@ operations_using:
   - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
   - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
+  - "[[cbzc-krakow-money-laundering-jit-2025]]"
 ---
 ## Summary
 
