@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (239 canonical / 27 absorbed / 266 records)
+# Operations (240 canonical / 27 absorbed / 267 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (239)
+## Canonical Operations (240)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -234,6 +234,7 @@ updated: 2026-04-14
 | [[treasury-sanctions-kok-an-scam-center-network-2026]] | CYB-2026-103 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]] | CYB-2026-117 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[tycoon-2fa-phishing-as-a-service-takedown-2026]] | CYB-2026-118 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]] | CYB-2026-119 | 3 | ongoing | — | 1 | 3.00 | 1 |
 | [[italy-hsi-europol-live-distant-child-abuse-2026]] | CYB-2026-LDCA | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-mad-hatter-csam-italy-fbi-2026]] | CYB-2026-MADHAT | 3 | completed | — | 1 | 4.50 | 1 |
 | [[mexico-yucatan-nayarit-csam-afp-fgr-2026]] | CYB-2026-MXAU-CSAM | 3 | ongoing | — | 1 | 4.50 | 1 |

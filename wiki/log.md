@@ -1701,3 +1701,15 @@
   - Suspect count, victim count, total fraud volume, operation codename: NOT published in BTA. Marked under `missing_fields`.
   - L19-strict applied: 3 wikilinked agencies (bulgaria-police, bulgaria-ministry-of-interior, spain-guardia-civil) named in source AND have wiki org pages.
   - L23-strict applied: lead_agency/coordinating_body left empty in frontmatter (SCPO is a prosecutor's office without a wiki org page; descriptive role kept in body prose).
+
+## [2026-05-10] ingest | BE-NL bilateral CaaS phishing-panel supplier arrest (Belgian Federal Police, April 2026)
+- Source: raw/press-releases/2026-04-22_police-be_crime-as-a-service-phishingpanelen-leverancier-opgepakt.md (Belgian Federal Police Politie.be / Police.be; nl).
+- Pages created: wiki/sources/2026-04-22_police-be_phishingpanelen-leverancier-arrest.md, wiki/operations/fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026.md (provisional, source_count=1).
+- Pages updated: countries/belgium, countries/netherlands; agencies belgium-federal-police, europol-ec3; crime-types cybercrime-infrastructure-ic + online-fraud-ic + bank-fraud-ic.
+- Key findings:
+  - **Second wiki record from Belgian Federal Police** — first since 2017 WannaCry victim-call entry; Politie.be / Police.be promoted to fresher tier-1 publisher coverage.
+  - 20-year-old NL-based supplier of CaaS phishing panels (panels-as-a-service to phishing crews) arrested in the Netherlands on **2026-01-26**, surrendered to Belgium on **2026-04-16** following Dendermonde investigating-judge-issued European Arrest Warrant. EUR 28,000 cash + multiple data carriers seized.
+  - Investigation led by FGP Oost-Vlaanderen (East Flanders Federal Judicial Police) under East Flanders Public Prosecutor's Office direction with Europol coordination support; Dutch executing agency not explicitly named in source.
+  - **CaaS supplier-tier arrest pattern** — distinct from end-user phishing-crew arrests; targets the wholesaler/infrastructure layer of the phishing supply chain.
+  - L19-strict + L23-strict applied: only `[[belgium-federal-police]]` and `[[europol-ec3]]` named-and-existing-in-wiki used in participating_agencies; FGP Oost-Vlaanderen + East Flanders prosecutor + Dendermonde investigating judge kept in body prose only; lead_agency/coordinating_body emptied to avoid build-pipeline auto-link to missing pages.
+  - 4 reference rows appended to mismatched pages; backlinker bumped `updated:` on all 8 touched pages for freshness.

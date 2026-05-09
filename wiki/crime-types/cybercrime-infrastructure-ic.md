@@ -46,6 +46,7 @@ notable_operations:
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
+  - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -54,7 +55,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 25
+source_count: 26
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -81,6 +82,7 @@ sources:
   - "[[2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
+  - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
 created: 2026-04-17
 updated: 2026-05-10
 status: active
@@ -134,3 +136,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [23] | [[2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown\|Operación KAERB — iServer phishing-as-a-service takedown (ES+AR+CO+CL+EC+PE; 17 arrests, 921 devices, 483K victims globally)]] | Ministerio de Seguridad de la Nación (Argentina) | 2024-09-24 | https://www.argentina.gob.ar/noticias/operacion-kaerb |
 | [24] | [[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest\|GXC Team / GoogleXcoder phishing-kit CaaS takedown — ES Guardia Civil + BR Federal Police + Group-IB; phishing kits cloning ES banks/gov sold via Telegram]] | Guardia Civil (Spain) — UCO Departamento contra el Cibercrimen | 2025-10-08 | https://web.guardiacivil.es/en/destacados/noticias/La-Guardia-Civil-desmantela-una-red-de-phishing-bancario-y-detiene-al-principal-desarrollador-de-kits-de-robo-de-credenciales-en-Espana/ |
 | [25] | [[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown\|SG-HK-MY tri-lateral GSM gateway scam syndicate takedown — 11 arrests, 226 GSM gateways seized; FRONTIER+ umbrella]] | Singapore Police Force (Public Affairs Dept) | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_11_persons_arrested_in_a_joint_enforcement_operation_against_a_transnational_scam_syndicate |
+| [26] | [[2026-04-22_police-be_phishingpanelen-leverancier-arrest\|Belgian Federal Police — CaaS phishing-panel supplier arrest, NL→BE surrender, EUR 28K cash + data carriers seized (FGP Oost-Vlaanderen + Europol)]] | Belgian Federal Police (Politie.be / Police.be) | 2026-04-22 | https://www.police.be/5998/nl/nieuws/crime-as-a-service-leverancier-phishingpanelen-aan-phishingbendes-opgepakt |

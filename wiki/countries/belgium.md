@@ -44,8 +44,9 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[operation-otf-grimm]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
 region: western-europe
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-04-18_coe-int_belgium-octopus-cybercrime-community-country-profile]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -54,6 +55,7 @@ sources:
   - "[[2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
 title: "Kingdom of Belgium"
 treaty_memberships:
   - date: 2012-08-20
@@ -65,7 +67,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -126,3 +128,4 @@ Capacity is *highly likely* high. The FCCU/RCCU structure provides both national
 | [5] | FCCU — Federal Computer Crime Unit | Belgian Federal Police | — | http://web.archive.org/web/20210124163352/https://www.police.be/5998/fr/a-propos/directions-centrales/federal-computer-crime-unit |
 | [6] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, BE+DK+FI+FR+DE+IS+NL+NO+ES+SE+UK)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
 | [7] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
+| [8] | [[2026-04-22_police-be_phishingpanelen-leverancier-arrest\|Belgian Federal Police — CaaS phishing-panel supplier arrest, NL→BE surrender, EUR 28K cash + data carriers seized (FGP Oost-Vlaanderen + Europol)]] | Belgian Federal Police (Politie.be / Police.be) | 2026-04-22 | https://www.police.be/5998/nl/nieuws/crime-as-a-service-leverancier-phishingpanelen-aan-phishingbendes-opgepakt |

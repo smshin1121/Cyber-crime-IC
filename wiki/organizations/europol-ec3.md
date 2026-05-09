@@ -144,15 +144,17 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
+  - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
-source_count: 14
+source_count: 15
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
+  - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
@@ -246,3 +248,4 @@ The [[phobos-8base-crackdown|Phobos/8Base crackdown]] (2025) is the most directl
 | [12] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [13] | [[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc\|Poland CBZC Phobos affiliate arrest (Operation Aether) — 47-y-o male in Małopolskie, Penal Code Art 269b §1; PL+US named]] | Polish CBZC | 2026-02-17 | https://cbzc.policja.gov.pl/bzc/aktualnosci/823,47-latek-zwiazany-z-grupa-Phobos-zatrzymany-przez-policjantow-CBZC.html |
 | [14] | [[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown\|Operation LoopX — Austrian crypto-coin exit-scam takedown (AT+CY+CZ; 6 arrests, ~EUR 6M victim losses, 10M tokens 2017-2018)]] | Eurojust | 2024-05-08 | https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin |
+| [15] | [[2026-04-22_police-be_phishingpanelen-leverancier-arrest\|Belgian Federal Police — CaaS phishing-panel supplier arrest, NL→BE surrender, EUR 28K cash + data carriers seized (FGP Oost-Vlaanderen + Europol)]] | Belgian Federal Police (Politie.be / Police.be) | 2026-04-22 | https://www.police.be/5998/nl/nieuws/crime-as-a-service-leverancier-phishingpanelen-aan-phishingbendes-opgepakt |
