@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (715)
+# Sources (716)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -32,6 +32,7 @@ updated: 2026-04-14
 | [[2026-04-17_europol-europa-eu_operation-endgame-official-page]] | press-release | Europol | ? | high | ? |
 | [[2026-04-17_en-wikipedia-org_operation-onymous]] | press-release | Wikipedia | ? | medium | ? |
 | [[2026-04-13_europol_operation-poweroff-75000-ddos-users]] | press-release | Europol | ? | high | ? |
+| [[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll]] | press-release | FBI Atlanta Field Office | ? | high | ? |
 | [[2026-04-01_interpol-int_support-for-afripol-operation-first-light]] | institutional-page | INTERPOL | ? | high | ? |
 | [[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation]] | press-release | IRS Criminal Investigation (IRS-CI) | ? | high | ? |
 | [[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |

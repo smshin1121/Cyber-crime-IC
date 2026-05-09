@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | FBI Atlanta 2026-04-10 — W3LL phishing kit / W3LLSTORE takedown (FBI Atlanta + Indonesian National Police; first US-Indonesia phishing-developer action)
+- Source: `raw/press-releases/2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll.md` (FBI Atlanta press release; tier-1 primary)
+- Pages created: [[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll]] (source summary), [[w3ll-phishing-kit-takedown-2026]] (operation page)
+- Pages updated: [[united-states]], [[indonesia]] (operations_participated), [[fbi]], [[indonesia-police]] (operations_participated), [[online-fraud-ic]], [[cybercrime-infrastructure-ic]] (notable_operations + sources + body Reference rows), [[labhost-phishing-as-a-service-takedown-2024]], [[leakbase-takedown-2026]] (related_operations cross-links).
+- Key findings: First-of-its-kind US-Indonesia coordinated action against a phishing kit developer (per FBI Atlanta). Detention of alleged W3LL developer 'G.L.' by Indonesian National Police; FBI Atlanta + USAO-NDGA seized US-side infrastructure and key W3LL/W3LLSTORE domains. W3LL phishing kit (~USD 500/access) uniquely captured **session data alongside credentials**, enabling MFA bypass — making it a 'full-service cybercrime platform'. W3LLSTORE marketplace facilitated 25,000+ compromised account sales (2019-2023); post-2023 the kit migrated to encrypted messaging platforms (rebranded), targeting 17,000+ victims worldwide and USD 20M+ in attempted fraud (2023-2024 phase alone). Establishes (a) US-Indonesia bilateral track in PhaaS disruption, (b) MFA-bypassing session-data capture as a senior-tier PhaaS attribute, and (c) the marketplace-shutdown→encrypted-messaging migration pattern as a documented PhaaS persistence mode.
+
 ## [2026-05-09] ingest | DOJ-OPA 2026-04-30 — Versus Project dark web marketplace cofounder Patrick Schmitz extradited from Colombia (D.N.J., 8-count indictment; CCE)
 - Source: `raw/press-releases/2026-04-30_justice-gov_versus-project-creator-extradited-colombia.md` (DOJ-OPA Press Release 26-428; tier-1 primary)
 - Pages created: [[2026-04-30_justice-gov_versus-project-creator-extradited-colombia]] (source summary), [[us-v-schmitz-versus-project]] (case page)

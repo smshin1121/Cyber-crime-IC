@@ -1,25 +1,34 @@
 ---
-aliases: []
-contact_point_for: []
-cooperation_partners: []
+aliases:
+  []
+contact_point_for:
+  []
+cooperation_partners:
+  []
 country: "[[indonesia]]"
-jurisdiction: [[indonesia]]
+jurisdiction:
+  -
+    - indonesia
 created: 2026-04-17
 established: ""
-frameworks_administered: []
-headquarters: "Indonesia"
+frameworks_administered:
+  []
+headquarters: Indonesia
 key_roles:
   - "Compatibility page for Indonesian police references in regional cybercrime operation records."
   - "Preserves links where sources do not distinguish national police, cyber unit, or immigration enforcement."
-last_verified: 2026-04-29
+last_verified: 2026-05-09
 mandate: "Legacy compatibility page for Indonesian police references."
-mechanisms_operated: []
+mechanisms_operated:
+  []
 member_states: 0
-notable_cases: []
+notable_cases:
+  []
 official_name: "Indonesian National Police"
 official_name_ko: ""
 operations_participated:
   - "[[operation-nightfury]]"
+  - "[[w3ll-phishing-kit-takedown-2026]]"
 org_type: national-agency
 parent_org: ""
 source_count: 2
@@ -29,7 +38,7 @@ sources:
 status: active
 title: "Indonesia Police"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-09
 ---
 ## Summary
 

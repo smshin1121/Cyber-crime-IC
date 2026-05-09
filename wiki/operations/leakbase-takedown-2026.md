@@ -58,7 +58,7 @@ mechanisms_used:
   - "[[domain-seizure]]"
   - "[[eurojust-coordination-meeting]]"
 legal_basis:
-  []
+
 results:
   arrests: 0
   indictments: 0
@@ -91,11 +91,12 @@ missing_fields:
   - arrests
   - indictments
 related_cases:
-  []
+
 related_operations:
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
+  - "[[w3ll-phishing-kit-takedown-2026]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "DOJ frames LeakBase as the latest in a sequence of large English-language hacker-forum takedowns — RaidForums (2022) and BreachForums (2023, founder convicted 2025) — suggesting the displacement-and-takedown cycle on the open-web cybercrime forum vertical is now an established US-led, Europol-coordinated pattern."
   - "Cooperation split between 'active enforcement' countries (8) and 'assistance' countries (6) is explicit in the cited tier-1 source and is captured in the body table as a non-uniform participation roster for SNA edge weighting."

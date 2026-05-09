@@ -128,6 +128,7 @@ related_operations:
   - "[[2bagoldmule-qqaazz]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
+  - "[[w3ll-phishing-kit-takedown-2026]]"
 challenges_encountered:
 
 lessons_learned:

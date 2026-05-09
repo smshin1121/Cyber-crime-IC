@@ -28,6 +28,7 @@ notable_operations:
   - "[[operation-kraken-ghost-platform]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[w3ll-phishing-kit-takedown-2026]]"
 notable_cases:
 
 criminalization_status:
@@ -36,7 +37,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 6
+source_count: 7
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -44,6 +45,7 @@ sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
   - "[[2024-12-03_europol_matrix-encrypted-messaging-service-takedown]]"
   - "[[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]]"
+  - "[[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: active
@@ -78,3 +80,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [4] | [[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet|911 S5 Botnet Dismantled and Its Administrator Arrested in Coordinated International Operation]] | U.S. Department of Justice | 2024-05-29 | https://www.justice.gov/archives/opa/pr/911-s5-botnet-dismantled-and-its-administrator-arrested-coordinated-international-operation |
 | [5] | [[2024-12-03_europol_matrix-encrypted-messaging-service-takedown\|International operation takes down another encrypted messaging service used by criminals (MATRIX)]] | Europol | 2024-12-03 | https://www.europol.europa.eu/media-press/newsroom/news/international-operation-takes-down-another-encrypted-messaging-service-used-criminals |
 | [6] | [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice\|Global cybercrime crackdown: over 373 000 dark web sites shut down (Operation Alice)]] | Europol | 2026-03-21 | https://www.europol.europa.eu/media-press/newsroom/news/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down |
+| [7] | [[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll\|FBI Atlanta, Indonesian Authorities Take Down Global Phishing Network Behind Millions in Fraud Attempts (W3LL phishing kit)]] | FBI Atlanta Field Office | 2026-04-10 | https://www.fbi.gov/contact-us/field-offices/atlanta/news/fbi-atlanta-indonesian-authorities-take-down-global-phishing-network-behind-millions-in-fraud-attempts |
