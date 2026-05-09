@@ -220,8 +220,9 @@ operations_participated:
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
   - "[[warzone-rat-takedown-2024]]"
+  - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
 region: north-america
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -235,6 +236,7 @@ sources:
   - "[[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation]]"
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
+  - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

@@ -1902,3 +1902,15 @@
   - L19/L23 strict applied: 12 wiki-linked agencies all named in source AND with wiki pages. 3 prose-only entities (Malta Police Force, Croatian MOI Criminal Police Directorate, Japan MoJ — no wiki pages yet).
   - lead_agency=`[[fbi]]`; coordinating_body=`[[europol-ec3]]`.
   - 18 reference rows appended; 31 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | AFP-USSS Operation Wickham — Changjiang Currency Exchange / Long River cybercrime money-laundering investigation (Oct 2023)
+- Source: raw/press-releases/2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham.md (Australian Federal Police; en).
+- Pages created: wiki/sources/2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham.md, wiki/operations/afp-usss-operation-wickham-changjiang-money-laundering-2023.md (provisional, source_count=1).
+- Pages updated: countries/australia, countries/united-states; agencies australia-afp, us-secret-service; crime-types money-laundering-ic + online-fraud-ic + organized-crime-ic; mechanisms/informal-cooperation; challenges/jurisdictional-conflicts; 2 related ops (afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023, afp-rtp-bangkok-scam-centre-operation-firestorm-2025).
+- Key findings:
+  - **Third distinct AFP-publisher operation in wiki** (iter 121 + 122 + 123) — afp.gov.au now strong tier-1 publisher coverage.
+  - **AU enabling-layer prosecution to US-victim investment-fraud proceeds** — Aug 2022 op opening; 7 charged by 2023-10-26 announcement; AUD 21M+ restrained in AU bank accounts; AUD 100M+ allegedly laundered by lone seventh-charged via Changjiang Currency Exchange + shell-company accounts; AUD 160M+ estimated worldwide stolen.
+  - **Long River MLO + Changjiang Currency Exchange** — first wiki record of this AU-side cyber-money-laundering enabling layer; modus operandi: victims routed onto manipulated MetaTrader / certain crypto trading platforms, with proceeds funnelled into AU business bank + remittance flows.
+  - L19/L23 strict applied: only 2 wikilinked agencies (australia-afp, us-secret-service) named in source AND with wiki pages.
+  - lead_agency=`[[australia-afp]]`; coordinating_body left empty.
+  - 6 reference rows appended; 11 pages with `updated:` bumped.

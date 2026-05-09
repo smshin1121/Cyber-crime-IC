@@ -35,7 +35,8 @@ participating_agencies:
   - "[[australia-afp]]"
   - "[[malaysia-police]]"
   - "[[fbi-cyber-division]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:
@@ -51,18 +52,18 @@ results:
     - "60+ terabytes of data recovered across the suspect's Borneo residence and the technology-park raid, including usernames, passwords and cryptocurrency wallet seed phrases."
     - "Phishing-kit templates impersonating Australian Government myGov, Malaysian Government services, and US Government services."
 edges:
-  - source_actor: "australia-afp"
-    target_actor: "malaysia-police"
+  - source_actor: australia-afp
+    target_actor: malaysia-police
     cooperation_type: info_sharing
     legal_basis: informal
     direction: directed
-  - source_actor: "fbi-cyber-division"
-    target_actor: "malaysia-police"
+  - source_actor: fbi-cyber-division
+    target_actor: malaysia-police
     cooperation_type: technical_assistance
     legal_basis: informal
     direction: directed
-  - source_actor: "australia-afp"
-    target_actor: "fbi-cyber-division"
+  - source_actor: australia-afp
+    target_actor: fbi-cyber-division
     cooperation_type: info_sharing
     legal_basis: informal
     direction: undirected
@@ -72,11 +73,13 @@ missing_fields:
   - legal_basis
   - case_id
   - victims_notified
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
 lessons_learned:
@@ -88,7 +91,6 @@ sources:
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 > [!info] Provisional / source-thin
 > This operation page is being seeded from a single tier-1 primary press release ([[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits|AFP, 27 November 2023]]). It is below the preferred publication threshold of `source_count >= 5`. Treat the page as a stub-grade record pending corroborating primary statements from the Royal Malaysian Police (RMP / PDRM CCID) and the FBI before further enrichment.
 

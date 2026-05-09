@@ -35,7 +35,7 @@ updated: 2026-04-08
 | [[ministry-of-interior-korea]] | ministry | [[south-korea]] | Parent-ministry context for [[knpa]] in the current corpus.; Relevant to proposed or future Korean serious-crime investigation structures that include cybercrime. | — | 2 |
 | [[ministry-of-justice-korea]] | ministry | [[south-korea]] | Parent-ministry context for prosecutor-side international cooperation and post-reform prosecution structures.; Relevant to MLAT, extradition, and cybercrime treaty engagement alongside the prosecution service. | 3 | 3 |
 | [[singapore-mddi]] | ministry | [[singapore]] | Parent-ministry context for [[singapore-csa]] in the corpus.; Provides policy and agency-management context for Singapore's national cybersecurity posture. | — | 1 |
-| [[australia-afp]] | national-agency | Canberra, Australia | — | 21 | 9 |
+| [[australia-afp]] | national-agency | Canberra, Australia | — | 22 | 10 |
 | [[australian-criminal-intelligence-commission]] | national-agency | Australia | National criminal intelligence agency supporting serious and organized crime investigations.; Provides intelligence-sharing context for Australian cybercrime enforcement alongside [[australia-afp]]. | 1 | 1 |
 | [[brazil-ministry-of-justice-public-security]] | national-agency | Brasilia, Brazil | National public-security coordination; Cyber operations coordination through Ciberlab/Senasp structures | 7 | 4 |
 | [[cambodian-national-police]] | national-agency | Phnom Penh, Cambodia | National police force of Cambodia; Cambodian counterpart for the Korea–Cambodia Joint Task Force for Korean nationals (코리아전담반) MOU and joint operations | 2 | 1 |
@@ -133,7 +133,7 @@ updated: 2026-04-08
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 10 | 4 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 6 | 4 |
 | [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 3 | 3 |
-| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 26 | 6 |
+| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 27 | 7 |
 | [[ncmec]] | nonprofit-clearinghouse | [[united-states]] | Receives and routes child sexual exploitation tips through CyberTipline channels.; Supports law-enforcement victim identification and child-protection investigations. | 2 | 3 |
 | [[uk-met-police-cyber]] | police-cybercrime-unit | [[united-kingdom]] | Supports investigations into cyber extortion, DDoS-for-ransom, and cyber-enabled fraud affecting London or UK victims.; Acts as a UK metropolitan cybercrime partner in Europol-supported operations. | 2 | 2 |
 | [[trend-micro]] | private-cybersecurity-company | [[japan]] | Provides malware telemetry, threat intelligence, and technical analysis to INTERPOL-led cybercrime operations.; Appears repeatedly in public-private cooperation chains for BEC, botnet, phishing, and malicious-infrastructure disruptions. | 10 | 6 |

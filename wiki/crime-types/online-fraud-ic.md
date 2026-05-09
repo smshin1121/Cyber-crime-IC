@@ -94,6 +94,7 @@ notable_operations:
   - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
+  - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -111,7 +112,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 87
+source_count: 88
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -200,6 +201,7 @@ sources:
   - "[[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo]]"
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
+  - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -350,3 +352,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [85] | [[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo\|PF Brazil — Belgian-national fugitive arrested in São Paulo on STF mandado de prisão para extradição (Mar 2026); Belgian charges include falsificação de tecnologia da informação]] | Polícia Federal (Brazil) — Superintendência Regional em São Paulo / SR-SP | 2026-03-09 | https://www.gov.br/pf/pt-br/assuntos/noticias/2026/03/policia-federal-prende-foragido-belga-acusado-de-fraude-e-falsificacao-de-tecnologia-da-informacao-em-sao-paulo |
 | [86] | [[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters\|RCMP Central Region (Ontario) — Toronto couple arrested as alleged top-50 worldwide subscribers of iSpoof.cc spoofing-as-a-service; 570+ Canadian victims (Feb 2025)]] | Royal Canadian Mounted Police — Central Region (Ontario) | 2025-02-20 | https://www.rcmp-grc.gc.ca/en/news/2025/02/ontario-rcmp-shuts-down-prolific-cyber-fraudsters |
 | [87] | [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits\|AFP intelligence leads to 8 arrests over Malaysia-based phishing-kit-as-a-service syndicate cloning AU myGov, MY and US Government services; 4 servers + 60+TB seized]] | Australian Federal Police (AFP) | 2023-11-27 | https://www.afp.gov.au/news-centre/media-release/afp-intelligence-leads-eight-arrests-over-phishing-kits |
+| [88] | [[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham\|AFP-USSS Operation Wickham — Melbourne man charged in Changjiang/Long River laundering of US investment-fraud proceeds (Oct 2023); AUD 21M restrained, AUD 100M+ allegedly laundered]] | Australian Federal Police (AFP) | 2023-10-26 | https://www.afp.gov.au/news-centre/media-release/melbourne-man-charged-laundering-cybercrime-victims-money |

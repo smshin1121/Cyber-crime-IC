@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (803)
+# Sources (804)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -468,6 +468,7 @@ updated: 2026-04-14
 | [[2023-11-21_news-cgtn-com_31-000-telecom-scam-suspects-handed-over-to-china-by-myanmar]] | news | CGTN | ? | medium | ? |
 | [[2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown]] | news | VOA News | ? | medium | ? |
 | [[2026-04-18_justice-gov_monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]] | press-release | Australian Federal Police | ? | high | ? |
 | [[2023-10-19_thenewsmill-com_cbi-launches-operation-chakra-2-against-cyber-criminals]] | news | The News Mill / ANI | ? | medium | ? |
 | [[2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes]] | press-release | Press Information Bureau / Ministry of Home Affairs | ? | high | ? |
 | [[2023-10-19_ndtv_operation-chakra-ii-cbi-raids-76-locations]] | news | NDTV / Press Trust of India | ? | medium | ? |

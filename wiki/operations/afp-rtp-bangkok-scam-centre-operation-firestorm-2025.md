@@ -85,6 +85,7 @@ related_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
 challenges_encountered:
 
 lessons_learned:
@@ -96,7 +97,7 @@ sources:
   - "[[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm]]"
 summary: "On 2025-06-16, the Australian Federal Police (AFP) — under its Joint Policing Cybercrime Coordination Centre (JPC3) Operation Firestorm — and the Royal Thai Police (RTP) executed search warrants at a six-bedroom residential property on the outskirts of Bangkok operating as an investment scam 'boiler room'. The operation produced 13 arrests across four nationalities (5 Australian, 6 UK, 1 Canadian, 1 South African), all charged under Section 210 of the Thai Criminal Code (conspiracy). The boiler room had operated from April 2025 selling fake high-yield fixed-income bonds to Australian victims using fraudulent international-financial-firm representations, a misappropriated authentic financial services licence, online face-to-face meetings, and cryptocurrency-laundering downstream. Suspected stolen funds: AUD 1,900,000+ in two months. This was the first Thailand takedown under Operation Firestorm (launched August 2024), with three prior takedowns in Manila."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 

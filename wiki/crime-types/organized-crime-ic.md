@@ -4,7 +4,7 @@ title: "Organized Crime - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-10
-source_count: 21
+source_count: 22
 sources:
   - "[[2019-05-01_bbc-com_technology-48294788]]"
   - "[[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]]"
@@ -27,6 +27,7 @@ sources:
   - "[[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown]]"
   - "[[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos]]"
   - "[[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation]]"
+  - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -45,6 +46,7 @@ notable_operations:
   - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
   - "[[fiscalia-colombia-criptoactivos-fraud-network-takedown-2025]]"
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
+  - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
 notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"

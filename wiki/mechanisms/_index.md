@@ -33,7 +33,7 @@ updated: 2026-04-14
 | [[j-cat]] | joint-investigation-team | formal | days | [[europol-ec3]] | budapest-convention | 4 |
 | [[joint-investigation-team]] | cooperation-or-enforcement-mechanism | — | — | — | — | 6 |
 | [[marketplace-admin-liability]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
-| [[mlat-process]] | formal-mlat | formal | months | Central authorities of each state | budapest-convention, Bilateral MLATs between states | 4 |
+| [[mlat-process]] | formal-mlat | formal | months | Central authorities of each state | budapest-convention, Bilateral MLATs between states | 5 |
 | [[mutual-legal-assistance]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[public-private-cooperation]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[search-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 15 |
