@@ -29,15 +29,17 @@ operations_participated:
   - "[[mobdro-illegal-streaming-takedown-2021]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
+  - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
 org_type: national-unit
 parent_org: "[[czech-police]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
+  - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
 status: active
 title: "National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 
@@ -87,3 +89,4 @@ The Czech Republic is a party to the Budapest Convention (since 2013) and a memb
 | [1] | Národní centrála proti organizovanému zločinu | Wikipedie (cs) | n.d. | https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_centr%C3%A1la_proti_organizovan%C3%A9mu_zlo%C4%8Dinu |
 | [2] | Národní centrála proti terorismu, extremismu a kybernetické kriminalitě | Wikipedie (cs) | n.d. | https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_centr%C3%A1la_proti_terorismu,_extremismu_a_kybernetick%C3%A9_kriminalit%C4%9B |
 | [3] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
+| [4] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |

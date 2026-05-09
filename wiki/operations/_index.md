@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (229 canonical / 27 absorbed / 256 records)
+# Operations (230 canonical / 27 absorbed / 257 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (229)
+## Canonical Operations (230)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -168,6 +168,7 @@ updated: 2026-04-14
 | [[latvia-sim-box-cybercrime-as-a-service-takedown-2025]] | CYB-2025-203 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[crypto-investment-fraud-spain-460m-takedown-2025]] | CYB-2025-204 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[eurojust-100m-crypto-investment-fraud-takedown-2025]] | CYB-2025-204 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]] | CYB-2025-204 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[eurojust-600m-crypto-money-laundering-takedown-2025]] | CYB-2025-205 | 3 | completed | — | 2 | 4.00 | 1 |
 | [[india-cbi-noida-tech-support-scam-takedown-2025]] | CYB-2025-206 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[spf-fpb-operation-cryptoscam-2025]] | CYB-2025-207 | 3 | completed | — | 1 | 4.00 | 1 |

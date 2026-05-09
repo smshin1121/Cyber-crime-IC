@@ -1559,3 +1559,15 @@
   - Seizure inventory: 70+ computers, ~1 kg gold, 5 vehicles, USD 30K + Russian rubles + Georgian lari, one cold cryptocurrency wallet.
   - L19/L23-strict applied: agencies named in source but NOT in wiki organization corpus → described in prose only, NOT wikilinked. participating_agencies emptied (initial agent output had plain-text strings; replaced with `[]` per L23 to prevent build-pipeline dead links).
   - Total damage to KZ/European victims not quantified in source — flagged in missing_fields.
+
+## [2026-05-09] ingest | Operation PATHFINDER — Czech NCTEKK + Ukrainian SBU bilateral JIT (Zakarpattia 2025)
+- Source: raw/press-releases/2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder.md (Policie ČR NCTEKK; cs)
+- Pages created: wiki/sources/2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder.md, wiki/operations/operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025.md (provisional, source_count=1).
+- Pages updated: countries (czech-republic, ukraine), agencies (czechia-police, czech-police, ukraine-sbu, eurojust), crime-types (online-fraud-ic, money-laundering-ic), mechanisms (joint-investigation-team, europol-jit, eurojust-coordination-meeting).
+- Key findings:
+  - **Sister operation to OCTOPUS** (already in wiki, iter 87): same NCTEKK + Ukrainian-side bilateral pattern, but PATHFINDER is the May-2025 action against Zakarpattia call-centre (vs. OCTOPUS = Nov-2025 against Kyiv investment-fraud cell). Documents the recurring CZ-UA Eurojust JIT pattern.
+  - 6-month bilateral CZ-UA Eurojust JIT (preceded action days 2025-04-29 to 2025-05-02). 70 detentions. 4 main organizers charged under Ukrainian Criminal Code Art 190(5) (fraud, particularly large scale; up to 12 years + asset forfeiture).
+  - **Direct on-site participation**: 4-officer Czech NCTEKK Cybercrime Department team participated directly in Ukrainian search-and-seizure in Zakarpattia. Same pattern as Hungary-Romania Discord swatting (HU officers in RO Bihor County) — bilateral cyber cooperation increasingly involves cross-border physical participation.
+  - Call-centre infrastructure benchmark: 2-floor admin building, dedicated server room, physical guards, electronic alarm system, dozens of CCTV cameras. Hardened operational security typical of large fraud-as-a-service hubs.
+  - Damage attribution: ≥9M CZK across ≥37 identified Czech victims; EU-wide damage in millions of EUR pending forensic analysis.
+  - L19/L23-strict applied: agent backlinked czechia-police, czech-police, ukraine-sbu, eurojust correctly (all named in tier-1 source). Eurojust JIT framework, District State Prosecutor's Office in Hradec Králové (CZ), regional prosecutor's office in Zakarpattia (UA).

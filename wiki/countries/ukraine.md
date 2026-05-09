@@ -45,12 +45,14 @@ operations_participated:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
   - "[[operation-toy-soldier-gru-29155-estonia-2024]]"
+  - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
 region: eastern-europe
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
   - "[[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia]]"
+  - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
 title: Ukraine
 treaty_memberships:
   - date: 2005-09-10
@@ -123,3 +125,4 @@ Despite wartime conditions, Ukraine maintains substantial cybercrime investigati
 | [4] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
 | [5] | [[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules\|Latvia €2M vishing money-mule case — 4-jurisdiction (LV+EE+DE+UA), Eurojust-coordinated; 2 fugitives arrested in Ivano-Frankivsk on 2026-03-12]] | Latvijas Republikas prokuratūra | 2026-03-18 | https://www.prokuratura.lv/lv/aktualitates/2026/aktualitates/izkrapti-2-miljoni-eiro-valsts-policija-telefonkrapsanas-lieta-noskaidro-vairak-neka-170-naudas-mulus-un-nelikumigos-kriptoaktivu-mainitajus-3712 |
 | [6] | [[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia\|Operation Toy Soldier — Estonia-led GRU Unit 29155 attribution + indictment (EE+US+UA, 14 services / 10 states)]] | Estonian PPA | 2024-09-05 | https://www.politsei.ee/en/news/a-gru-military-unit-launched-cyberattacks-against-estonian-authorities-12173 |
+| [7] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |

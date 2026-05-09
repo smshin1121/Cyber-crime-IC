@@ -37,7 +37,7 @@ total: 61
 | 🇨🇴 | [[colombia]] | civil-law | party (2020) | medium | unknown | 6 |
 | 🇨🇷 | [[costa-rica]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇾 | [[cyprus]] | civil-law | not-assessed | unknown | unknown | 1 |
-| 🇨🇿 | [[czech-republic]] | civil-law | party (2013) | medium | 90-180 | 5 |
+| 🇨🇿 | [[czech-republic]] | civil-law | party (2013) | medium | 90-180 | 6 |
 | 🇨🇿 | [[czechia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 8 |
 | 🇩🇰 | [[denmark]] | civil-law | not-assessed | unknown | unknown | 3 |
@@ -114,7 +114,7 @@ total: 61
 | 🇹🇷 | [[turkey]] | not-assessed | — | unknown | unknown | 1 |
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 2 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
-| 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 6 |
+| 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 7 |
 | 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 6 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 0 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |

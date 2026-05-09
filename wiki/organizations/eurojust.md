@@ -87,12 +87,14 @@ operations_participated:
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
+  - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
 org_type: regional-org
 parent_org: ""
-source_count: 11
+source_count: 12
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
+  - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
 status: active
 title: Eurojust
 type: organization
@@ -255,3 +257,4 @@ Direct Eurojust-Korea judicial cooperation on cybercrime is *likely* limited but
 | [9] | Eurojust welcomes mandate for Commission to negotiate agreements with third countries | Eurojust | — | https://www.eurojust.europa.eu/news/eurojust-welcomes-mandate-commission-negotiate-agreements-third-countries |
 | [10] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
 | [11] | [[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules\|Latvia €2M vishing money-mule case — 4-jurisdiction (LV+EE+DE+UA), Eurojust-coordinated]] | Latvijas Republikas prokuratūra | 2026-03-18 | https://www.prokuratura.lv/lv/aktualitates/2026/aktualitates/izkrapti-2-miljoni-eiro-valsts-policija-telefonkrapsanas-lieta-noskaidro-vairak-neka-170-naudas-mulus-un-nelikumigos-kriptoaktivu-mainitajus-3712 |
+| [12] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |

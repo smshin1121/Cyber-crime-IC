@@ -30,22 +30,24 @@ notable_cases:
 
 operations_participated:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
+  - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
 region: central-europe
-source_count: 5
+source_count: 6
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
+  - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
 title: "Czech Republic"
 treaty_memberships:
   - date: 2013-08-22
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
   - date: ""
     framework: "[[second-additional-protocol]]"
-    reservations:
+    reservations: ""
     status: unknown
 type: country
-updated: 2026-04-10
+updated: 2026-05-09
 ---
 ## Summary
 
@@ -104,3 +106,4 @@ Capacity is *likely* medium-high. The EU membership, established NCOZ Cyber Crim
 | [3] | Czech Republic Legal Profile — cybercrime legislation | Council of Europe Octocom | — | https://rm.coe.int/octocom-legal-profile-czech-republic-rev-final/16809e6a9b |
 | [4] | Evolution of Police Roles in Combatting Cybercrime in the Czech Republic, 2015-2020 | Connections Quarterly Journal | 2020+ | https://connections-qj.org/article/evolution-police-roles-combatting-cybercrime-czech-republic-2015-2020 |
 | [5] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
+| [6] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |

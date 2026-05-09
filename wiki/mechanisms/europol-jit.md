@@ -52,15 +52,17 @@ operations_using:
   - "[[operation-talent]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
+  - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
 cases_using:
 
 related_mechanisms:
   - "[[mlat-process]]"
   - "[[24-7-network]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2015-06-01_europol-europa-eu_major-cybercrime-ring-dismantled-by-joint-investigation-team]]"
   - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
+  - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
 created: 2026-04-08
 updated: 2026-05-09
 status: active
@@ -91,3 +93,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 |---|---|---|---|---|
 | [1] | [[2015-06-01_europol-europa-eu_major-cybercrime-ring-dismantled-by-joint-investigation-team|Major Cybercrime Ring Dismantled by Joint Investigation Team]] | Europol | 2015-06-01 | https://www.europol.europa.eu/media-press/newsroom/news/major-cybercrime-ring-dismantled-joint-investigation-team |
 | [2] | [[europol-zeusspyeye-joint-investigation-team-takedown|Europol: Major Cybercrime Ring Dismantled by Joint Investigation Team]] | Europol | 2015-06-25 | https://www.europol.europa.eu/media-press/newsroom/news/major-cybercrime-ring-dismantled-joint-investigation-team |
+| [3] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
