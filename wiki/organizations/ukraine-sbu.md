@@ -19,13 +19,15 @@ operations_participated:
   - "[[operation-trident-breach]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
+  - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
 cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[netherlands-politie]]"
   - "[[uk-metropolitan-police]]"
-source_count: 1
+source_count: 2
 sources:
   - "[[2010-10-01_fbi_operation-trident-breach]]"
+  - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
 jurisdiction: Ukraine
 ---
 ## Summary
@@ -41,3 +43,4 @@ Use this page when a source specifically names the SBU. Use [[ukraine-police]] f
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | [[2010-10-01_fbi_operation-trident-breach|International Cooperation Disrupts Multi-Country Cyber Theft Ring]] | FBI | 2010-10-01 | https://archives.fbi.gov/archives/news/pressrel/press-releases/international-cooperation-disrupts-multi-country-cyber-theft-ring |
+| [2] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |

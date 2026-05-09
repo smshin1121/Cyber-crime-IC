@@ -5,8 +5,7 @@ contact_point_for:
 
 country: "[[ukraine]]"
 jurisdiction:
-  -
-    - ukraine
+
 created: 2026-04-10
 established: 2015-10-11
 headquarters: "Kyiv, Ukraine"
@@ -27,11 +26,12 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
+  - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
 org_type: national-unit
 parent_org: "Національна поліція України (National Police of Ukraine) — Ministry of"
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
 status: active
 title: "Cyber Police of Ukraine — Department of Cyber Police"
 type: organization
@@ -102,3 +102,4 @@ Since **March 2022**, by directive of the commander-in-chief of the Ukrainian Ar
 | [1] | Cyber Police UA | Council of Europe (Octopus Cybercrime) | n.d. | https://www.coe.int/en/web/cybercrime/cyber-police-ua |
 | [2] | Ukraine — Cybercrime country profile | Council of Europe (Octopus) | n.d. | https://www.coe.int/en/web/octopus/-/ukraine |
 | [3] | How Ukraine's Cyber Police fights fraud, scams, and attacks on critical infrastructure | The Record (Recorded Future News) | n.d. | https://therecord.media/how-ukraines-cyber-police-fights-fraud-scams-and-attacks-on-critical-infrastructure |
+| [4] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |

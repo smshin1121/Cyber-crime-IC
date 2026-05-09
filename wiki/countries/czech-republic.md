@@ -1,25 +1,20 @@
 ---
-bilateral_agreements: []
+bilateral_agreements:
+
 central_authority:
-  budapest: NCOZ — Národní centrála proti organizovanému zločinu (National Organized
-    Crime Agency), Cyber Crime Division
-  mlat: Ministry of Justice
-cooperation_assessment: The Czech Republic is *likely* a capable EU cooperation partner.
-  It ratified the Budapest Convention in 2013, has a dedicated Cyber Crime Division
-  within NCOZ, and serves as the designated Article 35 24/7 point of contact. Czech
-  authorities have publicly flagged rising cybercrime threats (notably Russia-linked)
-  and have expanded NCOZ's remit accordingly.
+  budapest: "NCOZ — Národní centrála proti organizovanému zločinu (National Organized"
+  mlat: "Ministry of Justice"
+cooperation_assessment: "The Czech Republic is *likely* a capable EU cooperation partner."
 created: 2026-04-10
 cybercrime_legislation:
-  data_retention: EU Data Retention framework era; partially affected by CJEU rulings
-  primary_law: Act No. 40/2009 Coll., Criminal Code (Trestní zákoník); Act No. 141/1961
-    Coll., Code of Criminal Procedure
-  primary_law_date: 2009 (Criminal Code)
+  data_retention: "EU Data Retention framework era; partially affected by CJEU rulings"
+  primary_law: "Act No. 40/2009 Coll., Criminal Code (Trestní zákoník); Act No. 141/1961"
+  primary_law_date: "2009 (Criminal Code)"
   procedural_powers:
-  - search-and-seizure
-  - production-order
-  - preservation-order
-  - interception
+    - search-and-seizure
+    - production-order
+    - preservation-order
+    - interception
 ic_capacity:
   24_7_availability: true
   avg_mlat_response_days: 90-180
@@ -27,28 +22,31 @@ ic_capacity:
   english_proficiency: medium
   rating: medium
 iso_code: CZ
-key_agencies: []
-last_verified: '2026-04-10'
+key_agencies:
+
+last_verified: 2026-04-10
 legal_system: civil-law
-notable_cases: []
-operations_participated: []
+notable_cases:
+
+operations_participated:
+  - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
 region: central-europe
-source_count: 4
-sources: []
-title: Czech Republic
+source_count: 5
+sources:
+  - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
+title: "Czech Republic"
 treaty_memberships:
-- date: '2013-08-22'
-  framework: '[[budapest-convention]]'
-  reservations: []
-  status: party
-- date: ''
-  framework: '[[second-additional-protocol]]'
-  reservations: []
-  status: unknown
+  - date: 2013-08-22
+    framework: "[[budapest-convention]]"
+    reservations:
+    status: party
+  - date: ""
+    framework: "[[second-additional-protocol]]"
+    reservations:
+    status: unknown
 type: country
 updated: 2026-04-10
 ---
-
 ## Summary
 
 The Czech Republic signed the [[budapest-convention|Budapest Convention on Cybercrime]] on 9 February 2005 and deposited its instrument of ratification on **22 August 2013**, becoming the 40th Party [1][2]. Ratification entered into force on 1 December 2013 [2]. Czech cybercrime legislation is contained in two codes: **Act No. 40/2009 Coll., the Criminal Code (Trestní zákoník)** and **Act No. 141/1961 Coll., the Code of Criminal Procedure**, both as amended [3].
@@ -105,3 +103,4 @@ Capacity is *likely* medium-high. The EU membership, established NCOZ Cyber Crim
 | [2] | The Czech Republic joins Budapest Convention | Council of Europe / T-CY News | 2013 | https://www.coe.int/en/web/cybercrime/t-cy-news/-/asset_publisher/GxUcENEFhivB/content/the-czech-republic-joins-budapest-convention |
 | [3] | Czech Republic Legal Profile — cybercrime legislation | Council of Europe Octocom | — | https://rm.coe.int/octocom-legal-profile-czech-republic-rev-final/16809e6a9b |
 | [4] | Evolution of Police Roles in Combatting Cybercrime in the Czech Republic, 2015-2020 | Connections Quarterly Journal | 2020+ | https://connections-qj.org/article/evolution-police-roles-combatting-cybercrime-czech-republic-2015-2020 |
+| [5] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |

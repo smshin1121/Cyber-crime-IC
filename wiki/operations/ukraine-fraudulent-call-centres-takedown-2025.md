@@ -72,11 +72,14 @@ results:
     - "Seized items included forged police and bank employee IDs, computers, laptops, hard drives, mobile phones, cash, 21 vehicles, weapons, ammunition, and a polygraph machine."
 credibility_index: 4.25
 source_tier: 1
-missing_fields: []
-related_cases: []
+missing_fields:
+  []
+related_cases:
+  []
 related_operations:
   - "[[belgium-netherlands-phishing-gang]]"
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
+  - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
 challenges_encountered:
   - "Public reporting identifies police and prosecution authorities by country, but does not assign a single national lead; this page records Eurojust as the coordination lead and keeps the national agencies as participating authorities."
 lessons_learned:

@@ -61,7 +61,7 @@ results:
 related_cases:
 
 related_operations:
-
+  - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
 challenges_encountered:
 
 lessons_learned:

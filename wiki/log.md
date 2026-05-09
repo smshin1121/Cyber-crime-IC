@@ -1350,3 +1350,13 @@
   - Cooperation mechanism architecture: Spain-Lithuania JIT joined by Europol; European Arrest Warrant + European Investigation Orders + freezing orders executed under Eurojust coordination; Europol cryptocurrency-expert deployed in-country to Portugal for action-day crypto-asset seizure.
   - One of the most fully-articulated multi-instrument JIT records in the wiki corpus for a single operation, layering JIT + EAW + EIO + freezing orders + cryptocurrency-expert deployment within a single joint action day.
   - Korean involvement not named.
+
+## [2026-05-09] ingest | Operation OCTOPUS — Czech-Ukrainian investment-fraud call-centre takedown (Kyiv, 17 arrests, CZK 33M)
+- Source: raw/press-releases/2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv.md (Policie ČR / NCTEKK, kpt. Jakub Vinčálek; cs)
+- Pages created: wiki/sources/2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv.md, wiki/operations/operation-octopus-investment-fraud-czechia-ukraine-2025.md (provisional, source_count=1)
+- Pages updated: organizations (eurojust, czechia-police, ukraine-sbu, ukraine-police), countries (czech-republic, ukraine), crime-types (online-fraud-ic, organized-crime-ic, money-laundering-ic), mechanisms (joint-investigation-team, eurojust-coordination-meeting, search-seizure, electronic-evidence, asset-freezing), related operations (ukraine-fraudulent-call-centres-takedown-2025, dnipro-fraudulent-call-centre-takedown-2026, operation-eur-3m-online-investment-fraud-2025)
+- Key findings:
+  - Bilateral CZ-UA JIT under Eurojust coordination targeting investment-fraud call-centre in Kyiv. Action day 2025-11-20: 19 house searches, 17 detentions, ~CZK 33M seized.
+  - 138 identified victims, CZK 43M confirmed losses; principal organizer named as 31-year-old from Donetsk region.
+  - Operationally distinct from Operation CONNECT (already in wiki) despite joint announcement: different JIT membership (CZ-UA vs. CZ-UA-LT-LV), different fraud scheme (investment fraud vs. police/bank impersonation), different action day (2025-11-20 vs. 2025-12-09).
+  - Provisional record: published below preferred source_count>=5 threshold because tier-1 primary uniquely names this branch.

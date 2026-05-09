@@ -42,10 +42,11 @@ operations_participated:
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
+  - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
 region: eastern-europe
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
 title: Ukraine
 treaty_memberships:
   - date: 2005-09-10
@@ -115,3 +116,4 @@ Despite wartime conditions, Ukraine maintains substantial cybercrime investigati
 | [1] | Criminal Code of Ukraine — Section XVI Cyber Offences | Verkhovna Rada | 2001 | https://zakon.rada.gov.ua/laws/show/2341-14 |
 | [2] | Law on Basic Principles of Cybersecurity of Ukraine (2017) | Verkhovna Rada | 2017-10-05 | https://zakon.rada.gov.ua/laws/show/2163-19 |
 | [3] | Chart of Signatures and Ratifications of Treaty 185 | Council of Europe | 2025 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
+| [4] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |

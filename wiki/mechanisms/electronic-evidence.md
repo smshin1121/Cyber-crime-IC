@@ -4,13 +4,16 @@ title: "Electronic Evidence"
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-04-29
-source_count: 4
+source_count: 5
 sources:
   - "[[2013-08-12_artci-ci_loi-n-2013-451-relative-la-lutte-contre-la-cybercriminalit-journal-officiel]]"
   - "[[2018-01-01_congress-gov_cloud-act-h-r-4943-115th-congress]]"
   - "[[2018-04-01_orrick-com_the-cloud-act-explained]]"
   - "[[2020-01-01_moict-gov-gm_gambia-national-cyber-security-policy-2020-2024]]"
+  - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
 ---
 ## Summary
 

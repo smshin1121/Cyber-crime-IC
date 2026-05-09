@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (769)
+# Sources (770)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -95,6 +95,7 @@ updated: 2026-04-14
 | [[2025-12-22-interpol-operation-sentinel-africa]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]] | press-release | US Attorney's Office, Eastern District of Michigan (USAO-EDMI); FBI Detroit; Michigan State Police | ? | high | ? |
 | [[2025-12-17_01net_ukraine-call-center-10m-fraud]] | news | 01net | 2 | medium | ? |
+| [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]] | press-release | Policie České republiky — Národní centrála proti terorismu, extremismu a kybernetické kriminalitě (NCTEKK) | ? | high | ? |
 | [[2025-12-16_pf-gov-br_operacao-dark-bet-trafico-cibercrime-nigeria-brasileiros]] | press-release | Polícia Federal (Brazil) — Coordenação-Geral de Comunicação Social | ? | high | ? |
 | [[2025-12-16_helpnetsecurity_ukraine-scam-call-centers]] | news | Help Net Security | 2 | medium | ? |
 | [[2025-12-16_eurojust_fraudulent-call-centres-ukraine]] | press-release | Eurojust | 1 | high | ? |

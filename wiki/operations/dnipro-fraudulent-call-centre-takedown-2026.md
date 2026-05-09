@@ -76,11 +76,14 @@ results:
     - "Initial investigations identified at least nine victims in Latvia and Lithuania with losses over EUR 160,000."
 credibility_index: 4.15
 source_tier: 1
-missing_fields: []
-related_cases: []
+missing_fields:
+  []
+related_cases:
+  []
 related_operations:
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
+  - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
 challenges_encountered:
   - "Public sources identify early victims in Latvia and Lithuania but also state that citizens across Europe were targeted; this page records the three participating countries and keeps broader victim scope in narrative form."
 lessons_learned:
