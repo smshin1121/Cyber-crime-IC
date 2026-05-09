@@ -3,7 +3,7 @@ type: organization
 title: "Office of International Affairs"
 status: active
 created: 2026-04-26
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 org_type: justice-international-cooperation-office
 country: "[[united-states]]"
@@ -27,19 +27,21 @@ operations_participated:
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[operation-token-mirrors-2026]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
+  - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"
   - "[[us-dcis]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-04-17_justice-gov_criminal-division-computer-crime-and-intellectual-property-section-ccips]]"
   - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
   - "[[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]]"
   - "[[2023-07-01_oodaloop-com_doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-c]]"
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
+  - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"

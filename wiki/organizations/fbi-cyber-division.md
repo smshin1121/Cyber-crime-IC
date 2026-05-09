@@ -115,15 +115,16 @@ operations_participated:
   - "[[operation-card-shop]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
+  - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
-source_count: 12
+source_count: 13
 sources:
-
+  - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
 status: active
 title: "FBI Cyber Division"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Current Status (as of 2026-04-10)
 
@@ -256,3 +257,4 @@ The FBI maintains a Legal Attache office at the US Embassy in Seoul, which serve
 | [10] | FBI veteran Brett Leatherman to lead Cyber division | CyberScoop | 2025-06 | https://cyberscoop.com/fbi-cyber-division-brett-leatherman-assistant-director/ |
 | [11] | Bryan A. Vorndran — leadership profile | FBI | — | https://www.fbi.gov/about/leadership-and-structure/vorndran |
 | [12] | FBI says even in an AI-powered world, security basics still matter (Operation Winter Shield) | CyberScoop | 2025–2026 | https://cyberscoop.com/fbi-operation-winter-shield-ai-cyber-defense-jason-bilnoski/ |
+| [13] | [[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti\|Commissariato di P.S. on-line — IT-US extradition of PRC HAFNIUM-campaign hacker Xu Zewei (Malpensa Jul 2025 arrest → Milan Apr 2026 extradition)]] | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | 2026-04-27 | https://www.commissariatodips.it/notizie/articolo/la-polizia-di-stato-esegue-lestradizione-di-un-pericoloso-hacker-cinese/index.html |

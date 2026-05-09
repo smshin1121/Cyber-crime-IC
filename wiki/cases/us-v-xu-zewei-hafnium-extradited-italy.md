@@ -22,17 +22,20 @@ defendants:
   - name: "Zhang Yu (张宇)"
     nationality: "People's Republic of China"
     status: "at large"
-    sentence: "n/a"
+    sentence: n/a
     location_at_arrest: "n/a (not in custody)"
-related_operation: ""
+related_operation:
+  - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+
   extradition: "Italy → US extradition of Xu Zewei coordinated by DOJ Office of International Affairs (OIA); Italian National Police — Cyber Division (Polizia Postale) credited by FBI as the partnership-leading agency for the Milan arrest and extradition; arrest July 2025; extradition weekend of 2026-04-25 to 2026-04-26 (~9 months between arrest and extradition)"
   evidence_from_abroad:
     - "[[italy]]"
   foreign_arrests:
     - "[[italy]]"
-  asset_freezing: []
+  asset_freezing:
+
 cooperating_agencies:
   - "[[fbi]]"
   - "[[us-doj]]"
@@ -47,11 +50,12 @@ key_legal_issues:
   - "[[hacking-ic]]"
   - "[[extradition]]"
 precedent_value: "First wiki record of an Italy-as-extradition-source for a Chinese state-sponsored cyber actor — characterized as 'rare' in third-party reporting. Establishes a Schengen-region apprehension + extradition pathway for PRC contract hackers analogous to the Schengen-region pathways for Russian-organisation ransomware actors recorded in [[us-v-deniss-zolotarjovs|Zolotarjovs / Georgia]], [[us-v-stryzhak-nefilim|Stryzhak / Spain]], and [[us-v-vardanyan-avetisyan-ryuk-ransomware|Vardanyan / Ukraine + Avetisyan / France-pending]]. Adds Xu Zewei + Zhang Yu (Powerock contractors directed by PRC MSS Shanghai State Security Bureau) to the wiki's PRC enabling-company prosecution corpus alongside [[us-v-wu-haibo-isoon|US v. Wu Haibo (iSoon)]] and [[isoon-apt27-indictment|iSoon APT27 indictment]]."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]]"
+  - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 summary: "United States v. Xu Zewei et al. is the Southern District of Texas (Houston Division) prosecution of two PRC nationals — Xu Zewei (34, extradited from Italy 2026-04-25/26 after July 2025 arrest at Milan Malpensa airport) and Zhang Yu (44, at large) — under a 9-count indictment for computer intrusions between February 2020 and June 2021. The intrusions are alleged to have been directed by officers of the PRC Ministry of State Security's (MSS) Shanghai State Security Bureau (SSSB), with Xu working through Shanghai Powerock Network Co. Ltd. (Powerock), a PRC enabling company. Phase 1 (early 2020): COVID-19 research intrusions targeting US universities, immunologists, and virologists conducting COVID-19 vaccine/treatment/testing research. Phase 2 (late 2020 – early 2021): HAFNIUM Microsoft Exchange Server vulnerability exploitation campaign that compromised 12,700+ US organizations including a S.D. Texas university and a worldwide-offices law firm with offices in Washington, D.C.. Charges include wire fraud (max 20 years/count), unauthorized access to protected computers (max 5 years/count), intentional damage to a protected computer (max 10 years/count), and aggravated identity theft (max 2 years). Italy → US extradition coordinated by DOJ OIA + Italian National Police Cyber Division (Polizia Postale)."
 ---
 ## Summary
@@ -161,3 +165,4 @@ South Korea is not named in the cited DOJ release as a victim, source, or cooper
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | [[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy\|Prolific Chinese State-Sponsored Contract Hacker Extradited from Italy]] | US DOJ (OPA), Press Release 26-404 | 2026-04-27 | https://www.justice.gov/opa/pr/prolific-chinese-state-sponsored-contract-hacker-extradited-italy |
+| [2] | [[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti\|Commissariato di P.S. on-line — IT-US extradition of PRC HAFNIUM-campaign hacker Xu Zewei (Malpensa Jul 2025 arrest → Milan Apr 2026 extradition)]] | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | 2026-04-27 | https://www.commissariatodips.it/notizie/articolo/la-polizia-di-stato-esegue-lestradizione-di-un-pericoloso-hacker-cinese/index.html |

@@ -64,7 +64,7 @@ total: 61
 | 🇮🇳 | [[india]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[international]] | mixed | not-assessed | variable | variable | 4 |
 | 🇮🇸 | [[iceland]] | not-assessed | — | unknown | unknown | 2 |
-| 🇮🇹 | [[italy]] | civil-law | party (2008) | high | 90-180 | 7 |
+| 🇮🇹 | [[italy]] | civil-law | party (2008) | high | 90-180 | 8 |
 | 🇯🇴 | [[jordan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
@@ -115,7 +115,7 @@ total: 61
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 2 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 7 |
-| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 7 |
+| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 8 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 0 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |

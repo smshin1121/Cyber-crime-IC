@@ -3,13 +3,12 @@ type: organization
 title: "Polizia di Stato"
 status: active
 created: 2026-04-26
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 org_type: national-police
 country: "[[italy]]"
 jurisdiction:
-  -
-    - italy
+
 official_name: "Polizia di Stato"
 mandate: "Italian State Police parent institution for the Postal Police and cyber security service."
 key_roles:
@@ -21,16 +20,18 @@ operations_participated:
   - "[[operation-taken-down-illegal-iptv-2024]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
 cooperation_partners:
   - "[[italy-polizia-postale]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
   - "[[dutch-nhtcu]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi]]"
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker-della-polizia-postale-di-catania]]"
   - "[[europol-doublevpn-takedown]]"
+  - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
 ---
 ## Summary
 

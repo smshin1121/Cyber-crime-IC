@@ -215,8 +215,9 @@ operations_participated:
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
   - "[[operation-toy-soldier-gru-29155-estonia-2024]]"
   - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
+  - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
 region: north-america
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -225,6 +226,7 @@ sources:
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
   - "[[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
+  - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

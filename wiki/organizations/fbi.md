@@ -106,9 +106,10 @@ operations_participated:
   - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
   - "[[operation-toy-soldier-gru-29155-estonia-2024]]"
+  - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
-source_count: 7
+source_count: 8
 sources:
   - "[[2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers]]"
   - "[[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors]]"
@@ -117,10 +118,11 @@ sources:
   - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
   - "[[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia]]"
+  - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
 status: active
 title: FBI
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 jurisdiction: "United States"
 ---
 ## Summary
@@ -142,3 +144,4 @@ The FBI appears across DDoS, malware, darknet, botnet, and fraud records as a U.
 | [5] | [[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy\|Italy-FBI Riccione cyber-extortion arrest (US federal warrant executed by Italian Polizia Postale)]] | Polizia di Stato | 2025-07-31 | https://www.poliziadistato.it/articolo/arrestato-a-rimini-cybercriminale-internazionale |
 | [6] | [[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest\|GIGN-FBI Saint-Martin crypto-hacker arrest (FR+US, 3 FBI agents on Caribbean joint action; USD 46M recovered)]] | Gendarmerie nationale (France) | 2026-03-06 | https://www.gendarmerie.interieur.gouv.fr/presentation/a-l-international/cooperation-internationale-une-target-principale-interpellee-lors-d-une-operation-conjointe-du-gign-et-du-fbi-a-saint-martin |
 | [7] | [[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia\|Operation Toy Soldier GRU Unit 29155 attribution — FBI parallel charges vs 2 of 3 EE-indicted; USD 10M State Dept reward]] | Estonian PPA | 2024-09-05 | https://www.politsei.ee/en/news/a-gru-military-unit-launched-cyberattacks-against-estonian-authorities-12173 |
+| [8] | [[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti\|Commissariato di P.S. on-line — IT-US extradition of PRC HAFNIUM-campaign hacker Xu Zewei (Malpensa Jul 2025 arrest → Milan Apr 2026 extradition)]] | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | 2026-04-27 | https://www.commissariatodips.it/notizie/articolo/la-polizia-di-stato-esegue-lestradizione-di-un-pericoloso-hacker-cinese/index.html |

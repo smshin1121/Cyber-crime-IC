@@ -1010,12 +1010,14 @@ operations_participated:
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
   - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
+  - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
 org_type: national-agency
 parent_org: ""
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
+  - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
 status: active
 title: "US Department of Justice (DOJ)"
 type: organization
@@ -1202,6 +1204,7 @@ DOJ is *highly likely* the most important US counterpart for Korean cybercrime c
 | [5] | Criminal Division — Cybersecurity Unit | US Department of Justice | — | https://www.justice.gov/criminal/criminal-ccips/cybersecurity-unit |
 | [6] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting ring sentencing — RO national extradited to US Nov-2024; OIA MLA + USAO-DC prosecution]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |
 | [7] | [[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc\|Poland CBZC Phobos affiliate arrest (Operation Aether) — 47-y-o male in Małopolskie, Penal Code Art 269b §1; PL+US named]] | Polish CBZC | 2026-02-17 | https://cbzc.policja.gov.pl/bzc/aktualnosci/823,47-latek-zwiazany-z-grupa-Phobos-zatrzymany-przez-policjantow-CBZC.html |
+| [8] | [[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti\|Commissariato di P.S. on-line — IT-US extradition of PRC HAFNIUM-campaign hacker Xu Zewei (Malpensa Jul 2025 arrest → Milan Apr 2026 extradition)]] | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | 2026-04-27 | https://www.commissariatodips.it/notizie/articolo/la-polizia-di-stato-esegue-lestradizione-di-un-pericoloso-hacker-cinese/index.html |
 
 > [!note]
 > The original page body was created based on general knowledge (source_count: 0 in the frontmatter). The Current Status and History and Reorganizations sections above are verified against web sources as of 2026-04-10. Additional historical claims (e.g., 1870 establishment, OIA MLAT statistics) should be verified against DOJ annual reports.

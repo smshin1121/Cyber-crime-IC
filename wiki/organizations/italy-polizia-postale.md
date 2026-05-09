@@ -37,18 +37,20 @@ operations_participated:
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
   - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
+  - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
 notable_cases:
 
 contact_point_for:
   - "[[24-7-network]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi]]"
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
   - "[[2022-06-22_fondosicurezzainterna-interno-gov-it_un-territorio-cyber-sicuro-tra-pubblico-e-privato]]"
   - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
+  - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
 created: 2026-04-18
-updated: 2026-05-08
+updated: 2026-05-10
 last_verified: 2026-04-18
 ---
 ## Summary
