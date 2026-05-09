@@ -4,7 +4,7 @@ title: "Organized Crime - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-09
-source_count: 18
+source_count: 19
 sources:
   - "[[2019-05-01_bbc-com_technology-48294788]]"
   - "[[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]]"
@@ -24,6 +24,7 @@ sources:
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
+  - "[[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -39,6 +40,7 @@ notable_operations:
   - "[[operation-otf-grimm]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
+  - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
 notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"

@@ -68,7 +68,7 @@ total: 61
 | 🇯🇴 | [[jordan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
-| 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 1 |
+| 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 2 |
 | 🇰🇵 | [[north-korea]] | socialist-civil-law | — | very-low | 180+ | 1 |
 | 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 24 |
 | 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 0 |
@@ -119,7 +119,7 @@ total: 61
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 0 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |
-| 🇻🇳 | [[vietnam]] | civil-law | not-assessed | low | unknown | 1 |
+| 🇻🇳 | [[vietnam]] | civil-law | not-assessed | low | unknown | 2 |
 | 🇽🇰 | [[kosovo]] | not-assessed | — | unknown | unknown | 0 |
 | 🇿🇦 | [[south-africa]] | not-assessed | — | unknown | unknown | 1 |
 | 🇿🇲 | [[zambia]] | common-law | non-party | low | unknown | 2 |

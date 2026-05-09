@@ -45,6 +45,7 @@ related_operations:
   - "[[zambia-golden-top-call-center]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
 results:
   arrests: 136
   cryptocurrency_seized: ""

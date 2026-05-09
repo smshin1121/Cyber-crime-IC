@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (222 canonical / 27 absorbed / 249 records)
+# Operations (223 canonical / 27 absorbed / 250 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (222)
+## Canonical Operations (223)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -184,6 +184,7 @@ updated: 2026-04-14
 | [[operation-fever-cbzc-eu-presidency-2025]] | CYB-2025-FEVER | 3 | completed | — | 1 | 4.60 | 1 |
 | [[frontier-plus-cross-border-anti-scam-2025]] | CYB-2025-FRONTIER-PLUS-01 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-octopus-investment-fraud-czechia-ukraine-2025]] | CYB-2025-OCTOPUS-CZ | 3 | completed | — | 1 | 4.00 | 1 |
+| [[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]] | CYB-2025-VN-BOKOR | 3 | completed | — | 1 | 4.00 | 1 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |
 | [[operation-red-card-2]] | CYB-2026-003 | 3 | completed | umbrella | 4 | 4.25 | 1 |

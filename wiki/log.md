@@ -1460,3 +1460,17 @@
   - 6 third-country jurisdictions and 6 foreign crypto-related companies engaged in trace-and-attribution phase (counts only, not enumerated; flagged as open question per L19).
   - Distribution period 2020-04-08 → 2023-01-06; KNPA spokesperson 박우현 (Park Woo-hyun, 사이버수사심의관).
   - First wiki record demonstrating **Korea.kr 정책브리핑 PDF attachment as authoritative tier-1 channel** — HTML view shell carries metadata only; full body in PDF/HWPX attachment requiring separate fetch.
+
+## [2026-05-09] ingest | Lai Châu Police + Vietnam MPS — Bokor Hill scam-cell takedown (VN+KH, 28-Oct-2025)
+- Source: raw/press-releases/2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown.md (Báo Chính phủ — Vietnam Government Newspaper; vi)
+- Pages created: wiki/sources/2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown.md, wiki/operations/lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025.md (provisional, source_count=1)
+- Pages updated: countries/vietnam, countries/cambodia, two crime-types (online-fraud-ic, organized-crime-ic), mechanisms/informal-cooperation, three related operations (korea-cambodia-philippines-73-extradition-2026, korea-cambodia-scam-repatriation, knpa-breaking-chains-2nd-international-operation-meeting-2026).
+- Key findings:
+  - **First wiki record sourced from baochinhphu.vn** (Báo Chính phủ — Vietnam Government Newspaper, electronic newspaper of the Government Office of the Socialist Republic of Việt Nam) — first **Vietnamese-language tier-1 IC primary** in wiki.
+  - 28-Oct-2025 joint takedown at Bokor Hill (Bokor Ecological Park, Tuek Chhou ward, Bokor city, Kampot province, Cambodia). Lead: Lai Châu Provincial Police of Việt Nam, special working group; central support from Criminal Police Department, MPS; in-Cambodia liaison via Representative Office of the MPS of Việt Nam in Cambodia.
+  - Direct command: Senior Lieutenant General Nguyễn Văn Long (Deputy Minister, Head of Police Investigation Agency, MPS).
+  - 59 on-site arrests (44 male, 15 female), all Vietnamese nationals; 66 total in case to date. Ringleader: Sùng Thị Mải (alias "Vi"), born 1999, Lào Cai province, Việt Nam.
+  - **Hand-over pattern**: Cambodian functional forces handed over all 59 suspects + seized physical evidence to Lai Châu Provincial Police for VN-domestic prosecution (no extradition framework cited).
+  - Modus: shipper / Police / Military impersonation + romance fraud (lừa đảo tình cảm). Victims: >8,000 nationwide in VN; estimated take >300 billion VND (~USD 12M at late-2025 rates).
+  - Diplomatic context: takedown framed in immediate aftermath of Hà Nội Convention (UN Convention against Cybercrime) signing ceremony hosted by Việt Nam in Hà Nội on 25-26 October 2025.
+  - L19 applied: Cambodian counterpart agency named only generically ("lực lượng chức năng của Campuchia"); removed `[[cambodian-national-police]]` from participating_agencies and recorded gap in missing_fields. Body prose retains the analytical inference as a hypothesis.

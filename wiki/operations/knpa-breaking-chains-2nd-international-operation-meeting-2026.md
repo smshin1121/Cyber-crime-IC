@@ -134,6 +134,7 @@ related_operations:
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[myanmar-kokang-scam-compound-crackdown]]"
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
+  - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
 challenges_encountered:
   - "balloon-effect / 풍선효과 — organisations relocating to weaker-enforcement jurisdictions when one corridor strengthens (named explicitly in the 2nd-meeting agenda)"
 lessons_learned:
