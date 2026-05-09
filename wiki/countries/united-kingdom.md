@@ -88,8 +88,9 @@ operations_participated:
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]]"
+  - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
 region: western-europe
-source_count: 9
+source_count: 10
 sources:
   - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
   - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
@@ -100,6 +101,7 @@ sources:
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica]]"
+  - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
 title: "United Kingdom"
 treaty_memberships:
   - date: 2011-05-25

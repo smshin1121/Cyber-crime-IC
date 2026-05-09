@@ -3,7 +3,7 @@ type: organization
 title: "Metropolitan Police Service"
 status: active
 created: 2026-04-26
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 org_type: metropolitan-police-service
 country: "[[united-kingdom]]"
@@ -20,15 +20,17 @@ operations_participated:
   - "[[operation-trident-breach]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
 cooperation_partners:
   - "[[uk-met-police-cyber]]"
   - "[[uk-nca]]"
   - "[[europol-ec3]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[europol-operation-pleiades]]"
   - "[[europol-rex-mundi-hacking-group-takedown]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
 jurisdiction: "United Kingdom; Greater London policing jurisdiction"
 ---
 ## Summary
@@ -50,3 +52,4 @@ Use this parent page when a source names the Metropolitan Police Service or Lond
 | [1] | [[europol-operation-pleiades|Europol: International Action Against DD4BC Cybercriminal Group (Operation Pleiades)]] | Europol | 2016-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group |
 | [2] | [[europol-rex-mundi-hacking-group-takedown|Europol: French coder who helped extort British company arrested in Thailand]] | Europol | 2018-06-14 | https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand |
 | [3] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
+| [4] | [[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters\|RCMP Central Region (Ontario) — Toronto couple arrested as alleged top-50 worldwide subscribers of iSpoof.cc spoofing-as-a-service; 570+ Canadian victims (Feb 2025)]] | Royal Canadian Mounted Police — Central Region (Ontario) | 2025-02-20 | https://www.rcmp-grc.gc.ca/en/news/2025/02/ontario-rcmp-shuts-down-prolific-cyber-fraudsters |

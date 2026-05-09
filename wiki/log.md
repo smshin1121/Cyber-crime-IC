@@ -1828,3 +1828,27 @@
   - L19-strict applied: only `[[brazil-ministry-of-justice-public-security]]` named-and-existing-in-wiki used in participating_agencies. Belgian counterpart authority NOT named in source — kept out of frontmatter.
   - L23-strict applied: lead_agency/coordinating_body left empty (PF/SR-SP and STF mentioned in body prose only).
   - 3 reference rows appended; 12 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | RCMP Toronto iSpoof.cc top-50 subscriber arrest (Mansouri/Alouah, February 2025) — iter 120
+- Source: raw/press-releases/2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters.md (RCMP Central Region — Ontario; en).
+- Pages created: wiki/sources/2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters.md, wiki/operations/rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025.md (provisional, source_count=1).
+- Pages updated: countries/canada, countries/united-kingdom, countries/netherlands; 5 agencies (canada-rcmp, uk-metropolitan-police, netherlands-politie, europol-ec3, eurojust); crime-types/online-fraud-ic + voice-phishing-ic + access-device-fraud; mechanisms/informal-cooperation + search-seizure.
+- Key findings:
+  - **Second wiki record from RCMP** (rcmp-grc.gc.ca) — under-sourced previously (only 1 prior op).
+  - **First wiki record of CA-side iSpoof.cc downstream subscriber prosecution** — Mansouri (29) + Alouah (31) arrested 2025-02-19 in Greater Toronto Area as alleged top-50 worldwide subscribers of the iSpoof spoofing-as-a-service platform; ≥570 Canadian victims, "millions of dollars" in losses.
+  - 5 substantive Canadian Criminal Code charges: s.380(1) Fraud + s.342.1 Unauthorized Use of Computer + s.462.31 Laundering Proceeds + s.430(1.1) Mischief in relation to computer data + s.354 Possession of Proceeds.
+  - **Three-country IC scope**: Canada (lead/prosecuting) + UK (London Met origin takedown) + NL (Dutch National Police partner) + EUROPOL + EUROJUST.
+  - L19-strict applied: 5 wikilinked agencies all named in source AND with wiki pages.
+  - L23-strict applied: lead_agency=`[[canada-rcmp]]` (existing wiki page); coordinating_body left empty (no single coordinator named).
+  - 9 reference rows appended; 14 pages with `updated:` bumped.
+
+## [2026-05-10] iter 120 milestone push integrity sweep
+- 10 commits since last push (iters 111-120): 5d0383578..[iter 120 head] pushing ~10 commits to origin/master.
+- Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0
+- check_links: broken=2 (both pre-existing legacy LESSONS.md backlinks in unrelated bohemia-cannabia HTML)
+- placeholder strings (`Z`+`ZPROT` / `>P`+`ROT[0-9]`): 0 across wiki/
+- Touched 10 unique tier-1 publishers across iters 111-120: politsei.ee, sputnik.kz, policie.gov.cz (PATHFINDER), bta.bg (Bulgarian News Agency state wire), police.be (Belgian Federal Police), commissariatodips.it (Polizia Postale public portal), om.nl (Landelijk Parket), police.govt.nz (NZ Police Financial Crime Group), mpfciudad.gob.ar (MPF CABA Argentina), tribratanews.polri.go.id (Polri), rcmp-grc.gc.ca (RCMP Central Region), gov.br/pf (Polícia Federal Brazil 3rd record).
+- Spans 28+ countries this milestone block: BG, ES, BE, NL, IT, US, CN-attribution, FI, NZ, AR, BR, PA, DO, GT, UY, PY, CR, PE, HN, FR, ID, KH, CA, UK + KE/CR/PA/DO inherited.
+- 8 first-wiki structural records this milestone: BTA (state wire); FGP Oost-Vlaanderen East Flanders bilateral CaaS supplier-tier arrest; commissariatodips.it Polizia Postale public portal; OM.nl Landelijk Parket operational; NZ Police Financial Crime Group; MPF CABA prosecutor's office; multi-Latin-America 13-jurisdiction CSAM mega-op; tribratanews.polri.go.id national newsroom.
+- 3 first-pattern operations: PRC-attribution operational counterpart to existing prosecution case (HAFNIUM Xu Zewei); Operation Endgame CAV-sub-operation (NL/US/FI AvCheck); INTERPOL Red Notice + airport-arrest pattern documented for Cambodia-base scam-compound fugitives (Polri LCS).
+- web/build_static.py: queued for background run after push.

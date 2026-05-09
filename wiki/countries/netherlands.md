@@ -73,8 +73,9 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
+  - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
 region: western-europe
-source_count: 9
+source_count: 10
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
@@ -85,6 +86,7 @@ sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
+  - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
 title: "Kingdom of the Netherlands"
 treaty_memberships:
   - date: 2006-11-16

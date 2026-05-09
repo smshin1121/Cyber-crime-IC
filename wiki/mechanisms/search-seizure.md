@@ -35,6 +35,7 @@ operations_using:
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
+  - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
 ---
 ## Summary
 

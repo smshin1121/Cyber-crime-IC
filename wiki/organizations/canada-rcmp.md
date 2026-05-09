@@ -45,15 +45,16 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
 status: active
 title: "RCMP — National Cybercrime Coordination Centre (NC3)"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -106,3 +107,4 @@ NC3's cooperation effectiveness is *likely* high given the Five Eyes operational
 | [1] | National Cybercrime Coordination Centre | RCMP | n.d. | https://www.rcmp-grc.gc.ca/en/nc3 |
 | [2] | The National Cybercrime Coordination Centre | RCMP | n.d. | https://www.rcmp-grc.gc.ca/en/nc3 |
 | [3] | NC3 and CAFC Privacy Impact Assessment | RCMP | n.d. | https://www.rcmp-grc.gc.ca/en/nc3 |
+| [4] | [[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters\|RCMP Central Region (Ontario) — Toronto couple arrested as alleged top-50 worldwide subscribers of iSpoof.cc spoofing-as-a-service; 570+ Canadian victims (Feb 2025)]] | Royal Canadian Mounted Police — Central Region (Ontario) | 2025-02-20 | https://www.rcmp-grc.gc.ca/en/news/2025/02/ontario-rcmp-shuts-down-prolific-cyber-fraudsters |

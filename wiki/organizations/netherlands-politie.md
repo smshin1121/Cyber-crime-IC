@@ -67,9 +67,10 @@ operations_participated:
   - "[[operation-otf-grimm]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
+  - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
   - "[[2026-01-22_politie-nl_jaarcijfers-lx-internationale-samenwerking-verder-verstevigd]]"
@@ -78,6 +79,7 @@ sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
+  - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
 status: active
 title: "Dutch National Police - Team High Tech Crime (THTC)"
 type: organization

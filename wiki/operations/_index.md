@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (246 canonical / 27 absorbed / 273 records)
+# Operations (247 canonical / 27 absorbed / 274 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (246)
+## Canonical Operations (247)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -187,6 +187,7 @@ updated: 2026-04-14
 | [[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]] | CYB-2025-227 | 3 | completed | — | 1 | 2.50 | 2 |
 | [[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]] | CYB-2025-244 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[romania-moldova-phishing-laundering-jit-2025]] | CYB-2025-301 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]] | CYB-2025-302 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[pf-magna-fraus-pix-fraud-2025]] | CYB-2025-310 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[gxc-team-googlexcoder-phishing-kits-takedown-2025]] | CYB-2025-410 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
