@@ -30,15 +30,17 @@ operations_participated:
   - "[[darkmarket-takedown]]"
   - "[[operation-endgame-phase3]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: national-unit
 parent_org: "[[denmark-national-police]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: "National Cyber Crime Center (NC3) / National Special Crime Unit (NSK)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 
@@ -92,3 +94,4 @@ Denmark is a party to the Budapest Convention (since 2005) and a member of Europ
 | [1] | National Special Crime Unit | Danish police (politi.dk) | n.d. | https://politi.dk/en/about-the-police/national-special-crime-unit |
 | [2] | National Special Crime Unit (Denmark) | Wikipedia | n.d. | https://en.wikipedia.org/wiki/National_Special_Crime_Unit_(Denmark) |
 | [3] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
+| [4] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

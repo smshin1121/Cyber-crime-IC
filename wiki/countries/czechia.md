@@ -12,9 +12,10 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
-source_count: 0
+  - "[[operation-cumberland-ai-csam-2025]]"
+source_count: 1
 sources:
-
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: needs-official-source-ingestion

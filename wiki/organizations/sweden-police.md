@@ -30,11 +30,13 @@ operations_participated:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: "Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority"
 type: organization
@@ -100,3 +102,4 @@ Specific operation attributions are not confirmed in currently ingested sources.
 | [2] | Så arbetar Polisen med cyberbrott — "vi har bra kompetens" | Computer Sweden | n.d. | https://computersweden.se/article/3610197/sa-arbetar-polisen-med-cyberbrott-vi-har-en-bra-kompetens.html |
 | [3] | Utredare cyberbrott vid Nationellt it-brottscentrum, NOA | Swedish Police Authority (via LinkedIn jobs) | n.d. | https://se.linkedin.com/jobs/view/utredare-cyberbrott-vid-nationellt-it-brottscentrum-noa-at-swedish-police-authority-3817298413 |
 | [4] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, Europol-coordinated)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
+| [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

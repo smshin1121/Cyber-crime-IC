@@ -27,14 +27,16 @@ operations_participated:
   - "[[e-note-crypto-exchange-takedown-2025]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 notable_cases:
 
 contact_point_for:
 
-source_count: 2
+source_count: 3
 sources:
   - "[[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 created: 2026-05-08
 updated: 2026-05-09
 last_verified: 2026-05-09

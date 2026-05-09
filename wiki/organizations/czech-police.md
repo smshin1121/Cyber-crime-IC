@@ -8,8 +8,7 @@ last_verified: 2026-04-29
 org_type: national-police-parent
 country: "[[czech-republic]]"
 jurisdiction:
-  -
-    - czech-republic
+
 official_name: "Policie Ceske republiky"
 mandate: "Parent national police organization for Czech cybercrime enforcement, including the national cybercrime center."
 key_roles:
@@ -19,15 +18,17 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[operation-onymous]]"
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 cooperation_partners:
   - "[[czechia-police]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-17_cs-wikipedia-org_n-rodn-centr-la-proti-terorismu-extremismu-a-kybernetick-kriminalit]]"
   - "[[2013-01-01_coe-int_the-czech-republic-joins-budapest-convention]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 ---
 ## Summary
 

@@ -33,10 +33,12 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 region: oceania
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 title: "Commonwealth of Australia"
 treaty_memberships:
   - not-assessed

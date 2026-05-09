@@ -38,10 +38,12 @@ operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 region: northern-europe
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 title: "Republic of Finland"
 treaty_memberships:
   - date: 2007-05-24
@@ -126,3 +128,4 @@ Capacity is *almost certainly* high. Finland has strong technical and legal infr
 | [5] | National Bureau of Investigation (Finland) | Wikipedia (summarising Finnish Police sources) | — | https://en.wikipedia.org/wiki/National_Bureau_of_Investigation_(Finland) |
 | [6] | Finland ratified the Additional Protocol on Xenophobia and Racism | Council of Europe Cybercrime News | — | https://www.coe.int/en/web/cybercrime/activities1/-/asset_publisher/LvcD1GIJBu1K/content/finland-ratified-the-additional-protocol-on-xenophobia-and-racism |
 | [7] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, BE+DK+FI+FR+DE+IS+NL+NO+ES+SE+UK)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
+| [8] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

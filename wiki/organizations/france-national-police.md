@@ -27,11 +27,12 @@ operations_participated:
   - "[[operation-power-off]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: national-unit
 parent_org: "Direction Nationale de la Police Judiciaire (Police Nationale, Ministry"
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: "Office anti-cybercriminalité (OFAC) — French National Police"
 type: organization
@@ -90,3 +91,4 @@ Operation-by-operation attribution pending further source ingestion. OFAC and it
 | [1] | Décret n° 2023-1083 du 23 novembre 2023 portant création de l'office anti-cybercriminalité | Légifrance | 2023-11-23 | https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048458223 |
 | [2] | Office anti-cybercriminalité | Wikipédia (fr) | n.d. | https://fr.wikipedia.org/wiki/Office_anti-cybercriminalit%C3%A9 |
 | [3] | France's OFAC to Tackle Cyberthreats Ahead of Olympics | BankInfoSecurity | 2024 | https://www.bankinfosecurity.com/frances-ofac-to-tackle-cyber-threats-ahead-olympics-a-24156 |
+| [4] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

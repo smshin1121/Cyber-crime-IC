@@ -30,11 +30,13 @@ operations_participated:
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: national-unit
 parent_org: "Komenda Główna Policji (Police Headquarters, Ministry of Interior and"
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: "Central Bureau for Combating Cybercrime (CBZC) — Poland"
 type: organization
@@ -95,3 +97,4 @@ Specific operation attributions pending further source ingestion. Poland is *lik
 | [2] | Rok funkcjonowania Centralnego Biura Zwalczania Cyberprzestępczości | Informacyjny Serwis Policyjny (ISP) | 2023 | https://isp.policja.pl/isp/aktualnosci/17191,Rok-funkcjonowania-Centralnego-Biura-Zwalczania-Cyberprzestepczosci.html |
 | [3] | Ruszył proces doboru do Centralnego Biura Zwalczania Cyberprzestępczości | Polish Police (policja.pl) | 2022 | https://policja.pl/pol/aktualnosci/225154,Ruszyl-proces-doboru-do-Centralnego-Biura-Zwalczania-Cyberprzestepczosci.html |
 | [4] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
+| [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

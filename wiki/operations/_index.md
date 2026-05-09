@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (232 canonical / 27 absorbed / 259 records)
+# Operations (233 canonical / 27 absorbed / 260 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (232)
+## Canonical Operations (233)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -121,7 +121,7 @@ updated: 2026-04-14
 | [[labhost-phishing-as-a-service-takedown-2024]] | CYB-2024-202 | 2 | completed | — | 1 | 4.00 | 1 |
 | [[matrix-encrypted-messaging-takedown-2024]] | CYB-2024-203 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]] | CYB-2024-AR-KAERB | 3 | completed | — | 1 | 4.50 | 1 |
-| [[operation-pandora-12-phone-fraud-call-centres-2024]] | CYB-2024-PND | 3 | completed | — | 1 | 4.50 | 1 |
+| [[operation-pandora-12-phone-fraud-call-centres-2024]] | CYB-2024-PND | 3 | completed | — | 2 | 4.50 | 1 |
 | [[operation-toy-soldier-gru-29155-estonia-2024]] | CYB-2024-TOYSOLDIER | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | umbrella | 5 | — | — |
@@ -186,6 +186,7 @@ updated: 2026-04-14
 | [[pf-magna-fraus-pix-fraud-2025]] | CYB-2025-310 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]] | CYB-2025-AIT-PR2510 | 3 | ongoing | — | 1 | 4.40 | 1 |
+| [[operation-cumberland-ai-csam-2025]] | CYB-2025-CMB | 3 | ongoing | — | 1 | 4.60 | 1 |
 | [[operation-otf-grimm]] | CYB-2025-EU-OTFGRIMM | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[operation-fever-cbzc-eu-presidency-2025]] | CYB-2025-FEVER | 3 | completed | — | 1 | 4.60 | 1 |
 | [[frontier-plus-cross-border-anti-scam-2025]] | CYB-2025-FRONTIER-PLUS-01 | 3 | completed | — | 1 | 4.50 | 1 |

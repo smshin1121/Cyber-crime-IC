@@ -65,19 +65,21 @@ operations_participated:
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
   - "[[2026-01-22_politie-nl_jaarcijfers-lx-internationale-samenwerking-verder-verstevigd]]"
   - "[[2025-05-09_politie-nl_anyproxy-amsterdam-fbi]]"
   - "[[2026-03-27_politie-nl_minister-van-weel-team-high-tech-crime]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: "Dutch National Police - Team High Tech Crime (THTC)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 ## Summary
 

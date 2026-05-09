@@ -55,8 +55,9 @@ operations_participated:
   - "[[operation-otf-grimm]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 region: western-europe
-source_count: 9
+source_count: 10
 sources:
   - "[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]"
@@ -67,6 +68,7 @@ sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 title: "French Republic"
 treaty_memberships:
   - date: 2006-01-10

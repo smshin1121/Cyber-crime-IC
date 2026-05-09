@@ -1600,3 +1600,18 @@
   - SI victim arc since 2023-07: ~40 cases against legal persons, ~EUR 3.8M damage; stolen funds routed to bank accounts in Germany — illustrates German banking layer used for SI-victim flow.
   - L19/L23-strict applied: only [[germany-bka]] and [[europol-ec3]] wikilinked in participating_agencies (only ones with wiki org pages); LKA BW, Polizeipräsidium Freiburg, Staatsanwaltschaft Freiburg, Generalstaatsanwaltschaft Karlsruhe, and the AL/BA/XK/LB/SI national police are described in body prose only.
   - legal_basis: [] kept empty per L23 (sources don't enumerate specific JIT/MLAT/EAW instruments).
+
+## [2026-05-09] ingest | Operation Cumberland — Danish-led 19-country AI-CSAM buyer takedown (NSK + Europol J-CAT, 2025-02-28)
+- Source: raw/press-releases/2025-02-28_politi-dk_operation-cumberland-ai-csam-international.md (Rigspolitiet NSK; da)
+- Pages created: wiki/sources/..., wiki/operations/operation-cumberland-ai-csam-2025.md (provisional, source_count=1).
+- Pages updated: 19 country pages (DK + AU/AT/BE/BA/CZ/FI/FR/DE/HU/IS/NL/NZ/NO/PL/ES/SE/CH/UK), 14 agencies (denmark-police + europol-ec3 + 12 NCB-level partners), csam-ic crime-type, j-cat mechanism.
+- Key findings:
+  - **First wiki record sourced from politi.dk** (Danish National Police / Rigspolitiet) — first Danish-language tier-1 IC primary in wiki.
+  - **First wiki record of AI-generated CSAM as a crime category in IC takedown context** — Europol explicitly flags as "one of the first cases involving AI-generated CSAM... lack of national legislation addressing these crimes." Substantive-law gap documented.
+  - **19-country IC scope** (DK lead + 18 partners) — among the highest country-named-in-single-source counts in wiki, exceeded only by HAECHI series and OTF GRIMM (11 countries).
+  - 273 suspects identified, 25 arrests, 33 house searches, 173 electronic devices seized in coordinated 2025-02-26 action day.
+  - Producer chain: 29-y-o Danish national arrested 2024-11 by Østjyllands Politi → convicted at Retten i Randers 2025-01 (1y 3m / 3m unconditional, under appeal) → NSK initiated international buyer-side phase using financial trail (betalingssporet) on platform payment-processor records.
+  - Two Danish customer suspects (men aged 30 and 32) charged separately by Nordsjællands Politi.
+  - Cooperation pattern: Europol J-CAT operational coordination + EC3 information exchange + analysis. National authorities for the 19 jurisdictions handled action-day coordination.
+  - L19/L23-strict applied: 14 agency wikilinks all backed by tier-1 source naming AND existing wiki org pages. Agencies whose org pages don't yet exist (Hungary NNI Cybercrime, Iceland NCP, NZ Police, Belgium DJSOC, Republika Srpska MoI) described in body prose only.
+  - legal_basis: [] kept empty per L23 (sources don't enumerate specific JIT/MLAT/EAW instruments — buyer-side phase delegated to national authorities).

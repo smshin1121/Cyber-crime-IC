@@ -70,8 +70,9 @@ operations_participated:
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 region: western-europe
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
@@ -79,6 +80,7 @@ sources:
   - "[[2025-05-09_politie-nl_anyproxy-amsterdam-fbi]]"
   - "[[2026-04-18_om-nl_internationale-samenwerking]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 title: "Kingdom of the Netherlands"
 treaty_memberships:
   - date: 2006-11-16

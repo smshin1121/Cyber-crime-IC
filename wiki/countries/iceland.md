@@ -10,9 +10,11 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-otf-grimm]]"
-source_count: 1
+  - "[[operation-cumberland-ai-csam-2025]]"
+source_count: 2
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 created: 2026-04-12
 updated: 2026-05-09
 status: needs-official-source-ingestion

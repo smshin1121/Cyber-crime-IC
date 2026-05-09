@@ -33,12 +33,14 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 created: 2026-04-14
 updated: 2026-05-09
 status: needs-official-source-ingestion
@@ -63,3 +65,4 @@ The next reliable sources for this page are official national police or prosecut
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | [[2026-03-12-eurojust-proxy-service-takedown|Servers used for cybercrime around the world taken down]] | Eurojust | 2026-03-12 | https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down |
+| [2] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

@@ -19,14 +19,16 @@ operations_participated:
   - "[[banking-trojan-fraud-sentencing-2017]]"
   - "[[operation-trident-breach]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 cooperation_partners:
   - "[[uk-met-police-cyber]]"
   - "[[uk-nca]]"
   - "[[europol-ec3]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[europol-operation-pleiades]]"
   - "[[europol-rex-mundi-hacking-group-takedown]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 jurisdiction: "United Kingdom; Greater London policing jurisdiction"
 ---
 ## Summary
@@ -47,3 +49,4 @@ Use this parent page when a source names the Metropolitan Police Service or Lond
 |---|---|---|---|---|
 | [1] | [[europol-operation-pleiades|Europol: International Action Against DD4BC Cybercriminal Group (Operation Pleiades)]] | Europol | 2016-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group |
 | [2] | [[europol-rex-mundi-hacking-group-takedown|Europol: French coder who helped extort British company arrested in Thailand]] | Europol | 2018-06-14 | https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand |
+| [3] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

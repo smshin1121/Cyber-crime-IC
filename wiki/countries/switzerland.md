@@ -40,10 +40,12 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 region: western-europe
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 title: "Swiss Confederation"
 treaty_memberships:
   - date: 2011-09-21

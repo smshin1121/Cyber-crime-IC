@@ -26,11 +26,12 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: national-agency
 parent_org: "Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-"
-source_count: 4
+source_count: 5
 sources:
-
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: "Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination"
 type: organization
@@ -110,3 +111,4 @@ Specific operation attributions require further source ingestion. CYCO reports a
 | [2] | Swiss Coordination Unit for Cybercrime Control CYCO — Annual Report | Fedpol | 2012 | https://143bis.ch/blog/wp-content/uploads/2018/10/rechenschaftsbericht-2011-e.pdf |
 | [3] | CYCO receives significantly more complaints of economic offences | Swiss Federal Council (admin.ch) | n.d. | https://www.news.admin.ch/en/nsb?id=48600 |
 | [4] | Switzerland — Cybercrime country profile | Council of Europe / Octopus | n.d. | https://www.coe.int/en/web/octopus/-/switzerland |
+| [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

@@ -9,10 +9,12 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 region: western-europe
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 title: "Kingdom of Norway"
 treaty_memberships:
   - not-assessed

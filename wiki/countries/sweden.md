@@ -17,10 +17,12 @@ operations_participated:
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 region: northern-europe
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 title: "Kingdom of Sweden"
 treaty_memberships:
   - not-assessed

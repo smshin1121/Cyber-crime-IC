@@ -27,17 +27,19 @@ official_name: "Nasjonal enhet for bekjempelse av organisert og annen alvorlig k
 operations_participated:
   - "[[operation-card-shop]]"
   - "[[operation-otf-grimm]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: national-unit
 parent_org: ""
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-17_politiet-no_official-website]]"
   - "[[2026-04-17_politiet-no_nasjonalt-cyberkrimsenter-nc3]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: Kripos
 type: organization
-updated: 2026-04-29
+updated: 2026-05-09
 coverage_status: audit-normalized
 ---
 ## Summary
@@ -63,3 +65,4 @@ This page has been normalized for the organization audit: it includes role metad
 | [1] | [[2026-04-17_politiet-no_official-website|Official website]] | Kripos | 2026-04-17 | https://www.politiet.no/en/about-the-police-service/organisation/specialist-agencies/kripos/ |
 | [2] | [[2026-04-17_politiet-no_nasjonalt-cyberkrimsenter-nc3|nasjonalt cyberkrimsenter nc3]] | politiet.no | 2026-04-17 | https://www.politiet.no/en/about-the-police-service/organisation/specialist-agencies/kripos/nasjonalt-cyberkrimsenter-nc3/ |
 | [3] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
+| [4] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

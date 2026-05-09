@@ -42,11 +42,12 @@ operations_participated:
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: national-agency
 parent_org: ""
-source_count: 6
+source_count: 7
 sources:
-
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: "Australian Federal Police — Cyber Command"
 type: organization
@@ -132,3 +133,4 @@ The AFP's cooperation capacity is *highly likely* one of the strongest in the As
 | [4] | Australian High Tech Crime Centre | Wikipedia | n.d. | https://en.wikipedia.org/wiki/Australian_High_Tech_Crime_Centre |
 | [5] | AFP restructures to reflect growing criminal threats | Australian Federal Police | 2025 | https://www.afp.gov.au/news-centre/media-release/afp-restructures-reflect-growing-criminal-threats |
 | [6] | Fighting cyber crime a key driver of the AFP's new command structure | Cyber Daily | 2025 | https://www.cyberdaily.au/strategy/8824-fighting-cybercrime-a-key-driver-of-the-australian-federal-police-s-new-command-structure |
+| [7] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

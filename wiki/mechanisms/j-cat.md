@@ -35,17 +35,19 @@ operations_using:
   - "[[andromeda-botnet-takedown]]"
   - "[[operation-pleiades]]"
   - "[[ramnit-botnet-takedown]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 cases_using:
-  []
+
 related_mechanisms:
   - "[[empact]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-17_europol-europa-eu_european-cybercrime-centre-structure-and-collaboration]]"
   - "[[2017-12-04_europol-europa-eu_andromeda-botnet-dismantled-in-international-cyber-operation]]"
   - "[[2016-01-13_welivesecurity_global-operation-against-dd4bc-results-in-arrests]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 created: 2026-04-12
-updated: "2026-04-29"
+updated: 2026-05-09
 status: active
 ---
 ## Summary
@@ -75,3 +77,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [1] | [[2026-04-17_europol-europa-eu_european-cybercrime-centre-structure-and-collaboration|European Cybercrime Centre: Structure and Collaboration]] | Europol | 2026-04-17 | https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3/european-cybercrime-centre-structure-and-collaboration |
 | [2] | [[2017-12-04_europol-europa-eu_andromeda-botnet-dismantled-in-international-cyber-operation|Andromeda Botnet Dismantled in International Cyber Operation]] | Europol | 2017-12-04 | https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation |
 | [3] | [[2016-01-13_welivesecurity_global-operation-against-dd4bc-results-in-arrests|Global operation against DD4BC results in arrests]] | WeLiveSecurity | 2016-01-13 | https://www.welivesecurity.com/2016/01/13/global-operation-dd4bc-results-arrests/ |
+| [4] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

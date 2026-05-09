@@ -141,12 +141,14 @@ operations_participated:
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
   - "[[operation-otf-grimm]]"
   - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
-source_count: 11
+source_count: 12
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
@@ -237,3 +239,4 @@ The [[phobos-8base-crackdown|Phobos/8Base crackdown]] (2025) is the most directl
 | [9] | European Cybercrime Centre (EC3) — overview | Europol EC3 (ec3.pro) | — | https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3 |
 | [10] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, ESOCC-coordinated)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
 | [11] | [[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia\|Operation PANDORA — 12 phone-fraud call-centres takedown (DE-led; AL+BA+XK+LB call-centres + SI victims; 21 detained, 39 identified)]] | Slovenska policija | 2024-05-03 | https://www.policija.si/eng/newsroom/news-archive/news-archive/121805-victims-also-from-slovenia-europol-s-international-operation-pandora-shuts-down-12-phone-fraud-call-centres |
+| [12] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |

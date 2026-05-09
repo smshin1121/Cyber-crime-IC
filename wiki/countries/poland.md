@@ -40,10 +40,12 @@ operations_participated:
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 region: eastern-europe
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 title: "Republic of Poland"
 treaty_memberships:
   - date: 2015-02-20
@@ -113,6 +115,7 @@ With CBZC's establishment in 2022, Poland has *highly likely* strengthened its i
 | [2] | About CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | Polish Police / CBZC | 2022 | https://cbzc.policja.gov.pl/ |
 | [3] | Poland establishes Central Bureau to fight cybercrime | CoE Cybercrime | 2022 | https://www.coe.int/en/web/cybercrime/-/poland-central-bureau |
 | [4] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
+| [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 
 > [!warning] Legal status check needed
 > Exact ratification date for Second Additional Protocol (CETS 224) should be verified against Council of Europe Treaty Office.

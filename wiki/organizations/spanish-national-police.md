@@ -1,19 +1,20 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
   - "[[europol-ec3]]"
   - "[[portuguese-judicial-police]]"
   - "[[usdoj]]"
   - "[[fbi]]"
 country: "[[spain]]"
-jurisdiction: [[spain]]
+jurisdiction:
+
 created: 2026-04-17
 established: ""
 frameworks_administered:
-  []
+
 headquarters: "Madrid, Spain"
 key_roles:
   - "Compatibility label for Spanish National Police references in older operation pages."
@@ -21,10 +22,10 @@ key_roles:
 last_verified: 2026-04-29
 mandate: "Legacy compatibility page for references to the Spanish National Police."
 mechanisms_operated:
-  []
+
 member_states: 0
 notable_cases:
-  []
+
 official_name: "Spanish National Police"
 official_name_ko: ""
 operations_participated:
@@ -32,17 +33,19 @@ operations_participated:
   - "[[carbanak-cobalt-takedown]]"
   - "[[cyber-fraud-international-2015]]"
   - "[[operation-secreto]]"
+  - "[[operation-cumberland-ai-csam-2025]]"
 org_type: national-agency
 parent_org: "[[spain-national-police]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-18_policia-es_bcit]]"
   - "[[europol-carbanakcobalt-mastermind-arrest]]"
   - "[[europol-operation-secreto]]"
+  - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
 status: active
 title: "Spanish National Police"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-09
 coverage_status: audit-normalized
 ---
 ## Summary
@@ -68,3 +71,4 @@ This page has been normalized for the organization audit: it includes role metad
 | [1] | [[2026-04-18_policia-es_bcit|Brigada Central de Investigación Tecnológica (B.C.I.T.)]] | Policía Nacional | 2026-04-18 | https://www.policia.es/_es/tupolicia_conocenos_estructura_dao_cgpoliciajudicial_bcit.php/1000 |
 | [2] | [[europol-carbanakcobalt-mastermind-arrest|Europol: Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain (Carbanak/Cobalt)]] | Europol | 2018-03-26 | https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain |
 | [3] | [[europol-operation-secreto|Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto)]] | Europol | 2021-02-03 | https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks |
+| [4] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
