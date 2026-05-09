@@ -1,52 +1,50 @@
 ---
 aliases:
-- 대검찰청
-- SPO
-- Supreme Prosecutors' Office
-- 대검
-contact_point_for: []
-cooperation_partners: []
-country: '[[south-korea]]'
-jurisdiction: [[south-korea]]
+  - "대검찰청"
+  - SPO
+  - "Supreme Prosecutors' Office"
+  - "대검"
+contact_point_for:
+  []
+cooperation_partners:
+  []
+country: "[[south-korea]]"
+jurisdiction:
+  -
+    - south-korea
 created: 2026-04-10
-dissolved_date: '2026-10-02'
-established: '1948-08-02'
-frameworks_administered: []
-headquarters: Seocho-gu, Seoul, South Korea
+dissolved_date: 2026-10-02
+established: 1948-08-02
+frameworks_administered:
+  []
+headquarters: "Seocho-gu, Seoul, South Korea"
 key_roles:
-- South Korea's highest prosecution body (until 2026-10-02)
-- Oversees MLAT processing and extradition coordination for prosecutors
-- Houses [[spo-international-cooperation|국제협력단]] and the Cybercrime International
-  Cooperation Center / APC-HUB Secretariat
-- Operates National Digital Forensic Center (NDFC, 국가디지털포렌식센터, est. 2008)
-- Supervises cybercrime prosecution nationally
-last_verified: '2026-04-10'
-mandate: South Korea's highest prosecution body under the 검찰청법 (Prosecutors' Office
-  Act); historically responsible for both prosecution and supervision of investigation.
-  Following the 2020 and 2022 형사소송법/검찰청법 amendments ("수사권 조정" and "검수완박"), the SPO's
-  direct investigative authority was progressively restricted to six categories of
-  serious crime (anti-corruption, economic crime, public-official crime, election
-  crime, defense-industry crime, large-scale accidents). The 공소청·중수청법 enacted in early
-  2026 **abolishes 검찰청 / 대검찰청 entirely effective 2026-10-02** and splits its functions
-  between a new **공소청 (Prosecution Service, under Ministry of Justice)** handling
-  prosecution only and a new **중대범죄수사청 (Serious Crimes Investigation Agency, under
-  Ministry of the Interior and Safety)** handling investigation of six serious crime
-  categories including cybercrime.
-mechanisms_operated: []
-notable_cases: []
-official_name: 대검찰청 (Supreme Prosecutors' Office of the Republic of Korea)
-operations_participated: []
+  - "South Korea's highest prosecution body (until 2026-10-02)"
+  - "Oversees MLAT processing and extradition coordination for prosecutors"
+  - "Houses [[spo-international-cooperation|국제협력단]] and the Cybercrime International"
+  - "Operates National Digital Forensic Center (NDFC, 국가디지털포렌식센터, est. 2008)"
+  - "Supervises cybercrime prosecution nationally"
+last_verified: 2026-04-10
+mandate: "South Korea's highest prosecution body under the 검찰청법 (Prosecutors' Office"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "대검찰청 (Supreme Prosecutors' Office of the Republic of Korea)"
+operations_participated:
+  - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
 org_type: prosecution-office
-parent_org: '[[ministry-of-justice-korea]]'
+parent_org: "[[ministry-of-justice-korea]]"
 source_count: 7
-sources: []
+sources:
+  []
 status: being-dissolved
 successor_bodies:
-- 공소청 (Prosecution Service) — 법무부 산하
-- 중대범죄수사청 / 중수청 (Serious Crimes Investigation Agency) — 행정안전부 산하
-title: Supreme Prosecutors' Office (Korea) — 대검찰청
+  - "공소청 (Prosecution Service) — 법무부 산하"
+  - "중대범죄수사청 / 중수청 (Serious Crimes Investigation Agency) — 행정안전부 산하"
+title: "Supreme Prosecutors' Office (Korea) — 대검찰청"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 > [!warning] Status — Being Dissolved (effective 2026-10-02)
 > Under the **공소청법 (Prosecution Service Act)** and **중대범죄수사청법 (Serious Crimes Investigation Agency Act)** enacted in early 2026, **검찰청 / 대검찰청 will be abolished effective 2026-10-02** after 78 years of existence (est. 1948) [1][2][3]. The 수사·기소 기능 (investigation and prosecution functions) will be **separated** into two new agencies:

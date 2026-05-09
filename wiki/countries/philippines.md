@@ -10,6 +10,7 @@ ic_capacity: not-assessed
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
+  - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
 source_count: 1
 created: 2026-04-20
 updated: 2026-05-09

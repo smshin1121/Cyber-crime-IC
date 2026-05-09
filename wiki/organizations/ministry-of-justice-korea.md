@@ -8,8 +8,7 @@ last_verified: 2026-05-08
 org_type: ministry
 country: "[[south-korea]]"
 jurisdiction:
-  -
-    - south-korea
+
 official_name: "Ministry of Justice"
 mandate: "Korean justice ministry context for prosecution, mutual legal assistance, extradition, and treaty engagement."
 key_roles:
@@ -25,6 +24,7 @@ sources:
   - "[[2025-10-01_unodc-org_hanoi-convention-homepage]]"
 operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
+  - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
 ---
 ## Summary
 

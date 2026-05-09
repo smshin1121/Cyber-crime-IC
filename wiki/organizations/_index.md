@@ -20,7 +20,7 @@ updated: 2026-04-08
 | [[russian-ministry-of-interior]] | interior-ministry | [[russia]] | Historic Russian law-enforcement participant in the 2015 Simda botnet disruption.; Provides a rare pre-2022 data point for Russia-inclusive cybercrime cooperation with INTERPOL and private-sector technical partners. | 1 | 2 |
 | [[c-proc]] | international-org | Bucharest, Romania | Delivery of capacity building programmes for cybercrime and electronic evidence; Support to countries implementing the Budapest Convention and its Protocols | — | 5 |
 | [[icann]] | international-org | — | Domain-name governance and infrastructure actor relevant to malware and botnet domain disruption.; Appears where cybercrime operations require coordination around domain registration, sinkholing, or abuse handling. | 1 | 2 |
-| [[interpol]] | international-org | Lyon, France | — | 40 | 4 |
+| [[interpol]] | international-org | Lyon, France | — | 41 | 4 |
 | [[interpol-igci]] | international-org | Singapore | — | 23 | 11 |
 | [[unodc]] | international-org | Vienna, Austria | — | 5 | 8 |
 | [[council-of-europe]] | international-organization | Strasbourg, France | Administers the Budapest Convention ecosystem for cybercrime law harmonization and international cooperation.; Maintains treaty status and party-observer information for Convention 185. | — | 3 |
@@ -33,7 +33,7 @@ updated: 2026-04-08
 | [[bulgaria-ministry-of-interior]] | ministry | [[bulgaria]] | Parent organization for [[bulgaria-police\|Bulgarian cybercrime police / GDBOP]] functions.; Hosts Bulgaria's cybercrime enforcement context, including the 24/7 National Contact Point for high-tech crimes described in local sources. | 2 | 2 |
 | [[germany-bmi]] | ministry | [[germany]] | Provides federal internal-security policy framing for German cybercrime enforcement.; Publishes ministry-level public communication on major international cybercrime operations such as Operation Endgame. | 2 | 1 |
 | [[ministry-of-interior-korea]] | ministry | [[south-korea]] | Parent-ministry context for [[knpa]] in the current corpus.; Relevant to proposed or future Korean serious-crime investigation structures that include cybercrime. | — | 2 |
-| [[ministry-of-justice-korea]] | ministry | [[south-korea]] | Parent-ministry context for prosecutor-side international cooperation and post-reform prosecution structures.; Relevant to MLAT, extradition, and cybercrime treaty engagement alongside the prosecution service. | 1 | 2 |
+| [[ministry-of-justice-korea]] | ministry | [[south-korea]] | Parent-ministry context for prosecutor-side international cooperation and post-reform prosecution structures.; Relevant to MLAT, extradition, and cybercrime treaty engagement alongside the prosecution service. | 2 | 2 |
 | [[singapore-mddi]] | ministry | [[singapore]] | Parent-ministry context for [[singapore-csa]] in the corpus.; Provides policy and agency-management context for Singapore's national cybersecurity posture. | — | 1 |
 | [[australia-afp]] | national-agency | Canberra, Australia | — | 18 | 6 |
 | [[australian-criminal-intelligence-commission]] | national-agency | Australia | National criminal intelligence agency supporting serious and organized crime investigations.; Provides intelligence-sharing context for Australian cybercrime enforcement alongside [[australia-afp]]. | 1 | 1 |
@@ -70,7 +70,7 @@ updated: 2026-04-08
 | [[nigeria-police-force]] | national-agency | Abuja, Nigeria | domestic arrests; cybercrime unit execution | 3 | 3 |
 | [[norway-nsm]] | national-agency | Norway | Norway's national security authority for preventive security and cybersecurity.; Operates national cybersecurity and NorCERT-style defensive functions distinct from police cybercrime investigation. | — | 1 |
 | [[pakistan-fia]] | national-agency | Islamabad, Pakistan | Cybercrime investigation and national cybercrime reporting in Pakistan.; INTERPOL NCB Pakistan context where cross-border cybercrime cases involve Pakistani enforcement. | 1 | 1 |
-| [[philippine-national-police]] | national-agency | Camp Crame, Quezon City, Philippines | National police force of the Philippines; Philippine counterpart for bilateral police MOUs and international cooperation | 1 | 1 |
+| [[philippine-national-police]] | national-agency | Camp Crame, Quezon City, Philippines | National police force of the Philippines; Philippine counterpart for bilateral police MOUs and international cooperation | 2 | 1 |
 | [[portuguese-judicial-police]] | national-agency | Lisbon, Portugal | Compatibility label for Portugal's Policia Judiciaria and its cybercrime unit references.; Routes detailed cybercrime-unit context to [[portugal-policia-judiciaria]]. | 4 | 3 |
 | [[romanian-police]] | national-agency | Bucharest, Romania | Compatibility label for Romanian police cybercrime participation in older operation records.; Routes institution-level detail to [[romania-police]]. | 4 | 3 |
 | [[singapore-csa]] | national-agency | Singapore | National cybersecurity coordination and strategy; Operate SingCERT (Singapore Computer Emergency Response Team) | — | 4 |
@@ -148,7 +148,7 @@ updated: 2026-04-08
 | [[netherlands-om]] | prosecution-office | Rotterdam / Amsterdam / Zwolle / Den Bosch / Zoetermeer, Netherlands | International legal assistance; Joint investigation team coordination | 6 | 3 |
 | [[romania-diicot]] | prosecution-office | Bucharest, Romania | — | 6 | 0 |
 | [[spo-international-cooperation]] | prosecution-office | Seoul, South Korea | Coordinate Korean Prosecution Service international cooperation; Host the Cybercrime International Cooperation Center (APC-HUB Secretariat) | — | 9 |
-| [[supreme-prosecutors-office-korea]] | prosecution-office | Seocho-gu, Seoul, South Korea | South Korea's highest prosecution body (until 2026-10-02); Oversees MLAT processing and extradition coordination for prosecutors | — | 7 |
+| [[supreme-prosecutors-office-korea]] | prosecution-office | Seocho-gu, Seoul, South Korea | South Korea's highest prosecution body (until 2026-10-02); Oversees MLAT processing and extradition coordination for prosecutors | 1 | 7 |
 | [[romania-public-ministry]] | prosecution-parent | [[romania]] | Parent organization for [[romania-diicot]], Romania's specialized organized-crime, terrorism, and cybercrime prosecutorial directorate.; Provides the prosecution-side context for Romanian cybercrime cooperation. | 2 | 2 |
 | [[zit-frankfurt]] | prosecutor-cybercrime-unit | Frankfurt am Main, Germany | Provides prosecutorial and judicial coordination for major German cybercrime investigations.; Works with [[germany-bka]] on infrastructure seizures, darknet marketplace cases, and cross-border enforcement actions. | 4 | 2 |
 | [[german-prosecution]] | prosecutorial-authority | Germany | Compatibility page for generic German prosecution references in older cybercrime operation records.; Routes cybercrime-specific prosecution context to [[zit-frankfurt]] and [[germany-frankfurt-prosecutor]]. | 1 | 3 |

@@ -22,10 +22,11 @@ cooperation_partners:
   - "[[interpol]]"
 operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
+  - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
 notable_cases:
-  []
+
 contact_point_for:
-  []
+
 source_count: 1
 sources:
   - "[[2026-03-03_korean-press_korea-philippines-police-mou-second-revision]]"

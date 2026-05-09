@@ -64,6 +64,7 @@ operations_participated:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
 org_type: international-org
 parent_org: ""
 source_count: 4

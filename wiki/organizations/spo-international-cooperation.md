@@ -1,48 +1,52 @@
 ---
 aliases:
-- SPO International Cooperation
-- 대검찰청 국제협력단
-- 대검찰청 국제협력담당관실
-- APC-HUB Secretariat
-- 검찰의 국제공조
-contact_point_for: []
+  - "SPO International Cooperation"
+  - "대검찰청 국제협력단"
+  - "대검찰청 국제협력담당관실"
+  - "APC-HUB Secretariat"
+  - "검찰의 국제공조"
+contact_point_for:
+  []
 cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[europol-ec3]]'
-- '[[council-of-europe]]'
-country: '[[south-korea]]'
-jurisdiction: [[south-korea]]
+  - "[[fbi-cyber-division]]"
+  - "[[europol-ec3]]"
+  - "[[council-of-europe]]"
+country: "[[south-korea]]"
+jurisdiction:
+  -
+    - south-korea
 created: 2026-04-10
-dissolved_date: '2026-10-02'
+dissolved_date: 2026-10-02
 established: unknown
-frameworks_administered: []
-headquarters: Seoul, South Korea
+frameworks_administered:
+  []
+headquarters: "Seoul, South Korea"
 key_roles:
-- Coordinate Korean Prosecution Service international cooperation
-- Host the Cybercrime International Cooperation Center (APC-HUB Secretariat)
-- Process MLAT requests with foreign counterparts
-- Lead Asia-Pacific regional cybercrime capacity building (with World Bank and GFCE)
-- Multilateral engagement on cybercrime (Council of Europe, UN)
-last_verified: '2026-04-10'
-mandate: Direct and support international cooperation affairs of the Korean Prosecution
-  Service, including MLAT processing, extradition, and multilateral engagement. Houses
-  the Cybercrime International Cooperation Center & APC-HUB Secretariat for Asia-Pacific
-  cybercrime capacity building.
-mechanisms_operated: []
-notable_cases: []
-official_name: Supreme Prosecutors' Office of the Republic of Korea, International
-  Cooperation Division
-official_name_ko: 대검찰청 국제협력단
-operations_participated: []
+  - "Coordinate Korean Prosecution Service international cooperation"
+  - "Host the Cybercrime International Cooperation Center (APC-HUB Secretariat)"
+  - "Process MLAT requests with foreign counterparts"
+  - "Lead Asia-Pacific regional cybercrime capacity building (with World Bank and GFCE)"
+  - "Multilateral engagement on cybercrime (Council of Europe, UN)"
+last_verified: 2026-04-10
+mandate: "Direct and support international cooperation affairs of the Korean Prosecution"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Supreme Prosecutors' Office of the Republic of Korea, International"
+official_name_ko: "대검찰청 국제협력단"
+operations_participated:
+  - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
 org_type: prosecution-office
-parent_org: '[[supreme-prosecutors-office-korea]]'
+parent_org: "[[supreme-prosecutors-office-korea]]"
 source_count: 9
-sources: []
+sources:
+  []
 status: reorganized
-successor: 공소청 (likely) and/or 중대범죄수사청
-title: Supreme Prosecutors' Office — International Cooperation Division
+successor: "공소청 (likely) and/or 중대범죄수사청"
+title: "Supreme Prosecutors' Office — International Cooperation Division"
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 ---
 > [!warning] Status — Reorganized (effective 2026-10-02)
 > The parent [[supreme-prosecutors-office-korea|대검찰청]] is scheduled to be **abolished on 2026-10-02** under the 공소청법 and 중수청법 enacted in early 2026 [5][6]. As a consequence, the **국제협력단 / 국제협력담당관실** — the unit this page documents — **will cease to exist in its current form** on the same date. Functions are *highly likely* to be split as follows:
