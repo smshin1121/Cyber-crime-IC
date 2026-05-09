@@ -31,8 +31,10 @@ participating_agencies:
   - "[[us-treasury]]"
   - "[[us-doj]]"
   - "[[netherlands-politie]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 2
@@ -61,9 +63,12 @@ source_tier: 1
 missing_fields:
   - legal_basis
   - mechanisms_used
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Financial sanctions are more disruptive when synchronized with criminal charging and infrastructure seizure."
   - "Crypto-laundering services often require both regulatory and law-enforcement tools to create durable impact."
@@ -76,7 +81,7 @@ sources:
   - "[[2024-09-26_usao-edva_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]]"
   - "[[2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-05-09
 operation_role: umbrella
 parent_operation: ""
 summary: "The September 2024 Cryptex and PM2BTC action combined U.S. sanctions, FinCEN special measures, criminal charging, and Dutch server seizures against a cybercrime-linked Russian virtual-currency laundering ecosystem."

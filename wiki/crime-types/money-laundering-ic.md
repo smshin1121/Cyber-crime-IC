@@ -41,15 +41,17 @@ notable_operations:
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
+  - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
+  - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 23
+source_count: 25
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -74,6 +76,8 @@ sources:
   - "[[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand]]"
   - "[[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network]]"
   - "[[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds]]"
+  - "[[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker]]"
+  - "[[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -154,3 +158,5 @@ This page focuses on the **international cooperation** dimension: how states and
 | [21] | [[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand\|International operation targets global organised crime networks: 15 arrests across Australia, Spain, Sweden and Thailand (Operation Candy)]] | Australian Federal Police | 2026-03-07 | https://www.afp.gov.au/news-centre/media-release/international-operation-targets-global-organised-crime-networks-15 |
 | [22] | [[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network\|Treasury Sanctions Cambodian Senator Kok An and Scam Center Network Defrauding Americans]] | US Department of the Treasury (OFAC), Press Release SB-0469 | 2026-04-23 | https://home.treasury.gov/news/press-releases/sb0469 |
 | [23] | [[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds\|Treasury Sanctions DPRK Bankers and Institutions Involved in Laundering Cybercrime Proceeds and IT Worker Funds]] | US Department of the Treasury (OFAC), Press Release SB-0302 | 2025-11-04 | https://home.treasury.gov/news/press-releases/sb0302 |
+| [24] | [[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker\|Two North Korean Nationals and Three Facilitators Indicted for Multi-Year Fraudulent Remote Information Technology Worker Scheme]] | US DOJ (OPA), Press Release 25-105 | 2025-01-23 | https://www.justice.gov/opa/pr/two-north-korean-nationals-and-three-facilitators-indicted-multi-year-fraudulent-remote |
+| [25] | [[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion\|Treasury Sanctions Cryptocurrency Exchange and Network Enabling Sanctions Evasion and Cyber Criminals]] | US Department of the Treasury (OFAC), Press Release SB-0225 | 2025-08-14 | https://home.treasury.gov/news/press-releases/sb0225 |

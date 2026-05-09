@@ -3,7 +3,7 @@ type: mechanism
 title: "Asset Freezing"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-04-29
+updated: 2026-05-09
 source_count: 4
 sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
@@ -11,6 +11,9 @@ sources:
   - "[[2024-06-07_fbi-gov_the-911-s5-cyber-threat]]"
   - "[[2024-05-28_treasury-gov_treasury-sanctions-a-cybercrime-network-associated-with-the-911-s5-botnet]]"
 mechanism_type: cooperation-or-enforcement-mechanism
+operations_using:
+  - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
+  - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
 ---
 ## Summary
 

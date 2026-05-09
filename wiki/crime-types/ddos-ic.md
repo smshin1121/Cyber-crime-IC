@@ -26,6 +26,7 @@ notable_operations:
   - "[[operation-pleiades]]"
   - "[[operation-power-off-2026-04]]"
   - "[[operation-power-off-2025-05]]"
+  - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
 notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
 criminalization_status:
@@ -34,7 +35,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 7
+source_count: 8
 sources:
   - "[[fbi-international-ddos-for-hire-sweep]]"
   - "[[cyberscoop-international-ddos-for-hire-sweep]]"
@@ -43,6 +44,7 @@ sources:
   - "[[2026-04-13_europol_operation-poweroff-75000-ddos-users]]"
   - "[[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname]]"
   - "[[2025-05-07_europol_ddos-for-hire-empire-poland-4-administrators-us-9-domains]]"
+  - "[[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: active
@@ -78,3 +80,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [5] | [[2026-04-13_europol_operation-poweroff-75000-ddos-users\|Europol-supported global operation targets over 75 000 users engaged in DDoS attacks – Operation PowerOFF is a global effort aimed at dismantling criminal DDoS-for-hire infrastructure]] | Europol | 2026-04-13 | https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks |
 | [6] | [[2025-12-10_justice-gov_ukrainian-national-indicted-cyberattacks-russia-carr-noname\|Justice Department Announces Actions to Combat Two Russian State-Sponsored Cyber Criminal Hacking Groups]] | US DOJ (OPA) | 2025-12-10 | https://www.justice.gov/opa/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal |
 | [7] | [[2025-05-07_europol_ddos-for-hire-empire-poland-4-administrators-us-9-domains\|DDoS-for-hire empire brought down: Poland arrests 4 administrators, US seizes 9 domains]] | Europol | 2025-05-07 | https://www.europol.europa.eu/media-press/newsroom/news/ddos-for-hire-empire-brought-down-poland-arrests-4-administrators-us-seizes-9-domains |
+| [8] | [[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land\|United States, Australia, and United Kingdom Sanction Russian Cybercrime Infrastructure Supporting Ransomware]] | US Department of the Treasury (OFAC), Press Release SB-0319 | 2025-11-19 | https://home.treasury.gov/news/press-releases/sb0319 |

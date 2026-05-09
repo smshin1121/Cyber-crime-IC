@@ -24,6 +24,7 @@ notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
+  - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
@@ -34,7 +35,7 @@ notable_operations:
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 11
+source_count: 12
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -47,6 +48,7 @@ sources:
   - "[[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]]"
   - "[[2025-02-27_spf-singapore_global-hacker-arrested-thailand-altdos-desorden-ghostr-0mid16b]]"
   - "[[2026-03-19_justice-gov_iranian-mois-cyber-psychological-operations-handala]]"
+  - "[[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -96,3 +98,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [9] | [[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy\|Prolific Chinese State-Sponsored Contract Hacker Extradited from Italy (Xu Zewei / HAFNIUM / Powerock)]] | US DOJ (OPA), Press Release 26-404 | 2026-04-27 | https://www.justice.gov/opa/pr/prolific-chinese-state-sponsored-contract-hacker-extradited-italy |
 | [10] | [[2025-02-27_spf-singapore_global-hacker-arrested-thailand-altdos-desorden-ghostr-0mid16b\|Global Hacker Arrested In Thailand Arising From Joint Collaboration Between The Singapore Police Force And Royal Thai Police]] | Singapore Police Force | 2025-02-27 | https://www.police.gov.sg/media-hub/news/2025/02/20250227_global_hacker_arrested_in_thailand_arising_from_joint_collaboration_between_spf |
 | [11] | [[2026-03-19_justice-gov_iranian-mois-cyber-psychological-operations-handala\|Justice Department Disrupts Iranian Cyber Enabled Psychological Operations]] | US DOJ (OPA), Press Release 26-251 | 2026-03-19 | https://www.justice.gov/opa/pr/justice-department-disrupts-iranian-cyber-enabled-psychological-operations |
+| [12] | [[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker\|Two North Korean Nationals and Three Facilitators Indicted for Multi-Year Fraudulent Remote Information Technology Worker Scheme]] | US DOJ (OPA), Press Release 25-105 | 2025-01-23 | https://www.justice.gov/opa/pr/two-north-korean-nationals-and-three-facilitators-indicted-multi-year-fraudulent-remote |

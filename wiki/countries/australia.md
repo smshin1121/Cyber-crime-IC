@@ -27,6 +27,7 @@ operations_participated:
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
+  - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
 region: oceania
 source_count: 0
 sources:

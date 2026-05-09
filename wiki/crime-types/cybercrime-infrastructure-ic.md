@@ -29,6 +29,7 @@ notable_operations:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
+  - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
 notable_cases:
 
 criminalization_status:
@@ -37,7 +38,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 7
+source_count: 8
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -46,6 +47,7 @@ sources:
   - "[[2024-12-03_europol_matrix-encrypted-messaging-service-takedown]]"
   - "[[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]]"
   - "[[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll]]"
+  - "[[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: active
@@ -81,3 +83,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [5] | [[2024-12-03_europol_matrix-encrypted-messaging-service-takedown\|International operation takes down another encrypted messaging service used by criminals (MATRIX)]] | Europol | 2024-12-03 | https://www.europol.europa.eu/media-press/newsroom/news/international-operation-takes-down-another-encrypted-messaging-service-used-criminals |
 | [6] | [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice\|Global cybercrime crackdown: over 373 000 dark web sites shut down (Operation Alice)]] | Europol | 2026-03-21 | https://www.europol.europa.eu/media-press/newsroom/news/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down |
 | [7] | [[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll\|FBI Atlanta, Indonesian Authorities Take Down Global Phishing Network Behind Millions in Fraud Attempts (W3LL phishing kit)]] | FBI Atlanta Field Office | 2026-04-10 | https://www.fbi.gov/contact-us/field-offices/atlanta/news/fbi-atlanta-indonesian-authorities-take-down-global-phishing-network-behind-millions-in-fraud-attempts |
+| [8] | [[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land\|United States, Australia, and United Kingdom Sanction Russian Cybercrime Infrastructure Supporting Ransomware]] | US Department of the Treasury (OFAC), Press Release SB-0319 | 2025-11-19 | https://home.treasury.gov/news/press-releases/sb0319 |

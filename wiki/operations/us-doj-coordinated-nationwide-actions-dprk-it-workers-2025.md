@@ -98,6 +98,7 @@ missing_fields:
   - "specific Republic of Korea (South Korea) operational involvement (only the October 2023 joint US-ROK guidance is referenced)"
 related_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
+  - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
 related_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"

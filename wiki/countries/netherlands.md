@@ -33,6 +33,7 @@ notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
+  - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"

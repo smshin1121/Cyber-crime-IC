@@ -24,6 +24,7 @@ assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
+  - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
 ---
 ## Summary
 

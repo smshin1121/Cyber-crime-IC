@@ -32,6 +32,8 @@ operations_participated:
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
+  - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
+  - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"

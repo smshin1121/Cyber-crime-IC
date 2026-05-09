@@ -34,6 +34,7 @@ notable_cases:
   - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[us-v-schmitz-versus-project]]"
+  - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:
@@ -74,6 +75,8 @@ operations_participated:
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
+  - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
+  - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

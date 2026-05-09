@@ -31,6 +31,8 @@ notable_operations:
   - "[[operation-cronos-phase2]]"
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
+  - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
+  - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-stryzhak-nefilim]]"
@@ -44,7 +46,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 18
+source_count: 20
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -64,6 +66,8 @@ sources:
   - "[[2025-09-09_justice-gov_lockergoga-megacortex-nefilim-ransomware-administrator-tymoshchuk-charged]]"
   - "[[2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy]]"
   - "[[2025-09-24_nca-uk_uk-arrest-following-aerospace-cyber-incident]]"
+  - "[[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land]]"
+  - "[[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -250,3 +254,5 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [16] | [[2025-09-09_justice-gov_lockergoga-megacortex-nefilim-ransomware-administrator-tymoshchuk-charged\|"LockerGoga," "MegaCortex," and "Nefilim" Ransomware Administrator Charged with Ransomware Attacks (Tymoshchuk)]] | US DOJ (OPA) | 2025-09-09 | https://www.justice.gov/opa/pr/lockergoga-megacortex-and-nefilim-ransomware-administrator-charged-ransomware-attacks |
 | [17] | [[2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy\|Armenian National Extradited to the United States Faces Federal Charges for Ransomware Extortion Conspiracy]] | USAO-OR | 2025-07-16 | https://www.justice.gov/usao-or/pr/armenian-national-extradited-united-states-faces-federal-charges-ransomware-extortion |
 | [18] | [[2025-09-24_nca-uk_uk-arrest-following-aerospace-cyber-incident\|UK arrest following aerospace cyber incident]] | UK National Crime Agency | 2025-09-24 | https://www.nationalcrimeagency.gov.uk/news/uk-arrest-following-aerospace-cyber-incident |
+| [19] | [[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land\|United States, Australia, and United Kingdom Sanction Russian Cybercrime Infrastructure Supporting Ransomware]] | US Department of the Treasury (OFAC), Press Release SB-0319 | 2025-11-19 | https://home.treasury.gov/news/press-releases/sb0319 |
+| [20] | [[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion\|Treasury Sanctions Cryptocurrency Exchange and Network Enabling Sanctions Evasion and Cyber Criminals]] | US Department of the Treasury (OFAC), Press Release SB-0225 | 2025-08-14 | https://home.treasury.gov/news/press-releases/sb0225 |

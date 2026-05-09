@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (723)
+# Sources (725)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -95,6 +95,7 @@ updated: 2026-04-14
 | [[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]] | press-release | Eurojust | ? | high | ? |
 | [[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million]] | press-release | Europol | ? | high | ? |
 | [[2025-11-26_europol_cryptomixer-operation-olympia-takedown]] | press-release | Europol | ? | high | ? |
+| [[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land]] | press-release | U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC) | ? | high | ? |
 | [[2025-11-13_eurojust_operation-endgame-phase3-malware-operation]] | press-release | Eurojust | ? | high | ? |
 | [[2025-11-07_trmlabs-com_eurojust-coordinates-global-crackdown-on-eu600-million-crypto-investment-fraud-network]] | report | TRM Labs | ? | medium | ? |
 | [[2025-11-06_thepaypers-com_crypto-scammers-steal-over-eur-600-million-now-arrested]] | news | The Paypers | ? | medium | ? |
@@ -136,6 +137,7 @@ updated: 2026-04-14
 | [[2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-08-22_group-ib_operation-serengeti-2-0]] | press-release | Group-IB | ? | high | ? |
 | [[2025-08-22_cyberscoop_interpol-operation-serengeti-2-africa]] | news | CyberScoop | ? | medium | ? |
+| [[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion]] | press-release | U.S. Department of the Treasury (OFAC) | ? | high | ? |
 | [[2025-08-11-doj-blacksuit-royal-ransomware-takedown]] | press-release | US Department of Justice | ? | high | ? |
 | [[2025-07-28_techradar-com_top-ransomware-group-blacksuit-has-dark-web-extortion-sites-seized-and-shut-down]] | news | TechRadar | 3 | medium | ? |
 | [[2025-07-25_scworld-com_operation-checkmate-shuts-down-blacksuits-extortion-sites]] | news | SC Media | 3 | medium | ? |

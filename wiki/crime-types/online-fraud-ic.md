@@ -59,13 +59,14 @@ notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[us-v-schmitz-versus-project]]"
+  - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 41
+source_count: 42
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -108,6 +109,7 @@ sources:
   - "[[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters]]"
   - "[[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network]]"
   - "[[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds]]"
+  - "[[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -212,3 +214,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [39] | [[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters\|Fraudsters targeting cryptocurrency stopped and $12 million frozen in NCA-led Operation Atlantic]] | UK National Crime Agency | 2026-04-09 | https://www.nationalcrimeagency.gov.uk/news/fraudsters-targeting-cryptocurrency-stopped-and-12-million-frozen-in-nca-led-operation-atlantic |
 | [40] | [[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network\|Treasury Sanctions Cambodian Senator Kok An and Scam Center Network Defrauding Americans]] | US Department of the Treasury (OFAC), Press Release SB-0469 | 2026-04-23 | https://home.treasury.gov/news/press-releases/sb0469 |
 | [41] | [[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds\|Treasury Sanctions DPRK Bankers and Institutions Involved in Laundering Cybercrime Proceeds and IT Worker Funds]] | US Department of the Treasury (OFAC), Press Release SB-0302 | 2025-11-04 | https://home.treasury.gov/news/press-releases/sb0302 |
+| [42] | [[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker\|Two North Korean Nationals and Three Facilitators Indicted for Multi-Year Fraudulent Remote Information Technology Worker Scheme]] | US DOJ (OPA), Press Release 25-105 | 2025-01-23 | https://www.justice.gov/opa/pr/two-north-korean-nationals-and-three-facilitators-indicted-multi-year-fraudulent-remote |

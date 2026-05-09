@@ -32,6 +32,8 @@ operations_participated:
   - "[[911-s5-botnet-takedown]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
+  - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
+  - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
 org_type: national-agency
 parent_org: "[[us-federal-government]]"
 source_count: 8
