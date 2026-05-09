@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (224 canonical / 27 absorbed / 251 records)
+# Operations (225 canonical / 27 absorbed / 252 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (224)
+## Canonical Operations (225)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -147,6 +147,7 @@ updated: 2026-04-14
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
 | [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | umbrella | 5 | 4.50 | 2 |
 | [[oag-fedpol-real-time-phishing-uk-conviction-2025]] | CYB-2025-097 | 3 | completed | standalone | 3 | 4.20 | 1 |
+| [[fiscalia-colombia-criptoactivos-fraud-network-takedown-2025]] | CYB-2025-098 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]] | CYB-2025-110 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | umbrella | 5 | 4.60 | 2 |
 | [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | umbrella | 5 | 4.70 | 2 |

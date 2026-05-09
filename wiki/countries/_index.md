@@ -31,10 +31,10 @@ total: 61
 | 🇨🇫 | [[central-african-republic]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇭 | [[switzerland]] | civil-law | party (2011) | high | 90-180 | 1 |
 | 🇨🇮 | [[cote-divoire]] | civil-law | invited-to-accede (2022) | medium | unknown | 4 |
-| 🇨🇱 | [[chile]] | not-assessed | — | unknown | unknown | 0 |
+| 🇨🇱 | [[chile]] | not-assessed | — | unknown | unknown | 1 |
 | 🇨🇲 | [[cameroon]] | mixed | party (2024) | low | unknown | 3 |
 | 🇨🇳 | [[china]] | not-assessed | — | unknown | unknown | 1 |
-| 🇨🇴 | [[colombia]] | civil-law | party (2020) | medium | unknown | 5 |
+| 🇨🇴 | [[colombia]] | civil-law | party (2020) | medium | unknown | 6 |
 | 🇨🇷 | [[costa-rica]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇾 | [[cyprus]] | civil-law | not-assessed | unknown | unknown | 1 |
 | 🇨🇿 | [[czech-republic]] | civil-law | party (2013) | medium | 90-180 | 5 |
@@ -83,7 +83,7 @@ total: 61
 | 🇲🇲 | [[myanmar]] | mixed | not-assessed | unknown | unknown | 1 |
 | 🇲🇹 | [[malta]] | not-assessed | — | unknown | unknown | 1 |
 | 🇲🇺 | [[mauritius]] | not-assessed | — | unknown | unknown | 0 |
-| 🇲🇽 | [[mexico]] | not-assessed | — | unknown | unknown | 0 |
+| 🇲🇽 | [[mexico]] | not-assessed | — | unknown | unknown | 1 |
 | 🇲🇾 | [[malaysia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇳🇬 | [[nigeria]] | not-assessed | — | unknown | unknown | 0 |
 | 🇳🇮 | [[nicaragua]] | not-assessed | — | unknown | unknown | 0 |
@@ -91,7 +91,7 @@ total: 61
 | 🇳🇴 | [[norway]] | not-assessed | — | unknown | unknown | 1 |
 | 🇳🇵 | [[nepal]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇦 | [[panama]] | not-assessed | — | unknown | unknown | 0 |
-| 🇵🇪 | [[peru]] | not-assessed | — | unknown | unknown | 0 |
+| 🇵🇪 | [[peru]] | not-assessed | — | unknown | unknown | 1 |
 | 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 2 |
 | 🇵🇰 | [[pakistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇱 | [[poland]] | civil-law | party (2015) | medium | unknown | 3 |

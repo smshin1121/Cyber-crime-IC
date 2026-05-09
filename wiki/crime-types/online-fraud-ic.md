@@ -78,6 +78,7 @@ notable_operations:
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
   - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
   - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
+  - "[[fiscalia-colombia-criptoactivos-fraud-network-takedown-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -95,7 +96,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 71
+source_count: 72
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -168,6 +169,7 @@ sources:
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
   - "[[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown]]"
+  - "[[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -302,3 +304,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [69] | [[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules\|Latvia €2M vishing money-mule case — 4-jurisdiction (LV+EE+DE+UA), AnyDesk-based vishing, 170+ mules, Eurojust-coordinated]] | Latvijas Republikas prokuratūra | 2026-03-18 | https://www.prokuratura.lv/lv/aktualitates/2026/aktualitates/izkrapti-2-miljoni-eiro-valsts-policija-telefonkrapsanas-lieta-noskaidro-vairak-neka-170-naudas-mulus-un-nelikumigos-kriptoaktivu-mainitajus-3712 |
 | [70] | [[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest\|Hakkari illegal betting + qualified-fraud network — 18-province TR sweep + Sarajevo Red Notice arrest (TR+BA; 53 detentions; ~20bn TL traffic)]] | Anadolu Ajansı | 2026-03-31 | https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-ve-nitelikli-dolandiriciliga-yonelik-operasyonlarda-53-supheli-yakalandi/3887096 |
 | [71] | [[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown\|VN-KH Bokor Hill scam-cell takedown — Lai Châu police led; 59 VN nationals arrested in Cambodia, handed over for VN prosecution; >8K victims, >300bn VND]] | Báo Chính phủ (VN Government) | 2025-10-29 | https://baochinhphu.vn/pha-thanh-cong-chuyen-an-lua-dao-chiem-doat-tai-san-tren-khong-gian-mang-xuyen-quoc-gia-10225102916410932.htm |
+| [72] | [[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos\|Fiscalía Colombia DECDI cripto-investment fraud takedown — Medellín hub, 14 captures, COP 71B (~USD 17M); CO+CL+PE+MX]] | Fiscalía General de la Nación, Boletín 57752 | 2025-11-18 | https://www.fiscalia.gov.co/colombia/noticias/desarticulada-red-senala-de-disenar-un-modelo-de-estafa-a-traves-de-falsas-plataformas-de-inversion-de-criptoactivos/ |

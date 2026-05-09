@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (778)
+# Sources (779)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -117,6 +117,7 @@ updated: 2026-04-14
 | [[2025-11-26_europol_international-takedown-cryptocurrency-fraud-network-eur-700-million]] | press-release | Europol | ? | high | ? |
 | [[2025-11-26_europol_cryptomixer-operation-olympia-takedown]] | press-release | Europol | ? | high | ? |
 | [[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land]] | press-release | U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC) | ? | high | ? |
+| [[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos]] | press-release | Fiscalía General de la Nación (Colombia) | ? | high | ? |
 | [[2025-11-13_eurojust_operation-endgame-phase3-malware-operation]] | press-release | Eurojust | ? | high | ? |
 | [[2025-11-07_trmlabs-com_eurojust-coordinates-global-crackdown-on-eu600-million-crypto-investment-fraud-network]] | report | TRM Labs | ? | medium | ? |
 | [[2025-11-06_thepaypers-com_crypto-scammers-steal-over-eur-600-million-now-arrested]] | news | The Paypers | ? | medium | ? |

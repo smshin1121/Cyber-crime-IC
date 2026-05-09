@@ -32,15 +32,16 @@ operations_participated:
   - "[[imminent-monitor-rat-takedown]]"
   - "[[operation-avalanche]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
+  - "[[fiscalia-colombia-criptoactivos-fraud-network-takedown-2025]]"
 region: south-america
-source_count: 5
+source_count: 6
 sources:
-
+  - "[[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos]]"
 title: "Republic of Colombia"
 treaty_memberships:
   - date: 2020-03-16
     framework: "[[budapest-convention]]"
-    reservations:
+    reservations: ""
     status: party
 type: country
 updated: 2026-05-09
@@ -124,3 +125,4 @@ Capacity is *likely* medium to medium-high by regional standards. Colombia benef
 | [3] | Normatividad sobre delitos informáticos | Policía Nacional de Colombia | — | https://www.policia.gov.co/normatividad-sobre-delitos-informaticos |
 | [4] | Ley de Delitos Informáticos en Colombia (Law 1273/2009 analysis) | DELTA Asesores | — | https://www.deltaasesores.com/ley-de-delitos-informaticos-en-colombia/ |
 | [5] | Cartilla Metodológica de Atención de Delitos Informáticos | Fiscalía General de la Nación | — | https://www.fiscalia.gov.co/colombia/wp-content/uploads/Cartilla-Metodologica-de-Atencion-de-Delitos-Informaticos.pdf |
+| [6] | [[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos\|Fiscalía Colombia DECDI cripto-fraud takedown — Medellín hub, 14 captures, COP 71B (~USD 17M); CO+CL+PE victims, MX-national alleged ringleader]] | Fiscalía General de la Nación, Boletín 57752 | 2025-11-18 | https://www.fiscalia.gov.co/colombia/noticias/desarticulada-red-senala-de-disenar-un-modelo-de-estafa-a-traves-de-falsas-plataformas-de-inversion-de-criptoactivos/ |

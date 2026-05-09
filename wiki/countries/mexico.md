@@ -11,6 +11,7 @@ updated: 2026-05-09
 operations_participated:
   - "[[operation-us-v-ricky-ramacho]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
+  - "[[fiscalia-colombia-criptoactivos-fraud-network-takedown-2025]]"
 summary: "Mexico is relevant in the repository as a recurring jurisdictional touchpoint in extradition, border arrest, and cyber-enabled drug-trafficking cases."
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
@@ -18,9 +19,9 @@ legal_system: not-assessed
 ic_capacity: not-assessed
 treaty_memberships:
   - not-assessed
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos]]"
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 notable_cases:

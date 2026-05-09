@@ -1486,3 +1486,16 @@
   - In-country liaison framework documented: FBI Legat Bucharest + USSS Bucharest Resident Office as the embedded US LE presence enabling MLA-fast-tracking.
   - Multiple cooperating USAOs (WD WA, D SD, MD FL, SD FL, SD IL, ND NY) — illustrates how a swatting/bomb-threat ring with victims in many federal districts consolidates into a single DC prosecution with USAO-DC lead.
   - L19-strict applied: agent (correctly) did NOT include `[[romania-police]]` / `[[romania-diicot]]` in participating_agencies because tier-1 release names "Romanian authorities" generically; flagged in missing_fields.
+
+## [2026-05-09] ingest | Fiscalía Colombia DECDI cripto-investment fraud takedown — Medellín hub, COP 71B (CO+CL+PE+MX)
+- Source: raw/press-releases/2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos.md (Fiscalía General de la Nación, Boletín 57752; es)
+- Pages created: wiki/sources/2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos.md, wiki/operations/fiscalia-colombia-criptoactivos-fraud-network-takedown-2025.md (provisional, source_count=1).
+- Pages updated: 4 country pages (CO, CL, PE, MX), three crime-types (online-fraud-ic, money-laundering-ic, organized-crime-ic).
+- Key findings:
+  - **First wiki record sourced from fiscalia.gov.co** (Fiscalía General de la Nación, Colombia) — first **Spanish-language Colombian tier-1 IC primary** in wiki.
+  - 14 captures by DECDI (Dirección Especializada contra los Delitos Informáticos) of an organised crypto-investment fraud network operating from Medellín 2021 → 2025-10. Aggregate criminal proceeds ~COP 71 billion (~USD 17M).
+  - 4-country IC scope (countries-named-in-source): CO (jurisdiction) + CL/PE (victim countries) + MX (foreign-national alleged ringleader Alejandro Maximiliano Ronquillo Treviño alias "Daniel"). All four explicitly named in the controlling Boletín.
+  - Modus benchmark: social-media advertising → telephone outreach → USD 200-250 entry deposit → fictitious dividend charts → coercion to install Anydesk/"Imperios" remote-access tools → seizure of banking credentials → withdrawal blocked. Verbatim Spanish-source modus pattern recorded for comparable LatAm crypto-fraud cases.
+  - Charges (Spanish penal code): estafa por medios informáticos, hurto por medios informáticos, violación de datos personales en modalidad delito masa (Ley 1273 de 2009), concierto para delinquir, lavado de activos, enriquecimiento ilícito.
+  - 3/14 to centro carcelario, 11/14 to house arrest. None accepted charges.
+  - L19-strict applied: no Colombian agency wikilinks (Fiscalía, DECDI, Policía Nacional, AMERIPOL) added to participating_agencies because no organisation pages exist in wiki and stub-creation barred during ingest. Operation codename "Operación Dominó" and Israeli alleged co-ringleader Boaz Iaakok Derra appear in secondary press only — flagged in missing_fields, not asserted.
