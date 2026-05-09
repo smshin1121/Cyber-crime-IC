@@ -32,6 +32,7 @@ operations_participated:
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
+  - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
 region: oceania
 source_count: 0
 sources:

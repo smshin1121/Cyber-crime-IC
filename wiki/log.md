@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | AFP-FGR Mexico Yucatán+Nayarit CSAM bilateral investigation (2026-05-08, MX+AU)
+- Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
+- Pages updated: 2 country (MX, AU), 1 organization (australia-afp), 2 crime-type (csam-ic, dark-web-ic), 1 mechanism (informal-cooperation), 4 cross-link (Mad Hatter Italy + live-distant CSAM Italy + Eclipse CSAM Americas + Cyber Guardian).
+- Key findings:
+  - **AFP-FGR Mexico CSAM bilateral (AFP/QPS joint release with FGR/SSPC, 2026-05-08)**: Two-case bilateral CSAM investigation. **Yucatán case**: 38yo male arrested 2026-04-07 Kanasín, charged trata de personas agravada (aggravated human trafficking); decade-long grooming via football training; ordered to stand trial. **Nayarit case**: 31yo male arrested March 2026 Tuxpan; alleged distribution via instant messaging + dark web; 1 child rescued; phones/computers/hard drives/USB devices/clothing/bedding seized. Cooperation channel: **QPS Task Force Argos (Brisbane) → AFP Liaison Officers in Mexico City → FGR-FEMDO + SSPC**. Long-standing informal bilateral; no MLAT cited. **First wiki record of MX↔AU CSAM bilateral cooperation pattern** + first wiki appearance of Mexican federal entities (FGR / FEMDO / SSPC / Secretaría de Marina) — none have wiki org pages yet (referenced in prose only).
+- Process notes: Single-agent regional-focus dispatch (JP/HK/MX/SG/IT/ES priority). Agent skipped Japan NPA (Cyber Guardian already in), Hong Kong CSTCB (Operation SECURE already in), Spain (Op Talent already in; Anonymous Fénix DANA pure-domestic), Indonesia Polri LCS Cambodia (weaker IC depth — Red Notice channel only). FGR direct URL HTTP 500 — used AFP joint release as primary tier-1 anchor (both jurisdictions co-signed). 6 Spanish-language secondary outlets supplemented (El Imparcial, Por Esto, Infobae, Informador, La Voz de Michoacán, SDP Noticias).
+
 ## [2026-05-09] ingest [single agent, regional focus] | Singapore Police Force 7-country cross-border online CSE operation (2026-04-28, SG+HK+JP+KR+MY+TH+BN)
 - Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
 - Pages updated: 7 country (SG, HK, JP, KR, MY, TH, BN), 6 organization (singapore-police, hong-kong-police, japan-npa, knpa, knpa-cyber-bureau, malaysia-police, royal-malaysia-police, thailand-royal-police, thai-royal-police), 1 crime-type (csam-ic), 1 cross-link (operation-cyber-guardian related operation).

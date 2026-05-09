@@ -16,6 +16,7 @@ operations_using:
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
+  - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
 ---
 ## Summary
 

@@ -78,12 +78,15 @@ results:
     - "Panama-Dominican Republic bilateral follow-up identified two suspects wanted by Panama and located in Dominican territory, triggering extradition proceedings."
 credibility_index: 4.2
 source_tier: 1
-missing_fields: []
-related_cases: []
+missing_fields:
+  []
+related_cases:
+  []
 related_operations:
   - "[[operation-orion-international]]"
   - "[[operation-cyber-guardian]]"
   - "[[operation-stream-kidflix]]"
+  - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
 challenges_encountered:
   - "CSAM operations require victim-identifying details to remain protected while still preserving cross-border evidentiary traceability."
 lessons_learned:

@@ -10,6 +10,7 @@ created: 2026-04-18
 updated: 2026-05-09
 operations_participated:
   - "[[operation-us-v-ricky-ramacho]]"
+  - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
 summary: "Mexico is relevant in the repository as a recurring jurisdictional touchpoint in extradition, border arrest, and cyber-enabled drug-trafficking cases."
 status: needs-official-source-ingestion
 last_verified: 2026-05-09

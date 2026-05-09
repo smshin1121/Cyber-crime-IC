@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (205 canonical / 27 absorbed / 232 records)
+# Operations (206 canonical / 27 absorbed / 233 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (205)
+## Canonical Operations (206)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -206,6 +206,7 @@ updated: 2026-04-14
 | [[tycoon-2fa-phishing-as-a-service-takedown-2026]] | CYB-2026-118 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[italy-hsi-europol-live-distant-child-abuse-2026]] | CYB-2026-LDCA | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-mad-hatter-csam-italy-fbi-2026]] | CYB-2026-MADHAT | 3 | completed | — | 1 | 4.50 | 1 |
+| [[mexico-yucatan-nayarit-csam-afp-fgr-2026]] | CYB-2026-MXAU-CSAM | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |
 | [[bidencash-takedown]] | — | 3 | completed | umbrella | 4 | 4.50 | 1 |

@@ -65,11 +65,12 @@ missing_fields:
   - "names and number of CSAM platforms or services targeted (not disclosed)"
   - "victim-identification figures (the press release does not give a number of identified child victims)"
 related_cases:
-  []
+
 related_operations:
   - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
+  - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Italian C.N.C.P.O. continues to use long-duration (2024 → 2026) undercover online infiltration as the primary investigative model for transnational CSAM cases, with foreign-source identification feeding the simultaneous national execution phase."
   - "AI-generated CSAM is now appearing in the seized material of mainstream Polizia Postale operations and is treated as part of the same offence stream as conventionally produced material."

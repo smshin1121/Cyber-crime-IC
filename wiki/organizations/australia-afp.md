@@ -41,6 +41,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+  - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
 org_type: national-agency
 parent_org: ""
 source_count: 6
