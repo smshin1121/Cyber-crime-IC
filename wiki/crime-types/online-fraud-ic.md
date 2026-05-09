@@ -61,13 +61,14 @@ notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
+  - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 43
+source_count: 44
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -112,6 +113,7 @@ sources:
   - "[[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds]]"
   - "[[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker]]"
   - "[[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]]"
+  - "[[2018-10-09_justice-gov_leader-international-cyber-fraud-ring-romeo-chita-racketeering]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -218,3 +220,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [41] | [[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds\|Treasury Sanctions DPRK Bankers and Institutions Involved in Laundering Cybercrime Proceeds and IT Worker Funds]] | US Department of the Treasury (OFAC), Press Release SB-0302 | 2025-11-04 | https://home.treasury.gov/news/press-releases/sb0302 |
 | [42] | [[2025-01-23_justice-gov_two-north-korean-nationals-three-facilitators-indicted-dprk-it-worker\|Two North Korean Nationals and Three Facilitators Indicted for Multi-Year Fraudulent Remote Information Technology Worker Scheme]] | US DOJ (OPA), Press Release 25-105 | 2025-01-23 | https://www.justice.gov/opa/pr/two-north-korean-nationals-and-three-facilitators-indicted-multi-year-fraudulent-remote |
 | [43] | [[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong\|Treasury Sanctions Fraud Network Funding DPRK Weapons Programs]] | US Department of the Treasury (OFAC), Press Release SB-0230 | 2025-08-27 | https://home.treasury.gov/news/press-releases/sb0230 |
+| [44] | [[2018-10-09_justice-gov_leader-international-cyber-fraud-ring-romeo-chita-racketeering\|Leader of International Cyber Fraud Ring Returned to United States to Face Federal Racketeering Charges]] | US DOJ (OPA) / USAO N.D. Ohio | 2018-10-09 | https://www.justice.gov/archives/opa/pr/leader-international-cyber-fraud-ring-returned-united-states-face-federal-racketeering |

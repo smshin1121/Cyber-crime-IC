@@ -14,6 +14,7 @@ mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
   - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
+  - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
 ---
 ## Summary
 

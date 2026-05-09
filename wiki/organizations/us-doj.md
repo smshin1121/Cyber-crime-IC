@@ -36,6 +36,7 @@ notable_cases:
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
   - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
   - "[[us-v-kai-west-intelbroker-2025]]"
+  - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:
@@ -990,6 +991,7 @@ operations_participated:
   - "[[operation-power-off-2025-05]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
+  - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

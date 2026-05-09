@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (728)
+# Sources (731)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -152,6 +152,7 @@ updated: 2026-04-14
 | [[2025-07-11_tga_operation-pangea-xvii-counterfeit-goods]] | press-release | Therapeutic Goods Administration | ? | high | ? |
 | [[2025-07-11_nca-uk_major-scam-centre-targeted-after-international-operation]] | press-release | UK National Crime Agency (NCA) | ? | high | ? |
 | [[2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme]] | press-release | Internal Revenue Service (Criminal Investigation) | ? | high | ? |
+| [[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions]] | press-release | U.S. Department of the Treasury, Office of Foreign Assets Control (OFAC) | ? | high | ? |
 | [[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2025-06-27_immuniweb-com_cybercrime-investigations-weekly-trusted-seller-fraud]] | news | ImmuniWeb | ? | medium | ? |
 | [[2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts]] | report | INSIGHT EU Monitoring | ? | medium | ? |
@@ -232,12 +233,14 @@ updated: 2026-04-14
 | [[2025-02-18_freepressjournal_operation-chakra-iv-german-tech-support-scam]] | news | Free Press Journal | ? | medium | ? |
 | [[2025-02-18_fintechbiznews-com_cbi-dismantles-virtual-asset-supported-transnational-cyber-crime-network]] | news | FinTech BizNews | ? | medium | ? |
 | [[cbs-news-hive-ransomware-infrastructure-takedown]] | news | CBS News | 3 | medium | ? |
+| [[2025-02-11_treasury_us-au-uk-zservers-sanctions-lockbit-ransomware]] | press-release | U.S. Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2025-02-11_techcrunch-com_authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown]] | news | TechCrunch | ? | medium | ? |
 | [[2025-02-11_europol_phobos-8base-ransomware-arrests]] | press-release | Europol | ? | high | ? |
 | [[2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators]] | news | BleepingComputer | ? | medium | ? |
 | [[2025-02-11-europol-phobos-8base-ransomware-arrests]] | press-release | Europol | ? | high | ? |
 | [[2026-04-18_justice-gov_phobos-ransomware-affiliates-arrested-coordinated-international-disruption]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2025-02-07_riskcompliance-biz_criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-busted]] | news | Risk & Compliance Platform Europe | ? | medium | ? |
+| [[2018-10-09_justice-gov_leader-international-cyber-fraud-ring-romeo-chita-racketeering]] | press-release | US DOJ (Office of Public Affairs); USAO Northern District of Ohio | ? | high | ? |
 | [[2025-02-01_interpol-int_annual-report-2024-operation-orion-international]] | report | INTERPOL | ? | high | ? |
 | [[2025-01-31_infosecurity-magazine_operation-talent-cracked-nulled-dismantled]] | news | Infosecurity Magazine | ? | medium | ? |
 | [[2025-01-31_bleepingcomputer-com_operation-talent-cracked-nulled]] | news | BleepingComputer | ? | medium | ? |

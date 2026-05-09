@@ -37,6 +37,7 @@ notable_cases:
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
   - "[[us-v-jalili-aghamiri-balaghi-irgc-hack-and-leak-2024]]"
   - "[[us-v-kai-west-intelbroker-2025]]"
+  - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:
@@ -79,6 +80,7 @@ operations_participated:
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
   - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
+  - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

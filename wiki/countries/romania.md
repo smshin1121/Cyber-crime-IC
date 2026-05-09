@@ -31,6 +31,7 @@ legal_system: civil-law
 notable_cases:
   - "[[us-v-dragomir-romanian-iab]]"
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-avalanche]]"

@@ -96,6 +96,7 @@ related_operations:
   - "[[operation-us-v-astamirov-vasiliev-lockbit]]"
   - "[[operation-cronos-phase2]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
 challenges_encountered:
 
 lessons_learned:

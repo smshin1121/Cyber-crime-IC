@@ -20,6 +20,8 @@ status: needs-official-source-ingestion
 last_verified: 2026-05-09
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 ---
 ## Summary
 

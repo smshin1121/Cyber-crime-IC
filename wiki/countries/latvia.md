@@ -24,6 +24,7 @@ assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
+  - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 ---
 ## Summary
 

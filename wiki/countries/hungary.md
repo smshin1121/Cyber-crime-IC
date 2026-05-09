@@ -34,7 +34,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
 notable_cases:
-
+  - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 cooperation_assessment: ""
 source_count: 1
 sources:

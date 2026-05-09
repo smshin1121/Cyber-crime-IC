@@ -66,6 +66,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-atlantic-approval-phishing-2026]]"
+  - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

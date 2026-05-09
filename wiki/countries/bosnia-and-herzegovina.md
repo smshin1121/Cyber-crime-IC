@@ -12,13 +12,15 @@ operations_participated:
   - "[[operation-shrouded-horizon]]"
 source_count: 0
 sources:
-  []
+
 created: 2026-04-17
-updated: 2026-05-03
+updated: 2026-05-09
 status: needs-official-source-ingestion
-last_verified: 2026-05-03
+last_verified: 2026-05-09
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
+notable_cases:
+  - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 ---
 ## Summary
 

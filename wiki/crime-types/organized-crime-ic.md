@@ -24,6 +24,7 @@ notable_operations:
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
 notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
+  - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 ---
 ## Summary
 

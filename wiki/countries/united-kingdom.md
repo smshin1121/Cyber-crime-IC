@@ -71,6 +71,8 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-atlantic-approval-phishing-2026]]"
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
+  - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
+  - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
 region: western-europe
 source_count: 5
 sources:

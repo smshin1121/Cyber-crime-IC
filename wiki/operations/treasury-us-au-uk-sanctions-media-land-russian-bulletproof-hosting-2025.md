@@ -6,7 +6,7 @@ aliases:
   - "Hypercore / Aeza follow-on designations"
   - "Treasury SB-0319"
   - "US-AU-UK Russian BPH sanctions 2025"
-case_id: "CYB-2025-111"
+case_id: CYB-2025-111
 period: 3
 operation_type: takedown
 status: completed
@@ -33,7 +33,8 @@ participating_countries:
 participating_agencies:
   - "[[us-treasury]]"
   - "[[fbi]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[asset-freezing]]"
 results:
@@ -50,30 +51,34 @@ results:
     - "Coordinated trilateral designations by U.S. (OFAC), Australia (DFAT), and UK (FCDO)"
     - "CISA + international partners released parallel guidance on mitigating risks from bulletproof hosting providers"
 edges:
-  - source_actor: "us-treasury"
-    target_actor: "fbi"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "us-treasury"
-    target_actor: "australia-dfat"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "us-treasury"
-    target_actor: "uk-fcdo"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
+  - source_actor: us-treasury
+    target_actor: fbi
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: us-treasury
+    target_actor: australia-dfat
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
+  - source_actor: us-treasury
+    target_actor: uk-fcdo
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
   - "specific SDN-list identifiers for designated persons (DOB, passport, address)"
   - "specific MLAT or Five Eyes information-sharing instrument cited"
-related_cases: []
+related_cases:
+
 related_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
-challenges_encountered: []
+  - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
+  - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
+challenges_encountered:
+
 lessons_learned:
   - "Sanctions evasion via cross-jurisdictional rebranding (Aeza → Hypercore via UK shell, plus Serbian and Uzbek enabler entities) requires sustained, repeated designation cycles to maintain pressure."
   - "Coordinated sanctions across three jurisdictions can target the financial-services and infrastructure layer of the ransomware ecosystem even where the underlying actors remain physically beyond extradition reach."
@@ -83,7 +88,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 # Trilateral Sanctions on Media Land and Aeza Group Russian Bulletproof Hosting (2025)
 
 ## Summary
