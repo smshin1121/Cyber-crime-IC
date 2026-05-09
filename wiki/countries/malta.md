@@ -13,11 +13,13 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
-source_count: 1
+  - "[[warzone-rat-takedown-2024]]"
+source_count: 2
 sources:
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 created: 2026-05-04
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 assessment_confidence: limited

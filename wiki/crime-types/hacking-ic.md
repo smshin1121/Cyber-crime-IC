@@ -47,9 +47,10 @@ notable_operations:
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
   - "[[operation-toy-soldier-gru-29155-estonia-2024]]"
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
+  - "[[warzone-rat-takedown-2024]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 26
+source_count: 27
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -77,6 +78,7 @@ sources:
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
   - "[[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia]]"
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -141,3 +143,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [24] | [[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest\|GIGN-FBI Saint-Martin crypto-hacker arrest — FR+US, USD 46M crypto recovered, mandat d'arrêt international + extradition pending]] | Gendarmerie nationale (France) | 2026-03-06 | https://www.gendarmerie.interieur.gouv.fr/presentation/a-l-international/cooperation-internationale-une-target-principale-interpellee-lors-d-une-operation-conjointe-du-fbi-a-saint-martin |
 | [25] | [[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia\|Operation Toy Soldier — joint attribution of GRU Unit 29155 cyberattacks; 3 indicted in EE, FBI parallel charges + USD 10M State Dept reward]] | Estonian PPA | 2024-09-05 | https://www.politsei.ee/en/news/a-gru-military-unit-launched-cyberattacks-against-estonian-authorities-12173 |
 | [26] | [[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti\|Commissariato di P.S. on-line — IT-US extradition of PRC HAFNIUM-campaign hacker Xu Zewei (Malpensa Jul 2025 arrest → Milan Apr 2026 extradition)]] | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | 2026-04-27 | https://www.commissariatodips.it/notizie/articolo/la-polizia-di-stato-esegue-lestradizione-di-un-pericoloso-hacker-cinese/index.html |
+| [27] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |

@@ -1013,15 +1013,17 @@ operations_participated:
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
+  - "[[warzone-rat-takedown-2024]]"
 org_type: national-agency
 parent_org: ""
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
   - "[[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 status: active
 title: "US Department of Justice (DOJ)"
 type: organization
@@ -1211,6 +1213,7 @@ DOJ is *highly likely* the most important US counterpart for Korean cybercrime c
 | [8] | [[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti\|Commissariato di P.S. on-line — IT-US extradition of PRC HAFNIUM-campaign hacker Xu Zewei (Malpensa Jul 2025 arrest → Milan Apr 2026 extradition)]] | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | 2026-04-27 | https://www.commissariatodips.it/notizie/articolo/la-polizia-di-stato-esegue-lestradizione-di-un-pericoloso-hacker-cinese/index.html |
 | [9] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |
 | [10] | [[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation\|NZ Police — Wellington man arrested in NZ-FBI joint USD 265M cryptocurrency-theft RICO investigation; 13 arrested across NZ + California]] | New Zealand Police — Financial Crime Group | 2025-05-16 | https://www.police.govt.nz/news/release/wellington-based-man-arrested-international-cryptocurrency-scam-investigation |
+| [11] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
 
 > [!note]
 > The original page body was created based on general knowledge (source_count: 0 in the frontmatter). The Current Status and History and Reorganizations sections above are verified against web sources as of 2026-04-10. Additional historical claims (e.g., 1870 establishment, OIA MLAT statistics) should be verified against DOJ annual reports.

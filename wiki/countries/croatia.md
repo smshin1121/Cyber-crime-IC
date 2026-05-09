@@ -11,11 +11,12 @@ operations_participated:
   - "[[operation-shrouded-horizon]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
-source_count: 0
+  - "[[warzone-rat-takedown-2024]]"
+source_count: 1
 sources:
-
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 created: 2026-04-17
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 assessment_confidence: limited

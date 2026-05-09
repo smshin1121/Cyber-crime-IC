@@ -49,6 +49,7 @@ notable_operations:
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
+  - "[[warzone-rat-takedown-2024]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -57,7 +58,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 28
+source_count: 29
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -87,6 +88,7 @@ sources:
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 created: 2026-04-17
 updated: 2026-05-10
 status: active
@@ -143,3 +145,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [26] | [[2026-04-22_police-be_phishingpanelen-leverancier-arrest\|Belgian Federal Police — CaaS phishing-panel supplier arrest, NL→BE surrender, EUR 28K cash + data carriers seized (FGP Oost-Vlaanderen + Europol)]] | Belgian Federal Police (Politie.be / Police.be) | 2026-04-22 | https://www.police.be/5998/nl/nieuws/crime-as-a-service-leverancier-phishingpanelen-aan-phishingbendes-opgepakt |
 | [27] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |
 | [28] | [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits\|AFP intelligence leads to 8 arrests over Malaysia-based phishing-kit-as-a-service syndicate cloning AU myGov, MY and US Government services; 4 servers + 60+TB seized]] | Australian Federal Police (AFP) | 2023-11-27 | https://www.afp.gov.au/news-centre/media-release/afp-intelligence-leads-eight-arrests-over-phishing-kits |
+| [29] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |

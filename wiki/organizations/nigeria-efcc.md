@@ -3,13 +3,14 @@ type: organization
 title: "Nigeria Economic and Financial Crimes Commission"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-05-10
 last_verified: 2026-04-29
 org_type: anti-corruption-financial-crime-agency
 country: "[[nigeria]]"
-jurisdiction: [[nigeria]]
+jurisdiction:
+
 official_name: "Economic and Financial Crimes Commission"
-abbreviation: "EFCC"
+abbreviation: EFCC
 mandate: "Nigerian financial-crime and anti-corruption agency with a recurring role in cyber-enabled fraud and BEC enforcement."
 key_roles:
   - "Domestic arrest and investigative partner for Nigeria-origin BEC and online-fraud cases."
@@ -17,13 +18,15 @@ key_roles:
 operations_participated:
   - "[[bec-nigeria-2016]]"
   - "[[operation-killer-bee]]"
+  - "[[warzone-rat-takedown-2024]]"
 cooperation_partners:
   - "[[interpol]]"
   - "[[trend-micro]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2016-08-01_interpol-es_ringleader-of-global-network-behind-thousands-of-online-scams-arrested-in-nigeria]]"
   - "[[interpol-operation-killer-bee]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 ---
 ## Summary
 

@@ -4,7 +4,8 @@ aliases:
 contact_point_for:
 
 country: "[[germany]]"
-jurisdiction: [[germany]]
+jurisdiction:
+
 created: 2026-04-10
 established: "varies by Land"
 headquarters: "One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf,"
@@ -21,15 +22,16 @@ operations_participated:
   - "[[cyberbunker-takedown]]"
   - "[[vpnlab-takedown]]"
   - "[[proxy-service-takedown-2026-03]]"
+  - "[[warzone-rat-takedown-2024]]"
 org_type: national-agency
 parent_org: "Interior Ministry of each of Germany's 16 federal states (Länder)"
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 status: active
 title: "Landeskriminalamt (LKA) — German State Criminal Police Offices (Collective)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-10
 ---
 > [!info] Collective reference
 > This page is a **collective reference** for Germany's 16 state-level **Landeskriminalämter (LKAs)**, not a single agency. Each LKA is an independent authority subordinate to its Land's interior ministry. For specific LKAs (e.g. LKA Bayern, LKA Baden-Württemberg), dedicated pages should be created when needed.
@@ -96,3 +98,4 @@ Direct bilateral engagement by LKAs with foreign police is *unlikely* to be stan
 | [1] | Landeskriminalamt | Wikipedia (en) | n.d. | https://en.wikipedia.org/wiki/Landeskriminalamt |
 | [2] | LKA Bayern — Information in English | Polizei Bayern | n.d. | https://www.polizei.bayern.de/mam/lka-bayern/sonstige/information_in_english.pdf |
 | [3] | Law enforcement agencies — State Criminal Police Office Baden-Württemberg (LKA BW) | THW Sicherheitsforschung | n.d. | https://thw-forschung.de/EN/Forschungsprojekte/ForAn/Mitglieder/Polizeiliche-Gefahrenabwehr/_dokumente/steckbrief-foran-LKA-BW.html |
+| [4] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |

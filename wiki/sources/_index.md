@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (802)
+# Sources (803)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -446,6 +446,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_foreign-national-pleads-guilty-role-cybercrime-schemes-involving-tens-millions-dollars]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-02-20_europol_operation-cronos-lockbit]] | press-release | Europol | ? | high | ? |
 | [[2024-02-20-europol-operation-cronos-lockbit]] | press-release | Europol | ? | high | ? |
+| [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]] | press-release | Australian Federal Police | ? | high | ? |
 | [[kaspersky-operation-avalanche]] | press-release | Kaspersky | 3 | medium | ? |
 | [[2024-01-26_opa_banmeet-singh-dark-web-vendor-plea]] | court-document | US DOJ Office of Public Affairs | ? | high | ? |
 | [[2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown]] | news | China Daily | ? | medium | ? |

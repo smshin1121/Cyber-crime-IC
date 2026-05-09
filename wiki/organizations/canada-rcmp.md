@@ -46,11 +46,13 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
+  - "[[warzone-rat-takedown-2024]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 status: active
 title: "RCMP — National Cybercrime Coordination Centre (NC3)"
 type: organization
@@ -108,3 +110,4 @@ NC3's cooperation effectiveness is *likely* high given the Five Eyes operational
 | [2] | The National Cybercrime Coordination Centre | RCMP | n.d. | https://www.rcmp-grc.gc.ca/en/nc3 |
 | [3] | NC3 and CAFC Privacy Impact Assessment | RCMP | n.d. | https://www.rcmp-grc.gc.ca/en/nc3 |
 | [4] | [[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters\|RCMP Central Region (Ontario) — Toronto couple arrested as alleged top-50 worldwide subscribers of iSpoof.cc spoofing-as-a-service; 570+ Canadian victims (Feb 2025)]] | Royal Canadian Mounted Police — Central Region (Ontario) | 2025-02-20 | https://www.rcmp-grc.gc.ca/en/news/2025/02/ontario-rcmp-shuts-down-prolific-cyber-fraudsters |
+| [5] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |

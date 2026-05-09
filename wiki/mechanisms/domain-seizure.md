@@ -3,7 +3,7 @@ type: mechanism
 title: "Domain Seizure"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-09
+updated: 2026-05-10
 source_count: 4
 sources:
   - "[[2015-04-09_scworld-com_international-effort-takes-down-beebone-botnet]]"
@@ -15,6 +15,7 @@ operations_using:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
+  - "[[warzone-rat-takedown-2024]]"
 ---
 ## Summary
 

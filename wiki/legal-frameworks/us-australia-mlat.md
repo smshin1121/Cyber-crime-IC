@@ -3,7 +3,7 @@ type: legal-framework
 title: "US-Australia Mutual Assistance Treaty"
 status: in-force
 created: 2026-04-26
-updated: 2026-04-29
+updated: 2026-05-10
 source_count: 1
 sources:
   - "[[2026-04-29_congress-gov_us-australia-mlat-treaty-document-105-27]]"
@@ -12,6 +12,8 @@ scope:
   international_cooperation: true
   evidence: varies
   substantive_law: varies
+operations_enabled:
+  - "[[warzone-rat-takedown-2024]]"
 ---
 ## Summary
 

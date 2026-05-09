@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (248 canonical / 27 absorbed / 275 records)
+# Operations (249 canonical / 27 absorbed / 276 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (248)
+## Canonical Operations (249)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -124,6 +124,7 @@ updated: 2026-04-14
 | [[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]] | CYB-2024-AR-KAERB | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-pandora-12-phone-fraud-call-centres-2024]] | CYB-2024-PND | 3 | completed | — | 2 | 4.50 | 1 |
 | [[operation-toy-soldier-gru-29155-estonia-2024]] | CYB-2024-TOYSOLDIER | 3 | ongoing | — | 1 | 4.50 | 1 |
+| [[warzone-rat-takedown-2024]] | CYB-2024-WZN | 2 | completed | — | 2 | 4.50 | 1 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | umbrella | 5 | — | — |
 | [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | umbrella | 5 | — | — |

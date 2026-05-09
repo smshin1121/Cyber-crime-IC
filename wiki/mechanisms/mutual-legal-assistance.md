@@ -3,7 +3,7 @@ type: mechanism
 title: "Mutual Legal Assistance"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-04-29
+updated: 2026-05-10
 last_verified: 2026-04-10
 source_count: 4
 sources:
@@ -16,6 +16,7 @@ operations_using:
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
+  - "[[warzone-rat-takedown-2024]]"
 cases_using:
   - "[[us-v-szabo-swatting-ring]]"
 ---

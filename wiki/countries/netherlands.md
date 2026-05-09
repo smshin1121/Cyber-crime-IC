@@ -74,8 +74,9 @@ operations_participated:
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
+  - "[[warzone-rat-takedown-2024]]"
 region: western-europe
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
@@ -87,6 +88,7 @@ sources:
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 title: "Kingdom of the Netherlands"
 treaty_memberships:
   - date: 2006-11-16

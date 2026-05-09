@@ -15,15 +15,16 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
+  - "[[warzone-rat-takedown-2024]]"
 region: east-asia
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 title: Japan
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

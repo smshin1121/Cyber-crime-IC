@@ -19,15 +19,16 @@ operations_participated:
   - "[[operation-contender-2]]"
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
   - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
+  - "[[warzone-rat-takedown-2024]]"
 region: west-africa
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 title: "Federal Republic of Nigeria"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-08
+updated: 2026-05-10
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

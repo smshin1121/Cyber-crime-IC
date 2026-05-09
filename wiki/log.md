@@ -1864,3 +1864,41 @@
   - L19-strict applied: 3 wikilinked agencies (australia-afp, malaysia-police, fbi-cyber-division) named in source AND with wiki pages.
   - L23-strict applied: lead_agency=`[[malaysia-police]]` (existing wiki page); coordinating_body left empty.
   - 7 reference rows appended; 12 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | AFP-FBI-Europol Warzone RAT takedown — Malta + Nigeria arrests (Feb 2024)
+- Source: raw/press-releases/2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest.md (Australian Federal Police media release; en).
+- Pages created: wiki/sources/2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest.md, wiki/operations/warzone-rat-takedown-2024.md (source_count=2 — AFP primary plus DOJ 24-163 cross-referenced inline in raw).
+- Pages updated: none (per task: "Do NOT modify country/agency pages — backlinks come later").
+- Iter 122 publisher choice: second AFP primary release (one ingested in iter 121 was the Malaysia myGov phishing-kit op). The Warzone RAT operation is a different operation entirely — RAT MaaS distributor takedown, not phishing-kit syndicate.
+- Key findings:
+  - **AFP-led intelligence (2020) → FBI prosecutorial case (2023 indictments) → simultaneous Malta + Nigeria arrests on 7 Feb 2024**. AFP Cyber Command identified Warzone as emerging cyber threat in 2020 and contributed intelligence used to coordinate the international takedown.
+  - **2 defendants indicted, 4 domains seized, MaaS infrastructure dismantled**: Daniel Meli (27, Zabbar, Malta) — N.D. Ga. indictment 12 Dec 2023, four counts; Prince Onyeoziri Odinakachi (31, Nigeria) — D. Mass. indictment 30 Jan 2024, conspiracy. warzone.ws + 3 related domains seized by D. Mass.
+  - **11-country acknowledgments** from DOJ: Australia, Canada, Croatia, Finland, Germany (Saxony LKA specifically), Japan (Ministry of Justice specifically), Malta, Netherlands, Nigeria, Romania, United States. Coordinated through Europol EC3.
+  - **Subscription-based RAT** priced from approximately AUD/USD $25/month with capabilities including credential theft, keylogging, webcam access, and use as a vector for ransomware and phishing.
+  - L19-strict applied: 12 wikilinked participants (FBI, FBI Cyber Division, US-DOJ, OIA, AFP, Europol-EC3, Nigeria-EFCC, Finland-NBI, Germany-LKA, Netherlands-Politie, Canada-RCMP, Romania-Police) all named in DOJ release AND existing as wiki pages. Croatian MOI Criminal Police Directorate, Japan Ministry of Justice, Malta Police Force kept in prose only since no canonical wiki entity pages exist for them.
+  - L23-strict applied: lead_agency=`[[fbi]]` (FBI Boston/Atlanta led per DOJ); coordinating_body=`[[europol-ec3]]` (per DOJ "in large part through Europol").
+  - Lint: HIGH=12 (all expected missing_backlink for the 12 newly-referenced agencies — backlink propagation deferred per task instruction); CRITICAL=0; MEDIUM=0; LOW=0.
+  - check_links: broken=2 (both pre-existing legacy LESSONS.md backlinks in unrelated bohemia-cannabia HTML, NOT introduced by this iter).
+- Rejected first candidates this iter:
+  - Finland KRP Operation Trojan Shield page (June 2021, Operation Greenlight) — too old and likely already covered as Trojan Shield.
+  - LabHost Finnish participation page — duplicates `labhost-phishing-as-a-service-takedown-2024.md`.
+  - Sweden Polisen Operation GRIMM April 2026 — duplicates `operation-otf-grimm.md`.
+  - Sweden Polisen Operation Candy 2026-03 — duplicates `operation-candy-encrypted-comms-drugs-2026.md` and is primarily drug trafficking, not cybercrime IC.
+  - Sweden Polisen 2026-04 EMPACT Trident — primarily organized cross-border crime, not cybercrime IC.
+  - Norway Kripos PowerOFF April 2026 — duplicates `operation-power-off-2026-04.md`.
+  - Latvia State Police "Vērienīgā starptautiskā operācijā" call-centre — March 2022, too old.
+  - DIICOT 2026 press releases — DIICOT.ro fronted by aggressive anti-bot JS that defeats curl_cffi + Wayback.
+  - DIICOT "Umbrella Security" June 2024 ransomware bust — strong candidate but the canonical DIICOT URL is JS-blocked; deferred until accessible.
+
+## [2026-05-10] ingest | Warzone RAT takedown — Malta + Nigeria arrests, US 4-domain seizure (AFP-FBI-Europol-EFCC, Feb 2024)
+- Source: raw/press-releases/2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest.md (Australian Federal Police; en).
+- Pages created: wiki/sources/2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest.md, wiki/operations/warzone-rat-takedown-2024.md (provisional, source_count=1).
+- Pages updated: 11 country pages (united-states, australia, malta, nigeria, canada, croatia, finland, germany, japan, netherlands, romania); 12 agencies (fbi, fbi-cyber-division, us-doj, office-of-international-affairs, australia-afp, europol-ec3, nigeria-efcc, finland-nbi, germany-lka, netherlands-politie, canada-rcmp, romania-police); 3 crime-types (malware-ic, cybercrime-infrastructure-ic, hacking-ic); 3 legal-frameworks (computer-fraud-and-abuse-act, us-australia-mlat, budapest-convention); 4 mechanisms (mlat-process, mutual-legal-assistance, domain-seizure, extradition).
+- Key findings:
+  - **Second AFP primary release in wiki** (iter 121 + iter 122) — afp.gov.au promoted to multi-source publisher status.
+  - **Warzone RAT MaaS distribution network takedown** — warzone.ws + 3 related domains seized in D. Mass.; Daniel Meli (27, Zabbar, Malta) arrested 2024-02-07 by Malta Police Force at US request; Prince Onyeoziri Odinakachi (31, Nigeria) arrested 2024-02-07 by Nigeria EFCC Port Harcourt Zonal Command. RAT subscription priced ~AUD/USD 25/month.
+  - **11-country IC scope** — largest country count on a single operation since iter 117 Aliados VI; 12 agency wikilinks across FBI/AFP/Europol/EFCC/RCMP/Finland NBI/Germany LKA/Netherlands Politie/Romania Police.
+  - **Indictment districts**: ND Georgia (Meli, 12 Dec 2023, 4 counts) + D Mass. (Odinakachi, 30 Jan 2024, computer-intrusion conspiracy).
+  - L19/L23 strict applied: 12 wiki-linked agencies all named in source AND with wiki pages. 3 prose-only entities (Malta Police Force, Croatian MOI Criminal Police Directorate, Japan MoJ — no wiki pages yet).
+  - lead_agency=`[[fbi]]`; coordinating_body=`[[europol-ec3]]`.
+  - 18 reference rows appended; 31 pages with `updated:` bumped.

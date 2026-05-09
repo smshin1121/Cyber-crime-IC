@@ -46,11 +46,13 @@ operations_participated:
   - "[[operation-atlantic-approval-phishing-2026]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
+  - "[[warzone-rat-takedown-2024]]"
 region: north-america
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 title: Canada
 treaty_memberships:
   - date: 2015-07-08
@@ -132,3 +134,4 @@ Capacity is *almost certainly* high. Canada has deep technical resources, biling
 | [5] | National Cybercrime Coordination Centre (NC3) | Royal Canadian Mounted Police | — | https://www.rcmp-grc.gc.ca/en/nc3 |
 | [6] | [[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate\|NPA AFU R43M restraint vs Bryanston call-centre syndicate (Canada named as victim country)]] | National Prosecuting Authority of South Africa | 2026-04-21 | https://www.npa.gov.za/media/afu-secures-r43-million-restraint-order-against-international-call-centre-scam-syndicate |
 | [7] | [[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters\|RCMP Central Region (Ontario) — Toronto couple arrested as alleged top-50 worldwide subscribers of iSpoof.cc spoofing-as-a-service; 570+ Canadian victims (Feb 2025)]] | Royal Canadian Mounted Police — Central Region (Ontario) | 2025-02-20 | https://www.rcmp-grc.gc.ca/en/news/2025/02/ontario-rcmp-shuts-down-prolific-cyber-fraudsters |
+| [8] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |

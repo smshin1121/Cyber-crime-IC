@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[romania]]"
 jurisdiction:
-  -
-    - romania
+
 created: 2026-04-10
 established: unknown
 frameworks_administered:
@@ -28,15 +27,16 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
   - "[[operation-cookie-monster]]"
+  - "[[warzone-rat-takedown-2024]]"
 org_type: national-unit
 parent_org: "[[romania-police]]"
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 status: active
 title: "Romanian National Police — Service for Combating Cybercrime (DCCO)"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-10
 ---
 ## Summary
 

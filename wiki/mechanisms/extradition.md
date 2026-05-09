@@ -40,6 +40,7 @@ operations_using:
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
+  - "[[warzone-rat-takedown-2024]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"

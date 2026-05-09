@@ -80,8 +80,9 @@ operations_participated:
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
   - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[warzone-rat-takedown-2024]]"
 region: western-europe
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -93,6 +94,7 @@ sources:
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09
@@ -104,7 +106,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 

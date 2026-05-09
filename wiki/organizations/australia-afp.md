@@ -44,12 +44,14 @@ operations_participated:
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
+  - "[[warzone-rat-takedown-2024]]"
 org_type: national-agency
 parent_org: ""
-source_count: 8
+source_count: 9
 sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
+  - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
 status: active
 title: "Australian Federal Police — Cyber Command"
 type: organization
@@ -137,3 +139,4 @@ The AFP's cooperation capacity is *highly likely* one of the strongest in the As
 | [6] | Fighting cyber crime a key driver of the AFP's new command structure | Cyber Daily | 2025 | https://www.cyberdaily.au/strategy/8824-fighting-cybercrime-a-key-driver-of-the-australian-federal-police-s-new-command-structure |
 | [7] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [8] | [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits\|AFP intelligence leads to 8 arrests over Malaysia-based phishing-kit-as-a-service syndicate cloning AU myGov, MY and US Government services; 4 servers + 60+TB seized]] | Australian Federal Police (AFP) | 2023-11-27 | https://www.afp.gov.au/news-centre/media-release/afp-intelligence-leads-eight-arrests-over-phishing-kits |
+| [9] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
