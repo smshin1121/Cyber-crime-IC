@@ -67,6 +67,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-atlantic-approval-phishing-2026]]"
 region: western-europe
 source_count: 5
 sources:

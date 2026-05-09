@@ -11,8 +11,7 @@ established: ""
 parent_org: ""
 country: "[[united-kingdom]]"
 jurisdiction:
-  -
-    - united-kingdom
+
 headquarters: "London, United Kingdom"
 mandate: "UK police force named by Eurojust as the United Kingdom authority in Operation Switch Off."
 member_states: 0
@@ -24,10 +23,11 @@ cooperation_partners:
 operations_participated:
   - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
+  - "[[operation-atlantic-approval-phishing-2026]]"
 notable_cases:
-  []
+
 contact_point_for:
-  []
+
 source_count: 1
 sources:
   - "[[2026-02-03_eurojust_successful-operation-illegal-streaming-services]]"

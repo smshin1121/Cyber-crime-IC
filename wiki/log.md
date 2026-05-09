@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-09] ingest | UK NCA 2026-04-09 — Operation Atlantic: NCA-led UK-US-Canada cryptocurrency 'approval phishing' takedown ($12M frozen, 20,000 victims, $45M fraud identified)
+- Source: `raw/press-releases/2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters.md` (NCA Newsroom press release; tier-1 primary)
+- Pages created: [[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters]] (source summary), [[operation-atlantic-approval-phishing-2026]] (operation page)
+- Pages updated: [[united-kingdom]], [[united-states]], [[canada]] (operations_participated), [[uk-nca]], [[us-secret-service]], [[city-of-london-police]] (operations_participated), [[online-fraud-ic]], [[money-laundering-ic]] (notable_operations + sources + body Reference rows).
+- Key findings: NCA-led weeklong UK-US-Canada international action against cryptocurrency 'approval phishing' fraud. Co-hosted by NCA + US Secret Service + Ontario Provincial Police + Ontario Securities Commission; UK participation also from City of London Police + Financial Conduct Authority. Outcomes: 20,000+ victims identified, USD 12M+ frozen, USD 45M+ in cryptocurrency fraud identified globally; 120+ web domains disrupted (per corresponding US Secret Service release); one UK victim documented loss > GBP 52,000. Establishes (a) the NCA-led UK-US-Canada tri-jurisdiction North-Atlantic cooperation pattern, (b) **'approval phishing' as a discrete cryptocurrency-fraud technique class** (granting attackers ongoing wallet access vs. one-time credential capture), (c) NCA London HQ physical co-location format paralleling Europol J-CAT / data-sprint formats, and (d) **asset-recovery-first metric set** (frozen funds + victims as primary outcomes; zero documented arrests in cited release).
+
 ## [2026-05-09] ingest | FBI Atlanta 2026-04-10 — W3LL phishing kit / W3LLSTORE takedown (FBI Atlanta + Indonesian National Police; first US-Indonesia phishing-developer action)
 - Source: `raw/press-releases/2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll.md` (FBI Atlanta press release; tier-1 primary)
 - Pages created: [[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll]] (source summary), [[w3ll-phishing-kit-takedown-2026]] (operation page)

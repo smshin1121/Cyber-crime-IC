@@ -64,6 +64,7 @@ operations_participated:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-atlantic-approval-phishing-2026]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

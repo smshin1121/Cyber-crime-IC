@@ -51,6 +51,7 @@ notable_operations:
   - "[[black-axe-spain-takedown-2026]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
+  - "[[operation-atlantic-approval-phishing-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -62,7 +63,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 38
+source_count: 39
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -102,6 +103,7 @@ sources:
   - "[[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation]]"
   - "[[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]]"
   - "[[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll]]"
+  - "[[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -203,3 +205,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [36] | [[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation\|34 arrests in Spain during action against the 'Black Axe' criminal organisation]] | Europol | 2026-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/34-arrests-in-spain-during-action-against-black-axe-criminal-organisation |
 | [37] | [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice\|Global cybercrime crackdown: over 373 000 dark web sites shut down (Operation Alice)]] | Europol | 2026-03-21 | https://www.europol.europa.eu/media-press/newsroom/news/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down |
 | [38] | [[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll\|FBI Atlanta, Indonesian Authorities Take Down Global Phishing Network Behind Millions in Fraud Attempts (W3LL phishing kit)]] | FBI Atlanta Field Office | 2026-04-10 | https://www.fbi.gov/contact-us/field-offices/atlanta/news/fbi-atlanta-indonesian-authorities-take-down-global-phishing-network-behind-millions-in-fraud-attempts |
+| [39] | [[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters\|Fraudsters targeting cryptocurrency stopped and $12 million frozen in NCA-led Operation Atlantic]] | UK National Crime Agency | 2026-04-09 | https://www.nationalcrimeagency.gov.uk/news/fraudsters-targeting-cryptocurrency-stopped-and-12-million-frozen-in-nca-led-operation-atlantic |
