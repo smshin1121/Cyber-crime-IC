@@ -4,7 +4,7 @@ title: "Organized Crime - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-09
-source_count: 8
+source_count: 9
 sources:
   - "[[2019-05-01_bbc-com_technology-48294788]]"
   - "[[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]]"
@@ -14,12 +14,14 @@ sources:
   - "[[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds]]"
   - "[[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation]]"
   - "[[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand]]"
+  - "[[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[black-axe-spain-takedown-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
+  - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
 notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
 ---

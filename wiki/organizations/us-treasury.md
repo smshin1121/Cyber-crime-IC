@@ -6,7 +6,9 @@ contact_point_for:
 cooperation_partners:
 
 country: "[[united-states]]"
-jurisdiction: [[united-states]]
+jurisdiction:
+  -
+    - united-states
 created: 2026-04-10
 established: 1789
 frameworks_administered:
@@ -14,7 +16,7 @@ frameworks_administered:
 headquarters: "Washington, D.C., United States"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-05-09
 mandate: "Apply US economic sanctions and financial regulatory tools against cybercriminals,"
 mechanisms_operated:
 
@@ -29,6 +31,7 @@ operations_participated:
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[dridex-operations]]"
   - "[[911-s5-botnet-takedown]]"
+  - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
 org_type: national-agency
 parent_org: "[[us-federal-government]]"
 source_count: 8
@@ -37,7 +40,7 @@ sources:
 status: active
 title: "US Department of the Treasury — OFAC and FinCEN (Cyber)"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-09
 ---
 ## Current Status (as of 2026-04-10)
 

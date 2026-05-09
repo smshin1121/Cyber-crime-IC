@@ -167,6 +167,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[operation-atlantic-approval-phishing-2026]]"
+  - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
 region: north-america
 source_count: 1
 sources:

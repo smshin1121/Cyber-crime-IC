@@ -45,6 +45,7 @@ operations_participated:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[operation-atlantic-approval-phishing-2026]]"
+  - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
 source_count: 4
