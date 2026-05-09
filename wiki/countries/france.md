@@ -50,6 +50,7 @@ operations_participated:
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
 region: western-europe
 source_count: 6
 sources:

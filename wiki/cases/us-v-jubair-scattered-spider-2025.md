@@ -31,10 +31,10 @@ ic_elements:
   extradition: "Not announced in the release. Jubair is detained in the UK on a separate UK investigation; whether the United States will seek extradition for the D.N.J. complaint, file a separate superseding indictment, or defer to the UK prosecution is not stated."
   evidence_from_abroad:
     - "United Kingdom"
-    - "Netherlands"
-    - "Romania"
-    - "Canada"
-    - "Australia"
+    - Netherlands
+    - Romania
+    - Canada
+    - Australia
   foreign_arrests:
     - "United Kingdom (2025-09-16; arrest executed by UK authorities in a separate UK investigation, not on the U.S. complaint)"
   asset_freezing:
@@ -62,8 +62,9 @@ sources:
   - "[[2025-09-18_justice-gov_united-kingdom-national-charged-multiple-cyber-attacks-jubair]]"
 created: 2026-05-09
 updated: 2026-05-09
+related_cases:
+  - "[[us-v-five-scattered-spider-members-2024]]"
 ---
-
 > [!info] Provisional case page (source_count = 1)
 > Below the preferred publication threshold of source_count >= 5. The page is published as a provisional record because the DOJ-OPA / USAO-NJ press release is a tier-1 primary source and the case has clear durable IC value (parallel UK + US prosecution chain for a single Scattered Spider defendant; named federal-judiciary victim; eight-agency / six-country cooperation footprint). Should be promoted to a full case page once additional tier-1 filings (D.N.J. complaint affidavit, future indictment, extradition request if filed, plea / verdict) are ingested.
 

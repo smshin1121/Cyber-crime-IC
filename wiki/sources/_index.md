@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (742)
+# Sources (744)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -299,6 +299,7 @@ updated: 2026-04-14
 | [[2024-11-27_eurojust_crackdown-illegal-streaming-network-22-million-users-worldwide]] | news | Eurojust | ? | high | ? |
 | [[2024-11-26_apnews_interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa]] | news | Associated Press | ? | medium | ? |
 | [[2024-11-26-interpol-operation-serengeti]] | press-release | INTERPOL | ? | high | ? |
+| [[2024-11-20_justice-gov_five-members-scattered-spider-charged-cybercrime-attacks]] | press-release | U.S. Department of Justice — U.S. Attorney's Office, Central District of California (USAO-CDCA) | ? | high | ? |
 | [[2026-04-18_justice-gov_phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-11-07_arstechnica-com_interpol-operation-synergia-ii-22000-malicious-ips]] | news | Ars Technica | ? | medium | ? |
 | [[2024-11-06_group-ib-com_group-ib-supports-interpol-operation-synergia-ii]] | press-release | Group-IB | ? | medium | ? |
@@ -337,6 +338,7 @@ updated: 2026-04-14
 | [[2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform]] | press-release | The Register | ? | medium | ? |
 | [[2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh]] | press-release | The Record | ? | medium | ? |
 | [[2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | press-release | Reuters | ? | medium | ? |
+| [[2024-09-18_justice-gov_court-authorized-operation-disrupts-raptor-train-botnet-flax-typhoon]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |
 | [[2024-09-18_eurojust-europa-eu_51-arrests-wide-scale-operation-take-down-encrypted-communication-platform-used-organised-crime-groups]] | press-release | Eurojust | ? | high | ? |
 | [[2024-09-18_afp-gov-au_afp-operation-kraken-charges-alleged-head-of-global-organised-crime-app]] | press-release | Australian Federal Police | ? | medium | ? |
 | [[2024-09-04_justice-gov_doppelganger-russian-influence-operation-domain-seizures]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |

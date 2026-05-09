@@ -17,6 +17,7 @@ verification_scope: "country profile not verified beyond linked operation/source
 operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
 ---
 ## Summary
 

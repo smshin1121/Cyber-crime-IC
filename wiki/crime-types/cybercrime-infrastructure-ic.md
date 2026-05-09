@@ -35,6 +35,7 @@ notable_operations:
   - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
+  - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -43,7 +44,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 14
+source_count: 15
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -59,6 +60,7 @@ sources:
   - "[[2024-10-29_eurojust-europa-eu_operation-magnus-redline-meta-infostealer-takedown]]"
   - "[[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel]]"
   - "[[2024-09-04_justice-gov_doppelganger-russian-influence-operation-domain-seizures]]"
+  - "[[2024-09-18_justice-gov_court-authorized-operation-disrupts-raptor-train-botnet-flax-typhoon]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: active
@@ -101,3 +103,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [12] | [[2024-10-29_eurojust-europa-eu_operation-magnus-redline-meta-infostealer-takedown\|Operation Magnus — international takedown of RedLine and META information stealers]] | Eurojust | 2024-10-29 | https://www.eurojust.europa.eu/news/malware-targeting-millions-people-taken-down-international-coalition |
 | [13] | [[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel\|North Korean Government Hacker Charged for Involvement in Ransomware Attacks Targeting U.S. Hospitals (Rim Jong Hyok / Andariel)]] | US DOJ (OPA) | 2024-07-25 | https://www.justice.gov/opa/pr/north-korean-government-hacker-charged-involvement-ransomware-attacks-targeting-us |
 | [14] | [[2024-09-04_justice-gov_doppelganger-russian-influence-operation-domain-seizures\|Justice Department Disrupts Covert Russian Government-Sponsored Foreign Malign Influence Operation (Doppelganger)]] | US DOJ (OPA) | 2024-09-04 | https://www.justice.gov/opa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign-influence |
+| [15] | [[2024-09-18_justice-gov_court-authorized-operation-disrupts-raptor-train-botnet-flax-typhoon\|Court-Authorized Operation Disrupts Worldwide Botnet Used by PRC State-Sponsored Hackers (Raptor Train / Flax Typhoon / Integrity Technology Group)]] | US DOJ (OPA), Press Release 24-1173 | 2024-09-18 | https://www.justice.gov/opa/pr/court-authorized-operation-disrupts-worldwide-botnet-used-peoples-republic-china-state |

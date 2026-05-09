@@ -36,6 +36,7 @@ notable_cases:
   - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
+  - "[[us-v-five-scattered-spider-members-2024]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -78,6 +79,7 @@ operations_participated:
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+  - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
 region: western-europe
 source_count: 5
 sources:

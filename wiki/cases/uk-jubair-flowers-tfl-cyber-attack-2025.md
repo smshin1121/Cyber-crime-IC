@@ -36,14 +36,14 @@ related_operation:
   - "[[us-v-jubair-scattered-spider-2025]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: "None — both defendants are UK nationals arrested on UK soil and prosecuted in UK courts. No US extradition request announced; UK prosecution covers Flowers' alleged offences against US healthcare entities directly."
   evidence_from_abroad:
     - "United States (SSM Health Care Corporation and Sutter Health victim incident evidence — likely (55-80%) supplied via FBI cooperation, not specified in source)"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[uk-nca]]"
   - "[[city-of-london-police]]"
@@ -60,6 +60,8 @@ sources:
   - "[[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers]]"
 created: 2026-05-09
 updated: 2026-05-09
+related_cases:
+  - "[[us-v-five-scattered-spider-members-2024]]"
 ---
 > [!info] Provisional case page (source_count = 1)
 > Below the preferred publication threshold of source_count >= 5. The page is published as a provisional record because the NCA press release is a tier-1 primary source and the case has clear durable IC value (UK-as-venue prosecution for cross-border attacks on US victims; RIPA s.49 password-disclosure charge; Scattered Spider attribution). Should be promoted to a full case page once additional tier-1 filings (CPS charge sheet, Crown Court indictment, judgment) are ingested.

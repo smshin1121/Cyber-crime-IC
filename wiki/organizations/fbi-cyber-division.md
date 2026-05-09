@@ -113,6 +113,7 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[operation-blackshades]]"
   - "[[operation-card-shop]]"
+  - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

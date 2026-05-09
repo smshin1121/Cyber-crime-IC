@@ -32,6 +32,7 @@ notable_cases:
   - "[[us-v-stryzhak-nefilim]]"
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-kai-west-intelbroker-2025]]"
+  - "[[us-v-five-scattered-spider-members-2024]]"
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-eur-300m-global-credit-card-fraud-2025]]"

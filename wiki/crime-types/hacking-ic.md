@@ -30,6 +30,7 @@ notable_cases:
   - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
+  - "[[us-v-five-scattered-spider-members-2024]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
@@ -38,9 +39,10 @@ notable_operations:
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
+  - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 17
+source_count: 19
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -59,6 +61,8 @@ sources:
   - "[[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers]]"
   - "[[2025-09-18_justice-gov_united-kingdom-national-charged-multiple-cyber-attacks-jubair]]"
   - "[[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel]]"
+  - "[[2024-09-18_justice-gov_court-authorized-operation-disrupts-raptor-train-botnet-flax-typhoon]]"
+  - "[[2024-11-20_justice-gov_five-members-scattered-spider-charged-cybercrime-attacks]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -114,3 +118,5 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [15] | [[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers\|Two charged for TfL cyber attack (Jubair + Flowers)]] | UK National Crime Agency | 2025-09-18 | https://www.nationalcrimeagency.gov.uk/news/two-charged-for-tfl-cyber-attack |
 | [16] | [[2025-09-18_justice-gov_united-kingdom-national-charged-multiple-cyber-attacks-jubair\|United Kingdom National Charged in Connection with Multiple Cyber Attacks, Including on Critical Infrastructure (Jubair / Scattered Spider)]] | US DOJ (OPA), Press Release 25-967 | 2025-09-18 | https://www.justice.gov/opa/pr/united-kingdom-national-charged-connection-multiple-cyber-attacks-including-critical |
 | [17] | [[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel\|North Korean Government Hacker Charged for Involvement in Ransomware Attacks Targeting U.S. Hospitals (Rim Jong Hyok / Andariel)]] | US DOJ (OPA) | 2024-07-25 | https://www.justice.gov/opa/pr/north-korean-government-hacker-charged-involvement-ransomware-attacks-targeting-us |
+| [18] | [[2024-09-18_justice-gov_court-authorized-operation-disrupts-raptor-train-botnet-flax-typhoon\|Court-Authorized Operation Disrupts Worldwide Botnet Used by PRC State-Sponsored Hackers (Raptor Train / Flax Typhoon / Integrity Technology Group)]] | US DOJ (OPA), Press Release 24-1173 | 2024-09-18 | https://www.justice.gov/opa/pr/court-authorized-operation-disrupts-worldwide-botnet-used-peoples-republic-china-state |
+| [19] | [[2024-11-20_justice-gov_five-members-scattered-spider-charged-cybercrime-attacks\|Five Defendants Charged Federally with Running Scheme that Targeted Victim Companies via Phishing Text Messages (Scattered Spider)]] | US DOJ USAO-CDCA, Press Release 24-289 | 2024-11-20 | https://www.justice.gov/usao-cdca/pr/5-defendants-charged-federally-running-scheme-targeted-victim-companies-phishing-text |

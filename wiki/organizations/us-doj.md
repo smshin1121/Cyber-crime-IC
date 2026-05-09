@@ -41,6 +41,7 @@ notable_cases:
   - "[[us-v-jubair-scattered-spider-2025]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
   - "[[us-v-fourteen-dprk-it-workers-2024]]"
+  - "[[us-v-five-scattered-spider-members-2024]]"
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:
@@ -1001,6 +1002,7 @@ operations_participated:
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
+  - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

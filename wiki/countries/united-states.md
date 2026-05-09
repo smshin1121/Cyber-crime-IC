@@ -51,6 +51,7 @@ notable_cases:
   - "[[us-v-jubair-scattered-spider-2025]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
   - "[[us-v-fourteen-dprk-it-workers-2024]]"
+  - "[[us-v-five-scattered-spider-members-2024]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
@@ -191,6 +192,7 @@ operations_participated:
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
+  - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
 region: north-america
 source_count: 1
 sources:
