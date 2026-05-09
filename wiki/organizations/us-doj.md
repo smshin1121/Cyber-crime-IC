@@ -1015,9 +1015,10 @@ operations_participated:
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
+  - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
 org_type: national-agency
 parent_org: ""
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
@@ -1026,6 +1027,7 @@ sources:
   - "[[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
+  - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
 status: active
 title: "US Department of Justice (DOJ)"
 type: organization
@@ -1217,6 +1219,7 @@ DOJ is *highly likely* the most important US counterpart for Korean cybercrime c
 | [10] | [[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation\|NZ Police — Wellington man arrested in NZ-FBI joint USD 265M cryptocurrency-theft RICO investigation; 13 arrested across NZ + California]] | New Zealand Police — Financial Crime Group | 2025-05-16 | https://www.police.govt.nz/news/release/wellington-based-man-arrested-international-cryptocurrency-scam-investigation |
 | [11] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
 | [12] | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states\|Eurojust — main suspect in EUR 6M Swedish bank-employee-impersonation fraud extradited from US to Sweden (2026-04-10); 25 victims, action day Nov 2024 → 3 arrests US+SE]] | Eurojust | 2026-04-11 | https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states |
+| [13] | [[2026-03-20_bka_aisuru-kimwolf-botnet-takedown\|BKA + ZAC NRW — Aisuru/Kimwolf IoT-DDoS botnet takedown via DE-CA-US coordination (Mar 2026); 2 administrators identified (DE+CA), 31.4 Tbps record DDoS attributed]] | Bundeskriminalamt (BKA) + ZAC NRW | 2026-03-20 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260320_PM_Botnetze.html |
 
 > [!note]
 > The original page body was created based on general knowledge (source_count: 0 in the frontmatter). The Current Status and History and Reorganizations sections above are verified against web sources as of 2026-04-10. Additional historical claims (e.g., 1870 establishment, OIA MLAT statistics) should be verified against DOJ annual reports.

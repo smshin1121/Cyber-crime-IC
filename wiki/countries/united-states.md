@@ -223,8 +223,9 @@ operations_participated:
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
   - "[[flubot-takedown-2022]]"
+  - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
 region: north-america
-source_count: 15
+source_count: 16
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -241,6 +242,7 @@ sources:
   - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
   - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

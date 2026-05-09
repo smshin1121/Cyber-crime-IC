@@ -43,6 +43,7 @@ operations_using:
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
+  - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
 ---
 ## Summary
 

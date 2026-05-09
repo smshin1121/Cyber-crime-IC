@@ -3,11 +3,12 @@ type: organization
 title: "RCMP Federal Policing"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-05-10
 last_verified: 2026-04-29
 org_type: national-police-division
 country: "[[canada]]"
-jurisdiction: [[canada]]
+jurisdiction:
+
 parent_org: "Royal Canadian Mounted Police"
 mandate: "Federal policing branch responsible for national, serious, organized, and cross-border crime functions within the RCMP."
 key_roles:
@@ -18,15 +19,17 @@ operations_participated:
   - "[[operation-endgame-phase2]]"
   - "[[doublevpn-takedown]]"
   - "[[operation-morpheus]]"
+  - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
 cooperation_partners:
   - "[[canada-rcmp]]"
   - "[[fbi-cyber-division]]"
   - "[[uk-nca]]"
   - "[[europol-ec3]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code]]"
   - "[[2026-04-17_rcmp-grc-gc-ca_national-cybercrime-coordination-centre]]"
+  - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
 ---
 ## Summary
 

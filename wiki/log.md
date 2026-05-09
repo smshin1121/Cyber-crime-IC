@@ -1973,3 +1973,31 @@
   - L24 strict ≥2-country IC compliance verified verbatim from fedpol English release; 11 wiki-linked agencies all named in source AND with wiki pages. Hungary NNI kept in body prose only (no wiki page).
   - L23 strict applied: lead_agency=`[[netherlands-politie]]`; coordinating_body=`[[europol-ec3]]`.
   - 14 reference rows appended; 25 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | Aisuru / Kimwolf IoT botnet takedown — Germany-Canada-United States trilateral coordinated disruption (BKA + ZAC NRW + US DOJ/DCIS/FBI + Canadian LE, 19 March 2026)
+- Source: raw/press-releases/2026-03-20_bka_aisuru-kimwolf-botnet-takedown.md (Bundeskriminalamt + ZAC NRW; de).
+- Pages created: wiki/sources/2026-03-20_bka_aisuru-kimwolf-botnet-takedown.md, wiki/operations/aisuru-kimwolf-iot-botnet-takedown-2026.md (provisional, source_count=1).
+- Pages updated: none (per ingest agent constraint — country/agency pages not modified this iter; backlinks to be applied in subsequent maintenance pass).
+- Key findings:
+  - **First wiki record of an industrial-scale 30+ Tbps DDoS-capable IoT-botnet takedown** — Cloudflare-attributed 31.4 Tbps (35-second) attack of November 2025 traced to the Aisuru/Kimwolf cluster; an order of magnitude beyond the wiki's earlier Mirai-era IoT-botnet records.
+  - **Germany-Canada-United States trilateral pattern** — BKA + ZAC NRW + US DOJ/DCIS/FBI Anchorage + Canadian LE (specific agency unnamed in BKA release; defaulted to canada-rcmp-federal-policing). First wiki record of this exact trilateral on an IoT-botnet takedown.
+  - **Dual-use IoT compromise pattern documented** — Kimwolf used compromised Android TV boxes for both DDoS attacks AND residential-proxy anonymisation rental; documents the *anonymisation-as-a-service* track alongside the *DDoS-as-a-service* track.
+  - **Two-vs-four botnet scope discrepancy between BKA and US DOJ releases** — BKA scopes Aisuru + Kimwolf; US DOJ adds JackSkid + Mossad. Treated as jurisdiction-scoped charging, not contradiction.
+  - L24 strict ≥2-country IC compliance verified verbatim from BKA German release: "gemeinsam mit Strafverfolgungsbehoerden aus Kanada und den USA" (together with law enforcement authorities from Canada and the United States). All three jurisdictions are *cooperating* (not adversary/origin/destination); suspects identified in Germany and Canada.
+  - L23 strict applied: lead_agency=`[[germany-bka]]`; coordinating_body=`""` (BKA release does not name a coordinator).
+- Rejected first candidates this iter:
+  - KNPA cyber.go.kr / police.go.kr — landing pages return parking placeholders or refused HTTPS handshakes; korea.kr Cambodia-scam press release (newsId=156744969) returned ECONNRESET on direct fetch.
+  - NPA Japan release/2026 — only Operation Cyber Guardian found, already covered (operation-cyber-guardian.md).
+  - Operation Alice (Europol, March 2026, 23 countries CSAM dark web takedown) — already covered (operation-alice-csam-fraud-2026.md).
+  - Operation PowerOFF April 2026 — already covered (operation-power-off-2026-04.md, operation-power-off.md).
+  - Operation Eastwood (Europol, NoName057(16) takedown) — already covered (operation-eastwood.md).
+  - Crimenetwork relaunch takedown (BKA, May 2026) — already covered (crimenetwork-relaunch-takedown-2026.md).
+  - W3LL phishing-kit + INP-FBI Atlanta operation — already covered (w3ll-phishing-kit-takedown-2026.md).
+  - SIMCARTEL (Latvia + Austria + Estonia + Finland) — already covered (latvia-sim-box-cybercrime-as-a-service-takedown-2025.md).
+  - Project Compass (The Com network) — already covered (project-compass-the-com-network-2025.md).
+  - Operation Endgame Phase 3 (Rhadamanthys/VenomRAT/Elysium) — already covered (operation-endgame-phase3.md).
+  - Operation Synergia III, Operation Red Card 2.0, Operation Sentinel Africa — all already covered.
+  - Operation OTF GRIMM — already covered (operation-otf-grimm.md).
+  - Eurojust Austria-Albania €50M call-centre fraud (April 2026) — already covered (albania-austria-call-centre-investment-fraud-2026.md).
+  - Latvia-Ukraine Dnipro fraud call-centre (Feb 2026) — already covered (dnipro-fraudulent-call-centre-takedown-2026.md).
+- Backlinks applied (orchestrator follow-up): 3 country pages (germany, canada, united-states); 5 agencies (germany-bka, fbi, us-doj, us-dcis, canada-rcmp-federal-policing); 2 crime-types (ddos-ic, cybercrime-infrastructure-ic); mechanisms/informal-cooperation. Note: agent originally used `[[usdoj]]` (thin stub) → orchestrator switched to canonical `[[us-doj]]` for entity normalization (CLAUDE.md rule 19). 8 reference rows appended.

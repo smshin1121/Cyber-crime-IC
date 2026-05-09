@@ -19,11 +19,11 @@ updated: 2026-04-27
 | [[counterfeit-goods]] | — | — | — | crimenetwork-relaunch-takedown-2026 | 5 |
 | [[csam-ic]] | content-related | Yes | interpol-icse-database\|INTERPOL ICSE Database, europol-vidtf\|Europol Victim Identification Task Force | operation-stream-kidflix, operation-cyber-guardian, operation-orion-international | 13 |
 | [[cybercrime-forum-ic]] | cyber-dependent | Yes | search-seizure, domain-seizure, extradition | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 7 |
-| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 29 |
+| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 30 |
 | [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | operation-otf-grimm, hungary-romania-swatting-doxing-discord-2026, operation-us-v-szabo-swatting-ring | 6 |
 | [[dark-web-ic]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025, operation-candy-encrypted-comms-drugs-2026, bohemia-cannabia-darknet-marketplace-takedown-2024 | 10 |
 | [[ddos-extortion]] | — | — | — | — | 1 |
-| [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 8 |
+| [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 9 |
 | [[drug-trafficking]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025, operation-candy-encrypted-comms-drugs-2026, bohemia-cannabia-darknet-marketplace-takedown-2024 | 9 |
 | [[extortion-ic]] | — | — | — | project-compass-the-com-network-2025, us-uk-prince-group-tco-huione-group-sanctions-2025, sg-th-altdos-desorden-ghostr-takedown-2025 | 9 |
 | [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03, leakbase-takedown-2026 | 27 |

@@ -29,15 +29,16 @@ operations_participated:
   - "[[operation-power-off]]"
   - "[[operation-endgame-phase3]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+  - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
 org_type: national-unit
 parent_org: "[[dod-inspector-general]]"
-source_count: 4
+source_count: 5
 sources:
-
+  - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
 status: active
 title: "US Defense Criminal Investigative Service"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -98,3 +99,4 @@ DCIS's cooperation track record is *likely* strong within the US interagency com
 | [2] | DCIS Cyber Field Office — Report Cybercrime (cybercrime@dodig.mil) | DoD IG | n.d. | https://www.dodig.mil/Portals/48/Documents/Components/DCIS/Poster%20and%20Brochures/DCIS_CyberCrime.pdf |
 | [3] | DCIS Investigative Priorities | DoD IG | n.d. | https://www.dodig.mil/Components/DCIS/Investigative-Priorities/ |
 | [4] | Defense Criminal Investigative Service | Wikipedia | n.d. | https://en.wikipedia.org/wiki/Defense_Criminal_Investigative_Service |
+| [5] | [[2026-03-20_bka_aisuru-kimwolf-botnet-takedown\|BKA + ZAC NRW — Aisuru/Kimwolf IoT-DDoS botnet takedown via DE-CA-US coordination (Mar 2026); 2 administrators identified (DE+CA), 31.4 Tbps record DDoS attributed]] | Bundeskriminalamt (BKA) + ZAC NRW | 2026-03-20 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260320_PM_Botnetze.html |
