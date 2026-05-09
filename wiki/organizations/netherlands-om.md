@@ -34,17 +34,19 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
+  - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
 notable_cases:
 
 contact_point_for:
 
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-18_om-nl_internationale-samenwerking]]"
   - "[[2026-04-18_om-nl_landelijk-parket]]"
   - "[[2023-08-29_om-nl_qakbot-onschadelijk-gemaakt]]"
+  - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
 created: 2026-04-18
-updated: 2026-04-29
+updated: 2026-05-10
 last_verified: 2026-04-18
 ---
 ## Summary

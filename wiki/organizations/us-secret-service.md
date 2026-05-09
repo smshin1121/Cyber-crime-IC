@@ -48,15 +48,17 @@ operations_participated:
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[treasury-garantex-grinex-russian-network-sanctions-2025]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
+  - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
+  - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
 status: active
 title: "US Secret Service — Cyber Fraud Task Forces"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Current Status (as of 2026-04-10)
 
@@ -154,3 +156,4 @@ USSS cooperation capacity is *highly likely* among the strongest in the US feder
 | [3] | Cyber Investigations | US Secret Service | n.d. | https://www.secretservice.gov/investigations/cyber |
 | [4] | Electronic Crimes Task Forces Overview | CISA / USSS | n.d. | https://www.cisa.gov/sites/default/files/publications/USSS%20Electronic%20Crimes%20Task%20Forces.pdf |
 | [5] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting sentencing — USSS Washington FO + Criminal Investigative Div + Bucharest Resident Office]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |
+| [6] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |

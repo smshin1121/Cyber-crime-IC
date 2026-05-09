@@ -28,17 +28,19 @@ operations_participated:
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[operation-otf-grimm]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
 notable_cases:
 
 contact_point_for:
 
-source_count: 3
+source_count: 4
 sources:
   - "[[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 ---
 > [!info] Stub

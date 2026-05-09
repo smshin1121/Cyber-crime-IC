@@ -42,19 +42,21 @@ operations_using:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
+  - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
 cases_using:
   - "[[us-v-szabo-swatting-ring]]"
 related_mechanisms:
   - "[[24-7-network]]"
   - "[[europol-jit]]"
   - "[[direct-provider-request]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-29_congress-gov_us-australia-mlat-treaty-document-105-27]]"
   - "[[2026-04-29_congress-gov_korea-us-mlat-treaty-document-104-1]]"
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
+  - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
 created: 2026-04-08
-updated: 2026-05-09
+updated: 2026-05-10
 status: active
 ---
 ## Summary
@@ -84,3 +86,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [1] | [[2026-04-29_congress-gov_us-australia-mlat-treaty-document-105-27|Treaty with Australia on Mutual Assistance in Criminal Matters]] | Congress.gov | 1997-09-18 | https://www.congress.gov/treaty-document/105th-congress/27/document-text |
 | [2] | [[2026-04-29_congress-gov_korea-us-mlat-treaty-document-104-1|Treaty with the Republic of Korea on Mutual Legal Assistance in Criminal Matters]] | Congress.gov | 1995-01-12 | https://www.congress.gov/treaty-document/104th-congress/1/document-text |
 | [3] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting sentencing — DOJ OIA used MLA requests to secure foreign evidence from Romania]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |
+| [4] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |

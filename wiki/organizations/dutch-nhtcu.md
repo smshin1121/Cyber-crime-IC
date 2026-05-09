@@ -1,38 +1,47 @@
 ---
-aliases: []
-contact_point_for: []
-cooperation_partners: []
+aliases:
+
+contact_point_for:
+
+cooperation_partners:
+
 country: "[[netherlands]]"
-jurisdiction: [[netherlands]]
+jurisdiction:
+
 created: 2026-04-17
 established: ""
-frameworks_administered: []
-headquarters: "Netherlands"
+frameworks_administered:
+
+headquarters: Netherlands
 key_roles:
   - "Legacy label for the Dutch National High Tech Crime Unit in older botnet, marketplace, and infrastructure-disruption records."
   - "Routes detailed Dutch policing context to [[netherlands-politie]]."
 last_verified: 2026-04-29
 mandate: "Legacy compatibility page for the Dutch National High Tech Crime Unit."
-mechanisms_operated: []
+mechanisms_operated:
+
 member_states: 0
-notable_cases: []
+notable_cases:
+
 official_name: "Dutch National High Tech Crime Unit"
 official_name_ko: ""
 operations_participated:
   - "[[xdedic-marketplace-takedown]]"
   - "[[operation-source]]"
   - "[[simda-botnet-takedown]]"
+  - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[interpol-911-s5-botnet-dismantling]]"
   - "[[2017-07-20-europol-alphabay-hansa-takedown]]"
   - "[[europol-doublevpn-takedown]]"
+  - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
 status: active
 title: "Dutch NHTCU"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-10
 ---
 ## Summary
 

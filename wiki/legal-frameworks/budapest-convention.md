@@ -1,54 +1,55 @@
 ---
-adopted_date: '2001-11-23'
+adopted_date: 2001-11-23
 aliases:
-- CETS No. 185
-- ETS 185
-- Cybercrime Convention
-- CoE Cybercrime Convention
+  - "CETS No. 185"
+  - "ETS 185"
+  - "Cybercrime Convention"
+  - "CoE Cybercrime Convention"
 created: 2026-04-08
-depositary: Council of Europe
-entry_into_force: '2004-07-01'
+depositary: "Council of Europe"
+entry_into_force: 2004-07-01
 framework_type: convention
 implementing_mechanisms:
-- '[[24-7-network]]'
-- '[[mlat-process]]'
+  - "[[24-7-network]]"
+  - "[[mlat-process]]"
 key_provisions:
-- article: Art. 2-11
-  relevance: Common definitions for cybercrime offenses across parties
-  topic: Substantive criminal law harmonization
-- article: Art. 14-21
-  relevance: Standardized investigative tools for digital evidence
-  topic: Procedural powers
-- article: Art. 23-35
-  relevance: Core IC chapter — MLA, preservation, 24/7 Network
-  topic: International cooperation
-- article: Art. 29
-  relevance: 60-day preservation pending formal MLA — critical stopgap
-  topic: Expedited preservation of stored data
-- article: Art. 31
-  relevance: Tailored MLA for digital evidence search/seizure/disclosure
-  topic: Mutual assistance accessing stored data
-- article: Art. 32
-  relevance: Unilateral access to public data or with consent — most debated provision
-  topic: Trans-border access to stored data
-- article: Art. 35
-  relevance: Designated contact points for immediate assistance
-  topic: 24/7 Network
-official_name: Convention on Cybercrime (CETS No. 185)
-official_name_ko: 사이버범죄에 관한 협약 (부다페스트 협약)
-operations_enabled: []
+  - article: "Art. 2-11"
+    relevance: "Common definitions for cybercrime offenses across parties"
+    topic: "Substantive criminal law harmonization"
+  - article: "Art. 14-21"
+    relevance: "Standardized investigative tools for digital evidence"
+    topic: "Procedural powers"
+  - article: "Art. 23-35"
+    relevance: "Core IC chapter — MLA, preservation, 24/7 Network"
+    topic: "International cooperation"
+  - article: "Art. 29"
+    relevance: "60-day preservation pending formal MLA — critical stopgap"
+    topic: "Expedited preservation of stored data"
+  - article: "Art. 31"
+    relevance: "Tailored MLA for digital evidence search/seizure/disclosure"
+    topic: "Mutual assistance accessing stored data"
+  - article: "Art. 32"
+    relevance: "Unilateral access to public data or with consent — most debated provision"
+    topic: "Trans-border access to stored data"
+  - article: "Art. 35"
+    relevance: "Designated contact points for immediate assistance"
+    topic: "24/7 Network"
+official_name: "Convention on Cybercrime (CETS No. 185)"
+official_name_ko: "사이버범죄에 관한 협약 (부다페스트 협약)"
+operations_enabled:
+  - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
 parties:
   notable_non_parties:
-  - Russia
-  - China
-  - India
-  - Indonesia
-  - Republic of Korea
+    - Russia
+    - China
+    - India
+    - Indonesia
+    - "Republic of Korea"
   signatories: 2
   states_parties: 81
 related_frameworks:
-- '[[second-additional-protocol]]'
-- '[[un-cybercrime-convention-2024]]'
+  - "[[second-additional-protocol]]"
+  - "[[un-cybercrime-convention-2024]]"
 scope:
   data_protection: false
   evidence: true
@@ -56,21 +57,22 @@ scope:
   jurisdiction: true
   procedural_law: true
   substantive_law: true
-source_count: 8
+source_count: 9
 sources:
-- '[[2026-04-17_coe-int_about-the-convention-budapest-convention]]'
-- '[[2026-04-17_coe-int_parties-observers-to-the-budapest-convention]]'
-- '[[2025-08-01_en-wikipedia-org_budapest-convention-on-cybercrime-wikipedia-81-ratifications-as-of-august-2025]]'
-- '[[2022-05-12_coe-int_second-additional-protocol-cets-no-224]]'
-- '[[2026-02-05_coe-int_cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protoco]]'
-- '[[2024-01-01_coe-int_budapest-convention-reaches-75-parties]]'
-- '[[2025-01-01_lawfaremedia-org_from-budapest-to-hanoi-comparing-the-coe-and-un-cybercrime-conventions]]'
-- '[[2026-04-17_coe-int_treaty-185-signatures-chart]]'
-sponsoring_body: '[[council-of-europe]]'
+  - "[[2026-04-17_coe-int_about-the-convention-budapest-convention]]"
+  - "[[2026-04-17_coe-int_parties-observers-to-the-budapest-convention]]"
+  - "[[2025-08-01_en-wikipedia-org_budapest-convention-on-cybercrime-wikipedia-81-ratifications-as-of-august-2025]]"
+  - "[[2022-05-12_coe-int_second-additional-protocol-cets-no-224]]"
+  - "[[2026-02-05_coe-int_cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protoco]]"
+  - "[[2024-01-01_coe-int_budapest-convention-reaches-75-parties]]"
+  - "[[2025-01-01_lawfaremedia-org_from-budapest-to-hanoi-comparing-the-coe-and-un-cybercrime-conventions]]"
+  - "[[2026-04-17_coe-int_treaty-185-signatures-chart]]"
+  - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
+sponsoring_body: "[[council-of-europe]]"
 status: in-force
-title: Budapest Convention on Cybercrime
+title: "Budapest Convention on Cybercrime"
 type: legal-framework
-updated: 2026-05-03
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -195,3 +197,4 @@ South Korea has been **invited to accede** but is **not yet a party** in the Cou
 | [6] | Budapest Convention reaches 75 Parties | Council of Europe Portal | n.d. | [원본](https://www.coe.int/en/web/portal/-/budapest-convention-reaches-75-parties) |
 | [7] | From Budapest to Hanoi: Comparing the COE and UN Cybercrime Conventions | Lawfare | 2025 | [원본](https://www.lawfaremedia.org/article/from-budapest-to-hanoi--comparing-the-coe-and-un-cybercrime-conventions) |
 | [8] | Treaty 185 signatures chart | Council of Europe Treaty Office | 2026-04-17 | [원본](https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185) |
+| [9] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |

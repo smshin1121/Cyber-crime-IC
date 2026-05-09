@@ -1737,3 +1737,16 @@
   - **PRC-attribution operation** — China is subject-of-attribution per US indictment (alleged MSS Shanghai SSB contractor via Shanghai Powerock) but is NOT a cooperating participant; per L19-strict, `[[china]]` correctly EXCLUDED from `participating_countries`.
   - L23-strict: lead_agency=`[[polizia-di-stato]]` (existing wiki page); coordinating_body left empty.
   - 6 reference rows appended; 14 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | NL/US/FI AvCheck Counter-Antivirus takedown + Schiphol arrest (OM.nl, May 2025–Jan 2026)
+- Source: raw/press-releases/2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime.md (Openbaar Ministerie — Landelijk Parket; nl).
+- Pages created: wiki/sources/2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime.md, wiki/operations/avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026.md (provisional, source_count=1).
+- Pages updated: countries/netherlands, countries/united-states, countries/finland; 7 agencies (netherlands-om, netherlands-politie, dutch-nhtcu, us-doj, fbi, us-secret-service, finland-nbi); 3 crime-types (malware-ic, cybercrime-infrastructure-ic, ransomware-ic); operations/operation-endgame (related_operations); legal-frameworks/budapest-convention (operations_enabled + sources); mechanisms/mlat-process (operations_using + sources).
+- Key findings:
+  - **OM.nl Landelijk Parket** promoted from organizational landing-page-only to operational tier-1 publisher coverage. Under-sourced before this iter (only 4 prior raw entries).
+  - **Counter-Antivirus (CAV) service takedown** — May 2025 NL/US/FI tri-lateral op against avcheck.net + crypter domains used by malware developers to test detection evasion. 4 domains seized by US DOJ on 2025-05-27 (per external reporting; OM.nl tier-1 release does not enumerate count).
+  - **Schiphol airport arrest follow-up** — 33-y-o Dutch national operator (relocated to UAE) arrested 2026-01-11 transiting Schiphol per international wanted-person flagging (signalering). 2 Amsterdam companies and data carriers seized.
+  - **Operation Endgame sub-operation** — Aliases include "Operation Endgame — AvCheck (CAV/crypter sub-operation)"; confirmed via `related_operations: [[operation-endgame]]` bidirectional backlink.
+  - L19-strict applied: 7 wikilinked agencies all named in source AND have wiki pages. Koninklijke Marechaussee mentioned in prose only (no wiki page yet).
+  - L23-strict applied: lead_agency/coordinating_body left empty (OM.nl release describes a tri-lateral op without designating a single lead/coordinator).
+  - 9 reference rows appended; 17 pages with `updated:` bumped.
