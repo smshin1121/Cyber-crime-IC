@@ -43,6 +43,8 @@ operations_participated:
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
+  - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
+  - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
 org_type: national-agency
 parent_org: "[[us-federal-government]]"
 source_count: 8

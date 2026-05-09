@@ -94,6 +94,7 @@ operations_participated:
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
+  - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

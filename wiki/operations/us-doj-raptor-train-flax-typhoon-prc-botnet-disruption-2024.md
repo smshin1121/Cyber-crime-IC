@@ -40,7 +40,8 @@ participating_agencies:
   - "[[fbi]]"
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[search-seizure]]"
 results:
@@ -57,17 +58,21 @@ results:
     - "Adversary DDoS counter-attack against the FBI's operational infrastructure during the takedown — ultimately unsuccessful."
     - "Same-day Joint Cybersecurity Advisory co-published by FBI, NSA, USCYBERCOM CNMF, and partner cyber agencies in Australia, Canada, New Zealand, and the United Kingdom."
     - "FBI provides victim notice to U.S. owners of affected devices via their internet service providers."
-edges: []
+edges:
+  []
 credibility_index: 0.0
 source_tier: 1
 missing_fields:
   - "specific_legal_basis_statutes (court order/affidavit not yet ingested as a separate raw source)"
   - "named_partner_agencies_in_FVEY_advisory (ASD/ACSC, CCCS, GCSB/NCSC-NZ, NCSC-UK inferred but not asserted from this source per L19)"
   - "specific_French_authority_named (only 'French authorities' credited; no agency name)"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[911-s5-botnet-takedown]]"
-challenges_encountered: []
+  - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "When the host state of a threat actor (PRC) is uncooperative for IC purposes, U.S. court-authorized takeover of adversary infrastructure substitutes for unavailable MLAT pathways — the U.S. asserts jurisdiction by reaching into the C2 layer rather than into the foreign nation's territory."
   - "Five Eyes joint cybersecurity advisory (FBI + NSA + USCYBERCOM CNMF + AU/CA/NZ/UK partner cyber agencies) is the standard parallel-track instrument for state-attributed activity in 2024 — it provides multilateral attribution and information-sharing without requiring a treaty mechanism."
@@ -80,7 +85,6 @@ created: 2026-05-09
 updated: 2026-05-09
 last_verified: 2026-05-09
 ---
-
 > [!info] Provisional page
 > Published below the preferred 5-source threshold (CLAUDE.md "Entity creation threshold"). One tier-1 primary source (DOJ OPA press release, 2024-09-18, Press Release Number 24-1173). Companion artifacts to ingest in subsequent rounds: (a) the same-day Joint Cybersecurity Advisory (defense.gov-hosted PDF, FBI+NSA+USCYBERCOM+AU/CA/NZ/UK), (b) Lumen Technologies / Black Lotus Labs technical writeup ("Derailing the Raptor Train"), (c) the WDPA court-order/affidavit referenced in the press release, (d) FBI Director Wray's Aspen Cyber Summit announcement (FBI.gov), (e) NCSC-UK companion guidance ("Defending against China-nexus covert networks of compromised devices").
 

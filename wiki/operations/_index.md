@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (192 canonical / 27 absorbed / 219 records)
+# Operations (194 canonical / 27 absorbed / 221 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (192)
+## Canonical Operations (194)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -153,6 +153,8 @@ updated: 2026-04-14
 | [[treasury-us-au-uk-zservers-sanctions-2025]] | CYB-2025-114 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-aeza-group-bulletproof-hosting-sanctions-2025]] | CYB-2025-115 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]] | CYB-2025-116 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]] | CYB-2025-117 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]] | CYB-2025-130 | 3 | completed | — | 1 | — | 1 |
 | [[operation-endgame-phase3]] | CYB-2025-201 | 3 | completed | phase | 1 | 4.00 | 1 |
 | [[sg-th-altdos-desorden-ghostr-takedown-2025]] | CYB-2025-201 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[e-note-crypto-exchange-takedown-2025]] | CYB-2025-202 | 3 | completed | — | 1 | 4.00 | 1 |
