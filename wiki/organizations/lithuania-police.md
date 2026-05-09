@@ -25,11 +25,12 @@ operations_participated:
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 org_type: national-unit
 parent_org: "Policijos departamentas prie LR VRM (Police Department under the Ministry"
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 status: active
 title: "Lithuanian Criminal Police Bureau — Cybercrime Unit"
 type: organization
@@ -85,3 +86,4 @@ Specific operation attributions are not confirmed in the currently ingested sour
 | [1] | Lithuanian Criminal Police Bureau (LCPB) | LKPB (official) | n.d. | https://lkpb.policija.lrv.lt/en/about-us/lithuanian-criminal-police-bureau-lcpb/ |
 | [2] | Lietuvos kriminalinės policijos biuras | Policijos departamentas (LRV) | n.d. | https://policija.lrv.lt/lt/veiklos-sritys/nusikalstamu-veiklu-atskleidimas-ir-tyrimas/lietuvos-kriminalines-policijos-biuras/ |
 | [3] | LKPB and NKSC joint cyber investigation laboratory project | LKPB | 2024-09 | https://lkpb.policija.lrv.lt/lt/naujienos/lietuvos-kriminalines-policijos-biuras-kartu-su-nacionaliniu-kibernetinio-saugumo-centru-prie-krasto-apsaugos-ministerijos-igyvendina-projekta-nusikalstamu-veiku-elektronineje-erdveje-tyrimui-ir-mokymams-skirtos-laboratorijos-sukurimas-ir-iveiklinimas/ |
+| [4] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA-LT joint search of KMSAuto suspect's residence in Lithuania (Dec 2024); 22 items seized]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |

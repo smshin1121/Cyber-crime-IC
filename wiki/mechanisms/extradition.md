@@ -4,7 +4,7 @@ title: Extradition
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-09
-source_count: 7
+source_count: 8
 sources:
   - "[[2015-10-13_fbi-pittsburgh_bugat-botnet-administrator-arrested-and-malware-disabled]]"
   - "[[2015-10-13_scmagazine_moldovian-sentenced-stealing-millions-bugat-banking-malware]]"
@@ -13,6 +13,7 @@ sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-token-mirrors-2026]]"
@@ -21,6 +22,7 @@ operations_using:
   - "[[operation-otf-grimm]]"
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
   - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"

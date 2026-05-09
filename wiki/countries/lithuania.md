@@ -17,9 +17,10 @@ operations_participated:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
-source_count: 0
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
+source_count: 1
 sources:
-
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 created: 2026-04-10
 updated: 2026-05-09
 status: needs-official-source-ingestion

@@ -5,11 +5,12 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
-source_count: 3
+source_count: 4
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -22,6 +23,7 @@ operations_using:
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[operation-otf-grimm]]"
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 ---
 ## Summary
 

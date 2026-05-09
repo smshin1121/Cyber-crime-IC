@@ -5,18 +5,17 @@ aliases:
   - "Supreme Prosecutors' Office"
   - "대검"
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: "[[south-korea]]"
 jurisdiction:
-  -
-    - south-korea
+
 created: 2026-04-10
 dissolved_date: 2026-10-02
 established: 1948-08-02
 frameworks_administered:
-  []
+
 headquarters: "Seocho-gu, Seoul, South Korea"
 key_roles:
   - "South Korea's highest prosecution body (until 2026-10-02)"
@@ -27,17 +26,18 @@ key_roles:
 last_verified: 2026-04-10
 mandate: "South Korea's highest prosecution body under the 검찰청법 (Prosecutors' Office"
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "대검찰청 (Supreme Prosecutors' Office of the Republic of Korea)"
 operations_participated:
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 org_type: prosecution-office
 parent_org: "[[ministry-of-justice-korea]]"
-source_count: 7
+source_count: 8
 sources:
-  []
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 status: being-dissolved
 successor_bodies:
   - "공소청 (Prosecution Service) — 법무부 산하"
@@ -137,3 +137,4 @@ Historically the SPO was the primary **prosecutor-side** Korean counterpart for 
 | [5] | 2026 법무부 검사 인사 이동내역 (공소청 전환 준비) | 월드장애인사랑뉴스 | 2026 | https://www.spo.go.kr/eng/ |
 | [6] | 이재명 정부 검찰 수사권 분리 | 나무위키 | 2026 | https://namu.wiki/w/%EC%9D%B4%EC%9E%AC%EB%AA%85%20%EC%A0%95%EB%B6%80%20%EA%B2%80%EC%B0%B0%20%EC%88%98%EC%82%AC%EA%B6%8C%20%EB%B6%84%EB%A6%AC |
 | [7] | Official website (English) | Supreme Prosecutors' Office Republic of Korea | n.d. | https://www.spo.go.kr/eng/ |
+| [8] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA + MOJ + SPO joint Korea-Georgia extradition request for KMSAuto suspect (KR+LT+GE)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |

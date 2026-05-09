@@ -52,8 +52,9 @@ operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 region: east-asia
-source_count: 23
+source_count: 24
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
   - "[[2024-12-02-interpol-operation-haechi-v]]"
@@ -68,6 +69,7 @@ sources:
   - "[[2025-11-01_korean-press_korea-china-anti-scam-mou-signing]]"
   - "[[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos]]"
   - "[[2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms]]"
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 title: "Republic of Korea (South Korea)"
 treaty_memberships:
   - date: 2023-02
@@ -311,3 +313,4 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [21] | [[2025-11-01_korean-press_korea-china-anti-scam-mou-signing\|한·중 경찰, 캄보디아 등 초국가 스캠 범죄 공동 대응 MOU 체결]] | 경찰청 + 중국 공안부 (via Kyunghyang) | 2025-11-01 | https://www.khan.co.kr/article/202511021137001 |
 | [22] | [[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos\|Russian Ransomware Administrator Pleads Guilty (Phobos / Ptitsyn — extradited from South Korea Nov 2024)]] | US DOJ USAO-Maryland | 2026-03-04 | https://www.justice.gov/usao-md/pr/russian-ransomware-administrator-pleads-guilty-wire-fraud-conspiracy |
 | [23] | [[2026-05-07_justice-gov_two-us-nationals-sentenced-dprk-it-worker-laptop-farms\|Two U.S. Nationals Sentenced for Facilitating DPRK IT Worker Schemes (refers to October 2023 joint US-ROK guidance)]] | US DOJ (OPA) | 2026-05-07 | https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker-0 |
+| [24] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition — Lithuanian hacker arrested in Georgia via Red Notice (KR+LT+GE; 8 KR victims, ₩16M loss; 5y4m investigation)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |

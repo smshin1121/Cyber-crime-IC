@@ -35,12 +35,13 @@ operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 org_type: national-unit
 parent_org: "[[knpa]]"
 predecessor: ""
-source_count: 5
+source_count: 6
 sources:
-
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 status: reorganized
 successor: ""
 title: "KNPA Cybercrime Enforcement Organization (경찰청 사이버범죄 수사조직)"
@@ -171,3 +172,4 @@ As a Korean national agency, this unit **is** the primary Korean operational ent
 | [3] | 국가수사본부 조직 구성 (수사국·형사국·안보수사국 3국 체제) | 나무위키 | 2023–2024 | https://namu.wiki/w/%EA%B5%AD%EA%B0%80%EC%88%98%EC%82%AC%EB%B3%B8%EB%B6%80 |
 | [4] | 경찰청, 사이버안전국·여청안전국 신설 추진…통합 3년 만에 재편 | 뉴시스 (Newsis) | 2026-04-06 | https://www.newsis.com/view/NISX20260406_0003578778 |
 | [5] | 국가수사본부 | 위키백과 | — | https://ko.wikipedia.org/wiki/%EA%B5%AD%EA%B0%80%EC%88%98%EC%82%AC%EB%B3%B8%EB%B6%80 |
+| [6] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition (KR+LT+GE; 사이버테러대응과 박우현 사이버수사심의관 spokesperson)]] | 경찰청 국가수사본부 사이버테러대응과 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |

@@ -1446,3 +1446,17 @@
   - Ministry of Interior characterises **~20 billion Turkish lira cumulative money traffic** as the highest transaction volume ever identified in a Turkish cyber-crime / fraud investigation.
   - Modus operandi documented verbatim: illegal sports-betting platforms + qualified-fraud (nitelikli dolandırıcılık) via IT systems → 24/7 panel-system back-office → third-party-account layering → crypto-asset conversion. Server and management layers explicitly attributed to Bosnia and Herzegovina.
   - Open questions per L19: BiH counterpart agency name (federal Federalna policija / MUP RS / SIPA / cantonal not specified by AA wire); specific MLA/extradition treaty instrument invoked; defendant case numbers.
+
+## [2026-05-09] ingest | KNPA KMSAuto Lithuanian hacker — Korea-Lithuania-Georgia three-state extradition (2020-2025)
+- Source: raw/press-releases/2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition.md (경찰청 국가수사본부 사이버테러대응과 / Korea.kr 정책브리핑; ko)
+- Pages created: wiki/sources/2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition.md, wiki/operations/knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025.md (provisional, source_count=1)
+- Pages updated: 3 country pages (KR, LT, GE), 6 agency pages (knpa, knpa-cyber-bureau, ministry-of-justice-korea, supreme-prosecutors-office-korea, lithuania-police, interpol), malware-ic crime-type, 3 mechanisms (extradition, MLA, informal-cooperation).
+- Key findings:
+  - **Korea-Lithuania-Georgia three-state extradition** is the first wiki record of a fully-articulated KR-led international cyber-extradition arc with explicit Korean involvement: Lithuanian-national suspect tracked from 2020 KR-side investigation → 2024-12 LT joint search (22 items seized) → 2025-04 INTERPOL Red Notice → GE arrest at Lithuania-Georgia border on entry → 2025-12 Korea-Georgia extradition.
+  - Total elapsed time: 5 years 4 months from initial case opening to extradition — longest single-suspect cyber-extradition arc currently documented in wiki.
+  - **Massive distribution scale at low per-victim yield**: 2.8M KMSAuto-bundled clipper distributions across 234 ISO countries, 3,100 wallets drained in 8,400 events, ~₩1.7B (~USD 1.18M) total stolen — illustrates the long-tail clipper economy where global distribution does not translate to high per-victim losses (8 KR victims for ~₩16M).
+  - **Joint task force**: KNPA + Korean MOJ + Korean SPO (대검찰청) jointly filed Korea-Georgia extradition request — three-agency Korean side coordination, not single-agency request.
+  - 14 distinct crypto assets affected (BTC, LTC, ETH, XRP … DASH per source).
+  - 6 third-country jurisdictions and 6 foreign crypto-related companies engaged in trace-and-attribution phase (counts only, not enumerated; flagged as open question per L19).
+  - Distribution period 2020-04-08 → 2023-01-06; KNPA spokesperson 박우현 (Park Woo-hyun, 사이버수사심의관).
+  - First wiki record demonstrating **Korea.kr 정책브리핑 PDF attachment as authoritative tier-1 channel** — HTML view shell carries metadata only; full body in PDF/HWPX attachment requiring separate fetch.

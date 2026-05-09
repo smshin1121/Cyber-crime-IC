@@ -48,7 +48,7 @@ total: 61
 | 🇫🇮 | [[finland]] | civil-law | party (2007) | high | 90-180 | 7 |
 | 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 8 |
 | 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 7 |
-| 🇬🇪 | [[georgia]] | not-assessed | — | unknown | unknown | 0 |
+| 🇬🇪 | [[georgia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇬🇭 | [[ghana]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇲 | [[gambia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇷 | [[greece]] | not-assessed | — | unknown | unknown | 1 |
@@ -70,10 +70,10 @@ total: 61
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇰🇵 | [[north-korea]] | socialist-civil-law | — | very-low | 180+ | 1 |
-| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 23 |
+| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 24 |
 | 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇦 | [[laos]] | not-assessed | — | unknown | unknown | 0 |
-| 🇱🇹 | [[lithuania]] | not-assessed | — | unknown | unknown | 0 |
+| 🇱🇹 | [[lithuania]] | not-assessed | — | unknown | unknown | 1 |
 | 🇱🇺 | [[luxembourg]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇻 | [[latvia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇲🇦 | [[morocco]] | not-assessed | — | unknown | unknown | 0 |

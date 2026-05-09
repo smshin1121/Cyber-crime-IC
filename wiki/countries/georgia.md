@@ -6,10 +6,11 @@ last_verified: 2026-05-09
 legal_system: not-assessed
 operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 region: south-caucasus
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 title: Georgia
 treaty_memberships:
   - not-assessed

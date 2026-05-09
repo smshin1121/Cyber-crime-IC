@@ -41,15 +41,16 @@ operations_participated:
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 contact_point_for:
   - network: "[[interpol-i24-7]]"
     role: "NCB Korea"
-source_count: 2
+source_count: 3
 sources:
-
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
@@ -124,3 +125,4 @@ See [[knpa-cyber-bureau]] for detailed operation participation (HAECHI series, P
 |---|---|---|---|---|
 | [1] | 경찰청 공식 웹사이트 | KNPA | — | https://www.police.go.kr/ |
 | [2] | 경찰청, 사이버안전국·여청안전국 신설 추진 | 뉴시스 | 2026-04-06 | https://www.newsis.com/view/NISX20260406_0003578778 |
+| [3] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition — Lithuanian hacker Red Notice → Georgia arrest → Korea (KR+LT+GE; 5y4m investigation)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |

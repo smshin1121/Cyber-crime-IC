@@ -18,13 +18,15 @@ cooperation_partners:
   - "[[supreme-prosecutors-office-korea]]"
   - "[[spo-international-cooperation]]"
   - "[[unodc]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-01-01_spo-go-kr_2026]]"
   - "[[2025-10-01_unodc-org_hanoi-convention-homepage]]"
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 ---
 ## Summary
 

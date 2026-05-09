@@ -66,11 +66,13 @@ operations_participated:
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
   - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
+  - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
 org_type: international-org
 parent_org: ""
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
+  - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
 status: active
 title: "INTERPOL (International Criminal Police Organization)"
 type: organization
@@ -265,6 +267,7 @@ Korea's relationship with INTERPOL is *almost certainly* among the most active a
 | [3] | INTERPOL's Asian conference to address regional crime threats | INTERPOL | 2025 | https://www.interpol.int/en/News-and-Events/News/2025/INTERPOL-s-Asian-conference-to-address-regional-crime-threats |
 | [4] | Group-IB supports INTERPOL's Operation Synergia III (2026 cyber takedown) | Intelligent CISO | 2026-03-16 | https://www.intelligentciso.com/2026/03/16/group-ib-supports-interpols-operation-synergia-iii-contributing-intelligence-to-global-cybercrime-takedown/ |
 | [5] | [[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest\|Hakkari illegal betting + qualified-fraud network — Sarajevo Red Notice arrest (TR+BA, 53 detentions, ~20bn TL traffic)]] | Anadolu Ajansı (T.C. İçişleri Bakanlığı reproduction) | 2026-03-31 | https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-ve-nitelikli-dolandiriciliga-yonelik-operasyonlarda-53-supheli-yakalandi/3887096 |
+| [6] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition — Lithuanian hacker arrested in Georgia via Red Notice (KR+LT+GE; 2.8M malware copies, 234 victim countries)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |
 
 > [!note]
 > The original page body was created from general knowledge (source_count: 0 in frontmatter). The Current Status section above is verified against web sources as of 2026-04-10. Detailed historical operational statistics should be verified against INTERPOL press releases and annual reports.
