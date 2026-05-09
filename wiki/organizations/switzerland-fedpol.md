@@ -25,6 +25,7 @@ operations_participated:
   - "[[operation-cookie-monster]]"
   - "[[operation-blackshades]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
 org_type: national-agency
 parent_org: "Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-"
 source_count: 4

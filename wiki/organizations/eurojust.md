@@ -84,6 +84,7 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
+  - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

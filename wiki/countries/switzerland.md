@@ -39,6 +39,7 @@ operations_participated:
   - "[[black-axe-switzerland-takedown-2026]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
 region: western-europe
 source_count: 1
 sources:

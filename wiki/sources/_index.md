@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (763)
+# Sources (764)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -154,6 +154,7 @@ updated: 2026-04-14
 | [[2025-08-22_cyberscoop_interpol-operation-serengeti-2-africa]] | news | CyberScoop | ? | medium | ? |
 | [[2025-08-14_treasury_garantex-grinex-russian-network-cyber-criminals-sanctions-evasion]] | press-release | U.S. Department of the Treasury (OFAC) | ? | high | ? |
 | [[2025-08-11-doj-blacksuit-royal-ransomware-takedown]] | press-release | US Department of Justice | ? | high | ? |
+| [[2025-07-29_oag-fedpol_real-time-phishing-uk-conviction]] | press-release | Office of the Attorney General of Switzerland (OAG) | 1 | high | ? |
 | [[2025-07-28_techradar-com_top-ransomware-group-blacksuit-has-dark-web-extortion-sites-seized-and-shut-down]] | news | TechRadar | 3 | medium | ? |
 | [[2025-07-25_scworld-com_operation-checkmate-shuts-down-blacksuits-extortion-sites]] | news | SC Media | 3 | medium | ? |
 | [[2025-07-25_bitdefender-com_after-500-million-in-ransom-demands-law-enforcement-seizes-blacksuit-site]] | news | Bitdefender | 3 | medium | ? |

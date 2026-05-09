@@ -67,6 +67,7 @@ notable_operations:
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
+  - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -83,7 +84,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 59
+source_count: 60
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -144,6 +145,7 @@ sources:
   - "[[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day]]"
   - "[[2026-04-09_politie_veriftools-identity-fraud-arrests]]"
   - "[[2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition]]"
+  - "[[2025-07-29_oag-fedpol_real-time-phishing-uk-conviction]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -266,3 +268,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [57] | [[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day\|Eurojust assists operation in Romania and Moldova against laundering of phishing fraud proceeds (EUR 20M, 44 search locations, JIT)]] | Eurojust | 2025-06-12 | https://www.eurojust.europa.eu/news/eurojust-assists-operation-romania-and-moldova-against-laundering-phishing-fraud-proceeds |
 | [58] | [[2026-04-09_politie_veriftools-identity-fraud-arrests\|Veriftools fake-ID marketplace follow-up arrests (NL Politie + US FBI; 8 arrests, server data goldmine)]] | Politie (Netherlands) | 2026-04-09 | https://www.politie.nl/nieuws/2026/april/9/07-data-op-servers-blijken-goudmijn---8-aanhoudingen-voor-identiteitsfraude.html |
 | [59] | [[2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition\|서울동부지검 합수부 — Clark, Philippines 보이스피싱 콜센터 4명 강제송환 + 인지구속기소 (KR+PH+INTERPOL)]] | 서울동부지방검찰청 (SPO Korea) | 2026-04-30 | https://www.spo.go.kr/site/spo/main.do |
+| [60] | [[2025-07-29_oag-fedpol_real-time-phishing-uk-conviction\|Swiss OAG/fedpol real-time phishing joint investigation — UK conviction 7yr (CH+UK, CHF 2.4M)]] | Swiss OAG / fedpol | 2025-07-29 | https://www.bag.admin.ch/en/newnsb/b4yhFXHLpERSkhgNMVb89 |

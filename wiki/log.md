@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | Swiss OAG + fedpol real-time phishing joint investigation — UK conviction 7yr (2025-07-29, CH+UK)
+- Sources: 1 raw + 1 source page (en) + 1 operation page (3 new pages)
+- Pages updated: 2 country (CH, UK), 4 organization (switzerland-fedpol, europol-ec3, eurojust, uk-nca), 3 crime-type (bank-fraud-ic, online-fraud-ic, money-laundering-ic).
+- Key findings:
+  - **Swiss OAG/fedpol real-time phishing UK conviction (2025-07-29)**: Joint investigation announced by Swiss Office of the Attorney General (Bundesanwaltschaft) + fedpol. **Modus operandi**: real-time phishing kit, fake e-banking pages promoted via Google Ads, SMS-based 2FA bypass, money-mule + crypto-exchange laundering. **Cross-border IC chain**: ~30 cantonal Swiss complainants → ~CHF 2.4M loss → Article 147 SCC proceedings opened 2022-07 → suspect arrested in England 2023-10-26 → OAG transferred prosecution to UK → **UK court sentenced suspect to 7 years on 2025-07-23**. Europol + Eurojust supporting roles per fedpol Report 2024 (provenance flagged for tightening). **First wiki record of OAG-to-UK forum-non-conveniens prosecution transfer pattern** for cyber-enabled bank fraud — useful for `mechanisms/transfer-of-proceedings.md` analysis.
+- Process notes: Swiss OAG admin.ch direct URL returned 403 — agent used `bag.admin.ch/en/newnsb/...` mirror + Keystone-SDA/SWI swissinfo.ch + fedpol.report 2024 narrative as 3 concordant tier-1/2 sources. source_count corrected to 3. Defendant name not released by OAG; UK court/case number pending.
+
 ## [2026-05-09] ingest [single agent, regional focus] | Korean SPO Seoul Eastern District 합수부 — Clark Philippines voice phishing call-centre arrest+extradition (2026-04-30, KR+PH+INTERPOL)
 - Sources: 1 raw + 1 source page (ko, with embedded PDF) + 1 operation page (3 new pages)
 - Pages updated: 2 country (KR, PH), 5 organization (supreme-prosecutors-office-korea, ministry-of-justice-korea, philippine-national-police, interpol, spo-international-cooperation), 3 crime-type (voice-phishing-ic, online-fraud-ic, organized-crime-ic), 1 mechanism (extradition), 1 cross-link (existing korea-cambodia-philippines-73-extradition-2026 sister case).

@@ -136,6 +136,7 @@ operations_participated:
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9
