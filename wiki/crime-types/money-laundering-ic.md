@@ -40,6 +40,7 @@ notable_operations:
   - "[[operation-atlantic-approval-phishing-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
+  - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
 criminalization_status:
@@ -48,7 +49,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 22
+source_count: 23
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -72,6 +73,7 @@ sources:
   - "[[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters]]"
   - "[[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand]]"
   - "[[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network]]"
+  - "[[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -151,3 +153,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [20] | [[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters\|Fraudsters targeting cryptocurrency stopped and $12 million frozen in NCA-led Operation Atlantic]] | UK National Crime Agency | 2026-04-09 | https://www.nationalcrimeagency.gov.uk/news/fraudsters-targeting-cryptocurrency-stopped-and-12-million-frozen-in-nca-led-operation-atlantic |
 | [21] | [[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand\|International operation targets global organised crime networks: 15 arrests across Australia, Spain, Sweden and Thailand (Operation Candy)]] | Australian Federal Police | 2026-03-07 | https://www.afp.gov.au/news-centre/media-release/international-operation-targets-global-organised-crime-networks-15 |
 | [22] | [[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network\|Treasury Sanctions Cambodian Senator Kok An and Scam Center Network Defrauding Americans]] | US Department of the Treasury (OFAC), Press Release SB-0469 | 2026-04-23 | https://home.treasury.gov/news/press-releases/sb0469 |
+| [23] | [[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds\|Treasury Sanctions DPRK Bankers and Institutions Involved in Laundering Cybercrime Proceeds and IT Worker Funds]] | US Department of the Treasury (OFAC), Press Release SB-0302 | 2025-11-04 | https://home.treasury.gov/news/press-releases/sb0302 |

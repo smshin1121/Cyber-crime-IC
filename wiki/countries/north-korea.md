@@ -8,15 +8,15 @@ cybercrime_legislation:
   primary_law: ""
   primary_law_date: ""
   procedural_powers:
-    []
+
   data_retention: ""
 treaty_memberships:
-  []
+
 central_authority:
   mlat: ""
   budapest: ""
 key_agencies:
-  []
+
 ic_capacity:
   rating: very-low
   digital_forensics: unknown
@@ -24,9 +24,10 @@ ic_capacity:
   english_proficiency: low
   avg_mlat_response_days: 180+
 bilateral_agreements:
-  []
+
 operations_participated:
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
+  - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
 notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
 cooperation_assessment: "DPRK is a non-cooperative jurisdiction in the public IC corpus. The state is the named threat-source for multiple ransomware, DDoS, fraudulent IT worker, and other cybercrime operations targeting US, ROK, and global victims, including via designated entities such as the DPRK Ministry of Defense. Public US enforcement against DPRK cyber and IT-worker revenue-generation operations proceeds through US-jurisdictional charges against US-based enablers and through sanctions actions, with no public-record DPRK-side cooperation."

@@ -37,13 +37,14 @@ notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
+  - "[[uk-collins-aerospace-airport-ransomware-arrest-2025]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 17
+source_count: 18
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -62,6 +63,7 @@ sources:
   - "[[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos]]"
   - "[[2025-09-09_justice-gov_lockergoga-megacortex-nefilim-ransomware-administrator-tymoshchuk-charged]]"
   - "[[2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy]]"
+  - "[[2025-09-24_nca-uk_uk-arrest-following-aerospace-cyber-incident]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -247,3 +249,4 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [15] | [[2026-03-04_justice-gov-md_russian-ransomware-administrator-pleads-guilty-phobos\|Russian Ransomware Administrator Pleads Guilty to Wire Fraud Conspiracy (Phobos administrator Evgenii Ptitsyn)]] | US DOJ USAO-Maryland | 2026-03-04 | https://www.justice.gov/usao-md/pr/russian-ransomware-administrator-pleads-guilty-wire-fraud-conspiracy |
 | [16] | [[2025-09-09_justice-gov_lockergoga-megacortex-nefilim-ransomware-administrator-tymoshchuk-charged\|"LockerGoga," "MegaCortex," and "Nefilim" Ransomware Administrator Charged with Ransomware Attacks (Tymoshchuk)]] | US DOJ (OPA) | 2025-09-09 | https://www.justice.gov/opa/pr/lockergoga-megacortex-and-nefilim-ransomware-administrator-charged-ransomware-attacks |
 | [17] | [[2025-07-16_doj-or_armenian-national-extradited-ryuk-ransomware-extortion-conspiracy\|Armenian National Extradited to the United States Faces Federal Charges for Ransomware Extortion Conspiracy]] | USAO-OR | 2025-07-16 | https://www.justice.gov/usao-or/pr/armenian-national-extradited-united-states-faces-federal-charges-ransomware-extortion |
+| [18] | [[2025-09-24_nca-uk_uk-arrest-following-aerospace-cyber-incident\|UK arrest following aerospace cyber incident]] | UK National Crime Agency | 2025-09-24 | https://www.nationalcrimeagency.gov.uk/news/uk-arrest-following-aerospace-cyber-incident |

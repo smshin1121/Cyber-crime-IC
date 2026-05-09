@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[united-states]]"
 jurisdiction:
-  -
-    - united-states
+
 created: 2026-04-10
 established: 1789
 frameworks_administered:
@@ -32,6 +31,7 @@ operations_participated:
   - "[[dridex-operations]]"
   - "[[911-s5-botnet-takedown]]"
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
+  - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
 org_type: national-agency
 parent_org: "[[us-federal-government]]"
 source_count: 8

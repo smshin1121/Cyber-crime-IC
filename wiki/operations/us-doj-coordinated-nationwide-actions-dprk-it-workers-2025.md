@@ -100,8 +100,9 @@ related_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
 related_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
+  - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "First wiki record of the DPRK RevGen: Domestic Enabler Initiative as a discrete IC enforcement framework class — joint NSD + FBI Cyber + FBI Counterintelligence Divisions joint effort prioritising US-based enablers of DPRK illicit revenue."
   - "Demonstrates the most fully-articulated multi-jurisdiction DPRK-IT-worker enforcement architecture in the wiki to date — 7 named jurisdictions touched (US, DPRK, China, UAE, Taiwan, Serbia, Malaysia), 16 defendants across 4 nationalities (US, DPRK, China, Taiwan), 100+ US victim companies, USD 5M+ scheme revenue."

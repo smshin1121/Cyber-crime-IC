@@ -31,6 +31,7 @@ bilateral_agreements:
 operations_participated:
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[e-note-crypto-exchange-takedown-2025]]"
+  - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"

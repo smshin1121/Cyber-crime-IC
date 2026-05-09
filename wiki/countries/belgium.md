@@ -28,6 +28,7 @@ last_verified: 2026-05-09
 legal_system: civil-law
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[uk-collins-aerospace-airport-ransomware-arrest-2025]]"
 operations_participated:
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
   - "[[operation-eur-600m-crypto-scam-network-2025]]"

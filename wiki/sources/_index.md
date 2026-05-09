@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (721)
+# Sources (723)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -103,6 +103,7 @@ updated: 2026-04-14
 | [[2025-11-05_eurojust-newsroom_eur-300m-global-credit-card-fraud]] | government | Eurojust | ? | high | ? |
 | [[2025-11-05_eurojust-fraud-term_eur-300m-global-credit-card-fraud]] | government | Eurojust | ? | high | ? |
 | [[2025-11-05_112wwft-nl_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18-arrests]] | news | 112WWFT | ? | medium | ? |
+| [[2025-11-04_treasury_dprk-bankers-laundering-cybercrime-it-worker-funds]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2025-11-04_eurojust_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | press-release | Eurojust | 2 | high | ? |
 | [[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown]] | press-release | Eurojust | ? | high | ? |
 | [[2025-11-04_112wwft-nl_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | news | 112WWFT | ? | medium | ? |
@@ -124,6 +125,7 @@ updated: 2026-04-14
 | [[2025-09-25_maldivespolice-gov-mv_interpol-operation-haechi-vi-recovery-and-arrest-update]] | press-release | Maldives Police Service | ? | medium | ? |
 | [[2025-09-25_interpol-es_usd-439-million-recovered-in-global-financial-crime-operation-haechi-vi]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-09-25-interpol-operation-haechi-vi]] | press-release | INTERPOL | ? | high | ? |
+| [[2025-09-24_nca-uk_uk-arrest-following-aerospace-cyber-incident]] | press-release | UK National Crime Agency | ? | high | ? |
 | [[2025-09-23_world-border-congress_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]] | report | World Border Security Congress | ? | medium | ? |
 | [[2025-09-23_eurojust_crypto-fraud-over-100-million-euros-across-europe]] | press-release | Eurojust | ? | high | ? |
 | [[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown]] | press-release | Eurojust | ? | high | ? |

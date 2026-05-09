@@ -32,6 +32,7 @@ notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
   - "[[us-v-schmitz-versus-project]]"
+  - "[[uk-collins-aerospace-airport-ransomware-arrest-2025]]"
 operations_participated:
   - "[[alphabay-takedown]]"
   - "[[emotet-takedown]]"
