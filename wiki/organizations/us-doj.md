@@ -1009,15 +1009,17 @@ operations_participated:
   - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
+  - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
 org_type: national-agency
 parent_org: ""
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
+  - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
 status: active
 title: "US Department of Justice (DOJ)"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Current Status (as of 2026-04-10)
 
@@ -1199,6 +1201,7 @@ DOJ is *highly likely* the most important US counterpart for Korean cybercrime c
 | [4] | US DoJ scraps crypto crimes team citing Trump order ("Ending Regulation by Prosecution" memo) | Global Government Fintech | 2026 | https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/ |
 | [5] | Criminal Division — Cybersecurity Unit | US Department of Justice | — | https://www.justice.gov/criminal/criminal-ccips/cybersecurity-unit |
 | [6] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting ring sentencing — RO national extradited to US Nov-2024; OIA MLA + USAO-DC prosecution]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |
+| [7] | [[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc\|Poland CBZC Phobos affiliate arrest (Operation Aether) — 47-y-o male in Małopolskie, Penal Code Art 269b §1; PL+US named]] | Polish CBZC | 2026-02-17 | https://cbzc.policja.gov.pl/bzc/aktualnosci/823,47-latek-zwiazany-z-grupa-Phobos-zatrzymany-przez-policjantow-CBZC.html |
 
 > [!note]
 > The original page body was created based on general knowledge (source_count: 0 in the frontmatter). The Current Status and History and Reorganizations sections above are verified against web sources as of 2026-04-10. Additional historical claims (e.g., 1870 establishment, OIA MLAT statistics) should be verified against DOJ annual reports.

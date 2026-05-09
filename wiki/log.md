@@ -1627,3 +1627,15 @@
   - **Routine EAW pattern documented**: matured domestic investigation + EAW + bilateral PT-ES surrender without Eurojust/Europol involvement. Benchmark for "no JIT/no MLA" baseline cooperation in established EU bilateral channels.
   - Modus operandi documented verbatim: cyber-fraud proceeds laundered through online-gaming platforms — gaming-platform laundering layer recorded in wiki for the first time as primary-source-attested.
   - L19/L23-strict applied: only [[portugal-policia-judiciaria]] and [[spain-national-police]] in participating_agencies (named in tier-1 source AND wiki org pages exist). UK and Angolan agencies NOT in participating_agencies (not named at agency level in source).
+
+## [2026-05-09] ingest | Poland CBZC Phobos affiliate arrest — Operation Aether (PL+US, 2026-02-17)
+- Source: raw/press-releases/2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc.md (Polish CBZC; pl)
+- Pages created: wiki/sources/..., wiki/operations/poland-cbzc-phobos-affiliate-arrest-aether-2026.md (provisional, source_count=1).
+- Pages updated: countries (PL, US), agencies (poland-police, europol-ec3, us-doj), crime-types/ransomware-ic, mechanisms (search-seizure, extradition).
+- Key findings:
+  - **First wiki appearance of "Operation Aether" branding** — Europol-coordinated campaign against Phobos ransomware ecosystem (distinct from existing phobos-8base-crackdown 2025-02-11 wave; Operation Aether is the broader umbrella name).
+  - 47-y-o Polish national arrested in Małopolskie Voivodeship by joint CBZC team from Katowice + Kielce divisions. Charged Polish Penal Code Art. 269b § 1 (production/acquisition/distribution of hacking tools, max 5 years). Investigation supervised by Prokuratura Okręgowa w Gliwicach.
+  - Suspect contacted Phobos ransomware group via encrypted messengers; computer + mobile phones with logins/passwords/credit-card numbers/server IPs seized.
+  - Links cited: prior Phobos administrator extradition to USA + 1000+ global victims (US public schools in CA/CT, Maryland healthcare, US DoD contractor) per US DOJ documents → total ransom >USD 16M.
+  - PL-US IC scope (PL locus of arrest, US prior extradition + DOJ documents cited as basis).
+  - L19/L23-strict applied: 3 agency wikilinks all in tier-1 source AND wiki org pages exist.

@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (234 canonical / 27 absorbed / 261 records)
+# Operations (235 canonical / 27 absorbed / 262 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (234)
+## Canonical Operations (235)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -199,6 +199,7 @@ updated: 2026-04-14
 | [[operation-red-card-2]] | CYB-2026-003 | 3 | completed | umbrella | 4 | 4.25 | 1 |
 | [[coordinated-cryptocurrency-scam-center-takedown-2026]] | CYB-2026-008 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[leakbase-takedown-2026]] | CYB-2026-009 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[poland-cbzc-phobos-affiliate-arrest-aether-2026]] | CYB-2026-009 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-power-off-2026-04]] | CYB-2026-010 | 3 | completed | follow-on | 1 | 4.00 | 1 |
 | [[korea-cambodia-philippines-73-extradition-2026]] | CYB-2026-011 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[uk-nigeria-meta-scam-centre-disruption-2026]] | CYB-2026-012 | 3 | completed | — | 1 | 4.00 | 1 |

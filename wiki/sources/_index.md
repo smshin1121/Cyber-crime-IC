@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (788)
+# Sources (789)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -84,6 +84,7 @@ updated: 2026-04-14
 | [[2026-02-19_thehackernews_operation-red-card-2-651-arrests]] | news | The Hacker News | ? | medium | ? |
 | [[2026-02-19_nairametrics_operation-red-card-2-african-cybercrime]] | news | Nairametrics | ? | medium | ? |
 | [[2026-02-18_interpol_operation-red-card-2-online-scams]] | press-release | INTERPOL | ? | high | ? |
+| [[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]] | press-release | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC) — Polish Police Central Bureau for Combating Cybercrime | ? | high | ? |
 | [[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting]] | press-release | 경찰청 (KNPA, via Korea.kr 정책브리핑) | ? | high | ? |
 | [[2026-02-03_eurojust_successful-operation-illegal-streaming-services]] | press-release | Eurojust | ? | high | ? |
 | [[2026-02-02_poliziadistato-it_live-distant-child-abuse-italy-hsi-europol]] | press-release | Polizia di Stato (Italian State Police) — Ufficio stampa | ? | high | ? |
