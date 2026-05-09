@@ -12,10 +12,11 @@ operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
 region: eastern-europe
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
 title: "Republic of Latvia"
 treaty_memberships:
   - not-assessed

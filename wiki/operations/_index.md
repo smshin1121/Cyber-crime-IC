@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (219 canonical / 27 absorbed / 246 records)
+# Operations (220 canonical / 27 absorbed / 247 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (219)
+## Canonical Operations (220)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -196,6 +196,7 @@ updated: 2026-04-14
 | [[us-v-volkov-yanluowang-sentencing]] | CYB-2026-013 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[black-axe-spain-takedown-2026]] | CYB-2026-014 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[knpa-breaking-chains-2nd-international-operation-meeting-2026]] | CYB-2026-014 | 3 | ongoing | — | 1 | 4.00 | 1 |
+| [[latvia-phone-fraud-money-mule-network-takedown-2026]] | CYB-2026-019 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | umbrella | 5 | 4.40 | 2 |
 | [[operation-pangea-xviii]] | CYB-2026-032 | 3 | completed | umbrella | 4 | 4.40 | 1 |
 | [[operation-eclipse-csam-americas]] | CYB-2026-033 | 3 | completed | umbrella | 4 | 4.20 | 1 |

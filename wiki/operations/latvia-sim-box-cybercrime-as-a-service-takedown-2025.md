@@ -97,11 +97,12 @@ missing_fields:
   - "indictments (post-action-day charging not enumerated)"
   - victims_notified
 related_cases:
-  []
+
 related_operations:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "The cited Europol release is one of the wider verbatim public-record CaaS-tier-prosecution captures in the wiki corpus, with a detailed enumeration of crime-types-enabled by the network and explicit private-sector cooperation with the Shadowserver Foundation for technical infrastructure dismantling."
   - "The fake-police-officer-against-Russian-speaking-victims scheme is a notable IC-relevant data point that overlaps with the broader 2025-2026 EU-wide Russian-speaking-victim cybercrime targeting pattern, including the Korea-Russian-victim Phobos prosecution context (Ptitsyn) and broader Russian-language criminal forums (LeakBase, RAMP)."

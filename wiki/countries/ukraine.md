@@ -43,10 +43,12 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
+  - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
 region: eastern-europe
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
+  - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
 title: Ukraine
 treaty_memberships:
   - date: 2005-09-10
@@ -117,3 +119,4 @@ Despite wartime conditions, Ukraine maintains substantial cybercrime investigati
 | [2] | Law on Basic Principles of Cybersecurity of Ukraine (2017) | Verkhovna Rada | 2017-10-05 | https://zakon.rada.gov.ua/laws/show/2163-19 |
 | [3] | Chart of Signatures and Ratifications of Treaty 185 | Council of Europe | 2025 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
 | [4] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
+| [5] | [[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules\|Latvia €2M vishing money-mule case — 4-jurisdiction (LV+EE+DE+UA), Eurojust-coordinated; 2 fugitives arrested in Ivano-Frankivsk on 2026-03-12]] | Latvijas Republikas prokuratūra | 2026-03-18 | https://www.prokuratura.lv/lv/aktualitates/2026/aktualitates/izkrapti-2-miljoni-eiro-valsts-policija-telefonkrapsanas-lieta-noskaidro-vairak-neka-170-naudas-mulus-un-nelikumigos-kriptoaktivu-mainitajus-3712 |

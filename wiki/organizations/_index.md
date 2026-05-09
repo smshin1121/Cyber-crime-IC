@@ -115,7 +115,7 @@ updated: 2026-04-08
 | [[ireland-garda]] | national-unit | Dublin, Ireland | National cybercrime investigation.; Digital forensics and cybercrime support for serious investigations. | 4 | 3 |
 | [[italy-polizia-postale]] | national-unit | Rome, Italy | Cybercrime investigation; Online child-protection investigations | 8 | 3 |
 | [[knpa-cyber-bureau]] | national-unit | Seoul, South Korea | — | 9 | 5 |
-| [[latvia-state-police]] | national-unit | Latvia | Latvian state police cybercrime investigation context.; Law-enforcement counterpart to [[cert-lv]] for cybercrime cases. | 6 | 3 |
+| [[latvia-state-police]] | national-unit | Latvia | Latvian state police cybercrime investigation context.; Law-enforcement counterpart to [[cert-lv]] for cybercrime cases. | 7 | 4 |
 | [[lithuania-police]] | national-unit | Saltoniškių g. 19, Vilnius 08105, Lithuania | — | 8 | 3 |
 | [[mauritius-police-cybercrime]] | national-unit | Mauritius | Police-side cybercrime investigation point for Mauritius.; Complements CERT-MU's incident-response role with criminal-investigation capacity. | — | 1 |
 | [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 40 | 5 |
@@ -156,7 +156,7 @@ updated: 2026-04-08
 | [[ncfta]] | public-private-partnership | United States | public-private intelligence sharing; case support | 3 | 3 |
 | [[apcert]] | regional-cert-network | — | Provides regional CERT-to-CERT coordination context for incident response and cyber-security capacity building.; Connects national CERTs such as [[kisa]] / KrCERT and SingCERT-facing functions. | — | 2 |
 | [[afripol]] | regional-org | Algiers, Algeria | continental police coordination; joint cyber operations with INTERPOL | 10 | 3 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 62 | 10 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 63 | 11 |
 | [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 115 | 10 |
 | [[african-union]] | regional-organization | Addis Ababa, Ethiopia | Sets continental cyber-security, cybercrime, electronic-commerce, and personal-data-protection policy baselines through AU instruments.; Provides the regional treaty context used by African states and partners when harmonizing cybercrime laws and digital-evidence powers. | — | 1 |
 | [[aseanapol]] | regional-policing-body | — | Provides a Southeast Asian regional-policing layer for multilateral cyber-enabled fraud and online-scam operations.; Supports information sharing and regional coordination alongside INTERPOL and national police agencies. | 2 | 2 |

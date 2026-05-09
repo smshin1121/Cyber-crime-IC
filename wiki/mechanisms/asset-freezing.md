@@ -4,7 +4,7 @@ title: "Asset Freezing"
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-09
-source_count: 6
+source_count: 7
 sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
   - "[[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service]]"
@@ -12,6 +12,7 @@ sources:
   - "[[2024-05-28_treasury-gov_treasury-sanctions-a-cybercrime-network-associated-with-the-911-s5-botnet]]"
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
+  - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
@@ -19,6 +20,7 @@ operations_using:
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
+  - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
 cases_using:
   - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 ---

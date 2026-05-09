@@ -1421,3 +1421,16 @@
   - RA 12010 (AFASA, Anti-Financial Account Scamming Act) §4(b)(1) Social Engineering Schemes invoked in relation to RA 10175 (Cybercrime Prevention Act 2012) — first wiki record of AFASA application.
   - **Operational chain in tier-1 release purely domestic Philippine** — no foreign LE counterpart named. Per L19, participating_countries kept to philippines only; cross-border conduct (US victims, US-impersonated agencies, Chinese national) recorded in body and missing_fields without IC-cooperation assertion.
 - New LESSONS entry: L22 — nbi.gov.ph requires HTTP plain (HTTPS WRONG_VERSION_NUMBER fail). Fallback order updated: chrome120 → chrome124 → **HTTP plain** → Wayback → ABORT.
+
+## [2026-05-09] ingest | Latvia €2M vishing money-mule case — 4-jurisdiction (LV+EE+DE+UA) Eurojust-coordinated
+- Source: raw/press-releases/2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules.md (Latvijas Republikas prokuratūra; lv)
+- Pages created: wiki/sources/2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules.md, wiki/operations/latvia-phone-fraud-money-mule-network-takedown-2026.md (provisional, source_count=1)
+- Pages updated: 4 country pages (LV, EE, DE, UA), latvia-state-police, eurojust, two crime-types (online-fraud-ic, money-laundering-ic), three mechanisms (eurojust-coordination-meeting, extradition, asset-freezing), latvia-sim-box-cybercrime-as-a-service-takedown-2025 related op.
+- Key findings:
+  - First wiki record sourced from prokuratura.lv (Latvia Prosecutor General's Office) — Latvian-language tier-1 IC primary.
+  - **4-jurisdiction cooperation arc** on a single vishing-plus-laundering OCG: LV (lead, victim country, prosecution) + EE (cooperation in 2024 DE detention; convicting forum for group leader) + DE (where group leader detained 2024) + UA (2 fugitives detained Ivano-Frankivsk 2026-03-12, Eurojust-supported).
+  - **"Convict-in-third-state" pattern** — group leader detained in DE in cooperation with EE, then convicted in EE rather than LV. EU-internal flexibility in choosing convicting jurisdiction based on evidence center of gravity.
+  - Vishing typology benchmark: police-and-bank impersonation → AnyDesk remote-access deployment → internet-banking credential exfiltration. Recorded verbatim by tier-1 prosecutorial source.
+  - Money-mule downstream layer: 170+ mules, 90 recognised as suspects; 1 illegal crypto-asset exchanger sentenced >6 years (sentencing-severity precedent for laundering-conduit role distinct from call-centre operator role).
+  - €2M victim losses across 35 consolidated criminal matters (2023-09 → 2024-09); €829,650 under criminal-process asset arrest.
+  - 13 fraudulent call-centre operators detained; 3 LV group members each sentenced 3 years.

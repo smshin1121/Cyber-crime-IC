@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (773)
+# Sources (774)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -48,6 +48,7 @@ updated: 2026-04-14
 | [[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]] | press-release | Europol | ? | high | ? |
 | [[2026-03-19_justice-gov_iranian-mois-cyber-psychological-operations-handala]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
+| [[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]] | press-release | Latvijas Republikas prokuratūra (Prosecutor General's Office of Latvia) | ? | high | ? |
 | [[2026-03-16_helpnetsecurity_interpol-operation-synergia-iii-cybercrime-infrastructure-takedown]] | news | Help Net Security | ? | medium | ? |
 | [[2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces]] | news | TechRadar | ? | medium | ? |
 | [[2026-03-13_interpol_synergia-iii-45000-malicious-ip-addresses]] | press-release | INTERPOL | ? | high | ? |

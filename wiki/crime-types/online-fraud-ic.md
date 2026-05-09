@@ -75,6 +75,7 @@ notable_operations:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
+  - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -92,7 +93,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 68
+source_count: 69
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -162,6 +163,7 @@ sources:
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
   - "[[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation]]"
+  - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -293,3 +295,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [66] | [[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown\|Hellenic Police DAOE crypto-investment Ponzi takedown — €14.5M, 12 arrests, 8 countries (GR+FR+DE+MT+UK+IE+DK+BG); EIO+MLA channels exercised in parallel]] | Hellenic Police HQ (Δ.Α.Ο.Ε.) | 2026-03-06 | https://www.astynomia.gr/2026/03/06/06-03-2026-d-a-o-e-exarthrosi-egklimatikis-organosis-pou-diepratte-apates-me-to-proschima-ton-ependyseon-se-kryptonomismata-12-syllipseis/ |
 | [67] | [[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate\|NPA AFU R43M restraint vs Bryanston "international Israeli syndicate" call-centre fraud (ZA POCA s.26; AU/NZ/CA/US victims)]] | National Prosecuting Authority of South Africa | 2026-04-21 | https://www.npa.gov.za/media/afu-secures-r43-million-restraint-order-against-international-call-centre-scam-syndicate |
 | [68] | [[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation\|NBI Parañaque US-impersonation cyber-scam takedown — Li Zhenjie (CN national) impersonating New Haven PD/FBI to extort USD 3K-5K crypto from US victims]] | NBI Cybercrime Division (Philippines) | 2025-11-28 | http://nbi.gov.ph/press_releases/2025/11282025/9188/ |
+| [69] | [[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules\|Latvia €2M vishing money-mule case — 4-jurisdiction (LV+EE+DE+UA), AnyDesk-based vishing, 170+ mules, Eurojust-coordinated]] | Latvijas Republikas prokuratūra | 2026-03-18 | https://www.prokuratura.lv/lv/aktualitates/2026/aktualitates/izkrapti-2-miljoni-eiro-valsts-policija-telefonkrapsanas-lieta-noskaidro-vairak-neka-170-naudas-mulus-un-nelikumigos-kriptoaktivu-mainitajus-3712 |

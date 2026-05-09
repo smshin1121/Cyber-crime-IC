@@ -30,8 +30,8 @@ updated: 2026-04-27
 | [[identity-theft]] | — | — | — | operation-magnus-redline-meta-stealer-takedown-2024, us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024, veriftools-fake-id-marketplace-followup-arrests-2026 | 12 |
 | [[illegal-iptv-ic]] | cyber-enabled | Yes | search-seizure, domain-seizure, public-private-cooperation | operation-perfect-storm-pay-tv-piracy-2019, spanish-pay-tv-streaming-network-takedown-2020, mobdro-illegal-streaming-takedown-2021 | 15 |
 | [[malware-ic]] | cyber-dependent | Yes | sinkholing, domain-seizure, search-seizure | operation-avalanche, andromeda-botnet-takedown, simda-botnet-takedown | 13 |
-| [[money-laundering-ic]] | cyber-enabled | Yes | mlat-process, europol-jit | de-ch-crypto-mixer-takedown-2025, 2bagoldmule-qqaazz, cryptex-pm2btc-sanctions | 47 |
-| [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 68 |
+| [[money-laundering-ic]] | cyber-enabled | Yes | mlat-process, europol-jit | de-ch-crypto-mixer-takedown-2025, 2bagoldmule-qqaazz, cryptex-pm2btc-sanctions | 48 |
+| [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 69 |
 | [[organized-crime-ic]] | — | — | — | matrix-encrypted-messaging-takedown-2024, black-axe-spain-takedown-2026, operation-candy-encrypted-comms-drugs-2026 | 17 |
 | [[ransomware-ic]] | cyber-dependent | Yes | — | operation-cronos-phase1, operation-endgame-phase1, operation-cronos-phase3 | 27 |
 | [[voice-phishing-ic]] | cyber-enabled | Yes | interpol-i-grip, interpol-i24-7, informal-cooperation | korea-china-voice-phishing-qingdao, operation-haechi-iii, operation-haechi-iv | 26 |

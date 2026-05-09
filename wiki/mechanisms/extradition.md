@@ -4,19 +4,21 @@ title: Extradition
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-09
-source_count: 5
+source_count: 6
 sources:
   - "[[2015-10-13_fbi-pittsburgh_bugat-botnet-administrator-arrested-and-malware-disabled]]"
   - "[[2015-10-13_scmagazine_moldovian-sentenced-stealing-millions-bugat-banking-malware]]"
   - "[[2015-12-04_thenextweb_silk-road-architect-variety-jones-arrested-thailand]]"
   - "[[2016-10-17_ibtimesuk_silk-road-dark-web-drug-ring-italianmafiabrussels-leader-extradited-us]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-token-mirrors-2026]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
   - "[[operation-otf-grimm]]"
+  - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
