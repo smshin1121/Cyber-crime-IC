@@ -17,7 +17,8 @@ status: in-force
 parties:
   states_parties: 2
   signatories: 2
-  notable_non_parties: []
+  notable_non_parties:
+    []
 key_provisions:
   - article: "(MOU body, signed 2025-11-10 in Phnom Penh)"
     topic: "Joint operational task force handling the entire process from report receipt to rescue, investigation, and suspect repatriation for cases involving Korean nationals"
@@ -43,6 +44,7 @@ implementing_mechanisms:
 operations_enabled:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[korea-cambodia-scam-repatriation]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 source_count: 1
 sources:
   - "[[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing]]"

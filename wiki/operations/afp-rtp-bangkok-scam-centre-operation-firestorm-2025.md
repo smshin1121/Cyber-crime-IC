@@ -84,6 +84,7 @@ related_operations:
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 challenges_encountered:
 
 lessons_learned:

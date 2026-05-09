@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[south-korea]]"
 jurisdiction:
-  -
-    - south-korea
+
 created: 2026-04-08
 dissolved_date: 2023-12
 established: 2014-08
@@ -34,6 +33,7 @@ operations_participated:
   - "[[operation-cyber-guardian]]"
   - "[[operation-haechi-ii]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 org_type: national-unit
 parent_org: "[[knpa]]"
 predecessor: ""

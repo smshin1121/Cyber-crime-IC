@@ -17,7 +17,8 @@ status: in-force
 parties:
   states_parties: 2
   signatories: 2
-  notable_non_parties: []
+  notable_non_parties:
+    []
 key_provisions:
   - article: "(MOU body, signed 2025-11-01 in Korea during APEC Korea 2025)"
     topic: "Information sharing on Southeast Asian scam-crime bases (especially Cambodia)"
@@ -47,6 +48,7 @@ implementing_mechanisms:
   - "[[asset-freezing]]"
 operations_enabled:
   - "[[operation-haechi-v]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 source_count: 1
 sources:
   - "[[2025-11-01_korean-press_korea-china-anti-scam-mou-signing]]"

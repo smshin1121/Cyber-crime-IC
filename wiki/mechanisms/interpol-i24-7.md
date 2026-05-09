@@ -14,6 +14,7 @@ mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 ---
 ## Summary
 

@@ -13,6 +13,7 @@ operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 ---
 ## Summary
 

@@ -14,7 +14,7 @@ treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
-    reservations:
+    reservations: ""
 central_authority:
   mlat: ""
   budapest: ""
@@ -31,6 +31,7 @@ bilateral_agreements:
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 notable_cases:
 
 cooperation_assessment: ""

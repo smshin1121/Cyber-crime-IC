@@ -13,6 +13,7 @@ operations_participated:
   - "[[operation-cronos-phase1]]"
   - "[[lumma-stealer-takedown]]"
   - "[[operation-power-off-2026-04]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 region: east-asia
 source_count: 0
 sources:

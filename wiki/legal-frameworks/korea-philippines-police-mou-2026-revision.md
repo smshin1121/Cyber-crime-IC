@@ -16,7 +16,8 @@ status: in-force
 parties:
   states_parties: 2
   signatories: 2
-  notable_non_parties: []
+  notable_non_parties:
+    []
 key_provisions:
   - article: "(2026 revision, signed 2026-03-03 in Manila)"
     topic: "Joint response to drugs, online scams, and sophisticated transnational crimes"
@@ -34,12 +35,14 @@ scope:
   jurisdiction: false
   evidence: true
   data_protection: false
-related_frameworks: []
+related_frameworks:
+  []
 implementing_mechanisms:
   - "[[extradition]]"
   - "[[informal-cooperation]]"
 operations_enabled:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 source_count: 1
 sources:
   - "[[2026-03-03_korean-press_korea-philippines-police-mou-second-revision]]"

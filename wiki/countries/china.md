@@ -18,6 +18,7 @@ operations_participated:
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
   - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
   - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 region: east-asia
 source_count: 1
 sources:

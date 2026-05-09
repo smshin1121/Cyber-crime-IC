@@ -199,6 +199,7 @@ operations_participated:
   - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
   - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 region: north-america
 source_count: 1
 sources:

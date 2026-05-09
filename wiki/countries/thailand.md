@@ -38,6 +38,7 @@ operations_participated:
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 region: southeast-asia
 source_count: 3
 sources:

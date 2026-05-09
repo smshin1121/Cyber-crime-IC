@@ -44,6 +44,7 @@ related_operations:
   - "[[myanmar-kokang-scam-compound-crackdown]]"
   - "[[zambia-golden-top-call-center]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 results:
   arrests: 136
   cryptocurrency_seized: ""

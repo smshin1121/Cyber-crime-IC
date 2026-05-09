@@ -1,19 +1,20 @@
 ---
 type: organization
-title: "ASEANAPOL"
+title: ASEANAPOL
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-29
 org_type: regional-policing-body
 country: ""
-jurisdiction: "regional"
+jurisdiction: regional
 mandate: "Regional police cooperation body for ASEAN member states."
 key_roles:
   - "Provides a Southeast Asian regional-policing layer for multilateral cyber-enabled fraud and online-scam operations."
   - "Supports information sharing and regional coordination alongside INTERPOL and national police agencies."
 operations_participated:
   - "[[operation-first-light-2024]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 cooperation_partners:
   - "[[interpol]]"
   - "[[afripol]]"

@@ -1,26 +1,26 @@
 ---
 aliases:
-  []
+
 contact_point_for:
-  []
+
 cooperation_partners:
-  []
+
 country: ""
-jurisdiction: "international"
+jurisdiction: international
 created: 2026-04-10
 established: 1997
 frameworks_administered:
-  []
+
 headquarters: "Vienna, Austria"
 key_roles:
-  []
+
 last_verified: 2026-04-10
 mandate: "Assisting UN Member States in combating illicit drugs, organized crime, terrorism,"
 mechanisms_operated:
-  []
+
 member_states: 193
 notable_cases:
-  []
+
 official_name: "United Nations Office on Drugs and Crime"
 official_name_ko: "유엔 마약범죄사무소"
 operations_participated:
@@ -28,15 +28,16 @@ operations_participated:
   - "[[operation-pangea-xvii]]"
   - "[[operation-pangea-xviii]]"
   - "[[operation-eclipse-csam-americas]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 org_type: international-org
 parent_org: "[[united-nations]]"
 source_count: 8
 sources:
-  []
+
 status: active
 title: "United Nations Office on Drugs and Crime (UNODC)"
 type: organization
-updated: "2026-05-08"
+updated: 2026-05-08
 ---
 ## Summary
 

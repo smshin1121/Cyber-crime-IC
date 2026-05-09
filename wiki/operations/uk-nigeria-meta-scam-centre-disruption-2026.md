@@ -73,6 +73,7 @@ related_operations:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 challenges_encountered:
 
 lessons_learned:

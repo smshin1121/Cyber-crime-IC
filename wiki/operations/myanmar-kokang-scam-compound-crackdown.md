@@ -78,6 +78,7 @@ related_operations:
   - "[[bali-villa-cybercrime-raid-2024]]"
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[zambia-golden-top-call-center]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:

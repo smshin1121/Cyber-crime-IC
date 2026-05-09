@@ -101,6 +101,7 @@ related_operations:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 challenges_encountered:
 
 lessons_learned:

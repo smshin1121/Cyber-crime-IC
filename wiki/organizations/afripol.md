@@ -34,6 +34,7 @@ operations_participated:
   - "[[africa-cyber-surge-ii]]"
   - "[[operation-red-card-2]]"
   - "[[operation-catalyst]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 org_type: regional-org
 parent_org: "[[african-union]]"
 source_count: 3

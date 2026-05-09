@@ -46,6 +46,7 @@ notable_operations:
   - "[[operation-chakra-v]]"
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
+  - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
 notable_cases:
 
 criminalization_status:
@@ -54,7 +55,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "South Korea reports large recurring domestic losses; global phone-enabled fraud loss is not consistently separated from wider online-fraud statistics."
-source_count: 23
+source_count: 24
 sources:
   - "[[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]]"
   - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
@@ -79,6 +80,7 @@ sources:
   - "[[2026-04-29_europol_call-centres-eur-50m-online-fraud]]"
   - "[[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]]"
   - "[[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition]]"
+  - "[[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting]]"
 created: 2026-04-08
 updated: 2026-05-08
 ---
@@ -166,3 +168,4 @@ This distinction prevents the SNA from silently merging all online fraud into vo
 | [21] | Call centres dismantled and ten arrested in EUR 50 million online fraud case | Europol | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/call-centres-dismantled-and-ten-arrested-in-eur-50-million-online-fraud-case |
 | [22] | European police bust Albanian investment and call centre scam | Reuters / MarketScreener | 2026-04-29 | https://www.marketscreener.com/news/european-police-bust-albanian-investment-and-call-centre-scam-ce7f58dad889f622 |
 | [23] | [[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition\|온라인 스캠 조직원 73명 국내 송환 (캄보디아·필리핀 거점)]] | 경찰청 (Korea.kr 정책브리핑 / Kyunghyang) | 2026-04-27 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156740857 |
+| [24] | [[2026-02-05_korean-press_knpa-breaking-chains-2nd-international-operation-meeting\|경찰청 「Breaking Chains 제2차 국제공조 회의」 — 22-국 합동 동남아 스캠 단속 (브레이킹 체인스)]] | 경찰청 (Korea.kr 정책브리핑) | 2026-02-05 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156743085 |
