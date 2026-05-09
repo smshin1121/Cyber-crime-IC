@@ -58,7 +58,7 @@ total: 61
 | 🇭🇳 | [[honduras]] | not-assessed | — | unknown | unknown | 1 |
 | 🇭🇷 | [[croatia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇭🇺 | [[hungary]] | civil-law | not-assessed | unknown | unknown | 4 |
-| 🇮🇩 | [[indonesia]] | not-assessed | — | unknown | unknown | 0 |
+| 🇮🇩 | [[indonesia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇮🇪 | [[ireland]] | not-assessed | — | unknown | unknown | 1 |
 | 🇮🇱 | [[israel]] | mixed | not-assessed | unknown | unknown | 5 |
 | 🇮🇳 | [[india]] | not-assessed | — | unknown | unknown | 0 |
@@ -68,7 +68,7 @@ total: 61
 | 🇯🇴 | [[jordan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
-| 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 2 |
+| 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 3 |
 | 🇰🇵 | [[north-korea]] | socialist-civil-law | — | very-low | 180+ | 1 |
 | 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 24 |
 | 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 1 |

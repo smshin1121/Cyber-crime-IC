@@ -39,6 +39,7 @@ operations_using:
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
+  - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
 ---
 ## Summary
 

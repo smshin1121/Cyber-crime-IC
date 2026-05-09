@@ -90,6 +90,7 @@ notable_operations:
   - "[[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]]"
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
+  - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -107,7 +108,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 83
+source_count: 84
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -192,6 +193,7 @@ sources:
   - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
   - "[[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation]]"
+  - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -338,3 +340,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [81] | [[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud\|BTA Sofia call-centre BG-ES Guardia Civil online investment fraud takedown — 17 gold bars, 5 hardware crypto wallets (one >USD 230K), BGN 45K cash]] | BTA (Bulgarian News Agency, state wire) relaying Sofia City Prosecutor's Office | 2025-12-12 | https://www.bta.bg/en/news/bulgaria/990290-organized-crime-group-running-fraudulent-online-investment-platforms-busted-i |
 | [82] | [[2026-04-22_police-be_phishingpanelen-leverancier-arrest\|Belgian Federal Police — CaaS phishing-panel supplier arrest, NL→BE surrender, EUR 28K cash + data carriers seized (FGP Oost-Vlaanderen + Europol)]] | Belgian Federal Police (Politie.be / Police.be) | 2026-04-22 | https://www.police.be/5998/nl/nieuws/crime-as-a-service-leverancier-phishingpanelen-aan-phishingbendes-opgepakt |
 | [83] | [[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation\|NZ Police — Wellington man arrested in NZ-FBI joint USD 265M cryptocurrency-theft RICO investigation; 13 arrested across NZ + California]] | New Zealand Police — Financial Crime Group | 2025-05-16 | https://www.police.govt.nz/news/release/wellington-based-man-arrested-international-cryptocurrency-scam-investigation |
+| [84] | [[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest\|Polri Tribrata News — INTERPOL Red Notice arrest of LCS at Soekarno-Hatta (May 2026); Cambodia-base 'abbishopee' online-fraud network; 23+ Laporan Polisi consolidated under Dittipidsiber Bareskrim]] | Indonesian National Police (Polri) — Tribrata News national newsroom | 2026-05-05 | https://tribratanews.polri.go.id/dnews/47828/penyamarannya-terbongkar-buronan-interpol-asal-indonesia-tertangkap-di-soekarno-hatta |

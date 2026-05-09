@@ -69,11 +69,13 @@ missing_fields:
   - "Identification of the cryptocurrency exchanges or mixers used by FYT not provided"
   - "Whether US prosecution will follow Indonesian one not stated"
   - "No identification of the specific Indonesian or U.S. corporate victims"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
+  - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts|Jurisdictional conflicts]] — Indonesia is not a party to the Budapest Convention as of 2026-05, so cooperation operates outside the Article 35 24/7 Network and any other Budapest tooling."
   - "MFA-bypass capability defeats victim-side credential rotation, increasing pre-disruption dwell time."
@@ -87,9 +89,8 @@ sources:
   - "[[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate]]"
 summary: "On 22 April 2026, the Indonesian National Police (INP) Criminal Investigation Agency (Bareskrim) arrested an Indonesian couple - identified by initials GWL and FYT - in Jakarta, Indonesia, in a joint cross-border investigation with the U.S. Federal Bureau of Investigation (FBI). GWL is alleged to have developed and sold malicious phishing scripts since 2018 that bypassed Multi-Factor Authentication (MFA), enabling Business Email Compromise (BEC) at scale; FYT is alleged to have managed proceeds through cryptocurrency wallets. The syndicate's tools reportedly compromised 17,000 accounts and victimised 34,000 people globally - including United States victims and nine Indonesian corporate entities - with estimated losses of USD 20 million. Both suspects face up to 15 years' imprisonment under Indonesia's Electronic Information and Transactions (ITE) Law. INP was the announcing party (23 April 2026); the FBI's role and channel were not described in detail."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 ---
-
 # Indonesia INP-FBI MFA-Bypass Phishing Syndicate Takedown (2026)
 
 > [!info] Provisional record

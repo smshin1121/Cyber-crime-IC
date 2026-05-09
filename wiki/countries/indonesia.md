@@ -8,15 +8,16 @@ operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
+  - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
 region: southeast-asia
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
 title: "Republic of Indonesia"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

@@ -67,16 +67,18 @@ operations_participated:
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
   - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
+  - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
 org_type: international-org
 parent_org: ""
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
+  - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
 status: active
 title: "INTERPOL (International Criminal Police Organization)"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 ## Current Status (as of 2026-04-10)
 
@@ -268,6 +270,7 @@ Korea's relationship with INTERPOL is *almost certainly* among the most active a
 | [4] | Group-IB supports INTERPOL's Operation Synergia III (2026 cyber takedown) | Intelligent CISO | 2026-03-16 | https://www.intelligentciso.com/2026/03/16/group-ib-supports-interpols-operation-synergia-iii-contributing-intelligence-to-global-cybercrime-takedown/ |
 | [5] | [[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest\|Hakkari illegal betting + qualified-fraud network — Sarajevo Red Notice arrest (TR+BA, 53 detentions, ~20bn TL traffic)]] | Anadolu Ajansı (T.C. İçişleri Bakanlığı reproduction) | 2026-03-31 | https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-ve-nitelikli-dolandiriciliga-yonelik-operasyonlarda-53-supheli-yakalandi/3887096 |
 | [6] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition — Lithuanian hacker arrested in Georgia via Red Notice (KR+LT+GE; 2.8M malware copies, 234 victim countries)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |
+| [7] | [[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest\|Polri Tribrata News — INTERPOL Red Notice arrest of LCS at Soekarno-Hatta (May 2026); Cambodia-base 'abbishopee' online-fraud network; 23+ Laporan Polisi consolidated under Dittipidsiber Bareskrim]] | Indonesian National Police (Polri) — Tribrata News national newsroom | 2026-05-05 | https://tribratanews.polri.go.id/dnews/47828/penyamarannya-terbongkar-buronan-interpol-asal-indonesia-tertangkap-di-soekarno-hatta |
 
 > [!note]
 > The original page body was created from general knowledge (source_count: 0 in frontmatter). The Current Status section above is verified against web sources as of 2026-04-10. Detailed historical operational statistics should be verified against INTERPOL press releases and annual reports.

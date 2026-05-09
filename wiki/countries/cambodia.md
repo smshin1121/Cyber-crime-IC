@@ -14,14 +14,16 @@ operations_participated:
   - "[[treasury-sanctions-kok-an-scam-center-network-2026]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
-source_count: 2
+  - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
+source_count: 3
 created: 2026-04-20
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 sources:
   - "[[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing]]"
   - "[[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown]]"
+  - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 notable_cases:

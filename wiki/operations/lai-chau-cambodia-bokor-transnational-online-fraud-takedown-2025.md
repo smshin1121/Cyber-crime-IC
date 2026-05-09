@@ -30,7 +30,8 @@ coordinating_body: ""
 participating_countries:
   - "[[vietnam]]"
   - "[[cambodia]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "Vietnamese domestic substantive criminal law on online property-appropriation fraud (referenced in the source as 'lừa đảo chiếm đoạt tài sản trên không gian mạng'); specific Penal Code articles are not enumerated in the press release."
   - "Bilateral Việt Nam–Cambodia police-to-police cooperation channel via the Representative Office of the Ministry of Public Security of Việt Nam in Cambodia and Cambodian functional forces; the press release does not cite a specific bilateral treaty article or MLAT instrument."
@@ -53,14 +54,14 @@ results:
 edges:
   - source_actor: "Lai Châu Provincial Police (VN)"
     target_actor: "Cambodian functional forces"
-    cooperation_type: "joint_investigation"
-    legal_basis: "bilateral_police_to_police"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: bilateral_police_to_police
+    direction: undirected
   - source_actor: "Cambodian functional forces"
     target_actor: "Lai Châu Provincial Police (VN)"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "bilateral_police_to_police"
-    direction: "directed"
+    cooperation_type: evidence_transfer
+    legal_basis: bilateral_police_to_police
+    direction: directed
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
@@ -71,12 +72,15 @@ missing_fields:
   - "Date and venue of subsequent prosecution proceedings in Việt Nam"
   - "Whether the cell operated under, or fed, a wider regional scam-compound syndicate"
   - "Specific platforms / impersonated companies used for the 'shipper' impersonation modus"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
-challenges_encountered: []
+  - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Vietnamese MPS Representative Office in Cambodia operates as a routinised liaison node for criminal-investigation cooperation, separate from JIT setups: the press release names it (Cơ quan đại diện Bộ Công an Việt Nam tại Campuchia) as one of the three Vietnamese-side coordinating entities alongside the lead provincial police and the central Criminal Police Department."
   - "Host-state hand-over for home-state prosecution pattern: Cambodian functional forces handed over all 59 Vietnamese-national suspects and seized items to the Vietnamese-side investigative agency for Vietnamese-domestic prosecution. This parallels in form, though not in named legal instrument, the Korea-Cambodia and Korea-Philippines repatriations covered elsewhere in the wiki."
@@ -86,10 +90,9 @@ sources:
   - "[[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown]]"
 summary: "On 28 October 2025, a special working group of Lai Châu Provincial Police of Việt Nam — in coordination with the Representative Office of the Ministry of Public Security of Việt Nam in Cambodia, the Criminal Police Department of the MPS, and Cambodian functional forces — took down a Vietnamese-staffed online-fraud cell operating from the Bokor Hill area within the Bokor Ecological Park complex in Kampot province, Cambodia, arresting 59 Vietnamese nationals (44 male, 15 female) on-site (66 in the case overall). The cell impersonated shippers, police, and military and ran romance-fraud, with more than 8,000 victims in Việt Nam and an estimated appropriated total of more than 300 billion VND. Cambodian functional forces handed over all 59 suspects and seized evidence to the Lai Châu Provincial Police investigative agency for Vietnamese-domestic prosecution. Direct command was held by Senior Lieutenant General Nguyễn Văn Long, Deputy Minister of Public Security; the named ringleader is Sùng Thị Mải (alias 'Vi'), born 1999, from Lào Cai province."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 ---
-
 ## Summary
 
 On **28 October 2025**, a special working group of **Lai Châu Provincial Police of Việt Nam** led — in coordination with the **Representative Office of the Ministry of Public Security of Việt Nam in Cambodia** (Cơ quan đại diện Bộ Công an Việt Nam tại Campuchia), the **Criminal Police Department of the MPS** (Cục Cảnh sát Hình sự — Bộ Công an), and **Cambodian functional forces** — the takedown of a Vietnamese-staffed online-fraud cell operating from the **Bokor Hill area within the Bokor Ecological Park complex, Tuek Chhou ward, Bokor city, Kampot province, Kingdom of Cambodia**.

@@ -1788,3 +1788,19 @@
   - L19-strict applied: only 2 wikilinked agencies (us-dhs, ncmec) named in source AND with wiki pages.
   - L23-strict applied: lead_agency/coordinating_body left empty (MPF CABA + CIJ are prosecutor entities without wiki pages).
   - 3 reference rows appended; 16 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | Polri INTERPOL Red Notice arrest of LCS — Cambodia-base "abbishopee" online-fraud network (Bareskrim Dittipidsiber, May 2026) — iter 118
+- Source: raw/press-releases/2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest.md (Indonesian National Police, Tribrata News national newsroom; id).
+- Pages created: wiki/sources/2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest.md, wiki/operations/polri-lcs-cambodia-abbishopee-red-notice-arrest-2026.md (provisional, source_count=1).
+- Pages updated: none (per task scope: backlinks deferred).
+- Key findings:
+  - **First wiki record from Polri Tribrata News (tribratanews.polri.go.id)** — under-sourced tier-1 Indonesian publisher; previously the wiki had only one direct Polri release (the April 2026 INP-FBI MFA-bypass release on inp.polri.go.id).
+  - **Distinct from the April 2026 INP-FBI MFA-bypass case** — different suspects (LCS vs. GWL/FYT), different modus (operator of a branded fraud platform vs. PhaaS MFA-bypass scripts), different foreign partner (INTERPOL Red Notice vs. FBI bilateral), different operating base (Cambodia vs. Indonesia-only).
+  - **IC scope (≥2 countries):** Indonesia (host / arrest at Soekarno-Hatta) + Cambodia (named operating base of the fraud network); INTERPOL named as multilateral mechanism.
+  - **Pattern: Red Notice + airport-arrest sequencing** for Cambodia-base fugitives — the suspect was arrested at the targeting state's own point of entry rather than via formal extradition from Cambodia, consistent with the broader regional pattern around Cambodia-hosted scam compounds.
+  - **Pattern: centralized national handling** — 23+ Laporan Polisi from regions of Indonesia consolidated under Dittipidsiber Bareskrim Polri; three earlier-arrested co-defendants in the same network already convicted at Pengadilan Negeri Jakarta Selatan.
+  - Senior official on the record: Brig. Gen. Pol. Himawan Bayu Aji, Director of Cyber Crime, Bareskrim Polri.
+  - L19-strict applied: only the explicitly named participating jurisdictions (indonesia, cambodia) are wiki-linked; no third Red Notice country is asserted.
+  - L23-strict applied: lead_agency = `[[indonesia-police|...]]` (verified existing org page); coordinating_body = `[[interpol|INTERPOL (Red Notice)]]` (verified existing org page) — no plain-text entity strings.
+  - L1 applied: source URL fetched and verified against canonical national portal (`tribratanews.polri.go.id`) plus three regional mirror sub-domains.
+- Backlinks applied (orchestrator follow-up): 2 country pages (indonesia, cambodia); 2 agencies (indonesia-police, interpol); crime-types/online-fraud-ic; mechanisms/informal-cooperation; challenges/jurisdictional-conflicts (sources backlink); 3 related operations (indonesia-fbi-mfa-bypass, seoul-eastern-clark, lai-chau-cambodia-bokor). 3 reference rows appended.

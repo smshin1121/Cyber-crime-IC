@@ -29,16 +29,18 @@ operations_participated:
   - "[[operation-nightfury]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
+  - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
 org_type: national-agency
 parent_org: ""
-source_count: 2
+source_count: 3
 sources:
   - "[[interpol-operation-goldfish-alpha-night-fury]]"
   - "[[group-ib-operation-nightfury-magecartgetbilling]]"
+  - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
 status: active
 title: "Indonesia Police"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 

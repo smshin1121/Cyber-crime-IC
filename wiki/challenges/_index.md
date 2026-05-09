@@ -11,4 +11,4 @@ updated: 2026-04-08
 | Challenge | Category | Severity | Affected Mechanisms | Sources |
 |-----------|----------|----------|---------------------|---------|
 | [[data-sovereignty]] | legal | critical | [[mlat-process]], [[cloud-act]], [[24-7-network]] | 2 |
-| [[jurisdictional-conflicts]] | legal | critical | [[mlat-process]], [[europol-jit]] | 2 |
+| [[jurisdictional-conflicts]] | legal | critical | [[mlat-process]], [[europol-jit]] | 3 |

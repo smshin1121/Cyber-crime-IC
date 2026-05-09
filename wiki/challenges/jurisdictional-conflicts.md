@@ -36,12 +36,13 @@ related_concepts:
   - "[[nationality-principle]]"
 related_challenges:
   - "[[data-sovereignty]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-29_justice-gov_cloud-act-executive-agreements]]"
   - "[[2026-04-17_coe-int_about-the-convention-budapest-convention]]"
+  - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: 2026-05-10
 status: active
 ---
 ## Summary
@@ -62,3 +63,4 @@ Use this page for overlapping authority problems. Use [[data-sovereignty]] when 
 |---|---|---|---|---|
 | [1] | [[2026-04-29_justice-gov_cloud-act-executive-agreements|Regarding CLOUD Act Executive Agreements]] | U.S. Department of Justice | 2023-10-01 | https://www.justice.gov/es/node/1397306 |
 | [2] | [[2026-04-17_coe-int_about-the-convention-budapest-convention|About the Convention — Budapest Convention]] | Council of Europe | 2026-04-17 | https://www.coe.int/en/web/cybercrime/the-budapest-convention |
+| [3] | [[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest\|Polri Tribrata News — INTERPOL Red Notice arrest of LCS at Soekarno-Hatta (May 2026); Cambodia-base 'abbishopee' online-fraud network; 23+ Laporan Polisi consolidated under Dittipidsiber Bareskrim]] | Indonesian National Police (Polri) — Tribrata News national newsroom | 2026-05-05 | https://tribratanews.polri.go.id/dnews/47828/penyamarannya-terbongkar-buronan-interpol-asal-indonesia-tertangkap-di-soekarno-hatta |
