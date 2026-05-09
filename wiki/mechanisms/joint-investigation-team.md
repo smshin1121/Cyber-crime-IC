@@ -5,16 +5,18 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-04-10
-source_count: 3
+source_count: 4
 sources:
   - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia]]"
+  - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[operation-toy-soldier-gru-29155-estonia-2024]]"
+  - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
 ---
 ## Summary
 

@@ -9,11 +9,12 @@ treaty_memberships:
 ic_capacity: not-assessed
 operations_participated:
   - "[[operation-haechi-vi]]"
-source_count: 0
+  - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
+source_count: 1
 sources:
-  []
+  - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
 created: 2026-04-21
-updated: 2026-05-03
+updated: 2026-05-09
 last_verified: 2026-05-03
 status: needs-official-source-ingestion
 assessment_confidence: limited

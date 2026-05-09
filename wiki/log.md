@@ -1546,3 +1546,16 @@
   - GRU Unit 29155 cyber activity since 2020 against Ukraine and NATO/EU member states including Estonia. Hybrid-warfare framing per Margo Palloson (DG, Estonian Internal Security Service).
   - L19-strict + L23-strict applied. Partner-state names beyond EE/US/UA (10 states / 14 services counts only) NOT asserted in participating_countries.
   - Backlinker bumped `updated:` to today on 9 touched entity pages — first iter applying user's "5/3 freshness" remediation policy.
+
+## [2026-05-09] ingest | KZ-AM Yerevan call-centre investment fraud takedown — bilateral KZ MIA + AM Investigative Committee (2025-02-18)
+- Source: raw/press-releases/2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained.md (Sputnik Kazakhstan citing MIA RK; ru)
+- Pages created: wiki/sources/2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained.md, wiki/operations/kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025.md (provisional, source_count=1).
+- Pages updated: countries (kazakhstan, armenia), crime-types (online-fraud-ic, money-laundering-ic), mechanisms (joint-investigation-team, informal-cooperation, search-seizure, cryptocurrency-seizure).
+- Key findings:
+  - **First wiki record from sputnik.kz** (Russian-language) — first Kazakh tier-1 IC primary; Sputnik Kazakhstan reproduces verbatim MIA RK press service statement.
+  - **First Central Asia / South Caucasus pairing** in wiki (KZ + AM) — closes coverage gap for post-Soviet bilateral cyber cooperation.
+  - 41 detentions in two Yerevan-based call centres targeting KZ and European victims. Multinational suspect pool: AM/GE/IR/SY/LB nationalities — 5-country detainee mix without standard EU/US-led JIT framework.
+  - Lead authorities (in body prose): Department for Combating Cybercrime, MIA Kazakhstan (Жандос Сүйінбай) + Main Directorate for Investigation of Especially Important Cases, Investigative Committee of Armenia.
+  - Seizure inventory: 70+ computers, ~1 kg gold, 5 vehicles, USD 30K + Russian rubles + Georgian lari, one cold cryptocurrency wallet.
+  - L19/L23-strict applied: agencies named in source but NOT in wiki organization corpus → described in prose only, NOT wikilinked. participating_agencies emptied (initial agent output had plain-text strings; replaced with `[]` per L23 to prevent build-pipeline dead links).
+  - Total damage to KZ/European victims not quantified in source — flagged in missing_fields.

@@ -64,6 +64,7 @@ notable_operations:
   - "[[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]]"
   - "[[fiscalia-colombia-criptoactivos-fraud-network-takedown-2025]]"
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
+  - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -78,7 +79,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 51
+source_count: 52
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -131,6 +132,7 @@ sources:
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
   - "[[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos]]"
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
+  - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -239,3 +241,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [49] | [[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest\|Hakkari illegal betting + qualified-fraud network — Sarajevo Red Notice arrest (TR+BA; ~20bn TL transaction volume; 24/7 panel + crypto-conversion layering)]] | Anadolu Ajansı | 2026-03-31 | https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-ve-nitelikli-dolandiriciliga-yonelik-operasyonlarda-53-supheli-yakalandi/3887096 |
 | [50] | [[2025-11-18_fiscalia-gov-co_red-cripto-medellin-colombia-chile-peru-71b-pesos\|Fiscalía Colombia DECDI cripto-investment fraud takedown — Medellín hub, 14 captures, COP 71B (~USD 17M); CO+CL+PE+MX]] | Fiscalía General de la Nación, Boletín 57752 | 2025-11-18 | https://www.fiscalia.gov.co/colombia/noticias/desarticulada-red-senala-de-disenar-un-modelo-de-estafa-a-traves-de-falsas-plataformas-de-inversion-de-criptoactivos/ |
 | [51] | [[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest\|GIGN-FBI Saint-Martin crypto-hacker arrest — USD 46M recovered + EUR 250K cash + Glock; mandat d'arrêt international + extradition]] | Gendarmerie nationale (France) | 2026-03-06 | https://www.gendarmerie.interieur.gouv.fr/presentation/a-l-international/cooperation-internationale-une-target-principale-interpellee-lors-d-une-operation-conjointe-du-gign-et-du-fbi-a-saint-martin |
+| [52] | [[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained\|KZ-AM Yerevan call-centre takedown — 41 detained (5 nationalities), cold crypto wallet + USD 30K + 1kg gold + 5 vehicles seized]] | Sputnik Kazakhstan (citing MIA RK) | 2025-02-18 | https://ru.sputnik.kz/20250218/politseyskie-kazakhstana-i-armenii-zaderzhali-internet-moshennikov-50945815.html |

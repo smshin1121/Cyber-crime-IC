@@ -14,7 +14,7 @@ treaty_memberships:
   - framework: "[[budapest-convention]]"
     status: not-assessed
     date: ""
-    reservations:
+    reservations: ""
 central_authority:
   mlat: ""
   budapest: ""
@@ -31,13 +31,15 @@ bilateral_agreements:
 operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[operation-avalanche]]"
+  - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
 notable_cases:
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
 cooperation_assessment: ""
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-17_coe-int_armenia-cybercrime-country-profile]]"
   - "[[2026-04-17_tntd-osce-org_osce-supports-armenia-s-efforts-to-combat-cybercrime]]"
+  - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
 created: 2026-04-12
 updated: 2026-05-09
 status: corpus-linked

@@ -13,7 +13,7 @@ total: 61
 |----|---------|--------------|----------------|-------------|---------------|---------|
 | 🇦🇪 | [[united-arab-emirates]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇱 | [[albania]] | civil-law | party (2002) | medium | unknown | 3 |
-| 🇦🇲 | [[armenia]] | civil-law | not-assessed | unknown | unknown | 2 |
+| 🇦🇲 | [[armenia]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇦🇷 | [[argentina]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇹 | [[austria]] | civil-law | — | unknown | unknown | 1 |
 | 🇦🇺 | [[australia]] | not-assessed | — | unknown | unknown | 1 |
@@ -71,7 +71,7 @@ total: 61
 | 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 2 |
 | 🇰🇵 | [[north-korea]] | socialist-civil-law | — | very-low | 180+ | 1 |
 | 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 24 |
-| 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 0 |
+| 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 1 |
 | 🇱🇦 | [[laos]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | not-assessed | — | unknown | unknown | 1 |
 | 🇱🇺 | [[luxembourg]] | not-assessed | — | unknown | unknown | 0 |
