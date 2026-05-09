@@ -29,9 +29,10 @@ notable_operations:
   - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 relevant_legal_frameworks:
 
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-03-05_interpol_operation-eclipse-csam-americas]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
@@ -43,6 +44,7 @@ sources:
   - "[[2026-02-02_poliziadistato-it_live-distant-child-abuse-italy-hsi-europol]]"
   - "[[2026-04-28_police-gov-sg_326-arrested-119-investigated-cross-border-online-cse-operation]]"
   - "[[2026-05-08_afp-gov-au_mexico-yucatan-nayarit-csam-international-investigation]]"
+  - "[[2025-04-09_cbzc_operation-fever-largest-european-pedophile-crackdown]]"
 title: "CSAM (Child Sexual Abuse Material) — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -88,3 +90,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [8] | [[2026-02-02_poliziadistato-it_live-distant-child-abuse-italy-hsi-europol\|Live-distant child abuse buyer/trafficker network — Italy Polizia Postale CNCPO + US HSI + Europol]] | Polizia di Stato | 2026-02-02 | https://www.poliziadistato.it/articolo/abusi-sessuali-su-minori-in-diretta-streaming |
 | [9] | [[2026-04-28_police-gov-sg_326-arrested-119-investigated-cross-border-online-cse-operation\|326 arrested, 119 investigated in 7-country cross-border online child sexual exploitation operation (SPF + HKPF + JNPA + KNPA + RMP + RTP + RBPF)]] | Singapore Police Force | 2026-04-28 | https://www.police.gov.sg/Media-Room/News |
 | [10] | [[2026-05-08_afp-gov-au_mexico-yucatan-nayarit-csam-international-investigation\|Mexico Yucatán+Nayarit CSAM bilateral investigation — AFP/QPS Task Force Argos + FGR-FEMDO + SSPC + Marina (MX+AU)]] | AFP (Australia, joint release) | 2026-05-08 | https://www.afp.gov.au/news-centre |
+| [11] | [[2025-04-09_cbzc_operation-fever-largest-european-pedophile-crackdown\|Operation FEVER — largest European pedophile crackdown (CBZC + KGP + 12 EU/UK/US partners; Polish EU Presidency H1 2025)]] | CBZC (Poland) | 2025-04-09 | https://www.gov.pl/web/cbzc |

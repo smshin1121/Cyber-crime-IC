@@ -28,6 +28,7 @@ operations_participated:
   - "[[operation-power-off]]"
   - "[[operation-power-off-2025-05]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 org_type: national-unit
 parent_org: "Komenda Główna Policji (Police Headquarters, Ministry of Interior and"
 source_count: 3

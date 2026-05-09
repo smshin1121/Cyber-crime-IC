@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-09] ingest [single agent, regional focus] | Operation FEVER — Polish CBZC EU Presidency CSAM crackdown (2025-04-09, 12+ countries)
+- Sources: 1 raw + 1 source page (pl) + 1 operation page (3 new pages)
+- Pages updated: 14 country (PL, DK, EE, DE, EL, HU, IE, LV, RO, ES, SE, BG, UK, US), 5 organization (poland-police, europol-ec3, uk-nca, fbi, germany-bka, ncmec), 1 crime-type (csam-ic), 1 cross-link (operation-stream-kidflix sub-component).
+- Key findings:
+  - **Operation FEVER (CBZC+KGP umbrella, 2025-04-09)**: Largest European-led CSAM crackdown of Poland's H1 2025 EU Council Presidency. **International total**: 166 detentions; **Poland subset**: 98 (ages 22-78); CSAM-distribution arrests 111. Polish enforcement footprint: 159 searches, ~600 officers, 1,700+ devices, 520,000+ CSAM files, 48 pre-trial detentions, 3 unauthorised firearms. **12 EU + 2 non-EU participants**: Poland (lead), DK, EE, DE, EL, HU, IE, LV, RO, ES, SE, BG + UK NCA + US FBI/HSI/NCMEC. Coordination: Europol J-CAT. Sub-operations: **Kidflix** (CBZC + German police; server seized 2025-03-11 in DE/NL; 12 Polish targets — sister to existing [[operation-stream-kidflix]] page) + CBZC-FBI dark web forum track. Earlier referenced CBZC ops 2022-2024: ANASTAZJA, BARBOSSA, CARLOS, DAKOTA, ENOLA GAY (cumulative 280+ charged, 2M+ files). **First wiki record of CBZC EU-Presidency-framed umbrella operation**.
+- Process notes: Polish-language tier-1 source preserved per CLAUDE.md rule 11. Backfill: germany-bka + ncmec missing-backlink HIGH lints fixed. CBZC org page does not exist (`poland-police.md` used as canonical lead-agency page). HSI no wiki page; referenced in prose. Operation FEVER is umbrella for Kidflix already in wiki; cross-linked.
+
 ## [2026-05-09] ingest [single agent, regional focus] | NL Politie + US FBI Veriftools fake-ID marketplace follow-up arrests (2026-04-09, NL+US)
 - Sources: 1 raw + 1 source page (nl) + 1 operation page (3 new pages)
 - Pages updated: 2 country (NL, US), 3 organization (netherlands-politie, netherlands-om, fbi), 3 crime-type (identity-theft, online-fraud-ic, cybercrime-infrastructure-ic), 2 mechanism (informal-cooperation, domain-seizure).

@@ -65,6 +65,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

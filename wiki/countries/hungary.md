@@ -33,6 +33,7 @@ operations_participated:
   - "[[operation-onymous|Operation Onymous]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 notable_cases:
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
 cooperation_assessment: ""

@@ -99,6 +99,7 @@ operations_participated:
   - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

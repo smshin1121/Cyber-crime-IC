@@ -204,6 +204,7 @@ operations_participated:
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 region: north-america
 source_count: 1
 sources:

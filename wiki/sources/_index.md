@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (761)
+# Sources (762)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -222,6 +222,7 @@ updated: 2026-04-14
 | [[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-oth]] | press-release | USAO ND Ohio | ? | high | ? |
 | [[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well]] | press-release | Europol | ? | high | ? |
+| [[2025-04-09_cbzc_operation-fever-largest-european-pedophile-crackdown]] | press-release | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC) — Polish Police | ? | high | ? |
 | [[2025-04-08_police-gov-sg_cross-border-operation-targeting-online-child-sexual-exploitation-activities]] | press-release | Singapore Police Force | ? | high | ? |
 | [[2025-04-07_seoul-co-kr_operation-cyber-guardian]] | press-release | Korea NPA / Seoul Shinmun | ? | medium | ? |
 | [[2025-04-07_seoul-co-kr_asia-6-country-crackdown-on-online-child-sexual-abuse-material]] | press-release | Seoul Shinmun | ? | medium | ? |

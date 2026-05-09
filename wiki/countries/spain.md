@@ -55,6 +55,7 @@ operations_participated:
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 region: western-europe
 source_count: 6
 sources:

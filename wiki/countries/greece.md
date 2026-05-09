@@ -9,6 +9,7 @@ operations_participated:
   - "[[leakbase-takedown-2026]]"
   - "[[operation-endgame-phase3]]"
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 region: southern-europe
 source_count: 0
 sources:

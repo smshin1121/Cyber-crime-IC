@@ -68,6 +68,7 @@ crime_types:
   - "[[csam-ic]]"
 related_operations:
   - "[[project-compass-the-com-network-2025]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 ---
 > [!note] Source basis
 > This page is now grounded in a collected Europol-centered source wrapper, a Security Affairs summary, and an official Dutch police page confirming the Netherlands-side server action. It replaces an encoding-damaged draft that had no references section despite clear cross-border relevance.

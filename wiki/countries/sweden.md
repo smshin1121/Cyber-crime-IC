@@ -15,6 +15,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 region: northern-europe
 source_count: 0
 sources:

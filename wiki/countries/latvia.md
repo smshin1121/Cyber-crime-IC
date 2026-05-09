@@ -11,6 +11,7 @@ operations_participated:
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 region: eastern-europe
 source_count: 0
 sources:

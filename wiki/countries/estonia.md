@@ -33,6 +33,7 @@ operations_participated:
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 notable_cases:
 
 cooperation_assessment: ""

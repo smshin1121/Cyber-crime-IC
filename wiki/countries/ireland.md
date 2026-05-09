@@ -12,6 +12,7 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 source_count: 0
 sources:
 

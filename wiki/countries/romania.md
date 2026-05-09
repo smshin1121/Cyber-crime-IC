@@ -43,6 +43,7 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 region: eastern-europe
 source_count: 4
 sources:

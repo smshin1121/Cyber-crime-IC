@@ -74,6 +74,7 @@ operations_participated:
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
   - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 region: western-europe
 source_count: 5
 sources:

@@ -38,6 +38,7 @@ operations_participated:
   - "[[operation-power-off-2025-05]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 region: eastern-europe
 source_count: 3
 sources:

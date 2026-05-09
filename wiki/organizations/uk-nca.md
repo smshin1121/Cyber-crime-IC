@@ -73,6 +73,7 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[operation-fever-cbzc-eu-presidency-2025]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13
