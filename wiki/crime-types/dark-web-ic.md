@@ -4,7 +4,7 @@ title: "Dark Web - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-09
-source_count: 6
+source_count: 7
 sources:
   - "[[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]]"
   - "[[2014-08-15_justice-gov_texas-business-executive-pleads-guilty-illegally-selling-oxycodone-silk-road]]"
@@ -12,10 +12,12 @@ sources:
   - "[[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]]"
   - "[[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]]"
   - "[[2026-04-30_justice-gov_versus-project-creator-extradited-colombia]]"
+  - "[[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand]]"
 category: cybercrime-related
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[operation-candy-encrypted-comms-drugs-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
 ---

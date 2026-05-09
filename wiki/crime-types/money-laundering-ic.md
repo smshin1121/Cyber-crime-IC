@@ -38,6 +38,7 @@ notable_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[black-axe-spain-takedown-2026]]"
   - "[[operation-atlantic-approval-phishing-2026]]"
+  - "[[operation-candy-encrypted-comms-drugs-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
 criminalization_status:
@@ -46,7 +47,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 20
+source_count: 21
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -68,6 +69,7 @@ sources:
   - "[[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds]]"
   - "[[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation]]"
   - "[[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters]]"
+  - "[[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand]]"
 created: 2026-04-14
 updated: 2026-05-09
 ---
@@ -145,3 +147,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [18] | [[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds\|Chairman of Prince Group Indicted for Operating Cambodian Forced-Labor Scam Compounds]] | US DOJ (OPA), Press Release 25-1,031 | 2025-10-14 | https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds |
 | [19] | [[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation\|34 arrests in Spain during action against the 'Black Axe' criminal organisation]] | Europol | 2026-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/34-arrests-in-spain-during-action-against-black-axe-criminal-organisation |
 | [20] | [[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters\|Fraudsters targeting cryptocurrency stopped and $12 million frozen in NCA-led Operation Atlantic]] | UK National Crime Agency | 2026-04-09 | https://www.nationalcrimeagency.gov.uk/news/fraudsters-targeting-cryptocurrency-stopped-and-12-million-frozen-in-nca-led-operation-atlantic |
+| [21] | [[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand\|International operation targets global organised crime networks: 15 arrests across Australia, Spain, Sweden and Thailand (Operation Candy)]] | Australian Federal Police | 2026-03-07 | https://www.afp.gov.au/news-centre/media-release/international-operation-targets-global-organised-crime-networks-15 |

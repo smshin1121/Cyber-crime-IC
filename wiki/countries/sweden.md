@@ -14,6 +14,7 @@ operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-candy-encrypted-comms-drugs-2026]]"
 region: northern-europe
 source_count: 0
 sources:

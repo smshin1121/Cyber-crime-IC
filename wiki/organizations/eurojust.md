@@ -80,6 +80,7 @@ operations_participated:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
+  - "[[operation-candy-encrypted-comms-drugs-2026]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

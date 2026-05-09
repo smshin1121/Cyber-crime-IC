@@ -39,6 +39,7 @@ operations_participated:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-candy-encrypted-comms-drugs-2026]]"
 org_type: national-agency
 parent_org: ""
 source_count: 6

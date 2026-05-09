@@ -36,6 +36,7 @@ operations_participated:
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
   - "[[operation-power-off-2026-04]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
+  - "[[operation-candy-encrypted-comms-drugs-2026]]"
 region: southeast-asia
 source_count: 3
 sources:

@@ -47,6 +47,7 @@ operations_participated:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[black-axe-spain-takedown-2026]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-candy-encrypted-comms-drugs-2026]]"
 region: western-europe
 source_count: 6
 sources:
