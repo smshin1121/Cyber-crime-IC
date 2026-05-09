@@ -40,6 +40,7 @@ notable_cases:
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
   - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
+  - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 official_name: "Federal Bureau of Investigation"
 official_name_ko: ""
 operations_participated:
@@ -87,6 +88,7 @@ operations_participated:
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

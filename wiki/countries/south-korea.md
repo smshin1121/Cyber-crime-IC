@@ -35,6 +35,7 @@ legal_system: civil-law
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
+  - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 operations_participated:
   - "[[phobos-8base-crackdown]]"
   - "[[operation-haechi-v]]"

@@ -61,6 +61,7 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[operation-hyperion]]"
   - "[[operation-endgame-phase3]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

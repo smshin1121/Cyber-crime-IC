@@ -11,7 +11,9 @@ status: active
 established: ""
 parent_org: ""
 country: "[[netherlands]]"
-jurisdiction: [[netherlands]]
+jurisdiction:
+  -
+    - netherlands
 headquarters: "Rotterdam / Amsterdam / Zwolle / Den Bosch / Zoetermeer, Netherlands"
 mandate: "National prosecutorial component for internationally organized and serious crime, including cybercrime."
 member_states: 0
@@ -23,24 +25,25 @@ cooperation_partners:
   - "[[netherlands-politie]]"
   - "[[eurojust]]"
 frameworks_administered:
-  []
+
 mechanisms_operated:
   - "[[24-7-network]]"
 operations_participated:
   - "[[qakbot-gallyamov-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-hyperion]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 notable_cases:
-  []
+
 contact_point_for:
-  []
+
 source_count: 3
 sources:
   - "[[2026-04-18_om-nl_internationale-samenwerking]]"
   - "[[2026-04-18_om-nl_landelijk-parket]]"
   - "[[2023-08-29_om-nl_qakbot-onschadelijk-gemaakt]]"
 created: 2026-04-18
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-18
 ---
 ## Summary

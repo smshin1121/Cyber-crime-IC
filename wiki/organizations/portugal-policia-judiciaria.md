@@ -8,8 +8,7 @@ last_verified: 2026-05-09
 org_type: national-criminal-police
 country: "[[portugal]]"
 jurisdiction:
-  -
-    - portugal
+
 official_name: "Policia Judiciaria"
 headquarters: "Lisbon, Portugal"
 mandate: "Portugal's criminal investigation police, including the national cybercrime and technological-crime unit UNC3T."
@@ -21,6 +20,7 @@ operations_participated:
   - "[[operation-jackal-iii]]"
   - "[[operation-endgame-phase1]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 cooperation_partners:
   - "[[portugal-police]]"
   - "[[europol-ec3]]"

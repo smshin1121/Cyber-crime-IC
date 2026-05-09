@@ -66,6 +66,7 @@ operations_participated:
   - "[[operation-power-off-2025-05]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 region: western-europe
 source_count: 5
 sources:

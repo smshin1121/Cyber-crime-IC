@@ -33,15 +33,16 @@ notable_operations:
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
   - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 notable_cases:
-
+  - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 11
+source_count: 13
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -54,6 +55,8 @@ sources:
   - "[[2025-02-11_treasury_us-au-uk-zservers-sanctions-lockbit-ransomware]]"
   - "[[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions]]"
   - "[[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized]]"
+  - "[[2024-10-29_eurojust-europa-eu_operation-magnus-redline-meta-infostealer-takedown]]"
+  - "[[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel]]"
 created: 2026-04-17
 updated: 2026-05-09
 status: active
@@ -93,3 +96,5 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [9] | [[2025-02-11_treasury_us-au-uk-zservers-sanctions-lockbit-ransomware\|US/AU/UK Jointly Sanction Key Infrastructure that Enables Ransomware Attacks (Zservers)]] | US Department of the Treasury (OFAC), Press Release SB-0018 | 2025-02-11 | https://home.treasury.gov/news/press-releases/sb0018 |
 | [10] | [[2025-07-01_treasury_aeza-group-bulletproof-hosting-cybercriminal-technology-theft-sanctions\|Treasury Sanctions Global Bulletproof Hosting Service Enabling Cybercriminals and Technology Theft (Aeza Group)]] | US Department of the Treasury (OFAC), Press Release SB-0185 | 2025-07-01 | https://home.treasury.gov/news/press-releases/sb0185 |
 | [11] | [[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized\|Operation Final Exchange — 47 Russian-language no-KYC cryptocurrency exchanges seized]] | German BKA + GenStA Frankfurt am Main | 2024-09-19 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240919_PM_finalexchange.html |
+| [12] | [[2024-10-29_eurojust-europa-eu_operation-magnus-redline-meta-infostealer-takedown\|Operation Magnus — international takedown of RedLine and META information stealers]] | Eurojust | 2024-10-29 | https://www.eurojust.europa.eu/news/malware-targeting-millions-people-taken-down-international-coalition |
+| [13] | [[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel\|North Korean Government Hacker Charged for Involvement in Ransomware Attacks Targeting U.S. Hospitals (Rim Jong Hyok / Andariel)]] | US DOJ (OPA) | 2024-07-25 | https://www.justice.gov/opa/pr/north-korean-government-hacker-charged-involvement-ransomware-attacks-targeting-us |

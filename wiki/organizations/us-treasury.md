@@ -20,7 +20,7 @@ mandate: "Apply US economic sanctions and financial regulatory tools against cyb
 mechanisms_operated:
 
 notable_cases:
-
+  - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 official_name: "United States Department of the Treasury — Office of Foreign Assets"
 operations_participated:
   - "[[operation-us-v-wu-haibo-isoon]]"

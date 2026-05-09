@@ -29,6 +29,7 @@ notable_cases:
   - "[[us-v-kai-west-intelbroker-2025]]"
   - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
+  - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 notable_operations:
   - "[[isoon-apt27-indictment]]"
   - "[[proxy-service-takedown-2026-03]]"
@@ -39,7 +40,7 @@ notable_operations:
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 16
+source_count: 17
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -57,6 +58,7 @@ sources:
   - "[[2025-06-25_justice-gov-sdny_serial-hacker-intelbroker-kai-west-charged-25m-damages]]"
   - "[[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers]]"
   - "[[2025-09-18_justice-gov_united-kingdom-national-charged-multiple-cyber-attacks-jubair]]"
+  - "[[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -111,3 +113,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [14] | [[2025-06-25_justice-gov-sdny_serial-hacker-intelbroker-kai-west-charged-25m-damages\|Serial Hacker 'IntelBroker' Charged For Causing $25 Million In Damages To Victims]] | US DOJ USAO-SDNY | 2025-06-25 | https://www.justice.gov/usao-sdny/pr/serial-hacker-intelbroker-charged-causing-25-million-damages-victims |
 | [15] | [[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers\|Two charged for TfL cyber attack (Jubair + Flowers)]] | UK National Crime Agency | 2025-09-18 | https://www.nationalcrimeagency.gov.uk/news/two-charged-for-tfl-cyber-attack |
 | [16] | [[2025-09-18_justice-gov_united-kingdom-national-charged-multiple-cyber-attacks-jubair\|United Kingdom National Charged in Connection with Multiple Cyber Attacks, Including on Critical Infrastructure (Jubair / Scattered Spider)]] | US DOJ (OPA), Press Release 25-967 | 2025-09-18 | https://www.justice.gov/opa/pr/united-kingdom-national-charged-connection-multiple-cyber-attacks-including-critical |
+| [17] | [[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel\|North Korean Government Hacker Charged for Involvement in Ransomware Attacks Targeting U.S. Hospitals (Rim Jong Hyok / Andariel)]] | US DOJ (OPA) | 2024-07-25 | https://www.justice.gov/opa/pr/north-korean-government-hacker-charged-involvement-ransomware-attacks-targeting-us |

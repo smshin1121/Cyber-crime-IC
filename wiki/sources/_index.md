@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (740)
+# Sources (741)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -305,6 +305,7 @@ updated: 2026-04-14
 | [[2024-11-06-interpol-operation-synergia-ii]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-11-05_kaspersky-com_interpol-operation-synergia-ii]] | press-release | Kaspersky | ? | medium | ? |
 | [[2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested]] | press-release | Europol | ? | high | ? |
+| [[2024-10-29_eurojust-europa-eu_operation-magnus-redline-meta-infostealer-takedown]] | press-release | Eurojust (European Union Agency for Criminal Justice Cooperation) | ? | high | ? |
 | [[2024-10-21_agb_operation-soga-x-illegal-football-betting]] | news | Asia Gaming Brief | ? | medium | ? |
 | [[2024-10-18_cybernews_operation-soga-x-illegal-online-gambling]] | news | Cybernews | ? | medium | ? |
 | [[2024-10-17_interpol_operation-soga-x-illegal-football-gambling]] | press-release | INTERPOL | ? | high | ? |

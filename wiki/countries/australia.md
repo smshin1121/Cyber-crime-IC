@@ -30,6 +30,7 @@ operations_participated:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 region: oceania
 source_count: 0
 sources:

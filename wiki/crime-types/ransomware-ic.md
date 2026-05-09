@@ -49,13 +49,14 @@ notable_cases:
   - "[[uk-jubair-flowers-tfl-cyber-attack-2025]]"
   - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
+  - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 26
+source_count: 27
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -83,6 +84,7 @@ sources:
   - "[[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623]]"
   - "[[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933]]"
   - "[[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized]]"
+  - "[[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel]]"
 created: 2026-04-08
 updated: 2026-05-09
 ---
@@ -277,3 +279,4 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [24] | [[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623\|Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia]] | US Department of the Treasury (OFAC), Press Release JY-2623 | 2024-10-01 | https://home.treasury.gov/news/press-releases/jy2623 |
 | [25] | [[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933\|Treasury Sanctions Mixer Used by the DPRK to Launder Stolen Virtual Currency (Sinbad.io)]] | US Department of the Treasury (OFAC), Press Release JY-1933 | 2023-11-29 | https://home.treasury.gov/news/press-releases/jy1933 |
 | [26] | [[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized\|Operation Final Exchange — 47 Russian-language no-KYC cryptocurrency exchanges seized]] | German BKA + GenStA Frankfurt am Main | 2024-09-19 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240919_PM_finalexchange.html |
+| [27] | [[2024-07-25_justice-gov_north-korean-government-hacker-charged-rim-jong-hyok-andariel\|North Korean Government Hacker Charged for Involvement in Ransomware Attacks Targeting U.S. Hospitals (Rim Jong Hyok / Andariel)]] | US DOJ (OPA) | 2024-07-25 | https://www.justice.gov/opa/pr/north-korean-government-hacker-charged-involvement-ransomware-attacks-targeting-us |

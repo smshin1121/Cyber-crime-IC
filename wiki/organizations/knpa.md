@@ -40,6 +40,7 @@ operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
+  - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 contact_point_for:
   - network: "[[interpol-i24-7]]"
     role: "NCB Korea"

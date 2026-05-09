@@ -3,13 +3,16 @@ type: organization
 title: "Federal Computer Crime Unit (FCCU)"
 official_name: "Federal Computer Crime Unit"
 official_name_ko: ""
-aliases: []
+aliases:
+  []
 org_type: national-unit
 status: active
 established: 2002
 parent_org: "[[belgium-federal-police]]"
 country: "[[belgium]]"
-jurisdiction: [[belgium]]
+jurisdiction:
+  -
+    - belgium
 headquarters: "Brussels, Belgium"
 mandate: "National-level specialized cybercrime unit of the Belgian Federal Judicial Police."
 member_states: 0
@@ -20,14 +23,18 @@ key_roles:
   - "Emergency victim contact and incident intake"
 cooperation_partners:
   - "[[europol-ec3]]"
-frameworks_administered: []
-mechanisms_operated: []
+frameworks_administered:
+  []
+mechanisms_operated:
+  []
 operations_participated:
   - "[[xdedic-marketplace-takedown]]"
   - "[[operation-endgame]]"
   - "[[operation-weleakinfo-to-and-related-domain-names-seized]]"
   - "[[operation-blackshades]]"
-notable_cases: []
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+notable_cases:
+  []
 contact_point_for:
   - "[[24-7-network]]"
 source_count: 4
@@ -37,7 +44,7 @@ sources:
   - "[[2017-06-09_politie-be_oproep-aan-slachtoffers-wannacry]]"
   - "[[2026-04-18_politie-be_internetcriminaliteit-fccu-contact]]"
 created: 2026-04-10
-updated: "2026-04-29"
+updated: 2026-04-29
 last_verified: 2026-04-18
 ---
 ## Summary

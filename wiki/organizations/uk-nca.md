@@ -70,6 +70,7 @@ operations_participated:
   - "[[operation-atlantic-approval-phishing-2026]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

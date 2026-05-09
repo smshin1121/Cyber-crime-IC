@@ -39,6 +39,7 @@ notable_cases:
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
   - "[[us-v-ostapenko-oleynik-tarasov-blender-sinbad-mixers-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
+  - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:
@@ -997,6 +998,7 @@ operations_participated:
   - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

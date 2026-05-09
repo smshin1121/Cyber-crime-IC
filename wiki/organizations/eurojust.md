@@ -81,6 +81,7 @@ operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

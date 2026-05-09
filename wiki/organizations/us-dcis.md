@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[united-states]]"
 jurisdiction:
-  -
-    - united-states
+
 created: 2026-04-10
 established: 1981-04-20
 frameworks_administered:
@@ -29,6 +28,7 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-power-off]]"
   - "[[operation-endgame-phase3]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 org_type: national-unit
 parent_org: "[[dod-inspector-general]]"
 source_count: 4

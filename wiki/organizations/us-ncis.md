@@ -2,17 +2,19 @@
 aliases:
   - NCIS
 contact_point_for:
-  []
+
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"
   - "[[us-treasury]]"
 country: "[[united-states]]"
-jurisdiction: [[united-states]]
+jurisdiction:
+  -
+    - united-states
 created: 2026-04-10
 established: ""
 frameworks_administered:
-  []
+
 headquarters: "United States"
 key_roles:
   - "Primary law-enforcement and counterintelligence agency of the US Department of the Navy."
@@ -20,13 +22,14 @@ key_roles:
 last_verified: 2026-04-29
 mandate: "Primary law enforcement and counterintelligence agency of the US Department of the Navy; cybercrime enforcement for Navy and Marine Corps networks."
 mechanisms_operated:
-  []
+
 notable_cases:
-  []
+
 official_name: "Naval Criminal Investigative Service"
 operations_participated:
   - "[[operation-us-v-wu-haibo-isoon]]"
   - "[[operation-disruptor]]"
+  - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
 org_type: national-unit
 parent_org: ""
 source_count: 3
@@ -37,7 +40,7 @@ sources:
 status: active
 title: NCIS
 type: organization
-updated: "2026-04-29"
+updated: 2026-04-29
 coverage_status: audit-normalized
 ---
 ## Summary
