@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="ko" class="lang-ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Operation Magnus — RedLine and META Infostealer Takedown (October 2024) — 사이버범죄 국제공조 위키</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <div class="top-nav-inner">
+      <a href="../../index.html" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
+      <div class="nav-links">
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/cases.html"><span class="i18n" data-ko="판례" data-en="Cases"></span></a>
+        <div class="nav-more">
+          <button class="nav-more-btn"><span class="i18n" data-ko="더보기 ▾" data-en="More ▾"></span></button>
+          <div class="nav-dropdown">
+            <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+            <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+            <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+            <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+            <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+            <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
+          </div>
+        </div>
+        <a href="../../cosmos/index.html" class="nav-cosmos"><span class="i18n" data-ko="&#127760; Cosmos" data-en="&#127760; Cosmos"></span></a>
+      </div>
+      <form class="nav-search" action="../../search.html" method="get">
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
+      </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
+    </div>
+  </nav>
+
+
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>
+
+          Operation Magnus — RedLine and META Infostealer Takedown (October 2024)
+
+      </h1>
+      <div class="article-meta">
+
+          <span class="badge">
+            <span class="i18n" data-ko="operation" data-en="operation"></span>
+          </span>
+
+
+          <span><a href="../../category/operations.html">
+            <span class="i18n"
+              data-ko="작전"
+              data-en="Operations"></span>
+          </a></span>
+
+
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-09
+          </span>
+
+
+          <span>
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>: 1<span class="i18n" data-ko="건" data-en=""></span>
+          </span>
+
+      </div>
+    </div>
+    <div class="article-body">
+
+        <div class="ko-block"><h2 id="_1">개요</h2>
+<p><strong>Operation Magnus — RedLine and META Infostealer Takedown (October 2024)</strong> <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2024-10-28 ~ 2024-10-28</strong> 기간 동안 <strong>6개국</strong>이 참여하였다.</p>
+<p>대상: RedLine Infostealer and META Infostealer (malware-as-a-service)</p>
+<h2 id="_2">결과</h2>
+<ul>
+<li><strong>2명</strong> 체포</li>
+<li><strong>3대</strong> 서버 압수</li>
+<li><strong>2개</strong> 도메인 압수/차단</li>
+<li>Client database from RedLine and META platforms retrieved by investigators</li>
+<li>Over 1,200 infected servers across dozens of countries identified during investigation</li>
+<li>Charges unsealed in the United States against Maxim Rudometov (developer/administrator of RedLine Infostealer)</li>
+<li>Public victim-check resource published at operation-magnus.com (with ESET-provided RedLine/META scanner)</li>
+</ul>
+<h2 id="_3">참여 기관</h2>
+<p><strong>주도기관:</strong> Netherlands Politie</p>
+<p><strong>조정기관:</strong> Eurojust</p>
+<p><strong>참여기관:</strong> Eurojust, Netherlands Politie, Netherlands Om, Fbi, Us Doj, Us Ncis, Us Dcis, Belgium Federal Police, Portugal Policia Judiciaria, Uk Nca 외 1개</p>
+<p><strong>참여국:</strong> Netherlands, United States, Belgium, Portugal, United Kingdom, Australia</p>
+<h2 id="_4">교훈</h2>
+<ul>
+<li>Private-sector tip (unnamed security company) seeded a Dutch investigation that scaled to a six-country coordinated takedown — confirms the value of public-private intake channels for MaaS infrastructure mapping.</li>
+<li>Eurojust coordination allowed simultaneous Dutch infrastructure seizure, Belgian arrest action, and US indictment unsealing on the same day — single-day multi-jurisdiction synchronization remains the operational signature of EU-coordinated MaaS takedowns.</li>
+</ul>
+<h2 id="_5">관련 작전</h2>
+<ul>
+<li><a href="../../wiki/cases/us-v-sokolovsky-raccoon-infostealer.html" class="wikilink">us-v-sokolovsky-raccoon-infostealer</a></li>
+</ul></div>
+        <div class="en-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Provisional page
+This operation page is published below the preferred 5-source threshold (CLAUDE.md "Entity creation threshold"). It rests on a single tier-1 primary source (Eurojust press release, 2024-10-29). Additional companion sources (DOJ unsealing, IRS-CI page, Dutch police press release) should be ingested to lift the page to standard publication state.</div><div class="callout-body"></div></div>
+<h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p><strong>Operation Magnus</strong> was a coordinated international law-enforcement action that, on <strong>28 October 2024</strong>, dismantled the operational infrastructure of two prolific malware-as-a-service infostealers — <strong>RedLine</strong> and <strong>META</strong> — and unsealed criminal charges in the United States against one of RedLine's developers. The action was coordinated by <strong><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a></strong> and brought together authorities from six jurisdictions: the Netherlands, the United States, Belgium, Portugal, the United Kingdom, and Australia. The operation produced three server seizures in the Netherlands, two domain seizures, two arrests in Belgium, US indictments unsealed, and the recovery of a database of paying RedLine/META clients (Source: <a href="../../wiki/sources/2024-10-29_eurojust-europa-eu_operation-magnus-redline-meta-infostealer-takedown.html" class="wikilink">Eurojust press release, 29 Oct 2024</a>).</p>
+<p>It is <em>almost certain</em> (&gt;95% confidence, single tier-1 primary source plus open companion victim site) that the action took place on 28 October 2024 and that the six countries listed were the named participating jurisdictions. The "Operation Magnus" codename appears on the public victim-facing site operation-magnus.com but is not used in the Eurojust release headline; it is recorded as an alias.</p>
+<h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
+<p>RedLine and META are infostealer malware families operated as <strong>malware-as-a-service</strong> — criminal customers paid to use the infrastructure to deploy the stealer against victims and harvest credentials. Per the Eurojust release, the malware exfiltrated saved usernames and passwords, automatically saved form data (addresses, email addresses, phone numbers), cryptocurrency wallet contents, and browser cookies. Eurojust characterizes the victim scale as "millions" worldwide.</p>
+<p>The investigation began after victims came forward and an unnamed private-sector security company notified authorities about possible RedLine/META servers hosted in the Netherlands. Investigators subsequently mapped over 1,200 infected/operating servers across dozens of countries — the scope that justified the multi-jurisdictional coordination.</p>
+<h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
+<h3 id="coordinating-body">Coordinating body</h3>
+<ul>
+<li><strong><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust (European Union Agency for Criminal Justice Cooperation)</a></strong> — coordinated information exchange and synchronized action across all six jurisdictions.</li>
+</ul>
+<h3 id="lead-investigative-agency">Lead investigative agency</h3>
+<ul>
+<li><strong><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Netherlands National Police, Team Cybercrime Limburg</a></strong>, with the Dutch <strong><a href="../../wiki/organizations/netherlands-om.html" class="wikilink">Public Prosecution Service (Openbaar Ministerie)</a></strong>.</li>
+</ul>
+<h3 id="participating-jurisdictions-and-authorities-as-named-in-the-eurojust-release">Participating jurisdictions and authorities (as named in the Eurojust release)</h3>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Authorities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/countries/netherlands.html" class="wikilink">Netherlands</a></td>
+<td>National Police (Team Cybercrime Limburg); Public Prosecution Service</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">United States</a></td>
+<td><a href="../../wiki/organizations/fbi.html" class="wikilink">FBI</a>; <a href="../../wiki/organizations/us-ncis.html" class="wikilink">Naval Criminal Investigative Service (NCIS)</a>; Internal Revenue Service Criminal Investigations (IRS-CI); <a href="../../wiki/organizations/us-dcis.html" class="wikilink">Department of Defense Criminal Investigative Service (DCIS)</a>; Army Criminal Investigation Division (Army CID); prosecution coordinated by <a href="../../wiki/organizations/us-doj.html" class="wikilink">US Department of Justice</a></td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/belgium.html" class="wikilink">Belgium</a></td>
+<td><a href="../../wiki/organizations/belgium-federal-police.html" class="wikilink">Federal Police</a>; Federal Prosecutor's Office</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/portugal.html" class="wikilink">Portugal</a></td>
+<td><a href="../../wiki/organizations/portugal-policia-judiciaria.html" class="wikilink">Polícia Judiciária</a></td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">United Kingdom</a></td>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">National Crime Agency (NCA)</a></td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/australia.html" class="wikilink">Australia</a></td>
+<td><a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police (AFP)</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="private-sector-touchpoints">Private-sector touchpoints</h3>
+<ul>
+<li>An unnamed security company supplied the initial tip identifying servers in the Netherlands (mentioned in the Eurojust release without attribution).</li>
+<li>ESET provided a free RedLine/META detection scanner published via operation-magnus.com (companion source — the Eurojust release does not name the vendor).</li>
+</ul>
+<h2 id="legal-framework"><span class="heading-ko">법적 근거</span><span class="heading-en">Legal Framework</span></h2>
+<p>The Eurojust release does not cite specific treaty articles or legal-cooperation instruments by name. Eurojust coordination of multi-jurisdiction cybercrime takedowns is <em>typically</em> (~80% confidence based on prior comparable Eurojust-coordinated operations such as <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Cronos Phase 1</a> and <a href="../../wiki/cases/us-v-sokolovsky-raccoon-infostealer.html" class="wikilink">Raccoon Infostealer</a>) anchored in the <strong>Eurojust Regulation (EU) 2018/1727</strong> for coordination, the <strong>Budapest Convention on Cybercrime</strong> for cross-border procedural authority among parties, and bilateral <strong>Mutual Legal Assistance</strong> channels for the US-EU evidence chain. None of these are explicitly cited in the present source — flagging accordingly.</p>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
+The specific statutory and treaty bases used are not enumerated in the Eurojust press release. The DOJ unsealing reportedly cites 18 U.S.C. §§ 1029 (access device fraud), 1030 and 371 (computer-intrusion conspiracy), and 1956 (money laundering) for the Maxim Rudometov indictment, per the IRS Criminal Investigation companion page; this awaits confirmation against the unsealed indictment text directly. Adding those citations to <code>legal_basis</code> is deferred until that source is ingested.</div><div class="callout-body"></div></div>
+<h2 id="operational-timeline"><span class="heading-ko">작전 타임라인</span><span class="heading-en">Operational Timeline</span></h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(pre-2024)</td>
+<td>Victim reports plus private-sector tip flag possible RedLine/META servers in the Netherlands.</td>
+</tr>
+<tr>
+<td>2024 (date not in source)</td>
+<td>Investigators map &gt;1,200 infected servers across dozens of countries; cooperation channel established under Eurojust coordination.</td>
+</tr>
+<tr>
+<td><strong>2024-10-28</strong></td>
+<td>Worldwide operational day: 3 Dutch servers shut down; 2 domains seized; 2 arrests executed in Belgium; charges unsealed in the United States.</td>
+</tr>
+<tr>
+<td><strong>2024-10-29</strong></td>
+<td>Eurojust publishes coordinated press release; Dutch police launches public victim-check resource at operation-magnus.com.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="results-and-impact"><span class="heading-ko">결과 및 영향</span><span class="heading-en">Results and Impact</span></h2>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Count</th>
+<th>Source statement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Servers shut down (Netherlands)</td>
+<td>3</td>
+<td>"three servers taken down in the Netherlands"</td>
+</tr>
+<tr>
+<td>Domains seized</td>
+<td>2</td>
+<td>"two domains seized"</td>
+</tr>
+<tr>
+<td>Arrests (Belgium)</td>
+<td>2</td>
+<td>"two people taken into custody in Belgium"</td>
+</tr>
+<tr>
+<td>US charges unsealed</td>
+<td>1 indictment (Maxim Rudometov)</td>
+<td>"charges unsealed in the United States"</td>
+</tr>
+<tr>
+<td>Client database retrieved</td>
+<td>1</td>
+<td>"a client database of RedLine and Meta was retrieved" (paraphrased from Eurojust)</td>
+</tr>
+<tr>
+<td>Infected/affected servers identified</td>
+<td>&gt;1,200</td>
+<td>"over 1,200 servers in dozens of countries were running the malware"</td>
+</tr>
+<tr>
+<td>Victim scale</td>
+<td>"millions"</td>
+<td>Eurojust framing</td>
+</tr>
+</tbody>
+</table>
+<p>The takedown rendered the RedLine and META infostealers non-functional for the immediate post-operation window and exposed the customer pool — both prerequisites for downstream investigations against MaaS <em>operators</em> and <em>customers</em> alike.</p>
+<h2 id="cooperation-mechanisms-used"><span class="heading-ko">활용된 공조 메커니즘</span><span class="heading-en">Cooperation Mechanisms Used</span></h2>
+<ul>
+<li><strong>Eurojust coordination</strong> (information exchange + synchronized multi-jurisdiction action) is the only mechanism explicitly named in the Eurojust press release.</li>
+<li>The simultaneous (a) Dutch infrastructure seizure, (b) Belgian arrest, and (c) US indictment unsealing pattern is consistent with — but not explicitly attributed to — a <strong><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">joint investigation team (JIT)</a></strong> structure. Whether a formal JIT was registered with Eurojust is not stated in the source.</li>
+<li>The <strong><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">Joint Cybercrime Action Taskforce (J-CAT)</a></strong> at Europol is mentioned by the IRS-CI companion source as the coordinating taskforce for the US side; this is not echoed in the Eurojust release and is therefore not asserted in <code>mechanisms_used</code> pending direct confirmation.</li>
+</ul>
+<h2 id="challenges-and-friction-points"><span class="heading-ko">과제 및 마찰 요인</span><span class="heading-en">Challenges and Friction Points</span></h2>
+<p>The Eurojust release does not narrate friction points. Inferred from the operation's structure (not asserted as fact):</p>
+<ul>
+<li>Six-jurisdiction synchronization across two continents and four time zones implied non-trivial pre-action sequencing — managed via Eurojust coordination.</li>
+<li>The decision to execute the only physical arrests in Belgium (rather than the Netherlands, which hosted infrastructure, or the US, which led prosecution) suggests jurisdictional placement of the suspects rather than a strategic forum-shopping outcome — but this is not stated.</li>
+</ul>
+<h2 id="lessons-learned"><span class="heading-ko">교훈</span><span class="heading-en">Lessons Learned</span></h2>
+<ul>
+<li><strong>Private-sector intake matters</strong>: an unnamed security company's tip seeded the Dutch investigation that scaled to a six-country takedown, reinforcing the value of voluntary disclosure channels into national cybercrime units.</li>
+<li><strong>Eurojust coordination delivers same-day multi-jurisdiction synchronization</strong>: the operation reproduced the <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Operation Cronos Phase 1</a> template (single-day, multi-country, infrastructure + arrests + indictments) for the MaaS-infostealer class.</li>
+<li><strong>MaaS client-database retrieval is a force-multiplier</strong>: recovering the RedLine/META customer list converts a single takedown into a pipeline of follow-on investigations against subscribers worldwide.</li>
+</ul>
+<h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
+<p>The Eurojust release does not enumerate follow-up actions beyond the takedown. Subsequent Maxim Rudometov prosecution proceedings (US) and possible client-database-driven actions in non-listed jurisdictions are <em>likely</em> (~70% confidence based on prior MaaS takedowns such as Raccoon Infostealer) but await documentation in further sources.</p>
+<h2 id="korean-involvement">Korean Involvement (한국의 참여)</h2>
+<p>The Eurojust press release does not name South Korea among the participating jurisdictions, nor does it list any Korean agency among the executing authorities. Korean victims are <em>plausibly</em> affected given Eurojust's "millions worldwide" framing and RedLine's known global distribution, but the source does not establish Korean operational participation. No assertion of Korean participation is made on this page.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
+<ul>
+<li><strong>Operation codename</strong>: "Operation Magnus" appears on the victim-facing site (operation-magnus.com) and in companion press, but not in the Eurojust release headline. Recorded as alias.</li>
+<li><strong>Formal JIT?</strong>: Whether the multi-country coordination was formalized as a Joint Investigation Team (JIT) registered with Eurojust is not stated in the available source.</li>
+<li><strong>Statutory citations</strong>: The Eurojust release does not enumerate the US statutes or treaty articles invoked. Pending DOJ unsealed-indictment ingestion.</li>
+<li><strong>Identity of the private-sector tip-source</strong>: Eurojust's release does not name the security company that initially flagged Dutch-hosted RedLine/META servers; companion press indicates ESET supplied the post-takedown victim scanner, but pre-takedown attribution is unconfirmed.</li>
+<li><strong>Belgium-arrest identities</strong>: The Eurojust release does not name the two suspects taken into custody in Belgium nor specify whether they are RedLine operators, META operators, or customers.</li>
+</ul></div>
+
+    </div>
+  </main>
+
+  <aside class="sidebar">
+
+    <div class="infobox">
+      <div class="infobox-header">
+
+          Operation Magnus — RedLine and META Infostealer Takedown (October 2024)
+
+      </div>
+      <table>
+
+        <tr>
+          <th>
+            <span class="heading-ko">유형</span>
+            <span class="heading-en">Type</span>
+          </th>
+          <td>
+
+              <span class="heading-ko">작전</span>
+              <span class="heading-en">Operation</span>
+
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="heading-ko">상태</span>
+            <span class="heading-en">Status</span>
+          </th>
+          <td>
+
+              completed
+
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="heading-ko">작전유형</span>
+            <span class="heading-en">Op Type</span>
+          </th>
+          <td>
+
+              takedown
+
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="heading-ko">기간</span>
+            <span class="heading-en">Period</span>
+          </th>
+          <td>
+
+              announced: 2024-10-29, start: 2024-10-28, end: 2024-10-28
+
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="heading-ko">주도기관</span>
+            <span class="heading-en">Lead Agency</span>
+          </th>
+          <td>
+
+              <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a>
+
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="heading-ko">범죄유형</span>
+            <span class="heading-en">Crime Type</span>
+          </th>
+          <td>
+
+              <a href="../../wiki/crime-types/malware-ic.html" class="wikilink">malware-ic</a>
+
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="heading-ko">체포</span>
+            <span class="heading-en">Arrests</span>
+          </th>
+          <td>
+
+              2
+
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="heading-ko">서버 압수</span>
+            <span class="heading-en">Servers Seized</span>
+          </th>
+          <td>
+
+              3
+
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="heading-ko">도메인 압수</span>
+            <span class="heading-en">Domains Seized</span>
+          </th>
+          <td>
+
+              2
+
+          </td>
+        </tr>
+
+        <tr>
+          <th>
+            <span class="heading-ko">출처 수</span>
+            <span class="heading-en">Sources</span>
+          </th>
+          <td>
+
+              1
+
+          </td>
+        </tr>
+
+      </table>
+    </div>
+
+
+    <div class="cat-nav">
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
+      <ul>
+
+        <li>
+          📜
+          <a href="../../category/legal-frameworks.html"
+             >
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
+          </a>
+        </li>
+
+        <li>
+          🏛️
+          <a href="../../category/organizations.html"
+             >
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
+          </a>
+        </li>
+
+        <li>
+          🌍
+          <a href="../../category/countries.html"
+             >
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
+          </a>
+        </li>
+
+        <li>
+          🎯
+          <a href="../../category/operations.html"
+             style="font-weight:700">
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
+          </a>
+        </li>
+
+        <li>
+          ⚖️
+          <a href="../../category/cases.html"
+             >
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
+          </a>
+        </li>
+
+        <li>
+          🔗
+          <a href="../../category/mechanisms.html"
+             >
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
+          </a>
+        </li>
+
+        <li>
+          📋
+          <a href="../../category/procedures.html"
+             >
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
+          </a>
+        </li>
+
+        <li>
+          🔒
+          <a href="../../category/crime-types.html"
+             >
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
+          </a>
+        </li>
+
+        <li>
+          ⚠️
+          <a href="../../category/challenges.html"
+             >
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
+          </a>
+        </li>
+
+        <li>
+          📖
+          <a href="../../category/concepts.html"
+             >
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
+          </a>
+        </li>
+
+        <li>
+          📰
+          <a href="../../category/sources.html"
+             >
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
+          </a>
+        </li>
+
+        <li>
+          📊
+          <a href="../../category/analysis.html"
+             >
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
+          </a>
+        </li>
+
+        <li>
+          📅
+          <a href="../../category/timelines.html"
+             >
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
+          </a>
+        </li>
+
+      </ul>
+    </div>
+  </aside>
+</div>
+
+
+  <div class="footer">
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-05-09 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-05-09">
+    </span>
+  </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
+</body>
+</html>
