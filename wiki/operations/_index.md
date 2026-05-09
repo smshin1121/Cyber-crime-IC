@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (235 canonical / 27 absorbed / 262 records)
+# Operations (236 canonical / 27 absorbed / 263 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (235)
+## Canonical Operations (236)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -185,6 +185,7 @@ updated: 2026-04-14
 | [[operation-dark-bet-pf-brazil-nigeria-2025]] | CYB-2025-218 | 3 | ongoing | — | 2 | 4.00 | 1 |
 | [[romania-moldova-phishing-laundering-jit-2025]] | CYB-2025-301 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[pf-magna-fraus-pix-fraud-2025]] | CYB-2025-310 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[gxc-team-googlexcoder-phishing-kits-takedown-2025]] | CYB-2025-410 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]] | CYB-2025-AIT-PR2510 | 3 | ongoing | — | 1 | 4.40 | 1 |
 | [[operation-cumberland-ai-csam-2025]] | CYB-2025-CMB | 3 | ongoing | — | 1 | 4.60 | 1 |

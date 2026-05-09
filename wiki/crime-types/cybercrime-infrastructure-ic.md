@@ -44,6 +44,7 @@ notable_operations:
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
+  - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -52,7 +53,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 23
+source_count: 24
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -77,8 +78,9 @@ sources:
   - "[[2026-04-09_politie_veriftools-identity-fraud-arrests]]"
   - "[[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate]]"
   - "[[2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown]]"
+  - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
 created: 2026-04-17
-updated: 2026-05-09
+updated: 2026-05-10
 status: active
 ---
 ## Summary
@@ -128,3 +130,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [21] | [[2026-04-09_politie_veriftools-identity-fraud-arrests\|Veriftools fake-ID marketplace follow-up arrests (NL Politie + US FBI; 8 arrests, server data goldmine)]] | Politie (Netherlands) | 2026-04-09 | https://www.politie.nl/nieuws/2026/april/9/07-data-op-servers-blijken-goudmijn---8-aanhoudingen-voor-identiteitsfraude.html |
 | [22] | [[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate\|INP-FBI global phishing MFA-bypass syndicate (ID+US; USD 20M, 17K accounts, 34K victims; GWL+FYT couple)]] | Indonesian National Police (Polri) | 2026-04-23 | https://inp.polri.go.id/artikel/inp-and-fbi-uncover-global-phishing-syndicate-responsible-for-20-million-loss |
 | [23] | [[2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown\|Operación KAERB — iServer phishing-as-a-service takedown (ES+AR+CO+CL+EC+PE; 17 arrests, 921 devices, 483K victims globally)]] | Ministerio de Seguridad de la Nación (Argentina) | 2024-09-24 | https://www.argentina.gob.ar/noticias/operacion-kaerb |
+| [24] | [[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest\|GXC Team / GoogleXcoder phishing-kit CaaS takedown — ES Guardia Civil + BR Federal Police + Group-IB; phishing kits cloning ES banks/gov sold via Telegram]] | Guardia Civil (Spain) — UCO Departamento contra el Cibercrimen | 2025-10-08 | https://web.guardiacivil.es/en/destacados/noticias/La-Guardia-Civil-desmantela-una-red-de-phishing-bancario-y-detiene-al-principal-desarrollador-de-kits-de-robo-de-credenciales-en-Espana/ |

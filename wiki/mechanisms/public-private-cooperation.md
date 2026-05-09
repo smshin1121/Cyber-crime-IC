@@ -3,17 +3,19 @@ type: mechanism
 title: "Public-Private Cybercrime Cooperation"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
-source_count: 3
+source_count: 4
 sources:
   - "[[hackread-global-airport-action-day]]"
   - "[[the-hacker-news-operation-morpheus-cobalt-strike-takedown]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[operation-otf-grimm]]"
+  - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
 ---
 ## Summary
 

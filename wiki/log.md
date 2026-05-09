@@ -1639,3 +1639,17 @@
   - Links cited: prior Phobos administrator extradition to USA + 1000+ global victims (US public schools in CA/CT, Maryland healthcare, US DoD contractor) per US DOJ documents → total ransom >USD 16M.
   - PL-US IC scope (PL locus of arrest, US prior extradition + DOJ documents cited as basis).
   - L19/L23-strict applied: 3 agency wikilinks all in tier-1 source AND wiki org pages exist.
+
+## [2026-05-10] ingest | GXC Team / GoogleXcoder phishing-kit CaaS takedown — Guardia Civil + BR Federal Police + Group-IB (2025-10-08)
+- Source: raw/press-releases/2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest.md (Spanish Guardia Civil; es)
+- Pages created: wiki/sources/..., wiki/operations/gxc-team-googlexcoder-phishing-kits-takedown-2025.md (provisional, source_count=1).
+- Pages updated: countries (ES, BR), agencies (spain-guardia-civil, brazil-ministry-of-justice-public-security, group-ib), 4 crime-types (online-fraud-ic, bank-fraud-ic, malware-ic, cybercrime-infrastructure-ic), 4 mechanisms (informal-cooperation, public-private-cooperation, search-seizure, cryptocurrency-seizure).
+- Key findings:
+  - **First wiki record sourced from web.guardiacivil.es** (Spanish Guardia Civil official).
+  - GXC Team / GoogleXcoder Crime-as-a-Service phishing-kit operation dismantled — main developer (25-y-o Brazilian national) arrested in San Vicente de la Barquera (Cantabria). 6 entries-and-searches across Valladolid, Zaragoza, Barcelona, Palma de Mallorca, San Fernando, La Línea de la Concepción.
+  - **Telegram-based CaaS distribution model documented**: phishing kits cloning Spanish banking websites + government portals sold under subscription model with customisation, technical support, updates — hundreds of EUR/day. Operator-side Telegram group named "Robarle todo a las abuelas" — captured verbatim as primary-source-attested CaaS marketplace pattern.
+  - 6 additional users of the CaaS service identified through >1y device forensics + cryptocurrency-transaction reconstruction.
+  - Pre-disruption impact: millions of EUR stolen, thousands of victims, dozens of impersonated entities; Telegram channels deactivated.
+  - **Public-private cooperation pattern**: Group-IB provided technical analysis of phishing infrastructure + Telegram-based CaaS distribution. Spanish Guardia Civil UCO Departamento contra el Cibercrimen lead, supervised by Juzgado de Instrucción número 1 de San Vicente de la Barquera.
+  - Bilateral ES-BR police-to-police cooperation for identification of Brazilian-national suspect; investigation remains open.
+  - L19/L23-strict applied: 3 wikilinked agencies all named in source AND wiki org pages exist. UCO is sub-unit of spain-guardia-civil — described in body prose.

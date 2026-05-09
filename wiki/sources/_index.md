@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (789)
+# Sources (790)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -144,6 +144,7 @@ updated: 2026-04-14
 | [[2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia]] | press-release | Europol | ? | high | ? |
 | [[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia]] | press-release | US Department of the Treasury | ? | high | ? |
 | [[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |
+| [[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]] | press-release | Guardia Civil (Spain) | 1 | high | ? |
 | [[2025-09-29_cyberscoop_interpol-operation-contender-3-africa]] | news | CyberScoop | ? | medium | ? |
 | [[2025-09-27_dailysecurityreview_operation-haechi-vi-record-recovery]] | news | Daily Security Review | ? | medium | ? |
 | [[2025-09-26_interpol_operation-contender-3-pan-african-cybercrime]] | press-release | INTERPOL | ? | high | ? |

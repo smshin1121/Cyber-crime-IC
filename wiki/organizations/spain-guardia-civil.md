@@ -36,16 +36,18 @@ operations_participated:
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
+  - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
 notable_cases:
 
 contact_point_for:
   - "[[24-7-network]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-18_guardiacivil-es_gdt]]"
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
+  - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
 created: 2026-04-10
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 ---
 ## Summary

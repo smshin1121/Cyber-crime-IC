@@ -13,6 +13,7 @@ operations_participated:
   - "[[operation-serengeti-2]]"
   - "[[operation-synergia-iii]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
+  - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
 org_type: private-sector-partner
 jurisdiction: private-sector
 key_roles:
@@ -22,17 +23,18 @@ cooperation_partners:
   - "[[interpol]]"
   - "[[nigeria-police-force]]"
   - "[[trend-micro]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2020-11-26_group-ib-com_carding-action-2020]]"
   - "[[2020-11-25_group-ib_operation-falcon-group-ib-helps-interpol-identify-nigerian-bec-ring-members]]"
   - "[[group-ib-operation-delilah-silverterrier-bec]]"
   - "[[group-ib-operation-lyrebird]]"
   - "[[2024-11-06_group-ib-com_group-ib-supports-interpol-operation-synergia-ii]]"
+  - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
 status: active
 title: Group-IB
 type: organization
-updated: 2026-04-29
+updated: 2026-05-10
 ---
 ## Summary
 

@@ -3,9 +3,9 @@ type: mechanism
 title: "Informal Police Cooperation"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
-source_count: 9
+source_count: 10
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -16,6 +16,7 @@ sources:
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
   - "[[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia]]"
   - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
+  - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -34,6 +35,7 @@ operations_using:
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
   - "[[operation-toy-soldier-gru-29155-estonia-2024]]"
   - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
+  - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
 ---
 ## Summary
 

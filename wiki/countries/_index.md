@@ -24,7 +24,7 @@ total: 61
 | 🇧🇬 | [[bulgaria]] | civil-law | party (2005) | medium | 90-180 | 5 |
 | 🇧🇯 | [[benin]] | civil-law | party (2024) | low | unknown | 4 |
 | 🇧🇴 | [[bolivia]] | not-assessed | — | unknown | unknown | 0 |
-| 🇧🇷 | [[brazil]] | civil-law | not-assessed | unknown | unknown | 4 |
+| 🇧🇷 | [[brazil]] | civil-law | not-assessed | unknown | unknown | 5 |
 | 🇧🇾 | [[belarus]] | not-assessed | — | unknown | unknown | 0 |
 | 🇧🇿 | [[belize]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇦 | [[canada]] | mixed | party (2015) | high | 90-180 | 6 |
@@ -44,7 +44,7 @@ total: 61
 | 🇪🇨 | [[ecuador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇪🇪 | [[estonia]] | civil-law | party | high | unknown | 5 |
 | 🇪🇬 | [[egypt]] | civil-law | — | medium | unknown | 1 |
-| 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 10 |
+| 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 11 |
 | 🇫🇮 | [[finland]] | civil-law | party (2007) | high | 90-180 | 8 |
 | 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 10 |
 | 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 9 |
