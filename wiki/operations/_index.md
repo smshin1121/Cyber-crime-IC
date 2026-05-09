@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (173 canonical / 27 absorbed / 200 records)
+# Operations (174 canonical / 27 absorbed / 201 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (173)
+## Canonical Operations (174)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -138,6 +138,7 @@ updated: 2026-04-14
 | [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | umbrella | 5 | 4.60 | 2 |
 | [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | umbrella | 5 | 4.70 | 2 |
 | [[operation-endgame-phase3]] | CYB-2025-201 | 3 | completed | phase | 1 | 4.00 | 1 |
+| [[sg-th-altdos-desorden-ghostr-takedown-2025]] | CYB-2025-201 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[e-note-crypto-exchange-takedown-2025]] | CYB-2025-202 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[latvia-sim-box-cybercrime-as-a-service-takedown-2025]] | CYB-2025-203 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[eurojust-100m-crypto-investment-fraud-takedown-2025]] | CYB-2025-204 | 3 | completed | — | 1 | 4.00 | 1 |

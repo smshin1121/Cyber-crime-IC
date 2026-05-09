@@ -5,16 +5,18 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
-source_count: 3
+source_count: 4
 sources:
   - "[[europol-operation-pleiades]]"
   - "[[2026-02_europol_project-compass-the-com-network]]"
   - "[[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia]]"
+  - "[[2025-02-27_spf-singapore_global-hacker-arrested-thailand-altdos-desorden-ghostr-0mid16b]]"
 category: cybercrime-related
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
   - "[[project-compass-the-com-network-2025]]"
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
+  - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
 ---
 ## Summary
 

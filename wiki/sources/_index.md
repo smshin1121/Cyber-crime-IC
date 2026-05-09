@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (719)
+# Sources (720)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -220,6 +220,7 @@ updated: 2026-04-14
 | [[2025-03-05_bleepingcomputer-com_us-charges-chinese-hackers-linked-to-critical-infrastructure-breaches]] | news | BleepingComputer | ? | medium | ? |
 | [[2025-03-05-doj-isoon-chinese-hackers-charges]] | press-release | US Department of Justice | ? | high | ? |
 | [[2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]] | press-release | U.S. Department of the Treasury | 2 | high | ? |
+| [[2025-02-27_spf-singapore_global-hacker-arrested-thailand-altdos-desorden-ghostr-0mid16b]] | press-release | Singapore Police Force | ? | high | ? |
 | [[2025-02-18_newindianexpress-com_operation-chakra-iv-cbi-dismantles-virtual-asset-supported-network-targeting-german-nationals]] | news | The New Indian Express | ? | medium | ? |
 | [[2025-02-18_freepressjournal_operation-chakra-iv-german-tech-support-scam]] | news | Free Press Journal | ? | medium | ? |
 | [[2025-02-18_fintechbiznews-com_cbi-dismantles-virtual-asset-supported-transnational-cyber-crime-network]] | news | FinTech BizNews | ? | medium | ? |

@@ -7,8 +7,7 @@ cooperation_partners:
 
 country: "[[singapore]]"
 jurisdiction:
-  -
-    - singapore
+
 created: 2026-04-10
 established: 2015-06
 frameworks_administered:
@@ -27,6 +26,7 @@ operations_participated:
   - "[[operation-cyber-guardian]]"
   - "[[operation-chakra-ii]]"
   - "[[spf-fpb-operation-cryptoscam-2025]]"
+  - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
 org_type: national-unit
 parent_org: "[[singapore-police]]"
 source_count: 7

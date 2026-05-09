@@ -77,14 +77,15 @@ missing_fields:
   - "post-arrest charging detail and trial outcomes (court appearance scheduled at a later date)"
   - "specific name of the fraudulent international financial firm and the misappropriated financial services licence"
 related_cases:
-  []
+
 related_operations:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[uk-nigeria-meta-scam-centre-disruption-2026]]"
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
+  - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "First wiki record of the AFP-led Joint Policing Cybercrime Coordination Centre (JPC3) Operation Firestorm framework — a long-running operation launched August 2024 to disrupt offshore scam centres deceiving Australians, with three prior Manila takedowns referenced."
   - "First wiki record of an Australia-Thailand bilateral cybercrime cooperation pattern. Establishes the AFP International Network as a discrete IC channel class — structurally complementary to the NCA International Liaison Officer network (UK) recorded in [[india-cbi-noida-tech-support-scam-takedown-2025|the India CBI Noida tech-support scam takedown]] and the FBI Legal Attaché network (US) recorded in [[operation-token-mirrors-2026|Operation Token Mirrors]]."

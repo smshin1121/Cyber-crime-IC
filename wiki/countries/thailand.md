@@ -37,6 +37,7 @@ operations_participated:
   - "[[operation-power-off-2026-04]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
+  - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
 region: southeast-asia
 source_count: 3
 sources:

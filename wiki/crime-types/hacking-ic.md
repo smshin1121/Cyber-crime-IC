@@ -30,9 +30,10 @@ notable_operations:
   - "[[leakbase-takedown-2026]]"
   - "[[us-v-volkov-yanluowang-sentencing]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
+  - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 9
+source_count: 10
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -43,6 +44,7 @@ sources:
   - "[[2026-02-20_justice-gov_romanian-national-pleads-guilty-selling-access-oregon-state]]"
   - "[[2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia]]"
   - "[[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]]"
+  - "[[2025-02-27_spf-singapore_global-hacker-arrested-thailand-altdos-desorden-ghostr-0mid16b]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -90,3 +92,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [7] | [[2026-02-20_justice-gov_romanian-national-pleads-guilty-selling-access-oregon-state\|Romanian National Pleads Guilty to Selling Access to Networks of Oregon State Government Office and Other U.S. Victims]] | US DOJ (OPA) | 2026-02-20 | https://www.justice.gov/opa/pr/romanian-national-pleads-guilty-selling-access-networks-oregon-state-government-office-and |
 | [8] | [[2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia\|Cybercrime-as-a-service takedown: 7 arrested (Latvia SIM-box CaaS network dismantled)]] | Europol | 2025-10-17 | https://www.europol.europa.eu/media-press/newsroom/news/cybercrime-service-takedown-7-arrested |
 | [9] | [[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy\|Prolific Chinese State-Sponsored Contract Hacker Extradited from Italy (Xu Zewei / HAFNIUM / Powerock)]] | US DOJ (OPA), Press Release 26-404 | 2026-04-27 | https://www.justice.gov/opa/pr/prolific-chinese-state-sponsored-contract-hacker-extradited-italy |
+| [10] | [[2025-02-27_spf-singapore_global-hacker-arrested-thailand-altdos-desorden-ghostr-0mid16b\|Global Hacker Arrested In Thailand Arising From Joint Collaboration Between The Singapore Police Force And Royal Thai Police]] | Singapore Police Force | 2025-02-27 | https://www.police.gov.sg/media-hub/news/2025/02/20250227_global_hacker_arrested_in_thailand_arising_from_joint_collaboration_between_spf |
