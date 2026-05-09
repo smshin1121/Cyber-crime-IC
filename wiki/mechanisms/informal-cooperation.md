@@ -12,6 +12,7 @@ mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[pf-magna-fraus-pix-fraud-2025]]"
 ---
 ## Summary
 

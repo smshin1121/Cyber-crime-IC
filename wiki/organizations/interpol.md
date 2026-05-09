@@ -62,6 +62,7 @@ operations_participated:
   - "[[operation-eclipse-csam-americas]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+  - "[[pf-magna-fraus-pix-fraud-2025]]"
 org_type: international-org
 parent_org: ""
 source_count: 4

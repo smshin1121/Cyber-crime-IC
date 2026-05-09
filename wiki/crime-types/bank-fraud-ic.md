@@ -4,14 +4,17 @@ title: "Bank Fraud - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-04-29
-source_count: 4
+source_count: 5
 sources:
   - "[[2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story]]"
   - "[[2015-09-12_justice-gov_san-francisco-resident-charged-in-alleged-identity-theft-bank-fraud-and-aggravat]]"
   - "[[2015-10-13_wdpa_ghinkul-bugat-dridex-indictment]]"
   - "[[2017-01-01_bleepingcomputer-com_crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison]]"
+  - "[[2025-10-30_pf-gov-br_operacao-magna-fraus-fase-2-pix-fraud]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
+notable_operations:
+  - "[[pf-magna-fraus-pix-fraud-2025]]"
 ---
 ## Summary
 

@@ -53,6 +53,7 @@ operations_participated:
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
+  - "[[pf-magna-fraus-pix-fraud-2025]]"
 region: western-europe
 source_count: 6
 sources:

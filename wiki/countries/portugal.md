@@ -38,6 +38,7 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[pf-magna-fraus-pix-fraud-2025]]"
 region: western-europe
 source_count: 3
 sources:

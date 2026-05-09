@@ -81,14 +81,15 @@ missing_fields:
   - "the second simultaneous May 2025 FPB operation (parallel track to Operation Cryptoscam) is not described in the SPF release"
   - "Singapore-victim specific totals beyond the USD 1.4 million reported figure"
 related_cases:
-  []
+
 related_operations:
   - "[[operation-token-mirrors-2026]]"
   - "[[operation-secure-interpol]]"
   - "[[operation-haechi-vi]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
+  - "[[pf-magna-fraus-pix-fraud-2025]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "First wiki record of a Singapore-Brazil bilateral cybercrime cooperation pattern. Brazil is more typically recorded in the wiki as a US-prosecution jurisdiction (extradition of Brazilian nationals) than as a primary action-day jurisdiction in Singapore-originated cybercrime cases."
   - "Demonstrates an SPF-as-originating-IC-partner model — the operation began as a domestic Singapore investigation (CCC under CID) following a USD 1.4 million crypto-wallet-compromise report, with Singapore-side asset-tracing identifying Brazil as the destination and INTERPOL channels enabling FPB alerting."

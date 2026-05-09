@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (751)
+# Sources (752)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -110,6 +110,7 @@ updated: 2026-04-14
 | [[2025-11-04_eurojust_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | press-release | Eurojust | 2 | high | ? |
 | [[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown]] | press-release | Eurojust | ? | high | ? |
 | [[2025-11-04_112wwft-nl_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | news | 112WWFT | ? | medium | ? |
+| [[2025-10-30_pf-gov-br_operacao-magna-fraus-fase-2-pix-fraud]] | press-release | Polícia Federal (Brazil) — Coordenação-Geral de Comunicação Social | ? | high | ? |
 | [[2025-10-28_hstoday_operation-catalyst-africa-terrorism-financing]] | news | Homeland Security Today | ? | medium | ? |
 | [[2025-10-22_interpol_operation-catalyst-terrorism-financing]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-10-22_defenceweb_operation-catalyst-terrorism-financing]] | news | DefenceWeb | ? | medium | ? |

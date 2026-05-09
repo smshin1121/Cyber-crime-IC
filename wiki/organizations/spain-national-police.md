@@ -35,6 +35,7 @@ operations_participated:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[black-axe-spain-takedown-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[pf-magna-fraus-pix-fraud-2025]]"
 notable_cases:
 
 contact_point_for:

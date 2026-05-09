@@ -13,6 +13,7 @@ sources:
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[spf-fpb-operation-cryptoscam-2025]]"
+  - "[[pf-magna-fraus-pix-fraud-2025]]"
 ---
 ## Summary
 
