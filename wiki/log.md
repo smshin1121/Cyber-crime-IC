@@ -1526,10 +1526,23 @@
 - Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0
 - check_links: broken=2 (both pre-existing LESSONS.md backlinks in unrelated bohemia-cannabia HTML — legacy)
 - ZZPROT/PROT[0-9] placeholders: 0 across wiki/ + docs/
-- [[challenges]]/[[concepts]]/[[wikilink]]/[[lessons]] placeholder wikilinks: 0
+- placeholder wikilinks (literal `challenges`/`concepts`/`wikilink`/`lessons` slugs): 0
 - web/build_static.py: 1580 pages built successfully
 - Fixed 5 pre-existing build-pipeline bugs found during sweep:
   - 3 missing_page in greek-daoe-crypto-investment-fraud-2026 (lead_agency/coordinating_body plain-text strings auto-linked by builder → emptied frontmatter, descriptive text retained in body)
   - 2 missing_page in hungary-romania-swatting-doxing-discord-2026 + lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025 (same root cause)
 - Wiki freshness audit: most-recent `updated:` distribution shows 887 pages at 2026-04-29, 1030 pages at 2026-04-26, 247 pages at 2026-05-09. The wide 4월-말~5월-9 distribution indicates most entity pages have not been bumped on `updated:` since their pre-iter-87 baseline. This is technically expected (only directly modified pages get bumped) but suggests need for a cross-cutting `last_verified` refresh in subsequent iters.
 - Source-count total: 9,201 across 2,745 pages.
+
+## [2026-05-09] ingest | Operation Toy Soldier — GRU Unit 29155 attribution + Estonia indictment (EE+US+UA, 2024-09-05)
+- Source: raw/press-releases/2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia.md (Estonian PPA; en)
+- Pages created: wiki/sources/2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia.md, wiki/operations/operation-toy-soldier-gru-29155-estonia-2024.md (provisional, source_count=1).
+- Pages updated: countries (estonia, united-states, ukraine), agencies (fbi), crime-types (hacking-ic, malware-ic), mechanisms (joint-investigation-team, informal-cooperation, extradition).
+- Key findings:
+  - **First wiki record sourced from politsei.ee** (Estonian Police and Border Guard Board / Politsei- ja Piirivalveamet).
+  - **First wiki record of multilateral nation-state attribution operation**: Joint operation Toy Soldier — 14 services across 10 states cooperated on attribution of GRU military unit 29155 (Main Directorate of the General Staff of the Armed Forces of the Russian Federation).
+  - 3 Russian nationals indicted in Estonia (Yuri Denisov, Nikolay Korchagin, Vitali Shevchenko); Harju District Court issued in-absentia custody orders. FBI brought parallel charges against Denisov and Korchagin; US State Department $10M reward.
+  - **State-sheltered suspect pattern** documented: when suspects are sheltered in Russia (non-cooperative state), the available pressure mechanism is in-absentia custody orders + US bounty + multilateral attribution + IGCI-style coordination. No MLAT/extradition pathway viable.
+  - GRU Unit 29155 cyber activity since 2020 against Ukraine and NATO/EU member states including Estonia. Hybrid-warfare framing per Margo Palloson (DG, Estonian Internal Security Service).
+  - L19-strict + L23-strict applied. Partner-state names beyond EE/US/UA (10 states / 14 services counts only) NOT asserted in participating_countries.
+  - Backlinker bumped `updated:` to today on 9 touched entity pages — first iter applying user's "5/3 freshness" remediation policy.

@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
-source_count: 7
+source_count: 8
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -14,6 +14,7 @@ sources:
   - "[[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown]]"
   - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
+  - "[[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -30,6 +31,7 @@ operations_using:
   - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
   - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
+  - "[[operation-toy-soldier-gru-29155-estonia-2024]]"
 ---
 ## Summary
 

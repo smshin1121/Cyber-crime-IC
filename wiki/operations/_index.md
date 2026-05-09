@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (227 canonical / 27 absorbed / 254 records)
+# Operations (228 canonical / 27 absorbed / 255 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (227)
+## Canonical Operations (228)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -121,6 +121,7 @@ updated: 2026-04-14
 | [[labhost-phishing-as-a-service-takedown-2024]] | CYB-2024-202 | 2 | completed | — | 1 | 4.00 | 1 |
 | [[matrix-encrypted-messaging-takedown-2024]] | CYB-2024-203 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]] | CYB-2024-AR-KAERB | 3 | completed | — | 1 | 4.50 | 1 |
+| [[operation-toy-soldier-gru-29155-estonia-2024]] | CYB-2024-TOYSOLDIER | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | umbrella | 5 | — | — |
 | [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | umbrella | 5 | — | — |

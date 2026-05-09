@@ -35,10 +35,11 @@ operations_participated:
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
+  - "[[operation-toy-soldier-gru-29155-estonia-2024]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 4
+source_count: 5
 created: 2026-04-20
 updated: 2026-05-09
 status: corpus-linked
@@ -47,6 +48,7 @@ sources:
   - "[[2026-04-18_justice-gov_estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics]]"
   - "[[2026-04-18_justice-gov_two-estonian-nationals-plead-guilty-577m-cryptocurrency-fraud-scheme]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
+  - "[[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia]]"
 ---
 ## Summary
 
