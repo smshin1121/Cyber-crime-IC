@@ -57,7 +57,7 @@ total: 61
 | 🇭🇰 | [[hong-kong]] | not-assessed | — | unknown | unknown | 0 |
 | 🇭🇳 | [[honduras]] | not-assessed | — | unknown | unknown | 0 |
 | 🇭🇷 | [[croatia]] | not-assessed | — | unknown | unknown | 0 |
-| 🇭🇺 | [[hungary]] | civil-law | not-assessed | unknown | unknown | 1 |
+| 🇭🇺 | [[hungary]] | civil-law | not-assessed | unknown | unknown | 2 |
 | 🇮🇩 | [[indonesia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇮🇪 | [[ireland]] | not-assessed | — | unknown | unknown | 1 |
 | 🇮🇱 | [[israel]] | mixed | not-assessed | unknown | unknown | 5 |
@@ -97,7 +97,7 @@ total: 61
 | 🇵🇱 | [[poland]] | civil-law | party (2015) | medium | unknown | 3 |
 | 🇵🇹 | [[portugal]] | civil-law | party (2010) | medium | unknown | 3 |
 | 🇵🇾 | [[paraguay]] | not-assessed | — | unknown | unknown | 0 |
-| 🇷🇴 | [[romania]] | civil-law | party (2004) | high | unknown | 4 |
+| 🇷🇴 | [[romania]] | civil-law | party (2004) | high | unknown | 5 |
 | 🇷🇸 | [[serbia]] | civil-law | party (2009) | medium | unknown | 3 |
 | 🇷🇺 | [[russia]] | civil-law | non-party | low | 180+ | 4 |
 | 🇷🇼 | [[rwanda]] | mixed | party (2025) | medium | unknown | 3 |

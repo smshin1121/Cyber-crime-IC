@@ -22,6 +22,7 @@ key_organizations:
   - "[[us-doj]]"
 notable_operations:
   - "[[operation-otf-grimm]]"
+  - "[[hungary-romania-swatting-doxing-discord-2026]]"
 notable_cases:
   - "[[us-v-kevin-james-strutz]]"
 criminalization_status:
@@ -30,12 +31,13 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 4
+source_count: 5
 sources:
   - "[[2024-07-10_secretservice_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate]]"
   - "[[2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking]]"
   - "[[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
+  - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
 created: 2026-04-27
 updated: 2026-04-29
 status: active
@@ -68,3 +70,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [2] | [[2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking|Former Computer Privacy Consultant Convicted of Cyberstalking]] | US DOJ Office of Public Affairs | 2024-03-22 | https://www.justice.gov/opa/pr/former-computer-privacy-consultant-convicted-cyberstalking |
 | [3] | [[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her|Former privacy consultant convicted of cyberstalking campaign against former roommate, her family members, boyfriend, police and prosecutors]] | US DOJ USAO | 2024-03-22 | https://www.justice.gov/usao-wdwa/pr/former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her |
 | [4] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — VaaS recruitment via online platforms; 280 arrests across 11 countries]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
+| [5] | [[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation\|Hungary-Romania Discord swatting/doxing joint investigation — bilateral HU-RO operation, 4 suspects, terrorcselekmény charge]] | Hungarian National Police (KR NNI) | 2026-01-26 | https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/bunugyek/swatting-es-doxing-miatt-indult-nyomozas |

@@ -54,7 +54,7 @@ missing_fields:
 related_cases:
   - "[[us-v-california-teenager]]"
 related_operations:
-
+  - "[[hungary-romania-swatting-doxing-discord-2026]]"
 challenges_encountered:
 
 lessons_learned:

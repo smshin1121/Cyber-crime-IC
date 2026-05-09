@@ -1397,3 +1397,15 @@
   - Cooperation channel: domestic-only at the visible asset-restraint phase; foreign LE participation (UK NCA, US DHS/Secret Service, AFP, INTERPOL Project Jackal) appears in non-tier-1 reporting but is NOT asserted on the case page per L19.
   - 27 January 2026 arrest action; 26 February 2026 restraint order; 14 April 2026 execution; 4 June 2026 next criminal-case date (Palm Ridge Magistrates' Court).
 - Local build: web/build_static.py executed successfully at iter 90 milestone (last build was iter 80).
+
+## [2026-05-09] ingest | Hungary-Romania Discord swatting/doxing joint investigation
+- Source: raw/press-releases/2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation.md (Hungarian National Police KR NNI Cybercrime Combatting Department; hu)
+- Pages created: wiki/sources/2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation.md, wiki/operations/hungary-romania-swatting-doxing-discord-2026.md (provisional, source_count=1)
+- Pages updated: 2 country pages (HU, RO), romanian-police agency, cyberstalking-ic crime-type, three mechanisms (informal-cooperation, search-seizure, electronic-evidence), two related operations (operation-bremerton-..., operation-us-v-california-teenager).
+- Key findings:
+  - First wiki record sourced from police.hu (curl_cffi chrome120 bypass for HU national police Cloudflare-403 wall — confirms LESSONS L11 working pattern for Hungarian police domain).
+  - Bilateral HU-RO informal cooperation pattern with **direct cross-border physical participation by Hungarian KR NNI cyber investigators in Bihor County (Romania) search alongside Romanian investigators** — structurally novel pattern not previously documented in wiki for HU-RO axis.
+  - 6-month investigation (Jul 2025 → 20-Jan-2026 raid); 4 suspects ages 16-20 (3 HU + 1 RO Bihor County); 17-year-old Romanian charged with terrorcselekmény (terrorist act) for swatting-style bomb threats — illustrates how **bomb-threat-style swatting can rise to terrorism prosecutions** in EU member states.
+  - Discord platform disputes documented as pre-cursor pattern for swatting/doxing — first such pattern record in wiki.
+  - Counter Terrorism Centre (TEK) participation during reconnaissance phase rather than only after attribution.
+  - No Eurojust/Europol involvement named — informal bilateral with overlapping participation rather than sequential MLA/JIT.

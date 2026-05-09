@@ -10,8 +10,7 @@ cooperation_partners:
   - "[[kaspersky-lab]]"
 country: "[[romania]]"
 jurisdiction:
-  -
-    - romania
+
 created: 2026-04-17
 established: ""
 frameworks_administered:
@@ -34,13 +33,15 @@ operations_participated:
   - "[[romania-phishing-takedown-2024]]"
   - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
+  - "[[hungary-romania-swatting-doxing-discord-2026]]"
 org_type: national-agency
 parent_org: "[[romania-police]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[europol-carbanakcobalt-mastermind-arrest]]"
   - "[[europol-romania-phishing-network-takedown]]"
   - "[[2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]]"
+  - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
 status: active
 title: "Romanian Police"
 type: organization
@@ -70,3 +71,4 @@ This page has been normalized for the organization audit: it includes role metad
 | [1] | [[europol-carbanakcobalt-mastermind-arrest|Europol: Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain (Carbanak/Cobalt)]] | Europol | 2018-03-26 | https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain |
 | [2] | [[europol-romania-phishing-network-takedown|Europol: Romania Phishing Network Takedown]] | Europol | 2026-04-08 | https://www.europol.europa.eu/media-press/newsroom/news/hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania |
 | [3] | [[2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain|Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain]] | Europol | 2018-03-01 | https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain |
+| [4] | [[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation\|Hungary-Romania Discord swatting/doxing joint investigation — 4 suspects (HU+RO Bihor County), HU cyber investigators in RO search]] | Hungarian National Police (KR NNI) | 2026-01-26 | https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/bunugyek/swatting-es-doxing-miatt-indult-nyomozas |

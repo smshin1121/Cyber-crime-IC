@@ -65,7 +65,7 @@ related_cases:
   - "[[bremerton-washington-man-pleads-guilty-to-four-federal-felonies-connected-to-his-extensive-swatting-scheme]]"
   - "[[bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]]"
 related_operations:
-
+  - "[[hungary-romania-swatting-doxing-discord-2026]]"
 challenges_encountered:
 
 lessons_learned:
