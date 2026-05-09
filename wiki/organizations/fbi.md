@@ -93,6 +93,7 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
+  - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
 source_count: 3

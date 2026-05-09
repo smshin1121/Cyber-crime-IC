@@ -80,6 +80,7 @@ operations_participated:
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
+  - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
 region: western-europe
 source_count: 5
 sources:

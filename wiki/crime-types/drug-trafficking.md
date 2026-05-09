@@ -4,7 +4,7 @@ title: "Drug Trafficking"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-09
-source_count: 7
+source_count: 8
 sources:
   - "[[2014-02-20_cbsnews-baltimore_neb-man-charged-in-silk-road-case]]"
   - "[[2014-05-30_justice-gov_texas-resident-charged-illegally-selling-controlled-substances-silk-road-bitmessage]]"
@@ -13,11 +13,13 @@ sources:
   - "[[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]]"
   - "[[2026-04-30_justice-gov_versus-project-creator-extradited-colombia]]"
   - "[[2026-03-07_afp_operation-candy-15-arrests-australia-spain-sweden-thailand]]"
+  - "[[2024-10-08_politie_bohemia-cannabia-darknet-marketplace-takedown]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
   - "[[operation-candy-encrypted-comms-drugs-2026]]"
+  - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
 ---

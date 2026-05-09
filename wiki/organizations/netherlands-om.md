@@ -12,8 +12,7 @@ established: ""
 parent_org: ""
 country: "[[netherlands]]"
 jurisdiction:
-  -
-    - netherlands
+
 headquarters: "Rotterdam / Amsterdam / Zwolle / Den Bosch / Zoetermeer, Netherlands"
 mandate: "National prosecutorial component for internationally organized and serious crime, including cybercrime."
 member_states: 0
@@ -33,6 +32,7 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-hyperion]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+  - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
 notable_cases:
 
 contact_point_for:

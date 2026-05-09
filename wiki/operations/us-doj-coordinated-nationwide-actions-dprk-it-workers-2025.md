@@ -105,6 +105,7 @@ related_operations:
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
+  - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
 challenges_encountered:
 
 lessons_learned:

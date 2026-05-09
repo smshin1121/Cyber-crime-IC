@@ -67,6 +67,7 @@ operations_participated:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
+  - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
 region: western-europe
 source_count: 5
 sources:

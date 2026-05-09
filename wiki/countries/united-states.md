@@ -193,6 +193,8 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
+  - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
+  - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
 region: north-america
 source_count: 1
 sources:

@@ -47,6 +47,7 @@ operations_participated:
   - "[[operation-us-v-ryan-thomas-carver]]"
   - "[[operation-us-v-evgenii-ptitsyn]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
+  - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
 region: east-asia
 source_count: 23
 sources:

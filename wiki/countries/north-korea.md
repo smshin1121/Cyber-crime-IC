@@ -32,6 +32,7 @@ operations_participated:
   - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
+  - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
 notable_cases:
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"

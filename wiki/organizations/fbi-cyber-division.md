@@ -114,6 +114,7 @@ operations_participated:
   - "[[operation-blackshades]]"
   - "[[operation-card-shop]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
+  - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

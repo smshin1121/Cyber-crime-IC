@@ -11,8 +11,7 @@ established: 2016
 parent_org: "[[ireland-garda-siochana]]"
 country: "[[ireland]]"
 jurisdiction:
-  -
-    - ireland
+
 headquarters: "Dublin, Ireland"
 mandate: "Investigation and digital-forensics support for cybercrime in Ireland."
 key_roles:
@@ -26,6 +25,7 @@ operations_participated:
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-hyperion]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
+  - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
 source_count: 3
 sources:
   - "[[2022-10-14_garda-ie_interpol-operation-jackal-ireland-operation-skein-14th-october-2022]]"

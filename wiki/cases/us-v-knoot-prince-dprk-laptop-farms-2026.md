@@ -40,17 +40,19 @@ defendants:
     status: "awaiting trial"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
+related_operation:
+  - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
+  - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: "Mexican national Pedro Ernesto Alonso de los Reyes is in custody in The Netherlands awaiting extradition to the United States. North Korean nationals Jin Sung-il and Pak Jin-Song are fugitives and not subject to extradition cooperation given DPRK's non-cooperative posture."
   evidence_from_abroad:
-    []
+
   foreign_arrests:
     - "[[netherlands]]"
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
   - "[[fbi]]"

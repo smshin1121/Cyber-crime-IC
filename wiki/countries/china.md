@@ -15,6 +15,7 @@ operations_participated:
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
+  - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
 region: east-asia
 source_count: 1
 sources:
