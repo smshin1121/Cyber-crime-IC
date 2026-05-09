@@ -3,8 +3,8 @@ type: mechanism
 title: "Asset Freezing"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-09
-source_count: 9
+updated: 2026-05-10
+source_count: 10
 sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
   - "[[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service]]"
@@ -15,6 +15,7 @@ sources:
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
+  - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
@@ -25,6 +26,7 @@ operations_using:
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
+  - "[[austrian-crypto-coin-loopx-takedown-2024]]"
 cases_using:
   - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 ---

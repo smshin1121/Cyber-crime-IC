@@ -32,12 +32,14 @@ operations_participated:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
+  - "[[austrian-crypto-coin-loopx-takedown-2024]]"
 region: central-europe
-source_count: 7
+source_count: 8
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
+  - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
 title: "Czech Republic"
 treaty_memberships:
   - date: 2013-08-22
@@ -49,7 +51,7 @@ treaty_memberships:
     reservations: ""
     status: unknown
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -110,3 +112,4 @@ Capacity is *likely* medium-high. The EU membership, established NCOZ Cyber Crim
 | [5] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
 | [6] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
 | [7] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
+| [8] | [[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown\|Operation LoopX — Austrian crypto-coin exit-scam takedown (AT+CY+CZ; 6 arrests, ~EUR 6M victim losses, 10M tokens 2017-2018)]] | Eurojust | 2024-05-08 | https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin |

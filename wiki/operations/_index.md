@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (236 canonical / 27 absorbed / 263 records)
+# Operations (237 canonical / 27 absorbed / 264 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (236)
+## Canonical Operations (237)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -113,6 +113,7 @@ updated: 2026-04-14
 | [[operation-final-exchange-bka-russian-crypto-exchanges-2024]] | CYB-2024-099 | 2 | completed | — | 6 | 3.80 | 1 |
 | [[operation-magnus-redline-meta-stealer-takedown-2024]] | CYB-2024-100 | 2 | completed | — | 1 | — | — |
 | [[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]] | CYB-2024-101 | 2 | completed | — | 1 | — | 1 |
+| [[austrian-crypto-coin-loopx-takedown-2024]] | CYB-2024-105 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]] | CYB-2024-105 | 2 | completed | — | 1 | — | 1 |
 | [[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]] | CYB-2024-106 | 2 | ongoing | — | 1 | 4.60 | 1 |
 | [[bohemia-cannabia-darknet-marketplace-takedown-2024]] | CYB-2024-107 | 2 | completed | — | 1 | 4.00 | 1 |

@@ -11,7 +11,7 @@ updated: 2026-04-14
 | Mechanism | Type | Formality | Speed | Administered By | Legal Basis | Sources |
 |-----------|------|-----------|-------|-----------------|-------------|---------|
 | [[24-7-network]] | 24-7-network | semi-formal | hours | [[council-of-europe]] | budapest-convention | 2 |
-| [[asset-freezing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 9 |
+| [[asset-freezing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 10 |
 | [[asset-recovery]] | cooperation-or-enforcement-mechanism | — | — | — | — | 3 |
 | [[capacity-building-ic]] | cooperation-or-enforcement-mechanism | — | — | — | — | 1 |
 | [[cryptocurrency-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 8 |
@@ -20,8 +20,8 @@ updated: 2026-04-14
 | [[electronic-evidence]] | cooperation-or-enforcement-mechanism | — | — | — | — | 8 |
 | [[empact]] | liaison-network | formal | weeks | [[europol-ec3]] | eu-policy-cycle | 3 |
 | [[eu-policy-cycle]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
-| [[eurojust-coordination-meeting]] | cooperation-or-enforcement-mechanism | — | — | — | — | 8 |
-| [[european-arrest-warrant]] | cooperation-or-enforcement-mechanism | — | — | — | — | 3 |
+| [[eurojust-coordination-meeting]] | cooperation-or-enforcement-mechanism | — | — | — | — | 9 |
+| [[european-arrest-warrant]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[european-investigation-order]] | cooperation-or-enforcement-mechanism | — | — | — | — | 5 |
 | [[european-judicial-cybercrime-network]] | liaison-network | semi-formal | weeks-months | [[eurojust]] | Council Conclusions on the establishment of a European Judicial Cybercrime Network (Council of the EU, 9 June 2016) | 1 |
 | [[europol-jit]] | joint-investigation-team | formal | weeks-months | [[eurojust]] | budapest-convention, EU Council Framework Decision 2002/465/JHA | 3 |
@@ -36,5 +36,5 @@ updated: 2026-04-14
 | [[mlat-process]] | formal-mlat | formal | months | Central authorities of each state | budapest-convention, Bilateral MLATs between states | 3 |
 | [[mutual-legal-assistance]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[public-private-cooperation]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
-| [[search-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 14 |
+| [[search-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 15 |
 | [[sinkholing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |

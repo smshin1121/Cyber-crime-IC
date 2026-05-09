@@ -1653,3 +1653,26 @@
   - **Public-private cooperation pattern**: Group-IB provided technical analysis of phishing infrastructure + Telegram-based CaaS distribution. Spanish Guardia Civil UCO Departamento contra el Cibercrimen lead, supervised by Juzgado de Instrucción número 1 de San Vicente de la Barquera.
   - Bilateral ES-BR police-to-police cooperation for identification of Brazilian-national suspect; investigation remains open.
   - L19/L23-strict applied: 3 wikilinked agencies all named in source AND wiki org pages exist. UCO is sub-unit of spain-guardia-civil — described in body prose.
+
+## [2026-05-10] ingest | Operation LoopX — Austrian crypto-coin (fake-ICO) exit-scam takedown (AT+CY+CZ Eurojust+Europol, 2024-05-08)
+- Source: raw/press-releases/2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown.md (Eurojust; en) + Europol cross-check
+- Pages created: wiki/sources/..., wiki/operations/austrian-crypto-coin-loopx-takedown-2024.md (provisional, source_count=2 — Eurojust + Europol cross-check).
+- Pages updated: 3 country pages (AT, CY, CZ), 3 agencies (europol-ec3, eurojust, czech-police), 2 crime-types (online-fraud-ic, money-laundering-ic), 4 mechanisms (european-arrest-warrant, eurojust-coordination-meeting, search-seizure, asset-freezing).
+- Key findings:
+  - 6 Austrian suspects arrested for fake-ICO crypto exit scam (10M tokens sold Dec 2017–Feb 2018 for BTC+ETH; ~EUR 6M victim losses).
+  - 6 house searches executed across AT+CY+CZ on 2024-05-08 action day.
+  - **Cooperation toolset documented**: Eurojust coordination centre + Europol Virtual Command Post + Europol mobile office in Cyprus + on-site Austrian police presence in Cyprus + EAW + search warrants + 5 Europol operational meetings + Austrian desk at Eurojust. Comprehensive multi-tool deployment benchmark.
+  - **Cyprus mobile-office pattern**: Europol mobile office deployed to Cyprus + Austrian police on-site presence — illustrates expedited evidence-collection model when victim/perpetrator state ≠ host state.
+  - Quantified seizure: EUR 750K liquid + EUR 500K+ crypto + EUR 250K fiat + EUR 1.4M property + 2 cars + dozens of bank accounts frozen.
+  - Lead Austrian: WKStA + Bundeskriminalamt C4 (no wiki org pages exist; described in body prose only).
+  - L19/L23-strict applied: 3 wikilinked agencies all named in source AND wiki org pages exist. lead_agency: "" kept empty (no Austrian agency wiki page); coordinating_body: [[eurojust]].
+
+## [2026-05-10] iter 110 milestone push integrity sweep
+- 10 commits since last push (iters 101-110): 7cb1a01eb..[iter 110] pushing 11 commits to origin/master.
+- Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0
+- check_links: broken=2 (both pre-existing legacy LESSONS.md backlinks in unrelated bohemia-cannabia HTML)
+- ZZPROT/PROT[0-9] placeholders: 0
+- web/build_static.py: completed successfully (background task)
+- Source-count total: 9,343 across 2,761 pages (Δ +142 source-count across +16 pages since iter 100 milestone)
+- Freshness audit: 248 pages at 2026-05-09 + several at 2026-05-10 (touched-page `updated:` bumps from 9 iters of backlinker-driven freshness remediation working as designed)
+- Touched 21 unique tier-1 publishers across iters 101-110: politsei.ee, sputnik.kz, policie.gov.cz (PATHFINDER), cbzc.policja.gov.pl (Kraków + Aether), policija.si, politi.dk, policiajudiciaria.pt, web.guardiacivil.es, eurojust.europa.eu (LoopX). Spans 30+ countries (DE, EE, US, UA, KZ, AM, GE/IR/SY/LB, CZ, AL, BA, XK, LB, SI, PL, ES, HU, RO, GR, IT, BE, NL, DK, AU, AT, FI, FR, IS, NZ, NO, CH, UK, PT, AO, BR, CY).

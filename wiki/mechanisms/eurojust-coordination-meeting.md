@@ -3,8 +3,8 @@ type: mechanism
 title: "Eurojust Coordination Meeting"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-09
-source_count: 8
+updated: 2026-05-10
+source_count: 9
 sources:
   - "[[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]"
   - "[[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]]"
@@ -14,6 +14,7 @@ sources:
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
+  - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
@@ -23,6 +24,7 @@ operations_using:
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
+  - "[[austrian-crypto-coin-loopx-takedown-2024]]"
 ---
 ## Summary
 

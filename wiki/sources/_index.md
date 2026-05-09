@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (790)
+# Sources (791)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -422,6 +422,7 @@ updated: 2026-04-14
 | [[2024-05-29_fbi-gov_operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-o]] | press-release | FBI | ? | high | ? |
 | [[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors]] | guidance | Federal Bureau of Investigation | 2 | high | ? |
 | [[2024-05-28_treasury-gov_treasury-sanctions-a-cybercrime-network-associated-with-the-911-s5-botnet]] | press-release | U.S. Department of the Treasury | 1 | high | ? |
+| [[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]] | press-release | Eurojust | ? | high | ? |
 | [[2024-05-07_justice-gov-dnj_us-charges-russian-national-developing-operating-lockbit-ransomware]] | press-release | US Attorney's Office, District of New Jersey | ? | high | ? |
 | [[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]] | official-press-release | Foreign, Commonwealth & Development Office | 2 | high | ? |
 | [[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]] | press-release | Slovenska policija (Slovenian Police, Ministry of the Interior of the Republic of Slovenia) | ? | high | ? |

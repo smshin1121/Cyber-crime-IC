@@ -4,7 +4,7 @@ title: "Search and Seizure"
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-10
-source_count: 14
+source_count: 15
 sources:
   - "[[2021-10-09_shorenewsnetwork_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy]]"
   - "[[2026-01-13_komonews_4-people-federal-charges-drug-trafficking-conspiracy-marysville]]"
@@ -20,6 +20,7 @@ sources:
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
+  - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
@@ -32,6 +33,7 @@ operations_using:
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
+  - "[[austrian-crypto-coin-loopx-takedown-2024]]"
 ---
 ## Summary
 
