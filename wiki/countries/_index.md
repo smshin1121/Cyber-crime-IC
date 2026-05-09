@@ -92,7 +92,7 @@ total: 61
 | 🇳🇵 | [[nepal]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇦 | [[panama]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇪 | [[peru]] | not-assessed | — | unknown | unknown | 0 |
-| 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 1 |
+| 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 2 |
 | 🇵🇰 | [[pakistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇱 | [[poland]] | civil-law | party (2015) | medium | unknown | 3 |
 | 🇵🇹 | [[portugal]] | civil-law | party (2010) | medium | unknown | 3 |

@@ -103,6 +103,7 @@ related_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
+  - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
 challenges_encountered:
 
 lessons_learned:

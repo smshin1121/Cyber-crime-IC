@@ -101,6 +101,7 @@ related_operations:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
 challenges_encountered:
 
 lessons_learned:

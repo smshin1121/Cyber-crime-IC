@@ -17,7 +17,7 @@ updated: 2026-04-14
 | [[cryptocurrency-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[direct-provider-request]] | provider-disclosure | semi-formal | days | — | cloud-act, second-additional-protocol | 6 |
 | [[domain-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
-| [[electronic-evidence]] | cooperation-or-enforcement-mechanism | — | — | — | — | 6 |
+| [[electronic-evidence]] | cooperation-or-enforcement-mechanism | — | — | — | — | 7 |
 | [[empact]] | liaison-network | formal | weeks | [[europol-ec3]] | eu-policy-cycle | 3 |
 | [[eu-policy-cycle]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[eurojust-coordination-meeting]] | cooperation-or-enforcement-mechanism | — | — | — | — | 5 |
@@ -36,5 +36,5 @@ updated: 2026-04-14
 | [[mlat-process]] | formal-mlat | formal | months | Central authorities of each state | budapest-convention, Bilateral MLATs between states | 2 |
 | [[mutual-legal-assistance]] | cooperation-or-enforcement-mechanism | — | — | — | — | 2 |
 | [[public-private-cooperation]] | cooperation-or-enforcement-mechanism | — | — | — | — | 3 |
-| [[search-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 7 |
+| [[search-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 8 |
 | [[sinkholing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |

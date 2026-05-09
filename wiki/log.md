@@ -1409,3 +1409,15 @@
   - Discord platform disputes documented as pre-cursor pattern for swatting/doxing — first such pattern record in wiki.
   - Counter Terrorism Centre (TEK) participation during reconnaissance phase rather than only after attribution.
   - No Eurojust/Europol involvement named — informal bilateral with overlapping participation rather than sequential MLA/JIT.
+
+## [2026-05-09] ingest | NBI Parañaque US-impersonation cyber-scam takedown — Li Zhenjie 2025
+- Source: raw/press-releases/2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation.md (NBI Cybercrime Division Philippines, OIC Director Atty. Angelito DLP Magno; en)
+- Pages created: wiki/sources/2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation.md, wiki/operations/nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025.md (provisional, source_count=1)
+- Pages updated: countries/philippines, three crime-types (online-fraud-ic, extortion-ic, identity-theft), two mechanisms (search-seizure, electronic-evidence), two related operations (seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026, korea-cambodia-philippines-73-extradition-2026).
+- Key findings:
+  - First wiki record sourced from nbi.gov.ph — Philippine NBI Cybercrime Division publishes English-language tier-1 IC press releases.
+  - Single-state takedown of outbound transnational scam: Chinese national (Li Zhenjie) operating from Parañaque condo, impersonating New Haven PD (Connecticut, USA) + FBI Washington over spoofed numbers, demanding USD 3,000-5,000 in cryptocurrency to alias "GENERAL" from US victims.
+  - Procedural fast-path documented: WSSECD (Warrant to Search, Seize, and Examine Computer Data) under Philippine Rule on Cybercrime Warrants (A.M. No. 17-11-03-SC) enabled 1-day turnaround between issuance (2025-11-20) and execution/arrest (2025-11-21). Relevant for future US MLAT or preservation-request workflow under Budapest Convention.
+  - RA 12010 (AFASA, Anti-Financial Account Scamming Act) §4(b)(1) Social Engineering Schemes invoked in relation to RA 10175 (Cybercrime Prevention Act 2012) — first wiki record of AFASA application.
+  - **Operational chain in tier-1 release purely domestic Philippine** — no foreign LE counterpart named. Per L19, participating_countries kept to philippines only; cross-border conduct (US victims, US-impersonated agencies, Chinese national) recorded in body and missing_fields without IC-cooperation assertion.
+- New LESSONS entry: L22 — nbi.gov.ph requires HTTP plain (HTTPS WRONG_VERSION_NUMBER fail). Fallback order updated: chrome120 → chrome124 → **HTTP plain** → Wayback → ABORT.

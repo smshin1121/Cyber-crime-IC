@@ -213,6 +213,19 @@
 
 ---
 
+### L22. nbi.gov.ph는 HTTPS TLS 핸드셰이크 실패 — HTTP plain으로 수집 (2026-05-09)
+
+- **상황**: 필리핀 NBI 보도자료 (`http://nbi.gov.ph/press_releases/...`) 를 `curl_cffi` chrome120 으로 HTTPS 수집 시도하면 `WRONG_VERSION_NUMBER` SSL 에러로 실패. HTTPS 자체가 server-side에서 깨져 있음.
+- **돌파구**: HTTP plain (`http://nbi.gov.ph/...`) 으로 동일 URL 요청하면 `HTTP/1.1 200 OK` + 정상 본문 반환. 서버가 HTTPS 리다이렉트를 강제하지 않고 HTTP로 평문 응답을 그대로 내준다.
+- **증거**: iter 92 NBI Parañaque cyber-scam 보도자료 인제스트에서 curl_cffi chrome120 HTTPS = `WRONG_VERSION_NUMBER`, HTTP = 200 OK + 52KB body 확인.
+- **교훈**: **L11/L20 "Cloudflare 차단" 패턴과는 다른 클래스의 1차 출처 차단**. 정부 사이트가 HTTPS 인증서 갱신 누락이나 mixed-content 설정 오류로 평문 HTTP만 정상 응답하는 케이스가 존재. HTTPS 강제 시도하다 포기하지 말고 HTTP로 fallback.
+- **어떻게 적용**:
+  - 정부 1차 출처 URL fetch 실패 시 fallback 순서: HTTPS curl_cffi chrome120 → HTTPS chrome124 → **HTTP plain (this lesson)** → Wayback `https://web.archive.org/web/<latest>/<URL>` → ABORT
+  - 알려진 HTTP-only 도메인: `nbi.gov.ph` (필리핀 국가수사국)
+  - raw 파일 frontmatter의 `source_url`은 운영 URL을 그대로 (http 포함) 기록 — 임의 https 변환 금지
+
+---
+
 ### L20. Cloudflare/SPA 벽은 `curl_cffi` TLS impersonation + script-preserving parse로 뚫는다 (2026-04-21)
 
 - **상황**: Europol/DOJ 등 핵심 1차 출처 URL이 `WebFetch`로는 Cloudflare 차단 (403/challenge). 이 때문에 Colombia-Avalanche 검증을 포기하고 frontmatter에서 제거하는 오판을 저질렀음.

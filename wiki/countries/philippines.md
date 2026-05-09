@@ -11,13 +11,15 @@ operations_participated:
   - "[[operation-haechi-vi]]"
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
-source_count: 1
+  - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
+source_count: 2
 created: 2026-04-20
 updated: 2026-05-09
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 sources:
   - "[[2026-03-03_korean-press_korea-philippines-police-mou-second-revision]]"
+  - "[[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation]]"
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---

@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-09
 last_verified: 2026-05-09
-source_count: 6
+source_count: 7
 sources:
   - "[[europol-operation-pleiades]]"
   - "[[2026-02_europol_project-compass-the-com-network]]"
@@ -13,6 +13,7 @@ sources:
   - "[[2025-02-27_spf-singapore_global-hacker-arrested-thailand-altdos-desorden-ghostr-0mid16b]]"
   - "[[2026-03-19_justice-gov_iranian-mois-cyber-psychological-operations-handala]]"
   - "[[2024-12-12_justice-gov_14-north-korean-nationals-indicted-it-worker-conspiracy]]"
+  - "[[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation]]"
 category: cybercrime-related
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -20,6 +21,7 @@ notable_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
+  - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
 notable_cases:
   - "[[us-v-kai-west-intelbroker-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
