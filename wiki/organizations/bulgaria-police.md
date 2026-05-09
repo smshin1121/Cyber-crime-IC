@@ -30,15 +30,16 @@ operations_participated:
   - "[[operation-firewall]]"
   - "[[operation-card-shop]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
+  - "[[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]]"
 org_type: national-unit
 parent_org: "[[bulgaria-ministry-of-interior]]"
-source_count: 2
+source_count: 3
 sources:
-
+  - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
 status: active
 title: "GDBOP Cybercrime Directorate"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -88,3 +89,4 @@ Bulgaria has been a party to the Budapest Convention since 2005 and joined the E
 |---|---|---|---|---|
 | [1] | General Directorate Combating Organized Crime, Ministry of Interior (Bulgaria) | Netlaw.bg | n.d. | https://www.netlaw.bg/en/a/general-directorate-combating-organized-crime-ministry-of-interior-bulgaria |
 | [2] | Cybercrime Unit at Directorate for Combating Organised Crime Is Restructured | BTA | 2023 | https://www.bta.bg/en/news/bulgaria/406674-cybercrime-unit-at-directorate-for-combating-organised-crime-is-restructured-hi |
+| [3] | [[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud\|BTA Sofia call-centre BG-ES Guardia Civil online investment fraud takedown — 17 gold bars, 5 hardware crypto wallets (one >USD 230K), BGN 45K cash]] | BTA (Bulgarian News Agency, state wire) relaying Sofia City Prosecutor's Office | 2025-12-12 | https://www.bta.bg/en/news/bulgaria/990290-organized-crime-group-running-fraudulent-online-investment-platforms-busted-i |

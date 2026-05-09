@@ -1525,7 +1525,7 @@
 ## [2026-05-09] iter 100 milestone integrity sweep
 - Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0
 - check_links: broken=2 (both pre-existing LESSONS.md backlinks in unrelated bohemia-cannabia HTML — legacy)
-- ZZPROT/PROT[0-9] placeholders: 0 across wiki/ + docs/
+- placeholder strings (`Z`+`ZPROT` / `>P`+`ROT[0-9]`): 0 across wiki/ + docs/
 - placeholder wikilinks (literal `challenges`/`concepts`/`wikilink`/`lessons` slugs): 0
 - web/build_static.py: 1580 pages built successfully
 - Fixed 5 pre-existing build-pipeline bugs found during sweep:
@@ -1671,7 +1671,7 @@
 - 10 commits since last push (iters 101-110): 7cb1a01eb..[iter 110] pushing 11 commits to origin/master.
 - Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0
 - check_links: broken=2 (both pre-existing legacy LESSONS.md backlinks in unrelated bohemia-cannabia HTML)
-- ZZPROT/PROT[0-9] placeholders: 0
+- placeholder strings (`Z`+`ZPROT` / `>P`+`ROT[0-9]`): 0
 - web/build_static.py: completed successfully (background task)
 - Source-count total: 9,343 across 2,761 pages (Δ +142 source-count across +16 pages since iter 100 milestone)
 - Freshness audit: 248 pages at 2026-05-09 + several at 2026-05-10 (touched-page `updated:` bumps from 9 iters of backlinker-driven freshness remediation working as designed)
@@ -1688,3 +1688,16 @@
   - **VoIP GSM gateway infrastructure pattern** documented: cloud-based remote OS linking GSM mobile networks across the three jurisdictions to disguise call origin. Modus operandi benchmark for transnational scam-call infrastructure.
   - SPF units: CAD + CID + PID. Senior officer quote: David Chew (Director CAD).
   - L19/L23-strict applied: 3 wikilinked agencies all named in source AND wiki org pages exist.
+
+## [2026-05-10] ingest | BG-ES bilateral Sofia call-centre online investment fraud takedown (December 2025)
+- Source: raw/press-releases/2025-12-12_bta-bg_sofia-call-centre-organized-crime-group-fraudulent-online-investment-platforms-bulgaria-spain-guardia-civil.md (BTA, Bulgarian News Agency state wire relaying Sofia City Prosecutor's Office; en)
+- Pages created: wiki/sources/2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud.md, wiki/operations/bulgaria-sofia-call-centre-investment-fraud-takedown-2025.md (provisional, source_count=1).
+- Pages updated: countries/bulgaria, countries/spain; agencies bulgaria-police, bulgaria-ministry-of-interior, spain-guardia-civil; crime-types online-fraud-ic + money-laundering-ic.
+- Key findings:
+  - **First wiki record from BTA** (Bulgarian News Agency state wire) — new tier-1 publisher for the wiki.
+  - 2025-12-11 Sofia raid by SCPO + GDBOP + GDNP + DANS + National Investigation Service Cybercrime Dept., with Spain's Guardia Civil joint teams under Bulgarian authority direction, against organized crime group running fraudulent online investment platforms targeting EU citizens since mid-2022.
+  - **Distinctive seizure mix**: 17 investment gold bars (~BGN 7K each), >BGN 45K cash, 5 hardware crypto wallets (one >USD 230K), 20+ phones, 30+ USB drives, narcotics — physical-asset seizure pattern more typical of organized-crime than pure-cyber takedowns.
+  - **BG-ES bilateral pattern under generic "EU police-cooperation mechanisms"** — no JIT, EIO, or named MLAT instrument; structurally distinct from the parallel Eurojust 700M crypto-investment-fraud Phase 2 (2025-11-25/26) which also targeted Bulgaria but via Eurojust/Europol coordination. Treated as standalone bilateral pending Spanish Guardia Civil counterpart release.
+  - Suspect count, victim count, total fraud volume, operation codename: NOT published in BTA. Marked under `missing_fields`.
+  - L19-strict applied: 3 wikilinked agencies (bulgaria-police, bulgaria-ministry-of-interior, spain-guardia-civil) named in source AND have wiki org pages.
+  - L23-strict applied: lead_agency/coordinating_body left empty in frontmatter (SCPO is a prosecutor's office without a wiki org page; descriptive role kept in body prose).

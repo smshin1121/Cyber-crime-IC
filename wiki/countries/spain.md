@@ -62,8 +62,9 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
+  - "[[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]]"
 region: western-europe
-source_count: 11
+source_count: 12
 sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]]"
@@ -76,6 +77,7 @@ sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
+  - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
 title: "Kingdom of Spain"
 treaty_memberships:
   - date: 2010-06-03

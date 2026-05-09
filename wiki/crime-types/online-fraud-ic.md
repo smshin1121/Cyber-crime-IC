@@ -87,6 +87,7 @@ notable_operations:
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
+  - "[[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -104,7 +105,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 80
+source_count: 81
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -186,6 +187,7 @@ sources:
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
+  - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -329,3 +331,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [78] | [[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest\|GXC Team / GoogleXcoder phishing-kit CaaS takedown — ES Guardia Civil + BR Federal Police + Group-IB; phishing kits cloning ES banks/gov sold via Telegram]] | Guardia Civil (Spain) — UCO Departamento contra el Cibercrimen | 2025-10-08 | https://web.guardiacivil.es/en/destacados/noticias/La-Guardia-Civil-desmantela-una-red-de-phishing-bancario-y-detiene-al-principal-desarrollador-de-kits-de-robo-de-credenciales-en-Espana/ |
 | [79] | [[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown\|Operation LoopX — Austrian crypto-coin exit-scam takedown (AT+CY+CZ; 6 arrests, ~EUR 6M victim losses, 10M tokens 2017-2018)]] | Eurojust | 2024-05-08 | https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin |
 | [80] | [[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown\|SG-HK-MY tri-lateral GSM gateway scam syndicate takedown — 11 arrests, 226 GSM gateways seized; FRONTIER+ umbrella]] | Singapore Police Force (Public Affairs Dept) | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_11_persons_arrested_in_a_joint_enforcement_operation_against_a_transnational_scam_syndicate |
+| [81] | [[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud\|BTA Sofia call-centre BG-ES Guardia Civil online investment fraud takedown — 17 gold bars, 5 hardware crypto wallets (one >USD 230K), BGN 45K cash]] | BTA (Bulgarian News Agency, state wire) relaying Sofia City Prosecutor's Office | 2025-12-12 | https://www.bta.bg/en/news/bulgaria/990290-organized-crime-group-running-fraudulent-online-investment-platforms-busted-i |
