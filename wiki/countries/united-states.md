@@ -225,8 +225,9 @@ operations_participated:
   - "[[flubot-takedown-2022]]"
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
+  - "[[16shop-phishing-as-a-service-takedown-2023]]"
 region: north-america
-source_count: 17
+source_count: 18
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -245,6 +246,7 @@ sources:
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
+  - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

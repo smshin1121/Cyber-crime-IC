@@ -51,6 +51,7 @@ notable_operations:
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
+  - "[[16shop-phishing-as-a-service-takedown-2023]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -59,7 +60,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 30
+source_count: 31
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -91,6 +92,7 @@ sources:
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
+  - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
 created: 2026-04-17
 updated: 2026-05-10
 status: active
@@ -149,3 +151,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [28] | [[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits\|AFP intelligence leads to 8 arrests over Malaysia-based phishing-kit-as-a-service syndicate cloning AU myGov, MY and US Government services; 4 servers + 60+TB seized]] | Australian Federal Police (AFP) | 2023-11-27 | https://www.afp.gov.au/news-centre/media-release/afp-intelligence-leads-eight-arrests-over-phishing-kits |
 | [29] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
 | [30] | [[2026-03-20_bka_aisuru-kimwolf-botnet-takedown\|BKA + ZAC NRW — Aisuru/Kimwolf IoT-DDoS botnet takedown via DE-CA-US coordination (Mar 2026); 2 administrators identified (DE+CA), 31.4 Tbps record DDoS attributed]] | Bundeskriminalamt (BKA) + ZAC NRW | 2026-03-20 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260320_PM_Botnetze.html |
+| [31] | [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan\|INTERPOL — 16shop phishing-as-a-service platform takedown (Aug 2023); 3 arrests in ID + JP, INTERPOL IGCI cybercrime directorate-led with INP, NPA, FBI cooperation]] | INTERPOL (IGCI cybercrime directorate) | 2023-08-08 | https://www.interpol.int/en/News-and-Events/News/2023/Phishing-as-a-service-platform-16shop-shut-down-three-arrests |

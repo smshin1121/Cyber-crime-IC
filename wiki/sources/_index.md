@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (817)
+# Sources (818)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -498,6 +498,7 @@ updated: 2026-04-14
 | [[2023-08-18_group-ib_africa-cyber-surge-ii]] | press-release | Group-IB | 3 | medium-high | ? |
 | [[2023-08-10_irishexaminer-com_34-arrested-in-ireland-as-part-of-interpol-operation-targeting-west-african-crime-syndicate]] | news | Irish Examiner | ? | medium | ? |
 | [[2023-08-10_garda-ie_interpol-operation-jackal-ireland-operation-skein-update-august-2023]] | press-release | An Garda Siochana | ? | high | ? |
+| [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]] | press-release | INTERPOL — official news (interpol.int) | ? | high | ? |
 | [[2023-08-08_brusselstimes-com_internet-scams-interpol-swoops-down-on-west-africa-based-criminal-networks]] | news | The Brussels Times | ? | medium | ? |
 | [[2023-07-05_interpol_operation-nervone-opera1er-arrest]] | press-release | INTERPOL | 1 | high | ? |
 | [[2023-07-05_group-ib_top-investigations_operation-nervone]] | report | Group-IB | ? | medium | ? |

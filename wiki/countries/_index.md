@@ -58,7 +58,7 @@ total: 61
 | 🇭🇳 | [[honduras]] | not-assessed | — | unknown | unknown | 1 |
 | 🇭🇷 | [[croatia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇭🇺 | [[hungary]] | civil-law | not-assessed | unknown | unknown | 5 |
-| 🇮🇩 | [[indonesia]] | not-assessed | — | unknown | unknown | 1 |
+| 🇮🇩 | [[indonesia]] | not-assessed | — | unknown | unknown | 2 |
 | 🇮🇪 | [[ireland]] | not-assessed | — | unknown | unknown | 2 |
 | 🇮🇱 | [[israel]] | mixed | not-assessed | unknown | unknown | 5 |
 | 🇮🇳 | [[india]] | not-assessed | — | unknown | unknown | 0 |
@@ -66,7 +66,7 @@ total: 61
 | 🇮🇸 | [[iceland]] | not-assessed | — | unknown | unknown | 2 |
 | 🇮🇹 | [[italy]] | civil-law | party (2008) | high | 90-180 | 10 |
 | 🇯🇴 | [[jordan]] | not-assessed | — | unknown | unknown | 0 |
-| 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 1 |
+| 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 2 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 5 |
 | 🇰🇵 | [[north-korea]] | socialist-civil-law | — | very-low | 180+ | 1 |
@@ -115,7 +115,7 @@ total: 61
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 2 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 8 |
-| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 17 |
+| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 18 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 1 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |

@@ -9,10 +9,12 @@ operations_participated:
   - "[[w3ll-phishing-kit-takedown-2026]]"
   - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
   - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
+  - "[[16shop-phishing-as-a-service-takedown-2023]]"
 region: southeast-asia
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
+  - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
 title: "Republic of Indonesia"
 treaty_memberships:
   - not-assessed

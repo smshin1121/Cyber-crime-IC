@@ -34,15 +34,16 @@ operations_participated:
   - "[[operation-tovar]]"
   - "[[operation-card-shop]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
+  - "[[16shop-phishing-as-a-service-takedown-2023]]"
 org_type: national-agency
 parent_org: "[[japan-npa-headquarters]]"
-source_count: 6
+source_count: 7
 sources:
-
+  - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
 status: active
 title: "Japan National Police Agency — Cyber Affairs Bureau"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -130,3 +131,4 @@ Japan's cybercrime international cooperation capacity is *likely* growing rapidl
 | [4] | Threats in Cyberspace 2022 | Japan NPA | 2022 | https://www.npa.go.jp/english/bureau/cyber/document/threatsincyberspace2022.pdf |
 | [5] | Japan adopts new cybersecurity strategy for police and SDF | The Japan Times | 2025-12-23 | https://www.japantimes.co.jp/news/2025/12/23/japan/crime-legal/new-cybersecurity-strategy-police-sdf/ |
 | [6] | Japan's new Active Cyber Defense Law: A Strategic Evolution | Center for Cybersecurity Policy | 2025 | https://www.centerforcybersecuritypolicy.org/insights-and-research/japans-new-active-cyber-defense-law-a-strategic-evolution-in-national-cybersecurity |
+| [7] | [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan\|INTERPOL — 16shop phishing-as-a-service platform takedown (Aug 2023); 3 arrests in ID + JP, INTERPOL IGCI cybercrime directorate-led with INP, NPA, FBI cooperation]] | INTERPOL (IGCI cybercrime directorate) | 2023-08-08 | https://www.interpol.int/en/News-and-Events/News/2023/Phishing-as-a-service-platform-16shop-shut-down-three-arrests |

@@ -47,15 +47,16 @@ operations_participated:
   - "[[operation-pangea-xvii]]"
   - "[[operation-pangea-xviii]]"
   - "[[spf-fpb-operation-cryptoscam-2025]]"
+  - "[[16shop-phishing-as-a-service-takedown-2023]]"
 org_type: international-org
 parent_org: "[[interpol]]"
-source_count: 11
+source_count: 12
 sources:
-
+  - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
 status: active
 title: "INTERPOL Global Complex for Innovation (IGCI)"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 > [!info] Updated 2026-04-08
 > Added 6 new operations: Jackal, Jackal III, First Light 2024, HAECHI IV, HAECHI VI, Sentinel Africa.
@@ -166,3 +167,4 @@ Korea is a significant INTERPOL partner, particularly through the IGCI Singapore
 | [9] | 574 arrests and USD 3 million recovered — Operation Sentinel | INTERPOL | 2025-12-22 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa) |
 | [10] | INTERPOL celebrates 10 years of innovation and collaboration in Singapore | INTERPOL | 2025-06 | https://www.interpol.int/en/News-and-Events/News/2025/INTERPOL-celebrates-10-years-of-innovation-and-collaboration-in-Singapore |
 | [11] | Group-IB supports INTERPOL's Operation Synergia III contributing intelligence to global cybercrime takedown | Intelligent CISO | 2026-03-16 | https://www.intelligentciso.com/2026/03/16/group-ib-supports-interpols-operation-synergia-iii-contributing-intelligence-to-global-cybercrime-takedown/ |
+| [12] | [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan\|INTERPOL — 16shop phishing-as-a-service platform takedown (Aug 2023); 3 arrests in ID + JP, INTERPOL IGCI cybercrime directorate-led with INP, NPA, FBI cooperation]] | INTERPOL (IGCI cybercrime directorate) | 2023-08-08 | https://www.interpol.int/en/News-and-Events/News/2023/Phishing-as-a-service-platform-16shop-shut-down-three-arrests |

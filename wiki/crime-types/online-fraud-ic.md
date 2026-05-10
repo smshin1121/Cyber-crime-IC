@@ -103,6 +103,7 @@ notable_operations:
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
+  - "[[16shop-phishing-as-a-service-takedown-2023]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -120,7 +121,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 96
+source_count: 97
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -218,6 +219,7 @@ sources:
   - "[[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam]]"
   - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
   - "[[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]]"
+  - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -377,3 +379,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [94] | [[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam\|SPF — Phnom Penh OCG repatriation arrest of Ngiam Siow Jui (May 2026); SPF-CNP joint compound disruption Sep 2025; 535+ scam cases / S$53M loss; 2 Red Notice fugitives outstanding]] | Singapore Police Force (SPF) | 2026-05-05 | https://www.police.gov.sg/Media-Room/News/20260505_singaporean_man_arrested_in_cambodia_for_government_officials_impersonation_scams |
 | [95] | [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests\|Eurojust — Austria-Latvia-Estonia online scams JIT takedown (Oct 2025); 7 arrests, 26 searches, EUR 700K frozen, 1200 SIM boxes + 40K SIM cards + 5 servers seized; 1700+ AT victims, 1500+ LV victims; FI assistance]] | Eurojust | 2025-10-17 | https://www.eurojust.europa.eu/news/decisive-action-against-various-online-scams-austria-and-latvia-seven-arrests |
 | [96] | [[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie\|SPAK Albania — universaltrade.io crypto investment-fraud takedown via SPAK + Pau Gendarmerie joint investigation (Apr 2026); Tirana 1 call centre + 4 residences searched, 1 detention, 4 cold-wallets seized; EUR 845K + EUR 1.1M FR victim losses]] | SPAK (Special Structure Against Corruption and Organised Crime, Albania) | 2026-04-23 | https://www.spak.gov.al/al/njoftim-per-shtyp/njoftim-per-mediat-spak-ne-bashkepunim-me-xhandarmerine-e-pau-france-zhvilluan-keto-dite-kontrolle-ne-tirane-ne-kuader-te-nje-hetimi-te-perbashket-per-mashtrim-kompjuterik/ |
+| [97] | [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan\|INTERPOL — 16shop phishing-as-a-service platform takedown (Aug 2023); 3 arrests in ID + JP, INTERPOL IGCI cybercrime directorate-led with INP, NPA, FBI cooperation]] | INTERPOL (IGCI cybercrime directorate) | 2023-08-08 | https://www.interpol.int/en/News-and-Events/News/2023/Phishing-as-a-service-platform-16shop-shut-down-three-arrests |

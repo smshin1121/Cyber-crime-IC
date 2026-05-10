@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (263 canonical / 27 absorbed / 290 records)
+# Operations (264 canonical / 27 absorbed / 291 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (263)
+## Canonical Operations (264)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -84,6 +84,7 @@ updated: 2026-04-14
 | [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | umbrella | 5 | 1.88 | 3 |
 | [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | umbrella | 5 | 2.28 | 2 |
 | [[hive-ransomware-takedown]] | CYB-2023-006 | 3 | completed | umbrella | 5 | 3.25 | 2 |
+| [[16shop-phishing-as-a-service-takedown-2023]] | CYB-2023-016S | 2 | completed | standalone | 1 | 4.40 | 1 |
 | [[operation-chakra-ii]] | CYB-2023-019 | 3 | completed | umbrella | 3 | 3.40 | 1 |
 | [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | umbrella | 3 | 3.80 | 2 |
 | [[africa-cyber-surge-ii]] | CYB-2023-050 | 3 | completed | umbrella | 5 | 4.12 | 1 |

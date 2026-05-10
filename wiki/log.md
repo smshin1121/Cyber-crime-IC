@@ -2365,3 +2365,34 @@
     1. AFP/QPS Mexico Yucatán-Nayarit CSAM — duplicate of `mexico-yucatan-nayarit-csam-afp-fgr-2026.md`.
     2. Bangkok Fluxstress arrest via Thai Examiner — Thai Examiner is private wire, not tier-1 (per L24 strict).
   - 6 reference rows appended; 14 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | 16shop Phishing-as-a-Service Platform Takedown (INTERPOL-coordinated, 2023)
+- Source: https://www.interpol.int/en/News-and-Events/News/2023/Notorious-phishing-platform-shut-down-arrests-in-international-police-operation (INTERPOL official news, tier-1 intergovernmental publisher)
+- Pages created: `raw/press-releases/2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan.md`, `wiki/sources/2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan.md`, `wiki/operations/16shop-phishing-as-a-service-takedown-2023.md`
+- Pages updated: none (per task scope: backlinks deferred to later iter)
+- Key findings:
+  - INTERPOL-coordinated takedown of '16shop' PaaS platform announced 2023-08-08 from Singapore. Three arrests: 21-year-old administrator + one facilitator in Indonesia (POLRI Bareskrim Directorate of Cyber Crimes) + one facilitator in Japan (Japan NPA). 70,000+ users compromised across 43 countries; servers hosted in US (FBI / INTERPOL NCB Washington liaison).
+  - L24 strict satisfied: ≥2 named LE — INTERPOL HQ Cybercrime Directorate + INP Directorate of Cyber Crimes + Japan NPA + FBI/INTERPOL NCB Washington (4 LE entities total).
+  - Tier-1 publisher: interpol.int (intergovernmental org per CLAUDE.md L24 strict definition).
+  - L23 strict: lead_agency=`[[interpol-igci]]`; coordinating_body=`[[interpol-igci]]`; 4 wikilinked participating_agencies (interpol-igci, indonesia-police, japan-npa, fbi) all verified existing via Glob.
+  - Dedup: Glob `*16shop*`, `*phishing-as-a-service*`, grep '16shop' across wiki — no matches. Confirmed not duplicate.
+  - 4 prior ingest candidates rejected this iter:
+    1. EPPO news scan — only 1 cyber-related item (EPPO impersonation scam alert), no actual operation.
+    2. Norway Kripos Operation PowerOFF DDoS-for-hire 2026 — duplicate of `operation-power-off-2026-04.md`.
+    3. INTERPOL Operation SECURE (HK CSTCB participant) — duplicate of `operation-secure-interpol.md`.
+    4. SPF cross-border online CSE Apr 2026 (KNPA korea.kr Operation Cyber Guardian Asia 7-country) — duplicate of `cross-border-online-cse-operation-spf-2026.md` (same op, would be additional source).
+    5. SPF crypto-exchange joint op 2026-04-23 — domestic SPF only, no foreign LE.
+    6. SPF MOM Singpass shell-company op 2026-04-28 — domestic, no foreign LE.
+    7. Italian Carabinieri Varese SDI dossieraggio — domestic Italian, no foreign LE.
+
+## [2026-05-10] ingest | INTERPOL 16shop Phishing-as-a-Service platform takedown (Aug 2023) — iter 137
+- Source: raw/press-releases/2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan.md (INTERPOL IGCI cybercrime directorate; en).
+- Pages created: wiki/sources/2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan.md, wiki/operations/16shop-phishing-as-a-service-takedown-2023.md (provisional, source_count=1).
+- Pages updated: 3 country pages (indonesia, japan, united-states); 4 agencies (interpol-igci, indonesia-police, japan-npa, fbi); 3 crime-types (online-fraud-ic, cybercrime-infrastructure-ic, identity-theft).
+- Key findings:
+  - **First wiki record of 16shop PaaS takedown** (announced 2023-08-08 from Singapore IGCI). Joins existing PaaS lineage in wiki: LabHost, Tycoon-2FA, Operación Kaerb, FGP Oost-Vlaanderen iter 113.
+  - **3 arrests across ID + JP**: 1 administrator (Indonesian) + 2 facilitators (1 ID + 1 JP); identification chain JP NPA → INP traced via INTERPOL IGCI.
+  - **L24-strict bilateral chain**: INTERPOL IGCI cybercrime directorate central; INP + NPA + FBI as named LE partners; INTERPOL Washington NCB liaison.
+  - L24 strict ≥2-country IC compliance verified verbatim from INTERPOL release.
+  - L23 strict applied: lead_agency=`[[interpol-igci]]`; coordinating_body=`[[interpol-igci]]`; 4 wikilinked participating_agencies.
+  - 6 reference rows appended; 13 pages with `updated:` bumped.

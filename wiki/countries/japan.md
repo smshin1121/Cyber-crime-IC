@@ -16,10 +16,12 @@ operations_participated:
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[warzone-rat-takedown-2024]]"
+  - "[[16shop-phishing-as-a-service-takedown-2023]]"
 region: east-asia
-source_count: 1
+source_count: 2
 sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
+  - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
 title: Japan
 treaty_memberships:
   - not-assessed
