@@ -22,16 +22,18 @@ operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
+  - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
 cooperation_partners:
   - "[[malaysia-police]]"
   - "[[aseanapol]]"
   - "[[interpol]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-17_ccid-rmp-gov-my_ccid-royal-malaysia-police]]"
   - "[[2025-04-08_police-gov-sg_cross-border-operation-targeting-online-child-sexual-exploitation-activities]]"
   - "[[2025-12-01_police-gov-sg_cad-report-2024-operation-first-light]]"
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
+  - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
 ---
 ## Summary
 

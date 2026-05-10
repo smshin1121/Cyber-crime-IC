@@ -39,12 +39,14 @@ operations_participated:
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
-source_count: 4
+  - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
+source_count: 5
 sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
   - "[[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service]]"
   - "[[2024-06-07_fbi-gov_the-911-s5-cyber-threat]]"
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
+  - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
 created: 2026-04-10
 updated: 2026-05-10
 last_verified: 2026-05-09
@@ -74,3 +76,4 @@ This page has been normalized for the organization audit: it includes role metad
 | [2] | [[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service|Guidance on the 911 S5 Residential Proxy Service]] | Internet Crime Complaint Center (IC3) | 2024-05-29 | https://www.ic3.gov/PSA/2024/PSA240529 |
 | [3] | [[2024-06-07_fbi-gov_the-911-s5-cyber-threat|Inside the FBI Podcast: The 911 S5 Cyber Threat]] | Federal Bureau of Investigation | 2024-06-07 | https://www.fbi.gov/news/podcasts/inside-the-fbi-podcast-the-911-s5-cyber-threat |
 | [4] | [[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional\|MPF CABA — Operación Aliados por la Infancia VI: 270 raids across 13 jurisdictions (AR+BR+PA+DO+GT+UY+PY+CR+ES+PE+HN+FR+PR), 84 arrests]] | Ministerio Público Fiscal CABA — Cuerpo de Investigaciones Judiciales | 2026-04-29 | https://mpfciudad.gob.ar/noticias/operativo-internacional-aliados-por-la-infancia-vi |
+| [5] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |

@@ -41,15 +41,16 @@ operations_participated:
   - "[[sg-th-altdos-desorden-ghostr-takedown-2025]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
 org_type: national-agency
 parent_org: "[[thailand-royal-police]]"
-source_count: 8
+source_count: 9
 sources:
-
+  - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
 status: active
 title: "Royal Thai Police — Cyber Crime Investigation Bureau"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -145,3 +146,4 @@ CCIB's cooperation capacity is *likely* high and growing rapidly, driven by the 
 | [6] | Police to tackle rising cybercrime (Pol Lt Gen Surapol Prembutr, CCIB Commissioner) | Bangkok Post | 2025 | https://www.bangkokpost.com/thailand/general/2931402/police-to-tackle-rising-cybercrime |
 | [7] | Police to tackle rising cybercrime — 2025 priority | Thai Anti-TIP Project (Royal Thai Embassy, Washington DC) | 2025-01-02 | https://www.thaianti-humantraffickingaction.org/Home/2025/01/02/police-o-tackle-rising-cybercrime/ |
 | [8] | Cyber Police Raid Pattaya Condo, Arrest Two Chinese Nationals | The Pattaya News | 2026-01-31 | https://thepattayanews.com/2026/01/31/cyber-police-raid-pattaya-condo-arrest-two-chinese-nationals-suspected-of-running-online-scam-operation/ |
+| [9] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |

@@ -38,16 +38,18 @@ operations_participated:
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]]"
+  - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
 notable_cases:
 
 contact_point_for:
   - "[[24-7-network]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_guardiacivil-es_gdt]]"
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
+  - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
 created: 2026-04-10
 updated: 2026-05-10
 last_verified: 2026-05-09

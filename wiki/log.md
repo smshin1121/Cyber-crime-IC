@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-10] ingest [iter 130, single-agent, milestone, L24-strict] | Operación PONEI — Guardia Civil + HSI + SPF + RMP + RTP + Europol takedown of Madeira Invest Club / "CryptoSpain" EUR 260M crypto-ponzi (2025-11-06)
+- Sources: 1 raw + 1 source page (es) + 1 operation page (3 new pages)
+- Pages created: `raw/press-releases/2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown.md`, `wiki/sources/2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown.md`, `wiki/operations/operacion-ponei-madeira-invest-club-cryptospain-takedown-2025.md`.
+- Pages NOT updated (per task instruction: do NOT touch backlinks): country (spain, united-states, singapore, malaysia, thailand), organization (spain-guardia-civil, us-dhs, singapore-police, royal-malaysia-police, thailand-royal-police, europol-ec3), crime-type (online-fraud-ic, money-laundering-ic), mechanism (informal-cooperation, search-seizure).
+- Key findings:
+  - **L24 strict satisfied**: Tier-1 Guardia Civil release verbatim names 4 foreign LE counterparts ("el Homeland Security SI de EEUU la Singapore Police Force de Singapur, la Royal Malaysia Police de Malasia y la Royal Thai Police de Tailandia") plus EUROPOL coordination — the wiki's first Spain-led crypto-investment-fraud cooperation pattern with an explicit Southeast-Asian LE triad alongside US HSI.
+  - **2025-11-06 announcement** of the arrest of Spanish national A.R. ("CryptoSpain") as alleged leader of the Madeira Invest Club (MIC) — a digital-art-themed pyramid/ponzi structure operating from early 2023; 3,000+ victims, EUR 260M+ in fraud proceeds globally.
+  - **L24 split between cooperating LE jurisdictions and money-flow-only jurisdictions** applied: corporate-and-banking layer is mapped across Spain, Portugal, UK, Albania, Dominican Republic, USA, Malaysia, Belgium, Thailand, and Hong Kong, but only the 5 explicitly cooperating-LE jurisdictions are recorded in `participating_countries`. Portugal/UK/Albania/Dominican Republic/Belgium/Hong Kong are body-prose money-flow narrative only.
+  - **Judicial chain**: Juzgado Central de Instrucción nº 4 de la Audiencia Nacional + Fiscalía contra la Corrupción y la Criminalidad Organizada — consistent with other Audiencia-Nacional-led transnational financial-crime investigations.
+  - **Per L19/L23**: lead_agency = `[[spain-guardia-civil]]`, coordinating_body = `[[europol-ec3]]` (both verified Glob-existing wikilinks); plain-text fallbacks not used. Per L17: 3,000+ victims and EUR 260M+ figures match between primary release frontmatter and body prose.
+- Process notes: Direct fetch via curl_cffi chrome124 = HTTP 200, 186KB body containing verbatim text (`web.guardiacivil.es` accepts TLS-spoofed direct GETs; no Cloudflare challenge). WebFetch returned summary content. Cross-publisher consistency check via Spanish secondary outlets (Telemadrid, Pamplona Actual, Bitcoinsensus, El Faro Motril) confirmed scale figures and operation alias. Rejected first candidates this iter: KNPA Korea-Malaysia MOU 2026-02-04 (MOU signing only, no concrete arrests), KNPA-Philippines MOU revision 2026-03-04 (no specific operation/arrest), KNPA-Cambodia 73-person Jan-23-2026 charter (≈73-number overlap risk with existing `korea-cambodia-philippines-73-extradition-2026` Apr-27-2026 op — high de-dup ambiguity), AFP Cebu Cybercrime Leaders Forum 2026-03-31 (forum attendance, not concrete operation), Hong Kong CSTCB Operation Hurdler / SPF Cross-Border CSE 2026-04-28 (already in wiki as `cross-border-online-cse-operation-spf-2026`), Mexico FGR-AFP Yucatán/Nayarit CSAM 2026-05-08 (already in wiki as `mexico-yucatan-nayarit-csam-afp-fgr-2026`), Operation Synergia III 2026-03-13 (already in wiki as `operation-synergia-iii`), Black Axe Spain 34-arrest takedown 2026-01-12 (already in wiki as `black-axe-spain-takedown-2026`), Spain-USSS-Panama EUR 5M ciberestafa 2023-02-11 (date too old for this milestone iter; not 2025-2026).
+
 ## [2026-05-10] ingest [iter 119, single-agent, under-sourced tier-1 publisher] | PF Belgium-Brazil passive extradition arrest (PF/SR-SP, 2026-03-09, Belgian national wanted for IT-forgery + fraud)
 - Sources: 1 raw + 1 source page (pt) + 1 operation page (3 new pages)
 - Pages created: `raw/press-releases/2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo.md`, `wiki/sources/2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo.md`, `wiki/operations/pf-belgium-extradition-arrest-sao-paulo-2026.md`.
@@ -2058,3 +2070,28 @@
 
 ## [2026-05-10] /loop suspended at iter 129 per user
 - User instruction "129까지 하고 잠시 중단" received. Iter 129 fully ingested + backlinked + committed locally; iter 130 milestone push deferred. 9 unpushed commits accumulated since iter 120 push (`d7cae6a23`): iters 121-129. Lint clean (HIGH=0, CRITICAL=0, MEDIUM=0, LOW=0). check_links broken=2 (both pre-existing legacy bohemia-cannabia LESSONS.md backlinks). placeholder strings (`Z`+`ZPROT`) 0. Loop ScheduleWakeup not re-armed.
+
+## [2026-05-10] ingest | Operación PONEI — Madeira Invest Club / "CryptoSpain" EUR 260M crypto-ponzi takedown (Spain Guardia Civil + HSI + SPF + RMP + RTP + Europol, Nov 2025) — iter 130
+- Source: raw/press-releases/2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown.md (Guardia Civil España; es).
+- Pages created: wiki/sources/2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown.md, wiki/operations/operacion-ponei-madeira-invest-club-cryptospain-takedown-2025.md (provisional, source_count=1).
+- Pages updated: 5 country pages (spain, united-states, singapore, malaysia, thailand); 6 agencies (spain-guardia-civil, us-dhs, singapore-police, royal-malaysia-police, thailand-royal-police, europol-ec3); 2 crime-types (online-fraud-ic, money-laundering-ic); 2 mechanisms (informal-cooperation, search-seizure).
+- Key findings:
+  - **Second wiki record from web.guardiacivil.es** (after iter prior Spanish op) — multi-source publisher coverage.
+  - **Madeira Invest Club / CryptoSpain takedown**: 1 arrest (Spanish national A.R., publicly known as "CryptoSpain"); >3,000 victims globally; >EUR 260M fraud proceeds; pyramid/ponzi scheme dressed as digital-art purchase-and-buy-back contracts (operating since 2023).
+  - **5-country IC scope** (ES+US+SG+MY+TH) under EUROPOL coordination — first wiki record of Spain-led ES↔APAC tri-jurisdiction (SG+MY+TH) cooperation in crypto-ponzi enforcement.
+  - L24 strict ≥2-country IC compliance verified verbatim from Spanish release; money-flow-only jurisdictions (PT, UK, AL, DO, BE, HK) correctly EXCLUDED from participating_countries — kept in body prose only.
+  - L23 strict applied: lead_agency=`[[spain-guardia-civil]]`; coordinating_body=`[[europol-ec3]]`.
+  - 7 reference rows appended; 15 pages with `updated:` bumped.
+
+## [2026-05-10] iter 130 milestone push integrity sweep
+- 11 commits since last push (iters 121-129 ingests + 2 integrity sweeps): `d7cae6a23..[iter 130 head]` pushing 12 commits to origin/master.
+- Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0
+- check_links: broken=2 (legacy bohemia-cannabia LESSONS.md backlinks, sustained pre-existing)
+- placeholder strings (`Z`+`ZPROT` / `>P`+`ROT[0-9]`): 0 across wiki/ + docs/
+- web/build_static.py: 1638 pages → docs/ (was 1637 before iter 130)
+- Iters 121-130 unique tier-1 publishers introduced/promoted: afp.gov.au (3 ops), commissariatodips.it (2 ops), om.nl, fedpol Switzerland, bka.de, korea.kr 정책브리핑 (2 ops), web.guardiacivil.es (2 ops). Plus integrity sweeps normalizing 1014 case_id values + 22 [[usdoj]] wikilinks + sources backfill on ~210 pages.
+- Integrity highlights this milestone block:
+  - **CYB-YYYY-NNN canonical case_id at 1234 ops × 100%** (was ~20% canonical at iter 120).
+  - **`[[usdoj]]` stub deleted; canonical `[[us-doj]]` enforced** (CLAUDE.md rule 19).
+  - **LESSONS.md L24 added**: participating_countries strict (협력국만; 사설 wire 제외).
+  - **`sources:` frontmatter aligned with body References table wikilink rows** (~210 pages, freshness bumped).

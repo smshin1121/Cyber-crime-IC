@@ -41,10 +41,11 @@ operations_participated:
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
 region: southeast-asia
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
 title: "Kingdom of Thailand"
 treaty_memberships:
   - date: ""
@@ -52,7 +53,7 @@ treaty_memberships:
     reservations: ""
     status: non-party
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -111,3 +112,4 @@ Medium institutional capacity. Thailand has established dedicated cybercrime uni
 | [1] | Computer Crime Act B.E. 2550 (2007) — English translation | Thailand Law Online | 2007 | https://www.samuiforsale.com/law-texts/computer-crime-act.html |
 | [2] | 2017 amendments to Computer Crime Act (English summary) | Baker McKenzie | 2017 | https://www.bakermckenzie.com/en/ |
 | [3] | Parties/Observers to the Budapest Convention | Council of Europe | 2025 | https://www.coe.int/en/web/cybercrime/parties-observers |
+| [4] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |

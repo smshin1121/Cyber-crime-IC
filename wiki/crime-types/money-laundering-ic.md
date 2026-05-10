@@ -73,6 +73,7 @@ notable_operations:
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
+  - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -87,7 +88,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 60
+source_count: 61
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -149,6 +150,7 @@ sources:
   - "[[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation]]"
   - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
+  - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
 created: 2026-04-14
 updated: 2026-05-10
 ---
@@ -266,3 +268,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [58] | [[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation\|NZ Police — Wellington man arrested in NZ-FBI joint USD 265M cryptocurrency-theft RICO investigation; 13 arrested across NZ + California]] | New Zealand Police — Financial Crime Group | 2025-05-16 | https://www.police.govt.nz/news/release/wellington-based-man-arrested-international-cryptocurrency-scam-investigation |
 | [59] | [[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham\|AFP-USSS Operation Wickham — Melbourne man charged in Changjiang/Long River laundering of US investment-fraud proceeds (Oct 2023); AUD 21M restrained, AUD 100M+ allegedly laundered]] | Australian Federal Police (AFP) | 2023-10-26 | https://www.afp.gov.au/news-centre/media-release/melbourne-man-charged-laundering-cybercrime-victims-money |
 | [60] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
+| [61] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |

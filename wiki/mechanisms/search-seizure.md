@@ -36,6 +36,7 @@ operations_using:
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
+  - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
 ---
 ## Summary
 

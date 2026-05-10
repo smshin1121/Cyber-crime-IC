@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (256 canonical / 27 absorbed / 283 records)
+# Operations (257 canonical / 27 absorbed / 284 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (256)
+## Canonical Operations (257)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -201,6 +201,7 @@ updated: 2026-04-14
 | [[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]] | CYB-2025-244 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[romania-moldova-phishing-laundering-jit-2025]] | CYB-2025-301 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]] | CYB-2025-302 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]] | CYB-2025-308 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[pf-magna-fraus-pix-fraud-2025]] | CYB-2025-310 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-346 | 3 | ongoing | umbrella | 5 | 4.50 | 2 |
 | [[operation-otf-grimm]] | CYB-2025-395 | 3 | ongoing | — | 1 | 4.00 | 1 |
