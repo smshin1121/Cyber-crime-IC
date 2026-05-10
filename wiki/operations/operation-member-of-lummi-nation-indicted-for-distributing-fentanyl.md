@@ -3,7 +3,7 @@ type: operation
 title: "Member of Lummi Nation indicted for distributing fentanyl Enforcement Action"
 aliases:
   - "Member of Lummi Nation indicted for distributing fentanyl"
-case_id: CYB-FUP-599
+case_id: CYB-2026-928
 period: 3
 operation_role: follow-on
 parent_operation: ""

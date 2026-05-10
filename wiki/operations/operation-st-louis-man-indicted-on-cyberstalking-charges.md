@@ -3,7 +3,7 @@ type: operation
 title: "St. Louis man indicted on cyberstalking charges Enforcement Action"
 aliases:
   - "St. Louis man indicted on cyberstalking charges"
-case_id: CYB-FUP-1161
+case_id: CYB-2022-891
 period: 2
 operation_role: follow-on
 parent_operation: ""

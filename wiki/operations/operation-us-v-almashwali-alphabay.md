@@ -3,7 +3,7 @@ type: operation
 title: "Abudullah Almashwali (AlphaBay Vendor) Enforcement Action"
 aliases:
   - "United States v. Abudullah Almashwali (AlphaBay Vendor)"
-case_id: CYB-FUP-008
+case_id: CYB-2017-565
 period: 1
 operation_type: sentencing
 status: absorbed

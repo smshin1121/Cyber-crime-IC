@@ -3,7 +3,7 @@ type: operation
 title: "Ghinkul (Bugat/Dridex) Enforcement Action"
 aliases:
   - "United States v. Ghinkul (Bugat/Dridex)"
-case_id: CYB-FUP-036
+case_id: CYB-2015-257
 period: 1
 operation_type: sentencing
 status: absorbed

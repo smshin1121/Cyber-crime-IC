@@ -3,7 +3,7 @@ type: operation
 title: "Russian Hacker Sentenced to Over 7 Years in Prison for Hacking into Three Bay Area Tech Companies Enforcement Action"
 aliases:
   - "Russian Hacker Sentenced to Over 7 Years in Prison for Hacking into Three Bay Area Tech Companies"
-case_id: CYB-FUP-1120
+case_id: CYB-2020-683
 period: 2
 operation_role: follow-on
 parent_operation: ""

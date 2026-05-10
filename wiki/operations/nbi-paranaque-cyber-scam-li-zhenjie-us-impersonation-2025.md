@@ -5,7 +5,7 @@ aliases:
   - "NBI Parañaque scam hub Li Zhenjie 2025"
   - "Parañaque condominium scam takedown 2025"
   - "NBI-CCD New Haven PD / FBI impersonation scam takedown 2025"
-case_id: CYB-2025-NBI-PRQE
+case_id: CYB-2025-139
 period: 3
 operation_type: takedown
 status: completed
@@ -28,7 +28,8 @@ lead_agency: "National Bureau of Investigation — Cybercrime Division (NBI-CCD)
 coordinating_body: "National Bureau of Investigation — Cybercrime Division (NBI-CCD), Philippines"
 participating_countries:
   - "[[philippines]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "Republic Act No. 12010 (Anti-Financial Account Scamming Act, AFASA), §4(b)(1) (Social Engineering Schemes) — substantive Philippine charge"
   - "Republic Act No. 10175 (Cybercrime Prevention Act of 2012) — substantive Philippine charge (in relation to)"
@@ -49,7 +50,8 @@ results:
     - "Devices containing 'critical social engineering scripts' seized at scene (count not enumerated in the public release)"
     - "Receiving alias for victim cryptocurrency payments identified in source as 'GENERAL'"
     - "Victim payment range stated in source: USD 3,000–5,000 per victim per transfer"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
@@ -79,7 +81,6 @@ created: 2026-05-09
 updated: 2026-05-09
 last_verified: 2026-05-09
 ---
-
 ## Summary
 
 On 2025-11-21 the **Philippine National Bureau of Investigation — Cybercrime Division (NBI-CCD)** executed a **Warrant to Search, Seize, and Examine Computer Data (WSSECD)**, granted by the Regional Trial Court of Makati on 2025-11-20, against a cyber-scam cell operating out of a condominium unit in **Parañaque City, Metro Manila, Philippines**. The single principal arrested on-site is **Li Zhenjie**, a Chinese national. The substantive Philippine charges are §4(b)(1) (Social Engineering Schemes) of **Republic Act No. 12010** ("Anti-Financial Account Scamming Act," AFASA) in relation to **Republic Act No. 10175** ("Cybercrime Prevention Act of 2012").

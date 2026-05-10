@@ -3,7 +3,7 @@ type: operation
 title: "Matthew Jones (Silk Road Vendor) Enforcement Action"
 aliases:
   - "United States v. Matthew Jones (Silk Road Vendor)"
-case_id: CYB-FUP-058
+case_id: CYB-2014-471
 period: 1
 operation_type: sentencing
 status: absorbed

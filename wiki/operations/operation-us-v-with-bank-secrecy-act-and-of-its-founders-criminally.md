@@ -3,7 +3,7 @@ type: operation
 title: "With Bank Secrecy Act and Of Its Founders Criminally Enforcement Action"
 aliases:
   - "United States v. With Bank Secrecy Act and Of Its Founders Criminally"
-case_id: CYB-FUP-490
+case_id: CYB-2024-556
 period: 3
 operation_role: follow-on
 parent_operation: ""

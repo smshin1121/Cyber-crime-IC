@@ -3,7 +3,7 @@ type: operation
 title: "Krystal Baird Enforcement Action"
 aliases:
   - "United States v. Krystal Baird"
-case_id: CYB-FUP-278
+case_id: CYB-2026-378
 period: 3
 operation_role: follow-on
 parent_operation: ""

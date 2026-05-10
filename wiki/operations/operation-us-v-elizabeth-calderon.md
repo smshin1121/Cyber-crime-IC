@@ -3,7 +3,7 @@ type: operation
 title: "Elizabeth Calderon Enforcement Action"
 aliases:
   - "United States v. Elizabeth Calderon"
-case_id: CYB-FUP-755
+case_id: CYB-2017-380
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-elizabeth-calderon]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-elizabeth-calderon]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_salinas-resident-sentenced-54-months-prison-identity-theft-and-preparing-false-tax]]"

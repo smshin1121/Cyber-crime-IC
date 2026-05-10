@@ -3,7 +3,7 @@ type: operation
 title: "Ross Ulbricht Found Guilty on All Counts Enforcement Action"
 aliases:
   - "Ross Ulbricht Found Guilty on All Counts"
-case_id: CYB-FUP-622
+case_id: CYB-2015-348
 period: 1
 operation_role: follow-on
 parent_operation: ""

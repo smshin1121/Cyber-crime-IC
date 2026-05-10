@@ -3,7 +3,7 @@ type: operation
 title: "Yevgeniy Alexandrovich Nikulin Enforcement Action"
 aliases:
   - "United States v. Yevgeniy Alexandrovich Nikulin"
-case_id: CYB-FUP-338
+case_id: CYB-2020-005
 period: 2
 operation_role: follow-on
 parent_operation: ""

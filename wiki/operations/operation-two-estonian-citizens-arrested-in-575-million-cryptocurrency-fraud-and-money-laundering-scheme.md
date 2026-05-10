@@ -3,7 +3,7 @@ type: operation
 title: "Two Estonian citizens arrested in $575 million cryptocurrency fraud and money laundering scheme Enforcement Action"
 aliases:
   - "Two Estonian citizens arrested in $575 million cryptocurrency fraud and money laundering scheme"
-case_id: CYB-FUP-648
+case_id: CYB-2022-975
 period: 2
 operation_role: follow-on
 parent_operation: ""

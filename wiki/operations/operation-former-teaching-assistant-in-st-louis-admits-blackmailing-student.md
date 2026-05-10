@@ -3,7 +3,7 @@ type: operation
 title: "Former Teaching Assistant in St. Louis Admits Blackmailing Student Enforcement Action"
 aliases:
   - "Former Teaching Assistant in St. Louis Admits Blackmailing Student"
-case_id: CYB-FUP-981
+case_id: CYB-2022-470
 period: 2
 operation_role: follow-on
 parent_operation: ""

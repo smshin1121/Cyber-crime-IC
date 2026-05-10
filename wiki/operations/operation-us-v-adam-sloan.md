@@ -3,7 +3,7 @@ type: operation
 title: "Adam Sloan Enforcement Action"
 aliases:
   - "United States v. Adam Sloan"
-case_id: CYB-FUP-203
+case_id: CYB-2025-216
 period: 3
 operation_role: follow-on
 parent_operation: ""

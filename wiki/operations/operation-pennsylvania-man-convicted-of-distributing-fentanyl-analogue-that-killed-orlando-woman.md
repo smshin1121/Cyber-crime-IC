@@ -3,7 +3,7 @@ type: operation
 title: "Pennsylvania Man Convicted Of Distributing Fentanyl Analogue That Killed Orlando Woman Enforcement Action"
 aliases:
   - "Pennsylvania Man Convicted Of Distributing Fentanyl Analogue That Killed Orlando Woman"
-case_id: CYB-FUP-717
+case_id: CYB-2018-301
 period: 1
 operation_role: follow-on
 parent_operation: ""

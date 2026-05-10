@@ -4,7 +4,7 @@ title: "Operation Toy Soldier — GRU Unit 29155 Attribution and Indictment (Est
 aliases:
   - "Toy Soldier"
   - "GRU 29155 Estonia attribution"
-case_id: "CYB-2024-TOYSOLDIER"
+case_id: CYB-2024-665
 period: 3
 operation_type: joint-investigation
 status: ongoing
@@ -48,22 +48,24 @@ results:
     - "Two of the three (Denisov, Korchagin) separately charged by US FBI"
     - "$10 million US State Department reward offer announced for information leading to arrest"
 edges:
-  - source_actor: "Estonia"
+  - source_actor: Estonia
     target_actor: "United States"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "Estonia"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: Estonia
     target_actor: "United States"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
   - "specific named partner states beyond Estonia/US/Ukraine (only counts disclosed: 14 services / 10 states)"
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
 lessons_learned:
@@ -75,7 +77,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional source coverage
 > This page is below the preferred publication threshold of `source_count >= 5`. It is retained because the underlying tier-1 primary source (Estonian PPA) names suspects, the Harju District Court action, and a parallel FBI prosecution. Future ingest of the FBI press release, the Estonian indictment, and partner-state advisories should raise the source count.
 

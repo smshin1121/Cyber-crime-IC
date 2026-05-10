@@ -3,7 +3,7 @@ type: operation
 title: "Justice Department Seeks Forfeiture of $848,247 in Cryptocurrency from Confidence Scams Enforcement Action"
 aliases:
   - "Justice Department Seeks Forfeiture of $848,247 in Cryptocurrency from Confidence Scams"
-case_id: CYB-FUP-703
+case_id: CYB-2025-647
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Russian National Charged in Hacking Scheme Targeting Pittsburgh National Golf Course Enforcement Action"
 aliases:
   - "Russian National Charged in Hacking Scheme Targeting Pittsburgh National Golf Course"
-case_id: CYB-FUP-1125
+case_id: CYB-2018-670
 period: 1
 operation_role: follow-on
 parent_operation: ""

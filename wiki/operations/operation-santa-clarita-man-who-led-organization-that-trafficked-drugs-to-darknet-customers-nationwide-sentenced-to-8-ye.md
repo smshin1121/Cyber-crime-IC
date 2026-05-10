@@ -3,7 +3,7 @@ type: operation
 title: "Santa Clarita Man Who Led Organization that Trafficked Drugs to Darknet Customers Nationwide Sentenced to 8 Years in Prison Enforcement Action"
 aliases:
   - "Santa Clarita Man Who Led Organization that Trafficked Drugs to Darknet Customers Nationwide Sentenced to 8 Years in Prison"
-case_id: CYB-FUP-1141
+case_id: CYB-2024-282
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Terrell Fuller Enforcement Action"
 aliases:
   - "United States v. Terrell Fuller"
-case_id: CYB-FUP-785
+case_id: CYB-2025-647
 period: 3
 operation_role: follow-on
 parent_operation: ""

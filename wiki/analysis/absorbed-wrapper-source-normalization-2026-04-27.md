@@ -1,10 +1,62 @@
 ---
-title: Absorbed Wrapper Source Normalization (2026-04-27)
+title: "Absorbed Wrapper Source Normalization (2026-04-27)"
 type: analysis
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-10
 summary: "Normalization log for absorbed wrapper pages that previously carried multiple references."
-source_count: 0
+source_count: 51
+sources:
+  - "[[2025-06-25_helpnetsecurity-com_the-downfall-of-a-major-cybercrime-ring-exploiting-banking-trojans]]"
+  - "[[2015-06-25_scworld-com_europol-takes-down-high-profile-ukraine-based-cybergang]]"
+  - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
+  - "[[2015-06-29_techmonitor-ai_zeus-spyeye-malware-gang-members-arrested-in-ukraine]]"
+  - "[[2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]]"
+  - "[[2021-02-03_secretservice-gov_105-arrested-stealing-over-eu12-million-us-based-banks]]"
+  - "[[2021-02-03_policia-es_la-policia-nacional-y-el-servicio-secreto-de-los-eeuu-desarticulan-una-organizacion]]"
+  - "[[2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group]]"
+  - "[[2021-02-04_greekreporter_greek-led-crime-ring-busted-for-stealing-millions-from-us-banks]]"
+  - "[[2025-03-28_cde-ual-es_12-members-of-an-irish-high-risk-criminal-network-arrested]]"
+  - "[[2024-11-01_europol-europa-eu_12-members-of-an-irish-high-risk-criminal-network-arrested]]"
+  - "[[2025-03-28_dia-interno-gov-it_operazione-pereira23-irish-high-risk-criminal-network]]"
+  - "[[2025-03-27_irishtimes-com_spanish-police-say-irelands-family-drugs-gang-enjoyed-high-economic-status-and-influence]]"
+  - "[[2025-03-27_irishtimes-com_spanish-police-find-irish-family-drugs-gang-in-three-regions-seize-30m-in-drugs-four-trucks]]"
+  - "[[2025-03-26_irishpost-com_investigation-into-high-risk-criminal-network-sees-12-arrested-in-ireland-and-spain]]"
+  - "[[2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma]]"
+  - "[[2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down]]"
+  - "[[2021-01-12_thehackernews-com_authorities-take-down-world-s-largest-illegal-dark-web-marketplace]]"
+  - "[[2021-01-12_rferl-org_servers-seized-in-ukraine-moldova-as-germany-takes-down-world-s-largest-illegal]]"
+  - "[[2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor]]"
+  - "[[2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign]]"
+  - "[[2026-04-18_justice-gov_bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims]]"
+  - "[[2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive]]"
+  - "[[2024-06-05_apnews_washington-man-sentenced-for-20-swatting-calls-of-false-threats-in-us-canada]]"
+  - "[[2023-03-30_ap_man-charged-in-20-plus-calls-of-false-threats-in-us-canada]]"
+  - "[[2021-11-03_justice-gov_united-states-v-joanna-de-alba]]"
+  - "[[2020-01-02_justice-gov_alleged-dark-web-narcotics-trafficker-indicted-distributing-heroin-and-methamphetamine]]"
+  - "[[2020-01-02_dea_alleged-dark-web-narcotics-trafficker-indicted-for-distributing-heroin]]"
+  - "[[2021-11-03_dea_dark-web-narcotics-trafficker-sentenced-96-months-prison]]"
+  - "[[2020-01-03_decrypt_dark-web-vendor-indicted-for-selling-heroin-for-bitcoin]]"
+  - "[[2021-11-05_morelaw_united-states-of-america-v-joanna-de-alba]]"
+  - "[[2021-02-03_secretservice-gov_105-arrested-for-stealing-over-eur-12-million-from-u-s-based-banks]]"
+  - "[[2018-06-19_welivesecurity-com_europol-and-partners-dismantle-prolific-cyber-extortion-gang]]"
+  - "[[2018-06-15_bleepingcomputer-com_europol-dismantles-one-of-the-internets-oldest-hacker-groups]]"
+  - "[[2018-06-15_securityweek-com_french-nationals-arrested-for-rex-mundi-hacks]]"
+  - "[[2018-06-18_infosecurity-magazine_europol-disrupts-rex-mundi-cybercrime-group]]"
+  - "[[2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+  - "[[2025-02-11_europol_phobos-8base-ransomware-arrests]]"
+  - "[[2026-04-18_justice-gov_phobos-ransomware-affiliates-arrested-in-coordinated-international-disruption]]"
+  - "[[2024-11-18_justice-gov_phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-c]]"
+  - "[[2026-04-18_justice-gov_phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-c]]"
+  - "[[2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators]]"
+  - "[[2024-10-15_interpol_operation-orion-international-south-america-csam]]"
+  - "[[2024-09-27_the420-in_interpol-leads-to-144-arrests-and-rescues-20-child-victims-across-south-america]]"
+  - "[[2025-02-01_interpol-int_annual-report-2024-operation-orion-international]]"
+  - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
+  - "[[2025-04-17_opa_parsarad-nemesis-indictment]]"
+  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]]"
+  - "[[2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]]"
+  - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
+  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]]"
 ---
 ## Summary
 

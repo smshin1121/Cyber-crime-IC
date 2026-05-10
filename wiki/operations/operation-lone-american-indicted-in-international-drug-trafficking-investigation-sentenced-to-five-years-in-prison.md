@@ -3,7 +3,7 @@ type: operation
 title: "Lone American indicted in international drug trafficking investigation sentenced to five years in prison Enforcement Action"
 aliases:
   - "Lone American indicted in international drug trafficking investigation sentenced to five years in prison"
-case_id: CYB-FUP-1033
+case_id: CYB-2025-918
 period: 3
 operation_role: follow-on
 parent_operation: ""

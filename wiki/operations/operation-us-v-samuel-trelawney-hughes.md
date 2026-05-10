@@ -3,7 +3,7 @@ type: operation
 title: "Samuel Trelawney Hughes Enforcement Action"
 aliases:
   - "United States v. Samuel Trelawney Hughes"
-case_id: CYB-FUP-182
+case_id: CYB-2021-259
 period: 2
 operation_role: follow-on
 parent_operation: ""

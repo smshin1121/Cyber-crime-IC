@@ -3,7 +3,7 @@ type: operation
 title: "Jefferson County Man Sentenced to 6 ½ Years in Prison for Possession of Child Pornography Enforcement Action"
 aliases:
   - "Jefferson County Man Sentenced to 6 ½ Years in Prison for Possession of Child Pornography"
-case_id: CYB-FUP-1012
+case_id: CYB-2021-637
 period: 2
 operation_role: follow-on
 parent_operation: ""

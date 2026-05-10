@@ -3,7 +3,7 @@ type: operation
 title: "Jacob Elijah Kilgore Enforcement Action"
 aliases:
   - "United States v. Jacob Elijah Kilgore"
-case_id: CYB-FUP-258
+case_id: CYB-2024-779
 period: 3
 operation_role: follow-on
 parent_operation: ""

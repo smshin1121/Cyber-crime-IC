@@ -3,7 +3,7 @@ type: operation
 title: "One Defendant Sentenced to Prison and Another Ordered Detained Pretrial This Week in Separate Cyberstalking Cases Enforcement Action"
 aliases:
   - "One Defendant Sentenced to Prison and Another Ordered Detained Pretrial This Week in Separate Cyberstalking Cases"
-case_id: CYB-FUP-1082
+case_id: CYB-2024-757
 period: 3
 operation_role: follow-on
 parent_operation: ""

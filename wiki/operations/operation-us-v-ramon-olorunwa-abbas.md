@@ -3,7 +3,7 @@ type: operation
 title: "Ramon Olorunwa Abbas Enforcement Action"
 aliases:
   - "United States v. Ramon Olorunwa Abbas"
-case_id: CYB-FUP-312
+case_id: CYB-2020-800
 period: 2
 operation_role: follow-on
 parent_operation: ""

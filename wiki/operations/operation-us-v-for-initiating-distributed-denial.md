@@ -3,7 +3,7 @@ type: operation
 title: "For Initiating Distributed Denial Enforcement Action"
 aliases:
   - "United States v. For Initiating Distributed Denial"
-case_id: CYB-FUP-421
+case_id: CYB-2016-295
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-for-initiating-distributed-denial]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-for-initiating-distributed-denial]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_university-student-indicted-initiating-distributed-denial-service-attacks-bay-area]]"

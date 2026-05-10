@@ -3,7 +3,7 @@ type: operation
 title: "For Receipt Of Enforcement Action"
 aliases:
   - "United States v. For Receipt Of"
-case_id: CYB-FUP-425
+case_id: CYB-2025-153
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-for-receipt-of]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-for-receipt-of]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_federal-correctional-officer-indicted-receipt-bribe-public-official]]"

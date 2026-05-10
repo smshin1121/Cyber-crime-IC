@@ -3,7 +3,7 @@ type: operation
 title: "Alex Ogando Olatunji Dawodu And Luis Spencer Enforcement Action"
 aliases:
   - "United States v. Alex Ogando Olatunji Dawodu And Luis Spencer"
-case_id: CYB-FUP-108
+case_id: CYB-2023-343
 period: 3
 operation_role: follow-on
 parent_operation: ""

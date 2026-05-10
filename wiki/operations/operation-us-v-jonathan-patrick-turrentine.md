@@ -3,7 +3,7 @@ type: operation
 title: "Jonathan Patrick Turrentine Enforcement Action"
 aliases:
   - "United States v. Jonathan Patrick Turrentine"
-case_id: CYB-FUP-165
+case_id: CYB-2021-136
 period: 2
 operation_role: follow-on
 parent_operation: ""

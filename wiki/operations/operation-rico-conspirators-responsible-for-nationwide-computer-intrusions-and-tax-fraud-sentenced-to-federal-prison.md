@@ -3,7 +3,7 @@ type: operation
 title: "RICO Conspirators Responsible For Nationwide Computer Intrusions And Tax Fraud Sentenced To Federal Prison Enforcement Action"
 aliases:
   - "RICO Conspirators Responsible For Nationwide Computer Intrusions And Tax Fraud Sentenced To Federal Prison"
-case_id: CYB-FUP-1117
+case_id: CYB-2023-643
 period: 3
 operation_role: follow-on
 parent_operation: ""

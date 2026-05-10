@@ -3,7 +3,7 @@ type: operation
 title: "Santana Sandoval and Defendant Kevin Torres Velasquez Enforcement Action"
 aliases:
   - "United States v. Santana Sandoval and Defendant Kevin Torres Velasquez"
-case_id: CYB-FUP-323
+case_id: CYB-2025-768
 period: 3
 operation_role: follow-on
 parent_operation: ""

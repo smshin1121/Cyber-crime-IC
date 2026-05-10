@@ -3,7 +3,7 @@ type: operation
 title: "Phobos Ransomware Affiliates Arrested in Coordinated International Disruption Enforcement Action"
 aliases:
   - "Phobos Ransomware Affiliates Arrested in Coordinated International Disruption"
-case_id: CYB-FUP-1094
+case_id: CYB-2025-201
 period: 3
 operation_role: follow-on
 parent_operation: ""

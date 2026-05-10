@@ -3,7 +3,7 @@ type: operation
 title: "San Francisco Man Sentenced to 100 Months Imprisonment in Credit Card Fraud and Identity Theft Case Enforcement Action"
 aliases:
   - "San Francisco Man Sentenced to 100 Months Imprisonment in Credit Card Fraud and Identity Theft Case"
-case_id: CYB-FUP-1135
+case_id: CYB-2020-528
 period: 2
 operation_role: follow-on
 parent_operation: ""

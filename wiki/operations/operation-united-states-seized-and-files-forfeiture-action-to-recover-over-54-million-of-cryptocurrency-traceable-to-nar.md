@@ -3,7 +3,7 @@ type: operation
 title: "United States Seized and Files Forfeiture Action to Recover over $54 Million of Cryptocurrency Traceable to Narcotics Distribution Scheme Enforcement Action"
 aliases:
   - "United States Seized and Files Forfeiture Action to Recover over $54 Million of Cryptocurrency Traceable to Narcotics Distribution Scheme"
-case_id: CYB-FUP-654
+case_id: CYB-2023-419
 period: 3
 operation_role: follow-on
 parent_operation: ""

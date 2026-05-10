@@ -3,7 +3,7 @@ type: operation
 title: "Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States Enforcement Action"
 aliases:
   - "Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States"
-case_id: CYB-FUP-1056
+case_id: CYB-2024-530
 period: 3
 operation_role: follow-on
 parent_operation: ""

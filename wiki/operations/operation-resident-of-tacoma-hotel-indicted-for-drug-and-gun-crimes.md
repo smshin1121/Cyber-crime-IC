@@ -3,7 +3,7 @@ type: operation
 title: "Resident of Tacoma hotel indicted for drug and gun crimes Enforcement Action"
 aliases:
   - "Resident of Tacoma hotel indicted for drug and gun crimes"
-case_id: CYB-FUP-621
+case_id: CYB-2023-105
 period: 3
 operation_role: follow-on
 parent_operation: ""

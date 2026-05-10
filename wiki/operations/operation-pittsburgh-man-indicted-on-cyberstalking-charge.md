@@ -3,7 +3,7 @@ type: operation
 title: "Pittsburgh Man Indicted on Cyberstalking Charge Enforcement Action"
 aliases:
   - "Pittsburgh Man Indicted on Cyberstalking Charge"
-case_id: CYB-FUP-1098
+case_id: CYB-2024-060
 period: 3
 operation_role: follow-on
 parent_operation: ""

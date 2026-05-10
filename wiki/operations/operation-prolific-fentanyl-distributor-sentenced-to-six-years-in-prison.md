@@ -3,7 +3,7 @@ type: operation
 title: "Prolific fentanyl distributor sentenced to six years in prison Enforcement Action"
 aliases:
   - "Prolific fentanyl distributor sentenced to six years in prison"
-case_id: CYB-FUP-619
+case_id: CYB-2026-972
 period: 3
 operation_role: follow-on
 parent_operation: ""

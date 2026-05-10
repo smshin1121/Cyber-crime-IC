@@ -3,7 +3,7 @@ type: operation
 title: "Sanford “Spam King” Wallace Sentenced To Two And A Half Years In Custody For Spamming Facebook Users Enforcement Action"
 aliases:
   - "Sanford “Spam King” Wallace Sentenced To Two And A Half Years In Custody For Spamming Facebook Users"
-case_id: CYB-FUP-1139
+case_id: CYB-2016-807
 period: 1
 operation_role: follow-on
 parent_operation: ""

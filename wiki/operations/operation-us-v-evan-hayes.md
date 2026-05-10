@@ -3,7 +3,7 @@ type: operation
 title: "Evan Hayes Enforcement Action"
 aliases:
   - "United States v. Evan Hayes"
-case_id: CYB-FUP-152
+case_id: CYB-2022-629
 period: 2
 operation_role: follow-on
 parent_operation: ""

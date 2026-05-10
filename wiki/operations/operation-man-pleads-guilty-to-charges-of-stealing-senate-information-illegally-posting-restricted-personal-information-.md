@@ -3,7 +3,7 @@ type: operation
 title: "Man Pleads Guilty to Charges of Stealing Senate Information, Illegally Posting Restricted Personal Information of U.S. Senators on Website Enforcement Action"
 aliases:
   - "Man Pleads Guilty to Charges of Stealing Senate Information, Illegally Posting Restricted Personal Information of U.S. Senators on Website"
-case_id: CYB-FUP-1036
+case_id: CYB-2019-859
 period: 1
 operation_role: follow-on
 parent_operation: ""

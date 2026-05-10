@@ -3,7 +3,7 @@ type: operation
 title: "Leader of Transnational Cybercrime Group “Noir’s Luxury Refunds” Charged with Conspiracy to Commit Mail and Wire Fraud Enforcement Action"
 aliases:
   - "Leader of Transnational Cybercrime Group “Noir’s Luxury Refunds” Charged with Conspiracy to Commit Mail and Wire Fraud"
-case_id: CYB-FUP-1030
+case_id: CYB-2025-897
 period: 3
 operation_role: follow-on
 parent_operation: ""

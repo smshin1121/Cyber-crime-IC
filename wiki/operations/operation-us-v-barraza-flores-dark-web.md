@@ -3,7 +3,7 @@ type: operation
 title: "Barraza Flores (Dark Web Trafficker) Enforcement Action"
 aliases:
   - "United States v. Barraza Flores (Dark Web Trafficker)"
-case_id: CYB-FUP-013
+case_id: CYB-2022-839
 period: 2
 operation_type: sentencing
 status: absorbed

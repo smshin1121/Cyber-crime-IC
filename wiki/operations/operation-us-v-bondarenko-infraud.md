@@ -3,7 +3,7 @@ type: operation
 title: "Bondarenko et al. (Infraud Organization) Enforcement Action"
 aliases:
   - "United States v. Bondarenko et al. (Infraud Organization)"
-case_id: CYB-FUP-015
+case_id: CYB-2018-943
 period: 1
 operation_type: conviction
 status: absorbed

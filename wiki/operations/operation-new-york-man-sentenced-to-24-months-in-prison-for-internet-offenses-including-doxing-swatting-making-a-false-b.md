@@ -3,7 +3,7 @@ type: operation
 title: "New York Man Sentenced To 24 Months in Prison For Internet Offenses, Including \"Doxing,\" \"Swatting,\" Making a False Bomb Threat, and Cyber-Stalking Enforcement Action"
 aliases:
   - "New York Man Sentenced To 24 Months in Prison For Internet Offenses, Including \"Doxing,\" \"Swatting,\" Making a False Bomb Threat, and Cyber-Stalking"
-case_id: CYB-FUP-713
+case_id: CYB-2016-027
 period: 1
 operation_role: follow-on
 parent_operation: ""

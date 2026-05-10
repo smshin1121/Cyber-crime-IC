@@ -3,7 +3,7 @@ type: operation
 title: "Long Beach Man Pleads Guilty to Production and Distribution of Images of Minors Engaging in Sexually Explicit Conduct Enforcement Action"
 aliases:
   - "Long Beach Man Pleads Guilty to Production and Distribution of Images of Minors Engaging in Sexually Explicit Conduct"
-case_id: CYB-FUP-705
+case_id: CYB-2025-386
 period: 3
 operation_role: follow-on
 parent_operation: ""

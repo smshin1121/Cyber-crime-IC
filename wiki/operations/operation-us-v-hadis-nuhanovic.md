@@ -3,7 +3,7 @@ type: operation
 title: "Hadis Nuhanovic Enforcement Action"
 aliases:
   - "United States v. Hadis Nuhanovic"
-case_id: CYB-FUP-250
+case_id: CYB-2023-664
 period: 3
 operation_role: follow-on
 parent_operation: ""

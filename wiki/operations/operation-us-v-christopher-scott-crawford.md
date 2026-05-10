@@ -3,7 +3,7 @@ type: operation
 title: "Christopher Scott Crawford Enforcement Action"
 aliases:
   - "United States v. Christopher Scott Crawford"
-case_id: CYB-FUP-229
+case_id: CYB-2022-122
 period: 2
 operation_role: follow-on
 parent_operation: ""

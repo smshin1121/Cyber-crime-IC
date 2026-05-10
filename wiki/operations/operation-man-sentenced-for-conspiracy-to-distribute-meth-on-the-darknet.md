@@ -3,7 +3,7 @@ type: operation
 title: "Man Sentenced for Conspiracy to Distribute Meth on the Darknet Enforcement Action"
 aliases:
   - "Man Sentenced for Conspiracy to Distribute Meth on the Darknet"
-case_id: CYB-FUP-839
+case_id: CYB-2022-336
 period: 2
 operation_role: follow-on
 parent_operation: ""

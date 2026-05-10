@@ -3,7 +3,7 @@ type: operation
 title: "Foreign National Pleads Guilty to Role in Cybercrime Schemes Involving Tens of Millions of Dollars in Losses Enforcement Action"
 aliases:
   - "Foreign National Pleads Guilty to Role in Cybercrime Schemes Involving Tens of Millions of Dollars in Losses"
-case_id: CYB-FUP-693
+case_id: CYB-2024-787
 period: 3
 operation_role: follow-on
 parent_operation: ""

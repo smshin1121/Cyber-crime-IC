@@ -3,7 +3,7 @@ type: operation
 title: "U.S.-Based Conspirators Sentenced To Prison For International Tax Scheme Enforcement Action"
 aliases:
   - "U.S.-Based Conspirators Sentenced To Prison For International Tax Scheme"
-case_id: CYB-FUP-1199
+case_id: CYB-2023-574
 period: 3
 operation_role: follow-on
 parent_operation: ""

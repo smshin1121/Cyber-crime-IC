@@ -3,7 +3,7 @@ type: operation
 title: "King County couple indicted for drug and illegal weapons possession Enforcement Action"
 aliases:
   - "King County couple indicted for drug and illegal weapons possession"
-case_id: CYB-FUP-584
+case_id: CYB-2024-800
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "John Jacobs Ahrens Enforcement Action"
 aliases:
   - "United States v. John Jacobs Ahrens"
-case_id: CYB-FUP-266
+case_id: CYB-2022-978
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Puyallup man caught with nearly 100,000 fentanyl pills and five firearms sentenced to six-and-a-half years in prison Enforcement Action"
 aliases:
   - "Puyallup man caught with nearly 100,000 fentanyl pills and five firearms sentenced to six-and-a-half years in prison"
-case_id: CYB-FUP-620
+case_id: CYB-2024-643
 period: 3
 operation_role: follow-on
 parent_operation: ""

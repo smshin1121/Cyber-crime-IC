@@ -3,7 +3,7 @@ type: operation
 title: "St. Louis Man Admits Making Rape Threats to Five Women Enforcement Action"
 aliases:
   - "St. Louis Man Admits Making Rape Threats to Five Women"
-case_id: CYB-FUP-635
+case_id: CYB-2023-668
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Key Player in \"Silk Road 2.0\" Sentenced to Eight Years in Prison Enforcement Action"
 aliases:
   - "Key Player in \"Silk Road 2.0\" Sentenced to Eight Years in Prison"
-case_id: CYB-FUP-1020
+case_id: CYB-2016-081
 period: 1
 operation_role: follow-on
 parent_operation: ""

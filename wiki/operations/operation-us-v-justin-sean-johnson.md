@@ -3,7 +3,7 @@ type: operation
 title: "Justin Sean Johnson Enforcement Action"
 aliases:
   - "United States v. Justin Sean Johnson"
-case_id: CYB-FUP-272
+case_id: CYB-2021-620
 period: 2
 operation_role: follow-on
 parent_operation: ""

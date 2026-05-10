@@ -3,7 +3,7 @@ type: operation
 title: "Senior Adviser To The Operator Of The Silk Road Online Black Market Sentenced To 20 Years In Prison Enforcement Action"
 aliases:
   - "Senior Adviser To The Operator Of The Silk Road Online Black Market Sentenced To 20 Years In Prison"
-case_id: CYB-FUP-626
+case_id: CYB-2023-188
 period: 3
 operation_role: follow-on
 parent_operation: ""

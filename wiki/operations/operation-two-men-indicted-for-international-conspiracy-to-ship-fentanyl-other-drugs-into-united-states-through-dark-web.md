@@ -3,7 +3,7 @@ type: operation
 title: "Two men indicted for international conspiracy to ship Fentanyl, other drugs into United States through Dark Web connections Enforcement Action"
 aliases:
   - "Two men indicted for international conspiracy to ship Fentanyl, other drugs into United States through Dark Web connections"
-case_id: CYB-FUP-650
+case_id: CYB-2022-508
 period: 2
 operation_role: follow-on
 parent_operation: ""

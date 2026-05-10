@@ -3,7 +3,7 @@ type: operation
 title: "Kansas Woman Indicted for Defrauding Elderly Victims Enforcement Action"
 aliases:
   - "Kansas Woman Indicted for Defrauding Elderly Victims"
-case_id: CYB-FUP-1016
+case_id: CYB-2025-973
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[kansas-woman-indicted-for-defrauding-elderly-victims]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[kansas-woman-indicted-for-defrauding-elderly-victims]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_kansas-woman-indicted-defrauding-elderly-victims]]"

@@ -3,7 +3,7 @@ type: operation
 title: "Hardened Encrypted Devices Enforcement Action"
 aliases:
   - "United States v. Hardened Encrypted Devices"
-case_id: CYB-FUP-434
+case_id: CYB-2026-120
 period: 3
 operation_role: follow-on
 parent_operation: ""

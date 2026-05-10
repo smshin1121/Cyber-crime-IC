@@ -3,7 +3,7 @@ type: operation
 title: "Dutch National Enforcement Action"
 aliases:
   - "United States v. Dutch National"
-case_id: CYB-FUP-415
+case_id: CYB-2020-769
 period: 2
 operation_role: follow-on
 parent_operation: ""

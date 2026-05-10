@@ -3,7 +3,7 @@ type: operation
 title: "Sheldon Kennedy (Silk Road Vendor) Enforcement Action"
 aliases:
   - "United States v. Sheldon Kennedy (Silk Road Vendor)"
-case_id: CYB-FUP-085
+case_id: CYB-2015-465
 period: 1
 operation_type: sentencing
 status: absorbed

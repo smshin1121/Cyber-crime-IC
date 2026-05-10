@@ -3,7 +3,7 @@ type: operation
 title: "Russian Man Found Guilty Of Hacking Into Three Bay Area Tech Companies Enforcement Action"
 aliases:
   - "Russian Man Found Guilty Of Hacking Into Three Bay Area Tech Companies"
-case_id: CYB-FUP-1122
+case_id: CYB-2020-086
 period: 2
 operation_role: follow-on
 parent_operation: ""

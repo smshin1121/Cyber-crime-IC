@@ -3,7 +3,7 @@ type: operation
 title: "Fatiu Ismaila Lawal and Sakiru Olanrewaju Ambali Enforcement Action"
 aliases:
   - "United States v. Fatiu Ismaila Lawal and Sakiru Olanrewaju Ambali"
-case_id: CYB-FUP-246
+case_id: CYB-2024-407
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Winnebago County Woman Pleads Guilty To Wire Fraud for Stealing Funds From a Booster Club Enforcement Action"
 aliases:
   - "Winnebago County Woman Pleads Guilty To Wire Fraud for Stealing Funds From a Booster Club"
-case_id: CYB-FUP-795
+case_id: CYB-2026-285
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[winnebago-county-woman-pleads-guilty-to-wire-fraud-for-stealing-funds-from-a-booster-club]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[winnebago-county-woman-pleads-guilty-to-wire-fraud-for-stealing-funds-from-a-booster-club]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_winnebago-county-woman-pleads-guilty-wire-fraud-stealing-funds-booster-club]]"

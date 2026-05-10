@@ -3,7 +3,7 @@ type: operation
 title: "Brandon Adams (BenzoBoys) Enforcement Action"
 aliases:
   - "United States v. Brandon Adams (BenzoBoys)"
-case_id: CYB-FUP-017
+case_id: CYB-2024-586
 period: 3
 operation_type: sentencing
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "Alexey Bilyuchenko and Aleksandr Verner Enforcement Action"
 aliases:
   - "United States v. Alexey Bilyuchenko and Aleksandr Verner"
-case_id: CYB-FUP-210
+case_id: CYB-2023-883
 period: 3
 operation_role: follow-on
 parent_operation: ""

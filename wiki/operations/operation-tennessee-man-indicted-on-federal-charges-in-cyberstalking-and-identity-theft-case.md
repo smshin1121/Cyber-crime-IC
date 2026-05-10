@@ -3,7 +3,7 @@ type: operation
 title: "Tennessee Man Indicted on Federal Charges in Cyberstalking and Identity Theft Case Enforcement Action"
 aliases:
   - "Tennessee Man Indicted on Federal Charges in Cyberstalking and Identity Theft Case"
-case_id: CYB-FUP-637
+case_id: CYB-2018-285
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Johao Miguel Chavarri Enforcement Action"
 aliases:
   - "United States v. Johao Miguel Chavarri"
-case_id: CYB-FUP-164
+case_id: CYB-2022-241
 period: 2
 operation_role: follow-on
 parent_operation: ""

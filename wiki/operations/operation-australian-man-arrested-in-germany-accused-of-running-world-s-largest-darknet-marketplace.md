@@ -3,7 +3,7 @@ type: operation
 title: "Australian DarkMarket Operator Arrest Enforcement Action"
 aliases:
   - "Australian man arrested in Germany accused of running 'world's largest' Darknet marketplace"
-case_id: CYB-FUP-798
+case_id: CYB-2021-975
 period: 2
 operation_role: follow-on
 parent_operation: "[[darkmarket-takedown]]"

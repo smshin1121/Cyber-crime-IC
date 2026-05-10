@@ -3,7 +3,7 @@ type: operation
 title: "Kenneth Kezeor Enforcement Action"
 aliases:
   - "United States v. Kenneth Kezeor"
-case_id: CYB-FUP-364
+case_id: CYB-2016-408
 period: 1
 operation_role: follow-on
 parent_operation: ""

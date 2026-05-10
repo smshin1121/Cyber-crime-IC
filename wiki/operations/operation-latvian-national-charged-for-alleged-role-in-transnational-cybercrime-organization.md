@@ -3,7 +3,7 @@ type: operation
 title: "Latvian National Charged for Alleged Role in Transnational Cybercrime Organization Enforcement Action"
 aliases:
   - "Latvian National Charged for Alleged Role in Transnational Cybercrime Organization"
-case_id: CYB-FUP-1025
+case_id: CYB-2021-280
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Operator Of \"Silk Road 2.0\" Website Charged In Manhattan Federal Court Enforcement Action"
 aliases:
   - "Operator Of \"Silk Road 2.0\" Website Charged In Manhattan Federal Court"
-case_id: CYB-FUP-849
+case_id: CYB-2014-329
 period: 1
 operation_role: follow-on
 parent_operation: ""

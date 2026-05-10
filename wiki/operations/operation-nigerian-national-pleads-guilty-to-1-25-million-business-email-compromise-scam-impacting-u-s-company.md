@@ -3,7 +3,7 @@ type: operation
 title: "Nigerian National Pleads Guilty to $1.25 Million Business Email Compromise Scam Impacting U.S. Company Enforcement Action"
 aliases:
   - "Nigerian National Pleads Guilty to $1.25 Million Business Email Compromise Scam Impacting U.S. Company"
-case_id: CYB-FUP-1069
+case_id: CYB-2023-313
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -5,7 +5,7 @@ aliases:
   - "Lakeland Man Pleads Guilty To Receiving Child Sex Abuse Videos From The Largest Darknet Child Pornography Website, Which Was Funded By Bitcoin"
   - "United States v. Jack R. Dove III"
   - "Welcome To Video - Jack Dove follow-on prosecution"
-case_id: CYB-FUP-1023
+case_id: CYB-2021-064
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "John Khuu Enforcement Action"
 aliases:
   - "United States v. John Khuu"
-case_id: CYB-FUP-267
+case_id: CYB-2022-828
 period: 2
 operation_role: follow-on
 parent_operation: ""

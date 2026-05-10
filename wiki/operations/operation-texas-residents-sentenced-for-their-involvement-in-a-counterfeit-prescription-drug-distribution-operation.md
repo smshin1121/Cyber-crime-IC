@@ -3,7 +3,7 @@ type: operation
 title: "Texas Residents Sentenced For Their Involvement in a Counterfeit Prescription Drug Distribution Operation Enforcement Action"
 aliases:
   - "Texas Residents Sentenced For Their Involvement in a Counterfeit Prescription Drug Distribution Operation"
-case_id: CYB-FUP-858
+case_id: CYB-2024-322
 period: 3
 operation_role: follow-on
 parent_operation: ""

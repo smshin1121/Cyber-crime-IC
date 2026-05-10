@@ -3,7 +3,7 @@ type: operation
 title: "Woodmere Man Enforcement Action"
 aliases:
   - "United States v. Woodmere Man"
-case_id: CYB-FUP-497
+case_id: CYB-2022-485
 period: 2
 operation_role: follow-on
 parent_operation: ""

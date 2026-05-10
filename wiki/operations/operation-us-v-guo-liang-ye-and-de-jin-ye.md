@@ -3,7 +3,7 @@ type: operation
 title: "Guo Liang Ye and De Jin Ye Enforcement Action"
 aliases:
   - "United States v. Guo Liang Ye and De Jin Ye"
-case_id: CYB-FUP-356
+case_id: CYB-2025-085
 period: 3
 operation_role: follow-on
 parent_operation: ""

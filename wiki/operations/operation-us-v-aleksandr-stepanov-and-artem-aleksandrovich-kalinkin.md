@@ -3,7 +3,7 @@ type: operation
 title: "Aleksandr Stepanov and Artem Aleksandrovich Kalinkin Enforcement Action"
 aliases:
   - "United States v. Aleksandr Stepanov and Artem Aleksandrovich Kalinkin"
-case_id: CYB-FUP-206
+case_id: CYB-2025-040
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Chukwuemeka Okparaeke (Fentmaster) Enforcement Action"
 aliases:
   - "United States v. Chukwuemeka Okparaeke (Fentmaster)"
-case_id: CYB-FUP-068
+case_id: CYB-2021-144
 period: 2
 operation_type: sentencing
 status: absorbed

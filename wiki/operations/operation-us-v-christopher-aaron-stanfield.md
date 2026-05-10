@@ -3,7 +3,7 @@ type: operation
 title: "Christopher Aaron Stanfield Enforcement Action"
 aliases:
   - "United States v. Christopher Aaron Stanfield"
-case_id: CYB-FUP-227
+case_id: CYB-2025-658
 period: 3
 operation_role: follow-on
 parent_operation: ""

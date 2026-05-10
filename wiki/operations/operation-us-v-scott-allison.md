@@ -3,7 +3,7 @@ type: operation
 title: "Scott Allison Enforcement Action"
 aliases:
   - "United States v. Scott Allison"
-case_id: CYB-FUP-324
+case_id: CYB-2024-974
 period: 3
 operation_role: follow-on
 parent_operation: ""

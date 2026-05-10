@@ -3,7 +3,7 @@ type: operation
 title: "Michael Paiva (Silk Road 2.0 Purchaser) Enforcement Action"
 aliases:
   - "United States v. Michael Paiva (Silk Road 2.0 Purchaser)"
-case_id: CYB-FUP-074
+case_id: CYB-2017-721
 period: 1
 operation_type: sentencing
 status: absorbed

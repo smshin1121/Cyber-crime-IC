@@ -3,7 +3,7 @@ type: operation
 title: "Brian Gutierrez-Villasenor (JetSetLife) Enforcement Action"
 aliases:
   - "United States v. Brian Gutierrez-Villasenor (JetSetLife)"
-case_id: CYB-FUP-038
+case_id: CYB-2019-282
 period: 1
 operation_type: sentencing
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "Justice Department Secures Forfeiture of Over $5M of Funds Traceable to Business Email Compromise Scheme Targeting Massachusetts Workers Union Enforcement Action"
 aliases:
   - "Justice Department Secures Forfeiture of Over $5M of Funds Traceable to Business Email Compromise Scheme Targeting Massachusetts Workers Union"
-case_id: CYB-FUP-702
+case_id: CYB-2025-234
 period: 3
 operation_role: follow-on
 parent_operation: ""

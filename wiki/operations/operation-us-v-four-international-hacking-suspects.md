@@ -3,7 +3,7 @@ type: operation
 title: "Four International Hacking Suspects Enforcement Action"
 aliases:
   - "United States v. Four International Hacking Suspects"
-case_id: CYB-FUP-430
+case_id: CYB-2019-260
 period: 1
 operation_role: follow-on
 parent_operation: ""

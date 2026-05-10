@@ -3,7 +3,7 @@ type: operation
 title: "Significant member of a Whatcom County fentanyl trafficking ring sentenced to 4 years in prison Enforcement Action"
 aliases:
   - "Significant member of a Whatcom County fentanyl trafficking ring sentenced to 4 years in prison"
-case_id: CYB-FUP-1149
+case_id: CYB-2024-361
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Two Romanian Suspects Charged With Hacking of Metropolitan Police Department Surveillance Cameras in Connection with Ransomware Scheme Enforcement Action"
 aliases:
   - "Two Romanian Suspects Charged With Hacking of Metropolitan Police Department Surveillance Cameras in Connection with Ransomware Scheme"
-case_id: CYB-FUP-1193
+case_id: CYB-2017-996
 period: 1
 operation_role: follow-on
 parent_operation: ""

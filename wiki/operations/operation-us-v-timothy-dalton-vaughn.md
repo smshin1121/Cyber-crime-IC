@@ -3,7 +3,7 @@ type: operation
 title: "Timothy Dalton Vaughn Enforcement Action"
 aliases:
   - "United States v. Timothy Dalton Vaughn"
-case_id: CYB-FUP-786
+case_id: CYB-2020-435
 period: 2
 operation_role: follow-on
 parent_operation: ""

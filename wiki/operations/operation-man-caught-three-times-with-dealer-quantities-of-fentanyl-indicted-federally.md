@@ -3,7 +3,7 @@ type: operation
 title: "Man caught three times with dealer quantities of fentanyl indicted federally Enforcement Action"
 aliases:
   - "Man caught three times with dealer quantities of fentanyl indicted federally"
-case_id: CYB-FUP-595
+case_id: CYB-2025-010
 period: 3
 operation_role: follow-on
 parent_operation: ""

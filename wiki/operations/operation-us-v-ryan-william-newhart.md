@@ -3,7 +3,7 @@ type: operation
 title: "Ryan William Newhart Enforcement Action"
 aliases:
   - "United States v. Ryan William Newhart"
-case_id: CYB-FUP-320
+case_id: CYB-2024-902
 period: 3
 operation_role: follow-on
 parent_operation: ""

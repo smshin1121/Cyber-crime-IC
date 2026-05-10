@@ -3,7 +3,7 @@ type: operation
 title: "Sacramento Woman Pleads Guilty to Conspiracy to Distribute Fentanyl Enforcement Action"
 aliases:
   - "Sacramento Woman Pleads Guilty to Conspiracy to Distribute Fentanyl"
-case_id: CYB-FUP-1133
+case_id: CYB-2025-038
 period: 3
 operation_role: follow-on
 parent_operation: ""

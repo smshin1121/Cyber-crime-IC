@@ -3,7 +3,7 @@ type: operation
 title: "Multiple Foreign Nationals Charged in Connection with Trickbot and Conti Enforcement Action"
 aliases:
   - "Multiple Foreign Nationals Charged in Connection with Trickbot and Conti"
-case_id: CYB-FUP-842
+case_id: CYB-2023-647
 period: 3
 operation_role: follow-on
 parent_operation: ""

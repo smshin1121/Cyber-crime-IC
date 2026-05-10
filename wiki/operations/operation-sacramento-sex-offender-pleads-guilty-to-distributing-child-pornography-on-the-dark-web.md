@@ -3,7 +3,7 @@ type: operation
 title: "Sacramento Sex Offender Pleads Guilty to Distributing Child Pornography on the Dark Web Enforcement Action"
 aliases:
   - "Sacramento Sex Offender Pleads Guilty to Distributing Child Pornography on the Dark Web"
-case_id: CYB-FUP-1132
+case_id: CYB-2024-620
 period: 3
 operation_role: follow-on
 parent_operation: ""

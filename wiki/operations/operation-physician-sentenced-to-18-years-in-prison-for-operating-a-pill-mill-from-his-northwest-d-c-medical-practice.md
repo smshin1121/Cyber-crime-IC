@@ -3,7 +3,7 @@ type: operation
 title: "Physician Sentenced to 18 Years in Prison for Operating a Pill Mill from His Northwest D.C. Medical Practice Enforcement Action"
 aliases:
   - "Physician Sentenced to 18 Years in Prison for Operating a Pill Mill from His Northwest D.C. Medical Practice"
-case_id: CYB-FUP-616
+case_id: CYB-2025-297
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Christerfer Frick Enforcement Action"
 aliases:
   - "United States v. Christerfer Frick"
-case_id: CYB-FUP-226
+case_id: CYB-2024-242
 period: 3
 operation_role: follow-on
 parent_operation: ""

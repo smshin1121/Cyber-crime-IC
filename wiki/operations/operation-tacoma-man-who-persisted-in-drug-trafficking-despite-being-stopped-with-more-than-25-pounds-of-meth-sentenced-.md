@@ -3,7 +3,7 @@ type: operation
 title: "Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison Enforcement Action"
 aliases:
   - "Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison"
-case_id: CYB-FUP-1167
+case_id: CYB-2026-100
 period: 3
 operation_role: follow-on
 parent_operation: ""

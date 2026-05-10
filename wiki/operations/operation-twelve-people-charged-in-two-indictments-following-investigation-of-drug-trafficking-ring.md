@@ -3,7 +3,7 @@ type: operation
 title: "Twelve people charged in two indictments following investigation of drug trafficking ring Enforcement Action"
 aliases:
   - "Twelve people charged in two indictments following investigation of drug trafficking ring"
-case_id: CYB-FUP-645
+case_id: CYB-2021-236
 period: 2
 operation_role: follow-on
 parent_operation: ""

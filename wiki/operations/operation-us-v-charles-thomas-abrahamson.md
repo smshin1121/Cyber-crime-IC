@@ -3,7 +3,7 @@ type: operation
 title: "Charles Thomas Abrahamson Enforcement Action"
 aliases:
   - "United States v. Charles Thomas Abrahamson"
-case_id: CYB-FUP-346
+case_id: CYB-2025-723
 period: 3
 operation_role: follow-on
 parent_operation: ""

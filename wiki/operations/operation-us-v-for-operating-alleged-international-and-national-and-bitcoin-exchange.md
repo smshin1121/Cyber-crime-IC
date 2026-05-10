@@ -3,7 +3,7 @@ type: operation
 title: "For Operating Alleged International and National And Bitcoin Exchange Enforcement Action"
 aliases:
   - "United States v. For Operating Alleged International and National And Bitcoin Exchange"
-case_id: CYB-FUP-422
+case_id: CYB-2017-269
 period: 1
 operation_role: follow-on
 parent_operation: ""

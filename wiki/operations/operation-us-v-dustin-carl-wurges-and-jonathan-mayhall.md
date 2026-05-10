@@ -3,7 +3,7 @@ type: operation
 title: "Dustin Carl Wurges and Jonathan Mayhall Enforcement Action"
 aliases:
   - "United States v. Dustin Carl Wurges and Jonathan Mayhall"
-case_id: CYB-FUP-241
+case_id: CYB-2024-447
 period: 3
 operation_role: follow-on
 parent_operation: ""

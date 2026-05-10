@@ -3,7 +3,7 @@ type: operation
 title: "Justin Udvardi (TrapGod) Enforcement Action"
 aliases:
   - "United States v. Justin Udvardi (TrapGod)"
-case_id: CYB-FUP-095
+case_id: CYB-2023-165
 period: 3
 operation_role: follow-on
 parent_operation: ""

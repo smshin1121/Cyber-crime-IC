@@ -3,7 +3,7 @@ type: operation
 title: "Khaled Miah Enforcement Action"
 aliases:
   - "United States v. Khaled Miah"
-case_id: CYB-FUP-170
+case_id: CYB-2022-403
 period: 2
 operation_role: follow-on
 parent_operation: ""

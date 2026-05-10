@@ -3,7 +3,7 @@ type: operation
 title: "Andrew Charles Nicholls Enforcement Action"
 aliases:
   - "United States v. Andrew Charles Nicholls"
-case_id: CYB-FUP-212
+case_id: CYB-2025-686
 period: 3
 operation_role: follow-on
 parent_operation: ""

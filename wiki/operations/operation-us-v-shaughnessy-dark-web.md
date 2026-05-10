@@ -3,7 +3,7 @@ type: operation
 title: "Sean Shaughnessy (Fent4U) Enforcement Action"
 aliases:
   - "United States v. Sean Shaughnessy (Fent4U)"
-case_id: CYB-FUP-084
+case_id: CYB-2024-507
 period: 3
 operation_type: sentencing
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "San Antonio Man Sentenced for January 2018 Threats Made Against Players and Fans at NFL Playoff Game at Heinz Field Enforcement Action"
 aliases:
   - "San Antonio Man Sentenced for January 2018 Threats Made Against Players and Fans at NFL Playoff Game at Heinz Field"
-case_id: CYB-FUP-1134
+case_id: CYB-2018-522
 period: 1
 operation_role: follow-on
 parent_operation: ""

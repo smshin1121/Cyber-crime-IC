@@ -3,7 +3,7 @@ type: operation
 title: "Omar Isho Enforcement Action"
 aliases:
   - "United States v. Omar Isho"
-case_id: CYB-FUP-374
+case_id: CYB-2019-664
 period: 1
 operation_role: follow-on
 parent_operation: ""

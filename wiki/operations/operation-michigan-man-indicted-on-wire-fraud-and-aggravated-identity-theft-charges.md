@@ -3,7 +3,7 @@ type: operation
 title: "Michigan Man Indicted on Wire Fraud and Aggravated Identity Theft Charges Enforcement Action"
 aliases:
   - "Michigan Man Indicted on Wire Fraud and Aggravated Identity Theft Charges"
-case_id: CYB-FUP-1050
+case_id: CYB-2025-073
 period: 3
 operation_role: follow-on
 parent_operation: ""

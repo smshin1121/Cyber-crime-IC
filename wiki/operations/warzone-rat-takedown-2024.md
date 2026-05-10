@@ -5,7 +5,7 @@ aliases:
   - "Warzone RAT takedown"
   - "Warzone RAT operation"
   - "Operation against Warzone RAT"
-case_id: "CYB-2024-WZN"
+case_id: CYB-2024-021
 period: 2
 operation_type: takedown
 status: completed
@@ -24,7 +24,7 @@ crime_types:
   - "[[malware-ic]]"
   - "[[cybercrime-infrastructure-ic]]"
   - "[[hacking-ic]]"
-crime_type: "malware-ic"
+crime_type: malware-ic
 target_entity: "Warzone Remote Access Trojan (RAT) malware-as-a-service distribution network (warzone.ws and 3 related domains; subscription-based RAT enabling unauthorized remote access, file-system browsing, keylogging, credential theft, webcam access)"
 lead_agency: "[[fbi]]"
 coordinating_body: "[[europol-ec3]]"
@@ -124,10 +124,14 @@ edges:
     direction: directed
 credibility_index: 4.5
 source_tier: 1
-missing_fields: []
-related_cases: []
-related_operations: []
-challenges_encountered: []
+missing_fields:
+  []
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "AFP threat-identification at the intelligence stage (2020) was the trigger that allowed FBI Boston/Atlanta to develop a U.S. prosecutorial case against the seller (Meli) and a major customer-support actor (Odinakachi)."
   - "Coordinated arrests in Malta and Nigeria on the same day (7 Feb 2024) demonstrate that simultaneous arrests in non-EU jurisdictions can be staged through Europol coordination plus bilateral channels (DOJ Office of International Affairs)."
@@ -138,7 +142,6 @@ sources:
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 ## Summary
 
 The Warzone RAT takedown was an international law enforcement action against the infrastructure and key personnel behind the Warzone Remote Access Trojan, a subscription-based malware-as-a-service tool sold from at least 2018 (and tied via the seller to an earlier "Pegasus RAT" via "Skynet-Corporation" since at least 2012). On 9 February 2024, the U.S. Department of Justice announced the seizure of `warzone.ws` and three related domains (D. Mass.) and unsealed two indictments — Daniel Meli (27, Malta) in the Northern District of Georgia and Prince Onyeoziri Odinakachi (31, Nigeria) in the District of Massachusetts — both arrested on 7 February 2024 by, respectively, the Malta Police Force and the Port Harcourt Zonal Command of Nigeria's Economic and Financial Crimes Commission.

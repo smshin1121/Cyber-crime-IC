@@ -14,9 +14,9 @@ enforcement_type:
   - extradition
 outcome: success
 timeframe:
-  announced: "2026-04-27"
-  start: "2025-07"
-  end: "2026-04-27"
+  announced: 2026-04-27
+  start: 2025-07
+  end: 2026-04-27
   ongoing: false
 crime_types:
   - "[[hacking-ic]]"
@@ -54,24 +54,24 @@ results:
 edges:
   - source_actor: "[[polizia-di-stato]]"
     target_actor: "[[fbi]]"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
   - source_actor: "[[italy-polizia-postale]]"
     target_actor: "[[fbi]]"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
   - source_actor: "[[italy]]"
     target_actor: "[[united-states]]"
-    cooperation_type: "extradition"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: extradition
+    legal_basis: MLAT
+    direction: directed
   - source_actor: "[[office-of-international-affairs]]"
     target_actor: "[[polizia-di-stato]]"
-    cooperation_type: "extradition"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: extradition
+    legal_basis: MLAT
+    direction: directed
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
@@ -82,8 +82,10 @@ missing_fields:
   - "exact role attribution of Servizio per la Cooperazione Internazionale di Polizia (the Italian INTERPOL-NCB-equivalent unit; no separate wiki page yet)"
 related_cases:
   - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
-related_operations: []
-challenges_encountered: []
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "First wiki record of an Italy → US extradition of a PRC state-sponsored cyber actor sourced from the **Italian primary side** (Polizia di Stato press release) — confirms partner-state agency-chain detail (Polizia Postale + Polaria di Malpensa + Servizio per la Cooperazione Internazionale di Polizia + Corte d'Appello di Milano + Ministro della giustizia) that the US DOJ release summarises only as 'Italian National Police — Cyber Division'."
   - "Schengen-region airport interception pattern: suspect transit through Malpensa intercepted by border police acting on FBI-shared targeting intelligence; analogous to other Schengen-region apprehensions of state-affiliated cyber actors logged in the wiki."
@@ -93,7 +95,6 @@ sources:
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 > [!info] Provisional / sparse-source page
 > This page is built from a **single tier-1 primary source** (Polizia di Stato / Polizia Postale press release, 2026-04-27). The corresponding US-side primary source ([[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]]) is *not* counted toward this operation page's source count because it is already exhaustively summarised in the related case page [[us-v-xu-zewei-hafnium-extradited-italy]]. This operation page exists to document the **Italian-partner-state operational angle** (the extradition execution + chain-of-Italian-agencies) which the case page (US prosecution angle) does not fully capture. Treat all numeric/temporal claims as provisional pending a second independent primary source from the Italian side (e.g., a future ANSA wire reproducing official statements, or a Ministero della Giustizia release).
 

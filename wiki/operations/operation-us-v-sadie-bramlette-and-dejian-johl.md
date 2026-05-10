@@ -3,7 +3,7 @@ type: operation
 title: "Sadie Bramlette and Dejian Johl Enforcement Action"
 aliases:
   - "United States v. Sadie Bramlette and Dejian Johl"
-case_id: CYB-FUP-321
+case_id: CYB-2025-885
 period: 3
 operation_role: follow-on
 parent_operation: ""

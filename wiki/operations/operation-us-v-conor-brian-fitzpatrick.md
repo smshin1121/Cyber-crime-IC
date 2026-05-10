@@ -3,7 +3,7 @@ type: operation
 title: "Conor Brian Fitzpatrick Enforcement Action"
 aliases:
   - "United States v. Conor Brian Fitzpatrick"
-case_id: CYB-FUP-144
+case_id: CYB-2025-864
 period: 3
 operation_role: follow-on
 parent_operation: ""

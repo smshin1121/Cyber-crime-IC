@@ -3,7 +3,7 @@ type: operation
 title: "Jorge Antonio Escobar Enforcement Action"
 aliases:
   - "United States v. Jorge Antonio Escobar"
-case_id: CYB-FUP-166
+case_id: CYB-2021-871
 period: 2
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-jorge-antonio-escobar]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-jorge-antonio-escobar]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_fairfax-man-sentenced-receiving-soliciting-and-promoting-child-pornography]]"

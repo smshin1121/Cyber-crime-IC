@@ -3,7 +3,7 @@ type: operation
 title: "Seizure of BidenCash Marketplace Domains Enforcement Action"
 aliases:
   - "In re Seizure of BidenCash Marketplace Domains"
-case_id: CYB-FUP-003
+case_id: CYB-2025-548
 period: 3
 operation_type: prosecution
 status: absorbed

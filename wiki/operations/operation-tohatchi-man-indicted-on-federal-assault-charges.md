@@ -3,7 +3,7 @@ type: operation
 title: "Tohatchi Man Indicted on Federal Assault Charges Enforcement Action"
 aliases:
   - "Tohatchi Man Indicted on Federal Assault Charges"
-case_id: CYB-FUP-1185
+case_id: CYB-2025-023
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[tohatchi-man-indicted-on-federal-assault-charges]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[tohatchi-man-indicted-on-federal-assault-charges]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_tohatchi-man-indicted-federal-assault-charges]]"

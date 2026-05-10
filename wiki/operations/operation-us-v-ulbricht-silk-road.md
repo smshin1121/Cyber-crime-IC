@@ -3,7 +3,7 @@ type: operation
 title: "Ulbricht (Silk Road) Enforcement Action"
 aliases:
   - "United States v. Ulbricht (Silk Road)"
-case_id: CYB-FUP-094
+case_id: CYB-2015-151
 period: 1
 operation_type: sentencing
 status: absorbed

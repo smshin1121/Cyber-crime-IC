@@ -3,7 +3,7 @@ type: operation
 title: "Igor Turashev Enforcement Action"
 aliases:
   - "United States v. Igor Turashev"
-case_id: CYB-FUP-391
+case_id: CYB-2019-535
 period: 1
 operation_role: follow-on
 parent_operation: ""

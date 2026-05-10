@@ -3,7 +3,7 @@ type: operation
 title: "Two Tulsans Sentenced for Running Illegal Dark Web Cryptocurrency Pharmacy Enforcement Action"
 aliases:
   - "Two Tulsans Sentenced for Running Illegal Dark Web Cryptocurrency Pharmacy"
-case_id: CYB-FUP-1196
+case_id: CYB-2025-616
 period: 3
 operation_role: follow-on
 parent_operation: ""

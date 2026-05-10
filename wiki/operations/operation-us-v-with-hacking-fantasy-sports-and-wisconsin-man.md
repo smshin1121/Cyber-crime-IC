@@ -3,7 +3,7 @@ type: operation
 title: "With Hacking Fantasy Sports and Wisconsin Man Enforcement Action"
 aliases:
   - "United States v. With Hacking Fantasy Sports and Wisconsin Man"
-case_id: CYB-FUP-491
+case_id: CYB-2023-725
 period: 3
 operation_role: follow-on
 parent_operation: ""

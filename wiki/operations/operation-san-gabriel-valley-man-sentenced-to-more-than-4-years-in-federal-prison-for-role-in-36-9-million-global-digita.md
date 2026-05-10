@@ -3,7 +3,7 @@ type: operation
 title: "San Gabriel Valley Man Sentenced to More Than 4 Years in Federal Prison for Role in $36.9 Million Global Digital Asset Investment Scam Enforcement Action"
 aliases:
   - "San Gabriel Valley Man Sentenced to More Than 4 Years in Federal Prison for Role in $36.9 Million Global Digital Asset Investment Scam"
-case_id: CYB-FUP-733
+case_id: CYB-2025-799
 period: 3
 operation_role: follow-on
 parent_operation: ""

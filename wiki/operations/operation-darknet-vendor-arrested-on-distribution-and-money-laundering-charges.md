@@ -3,7 +3,7 @@ type: operation
 title: "Darknet Vendor Arrested on Distribution and Money Laundering Charges Enforcement Action"
 aliases:
   - "Darknet Vendor Arrested on Distribution and Money Laundering Charges"
-case_id: CYB-FUP-927
+case_id: CYB-2020-441
 period: 2
 operation_role: follow-on
 parent_operation: ""

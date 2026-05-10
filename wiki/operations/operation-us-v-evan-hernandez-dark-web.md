@@ -3,7 +3,7 @@ type: operation
 title: "Evan Hernandez (Bitcoin Laundering for Dark-Web Dealers) Enforcement Action"
 aliases:
   - "United States v. Evan Hernandez (Bitcoin Laundering for Dark-Web Dealers)"
-case_id: CYB-FUP-030
+case_id: CYB-2022-874
 period: 2
 operation_type: sentencing
 status: absorbed

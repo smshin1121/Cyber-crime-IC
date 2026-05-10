@@ -3,7 +3,7 @@ type: operation
 title: "Trevor Stephen Haahr and Kaeli Arielle Albert Enforcement Action"
 aliases:
   - "United States v. Trevor Stephen Haahr and Kaeli Arielle Albert"
-case_id: CYB-FUP-039
+case_id: CYB-2025-291
 period: 3
 operation_type: prosecution
 status: absorbed

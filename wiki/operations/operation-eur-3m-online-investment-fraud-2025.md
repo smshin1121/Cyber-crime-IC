@@ -7,7 +7,7 @@ operation_type: joint-investigation
 operation_role: umbrella
 parent_operation: ""
 status: ongoing
-case_id: CYB-2025-0513
+case_id: CYB-2025-346
 period: 3
 enforcement_type:
   - arrest

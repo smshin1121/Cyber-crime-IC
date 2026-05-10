@@ -3,7 +3,7 @@ type: operation
 title: "HeartSender / Saim Raza Seizure Enforcement Action"
 aliases:
   - "In re HeartSender / Saim Raza Seizure"
-case_id: CYB-FUP-004
+case_id: CYB-2026-500
 period: 3
 operation_type: prosecution
 status: absorbed

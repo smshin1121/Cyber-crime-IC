@@ -3,7 +3,7 @@ type: operation
 title: "Romanian National Pleads Guilty to Selling Access to Networks of Oregon State Government Office and Other U.S. Victims Enforcement Action"
 aliases:
   - "Romanian National Pleads Guilty to Selling Access to Networks of Oregon State Government Office and Other U.S. Victims"
-case_id: CYB-FUP-724
+case_id: CYB-2026-626
 period: 3
 operation_role: follow-on
 parent_operation: ""

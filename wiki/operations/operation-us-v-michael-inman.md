@@ -3,7 +3,7 @@ type: operation
 title: "Michael Inman Enforcement Action"
 aliases:
   - "United States v. Michael Inman"
-case_id: CYB-FUP-774
+case_id: CYB-2017-032
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-michael-inman]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-michael-inman]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_southern-california-resident-sentenced-34-months-prison-role-bank-fraud-conspiracy]]"

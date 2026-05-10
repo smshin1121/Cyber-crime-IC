@@ -3,7 +3,7 @@ type: operation
 title: "San Gabriel Valley Man Admits to Cyberstalking Two Teenage Girls Enforcement Action"
 aliases:
   - "San Gabriel Valley Man Admits to Cyberstalking Two Teenage Girls"
-case_id: CYB-FUP-732
+case_id: CYB-2020-417
 period: 2
 operation_role: follow-on
 parent_operation: ""

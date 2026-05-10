@@ -3,7 +3,7 @@ type: operation
 title: "Wyandotte County District Court bookkeepers indicted in $900,000 wire fraud scheme Enforcement Action"
 aliases:
   - "Wyandotte County District Court bookkeepers indicted in $900,000 wire fraud scheme"
-case_id: CYB-FUP-1222
+case_id: CYB-2025-067
 period: 3
 operation_role: follow-on
 parent_operation: ""

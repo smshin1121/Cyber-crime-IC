@@ -3,7 +3,7 @@ type: operation
 title: "Wemerson Dutra Aguiar Enforcement Action"
 aliases:
   - "United States v. Wemerson Dutra Aguiar"
-case_id: CYB-FUP-790
+case_id: CYB-2022-847
 period: 2
 operation_role: follow-on
 parent_operation: ""

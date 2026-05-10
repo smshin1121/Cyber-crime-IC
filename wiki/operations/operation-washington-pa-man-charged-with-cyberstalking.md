@@ -3,7 +3,7 @@ type: operation
 title: "Washington, PA Man Charged with Cyberstalking Enforcement Action"
 aliases:
   - "Washington, PA Man Charged with Cyberstalking"
-case_id: CYB-FUP-864
+case_id: CYB-2022-848
 period: 2
 operation_role: follow-on
 parent_operation: ""

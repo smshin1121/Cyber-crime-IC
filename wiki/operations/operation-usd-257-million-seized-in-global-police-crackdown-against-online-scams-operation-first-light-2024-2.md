@@ -3,7 +3,7 @@ type: operation
 title: "USD 257 million seized in global police crackdown against online scams — Operation First Light 2024 Enforcement Action"
 aliases:
   - "USD 257 million seized in global police crackdown against online scams — Operation First Light 2024"
-case_id: CYB-FUP-657
+case_id: CYB-2024-682
 period: 3
 operation_role: follow-on
 parent_operation: ""

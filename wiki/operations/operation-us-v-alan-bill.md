@@ -3,7 +3,7 @@ type: operation
 title: "Alan Bill Enforcement Action"
 aliases:
   - "United States v. Alan Bill"
-case_id: CYB-FUP-205
+case_id: CYB-2023-000
 period: 3
 operation_role: follow-on
 parent_operation: ""

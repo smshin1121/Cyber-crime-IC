@@ -3,7 +3,7 @@ type: operation
 title: "Ogando, Dawodu, and Spencer (Darknet Narcotics Conspiracy) Enforcement Action"
 aliases:
   - "United States v. Ogando, Dawodu, and Spencer (Darknet Narcotics Conspiracy)"
-case_id: CYB-FUP-066
+case_id: CYB-2023-531
 period: 3
 operation_type: sentencing
 status: absorbed

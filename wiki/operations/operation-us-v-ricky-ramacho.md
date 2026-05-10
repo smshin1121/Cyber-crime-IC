@@ -3,7 +3,7 @@ type: operation
 title: "Ricky Ramacho Enforcement Action"
 aliases:
   - "United States v. Ricky Ramacho"
-case_id: CYB-FUP-313
+case_id: CYB-2016-000
 period: 1
 operation_role: follow-on
 parent_operation: ""

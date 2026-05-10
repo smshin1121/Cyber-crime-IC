@@ -3,7 +3,7 @@ type: operation
 title: "Servers Seized In Ukraine, Moldova As Germany Takes Down 'World's Largest' Illegal Darknet Marketplace Enforcement Action"
 aliases:
   - "Servers Seized In Ukraine, Moldova As Germany Takes Down 'World's Largest' Illegal Darknet Marketplace"
-case_id: CYB-FUP-856
+case_id: CYB-2021-458
 period: 2
 operation_role: follow-on
 parent_operation: ""

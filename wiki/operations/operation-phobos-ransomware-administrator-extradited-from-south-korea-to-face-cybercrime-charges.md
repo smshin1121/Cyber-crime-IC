@@ -3,7 +3,7 @@ type: operation
 title: "Phobos Ransomware Administrator Extradited From South Korea To Face Cybercrime Charges Enforcement Action"
 aliases:
   - "Phobos Ransomware Administrator Extradited From South Korea To Face Cybercrime Charges"
-case_id: CYB-FUP-1093
+case_id: CYB-2024-930
 period: 3
 operation_role: follow-on
 parent_operation: ""

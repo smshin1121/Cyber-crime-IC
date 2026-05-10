@@ -3,7 +3,7 @@ type: operation
 title: "Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers Enforcement Action"
 aliases:
   - "Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers"
-case_id: CYB-FUP-969
+case_id: CYB-2016-622
 period: 1
 operation_role: follow-on
 parent_operation: ""

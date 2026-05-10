@@ -3,7 +3,7 @@ type: operation
 title: "Virginia Woman Sentenced to Prison for Fraudulently Ordering Cell Phones on Behalf of Her Non-Profit Employer and Reselling Them for Cash Enforcement Action"
 aliases:
   - "Virginia Woman Sentenced to Prison for Fraudulently Ordering Cell Phones on Behalf of Her Non-Profit Employer and Reselling Them for Cash"
-case_id: CYB-FUP-1210
+case_id: CYB-2023-671
 period: 3
 operation_role: follow-on
 parent_operation: ""

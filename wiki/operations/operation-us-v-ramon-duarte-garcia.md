@@ -3,7 +3,7 @@ type: operation
 title: "Ramon Duarte Garcia Enforcement Action"
 aliases:
   - "United States v. Ramon Duarte Garcia"
-case_id: CYB-FUP-311
+case_id: CYB-2025-160
 period: 3
 operation_role: follow-on
 parent_operation: ""

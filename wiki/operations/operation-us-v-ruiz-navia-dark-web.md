@@ -3,7 +3,7 @@ type: operation
 title: "Ruiz and Navia (Darknet Fentanyl Suppliers) Enforcement Action"
 aliases:
   - "United States v. Ruiz and Navia (Darknet Fentanyl Suppliers)"
-case_id: CYB-FUP-080
+case_id: CYB-2025-515
 period: 3
 operation_type: sentencing
 status: absorbed

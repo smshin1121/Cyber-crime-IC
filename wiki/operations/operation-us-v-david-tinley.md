@@ -3,7 +3,7 @@ type: operation
 title: "David Tinley Enforcement Action"
 aliases:
   - "United States v. David Tinley"
-case_id: CYB-FUP-235
+case_id: CYB-2019-291
 period: 1
 operation_role: follow-on
 parent_operation: ""

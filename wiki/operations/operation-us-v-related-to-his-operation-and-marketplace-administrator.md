@@ -3,7 +3,7 @@ type: operation
 title: "Related To His Operation and Marketplace Administrator Enforcement Action"
 aliases:
   - "United States v. Related To His Operation and Marketplace Administrator"
-case_id: CYB-FUP-462
+case_id: CYB-2023-113
 period: 3
 operation_role: follow-on
 parent_operation: ""

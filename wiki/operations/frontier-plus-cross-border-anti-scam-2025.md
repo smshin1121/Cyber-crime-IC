@@ -6,7 +6,7 @@ aliases:
   - "Operation FRONTIER+ April-May 2025"
   - "HK-led FRONTIER+ first joint operation"
   - "Cross-border Anti-Scam Collaboration Platform first joint operation"
-case_id: CYB-2025-FRONTIER-PLUS-01
+case_id: CYB-2025-896
 period: 3
 operation_type: arrest-sweep
 status: completed
@@ -63,43 +63,46 @@ results:
     - "Age range of arrested persons: 14–81."
     - "2,700+ law enforcement officers deployed across the seven countries and regions."
 edges:
-  - source_actor: "hong-kong-police"
-    target_actor: "singapore-police"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "hong-kong-police"
-    target_actor: "royal-malaysia-police"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "hong-kong-police"
-    target_actor: "knpa"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "hong-kong-police"
-    target_actor: "thailand-royal-police"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "singapore-police"
-    target_actor: "royal-malaysia-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "singapore-police"
-    target_actor: "knpa"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
+  - source_actor: hong-kong-police
+    target_actor: singapore-police
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
+  - source_actor: hong-kong-police
+    target_actor: royal-malaysia-police
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
+  - source_actor: hong-kong-police
+    target_actor: knpa
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
+  - source_actor: hong-kong-police
+    target_actor: thailand-royal-police
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
+  - source_actor: singapore-police
+    target_actor: royal-malaysia-police
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: singapore-police
+    target_actor: knpa
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
 credibility_index: 4.5
 source_tier: 1
-missing_fields: []
-related_cases: []
+missing_fields:
+  []
+related_cases:
+  []
 related_operations:
   - "[[cross-border-online-cse-operation-spf-2026]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "Real-time intelligence sharing between sister anti-scam centres allowed near-simultaneous enforcement actions across seven jurisdictions, accelerating disruption of cash flows compared to formal MLAT."
   - "Scam scripts proven to migrate across jurisdictions (HK customer-service impersonation tactic moving to Singapore and Macao SAR in 2025), demonstrating the necessity of cross-jurisdictional intelligence to anticipate emerging vectors."
@@ -109,7 +112,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 ## Summary
 
 Between **28 April and 28 May 2025**, the [[hong-kong-police|Hong Kong Police Force]] led the first joint enforcement operation conducted under the **Cross-border Anti-Scam Collaboration Platform "FRONTIER+"**, working with police forces of [[malaysia|Malaysia]], the [[maldives|Maldives]], [[singapore|Singapore]], [[south-korea|South Korea]], [[thailand|Thailand]], and the Macao Special Administrative Region of the People's Republic of China.

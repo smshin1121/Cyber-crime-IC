@@ -3,7 +3,7 @@ type: operation
 title: "Individual Arrested and Charged with Operating Notorious Darknet Cryptocurrency \"Mixer\" Enforcement Action"
 aliases:
   - "Individual Arrested and Charged with Operating Notorious Darknet Cryptocurrency \"Mixer\""
-case_id: CYB-FUP-1008
+case_id: CYB-2021-084
 period: 2
 operation_role: follow-on
 parent_operation: ""

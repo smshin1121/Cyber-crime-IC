@@ -3,7 +3,7 @@ type: operation
 title: "Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested Enforcement Action"
 aliases:
   - "Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested"
-case_id: CYB-FUP-1130
+case_id: CYB-2024-146
 period: 3
 operation_role: follow-on
 parent_operation: ""

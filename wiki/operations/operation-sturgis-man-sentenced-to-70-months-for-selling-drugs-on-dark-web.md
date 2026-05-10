@@ -3,7 +3,7 @@ type: operation
 title: "Sturgis Man Sentenced To 70 Months For Selling Drugs On Dark Web Enforcement Action"
 aliases:
   - "Sturgis Man Sentenced To 70 Months For Selling Drugs On Dark Web"
-case_id: CYB-FUP-1165
+case_id: CYB-2025-600
 period: 3
 operation_role: follow-on
 parent_operation: ""

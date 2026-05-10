@@ -3,7 +3,7 @@ type: operation
 title: "Michael Basalyga Enforcement Action"
 aliases:
   - "United States v. Michael Basalyga"
-case_id: CYB-FUP-292
+case_id: CYB-2025-079
 period: 3
 operation_role: follow-on
 parent_operation: ""

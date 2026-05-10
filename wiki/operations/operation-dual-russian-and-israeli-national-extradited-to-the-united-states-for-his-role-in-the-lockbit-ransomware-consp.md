@@ -3,7 +3,7 @@ type: operation
 title: "Dual Russian And Israeli National Extradited To The United States For His Role In The LockBit Ransomware Conspiracy Enforcement Action"
 aliases:
   - "Dual Russian And Israeli National Extradited To The United States For His Role In The LockBit Ransomware Conspiracy"
-case_id: CYB-FUP-940
+case_id: CYB-2025-141
 period: 3
 operation_role: follow-on
 parent_operation: ""

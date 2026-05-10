@@ -3,7 +3,7 @@ type: operation
 title: "John Michael Sherwood and Kevin Christopher Gartry Enforcement Action"
 aliases:
   - "United States v. John Michael Sherwood and Kevin Christopher Gartry"
-case_id: CYB-FUP-268
+case_id: CYB-2022-247
 period: 2
 operation_role: follow-on
 parent_operation: ""

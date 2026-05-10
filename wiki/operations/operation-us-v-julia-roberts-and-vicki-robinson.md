@@ -3,7 +3,7 @@ type: operation
 title: "Julia Roberts and Vicki Robinson Enforcement Action"
 aliases:
   - "United States v. Julia Roberts and Vicki Robinson"
-case_id: CYB-FUP-360
+case_id: CYB-2025-489
 period: 3
 operation_role: follow-on
 parent_operation: ""

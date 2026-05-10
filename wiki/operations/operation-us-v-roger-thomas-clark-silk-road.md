@@ -3,7 +3,7 @@ type: operation
 title: "Roger Thomas Clark (Silk Road Adviser) Enforcement Action"
 aliases:
   - "United States v. Roger Thomas Clark (Silk Road Adviser)"
-case_id: CYB-FUP-079
+case_id: CYB-2023-479
 period: 3
 operation_type: sentencing
 status: absorbed

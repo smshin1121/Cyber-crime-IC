@@ -3,7 +3,7 @@ type: operation
 title: "Adejumo and Jinadu (xDedic Tax-Fraud Proceeds) Enforcement Action"
 aliases:
   - "United States v. Adejumo and Jinadu (xDedic Tax-Fraud Proceeds)"
-case_id: CYB-FUP-007
+case_id: CYB-2023-026
 period: 3
 operation_type: sentencing
 status: absorbed

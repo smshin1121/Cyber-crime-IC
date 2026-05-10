@@ -3,7 +3,7 @@ type: operation
 title: "Woman Sentenced to 9 Years in Dark Web Murder-for-Hire Plot Enforcement Action"
 aliases:
   - "Woman Sentenced to 9 Years in Dark Web Murder-for-Hire Plot"
-case_id: CYB-FUP-1218
+case_id: CYB-2024-180
 period: 3
 operation_role: follow-on
 parent_operation: ""

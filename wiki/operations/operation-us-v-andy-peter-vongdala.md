@@ -3,7 +3,7 @@ type: operation
 title: "Andy Peter Vongdala Enforcement Action"
 aliases:
   - "United States v. Andy Peter Vongdala"
-case_id: CYB-FUP-214
+case_id: CYB-2024-454
 period: 3
 operation_role: follow-on
 parent_operation: ""

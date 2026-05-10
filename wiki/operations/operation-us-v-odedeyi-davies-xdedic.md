@@ -3,7 +3,7 @@ type: operation
 title: "Odedeyi and Davies (xDedic U.K. Extradition Case) Enforcement Action"
 aliases:
   - "United States v. Odedeyi and Davies (xDedic U.K. Extradition Case)"
-case_id: CYB-FUP-064
+case_id: CYB-2021-694
 period: 2
 operation_type: indictment
 status: absorbed

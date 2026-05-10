@@ -3,7 +3,7 @@ type: operation
 title: "Oleksandr Didenko Enforcement Action"
 aliases:
   - "United States v. Oleksandr Didenko"
-case_id: CYB-FUP-305
+case_id: CYB-2017-557
 period: 1
 operation_role: follow-on
 parent_operation: ""

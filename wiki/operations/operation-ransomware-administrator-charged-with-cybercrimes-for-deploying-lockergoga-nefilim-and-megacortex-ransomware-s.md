@@ -3,7 +3,7 @@ type: operation
 title: "Ransomware Administrator Charged with Cybercrimes for Deploying “Lockergoga,” “Nefilim,” and “Megacortex” Ransomware Strains Against Hundreds of Victims Enforcement Action"
 aliases:
   - "Ransomware Administrator Charged with Cybercrimes for Deploying “Lockergoga,” “Nefilim,” and “Megacortex” Ransomware Strains Against Hundreds of Victims"
-case_id: CYB-FUP-1107
+case_id: CYB-2025-932
 period: 3
 operation_role: follow-on
 parent_operation: ""

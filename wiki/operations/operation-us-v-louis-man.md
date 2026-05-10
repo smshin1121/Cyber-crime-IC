@@ -3,7 +3,7 @@ type: operation
 title: "Louis Man Enforcement Action"
 aliases:
   - "United States v. Louis Man"
-case_id: CYB-FUP-446
+case_id: CYB-2023-391
 period: 3
 operation_role: follow-on
 parent_operation: ""

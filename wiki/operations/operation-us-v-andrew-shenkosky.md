@@ -3,7 +3,7 @@ type: operation
 title: "Andrew Shenkosky Enforcement Action"
 aliases:
   - "United States v. Andrew Shenkosky"
-case_id: CYB-FUP-213
+case_id: CYB-2025-803
 period: 3
 operation_role: follow-on
 parent_operation: ""

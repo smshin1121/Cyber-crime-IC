@@ -3,7 +3,7 @@ type: operation
 title: "Antoin Austin Enforcement Action"
 aliases:
   - "United States v. Antoin Austin"
-case_id: CYB-FUP-747
+case_id: CYB-2018-474
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Jamar Edward Gay and James Edward Sweat Enforcement Action"
 aliases:
   - "United States v. Jamar Edward Gay and James Edward Sweat"
-case_id: CYB-FUP-260
+case_id: CYB-2020-645
 period: 2
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-jamar-edward-gay-and-james-edward-sweat]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-jamar-edward-gay-and-james-edward-sweat]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_darknet-vendor-arrested-distribution-and-money-laundering-charges]]"

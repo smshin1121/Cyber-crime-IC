@@ -3,7 +3,7 @@ type: operation
 title: "Orange County Man Arrested on Federal Stalking Charge Alleging Multiyear Harassment Campaign Against Prominent Online Gamer Enforcement Action"
 aliases:
   - "Orange County Man Arrested on Federal Stalking Charge Alleging Multiyear Harassment Campaign Against Prominent Online Gamer"
-case_id: CYB-FUP-1083
+case_id: CYB-2022-136
 period: 2
 operation_role: follow-on
 parent_operation: ""

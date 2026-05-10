@@ -3,7 +3,7 @@ type: operation
 title: "Skiatook Man Indicted for Threatening to Kill Federal Agents Enforcement Action"
 aliases:
   - "Skiatook Man Indicted for Threatening to Kill Federal Agents"
-case_id: CYB-FUP-1151
+case_id: CYB-2025-202
 period: 3
 operation_role: follow-on
 parent_operation: ""

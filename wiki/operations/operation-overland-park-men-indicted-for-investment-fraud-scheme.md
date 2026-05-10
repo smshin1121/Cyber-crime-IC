@@ -3,7 +3,7 @@ type: operation
 title: "Overland Park men indicted for investment fraud scheme Enforcement Action"
 aliases:
   - "Overland Park men indicted for investment fraud scheme"
-case_id: CYB-FUP-1087
+case_id: CYB-2025-931
 period: 3
 operation_role: follow-on
 parent_operation: ""

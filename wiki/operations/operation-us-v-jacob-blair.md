@@ -3,7 +3,7 @@ type: operation
 title: "Jacob Blair Enforcement Action"
 aliases:
   - "United States v. Jacob Blair"
-case_id: CYB-FUP-161
+case_id: CYB-2023-272
 period: 3
 operation_role: follow-on
 parent_operation: ""

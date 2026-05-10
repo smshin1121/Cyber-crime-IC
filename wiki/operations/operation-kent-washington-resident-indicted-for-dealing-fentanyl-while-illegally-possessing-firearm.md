@@ -3,7 +3,7 @@ type: operation
 title: "Kent, Washington, resident indicted for dealing fentanyl while illegally possessing firearm Enforcement Action"
 aliases:
   - "Kent, Washington, resident indicted for dealing fentanyl while illegally possessing firearm"
-case_id: CYB-FUP-579
+case_id: CYB-2023-946
 period: 3
 operation_role: follow-on
 parent_operation: ""

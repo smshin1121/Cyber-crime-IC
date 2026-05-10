@@ -3,7 +3,7 @@ type: operation
 title: "Newport News man sentenced for prolific card-swiping operation Enforcement Action"
 aliases:
   - "Newport News man sentenced for prolific card-swiping operation"
-case_id: CYB-FUP-1066
+case_id: CYB-2024-374
 period: 3
 operation_role: follow-on
 parent_operation: ""

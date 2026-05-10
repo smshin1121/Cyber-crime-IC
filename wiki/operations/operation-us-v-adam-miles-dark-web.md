@@ -3,7 +3,7 @@ type: operation
 title: "Adam Miles (NoStress) Enforcement Action"
 aliases:
   - "United States v. Adam Miles (NoStress)"
-case_id: CYB-FUP-006
+case_id: CYB-2018-798
 period: 1
 operation_type: sentencing
 status: absorbed

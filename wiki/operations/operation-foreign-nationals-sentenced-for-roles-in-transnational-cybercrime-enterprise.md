@@ -3,7 +3,7 @@ type: operation
 title: "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise Enforcement Action"
 aliases:
   - "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise"
-case_id: CYB-FUP-963
+case_id: CYB-2026-134
 period: 3
 operation_role: follow-on
 parent_operation: ""

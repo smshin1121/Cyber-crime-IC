@@ -3,7 +3,7 @@ type: operation
 title: "Victor Hernandez (Armed Dark Web Trafficker) Enforcement Action"
 aliases:
   - "United States v. Victor Hernandez (Armed Dark Web Trafficker)"
-case_id: CYB-FUP-042
+case_id: CYB-2024-463
 period: 3
 operation_type: sentencing
 status: absorbed

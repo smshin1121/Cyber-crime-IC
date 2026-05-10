@@ -3,7 +3,7 @@ type: operation
 title: "Tattoo Shop Owner Pleads Guilty to Distributing Heroin and Methamphetamine on the Darknet Enforcement Action"
 aliases:
   - "Tattoo Shop Owner Pleads Guilty to Distributing Heroin and Methamphetamine on the Darknet"
-case_id: CYB-FUP-857
+case_id: CYB-2020-289
 period: 2
 operation_role: follow-on
 parent_operation: ""

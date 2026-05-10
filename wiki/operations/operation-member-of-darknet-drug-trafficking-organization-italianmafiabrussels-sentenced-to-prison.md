@@ -3,7 +3,7 @@ type: operation
 title: "Member of Darknet Drug Trafficking Organization “ItalianMafiaBrussels” Sentenced to Prison Enforcement Action"
 aliases:
   - "Member of Darknet Drug Trafficking Organization “ItalianMafiaBrussels” Sentenced to Prison"
-case_id: CYB-FUP-1045
+case_id: CYB-2018-703
 period: 1
 operation_role: follow-on
 parent_operation: ""

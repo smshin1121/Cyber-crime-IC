@@ -3,7 +3,7 @@ type: operation
 title: "North Carolina man sentenced to federal prison for distributing opioids through the Dark Web Enforcement Action"
 aliases:
   - "North Carolina man sentenced to federal prison for distributing opioids through the Dark Web"
-case_id: CYB-FUP-609
+case_id: CYB-2021-454
 period: 2
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[north-carolina-man-sentenced-to-federal-prison-for-distributing-opioids-through-the-dark-web]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[north-carolina-man-sentenced-to-federal-prison-for-distributing-opioids-through-the-dark-web]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_north-carolina-man-sentenced-federal-prison-distributing-opioids-through-dark-web]]"

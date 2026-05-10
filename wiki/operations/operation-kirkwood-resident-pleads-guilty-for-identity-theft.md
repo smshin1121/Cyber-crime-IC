@@ -3,7 +3,7 @@ type: operation
 title: "Kirkwood resident pleads guilty for identity theft Enforcement Action"
 aliases:
   - "Kirkwood resident pleads guilty for identity theft"
-case_id: CYB-FUP-586
+case_id: CYB-2021-033
 period: 2
 operation_role: follow-on
 parent_operation: ""

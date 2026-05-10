@@ -3,7 +3,7 @@ type: operation
 title: "Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action"
 aliases:
   - "Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case"
-case_id: CYB-FUP-968
+case_id: CYB-2018-398
 period: 1
 operation_role: follow-on
 parent_operation: ""

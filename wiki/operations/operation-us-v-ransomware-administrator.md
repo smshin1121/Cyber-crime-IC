@@ -3,7 +3,7 @@ type: operation
 title: "Ransomware Administrator Enforcement Action"
 aliases:
   - "United States v. Ransomware Administrator"
-case_id: CYB-FUP-461
+case_id: CYB-2025-392
 period: 3
 operation_role: follow-on
 parent_operation: ""

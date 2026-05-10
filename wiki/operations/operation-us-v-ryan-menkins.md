@@ -3,7 +3,7 @@ type: operation
 title: "Ryan Menkins Enforcement Action"
 aliases:
   - "United States v. Ryan Menkins"
-case_id: CYB-FUP-181
+case_id: CYB-2022-508
 period: 2
 operation_role: follow-on
 parent_operation: ""

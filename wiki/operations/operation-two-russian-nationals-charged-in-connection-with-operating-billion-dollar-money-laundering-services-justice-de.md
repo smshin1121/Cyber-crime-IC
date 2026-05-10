@@ -3,7 +3,7 @@ type: operation
 title: "Two Russian nationals charged in connection with operating billion-dollar money laundering services; Justice Department seizes web domains for multiple illicit crypto exchanges Enforcement Action"
 aliases:
   - "Two Russian nationals charged in connection with operating billion-dollar money laundering services; Justice Department seizes web domains for multiple illicit crypto exchanges"
-case_id: CYB-FUP-861
+case_id: CYB-2024-994
 period: 3
 operation_role: follow-on
 parent_operation: ""

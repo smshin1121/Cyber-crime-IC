@@ -3,7 +3,7 @@ type: operation
 title: "Estonian National Extradited From Estonia To Face Charges Of Illegal Procurement Of U.S. Electronics Enforcement Action"
 aliases:
   - "Estonian National Extradited From Estonia To Face Charges Of Illegal Procurement Of U.S. Electronics"
-case_id: CYB-FUP-945
+case_id: CYB-2019-205
 period: 1
 operation_role: follow-on
 parent_operation: ""

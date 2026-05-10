@@ -3,7 +3,7 @@ type: operation
 title: "Humberto Lopez Rodriguez and Lopez Rodriguez Enforcement Action"
 aliases:
   - "United States v. Humberto Lopez Rodriguez and Lopez Rodriguez"
-case_id: CYB-FUP-255
+case_id: CYB-2025-100
 period: 3
 operation_role: follow-on
 parent_operation: ""

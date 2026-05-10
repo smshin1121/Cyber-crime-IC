@@ -3,7 +3,7 @@ type: operation
 title: "Vyacheslav Igorevich Penchukov Enforcement Action"
 aliases:
   - "United States v. Vyacheslav Igorevich Penchukov"
-case_id: CYB-FUP-789
+case_id: CYB-2024-411
 period: 3
 operation_role: follow-on
 parent_operation: ""

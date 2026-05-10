@@ -3,7 +3,7 @@ type: operation
 title: "Marine Based at Camp Pendleton Arrested on Federal Charges Alleging Cyberstalking of Young Women in Sextortion Campaign Enforcement Action"
 aliases:
   - "Marine Based at Camp Pendleton Arrested on Federal Charges Alleging Cyberstalking of Young Women in Sextortion Campaign"
-case_id: CYB-FUP-1039
+case_id: CYB-2022-381
 period: 2
 operation_role: follow-on
 parent_operation: ""

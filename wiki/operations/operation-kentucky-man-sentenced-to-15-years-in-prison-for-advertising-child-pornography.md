@@ -3,7 +3,7 @@ type: operation
 title: "Kentucky Man Sentenced to 15 Years in Prison for Advertising Child Pornography Enforcement Action"
 aliases:
   - "Kentucky Man Sentenced to 15 Years in Prison for Advertising Child Pornography"
-case_id: CYB-FUP-1018
+case_id: CYB-2024-919
 period: 3
 operation_role: follow-on
 parent_operation: ""

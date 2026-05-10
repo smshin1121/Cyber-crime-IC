@@ -3,7 +3,7 @@ type: operation
 title: "Gregory Castillo-Rosario et al. (Darknet Counterfeit Adderall Ring) Enforcement Action"
 aliases:
   - "United States v. Gregory Castillo-Rosario et al. (Darknet Counterfeit Adderall Ring)"
-case_id: CYB-FUP-022
+case_id: CYB-2025-284
 period: 3
 operation_type: sentencing
 status: absorbed

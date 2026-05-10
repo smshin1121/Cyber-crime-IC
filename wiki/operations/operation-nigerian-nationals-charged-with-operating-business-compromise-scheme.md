@@ -3,7 +3,7 @@ type: operation
 title: "Nigerian Nationals Charged with Operating Business Compromise Scheme Enforcement Action"
 aliases:
   - "Nigerian Nationals Charged with Operating Business Compromise Scheme"
-case_id: CYB-FUP-607
+case_id: CYB-2016-407
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Utah Man Enforcement Action"
 aliases:
   - "United States v. Utah Man"
-case_id: CYB-FUP-487
+case_id: CYB-2021-610
 period: 2
 operation_role: follow-on
 parent_operation: ""

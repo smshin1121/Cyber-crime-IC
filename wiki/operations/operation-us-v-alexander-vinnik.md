@@ -3,7 +3,7 @@ type: operation
 title: "Alexander Vinnik Enforcement Action"
 aliases:
   - "United States v. Alexander Vinnik"
-case_id: CYB-FUP-209
+case_id: CYB-2022-404
 period: 2
 operation_role: follow-on
 parent_operation: ""

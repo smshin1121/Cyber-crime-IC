@@ -3,7 +3,7 @@ type: operation
 title: "San Jose Man Pleads Guilty To Damaging Cisco’s Network Enforcement Action"
 aliases:
   - "San Jose Man Pleads Guilty To Damaging Cisco’s Network"
-case_id: CYB-FUP-734
+case_id: CYB-2020-380
 period: 2
 operation_role: follow-on
 parent_operation: ""

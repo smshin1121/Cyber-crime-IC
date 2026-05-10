@@ -3,7 +3,7 @@ type: operation
 title: "West Chester Drug Dealer Pleads Guilty to Purchasing Hundreds of Deadly Fentanyl Pills Disguised as Oxycodone Enforcement Action"
 aliases:
   - "West Chester Drug Dealer Pleads Guilty to Purchasing Hundreds of Deadly Fentanyl Pills Disguised as Oxycodone"
-case_id: CYB-FUP-1213
+case_id: CYB-2022-807
 period: 2
 operation_role: follow-on
 parent_operation: ""

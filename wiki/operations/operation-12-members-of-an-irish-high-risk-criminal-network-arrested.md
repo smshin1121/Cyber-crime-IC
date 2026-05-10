@@ -3,7 +3,7 @@ type: operation
 title: "12 members of an Irish high-risk criminal network arrested Follow-On Action"
 aliases:
   - "12 members of an Irish high-risk criminal network arrested"
-case_id: CYB-FUP-501
+case_id: CYB-2024-973
 period: 3
 operation_role: follow-on
 parent_operation: ""

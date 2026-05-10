@@ -3,7 +3,7 @@ type: operation
 title: "Karen Kowkabi Enforcement Action"
 aliases:
   - "United States v. Karen Kowkabi"
-case_id: CYB-FUP-168
+case_id: CYB-2023-040
 period: 3
 operation_role: follow-on
 parent_operation: ""

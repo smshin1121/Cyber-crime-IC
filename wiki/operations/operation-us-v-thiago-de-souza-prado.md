@@ -3,7 +3,7 @@ type: operation
 title: "Thiago De Souza Prado Enforcement Action"
 aliases:
   - "United States v. Thiago De Souza Prado"
-case_id: CYB-FUP-185
+case_id: CYB-2023-701
 period: 3
 operation_role: follow-on
 parent_operation: ""

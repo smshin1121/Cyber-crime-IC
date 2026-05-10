@@ -3,7 +3,7 @@ type: operation
 title: "Narcotics Traffickers Among Those Enforcement Action"
 aliases:
   - "United States v. Narcotics Traffickers Among Those"
-case_id: CYB-FUP-452
+case_id: CYB-2020-773
 period: 2
 operation_role: follow-on
 parent_operation: "[[operation-disruptor]]"
@@ -55,7 +55,6 @@ related_cases:
   - "[[us-v-narcotics-traffickers-among-those]]"
 related_operations:
   - "[[operation-disruptor]]"
-
 challenges_encountered:
 
 lessons_learned:

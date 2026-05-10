@@ -3,7 +3,7 @@ type: operation
 title: "Yevgeniy Nikulin Indicted For Hacking LinkedIn, Dropbox, And Formspring Enforcement Action"
 aliases:
   - "Yevgeniy Nikulin Indicted For Hacking LinkedIn, Dropbox, And Formspring"
-case_id: CYB-FUP-1223
+case_id: CYB-2016-749
 period: 1
 operation_role: follow-on
 parent_operation: ""

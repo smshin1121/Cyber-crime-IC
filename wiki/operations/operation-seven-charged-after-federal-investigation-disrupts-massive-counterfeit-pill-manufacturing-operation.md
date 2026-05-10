@@ -3,7 +3,7 @@ type: operation
 title: "Seven Charged after Federal Investigation Disrupts Massive Counterfeit Pill Manufacturing Operation Enforcement Action"
 aliases:
   - "Seven Charged after Federal Investigation Disrupts Massive Counterfeit Pill Manufacturing Operation"
-case_id: CYB-FUP-627
+case_id: CYB-2024-098
 period: 3
 operation_role: follow-on
 parent_operation: ""

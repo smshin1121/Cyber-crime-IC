@@ -3,7 +3,7 @@ type: operation
 title: "Tanisha Spencer Enforcement Action"
 aliases:
   - "United States v. Tanisha Spencer"
-case_id: CYB-FUP-384
+case_id: CYB-2025-801
 period: 3
 operation_role: follow-on
 parent_operation: ""

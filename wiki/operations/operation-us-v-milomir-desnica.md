@@ -3,7 +3,7 @@ type: operation
 title: "Milomir Desnica Enforcement Action"
 aliases:
   - "United States v. Milomir Desnica"
-case_id: CYB-FUP-297
+case_id: CYB-2023-529
 period: 3
 operation_role: follow-on
 parent_operation: ""

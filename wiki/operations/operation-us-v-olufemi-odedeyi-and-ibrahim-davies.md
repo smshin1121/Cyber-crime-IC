@@ -3,7 +3,7 @@ type: operation
 title: "Olufemi Odedeyi And Ibrahim Davies Enforcement Action"
 aliases:
   - "United States v. Olufemi Odedeyi And Ibrahim Davies"
-case_id: CYB-FUP-124
+case_id: CYB-2021-561
 period: 2
 operation_role: follow-on
 parent_operation: ""

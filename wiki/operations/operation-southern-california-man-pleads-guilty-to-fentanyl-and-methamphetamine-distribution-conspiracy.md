@@ -3,7 +3,7 @@ type: operation
 title: "Southern California Man Pleads Guilty to Fentanyl and Methamphetamine Distribution Conspiracy Enforcement Action"
 aliases:
   - "Southern California Man Pleads Guilty to Fentanyl and Methamphetamine Distribution Conspiracy"
-case_id: CYB-FUP-1156
+case_id: CYB-2025-118
 period: 3
 operation_role: follow-on
 parent_operation: ""

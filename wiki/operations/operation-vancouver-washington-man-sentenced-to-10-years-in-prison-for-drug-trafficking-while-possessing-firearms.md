@@ -3,7 +3,7 @@ type: operation
 title: "Vancouver, Washington man sentenced to 10 years in prison for drug trafficking while possessing firearms Enforcement Action"
 aliases:
   - "Vancouver, Washington man sentenced to 10 years in prison for drug trafficking while possessing firearms"
-case_id: CYB-FUP-666
+case_id: CYB-2024-228
 period: 3
 operation_role: follow-on
 parent_operation: ""

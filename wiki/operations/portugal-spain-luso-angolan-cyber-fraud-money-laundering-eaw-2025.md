@@ -3,7 +3,7 @@ type: operation
 title: "Portugal-Spain EAW Surrender of Luso-Angolan Cyber Fraud Money-Laundering Suspect (2025)"
 aliases:
   - "Detido em Espanha homem procurado em Portugal por branqueamento e burla informatica"
-case_id: CYB-2025-0922
+case_id: CYB-2025-861
 period: 3
 operation_type: arrest-sweep
 status: completed
@@ -52,9 +52,12 @@ source_tier: 1
 missing_fields:
   - cryptocurrency_seized
   - victims_notified
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "Routine EAW execution can move a cyber-enabled fraud / money-laundering suspect across two EU member states without Eurojust or Europol involvement when the underlying domestic investigation is already mature."
 source_count: 1
@@ -63,7 +66,6 @@ sources:
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 > [!info] Provisional / single-source
 > This page is below the preferred source threshold (5+) and is published as a provisional record of a single tier-1 PJ press release. Expand when corroborating Spanish or UK statements appear.
 

@@ -3,7 +3,7 @@ type: operation
 title: "Two drug traffickers sentenced to lengthy prison terms in case arising from investigation of Aryan Family prison gang Enforcement Action"
 aliases:
   - "Two drug traffickers sentenced to lengthy prison terms in case arising from investigation of Aryan Family prison gang"
-case_id: CYB-FUP-647
+case_id: CYB-2024-222
 period: 3
 operation_role: follow-on
 parent_operation: ""

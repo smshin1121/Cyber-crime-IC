@@ -3,7 +3,7 @@ type: operation
 title: "Mountain View Resident Charged With Production Of Child Pornography And Cyberstalking Enforcement Action"
 aliases:
   - "Mountain View Resident Charged With Production Of Child Pornography And Cyberstalking"
-case_id: CYB-FUP-1059
+case_id: CYB-2017-123
 period: 1
 operation_role: follow-on
 parent_operation: ""

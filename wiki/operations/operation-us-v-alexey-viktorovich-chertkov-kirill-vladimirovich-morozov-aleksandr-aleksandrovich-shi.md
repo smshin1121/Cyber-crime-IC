@@ -3,7 +3,7 @@ type: operation
 title: "Alexey Viktorovich Chertkov, Kirill Vladimirovich Morozov, Aleksandr Aleksandrovich Shishkin, and Dmitriy Rubtsov Enforcement Action"
 aliases:
   - "United States v. Alexey Viktorovich Chertkov, Kirill Vladimirovich Morozov, Aleksandr Aleksandrovich Shishkin, and Dmitriy Rubtsov"
-case_id: CYB-FUP-211
+case_id: CYB-2025-958
 period: 3
 operation_role: follow-on
 parent_operation: ""

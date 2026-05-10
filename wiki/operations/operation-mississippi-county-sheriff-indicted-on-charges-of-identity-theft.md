@@ -3,7 +3,7 @@ type: operation
 title: "Mississippi County Sheriff Indicted on Charges of Identity Theft Enforcement Action"
 aliases:
   - "Mississippi County Sheriff Indicted on Charges of Identity Theft"
-case_id: CYB-FUP-708
+case_id: CYB-2018-385
 period: 1
 operation_role: follow-on
 parent_operation: ""

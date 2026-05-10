@@ -5,7 +5,7 @@ title_ko: "애슈턴 코너 가르시아 스와팅 선고 조치"
 aliases:
   - "Bremerton Washington man sentenced to 3 years in prison for extensive swatting campaign targeting victims in US and Canada"
   - "Ashton Connor Garcia swatting case follow-on operation"
-case_id: CYB-FUP-520
+case_id: CYB-2024-129
 period: 3
 operation_role: follow-on
 parent_operation: ""

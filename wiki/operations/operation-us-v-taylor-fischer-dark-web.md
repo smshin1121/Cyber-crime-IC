@@ -3,7 +3,7 @@ type: operation
 title: "Taylor and Fischer (Darknet Vendors) Enforcement Action"
 aliases:
   - "United States v. Taylor and Fischer (Darknet Vendors)"
-case_id: CYB-FUP-090
+case_id: CYB-2023-138
 period: 3
 operation_type: conviction
 status: absorbed

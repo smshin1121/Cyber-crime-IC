@@ -3,7 +3,7 @@ type: operation
 title: "Hector Duran Aldaco Enforcement Action"
 aliases:
   - "United States v. Hector Duran Aldaco"
-case_id: CYB-FUP-252
+case_id: CYB-2024-773
 period: 3
 operation_role: follow-on
 parent_operation: ""

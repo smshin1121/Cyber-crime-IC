@@ -3,7 +3,7 @@ type: operation
 title: "Massachusetts Man Pleads Guilty to Knowingly Concealing the Source of Material Support or Resources to ISIS Enforcement Action"
 aliases:
   - "Massachusetts Man Pleads Guilty to Knowingly Concealing the Source of Material Support or Resources to ISIS"
-case_id: CYB-FUP-1043
+case_id: CYB-2025-048
 period: 3
 operation_role: follow-on
 parent_operation: ""

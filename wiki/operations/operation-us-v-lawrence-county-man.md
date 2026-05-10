@@ -3,7 +3,7 @@ type: operation
 title: "Lawrence County Man Enforcement Action"
 aliases:
   - "United States v. Lawrence County Man"
-case_id: CYB-FUP-444
+case_id: CYB-2025-658
 period: 3
 operation_role: follow-on
 parent_operation: ""

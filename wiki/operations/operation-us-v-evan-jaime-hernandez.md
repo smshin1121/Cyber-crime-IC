@@ -3,7 +3,7 @@ type: operation
 title: "Evan Jaime Hernandez Enforcement Action"
 aliases:
   - "United States v. Evan Jaime Hernandez"
-case_id: CYB-FUP-115
+case_id: CYB-2022-727
 period: 2
 operation_role: follow-on
 parent_operation: ""

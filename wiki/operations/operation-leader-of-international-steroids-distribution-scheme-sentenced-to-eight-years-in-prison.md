@@ -3,7 +3,7 @@ type: operation
 title: "Leader of International Steroids Distribution Scheme Sentenced to Eight Years in Prison Enforcement Action"
 aliases:
   - "Leader of International Steroids Distribution Scheme Sentenced to Eight Years in Prison"
-case_id: CYB-FUP-588
+case_id: CYB-2023-895
 period: 3
 operation_role: follow-on
 parent_operation: ""

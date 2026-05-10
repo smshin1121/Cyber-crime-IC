@@ -3,7 +3,7 @@ type: operation
 title: "Nathaniel Earl Dunlap Enforcement Action"
 aliases:
   - "United States v. Nathaniel Earl Dunlap"
-case_id: CYB-FUP-373
+case_id: CYB-2017-910
 period: 1
 operation_role: follow-on
 parent_operation: ""

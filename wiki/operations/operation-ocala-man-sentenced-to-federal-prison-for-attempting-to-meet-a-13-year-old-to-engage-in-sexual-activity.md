@@ -3,7 +3,7 @@ type: operation
 title: "Ocala Man Sentenced To Federal Prison For Attempting To Meet A 13-Year-Old To Engage In Sexual Activity Enforcement Action"
 aliases:
   - "Ocala Man Sentenced To Federal Prison For Attempting To Meet A 13-Year-Old To Engage In Sexual Activity"
-case_id: CYB-FUP-1076
+case_id: CYB-2024-484
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[ocala-man-sentenced-to-federal-prison-for-attempting-to-meet-a-13-year-old-to-engage-in-sexual-activity]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[ocala-man-sentenced-to-federal-prison-for-attempting-to-meet-a-13-year-old-to-engage-in-sexual-activity]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_ocala-man-sentenced-federal-prison-attempting-meet-13-year-old-engage-sexual-activity]]"

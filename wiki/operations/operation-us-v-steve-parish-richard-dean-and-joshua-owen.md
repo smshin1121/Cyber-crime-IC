@@ -3,7 +3,7 @@ type: operation
 title: "Steve Parish, Richard Dean, and Joshua Owen Enforcement Action"
 aliases:
   - "United States v. Steve Parish, Richard Dean, and Joshua Owen"
-case_id: CYB-FUP-383
+case_id: CYB-2025-890
 period: 3
 operation_role: follow-on
 parent_operation: ""

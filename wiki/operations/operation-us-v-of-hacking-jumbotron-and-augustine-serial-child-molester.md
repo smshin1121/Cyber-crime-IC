@@ -3,7 +3,7 @@ type: operation
 title: "Of Hacking Jumbotron and Augustine Serial Child Molester Enforcement Action"
 aliases:
   - "United States v. Of Hacking Jumbotron and Augustine Serial Child Molester"
-case_id: CYB-FUP-455
+case_id: CYB-2023-906
 period: 3
 operation_role: follow-on
 parent_operation: ""

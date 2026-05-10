@@ -3,7 +3,7 @@ type: operation
 title: "South Carolina Man Charged with Interstate Stalking and Aggravated ID Theft Targeting Pennsylvania Resident Enforcement Action"
 aliases:
   - "South Carolina Man Charged with Interstate Stalking and Aggravated ID Theft Targeting Pennsylvania Resident"
-case_id: CYB-FUP-1154
+case_id: CYB-2017-698
 period: 1
 operation_role: follow-on
 parent_operation: ""

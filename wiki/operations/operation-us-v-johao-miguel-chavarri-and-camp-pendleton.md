@@ -3,7 +3,7 @@ type: operation
 title: "Johao Miguel Chavarri and Camp Pendleton Enforcement Action"
 aliases:
   - "United States v. Johao Miguel Chavarri and Camp Pendleton"
-case_id: CYB-FUP-163
+case_id: CYB-2022-648
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Konovolov et al. (GozNym Network) Enforcement Action"
 aliases:
   - "United States v. Konovolov et al. (GozNym Network)"
-case_id: CYB-FUP-053
+case_id: CYB-2019-088
 period: 1
 operation_type: indictment
 status: absorbed

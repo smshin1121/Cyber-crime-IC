@@ -3,7 +3,7 @@ type: operation
 title: "Three Arrested as INTERPOL, Group-IB and the Nigeria Police Force Disrupt Prolific Cybercrime Group Enforcement Action"
 aliases:
   - "Three Arrested as INTERPOL, Group-IB and the Nigeria Police Force Disrupt Prolific Cybercrime Group"
-case_id: CYB-FUP-641
+case_id: CYB-2020-523
 period: 2
 operation_role: follow-on
 parent_operation: ""

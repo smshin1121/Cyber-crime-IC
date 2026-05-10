@@ -3,7 +3,7 @@ type: operation
 title: "Internet Stalker Enforcement Action"
 aliases:
   - "United States v. Internet Stalker"
-case_id: CYB-FUP-762
+case_id: CYB-2019-506
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-internet-stalker]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-internet-stalker]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_internet-stalker-sentenced-more-14-years-federal-prison]]"

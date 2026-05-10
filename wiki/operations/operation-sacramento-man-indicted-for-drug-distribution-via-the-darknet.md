@@ -3,7 +3,7 @@ type: operation
 title: "Sacramento Man Indicted for Drug Distribution Via the Darknet Enforcement Action"
 aliases:
   - "Sacramento Man Indicted for Drug Distribution Via the Darknet"
-case_id: CYB-FUP-1131
+case_id: CYB-2021-012
 period: 2
 operation_role: follow-on
 parent_operation: ""

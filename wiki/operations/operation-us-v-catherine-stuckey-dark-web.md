@@ -3,7 +3,7 @@ type: operation
 title: "Catherine Stuckey (Darknet Marketplace Vendor) Enforcement Action"
 aliases:
   - "United States v. Catherine Stuckey (Darknet Marketplace Vendor)"
-case_id: CYB-FUP-024
+case_id: CYB-2020-760
 period: 2
 operation_type: prosecution
 status: absorbed

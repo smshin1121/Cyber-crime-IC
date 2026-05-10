@@ -5,7 +5,7 @@ aliases:
   - "VerifTools follow-up arrests"
   - "Politie VerifTools 2026 arrests"
   - "Operation VerifTools (NL user-side)"
-case_id: "CYB-2026-NL-VERIFTOOLS"
+case_id: CYB-2026-939
 period: 3
 operation_type: arrest-sweep
 status: ongoing
@@ -33,7 +33,8 @@ participating_agencies:
   - "[[netherlands-politie|Politie - Team Cybercrime Rotterdam]]"
   - "[[netherlands-om|Openbaar Ministerie (Dutch Public Prosecution Service)]]"
   - "[[fbi|Federal Bureau of Investigation]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[informal-cooperation|Informal Police-to-Police Cooperation]]"
   - "[[domain-seizure|Domain and Infrastructure Seizure]]"
@@ -55,32 +56,35 @@ results:
     - "Estimated EUR 3+ million revenue in VerifTools' last year of operation"
 edges:
   - source_actor: "Politie - Team Cybercrime Rotterdam"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
   - source_actor: "Politie - Team Cybercrime Rotterdam"
     target_actor: "Openbaar Ministerie"
-    cooperation_type: "joint_investigation"
-    legal_basis: "bilateral_MOU"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: bilateral_MOU
+    direction: undirected
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
   - "specific MLAT instruments invoked (not disclosed in press release)"
   - "exact crypto and cash amounts seized 7-8 Apr 2026"
   - "identities of arrested suspects (withheld per Dutch privacy practice)"
-related_cases: []
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-09_politie_veriftools-identity-fraud-arrests]]"
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional / single-source page
 > This page is published below the preferred `source_count >= 5` threshold because the underlying operation is ongoing and only the Dutch national police primary source has been ingested in this pass. Additional FBI/DOJ and Dutch follow-on releases should be merged here as they are ingested rather than spawning sibling pages.
 

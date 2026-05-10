@@ -3,7 +3,7 @@ type: operation
 title: "Jeremy Daniel Singer Enforcement Action"
 aliases:
   - "United States v. Jeremy Daniel Singer"
-case_id: CYB-FUP-263
+case_id: CYB-2019-221
 period: 1
 operation_role: follow-on
 parent_operation: ""

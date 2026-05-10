@@ -3,7 +3,7 @@ type: operation
 title: "Darknet Drug Vendor Arrested for Distributing Illicit Prescription Drugs Enforcement Action"
 aliases:
   - "Darknet Drug Vendor Arrested for Distributing Illicit Prescription Drugs"
-case_id: CYB-FUP-815
+case_id: CYB-2020-032
 period: 2
 operation_role: follow-on
 parent_operation: ""

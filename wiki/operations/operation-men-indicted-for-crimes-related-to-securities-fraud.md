@@ -3,7 +3,7 @@ type: operation
 title: "Men indicted for crimes related to securities fraud Enforcement Action"
 aliases:
   - "Men indicted for crimes related to securities fraud"
-case_id: CYB-FUP-1049
+case_id: CYB-2025-639
 period: 3
 operation_role: follow-on
 parent_operation: ""

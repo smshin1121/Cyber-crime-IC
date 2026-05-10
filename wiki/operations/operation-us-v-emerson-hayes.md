@@ -3,7 +3,7 @@ type: operation
 title: "Emerson Hayes Enforcement Action"
 aliases:
   - "United States v. Emerson Hayes"
-case_id: CYB-FUP-354
+case_id: CYB-2025-032
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-emerson-hayes]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-emerson-hayes]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_arizona-man-indicted-federal-assault-charges]]"

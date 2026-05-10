@@ -3,7 +3,7 @@ type: operation
 title: "Tacoma man with lengthy criminal history pleads guilty to gun and drug charges Enforcement Action"
 aliases:
   - "Tacoma man with lengthy criminal history pleads guilty to gun and drug charges"
-case_id: CYB-FUP-1168
+case_id: CYB-2025-489
 period: 3
 operation_role: follow-on
 parent_operation: ""

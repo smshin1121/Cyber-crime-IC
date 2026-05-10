@@ -3,7 +3,7 @@ type: operation
 title: "Texas Man Sentenced to 15 Years in Prison for Advertising Child Pornography Enforcement Action"
 aliases:
   - "Texas Man Sentenced to 15 Years in Prison for Advertising Child Pornography"
-case_id: CYB-FUP-1171
+case_id: CYB-2023-013
 period: 3
 operation_role: follow-on
 parent_operation: ""

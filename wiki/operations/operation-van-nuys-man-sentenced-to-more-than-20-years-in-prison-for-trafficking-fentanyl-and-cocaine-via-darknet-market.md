@@ -3,7 +3,7 @@ type: operation
 title: "Van Nuys Man Sentenced to More Than 20 Years in Prison for Trafficking Fentanyl and Cocaine via Darknet Marketplaces and Possessing Guns Enforcement Action"
 aliases:
   - "Van Nuys Man Sentenced to More Than 20 Years in Prison for Trafficking Fentanyl and Cocaine via Darknet Marketplaces and Possessing Guns"
-case_id: CYB-FUP-665
+case_id: CYB-2024-523
 period: 3
 operation_role: follow-on
 parent_operation: ""

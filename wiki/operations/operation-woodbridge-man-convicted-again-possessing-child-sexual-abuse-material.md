@@ -3,7 +3,7 @@ type: operation
 title: "Jorge Antonio Escobar Enforcement Action"
 aliases:
   - "United States v. Jorge Antonio Escobar"
-case_id: CYB-FUP-187
+case_id: CYB-2024-648
 period: 3
 operation_role: follow-on
 parent_operation: ""

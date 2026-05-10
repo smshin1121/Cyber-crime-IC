@@ -3,7 +3,7 @@ type: operation
 title: "Jerrell Eugene Anderson Enforcement Action"
 aliases:
   - "United States v. Jerrell Eugene Anderson"
-case_id: CYB-FUP-264
+case_id: CYB-2024-613
 period: 3
 operation_role: follow-on
 parent_operation: ""

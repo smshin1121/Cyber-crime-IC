@@ -3,7 +3,7 @@ type: operation
 title: "Queens Woman Charged With Using a Hitman-For-Hire Website on the Dark Web to Order Murder of Her Lover’s Wife Enforcement Action"
 aliases:
   - "Queens Woman Charged With Using a Hitman-For-Hire Website on the Dark Web to Order Murder of Her Lover’s Wife"
-case_id: CYB-FUP-1106
+case_id: CYB-2024-602
 period: 3
 operation_role: follow-on
 parent_operation: ""

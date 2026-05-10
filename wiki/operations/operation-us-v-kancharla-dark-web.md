@@ -3,7 +3,7 @@ type: operation
 title: "Akshay Kancharla (OnlyTheFinest) Enforcement Action"
 aliases:
   - "United States v. Akshay Kancharla (OnlyTheFinest)"
-case_id: CYB-FUP-051
+case_id: CYB-2022-601
 period: 2
 operation_type: conviction
 status: absorbed

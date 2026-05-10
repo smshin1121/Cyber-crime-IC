@@ -3,7 +3,7 @@ type: operation
 title: "Kevin Ombisi Enforcement Action"
 aliases:
   - "United States v. Kevin Ombisi"
-case_id: CYB-FUP-772
+case_id: CYB-2021-375
 period: 2
 operation_role: follow-on
 parent_operation: ""

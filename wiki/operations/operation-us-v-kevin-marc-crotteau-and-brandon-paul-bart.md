@@ -3,7 +3,7 @@ type: operation
 title: "Kevin Marc Crotteau and Brandon Paul Bart Enforcement Action"
 aliases:
   - "United States v. Kevin Marc Crotteau and Brandon Paul Bart"
-case_id: CYB-FUP-771
+case_id: CYB-2021-987
 period: 2
 operation_role: follow-on
 parent_operation: ""

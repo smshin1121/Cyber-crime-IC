@@ -3,7 +3,7 @@ type: operation
 title: "Melissa Scanlan (The Drug Llama) Enforcement Action"
 aliases:
   - "United States v. Melissa Scanlan (The Drug Llama)"
-case_id: CYB-FUP-083
+case_id: CYB-2020-474
 period: 2
 operation_type: sentencing
 status: absorbed

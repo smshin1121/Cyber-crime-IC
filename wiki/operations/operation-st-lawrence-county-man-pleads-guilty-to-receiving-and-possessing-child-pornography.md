@@ -3,7 +3,7 @@ type: operation
 title: "St. Lawrence County Man Pleads Guilty to Receiving and Possessing Child Pornography Enforcement Action"
 aliases:
   - "St. Lawrence County Man Pleads Guilty to Receiving and Possessing Child Pornography"
-case_id: CYB-FUP-1160
+case_id: CYB-2025-425
 period: 3
 operation_role: follow-on
 parent_operation: ""

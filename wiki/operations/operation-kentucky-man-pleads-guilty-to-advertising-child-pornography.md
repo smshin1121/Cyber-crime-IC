@@ -3,7 +3,7 @@ type: operation
 title: "Kentucky Man Pleads Guilty to Advertising Child Pornography Enforcement Action"
 aliases:
   - "Kentucky Man Pleads Guilty to Advertising Child Pornography"
-case_id: CYB-FUP-1017
+case_id: CYB-2023-746
 period: 3
 operation_role: follow-on
 parent_operation: ""

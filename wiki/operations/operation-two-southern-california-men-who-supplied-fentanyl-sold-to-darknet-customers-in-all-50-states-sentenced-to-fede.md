@@ -3,7 +3,7 @@ type: operation
 title: "Two Southern California Men Who Supplied Fentanyl Sold to Darknet Customers in All 50 States Sentenced to Federal Prison Enforcement Action"
 aliases:
   - "Two Southern California Men Who Supplied Fentanyl Sold to Darknet Customers in All 50 States Sentenced to Federal Prison"
-case_id: CYB-FUP-1194
+case_id: CYB-2025-384
 period: 3
 operation_role: follow-on
 parent_operation: ""

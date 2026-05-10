@@ -3,7 +3,7 @@ type: operation
 title: "Orange County Man Sentenced To 75 Months For Distributing Methamphetamine And Selling Illegal Pills On The Dark Web Enforcement Action"
 aliases:
   - "Orange County Man Sentenced To 75 Months For Distributing Methamphetamine And Selling Illegal Pills On The Dark Web"
-case_id: CYB-FUP-1085
+case_id: CYB-2025-544
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Nicaraguan National Pleads Guilty to Conspiring to Distribute Cocaine and Marijuana on the Darknet Enforcement Action"
 aliases:
   - "Nicaraguan National Pleads Guilty to Conspiring to Distribute Cocaine and Marijuana on the Darknet"
-case_id: CYB-FUP-1067
+case_id: CYB-2019-321
 period: 1
 operation_role: follow-on
 parent_operation: ""

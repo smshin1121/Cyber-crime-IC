@@ -3,7 +3,7 @@ type: operation
 title: "Jesse Kipf Enforcement Action"
 aliases:
   - "United States v. Jesse Kipf"
-case_id: CYB-FUP-265
+case_id: CYB-2023-393
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Issaquah, Washington man sentenced to 7 years in prison for dealing fentanyl and other drugs on the darknet Enforcement Action"
 aliases:
   - "Issaquah, Washington man sentenced to 7 years in prison for dealing fentanyl and other drugs on the darknet"
-case_id: CYB-FUP-574
+case_id: CYB-2022-467
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Three Members of GozNym Cybercrime Network Sentenced in Parallel Multi-National Prosecutions in Pittsburgh and Tbilisi, Georgia Enforcement Action"
 aliases:
   - "Three Members of GozNym Cybercrime Network Sentenced in Parallel Multi-National Prosecutions in Pittsburgh and Tbilisi, Georgia"
-case_id: CYB-FUP-1181
+case_id: CYB-2019-286
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Allen D Lint Enforcement Action"
 aliases:
   - "United States v. Allen D Lint"
-case_id: CYB-FUP-109
+case_id: CYB-2018-811
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Holly Danielle Adams and Devlin Hosner Enforcement Action"
 aliases:
   - "United States v. Holly Danielle Adams and Devlin Hosner"
-case_id: CYB-FUP-253
+case_id: CYB-2024-100
 period: 3
 operation_role: follow-on
 parent_operation: ""

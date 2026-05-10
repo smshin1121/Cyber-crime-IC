@@ -3,7 +3,7 @@ type: operation
 title: "Following Seizure And Forfeiture and Dark Web Fraud Defendant Enforcement Action"
 aliases:
   - "United States v. Following Seizure And Forfeiture and Dark Web Fraud Defendant"
-case_id: CYB-FUP-419
+case_id: CYB-2023-964
 period: 3
 operation_role: follow-on
 parent_operation: ""

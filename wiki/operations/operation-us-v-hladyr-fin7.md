@@ -3,7 +3,7 @@ type: operation
 title: "Fedir Hladyr Enforcement Action"
 aliases:
   - "United States v. Fedir Hladyr"
-case_id: CYB-FUP-044
+case_id: CYB-2026-419
 period: 3
 operation_type: sentencing
 status: absorbed

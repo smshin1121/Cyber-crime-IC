@@ -3,7 +3,7 @@ type: operation
 title: "Two members of multi-state drug trafficking rings linked to Aryan prison gangs sentenced to lengthy prison terms Enforcement Action"
 aliases:
   - "Two members of multi-state drug trafficking rings linked to Aryan prison gangs sentenced to lengthy prison terms"
-case_id: CYB-FUP-1191
+case_id: CYB-2025-326
 period: 3
 operation_role: follow-on
 parent_operation: ""

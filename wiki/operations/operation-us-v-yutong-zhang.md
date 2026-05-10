@@ -3,7 +3,7 @@ type: operation
 title: "Yutong Zhang Enforcement Action"
 aliases:
   - "United States v. Yutong Zhang"
-case_id: CYB-FUP-792
+case_id: CYB-2022-899
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison Enforcement Action"
 aliases:
   - "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison"
-case_id: CYB-FUP-851
+case_id: CYB-2015-489
 period: 1
 operation_role: follow-on
 parent_operation: ""

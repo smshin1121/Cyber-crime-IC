@@ -3,7 +3,7 @@ type: operation
 title: "Monroeville Man Enforcement Action"
 aliases:
   - "United States v. Monroeville Man"
-case_id: CYB-FUP-450
+case_id: CYB-2023-932
 period: 3
 operation_role: follow-on
 parent_operation: ""

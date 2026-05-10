@@ -3,7 +3,7 @@ type: operation
 title: "South Carolina Man Sentenced to 30 Months in Prison for Interstate Stalking Enforcement Action"
 aliases:
   - "South Carolina Man Sentenced to 30 Months in Prison for Interstate Stalking"
-case_id: CYB-FUP-1155
+case_id: CYB-2018-538
 period: 1
 operation_role: follow-on
 parent_operation: ""

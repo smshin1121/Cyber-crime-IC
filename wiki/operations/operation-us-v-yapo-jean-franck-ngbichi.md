@@ -3,7 +3,7 @@ type: operation
 title: "Yapo Jean Franck Ngbichi Enforcement Action"
 aliases:
   - "United States v. Yapo Jean Franck Ngbichi"
-case_id: CYB-FUP-186
+case_id: CYB-2024-184
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Jonathan Fleischmann Enforcement Action"
 aliases:
   - "United States v. Jonathan Fleischmann"
-case_id: CYB-FUP-270
+case_id: CYB-2025-933
 period: 3
 operation_role: follow-on
 parent_operation: ""

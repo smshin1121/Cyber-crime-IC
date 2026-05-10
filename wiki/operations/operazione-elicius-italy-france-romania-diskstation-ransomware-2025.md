@@ -6,15 +6,15 @@ aliases:
   - "Operazione Elicius"
   - "Diskstation ransomware takedown"
   - "Italy-Romania Diskstation gang dismantling"
-case_id: "CYB-2025-ELI"
+case_id: CYB-2025-701
 period: 3
-operation_type: "joint-investigation"
-status: "completed"
+operation_type: joint-investigation
+status: completed
 enforcement_type:
   - arrest
   - seizure
   - indictment
-outcome: "partial"
+outcome: partial
 timeframe:
   announced: 2025-07-14
   start: 2024-06-01
@@ -23,7 +23,7 @@ timeframe:
 crime_types:
   - "[[ransomware-ic]]"
   - "[[extortion-ic]]"
-crime_type: "ransomware-ic"
+crime_type: ransomware-ic
 target_entity: "\"Diskstation\" ransomware gang (Romanian-nationality OCG, Synology DiskStation NAS exploitation)"
 lead_agency: "[[italy-polizia-postale]]"
 coordinating_body: "[[europol-ec3]]"
@@ -55,26 +55,26 @@ results:
     - "Primary suspect (44-year-old Romanian national) placed in pre-trial custody in prison by GIP Tribunale di Milano."
     - "Charges: art. 615-ter Italian Criminal Code (Accesso abusivo a un sistema informatico o telematico — unauthorised access) and art. 629 (Estorsione — extortion)."
 edges:
-  - source_actor: "italy-polizia-postale"
-    target_actor: "france-national-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "italy-polizia-postale"
-    target_actor: "romania-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "europol-ec3"
-    target_actor: "italy-polizia-postale"
-    cooperation_type: "technical_assistance"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
-  - source_actor: "italy-polizia-postale"
-    target_actor: "romania-police"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "Budapest_Convention"
-    direction: "directed"
+  - source_actor: italy-polizia-postale
+    target_actor: france-national-police
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: italy-polizia-postale
+    target_actor: romania-police
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: europol-ec3
+    target_actor: italy-polizia-postale
+    cooperation_type: technical_assistance
+    legal_basis: bilateral_MOU
+    direction: directed
+  - source_actor: italy-polizia-postale
+    target_actor: romania-police
+    cooperation_type: evidence_transfer
+    legal_basis: Budapest_Convention
+    direction: directed
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
@@ -82,17 +82,20 @@ missing_fields:
   - "ransom amounts paid / demanded (not disclosed in primary release)"
   - "specific Synology DiskStation CVEs exploited (referenced only by gang moniker)"
   - "victim count (described as 'numerose società' but not enumerated)"
-related_cases: []
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 > [!info] Provisional / single-source page
 > This page is published below the preferred 5-source threshold (CLAUDE.md "entity creation threshold") because the underlying tier-1 primary source (Polizia di Stato official press release) provides extensive verifiable detail (named LE partners across three countries, named prosecution office, specific custody actor, specific charge articles, specific search location and date). Additional tier-1 sources from France's police nationale and Romania's poliție will be added as identified. Until then, treat enumerated results as preliminary and check back for tier-1 corroboration.
 

@@ -5,7 +5,7 @@ title_ko: "조애나 데 알바 다크웹 마약 유통 선고 조치"
 aliases:
   - "Dark Web Narcotics Trafficker Sentenced to 96 Months in Prison for Distributing Fentanyl, Heroin, Methamphetamine, Cocaine, Oxycodone and Methadone"
   - "Joanna De Alba sentencing action"
-case_id: CYB-FUP-810
+case_id: CYB-2021-307
 period: 2
 operation_role: follow-on
 parent_operation: ""

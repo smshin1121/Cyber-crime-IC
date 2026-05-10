@@ -3,7 +3,7 @@ type: operation
 title: "International Hacker-For-Hire Who Conspired With And Aided Russian FSB Officers Sentenced To Five Years In Prison Enforcement Action"
 aliases:
   - "International Hacker-For-Hire Who Conspired With And Aided Russian FSB Officers Sentenced To Five Years In Prison"
-case_id: CYB-FUP-1010
+case_id: CYB-2018-005
 period: 1
 operation_role: follow-on
 parent_operation: ""

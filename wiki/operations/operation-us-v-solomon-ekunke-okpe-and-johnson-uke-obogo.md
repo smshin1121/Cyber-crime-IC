@@ -3,7 +3,7 @@ type: operation
 title: "Solomon Ekunke Okpe And Johnson Uke Obogo Enforcement Action"
 aliases:
   - "United States v. Solomon Ekunke Okpe And Johnson Uke Obogo"
-case_id: CYB-FUP-126
+case_id: CYB-2023-340
 period: 3
 operation_role: follow-on
 parent_operation: ""

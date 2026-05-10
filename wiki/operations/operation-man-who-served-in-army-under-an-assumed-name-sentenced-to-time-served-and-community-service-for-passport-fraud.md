@@ -3,7 +3,7 @@ type: operation
 title: "Man who served in Army under an assumed name sentenced to time served and community service for passport fraud Enforcement Action"
 aliases:
   - "Man who served in Army under an assumed name sentenced to time served and community service for passport fraud"
-case_id: CYB-FUP-1038
+case_id: CYB-2022-356
 period: 2
 operation_role: follow-on
 parent_operation: ""

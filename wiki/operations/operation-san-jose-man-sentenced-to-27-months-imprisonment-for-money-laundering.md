@@ -3,7 +3,7 @@ type: operation
 title: "San Jose Man Sentenced To 27 Months’ Imprisonment For Money Laundering Enforcement Action"
 aliases:
   - "San Jose Man Sentenced To 27 Months’ Imprisonment For Money Laundering"
-case_id: CYB-FUP-1137
+case_id: CYB-2016-555
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[san-jose-man-sentenced-to-27-months-imprisonment-for-money-laundering]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[san-jose-man-sentenced-to-27-months-imprisonment-for-money-laundering]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_san-jose-man-sentenced-27-months-imprisonment-money-laundering]]"

@@ -3,7 +3,7 @@ type: operation
 title: "Online Scamming Fraud: Three Nigerians Arrested in INTERPOL Operation Killer Bee Enforcement Action"
 aliases:
   - "Online Scamming Fraud: Three Nigerians Arrested in INTERPOL Operation Killer Bee"
-case_id: CYB-FUP-611
+case_id: CYB-2022-471
 period: 2
 operation_role: follow-on
 parent_operation: ""

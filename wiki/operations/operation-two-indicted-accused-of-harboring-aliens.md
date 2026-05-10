@@ -3,7 +3,7 @@ type: operation
 title: "Two Indicted, Accused of Harboring Aliens Enforcement Action"
 aliases:
   - "Two Indicted, Accused of Harboring Aliens"
-case_id: CYB-FUP-1189
+case_id: CYB-2025-603
 period: 3
 operation_role: follow-on
 parent_operation: ""

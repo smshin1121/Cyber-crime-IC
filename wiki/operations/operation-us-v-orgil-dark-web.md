@@ -3,7 +3,7 @@ type: operation
 title: "Tenzin Orgil (Dark Web Vendor) Enforcement Action"
 aliases:
   - "United States v. Tenzin Orgil (Dark Web Vendor)"
-case_id: CYB-FUP-072
+case_id: CYB-2024-488
 period: 3
 operation_type: sentencing
 status: absorbed

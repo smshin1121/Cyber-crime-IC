@@ -3,7 +3,7 @@ type: operation
 title: "James Curtis Brasher Enforcement Action"
 aliases:
   - "United States v. James Curtis Brasher"
-case_id: CYB-FUP-358
+case_id: CYB-2021-324
 period: 2
 operation_role: follow-on
 parent_operation: ""

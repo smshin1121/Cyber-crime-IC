@@ -4,7 +4,7 @@ title: "U.S.–Romania Swatting Ring Prosecution (Szabo)"
 aliases:
   - "United States v. Thomasz Szabo"
   - "Plank / Jonah / Cypher swatting ring case"
-case_id: CYB-2026-USRO-01
+case_id: CYB-2026-721
 period: 3
 operation_type: prosecution
 status: completed
@@ -51,16 +51,16 @@ results:
     - "48-month federal prison sentence + 3 years supervised release (2026-04-29); prosecutors had requested 57 months"
     - "Extradition from Romania to United States (November 2024)"
 edges:
-  - source_actor: "Romania"
+  - source_actor: Romania
     target_actor: "United States"
-    cooperation_type: "extradition"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
-  - source_actor: "Romania"
+    cooperation_type: extradition
+    legal_basis: bilateral_MOU
+    direction: directed
+  - source_actor: Romania
     target_actor: "United States"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: evidence_transfer
+    legal_basis: MLAT
+    direction: directed
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
@@ -71,8 +71,10 @@ missing_fields:
   - "Romanian counterpart agency formally named (the U.S. release names only 'Romanian authorities' generically)"
 related_cases:
   - "[[us-v-szabo-swatting-ring]]"
-related_operations: []
-challenges_encountered: []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "Tier-1 U.S. release names a foreign country (Romania) and a foreign-evidence MLA channel as the operational hinge of an extradition for cyber-enabled threat conduct, not financial cybercrime — useful as a non-financial precedent for `[[mlat-process]]` and `[[extradition]]` reuse."
   - "U.S. inter-agency stack: Secret Service (lead investigator) + FBI Counterterrorism + U.S. Capitol Police + DOJ NSD Counterterrorism Section + DOJ Office of International Affairs + multiple cooperating USAOs. Pattern: Secret Service / Capitol Police primacy when victims are sitting U.S. legislators."
@@ -82,7 +84,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional / single-source
 > Source count is 1 (the 2026-04-29 sentencing release). The 2024 indictment and the 2025-06-02 plea announcement exist as additional primary tier-1 sources but are not yet ingested. This operation page is published because the underlying release explicitly names ≥2 countries (United States + Romania) and frames international cooperation (MLA + extradition) as the central success factor; it is not a thin domestic-only follow-on stub.
 

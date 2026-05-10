@@ -3,7 +3,7 @@ type: operation
 title: "Russian Nationals Charged With Hacking One Cryptocurrency Exchange And Illicitly Operating Another Enforcement Action"
 aliases:
   - "Russian Nationals Charged With Hacking One Cryptocurrency Exchange And Illicitly Operating Another"
-case_id: CYB-FUP-1129
+case_id: CYB-2023-300
 period: 3
 operation_role: follow-on
 parent_operation: ""

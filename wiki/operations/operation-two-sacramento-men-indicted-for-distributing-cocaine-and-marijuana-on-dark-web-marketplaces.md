@@ -3,7 +3,7 @@ type: operation
 title: "Two Sacramento Men Indicted For Distributing Cocaine And Marijuana On Dark Web Marketplaces Enforcement Action"
 aliases:
   - "Two Sacramento Men Indicted For Distributing Cocaine And Marijuana On Dark Web Marketplaces"
-case_id: CYB-FUP-862
+case_id: CYB-2018-496
 period: 1
 operation_role: follow-on
 parent_operation: ""

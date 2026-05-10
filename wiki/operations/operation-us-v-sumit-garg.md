@@ -3,7 +3,7 @@ type: operation
 title: "Sumit Garg Enforcement Action"
 aliases:
   - "United States v. Sumit Garg"
-case_id: CYB-FUP-329
+case_id: CYB-2024-380
 period: 3
 operation_role: follow-on
 parent_operation: ""

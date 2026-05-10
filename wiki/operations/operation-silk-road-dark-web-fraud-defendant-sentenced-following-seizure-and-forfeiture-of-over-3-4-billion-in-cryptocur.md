@@ -3,7 +3,7 @@ type: operation
 title: "Silk Road Dark Web Fraud Defendant Sentenced Following Seizure And Forfeiture Of Over $3.4 Billion In Cryptocurrency Enforcement Action"
 aliases:
   - "Silk Road Dark Web Fraud Defendant Sentenced Following Seizure And Forfeiture Of Over $3.4 Billion In Cryptocurrency"
-case_id: CYB-FUP-1150
+case_id: CYB-2023-816
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Jingliang Su Enforcement Action"
 aliases:
   - "United States v. Jingliang Su"
-case_id: CYB-FUP-767
+case_id: CYB-2026-589
 period: 3
 operation_role: follow-on
 parent_operation: ""

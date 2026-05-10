@@ -3,7 +3,7 @@ type: operation
 title: "Tulsa Man Sentenced to 30 Months in Prison for Sending Emails Threatening to Kill President Biden Enforcement Action"
 aliases:
   - "Tulsa Man Sentenced to 30 Months in Prison for Sending Emails Threatening to Kill President Biden"
-case_id: CYB-FUP-1186
+case_id: CYB-2022-297
 period: 2
 operation_role: follow-on
 parent_operation: ""

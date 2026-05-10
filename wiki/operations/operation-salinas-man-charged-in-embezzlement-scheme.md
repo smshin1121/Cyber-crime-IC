@@ -3,7 +3,7 @@ type: operation
 title: "Salinas Man Charged In Embezzlement Scheme Enforcement Action"
 aliases:
   - "Salinas Man Charged In Embezzlement Scheme"
-case_id: CYB-FUP-725
+case_id: CYB-2015-208
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[salinas-man-charged-in-embezzlement-scheme]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[salinas-man-charged-in-embezzlement-scheme]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_salinas-man-charged-embezzlement-scheme]]"

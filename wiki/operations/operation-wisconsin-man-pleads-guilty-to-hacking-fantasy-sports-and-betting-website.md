@@ -3,7 +3,7 @@ type: operation
 title: "Wisconsin Man Pleads Guilty To Hacking Fantasy Sports And Betting Website Enforcement Action"
 aliases:
   - "Wisconsin Man Pleads Guilty To Hacking Fantasy Sports And Betting Website"
-case_id: CYB-FUP-1215
+case_id: CYB-2023-653
 period: 3
 operation_role: follow-on
 parent_operation: ""

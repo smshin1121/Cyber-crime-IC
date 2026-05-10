@@ -3,7 +3,7 @@ type: operation
 title: "Alex Scott Roberts Enforcement Action"
 aliases:
   - "United States v. Alex Scott Roberts"
-case_id: CYB-FUP-135
+case_id: CYB-2023-541
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Nebraska businessman indicted for fraud Enforcement Action"
 aliases:
   - "Nebraska businessman indicted for fraud"
-case_id: CYB-FUP-604
+case_id: CYB-2025-558
 period: 3
 operation_role: follow-on
 parent_operation: ""

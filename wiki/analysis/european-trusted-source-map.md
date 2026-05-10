@@ -1,8 +1,8 @@
 ---
-title: European Trusted Source Map
+title: "European Trusted Source Map"
 type: analysis
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-05-10
 summary: "Trusted official and high-confidence European source map for Germany, France, EU agencies and selected cybercrime operation research."
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
@@ -38,7 +38,8 @@ sources:
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
   - "[[2022-06-22_fondosicurezzainterna-interno-gov-it_un-territorio-cyber-sicuro-tra-pubblico-e-privato]]"
   - "[[2015-02-16_securelist_the-great-bank-robbery-the-carbanak-apt]]"
-source_count: 33
+  - "[[2023-11-23_legifrance-gouv-fr_d-cret-n-2023-1083-du-23-novembre-2023-portant-cr-ation-de-l-office-anti-cybercr]]"
+source_count: 34
 ---
 ## Purpose
 

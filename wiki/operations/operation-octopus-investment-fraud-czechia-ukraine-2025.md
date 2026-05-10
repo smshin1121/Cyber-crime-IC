@@ -4,7 +4,7 @@ title: "Operation OCTOPUS — Czech-Ukrainian Investment-Fraud Call-Centre Taked
 aliases:
   - "Operace OCTOPUS"
   - "OCTOPUS investment fraud Kyiv 2025"
-case_id: CYB-2025-OCTOPUS-CZ
+case_id: CYB-2025-791
 period: 3
 operation_type: takedown
 status: completed
@@ -60,40 +60,42 @@ results:
     - "138 identified victims; estimated true victim count in the thousands across the EU and beyond"
     - "Confirmed damage of CZK 43 million among the identified 138 victims"
 edges:
-  - source_actor: "czechia-police"
-    target_actor: "ukraine-sbu"
-    cooperation_type: "joint_investigation"
-    legal_basis: "JIT_via_Eurojust"
-    direction: "undirected"
-  - source_actor: "czechia-police"
-    target_actor: "ukraine-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "JIT_via_Eurojust"
-    direction: "undirected"
-  - source_actor: "eurojust"
-    target_actor: "czechia-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "JIT_via_Eurojust"
-    direction: "directed"
-  - source_actor: "eurojust"
-    target_actor: "ukraine-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "JIT_via_Eurojust"
-    direction: "directed"
+  - source_actor: czechia-police
+    target_actor: ukraine-sbu
+    cooperation_type: joint_investigation
+    legal_basis: JIT_via_Eurojust
+    direction: undirected
+  - source_actor: czechia-police
+    target_actor: ukraine-police
+    cooperation_type: joint_investigation
+    legal_basis: JIT_via_Eurojust
+    direction: undirected
+  - source_actor: eurojust
+    target_actor: czechia-police
+    cooperation_type: joint_investigation
+    legal_basis: JIT_via_Eurojust
+    direction: directed
+  - source_actor: eurojust
+    target_actor: ukraine-police
+    cooperation_type: joint_investigation
+    legal_basis: JIT_via_Eurojust
+    direction: directed
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  - "indictments"
-  - "servers_seized"
-  - "domains_seized"
-  - "cryptocurrency_seized"
-  - "start_date"
-related_cases: []
+  - indictments
+  - servers_seized
+  - domains_seized
+  - cryptocurrency_seized
+  - start_date
+related_cases:
+  []
 related_operations:
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[operation-eur-3m-online-investment-fraud-2025]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "Bilateral CZ-UA Joint Investigation Teams under Eurojust judicial coordination are reachable for cyber-enabled investment-fraud cases even when Ukraine is not an EU member state, provided Eurojust hosts the JIT instrument."
   - "A single press-release event can announce two operationally distinct JITs (OCTOPUS bilateral CZ-UA and CONNECT quadrilateral CZ-UA-LT-LV); operational separation must be preserved even when joint communication suggests a single action."
@@ -103,7 +105,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional record
 > This page is published with a single tier-1 primary source (Czech Police NCTEKK press release of 2025-12-16). Below the preferred publication threshold of `source_count >= 5`, but retained because the source is a tier-1 official press release that uniquely names this branch of the operation. To be enriched as additional Eurojust, Ukrainian Prosecutor General, or independent reporting becomes available.
 

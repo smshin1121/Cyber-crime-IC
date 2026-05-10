@@ -3,7 +3,7 @@ type: operation
 title: "Prominent Global Cryptocurrency Exchange KuCoin And Two Of Its Founders Criminally Charged With Bank Secrecy Act And Unlicensed Money Transmission Offenses Enforcement Action"
 aliases:
   - "Prominent Global Cryptocurrency Exchange KuCoin And Two Of Its Founders Criminally Charged With Bank Secrecy Act And Unlicensed Money Transmission Offenses"
-case_id: CYB-FUP-1103
+case_id: CYB-2024-684
 period: 3
 operation_role: follow-on
 parent_operation: ""

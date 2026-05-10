@@ -3,7 +3,7 @@ type: operation
 title: "Members of Seattle Drug Trafficking Organization Indicted for Distribution of Heroin Enforcement Action"
 aliases:
   - "Members of Seattle Drug Trafficking Organization Indicted for Distribution of Heroin"
-case_id: CYB-FUP-1048
+case_id: CYB-2016-022
 period: 1
 operation_role: follow-on
 parent_operation: ""

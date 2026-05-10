@@ -3,7 +3,7 @@ type: operation
 title: "Okpe and Obogo Enforcement Action"
 aliases:
   - "United States v. Okpe and Obogo"
-case_id: CYB-FUP-069
+case_id: CYB-2023-634
 period: 3
 operation_type: sentencing
 status: absorbed

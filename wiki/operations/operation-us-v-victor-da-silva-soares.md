@@ -3,7 +3,7 @@ type: operation
 title: "Victor Da Silva Soares Enforcement Action"
 aliases:
   - "United States v. Victor Da Silva Soares"
-case_id: CYB-FUP-386
+case_id: CYB-2025-075
 period: 3
 operation_role: follow-on
 parent_operation: ""

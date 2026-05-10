@@ -3,7 +3,7 @@ type: operation
 title: "Brazilian Extradited from Switzerland to the United States to Face Indictment Charging Involvement in $290M+ Cryptocurrency Fraud Scheme Enforcement Action"
 aliases:
   - "Brazilian Extradited from Switzerland to the United States to Face Indictment Charging Involvement in $290M+ Cryptocurrency Fraud Scheme"
-case_id: CYB-FUP-891
+case_id: CYB-2025-031
 period: 3
 operation_role: follow-on
 parent_operation: ""

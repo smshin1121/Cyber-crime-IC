@@ -3,7 +3,7 @@ type: operation
 title: "Pierce County based drug trafficking organization indicted for distributing cocaine, fentanyl, and marijuana Enforcement Action"
 aliases:
   - "Pierce County based drug trafficking organization indicted for distributing cocaine, fentanyl, and marijuana"
-case_id: CYB-FUP-617
+case_id: CYB-2023-441
 period: 3
 operation_role: follow-on
 parent_operation: ""

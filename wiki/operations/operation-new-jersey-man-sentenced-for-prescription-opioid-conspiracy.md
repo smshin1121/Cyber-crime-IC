@@ -3,7 +3,7 @@ type: operation
 title: "New Jersey Man Sentenced for Prescription Opioid Conspiracy Enforcement Action"
 aliases:
   - "New Jersey Man Sentenced for Prescription Opioid Conspiracy"
-case_id: CYB-FUP-1064
+case_id: CYB-2025-563
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[new-jersey-man-sentenced-for-prescription-opioid-conspiracy]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[new-jersey-man-sentenced-for-prescription-opioid-conspiracy]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_new-jersey-man-sentenced-prescription-opioid-conspiracy]]"

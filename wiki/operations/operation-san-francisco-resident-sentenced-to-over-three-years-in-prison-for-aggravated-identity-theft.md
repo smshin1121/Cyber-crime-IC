@@ -3,7 +3,7 @@ type: operation
 title: "San Francisco Resident Sentenced To Over Three Years In Prison For Aggravated Identity Theft Enforcement Action"
 aliases:
   - "San Francisco Resident Sentenced To Over Three Years In Prison For Aggravated Identity Theft"
-case_id: CYB-FUP-729
+case_id: CYB-2017-814
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[san-francisco-resident-sentenced-to-over-three-years-in-prison-for-aggravated-identity-theft]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[san-francisco-resident-sentenced-to-over-three-years-in-prison-for-aggravated-identity-theft]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_san-francisco-resident-sentenced-over-three-years-prison-aggravated-identity-theft]]"

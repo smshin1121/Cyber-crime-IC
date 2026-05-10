@@ -3,7 +3,7 @@ type: operation
 title: "Bryan Connor Herrell Enforcement Action"
 aliases:
   - "United States v. Bryan Connor Herrell"
-case_id: CYB-FUP-112
+case_id: CYB-2020-926
 period: 2
 operation_role: follow-on
 parent_operation: ""

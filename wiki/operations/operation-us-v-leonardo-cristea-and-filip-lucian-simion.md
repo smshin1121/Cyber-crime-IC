@@ -3,7 +3,7 @@ type: operation
 title: "Leonardo Cristea and Filip Lucian Simion Enforcement Action"
 aliases:
   - "United States v. Leonardo Cristea and Filip Lucian Simion"
-case_id: CYB-FUP-366
+case_id: CYB-2018-711
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "David Brian Pate and Jose Luis Fung Hou Enforcement Action"
 aliases:
   - "United States v. David Brian Pate and Jose Luis Fung Hou"
-case_id: CYB-FUP-146
+case_id: CYB-2020-528
 period: 2
 operation_role: follow-on
 parent_operation: ""

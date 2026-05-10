@@ -3,7 +3,7 @@ type: operation
 title: "Daniel Richter Enforcement Action"
 aliases:
   - "United States v. Daniel Richter"
-case_id: CYB-FUP-754
+case_id: CYB-2026-714
 period: 3
 operation_role: follow-on
 parent_operation: ""

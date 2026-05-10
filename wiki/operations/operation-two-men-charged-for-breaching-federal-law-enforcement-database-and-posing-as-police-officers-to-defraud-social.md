@@ -3,7 +3,7 @@ type: operation
 title: "Two Men Charged for Breaching Federal Law Enforcement Database and Posing as Police Officers to Defraud Social Media Companies Enforcement Action"
 aliases:
   - "Two Men Charged for Breaching Federal Law Enforcement Database and Posing as Police Officers to Defraud Social Media Companies"
-case_id: CYB-FUP-1192
+case_id: CYB-2023-339
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Aaron Michael Thomas Enforcement Action"
 aliases:
   - "United States v. Aaron Michael Thomas"
-case_id: CYB-FUP-202
+case_id: CYB-2025-960
 period: 3
 operation_role: follow-on
 parent_operation: ""

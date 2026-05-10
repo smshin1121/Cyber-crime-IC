@@ -3,7 +3,7 @@ type: operation
 title: "Kaleb Levicky Enforcement Action"
 aliases:
   - "United States v. Kaleb Levicky"
-case_id: CYB-FUP-131
+case_id: CYB-2021-542
 period: 2
 operation_role: follow-on
 parent_operation: ""

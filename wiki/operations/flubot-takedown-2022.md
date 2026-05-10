@@ -5,7 +5,7 @@ aliases:
   - "FluBot takedown 2022"
   - "FluBot day of action"
   - "Operation FluBot"
-case_id: CYB-2022-FLUBOT
+case_id: CYB-2022-146
 period: 2
 operation_role: standalone
 parent_operation: ""
@@ -104,8 +104,10 @@ missing_fields:
   - "specific count of FluBot C2 servers seized (technical-detail, not enumerated in the tier-1 releases)"
   - "domain seizures count (not enumerated in the tier-1 releases)"
   - "identity / count / nationality of suspected perpetrators (investigations still ongoing as of 2022-06-07)"
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 challenges_encountered:
   - "Identifying perpetrators behind a globally-distributed SMS-propagated Android banking trojan despite successful disruption of infrastructure"
   - "Bypass of mobile-banking two-factor authentication through real-time credential capture and SMS interception"
@@ -121,7 +123,6 @@ summary: "An international Europol EC3-coordinated 'day of action' in May–June
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 # FluBot Android-malware takedown — Europol EC3 "day of action" (May–June 2022)
 
 > [!info] Provisional record

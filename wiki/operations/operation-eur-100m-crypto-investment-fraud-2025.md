@@ -3,7 +3,7 @@ type: operation
 title: "EUR 100M Crypto Investment Fraud Takedown (2025)"
 aliases:
   - "Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe"
-case_id: CYB-EU-2025-019
+case_id: CYB-2025-190
 operation_type: joint-investigation
 operation_role: umbrella
 parent_operation: ""

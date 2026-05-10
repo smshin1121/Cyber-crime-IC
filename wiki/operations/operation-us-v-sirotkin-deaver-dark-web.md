@@ -3,7 +3,7 @@ type: operation
 title: "Sirotkin and Deaver (Pill Cosby) Enforcement Action"
 aliases:
   - "United States v. Sirotkin and Deaver (Pill Cosby)"
-case_id: CYB-FUP-086
+case_id: CYB-2023-684
 period: 3
 operation_type: sentencing
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown Follow-On Action"
 aliases:
   - "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown"
-case_id: CYB-FUP-582
+case_id: CYB-2025-565
 period: 3
 operation_role: follow-on
 parent_operation: ""

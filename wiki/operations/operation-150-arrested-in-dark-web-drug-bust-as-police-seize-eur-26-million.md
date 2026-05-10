@@ -3,7 +3,7 @@ type: operation
 title: "150 arrested in dark web drug bust as police seize EUR 26 million Enforcement Action"
 aliases:
   - "150 arrested in dark web drug bust as police seize EUR 26 million"
-case_id: CYB-FUP-502
+case_id: CYB-2021-748
 period: 2
 operation_role: follow-on
 parent_operation: ""

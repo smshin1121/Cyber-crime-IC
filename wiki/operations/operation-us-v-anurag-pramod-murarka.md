@@ -3,7 +3,7 @@ type: operation
 title: "Anurag Pramod Murarka Enforcement Action"
 aliases:
   - "United States v. Anurag Pramod Murarka"
-case_id: CYB-FUP-218
+case_id: CYB-2025-254
 period: 3
 operation_role: follow-on
 parent_operation: ""

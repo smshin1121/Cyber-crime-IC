@@ -3,7 +3,7 @@ type: operation
 title: "Ohio Resident Pleads Guilty to Operating Darknet-Based Bitcoin ‘Mixer’ That Laundered Over $300 Million Enforcement Action"
 aliases:
   - "Ohio Resident Pleads Guilty to Operating Darknet-Based Bitcoin ‘Mixer’ That Laundered Over $300 Million"
-case_id: CYB-FUP-1079
+case_id: CYB-2021-855
 period: 2
 operation_role: follow-on
 parent_operation: ""

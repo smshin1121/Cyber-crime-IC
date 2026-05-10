@@ -3,7 +3,7 @@ type: operation
 title: "Olivia Bolles (Silk Road Vendor) Enforcement Action"
 aliases:
   - "United States v. Olivia Bolles (Silk Road Vendor)"
-case_id: CYB-FUP-070
+case_id: CYB-2015-264
 period: 1
 operation_type: sentencing
 status: absorbed

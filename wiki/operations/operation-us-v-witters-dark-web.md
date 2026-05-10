@@ -3,7 +3,7 @@ type: operation
 title: "Matthew Witters (Dark Web Fentanyl Dealer) Enforcement Action"
 aliases:
   - "United States v. Matthew Witters (Dark Web Fentanyl Dealer)"
-case_id: CYB-FUP-098
+case_id: CYB-2019-004
 period: 1
 operation_role: follow-on
 parent_operation: ""

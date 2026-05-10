@@ -3,7 +3,7 @@ type: operation
 title: "Sonoma County Resident Sentenced To 30 Months In Prison For Passport Fraud And Identity Theft Enforcement Action"
 aliases:
   - "Sonoma County Resident Sentenced To 30 Months In Prison For Passport Fraud And Identity Theft"
-case_id: CYB-FUP-737
+case_id: CYB-2018-239
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[sonoma-county-resident-sentenced-to-30-months-in-prison-for-passport-fraud-and-identity-theft]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[sonoma-county-resident-sentenced-to-30-months-in-prison-for-passport-fraud-and-identity-theft]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_sonoma-county-resident-sentenced-30-months-prison-passport-fraud-and-identity-theft]]"

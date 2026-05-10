@@ -3,7 +3,7 @@ type: operation
 title: "Lakeland Man Sentenced To More Than 9 Years In Federal Prison For Downloading And Possessing Child Sex Abuse Videos From The Darkweb Enforcement Action"
 aliases:
   - "Lakeland Man Sentenced To More Than 9 Years In Federal Prison For Downloading And Possessing Child Sex Abuse Videos From The Darkweb"
-case_id: CYB-FUP-1024
+case_id: CYB-2021-164
 period: 2
 operation_role: follow-on
 parent_operation: ""

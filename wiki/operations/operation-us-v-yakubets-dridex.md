@@ -3,7 +3,7 @@ type: operation
 title: "Yakubets and Turashev (Dridex/Evil Corp) Enforcement Action"
 aliases:
   - "United States v. Yakubets and Turashev (Dridex/Evil Corp)"
-case_id: CYB-FUP-101
+case_id: CYB-2019-650
 period: 1
 operation_role: follow-on
 parent_operation: "[[dridex-operations]]"

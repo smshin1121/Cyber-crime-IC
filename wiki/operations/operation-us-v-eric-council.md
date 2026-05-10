@@ -3,7 +3,7 @@ type: operation
 title: "Eric Council Enforcement Action"
 aliases:
   - "United States v. Eric Council"
-case_id: CYB-FUP-149
+case_id: CYB-2025-126
 period: 3
 operation_role: follow-on
 parent_operation: ""

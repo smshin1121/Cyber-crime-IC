@@ -3,7 +3,7 @@ type: operation
 title: "Ashton Connor Garcia Enforcement Action"
 aliases:
   - "United States v. Ashton Connor Garcia"
-case_id: CYB-FUP-220
+case_id: CYB-2024-416
 period: 3
 operation_role: follow-on
 parent_operation: ""

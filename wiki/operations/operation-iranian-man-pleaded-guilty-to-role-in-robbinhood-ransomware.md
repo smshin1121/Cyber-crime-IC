@@ -3,7 +3,7 @@ type: operation
 title: "Iranian Man Pleaded Guilty to Role in Robbinhood Ransomware Enforcement Action"
 aliases:
   - "Iranian Man Pleaded Guilty to Role in Robbinhood Ransomware"
-case_id: CYB-FUP-700
+case_id: CYB-2025-182
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -9,7 +9,7 @@ aliases:
   - "BKA ZAC NRW Aisuru Kimwolf operation"
   - "Aisuru Kimwolf JackSkid Mossad disruption"
   - "31.4 Tbps DDoS botnet takedown"
-case_id: CYB-2026-AISURU-KIMWOLF
+case_id: CYB-2026-896
 period: 3
 operation_type: takedown
 status: completed
@@ -99,7 +99,8 @@ missing_fields:
   - "arrest status of the two identified administrators — BKA release describes 'Festnahmen' (arrests) only obliquely as 'rechtliche Konsequenzen' (legal consequences forthcoming); searches were executed but a formal arrest/charge is not stated."
   - "exact crypto seizure amount — only 'fuenfstelliger Bereich' (5-digit EUR) is given."
   - "the BKA release scopes only Aisuru and Kimwolf, while the US DOJ release adds JackSkid and Mossad — the full combined botnet roster vs. the German subset is a known discrepancy."
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-endgame-phase3]]"
   - "[[operation-power-off-2026-04]]"
@@ -118,7 +119,6 @@ sources:
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 ## Summary
 
 The **Aisuru / Kimwolf IoT Botnet Takedown** (action day **19 March 2026**, announced **20 March 2026**) was a Germany-Canada-United States internationally coordinated disruption of the technical infrastructure of two of the world's currently largest Internet-of-Things-based DDoS botnets, Aisuru and Kimwolf. The German leg was led jointly by the **Central and Contact Point Cybercrime North Rhine-Westphalia (Zentral- und Ansprechstelle Cybercrime Nordrhein-Westfalen, ZAC NRW)** and the **Federal Criminal Police Office (Bundeskriminalamt, BKA)**, with technical support from the **Federal Office for Information Security (Bundesamt fuer Sicherheit in der Informationstechnik, BSI)** which sinkholed the perpetrator infrastructure. The action proceeded "gemeinsam mit Strafverfolgungsbehoerden aus Kanada und den USA" — together with law enforcement authorities from Canada and the United States. Two suspected botnet administrators were identified, with residence searches in Germany and Canada producing 'numerous data carriers' and cryptocurrencies in the 5-digit EUR range as evidence.

@@ -3,7 +3,7 @@ type: operation
 title: "Hugh Haney (Silk Road Laundering) Enforcement Action"
 aliases:
   - "United States v. Hugh Haney (Silk Road Laundering)"
-case_id: CYB-FUP-041
+case_id: CYB-2020-526
 period: 2
 operation_type: sentencing
 status: absorbed

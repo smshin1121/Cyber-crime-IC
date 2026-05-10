@@ -3,7 +3,7 @@ type: operation
 title: "Ilya Lichtenstein, Heather Morgan, and New York City Enforcement Action"
 aliases:
   - "United States v. Ilya Lichtenstein, Heather Morgan, and New York City"
-case_id: CYB-FUP-160
+case_id: CYB-2023-838
 period: 3
 operation_role: follow-on
 parent_operation: ""

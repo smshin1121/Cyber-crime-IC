@@ -3,7 +3,7 @@ type: operation
 title: "Pasadena Man Who Cyberstalked and Made Threats to Injure, Rape and Kill Sentenced to More Than 3 Years in Federal Prison Enforcement Action"
 aliases:
   - "Pasadena Man Who Cyberstalked and Made Threats to Injure, Rape and Kill Sentenced to More Than 3 Years in Federal Prison"
-case_id: CYB-FUP-1090
+case_id: CYB-2021-897
 period: 2
 operation_role: follow-on
 parent_operation: ""

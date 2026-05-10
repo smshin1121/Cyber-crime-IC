@@ -3,7 +3,7 @@ type: operation
 title: "Nebraska Man Pleads Guilty in Multi-Million Dollar “Cryptojacking” Case Enforcement Action"
 aliases:
   - "Nebraska Man Pleads Guilty in Multi-Million Dollar “Cryptojacking” Case"
-case_id: CYB-FUP-710
+case_id: CYB-2024-581
 period: 3
 operation_role: follow-on
 parent_operation: ""

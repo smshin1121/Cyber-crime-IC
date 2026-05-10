@@ -3,7 +3,7 @@ type: operation
 title: "North Reading Man Indicted for Possession of Child Pornography Enforcement Action"
 aliases:
   - "North Reading Man Indicted for Possession of Child Pornography"
-case_id: CYB-FUP-610
+case_id: CYB-2026-044
 period: 3
 operation_role: follow-on
 parent_operation: ""

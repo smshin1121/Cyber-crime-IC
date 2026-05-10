@@ -3,7 +3,7 @@ type: operation
 title: "Minnesota Man Pleads Guilty To Stalking And Interstate Communications Enforcement Action"
 aliases:
   - "Minnesota Man Pleads Guilty To Stalking And Interstate Communications"
-case_id: CYB-FUP-1054
+case_id: CYB-2018-952
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[minnesota-man-pleads-guilty-to-stalking-and-interstate-communications]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[minnesota-man-pleads-guilty-to-stalking-and-interstate-communications]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_minnesota-man-pleads-guilty-stalking-and-interstate-communications]]"

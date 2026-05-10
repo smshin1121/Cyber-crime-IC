@@ -3,7 +3,7 @@ type: operation
 title: "Michael Ta and Rajiv Srinivasan Enforcement Action"
 aliases:
   - "United States v. Michael Ta and Rajiv Srinivasan"
-case_id: CYB-FUP-294
+case_id: CYB-2024-487
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Matthew Christian Locher Enforcement Action"
 aliases:
   - "United States v. Matthew Christian Locher"
-case_id: CYB-FUP-173
+case_id: CYB-2022-383
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Two Virginia Men Arrested for Conspiring to Destroy Government Databases Enforcement Action"
 aliases:
   - "Two Virginia Men Arrested for Conspiring to Destroy Government Databases"
-case_id: CYB-FUP-744
+case_id: CYB-2025-271
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_two-virginia-men-arrested-conspiring-destroy-government-databases]]"

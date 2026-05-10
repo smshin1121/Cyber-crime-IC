@@ -3,7 +3,7 @@ type: operation
 title: "Carl De Vera Bennington Enforcement Action"
 aliases:
   - "United States v. Carl De Vera Bennington"
-case_id: CYB-FUP-750
+case_id: CYB-2021-820
 period: 2
 operation_role: follow-on
 parent_operation: ""

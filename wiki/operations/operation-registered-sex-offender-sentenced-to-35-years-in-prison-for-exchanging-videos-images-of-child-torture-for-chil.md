@@ -3,7 +3,7 @@ type: operation
 title: "Registered sex offender sentenced to 35 years in prison for exchanging videos & images of child torture for child sexual abuse material Enforcement Action"
 aliases:
   - "Registered sex offender sentenced to 35 years in prison for exchanging videos & images of child torture for child sexual abuse material"
-case_id: CYB-FUP-1110
+case_id: CYB-2024-937
 period: 3
 operation_role: follow-on
 parent_operation: ""

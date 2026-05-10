@@ -3,7 +3,7 @@ type: operation
 title: "Kristy Lynn Felkins Enforcement Action"
 aliases:
   - "United States v. Kristy Lynn Felkins"
-case_id: CYB-FUP-277
+case_id: CYB-2023-637
 period: 3
 operation_role: follow-on
 parent_operation: ""

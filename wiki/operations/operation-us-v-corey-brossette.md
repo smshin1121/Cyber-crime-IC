@@ -3,7 +3,7 @@ type: operation
 title: "Corey Brossette Enforcement Action"
 aliases:
   - "United States v. Corey Brossette"
-case_id: CYB-FUP-752
+case_id: CYB-2018-184
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-corey-brossette]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-corey-brossette]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_pineville-man-sentenced-five-years-prison-accessing-child-pornography-online]]"

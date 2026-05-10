@@ -3,7 +3,7 @@ type: operation
 title: "Former Childcare Provider Sentenced to 15 Years in Federal Prison for the Production of Child Sexual Abuse Material Enforcement Action"
 aliases:
   - "Former Childcare Provider Sentenced to 15 Years in Federal Prison for the Production of Child Sexual Abuse Material"
-case_id: CYB-FUP-964
+case_id: CYB-2026-100
 period: 3
 operation_role: follow-on
 parent_operation: ""

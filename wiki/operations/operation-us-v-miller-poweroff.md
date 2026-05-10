@@ -3,7 +3,7 @@ type: operation
 title: "Jeremiah Sam Evans Miller (Operation PowerOFF) Enforcement Action"
 aliases:
   - "United States v. Jeremiah Sam Evans Miller (Operation PowerOFF)"
-case_id: CYB-FUP-061
+case_id: CYB-2024-642
 period: 3
 operation_type: sentencing
 status: absorbed

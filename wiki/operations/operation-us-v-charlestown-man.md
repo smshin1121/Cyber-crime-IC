@@ -3,7 +3,7 @@ type: operation
 title: "Charlestown Man Enforcement Action"
 aliases:
   - "United States v. Charlestown Man"
-case_id: CYB-FUP-408
+case_id: CYB-2025-633
 period: 3
 operation_role: follow-on
 parent_operation: ""

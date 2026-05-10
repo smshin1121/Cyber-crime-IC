@@ -3,7 +3,7 @@ type: operation
 title: "Khlari Sirotkin And Sean Deaver Enforcement Action"
 aliases:
   - "United States v. Khlari Sirotkin And Sean Deaver"
-case_id: CYB-FUP-122
+case_id: CYB-2023-552
 period: 3
 operation_role: follow-on
 parent_operation: ""

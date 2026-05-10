@@ -3,7 +3,7 @@ type: operation
 title: "Keith Charles Eisenberger Enforcement Action"
 aliases:
   - "United States v. Keith Charles Eisenberger"
-case_id: CYB-FUP-194
+case_id: CYB-2023-682
 period: 3
 operation_role: follow-on
 parent_operation: ""

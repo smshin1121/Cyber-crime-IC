@@ -3,7 +3,7 @@ type: operation
 title: "Cheerish Noel Taylor And Robert James Fischer Enforcement Action"
 aliases:
   - "United States v. Cheerish Noel Taylor And Robert James Fischer"
-case_id: CYB-FUP-113
+case_id: CYB-2023-793
 period: 3
 operation_role: follow-on
 parent_operation: ""

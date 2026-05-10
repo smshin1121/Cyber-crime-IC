@@ -3,7 +3,7 @@ type: operation
 title: "Renton, Washington man who worked with his son to deal drugs and launder proceeds sentenced to 5 years in prison Enforcement Action"
 aliases:
   - "Renton, Washington man who worked with his son to deal drugs and launder proceeds sentenced to 5 years in prison"
-case_id: CYB-FUP-1111
+case_id: CYB-2025-733
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Leader Of Darknet ItalianMafiaBrussels Drug Trafficking Organization Sentenced To 11 Years’ Imprisonment Enforcement Action"
 aliases:
   - "Leader Of Darknet ItalianMafiaBrussels Drug Trafficking Organization Sentenced To 11 Years’ Imprisonment"
-case_id: CYB-FUP-1028
+case_id: CYB-2018-321
 period: 1
 operation_role: follow-on
 parent_operation: ""

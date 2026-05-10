@@ -3,7 +3,7 @@ type: operation
 title: "Easton Man Enforcement Action"
 aliases:
   - "United States v. Easton Man"
-case_id: CYB-FUP-417
+case_id: CYB-2024-392
 period: 3
 operation_role: follow-on
 parent_operation: ""

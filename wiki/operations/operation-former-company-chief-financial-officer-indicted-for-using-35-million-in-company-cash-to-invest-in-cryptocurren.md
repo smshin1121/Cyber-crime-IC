@@ -3,7 +3,7 @@ type: operation
 title: "Former company Chief Financial Officer indicted for using $35 million in company cash to invest in cryptocurrency venture Enforcement Action"
 aliases:
   - "Former company Chief Financial Officer indicted for using $35 million in company cash to invest in cryptocurrency venture"
-case_id: CYB-FUP-966
+case_id: CYB-2023-227
 period: 3
 operation_role: follow-on
 parent_operation: ""

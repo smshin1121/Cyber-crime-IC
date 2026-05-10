@@ -3,7 +3,7 @@ type: operation
 title: "Raymond Glover Enforcement Action"
 aliases:
   - "United States v. Raymond Glover"
-case_id: CYB-FUP-178
+case_id: CYB-2023-570
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-raymond-glover]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-raymond-glover]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_district-man-sentenced-97-months-prison-soliciting-and-receiving-child-pornography]]"

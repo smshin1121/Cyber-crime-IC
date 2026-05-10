@@ -3,7 +3,7 @@ type: operation
 title: "Nigerian scammer arrested for $60 million email fraud Enforcement Action"
 aliases:
   - "Nigerian scammer arrested for $60 million email fraud"
-case_id: CYB-FUP-846
+case_id: CYB-2016-876
 period: 1
 operation_role: follow-on
 parent_operation: ""

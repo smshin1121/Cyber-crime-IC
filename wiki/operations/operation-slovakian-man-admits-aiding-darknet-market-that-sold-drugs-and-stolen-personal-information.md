@@ -3,7 +3,7 @@ type: operation
 title: "Slovakian Man Admits Aiding Darknet Market that Sold Drugs and Stolen Personal Information Enforcement Action"
 aliases:
   - "Slovakian Man Admits Aiding Darknet Market that Sold Drugs and Stolen Personal Information"
-case_id: CYB-FUP-1152
+case_id: CYB-2026-206
 period: 3
 operation_role: follow-on
 parent_operation: ""

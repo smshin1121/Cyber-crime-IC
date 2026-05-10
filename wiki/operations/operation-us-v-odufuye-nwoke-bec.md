@@ -3,7 +3,7 @@ type: operation
 title: "Odufuye and Nwoke (BEC) Enforcement Action"
 aliases:
   - "United States v. Odufuye and Nwoke (BEC)"
-case_id: CYB-FUP-065
+case_id: CYB-2016-286
 period: 1
 operation_type: conviction
 status: absorbed

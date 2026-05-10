@@ -3,7 +3,7 @@ type: operation
 title: "To Federal Prison For and Ocala Man Enforcement Action"
 aliases:
   - "United States v. To Federal Prison For and Ocala Man"
-case_id: CYB-FUP-477
+case_id: CYB-2024-243
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-to-federal-prison-for-and-ocala-man]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-to-federal-prison-for-and-ocala-man]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_ocala-man-sentenced-federal-prison-attempting-meet-13-year-old-engage-sexual-activity]]"

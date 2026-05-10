@@ -3,7 +3,7 @@ type: operation
 title: "Multiple Foreign Nationals Enforcement Action"
 aliases:
   - "United States v. Multiple Foreign Nationals"
-case_id: CYB-FUP-451
+case_id: CYB-2023-086
 period: 3
 operation_role: follow-on
 parent_operation: ""

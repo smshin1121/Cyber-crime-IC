@@ -3,7 +3,7 @@ type: operation
 title: "Jumbotron Hacker And Prolific Child Molester Sentenced To 220 Years In Federal Prison Enforcement Action"
 aliases:
   - "Jumbotron Hacker And Prolific Child Molester Sentenced To 220 Years In Federal Prison"
-case_id: CYB-FUP-1013
+case_id: CYB-2024-565
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Repeat Offender Sentenced to 10 Years for Possession of Child Sexual Abuse Material Enforcement Action"
 aliases:
   - "Repeat Offender Sentenced to 10 Years for Possession of Child Sexual Abuse Material"
-case_id: CYB-FUP-1113
+case_id: CYB-2025-777
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[repeat-offender-sentenced-to-10-years-for-possession-of-child-sexual-abuse-material]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[repeat-offender-sentenced-to-10-years-for-possession-of-child-sexual-abuse-material]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_repeat-offender-sentenced-10-years-possession-child-sexual-abuse-material]]"

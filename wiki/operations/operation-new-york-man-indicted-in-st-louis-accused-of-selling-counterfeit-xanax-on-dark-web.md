@@ -3,7 +3,7 @@ type: operation
 title: "New York Man Indicted in St. Louis, Accused of Selling Counterfeit Xanax on Dark Web Enforcement Action"
 aliases:
   - "New York Man Indicted in St. Louis, Accused of Selling Counterfeit Xanax on Dark Web"
-case_id: CYB-FUP-844
+case_id: CYB-2023-403
 period: 3
 operation_role: follow-on
 parent_operation: ""

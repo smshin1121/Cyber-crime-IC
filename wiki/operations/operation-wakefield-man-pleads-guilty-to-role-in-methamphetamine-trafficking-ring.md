@@ -3,7 +3,7 @@ type: operation
 title: "Wakefield Man Pleads Guilty to Role in Methamphetamine Trafficking Ring Enforcement Action"
 aliases:
   - "Wakefield Man Pleads Guilty to Role in Methamphetamine Trafficking Ring"
-case_id: CYB-FUP-793
+case_id: CYB-2025-791
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Repeat Sex Offender Enforcement Action"
 aliases:
   - "United States v. Repeat Sex Offender"
-case_id: CYB-FUP-463
+case_id: CYB-2026-022
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-repeat-sex-offender]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-repeat-sex-offender]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_repeat-sex-offender-pleads-guilty-sexual-exploitation-child]]"

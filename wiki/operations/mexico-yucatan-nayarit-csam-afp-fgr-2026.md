@@ -5,7 +5,7 @@ aliases:
   - "AFP–FGR Mexico CSAM cooperation 2026"
   - "QPS Task Force Argos – Mexico CSAM investigation"
   - "Mexico FGR–FEMDO Yucatán Nayarit child abuse case 2026"
-case_id: CYB-2026-MXAU-CSAM
+case_id: CYB-2026-809
 period: 3
 operation_type: joint-investigation
 status: ongoing
@@ -69,13 +69,15 @@ missing_fields:
   - "Total number of identified child victims (release states multiple victims are 'in the process of being identified')."
   - "Specific instant messaging platforms and darknet venues used by the Nayarit suspect (not disclosed)."
   - "Number of buyers / downstream consumers identified, including any in Australia or third countries (not disclosed)."
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
   - "[[operation-eclipse-csam-americas]]"
   - "[[operation-cyber-guardian]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "AFP Liaison Officer postings in Mexico City function as the operative bilateral channel between Australian victim-identification intelligence (QPS Task Force Argos in Brisbane) and the Mexican federal prosecution structure (FGR-FEMDO) and federal security ministry (SSPC). The cooperation is described as long-standing and was activated for both cases without invocation of a specific MLAT instrument."
   - "Mexican federal CSAM enforcement is structured around aggravated human trafficking (trata de personas agravada) charges that combine production, exhibition and commercialisation of CSAM into a single offence stream — distinct from the separate possession/distribution offence structures used in many common-law CSAM prosecutions, including Australian Commonwealth offences."
@@ -86,7 +88,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional / single-source page
 > This page is below the preferred `source_count >= 5` publication threshold. It is retained as a tier-1 primary-source operation page because the lead Australian agency (Australian Federal Police) and the Mexican prosecution and federal security ministry (FGR-FEMDO and SSPC) issued an institutionally signed **joint** media release naming both sides of the cooperation. Spanish-language Mexican press coverage from the same news cycle (El Imparcial, Por Esto, Infobae, Informador, La Voz de Michoacán, SDP Noticias) corroborates the operational facts and adds named-suspect details that the AFP release withholds; those secondary sources should be folded in when indexed, and the page should be promoted out of provisional status at that point.
 

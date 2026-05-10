@@ -3,7 +3,7 @@ type: operation
 title: "Catalin Dragomir Enforcement Action"
 aliases:
   - "United States v. Catalin Dragomir"
-case_id: CYB-FUP-722
+case_id: CYB-2026-233
 period: 3
 operation_role: follow-on
 parent_operation: ""

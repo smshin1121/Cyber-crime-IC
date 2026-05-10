@@ -3,7 +3,7 @@ type: operation
 title: "Third Defendant Enforcement Action"
 aliases:
   - "United States v. Third Defendant"
-case_id: CYB-FUP-473
+case_id: CYB-2025-521
 period: 3
 operation_role: follow-on
 parent_operation: ""

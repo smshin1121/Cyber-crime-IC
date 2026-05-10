@@ -3,7 +3,7 @@ type: operation
 title: "Daniel Faix Enforcement Action"
 aliases:
   - "United States v. Daniel Faix"
-case_id: CYB-FUP-233
+case_id: CYB-2024-247
 period: 3
 operation_role: follow-on
 parent_operation: ""

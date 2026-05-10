@@ -3,7 +3,7 @@ type: operation
 title: "Galochkin et al. (TrickBot/Conti) Enforcement Action"
 aliases:
   - "United States v. Galochkin et al. (TrickBot/Conti)"
-case_id: CYB-FUP-034
+case_id: CYB-2023-934
 period: 3
 operation_type: indictment
 status: absorbed

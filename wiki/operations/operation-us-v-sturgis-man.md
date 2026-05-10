@@ -3,7 +3,7 @@ type: operation
 title: "Sturgis Man Enforcement Action"
 aliases:
   - "United States v. Sturgis Man"
-case_id: CYB-FUP-471
+case_id: CYB-2025-692
 period: 3
 operation_role: follow-on
 parent_operation: ""

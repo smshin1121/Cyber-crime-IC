@@ -3,7 +3,7 @@ type: operation
 title: "Gary James Harmon Enforcement Action"
 aliases:
   - "United States v. Gary James Harmon"
-case_id: CYB-FUP-155
+case_id: CYB-2023-384
 period: 3
 operation_role: follow-on
 parent_operation: ""

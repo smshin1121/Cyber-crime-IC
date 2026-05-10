@@ -3,7 +3,7 @@ type: operation
 title: "Matthew Gatrel Enforcement Action"
 aliases:
   - "United States v. Matthew Gatrel"
-case_id: CYB-FUP-132
+case_id: CYB-2022-276
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Prolific Dark Web Dealer Of Carfentanil And Fentanyl Sentenced To 17½ Years In Prison Enforcement Action"
 aliases:
   - "Prolific Dark Web Dealer Of Carfentanil And Fentanyl Sentenced To 17½ Years In Prison"
-case_id: CYB-FUP-618
+case_id: CYB-2020-628
 period: 2
 operation_role: follow-on
 parent_operation: ""

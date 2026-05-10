@@ -3,7 +3,7 @@ type: operation
 title: "Robert Merkle Enforcement Action"
 aliases:
   - "United States v. Robert Merkle"
-case_id: CYB-FUP-179
+case_id: CYB-2022-577
 period: 2
 operation_role: follow-on
 parent_operation: ""

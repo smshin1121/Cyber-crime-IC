@@ -3,7 +3,7 @@ type: operation
 title: "Marquise Tolbert Enforcement Action"
 aliases:
   - "United States v. Marquise Tolbert"
-case_id: CYB-FUP-288
+case_id: CYB-2025-736
 period: 3
 operation_role: follow-on
 parent_operation: ""

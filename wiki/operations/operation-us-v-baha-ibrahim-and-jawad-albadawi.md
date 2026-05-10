@@ -3,7 +3,7 @@ type: operation
 title: "Baha Ibrahim and Jawad Albadawi Enforcement Action"
 aliases:
   - "United States v. Baha Ibrahim and Jawad Albadawi"
-case_id: CYB-FUP-345
+case_id: CYB-2025-958
 period: 3
 operation_role: follow-on
 parent_operation: ""

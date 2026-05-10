@@ -3,7 +3,7 @@ type: operation
 title: "Dark Web Marketplace Enforcement Action"
 aliases:
   - "United States v. Dark Web Marketplace"
-case_id: CYB-FUP-412
+case_id: CYB-2026-404
 period: 3
 operation_role: follow-on
 parent_operation: ""

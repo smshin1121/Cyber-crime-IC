@@ -3,7 +3,7 @@ type: operation
 title: "Pittsburgh Felon Sentenced to 9.5 Years in Prison for Identity Theft and Firearms Crimes Enforcement Action"
 aliases:
   - "Pittsburgh Felon Sentenced to 9.5 Years in Prison for Identity Theft and Firearms Crimes"
-case_id: CYB-FUP-1096
+case_id: CYB-2025-498
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[pittsburgh-felon-sentenced-to-9-5-years-in-prison-for-identity-theft-and-firearms-crimes]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[pittsburgh-felon-sentenced-to-9-5-years-in-prison-for-identity-theft-and-firearms-crimes]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_pittsburgh-felon-sentenced-95-years-prison-identity-theft-and-firearms-crimes]]"

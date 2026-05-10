@@ -5,7 +5,7 @@ title_ko: "오퍼레이션 세크레토 후속 집행 조치"
 aliases:
   - "105 Arrested for Stealing Over EUR 12 Million from US-Based Banks"
   - "Operation Secreto"
-case_id: CYB-FUP-500
+case_id: CYB-2021-665
 period: 2
 operation_role: follow-on
 parent_operation: ""

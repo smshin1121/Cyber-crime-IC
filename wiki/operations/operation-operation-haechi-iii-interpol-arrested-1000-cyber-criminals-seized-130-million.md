@@ -3,7 +3,7 @@ type: operation
 title: "Operation HAECHI III - INTERPOL Arrested 1000 Cyber Criminals & Seized $130 Million Enforcement Action"
 aliases:
   - "Operation HAECHI III - INTERPOL Arrested 1000 Cyber Criminals & Seized $130 Million"
-case_id: CYB-FUP-847
+case_id: CYB-2022-719
 period: 2
 operation_role: follow-on
 parent_operation: ""

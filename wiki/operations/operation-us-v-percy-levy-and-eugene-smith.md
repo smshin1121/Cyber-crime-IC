@@ -3,7 +3,7 @@ type: operation
 title: "Percy Levy and Eugene Smith Enforcement Action"
 aliases:
   - "United States v. Percy Levy and Eugene Smith"
-case_id: CYB-FUP-309
+case_id: CYB-2025-261
 period: 3
 operation_role: follow-on
 parent_operation: ""

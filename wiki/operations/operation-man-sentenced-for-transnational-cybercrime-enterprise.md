@@ -3,7 +3,7 @@ type: operation
 title: "Man Sentenced for Transnational Cybercrime Enterprise Enforcement Action"
 aliases:
   - "Man Sentenced for Transnational Cybercrime Enterprise"
-case_id: CYB-FUP-841
+case_id: CYB-2022-892
 period: 2
 operation_role: follow-on
 parent_operation: ""

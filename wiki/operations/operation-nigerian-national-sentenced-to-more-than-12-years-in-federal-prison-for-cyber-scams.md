@@ -3,7 +3,7 @@ type: operation
 title: "Nigerian National Sentenced To More Than 12 Years In Federal Prison For Cyber Scams Enforcement Action"
 aliases:
   - "Nigerian National Sentenced To More Than 12 Years In Federal Prison For Cyber Scams"
-case_id: CYB-FUP-845
+case_id: CYB-2024-145
 period: 3
 operation_role: follow-on
 parent_operation: ""

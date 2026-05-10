@@ -3,7 +3,7 @@ type: operation
 title: "Three Snohomish County men indicted for drug trafficking conspiracy involving cocaine, fentanyl, and firearms Enforcement Action"
 aliases:
   - "Three Snohomish County men indicted for drug trafficking conspiracy involving cocaine, fentanyl, and firearms"
-case_id: CYB-FUP-1183
+case_id: CYB-2025-824
 period: 3
 operation_role: follow-on
 parent_operation: ""

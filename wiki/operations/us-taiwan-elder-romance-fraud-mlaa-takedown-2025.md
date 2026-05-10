@@ -7,7 +7,7 @@ aliases:
   - "TTDPO Taichung-HSI Liao Huang romance fraud 2025"
   - "Taiwan CIB-HSI MLAA proffer interview 2025"
   - "U.S.-Taiwan MLAA first prosecutor on-site interview 2025"
-case_id: CYB-2025-AIT-PR2510
+case_id: CYB-2025-761
 period: 3
 operation_type: joint-investigation
 status: ongoing
@@ -31,7 +31,8 @@ coordinating_body: ""
 participating_countries:
   - "[[taiwan]]"
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "U.S.-Taiwan Mutual Legal Assistance Agreement (MLAA), signed March 2002, in force 2002 — bilateral channel for evidence requests and witness interviews"
   - "Taiwan: Organized Crime Prevention Act (組織犯罪防制條例); Money Laundering Control Act (洗錢防制法); Passport Act (護照條例); Criminal Code — fraud and money-laundering charges in TTDPO indictment"
@@ -56,26 +57,26 @@ results:
     - "Asset categories identified in the TTDPO indictment: Swiss watch, diamond ring, Bitcoin (BTC), Tether (USDT), Lexus vehicle, plus laundering through Liao's mother's accounts."
     - "Per AIT: 'as the investigation continues, further arrests are anticipated' — investigation explicitly ongoing as of 2025-05-14."
 edges:
-  - source_actor: "ttdpo"
-    target_actor: "hsi-nashville"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
-  - source_actor: "ttdpo"
-    target_actor: "hsi-los-angeles"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
-  - source_actor: "taiwan-cib"
-    target_actor: "hsi-taipei"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "taiwan-cib"
-    target_actor: "hsi-los-angeles"
-    cooperation_type: "joint_investigation"
-    legal_basis: "bilateral_MOU"
-    direction: "undirected"
+  - source_actor: ttdpo
+    target_actor: hsi-nashville
+    cooperation_type: evidence_transfer
+    legal_basis: bilateral_MOU
+    direction: directed
+  - source_actor: ttdpo
+    target_actor: hsi-los-angeles
+    cooperation_type: evidence_transfer
+    legal_basis: bilateral_MOU
+    direction: directed
+  - source_actor: taiwan-cib
+    target_actor: hsi-taipei
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: taiwan-cib
+    target_actor: hsi-los-angeles
+    cooperation_type: joint_investigation
+    legal_basis: bilateral_MOU
+    direction: undirected
 credibility_index: 4.4
 source_tier: 1
 missing_fields:
@@ -85,12 +86,14 @@ missing_fields:
   - "Cryptocurrency seizure totals not enumerated; only asset categories (BTC, USDT) identified."
   - "Whether laundered funds passed through any third-country jurisdictions (e.g. Hong Kong, Singapore correspondent banking) is not stated."
   - "No formal U.S.-Taiwan extradition treaty exists (functional channel is the MLAA + voluntary surrender / deportation); whether U.S.-located co-conspirators will face U.S. or Taiwan prosecution is unresolved."
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "First in-country MLAA proffer interview by a Taiwanese prosecutor (Chang Fu-chun, TTDPO) since the U.S.-Taiwan MLAA was signed in March 2002 — a 23-year gap between treaty entry into force and first on-site witness questioning, suggesting that absent specific high-impact cases, even formally available bilateral channels are exercised conservatively."
   - "AIT functions as the institutional U.S. counterpart for Taiwan law-enforcement cooperation in lieu of an embassy, demonstrating that absence of formal diplomatic recognition does not preclude tier-1 bilateral criminal-justice cooperation when both sides have ratified an enabling instrument."
@@ -101,7 +104,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional / single-source
 > This page is published below the preferred source-count threshold (5) on the strength of a tier-1 primary release (AIT PR-2510, 2025-05-14) corroborated for the indictment subset by Taiwan's *Focus Taiwan* and *Taipei Times* of the same week. It will be expanded as further filings, U.S. federal indictments, sentencing outcomes, and asset-recovery details are published.
 

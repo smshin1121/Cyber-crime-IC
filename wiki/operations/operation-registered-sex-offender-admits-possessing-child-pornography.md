@@ -3,7 +3,7 @@ type: operation
 title: "Registered Sex Offender Admits Possessing Child Pornography Enforcement Action"
 aliases:
   - "Registered Sex Offender Admits Possessing Child Pornography"
-case_id: CYB-FUP-1108
+case_id: CYB-2024-880
 period: 3
 operation_role: follow-on
 parent_operation: ""

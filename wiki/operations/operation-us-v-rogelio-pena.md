@@ -3,7 +3,7 @@ type: operation
 title: "Rogelio Pena Enforcement Action"
 aliases:
   - "United States v. Rogelio Pena"
-case_id: CYB-FUP-315
+case_id: CYB-2026-477
 period: 3
 operation_role: follow-on
 parent_operation: ""

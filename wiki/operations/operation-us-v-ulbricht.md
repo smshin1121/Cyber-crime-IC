@@ -3,7 +3,7 @@ type: operation
 title: "Ulbricht Enforcement Action"
 aliases:
   - "United States v. Ulbricht"
-case_id: CYB-FUP-129
+case_id: CYB-2017-124
 period: 1
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"

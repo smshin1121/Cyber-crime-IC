@@ -3,7 +3,7 @@ type: operation
 title: "Blake Benthall (Silk Road 2.0) Enforcement Action"
 aliases:
   - "United States v. Blake Benthall (Silk Road 2.0)"
-case_id: CYB-FUP-014
+case_id: CYB-2014-064
 period: 1
 operation_type: prosecution
 status: absorbed

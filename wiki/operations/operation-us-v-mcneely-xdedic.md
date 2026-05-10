@@ -3,7 +3,7 @@ type: operation
 title: "McNeely et al. (xDedic Buyers) Enforcement Action"
 aliases:
   - "United States v. McNeely et al. (xDedic Buyers)"
-case_id: CYB-FUP-060
+case_id: CYB-2024-968
 period: 3
 operation_type: sentencing
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "Three Darknet Fentanyl Vendors Sentenced to Over 20 Years in Prison Enforcement Action"
 aliases:
   - "Three Darknet Fentanyl Vendors Sentenced to Over 20 Years in Prison"
-case_id: CYB-FUP-1176
+case_id: CYB-2023-074
 period: 3
 operation_role: follow-on
 parent_operation: ""

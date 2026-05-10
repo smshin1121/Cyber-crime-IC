@@ -3,7 +3,7 @@ type: operation
 title: "Laredo professor charged with distribution and production of child pornography Enforcement Action"
 aliases:
   - "Laredo professor charged with distribution and production of child pornography"
-case_id: CYB-FUP-587
+case_id: CYB-2024-082
 period: 3
 operation_role: follow-on
 parent_operation: ""

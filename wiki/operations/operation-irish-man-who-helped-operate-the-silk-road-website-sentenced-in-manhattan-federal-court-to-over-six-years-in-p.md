@@ -3,7 +3,7 @@ type: operation
 title: "Irish Man Who Helped Operate The \"Silk Road\" Website Sentenced In Manhattan Federal Court To Over Six Years In Prison Enforcement Action"
 aliases:
   - "Irish Man Who Helped Operate The \"Silk Road\" Website Sentenced In Manhattan Federal Court To Over Six Years In Prison"
-case_id: CYB-FUP-836
+case_id: CYB-2019-803
 period: 1
 operation_role: follow-on
 parent_operation: ""

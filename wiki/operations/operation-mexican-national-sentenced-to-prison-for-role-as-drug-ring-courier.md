@@ -3,7 +3,7 @@ type: operation
 title: "Mexican National sentenced to prison for role as drug ring courier Enforcement Action"
 aliases:
   - "Mexican National sentenced to prison for role as drug ring courier"
-case_id: CYB-FUP-600
+case_id: CYB-2025-220
 period: 3
 operation_role: follow-on
 parent_operation: ""

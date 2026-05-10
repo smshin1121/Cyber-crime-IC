@@ -3,7 +3,7 @@ type: operation
 title: "Nigerian state official sentenced to 5 years in prison for stealing U.S. disaster aid and taxpayer refunds Enforcement Action"
 aliases:
   - "Nigerian state official sentenced to 5 years in prison for stealing U.S. disaster aid and taxpayer refunds"
-case_id: CYB-FUP-608
+case_id: CYB-2022-781
 period: 2
 operation_role: follow-on
 parent_operation: ""

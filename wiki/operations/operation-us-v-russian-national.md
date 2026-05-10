@@ -3,7 +3,7 @@ type: operation
 title: "Russian National Enforcement Action"
 aliases:
   - "United States v. Russian National"
-case_id: CYB-FUP-465
+case_id: CYB-2018-729
 period: 1
 operation_role: follow-on
 parent_operation: ""

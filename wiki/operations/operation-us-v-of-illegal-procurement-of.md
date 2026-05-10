@@ -3,7 +3,7 @@ type: operation
 title: "Of Illegal Procurement Of Enforcement Action"
 aliases:
   - "United States v. Of Illegal Procurement Of"
-case_id: CYB-FUP-456
+case_id: CYB-2019-692
 period: 1
 operation_role: follow-on
 parent_operation: ""

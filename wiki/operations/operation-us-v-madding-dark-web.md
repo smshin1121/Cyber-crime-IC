@@ -3,7 +3,7 @@ type: operation
 title: "Zachary Madding (Dark Web Heroin Dealer) Enforcement Action"
 aliases:
   - "United States v. Zachary Madding (Dark Web Heroin Dealer)"
-case_id: CYB-FUP-057
+case_id: CYB-2021-653
 period: 2
 operation_type: sentencing
 status: absorbed

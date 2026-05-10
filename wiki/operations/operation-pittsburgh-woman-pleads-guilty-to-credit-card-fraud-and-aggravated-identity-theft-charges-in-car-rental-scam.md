@@ -3,7 +3,7 @@ type: operation
 title: "Pittsburgh Woman Pleads Guilty to Credit Card Fraud and Aggravated Identity Theft Charges in Car Rental Scam Enforcement Action"
 aliases:
   - "Pittsburgh Woman Pleads Guilty to Credit Card Fraud and Aggravated Identity Theft Charges in Car Rental Scam"
-case_id: CYB-FUP-1100
+case_id: CYB-2025-958
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-aggravated-identity-theft-charges-in-car-rental-scam]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-aggravated-identity-theft-charges-in-car-rental-scam]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_pittsburgh-woman-pleads-guilty-credit-card-fraud-and-aggravated-identity-theft-charges]]"

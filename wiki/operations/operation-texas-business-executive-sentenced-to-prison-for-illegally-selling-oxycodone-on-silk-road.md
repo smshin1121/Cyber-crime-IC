@@ -3,7 +3,7 @@ type: operation
 title: "Texas Business Executive Sentenced To Prison For Illegally Selling Oxycodone On Silk Road Enforcement Action"
 aliases:
   - "Texas Business Executive Sentenced To Prison For Illegally Selling Oxycodone On Silk Road"
-case_id: CYB-FUP-1170
+case_id: CYB-2014-320
 period: 1
 operation_role: follow-on
 parent_operation: ""

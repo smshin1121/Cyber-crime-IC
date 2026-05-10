@@ -3,7 +3,7 @@ type: operation
 title: "Two Indicted for Drug Trafficking Conspiracy Enforcement Action"
 aliases:
   - "Two Indicted for Drug Trafficking Conspiracy"
-case_id: CYB-FUP-649
+case_id: CYB-2025-191
 period: 3
 operation_role: follow-on
 parent_operation: ""

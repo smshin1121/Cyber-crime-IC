@@ -3,7 +3,7 @@ type: operation
 title: "Waylan Graves Enforcement Action"
 aliases:
   - "United States v. Waylan Graves"
-case_id: CYB-FUP-336
+case_id: CYB-2024-514
 period: 3
 operation_role: follow-on
 parent_operation: ""

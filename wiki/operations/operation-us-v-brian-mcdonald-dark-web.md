@@ -3,7 +3,7 @@ type: operation
 title: "Brian McDonald (Darknet Fentanyl Seller) Enforcement Action"
 aliases:
   - "United States v. Brian McDonald (Darknet Fentanyl Seller)"
-case_id: CYB-FUP-020
+case_id: CYB-2024-966
 period: 3
 operation_type: sentencing
 status: absorbed

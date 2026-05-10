@@ -3,7 +3,7 @@ type: operation
 title: "Zuni Man Indicted for Federal Charges in Triple Homicide Enforcement Action"
 aliases:
   - "Zuni Man Indicted for Federal Charges in Triple Homicide"
-case_id: CYB-FUP-1224
+case_id: CYB-2025-238
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[zuni-man-indicted-for-federal-charges-in-triple-homicide]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[zuni-man-indicted-for-federal-charges-in-triple-homicide]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_zuni-man-indicted-federal-charges-triple-homicide]]"

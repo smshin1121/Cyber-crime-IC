@@ -3,7 +3,7 @@ type: operation
 title: "Florida Computer Programmer Arrested For Hacking Enforcement Action"
 aliases:
   - "Florida Computer Programmer Arrested For Hacking"
-case_id: CYB-FUP-958
+case_id: CYB-2016-785
 period: 1
 operation_role: follow-on
 parent_operation: ""

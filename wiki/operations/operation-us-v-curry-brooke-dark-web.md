@@ -3,7 +3,7 @@ type: operation
 title: "Curry and Brooke (Dark Web Proceeds Laundering) Enforcement Action"
 aliases:
   - "United States v. Curry and Brooke (Dark Web Proceeds Laundering)"
-case_id: CYB-FUP-027
+case_id: CYB-2019-667
 period: 1
 operation_type: conviction
 status: absorbed

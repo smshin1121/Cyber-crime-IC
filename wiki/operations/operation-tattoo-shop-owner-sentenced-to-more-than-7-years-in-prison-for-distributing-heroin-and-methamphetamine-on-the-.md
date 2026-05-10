@@ -3,7 +3,7 @@ type: operation
 title: "Tattoo Shop Owner Sentenced to More Than 7 Years in Prison for Distributing Heroin and Methamphetamine on the Dark Web Enforcement Action"
 aliases:
   - "Tattoo Shop Owner Sentenced to More Than 7 Years in Prison for Distributing Heroin and Methamphetamine on the Dark Web"
-case_id: CYB-FUP-1169
+case_id: CYB-2022-028
 period: 2
 operation_role: follow-on
 parent_operation: ""

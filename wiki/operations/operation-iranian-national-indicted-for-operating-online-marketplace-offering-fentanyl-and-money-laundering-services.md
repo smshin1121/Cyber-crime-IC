@@ -3,7 +3,7 @@ type: operation
 title: "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services Enforcement Action"
 aliases:
   - "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services"
-case_id: CYB-FUP-572
+case_id: CYB-2025-384
 period: 3
 operation_role: follow-on
 parent_operation: ""

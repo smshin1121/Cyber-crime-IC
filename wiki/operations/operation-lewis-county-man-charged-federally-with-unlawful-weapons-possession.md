@@ -3,7 +3,7 @@ type: operation
 title: "Lewis County man charged federally with unlawful weapons possession Enforcement Action"
 aliases:
   - "Lewis County man charged federally with unlawful weapons possession"
-case_id: CYB-FUP-594
+case_id: CYB-2026-312
 period: 3
 operation_role: follow-on
 parent_operation: ""

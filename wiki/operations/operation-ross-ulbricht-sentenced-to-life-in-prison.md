@@ -3,7 +3,7 @@ type: operation
 title: "Ross Ulbricht Sentenced to Life in Prison Enforcement Action"
 aliases:
   - "Ross Ulbricht Sentenced to Life in Prison"
-case_id: CYB-FUP-623
+case_id: CYB-2015-321
 period: 1
 operation_role: follow-on
 parent_operation: ""

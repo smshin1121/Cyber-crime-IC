@@ -5,7 +5,7 @@ aliases:
   - "Yerevan two-call-centre joint operation"
   - "Полицейские Казахстана и Армении задержали интернет-мошенников"
   - "MIA Kazakhstan / Armenian Investigative Committee Yerevan call-centre case"
-case_id: CYB-2025-KZ-AM-001
+case_id: CYB-2025-968
 period: 3
 operation_type: joint-investigation
 status: ongoing
@@ -30,7 +30,8 @@ coordinating_body: ""
 participating_countries:
   - "[[kazakhstan]]"
   - "[[armenia]]"
-participating_agencies: []
+participating_agencies:
+  []
 mechanisms_used:
   - "[[joint-investigation-team]]"
   - "[[informal-cooperation]]"
@@ -62,7 +63,7 @@ missing_fields:
   - "Cryptocurrency amount in the seized cold wallet"
   - "Indictment / charging status of the 41 detainees"
   - "Specific bilateral legal instrument or MLA channel used"
-related_cases:
+related_cases: ""
 related_operations:
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
 challenges_encountered:

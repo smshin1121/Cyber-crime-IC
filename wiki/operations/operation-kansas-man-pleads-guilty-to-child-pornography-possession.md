@@ -3,7 +3,7 @@ type: operation
 title: "Kansas man pleads guilty to child pornography possession Enforcement Action"
 aliases:
   - "Kansas man pleads guilty to child pornography possession"
-case_id: CYB-FUP-1015
+case_id: CYB-2025-854
 period: 3
 operation_role: follow-on
 parent_operation: ""

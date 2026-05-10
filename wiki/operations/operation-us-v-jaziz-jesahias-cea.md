@@ -3,7 +3,7 @@ type: operation
 title: "Jaziz Jesahias Cea Enforcement Action"
 aliases:
   - "United States v. Jaziz Jesahias Cea"
-case_id: CYB-FUP-765
+case_id: CYB-2022-761
 period: 2
 operation_role: follow-on
 parent_operation: ""

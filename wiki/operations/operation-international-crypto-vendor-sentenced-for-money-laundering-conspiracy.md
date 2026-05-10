@@ -3,7 +3,7 @@ type: operation
 title: "International Crypto Vendor Sentenced for Money Laundering Conspiracy Enforcement Action"
 aliases:
   - "International Crypto Vendor Sentenced for Money Laundering Conspiracy"
-case_id: CYB-FUP-1009
+case_id: CYB-2025-916
 period: 3
 operation_role: follow-on
 parent_operation: ""

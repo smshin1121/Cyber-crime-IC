@@ -3,7 +3,7 @@ type: operation
 title: "Mateo Ventura Enforcement Action"
 aliases:
   - "United States v. Mateo Ventura"
-case_id: CYB-FUP-289
+case_id: CYB-2026-524
 period: 3
 operation_role: follow-on
 parent_operation: ""

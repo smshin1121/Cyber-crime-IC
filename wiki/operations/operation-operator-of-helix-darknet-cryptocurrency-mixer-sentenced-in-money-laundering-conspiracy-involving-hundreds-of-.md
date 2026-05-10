@@ -3,7 +3,7 @@ type: operation
 title: "Operator of Helix Darknet Cryptocurrency ‘Mixer’ Sentenced in Money Laundering Conspiracy Involving Hundreds of Millions of Dollars Enforcement Action"
 aliases:
   - "Operator of Helix Darknet Cryptocurrency ‘Mixer’ Sentenced in Money Laundering Conspiracy Involving Hundreds of Millions of Dollars"
-case_id: CYB-FUP-848
+case_id: CYB-2024-112
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Utah Man Pleads Guilty to Murder-for-Hire Scheme Enforcement Action"
 aliases:
   - "Utah Man Pleads Guilty to Murder-for-Hire Scheme"
-case_id: CYB-FUP-1205
+case_id: CYB-2023-953
 period: 3
 operation_role: follow-on
 parent_operation: ""

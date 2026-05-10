@@ -3,7 +3,7 @@ type: operation
 title: "Eric Scholl Enforcement Action"
 aliases:
   - "United States v. Eric Scholl"
-case_id: CYB-FUP-150
+case_id: CYB-2024-319
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Mihai Alexandru Isvanca Enforcement Action"
 aliases:
   - "United States v. Mihai Alexandru Isvanca"
-case_id: CYB-FUP-371
+case_id: CYB-2018-845
 period: 1
 operation_role: follow-on
 parent_operation: ""

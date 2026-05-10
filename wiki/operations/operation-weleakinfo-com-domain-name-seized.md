@@ -3,7 +3,7 @@ type: operation
 title: "WeLeakInfo.com Domain Name Seized Enforcement Action"
 aliases:
   - "WeLeakInfo.com Domain Name Seized"
-case_id: CYB-FUP-794
+case_id: CYB-2020-449
 period: 2
 operation_role: follow-on
 parent_operation: ""

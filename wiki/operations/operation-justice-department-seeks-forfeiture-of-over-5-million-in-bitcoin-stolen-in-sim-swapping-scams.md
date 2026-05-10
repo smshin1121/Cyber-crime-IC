@@ -3,7 +3,7 @@ type: operation
 title: "Justice Department Seeks Forfeiture of Over $5 Million in Bitcoin Stolen in SIM Swapping Scams Enforcement Action"
 aliases:
   - "Justice Department Seeks Forfeiture of Over $5 Million in Bitcoin Stolen in SIM Swapping Scams"
-case_id: CYB-FUP-575
+case_id: CYB-2025-047
 period: 3
 operation_role: follow-on
 parent_operation: ""

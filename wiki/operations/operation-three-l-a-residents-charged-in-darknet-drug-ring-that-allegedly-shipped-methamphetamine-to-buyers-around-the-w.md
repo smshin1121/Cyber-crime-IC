@@ -3,7 +3,7 @@ type: operation
 title: "Three L.A. Residents Charged in Darknet Drug Ring that Allegedly Shipped Methamphetamine to Buyers Around the World Enforcement Action"
 aliases:
   - "Three L.A. Residents Charged in Darknet Drug Ring that Allegedly Shipped Methamphetamine to Buyers Around the World"
-case_id: CYB-FUP-643
+case_id: CYB-2019-951
 period: 1
 operation_role: follow-on
 parent_operation: ""

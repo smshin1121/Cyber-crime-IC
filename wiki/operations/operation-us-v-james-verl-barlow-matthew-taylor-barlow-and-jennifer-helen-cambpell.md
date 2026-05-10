@@ -3,7 +3,7 @@ type: operation
 title: "James Verl Barlow, Matthew Taylor Barlow, and Jennifer Helen Cambpell Enforcement Action"
 aliases:
   - "United States v. James Verl Barlow, Matthew Taylor Barlow, and Jennifer Helen Cambpell"
-case_id: CYB-FUP-764
+case_id: CYB-2021-883
 period: 2
 operation_role: follow-on
 parent_operation: ""

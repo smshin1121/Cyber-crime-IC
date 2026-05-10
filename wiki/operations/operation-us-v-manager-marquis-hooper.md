@@ -3,7 +3,7 @@ type: operation
 title: "Manager Marquis Hooper Enforcement Action"
 aliases:
   - "United States v. Manager Marquis Hooper"
-case_id: CYB-FUP-285
+case_id: CYB-2023-980
 period: 3
 operation_role: follow-on
 parent_operation: ""

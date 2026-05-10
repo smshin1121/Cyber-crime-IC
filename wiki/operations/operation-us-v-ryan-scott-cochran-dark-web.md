@@ -3,7 +3,7 @@ type: operation
 title: "Ryan Scott Cochran (Dark Web Vendor) Enforcement Action"
 aliases:
   - "United States v. Ryan Scott Cochran (Dark Web Vendor)"
-case_id: CYB-FUP-081
+case_id: CYB-2024-393
 period: 3
 operation_type: prosecution
 status: absorbed

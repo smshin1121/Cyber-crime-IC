@@ -3,7 +3,7 @@ type: operation
 title: "Seven Georgians Indicted for Operating Online Fentanyl, Meth Marketplace Enforcement Action"
 aliases:
   - "Seven Georgians Indicted for Operating Online Fentanyl, Meth Marketplace"
-case_id: CYB-FUP-1146
+case_id: CYB-2025-913
 period: 3
 operation_role: follow-on
 parent_operation: ""

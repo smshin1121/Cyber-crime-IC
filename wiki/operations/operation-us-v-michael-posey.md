@@ -3,7 +3,7 @@ type: operation
 title: "Michael Posey Enforcement Action"
 aliases:
   - "United States v. Michael Posey"
-case_id: CYB-FUP-293
+case_id: CYB-2025-348
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "King County man who dealt narcotics on the dark web and kept a cache of weapons at his RV sentenced to 8 years in prison Enforcement Action"
 aliases:
   - "King County man who dealt narcotics on the dark web and kept a cache of weapons at his RV sentenced to 8 years in prison"
-case_id: CYB-FUP-585
+case_id: CYB-2025-130
 period: 3
 operation_role: follow-on
 parent_operation: ""

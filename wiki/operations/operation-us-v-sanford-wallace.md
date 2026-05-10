@@ -3,7 +3,7 @@ type: operation
 title: "Sanford Wallace Enforcement Action"
 aliases:
   - "United States v. Sanford Wallace"
-case_id: CYB-FUP-380
+case_id: CYB-2016-889
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Rostislav Panev Enforcement Action"
 aliases:
   - "United States v. Rostislav Panev"
-case_id: CYB-FUP-201
+case_id: CYB-2024-410
 period: 3
 operation_role: follow-on
 parent_operation: ""

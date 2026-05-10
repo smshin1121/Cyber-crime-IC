@@ -3,7 +3,7 @@ type: operation
 title: "With Selling Fentanyl And and Father And Son Enforcement Action"
 aliases:
   - "United States v. With Selling Fentanyl And and Father And Son"
-case_id: CYB-FUP-791
+case_id: CYB-2017-025
 period: 1
 operation_role: follow-on
 parent_operation: ""

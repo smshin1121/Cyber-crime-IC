@@ -3,7 +3,7 @@ type: operation
 title: "Chris Ruediger Enforcement Action"
 aliases:
   - "United States v. Chris Ruediger"
-case_id: CYB-FUP-225
+case_id: CYB-2025-882
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-chris-ruediger]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-chris-ruediger]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_new-jersey-man-sentenced-prescription-opioid-conspiracy]]"

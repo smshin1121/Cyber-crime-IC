@@ -3,7 +3,7 @@ type: operation
 title: "Social Services Director of a Nursing Home Charged with ID Theft from Elderly Residents Enforcement Action"
 aliases:
   - "Social Services Director of a Nursing Home Charged with ID Theft from Elderly Residents"
-case_id: CYB-FUP-736
+case_id: CYB-2018-961
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[social-services-director-of-a-nursing-home-charged-with-id-theft-from-elderly-residents]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[social-services-director-of-a-nursing-home-charged-with-id-theft-from-elderly-residents]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_social-services-director-nursing-home-charged-id-theft-elderly-residents]]"

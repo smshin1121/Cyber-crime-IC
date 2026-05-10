@@ -3,7 +3,7 @@ type: operation
 title: "Sean Donnell White Enforcement Action"
 aliases:
   - "United States v. Sean Donnell White"
-case_id: CYB-FUP-325
+case_id: CYB-2024-122
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "RICO Conspirator Convicted At Trial Enforcement Action"
 aliases:
   - "RICO Conspirator Convicted At Trial"
-case_id: CYB-FUP-1116
+case_id: CYB-2023-228
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "TWO MEN CHARGED IN MULTI-MILLION DOLLAR DARKNET DRUG DISTRIBUTION CONSPIRACY Enforcement Action"
 aliases:
   - "TWO MEN CHARGED IN MULTI-MILLION DOLLAR DARKNET DRUG DISTRIBUTION CONSPIRACY"
-case_id: CYB-FUP-742
+case_id: CYB-2021-714
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "East Hartford Man Enforcement Action"
 aliases:
   - "United States v. East Hartford Man"
-case_id: CYB-FUP-416
+case_id: CYB-2026-146
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-east-hartford-man]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-east-hartford-man]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while]]"

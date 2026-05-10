@@ -3,7 +3,7 @@ type: operation
 title: "Member of Russian cybercrime group charged in Ohio Enforcement Action"
 aliases:
   - "Member of Russian cybercrime group charged in Ohio"
-case_id: CYB-FUP-1046
+case_id: CYB-2024-343
 period: 3
 operation_role: follow-on
 parent_operation: ""

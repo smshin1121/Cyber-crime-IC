@@ -3,7 +3,7 @@ type: operation
 title: "San Francisco Man Sentenced To 84 Months In Prison For Possession Of Child Pornography Enforcement Action"
 aliases:
   - "San Francisco Man Sentenced To 84 Months In Prison For Possession Of Child Pornography"
-case_id: CYB-FUP-1136
+case_id: CYB-2017-878
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[san-francisco-man-sentenced-to-84-months-in-prison-for-possession-of-child-pornography]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[san-francisco-man-sentenced-to-84-months-in-prison-for-possession-of-child-pornography]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_san-francisco-man-sentenced-84-months-prison-possession-child-pornography]]"

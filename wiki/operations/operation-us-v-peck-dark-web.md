@@ -3,7 +3,7 @@ type: operation
 title: "Anton Peck (Dark Web Dealer) Enforcement Action"
 aliases:
   - "United States v. Anton Peck (Dark Web Dealer)"
-case_id: CYB-FUP-077
+case_id: CYB-2022-727
 period: 2
 operation_type: sentencing
 status: absorbed

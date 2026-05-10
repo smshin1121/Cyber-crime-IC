@@ -77,7 +77,7 @@ total: 61
 | 🇱🇺 | [[luxembourg]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇻 | [[latvia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇲🇦 | [[morocco]] | not-assessed | — | unknown | unknown | 0 |
-| 🇲🇩 | [[moldova]] | civil-law | not-assessed | unknown | unknown | 4 |
+| 🇲🇩 | [[moldova]] | civil-law | not-assessed | unknown | unknown | 6 |
 | 🇲🇪 | [[montenegro]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇰 | [[macedonia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇲🇲 | [[myanmar]] | mixed | not-assessed | unknown | unknown | 1 |

@@ -3,7 +3,7 @@ type: operation
 title: "Montgomery County Doctor Charged with Illegally Prescribing Opioids Enforcement Action"
 aliases:
   - "Montgomery County Doctor Charged with Illegally Prescribing Opioids"
-case_id: CYB-FUP-709
+case_id: CYB-2019-654
 period: 1
 operation_role: follow-on
 parent_operation: ""

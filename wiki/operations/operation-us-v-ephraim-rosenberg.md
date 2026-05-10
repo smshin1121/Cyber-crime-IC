@@ -3,7 +3,7 @@ type: operation
 title: "Ephraim Rosenberg Enforcement Action"
 aliases:
   - "United States v. Ephraim Rosenberg"
-case_id: CYB-FUP-244
+case_id: CYB-2023-463
 period: 3
 operation_role: follow-on
 parent_operation: ""

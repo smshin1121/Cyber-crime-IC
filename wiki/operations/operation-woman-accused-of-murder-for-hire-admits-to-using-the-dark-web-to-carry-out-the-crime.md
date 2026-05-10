@@ -3,7 +3,7 @@ type: operation
 title: "Woman Accused of Murder-for-Hire Admits to Using the Dark Web to Carry Out the Crime Enforcement Action"
 aliases:
   - "Woman Accused of Murder-for-Hire Admits to Using the Dark Web to Carry Out the Crime"
-case_id: CYB-FUP-1217
+case_id: CYB-2024-829
 period: 3
 operation_role: follow-on
 parent_operation: ""

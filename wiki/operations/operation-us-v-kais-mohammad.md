@@ -3,7 +3,7 @@ type: operation
 title: "Kais Mohammad Enforcement Action"
 aliases:
   - "United States v. Kais Mohammad"
-case_id: CYB-FUP-770
+case_id: CYB-2020-832
 period: 2
 operation_role: follow-on
 parent_operation: ""

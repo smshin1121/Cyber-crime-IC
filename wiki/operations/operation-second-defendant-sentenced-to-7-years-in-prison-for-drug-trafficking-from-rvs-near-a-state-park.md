@@ -3,7 +3,7 @@ type: operation
 title: "Second defendant sentenced to 7 years in prison for drug trafficking from RVs near a state park Enforcement Action"
 aliases:
   - "Second defendant sentenced to 7 years in prison for drug trafficking from RVs near a state park"
-case_id: CYB-FUP-1144
+case_id: CYB-2025-599
 period: 3
 operation_role: follow-on
 parent_operation: ""

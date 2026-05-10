@@ -3,7 +3,7 @@ type: operation
 title: "Southern California Woman Pleads Guilty to Fentanyl Distribution and Money Laundering Conspiracy Enforcement Action"
 aliases:
   - "Southern California Woman Pleads Guilty to Fentanyl Distribution and Money Laundering Conspiracy"
-case_id: CYB-FUP-1157
+case_id: CYB-2024-095
 period: 3
 operation_role: follow-on
 parent_operation: ""

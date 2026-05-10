@@ -3,7 +3,7 @@ type: operation
 title: "Nazarovi et al. (QQAAZZ) Enforcement Action"
 aliases:
   - "United States v. Nazarovi et al. (QQAAZZ)"
-case_id: CYB-FUP-062
+case_id: CYB-2020-684
 period: 2
 operation_type: indictment
 status: absorbed

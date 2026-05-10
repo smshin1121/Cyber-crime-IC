@@ -3,7 +3,7 @@ type: operation
 title: "Vallejo Man Indicted for Illegal Firearm Possession Enforcement Action"
 aliases:
   - "Vallejo Man Indicted for Illegal Firearm Possession"
-case_id: CYB-FUP-1207
+case_id: CYB-2026-842
 period: 3
 operation_role: follow-on
 parent_operation: ""

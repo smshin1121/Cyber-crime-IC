@@ -3,7 +3,7 @@ type: operation
 title: "U.S. ATTORNEY HEAP ANNOUNCES FORFEITURE OF CRYPTOCURRENCY AND RETURN OF FRAUD PROCEEDS TO VICTIM Enforcement Action"
 aliases:
   - "U.S. ATTORNEY HEAP ANNOUNCES FORFEITURE OF CRYPTOCURRENCY AND RETURN OF FRAUD PROCEEDS TO VICTIM"
-case_id: CYB-FUP-746
+case_id: CYB-2025-400
 period: 3
 operation_role: follow-on
 parent_operation: ""

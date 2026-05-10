@@ -3,7 +3,7 @@ type: operation
 title: "Anthony Raymond Dodd Enforcement Action"
 aliases:
   - "United States v. Anthony Raymond Dodd"
-case_id: CYB-FUP-217
+case_id: CYB-2025-314
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Two Individuals Sentenced for Conspiracy Charges Involving the Sale of Fraudulent Identity Documents on the Darknet Enforcement Action"
 aliases:
   - "Two Individuals Sentenced for Conspiracy Charges Involving the Sale of Fraudulent Identity Documents on the Darknet"
-case_id: CYB-FUP-1190
+case_id: CYB-2022-641
 period: 2
 operation_role: follow-on
 parent_operation: ""

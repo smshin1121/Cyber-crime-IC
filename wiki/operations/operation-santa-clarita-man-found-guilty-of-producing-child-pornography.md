@@ -3,7 +3,7 @@ type: operation
 title: "Santa Clarita Man Found Guilty of Producing Child Pornography Enforcement Action"
 aliases:
   - "Santa Clarita Man Found Guilty of Producing Child Pornography"
-case_id: CYB-FUP-1140
+case_id: CYB-2023-518
 period: 3
 operation_role: follow-on
 parent_operation: ""

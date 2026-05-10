@@ -3,7 +3,7 @@ type: operation
 title: "Pernicious cyberstalker sentenced to 9 years in prison for unrelenting harassment of former roommate and others Enforcement Action"
 aliases:
   - "Pernicious cyberstalker sentenced to 9 years in prison for unrelenting harassment of former roommate and others"
-case_id: CYB-FUP-615
+case_id: CYB-2024-856
 period: 3
 operation_role: follow-on
 parent_operation: ""

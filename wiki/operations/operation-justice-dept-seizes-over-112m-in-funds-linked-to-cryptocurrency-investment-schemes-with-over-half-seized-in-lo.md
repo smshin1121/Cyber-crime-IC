@@ -3,7 +3,7 @@ type: operation
 title: "Justice Dept. Seizes Over $112M in Funds Linked to Cryptocurrency Investment Schemes, With Over Half Seized in Los Angeles Case Enforcement Action"
 aliases:
   - "Justice Dept. Seizes Over $112M in Funds Linked to Cryptocurrency Investment Schemes, With Over Half Seized in Los Angeles Case"
-case_id: CYB-FUP-576
+case_id: CYB-2023-726
 period: 3
 operation_role: follow-on
 parent_operation: ""

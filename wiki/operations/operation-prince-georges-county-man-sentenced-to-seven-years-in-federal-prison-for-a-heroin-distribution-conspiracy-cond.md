@@ -3,7 +3,7 @@ type: operation
 title: "Prince George’s County Man Sentenced to Seven Years in Federal Prison for a Heroin Distribution Conspiracy Conducted Over the Dark Web Enforcement Action"
 aliases:
   - "Prince George’s County Man Sentenced to Seven Years in Federal Prison for a Heroin Distribution Conspiracy Conducted Over the Dark Web"
-case_id: CYB-FUP-720
+case_id: CYB-2021-231
 period: 2
 operation_role: follow-on
 parent_operation: ""

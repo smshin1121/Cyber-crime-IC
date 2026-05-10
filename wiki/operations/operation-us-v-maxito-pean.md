@@ -3,7 +3,7 @@ type: operation
 title: "Maxito Pean Enforcement Action"
 aliases:
   - "United States v. Maxito Pean"
-case_id: CYB-FUP-370
+case_id: CYB-2016-035
 period: 1
 operation_role: follow-on
 parent_operation: ""

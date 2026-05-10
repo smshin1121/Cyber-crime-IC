@@ -3,7 +3,7 @@ type: operation
 title: "Silk Road Vendor Sentenced to Two Years In Prison Enforcement Action"
 aliases:
   - "Silk Road Vendor Sentenced to Two Years In Prison"
-case_id: CYB-FUP-630
+case_id: CYB-2015-360
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Russian National And Bitcoin Exchange Charged In 21-Count Indictment For Operating Alleged International Money Laundering Scheme And Allegedly Laundering Funds From Hack Of Mt. Gox Enforcement Action"
 aliases:
   - "Russian National And Bitcoin Exchange Charged In 21-Count Indictment For Operating Alleged International Money Laundering Scheme And Allegedly Laundering Funds From Hack Of Mt. Gox"
-case_id: CYB-FUP-1123
+case_id: CYB-2017-000
 period: 1
 operation_role: follow-on
 parent_operation: ""

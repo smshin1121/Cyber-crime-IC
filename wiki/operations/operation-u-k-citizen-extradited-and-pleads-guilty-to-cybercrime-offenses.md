@@ -3,7 +3,7 @@ type: operation
 title: "U.K. Citizen Extradited And Pleads Guilty To Cybercrime Offenses Enforcement Action"
 aliases:
   - "U.K. Citizen Extradited And Pleads Guilty To Cybercrime Offenses"
-case_id: CYB-FUP-745
+case_id: CYB-2023-345
 period: 3
 operation_role: follow-on
 parent_operation: ""

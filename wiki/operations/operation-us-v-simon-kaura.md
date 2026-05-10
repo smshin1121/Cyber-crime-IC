@@ -3,7 +3,7 @@ type: operation
 title: "Simon Kaura Enforcement Action"
 aliases:
   - "United States v. Simon Kaura"
-case_id: CYB-FUP-327
+case_id: CYB-2024-443
 period: 3
 operation_role: follow-on
 parent_operation: ""

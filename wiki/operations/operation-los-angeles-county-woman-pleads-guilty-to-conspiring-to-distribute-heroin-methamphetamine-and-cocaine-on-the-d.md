@@ -3,7 +3,7 @@ type: operation
 title: "Los Angeles County Woman Pleads Guilty to Conspiring to Distribute Heroin, Methamphetamine, and Cocaine on the Darknet Enforcement Action"
 aliases:
   - "Los Angeles County Woman Pleads Guilty to Conspiring to Distribute Heroin, Methamphetamine, and Cocaine on the Darknet"
-case_id: CYB-FUP-837
+case_id: CYB-2020-161
 period: 2
 operation_role: follow-on
 parent_operation: ""

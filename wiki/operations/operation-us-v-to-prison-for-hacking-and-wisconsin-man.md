@@ -3,7 +3,7 @@ type: operation
 title: "To Prison For Hacking and Wisconsin Man Enforcement Action"
 aliases:
   - "United States v. To Prison For Hacking and Wisconsin Man"
-case_id: CYB-FUP-483
+case_id: CYB-2024-837
 period: 3
 operation_role: follow-on
 parent_operation: ""

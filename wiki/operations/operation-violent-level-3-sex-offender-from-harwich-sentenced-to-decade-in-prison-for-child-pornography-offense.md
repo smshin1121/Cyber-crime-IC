@@ -3,7 +3,7 @@ type: operation
 title: "Violent Level 3 Sex Offender From Harwich Sentenced to Decade in Prison for Child Pornography Offense Enforcement Action"
 aliases:
   - "Violent Level 3 Sex Offender From Harwich Sentenced to Decade in Prison for Child Pornography Offense"
-case_id: CYB-FUP-1208
+case_id: CYB-2025-824
 period: 3
 operation_role: follow-on
 parent_operation: ""

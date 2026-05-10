@@ -3,7 +3,7 @@ type: operation
 title: "Interpol Seized $130 Million from Cybercriminals in Global \"HAECHI-III\" Crackdown Enforcement Action"
 aliases:
   - "Interpol Seized $130 Million from Cybercriminals in Global \"HAECHI-III\" Crackdown"
-case_id: CYB-FUP-833
+case_id: CYB-2022-931
 period: 2
 operation_role: follow-on
 parent_operation: ""

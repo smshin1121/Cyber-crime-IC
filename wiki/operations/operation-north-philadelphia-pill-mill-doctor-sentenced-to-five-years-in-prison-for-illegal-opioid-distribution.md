@@ -3,7 +3,7 @@ type: operation
 title: "North Philadelphia “Pill Mill” Doctor Sentenced to Five Years in Prison for Illegal Opioid Distribution Enforcement Action"
 aliases:
   - "North Philadelphia “Pill Mill” Doctor Sentenced to Five Years in Prison for Illegal Opioid Distribution"
-case_id: CYB-FUP-715
+case_id: CYB-2021-295
 period: 2
 operation_role: follow-on
 parent_operation: ""

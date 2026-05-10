@@ -3,7 +3,7 @@ type: operation
 title: "Daniel Marsico Enforcement Action"
 aliases:
   - "United States v. Daniel Marsico"
-case_id: CYB-FUP-145
+case_id: CYB-2024-054
 period: 3
 operation_role: follow-on
 parent_operation: ""

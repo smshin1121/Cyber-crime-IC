@@ -3,7 +3,7 @@ type: operation
 title: "Ciara Clutario Enforcement Action"
 aliases:
   - "United States v. Ciara Clutario"
-case_id: CYB-FUP-230
+case_id: CYB-2023-972
 period: 3
 operation_role: follow-on
 parent_operation: ""

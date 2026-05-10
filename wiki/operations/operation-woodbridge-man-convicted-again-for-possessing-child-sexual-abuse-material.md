@@ -3,7 +3,7 @@ type: operation
 title: "Woodbridge man convicted again for possessing child sexual abuse material Enforcement Action"
 aliases:
   - "Woodbridge man convicted again for possessing child sexual abuse material"
-case_id: CYB-FUP-1220
+case_id: CYB-2024-438
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Leader of Darknet Drug Distribution Conspiracy Sentenced to Federal Prison Enforcement Action"
 aliases:
   - "Leader of Darknet Drug Distribution Conspiracy Sentenced to Federal Prison"
-case_id: CYB-FUP-1027
+case_id: CYB-2021-292
 period: 2
 operation_role: follow-on
 parent_operation: ""

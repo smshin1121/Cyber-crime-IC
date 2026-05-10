@@ -3,7 +3,7 @@ type: operation
 title: "Two Sentenced in Dark Web Identity Theft and Retail Fraud Conspiracy Enforcement Action"
 aliases:
   - "Two Sentenced in Dark Web Identity Theft and Retail Fraud Conspiracy"
-case_id: CYB-FUP-652
+case_id: CYB-2024-575
 period: 3
 operation_role: follow-on
 parent_operation: ""

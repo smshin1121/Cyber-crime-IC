@@ -3,7 +3,7 @@ type: operation
 title: "Owners of “Empire Market” Charged in Chicago With Operating $430 Million Dark Web Marketplace Enforcement Action"
 aliases:
   - "Owners of “Empire Market” Charged in Chicago With Operating $430 Million Dark Web Marketplace"
-case_id: CYB-FUP-613
+case_id: CYB-2024-113
 period: 3
 operation_role: follow-on
 parent_operation: ""

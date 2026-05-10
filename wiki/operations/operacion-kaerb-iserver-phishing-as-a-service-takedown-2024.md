@@ -5,7 +5,7 @@ aliases:
   - "Operation Kaerb"
   - "iServer takedown 2024"
   - "PAcCTO 2.0 / AMERIPOL / EUROPOL six-country phone-unlock phishing takedown"
-case_id: CYB-2024-AR-KAERB
+case_id: CYB-2024-859
 period: 3
 operation_type: takedown
 status: completed
@@ -105,9 +105,12 @@ missing_fields:
   - "Domain seizures, server seizures and infrastructure dismantlement specifics for the iServer platform itself (the Argentine release describes the takedown at the actor / arrest level rather than the infrastructure level)."
   - "Total monetary loss to victims (the release reports a victim count of 483,000 but no aggregate fraud loss)."
   - "Procedural status of the Argentine administrator (named in secondary press as Iván David Cudde, but the primary-source Argentine release identifies the apex suspect only by Santa Fe residency)."
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "The PAcCTO 2.0 programme (Programa de Asistencia Contra el Crimen Transnacional Organizado, EU-funded) is named in the release as a coordination conduit alongside EUROPOL and AMERIPOL — a tri-modal architecture in which the EU-side coordination (EUROPOL) and the Latin American policing community (AMERIPOL) are bridged by an EU-funded technical-assistance instrument (PAcCTO 2.0). This is a documented worked example of how the Latin American leg of multinational cybercrime takedowns can be wired through PAcCTO."
   - "Public-private intelligence partnership: Group-IB is named as a private-sector contributor whose collaborative input the release describes as 'invaluable'. The operation is consistent with the Group-IB-aided EUROPOL-coordinated public-private template visible in earlier ingested operations such as [[carding-action-2020]]."
@@ -118,7 +121,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional / single-source page
 > This page is below the preferred `source_count >= 5` publication threshold. It is retained as a tier-1 primary-source operation page because the Argentine Ministry of Security / Policía Federal Argentina issued an institutionally signed press release on `argentina.gob.ar` naming all six participating jurisdictions, the platform, the coordination architecture (EUROPOL, AMERIPOL, PAcCTO 2.0, Group-IB), aggregate enforcement totals, and per-country victim counts. Eurojust/Europol English-language coverage and Group-IB's PRNewswire release in the same news cycle independently corroborate headline figures (17 arrests, 28 searches, 921 devices, six countries, 483,000 victims). Those secondary sources should be folded in when next ingested, and the page should be promoted out of provisional status at that point.
 

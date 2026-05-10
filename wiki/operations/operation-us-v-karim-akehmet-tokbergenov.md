@@ -3,7 +3,7 @@ type: operation
 title: "Karim Akehmet Tokbergenov Enforcement Action"
 aliases:
   - "United States v. Karim Akehmet Tokbergenov"
-case_id: CYB-FUP-362
+case_id: CYB-2018-467
 period: 1
 operation_role: follow-on
 parent_operation: ""

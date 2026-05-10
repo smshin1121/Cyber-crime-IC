@@ -7,7 +7,7 @@ aliases:
   - "Operation Cumberland 2025"
   - "AI-generated CSAM buyers operation Denmark"
   - "Cumberland AI-CSAM"
-case_id: CYB-2025-CMB
+case_id: CYB-2025-051
 period: 3
 operation_type: joint-investigation
 status: ongoing
@@ -61,7 +61,8 @@ participating_agencies:
   - "[[switzerland-fedpol]]"
   - "[[uk-metropolitan-police]]"
   - "[[netherlands-politie]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[j-cat]]"
 results:
@@ -149,14 +150,16 @@ edges:
 credibility_index: 4.6
 source_tier: 1
 missing_fields:
-  - per-country arrest breakdown
-  - per-country devices-seized breakdown
-  - identity of the platform's payment processor(s)
-related_cases: []
+  - "per-country arrest breakdown"
+  - "per-country devices-seized breakdown"
+  - "identity of the platform's payment processor(s)"
+related_cases:
+  []
 related_operations:
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[operation-alice-csam-fraud-2026]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "First publicly documented multi-country police operation targeting buyers of fully AI-generated CSAM (no real victim depicted in the images), surfacing a substantive-law gap in many participating jurisdictions."
   - "J-CAT operational-coordination + EC3 analysis layering allows a single national force (NSK) to convert a domestic conviction into a 19-country buyer-side action via the financial trail."
@@ -166,7 +169,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 ## Summary
 
 **Operation Cumberland** is a Danish-led, Europol-coordinated international

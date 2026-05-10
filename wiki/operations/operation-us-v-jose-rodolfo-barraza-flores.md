@@ -3,7 +3,7 @@ type: operation
 title: "Jose Rodolfo Barraza Flores Enforcement Action"
 aliases:
   - "United States v. Jose Rodolfo Barraza Flores"
-case_id: CYB-FUP-121
+case_id: CYB-2022-144
 period: 2
 operation_role: follow-on
 parent_operation: ""

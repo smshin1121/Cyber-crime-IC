@@ -3,7 +3,7 @@ type: operation
 title: "Defendant Nicole Dunlap and Marcus Smith Enforcement Action"
 aliases:
   - "United States v. Defendant Nicole Dunlap and Marcus Smith"
-case_id: CYB-FUP-237
+case_id: CYB-2020-270
 period: 2
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-defendant-nicole-dunlap-and-marcus-smith]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-defendant-nicole-dunlap-and-marcus-smith]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_bay-area-residents-sentenced-five-years-counterfeit-currency-and-credit-card-fraud]]"

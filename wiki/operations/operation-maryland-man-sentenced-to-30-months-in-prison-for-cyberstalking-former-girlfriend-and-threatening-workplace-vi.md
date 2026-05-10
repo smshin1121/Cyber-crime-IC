@@ -3,7 +3,7 @@ type: operation
 title: "Maryland Man Sentenced to 30 Months in Prison for Cyberstalking Former Girlfriend and Threatening Workplace Violence Enforcement Action"
 aliases:
   - "Maryland Man Sentenced to 30 Months in Prison for Cyberstalking Former Girlfriend and Threatening Workplace Violence"
-case_id: CYB-FUP-1042
+case_id: CYB-2020-893
 period: 2
 operation_role: follow-on
 parent_operation: ""

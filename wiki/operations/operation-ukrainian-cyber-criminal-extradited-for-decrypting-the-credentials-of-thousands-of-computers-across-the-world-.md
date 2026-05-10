@@ -3,7 +3,7 @@ type: operation
 title: "Ukrainian Cyber Criminal Extradited For Decrypting The Credentials Of Thousands Of Computers Across The World And Selling Them On A Dark Web Website Enforcement Action"
 aliases:
   - "Ukrainian Cyber Criminal Extradited For Decrypting The Credentials Of Thousands Of Computers Across The World And Selling Them On A Dark Web Website"
-case_id: CYB-FUP-1200
+case_id: CYB-2021-591
 period: 2
 operation_role: follow-on
 parent_operation: ""

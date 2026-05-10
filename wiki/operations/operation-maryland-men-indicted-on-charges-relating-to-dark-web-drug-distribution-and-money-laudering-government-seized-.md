@@ -3,7 +3,7 @@ type: operation
 title: "Maryland Men Indicted on Charges Relating to Dark Web Drug Distribution and Money Laudering; Government Seized more than $22 Million in Assets Enforcement Action"
 aliases:
   - "Maryland Men Indicted on Charges Relating to Dark Web Drug Distribution and Money Laudering; Government Seized more than $22 Million in Assets"
-case_id: CYB-FUP-597
+case_id: CYB-2018-832
 period: 1
 operation_role: follow-on
 parent_operation: ""

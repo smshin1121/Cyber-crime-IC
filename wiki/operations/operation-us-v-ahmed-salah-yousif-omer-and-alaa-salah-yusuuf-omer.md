@@ -3,7 +3,7 @@ type: operation
 title: "Ahmed Salah Yousif Omer and Alaa Salah Yusuuf Omer Enforcement Action"
 aliases:
   - "United States v. Ahmed Salah Yousif Omer and Alaa Salah Yusuuf Omer"
-case_id: CYB-FUP-204
+case_id: CYB-2024-154
 period: 3
 operation_role: follow-on
 parent_operation: ""

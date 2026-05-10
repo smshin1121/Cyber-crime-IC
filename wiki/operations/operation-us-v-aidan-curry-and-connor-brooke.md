@@ -3,7 +3,7 @@ type: operation
 title: "Aidan Curry And Connor Brooke Enforcement Action"
 aliases:
   - "United States v. Aidan Curry And Connor Brooke"
-case_id: CYB-FUP-106
+case_id: CYB-2019-665
 period: 1
 operation_role: follow-on
 parent_operation: ""

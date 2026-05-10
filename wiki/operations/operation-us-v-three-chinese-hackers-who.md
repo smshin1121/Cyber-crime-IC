@@ -3,7 +3,7 @@ type: operation
 title: "Three Chinese Hackers Who Enforcement Action"
 aliases:
   - "United States v. Three Chinese Hackers Who"
-case_id: CYB-FUP-474
+case_id: CYB-2017-532
 period: 1
 operation_role: follow-on
 parent_operation: ""

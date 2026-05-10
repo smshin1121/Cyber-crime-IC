@@ -3,7 +3,7 @@ type: operation
 title: "Internet Stalker Sentenced to More than 14 Years in Federal Prison Enforcement Action"
 aliases:
   - "Internet Stalker Sentenced to More than 14 Years in Federal Prison"
-case_id: CYB-FUP-699
+case_id: CYB-2019-329
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_internet-stalker-sentenced-more-14-years-federal-prison]]"

@@ -3,7 +3,7 @@ type: operation
 title: "Alessandro Sabbagh (Darknet Counterfeit Drug Vendor) Enforcement Action"
 aliases:
   - "United States v. Alessandro Sabbagh (Darknet Counterfeit Drug Vendor)"
-case_id: CYB-FUP-082
+case_id: CYB-2025-648
 period: 3
 operation_type: sentencing
 status: absorbed

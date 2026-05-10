@@ -3,7 +3,7 @@ type: operation
 title: "Jordanian Man Admits Selling Unauthorized Access to Computer Networks of 50 Companies Enforcement Action"
 aliases:
   - "Jordanian Man Admits Selling Unauthorized Access to Computer Networks of 50 Companies"
-case_id: CYB-FUP-701
+case_id: CYB-2026-369
 period: 3
 operation_role: follow-on
 parent_operation: ""

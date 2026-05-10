@@ -3,7 +3,7 @@ type: operation
 title: "Utah Man Charged with Murder-for-Hire Scheme Enforcement Action"
 aliases:
   - "Utah Man Charged with Murder-for-Hire Scheme"
-case_id: CYB-FUP-1204
+case_id: CYB-2021-375
 period: 2
 operation_role: follow-on
 parent_operation: ""

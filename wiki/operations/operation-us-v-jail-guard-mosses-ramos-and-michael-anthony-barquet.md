@@ -3,7 +3,7 @@ type: operation
 title: "Jail Guard Mosses Ramos and Michael Anthony Barquet Enforcement Action"
 aliases:
   - "United States v. Jail Guard Mosses Ramos and Michael Anthony Barquet"
-case_id: CYB-FUP-259
+case_id: CYB-2023-272
 period: 3
 operation_role: follow-on
 parent_operation: ""

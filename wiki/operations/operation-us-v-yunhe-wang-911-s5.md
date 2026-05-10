@@ -3,7 +3,7 @@ type: operation
 title: "YunHe Wang (911 S5 Botnet) Enforcement Action"
 aliases:
   - "United States v. YunHe Wang (911 S5 Botnet)"
-case_id: CYB-FUP-102
+case_id: CYB-2024-720
 period: 3
 operation_role: follow-on
 parent_operation: "[[911-s5-botnet-takedown]]"

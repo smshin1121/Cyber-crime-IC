@@ -3,7 +3,7 @@ type: operation
 title: "Nehemie Almonor Enforcement Action"
 aliases:
   - "United States v. Nehemie Almonor"
-case_id: CYB-FUP-302
+case_id: CYB-2024-329
 period: 3
 operation_role: follow-on
 parent_operation: ""

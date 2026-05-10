@@ -3,7 +3,7 @@ type: operation
 title: "Pittsburgh Man Charged with Threatening Communications and Impeding FBI Investigation Enforcement Action"
 aliases:
   - "Pittsburgh Man Charged with Threatening Communications and Impeding FBI Investigation"
-case_id: CYB-FUP-1097
+case_id: CYB-2021-402
 period: 2
 operation_role: follow-on
 parent_operation: ""

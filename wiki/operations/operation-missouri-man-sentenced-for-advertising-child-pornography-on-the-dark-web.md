@@ -3,7 +3,7 @@ type: operation
 title: "Missouri Man Sentenced for Advertising Child Pornography on the Dark Web Enforcement Action"
 aliases:
   - "Missouri Man Sentenced for Advertising Child Pornography on the Dark Web"
-case_id: CYB-FUP-1055
+case_id: CYB-2025-970
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[missouri-man-sentenced-for-advertising-child-pornography-on-the-dark-web]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[missouri-man-sentenced-for-advertising-child-pornography-on-the-dark-web]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_missouri-man-sentenced-advertising-child-pornography-dark-web]]"

@@ -3,7 +3,7 @@ type: operation
 title: "Henry Konah Koffie Enforcement Action"
 aliases:
   - "United States v. Henry Konah Koffie"
-case_id: CYB-FUP-158
+case_id: CYB-2023-206
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Virginia Man Sentenced to Federal Prison for Conspiring To Impersonate Federal Law Enforcement Officer Enforcement Action"
 aliases:
   - "Virginia Man Sentenced to Federal Prison for Conspiring To Impersonate Federal Law Enforcement Officer"
-case_id: CYB-FUP-1209
+case_id: CYB-2023-918
 period: 3
 operation_role: follow-on
 parent_operation: ""

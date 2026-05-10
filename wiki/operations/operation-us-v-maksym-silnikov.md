@@ -3,7 +3,7 @@ type: operation
 title: "Maksym Silnikov Enforcement Action"
 aliases:
   - "United States v. Maksym Silnikov"
-case_id: CYB-FUP-368
+case_id: CYB-2024-680
 period: 3
 operation_role: follow-on
 parent_operation: ""

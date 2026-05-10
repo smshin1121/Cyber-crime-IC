@@ -3,7 +3,7 @@ type: operation
 title: "U.K. Citizen Sentenced To Five Years For Cybercrime Offenses Enforcement Action"
 aliases:
   - "U.K. Citizen Sentenced To Five Years For Cybercrime Offenses"
-case_id: CYB-FUP-1197
+case_id: CYB-2023-048
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "T Andre Mcneely Et Al Enforcement Action"
 aliases:
   - "United States v. T Andre Mcneely Et Al"
-case_id: CYB-FUP-127
+case_id: CYB-2024-676
 period: 3
 operation_role: follow-on
 parent_operation: ""

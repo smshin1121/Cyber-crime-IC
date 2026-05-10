@@ -3,7 +3,7 @@ type: operation
 title: "Man from Grays Harbor County, Washington, pleads guilty to possession of narcotics with intent to distribute Enforcement Action"
 aliases:
   - "Man from Grays Harbor County, Washington, pleads guilty to possession of narcotics with intent to distribute"
-case_id: CYB-FUP-596
+case_id: CYB-2025-432
 period: 3
 operation_role: follow-on
 parent_operation: ""

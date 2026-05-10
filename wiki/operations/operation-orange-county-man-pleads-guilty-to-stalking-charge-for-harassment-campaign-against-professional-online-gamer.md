@@ -3,7 +3,7 @@ type: operation
 title: "Orange County Man Pleads Guilty to Stalking Charge for Harassment Campaign Against Professional Online Gamer Enforcement Action"
 aliases:
   - "Orange County Man Pleads Guilty to Stalking Charge for Harassment Campaign Against Professional Online Gamer"
-case_id: CYB-FUP-1084
+case_id: CYB-2022-183
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Former Commander and Adjutant of Nonprofit Veteran’s Organization Indicted for Wire Fraud and Tax Fraud Enforcement Action"
 aliases:
   - "Former Commander and Adjutant of Nonprofit Veteran’s Organization Indicted for Wire Fraud and Tax Fraud"
-case_id: CYB-FUP-965
+case_id: CYB-2025-021
 period: 3
 operation_role: follow-on
 parent_operation: ""

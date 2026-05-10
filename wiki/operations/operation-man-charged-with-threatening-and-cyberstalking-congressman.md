@@ -3,7 +3,7 @@ type: operation
 title: "Man Charged With Threatening and Cyberstalking Congressman Enforcement Action"
 aliases:
   - "Man Charged With Threatening and Cyberstalking Congressman"
-case_id: CYB-FUP-1035
+case_id: CYB-2022-030
 period: 2
 operation_role: follow-on
 parent_operation: ""

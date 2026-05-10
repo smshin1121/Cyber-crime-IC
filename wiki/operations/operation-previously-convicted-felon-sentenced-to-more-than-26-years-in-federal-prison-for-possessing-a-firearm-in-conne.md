@@ -3,7 +3,7 @@ type: operation
 title: "Previously Convicted Felon Sentenced to More Than 26 Years in Federal Prison for Possessing a Firearm in Connection With Drug Trafficking Fentanyl, Wire Fraud, and Aggravated Identity Theft Enforcement Action"
 aliases:
   - "Previously Convicted Felon Sentenced to More Than 26 Years in Federal Prison for Possessing a Firearm in Connection With Drug Trafficking Fentanyl, Wire Fraud, and Aggravated Identity Theft"
-case_id: CYB-FUP-1102
+case_id: CYB-2025-716
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for-possessing-a-firearm-in-conne]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for-possessing-a-firearm-in-conne]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_previously-convicted-felon-sentenced-more-26-years-federal-prison-possessing-firearm]]"

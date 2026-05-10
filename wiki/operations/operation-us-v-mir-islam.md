@@ -3,7 +3,7 @@ type: operation
 title: "Mir Islam Enforcement Action"
 aliases:
   - "United States v. Mir Islam"
-case_id: CYB-FUP-776
+case_id: CYB-2016-217
 period: 1
 operation_role: follow-on
 parent_operation: ""

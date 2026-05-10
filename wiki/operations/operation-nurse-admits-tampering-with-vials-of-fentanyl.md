@@ -3,7 +3,7 @@ type: operation
 title: "Nurse Admits Tampering With Vials Of Fentanyl Enforcement Action"
 aliases:
   - "Nurse Admits Tampering With Vials Of Fentanyl"
-case_id: CYB-FUP-1073
+case_id: CYB-2025-361
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[nurse-admits-tampering-with-vials-of-fentanyl]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[nurse-admits-tampering-with-vials-of-fentanyl]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_nurse-admits-tampering-vials-fentanyl]]"

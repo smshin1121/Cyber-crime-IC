@@ -3,7 +3,7 @@ type: operation
 title: "Phobos Ransomware Affiliates Enforcement Action"
 aliases:
   - "United States v. Phobos Ransomware Affiliates"
-case_id: CYB-FUP-459
+case_id: CYB-2025-625
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Philadelphia Man Sentenced for Cyberstalking and Wire Fraud Enforcement Action"
 aliases:
   - "Philadelphia Man Sentenced for Cyberstalking and Wire Fraud"
-case_id: CYB-FUP-1092
+case_id: CYB-2023-295
 period: 3
 operation_role: follow-on
 parent_operation: ""

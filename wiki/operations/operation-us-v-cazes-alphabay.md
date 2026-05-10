@@ -3,7 +3,7 @@ type: operation
 title: "Alexandre Cazes (AlphaBay) Enforcement Action"
 aliases:
   - "United States v. Alexandre Cazes (AlphaBay)"
-case_id: CYB-FUP-025
+case_id: CYB-2017-852
 period: 1
 operation_type: prosecution
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "San Francisco Resident Sentenced To Seven Years In Prison For Stealing Prisoner Identities And Filing Fraudulent Tax Returns Enforcement Action"
 aliases:
   - "San Francisco Resident Sentenced To Seven Years In Prison For Stealing Prisoner Identities And Filing Fraudulent Tax Returns"
-case_id: CYB-FUP-730
+case_id: CYB-2017-870
 period: 1
 operation_role: follow-on
 parent_operation: ""

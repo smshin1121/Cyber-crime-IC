@@ -3,7 +3,7 @@ type: operation
 title: "Brian Farrell (Silk Road 2.0) Enforcement Action"
 aliases:
   - "United States v. Brian Farrell (Silk Road 2.0)"
-case_id: CYB-FUP-031
+case_id: CYB-2016-660
 period: 1
 operation_type: sentencing
 status: absorbed

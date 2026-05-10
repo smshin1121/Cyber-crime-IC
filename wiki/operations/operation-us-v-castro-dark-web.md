@@ -3,7 +3,7 @@ type: operation
 title: "Richard Castro (Chemsusa) Enforcement Action"
 aliases:
   - "United States v. Richard Castro (Chemsusa)"
-case_id: CYB-FUP-023
+case_id: CYB-2020-353
 period: 2
 operation_type: sentencing
 status: absorbed

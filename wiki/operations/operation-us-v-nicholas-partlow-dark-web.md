@@ -3,7 +3,7 @@ type: operation
 title: "Nicholas Partlow (Darknet Drug Trafficker) Enforcement Action"
 aliases:
   - "United States v. Nicholas Partlow (Darknet Drug Trafficker)"
-case_id: CYB-FUP-063
+case_id: CYB-2022-462
 period: 2
 operation_type: prosecution
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "Jason Keith Arnold (Dream Marketplace Vendor) Enforcement Action"
 aliases:
   - "United States v. Jason Keith Arnold (Dream Marketplace Vendor)"
-case_id: CYB-FUP-047
+case_id: CYB-2020-065
 period: 2
 operation_type: prosecution
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "Austin Genay Enforcement Action"
 aliases:
   - "United States v. Austin Genay"
-case_id: CYB-FUP-221
+case_id: CYB-2023-458
 period: 3
 operation_role: follow-on
 parent_operation: ""

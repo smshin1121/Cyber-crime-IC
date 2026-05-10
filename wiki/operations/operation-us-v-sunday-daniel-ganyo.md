@@ -3,7 +3,7 @@ type: operation
 title: "Sunday Daniel Ganyo Enforcement Action"
 aliases:
   - "United States v. Sunday Daniel Ganyo"
-case_id: CYB-FUP-330
+case_id: CYB-2023-086
 period: 3
 operation_role: follow-on
 parent_operation: ""

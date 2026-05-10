@@ -3,7 +3,7 @@ type: operation
 title: "Interpol seized $130 million from cybercriminals worldwide Enforcement Action"
 aliases:
   - "Interpol seized $130 million from cybercriminals worldwide"
-case_id: CYB-FUP-834
+case_id: CYB-2022-960
 period: 2
 operation_role: follow-on
 parent_operation: ""

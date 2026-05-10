@@ -3,7 +3,7 @@ type: operation
 title: "Ramon Duarte Garcia and Defendant Humberto Lopez Rodriguez Enforcement Action"
 aliases:
   - "United States v. Ramon Duarte Garcia and Defendant Humberto Lopez Rodriguez"
-case_id: CYB-FUP-310
+case_id: CYB-2025-938
 period: 3
 operation_role: follow-on
 parent_operation: ""

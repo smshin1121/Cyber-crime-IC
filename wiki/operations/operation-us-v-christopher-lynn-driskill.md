@@ -3,7 +3,7 @@ type: operation
 title: "Christopher Lynn Driskill Enforcement Action"
 aliases:
   - "United States v. Christopher Lynn Driskill"
-case_id: CYB-FUP-228
+case_id: CYB-2025-730
 period: 3
 operation_role: follow-on
 parent_operation: ""

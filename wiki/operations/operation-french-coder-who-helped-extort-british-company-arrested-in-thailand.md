@@ -3,7 +3,7 @@ type: operation
 title: "French Coder Who Helped Extort British Company Arrested in Thailand Follow-On Action"
 aliases:
   - "French Coder Who Helped Extort British Company Arrested in Thailand"
-case_id: CYB-FUP-564
+case_id: CYB-2018-952
 period: 1
 operation_role: follow-on
 parent_operation: ""

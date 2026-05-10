@@ -3,7 +3,7 @@ type: operation
 title: "George Sotiris Vlastos Enforcement Action"
 aliases:
   - "United States v. George Sotiris Vlastos"
-case_id: CYB-FUP-117
+case_id: CYB-2025-569
 period: 3
 operation_role: follow-on
 parent_operation: ""

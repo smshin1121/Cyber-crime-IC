@@ -3,7 +3,7 @@ type: operation
 title: "Colin Andrew Shapard Enforcement Action"
 aliases:
   - "United States v. Colin Andrew Shapard"
-case_id: CYB-FUP-232
+case_id: CYB-2024-029
 period: 3
 operation_role: follow-on
 parent_operation: ""

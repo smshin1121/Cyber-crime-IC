@@ -3,7 +3,7 @@ type: operation
 title: "Chaloner Saintillus (Dark Web Vendor) Enforcement Action"
 aliases:
   - "United States v. Chaloner Saintillus (Dark Web Vendor)"
-case_id: CYB-FUP-026
+case_id: CYB-2024-306
 period: 3
 operation_type: sentencing
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "Clayton Harker Enforcement Action"
 aliases:
   - "United States v. Clayton Harker"
-case_id: CYB-FUP-231
+case_id: CYB-2024-731
 period: 3
 operation_role: follow-on
 parent_operation: ""

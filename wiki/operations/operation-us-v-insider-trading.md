@@ -3,7 +3,7 @@ type: operation
 title: "Insider Trading Enforcement Action"
 aliases:
   - "United States v. Insider Trading"
-case_id: CYB-FUP-440
+case_id: CYB-2023-436
 period: 3
 operation_role: follow-on
 parent_operation: ""

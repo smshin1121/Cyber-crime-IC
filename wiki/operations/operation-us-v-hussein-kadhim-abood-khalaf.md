@@ -3,7 +3,7 @@ type: operation
 title: "Hussein Kadhim Abood Khalaf Enforcement Action"
 aliases:
   - "United States v. Hussein Kadhim Abood Khalaf"
-case_id: CYB-FUP-159
+case_id: CYB-2022-449
 period: 2
 operation_role: follow-on
 parent_operation: ""

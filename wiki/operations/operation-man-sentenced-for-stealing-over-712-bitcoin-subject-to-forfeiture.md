@@ -3,7 +3,7 @@ type: operation
 title: "Man Sentenced for Stealing Over 712 Bitcoin Subject to Forfeiture Enforcement Action"
 aliases:
   - "Man Sentenced for Stealing Over 712 Bitcoin Subject to Forfeiture"
-case_id: CYB-FUP-840
+case_id: CYB-2023-726
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Leader of International Malvertising and Ransomware Schemes Extradited from Poland to Face Cybercrime Charges Enforcement Action"
 aliases:
   - "Leader of International Malvertising and Ransomware Schemes Extradited from Poland to Face Cybercrime Charges"
-case_id: CYB-FUP-1029
+case_id: CYB-2024-945
 period: 3
 operation_role: follow-on
 parent_operation: ""

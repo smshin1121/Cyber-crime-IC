@@ -3,7 +3,7 @@ type: operation
 title: "New York Man Sentenced to 54 Months in Prison for Selling Counterfeit Xanax on Dark Web Enforcement Action"
 aliases:
   - "New York Man Sentenced to 54 Months in Prison for Selling Counterfeit Xanax on Dark Web"
-case_id: CYB-FUP-605
+case_id: CYB-2025-201
 period: 3
 operation_role: follow-on
 parent_operation: ""

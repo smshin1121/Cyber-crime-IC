@@ -3,7 +3,7 @@ type: operation
 title: "Three allegedly responsible for distributing thousands of fentanyl pills in Whatcom County indicted for drug distribution Enforcement Action"
 aliases:
   - "Three allegedly responsible for distributing thousands of fentanyl pills in Whatcom County indicted for drug distribution"
-case_id: CYB-FUP-640
+case_id: CYB-2021-215
 period: 2
 operation_role: follow-on
 parent_operation: ""

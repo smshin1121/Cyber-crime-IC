@@ -3,7 +3,7 @@ type: operation
 title: "William Anderson Burgamy IV and Hyrum T. Wilson Enforcement Action"
 aliases:
   - "United States v. William Anderson Burgamy IV and Hyrum T. Wilson"
-case_id: CYB-FUP-021
+case_id: CYB-2020-086
 period: 2
 operation_type: prosecution
 status: absorbed

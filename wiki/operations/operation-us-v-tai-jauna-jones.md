@@ -3,7 +3,7 @@ type: operation
 title: "Tai Jauna Jones Enforcement Action"
 aliases:
   - "United States v. Tai Jauna Jones"
-case_id: CYB-FUP-331
+case_id: CYB-2025-111
 period: 3
 operation_role: follow-on
 parent_operation: ""

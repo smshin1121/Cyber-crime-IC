@@ -3,7 +3,7 @@ type: operation
 title: "International Travel Enforcement Action"
 aliases:
   - "United States v. International Travel"
-case_id: CYB-FUP-441
+case_id: CYB-2023-339
 period: 3
 operation_role: follow-on
 parent_operation: ""

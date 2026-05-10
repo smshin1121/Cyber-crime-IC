@@ -3,7 +3,7 @@ type: operation
 title: "Emotet Botnet Disruption — Operation LadyBird Enforcement Action"
 aliases:
   - "Emotet Botnet Disruption — Operation LadyBird"
-case_id: CYB-FUP-002
+case_id: CYB-2021-129
 period: 2
 operation_type: prosecution
 status: absorbed

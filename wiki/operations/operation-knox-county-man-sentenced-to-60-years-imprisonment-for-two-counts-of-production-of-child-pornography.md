@@ -3,7 +3,7 @@ type: operation
 title: "Knox County Man Sentenced To 60 Years Imprisonment For Two Counts Of Production Of Child Pornography Enforcement Action"
 aliases:
   - "Knox County Man Sentenced To 60 Years Imprisonment For Two Counts Of Production Of Child Pornography"
-case_id: CYB-FUP-1021
+case_id: CYB-2025-578
 period: 3
 operation_role: follow-on
 parent_operation: ""

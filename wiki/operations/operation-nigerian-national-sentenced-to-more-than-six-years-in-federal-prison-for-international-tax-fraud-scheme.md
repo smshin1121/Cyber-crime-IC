@@ -3,7 +3,7 @@ type: operation
 title: "Nigerian National Sentenced To More Than Six Years In Federal Prison For International Tax Fraud Scheme Enforcement Action"
 aliases:
   - "Nigerian National Sentenced To More Than Six Years In Federal Prison For International Tax Fraud Scheme"
-case_id: CYB-FUP-606
+case_id: CYB-2022-040
 period: 2
 operation_role: follow-on
 parent_operation: ""

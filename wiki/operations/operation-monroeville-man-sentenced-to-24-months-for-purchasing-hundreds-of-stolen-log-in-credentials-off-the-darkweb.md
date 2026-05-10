@@ -3,7 +3,7 @@ type: operation
 title: "Monroeville Man Sentenced To 24 Months For Purchasing Hundreds Of Stolen Log-In Credentials Off The Darkweb Enforcement Action"
 aliases:
   - "Monroeville Man Sentenced To 24 Months For Purchasing Hundreds Of Stolen Log-In Credentials Off The Darkweb"
-case_id: CYB-FUP-1058
+case_id: CYB-2023-558
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Stanwood, Washington repeat offender sentenced to 10+ years in prison for selling heroin and fentanyl over the dark web Enforcement Action"
 aliases:
   - "Stanwood, Washington repeat offender sentenced to 10+ years in prison for selling heroin and fentanyl over the dark web"
-case_id: CYB-FUP-1163
+case_id: CYB-2024-606
 period: 3
 operation_role: follow-on
 parent_operation: ""

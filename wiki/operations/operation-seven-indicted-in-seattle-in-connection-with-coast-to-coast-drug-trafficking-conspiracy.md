@@ -3,7 +3,7 @@ type: operation
 title: "Seven indicted in Seattle in connection with coast-to-coast drug trafficking conspiracy Enforcement Action"
 aliases:
   - "Seven indicted in Seattle in connection with coast-to-coast drug trafficking conspiracy"
-case_id: CYB-FUP-628
+case_id: CYB-2023-555
 period: 3
 operation_role: follow-on
 parent_operation: ""

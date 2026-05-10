@@ -3,7 +3,7 @@ type: operation
 title: "Four Russian Government Employees Enforcement Action"
 aliases:
   - "United States v. Four Russian Government Employees"
-case_id: CYB-FUP-431
+case_id: CYB-2022-713
 period: 2
 operation_role: follow-on
 parent_operation: ""

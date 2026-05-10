@@ -3,7 +3,7 @@ type: operation
 title: "Ohio Man Pleads Guilty for Unlawfully Stealing Over 712 Seized Bitcoin Subject to Forfeiture in Brother’s Pending Criminal Case Enforcement Action"
 aliases:
   - "Ohio Man Pleads Guilty for Unlawfully Stealing Over 712 Seized Bitcoin Subject to Forfeiture in Brother’s Pending Criminal Case"
-case_id: CYB-FUP-1078
+case_id: CYB-2023-540
 period: 3
 operation_role: follow-on
 parent_operation: ""

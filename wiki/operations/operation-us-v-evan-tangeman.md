@@ -3,7 +3,7 @@ type: operation
 title: "Evan Tangeman Enforcement Action"
 aliases:
   - "United States v. Evan Tangeman"
-case_id: CYB-FUP-153
+case_id: CYB-2025-051
 period: 3
 operation_role: follow-on
 parent_operation: ""

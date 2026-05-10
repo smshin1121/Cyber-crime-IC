@@ -3,7 +3,7 @@ type: operation
 title: "Georgia Man Enforcement Action"
 aliases:
   - "United States v. Georgia Man"
-case_id: CYB-FUP-432
+case_id: CYB-2026-858
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-georgia-man]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-georgia-man]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_georgia-man-sentenced-six-years-federal-prison-possession-child-sexual-abuse-material]]"

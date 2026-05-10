@@ -3,7 +3,7 @@ type: operation
 title: "St. Louis man sentenced on aggravated ID theft, other charges Enforcement Action"
 aliases:
   - "St. Louis man sentenced on aggravated ID theft, other charges"
-case_id: CYB-FUP-739
+case_id: CYB-2022-316
 period: 2
 operation_role: follow-on
 parent_operation: ""

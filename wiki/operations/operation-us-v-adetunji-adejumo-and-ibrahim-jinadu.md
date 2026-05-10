@@ -3,7 +3,7 @@ type: operation
 title: "Adetunji Adejumo And Ibrahim Jinadu Enforcement Action"
 aliases:
   - "United States v. Adetunji Adejumo And Ibrahim Jinadu"
-case_id: CYB-FUP-105
+case_id: CYB-2023-938
 period: 3
 operation_role: follow-on
 parent_operation: ""

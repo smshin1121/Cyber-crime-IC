@@ -3,7 +3,7 @@ type: operation
 title: "Silk Road Drug Vendor Who Claimed To Commit Murders-For-Hire For Silk Road Founder Ross Ulbricht Charged With Narcotics And Money Laundering Conspiracies Enforcement Action"
 aliases:
   - "Silk Road Drug Vendor Who Claimed To Commit Murders-For-Hire For Silk Road Founder Ross Ulbricht Charged With Narcotics And Money Laundering Conspiracies"
-case_id: CYB-FUP-629
+case_id: CYB-2023-354
 period: 3
 operation_role: follow-on
 parent_operation: ""

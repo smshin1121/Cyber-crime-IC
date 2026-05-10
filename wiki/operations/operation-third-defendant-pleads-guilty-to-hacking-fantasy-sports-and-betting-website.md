@@ -3,7 +3,7 @@ type: operation
 title: "Third Defendant Pleads Guilty To Hacking Fantasy Sports And Betting Website Enforcement Action"
 aliases:
   - "Third Defendant Pleads Guilty To Hacking Fantasy Sports And Betting Website"
-case_id: CYB-FUP-1173
+case_id: CYB-2025-128
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Cullen Roberts (Pillpusher) Enforcement Action"
 aliases:
   - "United States v. Cullen Roberts (Pillpusher)"
-case_id: CYB-FUP-078
+case_id: CYB-2021-721
 period: 2
 operation_type: conviction
 status: absorbed

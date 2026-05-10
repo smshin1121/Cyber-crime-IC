@@ -3,7 +3,7 @@ type: operation
 title: "Thirteen people indicted in drug trafficking conspiracy involving fentanyl, methamphetamine, and cocaine Enforcement Action"
 aliases:
   - "Thirteen people indicted in drug trafficking conspiracy involving fentanyl, methamphetamine, and cocaine"
-case_id: CYB-FUP-1174
+case_id: CYB-2024-149
 period: 3
 operation_role: follow-on
 parent_operation: ""

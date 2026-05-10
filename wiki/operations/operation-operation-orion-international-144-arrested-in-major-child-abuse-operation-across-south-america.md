@@ -3,7 +3,7 @@ type: operation
 title: "Operation Orion International Follow-On Action"
 aliases:
   - "Operation Orion International: 144 Arrested in Major Child Abuse Operation Across South America"
-case_id: CYB-FUP-612
+case_id: CYB-2024-886
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -47,19 +47,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2024-10-15_interpol_operation-orion-international-south-america-csam]]"

@@ -3,7 +3,7 @@ type: operation
 title: "Kosovo National Pleads Guilty To Operating An Online Criminal Marketplace Enforcement Action"
 aliases:
   - "Kosovo National Pleads Guilty To Operating An Online Criminal Marketplace"
-case_id: CYB-FUP-704
+case_id: CYB-2025-117
 period: 3
 operation_role: follow-on
 parent_operation: ""

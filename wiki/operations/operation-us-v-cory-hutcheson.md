@@ -3,7 +3,7 @@ type: operation
 title: "Cory Hutcheson Enforcement Action"
 aliases:
   - "United States v. Cory Hutcheson"
-case_id: CYB-FUP-753
+case_id: CYB-2018-833
 period: 1
 operation_role: follow-on
 parent_operation: ""

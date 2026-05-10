@@ -3,7 +3,7 @@ type: operation
 title: "Anthony Bellisario Enforcement Action"
 aliases:
   - "United States v. Anthony Bellisario"
-case_id: CYB-FUP-138
+case_id: CYB-2020-801
 period: 2
 operation_role: follow-on
 parent_operation: ""

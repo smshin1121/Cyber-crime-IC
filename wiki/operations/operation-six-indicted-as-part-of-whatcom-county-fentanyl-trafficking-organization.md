@@ -3,7 +3,7 @@ type: operation
 title: "Six indicted as part of Whatcom County fentanyl trafficking organization Enforcement Action"
 aliases:
   - "Six indicted as part of Whatcom County fentanyl trafficking organization"
-case_id: CYB-FUP-632
+case_id: CYB-2023-275
 period: 3
 operation_role: follow-on
 parent_operation: ""

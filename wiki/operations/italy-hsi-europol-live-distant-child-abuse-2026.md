@@ -7,7 +7,7 @@ aliases:
   - "Procura di Milano live distant child abuse 2026"
   - "Operazione Light Bridge"
   - "Operation Light Bridge"
-case_id: CYB-2026-LDCA
+case_id: CYB-2026-531
 period: 3
 operation_type: undercover
 status: completed
@@ -73,13 +73,13 @@ missing_fields:
   - "number of digital devices seized (not disclosed)"
   - "start date of the underlying investigation (not disclosed in primary source)"
 related_cases:
-  []
+
 related_operations:
   - "[[operation-mad-hatter-csam-italy-fbi-2026]]"
   - "[[operation-stream-kidflix]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Italian C.N.C.P.O. continues to use long-duration undercover online infiltration as the primary investigative model for transnational CSAM / 'live distant child abuse' cases, with foreign-source intelligence (HSI, Europol) feeding domestic execution."
   - "Mainstream money-transfer 'business services' are the preferred payment rail for low-value 'tips' precisely because per-transaction amounts stay below conventional financial-controls thresholds — a recurring weak link in cross-border CSAM-as-a-service monetisation."

@@ -3,7 +3,7 @@ type: operation
 title: "John Telusma (Infraud) Enforcement Action"
 aliases:
   - "United States v. John Telusma (Infraud)"
-case_id: CYB-FUP-099
+case_id: CYB-2022-820
 period: 2
 operation_role: follow-on
 parent_operation: "[[infraud-telusma-sentencing]]"

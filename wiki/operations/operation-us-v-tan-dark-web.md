@@ -3,7 +3,7 @@ type: operation
 title: "Tony Tan (Dark Web Vendor) Enforcement Action"
 aliases:
   - "United States v. Tony Tan (Dark Web Vendor)"
-case_id: CYB-FUP-089
+case_id: CYB-2024-803
 period: 3
 operation_type: sentencing
 status: absorbed

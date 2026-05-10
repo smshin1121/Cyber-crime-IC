@@ -3,7 +3,7 @@ type: operation
 title: "Mohamed Abdirisak Mohamed Enforcement Action"
 aliases:
   - "United States v. Mohamed Abdirisak Mohamed"
-case_id: CYB-FUP-298
+case_id: CYB-2025-109
 period: 3
 operation_role: follow-on
 parent_operation: ""

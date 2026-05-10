@@ -3,7 +3,7 @@ type: operation
 title: "Antonio Barner Enforcement Action"
 aliases:
   - "United States v. Antonio Barner"
-case_id: CYB-FUP-140
+case_id: CYB-2022-082
 period: 2
 operation_role: follow-on
 parent_operation: ""

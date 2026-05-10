@@ -3,7 +3,7 @@ type: operation
 title: "Gregory Castillo Rosario Joseph James Vasquez Joshua William Vas Enforcement Action"
 aliases:
   - "United States v. Gregory Castillo Rosario Joseph James Vasquez Joshua William Vas"
-case_id: CYB-FUP-119
+case_id: CYB-2025-472
 period: 3
 operation_role: follow-on
 parent_operation: ""

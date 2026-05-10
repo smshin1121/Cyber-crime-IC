@@ -3,7 +3,7 @@ type: operation
 title: "Harold McKinzie (xDedic) Enforcement Action"
 aliases:
   - "United States v. Harold McKinzie (xDedic)"
-case_id: CYB-FUP-059
+case_id: CYB-2024-029
 period: 3
 operation_type: sentencing
 status: absorbed

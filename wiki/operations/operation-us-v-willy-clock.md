@@ -3,7 +3,7 @@ type: operation
 title: "Willy Clock Enforcement Action"
 aliases:
   - "United States v. Willy Clock"
-case_id: CYB-FUP-388
+case_id: CYB-2015-754
 period: 1
 operation_role: follow-on
 parent_operation: ""

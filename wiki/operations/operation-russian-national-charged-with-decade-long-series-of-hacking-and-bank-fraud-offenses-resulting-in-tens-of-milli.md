@@ -3,7 +3,7 @@ type: operation
 title: "Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian National Charged with Involvement in Deployment of “Bugat” Malware Enforcement Action"
 aliases:
   - "Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian National Charged with Involvement in Deployment of “Bugat” Malware"
-case_id: CYB-FUP-1127
+case_id: CYB-2019-599
 period: 1
 operation_role: follow-on
 parent_operation: ""

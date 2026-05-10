@@ -3,7 +3,7 @@ type: operation
 title: "Sherman Jackson Enforcement Action"
 aliases:
   - "United States v. Sherman Jackson"
-case_id: CYB-FUP-382
+case_id: CYB-2018-364
 period: 1
 operation_role: follow-on
 parent_operation: ""

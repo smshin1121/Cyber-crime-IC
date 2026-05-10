@@ -3,7 +3,7 @@ type: operation
 title: "Thirty-Six Defendants Indicted For Alleged Roles In Transnational Criminal Organization Responsible For More Than $530 Million In Losses From Cybercrimes Enforcement Action"
 aliases:
   - "Thirty-Six Defendants Indicted For Alleged Roles In Transnational Criminal Organization Responsible For More Than $530 Million In Losses From Cybercrimes"
-case_id: CYB-FUP-1175
+case_id: CYB-2018-683
 period: 1
 operation_role: follow-on
 parent_operation: ""

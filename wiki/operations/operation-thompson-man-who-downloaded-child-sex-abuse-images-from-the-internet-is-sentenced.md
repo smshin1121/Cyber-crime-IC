@@ -3,7 +3,7 @@ type: operation
 title: "Thompson Man Who Downloaded Child Sex Abuse Images from the Internet is Sentenced Enforcement Action"
 aliases:
   - "Thompson Man Who Downloaded Child Sex Abuse Images from the Internet is Sentenced"
-case_id: CYB-FUP-639
+case_id: CYB-2022-909
 period: 2
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[thompson-man-who-downloaded-child-sex-abuse-images-from-the-internet-is-sentenced]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[thompson-man-who-downloaded-child-sex-abuse-images-from-the-internet-is-sentenced]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_thompson-man-who-downloaded-child-sex-abuse-images-internet-sentenced]]"

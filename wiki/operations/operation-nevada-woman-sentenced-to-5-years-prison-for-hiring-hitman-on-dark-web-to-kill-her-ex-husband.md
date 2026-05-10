@@ -3,7 +3,7 @@ type: operation
 title: "Nevada Woman Sentenced to 5 Years Prison for Hiring Hitman on Dark Web to Kill Her Ex-Husband Enforcement Action"
 aliases:
   - "Nevada Woman Sentenced to 5 Years Prison for Hiring Hitman on Dark Web to Kill Her Ex-Husband"
-case_id: CYB-FUP-1063
+case_id: CYB-2023-848
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Mosses Ramos, Michael Anthony Barquet, Neca Silvestre, Katrina Cazares, and Kayara Zepeda Montero Enforcement Action"
 aliases:
   - "United States v. Mosses Ramos, Michael Anthony Barquet, Neca Silvestre, Katrina Cazares, and Kayara Zepeda Montero"
-case_id: CYB-FUP-299
+case_id: CYB-2024-508
 period: 3
 operation_role: follow-on
 parent_operation: ""

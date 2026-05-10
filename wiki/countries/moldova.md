@@ -35,14 +35,16 @@ operations_participated:
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 4
+source_count: 6
 sources:
   - "[[2018-12-06_postgazette_moldova-andrey-ghinkul-smilex-sentenced-time-served-bugat-malware-case-deported]]"
   - "[[2022-11-22_justice-gov_moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from]]"
   - "[[2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down]]"
   - "[[2021-01-12_rferl-org_servers-seized-in-ukraine-moldova-as-germany-takes-down-world-s-largest-illegal]]"
+  - "[[2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma]]"
+  - "[[2021-01-12_thehackernews-com_authorities-take-down-world-s-largest-illegal-dark-web-marketplace]]"
 created: 2026-04-11
-updated: 2026-04-29
+updated: 2026-05-10
 status: corpus-linked
 ---
 ## Summary

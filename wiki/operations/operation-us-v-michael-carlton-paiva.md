@@ -3,7 +3,7 @@ type: operation
 title: "Michael Carlton Paiva Enforcement Action"
 aliases:
   - "United States v. Michael Carlton Paiva"
-case_id: CYB-FUP-123
+case_id: CYB-2017-286
 period: 1
 operation_role: follow-on
 parent_operation: ""

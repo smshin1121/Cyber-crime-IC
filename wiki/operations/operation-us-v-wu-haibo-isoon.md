@@ -3,7 +3,7 @@ type: operation
 title: "Wu Haibo et al. Enforcement Action"
 aliases:
   - "United States v. Wu Haibo et al."
-case_id: CYB-FUP-100
+case_id: CYB-2026-722
 period: 3
 operation_role: follow-on
 parent_operation: "[[isoon-apt27-indictment]]"

@@ -3,7 +3,7 @@ type: operation
 title: "Ghaleb Alaumary Enforcement Action"
 aliases:
   - "United States v. Ghaleb Alaumary"
-case_id: CYB-FUP-249
+case_id: CYB-2021-647
 period: 2
 operation_role: follow-on
 parent_operation: ""

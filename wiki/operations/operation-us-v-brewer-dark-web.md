@@ -3,7 +3,7 @@ type: operation
 title: "Aaron Brewer (Operation DisrupTor) Enforcement Action"
 aliases:
   - "United States v. Aaron Brewer (Operation DisrupTor)"
-case_id: CYB-FUP-019
+case_id: CYB-2021-047
 period: 2
 operation_type: sentencing
 status: absorbed
@@ -47,7 +47,6 @@ related_cases:
   - "[[us-v-brewer-dark-web]]"
 related_operations:
   - "[[operation-disruptor]]"
-
 challenges_encountered:
 
 lessons_learned:

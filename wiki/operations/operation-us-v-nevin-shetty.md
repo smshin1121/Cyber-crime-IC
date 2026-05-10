@@ -3,7 +3,7 @@ type: operation
 title: "Nevin Shetty Enforcement Action"
 aliases:
   - "United States v. Nevin Shetty"
-case_id: CYB-FUP-303
+case_id: CYB-2023-175
 period: 3
 operation_role: follow-on
 parent_operation: ""

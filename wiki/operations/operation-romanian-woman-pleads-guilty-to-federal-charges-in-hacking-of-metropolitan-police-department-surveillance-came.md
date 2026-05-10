@@ -3,7 +3,7 @@ type: operation
 title: "Romanian Woman Pleads Guilty to Federal Charges in Hacking of Metropolitan Police Department Surveillance Cameras Enforcement Action"
 aliases:
   - "Romanian Woman Pleads Guilty to Federal Charges in Hacking of Metropolitan Police Department Surveillance Cameras"
-case_id: CYB-FUP-1119
+case_id: CYB-2018-673
 period: 1
 operation_role: follow-on
 parent_operation: ""

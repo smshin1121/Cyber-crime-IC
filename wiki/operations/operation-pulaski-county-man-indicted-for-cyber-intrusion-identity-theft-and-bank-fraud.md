@@ -3,7 +3,7 @@ type: operation
 title: "Pulaski County Man Indicted for Cyber Intrusion, Identity Theft, and Bank Fraud Enforcement Action"
 aliases:
   - "Pulaski County Man Indicted for Cyber Intrusion, Identity Theft, and Bank Fraud"
-case_id: CYB-FUP-1104
+case_id: CYB-2023-942
 period: 3
 operation_role: follow-on
 parent_operation: ""

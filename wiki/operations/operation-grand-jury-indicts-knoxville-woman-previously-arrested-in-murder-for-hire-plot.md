@@ -3,7 +3,7 @@ type: operation
 title: "Grand Jury Indicts Knoxville Woman Previously Arrested In Murder-For-Hire Plot Enforcement Action"
 aliases:
   - "Grand Jury Indicts Knoxville Woman Previously Arrested In Murder-For-Hire Plot"
-case_id: CYB-FUP-998
+case_id: CYB-2023-073
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "O.C. Man Admits Operating Unlicensed ATM Network that Laundered Millions of Dollars of Bitcoin and Cash for Criminals’ Benefit Enforcement Action"
 aliases:
   - "O.C. Man Admits Operating Unlicensed ATM Network that Laundered Millions of Dollars of Bitcoin and Cash for Criminals’ Benefit"
-case_id: CYB-FUP-716
+case_id: CYB-2020-143
 period: 2
 operation_role: follow-on
 parent_operation: ""

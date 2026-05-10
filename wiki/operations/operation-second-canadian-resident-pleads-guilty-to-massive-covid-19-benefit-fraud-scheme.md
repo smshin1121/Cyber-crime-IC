@@ -3,7 +3,7 @@ type: operation
 title: "Second Canadian resident pleads guilty to massive COVID-19 benefit fraud scheme Enforcement Action"
 aliases:
   - "Second Canadian resident pleads guilty to massive COVID-19 benefit fraud scheme"
-case_id: CYB-FUP-1143
+case_id: CYB-2024-845
 period: 3
 operation_role: follow-on
 parent_operation: ""

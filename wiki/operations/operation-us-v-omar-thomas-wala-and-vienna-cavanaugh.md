@@ -3,7 +3,7 @@ type: operation
 title: "Omar Thomas Wala and Vienna Cavanaugh Enforcement Action"
 aliases:
   - "United States v. Omar Thomas Wala and Vienna Cavanaugh"
-case_id: CYB-FUP-780
+case_id: CYB-2024-556
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Two Texas men charged in stealing over a million dollars in a romance scam Enforcement Action"
 aliases:
   - "Two Texas men charged in stealing over a million dollars in a romance scam"
-case_id: CYB-FUP-653
+case_id: CYB-2021-848
 period: 2
 operation_role: follow-on
 parent_operation: ""

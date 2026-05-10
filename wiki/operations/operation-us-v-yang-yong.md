@@ -3,7 +3,7 @@ type: operation
 title: "Yang Yong Enforcement Action"
 aliases:
   - "United States v. Yang Yong"
-case_id: CYB-FUP-337
+case_id: CYB-2025-530
 period: 3
 operation_role: follow-on
 parent_operation: ""

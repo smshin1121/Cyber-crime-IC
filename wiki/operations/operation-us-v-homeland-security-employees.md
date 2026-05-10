@@ -3,7 +3,7 @@ type: operation
 title: "Homeland Security Employees Enforcement Action"
 aliases:
   - "United States v. Homeland Security Employees"
-case_id: CYB-FUP-435
+case_id: CYB-2024-553
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "James Campbell Cardwell Enforcement Action"
 aliases:
   - "United States v. James Campbell Cardwell"
-case_id: CYB-FUP-162
+case_id: CYB-2021-631
 period: 2
 operation_role: follow-on
 parent_operation: ""

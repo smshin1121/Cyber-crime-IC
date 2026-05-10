@@ -3,7 +3,7 @@ type: operation
 title: "Marcus Dieter Felder Enforcement Action"
 aliases:
   - "United States v. Marcus Dieter Felder"
-case_id: CYB-FUP-287
+case_id: CYB-2020-695
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "And Prolific Child Molester Enforcement Action"
 aliases:
   - "United States v. And Prolific Child Molester"
-case_id: CYB-FUP-395
+case_id: CYB-2024-091
 period: 3
 operation_role: follow-on
 parent_operation: ""

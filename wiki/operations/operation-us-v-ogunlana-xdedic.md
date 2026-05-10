@@ -3,7 +3,7 @@ type: operation
 title: "Oluwarotimi Ogunlana (xDedic) Enforcement Action"
 aliases:
   - "United States v. Oluwarotimi Ogunlana (xDedic)"
-case_id: CYB-FUP-067
+case_id: CYB-2024-439
 period: 3
 operation_type: conviction
 status: absorbed

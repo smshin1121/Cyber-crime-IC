@@ -3,7 +3,7 @@ type: operation
 title: "With Selling Counterfeit Drugs and Sturgis Man Enforcement Action"
 aliases:
   - "United States v. With Selling Counterfeit Drugs and Sturgis Man"
-case_id: CYB-FUP-494
+case_id: CYB-2024-571
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "South Carolina Man Enforcement Action"
 aliases:
   - "United States v. South Carolina Man"
-case_id: CYB-FUP-469
+case_id: CYB-2018-639
 period: 1
 operation_role: follow-on
 parent_operation: ""

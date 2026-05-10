@@ -3,7 +3,7 @@ type: operation
 title: "Pittsburg Resident Pleads Guilty To Stolen Identity Tax Fraud Enforcement Action"
 aliases:
   - "Pittsburg Resident Pleads Guilty To Stolen Identity Tax Fraud"
-case_id: CYB-FUP-719
+case_id: CYB-2016-170
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[pittsburg-resident-pleads-guilty-to-stolen-identity-tax-fraud]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[pittsburg-resident-pleads-guilty-to-stolen-identity-tax-fraud]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_pittsburg-resident-pleads-guilty-stolen-identity-tax-fraud]]"

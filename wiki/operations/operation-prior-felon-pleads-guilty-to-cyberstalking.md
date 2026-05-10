@@ -3,7 +3,7 @@ type: operation
 title: "Prior felon pleads guilty to cyberstalking Enforcement Action"
 aliases:
   - "Prior felon pleads guilty to cyberstalking"
-case_id: CYB-FUP-721
+case_id: CYB-2026-016
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Onomen Uduebor Enforcement Action"
 aliases:
   - "United States v. Onomen Uduebor"
-case_id: CYB-FUP-307
+case_id: CYB-2025-347
 period: 3
 operation_role: follow-on
 parent_operation: ""

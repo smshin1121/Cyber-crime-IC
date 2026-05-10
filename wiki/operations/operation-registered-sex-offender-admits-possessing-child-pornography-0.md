@@ -3,7 +3,7 @@ type: operation
 title: "Patrick Mayberry Enforcement Action"
 aliases:
   - "United States v. Patrick Mayberry"
-case_id: CYB-FUP-198
+case_id: CYB-2024-957
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Wisconsin Man Charged With Hacking Fantasy Sports And Betting Website Enforcement Action"
 aliases:
   - "Wisconsin Man Charged With Hacking Fantasy Sports And Betting Website"
-case_id: CYB-FUP-1214
+case_id: CYB-2023-204
 period: 3
 operation_role: follow-on
 parent_operation: ""

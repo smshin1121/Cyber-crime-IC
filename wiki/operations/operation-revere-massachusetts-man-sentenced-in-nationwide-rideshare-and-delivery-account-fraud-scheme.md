@@ -3,7 +3,7 @@ type: operation
 title: "Revere, Massachusetts Man Sentenced in Nationwide Rideshare and Delivery Account Fraud Scheme Enforcement Action"
 aliases:
   - "Revere, Massachusetts Man Sentenced in Nationwide Rideshare and Delivery Account Fraud Scheme"
-case_id: CYB-FUP-1115
+case_id: CYB-2023-952
 period: 3
 operation_role: follow-on
 parent_operation: ""

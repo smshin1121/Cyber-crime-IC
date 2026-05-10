@@ -3,7 +3,7 @@ type: operation
 title: "San Jose Resident Pleads Guilty To Stealing Homeless Individuals’ IDs And Using Them To Seek Fraudulent Tax Refunds Enforcement Action"
 aliases:
   - "San Jose Resident Pleads Guilty To Stealing Homeless Individuals’ IDs And Using Them To Seek Fraudulent Tax Refunds"
-case_id: CYB-FUP-735
+case_id: CYB-2017-521
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_san-jose-resident-pleads-guilty-stealing-homeless-individuals-ids-and-using-them-seek]]"

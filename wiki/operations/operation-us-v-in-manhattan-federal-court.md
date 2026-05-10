@@ -3,7 +3,7 @@ type: operation
 title: "In Manhattan Federal Court Enforcement Action"
 aliases:
   - "United States v. In Manhattan Federal Court"
-case_id: CYB-FUP-437
+case_id: CYB-2019-804
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Neal Staton Grubert Enforcement Action"
 aliases:
   - "United States v. Neal Staton Grubert"
-case_id: CYB-FUP-301
+case_id: CYB-2023-372
 period: 3
 operation_role: follow-on
 parent_operation: ""

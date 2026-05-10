@@ -3,7 +3,7 @@ type: operation
 title: "Davit Avalyan Enforcement Action"
 aliases:
   - "United States v. Davit Avalyan"
-case_id: CYB-FUP-236
+case_id: CYB-2026-734
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Donald Ryan Austin Enforcement Action"
 aliases:
   - "United States v. Donald Ryan Austin"
-case_id: CYB-FUP-352
+case_id: CYB-2016-613
 period: 1
 operation_role: follow-on
 parent_operation: ""

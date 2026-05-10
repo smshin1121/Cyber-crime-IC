@@ -3,7 +3,7 @@ type: operation
 title: "Bryson Whiteside Enforcement Action"
 aliases:
   - "United States v. Bryson Whiteside"
-case_id: CYB-FUP-749
+case_id: CYB-2022-482
 period: 2
 operation_role: follow-on
 parent_operation: ""

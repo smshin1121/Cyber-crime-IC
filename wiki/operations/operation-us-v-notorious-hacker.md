@@ -3,7 +3,7 @@ type: operation
 title: "Notorious Hacker Enforcement Action"
 aliases:
   - "United States v. Notorious Hacker"
-case_id: CYB-FUP-454
+case_id: CYB-2023-462
 period: 3
 operation_role: follow-on
 parent_operation: ""

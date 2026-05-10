@@ -3,7 +3,7 @@ type: operation
 title: "Notorious Hacker Sentenced to 18 Months in Prison Enforcement Action"
 aliases:
   - "Notorious Hacker Sentenced to 18 Months in Prison"
-case_id: CYB-FUP-1072
+case_id: CYB-2023-111
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Three Individuals Sentenced in Darknet Narcotics Trafficking Conspiracy Involving Distribution of Pills Pressed with Fentanyl Enforcement Action"
 aliases:
   - "Three Individuals Sentenced in Darknet Narcotics Trafficking Conspiracy Involving Distribution of Pills Pressed with Fentanyl"
-case_id: CYB-FUP-1180
+case_id: CYB-2023-771
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Olakunle Oyebanjo (xDedic) Enforcement Action"
 aliases:
   - "United States v. Olakunle Oyebanjo (xDedic)"
-case_id: CYB-FUP-073
+case_id: CYB-2024-897
 period: 3
 operation_type: conviction
 status: absorbed

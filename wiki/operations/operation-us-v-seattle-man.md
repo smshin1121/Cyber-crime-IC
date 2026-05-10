@@ -3,7 +3,7 @@ type: operation
 title: "Seattle Man Enforcement Action"
 aliases:
   - "United States v. Seattle Man"
-case_id: CYB-FUP-467
+case_id: CYB-2024-380
 period: 3
 operation_role: follow-on
 parent_operation: ""

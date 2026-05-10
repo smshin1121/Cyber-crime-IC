@@ -3,7 +3,7 @@ type: operation
 title: "Garrett Norvell Enforcement Action"
 aliases:
   - "United States v. Garrett Norvell"
-case_id: CYB-FUP-248
+case_id: CYB-2024-919
 period: 3
 operation_role: follow-on
 parent_operation: ""

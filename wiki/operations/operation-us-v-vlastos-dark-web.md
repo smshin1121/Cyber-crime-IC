@@ -3,7 +3,7 @@ type: operation
 title: "George Vlastos (Darknet Redistributor) Enforcement Action"
 aliases:
   - "United States v. George Vlastos (Darknet Redistributor)"
-case_id: CYB-FUP-097
+case_id: CYB-2025-689
 period: 3
 operation_role: follow-on
 parent_operation: ""

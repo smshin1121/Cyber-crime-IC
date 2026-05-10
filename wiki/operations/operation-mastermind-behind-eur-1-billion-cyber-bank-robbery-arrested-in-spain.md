@@ -3,7 +3,7 @@ type: operation
 title: "Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain Enforcement Action"
 aliases:
   - "Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain"
-case_id: CYB-FUP-598
+case_id: CYB-2018-052
 period: 1
 operation_role: follow-on
 parent_operation: ""

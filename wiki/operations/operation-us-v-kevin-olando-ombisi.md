@@ -3,7 +3,7 @@ type: operation
 title: "Kevin Olando Ombisi Enforcement Action"
 aliases:
   - "United States v. Kevin Olando Ombisi"
-case_id: CYB-FUP-169
+case_id: CYB-2023-710
 period: 3
 operation_role: follow-on
 parent_operation: ""

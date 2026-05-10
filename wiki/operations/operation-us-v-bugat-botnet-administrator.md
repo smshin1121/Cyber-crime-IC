@@ -3,7 +3,7 @@ type: operation
 title: "Bugat Botnet Administrator Enforcement Action"
 aliases:
   - "United States v. Bugat Botnet Administrator"
-case_id: CYB-FUP-400
+case_id: CYB-2015-446
 period: 1
 operation_role: follow-on
 parent_operation: ""

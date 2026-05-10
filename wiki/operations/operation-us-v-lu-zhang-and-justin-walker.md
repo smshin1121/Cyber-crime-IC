@@ -3,7 +3,7 @@ type: operation
 title: "Lu Zhang and Justin Walker Enforcement Action"
 aliases:
   - "United States v. Lu Zhang and Justin Walker"
-case_id: CYB-FUP-172
+case_id: CYB-2023-185
 period: 3
 operation_role: follow-on
 parent_operation: ""

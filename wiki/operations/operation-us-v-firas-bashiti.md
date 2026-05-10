@@ -3,7 +3,7 @@ type: operation
 title: "Firas Bashiti Enforcement Action"
 aliases:
   - "United States v. Firas Bashiti"
-case_id: CYB-FUP-756
+case_id: CYB-2026-327
 period: 3
 operation_role: follow-on
 parent_operation: ""

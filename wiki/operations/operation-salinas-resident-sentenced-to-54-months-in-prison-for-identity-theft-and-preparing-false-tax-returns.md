@@ -3,7 +3,7 @@ type: operation
 title: "Salinas Resident Sentenced To 54 Months In Prison For Identity Theft And Preparing False Tax Returns Enforcement Action"
 aliases:
   - "Salinas Resident Sentenced To 54 Months In Prison For Identity Theft And Preparing False Tax Returns"
-case_id: CYB-FUP-726
+case_id: CYB-2017-716
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[salinas-resident-sentenced-to-54-months-in-prison-for-identity-theft-and-preparing-false-tax-returns]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[salinas-resident-sentenced-to-54-months-in-prison-for-identity-theft-and-preparing-false-tax-returns]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_salinas-resident-sentenced-54-months-prison-identity-theft-and-preparing-false-tax]]"

@@ -3,7 +3,7 @@ type: operation
 title: "New Jersey Man Sentenced to Prison after Pleading Guilty to Posting Restricted Information to Social Media Enforcement Action"
 aliases:
   - "New Jersey Man Sentenced to Prison after Pleading Guilty to Posting Restricted Information to Social Media"
-case_id: CYB-FUP-1065
+case_id: CYB-2021-863
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Ruslan Astamirov And Mikhail Vasiliev Enforcement Action"
 aliases:
   - "United States v. Ruslan Astamirov And Mikhail Vasiliev"
-case_id: CYB-FUP-125
+case_id: CYB-2024-078
 period: 3
 operation_role: follow-on
 parent_operation: ""

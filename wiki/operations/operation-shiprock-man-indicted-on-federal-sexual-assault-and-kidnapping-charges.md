@@ -3,7 +3,7 @@ type: operation
 title: "Shiprock Man Indicted on Federal Sexual Assault and Kidnapping Charges Enforcement Action"
 aliases:
   - "Shiprock Man Indicted on Federal Sexual Assault and Kidnapping Charges"
-case_id: CYB-FUP-1148
+case_id: CYB-2025-018
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[shiprock-man-indicted-on-federal-sexual-assault-and-kidnapping-charges]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[shiprock-man-indicted-on-federal-sexual-assault-and-kidnapping-charges]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_shiprock-man-indicted-federal-sexual-assault-and-kidnapping-charges]]"

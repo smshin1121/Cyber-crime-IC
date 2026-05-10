@@ -3,7 +3,7 @@ type: operation
 title: "Dmitry Aleksandrovich Dokuchaev and Igor Anatolyevich Sushchin Enforcement Action"
 aliases:
   - "United States v. Dmitry Aleksandrovich Dokuchaev and Igor Anatolyevich Sushchin"
-case_id: CYB-FUP-351
+case_id: CYB-2017-978
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Sumter Man Pleads Guilty to Destruction of an Energy Facility and Possession of Child Sexual Abuse Material Enforcement Action"
 aliases:
   - "Sumter Man Pleads Guilty to Destruction of an Energy Facility and Possession of Child Sexual Abuse Material"
-case_id: CYB-FUP-1166
+case_id: CYB-2024-454
 period: 3
 operation_role: follow-on
 parent_operation: ""

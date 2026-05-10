@@ -3,7 +3,7 @@ type: operation
 title: "Charges Waterbury Man Enforcement Action"
 aliases:
   - "United States v. Charges Waterbury Man"
-case_id: CYB-FUP-406
+case_id: CYB-2025-145
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-charges-waterbury-man]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-charges-waterbury-man]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_indictment-charges-waterbury-man-drug-and-gun-offenses]]"

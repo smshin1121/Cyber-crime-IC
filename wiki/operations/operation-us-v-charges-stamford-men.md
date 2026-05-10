@@ -3,7 +3,7 @@ type: operation
 title: "Charges Stamford Men Enforcement Action"
 aliases:
   - "United States v. Charges Stamford Men"
-case_id: CYB-FUP-405
+case_id: CYB-2025-833
 period: 3
 operation_role: follow-on
 parent_operation: ""

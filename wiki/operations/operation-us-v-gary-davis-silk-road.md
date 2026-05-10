@@ -3,7 +3,7 @@ type: operation
 title: "Gary Davis (Silk Road) Enforcement Action"
 aliases:
   - "United States v. Gary Davis (Silk Road)"
-case_id: CYB-FUP-035
+case_id: CYB-2019-388
 period: 1
 operation_type: sentencing
 status: absorbed

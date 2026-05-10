@@ -3,7 +3,7 @@ type: operation
 title: "Dominick Jeffrey Aragon Enforcement Action"
 aliases:
   - "United States v. Dominick Jeffrey Aragon"
-case_id: CYB-FUP-114
+case_id: CYB-2026-731
 period: 3
 operation_role: follow-on
 parent_operation: ""

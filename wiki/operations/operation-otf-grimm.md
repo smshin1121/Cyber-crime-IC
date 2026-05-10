@@ -8,7 +8,7 @@ aliases:
   - "Operational Taskforce GRIMM"
   - "Europol GRIMM taskforce"
   - "violence-as-a-service taskforce"
-case_id: CYB-2025-EU-OTFGRIMM
+case_id: CYB-2025-395
 period: 3
 operation_type: joint-investigation
 status: ongoing
@@ -70,7 +70,8 @@ mechanisms_used:
   - "[[informal-cooperation]]"
   - "[[public-private-cooperation]]"
   - "[[extradition]]"
-legal_basis: []
+legal_basis:
+  []
 results:
   arrests: 280
   indictments: 0
@@ -88,33 +89,33 @@ results:
     - "Three OTF GRIMM-linked fugitives published on EU Most Wanted on 2026-04-29 (two Swedish, one German) for VaaS-linked murder, drug trafficking, money laundering"
     - "~120-130 of the 280 detentions connected to Swedish criminal environments (Foxtrot network and adjacent groups)"
 edges:
-  - source_actor: "europol-ec3"
-    target_actor: "sweden-police"
+  - source_actor: europol-ec3
+    target_actor: sweden-police
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "sweden-police"
-    target_actor: "netherlands-politie"
+  - source_actor: sweden-police
+    target_actor: netherlands-politie
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "sweden-police"
-    target_actor: "germany-bka"
+  - source_actor: sweden-police
+    target_actor: germany-bka
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "denmark-police"
+  - source_actor: europol-ec3
+    target_actor: denmark-police
     cooperation_type: info_sharing
     legal_basis: informal
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "spain-national-police"
+  - source_actor: europol-ec3
+    target_actor: spain-national-police
     cooperation_type: info_sharing
     legal_basis: informal
     direction: undirected
-  - source_actor: "europol-ec3"
-    target_actor: "norway-kripos"
+  - source_actor: europol-ec3
+    target_actor: norway-kripos
     cooperation_type: info_sharing
     legal_basis: informal
     direction: undirected
@@ -125,9 +126,12 @@ missing_fields:
   - "victims_notified — not enumerated (the harm modality is contracted physical violence rather than mass-victim cyber fraud)"
   - "cryptocurrency_seized — not enumerated; OTF GRIMM is a recruitment-channel taskforce, not a financial-takedown phase"
   - "JIT designation — Europol does not name OTF GRIMM as a Joint Investigation Team and does not name Eurojust as a coordinating body"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "Cyber-enabled crime is not exhausted by 'computers as targets / computers as instruments of fraud.' OTF GRIMM treats the **recruitment-and-assignment surface** for physical violence as the cyber-investigative subject — encrypted messaging apps, gaming platforms, and mainstream social media as the marketplace through which contracts are priced and assigned. This positions VaaS alongside CSAM-platform and cybercrime-forum takedowns as a third class of online-platform-as-criminal-infrastructure operations."
   - "Provider-side cooperation (Europol meetings with Google, Meta, TikTok, Snapchat) is operating outside formal MLA / EIO instruments. The Europol release does not characterise these meetings as voluntary disclosure or production-order channels; they appear to function as a fifth track alongside JIT, EIO, MLA, and direct police-to-police cooperation."

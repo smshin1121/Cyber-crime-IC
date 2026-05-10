@@ -3,7 +3,7 @@ type: operation
 title: "Nigerian National Pleads Guilty to Multi-Million Dollar Cyber Fraud Scheme Targeting Tulsa Company and Four Other Companies Enforcement Action"
 aliases:
   - "Nigerian National Pleads Guilty to Multi-Million Dollar Cyber Fraud Scheme Targeting Tulsa Company and Four Other Companies"
-case_id: CYB-FUP-1070
+case_id: CYB-2023-538
 period: 3
 operation_role: follow-on
 parent_operation: ""

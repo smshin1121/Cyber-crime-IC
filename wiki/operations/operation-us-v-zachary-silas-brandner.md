@@ -3,7 +3,7 @@ type: operation
 title: "Zachary Silas Brandner Enforcement Action"
 aliases:
   - "United States v. Zachary Silas Brandner"
-case_id: CYB-FUP-390
+case_id: CYB-2025-804
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-zachary-silas-brandner]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-zachary-silas-brandner]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_district-man-indicted-distributing-child-pornography]]"

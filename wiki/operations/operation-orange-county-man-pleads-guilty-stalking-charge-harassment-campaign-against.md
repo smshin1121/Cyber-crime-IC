@@ -3,7 +3,7 @@ type: operation
 title: "Evan Baltierra Enforcement Action"
 aliases:
   - "United States v. Evan Baltierra"
-case_id: CYB-FUP-133
+case_id: CYB-2022-571
 period: 2
 operation_role: follow-on
 parent_operation: ""

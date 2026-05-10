@@ -3,7 +3,7 @@ type: operation
 title: "Michael Warren Enforcement Action"
 aliases:
   - "United States v. Michael Warren"
-case_id: CYB-FUP-295
+case_id: CYB-2025-372
 period: 3
 operation_role: follow-on
 parent_operation: ""

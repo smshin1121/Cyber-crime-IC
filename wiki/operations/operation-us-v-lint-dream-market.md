@@ -3,7 +3,7 @@ type: operation
 title: "Allen Lint (Dream Market) Enforcement Action"
 aliases:
   - "United States v. Allen Lint (Dream Market)"
-case_id: CYB-FUP-056
+case_id: CYB-2018-210
 period: 1
 operation_type: sentencing
 status: absorbed

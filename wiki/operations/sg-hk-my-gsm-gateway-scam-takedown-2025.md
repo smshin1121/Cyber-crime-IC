@@ -5,7 +5,7 @@ aliases:
   - "SPF-HKPF-RMP VoIP GSM Gateway Operation 2025"
   - "FRONTIER+ Tri-lateral GSM Gateway Takedown June 2025"
   - "Tri-lateral Scam-Call Infrastructure Takedown 2025"
-case_id: CYB-2025-SG-HK-MY-GSM-01
+case_id: CYB-2025-921
 period: 3
 operation_type: takedown
 status: completed
@@ -56,45 +56,47 @@ results:
     - "29-year-old suspect arrested in Malaysia on 3 June 2025 handed over to Singapore and charged in court on 5 June 2025 under Penal Code s.420 r/w s.120B."
     - "Cloud-based remote operating system used by the syndicate dismantled."
 edges:
-  - source_actor: "singapore-police"
-    target_actor: "hong-kong-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "singapore-police"
-    target_actor: "royal-malaysia-police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "hong-kong-police"
-    target_actor: "royal-malaysia-police"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "royal-malaysia-police"
-    target_actor: "singapore-police"
-    cooperation_type: "extradition"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
+  - source_actor: singapore-police
+    target_actor: hong-kong-police
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: singapore-police
+    target_actor: royal-malaysia-police
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: hong-kong-police
+    target_actor: royal-malaysia-police
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
+  - source_actor: royal-malaysia-police
+    target_actor: singapore-police
+    cooperation_type: extradition
+    legal_basis: bilateral_MOU
+    direction: directed
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
   - "exact per-jurisdiction arrest counts"
   - "monetary loss figures attributable to this specific syndicate"
   - "names and nationalities of arrested suspects (other than the charged 29-year-old)"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[latvia-sim-box-cybercrime-as-a-service-takedown-2025]]"
-challenges_encountered: []
-lessons_learned: []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 # Singapore–Hong Kong–Malaysia Tri-lateral GSM Gateway Scam Syndicate Takedown (April–June 2025)
 
 ## Summary

@@ -3,7 +3,7 @@ type: operation
 title: "Samuel Aaron Leonard Enforcement Action"
 aliases:
   - "United States v. Samuel Aaron Leonard"
-case_id: CYB-FUP-322
+case_id: CYB-2024-460
 period: 3
 operation_role: follow-on
 parent_operation: ""

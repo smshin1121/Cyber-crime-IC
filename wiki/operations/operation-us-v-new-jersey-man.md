@@ -3,7 +3,7 @@ type: operation
 title: "New Jersey Man Enforcement Action"
 aliases:
   - "United States v. New Jersey Man"
-case_id: CYB-FUP-453
+case_id: CYB-2021-359
 period: 2
 operation_role: follow-on
 parent_operation: ""

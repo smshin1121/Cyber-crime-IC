@@ -3,7 +3,7 @@ type: operation
 title: "Parma men among those charged as part of crackdown on Darknet vendors Enforcement Action"
 aliases:
   - "Parma men among those charged as part of crackdown on Darknet vendors"
-case_id: CYB-FUP-614
+case_id: CYB-2018-398
 period: 1
 operation_role: follow-on
 parent_operation: ""

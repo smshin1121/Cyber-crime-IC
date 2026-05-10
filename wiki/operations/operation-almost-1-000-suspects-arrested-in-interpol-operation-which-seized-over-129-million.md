@@ -3,7 +3,7 @@ type: operation
 title: "Almost 1,000 suspects arrested in Interpol operation which seized over $129 million Enforcement Action"
 aliases:
   - "Almost 1,000 suspects arrested in Interpol operation which seized over $129 million"
-case_id: CYB-FUP-796
+case_id: CYB-2022-189
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Jonathan Michael Thornton and Katherine Leann Herrera Enforcement Action"
 aliases:
   - "United States v. Jonathan Michael Thornton and Katherine Leann Herrera"
-case_id: CYB-FUP-768
+case_id: CYB-2020-303
 period: 2
 operation_role: follow-on
 parent_operation: ""

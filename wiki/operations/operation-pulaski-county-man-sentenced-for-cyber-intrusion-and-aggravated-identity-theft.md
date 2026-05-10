@@ -3,7 +3,7 @@ type: operation
 title: "Pulaski County Man Sentenced for Cyber Intrusion and Aggravated Identity Theft Enforcement Action"
 aliases:
   - "Pulaski County Man Sentenced for Cyber Intrusion and Aggravated Identity Theft"
-case_id: CYB-FUP-1105
+case_id: CYB-2024-530
 period: 3
 operation_role: follow-on
 parent_operation: ""

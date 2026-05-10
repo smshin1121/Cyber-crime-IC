@@ -3,7 +3,7 @@ type: operation
 title: "Gal Vallerius (Dream Market) Enforcement Action"
 aliases:
   - "United States v. Gal Vallerius (Dream Market)"
-case_id: CYB-FUP-096
+case_id: CYB-2018-253
 period: 1
 operation_role: follow-on
 parent_operation: ""

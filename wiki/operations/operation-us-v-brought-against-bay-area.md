@@ -3,7 +3,7 @@ type: operation
 title: "Brought Against Bay Area Enforcement Action"
 aliases:
   - "United States v. Brought Against Bay Area"
-case_id: CYB-FUP-399
+case_id: CYB-2017-664
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-brought-against-bay-area]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-brought-against-bay-area]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_child-pornography-charges-brought-against-bay-area-babysitters]]"

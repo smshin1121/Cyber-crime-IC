@@ -3,7 +3,7 @@ type: operation
 title: "Krystal Cherika Scott Enforcement Action"
 aliases:
   - "United States v. Krystal Cherika Scott"
-case_id: CYB-FUP-279
+case_id: CYB-2020-137
 period: 2
 operation_role: follow-on
 parent_operation: ""

@@ -6,7 +6,7 @@ aliases:
   - "Operazione Mad Hatter"
   - "Mad Hatter CSAM operation 2026"
   - "Polizia Postale Mad Hatter"
-case_id: CYB-2026-MADHAT
+case_id: CYB-2026-625
 period: 3
 operation_type: undercover
 status: completed

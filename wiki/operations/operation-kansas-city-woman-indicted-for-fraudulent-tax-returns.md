@@ -3,7 +3,7 @@ type: operation
 title: "Kansas City Woman Indicted for Fraudulent Tax Returns Enforcement Action"
 aliases:
   - "Kansas City Woman Indicted for Fraudulent Tax Returns"
-case_id: CYB-FUP-1014
+case_id: CYB-2025-366
 period: 3
 operation_role: follow-on
 parent_operation: ""

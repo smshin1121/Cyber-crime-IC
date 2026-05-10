@@ -3,7 +3,7 @@ type: operation
 title: "Wisconsin Man Enforcement Action"
 aliases:
   - "United States v. Wisconsin Man"
-case_id: CYB-FUP-489
+case_id: CYB-2023-440
 period: 3
 operation_role: follow-on
 parent_operation: ""

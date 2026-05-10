@@ -3,7 +3,7 @@ type: operation
 title: "Charging Involvement Enforcement Action"
 aliases:
   - "United States v. Charging Involvement"
-case_id: CYB-FUP-407
+case_id: CYB-2025-894
 period: 3
 operation_role: follow-on
 parent_operation: ""

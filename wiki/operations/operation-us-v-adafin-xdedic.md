@@ -3,7 +3,7 @@ type: operation
 title: "Olayemi Adafin (xDedic) Enforcement Action"
 aliases:
   - "United States v. Olayemi Adafin (xDedic)"
-case_id: CYB-FUP-005
+case_id: CYB-2024-597
 period: 3
 operation_type: conviction
 status: absorbed

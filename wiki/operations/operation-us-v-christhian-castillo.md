@@ -3,7 +3,7 @@ type: operation
 title: "Christhian Castillo Enforcement Action"
 aliases:
   - "United States v. Christhian Castillo"
-case_id: CYB-FUP-347
+case_id: CYB-2025-659
 period: 3
 operation_role: follow-on
 parent_operation: ""

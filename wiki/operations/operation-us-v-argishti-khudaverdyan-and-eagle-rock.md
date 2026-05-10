@@ -3,7 +3,7 @@ type: operation
 title: "Argishti Khudaverdyan and Eagle Rock Enforcement Action"
 aliases:
   - "United States v. Argishti Khudaverdyan and Eagle Rock"
-case_id: CYB-FUP-141
+case_id: CYB-2022-006
 period: 2
 operation_role: follow-on
 parent_operation: ""

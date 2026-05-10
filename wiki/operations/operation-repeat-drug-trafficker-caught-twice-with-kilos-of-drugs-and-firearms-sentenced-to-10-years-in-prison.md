@@ -3,7 +3,7 @@ type: operation
 title: "Repeat drug trafficker, caught twice with kilos of drugs and firearms, sentenced to 10 years in prison Enforcement Action"
 aliases:
   - "Repeat drug trafficker, caught twice with kilos of drugs and firearms, sentenced to 10 years in prison"
-case_id: CYB-FUP-1112
+case_id: CYB-2025-451
 period: 3
 operation_role: follow-on
 parent_operation: ""

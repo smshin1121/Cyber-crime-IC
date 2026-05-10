@@ -3,7 +3,7 @@ type: operation
 title: "Glib Ivanov Tolpintsev Enforcement Action"
 aliases:
   - "United States v. Glib Ivanov Tolpintsev"
-case_id: CYB-FUP-118
+case_id: CYB-2021-743
 period: 2
 operation_role: follow-on
 parent_operation: ""

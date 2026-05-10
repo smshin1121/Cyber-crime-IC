@@ -3,7 +3,7 @@ type: operation
 title: "U.S. v. Amitoj Kapoor and Siddharth Lillaney Enforcement Action"
 aliases:
   - "U.S. v. Amitoj Kapoor and Siddharth Lillaney"
-case_id: CYB-FUP-137
+case_id: CYB-2026-267
 period: 3
 operation_role: follow-on
 parent_operation: ""

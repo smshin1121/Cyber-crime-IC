@@ -3,7 +3,7 @@ type: operation
 title: "Roman Sterlingov Enforcement Action"
 aliases:
   - "United States v. Roman Sterlingov"
-case_id: CYB-FUP-180
+case_id: CYB-2021-389
 period: 2
 operation_role: follow-on
 parent_operation: ""

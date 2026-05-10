@@ -3,7 +3,7 @@ type: operation
 title: "Of Distributing Fentanyl Analogue Enforcement Action"
 aliases:
   - "United States v. Of Distributing Fentanyl Analogue"
-case_id: CYB-FUP-778
+case_id: CYB-2018-740
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-of-distributing-fentanyl-analogue]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-of-distributing-fentanyl-analogue]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_pennsylvania-man-convicted-distributing-fentanyl-analogue-killed-orlando-woman]]"

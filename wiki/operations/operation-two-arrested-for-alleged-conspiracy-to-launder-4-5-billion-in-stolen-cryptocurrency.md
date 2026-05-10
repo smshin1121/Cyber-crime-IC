@@ -3,7 +3,7 @@ type: operation
 title: "Two Arrested for Alleged Conspiracy to Launder $4.5 Billion in Stolen Cryptocurrency Enforcement Action"
 aliases:
   - "Two Arrested for Alleged Conspiracy to Launder $4.5 Billion in Stolen Cryptocurrency"
-case_id: CYB-FUP-646
+case_id: CYB-2022-063
 period: 2
 operation_role: follow-on
 parent_operation: ""

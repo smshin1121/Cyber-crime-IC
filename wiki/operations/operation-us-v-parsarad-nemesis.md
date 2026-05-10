@@ -3,7 +3,7 @@ type: operation
 title: "Behrouz Parsarad Follow-On Action"
 aliases:
   - "United States v. Behrouz Parsarad"
-case_id: CYB-FUP-076
+case_id: CYB-2025-878
 period: 3
 operation_type: indictment
 operation_role: follow-on

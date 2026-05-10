@@ -3,7 +3,7 @@ type: operation
 title: "Administrator Of Online Criminal Marketplace Extradited From Kosovo To The United States Enforcement Action"
 aliases:
   - "Administrator Of Online Criminal Marketplace Extradited From Kosovo To The United States"
-case_id: CYB-FUP-670
+case_id: CYB-2025-761
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "ANOM Distributors Enforcement Action"
 aliases:
   - "United States v. ANOM Distributors"
-case_id: CYB-FUP-009
+case_id: CYB-2021-394
 period: 2
 operation_type: conviction
 status: absorbed

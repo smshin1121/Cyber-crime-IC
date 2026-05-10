@@ -3,7 +3,7 @@ type: operation
 title: "Akshay Ram Kancharla Enforcement Action"
 aliases:
   - "United States v. Akshay Ram Kancharla"
-case_id: CYB-FUP-107
+case_id: CYB-2022-107
 period: 2
 operation_role: follow-on
 parent_operation: ""

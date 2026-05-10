@@ -4,7 +4,7 @@ title: "Kevin James Strutz Plea Follow-On"
 aliases:
   - "Kevin James Strutz Enforcement Action"
   - "United States v. Kevin James Strutz"
-case_id: CYB-FUP-190
+case_id: CYB-2023-264
 period: 3
 operation_role: follow-on
 parent_operation: ""

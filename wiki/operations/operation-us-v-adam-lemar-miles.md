@@ -3,7 +3,7 @@ type: operation
 title: "Adam Lemar Miles Enforcement Action"
 aliases:
   - "United States v. Adam Lemar Miles"
-case_id: CYB-FUP-103
+case_id: CYB-2018-986
 period: 1
 operation_role: follow-on
 parent_operation: ""

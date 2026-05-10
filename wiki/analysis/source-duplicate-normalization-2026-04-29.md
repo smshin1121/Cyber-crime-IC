@@ -1,10 +1,25 @@
 ---
-title: Source Duplicate Normalization (2026-04-29)
+title: "Source Duplicate Normalization (2026-04-29)"
 type: analysis
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-05-10
 summary: "Canonical/alias normalization of duplicate source records."
-source_count: 0
+source_count: 14
+sources:
+  - "[[2025-03-24_africanews-operation-red-card-full]]"
+  - "[[2025-03-24_africanews-com_cybercrime-crackdown-306-arrested-in-africa-wide-operation]]"
+  - "[[2020-11-01_guardian-ng_google-vignette]]"
+  - "[[2020-11-27_guardian-ng_operation-falcon-nigerian-police-join-interpol-group-ib-to-arrest-three-suspected-tmt-fraudsters]]"
+  - "[[2021-01-27_mdnc_emotet-disruption-order]]"
+  - "[[2017-07-20_justice-gov_alphabay-the-largest-online-dark-market-shut-down]]"
+  - "[[2025-04-04_europol_operation-stream-kidflix-takedown]]"
+  - "[[2024-04-15_bitdefender-com_zambia-arrests-77-people-in-swoop-on-scam-call-centre]]"
+  - "[[2024-06-05_therecord-media_chinese-nationals-plead-guilty-to-running-zambia-scam-operation]]"
+  - "[[2023-01-23_justice-gov_us-v-okpe-et-al-victim-notifications]]"
+  - "[[2023-01-23_justice-gov_us-v-okpe-et-al]]"
+  - "[[2017-07-20_fbi-gov_alphabay-takedown]]"
+  - "[[2024-07-03_nationalcrimeagency-gov-uk_national-crime-agency-leads-international-operation-to-degrade-illegal-versions]]"
+  - "[[2021-06-08_fbi-gov_fbi-and-global-partners-announce-results-of-operation-trojan-shield]]"
 ---
 ## Summary
 

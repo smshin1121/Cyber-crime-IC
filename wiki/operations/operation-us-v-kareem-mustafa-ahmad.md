@@ -3,7 +3,7 @@ type: operation
 title: "Kareem Mustafa Ahmad Enforcement Action"
 aliases:
   - "United States v. Kareem Mustafa Ahmad"
-case_id: CYB-FUP-361
+case_id: CYB-2025-523
 period: 3
 operation_role: follow-on
 parent_operation: ""

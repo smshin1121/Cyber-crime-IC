@@ -3,7 +3,7 @@ type: operation
 title: "Lakeland Man Enforcement Action"
 aliases:
   - "United States v. Lakeland Man"
-case_id: CYB-FUP-442
+case_id: CYB-2021-746
 period: 2
 operation_role: follow-on
 parent_operation: ""

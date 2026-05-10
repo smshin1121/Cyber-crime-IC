@@ -3,7 +3,7 @@ type: operation
 title: "Arbi Setaghaian Sangbarani Enforcement Action"
 aliases:
   - "United States v. Arbi Setaghaian Sangbarani"
-case_id: CYB-FUP-219
+case_id: CYB-2024-299
 period: 3
 operation_role: follow-on
 parent_operation: ""

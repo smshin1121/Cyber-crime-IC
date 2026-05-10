@@ -3,7 +3,7 @@ type: operation
 title: "Odessa Man Indicted For Stealing More Than $250,000 In PPP Funds Enforcement Action"
 aliases:
   - "Odessa Man Indicted For Stealing More Than $250,000 In PPP Funds"
-case_id: CYB-FUP-1077
+case_id: CYB-2025-822
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[odessa-man-indicted-for-stealing-more-than-250-000-in-ppp-funds]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[odessa-man-indicted-for-stealing-more-than-250-000-in-ppp-funds]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_odessa-man-indicted-stealing-more-250000-ppp-funds]]"

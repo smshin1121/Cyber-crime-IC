@@ -3,7 +3,7 @@ type: operation
 title: "Fatukala Yamamoto Mina And Hollis Enforcement Action"
 aliases:
   - "United States v. Fatukala Yamamoto Mina And Hollis"
-case_id: CYB-FUP-116
+case_id: CYB-2023-398
 period: 3
 operation_role: follow-on
 parent_operation: ""

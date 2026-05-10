@@ -3,7 +3,7 @@ type: operation
 title: "Former emergency physician pleads guilty to possessing child pornography Enforcement Action"
 aliases:
   - "Former emergency physician pleads guilty to possessing child pornography"
-case_id: CYB-FUP-967
+case_id: CYB-2024-674
 period: 3
 operation_role: follow-on
 parent_operation: ""

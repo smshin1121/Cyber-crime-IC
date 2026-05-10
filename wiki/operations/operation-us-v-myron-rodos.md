@@ -3,7 +3,7 @@ type: operation
 title: "Myron Rodos Enforcement Action"
 aliases:
   - "United States v. Myron Rodos"
-case_id: CYB-FUP-777
+case_id: CYB-2021-310
 period: 2
 operation_role: follow-on
 parent_operation: ""

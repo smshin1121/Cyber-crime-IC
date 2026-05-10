@@ -3,7 +3,7 @@ type: operation
 title: "USD 300 million seized and 3,500 suspects arrested - Operation HAECHI IV Enforcement Action"
 aliases:
   - "USD 300 million seized and 3,500 suspects arrested - Operation HAECHI IV"
-case_id: CYB-FUP-663
+case_id: CYB-2023-405
 period: 3
 operation_role: follow-on
 parent_operation: ""

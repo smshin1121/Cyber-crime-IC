@@ -3,7 +3,7 @@ type: operation
 title: "Thurston County man caught twice with drugs and firearms sentenced to 7 years in prison Enforcement Action"
 aliases:
   - "Thurston County man caught twice with drugs and firearms sentenced to 7 years in prison"
-case_id: CYB-FUP-1184
+case_id: CYB-2024-771
 period: 3
 operation_role: follow-on
 parent_operation: ""

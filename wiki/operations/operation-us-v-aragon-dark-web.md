@@ -3,7 +3,7 @@ type: operation
 title: "Dominick Aragon (Dark Web Cocaine Purchaser) Enforcement Action"
 aliases:
   - "United States v. Dominick Aragon (Dark Web Cocaine Purchaser)"
-case_id: CYB-FUP-010
+case_id: CYB-2026-648
 period: 3
 operation_type: sentencing
 status: absorbed

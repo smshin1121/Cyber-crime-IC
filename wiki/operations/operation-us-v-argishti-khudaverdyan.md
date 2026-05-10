@@ -3,7 +3,7 @@ type: operation
 title: "Argishti Khudaverdyan Enforcement Action"
 aliases:
   - "United States v. Argishti Khudaverdyan"
-case_id: CYB-FUP-142
+case_id: CYB-2022-528
 period: 2
 operation_role: follow-on
 parent_operation: ""

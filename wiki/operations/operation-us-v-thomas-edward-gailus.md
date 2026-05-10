@@ -3,7 +3,7 @@ type: operation
 title: "Thomas Edward Gailus Enforcement Action"
 aliases:
   - "United States v. Thomas Edward Gailus"
-case_id: CYB-FUP-333
+case_id: CYB-2025-796
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-thomas-edward-gailus]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-thomas-edward-gailus]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_repeat-offender-sentenced-10-years-possession-child-sexual-abuse-material]]"

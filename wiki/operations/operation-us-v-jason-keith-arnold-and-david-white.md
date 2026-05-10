@@ -3,7 +3,7 @@ type: operation
 title: "Jason Keith Arnold and David White Enforcement Action"
 aliases:
   - "United States v. Jason Keith Arnold and David White"
-case_id: CYB-FUP-261
+case_id: CYB-2022-825
 period: 2
 operation_role: follow-on
 parent_operation: ""

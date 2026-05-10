@@ -3,7 +3,7 @@ type: operation
 title: "Astamirov and Vasiliev (LockBit) Enforcement Action"
 aliases:
   - "United States v. Astamirov and Vasiliev (LockBit)"
-case_id: CYB-FUP-011
+case_id: CYB-2024-095
 period: 3
 operation_type: conviction
 status: absorbed

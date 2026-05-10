@@ -3,7 +3,7 @@ type: operation
 title: "Jian Zhang Enforcement Action"
 aliases:
   - "United States v. Jian Zhang"
-case_id: CYB-FUP-766
+case_id: CYB-2017-400
 period: 1
 operation_role: follow-on
 parent_operation: ""

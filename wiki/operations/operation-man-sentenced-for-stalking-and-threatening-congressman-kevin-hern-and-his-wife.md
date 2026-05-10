@@ -3,7 +3,7 @@ type: operation
 title: "Man Sentenced for Stalking and Threatening Congressman Kevin Hern and his Wife Enforcement Action"
 aliases:
   - "Man Sentenced for Stalking and Threatening Congressman Kevin Hern and his Wife"
-case_id: CYB-FUP-1037
+case_id: CYB-2023-121
 period: 3
 operation_role: follow-on
 parent_operation: ""

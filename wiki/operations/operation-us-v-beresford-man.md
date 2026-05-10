@@ -3,7 +3,7 @@ type: operation
 title: "Beresford Man Enforcement Action"
 aliases:
   - "United States v. Beresford Man"
-case_id: CYB-FUP-398
+case_id: CYB-2025-737
 period: 3
 operation_role: follow-on
 parent_operation: ""

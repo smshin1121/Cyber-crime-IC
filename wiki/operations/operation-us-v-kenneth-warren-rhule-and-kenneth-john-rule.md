@@ -3,7 +3,7 @@ type: operation
 title: "Kenneth Warren Rhule and Kenneth John Rule Enforcement Action"
 aliases:
   - "United States v. Kenneth Warren Rhule and Kenneth John Rule"
-case_id: CYB-FUP-274
+case_id: CYB-2022-055
 period: 2
 operation_role: follow-on
 parent_operation: ""

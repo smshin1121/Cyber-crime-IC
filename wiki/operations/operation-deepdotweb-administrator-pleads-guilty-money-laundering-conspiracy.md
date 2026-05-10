@@ -3,7 +3,7 @@ type: operation
 title: "Tal Prihar and Michael Phan Enforcement Action"
 aliases:
   - "United States v. Tal Prihar and Michael Phan"
-case_id: CYB-FUP-191
+case_id: CYB-2021-962
 period: 2
 operation_role: follow-on
 parent_operation: ""

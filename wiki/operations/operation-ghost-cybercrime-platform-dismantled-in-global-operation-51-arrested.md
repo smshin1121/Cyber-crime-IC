@@ -3,7 +3,7 @@ type: operation
 title: "Ghost cybercrime platform dismantled in global operation, 51 arrested Enforcement Action"
 aliases:
   - "Ghost cybercrime platform dismantled in global operation, 51 arrested"
-case_id: CYB-FUP-832
+case_id: CYB-2024-056
 period: 3
 operation_role: follow-on
 parent_operation: ""

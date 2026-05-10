@@ -3,7 +3,7 @@ type: operation
 title: "Alexander James Rosell Enforcement Action"
 aliases:
   - "United States v. Alexander James Rosell"
-case_id: CYB-FUP-208
+case_id: CYB-2025-324
 period: 3
 operation_role: follow-on
 parent_operation: ""

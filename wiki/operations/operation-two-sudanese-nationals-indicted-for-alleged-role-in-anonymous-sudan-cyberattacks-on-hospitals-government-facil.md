@@ -3,7 +3,7 @@ type: operation
 title: "Two Sudanese Nationals Indicted for Alleged Role in Anonymous Sudan Cyberattacks on Hospitals, Government Facilities, and Other Critical Infrastructure in Los Angeles and Around the World Enforcement Action"
 aliases:
   - "Two Sudanese Nationals Indicted for Alleged Role in Anonymous Sudan Cyberattacks on Hospitals, Government Facilities, and Other Critical Infrastructure in Los Angeles and Around the World"
-case_id: CYB-FUP-1195
+case_id: CYB-2024-173
 period: 3
 operation_role: follow-on
 parent_operation: ""

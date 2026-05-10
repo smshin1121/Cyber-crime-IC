@@ -3,7 +3,7 @@ type: operation
 title: "Larry Dean Harmon Enforcement Action"
 aliases:
   - "United States v. Larry Dean Harmon"
-case_id: CYB-FUP-171
+case_id: CYB-2021-830
 period: 2
 operation_role: follow-on
 parent_operation: ""

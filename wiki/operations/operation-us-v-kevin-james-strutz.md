@@ -4,7 +4,7 @@ title: "Kevin James Strutz Sentencing Follow-On"
 aliases:
   - "Kevin James Strutz Enforcement Action"
   - "United States v. Kevin James Strutz"
-case_id: CYB-FUP-275
+case_id: CYB-2023-480
 period: 3
 operation_role: follow-on
 parent_operation: ""

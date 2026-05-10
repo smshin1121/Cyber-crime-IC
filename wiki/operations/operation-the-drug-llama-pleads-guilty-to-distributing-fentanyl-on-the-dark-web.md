@@ -3,7 +3,7 @@ type: operation
 title: "\"The Drug Llama\" Pleads Guilty to Distributing Fentanyl on the Dark Web Enforcement Action"
 aliases:
   - "\"The Drug Llama\" Pleads Guilty to Distributing Fentanyl on the Dark Web"
-case_id: CYB-FUP-859
+case_id: CYB-2019-893
 period: 1
 operation_role: follow-on
 parent_operation: ""

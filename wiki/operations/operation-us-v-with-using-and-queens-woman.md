@@ -3,7 +3,7 @@ type: operation
 title: "With Using and Queens Woman Enforcement Action"
 aliases:
   - "United States v. With Using and Queens Woman"
-case_id: CYB-FUP-496
+case_id: CYB-2024-913
 period: 3
 operation_role: follow-on
 parent_operation: ""

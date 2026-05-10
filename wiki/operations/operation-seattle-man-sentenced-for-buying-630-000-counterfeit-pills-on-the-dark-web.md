@@ -3,7 +3,7 @@ type: operation
 title: "Seattle Man Sentenced for Buying 630,000 Counterfeit Pills on the Dark Web Enforcement Action"
 aliases:
   - "Seattle Man Sentenced for Buying 630,000 Counterfeit Pills on the Dark Web"
-case_id: CYB-FUP-1142
+case_id: CYB-2024-873
 period: 3
 operation_role: follow-on
 parent_operation: ""

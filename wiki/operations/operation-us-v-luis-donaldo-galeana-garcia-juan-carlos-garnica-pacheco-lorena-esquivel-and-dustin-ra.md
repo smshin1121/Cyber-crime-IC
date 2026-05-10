@@ -3,7 +3,7 @@ type: operation
 title: "Luis Donaldo Galeana Garcia, Juan Carlos Garnica Pacheco, Lorena Esquivel, and Dustin Ray Binion Enforcement Action"
 aliases:
   - "United States v. Luis Donaldo Galeana Garcia, Juan Carlos Garnica Pacheco, Lorena Esquivel, and Dustin Ray Binion"
-case_id: CYB-FUP-284
+case_id: CYB-2026-052
 period: 3
 operation_role: follow-on
 parent_operation: ""

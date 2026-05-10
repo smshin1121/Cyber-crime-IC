@@ -3,7 +3,7 @@ type: operation
 title: "Online Extortion Enforcement Action"
 aliases:
   - "United States v. Online Extortion"
-case_id: CYB-FUP-457
+case_id: CYB-2016-641
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-online-extortion]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-online-extortion]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_creator-software-facilitate-privacy-invasion-and-online-extortion-sentenced-federal]]"

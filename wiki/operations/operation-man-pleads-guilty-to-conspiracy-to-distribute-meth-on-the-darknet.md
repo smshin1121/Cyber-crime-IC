@@ -3,7 +3,7 @@ type: operation
 title: "Man Pleads Guilty to Conspiracy to Distribute Meth on the Darknet Enforcement Action"
 aliases:
   - "Man Pleads Guilty to Conspiracy to Distribute Meth on the Darknet"
-case_id: CYB-FUP-838
+case_id: CYB-2020-734
 period: 2
 operation_role: follow-on
 parent_operation: ""

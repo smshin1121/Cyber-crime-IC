@@ -3,7 +3,7 @@ type: operation
 title: "Bamidele Omotosho (xDedic Cyber Scams) Enforcement Action"
 aliases:
   - "United States v. Bamidele Omotosho (xDedic Cyber Scams)"
-case_id: CYB-FUP-071
+case_id: CYB-2024-424
 period: 3
 operation_type: sentencing
 status: absorbed

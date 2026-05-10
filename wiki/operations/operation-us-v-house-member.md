@@ -3,7 +3,7 @@ type: operation
 title: "House Member Enforcement Action"
 aliases:
   - "United States v. House Member"
-case_id: CYB-FUP-436
+case_id: CYB-2018-051
 period: 1
 operation_role: follow-on
 parent_operation: ""

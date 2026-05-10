@@ -3,7 +3,7 @@ type: operation
 title: "Krasimir Nikolov Enforcement Action"
 aliases:
   - "United States v. Krasimir Nikolov"
-case_id: CYB-FUP-365
+case_id: CYB-2019-196
 period: 1
 operation_role: follow-on
 parent_operation: ""

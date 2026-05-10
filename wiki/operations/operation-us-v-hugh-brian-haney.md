@@ -3,7 +3,7 @@ type: operation
 title: "Hugh Brian Haney Enforcement Action"
 aliases:
   - "United States v. Hugh Brian Haney"
-case_id: CYB-FUP-120
+case_id: CYB-2020-911
 period: 2
 operation_role: follow-on
 parent_operation: ""

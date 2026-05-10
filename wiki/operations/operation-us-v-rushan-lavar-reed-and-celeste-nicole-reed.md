@@ -3,7 +3,7 @@ type: operation
 title: "Rushan Lavar Reed and Celeste Nicole Reed Enforcement Action"
 aliases:
   - "United States v. Rushan Lavar Reed and Celeste Nicole Reed"
-case_id: CYB-FUP-317
+case_id: CYB-2025-394
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Union County, New Jersey, Man Charged with Receiving Child Pornography Enforcement Action"
 aliases:
   - "Union County, New Jersey, Man Charged with Receiving Child Pornography"
-case_id: CYB-FUP-863
+case_id: CYB-2019-704
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[union-county-new-jersey-man-charged-with-receiving-child-pornography]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[union-county-new-jersey-man-charged-with-receiving-child-pornography]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_union-county-new-jersey-man-charged-receiving-child-pornography]]"

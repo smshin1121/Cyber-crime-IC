@@ -3,7 +3,7 @@ type: operation
 title: "Two Everett residents charged federally for drug distribution activities involving multiple kilos of fentanyl powder Enforcement Action"
 aliases:
   - "Two Everett residents charged federally for drug distribution activities involving multiple kilos of fentanyl powder"
-case_id: CYB-FUP-1188
+case_id: CYB-2025-538
 period: 3
 operation_role: follow-on
 parent_operation: ""

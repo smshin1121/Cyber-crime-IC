@@ -3,7 +3,7 @@ type: operation
 title: "Across Four Continents Enforcement Action"
 aliases:
   - "United States v. Across Four Continents"
-case_id: CYB-FUP-394
+case_id: CYB-2025-439
 period: 3
 operation_role: follow-on
 parent_operation: ""

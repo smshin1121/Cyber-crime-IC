@@ -3,7 +3,7 @@ type: operation
 title: "Latvian National Enforcement Action"
 aliases:
   - "United States v. Latvian National"
-case_id: CYB-FUP-443
+case_id: CYB-2021-097
 period: 2
 operation_role: follow-on
 parent_operation: ""

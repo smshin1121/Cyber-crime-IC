@@ -3,7 +3,7 @@ type: operation
 title: "Natchitoches Man Sentenced for Possession of Child Pornography Enforcement Action"
 aliases:
   - "Natchitoches Man Sentenced for Possession of Child Pornography"
-case_id: CYB-FUP-1062
+case_id: CYB-2025-937
 period: 3
 operation_role: follow-on
 parent_operation: ""

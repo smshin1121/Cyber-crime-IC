@@ -3,7 +3,7 @@ type: operation
 title: "Two Men Indicted In “SIM Swapping” Scheme To Steal Cryptocurrency Enforcement Action"
 aliases:
   - "Two Men Indicted In “SIM Swapping” Scheme To Steal Cryptocurrency"
-case_id: CYB-FUP-651
+case_id: CYB-2019-936
 period: 1
 operation_role: follow-on
 parent_operation: ""

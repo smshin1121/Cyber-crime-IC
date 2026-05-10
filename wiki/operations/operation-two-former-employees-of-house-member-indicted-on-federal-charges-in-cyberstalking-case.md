@@ -3,7 +3,7 @@ type: operation
 title: "Two Former Employees of House Member Indicted On Federal Charges in Cyberstalking Case Enforcement Action"
 aliases:
   - "Two Former Employees of House Member Indicted On Federal Charges in Cyberstalking Case"
-case_id: CYB-FUP-860
+case_id: CYB-2017-354
 period: 1
 operation_role: follow-on
 parent_operation: ""

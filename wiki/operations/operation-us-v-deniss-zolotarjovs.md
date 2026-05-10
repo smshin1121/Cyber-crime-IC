@@ -3,7 +3,7 @@ type: operation
 title: "Deniss Zolotarjovs Enforcement Action"
 aliases:
   - "United States v. Deniss Zolotarjovs"
-case_id: CYB-FUP-349
+case_id: CYB-2024-823
 period: 3
 operation_role: follow-on
 parent_operation: ""

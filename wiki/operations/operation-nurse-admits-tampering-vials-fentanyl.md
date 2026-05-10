@@ -3,7 +3,7 @@ type: operation
 title: "Travis Eskridge Enforcement Action"
 aliases:
   - "United States v. Travis Eskridge"
-case_id: CYB-FUP-196
+case_id: CYB-2025-869
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[nurse-admits-tampering-vials-fentanyl]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[nurse-admits-tampering-vials-fentanyl]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_nurse-admits-tampering-vials-fentanyl]]"

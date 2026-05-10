@@ -3,7 +3,7 @@ type: operation
 title: "Dariy Pankov (xDedic / NLBrute) Enforcement Action"
 aliases:
   - "United States v. Dariy Pankov (xDedic / NLBrute)"
-case_id: CYB-FUP-075
+case_id: CYB-2023-487
 period: 3
 operation_type: sentencing
 status: absorbed

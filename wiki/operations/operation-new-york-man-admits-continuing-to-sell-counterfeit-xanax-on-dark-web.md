@@ -3,7 +3,7 @@ type: operation
 title: "New York Man Admits Continuing to Sell Counterfeit Xanax on Dark Web Enforcement Action"
 aliases:
   - "New York Man Admits Continuing to Sell Counterfeit Xanax on Dark Web"
-case_id: CYB-FUP-843
+case_id: CYB-2025-768
 period: 3
 operation_role: follow-on
 parent_operation: ""

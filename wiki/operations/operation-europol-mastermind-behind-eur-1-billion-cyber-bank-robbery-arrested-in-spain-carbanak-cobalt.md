@@ -3,7 +3,7 @@ type: operation
 title: "Europol: Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain (Carbanak/Cobalt) Enforcement Action"
 aliases:
   - "Europol: \"Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain (Carbanak/Cobalt)\""
-case_id: CYB-FUP-545
+case_id: CYB-2018-223
 period: 1
 operation_role: follow-on
 parent_operation: ""

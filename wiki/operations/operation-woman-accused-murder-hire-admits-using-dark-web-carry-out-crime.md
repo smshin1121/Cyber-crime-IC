@@ -3,7 +3,7 @@ type: operation
 title: "Krista Renae Stone Enforcement Action"
 aliases:
   - "United States v. Krista Renae Stone"
-case_id: CYB-FUP-341
+case_id: CYB-2024-422
 period: 3
 operation_role: follow-on
 parent_operation: ""

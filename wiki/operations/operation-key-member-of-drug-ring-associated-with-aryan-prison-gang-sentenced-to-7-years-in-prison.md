@@ -3,7 +3,7 @@ type: operation
 title: "Key member of drug ring associated with Aryan prison gang sentenced to 7+ years in prison Enforcement Action"
 aliases:
   - "Key member of drug ring associated with Aryan prison gang sentenced to 7+ years in prison"
-case_id: CYB-FUP-1019
+case_id: CYB-2025-929
 period: 3
 operation_role: follow-on
 parent_operation: ""

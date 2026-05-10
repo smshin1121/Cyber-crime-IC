@@ -3,7 +3,7 @@ type: operation
 title: "Brian Richard Farrell Enforcement Action"
 aliases:
   - "United States v. Brian Richard Farrell"
-case_id: CYB-FUP-111
+case_id: CYB-2016-310
 period: 1
 operation_role: follow-on
 parent_operation: ""

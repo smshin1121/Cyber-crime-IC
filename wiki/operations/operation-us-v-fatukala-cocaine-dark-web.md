@@ -3,7 +3,7 @@ type: operation
 title: "Fatukala et al. (Dark Web Cocaine Scheme) Enforcement Action"
 aliases:
   - "United States v. Fatukala et al. (Dark Web Cocaine Scheme)"
-case_id: CYB-FUP-032
+case_id: CYB-2023-302
 period: 3
 operation_type: sentencing
 status: absorbed

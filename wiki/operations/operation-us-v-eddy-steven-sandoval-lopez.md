@@ -3,7 +3,7 @@ type: operation
 title: "Eddy Steven Sandoval Lopez Enforcement Action"
 aliases:
   - "United States v. Eddy Steven Sandoval Lopez"
-case_id: CYB-FUP-242
+case_id: CYB-2019-284
 period: 1
 operation_role: follow-on
 parent_operation: ""

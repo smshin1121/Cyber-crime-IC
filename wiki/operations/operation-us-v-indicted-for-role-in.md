@@ -3,7 +3,7 @@ type: operation
 title: "Indicted for Role in Enforcement Action"
 aliases:
   - "United States v. Indicted for Role in"
-case_id: CYB-FUP-655
+case_id: CYB-2024-176
 period: 3
 operation_role: follow-on
 parent_operation: ""

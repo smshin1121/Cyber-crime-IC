@@ -3,7 +3,7 @@ type: operation
 title: "Celeste Santifer Enforcement Action"
 aliases:
   - "United States v. Celeste Santifer"
-case_id: CYB-FUP-143
+case_id: CYB-2023-792
 period: 3
 operation_role: follow-on
 parent_operation: ""

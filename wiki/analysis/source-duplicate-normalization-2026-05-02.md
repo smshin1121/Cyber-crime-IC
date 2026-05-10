@@ -1,10 +1,28 @@
 ---
-title: Source Duplicate Normalization (2026-05-02)
+title: "Source Duplicate Normalization (2026-05-02)"
 type: analysis
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-05-10
 summary: "Canonical/alias normalization of duplicate source records."
-source_count: 0
+source_count: 17
+sources:
+  - "[[2024-10-15_interpol-int_operation-orion-international-144-arrested-in-major-child-abuse-operation-across]]"
+  - "[[2025-03-24_africanews-com_cybercrime-crackdown-306-arrested-in-africa-wide-operation]]"
+  - "[[2025-04-07_korea-kr_operation-cyber-guardian-asia-6-country-joint-crackdown-on-child-sexual-abuse-ma]]"
+  - "[[2017-07-20_dea-gov_alphabay-largest-online-dark-market-shut-down]]"
+  - "[[2024-12-03_dig-watch_interpol-and-south-korea-lead-operation-arresting-over-5500-cybercrime-suspects]]"
+  - "[[2021-01-27_eurojust-europa-eu_major-operation-to-take-down-dangerous-malware-systems]]"
+  - "[[2021-06-08_europol-europa-eu_800-criminals-arrested-in-biggest-ever-law-enforcement-operation-against-encrypt]]"
+  - "[[2021-06-30_europol-europa-eu_coordinated-action-cuts-off-access-to-vpn-service-used-by-ransomware-groups]]"
+  - "[[2017-07-20_europol-europa-eu_massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operatio]]"
+  - "[[2021-01-27_europol-europa-eu_world-s-most-dangerous-malware-emotet-disrupted-through-global-action]]"
+  - "[[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]]"
+  - "[[2023-03-28_infosecurity-magazine-com_four-years-behind-bars-for-prolific-bec-scammer]]"
+  - "[[2022-10-14_interpol_operation-jackal-black-axe]]"
+  - "[[2022-10-14_interpol-int_international-crackdown-on-west-african-financial-crime-rings]]"
+  - "[[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]]"
+  - "[[2023-03-29_scworld-com_us-convicts-nigerian-bec-scammer]]"
+  - "[[2026-04-17_unodc-org_true-crime-story-alphabay]]"
 ---
 ## Summary
 

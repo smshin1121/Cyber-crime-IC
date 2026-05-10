@@ -3,7 +3,7 @@ type: operation
 title: "Three Individuals Arrested for Involvement in Darknet Narcotics Trafficking Involving Pills Pressed with Fentanyl Enforcement Action"
 aliases:
   - "Three Individuals Arrested for Involvement in Darknet Narcotics Trafficking Involving Pills Pressed with Fentanyl"
-case_id: CYB-FUP-1179
+case_id: CYB-2021-821
 period: 2
 operation_role: follow-on
 parent_operation: ""

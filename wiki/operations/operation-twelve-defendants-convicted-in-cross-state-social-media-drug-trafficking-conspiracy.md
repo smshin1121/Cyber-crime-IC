@@ -3,7 +3,7 @@ type: operation
 title: "Twelve Defendants Convicted in Cross-State Social Media Drug Trafficking Conspiracy Enforcement Action"
 aliases:
   - "Twelve Defendants Convicted in Cross-State Social Media Drug Trafficking Conspiracy"
-case_id: CYB-FUP-741
+case_id: CYB-2025-627
 period: 3
 operation_role: follow-on
 parent_operation: ""

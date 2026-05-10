@@ -7,7 +7,7 @@ aliases:
   - "Lai Chau-Cambodia online fraud takedown 2025"
   - "Sung Thi Mai (Vi) Vietnamese online fraud ring 2025"
   - "Vietnam MPS Cambodia scam compound 59-arrest 2025"
-case_id: CYB-2025-VN-BOKOR
+case_id: CYB-2025-613
 period: 3
 operation_type: takedown
 status: completed
@@ -31,7 +31,7 @@ participating_countries:
   - "[[vietnam]]"
   - "[[cambodia]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "Vietnamese domestic substantive criminal law on online property-appropriation fraud (referenced in the source as 'lừa đảo chiếm đoạt tài sản trên không gian mạng'); specific Penal Code articles are not enumerated in the press release."
   - "Bilateral Việt Nam–Cambodia police-to-police cooperation channel via the Representative Office of the Ministry of Public Security of Việt Nam in Cambodia and Cambodian functional forces; the press release does not cite a specific bilateral treaty article or MLAT instrument."
@@ -73,14 +73,14 @@ missing_fields:
   - "Whether the cell operated under, or fed, a wider regional scam-compound syndicate"
   - "Specific platforms / impersonated companies used for the 'shipper' impersonation modus"
 related_cases:
-  []
+
 related_operations:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Vietnamese MPS Representative Office in Cambodia operates as a routinised liaison node for criminal-investigation cooperation, separate from JIT setups: the press release names it (Cơ quan đại diện Bộ Công an Việt Nam tại Campuchia) as one of the three Vietnamese-side coordinating entities alongside the lead provincial police and the central Criminal Police Department."
   - "Host-state hand-over for home-state prosecution pattern: Cambodian functional forces handed over all 59 Vietnamese-national suspects and seized items to the Vietnamese-side investigative agency for Vietnamese-domestic prosecution. This parallels in form, though not in named legal instrument, the Korea-Cambodia and Korea-Philippines repatriations covered elsewhere in the wiki."

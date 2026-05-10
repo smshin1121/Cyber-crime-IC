@@ -3,7 +3,7 @@ type: operation
 title: "Akinola Taylor (xDedic) Enforcement Action"
 aliases:
   - "United States v. Akinola Taylor (xDedic)"
-case_id: CYB-FUP-091
+case_id: CYB-2024-314
 period: 3
 operation_type: conviction
 status: absorbed

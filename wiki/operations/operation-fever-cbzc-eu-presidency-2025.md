@@ -2,10 +2,10 @@
 type: operation
 title: "Operation FEVER"
 aliases:
-  - "FEVER"
+  - FEVER
   - "Operacja FEVER"
   - "CBZC FEVER 2025"
-case_id: CYB-2025-FEVER
+case_id: CYB-2025-814
 period: 3
 operation_type: arrest-sweep
 status: completed
@@ -67,40 +67,42 @@ results:
     - "More than 520,000 CSAM video and image files seized in Poland."
     - "Narcotics and 3 unauthorised firearms additionally seized."
 edges:
-  - source_actor: "poland-police"
-    target_actor: "europol-ec3"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "poland-police"
-    target_actor: "germany-bka"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "poland-police"
-    target_actor: "fbi"
-    cooperation_type: "joint_investigation"
-    legal_basis: "MLAT"
-    direction: "undirected"
-  - source_actor: "poland-police"
-    target_actor: "uk-nca"
-    cooperation_type: "info_sharing"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "fbi"
-    target_actor: "ncmec"
-    cooperation_type: "info_sharing"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
+  - source_actor: poland-police
+    target_actor: europol-ec3
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: poland-police
+    target_actor: germany-bka
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: poland-police
+    target_actor: fbi
+    cooperation_type: joint_investigation
+    legal_basis: MLAT
+    direction: undirected
+  - source_actor: poland-police
+    target_actor: uk-nca
+    cooperation_type: info_sharing
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: fbi
+    target_actor: ncmec
+    cooperation_type: info_sharing
+    legal_basis: bilateral_MOU
+    direction: directed
 credibility_index: 4.6
 source_tier: 1
 missing_fields:
-  - "victims_notified"
-  - "domains_seized"
-related_cases: []
+  - victims_notified
+  - domains_seized
+related_cases:
+  []
 related_operations:
   - "[[operation-stream-kidflix]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "EU Council Presidency is being used as a political/operational anchor for member-state-led umbrella cybercrime actions; CBZC explicitly framed FEVER around Poland's H1-2025 Presidency."
   - "Umbrella ('FEVER') over named sub-operations ('Kidflix' + a CBZC–FBI dark web forum track) lets one nationally-led brand absorb cross-track results from heterogeneous bilateral and Europol-coordinated tracks."
@@ -110,7 +112,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional / single-source operation page
 > This page currently rests on a single tier-1 primary source (the CBZC press release of 2025-04-09). Additional Europol, NCA, FBI, and partner-country statements should be cross-walked in before promoting this page out of provisional status. Per CLAUDE.md preferred threshold (`source_count >= 5`), this page is **explicitly provisional**.
 

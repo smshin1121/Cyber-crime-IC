@@ -3,7 +3,7 @@ type: operation
 title: "Six defendants charged with selling millions of dollars’ worth of psychedelic mushrooms online Enforcement Action"
 aliases:
   - "Six defendants charged with selling millions of dollars’ worth of psychedelic mushrooms online"
-case_id: CYB-FUP-631
+case_id: CYB-2021-165
 period: 2
 operation_role: follow-on
 parent_operation: ""

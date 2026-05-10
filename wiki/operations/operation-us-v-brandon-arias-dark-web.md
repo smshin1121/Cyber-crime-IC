@@ -3,7 +3,7 @@ type: operation
 title: "Brandon Arias (Drug Llama) Enforcement Action"
 aliases:
   - "United States v. Brandon Arias (Drug Llama)"
-case_id: CYB-FUP-018
+case_id: CYB-2019-772
 period: 1
 operation_type: prosecution
 status: absorbed

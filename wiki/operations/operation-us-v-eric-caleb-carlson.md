@@ -3,7 +3,7 @@ type: operation
 title: "Eric Caleb Carlson Enforcement Action"
 aliases:
   - "United States v. Eric Caleb Carlson"
-case_id: CYB-FUP-148
+case_id: CYB-2023-573
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Wisconsin Man Sentenced To Prison For Hacking Fantasy Sports And Betting Website Enforcement Action"
 aliases:
   - "Wisconsin Man Sentenced To Prison For Hacking Fantasy Sports And Betting Website"
-case_id: CYB-FUP-1216
+case_id: CYB-2024-372
 period: 3
 operation_role: follow-on
 parent_operation: ""

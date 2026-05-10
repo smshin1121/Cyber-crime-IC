@@ -3,7 +3,7 @@ type: operation
 title: "Alleged Russian Cryptocurrency Money Launderer Extradited to United States Enforcement Action"
 aliases:
   - "Alleged Russian Cryptocurrency Money Launderer Extradited to United States"
-case_id: CYB-FUP-870
+case_id: CYB-2022-983
 period: 2
 operation_role: follow-on
 parent_operation: ""

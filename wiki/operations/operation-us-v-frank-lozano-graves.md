@@ -3,7 +3,7 @@ type: operation
 title: "Frank Lozano Graves Enforcement Action"
 aliases:
   - "United States v. Frank Lozano Graves"
-case_id: CYB-FUP-247
+case_id: CYB-2025-337
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Felon Sentenced and Previously Convicted Felon Enforcement Action"
 aliases:
   - "United States v. Felon Sentenced and Previously Convicted Felon"
-case_id: CYB-FUP-418
+case_id: CYB-2025-230
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-felon-sentenced-and-previously-convicted-felon]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-felon-sentenced-and-previously-convicted-felon]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_previously-convicted-felon-sentenced-more-26-years-federal-prison-possessing-firearm]]"

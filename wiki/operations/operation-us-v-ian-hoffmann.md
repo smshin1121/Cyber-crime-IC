@@ -3,7 +3,7 @@ type: operation
 title: "Ian Hoffmann Enforcement Action"
 aliases:
   - "United States v. Ian Hoffmann"
-case_id: CYB-FUP-256
+case_id: CYB-2023-211
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "United Kingdom National Pleads Guilty to Hacking, Securities Fraud, and other Cybercrimes Enforcement Action"
 aliases:
   - "United Kingdom National Pleads Guilty to Hacking, Securities Fraud, and other Cybercrimes"
-case_id: CYB-FUP-1202
+case_id: CYB-2023-867
 period: 3
 operation_role: follow-on
 parent_operation: ""

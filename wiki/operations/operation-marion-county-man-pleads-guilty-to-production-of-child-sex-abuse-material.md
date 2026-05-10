@@ -3,7 +3,7 @@ type: operation
 title: "Marion County Man Pleads Guilty To Production Of Child Sex Abuse Material Enforcement Action"
 aliases:
   - "Marion County Man Pleads Guilty To Production Of Child Sex Abuse Material"
-case_id: CYB-FUP-1041
+case_id: CYB-2024-712
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[marion-county-man-pleads-guilty-to-production-of-child-sex-abuse-material]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[marion-county-man-pleads-guilty-to-production-of-child-sex-abuse-material]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_marion-county-man-pleads-guilty-production-child-sex-abuse-material]]"

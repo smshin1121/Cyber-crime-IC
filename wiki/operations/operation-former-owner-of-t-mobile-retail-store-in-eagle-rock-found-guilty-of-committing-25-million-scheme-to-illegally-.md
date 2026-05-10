@@ -3,7 +3,7 @@ type: operation
 title: "Former Owner of T-Mobile Retail Store in Eagle Rock Found Guilty of Committing $25 Million Scheme to Illegally Unlock Cellphones Enforcement Action"
 aliases:
   - "Former Owner of T-Mobile Retail Store in Eagle Rock Found Guilty of Committing $25 Million Scheme to Illegally Unlock Cellphones"
-case_id: CYB-FUP-976
+case_id: CYB-2022-552
 period: 2
 operation_role: follow-on
 parent_operation: ""

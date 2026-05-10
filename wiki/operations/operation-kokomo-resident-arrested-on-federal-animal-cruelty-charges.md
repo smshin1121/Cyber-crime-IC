@@ -3,7 +3,7 @@ type: operation
 title: "Kokomo resident arrested on federal animal cruelty charges Enforcement Action"
 aliases:
   - "Kokomo resident arrested on federal animal cruelty charges"
-case_id: CYB-FUP-1022
+case_id: CYB-2020-943
 period: 2
 operation_role: follow-on
 parent_operation: ""

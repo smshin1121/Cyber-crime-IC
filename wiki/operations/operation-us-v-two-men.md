@@ -3,7 +3,7 @@ type: operation
 title: "Two Men Enforcement Action"
 aliases:
   - "United States v. Two Men"
-case_id: CYB-FUP-484
+case_id: CYB-2023-409
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Scott Quinn Berkett Enforcement Action"
 aliases:
   - "United States v. Scott Quinn Berkett"
-case_id: CYB-FUP-183
+case_id: CYB-2022-659
 period: 2
 operation_role: follow-on
 parent_operation: ""

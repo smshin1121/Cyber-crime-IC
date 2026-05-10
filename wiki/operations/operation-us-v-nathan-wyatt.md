@@ -3,7 +3,7 @@ type: operation
 title: "Nathan Wyatt Enforcement Action"
 aliases:
   - "United States v. Nathan Wyatt"
-case_id: CYB-FUP-372
+case_id: CYB-2019-275
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Eric Smith and Sara Thompson Enforcement Action"
 aliases:
   - "United States v. Eric Smith and Sara Thompson"
-case_id: CYB-FUP-245
+case_id: CYB-2025-347
 period: 3
 operation_role: follow-on
 parent_operation: ""

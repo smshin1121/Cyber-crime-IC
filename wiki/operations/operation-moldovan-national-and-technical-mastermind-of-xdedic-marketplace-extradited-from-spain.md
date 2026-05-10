@@ -3,7 +3,7 @@ type: operation
 title: "Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain Enforcement Action"
 aliases:
   - "Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain"
-case_id: CYB-FUP-601
+case_id: CYB-2022-337
 period: 2
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"

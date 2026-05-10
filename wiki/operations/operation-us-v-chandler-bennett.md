@@ -3,7 +3,7 @@ type: operation
 title: "Chandler Bennett Enforcement Action"
 aliases:
   - "United States v. Chandler Bennett"
-case_id: CYB-FUP-224
+case_id: CYB-2025-769
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Pittsburgh Resident and Darknet Drug Trafficker Sentenced to Nearly Six Years in Prison on Federal Drug Trafficking and Firearms Convictions Enforcement Action"
 aliases:
   - "Pittsburgh Resident and Darknet Drug Trafficker Sentenced to Nearly Six Years in Prison on Federal Drug Trafficking and Firearms Convictions"
-case_id: CYB-FUP-1099
+case_id: CYB-2025-029
 period: 3
 operation_role: follow-on
 parent_operation: ""

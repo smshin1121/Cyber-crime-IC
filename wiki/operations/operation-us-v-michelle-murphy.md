@@ -3,7 +3,7 @@ type: operation
 title: "Michelle Murphy Enforcement Action"
 aliases:
   - "United States v. Michelle Murphy"
-case_id: CYB-FUP-296
+case_id: CYB-2024-076
 period: 3
 operation_role: follow-on
 parent_operation: ""

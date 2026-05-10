@@ -3,7 +3,7 @@ type: operation
 title: "Nigerian citizen, extradited from the U.K., arraigned on indictment for wire fraud involving stolen tax information Enforcement Action"
 aliases:
   - "Nigerian citizen, extradited from the U.K., arraigned on indictment for wire fraud involving stolen tax information"
-case_id: CYB-FUP-1068
+case_id: CYB-2025-446
 period: 3
 operation_role: follow-on
 parent_operation: ""

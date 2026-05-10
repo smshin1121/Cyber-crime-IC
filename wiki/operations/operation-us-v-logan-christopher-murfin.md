@@ -3,7 +3,7 @@ type: operation
 title: "Logan Christopher Murfin Enforcement Action"
 aliases:
   - "United States v. Logan Christopher Murfin"
-case_id: CYB-FUP-367
+case_id: CYB-2025-815
 period: 3
 operation_role: follow-on
 parent_operation: ""

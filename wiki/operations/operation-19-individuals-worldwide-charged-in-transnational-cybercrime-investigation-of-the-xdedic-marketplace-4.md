@@ -4,7 +4,7 @@ title: "xDedic 2024 Prosecution Roundup"
 aliases:
   - "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action"
   - "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace"
-case_id: CYB-FUP-505
+case_id: CYB-2024-570
 period: 3
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"

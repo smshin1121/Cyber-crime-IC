@@ -3,7 +3,7 @@ type: operation
 title: "Zachary Dean Perpinan Enforcement Action"
 aliases:
   - "United States v. Zachary Dean Perpinan"
-case_id: CYB-FUP-339
+case_id: CYB-2025-775
 period: 3
 operation_role: follow-on
 parent_operation: ""

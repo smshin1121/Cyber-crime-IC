@@ -3,7 +3,7 @@ type: operation
 title: "Cryptocurrency Exchange Enforcement Action"
 aliases:
   - "United States v. Cryptocurrency Exchange"
-case_id: CYB-FUP-410
+case_id: CYB-2023-268
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Marco Juarez Enforcement Action"
 aliases:
   - "United States v. Marco Juarez"
-case_id: CYB-FUP-286
+case_id: CYB-2024-242
 period: 3
 operation_role: follow-on
 parent_operation: ""

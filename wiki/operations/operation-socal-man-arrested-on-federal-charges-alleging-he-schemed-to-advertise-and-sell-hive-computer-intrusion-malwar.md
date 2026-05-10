@@ -3,7 +3,7 @@ type: operation
 title: "SoCal Man Arrested on Federal Charges Alleging He Schemed to Advertise and Sell ‘Hive’ Computer Intrusion Malware Enforcement Action"
 aliases:
   - "SoCal Man Arrested on Federal Charges Alleging He Schemed to Advertise and Sell ‘Hive’ Computer Intrusion Malware"
-case_id: CYB-FUP-1153
+case_id: CYB-2024-068
 period: 3
 operation_role: follow-on
 parent_operation: ""

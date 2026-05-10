@@ -3,7 +3,7 @@ type: operation
 title: "Shengsheng He Enforcement Action"
 aliases:
   - "United States v. Shengsheng He"
-case_id: CYB-FUP-784
+case_id: CYB-2025-710
 period: 3
 operation_role: follow-on
 parent_operation: ""

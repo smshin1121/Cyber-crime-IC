@@ -3,7 +3,7 @@ type: operation
 title: "Stealing Senate Information Enforcement Action"
 aliases:
   - "United States v. Stealing Senate Information"
-case_id: CYB-FUP-470
+case_id: CYB-2019-483
 period: 1
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Norton Shores \"Dark Web\" Drug Dealer Sentenced To 30 Months In Prison Enforcement Action"
 aliases:
   - "Norton Shores \"Dark Web\" Drug Dealer Sentenced To 30 Months In Prison"
-case_id: CYB-FUP-1071
+case_id: CYB-2017-398
 period: 1
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[norton-shores-dark-web-drug-dealer-sentenced-to-30-months-in-prison]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[norton-shores-dark-web-drug-dealer-sentenced-to-30-months-in-prison]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2017-03-09_wdmi_paiva-silk-road-2-sentencing]]"

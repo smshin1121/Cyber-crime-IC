@@ -3,7 +3,7 @@ type: operation
 title: "Joseph Nilsen and Kristen Leccese Enforcement Action"
 aliases:
   - "United States v. Joseph Nilsen and Kristen Leccese"
-case_id: CYB-FUP-271
+case_id: CYB-2023-435
 period: 3
 operation_role: follow-on
 parent_operation: ""

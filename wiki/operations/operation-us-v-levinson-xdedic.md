@@ -3,7 +3,7 @@ type: operation
 title: "Allen Levinson (xDedic Tax-Fraud Buyer) Enforcement Action"
 aliases:
   - "United States v. Allen Levinson (xDedic Tax-Fraud Buyer)"
-case_id: CYB-FUP-055
+case_id: CYB-2022-455
 period: 2
 operation_type: sentencing
 status: absorbed

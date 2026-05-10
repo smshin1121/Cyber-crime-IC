@@ -3,7 +3,7 @@ type: operation
 title: "Woodmere Man Pleads Guilty to Obtaining Stolen Credit Card Information and Using it to Purchase Gasoline Enforcement Action"
 aliases:
   - "Woodmere Man Pleads Guilty to Obtaining Stolen Credit Card Information and Using it to Purchase Gasoline"
-case_id: CYB-FUP-1221
+case_id: CYB-2022-160
 period: 2
 operation_role: follow-on
 parent_operation: ""

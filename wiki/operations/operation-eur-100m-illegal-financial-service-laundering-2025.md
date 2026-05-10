@@ -3,7 +3,7 @@ type: operation
 title: "EUR 100M Illegal Financial Service Laundering Takedown (2025)"
 aliases:
   - "Criminals operating an illegal financial service to launder millions of euros busted"
-case_id: CYB-EU-2025-020
+case_id: CYB-2025-107
 operation_type: joint-investigation
 operation_role: umbrella
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "With Producing And Distributing and Oldsmar Man Enforcement Action"
 aliases:
   - "United States v. With Producing And Distributing and Oldsmar Man"
-case_id: CYB-FUP-492
+case_id: CYB-2023-914
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-with-producing-and-distributing-and-oldsmar-man]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-with-producing-and-distributing-and-oldsmar-man]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_odessa-man-charged-producing-and-distributing-child-sexual-abuse-material]]"

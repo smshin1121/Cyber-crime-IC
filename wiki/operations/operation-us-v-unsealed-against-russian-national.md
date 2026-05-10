@@ -3,7 +3,7 @@ type: operation
 title: "Unsealed Against Russian National Enforcement Action"
 aliases:
   - "United States v. Unsealed Against Russian National"
-case_id: CYB-FUP-486
+case_id: CYB-2023-710
 period: 3
 operation_role: follow-on
 parent_operation: ""

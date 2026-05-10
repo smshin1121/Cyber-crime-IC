@@ -3,7 +3,7 @@ type: operation
 title: "Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services Enforcement Action"
 aliases:
   - "Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services"
-case_id: CYB-FUP-638
+case_id: CYB-2024-988
 period: 3
 operation_role: follow-on
 parent_operation: ""

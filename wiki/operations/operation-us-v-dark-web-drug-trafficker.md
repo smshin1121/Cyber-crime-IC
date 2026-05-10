@@ -3,7 +3,7 @@ type: operation
 title: "Dark Web Drug Trafficker Enforcement Action"
 aliases:
   - "United States v. Dark Web Drug Trafficker"
-case_id: CYB-FUP-411
+case_id: CYB-2023-241
 period: 3
 operation_role: follow-on
 parent_operation: ""

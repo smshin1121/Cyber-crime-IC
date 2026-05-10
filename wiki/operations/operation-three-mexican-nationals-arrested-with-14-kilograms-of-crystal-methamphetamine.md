@@ -3,7 +3,7 @@ type: operation
 title: "Three Mexican Nationals arrested with 14 kilograms of crystal methamphetamine Enforcement Action"
 aliases:
   - "Three Mexican Nationals arrested with 14 kilograms of crystal methamphetamine"
-case_id: CYB-FUP-644
+case_id: CYB-2025-060
 period: 3
 operation_role: follow-on
 parent_operation: ""

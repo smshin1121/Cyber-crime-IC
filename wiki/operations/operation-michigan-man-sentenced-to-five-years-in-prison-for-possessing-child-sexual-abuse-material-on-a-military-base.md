@@ -3,7 +3,7 @@ type: operation
 title: "Michigan Man Sentenced to Five Years in Prison for Possessing Child Sexual Abuse Material on a Military Base Enforcement Action"
 aliases:
   - "Michigan Man Sentenced to Five Years in Prison for Possessing Child Sexual Abuse Material on a Military Base"
-case_id: CYB-FUP-1052
+case_id: CYB-2025-164
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse-material-on-a-military-base]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse-material-on-a-military-base]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military]]"

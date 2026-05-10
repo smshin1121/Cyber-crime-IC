@@ -3,7 +3,7 @@ type: operation
 title: "Darkweb Drug Trafficker Enforcement Action"
 aliases:
   - "United States v. Darkweb Drug Trafficker"
-case_id: CYB-FUP-413
+case_id: CYB-2020-432
 period: 2
 operation_role: follow-on
 parent_operation: "[[operation-disruptor]]"
@@ -55,7 +55,6 @@ related_cases:
   - "[[us-v-darkweb-drug-trafficker]]"
 related_operations:
   - "[[operation-disruptor]]"
-
 challenges_encountered:
 
 lessons_learned:

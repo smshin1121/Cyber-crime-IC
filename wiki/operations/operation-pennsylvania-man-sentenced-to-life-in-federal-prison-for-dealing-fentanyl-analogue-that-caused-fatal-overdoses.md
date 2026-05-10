@@ -3,7 +3,7 @@ type: operation
 title: "Pennsylvania Man Sentenced to Life in Federal Prison for Dealing Fentanyl Analogue that Caused Fatal Overdoses in Oregon Enforcement Action"
 aliases:
   - "Pennsylvania Man Sentenced to Life in Federal Prison for Dealing Fentanyl Analogue that Caused Fatal Overdoses in Oregon"
-case_id: CYB-FUP-850
+case_id: CYB-2023-094
 period: 3
 operation_role: follow-on
 parent_operation: ""

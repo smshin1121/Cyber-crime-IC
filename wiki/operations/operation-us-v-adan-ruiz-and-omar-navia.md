@@ -3,7 +3,7 @@ type: operation
 title: "Adan Ruiz And Omar Navia Enforcement Action"
 aliases:
   - "United States v. Adan Ruiz And Omar Navia"
-case_id: CYB-FUP-104
+case_id: CYB-2025-838
 period: 3
 operation_role: follow-on
 parent_operation: ""

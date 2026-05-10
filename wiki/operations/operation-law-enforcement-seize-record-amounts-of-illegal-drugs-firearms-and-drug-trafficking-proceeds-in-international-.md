@@ -3,7 +3,7 @@ type: operation
 title: "Law Enforcement Seize Record Amounts of Illegal Drugs, Firearms, and Drug Trafficking Proceeds in International Operation Against Darknet Trafficking of Fentanyl and Opioids; 270 Arrested Across Four Continents Enforcement Action"
 aliases:
   - "Law Enforcement Seize Record Amounts of Illegal Drugs, Firearms, and Drug Trafficking Proceeds in International Operation Against Darknet Trafficking of Fentanyl and Opioids; 270 Arrested Across Four Continents"
-case_id: CYB-FUP-1026
+case_id: CYB-2025-217
 period: 3
 operation_role: follow-on
 parent_operation: "[[operation-raptor]]"

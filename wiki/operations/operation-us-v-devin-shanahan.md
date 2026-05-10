@@ -3,7 +3,7 @@ type: operation
 title: "Devin Shanahan Enforcement Action"
 aliases:
   - "United States v. Devin Shanahan"
-case_id: CYB-FUP-239
+case_id: CYB-2024-731
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Steven Ehizojie Oboite, Eric Xavier Bechet, Jabari Ayinde Cooper, Rashad Cortese Kinloch, and Myron Ned Stodghill Enforcement Action"
 aliases:
   - "United States v. Steven Ehizojie Oboite, Eric Xavier Bechet, Jabari Ayinde Cooper, Rashad Cortese Kinloch, and Myron Ned Stodghill"
-case_id: CYB-FUP-184
+case_id: CYB-2025-762
 period: 3
 operation_role: follow-on
 parent_operation: ""

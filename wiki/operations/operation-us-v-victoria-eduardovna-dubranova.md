@@ -3,7 +3,7 @@ type: operation
 title: "Victoria Eduardovna Dubranova Enforcement Action"
 aliases:
   - "United States v. Victoria Eduardovna Dubranova"
-case_id: CYB-FUP-335
+case_id: CYB-2025-743
 period: 3
 operation_role: follow-on
 parent_operation: ""

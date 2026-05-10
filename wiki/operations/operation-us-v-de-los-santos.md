@@ -3,7 +3,7 @@ type: operation
 title: "De Los Santos Enforcement Action"
 aliases:
   - "United States v. De Los Santos"
-case_id: CYB-FUP-348
+case_id: CYB-2025-379
 period: 3
 operation_role: follow-on
 parent_operation: ""

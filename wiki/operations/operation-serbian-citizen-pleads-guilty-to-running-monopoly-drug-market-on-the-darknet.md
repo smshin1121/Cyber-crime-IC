@@ -3,7 +3,7 @@ type: operation
 title: "Serbian Citizen Pleads Guilty to Running Monopoly Drug Market on the Darknet Enforcement Action"
 aliases:
   - "Serbian Citizen Pleads Guilty to Running Monopoly Drug Market on the Darknet"
-case_id: CYB-FUP-1145
+case_id: CYB-2023-087
 period: 3
 operation_role: follow-on
 parent_operation: ""

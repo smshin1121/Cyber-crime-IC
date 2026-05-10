@@ -3,7 +3,7 @@ type: operation
 title: "Alexander Aiello Enforcement Action"
 aliases:
   - "United States v. Alexander Aiello"
-case_id: CYB-FUP-207
+case_id: CYB-2025-814
 period: 3
 operation_role: follow-on
 parent_operation: ""

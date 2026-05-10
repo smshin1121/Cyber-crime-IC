@@ -3,7 +3,7 @@ type: operation
 title: "Ten Members of International Cyber Fraud Ring Indicted for “Refund Fraud” Scheme Targeting Online Retailers Enforcement Action"
 aliases:
   - "Ten Members of International Cyber Fraud Ring Indicted for “Refund Fraud” Scheme Targeting Online Retailers"
-case_id: CYB-FUP-636
+case_id: CYB-2023-048
 period: 3
 operation_role: follow-on
 parent_operation: ""

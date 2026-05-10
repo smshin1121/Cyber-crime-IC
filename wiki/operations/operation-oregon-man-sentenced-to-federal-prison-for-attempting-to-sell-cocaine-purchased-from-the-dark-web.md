@@ -3,7 +3,7 @@ type: operation
 title: "Oregon Man Sentenced to Federal Prison for Attempting to Sell Cocaine Purchased from the Dark Web Enforcement Action"
 aliases:
   - "Oregon Man Sentenced to Federal Prison for Attempting to Sell Cocaine Purchased from the Dark Web"
-case_id: CYB-FUP-1086
+case_id: CYB-2026-818
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[oregon-man-sentenced-to-federal-prison-for-attempting-to-sell-cocaine-purchased-from-the-dark-web]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[oregon-man-sentenced-to-federal-prison-for-attempting-to-sell-cocaine-purchased-from-the-dark-web]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-01-16_or_aragon-dark-web-cocaine-sentencing]]"

@@ -3,7 +3,7 @@ type: operation
 title: "International Money Launderer Sentenced to over 11 Years in Federal Prison for Laundering Millions from Cyber Crime Schemes Enforcement Action"
 aliases:
   - "International Money Launderer Sentenced to over 11 Years in Federal Prison for Laundering Millions from Cyber Crime Schemes"
-case_id: CYB-FUP-1011
+case_id: CYB-2021-216
 period: 2
 operation_role: follow-on
 parent_operation: ""

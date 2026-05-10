@@ -3,7 +3,7 @@ type: operation
 title: "New York Man Sentenced To 84 Months In Prison For Conspiring To Engage In Multimillion Dollar Wire Fraud Scheme Enforcement Action"
 aliases:
   - "New York Man Sentenced To 84 Months In Prison For Conspiring To Engage In Multimillion Dollar Wire Fraud Scheme"
-case_id: CYB-FUP-714
+case_id: CYB-2025-655
 period: 3
 operation_role: follow-on
 parent_operation: ""

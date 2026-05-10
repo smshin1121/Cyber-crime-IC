@@ -3,7 +3,7 @@ type: operation
 title: "Registered Sex Offender Charged with New Child Pornography Offense Enforcement Action"
 aliases:
   - "Registered Sex Offender Charged with New Child Pornography Offense"
-case_id: CYB-FUP-1109
+case_id: CYB-2023-500
 period: 3
 operation_role: follow-on
 parent_operation: ""

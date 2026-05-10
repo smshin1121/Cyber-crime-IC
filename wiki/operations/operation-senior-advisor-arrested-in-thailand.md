@@ -3,7 +3,7 @@ type: operation
 title: "Senior Advisor Arrested in Thailand Enforcement Action"
 aliases:
   - "Senior Advisor Arrested in Thailand"
-case_id: CYB-FUP-855
+case_id: CYB-2015-989
 period: 1
 operation_role: follow-on
 parent_operation: ""

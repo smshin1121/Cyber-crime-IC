@@ -3,7 +3,7 @@ type: operation
 title: "Russian National Indicted in East Texas for Cyber Hacking Enterprise Enforcement Action"
 aliases:
   - "Russian National Indicted in East Texas for Cyber Hacking Enterprise"
-case_id: CYB-FUP-624
+case_id: CYB-2022-040
 period: 2
 operation_role: follow-on
 parent_operation: ""

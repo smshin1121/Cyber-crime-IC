@@ -3,7 +3,7 @@ type: operation
 title: "Bryan Herrell (AlphaBay Moderator) Enforcement Action"
 aliases:
   - "United States v. Bryan Herrell (AlphaBay Moderator)"
-case_id: CYB-FUP-043
+case_id: CYB-2020-209
 period: 2
 operation_type: sentencing
 status: absorbed

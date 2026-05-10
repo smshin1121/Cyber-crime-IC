@@ -3,7 +3,7 @@ type: operation
 title: "Long Beach Man Sentenced to 110 Years in Prison for Production of Images of Minors Engaging in Sexually Explicit Conduct Enforcement Action"
 aliases:
   - "Long Beach Man Sentenced to 110 Years in Prison for Production of Images of Minors Engaging in Sexually Explicit Conduct"
-case_id: CYB-FUP-706
+case_id: CYB-2025-877
 period: 3
 operation_role: follow-on
 parent_operation: ""

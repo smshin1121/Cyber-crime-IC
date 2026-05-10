@@ -3,7 +3,7 @@ type: operation
 title: "Ronald Victor Solakian Enforcement Action"
 aliases:
   - "United States v. Ronald Victor Solakian"
-case_id: CYB-FUP-783
+case_id: CYB-2018-765
 period: 1
 operation_role: follow-on
 parent_operation: ""

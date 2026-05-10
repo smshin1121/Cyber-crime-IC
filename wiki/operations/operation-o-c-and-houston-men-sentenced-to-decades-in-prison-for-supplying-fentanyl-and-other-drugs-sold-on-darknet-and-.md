@@ -3,7 +3,7 @@ type: operation
 title: "O.C. and Houston Men Sentenced to Decades in Prison for Supplying Fentanyl and Other Drugs Sold on Darknet and Causing Fatal ODs Enforcement Action"
 aliases:
   - "O.C. and Houston Men Sentenced to Decades in Prison for Supplying Fentanyl and Other Drugs Sold on Darknet and Causing Fatal ODs"
-case_id: CYB-FUP-1075
+case_id: CYB-2024-300
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Kansas farmer indicted for insurance fraud Enforcement Action"
 aliases:
   - "Kansas farmer indicted for insurance fraud"
-case_id: CYB-FUP-577
+case_id: CYB-2025-881
 period: 3
 operation_role: follow-on
 parent_operation: ""

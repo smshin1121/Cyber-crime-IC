@@ -3,7 +3,7 @@ type: operation
 title: "With Tampering With Morphine and Illinois Nurse Enforcement Action"
 aliases:
   - "United States v. With Tampering With Morphine and Illinois Nurse"
-case_id: CYB-FUP-495
+case_id: CYB-2023-067
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-with-tampering-with-morphine-and-illinois-nurse]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-with-tampering-with-morphine-and-illinois-nurse]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_illinois-nurse-charged-tampering-morphine-prescribed-patient]]"

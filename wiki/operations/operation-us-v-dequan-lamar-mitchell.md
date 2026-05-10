@@ -3,7 +3,7 @@ type: operation
 title: "Dequan Lamar Mitchell Enforcement Action"
 aliases:
   - "United States v. Dequan Lamar Mitchell"
-case_id: CYB-FUP-350
+case_id: CYB-2026-560
 period: 3
 operation_role: follow-on
 parent_operation: ""

@@ -3,7 +3,7 @@ type: operation
 title: "Shawn Ellis and When Ellis Enforcement Action"
 aliases:
   - "United States v. Shawn Ellis and When Ellis"
-case_id: CYB-FUP-326
+case_id: CYB-2025-216
 period: 3
 operation_role: follow-on
 parent_operation: ""

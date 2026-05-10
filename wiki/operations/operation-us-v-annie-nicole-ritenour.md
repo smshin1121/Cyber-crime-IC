@@ -3,7 +3,7 @@ type: operation
 title: "Annie Nicole Ritenour Enforcement Action"
 aliases:
   - "United States v. Annie Nicole Ritenour"
-case_id: CYB-FUP-215
+case_id: CYB-2021-639
 period: 2
 operation_role: follow-on
 parent_operation: ""

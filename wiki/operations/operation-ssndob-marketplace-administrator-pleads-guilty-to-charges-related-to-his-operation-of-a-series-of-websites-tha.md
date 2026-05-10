@@ -3,7 +3,7 @@ type: operation
 title: "SSNDOB Marketplace Administrator Pleads Guilty To Charges Related To His Operation Of A Series Of Websites That Sold Millions Of Social Security Numbers Enforcement Action"
 aliases:
   - "SSNDOB Marketplace Administrator Pleads Guilty To Charges Related To His Operation Of A Series Of Websites That Sold Millions Of Social Security Numbers"
-case_id: CYB-FUP-1158
+case_id: CYB-2023-309
 period: 3
 operation_role: follow-on
 parent_operation: ""

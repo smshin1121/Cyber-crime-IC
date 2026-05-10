@@ -3,7 +3,7 @@ type: operation
 title: "South Korean National and Hundreds of Others Charged Worldwide in the Takedown of the Largest Darknet Child Pornography Website, Which was Funded by Bitcoin Enforcement Action"
 aliases:
   - "South Korean National and Hundreds of Others Charged Worldwide in the Takedown of the Largest Darknet Child Pornography Website, Which was Funded by Bitcoin"
-case_id: CYB-FUP-634
+case_id: CYB-2019-447
 period: 1
 operation_role: follow-on
 parent_operation: ""

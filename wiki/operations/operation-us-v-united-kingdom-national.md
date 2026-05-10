@@ -3,7 +3,7 @@ type: operation
 title: "United Kingdom National Enforcement Action"
 aliases:
   - "United States v. United Kingdom National"
-case_id: CYB-FUP-485
+case_id: CYB-2023-279
 period: 3
 operation_role: follow-on
 parent_operation: ""

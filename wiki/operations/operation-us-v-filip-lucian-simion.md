@@ -3,7 +3,7 @@ type: operation
 title: "Filip Lucian Simion Enforcement Action"
 aliases:
   - "United States v. Filip Lucian Simion"
-case_id: CYB-FUP-355
+case_id: CYB-2018-330
 period: 1
 operation_role: follow-on
 parent_operation: ""

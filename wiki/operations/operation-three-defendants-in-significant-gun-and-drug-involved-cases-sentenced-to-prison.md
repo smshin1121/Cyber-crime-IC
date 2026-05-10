@@ -3,7 +3,7 @@ type: operation
 title: "Three defendants in significant gun and drug involved cases sentenced to prison Enforcement Action"
 aliases:
   - "Three defendants in significant gun and drug involved cases sentenced to prison"
-case_id: CYB-FUP-1177
+case_id: CYB-2025-584
 period: 3
 operation_role: follow-on
 parent_operation: ""

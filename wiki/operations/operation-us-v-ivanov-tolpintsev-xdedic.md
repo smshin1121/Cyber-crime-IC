@@ -3,7 +3,7 @@ type: operation
 title: "Ivanov-Tolpintsev (xDedic Credentials Seller) Enforcement Action"
 aliases:
   - "United States v. Ivanov-Tolpintsev (xDedic Credentials Seller)"
-case_id: CYB-FUP-046
+case_id: CYB-2021-179
 period: 2
 operation_type: sentencing
 status: absorbed

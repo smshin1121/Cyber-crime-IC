@@ -3,7 +3,7 @@ type: operation
 title: "Stepanov et al. (DanaBot — Operation Endgame) Enforcement Action"
 aliases:
   - "United States v. Stepanov et al. (DanaBot — Operation Endgame)"
-case_id: CYB-FUP-088
+case_id: CYB-2025-031
 period: 3
 operation_type: indictment
 status: absorbed

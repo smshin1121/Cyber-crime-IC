@@ -3,7 +3,7 @@ type: operation
 title: "Gudmunds et al. (Darkode Forum) Enforcement Action"
 aliases:
   - "United States v. Gudmunds et al. (Darkode Forum)"
-case_id: CYB-FUP-037
+case_id: CYB-2015-731
 period: 1
 operation_type: conviction
 status: absorbed

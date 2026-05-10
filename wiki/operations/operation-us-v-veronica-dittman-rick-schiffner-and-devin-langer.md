@@ -3,7 +3,7 @@ type: operation
 title: "Veronica Dittman Rick Schiffner And Devin Langer Enforcement Action"
 aliases:
   - "United States v. Veronica Dittman Rick Schiffner And Devin Langer"
-case_id: CYB-FUP-128
+case_id: CYB-2023-308
 period: 3
 operation_role: follow-on
 parent_operation: ""

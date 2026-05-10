@@ -3,7 +3,7 @@ type: operation
 title: "Alexandru Habasescu (xDedic) Enforcement Action"
 aliases:
   - "United States v. Alexandru Habasescu (xDedic)"
-case_id: CYB-FUP-040
+case_id: CYB-2022-321
 period: 2
 operation_type: sentencing
 status: absorbed

@@ -3,7 +3,7 @@ type: operation
 title: "Brandon Spann Enforcement Action"
 aliases:
   - "United States v. Brandon Spann"
-case_id: CYB-FUP-223
+case_id: CYB-2020-563
 period: 2
 operation_role: follow-on
 parent_operation: ""

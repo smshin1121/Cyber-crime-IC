@@ -3,7 +3,7 @@ type: operation
 title: "Robert Quido Stella Enforcement Action"
 aliases:
   - "United States v. Robert Quido Stella"
-case_id: CYB-FUP-314
+case_id: CYB-2023-376
 period: 3
 operation_role: follow-on
 parent_operation: ""

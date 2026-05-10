@@ -3,7 +3,7 @@ type: operation
 title: "Parolee Indicted for Illegal Possession of a Firearm Enforcement Action"
 aliases:
   - "Parolee Indicted for Illegal Possession of a Firearm"
-case_id: CYB-FUP-1089
+case_id: CYB-2025-101
 period: 3
 operation_role: follow-on
 parent_operation: ""
@@ -46,19 +46,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[parolee-indicted-for-illegal-possession-of-a-firearm]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[parolee-indicted-for-illegal-possession-of-a-firearm]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_parolee-indicted-illegal-possession-firearm]]"

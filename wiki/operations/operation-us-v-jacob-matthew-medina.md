@@ -3,7 +3,7 @@ type: operation
 title: "Jacob Matthew Medina Enforcement Action"
 aliases:
   - "United States v. Jacob Matthew Medina"
-case_id: CYB-FUP-357
+case_id: CYB-2022-270
 period: 2
 operation_role: follow-on
 parent_operation: ""

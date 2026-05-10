@@ -3,7 +3,7 @@ type: operation
 title: "Igor Dekhtyarchuk (Marketplace A) Enforcement Action"
 aliases:
   - "United States v. Igor Dekhtyarchuk (Marketplace A)"
-case_id: CYB-FUP-028
+case_id: CYB-2022-136
 period: 2
 operation_type: indictment
 status: absorbed

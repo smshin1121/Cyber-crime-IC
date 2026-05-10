@@ -3,7 +3,7 @@ type: operation
 title: "Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes Enforcement Action"
 aliases:
   - "Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes"
-case_id: CYB-FUP-962
+case_id: CYB-2023-114
 period: 3
 operation_role: follow-on
 parent_operation: ""
