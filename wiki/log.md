@@ -2147,3 +2147,47 @@
   - L24 strict ≥2-country IC compliance verified verbatim from Italian release.
   - L19/L23 strict applied: 3 wikilinked agencies (polizia-di-stato, italy-polizia-postale, eurojust); Guardia di Finanza Bologna + Procura Bologna + competent French authorities kept in body prose only (no wiki org pages); lead_agency=`[[polizia-di-stato]]`; coordinating_body=`[[eurojust]]`.
   - 3 reference rows appended; 12 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | iter 133 | SPF press release: Singaporean Man Arrested in Connection with Phnom Penh OCG and Additional INTERPOL Red Notices (Singapore-Cambodia, 2026-05-05)
+
+- **Source**: `raw/press-releases/2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam.md`
+- **Source URL**: https://www.police.gov.sg/Media-Hub/News/2026/05/20260505_singaporean_man_arrested_in_connection_with_organised_criminal_group_based
+- **Tier-1 publisher**: Singapore Police Force (SPF), Public Affairs Department.
+- **Pages created**:
+  - `wiki/sources/2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam.md`
+  - `wiki/operations/spf-cnp-government-officials-impersonation-cambodia-arrest-2026.md`
+- **Pages updated**: log.md (this entry).
+- **Operation summary**:
+  - **2026-05-04**: Singaporean Ngiam Siow Jui (30) arrested in Phnom Penh by Cambodian National Police, repatriated to Singapore the same day, arrested on arrival. To face Singapore court 2026-05-06 on one count under Organised Crime Act 2015 s.12(2)(b).
+  - **2025-09-09**: Joint SPF-CNP operation disrupted the OCG's Phnom Penh scam compound (anchor for the bilateral cooperation envelope).
+  - **2026-03-25**: SPF published INTERPOL Red Notices against Jonathan Boneta (27) and Lee Ding Hao (33), both still at large.
+  - OCG linked to ≥ 535 reported Government Officials Impersonation Scam cases and ≈ S$53M in victim losses against Singapore residents; 34 initially identified Singapore-side suspects.
+  - SPF has implemented asset seizures and prohibition-of-disposal orders against properties connected to the OCG (values not stated).
+- **L24 ≥2-country IC compliance — explicit foreign-LE cooperation acknowledged in tier-1 source (verbatim quotes)**:
+  - "**The Cambodian National Police (CNP) arrested Ngiam in Phnom Penh, Cambodia.**"
+  - "**The arrest follows close collaboration and intelligence sharing between the SPF and the CNP.**"
+  - "**The OCG operated from a scam compound in Phnom Penh, which was disrupted during a joint operation by the SPF and CNP on 9 September 2025.**"
+- **Cooperating jurisdictions (L19/L24 strict)**: Singapore (SPF) + Cambodia (CNP). INTERPOL invoked as multilateral alerting mechanism for the two outstanding fugitives.
+- **L23 compliance**: `lead_agency: [[singapore-police]]`, `coordinating_body: [[singapore-police]]` — both wikilinks resolve to existing entity pages.
+- **Glob-verified wikilinks**: singapore-police, cambodian-national-police, interpol, singapore, cambodia, online-fraud-ic, organized-crime-ic, informal-cooperation, extradition, jurisdictional-conflicts, budapest-convention, interpol-asean-desk, korea-cambodia-philippines-73-extradition-2026, knpa-cambodia-korea-task-force-redcorner-arrests-2026-02, knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025, lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025, polri-lcs-cambodia-abbishopee-red-notice-arrest-2026, cross-border-online-cse-operation-spf-2026, treasury-sanctions-kok-an-scam-center-network-2026 — all OK.
+- **Rejected first candidates**:
+  - Polisen Sweden 2026-05-05 Stockholm fraud arrest — not cyber (telephone-based jewellery scam) and no foreign-LE cooperation acknowledged in the release.
+  - SPF Cross-Border OCSE Operation 2026 (Operation Hurdler / 326-arrests) — already covered by `cross-border-online-cse-operation-spf-2026.md`.
+  - Latvia-Ukraine 2023-03 Dnipropetrovsk JIT (vp.gov.lv) — older event already substantively absorbed by `latvia-phone-fraud-money-mule-network-takedown-2026.md` and `dnipro-fraudulent-call-centre-takedown-2026.md`; would not improve the wiki materially.
+  - fedpol Switzerland 2026-04-28 cross-border CH-FR-DE arrests — not a cybercrime case (corruption / Narcotics Act).
+  - Council of Europe T-CY news page — coe.int 403/Cloudflare-blocked from WebFetch this session; deferred.
+- **Note**: provisional record (single tier-1 source). Future promotion path: CNP statement, Singapore court records on 2026-05-06 first appearance, mainstream Singapore media corroboration.
+
+## [2026-05-10] ingest | SPF-CNP government officials impersonation scam — Phnom Penh OCG repatriation-on-arrival arrest of Ngiam Siow Jui (May 2026) — iter 133
+- Source: raw/press-releases/2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam.md (Singapore Police Force; en).
+- Pages created: wiki/sources/2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam.md, wiki/operations/spf-cnp-government-officials-impersonation-cambodia-arrest-2026.md (provisional, source_count=1).
+- Pages updated: countries/singapore, countries/cambodia; agencies singapore-police, cambodian-national-police, interpol; crime-types/online-fraud-ic + organized-crime-ic; mechanisms/informal-cooperation + extradition.
+- Key findings:
+  - **Multi-source publisher** police.gov.sg (SPF) — multiple ops in wiki, fresh case.
+  - **SPF-CNP bilateral pattern**: Cambodian National Police arrested Ngiam Siow Jui (30, Singaporean) in Phnom Penh; repatriated to SG 2026-05-04 + arrested on arrival; charged under Organised Crime Act 2015 s.12(2)(b).
+  - **Anchored to 2025-09-09 SPF-CNP joint Phnom Penh compound disruption** — first wiki documentation of that prior joint op.
+  - **OCG impact**: ≥535 scam cases, ~S$53M victim losses, 34 initially identified Singapore-side suspects.
+  - **2 outstanding INTERPOL Red Notice fugitives** (Jonathan Boneta, Lee Ding Hao) issued by SPF on 2026-03-25.
+  - L24 strict ≥2-country IC compliance verified verbatim ("close collaboration and intelligence sharing between the SPF and the CNP").
+  - L19/L23 strict applied: 3 wikilinked agencies (singapore-police, cambodian-national-police, interpol); lead_agency=`[[singapore-police]]`; coordinating_body=`[[singapore-police]]`.
+  - 3 reference rows appended; 12 pages with `updated:` bumped.

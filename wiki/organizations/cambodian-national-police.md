@@ -24,14 +24,16 @@ operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
+  - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
 notable_cases:
 
 contact_point_for:
 
-source_count: 2
+source_count: 3
 sources:
   - "[[2025-11-10_korean-press_korea-cambodia-joint-task-force-mou-signing]]"
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
+  - "[[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam]]"
 created: 2026-05-08
 updated: 2026-05-10
 last_verified: 2026-05-09

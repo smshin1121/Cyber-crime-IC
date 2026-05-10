@@ -42,6 +42,7 @@ operations_using:
   - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
+  - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"

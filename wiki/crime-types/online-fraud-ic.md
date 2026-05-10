@@ -100,6 +100,7 @@ notable_operations:
   - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
+  - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -117,7 +118,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 93
+source_count: 94
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -212,6 +213,7 @@ sources:
   - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
+  - "[[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -368,3 +370,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [91] | [[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests\|KNPA-Vietnam Public Security joint arrest of 5 Cambodia-Bavet romance-scam cadre in Vietnam (Da Nang+HCMC+Khanh Hoa, Oct 2025); 192 KR victims, ~₩4.6B losses]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2025-11-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156724852 |
 | [92] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
 | [93] | [[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia\|Polizia di Stato — Operazione Cagliostro/Voltaiko: IT-FR Eurojust-coordinated crypto-wallet freezing in photovoltaic Ponzi (Apr 2026); USD 7.5M crypto + EUR 2M earlier seizures, 6000 IT victims]] | Polizia di Stato — Servizio Polizia Postale | 2026-04-29 | https://www.poliziadistato.it/articolo/operazione-cagliostro-truffa-online-fotovoltaica |
+| [94] | [[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam\|SPF — Phnom Penh OCG repatriation arrest of Ngiam Siow Jui (May 2026); SPF-CNP joint compound disruption Sep 2025; 535+ scam cases / S$53M loss; 2 Red Notice fugitives outstanding]] | Singapore Police Force (SPF) | 2026-05-05 | https://www.police.gov.sg/Media-Room/News/20260505_singaporean_man_arrested_in_cambodia_for_government_officials_impersonation_scams |
