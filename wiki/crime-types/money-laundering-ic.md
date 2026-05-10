@@ -75,6 +75,7 @@ notable_operations:
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
+  - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -89,7 +90,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 62
+source_count: 63
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -153,6 +154,7 @@ sources:
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
+  - "[[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]]"
 created: 2026-04-14
 updated: 2026-05-10
 ---
@@ -272,3 +274,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [60] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
 | [61] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
 | [62] | [[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia\|Polizia di Stato — Operazione Cagliostro/Voltaiko: IT-FR Eurojust-coordinated crypto-wallet freezing in photovoltaic Ponzi (Apr 2026); USD 7.5M crypto + EUR 2M earlier seizures, 6000 IT victims]] | Polizia di Stato — Servizio Polizia Postale | 2026-04-29 | https://www.poliziadistato.it/articolo/operazione-cagliostro-truffa-online-fotovoltaica |
+| [63] | [[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie\|SPAK Albania — universaltrade.io crypto investment-fraud takedown via SPAK + Pau Gendarmerie joint investigation (Apr 2026); Tirana 1 call centre + 4 residences searched, 1 detention, 4 cold-wallets seized; EUR 845K + EUR 1.1M FR victim losses]] | SPAK (Special Structure Against Corruption and Organised Crime, Albania) | 2026-04-23 | https://www.spak.gov.al/al/njoftim-per-shtyp/njoftim-per-mediat-spak-ne-bashkepunim-me-xhandarmerine-e-pau-france-zhvilluan-keto-dite-kontrolle-ne-tirane-ne-kuader-te-nje-hetimi-te-perbashket-per-mashtrim-kompjuterik/ |

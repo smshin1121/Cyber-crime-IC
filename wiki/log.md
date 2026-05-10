@@ -2223,8 +2223,47 @@
 - Key findings:
   - **First wiki record of AT-LV-EE JIT** (with FI assist) under Eurojust coordination — multi-pattern fraud (investment, micro-loan, romance, phone-impersonation) on SIM box infrastructure spoofing local numbers.
   - **Action day 2025-10-13/17**: 7 arrests, 26 searches, EUR 700,000 frozen, **1,200 SIM boxes + 40,000 SIM cards + 5 servers + 4 luxury cars** seized; 1,700+ Austrian + 1,500+ Latvian victims; >EUR 3M total losses.
-  - **L23-spirit cleanup applied**: agent originally placed 8 plain-text Austrian/Latvian/Estonian/Finnish prosecutor + police office strings in `participating_agencies`. Orchestrator removed these (per L23-spirit: only `[[wikilinks]]` to existing entities); descriptive role information remains in body prose only.
+  - **L23-spirit cleanup applied**: agent originally placed 8 plain-text Austrian/Latvian/Estonian/Finnish prosecutor + police office strings in `participating_agencies`. Orchestrator removed these (per L23-spirit: only wikilinks to existing entities); descriptive role information remains in body prose only.
   - L24 strict ≥2-country IC compliance verified verbatim from Eurojust release ("joint investigation team (JIT) between the Austrian, Estonian and Latvian authorities. Further assistance was provided by the Finnish authorities").
   - 5 wikilinked agencies (eurojust, europol-ec3, latvia-state-police, finland-nbi, shadowserver) all named in source AND with wiki pages.
   - L23 strict applied: lead_agency=`[[eurojust]]`; coordinating_body=`[[eurojust]]`.
   - 7 reference rows appended; 14 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | Albania-France SPAK / Pau Gendarmerie UNIVERSAL TRADE crypto investment fraud joint operation (Tirana 2026-04-22 searches) — iter 135
+- Source: raw/press-releases/2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie.md (SPAK Albania official press release; sq).
+- Pages created:
+  - wiki/sources/2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie.md
+  - wiki/operations/albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026.md (provisional, source_count=1)
+- Pages updated: none in this iter (per task: country/agency backlinks left for later).
+- Key findings:
+  - **First wiki record of an Albania-France SPAK / Pau Gendarmerie joint cryptocurrency-investment-fraud operation**, with Eurojust spontaneous information exchange documented as the initiating coordination channel.
+  - **2026-04-22 search day**: 1 call centre + 4 residences in Tirana; 5 Albanian suspects identified by initials (A.B., E.Sh., B.Z., F.B., G.P.); 1 detained (G.P., principal cryptocurrency-wallet operator) under SPAK detention order executed by Albanian National Bureau of Investigation (BKH).
+  - **Seizures**: 4 cold-wallet cryptocurrency wallets, computers, storage media, mobile phones, 1 luxury vehicle, suspected forged identity documents, business stamps, automatic money-counting equipment, ≈ 5,000,000 ALL in mixed USD/CAD/EUR/GBP/ALL currency.
+  - **Recorded fraud**: EUR 845,400 against 4 named French complainants and EUR 1.1 million in aggregate against 9 additional identified French complainants over February 2023 – May 2023, via the UNIVERSAL TRADE (universaltrade.io) platform; agents used fake French identities to contact French citizens.
+  - **L24 strict ≥2-country IC compliance verified verbatim** from SPAK release: "Struktura e Posaçme kundër Korrupsionit dhe Krimit të Organizuar (SPAK) në bashkëpunim me oficerët e Policisë Gjyqësore të Divizionit Financiar dhe Dixhital të Kërkimeve të Xhandarmërisë së Pau (Francë) zhvilluan më 22.4.2026, kontrolle ... lidhur me një hetim të përbashkët për veprën penale të 'Mashtrimit Kompjuterik'." Albania (SPAK + BKH) + France (Pau Gendarmerie + Pau Public Prosecutor's Office) cooperation explicitly acknowledged.
+  - **L23 strict applied**: `lead_agency: ""` (empty string — SPAK has no entity wiki page); `coordinating_body: [[eurojust]]`; `participating_agencies: [[eurojust]], [[france-gendarmerie-nationale]]` (only existing entity wikilinks). SPAK, BKH, Albanian Police Oversight Agency, Albanian State Police, Pau Public Prosecutor's Office recorded in body prose only per L23.
+  - **Albanian charging vehicles** cited verbatim from release: criminal proceeding no. 39/20255 under Articles 28/4 (commission in cooperation), 143/b (computer fraud), 333/a (structured criminal group) and 334 (commission of offences by criminal organisation and structured criminal group) of the Albanian Criminal Code.
+  - Tier-1 publisher: SPAK / Prokuroria e Posaçme — national prosecutorial body of the Republic of Albania.
+- Rejected first candidates this iter:
+  - **EPPO 2026-04-29 Germany-Poland Hawala / Chinese OCG money-laundering case** — no cyber/online element in the release; cyber-only-tangentially relevant. Not iter-135.
+  - **Eurojust news page** — 403 Access denied via WebFetch and curl_cffi chrome124; could not enumerate fresh non-duplicate operations this session.
+  - **NPA Japan 2026-04-27 Operation Cyber Guardian 2026 (7-country, Asia OCSE crackdown 2026-03-23 ~ 2026-04-17)** — already covered by `cross-border-online-cse-operation-spf-2026.md` (ingested iter 134 from SPF release; NPA Japan PDF and korea.kr 2026-04-28 release are corroborating tier-1s for the same operation, not a new operation).
+  - **korea.kr 2026-04-28 73-Southeast-Asia-extradition release** — already covered by `korea-cambodia-philippines-73-extradition-2026.md`.
+  - **Singapore Police, fedpol, OAG Switzerland, Garda Ireland news pages** — either 403/404 from WebFetch this session or no fresh 2026 Q2 cybercrime IC operations visible in the listing snapshots.
+  - **Austria BMI/BK 2026-05-06 Austria-Kazakhstan police cooperation press release** — bilateral cooperation framing on migration / organised crime / terrorism / extremism; no specific cybercrime element. Not iter-135.
+  - **Slovakia Ministry of Interior 2026-04 / 2026-05 news** — no cybercrime IC operations in the listing.
+  - **HK Police, Israel Lahav 433, Norway Politiet, Mexico FGR press pages** — listing pages did not surface fresh 2026 Q2 cybercrime IC operations; HK Police news URL paths returned 404.
+  - **SPAK Albania 2026-04-16 SPAK→court 8-defendant German-victim computer-fraud case** — also a candidate, but iter-135 selected the 2026-04-23 Albania-France joint operation (operative joint-LE action with on-the-ground France-presence in Tirana) as the stronger ≥2-country IC operation. The 2026-04-16 SPAK→court case is a candidate for a future iter (Albania-Germany pairing).
+
+## [2026-05-10] ingest | SPAK Albania-France crypto-investment fraud takedown — universaltrade.io (SPAK + Pau Gendarmerie joint, Apr 2026) — iter 135
+- Source: raw/press-releases/2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie.md (SPAK Republic of Albania; sq).
+- Pages created: wiki/sources/2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie.md, wiki/operations/albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026.md (provisional, source_count=1).
+- Pages updated: countries/albania, countries/france; agencies eurojust, france-gendarmerie-nationale; crime-types/online-fraud-ic + money-laundering-ic; mechanisms/eurojust-coordination-meeting + informal-cooperation.
+- Key findings:
+  - **First wiki record from spak.gov.al** (Albania Special Structure Against Corruption and Organised Crime) — new tier-1 publisher.
+  - **First wiki record of AL-FR bilateral cybercrime cooperation** via Eurojust spontaneous information exchange + direct LE-to-LE judicial police cooperation between SPAK/BKH and Pau Gendarmerie Financial and Digital Investigations Division.
+  - **universaltrade.io takedown**: Tirana-based call centre + 4 residential operating sites; Albanian agents using fake French identities directed FR victims to invest via universaltrade.io; victim losses EUR 845K (4 named complainants) + EUR 1.1M aggregate (9 additional, Feb-May 2023).
+  - **Search day 2026-04-22**: 5 AL suspects (initials), 1 detained (G.P., principal wallet operator); 4 cold-wallet crypto wallets + computers/phones/luxury vehicle/forged documents/money-counter + ~5M ALL mixed currency seized.
+  - L24 strict ≥2-country IC compliance verified verbatim from Albanian release.
+  - L23 strict applied: lead_agency=`""` (SPAK no wiki page); coordinating_body=`[[eurojust]]`; participating_agencies = 2 wikilinked entities (eurojust + france-gendarmerie-nationale). SPAK, BKH, Albanian Police Oversight Agency, Albanian State Police, Pau Public Prosecutor's Office kept in body prose only (no wiki org pages).
+  - 4 reference rows appended; 11 pages with `updated:` bumped.

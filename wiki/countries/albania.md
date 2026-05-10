@@ -33,10 +33,12 @@ operations_participated:
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
+  - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
 region: balkans
-source_count: 4
+source_count: 5
 sources:
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
+  - "[[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]]"
 title: "Republic of Albania"
 treaty_memberships:
   - date: 2002-06-20
@@ -48,7 +50,7 @@ treaty_memberships:
     reservations: ""
     status: in-progress
 type: country
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -98,3 +100,4 @@ Capacity is *likely* medium overall. Albania benefits from Council of Europe cap
 | [2] | Octocom legal profile — Albania | Council of Europe | 2020 | https://rm.coe.int/octocom-legal-profile-albania/1680a248cd |
 | [3] | CyberSEE: Albania commences legislative reform for the Second Additional Protocol | Council of Europe | 2024 | https://www.coe.int/en/web/cybercrime/-/cybersee-albania-commences-legislative-reform-for-the-ratification-and-effective-implementation-of-the-second-additional-protocol-to-the-budapest-convention |
 | [4] | [[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia\|Operation PANDORA — 12 phone-fraud call-centres takedown (DE-led; AL+BA+XK+LB call-centres + SI victims; 21 detained, 39 identified)]] | Slovenska policija | 2024-05-03 | https://www.policija.si/eng/newsroom/news-archive/news-archive/121805-victims-also-from-slovenia-europol-s-international-operation-pandora-shuts-down-12-phone-fraud-call-centres |
+| [5] | [[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie\|SPAK Albania — universaltrade.io crypto investment-fraud takedown via SPAK + Pau Gendarmerie joint investigation (Apr 2026); Tirana 1 call centre + 4 residences searched, 1 detention, 4 cold-wallets seized; EUR 845K + EUR 1.1M FR victim losses]] | SPAK (Special Structure Against Corruption and Organised Crime, Albania) | 2026-04-23 | https://www.spak.gov.al/al/njoftim-per-shtyp/njoftim-per-mediat-spak-ne-bashkepunim-me-xhandarmerine-e-pau-france-zhvilluan-keto-dite-kontrolle-ne-tirane-ne-kuader-te-nje-hetimi-te-perbashket-per-mashtrim-kompjuterik/ |

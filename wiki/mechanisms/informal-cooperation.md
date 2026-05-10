@@ -49,6 +49,7 @@ operations_using:
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
+  - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
 ---
 ## Summary
 

@@ -94,9 +94,10 @@ operations_participated:
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
+  - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
 org_type: regional-org
 parent_org: ""
-source_count: 18
+source_count: 19
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
@@ -107,6 +108,7 @@ sources:
   - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
   - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
   - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
+  - "[[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]]"
 status: active
 title: Eurojust
 type: organization
@@ -276,3 +278,4 @@ Direct Eurojust-Korea judicial cooperation on cybercrime is *likely* limited but
 | [16] | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states\|Eurojust — main suspect in EUR 6M Swedish bank-employee-impersonation fraud extradited from US to Sweden (2026-04-10); 25 victims, action day Nov 2024 → 3 arrests US+SE]] | Eurojust | 2026-04-11 | https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states |
 | [17] | [[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia\|Polizia di Stato — Operazione Cagliostro/Voltaiko: IT-FR Eurojust-coordinated crypto-wallet freezing in photovoltaic Ponzi (Apr 2026); USD 7.5M crypto + EUR 2M earlier seizures, 6000 IT victims]] | Polizia di Stato — Servizio Polizia Postale | 2026-04-29 | https://www.poliziadistato.it/articolo/operazione-cagliostro-truffa-online-fotovoltaica |
 | [18] | [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests\|Eurojust — Austria-Latvia-Estonia online scams JIT takedown (Oct 2025); 7 arrests, 26 searches, EUR 700K frozen, 1200 SIM boxes + 40K SIM cards + 5 servers seized; 1700+ AT victims, 1500+ LV victims; FI assistance]] | Eurojust | 2025-10-17 | https://www.eurojust.europa.eu/news/decisive-action-against-various-online-scams-austria-and-latvia-seven-arrests |
+| [19] | [[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie\|SPAK Albania — universaltrade.io crypto investment-fraud takedown via SPAK + Pau Gendarmerie joint investigation (Apr 2026); Tirana 1 call centre + 4 residences searched, 1 detention, 4 cold-wallets seized; EUR 845K + EUR 1.1M FR victim losses]] | SPAK (Special Structure Against Corruption and Organised Crime, Albania) | 2026-04-23 | https://www.spak.gov.al/al/njoftim-per-shtyp/njoftim-per-mediat-spak-ne-bashkepunim-me-xhandarmerine-e-pau-france-zhvilluan-keto-dite-kontrolle-ne-tirane-ne-kuader-te-nje-hetimi-te-perbashket-per-mashtrim-kompjuterik/ |

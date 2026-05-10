@@ -27,6 +27,7 @@ operations_using:
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
+  - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
 ---
 ## Summary
 

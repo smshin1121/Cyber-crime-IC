@@ -3,7 +3,7 @@ type: organization
 title: "France Gendarmerie Nationale"
 status: active
 created: 2026-04-26
-updated: 2026-04-29
+updated: 2026-05-10
 last_verified: 2026-04-29
 org_type: national-gendarmerie
 country: "[[france]]"
@@ -22,17 +22,19 @@ operations_participated:
   - "[[franco-israeli-ceo-fraud]]"
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
+  - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
 cooperation_partners:
   - "[[france-gendarmerie]]"
   - "[[france-junalco]]"
   - "[[france-national-police]]"
   - "[[europol-ec3]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-la-menace-cyber]]"
   - "[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqu-teurs-pour-traquer-les-cyber-criminels]]"
   - "[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]"
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
+  - "[[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]]"
 ---
 ## Summary
 

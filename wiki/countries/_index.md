@@ -12,7 +12,7 @@ total: 61
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
 | 🇦🇪 | [[united-arab-emirates]] | not-assessed | — | unknown | unknown | 0 |
-| 🇦🇱 | [[albania]] | civil-law | party (2002) | medium | unknown | 4 |
+| 🇦🇱 | [[albania]] | civil-law | party (2002) | medium | unknown | 5 |
 | 🇦🇲 | [[armenia]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇦🇷 | [[argentina]] | not-assessed | — | unknown | unknown | 2 |
 | 🇦🇹 | [[austria]] | civil-law | — | unknown | unknown | 4 |
@@ -46,7 +46,7 @@ total: 61
 | 🇪🇬 | [[egypt]] | civil-law | — | medium | unknown | 1 |
 | 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 16 |
 | 🇫🇮 | [[finland]] | civil-law | party (2007) | high | 90-180 | 12 |
-| 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 13 |
+| 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 14 |
 | 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 10 |
 | 🇬🇪 | [[georgia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇬🇭 | [[ghana]] | not-assessed | — | unknown | unknown | 0 |
