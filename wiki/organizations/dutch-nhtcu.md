@@ -30,14 +30,16 @@ operations_participated:
   - "[[operation-source]]"
   - "[[simda-botnet-takedown]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[interpol-911-s5-botnet-dismantling]]"
   - "[[2017-07-20-europol-alphabay-hansa-takedown]]"
   - "[[europol-doublevpn-takedown]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 status: active
 title: "Dutch NHTCU"
 type: organization

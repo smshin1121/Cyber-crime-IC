@@ -17,6 +17,7 @@ operations_using:
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
   - "[[warzone-rat-takedown-2024]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 cases_using:
   - "[[us-v-szabo-swatting-ring]]"
 ---

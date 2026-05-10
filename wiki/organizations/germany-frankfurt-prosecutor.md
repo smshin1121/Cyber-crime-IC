@@ -22,15 +22,16 @@ operations_participated:
   - "[[nemesis-market-takedown]]"
   - "[[operation-eastwood]]"
   - "[[operation-endgame-phase3]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 org_type: prosecution-office
 parent_org: "Generalstaatsanwaltschaft Frankfurt am Main (Hessen)"
-source_count: 3
+source_count: 4
 sources:
-
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 status: active
 title: "Central Office for Combating Internet Crime (ZIT) — Frankfurt am Main"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -90,3 +91,4 @@ ZIT's staffing has grown significantly since founding. As reported, it comprises
 | [1] | Zentralstelle zur Bekämpfung der Internet- und Computerkriminalität (ZIT) | Staatsanwaltschaften Hessen | n.d. | https://staatsanwaltschaften.hessen.de/staatsanwaltschaften/generalstaatsanwaltschaft-frankfurt-am-main/aufgabengebiete/zentralstelle-zur-bekaempfung-der-internet-und-computerkriminalitaet-zit |
 | [2] | Justizministerinnen besuchen Zentralstelle zur Bekämpfung der Internetkriminalität in Frankfurt | Hessen Justizministerium | n.d. | https://justizministerium.hessen.de/presse/justizministerinnen-besuchen-zentralstelle-zur-bekaempfung-der-internetkriminalitaet-in-frankfurt |
 | [3] | Strafverfolgungsbehörden schalten die zwei weltweit größten Cybercrime-Foren ab | BKA Presseportal | 2025 | https://www.presseportal.de/blaulicht/pm/7/5960823 |
+| [4] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|BKA — Black Basta ransomware ringleader public arrest warrant + UA region searches (Jan 2026); 5-LE-jurisdiction op (DE+NL+CH+UA+UK); 100+ DE victims, 600+ worldwide, 3-digit-million EUR proceeds]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |

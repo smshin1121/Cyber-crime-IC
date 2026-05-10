@@ -27,15 +27,17 @@ operations_participated:
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 org_type: national-unit
 parent_org: "Національна поліція України (National Police of Ukraine) — Ministry of"
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 status: active
 title: "Cyber Police of Ukraine — Department of Cyber Police"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 ## Summary
 
@@ -103,3 +105,4 @@ Since **March 2022**, by directive of the commander-in-chief of the Ukrainian Ar
 | [2] | Ukraine — Cybercrime country profile | Council of Europe (Octopus) | n.d. | https://www.coe.int/en/web/octopus/-/ukraine |
 | [3] | How Ukraine's Cyber Police fights fraud, scams, and attacks on critical infrastructure | The Record (Recorded Future News) | n.d. | https://therecord.media/how-ukraines-cyber-police-fights-fraud-scams-and-attacks-on-critical-infrastructure |
 | [4] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
+| [5] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|BKA — Black Basta ransomware ringleader public arrest warrant + UA region searches (Jan 2026); 5-LE-jurisdiction op (DE+NL+CH+UA+UK); 100+ DE victims, 600+ worldwide, 3-digit-million EUR proceeds]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |

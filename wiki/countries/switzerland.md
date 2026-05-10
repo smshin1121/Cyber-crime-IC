@@ -42,12 +42,14 @@ operations_participated:
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[flubot-takedown-2022]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 region: western-europe
-source_count: 3
+source_count: 4
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 title: "Swiss Confederation"
 treaty_memberships:
   - date: 2011-09-21

@@ -70,9 +70,10 @@ operations_participated:
   - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
-source_count: 9
+source_count: 10
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -83,6 +84,7 @@ sources:
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization

@@ -82,8 +82,9 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 region: western-europe
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -97,6 +98,7 @@ sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09

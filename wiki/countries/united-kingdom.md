@@ -89,8 +89,9 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 region: western-europe
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
   - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
@@ -102,6 +103,7 @@ sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica]]"
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 title: "United Kingdom"
 treaty_memberships:
   - date: 2011-05-25

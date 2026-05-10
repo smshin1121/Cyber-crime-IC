@@ -76,8 +76,9 @@ operations_participated:
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[flubot-takedown-2022]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 region: western-europe
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
@@ -91,6 +92,7 @@ sources:
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 title: "Kingdom of the Netherlands"
 treaty_memberships:
   - date: 2006-11-16

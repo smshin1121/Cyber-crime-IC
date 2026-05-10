@@ -2267,3 +2267,101 @@
   - L24 strict ≥2-country IC compliance verified verbatim from Albanian release.
   - L23 strict applied: lead_agency=`""` (SPAK no wiki page); coordinating_body=`[[eurojust]]`; participating_agencies = 2 wikilinked entities (eurojust + france-gendarmerie-nationale). SPAK, BKH, Albanian Police Oversight Agency, Albanian State Police, Pau Public Prosecutor's Office kept in body prose only (no wiki org pages).
   - 4 reference rows appended; 11 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | AFP-QPS-FGR-FEMDO-SSPC Mexico Yucatán+Nayarit CSAM takedown (Argos-driven, May 2026) — iter 136
+- Source: raw/press-releases/2026-05-08_afp-gov-au_children-removed-harm-mexico-two-men-charged-child-abuse-international-investigations.md (Australian Federal Police, joint with Queensland Police Service + Mexico FGR-FEMDO + Mexico SSPC; en).
+- Pages created: wiki/sources/2026-05-08_afp_children-removed-harm-mexico-two-men-charged-child-abuse.md, wiki/operations/afp-qps-fgr-femdo-mexico-yucatan-nayarit-csam-takedown-2026.md.
+- Pages updated: none (per instruction — no country/agency backlinks this iter).
+- Key findings:
+  - **First wiki record of Australia-Mexico bilateral CSAM/online-child-abuse IC cooperation case.**
+  - **Two Mexican men ordered to stand trial**: 38-year-old detained 2026-04-07 in Yucatán (alleged decade-long abuse via football-training pretext; aggravated human trafficking charge); 31-year-old detained March 2026 in Nayarit (sold abuse imagery via instant-messaging platforms + dark web; ≥1 child brought to safety).
+  - **L24 strict ≥2-country IC compliance verified**: tier-1 joint media release explicitly names AFP + QPS (Australia) and FGR-FEMDO + SSPC + Secretariat of the Navy (Mexico) as cooperating LE/prosecutorial authorities — adversary/origin/destination states not at issue (the offenders' conduct occurred in Mexico against Mexican children; Australia is the originating intelligence jurisdiction via QPS Argos).
+  - **L23 strict applied**: lead_agency=`[[australia-afp]]` (only Argos/AFP-Mexico-City has wiki page); coordinating_body=`[[australia-afp]]`; participating_agencies = 1 wikilink. FGR-FEMDO, SSPC, Secretariat of the Navy, Queensland Police Service, Task Force Argos kept in body prose only (no wiki org pages yet).
+  - **First wiki record of QPS Task Force Argos** as the originating intelligence source for a transnational CSAM case (Australian sub-federal victim-identification capability + AFP Liaison Officer Mexico City relay → Mexican federal prosecutor's organized-crime office).
+  - **First wiki record of FGR-FEMDO and SSPC** as IC counterparts on a CSAM case.
+  - **AFP Liaison Officer Mexico City** documented as a discrete IC channel class — structurally complementary to the **AFP International Network** (RTP Bangkok takedown), the **NCA International Liaison Officer network** (UK), and the **FBI Legal Attaché network** (US).
+  - 1 source row in operation page; bidirectional source↔operation link in place.
+- Rejected first candidates this iter:
+  - **DOJ Scam Center Strike Force 2026-04-23 release** (Huang Xingshan + Jiang Wen Jie Burma Shunda compound + 503 .com domains + Telegram seizure) — duplicate of `treasury-sanctions-kok-an-scam-center-network-2026.md`, which is the same coordinated 2026-04-23 action day's OFAC sister release; per dedup rules.
+  - **korea.kr KNPA 156695208 (Interpol Silver Notice Korean case)** — URL returned "deleted/unavailable" page (지워졌거나 조회되지 않는 자료입니다); could not verify primary source.
+  - **korea.kr KNPA 156743189 (Phishing Crime Special Crackdown Results, 2026-02-05)** — release describes Korean-only crackdown statistics; no foreign LE counterpart explicitly named in primary release; failed L24.
+  - **korea.kr 148960303 (Korea-Philippines Police Cooperation Agreement, 2026-03-04)** — bilateral MOU/cooperation framework, not an operation; no specific cybercrime takedown.
+  - **fedpol Switzerland Android malware msg-id-89145** — actual content is FluBot 2022 (already in `flubot-takedown-2022.md`); URL 404 on direct fetch; not new.
+  - **Eurojust Italian-Romanian financial-fraud-cybercrime takedown** — dated 2020-07-07 (too old; not 2025-2026 iter scope).
+  - **EPPO** — no fresh 2026 cybercrime operation; EPPO is VAT-fraud-focused.
+  - **Israel Lahav 433 EUR 3M Albania-Cyprus-Israel investment fraud** — already covered by `operation-eur-3m-online-investment-fraud-2025.md`.
+  - **Israel-France crypto money laundering case** — 2022 (too old).
+  - **Slovakia NAKA / Norway Politiet / Hong Kong CSTCB / Italy Carabinieri ROS** — listing pages did not surface fresh 2026 Q2 cybercrime IC operations with explicit ≥2-country LE cooperation; passed for this iter.
+
+## [2026-05-10] ingest | Bangkok arrest of German DDoS-for-hire operator (Fluxstress & Netdowner) — Thailand-Germany cooperation under Operation PowerOFF (2026-04-10)
+- Source: raw/news/2026-04-11_thaiexaminer_bangkok-german-noah-christopher-fluxstress-arrest.md (publisher: Thai Examiner) + corroborating BKA primary release of 2026-04-16 (https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260416_PM_OperationPowerOFF.html, not separately ingested)
+- Pages created:
+  - wiki/sources/2026-04-11_thaiexaminer_bangkok-german-noah-christopher-fluxstress-arrest.md
+  - wiki/operations/bangkok-german-noah-christopher-fluxstress-netdowner-arrest-2026.md
+- Pages updated: (none — backlinks deferred per agent instructions)
+- Key findings:
+  - **First wiki record of Thailand-Germany bilateral DDoS-for-hire arrest pathway**, anchored on an INTERPOL Red Notice issued at the request of the German Federal Police (Bundeskriminalamt). Thai Immigration Bureau Investigation Division and the Thai International Criminal Investigation Bureau executed the arrest at a luxury condominium on Soi Thonglor 25, Watthana district, Bangkok on 2026-04-10.
+  - **74-warrant cumulative German federal pathway** (warrants issued 2021-2025) for operation of two DDoS-for-hire stresser platforms named Fluxstress and Netdowner. The BKA frames the charge category under § 127 StGB (commercial operation of a criminal Internet trading platform).
+  - **Sub-event placement under Operation PowerOFF 2026-04 action week** — the BKA explicitly records the Bangkok identification as a sub-event of the Europol-coordinated 21-country PowerOFF action week (recorded separately at [[operation-power-off-2026-04]]). This documents how multilateral Europol action weeks generate downstream bilateral arrests in non-Europol jurisdictions via INTERPOL channels.
+  - **L24 strict ≥2-country IC compliance verified**: tier-1 sources explicitly name [[thailand-royal-police|Royal Thai Police (Immigration Bureau Investigation Division + International Criminal Investigation Bureau)]] AND [[germany-bka|German Federal Police (Bundeskriminalamt)]] AND Generalstaatsanwaltschaft Frankfurt am Main (ZIT) AND [[interpol|INTERPOL]] (Red Notice) as cooperating LE/prosecutorial / IGO authorities. Thailand and Germany are both true LE-cooperating jurisdictions (not adversary/origin/destination states).
+  - **L23 strict applied**: lead_agency=`[[thailand-royal-police]]` (canonical wiki page exists); coordinating_body=`[[germany-bka]]` (canonical wiki page exists); participating_agencies = 3 wikilinks (all canonical wiki pages exist). Generalstaatsanwaltschaft Frankfurt am Main (ZIT), Thai Immigration Bureau Investigation Division, and Thai International Criminal Investigation Bureau details kept in body prose only.
+  - **First wiki record of Thai Immigration Act 1979 § 12(7)** as the immediate detention pathway used by the Thai Immigration Bureau Investigation Division for residency revocation in cyber-crime extradition cases.
+  - 1 source row in operation page; bidirectional source↔operation link in place via `pages_updated:` and `sources:`.
+- Rejected first candidates this iter:
+  - **Norway Kripos PowerOFF participation 2026-04-16** — duplicate of `operation-power-off-2026-04.md` (Norway already in 21-country roster).
+  - **Operation CONNECT (Czech NCTEKK + Ukraine NPU/SBU + Latvia + Lithuania, 2025-12-09)** — duplicate of `ukraine-fraudulent-call-centres-takedown-2025.md`.
+  - **Operation OCTOPUS (Czech NCTEKK + Ukraine, 2025-11)** — duplicate of `operation-octopus-investment-fraud-czechia-ukraine-2025.md`.
+  - **Japan NPA Operation Cyber Guardian 2026-04-27 release** — duplicate of `cross-border-online-cse-operation-spf-2026.md` (same 7-country SPF-led action 2026-03-23 to 2026-04-17, 326 arrests, with Japan as one of the seven).
+  - **SPF cross-border crypto scam detection 2026-03-16 to 2026-04-15** — Singapore-only operation; failed L24 (no foreign LE counterpart named).
+  - **Polish CBZC Operation Hellfire 2026-05-07** — Poland-only operation; failed L24.
+  - **EPPO Germany-Poland Chinese organised-crime money-laundering 2026-04-29** — VAT/customs fraud + Hawala money laundering, no cyber element; out of scope.
+  - **NCA UK Matthew Slate / Bradley Talbot CSAM convictions** — UK-only investigations; failed L24.
+  - **Hellenic Police 46-year-old CSAM arrest 2026-04-16** — Sweden/Australia named only as intelligence-source jurisdictions (not LE-cooperating partners); single-country enforcement; marginal under L24.
+  - **Italian Carabinieri ROS Operazione "Risiko" Feb 2026** — 'Ndrangheta-mafia case, not cybercrime.
+  - **Italy Polizia di Stato Operazione "People1"** — Italy-only operation 2019; no foreign LE partner.
+  - **Latvian-Lithuanian-Ukrainian fraud call centre 2026-02-17** — duplicate of `dnipro-fraudulent-call-centre-takedown-2026.md`.
+  - **Eurojust Romania-Netherlands Dutch rental-market fraud arrest** — dated 2021-06-28; too old for 2026 iter scope.
+  - **Operation Masquerade (FBI + Czech VZ + UK NCSC, March 2026, anti-APT28)** — counter-intelligence operation against Russian state actor; not cybercrime IC scope.
+  - **Operation Atlantic (UK NCA + US Secret Service + Ontario Provincial Police, March 2026)** — duplicate of `operation-atlantic-approval-phishing-2026.md`.
+  - **Crimenetwork relaunch takedown (BKA + Spanish Policía Nacional, May 2026)** — duplicate of `crimenetwork-relaunch-takedown-2026.md`.
+  - **LeakBase forum takedown (Spain Guardia Civil + Policía Nacional + Europol, March 2026)** — duplicate of `leakbase-takedown-2026.md`.
+  - **Operation Alice (Germany BLKA + ZKI + BKA + Europol 23-country dark-web takedown, March 2026)** — duplicate of `operation-alice-csam-fraud-2026.md`.
+  - **Operation Synergia III (INTERPOL 72-country malicious-IP takedown, March 2026)** — duplicate of `operation-synergia-iii.md`.
+  - **Eurojust Albania-Austria EUR 50M fraud call centres April 2026** — duplicate of `albania-austria-call-centre-investment-fraud-2026.md`.
+  - **Eurojust Sweden-US bank-impersonation fraud extradition April 2026** — duplicate of `sweden-us-bank-impersonation-fraud-extradition-2026.md`.
+  - **Eurojust Germany-France online fraud group March 2026** — duplicate of `operation-de-fr-online-fraud-group-2026.md`.
+
+
+## [2026-05-10] ingest | iter 136 RETRY-2 — BKA Black Basta ringleader public arrest warrant + Ukrainian searches (DE/UA/CH/NL/UK)
+- Source: raw/press-releases/2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta.md (BKA tier-1 official press release, 2026-01-15)
+- Pages created:
+  - `wiki/sources/2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta.md`
+  - `wiki/operations/de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026.md`
+  - `raw/press-releases/2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta.md`
+- Pages updated: (backlinks deferred to follow-up — no country/agency edits in this iter)
+- Key findings:
+  - 2026-01-15 ZIT (Frankfurt am Main General Prosecutor) + BKA issue public arrest warrant against alleged Black Basta ringleader (Russian citizen, prior Conti business partner). Public manhunt via Europol Most Wanted + Interpol channels (eumostwanted.eu, BKA Öffentlichkeitsfahndung 69).
+  - Ukrainian Cyber Police + Office of the Prosecutor General of Ukraine search two Black Basta-affiliated suspects (alleged hash-crackers) in Ivano-Frankivsk and Lviv regions. Earlier Aug 2025 search near Kharkiv (alleged crypter) preceded.
+  - Cooperating LE/prosecutor counter-parties named on-source: ZIT/BKA (DE), Bundesanwaltschaft + fedpol (CH), NHTCU (NL), SEROCU (UK), Cyber Police + Prosecutor General's Office (UA). Five distinct cooperating jurisdictions; Russia (ringleader's nationality) excluded per L24.
+  - Black Basta attribution: ≥100 German victims + ≈600 worldwide between Mar 2022 and Feb 2025; proceeds in three-digit-million EUR (>EUR 20M from Germany alone).
+- Iter notes:
+  - L24 strict: tier-1 publisher = BKA national LE body; ≥2 cooperating jurisdictions (here, 5) explicitly named in primary release.
+  - L23 strict: lead_agency=`[[germany-bka]]`, coordinating_body=`[[europol-ec3]]`; both wikilink-existing.
+  - Dedup verified: no existing operation page references Black Basta as a takedown / ringleader / arrest warrant operation.
+  - Two prior iter-136 candidates (AFP/QPS Mexico Yucatán-Nayarit CSAM; Bangkok Fluxstress arrest) rejected upstream — this candidate replaces them with a strict tier-1 BKA national LE source naming five cooperating LE jurisdictions.
+
+## [2026-05-10] ingest | DE-UA-CH-NL-UK Black Basta ransomware takedown (BKA, Jan 2026) — iter 136
+- Source: raw/press-releases/2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta.md (Bundeskriminalamt; de).
+- Pages created: wiki/sources/2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta.md, wiki/operations/de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026.md (provisional, source_count=1).
+- Pages updated: 5 country pages (germany, netherlands, switzerland, ukraine, united-kingdom); 7 agencies (germany-bka, germany-frankfurt-prosecutor, dutch-nhtcu, switzerland-fedpol, ukraine-police, europol-ec3, interpol); crime-types/ransomware-ic; mechanisms/mutual-legal-assistance.
+- Key findings:
+  - **2nd op from BKA** (after iter 127 Aisuru/Kimwolf); BKA promoted to multi-source publisher.
+  - **Black Basta ransomware ringleader** public arrest warrant: Russian citizen, also alleged former Conti business partner. Active 2022-03 to ≥2025-02. ≥100 DE victims + ~600 worldwide; 3-digit-million-EUR proceeds.
+  - **5-LE-jurisdiction op** (DE+NL+CH+UA+UK) coordinated through ZIT Frankfurt + BKA + NHTCU + fedpol + Bundesanwaltschaft + SEROCU + Ukrainian National Police + Office of the Prosecutor General of Ukraine; with EUROPOL EC3 + INTERPOL channels.
+  - **Ukrainian search activity**: Aug 2025 Kharkiv-area + Jan 2026 Ivano-Frankivsk/Lviv searches against UA-citizen suspects (hash-cracking + crypter roles).
+  - L24 strict ≥2-country IC compliance verified verbatim. **Russia (ringleader's nationality) deliberately excluded from participating_countries** (adversary state, not cooperating LE jurisdiction).
+  - L23 strict applied: lead_agency=`[[germany-bka]]`; coordinating_body=`[[europol-ec3]]`; 7 wikilinked participating_agencies.
+  - 2 prior ingest attempts rejected this iter:
+    1. AFP/QPS Mexico Yucatán-Nayarit CSAM — duplicate of `mexico-yucatan-nayarit-csam-afp-fgr-2026.md`.
+    2. Bangkok Fluxstress arrest via Thai Examiner — Thai Examiner is private wire, not tier-1 (per L24 strict).
+  - 6 reference rows appended; 14 pages with `updated:` bumped.

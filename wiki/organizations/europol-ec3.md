@@ -151,9 +151,10 @@ operations_participated:
   - "[[flubot-takedown-2022]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
-source_count: 21
+source_count: 22
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
@@ -167,6 +168,7 @@ sources:
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
@@ -267,3 +269,4 @@ The [[phobos-8base-crackdown|Phobos/8Base crackdown]] (2025) is the most directl
 | [19] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
 | [20] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
 | [21] | [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests\|Eurojust — Austria-Latvia-Estonia online scams JIT takedown (Oct 2025); 7 arrests, 26 searches, EUR 700K frozen, 1200 SIM boxes + 40K SIM cards + 5 servers seized; 1700+ AT victims, 1500+ LV victims; FI assistance]] | Eurojust | 2025-10-17 | https://www.eurojust.europa.eu/news/decisive-action-against-various-online-scams-austria-and-latvia-seven-arrests |
+| [22] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|BKA — Black Basta ransomware ringleader public arrest warrant + UA region searches (Jan 2026); 5-LE-jurisdiction op (DE+NL+CH+UA+UK); 100+ DE victims, 600+ worldwide, 3-digit-million EUR proceeds]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |

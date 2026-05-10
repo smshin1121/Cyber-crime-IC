@@ -28,12 +28,14 @@ operations_participated:
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[flubot-takedown-2022]]"
+  - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
 org_type: national-agency
 parent_org: "Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-"
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
 status: active
 title: "Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination"
 type: organization
@@ -115,3 +117,4 @@ Specific operation attributions require further source ingestion. CYCO reports a
 | [4] | Switzerland — Cybercrime country profile | Council of Europe / Octopus | n.d. | https://www.coe.int/en/web/octopus/-/switzerland |
 | [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [6] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
+| [7] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|BKA — Black Basta ransomware ringleader public arrest warrant + UA region searches (Jan 2026); 5-LE-jurisdiction op (DE+NL+CH+UA+UK); 100+ DE victims, 600+ worldwide, 3-digit-million EUR proceeds]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |
