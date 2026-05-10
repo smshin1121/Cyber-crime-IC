@@ -47,15 +47,17 @@ operations_participated:
   - "[[warzone-rat-takedown-2024]]"
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
   - "[[flubot-takedown-2022]]"
+  - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
 org_type: national-agency
 parent_org: ""
-source_count: 11
+source_count: 12
 sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown]]"
 status: active
 title: "Australian Federal Police — Cyber Command"
 type: organization
@@ -146,3 +148,4 @@ The AFP's cooperation capacity is *highly likely* one of the strongest in the As
 | [9] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
 | [10] | [[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham\|AFP-USSS Operation Wickham — Melbourne man charged in Changjiang/Long River laundering of US investment-fraud proceeds (Oct 2023); AUD 21M restrained, AUD 100M+ allegedly laundered]] | Australian Federal Police (AFP) | 2023-10-26 | https://www.afp.gov.au/news-centre/media-release/melbourne-man-charged-laundering-cybercrime-victims-money |
 | [11] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
+| [12] | [[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown\|AFP — AFP-PAOCC-NBI Manila scam call-centre takedown (Operation Firestorm phase 1, Nov 2024); 250+ workers (foreign nationals incl. PRC/VN/ID); first AU-PH scam compound joint takedown]] | Australian Federal Police (AFP) | 2024-11-26 | https://www.afp.gov.au/news-centre/media-release/afp-partners-philippine-authorities-combating-scam-call-centres |

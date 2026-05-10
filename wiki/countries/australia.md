@@ -38,8 +38,9 @@ operations_participated:
   - "[[warzone-rat-takedown-2024]]"
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
   - "[[flubot-takedown-2022]]"
+  - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
 region: oceania
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
@@ -47,6 +48,7 @@ sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown]]"
 title: "Commonwealth of Australia"
 treaty_memberships:
   - not-assessed

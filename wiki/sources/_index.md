@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (818)
+# Sources (819)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -360,6 +360,7 @@ updated: 2026-04-14
 | [[2024-11-27_group-ib_operation-serengeti]] | press-release | Group-IB | ? | medium | ? |
 | [[2024-11-27_eurojust_crackdown-illegal-streaming-network-22-million-users-worldwide]] | news | Eurojust | ? | high | ? |
 | [[2024-11-26_apnews_interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa]] | news | Associated Press | ? | medium | ? |
+| [[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown]] | press-release | Australian Federal Police (AFP) | ? | high | ? |
 | [[2024-11-26-interpol-operation-serengeti]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-11-20_justice-gov_five-members-scattered-spider-charged-cybercrime-attacks]] | press-release | U.S. Department of Justice — U.S. Attorney's Office, Central District of California (USAO-CDCA) | ? | high | ? |
 | [[2026-04-18_justice-gov_phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges]] | press-release | US DOJ USAO | ? | high | ? |

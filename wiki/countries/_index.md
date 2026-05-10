@@ -16,7 +16,7 @@ total: 61
 | 🇦🇲 | [[armenia]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇦🇷 | [[argentina]] | not-assessed | — | unknown | unknown | 2 |
 | 🇦🇹 | [[austria]] | civil-law | — | unknown | unknown | 4 |
-| 🇦🇺 | [[australia]] | not-assessed | — | unknown | unknown | 6 |
+| 🇦🇺 | [[australia]] | not-assessed | — | unknown | unknown | 7 |
 | 🇦🇼 | [[aruba]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇿 | [[azerbaijan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇧🇦 | [[bosnia-and-herzegovina]] | not-assessed | — | unknown | unknown | 3 |
@@ -92,7 +92,7 @@ total: 61
 | 🇳🇵 | [[nepal]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇦 | [[panama]] | not-assessed | — | unknown | unknown | 1 |
 | 🇵🇪 | [[peru]] | not-assessed | — | unknown | unknown | 2 |
-| 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 2 |
+| 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 3 |
 | 🇵🇰 | [[pakistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇱 | [[poland]] | civil-law | party (2015) | medium | unknown | 6 |
 | 🇵🇹 | [[portugal]] | civil-law | party (2010) | medium | unknown | 4 |

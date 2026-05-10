@@ -12,14 +12,16 @@ operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
   - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
-source_count: 2
+  - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
+source_count: 3
 created: 2026-04-20
-updated: 2026-05-09
+updated: 2026-05-10
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 sources:
   - "[[2026-03-03_korean-press_korea-philippines-police-mou-second-revision]]"
   - "[[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation]]"
+  - "[[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown]]"
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 ---

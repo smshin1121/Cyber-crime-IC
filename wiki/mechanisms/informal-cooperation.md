@@ -50,6 +50,7 @@ operations_using:
   - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
+  - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
 ---
 ## Summary
 

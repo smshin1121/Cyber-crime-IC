@@ -39,6 +39,7 @@ operations_using:
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
+  - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
 ---
 ## Summary
 

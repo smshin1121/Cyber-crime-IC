@@ -23,15 +23,17 @@ cooperation_partners:
 operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
+  - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
 notable_cases:
 
 contact_point_for:
 
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-03-03_korean-press_korea-philippines-police-mou-second-revision]]"
+  - "[[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown]]"
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-10
 last_verified: 2026-05-09
 frameworks_administered:
   - "[[korea-philippines-police-mou-2026-revision]]"
