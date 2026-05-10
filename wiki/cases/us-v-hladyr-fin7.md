@@ -31,7 +31,7 @@ ic_elements:
     []
 cooperating_agencies:
   - "[[fbi]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[germany-bka]]"
 legal_frameworks_invoked:
   - "[[mlat-process]]"

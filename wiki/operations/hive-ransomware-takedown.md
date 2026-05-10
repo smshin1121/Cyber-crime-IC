@@ -32,7 +32,7 @@ operation_type: takedown
 outcome: success
 participating_agencies:
   - "[[fbi]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[europol-ec3]]"
   - "[[german-bka]]"
   - "[[dutch-police]]"

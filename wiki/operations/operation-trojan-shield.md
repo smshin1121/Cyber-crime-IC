@@ -5,7 +5,7 @@ aliases:
   - "Operation Ironside"
   - AN0M
   - ANOM
-case_id: ""
+case_id: CYB-2021-680
 period: 2
 operation_type: undercover
 status: completed

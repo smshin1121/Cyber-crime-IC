@@ -4,21 +4,21 @@ title: "Crimenetwork Relaunch Takedown (May 2026)"
 aliases:
   - "Crimenetwork 2.0 takedown"
   - "Crimenetwork Neuauflage"
-  - "BustedAgainCrime.network"
-case_id: ""
+  - BustedAgainCrime.network
+case_id: CYB-2026-266
 period: 3
-operation_type: "takedown"
-status: "completed"
+operation_type: takedown
+status: completed
 enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "takedown"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - seizure
+  - takedown
+  - asset_freeze
+outcome: success
 timeframe:
-  announced: "2026-05-08"
-  start: "2026-05-06"
-  end: "2026-05-06"
+  announced: 2026-05-08
+  start: 2026-05-06
+  end: 2026-05-06
   ongoing: false
 crime_types:
   - "[[dark-web-ic]]"
@@ -26,7 +26,7 @@ crime_types:
   - "[[drug-trafficking]]"
   - "[[online-fraud-ic]]"
   - "[[counterfeit-goods]]"
-crime_type: "dark-web-ic"
+crime_type: dark-web-ic
 target_entity: "Crimenetwork (relaunched darknet marketplace)"
 lead_agency: "[[germany-bka]]"
 coordinating_body: "[[eurojust]]"
@@ -86,13 +86,16 @@ edges:
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
-  - "case_id"
-  - "indictments"
-  - "servers_seized"
-  - "victims_notified"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - case_id
+  - indictments
+  - servers_seized
+  - victims_notified
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "Successor platforms can re-emerge within days after a takedown; sustained monitoring of the 'underground economy' ecosystem is required to detect and disrupt relaunches."
   - "European Arrest Warrant + host-state special police unit remains an effective pathway when a German-language marketplace operator is physically located in another EU member state."
@@ -103,7 +106,6 @@ sources:
 created: 2026-05-09
 updated: 2026-05-09
 ---
-
 > [!info] Provisional / single-source page
 > This page is built from a single tier-1 primary source (the BKA / ZIT joint press release of 8 May 2026). It is below the preferred publication threshold of `source_count >= 5` and should be enriched as additional tier-1 sources (Eurojust press release, Spanish National Police statement, Moldovan CCCC statement, court filings) are ingested.
 

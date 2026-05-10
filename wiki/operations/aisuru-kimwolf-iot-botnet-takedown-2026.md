@@ -86,7 +86,7 @@ edges:
     cooperation_type: joint_investigation
     legal_basis: informal-cooperation
     direction: undirected
-  - source_actor: usdoj
+  - source_actor: us-doj
     target_actor: germany-bka
     cooperation_type: technical_assistance
     legal_basis: informal-cooperation
@@ -140,7 +140,7 @@ The takedown action followed "aufwaendige mehrmonatige Ermittlungen [...] von ho
 |---|---|---|
 | Germany | **Lead (German leg)** — [[germany-bka\|Bundeskriminalamt (BKA)]] + Zentral- und Ansprechstelle Cybercrime Nordrhein-Westfalen (ZAC NRW) | Investigative lead, residence searches, evidence seizure, public communication |
 | Germany | Bundesamt fuer Sicherheit in der Informationstechnik (BSI) | Technical analysis, sinkholing of perpetrator infrastructure, victim-notification via German ISPs |
-| United States | [[usdoj\|U.S. Department of Justice]] + [[us-dcis\|Defense Criminal Investigative Service (DCIS)]] + [[fbi\|Federal Bureau of Investigation]] (Anchorage Field Office) | Court-authorised C2 disruption, parallel charging in US jurisdiction |
+| United States | [[us-doj\|U.S. Department of Justice]] + [[us-dcis\|Defense Criminal Investigative Service (DCIS)]] + [[fbi\|Federal Bureau of Investigation]] (Anchorage Field Office) | Court-authorised C2 disruption, parallel charging in US jurisdiction |
 | Canada | [[canada-rcmp-federal-policing\|Canadian federal LE]] (specific agency not named in BKA release) | Residence search of identified Canadian-resident administrator |
 
 > [!warning] Canadian agency identification not stated in primary source

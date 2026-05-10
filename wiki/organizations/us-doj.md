@@ -1016,6 +1016,14 @@ operations_participated:
   - "[[warzone-rat-takedown-2024]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
+  - "[[2bagoldmule-qqaazz]]"
+  - "[[911-s5-botnet-takedown]]"
+  - "[[darkode-takedown]]"
+  - "[[fin7-takedown]]"
+  - "[[hive-ransomware-takedown]]"
+  - "[[operation-avalanche]]"
+  - "[[operation-secreto]]"
+  - "[[operation-wirewire]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

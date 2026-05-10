@@ -22,7 +22,7 @@ key_roles:
 cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[cbi-india]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[fbi]]"
 operations_participated:
   - "[[911-s5-botnet-takedown]]"

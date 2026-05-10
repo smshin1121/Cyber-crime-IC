@@ -19,7 +19,7 @@ typical_mechanisms:
   - "[[joint-investigation-team]]"
 key_organizations:
   - "[[fbi]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[europol-ec3]]"
 notable_operations:
   - "[[darkode-takedown]]"

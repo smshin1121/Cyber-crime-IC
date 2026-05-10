@@ -1,8 +1,8 @@
 ---
-title: Source Duplicate Audit (2026-04-29-postbuild)
+title: "Source Duplicate Audit (2026-04-29-postbuild)"
 type: analysis
-created: 2026-04-29-postbuild
-updated: 2026-04-29-postbuild
+created: 2026-04-29
+updated: 2026-04-29
 summary: "Audit of duplicate source records by collection URL and content hash."
 source_count: 0
 ---

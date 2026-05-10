@@ -7,25 +7,25 @@ aliases:
   - "Operation Endgame — AvCheck (CAV/crypter sub-operation)"
   - "OM.nl Schiphol cybercrime arrest 12 Jan 2026"
   - "Counter Antivirus service takedown 27 May 2025"
-case_id: ""
+case_id: CYB-2025-447
 period: 3
-operation_type: "infrastructure-seizure"
-status: "ongoing"
+operation_type: infrastructure-seizure
+status: ongoing
 enforcement_type:
-  - "seizure"
-  - "takedown"
-  - "arrest"
-outcome: "partial"
+  - seizure
+  - takedown
+  - arrest
+outcome: partial
 timeframe:
-  announced: "2025-05-27"
-  start: "2025-05-27"
-  end: "2026-01-11"
+  announced: 2025-05-27
+  start: 2025-05-27
+  end: 2026-01-11
   ongoing: true
 crime_types:
   - "[[malware-ic]]"
   - "[[cybercrime-infrastructure-ic]]"
   - "[[ransomware-ic]]"
-crime_type: "malware-ic"
+crime_type: malware-ic
 target_entity: "Counter-Antivirus (CAV) testing service avcheck.net and associated crypter domains (Cryptor.biz, Cryptor.live, Crypt.guru per external reporting); Amsterdam-based operator and his two companies"
 lead_agency: ""
 coordinating_body: ""
@@ -63,21 +63,21 @@ results:
     - "Data carriers (gegevensdragers) seized from the suspect for forensic analysis"
     - "Underlying May 2025 operation (NL/US/FI) dismantled the CAV/crypter testing service used by malware developers — externally identified as AvCheck.net + Cryptor.biz + Cryptor.live + Crypt.guru (4 domains seized by U.S. DOJ on 27 May 2025)"
 edges:
-  - source_actor: "Netherlands"
+  - source_actor: Netherlands
     target_actor: "United States"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "Netherlands"
-    target_actor: "Finland"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: Netherlands
+    target_actor: Finland
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
   - source_actor: "United States"
-    target_actor: "Finland"
-    cooperation_type: "info_sharing"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    target_actor: Finland
+    cooperation_type: info_sharing
+    legal_basis: Budapest_Convention
+    direction: undirected
 credibility_index: 3.0
 source_tier: 1
 missing_fields:
@@ -85,11 +85,13 @@ missing_fields:
   - "details of UAE cooperation (or absence thereof) regarding the suspect's relocation"
   - "MLAT request specifics (NL→US, NL→FI) not disclosed"
   - "links to specific malware families whose operators relied on the service"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase2]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "Counter-Antivirus / crypter services are an upstream chokepoint for malware delivery — disrupting them creates downstream visibility into the operators of the malware that used them."
   - "Tri-lateral coordination (NL-US-FI) on a single CAV service produced both immediate infrastructure takedown (May 2025) and a follow-up arrest at a non-extraditing transit point (Schiphol, January 2026) — illustrating the value of international wanted-person flagging when the suspect attempts to relocate to a non-cooperating jurisdiction (UAE)."
@@ -100,7 +102,6 @@ sources:
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 # AvCheck Counter-Antivirus Takedown & Schiphol Follow-up Arrest (NL/US/FI, 2025–2026)
 
 > [!info] Provisional / single-source page

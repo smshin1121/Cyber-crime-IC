@@ -80,6 +80,7 @@ crime_types:
   - "[[bec-ic|Business Email Compromise (BEC)]]"
   - "[[dark-web-ic]]"
   - "[[malware-ic]]"
+case_id: CYB-2024-248
 ---
 ## Summary
 

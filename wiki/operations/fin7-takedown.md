@@ -20,7 +20,7 @@ timeframe:
 crime_type: "[[hacking-ic]]"
 target_entity: "FIN7 (Carbanak Group)"
 lead_agency: "[[fbi]]"
-coordinating_body: "[[usdoj]]"
+coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
   - "[[united-kingdom]]"
@@ -28,7 +28,7 @@ participating_countries:
   - "[[france]]"
 participating_agencies:
   - "[[fbi]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
 legal_basis:
 
 mechanisms_used:
@@ -82,7 +82,7 @@ jurisdictions:
   - "[[france]]"
 organizations:
   - "[[fbi]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
 crime_types:
   - "[[hacking-ic]]"
   - "[[malware-ic]]"

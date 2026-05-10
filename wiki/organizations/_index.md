@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-# Organizations (153)
+# Organizations (152)
 
 | Organization | Type | Country/HQ | Key IC Roles | Operations | Sources |
 |--------------|------|------------|--------------|------------|---------|
@@ -82,9 +82,8 @@ updated: 2026-04-08
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 8 | 8 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 48 | 14 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 14 | 4 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 969 | 13 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 977 | 13 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 23 | 8 |
-| [[usdoj]] | national-agency | Washington, D.C., United States | federal prosecution; international evidence coordination | 11 | 3 |
 | [[krcert-cc]] | national-cert | [[south-korea]] | Coordinates incident response and public cyber-security guidance for the Korean internet ecosystem.; Provides the operational CERT/CC-facing function associated with KISA's national cyber-security mandate. | — | 1 |
 | [[portugal-policia-judiciaria]] | national-criminal-police | Lisbon, Portugal | Parent organization for [[portugal-police\|UNC3T]], Portugal's specialized cybercrime unit.; Participates in international cyber-enabled fraud, money-laundering, and cybercrime operations through PJ and UNC3T channels. | 7 | 4 |
 | [[french-high-tech-crime-unit]] | national-cybercrime-unit | [[france]] | Acts as the French specialist police channel in cyber-extortion investigations that require cross-border arrests or evidence support.; Coordinates with Europol and foreign police partners when French suspects, victims, or warrants intersect with foreign infrastructure or custody. | 1 | 1 |

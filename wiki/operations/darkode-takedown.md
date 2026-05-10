@@ -28,7 +28,7 @@ operation_type: takedown
 outcome: success
 participating_agencies:
   - "[[fbi-cyber-division]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[europol-ec3]]"
   - "[[ncfta]]"
 
@@ -81,7 +81,7 @@ parent_operation: ""
 summary: "In July 2015, the FBI, in coordination with Europol and law enforcement from approximately 20 countries, took down **Darkode**, one of the most prolific English-language cybercrime forums. The operation resulted in charges, arrests, or searches of approximately 70 Darkode members worldwide, with 12 individuals indicted in the United States."
 organizations:
   - "[[fbi-cyber-division]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[europol-ec3]]"
   - "[[ncfta]]"
 crime_types:

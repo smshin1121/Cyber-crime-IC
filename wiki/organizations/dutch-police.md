@@ -6,7 +6,7 @@ contact_point_for:
 cooperation_partners:
   - "[[fbi]]"
   - "[[europol-ec3]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[german-bka]]"
 country: "[[netherlands]]"
 jurisdiction:

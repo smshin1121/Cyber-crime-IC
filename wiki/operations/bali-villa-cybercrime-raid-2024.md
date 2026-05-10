@@ -61,6 +61,7 @@ organizations:
   - "[[indonesia-immigration|Indonesia Immigration Supervision and Enforcement Directorate]]"
 crime_types:
   - "[[online-fraud-ic|Online Fraud]]"
+case_id: CYB-2024-396
 ---
 ## Summary
 

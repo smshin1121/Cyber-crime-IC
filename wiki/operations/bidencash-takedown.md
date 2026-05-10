@@ -5,7 +5,7 @@ title_ko: "BidenCash 마켓플레이스 압수"
 aliases:
   - "BidenCash Takedown"
   - "BidenCash Domain Seizure"
-case_id: ""
+case_id: CYB-2025-505
 period: 3
 operation_type: infrastructure-seizure
 status: completed

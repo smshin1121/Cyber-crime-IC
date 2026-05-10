@@ -115,7 +115,7 @@ This is the **second PRC-contractor botnet** disrupted by DOJ in 2024 — AAG Ol
 ### Lead U.S. components
 
 - **[[fbi|Federal Bureau of Investigation]]** — San Diego Field Office (Special Agent in Charge Stacey Moy) and **[[fbi-cyber-division|Cyber Division]]**.
-- **[[usdoj|U.S. Department of Justice]]** — National Security Division (NSD) National Security Cyber Section (AAG Matthew G. Olsen); Criminal Division — Computer Crime and Intellectual Property Section (CCIPS); Criminal Division — Office of International Affairs (OIA).
+- **[[us-doj|U.S. Department of Justice]]** — National Security Division (NSD) National Security Cyber Section (AAG Matthew G. Olsen); Criminal Division — Computer Crime and Intellectual Property Section (CCIPS); Criminal Division — Office of International Affairs (OIA).
 - **U.S. Attorney's Office for the Western District of Pennsylvania** (USAO WDPA) — U.S. Attorney Eric G. Olshan; this is the court venue where seizure orders were unsealed.
 
 ### Same-day Joint Cybersecurity Advisory co-signers

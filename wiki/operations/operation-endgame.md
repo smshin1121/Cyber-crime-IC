@@ -162,6 +162,7 @@ organizations:
 crime_types:
   - "[[ransomware-ic]]"
   - "[[malware-ic]]"
+case_id: CYB-2024-799
 ---
 ## Summary
 

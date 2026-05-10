@@ -21,7 +21,7 @@ key_organizations:
   - "[[europol-ec3]]"
   - "[[eurojust]]"
   - "[[fbi]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
 notable_operations:
   - "[[doublevpn-takedown]]"
   - "[[operation-nova]]"

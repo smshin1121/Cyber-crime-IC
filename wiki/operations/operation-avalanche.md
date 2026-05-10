@@ -61,7 +61,7 @@ participating_agencies:
   - "[[eurojust]]"
   - "[[interpol]]"
   - "[[fbi]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[shadowserver]]"
   - "[[icann]]"
 legal_basis: []
@@ -142,7 +142,7 @@ Avalanche is a reference case for infrastructure takedowns because it was not ju
 **Key operational partners:**
 - [[interpol]]
 - [[fbi]]
-- [[usdoj]]
+- [[us-doj]]
 - BSI
 - [[shadowserver]]
 - [[icann]]

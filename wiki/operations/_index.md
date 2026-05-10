@@ -47,10 +47,12 @@ updated: 2026-04-14
 | [[operation-power-off]] | CYB-2018-006 | 1 | ongoing | umbrella | 9 | 4.40 | 1 |
 | [[operation-bakovia]] | CYB-2018-050 | 1 | completed | umbrella | 5 | 2.00 | 3 |
 | [[goznym-takedown]] | CYB-2019-001 | 2 | completed | umbrella | 5 | 4.20 | 2 |
+| [[cyberbunker-takedown]] | CYB-2019-020 | 2 | completed | umbrella | 5 | 4.00 | 1 |
 | [[imminent-monitor-rat-takedown]] | CYB-2019-050 | 2 | completed | umbrella | 5 | 1.88 | 3 |
 | [[xdedic-marketplace-takedown]] | CYB-2019-051 | 2 | completed | umbrella | 9 | 4.20 | 1 |
 | [[operation-perfect-storm-pay-tv-piracy-2019]] | CYB-2019-052 | 2 | completed | umbrella | 3 | 4.20 | 1 |
 | [[operation-404-digital-piracy-2019]] | CYB-2019-053 | 2 | ongoing | umbrella | 3 | 4.10 | 1 |
+| [[operation-rewired]] | CYB-2019-244 | 2 | completed | umbrella | 5 | 4.50 | 1 |
 | [[operation-goldfish-alpha-night-fury]] | CYB-2020-002 | 2 | completed | umbrella | 5 | 2.28 | 2 |
 | [[2bagoldmule-qqaazz]] | CYB-2020-003 | 2 | completed | umbrella | 5 | 2.28 | 2 |
 | [[trickbot-operations]] | CYB-2020-003 | 2 | completed | umbrella | 4 | 4.50 | 1 |
@@ -60,6 +62,7 @@ updated: 2026-04-14
 | [[spanish-pay-tv-streaming-network-takedown-2020]] | CYB-2020-053 | 2 | completed | umbrella | 3 | 4.20 | 1 |
 | [[romania-phishing-takedown-2024]] | CYB-2020-054 | 2 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-disruptor]] | CYB-2020-055 | 2 | completed | umbrella | 5 | 4.50 | 1 |
+| [[carding-action-2020]] | CYB-2020-435 | 2 | completed | umbrella | 6 | 3.50 | 2 |
 | [[darkmarket-takedown]] | CYB-2021-001 | 2 | completed | umbrella | 5 | 4.50 | 1 |
 | [[operation-secreto]] | CYB-2021-001 | 2 | completed | umbrella | 4 | 2.28 | 2 |
 | [[operation-haechi-ii]] | CYB-2021-002 | 2 | completed | umbrella | 5 | 3.80 | 2 |
@@ -67,6 +70,7 @@ updated: 2026-04-14
 | [[operation-dark-huntor]] | CYB-2021-010 | 2 | completed | umbrella | 5 | 3.50 | 2 |
 | [[doublevpn-takedown]] | CYB-2021-051 | 2 | completed | umbrella | 5 | 4.00 | 1 |
 | [[mobdro-illegal-streaming-takedown-2021]] | CYB-2021-052 | 2 | completed | umbrella | 3 | 4.20 | 1 |
+| [[operation-trojan-shield]] | CYB-2021-680 | 2 | completed | umbrella | 4 | 4.80 | 1 |
 | [[operation-killer-bee]] | CYB-2022-001 | 2 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-haechi-iii]] | CYB-2022-002 | 2 | completed | umbrella | 5 | 3.50 | 2 |
 | [[vpnlab-takedown]] | CYB-2022-002 | 3 | completed | umbrella | 5 | 4.50 | 1 |
@@ -89,6 +93,8 @@ updated: 2026-04-14
 | [[operation-cookie-monster]] | CYB-2023-054 | 3 | completed | umbrella | 4 | 4.50 | 1 |
 | [[treasury-matveev-russian-ransomware-sanctions-2023]] | CYB-2023-099 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]] | CYB-2023-100 | 2 | completed | — | 1 | 4.50 | 1 |
+| [[afp-usss-operation-wickham-changjiang-money-laundering-2023]] | CYB-2023-683 | 2 | ongoing | — | 1 | 3.00 | 1 |
+| [[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]] | CYB-2023-856 | 2 | completed | — | 1 | 3.00 | 1 |
 | [[operation-orion-international]] | CYB-2024-001 | 3 | completed | umbrella | 4 | — | — |
 | [[operation-cronos-phase1]] | CYB-2024-002 | 3 | completed | umbrella | 7 | 2.28 | 2 |
 | [[operation-endgame-phase1]] | CYB-2024-003 | 3 | completed | umbrella | 5 | 2.28 | 2 |
@@ -122,6 +128,10 @@ updated: 2026-04-14
 | [[operation-cronos-phase2]] | CYB-2024-201 | 2 | completed | phase | 1 | 4.00 | 1 |
 | [[labhost-phishing-as-a-service-takedown-2024]] | CYB-2024-202 | 2 | completed | — | 1 | 4.00 | 1 |
 | [[matrix-encrypted-messaging-takedown-2024]] | CYB-2024-203 | 2 | completed | — | 1 | 4.50 | 1 |
+| [[operation-heart-blocker]] | CYB-2024-248 | 3 | completed | umbrella | 5 | — | — |
+| [[nemesis-market-takedown]] | CYB-2024-357 | 3 | completed | umbrella | 5 | — | — |
+| [[operation-kraken-ghost-platform]] | CYB-2024-542 | 3 | completed | umbrella | 7 | — | — |
+| [[operation-endgame]] | CYB-2024-799 | 3 | ongoing | umbrella | 9 | — | — |
 | [[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]] | CYB-2024-AR-KAERB | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-pandora-12-phone-fraud-call-centres-2024]] | CYB-2024-PND | 3 | completed | — | 2 | 4.50 | 1 |
 | [[operation-toy-soldier-gru-29155-estonia-2024]] | CYB-2024-TOYSOLDIER | 3 | ongoing | — | 1 | 4.50 | 1 |
@@ -193,6 +203,8 @@ updated: 2026-04-14
 | [[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]] | CYB-2025-302 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[pf-magna-fraus-pix-fraud-2025]] | CYB-2025-310 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[gxc-team-googlexcoder-phishing-kits-takedown-2025]] | CYB-2025-410 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]] | CYB-2025-447 | 3 | ongoing | — | 1 | 3.00 | 1 |
+| [[bidencash-takedown]] | CYB-2025-505 | 3 | completed | umbrella | 4 | 4.50 | 1 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 4 | 4.50 | 2 |
 | [[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]] | CYB-2025-AIT-PR2510 | 3 | ongoing | — | 1 | 4.40 | 1 |
 | [[operation-cumberland-ai-csam-2025]] | CYB-2025-CMB | 3 | ongoing | — | 1 | 4.60 | 1 |
@@ -247,6 +259,7 @@ updated: 2026-04-14
 | [[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]] | CYB-2026-119 | 3 | ongoing | — | 1 | 3.00 | 1 |
 | [[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]] | CYB-2026-120 | 3 | completed | standalone | 1 | 3.20 | 1 |
 | [[sweden-us-bank-impersonation-fraud-extradition-2026]] | CYB-2026-124 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[crimenetwork-relaunch-takedown-2026]] | CYB-2026-266 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[aisuru-kimwolf-iot-botnet-takedown-2026]] | CYB-2026-AISURU-KIMWOLF | 3 | completed | — | 1 | 4.00 | 1 |
 | [[italy-hsi-europol-live-distant-child-abuse-2026]] | CYB-2026-LDCA | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-mad-hatter-csam-italy-fbi-2026]] | CYB-2026-MADHAT | 3 | completed | — | 1 | 4.50 | 1 |
@@ -256,19 +269,6 @@ updated: 2026-04-14
 | [[operation-us-v-szabo-swatting-ring]] | CYB-2026-USRO-01 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |
-| [[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]] | — | 2 | completed | — | 1 | 3.00 | 1 |
-| [[afp-usss-operation-wickham-changjiang-money-laundering-2023]] | — | 2 | ongoing | — | 1 | 3.00 | 1 |
-| [[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]] | — | 3 | ongoing | — | 1 | 3.00 | 1 |
-| [[bidencash-takedown]] | — | 3 | completed | umbrella | 4 | 4.50 | 1 |
-| [[carding-action-2020]] | — | 2 | completed | umbrella | 6 | 3.50 | 2 |
-| [[crimenetwork-relaunch-takedown-2026]] | — | 3 | completed | — | 1 | 4.50 | 1 |
-| [[cyberbunker-takedown]] | — | 2 | completed | umbrella | 5 | 4.00 | 1 |
-| [[nemesis-market-takedown]] | — | 3 | completed | umbrella | 5 | — | — |
-| [[operation-endgame]] | — | 3 | ongoing | umbrella | 9 | — | — |
-| [[operation-heart-blocker]] | — | 3 | completed | umbrella | 5 | — | — |
-| [[operation-kraken-ghost-platform]] | — | 3 | completed | umbrella | 7 | — | — |
-| [[operation-rewired]] | — | 2 | completed | umbrella | 5 | 4.50 | 1 |
-| [[operation-trojan-shield]] | — | 2 | completed | umbrella | 4 | 4.80 | 1 |
 
 ## Absorbed Follow-On Records (27)
 

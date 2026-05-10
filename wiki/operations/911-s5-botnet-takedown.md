@@ -12,7 +12,7 @@ edges:
 
 enforcement_type:
 
-lead_agency: "[[usdoj]]"
+lead_agency: "[[us-doj]]"
 legal_basis:
 
 lessons_learned:
@@ -27,7 +27,7 @@ missing_fields:
 operation_type: takedown
 outcome: success
 participating_agencies:
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[fbi]]"
   - "[[us-treasury]]"
 
@@ -79,7 +79,7 @@ operation_role: umbrella
 parent_operation: ""
 summary: "The U.S. Department of Justice and FBI, in cooperation with Germany, Singapore, and Thailand, dismantled the 911 S5 botnet -- the world's largest botnet, which had infected over 19 million IP addresses across nearly 200 countries. The administrator, YunHe Wang, was arrested. The botnet had been used to facilitate large-scale fraud, identity theft, child sexual exploitation, bomb threats, and illegal financial transactions."
 organizations:
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[fbi]]"
 crime_types:
   - "[[malware-ic]]"
@@ -95,7 +95,7 @@ The target was not a single malware family in isolation. 911 S5 operated as a pr
 
 | Role | Parties |
 |---|---|
-| Lead criminal authority | [[usdoj|U.S. Department of Justice]] |
+| Lead criminal authority | [[us-doj|U.S. Department of Justice]] |
 | Investigative and victim-guidance authority | [[fbi|FBI]], including IC3-facing public guidance |
 | Financial disruption | [[us-treasury|U.S. Department of the Treasury / OFAC]] |
 | Named partner jurisdictions | [[germany|Germany]], [[singapore|Singapore]], [[thailand|Thailand]] |

@@ -32,7 +32,7 @@ participating_agencies:
   - "[[us-secret-service]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
 legal_basis:
 
 mechanisms_used:
@@ -94,7 +94,7 @@ organizations:
   - "[[europol-ec3]]"
   - "[[us-secret-service]]"
   - "[[eurojust]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
 crime_types:
   - "[[online-fraud-ic]]"
 ---

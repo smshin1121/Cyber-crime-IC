@@ -27,7 +27,7 @@ crime_types:
   - "[[organized-crime-ic]]"
   - "[[money-laundering-ic]]"
 target_entity: "Three of the largest internet piracy platforms in the European Union — zamunda.net, arenabg.com, and zelka.org — allegedly operated from Bulgaria, providing illegal copies of copyrighted movies, television shows, video games, software, e-books, and other content owned predominantly by U.S. companies and individuals; the three domains receive tens of millions of visits per year per the affidavits supporting the seizure warrants."
-lead_agency: "[[usdoj]]"
+lead_agency: "[[us-doj]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
   - "[[united-states]]"
@@ -35,12 +35,12 @@ participating_countries:
   - "[[romania]]"
   - "[[greece]]"
 participating_agencies:
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[bulgaria-police]]"
   - "[[bulgaria-ministry-of-interior]]"
   - "[[europol-ec3]]"
 organizations:
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[bulgaria-police]]"
   - "[[bulgaria-ministry-of-interior]]"
   - "[[europol-ec3]]"
@@ -68,22 +68,22 @@ results:
     - "Visitors to seized domains now see a U.S. seizure banner advising that willful copyright infringement is a crime"
     - "Per DOJ ICHIP April 2026 summary, the platforms 'were used by millions of users monthly and responsible for substantial losses to U.S. copyright holders'"
 edges:
-  - source_actor: usdoj
+  - source_actor: us-doj
     target_actor: bulgaria-police
     cooperation_type: joint_investigation
     legal_basis: bilateral_MOU
     direction: undirected
-  - source_actor: usdoj
+  - source_actor: us-doj
     target_actor: bulgaria-ministry-of-interior
     cooperation_type: joint_investigation
     legal_basis: bilateral_MOU
     direction: undirected
-  - source_actor: usdoj
+  - source_actor: us-doj
     target_actor: europol-ec3
     cooperation_type: technical_assistance
     legal_basis: informal
     direction: undirected
-  - source_actor: usdoj
+  - source_actor: us-doj
     target_actor: bulgaria-police
     cooperation_type: capacity_building
     legal_basis: bilateral_MOU
@@ -132,7 +132,7 @@ The operational precondition was a **new Bulgarian criminal statute that crimina
 
 | Role | Parties |
 |---|---|
-| U.S. lead | [[usdoj\|U.S. Department of Justice]] — Criminal Division (Computer Crime and Intellectual Property Section); Office of Overseas Prosecutorial Development, Assistance & Training (OPDAT); U.S. Attorney's Office for the Southern District of Mississippi |
+| U.S. lead | [[us-doj\|U.S. Department of Justice]] — Criminal Division (Computer Crime and Intellectual Property Section); Office of Overseas Prosecutorial Development, Assistance & Training (OPDAT); U.S. Attorney's Office for the Southern District of Mississippi |
 | U.S. investigative agency | Homeland Security Investigations (HSI) New Orleans Field Office; National Intellectual Property Rights Coordination Center (IPR Center) |
 | U.S. in-region attachés | HSI Athens office ([[greece\|Greece]]); Customs and Border Protection (CBP) Sofia office ([[bulgaria\|Bulgaria]]); ICHIP advisor based in Bucharest ([[romania\|Romania]]) |
 | Bulgarian agencies | National Investigative Service (NIS); [[bulgaria-police\|Ministry of the Interior's General Directorate Combating Organized Crime (GDCOC / GDBOP)]] under the [[bulgaria-ministry-of-interior\|Bulgaria Ministry of Interior]]; State Agency for National Security; Prosecutor's Office of Bulgaria (Sofia City and Sofia District levels; coordinated by Acting Prosecutor General Borislav Sarafov) |

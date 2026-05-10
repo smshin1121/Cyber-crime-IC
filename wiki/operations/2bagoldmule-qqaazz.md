@@ -41,7 +41,7 @@ participating_countries:
 participating_agencies:
   - "[[europol-ec3]]"
   - "[[portuguese-judicial-police]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[fbi]]"
   - "[[spanish-national-police]]"
   - "[[uk-nca]]"
@@ -122,7 +122,7 @@ jurisdictions:
 organizations:
   - "[[europol-ec3]]"
   - "[[portuguese-judicial-police]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[fbi]]"
   - "[[spanish-national-police]]"
   - "[[uk-nca]]"

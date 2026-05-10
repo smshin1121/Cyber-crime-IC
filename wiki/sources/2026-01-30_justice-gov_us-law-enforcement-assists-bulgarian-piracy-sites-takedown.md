@@ -19,7 +19,7 @@ pages_updated:
   - "[[bulgaria-police]]"
   - "[[bulgaria-ministry-of-interior]]"
   - "[[europol-ec3]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[illegal-iptv-ic]]"
 key_findings:
   - "Operation date: announced 30 January 2026 (Friday). DOJ press release number 26-82, Office of Public Affairs, Topic: Cybercrime."

@@ -113,6 +113,7 @@ organizations:
 crime_types:
   - "[[cybercrime-infrastructure-ic|Cybercrime Infrastructure Disruption]]"
   - "[[online-fraud-ic|Online Fraud]]"
+case_id: CYB-2024-542
 ---
 ## Summary
 

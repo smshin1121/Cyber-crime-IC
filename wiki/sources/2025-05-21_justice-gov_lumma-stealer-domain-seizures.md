@@ -15,7 +15,7 @@ pages_updated:
   - lumma-stealer-takedown
 collection_url: https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation
 created: 2026-04-19
-updated: 2026-04-18
+updated: 2026-04-19
 duplicate_of: "[[2025-05-21_justice-gov_justice-department-seizes-domains-behind-major-information-stealing-malware-oper]]"
 duplicate_reason: same_collection_url
 duplicate_key: https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation

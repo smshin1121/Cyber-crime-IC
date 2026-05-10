@@ -33,7 +33,8 @@ participating_agencies:
   - "[[fbi-cyber-division|FBI]]"
   - DEA
   - IRS-CI
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[informal-cooperation|Informal Law Enforcement Cooperation]]"
   - "[[mutual-legal-assistance|Mutual Legal Assistance]]"
@@ -73,6 +74,7 @@ organizations:
 crime_types:
   - "[[online-fraud-ic|Online Fraud / Cybercrime Services]]"
   - "[[dark-web-ic]]"
+case_id: CYB-2024-357
 ---
 ## Summary
 

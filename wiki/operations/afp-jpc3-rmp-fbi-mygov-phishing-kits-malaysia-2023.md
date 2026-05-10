@@ -5,7 +5,7 @@ aliases:
   - "AFP eight arrests over phishing kits"
   - "Malaysian myGov phishing-kit syndicate (2023)"
   - "Borneo phishing-kit raid 2023"
-case_id: ""
+case_id: CYB-2023-856
 period: 2
 operation_type: arrest-sweep
 status: completed
@@ -36,7 +36,7 @@ participating_agencies:
   - "[[malaysia-police]]"
   - "[[fbi-cyber-division]]"
 legal_basis:
-  []
+
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:
@@ -74,7 +74,7 @@ missing_fields:
   - case_id
   - victims_notified
 related_cases:
-  []
+
 related_operations:
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[w3ll-phishing-kit-takedown-2026]]"

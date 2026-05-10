@@ -5,7 +5,7 @@ aliases:
   - "Operation Wickham"
   - "AFP-USSS Wickham"
   - "Changjiang Currency Exchange laundering investigation (AFP-USSS, 2023)"
-case_id: ""
+case_id: CYB-2023-683
 period: 2
 operation_type: joint-investigation
 status: ongoing
@@ -32,7 +32,8 @@ participating_countries:
 participating_agencies:
   - "[[australia-afp]]"
   - "[[us-secret-service]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:
@@ -49,13 +50,13 @@ results:
     - "AUD 160 million+ estimated total stolen worldwide through the underlying investment scams."
     - "Search warrants executed at Sydney and Melbourne residences on 25 October 2023."
 edges:
-  - source_actor: "us-secret-service"
-    target_actor: "australia-afp"
+  - source_actor: us-secret-service
+    target_actor: australia-afp
     cooperation_type: info_sharing
     legal_basis: informal
     direction: directed
-  - source_actor: "australia-afp"
-    target_actor: "us-secret-service"
+  - source_actor: australia-afp
+    target_actor: us-secret-service
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
@@ -66,7 +67,8 @@ missing_fields:
   - case_id
   - victims_notified
   - cryptocurrency_seized
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
@@ -81,7 +83,6 @@ sources:
 created: 2026-05-10
 updated: 2026-05-10
 ---
-
 > [!info] Provisional / source-thin
 > This operation page is being seeded from a single tier-1 primary AFP press release ([[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham|AFP, 26 October 2023]]). It is below the preferred publication threshold of `source_count >= 5`. Treat the page as a stub-grade record pending corroborating primary statements from the United States Secret Service, US Homeland Security Investigations, and the parallel 25 October 2023 AFP "Seven syndicate members charged" release on the wider Changjiang / Long River takedown.
 

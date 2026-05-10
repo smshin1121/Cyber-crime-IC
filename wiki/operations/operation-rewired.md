@@ -5,7 +5,7 @@ title_ko: "Operation reWired (BEC 글로벌 단속)"
 aliases:
   - reWired
   - "Operation ReWired"
-case_id: ""
+case_id: CYB-2019-244
 period: 2
 operation_type: arrest-sweep
 status: completed

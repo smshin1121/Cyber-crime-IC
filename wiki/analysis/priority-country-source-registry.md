@@ -1,5 +1,5 @@
 ---
-title: Priority Country Source Registry
+title: "Priority Country Source Registry"
 type: analysis
 analysis_type: gap-analysis
 confidence: high
@@ -33,6 +33,7 @@ key_judgments:
     confidence: high
 sources:
   - "[[european-trusted-source-map]]"
+source_count: 1
 ---
 # Priority Country Source Registry
 

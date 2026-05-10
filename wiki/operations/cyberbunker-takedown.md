@@ -6,7 +6,7 @@ aliases:
   - "CyberBunker 2.0 Raid"
   - "Traben-Trarbach Data Centre Raid"
   - "CB3ROB Takedown"
-case_id: ""
+case_id: CYB-2019-020
 period: 2
 operation_type: infrastructure-seizure
 status: completed

@@ -6,7 +6,7 @@ contact_point_for:
 cooperation_partners:
   - "[[europol-ec3]]"
   - "[[portuguese-judicial-police]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[fbi]]"
 country: "[[spain]]"
 jurisdiction:

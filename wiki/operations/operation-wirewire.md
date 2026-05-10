@@ -21,7 +21,7 @@ timeframe:
 crime_type: "[[bec-ic]]"
 target_entity: "Business Email Compromise (BEC) networks"
 lead_agency: "[[fbi]]"
-coordinating_body: "[[usdoj]]"
+coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
   - "[[nigeria]]"
@@ -29,7 +29,7 @@ participating_countries:
   - "[[mauritius]]"
   - "[[poland]]"
 participating_agencies:
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[fbi]]"
   - "[[us-dhs]]"
   - "[[us-treasury]]"
@@ -89,7 +89,7 @@ jurisdictions:
   - "[[poland]]"
 organizations:
   - "[[fbi]]"
-  - "[[usdoj]]"
+  - "[[us-doj]]"
   - "[[us-dhs]]"
   - "[[us-treasury]]"
   - "[[us-postal-inspection]]"
