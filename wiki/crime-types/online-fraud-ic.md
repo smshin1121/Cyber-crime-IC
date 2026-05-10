@@ -99,6 +99,7 @@ notable_operations:
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
+  - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -116,7 +117,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 92
+source_count: 93
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -210,6 +211,7 @@ sources:
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
   - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
+  - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -365,3 +367,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [90] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
 | [91] | [[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests\|KNPA-Vietnam Public Security joint arrest of 5 Cambodia-Bavet romance-scam cadre in Vietnam (Da Nang+HCMC+Khanh Hoa, Oct 2025); 192 KR victims, ~₩4.6B losses]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2025-11-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156724852 |
 | [92] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
+| [93] | [[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia\|Polizia di Stato — Operazione Cagliostro/Voltaiko: IT-FR Eurojust-coordinated crypto-wallet freezing in photovoltaic Ponzi (Apr 2026); USD 7.5M crypto + EUR 2M earlier seizures, 6000 IT victims]] | Polizia di Stato — Servizio Polizia Postale | 2026-04-29 | https://www.poliziadistato.it/articolo/operazione-cagliostro-truffa-online-fotovoltaica |

@@ -27,6 +27,7 @@ operations_using:
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
+  - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
 cases_using:
   - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 ---

@@ -47,8 +47,9 @@ operations_participated:
   - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
+  - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
 region: southern-europe
-source_count: 9
+source_count: 10
 sources:
   - "[[2026-04-18_coe-int_italy-octopus-cybercrime-community-country-profile]]"
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
@@ -59,6 +60,7 @@ sources:
   - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
+  - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
 title: "Italian Republic"
 treaty_memberships:
   - date: 2008-06-05

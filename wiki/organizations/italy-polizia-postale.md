@@ -39,11 +39,12 @@ operations_participated:
   - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
+  - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
 notable_cases:
 
 contact_point_for:
   - "[[24-7-network]]"
-source_count: 6
+source_count: 7
 sources:
   - "[[2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi]]"
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
@@ -51,6 +52,7 @@ sources:
   - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
+  - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
 created: 2026-04-18
 updated: 2026-05-10
 last_verified: 2026-04-18

@@ -58,8 +58,9 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
+  - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
 region: western-europe
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]"
@@ -73,6 +74,7 @@ sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
+  - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
 title: "French Republic"
 treaty_memberships:
   - date: 2006-01-10

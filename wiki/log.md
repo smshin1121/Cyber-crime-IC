@@ -2120,4 +2120,30 @@
   - L24 strict ≥2-country IC compliance verified verbatim from Spanish release ("la estrecha cooperación internacional entre la Policía Judicial de la policía Nacional de España y la Dirección de Investigaciones Cibercrimen de la Policía de la Provincia de Buenos Aires").
   - L19/L23 strict applied: 2 wikilinked agencies (spanish-national-police, ncmec) + Argentine BA Provincial Police Cybercrime Directorate kept in body prose only (no wiki org page yet); lead_agency=`[[spanish-national-police]]`; coordinating_body left empty.
   - 2 reference rows appended; 13 pages with `updated:` bumped.
-- Sustained log integrity: stripped `[[ ]]` brackets from `usdoj` literal references in log.md (backtick-wrapped now) — lint LOW=0 restored.
+- Sustained log integrity: stripped wikilink brackets from `usdoj` literal references in log.md (backtick-wrapped now) — lint LOW=0 restored.
+
+## [2026-05-10] ingest | Operazione Cagliostro — Italy-France crypto-wallet freezing via Eurojust (Voltaiko photovoltaic Ponzi, USD 7.5M crypto seizure, Apr 2026) — iter 132
+- Source: raw/press-releases/2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia.md (Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica; it).
+- Pages created: wiki/sources/2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia.md, wiki/operations/operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026.md (provisional, source_count=1).
+- Key findings:
+  - **Second wiki record from poliziadistato.it main newsroom in 2026** (after iter 130 italy-china-us-hafnium-hacker-extradition-2026); promotes poliziadistato.it main domain to recurring tier-1 publisher.
+  - USD 7.5+ million cryptocurrency seizure described by Polizia di Stato as the single largest crypto seizure ever performed in Italy as of April 2026.
+  - Pre-existing seizures since investigation opened October 2025: voltaiko.com taken offline; 95 bank accounts frozen; 2 Rimini-province villas; electronic devices, luxury goods, gold bullion; total approx. EUR 2 million.
+  - ~6,000 Italian retail investors victims; transnational Ponzi scheme dressed as green photovoltaic-investment opportunities abroad; fraud proceeds laundered into crypto wallets.
+  - **L24 strict ≥2-country IC verified**: Italy (Polizia di Stato + Guardia di Finanza Bologna + Procura di Bologna) + France (le autorita francesi competenti) cooperated through the Italian Eurojust desk on cryptocurrency-asset-freezing orders, with cooperation explicitly acknowledged verbatim in the tier-1 primary source: "L'''ufficio italiano ad Eurojust si e''' occupato del coordinamento sovranazionale nell'''esecuzione degli ordini di congelamento delle cryptovalute, e ha tenuto i contatti con le autorita''' francesi competenti, consentendo di arrivare al blocco dei portafogli digitali."
+  - L23 strict applied: lead_agency=`[[polizia-di-stato]]`; coordinating_body=`[[eurojust]]`. Guardia di Finanza Bologna + Procura della Repubblica di Bologna + competent French authorities described in body prose only (no wiki org pages yet).
+  - No arrests / indictments / suspect identities published in Italian primary source as of 2026-04-29 (investigation ongoing); status=ongoing, outcome=partial.
+  - User instruction respected: country/agency backlinks NOT modified this iter — to be added in a subsequent backlink pass.
+
+## [2026-05-10] ingest | Operazione Cagliostro / Voltaiko photovoltaic Ponzi — IT-FR Eurojust crypto-wallet freezing (Apr 2026) — iter 132
+- Source: raw/press-releases/2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia.md (Polizia di Stato — Servizio Polizia Postale; it).
+- Pages created: wiki/sources/2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia.md, wiki/operations/operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026.md (provisional, source_count=1).
+- Pages updated: countries/italy, countries/france; agencies polizia-di-stato, italy-polizia-postale, eurojust; crime-types/online-fraud-ic + money-laundering-ic; mechanisms/asset-freezing + european-investigation-order + eurojust-coordination-meeting.
+- Key findings:
+  - **First wiki record from poliziadistato.it main newsroom** (institutional press releases) — distinct from commissariatodips.it (Polizia Postale public portal).
+  - **USD 7.5M+ crypto seizure** — described as "il piu' grande sequestro di criptovalute mai effettuato in Italia" (largest ever in Italy per release); plus prior EUR 2M asset seizures (95 bank accounts + 2 Rimini villas + voltaiko.com domain) since Oct 2025.
+  - **Voltaiko Ponzi**: ~6,000 Italian retail-investor victims; "green" photovoltaic-investment fraud; proceeds laundered via French-jurisdiction crypto wallets; investigation opened Oct 2025.
+  - **Eurojust as coordinator** — Italian Eurojust desk handled supranational coordination of crypto-wallet freezing orders + maintained contact with French competent authorities. No suspect identities published yet (status: ongoing).
+  - L24 strict ≥2-country IC compliance verified verbatim from Italian release.
+  - L19/L23 strict applied: 3 wikilinked agencies (polizia-di-stato, italy-polizia-postale, eurojust); Guardia di Finanza Bologna + Procura Bologna + competent French authorities kept in body prose only (no wiki org pages); lead_agency=`[[polizia-di-stato]]`; coordinating_body=`[[eurojust]]`.
+  - 3 reference rows appended; 12 pages with `updated:` bumped.

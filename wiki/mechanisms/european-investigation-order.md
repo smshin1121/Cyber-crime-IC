@@ -3,7 +3,7 @@ type: mechanism
 title: "European Investigation Order"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-09
+updated: 2026-05-10
 source_count: 5
 sources:
   - "[[2025-09-23_eurojust_crypto-fraud-over-100-million-euros-across-europe]]"
@@ -17,6 +17,7 @@ operations_using:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
+  - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
 ---
 ## Summary
 

@@ -25,6 +25,7 @@ operations_using:
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
+  - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
 ---
 ## Summary
 

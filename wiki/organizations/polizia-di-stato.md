@@ -22,18 +22,20 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
+  - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
 cooperation_partners:
   - "[[italy-polizia-postale]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
   - "[[dutch-nhtcu]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi]]"
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker-della-polizia-postale-di-catania]]"
   - "[[europol-doublevpn-takedown]]"
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
+  - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
 ---
 ## Summary
 
