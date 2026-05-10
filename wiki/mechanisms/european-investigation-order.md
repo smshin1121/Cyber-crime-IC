@@ -18,6 +18,7 @@ operations_using:
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
+  - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
 ---
 ## Summary
 

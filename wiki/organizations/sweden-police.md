@@ -33,14 +33,16 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
   - "[[flubot-takedown-2022]]"
+  - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
 status: active
 title: "Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority"
 type: organization
@@ -109,3 +111,4 @@ Specific operation attributions are not confirmed in currently ingested sources.
 | [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [6] | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states\|Eurojust — main suspect in EUR 6M Swedish bank-employee-impersonation fraud extradited from US to Sweden (2026-04-10); 25 victims, action day Nov 2024 → 3 arrests US+SE]] | Eurojust | 2026-04-11 | https://www.eurojust.europa.eu/news/main-suspect-swedish-bank-scam-extradited-united-states |
 | [7] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
+| [8] | [[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres\|Eurojust — DE-CY-BG-SE crackdown on online investment fraud Cyprus call-centres (Jan 2024); 4-jurisdiction action day, 4 arrests]] | Eurojust | 2024-01-22 | https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud-from-cyprus-call-centres |

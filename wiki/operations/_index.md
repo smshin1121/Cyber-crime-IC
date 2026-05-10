@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (266 canonical / 27 absorbed / 293 records)
+# Operations (267 canonical / 27 absorbed / 294 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (266)
+## Canonical Operations (267)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -111,6 +111,7 @@ updated: 2026-04-14
 | [[911-s5-botnet-takedown]] | CYB-2024-014 | 3 | completed | umbrella | 5 | 4.00 | 2 |
 | [[operation-chakra-iii]] | CYB-2024-021 | 3 | completed | umbrella | 5 | 3.50 | 2 |
 | [[warzone-rat-takedown-2024]] | CYB-2024-021 | 2 | completed | — | 2 | 4.50 | 1 |
+| [[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]] | CYB-2024-022 | 2 | completed | — | 1 | 4.40 | 1 |
 | [[operation-morpheus]] | CYB-2024-050 | 3 | completed | umbrella | 4 | 3.75 | 2 |
 | [[zambia-golden-top-call-center]] | CYB-2024-050 | 3 | completed | umbrella | 6 | 3.20 | 3 |
 | [[operation-destabilise]] | CYB-2024-051 | 3 | completed | umbrella | 5 | 1.88 | 3 |

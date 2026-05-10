@@ -105,6 +105,7 @@ notable_operations:
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
   - "[[16shop-phishing-as-a-service-takedown-2023]]"
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
+  - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -122,7 +123,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 98
+source_count: 99
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -222,6 +223,7 @@ sources:
   - "[[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]]"
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown]]"
+  - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
 created: 2026-04-08
 updated: 2026-05-10
 ---
@@ -383,3 +385,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [96] | [[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie\|SPAK Albania — universaltrade.io crypto investment-fraud takedown via SPAK + Pau Gendarmerie joint investigation (Apr 2026); Tirana 1 call centre + 4 residences searched, 1 detention, 4 cold-wallets seized; EUR 845K + EUR 1.1M FR victim losses]] | SPAK (Special Structure Against Corruption and Organised Crime, Albania) | 2026-04-23 | https://www.spak.gov.al/al/njoftim-per-shtyp/njoftim-per-mediat-spak-ne-bashkepunim-me-xhandarmerine-e-pau-france-zhvilluan-keto-dite-kontrolle-ne-tirane-ne-kuader-te-nje-hetimi-te-perbashket-per-mashtrim-kompjuterik/ |
 | [97] | [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan\|INTERPOL — 16shop phishing-as-a-service platform takedown (Aug 2023); 3 arrests in ID + JP, INTERPOL IGCI cybercrime directorate-led with INP, NPA, FBI cooperation]] | INTERPOL (IGCI cybercrime directorate) | 2023-08-08 | https://www.interpol.int/en/News-and-Events/News/2023/Phishing-as-a-service-platform-16shop-shut-down-three-arrests |
 | [98] | [[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown\|AFP — AFP-PAOCC-NBI Manila scam call-centre takedown (Operation Firestorm phase 1, Nov 2024); 250+ workers (foreign nationals incl. PRC/VN/ID); first AU-PH scam compound joint takedown]] | Australian Federal Police (AFP) | 2024-11-26 | https://www.afp.gov.au/news-centre/media-release/afp-partners-philippine-authorities-combating-scam-call-centres |
+| [99] | [[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres\|Eurojust — DE-CY-BG-SE crackdown on online investment fraud Cyprus call-centres (Jan 2024); 4-jurisdiction action day, 4 arrests]] | Eurojust | 2024-01-22 | https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud-from-cyprus-call-centres |

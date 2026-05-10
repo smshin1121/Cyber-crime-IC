@@ -24,6 +24,7 @@ operations_using:
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
+  - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
 ---
 ## Summary
 

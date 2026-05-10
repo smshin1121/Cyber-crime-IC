@@ -32,13 +32,15 @@ operations_participated:
   - "[[operation-shrouded-horizon]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
+  - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 2
+source_count: 3
 sources:
   - "[[2025-01-27_eurojust-europa-eu_criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-bu]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
+  - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
 created: 2026-04-17
 updated: 2026-05-10
 status: corpus-linked

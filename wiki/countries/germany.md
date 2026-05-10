@@ -83,8 +83,9 @@ operations_participated:
   - "[[warzone-rat-takedown-2024]]"
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
+  - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
 region: western-europe
-source_count: 13
+source_count: 14
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -99,6 +100,7 @@ sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
+  - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09

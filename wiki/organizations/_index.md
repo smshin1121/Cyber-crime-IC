@@ -101,7 +101,7 @@ updated: 2026-04-08
 | [[ukraine-sbu]] | national-security-agency | Kyiv, Ukraine | Ukrainian national-security and investigative partner in cybercrime operations; Execution of searches and detentions in source-backed international cybercrime matters | 5 | 3 |
 | [[armenia-police]] | national-unit | Yerevan, Armenia | — | 2 | 3 |
 | [[belgium-federal-police]] | national-unit | Brussels, Belgium | National cybercrime investigation; Critical-infrastructure attack investigation | 8 | 7 |
-| [[bulgaria-police]] | national-unit | Sofia, Bulgaria | — | 7 | 3 |
+| [[bulgaria-police]] | national-unit | Sofia, Bulgaria | — | 8 | 4 |
 | [[canada-rcmp]] | national-unit | Ottawa, Ontario, Canada | — | 23 | 5 |
 | [[city-of-london-police-ip-crime-unit]] | national-unit | London, United Kingdom | Intellectual-property crime enforcement; International digital-piracy cooperation | 1 | 1 |
 | [[czechia-police]] | national-unit | Prague, Czech Republic | — | 7 | 5 |
@@ -128,7 +128,7 @@ updated: 2026-04-08
 | [[south-africa-hawks]] | national-unit | South Africa | SAPS specialized unit for organized crime, economic crime, and serious cybercrime.; Primary South African police-side node for serious cybercrime investigation when DPCI is named. | — | 3 |
 | [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 13 | 5 |
 | [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 14 | 4 |
-| [[sweden-police]] | national-unit | Stockholm, Sweden | — | 16 | 7 |
+| [[sweden-police]] | national-unit | Stockholm, Sweden | — | 17 | 8 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 11 | 5 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 7 | 5 |
 | [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 3 | 3 |
@@ -155,7 +155,7 @@ updated: 2026-04-08
 | [[ncfta]] | public-private-partnership | United States | public-private intelligence sharing; case support | 3 | 3 |
 | [[apcert]] | regional-cert-network | — | Provides regional CERT-to-CERT coordination context for incident response and cyber-security capacity building.; Connects national CERTs such as [[kisa]] / KrCERT and SingCERT-facing functions. | — | 2 |
 | [[afripol]] | regional-org | Algiers, Algeria | continental police coordination; joint cyber operations with INTERPOL | 10 | 3 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 71 | 19 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 72 | 20 |
 | [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 127 | 22 |
 | [[african-union]] | regional-organization | Addis Ababa, Ethiopia | Sets continental cyber-security, cybercrime, electronic-commerce, and personal-data-protection policy baselines through AU instruments.; Provides the regional treaty context used by African states and partners when harmonizing cybercrime laws and digital-evidence powers. | — | 1 |
 | [[aseanapol]] | regional-policing-body | — | Provides a Southeast Asian regional-policing layer for multilateral cyber-enabled fraud and online-scam operations.; Supports information sharing and regional coordination alongside INTERPOL and national police agencies. | 2 | 2 |

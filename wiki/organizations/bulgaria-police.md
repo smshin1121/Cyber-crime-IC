@@ -31,11 +31,13 @@ operations_participated:
   - "[[operation-card-shop]]"
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
   - "[[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]]"
+  - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
 org_type: national-unit
 parent_org: "[[bulgaria-ministry-of-interior]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
+  - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
 status: active
 title: "GDBOP Cybercrime Directorate"
 type: organization
@@ -90,3 +92,4 @@ Bulgaria has been a party to the Budapest Convention since 2005 and joined the E
 | [1] | General Directorate Combating Organized Crime, Ministry of Interior (Bulgaria) | Netlaw.bg | n.d. | https://www.netlaw.bg/en/a/general-directorate-combating-organized-crime-ministry-of-interior-bulgaria |
 | [2] | Cybercrime Unit at Directorate for Combating Organised Crime Is Restructured | BTA | 2023 | https://www.bta.bg/en/news/bulgaria/406674-cybercrime-unit-at-directorate-for-combating-organised-crime-is-restructured-hi |
 | [3] | [[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud\|BTA Sofia call-centre BG-ES Guardia Civil online investment fraud takedown — 17 gold bars, 5 hardware crypto wallets (one >USD 230K), BGN 45K cash]] | BTA (Bulgarian News Agency, state wire) relaying Sofia City Prosecutor's Office | 2025-12-12 | https://www.bta.bg/en/news/bulgaria/990290-organized-crime-group-running-fraudulent-online-investment-platforms-busted-i |
+| [4] | [[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres\|Eurojust — DE-CY-BG-SE crackdown on online investment fraud Cyprus call-centres (Jan 2024); 4-jurisdiction action day, 4 arrests]] | Eurojust | 2024-01-22 | https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud-from-cyprus-call-centres |

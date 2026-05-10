@@ -28,6 +28,7 @@ operations_using:
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
+  - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
 ---
 ## Summary
 

@@ -20,13 +20,15 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
   - "[[flubot-takedown-2022]]"
+  - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
 region: northern-europe
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
 title: "Kingdom of Sweden"
 treaty_memberships:
   - not-assessed

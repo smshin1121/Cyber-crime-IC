@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (820)
+# Sources (821)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -463,6 +463,7 @@ updated: 2026-04-14
 | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]] | press-release | Australian Federal Police | ? | high | ? |
 | [[kaspersky-operation-avalanche]] | press-release | Kaspersky | 3 | medium | ? |
 | [[2024-01-26_opa_banmeet-singh-dark-web-vendor-plea]] | court-document | US DOJ Office of Public Affairs | ? | high | ? |
+| [[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]] | press-release | Eurojust | ? | high | ? |
 | [[2024-01-05_global-chinadaily-com-cn_ministry-releases-details-of-successful-crackdown]] | news | China Daily | ? | medium | ? |
 | [[2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th]] | press-release | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2024-01-01_bleepingcomputer-com_russian-trickbot-malware-dev-sentenced-to-64-months-in-prison]] | press-release | BleepingComputer | ? | medium | ? |
