@@ -31,11 +31,12 @@ operations_participated:
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[flubot-takedown-2022]]"
+  - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
 notable_cases:
 
 contact_point_for:
 
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-12-17_doj-edmi_e-note-crypto-exchange-takedown]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -43,6 +44,7 @@ sources:
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
 created: 2026-05-08
 updated: 2026-05-10
 last_verified: 2026-05-09

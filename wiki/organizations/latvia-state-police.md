@@ -32,18 +32,20 @@ operations_participated:
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
+  - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
 org_type: national-unit
 parent_org: ""
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-17_vp-gov-lv_official-website]]"
   - "[[2026-04-17_coe-int_latvia-octopus-cybercrime-community]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
+  - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
 status: active
 title: "Latvia State Police"
 type: organization
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 ## Summary
 

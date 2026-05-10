@@ -33,17 +33,19 @@ operations_participated:
   - "[[operation-serengeti-2]]"
   - "[[operation-tovar]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
+  - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
 org_type: private-sector
 parent_org: ""
-source_count: 3
+source_count: 4
 sources:
   - "[[2016-11-30_europol-europa-eu_avalanche-network-dismantled-in-international-cyber-operation]]"
   - "[[2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie]]"
   - "[[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]]"
+  - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
 status: active
 title: Shadowserver
 type: organization
-updated: 2026-04-29
+updated: 2026-05-10
 jurisdiction: "Private-sector nonprofit technical community; international support role"
 ---
 ## Summary
@@ -61,3 +63,4 @@ Avalanche, GozNym, and malicious proxy-service records show why a neutral techni
 | [1] | [[2016-11-30_europol-europa-eu_avalanche-network-dismantled-in-international-cyber-operation|'Avalanche' network dismantled in international cyber operation]] | Europol | 2016-11-30 | https://www.europol.europa.eu/media-press/newsroom/news/%E2%80%98avalanche%E2%80%99-network-dismantled-in-international-cyber-operation |
 | [2] | [[2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie|GozNym Cyber-Criminal Network Operating out of Europe Targeting American Entities Dismantled in International Operation]] | US DOJ (W.D. Pa.) | 2019-05-16 | https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled |
 | [3] | [[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded|Authorities Dismantle Global Malicious Proxy Service that Deployed Malware and Defrauded Thousands of U.S. Persons, Businesses, and Financial Institutions of Millions of Dollars in Losses]] | US DOJ USAO EDCA | 2026-03-12 | https://www.justice.gov/usao-edca/pr/authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded |
+| [4] | [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests\|Eurojust — Austria-Latvia-Estonia online scams JIT takedown (Oct 2025); 7 arrests, 26 searches, EUR 700K frozen, 1200 SIM boxes + 40K SIM cards + 5 servers seized; 1700+ AT victims, 1500+ LV victims; FI assistance]] | Eurojust | 2025-10-17 | https://www.eurojust.europa.eu/news/decisive-action-against-various-online-scams-austria-and-latvia-seven-arrests |

@@ -38,6 +38,7 @@ operations_using:
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
+  - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
 ---
 ## Summary
 

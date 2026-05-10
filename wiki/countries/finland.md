@@ -42,14 +42,16 @@ operations_participated:
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[flubot-takedown-2022]]"
+  - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
 region: northern-europe
-source_count: 11
+source_count: 12
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
 title: "Republic of Finland"
 treaty_memberships:
   - date: 2007-05-24
@@ -138,3 +140,4 @@ Capacity is *almost certainly* high. Finland has strong technical and legal infr
 | [9] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |
 | [10] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
 | [11] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
+| [12] | [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests\|Eurojust — Austria-Latvia-Estonia online scams JIT takedown (Oct 2025); 7 arrests, 26 searches, EUR 700K frozen, 1200 SIM boxes + 40K SIM cards + 5 servers seized; 1700+ AT victims, 1500+ LV victims; FI assistance]] | Eurojust | 2025-10-17 | https://www.eurojust.europa.eu/news/decisive-action-against-various-online-scams-austria-and-latvia-seven-arrests |

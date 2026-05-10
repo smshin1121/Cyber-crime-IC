@@ -150,9 +150,10 @@ operations_participated:
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[flubot-takedown-2022]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
+  - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
-source_count: 20
+source_count: 21
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
@@ -165,6 +166,7 @@ sources:
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
+  - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
@@ -264,3 +266,4 @@ The [[phobos-8base-crackdown|Phobos/8Base crackdown]] (2025) is the most directl
 | [18] | [[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware\|Polizia di Stato — Operazione ELICIUS: IT-FR-RO joint task force vs. 'Diskstation' Romanian-national NAS-ransomware gang (Bucharest searches Jun 2024 → Jul 2025 announcement, Milan GIP custody)]] | Polizia di Stato — Servizio Polizia Postale (commissariatodips.it) | 2025-07-14 | https://www.commissariatodips.it/notizie/articolo/operazione-elicius-individuata-pericolosa-gang-hacker-internazionale-diskstation/index.html |
 | [19] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
 | [20] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
+| [21] | [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests\|Eurojust — Austria-Latvia-Estonia online scams JIT takedown (Oct 2025); 7 arrests, 26 searches, EUR 700K frozen, 1200 SIM boxes + 40K SIM cards + 5 servers seized; 1700+ AT victims, 1500+ LV victims; FI assistance]] | Eurojust | 2025-10-17 | https://www.eurojust.europa.eu/news/decisive-action-against-various-online-scams-austria-and-latvia-seven-arrests |

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (814)
+# Sources (815)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -157,6 +157,7 @@ updated: 2026-04-14
 | [[2025-10-20_koreatimes-co-kr_police-seek-arrest-warrants-for-58-scam-suspects-brought-from-cambodia]] | news | The Korea Times | ? | medium | ? |
 | [[2025-10-18-korea-cambodia-scam-repatriation]] | news | Al Jazeera / France24 / Korea Herald | ? | medium | ? |
 | [[2025-10-17_europol_cybercrime-as-a-service-sim-box-takedown-latvia]] | press-release | Europol | ? | high | ? |
+| [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]] | press-release | Eurojust | 1 | high | ? |
 | [[2025-10-14_treasury_us-uk-largest-action-cybercriminal-networks-southeast-asia]] | press-release | US Department of the Treasury | ? | high | ? |
 | [[2025-10-14_justice-gov_chairman-prince-group-indicted-cambodian-forced-labor-scam-compounds]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |
 | [[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]] | press-release | Guardia Civil (Spain) | 1 | high | ? |

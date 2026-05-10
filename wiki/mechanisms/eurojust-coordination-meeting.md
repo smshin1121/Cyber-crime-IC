@@ -26,6 +26,7 @@ operations_using:
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
+  - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
 ---
 ## Summary
 

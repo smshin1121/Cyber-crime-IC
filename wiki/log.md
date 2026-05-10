@@ -2191,3 +2191,40 @@
   - L24 strict ≥2-country IC compliance verified verbatim ("close collaboration and intelligence sharing between the SPF and the CNP").
   - L19/L23 strict applied: 3 wikilinked agencies (singapore-police, cambodian-national-police, interpol); lead_agency=`[[singapore-police]]`; coordinating_body=`[[singapore-police]]`.
   - 3 reference rows appended; 12 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | Austria-Latvia-Estonia Online Scams JIT Takedown (Eurojust, Oct 2025) — iter 134
+- Source: raw/press-releases/2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests.md (Eurojust; en).
+- Pages created: wiki/sources/2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests.md, wiki/operations/austria-latvia-estonia-online-scams-jit-takedown-2025.md (single tier-1 source, provisional).
+- Pages updated: none — country/agency backlinks deferred to a separate task per instruction.
+- Key findings:
+  - **Tier-1 publisher**: Eurojust newsroom press release (intergovernmental EU judicial cooperation agency).
+  - **L24 strict**: 4-state IC verified verbatim — "Eurojust supported and financed a joint investigation team (JIT) between the Austrian, Estonian and Latvian authorities. Further assistance was provided by the Finnish authorities." All four are operating LE/prosecutorial jurisdictions.
+  - **Operation profile**: 7 arrests across Austria/Latvia/Estonia, 26 searches, EUR 700,000 frozen; 1,200 SIM box devices, 40,000 SIM cards, 5 servers, 4 luxury cars seized; 1,700+ Austrian + 1,500+ Latvian victims; EUR 3M+ losses.
+  - **Multi-pattern target**: investment scams + micro-loan/contract scams + romance scams + phone-impersonation scams, all running through SIM box farms spoofing local caller ID.
+  - **Named authorities (8)**: Vienna Public Prosecutor; Bundeskriminalamt Austria; Salzburg CID; Riga Judicial Region Prosecution Office; Riga Northern Prosecution Office; Latvia State Police; Estonian Police and Border Guard Board + Northern District Prosecutor's Office; Finnish NCCU + NBI. Europol on-site Riga deployment + Shadowserver Foundation private-sector linkage.
+  - **L23 compliance**: lead_agency=`[[eurojust]]`, coordinating_body=`[[eurojust]]` (both wikilinked to existing entity); plain-text Austrian/Estonian prosecutor names kept in `participating_agencies` as quoted strings, not as wikilinks (no entity pages).
+  - **Glob-verified wikilinks**: `[[eurojust]]`, `[[europol-ec3]]`, `[[latvia-state-police]]`, `[[finland-nbi]]`, `[[shadowserver]]`, all 4 country pages, `[[joint-investigation-team]]`, `[[eurojust-coordination-meeting]]`, `[[search-seizure]]`, `[[online-fraud-ic]]`, `[[voice-phishing-ic]]`.
+- Rejected first candidates this iter:
+  - EPPO 2026-04-29 Germany-Poland Chinese OCG money-laundering — VAT/customs fraud, not cybercrime.
+  - SPF Operation Hurdler 326-arrest CSAM (HK/JP/KR/MY/TH/BN) — already covered by `cross-border-online-cse-operation-spf-2026.md`.
+  - DOJ June 2025 DPRK IT-worker coordinated actions — already covered by `us-doj-coordinated-nationwide-actions-dprk-it-workers-2025.md`.
+  - Dubai-led 276-arrest scam-center takedown — already covered by `coordinated-cryptocurrency-scam-center-takedown-2026.md`.
+  - Operation PowerOFF 2026-04 action week — already covered by `operation-power-off-2026-04.md`.
+  - Latvia-Lithuania-Ukraine Dnipro fraudulent call centre 2026-02-17 — already covered by `dnipro-fraudulent-call-centre-takedown-2026.md`.
+  - Austria-Albania 2026-04-17 EUR 50M call centre takedown — already covered by `albania-austria-call-centre-investment-fraud-2026.md`.
+  - SPAK Albania news page — 404; Garda GNCCB and CoE Cybercrime news — 403/Cloudflare-blocked from WebFetch this session.
+  - VP.gov.lv "Latvia-France cooperation" hits — actually 2022 events; not iter-134 candidates.
+  - DOJ "10-country extradition" omnibus — March 2025, not new.
+
+## [2026-05-10] ingest | Austria-Latvia-Estonia online scams JIT takedown (Eurojust + Finland assistance, Oct 2025) — iter 134
+- Source: raw/press-releases/2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests.md (Eurojust; en).
+- Pages created: wiki/sources/2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests.md, wiki/operations/austria-latvia-estonia-online-scams-jit-takedown-2025.md (provisional, source_count=1).
+- Pages updated: 4 country pages (austria, latvia, estonia, finland); 5 agencies (eurojust, europol-ec3, latvia-state-police, finland-nbi, shadowserver); 2 crime-types (online-fraud-ic, voice-phishing-ic); 3 mechanisms (joint-investigation-team, eurojust-coordination-meeting, search-seizure).
+- Key findings:
+  - **First wiki record of AT-LV-EE JIT** (with FI assist) under Eurojust coordination — multi-pattern fraud (investment, micro-loan, romance, phone-impersonation) on SIM box infrastructure spoofing local numbers.
+  - **Action day 2025-10-13/17**: 7 arrests, 26 searches, EUR 700,000 frozen, **1,200 SIM boxes + 40,000 SIM cards + 5 servers + 4 luxury cars** seized; 1,700+ Austrian + 1,500+ Latvian victims; >EUR 3M total losses.
+  - **L23-spirit cleanup applied**: agent originally placed 8 plain-text Austrian/Latvian/Estonian/Finnish prosecutor + police office strings in `participating_agencies`. Orchestrator removed these (per L23-spirit: only `[[wikilinks]]` to existing entities); descriptive role information remains in body prose only.
+  - L24 strict ≥2-country IC compliance verified verbatim from Eurojust release ("joint investigation team (JIT) between the Austrian, Estonian and Latvian authorities. Further assistance was provided by the Finnish authorities").
+  - 5 wikilinked agencies (eurojust, europol-ec3, latvia-state-police, finland-nbi, shadowserver) all named in source AND with wiki pages.
+  - L23 strict applied: lead_agency=`[[eurojust]]`; coordinating_body=`[[eurojust]]`.
+  - 7 reference rows appended; 14 pages with `updated:` bumped.

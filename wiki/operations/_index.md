@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (260 canonical / 27 absorbed / 287 records)
+# Operations (261 canonical / 27 absorbed / 288 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (260)
+## Canonical Operations (261)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -220,6 +220,7 @@ updated: 2026-04-14
 | [[frontier-plus-cross-border-anti-scam-2025]] | CYB-2025-896 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[sg-hk-my-gsm-gateway-scam-takedown-2025]] | CYB-2025-921 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]] | CYB-2025-968 | 3 | ongoing | — | 1 | 3.40 | 1 |
+| [[austria-latvia-estonia-online-scams-jit-takedown-2025]] | CYB-2025-973 | 3 | completed | umbrella | 1 | 4.20 | 1 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |
 | [[operation-red-card-2]] | CYB-2026-003 | 3 | completed | umbrella | 4 | 4.25 | 1 |

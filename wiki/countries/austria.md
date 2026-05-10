@@ -35,14 +35,16 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
+  - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
+  - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
 created: 2026-04-14
 updated: 2026-05-10
 status: needs-official-source-ingestion
@@ -69,3 +71,4 @@ The next reliable sources for this page are official national police or prosecut
 | [1] | [[2026-03-12-eurojust-proxy-service-takedown|Servers used for cybercrime around the world taken down]] | Eurojust | 2026-03-12 | https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down |
 | [2] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [3] | [[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown\|Operation LoopX — Austrian crypto-coin exit-scam takedown (AT+CY+CZ; 6 arrests, ~EUR 6M victim losses, 10M tokens 2017-2018)]] | Eurojust | 2024-05-08 | https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin |
+| [4] | [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests\|Eurojust — Austria-Latvia-Estonia online scams JIT takedown (Oct 2025); 7 arrests, 26 searches, EUR 700K frozen, 1200 SIM boxes + 40K SIM cards + 5 servers seized; 1700+ AT victims, 1500+ LV victims; FI assistance]] | Eurojust | 2025-10-17 | https://www.eurojust.europa.eu/news/decisive-action-against-various-online-scams-austria-and-latvia-seven-arrests |

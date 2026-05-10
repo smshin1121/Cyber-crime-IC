@@ -23,6 +23,7 @@ operations_using:
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
+  - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
 ---
 ## Summary
 
