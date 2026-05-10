@@ -8,10 +8,12 @@ operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
+  - "[[operation-cyber-guardian-2026]]"
 region: east-asia
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
+  - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
 title: "Hong Kong Special Administrative Region"
 treaty_memberships:
   - not-assessed

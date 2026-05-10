@@ -32,13 +32,15 @@ operations_participated:
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
+  - "[[operation-cyber-guardian-2026]]"
 org_type: national-unit
 parent_org: "[[singapore-police]]"
-source_count: 10
+source_count: 11
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam]]"
+  - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
 status: active
 title: "Singapore Police Force — Cybercrime Command"
 type: organization
@@ -134,3 +136,4 @@ Singapore's Cybercrime Command is *highly likely* one of the most capable nation
 | [8] | [[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown\|SG-HK-MY tri-lateral GSM gateway scam syndicate takedown — 11 arrests, 226 GSM gateways seized; FRONTIER+ umbrella]] | Singapore Police Force (Public Affairs Dept) | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_11_persons_arrested_in_a_joint_enforcement_operation_against_a_transnational_scam_syndicate |
 | [9] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
 | [10] | [[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam\|SPF — Phnom Penh OCG repatriation arrest of Ngiam Siow Jui (May 2026); SPF-CNP joint compound disruption Sep 2025; 535+ scam cases / S$53M loss; 2 Red Notice fugitives outstanding]] | Singapore Police Force (SPF) | 2026-05-05 | https://www.police.gov.sg/Media-Room/News/20260505_singaporean_man_arrested_in_cambodia_for_government_officials_impersonation_scams |
+| [11] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |

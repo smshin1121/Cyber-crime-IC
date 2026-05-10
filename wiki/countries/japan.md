@@ -17,11 +17,13 @@ operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[16shop-phishing-as-a-service-takedown-2023]]"
+  - "[[operation-cyber-guardian-2026]]"
 region: east-asia
-source_count: 2
+source_count: 3
 sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
+  - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
 title: Japan
 treaty_memberships:
   - not-assessed

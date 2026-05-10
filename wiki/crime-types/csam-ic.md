@@ -33,9 +33,10 @@ notable_operations:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
   - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
+  - "[[operation-cyber-guardian-2026]]"
 relevant_legal_frameworks:
 
-source_count: 14
+source_count: 15
 sources:
   - "[[2026-03-05_interpol_operation-eclipse-csam-americas]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
@@ -51,6 +52,7 @@ sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
   - "[[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol]]"
+  - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
 title: "CSAM (Child Sexual Abuse Material) — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -100,3 +102,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [12] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [13] | [[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional\|MPF CABA — Operación Aliados por la Infancia VI: 270 raids across 13 jurisdictions (AR+BR+PA+DO+GT+UY+PY+CR+ES+PE+HN+FR+PR), 84 arrests]] | Ministerio Público Fiscal CABA — Cuerpo de Investigaciones Judiciales | 2026-04-29 | https://mpfciudad.gob.ar/noticias/operativo-internacional-aliados-por-la-infancia-vi |
 | [14] | [[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol\|Policía Nacional ES — Alicante + Claypole CSAM producer takedown via AMERIPOL/AC3 channel (Dec 2025); 2 arrests Spain+Argentina, NCMEC tipline upstream]] | Policía Nacional (Spain) — Sala de Prensa | 2025-12-23 | https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=16755 |
+| [15] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |

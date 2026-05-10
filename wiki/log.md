@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-10] ingest [iter 139, single-agent, local-only, L24-strict] | Operation Cyber Guardian 2026 — Asia 7-Country CSAM Crackdown (Japan NPA + Royal Malaysia Police + KNPA + Singapore Police + 3 partners, 2026-03-23 to 2026-04-17)
+- Sources: 1 raw + 1 source page + 1 operation page (3 new pages)
+- Pages created: `raw/press-releases/2026-04-27_npa-go-jp_operation-cyber-guardian-2026.md`, `wiki/sources/2026-04-27_npa-japan_operation-cyber-guardian-2026.md`, `wiki/operations/operation-cyber-guardian-2026.md`.
+- Pages NOT updated (per task instruction: do NOT touch backlinks): country (japan, singapore, thailand, south-korea, hong-kong, brunei, malaysia), organization (japan-npa, knpa-cyber-bureau, singapore-police), crime-type (csam-ic), mechanism (informal-cooperation).
+- Key findings:
+  - **L24 strict satisfied**: Tier-1 Japan NPA press release (npa.go.jp, 2026-04-27) explicitly names 7 cooperating jurisdictions ("日本・シンガポール・タイ・韓国・香港・ブルネイ･マレーシア") and frames the operation as "国際協同オペレーション" (international joint operation) with mutual cooperation. Cross-validated by Malaysia PDRM Chief Datuk Seri Mohd Khalid Ismail's statement reproduced on RTM Berita (Malaysian state broadcaster): "operasi mendapat kerjasama antarabangsa melibatkan tujuh negara, masing-masing Malaysia, Singapura, Thailand, Brunei, Hong Kong, Korea Selatan dan Jap[un]". Two named tier-1 LE: Japan NPA + Royal Malaysia Police (PDRM).
+  - **Tier-1 publisher strict**: npa.go.jp is a national LE agency domain (top tier). Cross-validation source berita.rtm.gov.my is a state broadcaster reproducing PDRM Chief's official statement (state news wire reproducing official statement, qualifies per L24 carve-out).
+  - **Distinct from existing Operation Cyber Guardian (2025)**: existing `wiki/operations/operation-cyber-guardian.md` covers the 6-country Feb-Mar 2025 first edition. This page is the **2026 second edition** — different dates (March 23 - April 17, 2026), different participant set (added Brunei = 7 jurisdictions), distinct results (445 suspects, 99 Japan arrests, 69 Malaysia arrests). Linked via `related_operations: [[operation-cyber-guardian]]`.
+  - **L23 compliance**: `lead_agency` and `coordinating_body` left empty in frontmatter (peer-coordinated multi-jurisdictional campaign with no single lead). `participating_agencies` uses only Glob-verified existing wikilinks `[[japan-npa]]`, `[[knpa-cyber-bureau]]`, `[[singapore-police]]`. PDRM (Royal Malaysia Police) referenced in body prose only because no wiki entity page exists.
+  - **Hard numbers from primary source**: 445 suspects investigated multilateral total, 382 search/seizure locations, 116 PCs + 340 mobile phones + 25 tablets + 140 external storage media + 16 routers seized. Japan: 99 arrests at 131 locations. Malaysia: 69 arrests, 204,934 CSAM files + 293,756 adult-pornography files seized.
+  - **Per RULE 0 strict dedup**: Glob-verified `wiki/operations/*cyber-guardian*` returns only `operation-cyber-guardian.md` (the 2025 edition). `*cyber-guardian-2026*`, `*npa-csam*`, `*brunei*`, `*npa*` (operation paths) returned no other matches. New filename `operation-cyber-guardian-2026.md` is unique.
+- Process notes: PDF extraction required `pypdf` with `sys.stdout.reconfigure(encoding='utf-8')` per L8 (Windows cp949 encoding issue). Initial WebSearch fallback recovered Malaysian PDRM cross-validation when looking for KNPA Korean cross-confirmation. Rejected first candidates (RULE 0 dedup or tier failures): (1) EPPO 2026-05 — no cybercrime cases in May 2026 listing, all VAT/subsidy/healthcare; (2) Norwegian Politiet aktuelt — WebFetch returned only navigation, no item content; (3) Garda GNCCB — 403 Forbidden; (4) Ukraine cyberpolice.gov.ua/news/ — 404; (5) CoE T-CY news — 403 Cloudflare; (6) NPA Japan Apr 27 release that initially looked like the 2025 wiki duplicate — re-evaluated after extracting PDF, confirmed it is the **2026 second edition** with new dates and new 7-country participant set. Selected as the first clean tier-1 candidate with explicit ≥2 LE-jurisdiction cooperation per L24.
+
 ## [2026-05-10] ingest [iter 138, single-agent, local-only, L24-strict] | AFP–PAOCC–NBI Manila Scam Call-Centre Takedown — Operation Firestorm phase 1 (Australian Federal Police + Philippine Presidential Anti-Organized Crime Commission + Philippine NBI Cyber Crime Division, 2024-11-26)
 - Sources: 1 raw + 1 source page + 1 operation page (3 new pages)
 - Pages created: `raw/press-releases/2024-11-26_afp-gov-au_afp-partners-philippine-authorities-combating-scam-call-centres.md`, `wiki/sources/2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown.md`, `wiki/operations/afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024.md`.
@@ -2421,3 +2434,17 @@
   - L24 strict ≥2-country IC compliance verified verbatim from AFP release ("PAOCC and NBI for their work").
   - L23 strict applied: lead_agency=`""` + coordinating_body=`""` (PAOCC + NBI lack wiki entity pages, role described in body prose); 2 wikilinked participating_agencies (australia-afp, philippine-national-police).
   - 4 reference rows appended; 11 pages with `updated:` bumped.
+
+## [2026-05-10] ingest | Operation Cyber Guardian 2026 — Asia 7-country CSAM crackdown (NPA Japan, Mar-Apr 2026) — iter 139
+- Source: raw/press-releases/2026-04-27_npa-go-jp_operation-cyber-guardian-2026.md (NPA Japan; ja).
+- Pages created: wiki/sources/2026-04-27_npa-japan_operation-cyber-guardian-2026.md, wiki/operations/operation-cyber-guardian-2026.md (provisional, source_count=1).
+- Pages updated: 7 country pages (japan, singapore, thailand, south-korea, hong-kong, brunei, malaysia); 3 agencies (japan-npa, knpa-cyber-bureau, singapore-police); crime-types/csam-ic; mechanisms/informal-cooperation; operations/operation-cyber-guardian (related_operations cross-link).
+- Key findings:
+  - **First wiki record from npa.go.jp** (NPA Japan) primary release portal.
+  - **Operation Cyber Guardian 2026 (Asia 7-country, "Cyber Guardian II")** — 2026-03-23 to 2026-04-17; 445 suspects investigated, 382 search locations, **99 JP arrests + 69 MY arrests**, 204K+ CSAM files seized in MY portion alone.
+  - **First wiki record adding Brunei to wiki participating_countries** roster — APAC 7-country expansion of prior 2025 6-country edition.
+  - Cross-link to existing 2025 edition (`operation-cyber-guardian.md`) via related_operations.
+  - L24 strict ≥2-country IC compliance verified verbatim from NPA PDF + cross-validated by RTM Berita Malaysia (PDRM Chief statement).
+  - L23 strict applied: lead_agency=`""` + coordinating_body=`""` (NPA + KNPA + SPF + PDRM are co-leads); 3 wikilinked participating_agencies. PDRM, Royal Thai Police, Hong Kong Police, Brunei police kept in body prose only (no wiki org pages).
+  - **L23-strict in-body fix**: original agent prose used `[[pdrm]]` placeholder for non-existent entity; orchestrator stripped wikilink brackets to plain `pdrm` (per L23 spirit — broken wikilinks → text).
+  - 5 reference rows appended; 13 pages with `updated:` bumped.

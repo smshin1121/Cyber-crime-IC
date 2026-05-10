@@ -17,7 +17,7 @@ updated: 2026-04-27
 | [[bec-ic]] | cyber-enabled | Yes | — | franco-israeli-ceo-fraud, operation-jackal, operation-jackal-iii | 6 |
 | [[carding-fraud-ic]] | — | — | — | — | 1 |
 | [[counterfeit-goods]] | — | — | — | crimenetwork-relaunch-takedown-2026 | 5 |
-| [[csam-ic]] | content-related | Yes | interpol-icse-database\|INTERPOL ICSE Database, europol-vidtf\|Europol Victim Identification Task Force | operation-stream-kidflix, operation-cyber-guardian, operation-orion-international | 14 |
+| [[csam-ic]] | content-related | Yes | interpol-icse-database\|INTERPOL ICSE Database, europol-vidtf\|Europol Victim Identification Task Force | operation-stream-kidflix, operation-cyber-guardian, operation-orion-international | 15 |
 | [[cybercrime-forum-ic]] | cyber-dependent | Yes | search-seizure, domain-seizure, extradition | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 7 |
 | [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 31 |
 | [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | operation-otf-grimm, hungary-romania-swatting-doxing-discord-2026, operation-us-v-szabo-swatting-ring | 6 |

@@ -51,6 +51,7 @@ operations_using:
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
+  - "[[operation-cyber-guardian-2026]]"
 ---
 ## Summary
 

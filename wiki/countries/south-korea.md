@@ -55,8 +55,9 @@ operations_participated:
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
+  - "[[operation-cyber-guardian-2026]]"
 region: east-asia
-source_count: 26
+source_count: 27
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
   - "[[2024-12-02-interpol-operation-haechi-v]]"
@@ -74,6 +75,7 @@ sources:
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
   - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
+  - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
 title: "Republic of Korea (South Korea)"
 treaty_memberships:
   - date: 2023-02
@@ -320,3 +322,4 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [24] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition — Lithuanian hacker arrested in Georgia via Red Notice (KR+LT+GE; 8 KR victims, ₩16M loss; 5y4m investigation)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |
 | [25] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
 | [26] | [[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests\|KNPA-Vietnam Public Security joint arrest of 5 Cambodia-Bavet romance-scam cadre in Vietnam (Da Nang+HCMC+Khanh Hoa, Oct 2025); 192 KR victims, ~₩4.6B losses]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2025-11-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156724852 |
+| [27] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |

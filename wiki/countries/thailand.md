@@ -42,10 +42,12 @@ operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
+  - "[[operation-cyber-guardian-2026]]"
 region: southeast-asia
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
+  - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
 title: "Kingdom of Thailand"
 treaty_memberships:
   - date: ""
@@ -113,3 +115,4 @@ Medium institutional capacity. Thailand has established dedicated cybercrime uni
 | [2] | 2017 amendments to Computer Crime Act (English summary) | Baker McKenzie | 2017 | https://www.bakermckenzie.com/en/ |
 | [3] | Parties/Observers to the Budapest Convention | Council of Europe | 2025 | https://www.coe.int/en/web/cybercrime/parties-observers |
 | [4] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
+| [5] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |

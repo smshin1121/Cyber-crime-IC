@@ -16,12 +16,14 @@ operations_participated:
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
+  - "[[operation-cyber-guardian-2026]]"
 region: southeast-asia
-source_count: 3
+source_count: 4
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam]]"
+  - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
 title: "Republic of Singapore"
 treaty_memberships:
   - not-assessed
