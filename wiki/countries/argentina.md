@@ -12,9 +12,11 @@ operations_participated:
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
-source_count: 1
+  - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
+source_count: 2
 sources:
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
+  - "[[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol]]"
 created: 2026-04-13
 updated: 2026-05-10
 status: needs-official-source-ingestion

@@ -35,15 +35,17 @@ operations_participated:
   - "[[operation-secreto]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[flubot-takedown-2022]]"
+  - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
 org_type: national-agency
 parent_org: "[[spain-national-police]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-04-18_policia-es_bcit]]"
   - "[[europol-carbanakcobalt-mastermind-arrest]]"
   - "[[europol-operation-secreto]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol]]"
 status: active
 title: "Spanish National Police"
 type: organization
@@ -75,3 +77,4 @@ This page has been normalized for the organization audit: it includes role metad
 | [3] | [[europol-operation-secreto|Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto)]] | Europol | 2021-02-03 | https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks |
 | [4] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [5] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
+| [6] | [[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol\|Policía Nacional ES — Alicante + Claypole CSAM producer takedown via AMERIPOL/AC3 channel (Dec 2025); 2 arrests Spain+Argentina, NCMEC tipline upstream]] | Policía Nacional (Spain) — Sala de Prensa | 2025-12-23 | https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=16755 |

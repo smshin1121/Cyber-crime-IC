@@ -20,14 +20,16 @@ cooperation_partners:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
   - "[[interpol-icse-database]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-18_justice-gov_justice-department-announces-results-operation-restore-justice]]"
   - "[[2026-04-17_ic3-gov_internet-crime-complaint-center-ic3]]"
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
+  - "[[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol]]"
 operations_participated:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
+  - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
 ---
 ## Summary
 

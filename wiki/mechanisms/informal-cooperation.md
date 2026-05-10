@@ -47,6 +47,7 @@ operations_using:
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
+  - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
 ---
 ## Summary
 

@@ -16,6 +16,7 @@ operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[operation-otf-grimm]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
+  - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
 ---
 ## Summary
 

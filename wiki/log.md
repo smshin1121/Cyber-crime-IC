@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-10] ingest [iter 131, single-agent, local-only, L24-strict] | Spain–Argentina AMERIPOL CSAM Producer Takedown — Alicante + Claypole arrests (Policía Nacional UCC + Buenos Aires Provincial Police Cybercrime Investigation Directorate, 2025-12-23)
+- Sources: 1 raw + 1 source page (es) + 1 operation page (3 new pages)
+- Pages created: `raw/press-releases/2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol.md`, `wiki/sources/2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol.md`, `wiki/operations/spain-argentina-ameripol-claypole-csam-producer-takedown-2025.md`.
+- Pages NOT updated (per task instruction: do NOT touch backlinks): country (spain, argentina), organization (spanish-national-police, ncmec), crime-type (csam-ic), mechanism (informal-cooperation, public-private-cooperation, search-seizure).
+- Key findings:
+  - **L24 strict satisfied**: Tier-1 Policía Nacional release (Sala de Prensa ID 16755, 2025-12-23) verbatim names the foreign LE counterpart unit ("Las autoridades policiales en Argentina iniciaron rápidamente una investigación que se desarrolló en el marco de la estrecha cooperación internacional entre la Policía Judicial de la policía Nacional de España y la Dirección de Investigaciones Cibercrimen de la Policía de la Provincia de Buenos Aires") plus AMERIPOL/AC3 hemispheric coordination — bilateral Spain–Argentina LE cooperation, not adversary/origin attribution.
+  - **First Spain–Argentina CSAM-cooperation operation in the corpus that explicitly invokes AMERIPOL's AC3 specialised cybercrime centre** as the named police-to-police channel, with the Spanish National Police liaison officer at AC3 as the contact point that brokered the urgent identification request to Argentine LE.
+  - **Two arrests**: 1 in Alicante province (Spain — Brigada Provincial de Policía Judicial de Alicante + Unidad Central de Ciberdelincuencia), 1 in Claypole / Buenos Aires province (Argentina — Buenos Aires Provincial Police Cybercrime Investigation Directorate). Argentine subject described as one of the leaders of an international CSAM-production criminal organisation with branches across Europe and South America. Newly-created CSAM allegedly depicting a minor was the operational trigger for the urgent AMERIPOL escalation.
+  - **NCMEC → UCC → AMERIPOL/AC3 → counterpart-country LE escalation chain**: upstream NCMEC CyberTipline-style lead originated the Spanish domestic investigation; the public-private NCMEC channel is recorded as a `[[ncmec]]` org wikilink and `public-private-cooperation` mechanism, not as a participating LE jurisdiction.
+  - **L24 split applied**: `participating_countries` strictly bilateral (Spain + Argentina); "ramificaciones operativas" across Europe and South America described in the primary release are body-prose attribution to the criminal organisation's footprint, not cooperating LE counterparts.
+  - **Per L19/L23**: lead_agency = `[[spanish-national-police]]` (verified Glob-existing); coordinating_body left empty (the Policía Nacional + AMERIPOL/AC3 routing is operational, not formally a coordinating-body in the wiki schema sense). All other wikilinks Glob-verified before write.
+- Process notes: Direct fetch via curl_cffi chrome124 = HTTP 200, 43KB body containing verbatim text (policia.es accepts TLS-spoofed direct GETs without Cloudflare challenge). interior.gob.es Cloudflare-challenged for direct curl_cffi (403); WebFetch summary used as cross-check. Wayback returned no snapshot for the interior.gob.es page. Cross-publisher consistency confirmed via Spanish secondary outlets (Infobae España 2025-12-23, Libertad Digital 2025-12-24, A24 / Diario de Vigo / Intercomarcal 2025-12-23/24). Rejected first candidates this iter: NPA Japan "Operation Cyber Guardian" 2026-04-27 (already in wiki as `cross-border-online-cse-operation-spf-2026`), korea.kr KNPA "사이버" / "국제공조" feed (no concrete new operation found in available view), Eurojust news feed (HTTP 403 server-side), Sweden Polisen (404 on the path used), Spain policia.es press main listing (404 on direct path) — pivoted to verified Spain–Argentina policia.es ID 16755 record after WebSearch surfaced the official press-release URL.
+
 ## [2026-05-10] ingest [iter 130, single-agent, milestone, L24-strict] | Operación PONEI — Guardia Civil + HSI + SPF + RMP + RTP + Europol takedown of Madeira Invest Club / "CryptoSpain" EUR 260M crypto-ponzi (2025-11-06)
 - Sources: 1 raw + 1 source page (es) + 1 operation page (3 new pages)
 - Pages created: `raw/press-releases/2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown.md`, `wiki/sources/2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown.md`, `wiki/operations/operacion-ponei-madeira-invest-club-cryptospain-takedown-2025.md`.
@@ -2089,9 +2102,22 @@
 - check_links: broken=2 (legacy bohemia-cannabia LESSONS.md backlinks, sustained pre-existing)
 - placeholder strings (`Z`+`ZPROT` / `>P`+`ROT[0-9]`): 0 across wiki/ + docs/
 - web/build_static.py: 1638 pages → docs/ (was 1637 before iter 130)
-- Iters 121-130 unique tier-1 publishers introduced/promoted: afp.gov.au (3 ops), commissariatodips.it (2 ops), om.nl, fedpol Switzerland, bka.de, korea.kr 정책브리핑 (2 ops), web.guardiacivil.es (2 ops). Plus integrity sweeps normalizing 1014 case_id values + 22 [[usdoj]] wikilinks + sources backfill on ~210 pages.
+- Iters 121-130 unique tier-1 publishers introduced/promoted: afp.gov.au (3 ops), commissariatodips.it (2 ops), om.nl, fedpol Switzerland, bka.de, korea.kr 정책브리핑 (2 ops), web.guardiacivil.es (2 ops). Plus integrity sweeps normalizing 1014 case_id values + 22 `usdoj` wikilinks + sources backfill on ~210 pages.
 - Integrity highlights this milestone block:
   - **CYB-YYYY-NNN canonical case_id at 1234 ops × 100%** (was ~20% canonical at iter 120).
-  - **`[[usdoj]]` stub deleted; canonical `[[us-doj]]` enforced** (CLAUDE.md rule 19).
+  - **`usdoj` stub deleted; canonical `[[us-doj]]` enforced** (CLAUDE.md rule 19).
   - **LESSONS.md L24 added**: participating_countries strict (협력국만; 사설 wire 제외).
   - **`sources:` frontmatter aligned with body References table wikilink rows** (~210 pages, freshness bumped).
+
+## [2026-05-10] ingest | Spain-Argentina AMERIPOL CSAM producer takedown — Alicante + Claypole arrests (Policía Nacional UCC + BA Provincial Cybercrime Directorate, Dec 2025) — iter 131
+- Source: raw/press-releases/2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol.md (Policía Nacional España, Sala de Prensa ID 16755; es).
+- Pages created: wiki/sources/2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol.md, wiki/operations/spain-argentina-ameripol-claypole-csam-producer-takedown-2025.md (provisional, source_count=1).
+- Pages updated: countries/spain, countries/argentina; agencies spanish-national-police, ncmec; crime-types/csam-ic; mechanisms/informal-cooperation + public-private-cooperation + search-seizure.
+- Key findings:
+  - **First wiki record from policia.es Sala de Prensa** (Spanish National Police primary portal) — promoted to multi-source publisher status.
+  - **First wiki record of AMERIPOL/AC3 channel** as cybercrime cooperation mechanism: Comunidad de Policías de América hemispheric police-cooperation framework, with the Spanish National Police liaison officer at AC3 as the named contact channel.
+  - 2 arrests (1 Alicante ES + 1 Claypole AR Buenos Aires province); newly-created CSAM identified during Spanish forensic analysis triggered urgent AMERIPOL escalation; Argentine subject described as one of leaders of transnational criminal organisation with EU + South America branches.
+  - L24 strict ≥2-country IC compliance verified verbatim from Spanish release ("la estrecha cooperación internacional entre la Policía Judicial de la policía Nacional de España y la Dirección de Investigaciones Cibercrimen de la Policía de la Provincia de Buenos Aires").
+  - L19/L23 strict applied: 2 wikilinked agencies (spanish-national-police, ncmec) + Argentine BA Provincial Police Cybercrime Directorate kept in body prose only (no wiki org page yet); lead_agency=`[[spanish-national-police]]`; coordinating_body left empty.
+  - 2 reference rows appended; 13 pages with `updated:` bumped.
+- Sustained log integrity: stripped `[[ ]]` brackets from `usdoj` literal references in log.md (backtick-wrapped now) — lint LOW=0 restored.

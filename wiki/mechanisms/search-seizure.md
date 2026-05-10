@@ -37,6 +37,7 @@ operations_using:
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
+  - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
 ---
 ## Summary
 

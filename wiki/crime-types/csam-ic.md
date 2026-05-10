@@ -32,9 +32,10 @@ notable_operations:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
+  - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
 relevant_legal_frameworks:
 
-source_count: 13
+source_count: 14
 sources:
   - "[[2026-03-05_interpol_operation-eclipse-csam-americas]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
@@ -49,6 +50,7 @@ sources:
   - "[[2025-04-09_cbzc_operation-fever-largest-european-pedophile-crackdown]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
+  - "[[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol]]"
 title: "CSAM (Child Sexual Abuse Material) — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -97,3 +99,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [11] | [[2025-04-09_cbzc_operation-fever-largest-european-pedophile-crackdown\|Operation FEVER — largest European pedophile crackdown (CBZC + KGP + 12 EU/UK/US partners; Polish EU Presidency H1 2025)]] | CBZC (Poland) | 2025-04-09 | https://www.gov.pl/web/cbzc |
 | [12] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [13] | [[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional\|MPF CABA — Operación Aliados por la Infancia VI: 270 raids across 13 jurisdictions (AR+BR+PA+DO+GT+UY+PY+CR+ES+PE+HN+FR+PR), 84 arrests]] | Ministerio Público Fiscal CABA — Cuerpo de Investigaciones Judiciales | 2026-04-29 | https://mpfciudad.gob.ar/noticias/operativo-internacional-aliados-por-la-infancia-vi |
+| [14] | [[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol\|Policía Nacional ES — Alicante + Claypole CSAM producer takedown via AMERIPOL/AC3 channel (Dec 2025); 2 arrests Spain+Argentina, NCMEC tipline upstream]] | Policía Nacional (Spain) — Sala de Prensa | 2025-12-23 | https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=16755 |

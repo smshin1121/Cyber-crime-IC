@@ -14,7 +14,7 @@ total: 61
 | 🇦🇪 | [[united-arab-emirates]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇱 | [[albania]] | civil-law | party (2002) | medium | unknown | 4 |
 | 🇦🇲 | [[armenia]] | civil-law | not-assessed | unknown | unknown | 3 |
-| 🇦🇷 | [[argentina]] | not-assessed | — | unknown | unknown | 1 |
+| 🇦🇷 | [[argentina]] | not-assessed | — | unknown | unknown | 2 |
 | 🇦🇹 | [[austria]] | civil-law | — | unknown | unknown | 3 |
 | 🇦🇺 | [[australia]] | not-assessed | — | unknown | unknown | 6 |
 | 🇦🇼 | [[aruba]] | not-assessed | — | unknown | unknown | 0 |
@@ -44,7 +44,7 @@ total: 61
 | 🇪🇨 | [[ecuador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇪🇪 | [[estonia]] | civil-law | party | high | unknown | 5 |
 | 🇪🇬 | [[egypt]] | civil-law | — | medium | unknown | 1 |
-| 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 15 |
+| 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 16 |
 | 🇫🇮 | [[finland]] | civil-law | party (2007) | high | 90-180 | 11 |
 | 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 12 |
 | 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 10 |
