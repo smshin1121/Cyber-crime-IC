@@ -89,6 +89,7 @@ notable_operations:
   - "[[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]]"
   - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
   - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
+  - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -103,7 +104,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 76
+source_count: 77
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -181,6 +182,7 @@ sources:
   - "[[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud]]"
   - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
   - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
+  - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
 created: 2026-04-14
 updated: 2026-05-16
 ---
@@ -314,3 +316,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [74] | [[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud\|Polícia Federal — Operação Decrypted II: BR-US bilateral crypto-wallet fraud takedown with HSI El Dorado Task Force NY]] | Polícia Federal (Brasil) | 2026-03-03 | https://www.gov.br/pf/pt-br/assuntos/noticias/2026/03/pf-mira-grupo-responsavel-por-fraudes-eletronicas |
 | [75] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |
 | [76] | [[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network\|GStA Bamberg/ZCB — DE-Kosovo-Costa Rica-Israel investment-fraud network: extradition + indictment (€4.5M DE / €21M worldwide)]] | Generalstaatsanwaltschaft Bamberg (ZCB Bayern) | 2026-01-23 | https://www.justiz.bayern.de/gerichte-und-behoerden/generalstaatsanwaltschaft/bamberg/presse/2026/3.php |
+| [77] | [[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud\|LKA Baden-Württemberg + CCZ Karlsruhe — DE-SE online-trading fraud EAW extradition (61yo Swedish national from Helsingborg)]] | LKA Baden-Württemberg + CCZ Karlsruhe (via presseportal.de) | 2026-03-26 | https://www.presseportal.de/blaulicht/pm/110980/6243831 |

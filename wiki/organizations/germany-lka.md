@@ -23,15 +23,17 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[warzone-rat-takedown-2024]]"
+  - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
 org_type: national-agency
 parent_org: "Interior Ministry of each of Germany's 16 federal states (Länder)"
-source_count: 4
+source_count: 5
 sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
+  - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
 status: active
 title: "Landeskriminalamt (LKA) — German State Criminal Police Offices (Collective)"
 type: organization
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 > [!info] Collective reference
 > This page is a **collective reference** for Germany's 16 state-level **Landeskriminalämter (LKAs)**, not a single agency. Each LKA is an independent authority subordinate to its Land's interior ministry. For specific LKAs (e.g. LKA Bayern, LKA Baden-Württemberg), dedicated pages should be created when needed.
@@ -99,3 +101,4 @@ Direct bilateral engagement by LKAs with foreign police is *unlikely* to be stan
 | [2] | LKA Bayern — Information in English | Polizei Bayern | n.d. | https://www.polizei.bayern.de/mam/lka-bayern/sonstige/information_in_english.pdf |
 | [3] | Law enforcement agencies — State Criminal Police Office Baden-Württemberg (LKA BW) | THW Sicherheitsforschung | n.d. | https://thw-forschung.de/EN/Forschungsprojekte/ForAn/Mitglieder/Polizeiliche-Gefahrenabwehr/_dokumente/steckbrief-foran-LKA-BW.html |
 | [4] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
+| [5] | [[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud\|LKA Baden-Württemberg + CCZ Karlsruhe — DE-SE online-trading fraud EAW extradition (61yo Swedish national from Helsingborg)]] | LKA Baden-Württemberg + CCZ Karlsruhe (via presseportal.de) | 2026-03-26 | https://www.presseportal.de/blaulicht/pm/110980/6243831 |

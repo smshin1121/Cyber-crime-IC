@@ -35,9 +35,10 @@ operations_participated:
   - "[[flubot-takedown-2022]]"
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
+  - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
-source_count: 9
+source_count: 10
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
@@ -45,6 +46,7 @@ sources:
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
   - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
 status: active
 title: "Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority"
 type: organization
@@ -115,3 +117,4 @@ Specific operation attributions are not confirmed in currently ingested sources.
 | [7] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
 | [8] | [[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres\|Eurojust — DE-CY-BG-SE crackdown on online investment fraud Cyprus call-centres (Jan 2024); 4-jurisdiction action day, 4 arrests]] | Eurojust | 2024-01-22 | https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud-from-cyprus-call-centres |
 | [9] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |
+| [10] | [[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud\|LKA Baden-Württemberg + CCZ Karlsruhe — DE-SE online-trading fraud EAW extradition (61yo Swedish national from Helsingborg)]] | LKA Baden-Württemberg + CCZ Karlsruhe (via presseportal.de) | 2026-03-26 | https://www.presseportal.de/blaulicht/pm/110980/6243831 |

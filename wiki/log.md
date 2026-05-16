@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 167, REJECT-AND-RETRY, L23+L24+L25 borderline] | DE-SE Online-Trading Fraud Helsingborg Extradition (LKA-BW + CCZ Karlsruhe, 26 Mar 2026)
+- Source: `raw/press-releases/2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud.md` (presseportal.de via LKA Baden-Württemberg + CCZ Karlsruhe; de).
+- Pages created: `wiki/sources/2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud.md`, `wiki/operations/de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026.md` (provisional, source_count=1).
+- Pages updated: 2 countries (germany, sweden); 2 organizations (germany-lka, sweden-police); 2 mechanisms (european-arrest-warrant, extradition); 2 crime-types (online-fraud-ic, money-laundering-ic).
+- **REJECT-AND-RETRY**: first agent attempt picked CPS UK Zhimin Qian / Yadi Zhang 61,000-BTC sentencing (Nov 2025). Rejected as duplicate of iter 146 `met-police-china-uk-bitcoin-money-laundering-conviction-2025.md` (same case — Met conviction + CPS sentencing are different procedural milestones of single op). Per CLAUDE.md "merge over multiplication". 3 files deleted. Retry picked LKA-BW DE-SE op.
+- Key findings:
+  - **L24 strict satisfied**: LKA-BW/CCZ Karlsruhe release names "Die 61-jährige schwedische Staatsangehörige wurde im März 2026 aufgrund eines vom CCZ erwirkten Europäischen Haftbefehls aus Schweden nach Deutschland ausgeliefert" — bilateral DE-SE judicial cooperation explicit (EAW issued by CCZ Karlsruhe, executed by Swedish judicial authorities). 2 cooperating jurisdictions.
+  - **Tier-1 publisher (BORDERLINE L25)**: `presseportal.de` — German LE de facto official press-distribution platform used by BKA + every Land LKA. **Strict L25 reading**: presseportal.de is operated by a Volkswagen-subsidiary commercial wire service, not a state news agency. **De facto practice**: it is the canonical distribution channel for German federal/state police releases; the content is verbatim LKA-BW + CCZ Karlsruhe primary release. Flagged for LESSONS L25 clarification at next milestone integrity sweep — should clarify whether presseportal.de qualifies as "state news wire" for German LE distribution, or whether LKA-direct URLs (polizei-bw.de) should be sought first.
+  - **L23 compliance**: `lead_agency: "[[germany-lka]]"`, `coordinating_body: ""` (CCZ Karlsruhe no wiki page, kept in body prose); `participating_agencies` Glob-verified wikilinks only (germany-lka, sweden-police).
+  - Op profile: 61yo Swedish national (female) extradited Helsingborg→DE Mar 2026 via EAW issued by CCZ Karlsruhe; 24 German victims; €1.17M deposited; €280K compensation to defendant; network active since at least 2018.
+  - `case_id: CYB-2026-1001`.
+  - 4 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest [iter 166, single-agent, L23+L24+L25 strict] | HKPF STEALTHNET Counter Cyber+Physical Terrorism Joint Exercise (HKSAR ISD/HKPF, 16 Apr 2026)
 - Source: `raw/press-releases/2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet.md` (info.gov.hk HKSAR state news wire own-domain; en).
 - Pages created: `wiki/sources/2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet.md`, `wiki/operations/stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026.md` (provisional, source_count=1).

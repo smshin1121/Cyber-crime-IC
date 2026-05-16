@@ -4,7 +4,7 @@ title: Extradition
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-16
-source_count: 22
+source_count: 23
 sources:
   - "[[2015-10-13_fbi-pittsburgh_bugat-botnet-administrator-arrested-and-malware-disabled]]"
   - "[[2015-10-13_scmagazine_moldovian-sentenced-stealing-millions-bugat-banking-malware]]"
@@ -28,6 +28,7 @@ sources:
   - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
   - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
   - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
+  - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-token-mirrors-2026]]"
@@ -55,6 +56,7 @@ operations_using:
   - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
   - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
   - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
+  - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"
