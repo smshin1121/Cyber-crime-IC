@@ -102,9 +102,10 @@ operations_participated:
   - "[[operation-ragnar-locker-takedown-2023]]"
   - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
   - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 org_type: regional-org
 parent_org: ""
-source_count: 26
+source_count: 27
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
@@ -123,6 +124,7 @@ sources:
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
   - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
   - "[[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest]]"
+  - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
 status: active
 title: Eurojust
 type: organization
@@ -300,3 +302,4 @@ Direct Eurojust-Korea judicial cooperation on cybercrime is *likely* limited but
 | [24] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |
 | [25] | [[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer\|USAO-WDTX — Hambardzum Minasyan (Armenian co-developer of RedLine infostealer) extradition from NL+BE to US WDTX (post Op Magnus)]] | U.S. Attorney's Office, Western District of Texas (DOJ) | 2026-03-25 | https://www.justice.gov/usao-wdtx/pr/armenian-man-extradited-us-faces-charges-role-infostealing-malware-scheme |
 | [26] | [[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest\|Hellenic Police Cyber Crime Directorate — Operation Endgame Greek limb: VenomRAT mastermind arrest in Attica (FR EAW, FBI on-site)]] | Hellenic Police (astynomia.gr) Cyber Crime Directorate | 2025-11-13 | https://www.astynomia.gr/2025/11/13/13-11-2025-i-elliniki-astynomia-stin-operation-endgame-gia-ton-termatismo-leitourgias-ypodomon-pou-diefkolynoun-to-kyvernoegklima/ |
+| [27] | [[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke\|GenStA Koblenz/LZC — Operation Chargeback: 10-jurisdiction payment-processor card-fraud + ML takedown; 18 arrests, ~EUR 35M seized, 4.3M cardholders affected]] | Generalstaatsanwaltschaft Koblenz (Landeszentralstelle Cybercrime) | 2025-11-05 | https://gstko.justiz.rlp.de/presse-aktuelles/detail-1/operation-chargeback-18-festnahmen-bei-international-koordiniertem-vorgehen-gegen-mutmassliche-betrugs-und-geldwaeschenetzwerke-verdacht-des-systematischen-missbrauchs-von-zahlungsdienstleistern |

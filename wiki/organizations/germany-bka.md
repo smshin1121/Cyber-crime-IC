@@ -76,9 +76,10 @@ operations_participated:
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
-source_count: 15
+source_count: 16
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -95,6 +96,7 @@ sources:
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
   - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
+  - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization

@@ -73,8 +73,9 @@ operations_participated:
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
   - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 region: western-europe
-source_count: 22
+source_count: 23
 sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]]"
@@ -98,6 +99,7 @@ sources:
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
   - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
 title: "Kingdom of Spain"
 treaty_memberships:
   - date: 2010-06-03

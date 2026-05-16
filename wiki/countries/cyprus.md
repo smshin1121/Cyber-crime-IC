@@ -33,16 +33,18 @@ operations_participated:
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 3
+source_count: 4
 sources:
   - "[[2025-01-27_eurojust-europa-eu_criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-bu]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
   - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
+  - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
 created: 2026-04-17
-updated: 2026-05-10
+updated: 2026-05-16
 status: corpus-linked
 ---
 ## Summary

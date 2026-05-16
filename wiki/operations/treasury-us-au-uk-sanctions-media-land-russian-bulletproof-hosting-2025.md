@@ -78,6 +78,7 @@ related_operations:
   - "[[treasury-us-au-uk-zservers-sanctions-2025]]"
   - "[[treasury-aeza-group-bulletproof-hosting-sanctions-2025]]"
   - "[[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]]"
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 challenges_encountered:
 
 lessons_learned:
@@ -87,7 +88,7 @@ source_count: 1
 sources:
   - "[[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 # Trilateral Sanctions on Media Land and Aeza Group Russian Bulletproof Hosting (2025)
 

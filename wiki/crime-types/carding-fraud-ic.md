@@ -3,13 +3,16 @@ type: crime-type
 title: "Carding Fraud — IC Perspective"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-04-29
+updated: 2026-05-16
 last_verified: 2026-04-10
-source_count: 1
+source_count: 2
 sources:
   - "[[hackread-global-airport-action-day]]"
+  - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
+notable_operations:
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 ---
 ## Summary
 

@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 171, single-agent, L23+L24+L25 strict] | Operation Chargeback 10-Jurisdiction Payment-Processor Card-Fraud Takedown (GenStA Koblenz/LZC, 5 Nov 2025)
+- Source: `raw/press-releases/2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke.md` (gstko.justiz.rlp.de Generalstaatsanwaltschaft Koblenz own-domain; de).
+- Pages created: `wiki/sources/2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke.md`, `wiki/operations/operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025.md` (provisional, source_count=1).
+- Pages updated: 10 countries (germany, united-kingdom, italy, canada, luxembourg, netherlands, singapore, spain, united-states, cyprus); 3 organizations (germany-bka, europol-ec3, eurojust); 3 crime-types (carding-fraud-ic, online-fraud-ic, money-laundering-ic); 4 mechanisms (eurojust-coordination-meeting, europol-jit, asset-freezing, asset-recovery); 1 challenge (jurisdictional-conflicts); 1 related op backlink (treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025).
+- Key findings:
+  - **L24 strict satisfied**: GenStA Koblenz/LZC release names "die enge Zusammenarbeit mit den Behörden in Großbritannien, Italien, Kanada, Luxemburg, den Niederlanden, Singapur, Spanien, den Vereinigten Staaten und Zypern" — 10 cooperating LE jurisdictions explicitly: DE (lead) + UK + IT + CA + LU + NL + SG + ES + US + CY; Eurojust + Europol IGO coordination.
+  - **Tier-1 publisher**: `gstko.justiz.rlp.de` Generalstaatsanwaltschaft Koblenz Landeszentralstelle Cybercrime own-domain (subdomain of Rheinland-Pfalz state judiciary). 1st gstko op (7th distinct German tier-1 publisher this session after BKA, Hessen, Bayern, NRW, Justiz Bayern, Berlin, now Koblenz).
+  - **L23 compliance**: `lead_agency: "[[germany-bka]]"`, `coordinating_body: ""` (Koblenz prosecutor no wiki page); `participating_agencies` only Glob-verified wikilinks.
+  - Op profile: 4 Nov 2025 action day; 18 arrests across 10 jurisdictions; 44 suspects identified; ~€35M seized in Germany; ~4.3M cardholders affected across 193 countries; >€300M total damages; payment-processor systematic abuse + card-fraud + money laundering scheme.
+  - `case_id: CYB-2025-934`.
+  - 6 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest + milestone push [iter 170, single-agent, L23+L24+L25 strict] | Hellenic Police Op Endgame Greek-Limb VenomRAT Mastermind Attica Arrest (astynomia.gr, 13 Nov 2025)
 - Source: `raw/press-releases/2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest.md` (astynomia.gr Hellenic Police own-domain; el).
 - Pages created: `wiki/sources/2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest.md`, `wiki/operations/hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025.md` (provisional, source_count=1).

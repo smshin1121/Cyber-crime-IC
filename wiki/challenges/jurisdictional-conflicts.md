@@ -43,8 +43,10 @@ sources:
   - "[[2026-05-05_polri_lcs-interpol-red-notice-cambodia-online-fraud-arrest]]"
   - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
 created: 2026-04-08
-updated: 2026-05-10
+updated: 2026-05-16
 status: active
+operations_participated:
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 ---
 ## Summary
 

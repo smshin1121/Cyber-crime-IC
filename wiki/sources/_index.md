@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (850)
+# Sources (851)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -155,6 +155,7 @@ updated: 2026-04-14
 | [[2025-11-06_thepaypers-com_crypto-scammers-steal-over-eur-600-million-now-arrested]] | news | The Paypers | ? | medium | ? |
 | [[2025-11-06_ifcreview-com_crypto-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | report | IFC Review | ? | medium | ? |
 | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]] | press-release | Guardia Civil (Spain) — Portal Web de la Guardia Civil | ? | high | ? |
+| [[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]] | press-release | Generalstaatsanwaltschaft Koblenz — Landeszentralstelle Cybercrime (LZC), Rheinland-Pfalz | ? | high | ? |
 | [[2025-11-05_eurojust_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18]] | press-release | Eurojust | 2 | high | ? |
 | [[2025-11-05_eurojust-newsroom_eur-300m-global-credit-card-fraud]] | government | Eurojust | ? | high | ? |
 | [[2025-11-05_eurojust-fraud-term_eur-300m-global-credit-card-fraud]] | government | Eurojust | ? | high | ? |

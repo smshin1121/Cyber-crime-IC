@@ -19,8 +19,9 @@ operations_participated:
   - "[[operation-cyber-guardian-2026]]"
   - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
   - "[[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]]"
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 region: southeast-asia
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
@@ -28,6 +29,7 @@ sources:
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
   - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
   - "[[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]]"
+  - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
 title: "Republic of Singapore"
 treaty_memberships:
   - not-assessed

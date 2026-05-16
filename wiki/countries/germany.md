@@ -93,8 +93,9 @@ operations_participated:
   - "[[operation-ragnar-locker-takedown-2023]]"
   - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 region: western-europe
-source_count: 23
+source_count: 24
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -119,6 +120,7 @@ sources:
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
   - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
   - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
+  - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09

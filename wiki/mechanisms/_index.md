@@ -11,8 +11,8 @@ updated: 2026-04-14
 | Mechanism | Type | Formality | Speed | Administered By | Legal Basis | Sources |
 |-----------|------|-----------|-------|-----------------|-------------|---------|
 | [[24-7-network]] | 24-7-network | semi-formal | hours | [[council-of-europe]] | budapest-convention | 2 |
-| [[asset-freezing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 11 |
-| [[asset-recovery]] | cooperation-or-enforcement-mechanism | — | — | — | — | 3 |
+| [[asset-freezing]] | cooperation-or-enforcement-mechanism | — | — | — | — | 12 |
+| [[asset-recovery]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[capacity-building-ic]] | cooperation-or-enforcement-mechanism | — | — | — | — | 1 |
 | [[cryptocurrency-seizure]] | cooperation-or-enforcement-mechanism | — | — | — | — | 9 |
 | [[direct-provider-request]] | provider-disclosure | semi-formal | days | — | cloud-act, second-additional-protocol | 6 |
@@ -20,11 +20,11 @@ updated: 2026-04-14
 | [[electronic-evidence]] | cooperation-or-enforcement-mechanism | — | — | — | — | 10 |
 | [[empact]] | liaison-network | formal | weeks | [[europol-ec3]] | eu-policy-cycle | 4 |
 | [[eu-policy-cycle]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
-| [[eurojust-coordination-meeting]] | cooperation-or-enforcement-mechanism | — | — | — | — | 11 |
+| [[eurojust-coordination-meeting]] | cooperation-or-enforcement-mechanism | — | — | — | — | 12 |
 | [[european-arrest-warrant]] | cooperation-or-enforcement-mechanism | — | — | — | — | 8 |
 | [[european-investigation-order]] | cooperation-or-enforcement-mechanism | — | — | — | — | 6 |
 | [[european-judicial-cybercrime-network]] | liaison-network | semi-formal | weeks-months | [[eurojust]] | Council Conclusions on the establishment of a European Judicial Cybercrime Network (Council of the EU, 9 June 2016) | 1 |
-| [[europol-jit]] | joint-investigation-team | formal | weeks-months | [[eurojust]] | budapest-convention, EU Council Framework Decision 2002/465/JHA | 6 |
+| [[europol-jit]] | joint-investigation-team | formal | weeks-months | [[eurojust]] | budapest-convention, EU Council Framework Decision 2002/465/JHA | 7 |
 | [[extradition]] | cooperation-or-enforcement-mechanism | — | — | — | — | 24 |
 | [[informal-cooperation]] | cooperation-or-enforcement-mechanism | — | — | — | — | 22 |
 | [[interpol-asean-desk]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |

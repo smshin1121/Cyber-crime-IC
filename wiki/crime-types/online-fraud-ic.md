@@ -122,6 +122,7 @@ notable_operations:
   - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
   - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -139,7 +140,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 115
+source_count: 116
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -256,6 +257,7 @@ sources:
   - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
   - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
   - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
+  - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
 created: 2026-04-08
 updated: 2026-05-16
 ---
@@ -434,3 +436,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [113] | [[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network\|GStA Bamberg/ZCB — DE-Kosovo-Costa Rica-Israel investment-fraud network: extradition + indictment (€4.5M DE / €21M worldwide)]] | Generalstaatsanwaltschaft Bamberg (ZCB Bayern) | 2026-01-23 | https://www.justiz.bayern.de/gerichte-und-behoerden/generalstaatsanwaltschaft/bamberg/presse/2026/3.php |
 | [114] | [[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud\|LKA Baden-Württemberg + CCZ Karlsruhe — DE-SE online-trading fraud EAW extradition (61yo Swedish national from Helsingborg)]] | LKA Baden-Württemberg + CCZ Karlsruhe (via presseportal.de) | 2026-03-26 | https://www.presseportal.de/blaulicht/pm/110980/6243831 |
 | [115] | [[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks\|GenStA Berlin + LKA Berlin — DE-AT-PL-CH-SK-CZ Enkeltrick/Schockanruf phone-fraud 7-week action (ISF-LUMEN); 16 arrests, EUR 2M+ prevented]] | Generalstaatsanwaltschaft Berlin + LKA Berlin | 2025-11-12 | https://www.berlin.de/generalstaatsanwaltschaft/presse/pressemitteilungen/2025/pressemitteilung.1615574.php |
+| [116] | [[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke\|GenStA Koblenz/LZC — Operation Chargeback: 10-jurisdiction payment-processor card-fraud + ML takedown; 18 arrests, ~EUR 35M seized, 4.3M cardholders affected]] | Generalstaatsanwaltschaft Koblenz (Landeszentralstelle Cybercrime) | 2025-11-05 | https://gstko.justiz.rlp.de/presse-aktuelles/detail-1/operation-chargeback-18-festnahmen-bei-international-koordiniertem-vorgehen-gegen-mutmassliche-betrugs-und-geldwaeschenetzwerke-verdacht-des-systematischen-missbrauchs-von-zahlungsdienstleistern |

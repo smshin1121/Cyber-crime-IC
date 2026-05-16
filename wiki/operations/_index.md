@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (296 canonical / 27 absorbed / 323 records)
+# Operations (297 canonical / 27 absorbed / 324 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (296)
+## Canonical Operations (297)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -238,6 +238,7 @@ updated: 2026-04-14
 | [[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]] | CYB-2025-861 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[frontier-plus-cross-border-anti-scam-2025]] | CYB-2025-896 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[sg-hk-my-gsm-gateway-scam-takedown-2025]] | CYB-2025-921 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]] | CYB-2025-934 | 3 | completed | — | 1 | 4.60 | 1 |
 | [[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]] | CYB-2025-968 | 3 | ongoing | — | 1 | 3.40 | 1 |
 | [[austria-latvia-estonia-online-scams-jit-takedown-2025]] | CYB-2025-973 | 3 | completed | umbrella | 1 | 4.20 | 1 |
 | [[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]] | CYB-2025-995 | 3 | completed | — | 1 | 3.60 | 1 |

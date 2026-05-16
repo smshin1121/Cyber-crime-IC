@@ -11,11 +11,12 @@ operations_participated:
   - "[[operation-onymous|Operation Onymous]]"
   - "[[operation-power-off-2026-04]]"
   - "[[project-compass-the-com-network-2025]]"
-source_count: 0
+  - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
+source_count: 1
 sources:
-
+  - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
 created: 2026-04-11
-updated: 2026-05-09
+updated: 2026-05-16
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 assessment_confidence: limited
