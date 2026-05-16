@@ -104,6 +104,7 @@ related_operations:
   - "[[operation-endgame-phase3]]"
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
+  - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
@@ -113,7 +114,7 @@ lessons_learned:
   - "On-site command posts at Europol HQ enable real-time coordination across jurisdictions and time zones"
   - "EU Most Wanted listings and international arrest warrants create persistent legal pressure even without immediate physical arrests"
 created: 2026-04-10
-updated: 2026-05-10
+updated: 2026-05-16
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]], with participation from law enforcement agencies across at least 15 countries."

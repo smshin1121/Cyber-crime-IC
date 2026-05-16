@@ -238,8 +238,9 @@ operations_participated:
   - "[[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
   - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
+  - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
 region: north-america
-source_count: 30
+source_count: 31
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -271,6 +272,7 @@ sources:
   - "[[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests]]"
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
   - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
+  - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

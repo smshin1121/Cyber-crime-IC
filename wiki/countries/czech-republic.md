@@ -34,14 +34,16 @@ operations_participated:
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
+  - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
 region: central-europe
-source_count: 9
+source_count: 10
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
+  - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
 title: "Czech Republic"
 treaty_memberships:
   - date: 2013-08-22
@@ -116,3 +118,4 @@ Capacity is *likely* medium-high. The EU membership, established NCOZ Cyber Crim
 | [7] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
 | [8] | [[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown\|Operation LoopX — Austrian crypto-coin exit-scam takedown (AT+CY+CZ; 6 arrests, ~EUR 6M victim losses, 10M tokens 2017-2018)]] | Eurojust | 2024-05-08 | https://www.eurojust.europa.eu/news/take-down-austrian-based-fraud-scheme-offering-new-type-crypto-coin |
 | [9] | [[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol\|Policie ČR — Prague arrest of top-3 worldwide darknet CSAM distributor; FBI ~10-yr intel + Europol-coordinated identification]] | Policie České republiky | 2024-10-08 | https://policie.gov.cz/clanek/byl-v-hledacku-fbi-i-europolu-dopadli-jej-cesti-kriminaliste.aspx |
+| [10] | [[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident\|RCMP CIT-V — Operation Endgame Canadian-limb: Surrey BC malware-loader botnet operator arrest; 7-country LE cooperation]] | Royal Canadian Mounted Police (RCMP) | 2025-04-09 | https://rcmp.ca/en/news/2025/04/international-cybercrime-investigation-leads-arrest-surrey-resident |

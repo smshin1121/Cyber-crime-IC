@@ -88,8 +88,9 @@ operations_participated:
   - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
   - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
+  - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
 region: western-europe
-source_count: 18
+source_count: 19
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -109,6 +110,7 @@ sources:
   - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
   - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
+  - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09

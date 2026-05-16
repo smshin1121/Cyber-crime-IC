@@ -48,13 +48,15 @@ operations_participated:
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[usss-canada-operation-avalanche-ethereum-approval-phishing-2025]]"
+  - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
 org_type: national-unit
 parent_org: "[[canada-rcmp-federal-policing]]"
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities]]"
+  - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
 status: active
 title: "RCMP — National Cybercrime Coordination Centre (NC3)"
 type: organization
@@ -114,3 +116,4 @@ NC3's cooperation effectiveness is *likely* high given the Five Eyes operational
 | [4] | [[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters\|RCMP Central Region (Ontario) — Toronto couple arrested as alleged top-50 worldwide subscribers of iSpoof.cc spoofing-as-a-service; 570+ Canadian victims (Feb 2025)]] | Royal Canadian Mounted Police — Central Region (Ontario) | 2025-02-20 | https://www.rcmp-grc.gc.ca/en/news/2025/02/ontario-rcmp-shuts-down-prolific-cyber-fraudsters |
 | [5] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
 | [6] | [[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities\|USSS — Operation Avalanche: US-Canada Ethereum approval-phishing disruption with BC Securities Commission + RCMP + provincial partners]] | U.S. Secret Service | 2025-04-16 | https://www.secretservice.gov/newsroom/releases/2025/04/us-secret-service-analysts-work-canadian-officials-disrupt-ethereum |
+| [7] | [[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident\|RCMP CIT-V — Operation Endgame Canadian-limb: Surrey BC malware-loader botnet operator arrest; 7-country LE cooperation]] | Royal Canadian Mounted Police (RCMP) | 2025-04-09 | https://rcmp.ca/en/news/2025/04/international-cybercrime-investigation-leads-arrest-surrey-resident |

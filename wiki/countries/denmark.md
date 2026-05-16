@@ -38,17 +38,19 @@ operations_participated:
   - "[[operation-otf-grimm]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[operation-cumberland-ai-csam-2025]]"
+  - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-17_en-wikipedia-org_national-special-crime-unit-denmark]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
 created: 2026-04-11
-updated: 2026-05-09
+updated: 2026-05-16
 status: corpus-linked
 ---
 ## Summary

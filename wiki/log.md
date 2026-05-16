@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 162, single-agent, L23+L24+L25 strict, Wayback fallback L11] | RCMP CIT-V Canadian-Limb Op Endgame Surrey Malware-Loader Arrest (RCMP, 9 Apr 2025)
+- Source: `raw/press-releases/2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident.md` (rcmp.ca own-domain; en) — retrieved via Wayback `20250824014221` snapshot per L11 fallback (live URL curl_cffi blocked).
+- Pages created: `wiki/sources/2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident.md`, `wiki/operations/rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025.md` (provisional, source_count=1).
+- Pages updated: 7 countries (canada, denmark, france, germany, netherlands, czech-republic, united-states); 2 organizations (canada-rcmp, europol-ec3); 2 crime-types (malware-ic, cybercrime-infrastructure-ic); 2 related ops (operation-endgame, operation-endgame-phase2).
+- Key findings:
+  - **L24 strict satisfied**: RCMP release names "This operation was coordinated with our law enforcement partners from Denmark, France, Germany, The Netherlands, Czech Republic and the USA" (Supt. Adam MacIntosh, OIC Pacific Region) — 7 cooperating LE jurisdictions explicitly: Canada (RCMP CIT-V) + DK + FR + DE + NL + CZ + US; under Operation Endgame umbrella.
+  - **Tier-1 publisher**: `rcmp.ca` Royal Canadian Mounted Police own-domain. 1st RCMP-as-lead op in wiki (prior RCMP appearances were participating).
+  - **L23 compliance**: `lead_agency: "[[canada-rcmp]]"`, `coordinating_body: "[[europol-ec3]]"`; `participating_agencies` only Glob-verified wikilinks.
+  - Op profile: RCMP Pacific Region CIT-V (Cybercrime Investigative Team — Vancouver) arrest of a Surrey BC resident in March 2025 (announced 2025-04-09); operator of malware-loader botnet with "thousands of infected computers" worldwide. Canadian-limb disposition under Operation Endgame umbrella (April 2025 follow-up tranche, distinct from May 2025 Phase 2).
+  - `case_id: CYB-2025-163`.
+  - 6 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest [iter 161, single-agent, L23+L24+L25 strict] | US-ROK-Japan Trilateral Joint Statement on DPRK IT Workers (US State Dept, 27 Aug 2025)
 - Source: `raw/press-releases/2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers.md` (state.gov own-domain; en).
 - Pages created: `wiki/sources/2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers.md`, `wiki/operations/us-rok-japan-joint-statement-dprk-it-workers-2025-08.md` (provisional, source_count=1).

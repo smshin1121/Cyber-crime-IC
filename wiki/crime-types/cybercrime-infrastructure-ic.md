@@ -53,6 +53,7 @@ notable_operations:
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
   - "[[16shop-phishing-as-a-service-takedown-2023]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
+  - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -61,7 +62,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 32
+source_count: 33
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -95,6 +96,7 @@ sources:
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
+  - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
 created: 2026-04-17
 updated: 2026-05-16
 status: active
@@ -155,3 +157,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [30] | [[2026-03-20_bka_aisuru-kimwolf-botnet-takedown\|BKA + ZAC NRW — Aisuru/Kimwolf IoT-DDoS botnet takedown via DE-CA-US coordination (Mar 2026); 2 administrators identified (DE+CA), 31.4 Tbps record DDoS attributed]] | Bundeskriminalamt (BKA) + ZAC NRW | 2026-03-20 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260320_PM_Botnetze.html |
 | [31] | [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan\|INTERPOL — 16shop phishing-as-a-service platform takedown (Aug 2023); 3 arrests in ID + JP, INTERPOL IGCI cybercrime directorate-led with INP, NPA, FBI cooperation]] | INTERPOL (IGCI cybercrime directorate) | 2023-08-08 | https://www.interpol.int/en/News-and-Events/News/2023/Phishing-as-a-service-platform-16shop-shut-down-three-arrests |
 | [32] | [[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen\|BKA — ZIT/HLKA/BKA Hessen-RLP phase of Operation PowerOff: Dstat.CC + Flight RCS DDoS-stresser/clearnet drug-marketplace takedown]] | Bundeskriminalamt | 2024-11-01 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/241031_PM_Festnahme_Cybercrime.html |
+| [33] | [[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident\|RCMP CIT-V — Operation Endgame Canadian-limb: Surrey BC malware-loader botnet operator arrest; 7-country LE cooperation]] | Royal Canadian Mounted Police (RCMP) | 2025-04-09 | https://rcmp.ca/en/news/2025/04/international-cybercrime-investigation-leads-arrest-surrey-resident |
