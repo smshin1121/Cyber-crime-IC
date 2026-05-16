@@ -15,16 +15,16 @@ enforcement_type:
   - takedown
 outcome: success
 timeframe:
-  announced: "2024-10-08"
-  start: "2022-12-01"
-  end: "2024-08-31"
+  announced: 2024-10-08
+  start: 2022-12-01
+  end: 2024-08-31
   ongoing: false
 crime_types:
   - "[[dark-web-ic]]"
   - "[[drug-trafficking]]"
   - "[[money-laundering-ic]]"
   - "[[cybercrime-infrastructure-ic]]"
-crime_type: "dark-web-ic"
+crime_type: dark-web-ic
 target_entity: "Bohemia / Cannabia darknet marketplace (dual sister-market under common administration)"
 lead_agency: "[[netherlands-politie]]"
 coordinating_body: ""
@@ -38,7 +38,8 @@ participating_agencies:
   - "[[netherlands-om]]"
   - "[[ireland-garda]]"
   - "[[uk-nca]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[informal-cooperation]]"
   - "[[cryptocurrency-seizure]]"
@@ -58,35 +59,38 @@ results:
     - "Marketplace peak monthly turnover EUR 12 million (Sep 2023); ~82,000 daily ads; ~67,000 monthly transactions"
     - "Estimated administrator profits ~EUR 5 million"
 edges:
-  - source_actor: "netherlands-politie"
-    target_actor: "ireland-garda"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "netherlands-politie"
-    target_actor: "uk-nca"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "netherlands-politie"
-    target_actor: "united-states"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "netherlands-politie"
-    target_actor: "netherlands-om"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "domestic"
-    direction: "directed"
+  - source_actor: netherlands-politie
+    target_actor: ireland-garda
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: netherlands-politie
+    target_actor: uk-nca
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: netherlands-politie
+    target_actor: united-states
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
+  - source_actor: netherlands-politie
+    target_actor: netherlands-om
+    cooperation_type: evidence_transfer
+    legal_basis: domestic
+    direction: directed
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
   - "specific U.S. agency identity (DOJ named in one tier-2 source only)"
   - "Eurojust / Europol coordination role (not explicitly cited for original takedown)"
   - "specific legal basis (no treaty cited; appears informal + bilateral)"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Multi-year persistence: the investigation continued past the operators' apparent late-2023 exit scam, identifying administrators after the marketplace had gone offline — challenging the assumption that exit-scammed markets are not pursuable."
   - "Server location concentration in the Netherlands enabled domestic search-and-seizure powers to support the Dutch-led investigation, reducing reliance on formal MLAT for infrastructure access."
@@ -95,9 +99,8 @@ source_count: 1
 sources:
   - "[[2024-10-08_politie_bohemia-cannabia-darknet-marketplace-takedown]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 ---
-
 # Bohemia / Cannabia Darknet Marketplace Takedown (2024)
 
 ## Summary

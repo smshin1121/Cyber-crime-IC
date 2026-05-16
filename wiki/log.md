@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 153, single-agent, L23+L24+L25 strict] | US-Colombia Versus Project Darknet Marketplace Operator (Patrick Schmitz) Extradition (IRS-CI / USAO-NJ, 30 Apr 2026)
+- Source: `raw/press-releases/2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia.md` (IRS-CI mirror of USAO-NJ / DOJ OPA — irs.gov own-domain; en).
+- Pages created: `wiki/sources/2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia.md`, `wiki/operations/us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026.md` (provisional, source_count=1).
+- Pages updated: 2 countries (united-states, colombia); 3 organizations (us-doj, fbi, office-of-international-affairs); 5 crime-types (dark-web-ic, drug-trafficking, money-laundering-ic, access-device-fraud, identity-theft); 2 mechanisms (extradition, mlat-process); 3 related ops (alphabay-takedown, bohemia-cannabia-darknet-marketplace-takedown-2024, archetyp-market-takedown-operation-deep-sentinel-2025).
+- Key findings:
+  - **L24 strict satisfied**: IRS-CI/DOJ release names "The Justice Department's Judicial Attache in Bogota, Colombia, and the Policía Nacional de Colombia provided valuable assistance concerning Schmitz's provisional arrest and extradition." — 2 countries' LE explicitly: US (DOJ + HSI Newark + IRS-CI Newark + FBI Kansas City) + Colombia (Policía Nacional de Colombia + DOJ Judicial Attache Bogotá).
+  - **Tier-1 publisher**: `irs.gov` (IRS Criminal Investigation) own-domain — US federal LE. Used as L11 fallback to justice.gov 403 Akamai per L21; the IRS-CI mirror is the verbatim USAO-NJ/DOJ-OPA release. 1st IRS-CI op in wiki.
+  - **L23 compliance**: `lead_agency: "[[us-doj]]"`, `coordinating_body: ""` (HSI/IRS-CI/USMS/Policía Nacional de Colombia kept in body prose only — no wiki org pages for those specific units); `participating_agencies` only Glob-verified wikilinks (us-doj, fbi, office-of-international-affairs).
+  - Op profile: Patrick Schmitz extradited Colombia→US 2026-04-29; indictment unsealed 2026-04-30 in D.N.J.; charges include darknet marketplace operation, money laundering, access device fraud, drug trafficking, identity theft tied to the Versus Project darknet marketplace.
+  - `case_id: CYB-2026-153`.
+  - 5 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 152, single-agent, L23+L24+L25 strict] | Bayern-Tirol-Romania Action Day Internet-Fraud OCG Takedown (Polizei Bayern / ZCB Bamberg, 17 Dec 2024)
 - Source: `raw/press-releases/2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern.md` (Polizei Bayern own-domain; de).
 - Pages created: `wiki/sources/2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern.md`, `wiki/operations/bayern-tirol-romania-action-day-internet-fraud-2024.md` (provisional, source_count=1).

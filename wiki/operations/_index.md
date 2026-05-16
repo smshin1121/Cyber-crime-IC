@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (279 canonical / 27 absorbed / 306 records)
+# Operations (280 canonical / 27 absorbed / 307 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (279)
+## Canonical Operations (280)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -282,6 +282,7 @@ updated: 2026-04-14
 | [[sweden-us-bank-impersonation-fraud-extradition-2026]] | CYB-2026-124 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]] | CYB-2026-150 | 3 | completed | standalone | 1 | 4.00 | 1 |
 | [[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]] | CYB-2026-151 | 3 | completed | standalone | 1 | 4.00 | 1 |
+| [[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]] | CYB-2026-153 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[crimenetwork-relaunch-takedown-2026]] | CYB-2026-266 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]] | CYB-2026-275 | 3 | ongoing | standalone | 1 | 4.40 | 1 |
 | [[hungary-romania-swatting-doxing-discord-2026]] | CYB-2026-417 | 3 | completed | — | 1 | 4.60 | 1 |

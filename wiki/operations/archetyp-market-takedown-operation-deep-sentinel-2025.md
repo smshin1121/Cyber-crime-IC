@@ -120,14 +120,15 @@ missing_fields:
   - "specific cryptocurrency totals seized vs other assets within the EUR 7.8M seizure"
   - "indictment counts in any jurisdiction (the cited release describes pre-indictment action-day events)"
 related_cases:
-  []
+
 related_operations:
   - "[[operation-raptor]]"
   - "[[150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]]"
   - "[[operation-owners-of-empire-market-charged-in-chicago-with-operating-430-million-dark-web-marketplace]]"
   - "[[xss-is-cybercrime-forum-takedown-2025]]"
+  - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "First wiki record of Operation Deep Sentinel as a discrete operation-name and the most fully-articulated Germany-Spain-Netherlands-Sweden-Romania-US 6-jurisdiction darknet-marketplace takedown architecture in the corpus."
   - "Demonstrates explicit Eurojust EIO + MLA coordination as a discrete IC mechanism class for darknet-marketplace takedowns — a structurally similar pattern to [[eurojust-100m-crypto-investment-fraud-takedown-2025|the 2025-09 €100M crypto-investment-fraud takedown]] (Eurojust EAW + EIO + freezing-order coordination), applied here to drug-marketplace infrastructure."
@@ -138,7 +139,7 @@ sources:
   - "[[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]]"
 summary: "Operation Deep Sentinel was a 6-jurisdiction darknet-marketplace takedown executed during 11-13 June 2025, led by German authorities (Generalstaatsanwaltschaft Frankfurt am Main — ZIT + BKA), with 5-EU-state plus US partnership (Germany, Netherlands, Romania, Spain, Sweden, US-HSI/IRS-CI/USDOJ) coordinated by Europol EC3 and Eurojust (mutual legal assistance + European Investigation Order coordination during the action days). The operation took offline the longest-running dark-web drug marketplace, Archetyp Market, which had operated for 5+ years with 600,000+ users, EUR 250 million+ in transaction volume, and 17,000+ listings including fentanyl and other synthetic opioids. The 30-year-old German-national administrator was arrested in Barcelona, Spain; the Netherlands-hosted infrastructure was taken offline; one moderator and six highest vendors were targeted in Germany and Sweden; EUR 7.8 million in assets were seized; approximately 300 officers were deployed across the EU jurisdictions."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 ## Summary
 

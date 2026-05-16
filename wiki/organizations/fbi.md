@@ -114,9 +114,10 @@ operations_participated:
   - "[[16shop-phishing-as-a-service-takedown-2023]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
+  - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
-source_count: 15
+source_count: 16
 sources:
   - "[[2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers]]"
   - "[[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors]]"
@@ -133,6 +134,7 @@ sources:
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
+  - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
 status: active
 title: FBI
 type: organization
@@ -166,3 +168,4 @@ The FBI appears across DDoS, malware, darknet, botnet, and fraud records as a U.
 | [13] | [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan\|INTERPOL — 16shop phishing-as-a-service platform takedown (Aug 2023); 3 arrests in ID + JP, INTERPOL IGCI cybercrime directorate-led with INP, NPA, FBI cooperation]] | INTERPOL (IGCI cybercrime directorate) | 2023-08-08 | https://www.interpol.int/en/News-and-Events/News/2023/Phishing-as-a-service-platform-16shop-shut-down-three-arrests |
 | [14] | [[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol\|Policie ČR — Prague arrest of top-3 worldwide darknet CSAM distributor; FBI ~10-yr intel + Europol-coordinated identification]] | Policie České republiky | 2024-10-08 | https://policie.gov.cz/clanek/byl-v-hledacku-fbi-i-europolu-dopadli-jej-cesti-kriminaliste.aspx |
 | [15] | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure\|FBI San Diego — Scam Center Strike Force tickmilleas.com domain seizure (Tai Chang scam compound Burma); US-Thailand cooperation]] | FBI San Diego Field Office | 2025-12-02 | https://www.fbi.gov/contact-us/field-offices/sandiego/news/fbi-san-diego-investigation-leads-to-scam-center-strike-force-seizure-of-fake-cryptocurrency-investment-domain-used-by-tai-chang-scam-compound-in-burma |
+| [16] | [[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia\|IRS-CI / USAO-NJ — Versus Project darknet marketplace operator Patrick Schmitz extradition from Colombia to US]] | IRS-CI (mirror of USAO-NJ / DOJ OPA) | 2026-04-30 | https://www.irs.gov/compliance/criminal-investigation/leading-dark-web-marketplace-creator-and-operator-extradited-from-colombia-to-the-united-states |

@@ -4,7 +4,7 @@ title: "Dark Web - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-16
-source_count: 11
+source_count: 12
 sources:
   - "[[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]]"
   - "[[2014-08-15_justice-gov_texas-business-executive-pleads-guilty-illegally-selling-oxycodone-silk-road]]"
@@ -17,6 +17,7 @@ sources:
   - "[[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest]]"
   - "[[2026-05-08_afp-gov-au_mexico-yucatan-nayarit-csam-international-investigation]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
+  - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
 category: cybercrime-related
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -26,6 +27,7 @@ notable_operations:
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
+  - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
 ---

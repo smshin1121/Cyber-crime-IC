@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (833)
+# Sources (834)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -21,6 +21,7 @@ updated: 2026-04-14
 | [[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam]] | press-release | Singapore Police Force (SPF) | ? | high | ? |
 | [[2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition]] | press-release | 서울동부지방검찰청 (Seoul Eastern District Prosecutors' Office) / 보이스피싱범죄 합동수사부 | ? | high | ? |
 | [[2026-04-30_justice-gov_versus-project-creator-extradited-colombia]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
+| [[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]] | press-release | IRS Criminal Investigation (IRS-CI) — mirror of US Attorney's Office District of New Jersey / DOJ OPA | ? | high | ? |
 | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]] | press-release | U.S. Secret Service (republishing U.S. Attorney's Office, District of Columbia) | ? | high | ? |
 | [[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]] | press-release | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | ? | high | ? |
 | [[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]] | press-release | Ministerio Público Fiscal de la Ciudad Autónoma de Buenos Aires (MPF CABA) — Cuerpo de Investigaciones Judiciales (CIJ) | ? | high | ? |

@@ -3,7 +3,7 @@ type: organization
 title: "Office of International Affairs"
 status: active
 created: 2026-04-26
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-05-09
 org_type: justice-international-cooperation-office
 country: "[[united-states]]"
@@ -30,13 +30,14 @@ operations_participated:
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
+  - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"
   - "[[us-dcis]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
-source_count: 8
+source_count: 9
 sources:
   - "[[2026-04-17_justice-gov_criminal-division-computer-crime-and-intellectual-property-section-ccips]]"
   - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
@@ -46,6 +47,7 @@ sources:
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
+  - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"

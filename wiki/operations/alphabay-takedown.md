@@ -104,6 +104,7 @@ related_operations:
   - "[[operation-us-v-almashwali-alphabay]]"
   - "[[operation-us-v-cazes-alphabay]]"
   - "[[operation-us-v-herrell-alphabay]]"
+  - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
@@ -119,7 +120,7 @@ sources:
   - "[[2017-07-20-fbi-alphabay-takedown]]"
   - "[[unodc-alphabay-true-crime-story]]"
 created: 2026-04-10
-updated: 2026-04-29
+updated: 2026-05-16
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Bayonet was a multinational law enforcement operation that dismantled **AlphaBay** and **Hansa** -- the world's two largest darknet marketplaces -- in **July 2017**. The operation was led by the [[fbi-cyber-division|FBI]] and the US Drug Enforcement Administration (DEA) for the AlphaBay component, while the [[netherlands-politie|Dutch National Police (NHTCU)]] led the Hansa component, with [[europol-ec3|Europol]] coordinating the overall strategy."
