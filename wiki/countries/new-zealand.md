@@ -3,12 +3,13 @@ type: country
 title: "New Zealand"
 status: needs-official-source-ingestion
 created: 2026-04-26
-updated: 2026-05-10
-source_count: 3
+updated: 2026-05-17
+source_count: 4
 sources:
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2025-05-16_police-govt-nz_wellington-based-man-arrested-international-cryptocurrency-scam-investigation]]"
+  - "[[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand]]"
 last_verified: 2026-05-09
 legal_system: not-assessed
 ic_capacity: not-assessed
@@ -22,6 +23,7 @@ operations_participated:
   - "[[us-doj-raptor-train-flax-typhoon-prc-botnet-disruption-2024]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]]"
+  - "[[operation-cavern-nz-denmark-cyberhacking-2015]]"
 notable_cases:
   - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 ---

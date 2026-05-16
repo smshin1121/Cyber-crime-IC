@@ -40,7 +40,7 @@ total: 61
 | 🇨🇿 | [[czech-republic]] | civil-law | party (2013) | medium | 90-180 | 10 |
 | 🇨🇿 | [[czechia]] | not-assessed | — | unknown | unknown | 3 |
 | 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 24 |
-| 🇩🇰 | [[denmark]] | civil-law | not-assessed | unknown | unknown | 5 |
+| 🇩🇰 | [[denmark]] | civil-law | not-assessed | unknown | unknown | 6 |
 | 🇪🇨 | [[ecuador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇪🇪 | [[estonia]] | civil-law | party | high | unknown | 6 |
 | 🇪🇬 | [[egypt]] | civil-law | — | medium | unknown | 1 |
@@ -151,7 +151,7 @@ total: 61
 |  | [[mongolia]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[mozambique]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[namibia]] | not-assessed | — | unknown | unknown | 0 |
-|  | [[new-zealand]] | not-assessed | — | unknown | unknown | 3 |
+|  | [[new-zealand]] | not-assessed | — | unknown | unknown | 4 |
 |  | [[niger]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[palestine]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[qatar]] | not-assessed | — | unknown | unknown | 0 |

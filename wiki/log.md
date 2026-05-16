@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-17] ingest [iter 173, single-agent, L23+L24+L25 strict] | NZ-Denmark Operation Cavern Cyberhacking Arrest (NZ Police, 16 Sep 2015)
+- Source: `raw/press-releases/2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand.md` (police.govt.nz New Zealand Police own-domain; en).
+- Pages created: `wiki/sources/2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand.md`, `wiki/operations/operation-cavern-nz-denmark-cyberhacking-2015.md` (provisional, source_count=1).
+- Pages updated: 2 countries (new-zealand, denmark); 2 organizations (denmark-police, denmark-national-police); 2 crime-types (hacking-ic, cyberstalking-ic); 2 mechanisms (mlat-process, informal-cooperation).
+- Key findings:
+  - **L24 strict satisfied**: NZ Police release quotes "This case is characterized by a close cooperation between South-East Jutland Police, NC3, and the New Zealand Police. The cooperation with a country on the other side of the world has been smooth, mutual and fruitful." (Niels Tipsmark, prosecutor, South-East Jutland Police) — 3 distinct LE bodies in 2 jurisdictions: NZ Police Cybercrime Unit + Danish NC3 + South-East Jutland Police.
+  - **Tier-1 publisher**: `police.govt.nz` New Zealand Police own-domain. 1st police.govt.nz op in wiki.
+  - **L23 compliance**: `lead_agency: ""`, `coordinating_body: ""` (NZ Police has no wiki org page; Danish NC3 + South-East Jutland Police kept in body prose only); `participating_agencies` only Glob-verified wikilinks (denmark-police, denmark-national-police).
+  - Op profile: Operation Cavern bilateral cyberhacking + cyberstalking investigation; 24-year-old Danish citizen arrested in Vejle, Denmark, charged under Danish law for online posting of private photos + hacking of private computers; victim was Auckland school girl in NZ.
+  - `case_id: CYB-2015-915`.
+  - 4 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-17] ingest [iter 172, single-agent, L23+L24+L25 strict] | US-Romania Gavril Sandu VoIP-Vishing/Bank-Fraud Extradition (USAO-WDNC, 5 May 2026)
 - Source: `raw/press-releases/2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud.md` (justice.gov USAO-WDNC own-domain; en).
 - Pages created: `wiki/sources/2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud.md`, `wiki/operations/usao-wdnc-sandu-romania-voip-vishing-extradition-2026.md` (provisional, source_count=1).

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (852)
+# Sources (853)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -786,6 +786,7 @@ updated: 2026-04-14
 | [[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]] | press-release | US DOJ | ? | high | ? |
 | [[2015-10-13_fbi-gov_bugat-botnet-administrator-arrested-and-malware-disabled]] | press-release | FBI Pittsburgh | ? | high | ? |
 | [[2015-10-01_sophos-com_dridex-bugat-v5-botnet-takeover-operation]] | press-release | Dell SecureWorks (Sophos) | ? | medium | ? |
+| [[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand]] | press-release | New Zealand Police | ? | high | ? |
 | [[2015-07-15_wdpa_darkode-indictment]] | court-document | US DOJ (W.D. Pa. / OPA) | ? | high | ? |
 | [[2015-07-15_threatpost-com_113800]] | press-release | Threatpost | ? | medium | ? |
 | [[2015-07-15_krebsonsecurity-com_the-darkode-cybercrime-forum-up-close]] | press-release | Krebs on Security | ? | medium | ? |

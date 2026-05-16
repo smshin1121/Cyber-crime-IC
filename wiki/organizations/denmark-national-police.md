@@ -3,11 +3,12 @@ type: organization
 title: "Denmark National Police"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-05-17
 last_verified: 2026-04-29
 org_type: national-police-parent
 country: "[[denmark]]"
-jurisdiction: [[denmark]]
+jurisdiction:
+
 mandate: "Parent Danish police organization for cybercrime functions housed through the National Special Crime Unit and NC3."
 key_roles:
   - "Parent organization for [[denmark-police|Denmark NC3 / National Special Crime Unit cybercrime work]]."
@@ -19,14 +20,16 @@ operations_participated:
   - "[[darkmarket-takedown]]"
   - "[[operation-blackshades]]"
   - "[[operation-card-shop]]"
+  - "[[operation-cavern-nz-denmark-cyberhacking-2015]]"
 cooperation_partners:
   - "[[denmark-police]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-04-17_politi-dk_national-special-crime-unit]]"
   - "[[2024-05-30_europol_operation-endgame-botnet-takedown]]"
+  - "[[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand]]"
 ---
 ## Summary
 

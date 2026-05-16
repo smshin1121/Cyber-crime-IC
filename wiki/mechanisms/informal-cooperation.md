@@ -3,9 +3,9 @@ type: mechanism
 title: "Informal Police Cooperation"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-05-16
+updated: 2026-05-17
 last_verified: 2026-05-09
-source_count: 22
+source_count: 23
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -29,6 +29,7 @@ sources:
   - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
   - "[[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]]"
   - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
+  - "[[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -74,6 +75,7 @@ operations_using:
   - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
   - "[[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+  - "[[operation-cavern-nz-denmark-cyberhacking-2015]]"
 ---
 ## Summary
 

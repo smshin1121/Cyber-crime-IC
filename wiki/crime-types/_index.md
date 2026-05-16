@@ -20,13 +20,13 @@ updated: 2026-04-27
 | [[csam-ic]] | content-related | Yes | interpol-icse-database\|INTERPOL ICSE Database, europol-vidtf\|Europol Victim Identification Task Force | operation-stream-kidflix, operation-cyber-guardian, operation-orion-international | 18 |
 | [[cybercrime-forum-ic]] | cyber-dependent | Yes | search-seizure, domain-seizure, extradition | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 7 |
 | [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 36 |
-| [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | operation-otf-grimm, hungary-romania-swatting-doxing-discord-2026, operation-us-v-szabo-swatting-ring | 6 |
+| [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | operation-otf-grimm, hungary-romania-swatting-doxing-discord-2026, operation-us-v-szabo-swatting-ring | 7 |
 | [[dark-web-ic]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025, operation-candy-encrypted-comms-drugs-2026, bohemia-cannabia-darknet-marketplace-takedown-2024 | 12 |
 | [[ddos-extortion]] | — | — | — | — | 1 |
 | [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 10 |
 | [[drug-trafficking]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025, operation-candy-encrypted-comms-drugs-2026, bohemia-cannabia-darknet-marketplace-takedown-2024 | 11 |
 | [[extortion-ic]] | — | — | — | project-compass-the-com-network-2025, us-uk-prince-group-tco-huione-group-sanctions-2025, sg-th-altdos-desorden-ghostr-takedown-2025 | 13 |
-| [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03, leakbase-takedown-2026 | 35 |
+| [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03, leakbase-takedown-2026 | 36 |
 | [[identity-theft]] | — | — | — | operation-magnus-redline-meta-stealer-takedown-2024, us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024, veriftools-fake-id-marketplace-followup-arrests-2026 | 16 |
 | [[illegal-iptv-ic]] | cyber-enabled | Yes | search-seizure, domain-seizure, public-private-cooperation | operation-perfect-storm-pay-tv-piracy-2019, spanish-pay-tv-streaming-network-takedown-2020, mobdro-illegal-streaming-takedown-2021 | 15 |
 | [[malware-ic]] | cyber-dependent | Yes | sinkholing, domain-seizure, search-seizure | operation-avalanche, andromeda-botnet-takedown, simda-botnet-takedown | 24 |

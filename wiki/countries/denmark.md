@@ -39,18 +39,20 @@ operations_participated:
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
+  - "[[operation-cavern-nz-denmark-cyberhacking-2015]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-04-17_en-wikipedia-org_national-special-crime-unit-denmark]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
+  - "[[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand]]"
 created: 2026-04-11
-updated: 2026-05-16
+updated: 2026-05-17
 status: corpus-linked
 ---
 ## Summary

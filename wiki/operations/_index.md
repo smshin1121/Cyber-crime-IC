@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (298 canonical / 27 absorbed / 325 records)
+# Operations (299 canonical / 27 absorbed / 326 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (298)
+## Canonical Operations (299)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -32,6 +32,7 @@ updated: 2026-04-14
 | [[operation-pleiades]] | CYB-2015-006 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[dridex-operations]] | CYB-2015-007 | 1 | completed | umbrella | 8 | 4.00 | 1 |
 | [[darkode-takedown]] | CYB-2015-051 | 1 | completed | umbrella | 5 | 3.75 | 2 |
+| [[operation-cavern-nz-denmark-cyberhacking-2015]] | CYB-2015-915 | 1 | completed | — | 1 | 3.50 | 1 |
 | [[operation-avalanche]] | CYB-2016-001 | 1 | completed | umbrella | 4 | 4.00 | 2 |
 | [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | umbrella | 6 | 2.95 | 2 |
 | [[global-airport-action-day]] | CYB-2016-003 | 1 | completed | umbrella | 5 | 3.60 | 2 |
