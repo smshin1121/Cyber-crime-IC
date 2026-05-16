@@ -4,7 +4,7 @@ title: Extradition
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-16
-source_count: 19
+source_count: 20
 sources:
   - "[[2015-10-13_fbi-pittsburgh_bugat-botnet-administrator-arrested-and-malware-disabled]]"
   - "[[2015-10-13_scmagazine_moldovian-sentenced-stealing-millions-bugat-banking-malware]]"
@@ -25,6 +25,7 @@ sources:
   - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
   - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
+  - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-token-mirrors-2026]]"
@@ -49,6 +50,7 @@ operations_using:
   - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
   - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+  - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"

@@ -115,9 +115,10 @@ operations_participated:
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+  - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
-source_count: 16
+source_count: 17
 sources:
   - "[[2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers]]"
   - "[[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors]]"
@@ -135,6 +136,7 @@ sources:
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
+  - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
 status: active
 title: FBI
 type: organization
@@ -169,3 +171,4 @@ The FBI appears across DDoS, malware, darknet, botnet, and fraud records as a U.
 | [14] | [[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol\|Policie ČR — Prague arrest of top-3 worldwide darknet CSAM distributor; FBI ~10-yr intel + Europol-coordinated identification]] | Policie České republiky | 2024-10-08 | https://policie.gov.cz/clanek/byl-v-hledacku-fbi-i-europolu-dopadli-jej-cesti-kriminaliste.aspx |
 | [15] | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure\|FBI San Diego — Scam Center Strike Force tickmilleas.com domain seizure (Tai Chang scam compound Burma); US-Thailand cooperation]] | FBI San Diego Field Office | 2025-12-02 | https://www.fbi.gov/contact-us/field-offices/sandiego/news/fbi-san-diego-investigation-leads-to-scam-center-strike-force-seizure-of-fake-cryptocurrency-investment-domain-used-by-tai-chang-scam-compound-in-burma |
 | [16] | [[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia\|IRS-CI / USAO-NJ — Versus Project darknet marketplace operator Patrick Schmitz extradition from Colombia to US]] | IRS-CI (mirror of USAO-NJ / DOJ OPA) | 2026-04-30 | https://www.irs.gov/compliance/criminal-investigation/leading-dark-web-marketplace-creator-and-operator-extradited-from-colombia-to-the-united-states |
+| [17] | [[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware\|USAO-EDNY — Ukrainian national Artem Stryzhak (Nefilim ransomware affiliate) pleads guilty after Spain extradition; thanks Spanish LE]] | U.S. Attorney's Office, Eastern District of New York | 2025-12-19 | https://www.justice.gov/usao-edny/pr/ukrainian-national-pleads-guilty-conspiracy-use-ransomware-0 |

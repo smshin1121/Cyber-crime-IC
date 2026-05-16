@@ -1,5 +1,19 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 156, single-agent, L23+L24+L25 strict, L21 Akamai bypass] | US-Spain Nefilim Ransomware Affiliate Stryzhak Guilty Plea (USAO-EDNY, 19 Dec 2025)
+- Source: `raw/press-releases/2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware.md` (justice.gov USAO-EDNY own-domain; en).
+- Pages created: `wiki/sources/2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware.md`, `wiki/operations/us-spain-nefilim-stryzhak-extradition-guilty-plea-2025.md` (provisional, source_count=1).
+- Pages updated: 2 countries (united-states, spain); 4 organizations (us-doj, fbi, office-of-international-affairs, spain-national-police); 3 crime-types (ransomware-ic, extortion-ic, hacking-ic); 3 mechanisms (extradition, mlat-process, european-arrest-warrant); 1 legal framework (budapest-convention); 1 related case (us-v-stryzhak-nefilim).
+- Key findings:
+  - **L24 strict satisfied**: USAO-EDNY release names "Mr. Nocella also thanked the Justice Department's Office of International Affairs and Computer Crime and Intellectual Property Section, as well as Spanish law enforcement authorities, for their assistance in the capture of Stryzhak." — 2 countries' LE explicitly: US (USAO-EDNY + DOJ OIA + CCIPS + FBI Springfield + FBI NY) + Spain ("Spanish law enforcement authorities" generic; specific Spanish agency not named in primary).
+  - **Tier-1 publisher**: `justice.gov` USAO-EDNY own-domain. **L21 Akamai bypass succeeded** (curl_cffi chrome124 + 5.5s sleep + cookie-jar reuse + meta-refresh follow → 104KB body).
+  - **L23 compliance**: `lead_agency: "[[us-doj]]"`, `coordinating_body: "[[office-of-international-affairs]]"`; `participating_agencies` only Glob-verified wikilinks (us-doj, fbi, office-of-international-affairs, spain-national-police).
+  - Op profile: Artem Aleksandrovych Stryzhak (Ukrainian national, resident in Barcelona) arrested in Spain Jun 2024; extradited to US 2025-04-30; pleaded guilty in EDNY 2025-12-19 to conspiracy to use Nefilim ransomware; sentencing 2026-04-09; max statutory 20 years. Ukraine excluded from participating_countries (defendant-nationality only per L24).
+  - **Slug correction**: agent initially used `[[spanish-national-police]]` — orphan stub page; canonical wiki entity is `[[spain-national-police]]`. Auto-replaced 5 occurrences in operation page. Note: `spanish-national-police.md` orphan stub should be cleaned up at next milestone integrity sweep.
+  - `case_id: CYB-2025-219`.
+  - 6 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 155, single-agent, L23+L24+L25 strict] | INTERPOL Operation Vibora — Spain-led 11-country LatAm CSAM Takedown (INTERPOL, 6 Jun 2025)
 - Source: `raw/press-releases/2025-06-06_interpol_operation-vibora-csam-20-arrests.md` (interpol.int own-domain; en).
 - Pages created: `wiki/sources/2025-06-06_interpol_operation-vibora-csam-20-arrests.md`, `wiki/operations/operation-vibora-spain-latam-csam-takedown-2025.md` (provisional, source_count=1).

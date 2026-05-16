@@ -17,16 +17,17 @@ defendants:
     location_at_arrest: "Spain (June 2024); extradited to US on 2025-04-30"
 related_operation:
   - "[[us-v-tymoshchuk-nefilim-megacortex-lockergoga]]"
+  - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: "US-Spain bilateral extradition coordinated by DOJ Office of International Affairs and Spanish law enforcement authorities; arrest June 2024 in Spain, transferred to US custody on 2025-04-30"
   evidence_from_abroad:
     - "[[spain]]"
   foreign_arrests:
     - "[[spain]]"
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
   - "[[fbi]]"
@@ -45,7 +46,7 @@ source_count: 1
 sources:
   - "[[2025-12-18_justice-gov_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 last_verified: 2026-05-09
 summary: "United States v. Artem Aleksandrovych Stryzhak is a US federal prosecution in the Eastern District of New York of a 35-year-old Ukrainian national of Barcelona, Spain, who pleaded guilty on 2025-12-18 to one count of conspiracy to commit computer fraud for his role as a Nefilim ransomware affiliate. Stryzhak was arrested in Spain in June 2024 and extradited to the United States on 2025-04-30. He is scheduled for sentencing on 2026-05-06 with a maximum penalty of 10 years. Stryzhak operated under a 20% revenue split with Nefilim administrators since June 2021, targeting US/Canada/Australia companies with USD 100 million+ annual revenue per Nefilim administrator direction."
 ---

@@ -31,13 +31,14 @@ operations_participated:
   - "[[warzone-rat-takedown-2024]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+  - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
 cooperation_partners:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"
   - "[[us-dcis]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
-source_count: 9
+source_count: 10
 sources:
   - "[[2026-04-17_justice-gov_criminal-division-computer-crime-and-intellectual-property-section-ccips]]"
   - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
@@ -48,6 +49,7 @@ sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
+  - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-victoria-eduardovna-dubranova]]"

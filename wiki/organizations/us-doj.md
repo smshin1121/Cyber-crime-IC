@@ -1026,9 +1026,10 @@ operations_participated:
   - "[[operation-wirewire]]"
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+  - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
 org_type: national-agency
 parent_org: ""
-source_count: 15
+source_count: 16
 sources:
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
@@ -1040,6 +1041,7 @@ sources:
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
+  - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
 status: active
 title: "US Department of Justice (DOJ)"
 type: organization
@@ -1234,6 +1236,7 @@ DOJ is *highly likely* the most important US counterpart for Korean cybercrime c
 | [13] | [[2026-03-20_bka_aisuru-kimwolf-botnet-takedown\|BKA + ZAC NRW — Aisuru/Kimwolf IoT-DDoS botnet takedown via DE-CA-US coordination (Mar 2026); 2 administrators identified (DE+CA), 31.4 Tbps record DDoS attributed]] | Bundeskriminalamt (BKA) + ZAC NRW | 2026-03-20 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260320_PM_Botnetze.html |
 | [14] | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure\|FBI San Diego — Scam Center Strike Force tickmilleas.com domain seizure (Tai Chang scam compound Burma); US-Thailand cooperation]] | FBI San Diego Field Office | 2025-12-02 | https://www.fbi.gov/contact-us/field-offices/sandiego/news/fbi-san-diego-investigation-leads-to-scam-center-strike-force-seizure-of-fake-cryptocurrency-investment-domain-used-by-tai-chang-scam-compound-in-burma |
 | [15] | [[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia\|IRS-CI / USAO-NJ — Versus Project darknet marketplace operator Patrick Schmitz extradition from Colombia to US]] | IRS-CI (mirror of USAO-NJ / DOJ OPA) | 2026-04-30 | https://www.irs.gov/compliance/criminal-investigation/leading-dark-web-marketplace-creator-and-operator-extradited-from-colombia-to-the-united-states |
+| [16] | [[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware\|USAO-EDNY — Ukrainian national Artem Stryzhak (Nefilim ransomware affiliate) pleads guilty after Spain extradition; thanks Spanish LE]] | U.S. Attorney's Office, Eastern District of New York | 2025-12-19 | https://www.justice.gov/usao-edny/pr/ukrainian-national-pleads-guilty-conspiracy-use-ransomware-0 |
 
 > [!note]
 > The original page body was created based on general knowledge (source_count: 0 in the frontmatter). The Current Status and History and Reorganizations sections above are verified against web sources as of 2026-04-10. Additional historical claims (e.g., 1870 establishment, OIA MLAT statistics) should be verified against DOJ annual reports.

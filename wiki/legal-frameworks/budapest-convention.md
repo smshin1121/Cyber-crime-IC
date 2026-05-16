@@ -41,6 +41,7 @@ operations_enabled:
   - "[[warzone-rat-takedown-2024]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
+  - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
 parties:
   notable_non_parties:
     - Russia
@@ -60,7 +61,7 @@ scope:
   jurisdiction: true
   procedural_law: true
   substantive_law: true
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-04-17_coe-int_about-the-convention-budapest-convention]]"
   - "[[2026-04-17_coe-int_parties-observers-to-the-budapest-convention]]"
@@ -74,6 +75,7 @@ sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
+  - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
 sponsoring_body: "[[council-of-europe]]"
 status: in-force
 title: "Budapest Convention on Cybercrime"
@@ -207,3 +209,4 @@ South Korea has been **invited to accede** but is **not yet a party** in the Cou
 | [10] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
 | [11] | [[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware\|Polizia di Stato — Operazione ELICIUS: IT-FR-RO joint task force vs. 'Diskstation' Romanian-national NAS-ransomware gang (Bucharest searches Jun 2024 → Jul 2025 announcement, Milan GIP custody)]] | Polizia di Stato — Servizio Polizia Postale (commissariatodips.it) | 2025-07-14 | https://www.commissariatodips.it/notizie/articolo/operazione-elicius-individuata-pericolosa-gang-hacker-internazionale-diskstation/index.html |
 | [12] | [[2025-06-06_interpol_operation-vibora-csam-20-arrests\|INTERPOL — Operation Vibora: Spain-led LatAm CSAM takedown (20 arrests, 11 countries, June 2025)]] | INTERPOL General Secretariat | 2025-06-06 | https://www.interpol.int/en/News-and-Events/News/2025/20-arrested-in-international-operation-targeting-child-sexual-abuse-material |
+| [13] | [[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware\|USAO-EDNY — Ukrainian national Artem Stryzhak (Nefilim ransomware affiliate) pleads guilty after Spain extradition; thanks Spanish LE]] | U.S. Attorney's Office, Eastern District of New York | 2025-12-19 | https://www.justice.gov/usao-edny/pr/ukrainian-national-pleads-guilty-conspiracy-use-ransomware-0 |

@@ -71,8 +71,9 @@ operations_participated:
   - "[[nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025]]"
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
+  - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
 region: western-europe
-source_count: 20
+source_count: 21
 sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]]"
@@ -94,6 +95,7 @@ sources:
   - "[[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak]]"
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
+  - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
 title: "Kingdom of Spain"
 treaty_memberships:
   - date: 2010-06-03
