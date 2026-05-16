@@ -46,15 +46,16 @@ operations_participated:
   - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
   - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
   - "[[treasury-doppelganger-russian-malign-influence-sanctions-2024]]"
+  - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
 org_type: national-agency
 parent_org: "[[us-federal-government]]"
-source_count: 8
+source_count: 9
 sources:
-
+  - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
 status: active
 title: "US Department of the Treasury — OFAC and FinCEN (Cyber)"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 ## Current Status (as of 2026-04-10)
 
@@ -168,3 +169,4 @@ Treasury's cooperation impact on cybercrime is *highly likely* substantial but q
 | [6] | Fifth Circuit Rejects OFAC Designation of Tornado Cash Immutable Smart Contracts | Money Laundering Watch | 2024-12 | https://www.moneylaunderingnews.com/2024/12/fifth-circuit-rejects-ofac-designation-of-tornado-cash-immutable-smart-contracts/ |
 | [7] | Tornado Cash Delisting (press release SB-0057) | US Department of the Treasury | 2025-03-21 | https://home.treasury.gov/news/press-releases/sb0057 |
 | [8] | A Whirlwind of Change: The Delisting of Tornado Cash | Paul Hastings LLP | 2025-04 | https://www.paulhastings.com/insights/crypto-policy-tracker/a-whirlwind-of-change-the-delisting-of-tornado-cash |
+| [9] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |

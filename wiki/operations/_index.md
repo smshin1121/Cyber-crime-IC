@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (286 canonical / 27 absorbed / 313 records)
+# Operations (287 canonical / 27 absorbed / 314 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (286)
+## Canonical Operations (287)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -210,6 +210,7 @@ updated: 2026-04-14
 | [[xss-is-cybercrime-forum-takedown-2025]] | CYB-2025-215 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-dark-bet-pf-brazil-nigeria-2025]] | CYB-2025-218 | 3 | ongoing | — | 2 | 4.00 | 1 |
 | [[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]] | CYB-2025-219 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[us-rok-japan-joint-statement-dprk-it-workers-2025-08]] | CYB-2025-221 | 3 | completed | — | 1 | 4.20 | 1 |
 | [[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]] | CYB-2025-227 | 3 | completed | — | 1 | 2.50 | 2 |
 | [[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]] | CYB-2025-244 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[operation-vibora-spain-latam-csam-takedown-2025]] | CYB-2025-255 | 3 | completed | — | 1 | — | — |

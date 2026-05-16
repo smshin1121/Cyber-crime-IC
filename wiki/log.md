@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 161, single-agent, L23+L24+L25 strict] | US-ROK-Japan Trilateral Joint Statement on DPRK IT Workers (US State Dept, 27 Aug 2025)
+- Source: `raw/press-releases/2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers.md` (state.gov own-domain; en).
+- Pages created: `wiki/sources/2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers.md`, `wiki/operations/us-rok-japan-joint-statement-dprk-it-workers-2025-08.md` (provisional, source_count=1).
+- Pages updated: 3 countries (united-states, japan, south-korea); 3 organizations (us-treasury, japan-npa, knpa); 3 crime-types (money-laundering-ic, online-fraud-ic, hacking-ic).
+- Key findings:
+  - **L24 strict satisfied**: State Dept release names "On August 27, Japan issued the 'Joint Statement on North Korean Information Technology Workers' with the United States of America and the Republic of Korea (ROK). The Ministry of Foreign Affairs, the National Police Agency, the Ministry of Finance, and the Ministry of Economy, Trade and Industry of Japan also updated and published the 'Alert for Companies on North Korean Information Technology Workers.'" — 3 countries' multi-agency: US (State Dept + Treasury) + Japan (MOFA + NPA + MOF + METI) + ROK. DPRK excluded (adversary state target).
+  - **Tier-1 publisher**: `state.gov` US Department of State (Office of the Spokesperson) own-domain. 1st state.gov op (1st US State Dept diplomatic-cyber op as standalone).
+  - **L23 compliance**: `lead_agency: ""`, `coordinating_body: ""` (no us-state-department wiki page); `participating_agencies` only Glob-verified wikilinks (us-treasury, japan-npa, knpa).
+  - Op profile: 2025-08-27 trilateral joint statement; companion 2025-08-26 Tokyo public-private event + 2025-08-28 4th Trilateral Diplomatic Working Group; framework for coordinated DPRK IT worker disruption (sanctions + alerts + LE referrals); 5+ related sanctions ops (Treasury OFAC-led downstream).
+  - `case_id: CYB-2025-221`.
+  - 7 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest + milestone push [iter 160, single-agent, L23+L24+L25 strict] | CBZC Poland — Europol VIDTF Apr 2026 12 Children Identified (CBZC Poland, 24 Apr 2026)
 - Source: `raw/press-releases/2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified.md` (cbzc.policja.gov.pl own-domain; pl).
 - Pages created: `wiki/sources/2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified.md`, `wiki/operations/europol-vidtf-2026-12-children-identified.md` (provisional, source_count=1).

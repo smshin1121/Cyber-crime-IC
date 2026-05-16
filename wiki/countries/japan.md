@@ -18,17 +18,19 @@ operations_participated:
   - "[[warzone-rat-takedown-2024]]"
   - "[[16shop-phishing-as-a-service-takedown-2023]]"
   - "[[operation-cyber-guardian-2026]]"
+  - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
 region: east-asia
-source_count: 3
+source_count: 4
 sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
+  - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
 title: Japan
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

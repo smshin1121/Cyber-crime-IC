@@ -56,8 +56,9 @@ operations_participated:
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
   - "[[operation-cyber-guardian-2026]]"
+  - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
 region: east-asia
-source_count: 27
+source_count: 28
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
   - "[[2024-12-02-interpol-operation-haechi-v]]"
@@ -76,6 +77,7 @@ sources:
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
   - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
+  - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
 title: "Republic of Korea (South Korea)"
 treaty_memberships:
   - date: 2023-02
@@ -88,7 +90,7 @@ treaty_memberships:
     reservations: ""
     status: under-review
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 > [!warning] Status — Major reorganization of prosecution system pending (2026-10-02)
 > On **2026-10-02** the [[supreme-prosecutors-office-korea|대검찰청 (Supreme Prosecutors' Office)]] will be **abolished** after 78 years and replaced by two new bodies: **공소청 (Prosecution Service, under 법무부)** for prosecution only, and **중대범죄수사청 / 중수청 (Serious Crimes Investigation Agency, under 행정안전부)** for investigation of six serious-crime categories including **cybercrime**. This is a fundamental restructuring of Korea's criminal justice architecture and will reshape how foreign partners engage with Korea on cybercrime MLAT, extradition, and investigative cooperation. See [[supreme-prosecutors-office-korea]] and [[spo-international-cooperation]] for details. Until 2026-09-30 the existing SPO structure remains in effect.
@@ -323,3 +325,4 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [25] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
 | [26] | [[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests\|KNPA-Vietnam Public Security joint arrest of 5 Cambodia-Bavet romance-scam cadre in Vietnam (Da Nang+HCMC+Khanh Hoa, Oct 2025); 192 KR victims, ~₩4.6B losses]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2025-11-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156724852 |
 | [27] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |
+| [28] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |

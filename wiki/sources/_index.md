@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (840)
+# Sources (841)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -191,6 +191,7 @@ updated: 2026-04-14
 | [[2025-09-18_nca-uk_two-charged-tfl-cyber-attack-jubair-flowers]] | press-release | UK National Crime Agency (with City of London Police; Crown Prosecution Service quoted) | ? | high | ? |
 | [[2025-09-18_justice-gov_united-kingdom-national-charged-multiple-cyber-attacks-jubair]] | press-release | U.S. Department of Justice — Office of Public Affairs (with U.S. Attorney's Office for the District of New Jersey, Criminal Division (CCIPS), Office of International Affairs, and FBI Cyber Division / FBI Newark Field Office) | ? | high | ? |
 | [[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
+| [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]] | press-release | U.S. Department of State (Office of the Spokesperson) | ? | high | ? |
 | [[2025-08-22_kaspersky_serengeti-20-interpol-led-action]] | press-release | Kaspersky | ? | high | ? |
 | [[2025-08-22_interpol_operation-serengeti-2-african-cybercrime-networks]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-08-22_group-ib_operation-serengeti-2-0]] | press-release | Group-IB | ? | high | ? |

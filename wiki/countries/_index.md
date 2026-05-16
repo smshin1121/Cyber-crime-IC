@@ -66,11 +66,11 @@ total: 61
 | 🇮🇸 | [[iceland]] | not-assessed | — | unknown | unknown | 3 |
 | 🇮🇹 | [[italy]] | civil-law | party (2008) | high | 90-180 | 11 |
 | 🇯🇴 | [[jordan]] | not-assessed | — | unknown | unknown | 0 |
-| 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 3 |
+| 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 4 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 5 |
 | 🇰🇵 | [[north-korea]] | socialist-civil-law | — | very-low | 180+ | 1 |
-| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 27 |
+| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 28 |
 | 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 1 |
 | 🇱🇦 | [[laos]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | not-assessed | — | unknown | unknown | 1 |
@@ -115,7 +115,7 @@ total: 61
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 9 |
-| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 29 |
+| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 30 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 1 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |

@@ -44,19 +44,21 @@ operations_participated:
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
+  - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 contact_point_for:
   - network: "[[interpol-i24-7]]"
     role: "NCB Korea"
-source_count: 5
+source_count: 6
 sources:
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
   - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
+  - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
 created: 2026-04-10
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-05-09
 ---
 ## Summary
@@ -132,3 +134,4 @@ See [[knpa-cyber-bureau]] for detailed operation participation (HAECHI series, P
 | [3] | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition\|KNPA KMSAuto clipper extradition — Lithuanian hacker Red Notice → Georgia arrest → Korea (KR+LT+GE; 5y4m investigation)]] | 경찰청 국가수사본부 / Korea.kr | 2025-12-29 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156737083 |
 | [4] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
 | [5] | [[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests\|KNPA-Vietnam Public Security joint arrest of 5 Cambodia-Bavet romance-scam cadre in Vietnam (Da Nang+HCMC+Khanh Hoa, Oct 2025); 192 KR victims, ~₩4.6B losses]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2025-11-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156724852 |
+| [6] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |

@@ -117,6 +117,7 @@ notable_operations:
   - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
   - "[[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]]"
   - "[[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]]"
+  - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -134,7 +135,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 110
+source_count: 111
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -246,6 +247,7 @@ sources:
   - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
   - "[[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud]]"
   - "[[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests]]"
+  - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
 created: 2026-04-08
 updated: 2026-05-16
 ---
@@ -419,3 +421,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [108] | [[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern\|Polizei Bayern — DE-AT-RO Action Day (17 Dec 2024) takedown of internet-fraud OCG; ZCB Bayern + LKA Tirol + DIICOT + Eurojust JIT]] | Bayerische Polizei (Polizei Bayern) / ZCB Bamberg | 2025-01-15 | https://www.polizei.bayern.de/aktuelles/pressemitteilungen/078869/index.html |
 | [109] | [[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud\|Polícia Federal — Operação Decrypted II: BR-US bilateral crypto-wallet fraud takedown with HSI El Dorado Task Force NY]] | Polícia Federal (Brasil) | 2026-03-03 | https://www.gov.br/pf/pt-br/assuntos/noticias/2026/03/pf-mira-grupo-responsavel-por-fraudes-eletronicas |
 | [110] | [[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests\|SAnews/Hawks DPCI — ZA-UK-US joint takedown of 23-suspect investment call-centre scam targeting AU/NZ/UK/US retirees (R1B+ losses)]] | South African Government News Agency (SAnews) | 2026-01-29 | https://www.sanews.gov.za/south-africa/alleged-international-scam-syndicate-members-arrested |
+| [111] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |

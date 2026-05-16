@@ -36,16 +36,18 @@ operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[16shop-phishing-as-a-service-takedown-2023]]"
   - "[[operation-cyber-guardian-2026]]"
+  - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
 org_type: national-agency
 parent_org: "[[japan-npa-headquarters]]"
-source_count: 8
+source_count: 9
 sources:
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
+  - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
 status: active
 title: "Japan National Police Agency — Cyber Affairs Bureau"
 type: organization
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -135,3 +137,4 @@ Japan's cybercrime international cooperation capacity is *likely* growing rapidl
 | [6] | Japan's new Active Cyber Defense Law: A Strategic Evolution | Center for Cybersecurity Policy | 2025 | https://www.centerforcybersecuritypolicy.org/insights-and-research/japans-new-active-cyber-defense-law-a-strategic-evolution-in-national-cybersecurity |
 | [7] | [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan\|INTERPOL — 16shop phishing-as-a-service platform takedown (Aug 2023); 3 arrests in ID + JP, INTERPOL IGCI cybercrime directorate-led with INP, NPA, FBI cooperation]] | INTERPOL (IGCI cybercrime directorate) | 2023-08-08 | https://www.interpol.int/en/News-and-Events/News/2023/Phishing-as-a-service-platform-16shop-shut-down-three-arrests |
 | [8] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |
+| [9] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |
