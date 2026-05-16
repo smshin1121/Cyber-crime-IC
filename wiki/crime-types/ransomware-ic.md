@@ -44,6 +44,7 @@ notable_operations:
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
+  - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-stryzhak-nefilim]]"
@@ -61,7 +62,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 32
+source_count: 33
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -95,8 +96,9 @@ sources:
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
+  - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
 created: 2026-04-08
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -295,3 +297,4 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [30] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |
 | [31] | [[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware\|Polizia di Stato — Operazione ELICIUS: IT-FR-RO joint task force vs. 'Diskstation' Romanian-national NAS-ransomware gang (Bucharest searches Jun 2024 → Jul 2025 announcement, Milan GIP custody)]] | Polizia di Stato — Servizio Polizia Postale (commissariatodips.it) | 2025-07-14 | https://www.commissariatodips.it/notizie/articolo/operazione-elicius-individuata-pericolosa-gang-hacker-internazionale-diskstation/index.html |
 | [32] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|BKA — Black Basta ransomware ringleader public arrest warrant + UA region searches (Jan 2026); 5-LE-jurisdiction op (DE+NL+CH+UA+UK); 100+ DE victims, 600+ worldwide, 3-digit-million EUR proceeds]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |
+| [33] | [[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing\|Gendarmerie nationale — Yauhen Horbach (Belarusian) sentenced in Paris; 2,300+ cyberattacks; FR-GE INTERPOL extradition]] | Gendarmerie nationale (France) | 2025-05-14 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/criminalite-organisee-et-enquetes/2025/les-gendarmes-mettent-fin-aux-agissements-d-un-hacker-bielorusse-implique-dans-2-300-cyberattaques-dans-le-monde |

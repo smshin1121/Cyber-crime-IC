@@ -7,15 +7,17 @@ legal_system: not-assessed
 operations_participated:
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
+  - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
 region: south-caucasus
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
+  - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
 title: Georgia
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-09
+updated: 2026-05-16
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

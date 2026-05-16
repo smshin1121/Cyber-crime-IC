@@ -20,7 +20,7 @@ updated: 2026-04-08
 | [[russian-ministry-of-interior]] | interior-ministry | [[russia]] | Historic Russian law-enforcement participant in the 2015 Simda botnet disruption.; Provides a rare pre-2022 data point for Russia-inclusive cybercrime cooperation with INTERPOL and private-sector technical partners. | 1 | 2 |
 | [[c-proc]] | international-org | Bucharest, Romania | Delivery of capacity building programmes for cybercrime and electronic evidence; Support to countries implementing the Budapest Convention and its Protocols | — | 5 |
 | [[icann]] | international-org | — | Domain-name governance and infrastructure actor relevant to malware and botnet domain disruption.; Appears where cybercrime operations require coordination around domain registration, sinkholing, or abuse handling. | 1 | 2 |
-| [[interpol]] | international-org | Lyon, France | — | 47 | 10 |
+| [[interpol]] | international-org | Lyon, France | — | 48 | 11 |
 | [[interpol-igci]] | international-org | Singapore | — | 24 | 12 |
 | [[unodc]] | international-org | Vienna, Austria | — | 5 | 8 |
 | [[council-of-europe]] | international-organization | Strasbourg, France | Administers the Budapest Convention ecosystem for cybercrime law harmonization and international cooperation.; Maintains treaty status and party-observer information for Convention 185. | — | 3 |
@@ -107,7 +107,7 @@ updated: 2026-04-08
 | [[czechia-police]] | national-unit | Prague, Czech Republic | — | 7 | 5 |
 | [[denmark-police]] | national-unit | Copenhagen, Denmark | — | 7 | 4 |
 | [[dutch-nhtcu]] | national-unit | Netherlands | Legacy label for the Dutch National High Tech Crime Unit in older botnet, marketplace, and infrastructure-disruption records.; Routes detailed Dutch policing context to [[netherlands-politie]]. | 5 | 5 |
-| [[france-gendarmerie]] | national-unit | Pontoise, France | — | 10 | 6 |
+| [[france-gendarmerie]] | national-unit | Pontoise, France | — | 11 | 7 |
 | [[france-national-police]] | national-unit | Nanterre, France | — | 12 | 5 |
 | [[hong-kong-police]] | national-unit | Hong Kong SAR | Primary Hong Kong law enforcement unit for cybercrime and cyber security; Technology Crime Division — cybercrime investigation | 4 | 7 |
 | [[ic3]] | national-unit | Washington, D.C. / West Virginia, United States | — | 1 | 4 |
@@ -142,7 +142,7 @@ updated: 2026-04-08
 | [[shadowserver]] | private-sector | international | sinkholing support; victim notification data | 9 | 4 |
 | [[group-ib]] | private-sector-partner | — | Private-sector threat-intelligence and cybercrime investigation partner.; Provides telemetry, attribution support, and investigative leads to INTERPOL and national law-enforcement operations. | 11 | 6 |
 | [[romanian-prosecution]] | prosecution-compatibility-page | [[romania]] | Routes generic Romanian prosecution references to [[romania-public-ministry]] and [[romania-diicot]].; Preserves operation backlinks where source extraction used a generic Romanian prosecution label. | 2 | 3 |
-| [[france-junalco]] | prosecution-office | Paris, France | — | 4 | 2 |
+| [[france-junalco]] | prosecution-office | Paris, France | — | 5 | 3 |
 | [[germany-frankfurt-prosecutor]] | prosecution-office | Frankfurt am Main, Germany | — | 6 | 4 |
 | [[netherlands-om]] | prosecution-office | Rotterdam / Amsterdam / Zwolle / Den Bosch / Zoetermeer, Netherlands | International legal assistance; Joint investigation team coordination | 7 | 4 |
 | [[romania-diicot]] | prosecution-office | Bucharest, Romania | — | 6 | 0 |

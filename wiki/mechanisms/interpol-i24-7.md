@@ -3,19 +3,21 @@ type: mechanism
 title: "INTERPOL I-24/7"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-10
-source_count: 4
+updated: 2026-05-16
+source_count: 5
 sources:
   - "[[2025-01-01_interpol-int_interpol-s-asian-conference-to-address-regional-crime-threats]]"
   - "[[2025-06-01_interpol-int_interpol-celebrates-10-years-of-innovation-and-collaboration-in-singapore-igci-1]]"
   - "[[2026-03-16_intelligentciso-com_group-ib-supports-interpol-s-operation-synergia-iii-2026-cyber-takedown]]"
   - "[[2026-04-17_interpol-int_interpol-official-website-leadership-and-structure]]"
+  - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
+  - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
 ---
 ## Summary
 

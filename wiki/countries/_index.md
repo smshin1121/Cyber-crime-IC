@@ -46,9 +46,9 @@ total: 61
 | 🇪🇬 | [[egypt]] | civil-law | — | medium | unknown | 1 |
 | 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 17 |
 | 🇫🇮 | [[finland]] | civil-law | party (2007) | high | 90-180 | 12 |
-| 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 14 |
+| 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 15 |
 | 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 11 |
-| 🇬🇪 | [[georgia]] | not-assessed | — | unknown | unknown | 1 |
+| 🇬🇪 | [[georgia]] | not-assessed | — | unknown | unknown | 2 |
 | 🇬🇭 | [[ghana]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇲 | [[gambia]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇷 | [[greece]] | not-assessed | — | unknown | unknown | 1 |

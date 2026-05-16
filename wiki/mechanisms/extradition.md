@@ -4,7 +4,7 @@ title: Extradition
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-16
-source_count: 17
+source_count: 18
 sources:
   - "[[2015-10-13_fbi-pittsburgh_bugat-botnet-administrator-arrested-and-malware-disabled]]"
   - "[[2015-10-13_scmagazine_moldovian-sentenced-stealing-millions-bugat-banking-malware]]"
@@ -23,6 +23,7 @@ sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
   - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
+  - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-token-mirrors-2026]]"
@@ -45,6 +46,7 @@ operations_using:
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
   - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
+  - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"

@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 144, single-agent, L23+L24 strict] | France-Georgia Belarusian Ransomware Hacker Yauhen Horbach Sentencing (Gendarmerie nationale, 14 May 2025)
+- Source: `raw/press-releases/2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing.md` (Gendarmerie nationale Gendinfo; fr).
+- Pages created: `wiki/sources/2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing.md`, `wiki/operations/fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025.md` (provisional, source_count=1).
+- Pages updated: 2 countries (france, georgia); 3 organizations (france-gendarmerie, france-junalco, interpol); 4 crime-types (ransomware-ic, extortion-ic, money-laundering-ic, hacking-ic); 3 mechanisms (extradition, informal-cooperation, interpol-i24-7).
+- Key findings:
+  - **L24 strict satisfied**: Gendarmerie release names "Après la diffusion par Interpol d'une notice rouge, l'homme est interpellé, puis incarcéré en Géorgie, en août 2022. Il est extradé vers la France huit mois plus tard, et placé en détention provisoire, tandis que l'information judiciaire se poursuit sous l'autorité de la Juridiction nationale de lutte contre la criminalité organisée (JUNALCO)." — France (Gendarmerie SR Rennes Antenne C3N + JUNALCO) + Georgia (arrest, incarceration, extradition); INTERPOL Red Notice mechanism. Belarus excluded from participating_countries (origin/adversary state).
+  - **Tier-1 publisher**: `gendarmerie.interieur.gouv.fr` — French national Gendarmerie own-domain release (Gendinfo media platform). 1st Gendarmerie-led op centered on Belarusian-origin ransomware (prior Gendarmerie GIGN-FBI Saint-Martin op was different angle).
+  - **L23 compliance**: `lead_agency: "[[france-gendarmerie]]"`, `coordinating_body: ""` (Georgia LE kept in body prose — no wiki page exists for Georgian police); `participating_agencies` only Glob-verified wikilinks (france-gendarmerie, france-junalco, interpol).
+  - Op profile: Belarusian national Yauhen Horbach (aliases "JohnSmith" / "Daniel") sentenced 28 Apr 2025 at Tribunal judiciaire de Paris; attributed to 2,300+ cyberattacks (cryptolocker-class ransomware extortion) since Feb 2020. Bitcoin ransom proceeds documented USD ~750K (not recovered per release).
+  - `case_id: CYB-2025-995`.
+  - 6 source_count_mismatch HIGH + 1 LOW broken_wikilink resolved post-backlink (broken_wikilink: `[[operation-cronos]]` → `[[operation-cronos-phase1|Operation Cronos]]`); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 143, single-agent, L24-rejected-and-retry] | Spain-US Calpe Hacker Arrest — 40+ Cyberattacks on Strategic Institutions (Policía Nacional, 5 Feb 2025)
 - Source: `raw/press-releases/2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos.md` (Policía Nacional España; es).
 - Pages created: `wiki/sources/2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos.md`, `wiki/operations/spain-hsi-europol-calpe-hacker-40-cyberattacks-2025.md` (provisional, source_count=1).

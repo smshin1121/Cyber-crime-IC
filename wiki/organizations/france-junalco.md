@@ -4,7 +4,8 @@ aliases:
 contact_point_for:
 
 country: "[[france]]"
-jurisdiction: [[france]]
+jurisdiction:
+
 created: 2026-04-10
 established: 2019
 headquarters: "Paris, France"
@@ -20,15 +21,16 @@ operations_participated:
   - "[[operation-endgame-phase2]]"
   - "[[proxy-service-takedown-2026-03]]"
   - "[[operation-power-off]]"
+  - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
 org_type: prosecution-office
 parent_org: "Parquet de Paris (Paris Public Prosecutor's Office)"
-source_count: 2
+source_count: 3
 sources:
-
+  - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
 status: active
 title: "JUNALCO — National Jurisdiction for the Fight against Organized Crime (Cybercrime"
 type: organization
-updated: "2026-04-29"
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -79,3 +81,4 @@ France is a party to the [[budapest-convention|Budapest Convention]] and a found
 |---|---|---|---|---|
 | [1] | La JUNALCO, quatre ans après sa création | Gazette du Palais (Lextenso) | 2024 | https://www.labase-lextenso.fr/gazette-du-palais/2024-n2/la-junalco-quatre-ans-apres-sa-creation-GPL458f5 |
 | [2] | Circulaire du 17 décembre 2019 relative à la compétence nationale concurrente | Légifrance | 2019-12-17 | https://www.legifrance.gouv.fr/circulaire/id/44898?fonds=CIRC |
+| [3] | [[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing\|Gendarmerie nationale — Yauhen Horbach (Belarusian) sentenced in Paris; 2,300+ cyberattacks; FR-GE INTERPOL extradition]] | Gendarmerie nationale (France) | 2025-05-14 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/criminalite-organisee-et-enquetes/2025/les-gendarmes-mettent-fin-aux-agissements-d-un-hacker-bielorusse-implique-dans-2-300-cyberattaques-dans-le-monde |

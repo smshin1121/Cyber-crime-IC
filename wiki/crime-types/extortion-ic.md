@@ -3,9 +3,9 @@ type: crime-type
 title: "Extortion — IC Perspective"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-05-09
-source_count: 9
+source_count: 10
 sources:
   - "[[europol-operation-pleiades]]"
   - "[[2026-02_europol_project-compass-the-com-network]]"
@@ -16,6 +16,7 @@ sources:
   - "[[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation]]"
   - "[[2025-07-31_polizia-di-stato_riccione-arresto-cybercriminale-internazionale-khlynovskiy]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
+  - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
 category: cybercrime-related
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -26,6 +27,7 @@ notable_operations:
   - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
   - "[[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
+  - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
 notable_cases:
   - "[[us-v-kai-west-intelbroker-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"
