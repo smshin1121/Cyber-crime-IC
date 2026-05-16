@@ -43,13 +43,15 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
   - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
+  - "[[europol-vidtf-2026-12-children-identified]]"
 region: eastern-europe
-source_count: 7
+source_count: 8
 sources:
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
   - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
+  - "[[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified]]"
 title: "Republic of Poland"
 treaty_memberships:
   - date: 2015-02-20
@@ -122,6 +124,7 @@ With CBZC's establishment in 2022, Poland has *highly likely* strengthened its i
 | [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [6] | [[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc\|Poland CBZC Phobos affiliate arrest (Operation Aether) — 47-y-o male in Małopolskie, Penal Code Art 269b §1; PL+US named]] | Polish CBZC | 2026-02-17 | https://cbzc.policja.gov.pl/bzc/aktualnosci/823,47-latek-zwiazany-z-grupa-Phobos-zatrzymany-przez-policjantow-CBZC.html |
 | [7] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |
+| [8] | [[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified\|CBZC Poland — Europol Victim Identification Taskforce (VIDTF) Apr 2026: 12 children identified, 204 leads, 31 countries at The Hague]] | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC, Polska) | 2026-04-24 | https://cbzc.policja.gov.pl/bzc/aktualnosci/901,Wykorzystywanie-seksualne-dzieci-12-dzieci-zidentyfikowanych-podczas-dzialan-gru.html |
 
 > [!warning] Legal status check needed
 > Exact ratification date for Second Additional Protocol (CETS 224) should be verified against Council of Europe Treaty Office.

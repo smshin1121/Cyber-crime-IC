@@ -36,9 +36,10 @@ notable_operations:
   - "[[operation-cyber-guardian-2026]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
+  - "[[europol-vidtf-2026-12-children-identified]]"
 relevant_legal_frameworks:
 
-source_count: 17
+source_count: 18
 sources:
   - "[[2026-03-05_interpol_operation-eclipse-csam-americas]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
@@ -57,6 +58,7 @@ sources:
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
+  - "[[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified]]"
 title: "CSAM (Child Sexual Abuse Material) — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -109,3 +111,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [15] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |
 | [16] | [[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol\|Policie ČR — Prague arrest of top-3 worldwide darknet CSAM distributor; FBI ~10-yr intel + Europol-coordinated identification]] | Policie České republiky | 2024-10-08 | https://policie.gov.cz/clanek/byl-v-hledacku-fbi-i-europolu-dopadli-jej-cesti-kriminaliste.aspx |
 | [17] | [[2025-06-06_interpol_operation-vibora-csam-20-arrests\|INTERPOL — Operation Vibora: Spain-led LatAm CSAM takedown (20 arrests, 11 countries, June 2025)]] | INTERPOL General Secretariat | 2025-06-06 | https://www.interpol.int/en/News-and-Events/News/2025/20-arrested-in-international-operation-targeting-child-sexual-abuse-material |
+| [18] | [[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified\|CBZC Poland — Europol Victim Identification Taskforce (VIDTF) Apr 2026: 12 children identified, 204 leads, 31 countries at The Hague]] | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC, Polska) | 2026-04-24 | https://cbzc.policja.gov.pl/bzc/aktualnosci/901,Wykorzystywanie-seksualne-dzieci-12-dzieci-zidentyfikowanych-podczas-dzialan-gru.html |

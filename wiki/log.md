@@ -1,5 +1,45 @@
 # Activity Log
 
+## [2026-05-16] ingest + milestone push [iter 160, single-agent, L23+L24+L25 strict] | CBZC Poland — Europol VIDTF Apr 2026 12 Children Identified (CBZC Poland, 24 Apr 2026)
+- Source: `raw/press-releases/2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified.md` (cbzc.policja.gov.pl own-domain; pl).
+- Pages created: `wiki/sources/2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified.md`, `wiki/operations/europol-vidtf-2026-12-children-identified.md` (provisional, source_count=1).
+- Pages updated: 1 country (poland — VIDTF 31-country aggregate not individually enumerated per L19/L24 strict); 5 organizations (europol-vidtf, europol-ec3, interpol, poland-police, interpol-icse-database); 1 crime-type (csam-ic); 2 mechanisms (electronic-evidence, informal-cooperation); 1 related op (operation-stream-kidflix).
+- Key findings:
+  - **L24 strict (with caveat)**: CBZC release names "34 specjalistów Europolu i Interpolu ds. identyfikacji ofiar oraz ekspertów z 31 krajów na całym świecie, zgromadziło się w siedzibie Europolu w Hadze" — Europol + INTERPOL + CBZC Poland explicitly; 31-country aggregate not enumerated. participating_countries conservatively `[[poland]]` only.
+  - **Tier-1 publisher**: `cbzc.policja.gov.pl` Centralne Biuro Zwalczania Cyberprzestępczości own-domain (subdomain of policja.gov.pl Polish Police). 1st CBZC op in wiki.
+  - **L23 compliance**: `lead_agency: "[[europol-vidtf]]"`, `coordinating_body: "[[europol-ec3]]"`; `participating_agencies` only Glob-verified wikilinks (europol-vidtf, europol-ec3, interpol, poland-police, interpol-icse-database).
+  - Op profile: 13–24 Apr 2026 at Europol HQ The Hague; 12 children tentatively identified; 204 leads referred to national authorities; 317 datasets analysed; CBZC Poland one of named participating contingents (3-officer team).
+  - `case_id: CYB-2026-160`.
+  - 6 source_count_mismatch HIGH + 2 LOW broken_wikilink (placeholders in iter 159 log text) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
+## [2026-05-16] iter 160 milestone push integrity sweep [iters 151-160]
+- 10 commits since iter 150 push (`b8b644682`): iters 151-160 covering 10 unique-publisher ingests.
+- Iters 151-160 tier-1 publishers introduced/promoted (own-domain strict — L25 enforced):
+  - 151: NCA UK (nationalcrimeagency.gov.uk) — 1st NCA-as-lead this session
+  - 152: Polizei Bayern (polizei.bayern.de) — 1st Polizei Bayern op (3rd distinct German tier-1 after BKA + Hessen)
+  - 153: IRS-CI (irs.gov) — 1st IRS-CI op (mirror of USAO-NJ via L11 fallback to justice.gov Akamai)
+  - 154: PF Brasil (gov.br/pf) — 1st PF-as-lead op
+  - 155: INTERPOL (interpol.int) — 2nd INTERPOL op
+  - 156: USAO-EDNY (justice.gov/usao-edny) — 1st USAO regional this session (L21 Akamai bypass succeeded)
+  - 157: LKA NRW (polizei.nrw) — 1st LKA NRW op (4th distinct German tier-1)
+  - 158: SAnews/Hawks (sanews.gov.za) — 1st SAnews state news wire op
+  - 159: BKA (bka.de) — 3rd BKA-as-lead op
+  - 160: CBZC Poland (cbzc.policja.gov.pl) — 1st CBZC op
+- Iters 151-160 inscope tier-1 ops summary:
+  - 151: NCA-led UK-ES-DE-FR JuicyFields €645M cannabis-investment Ponzi JIT
+  - 152: Bayern-Tirol-Romania Action Day internet-fraud OCG (Polizei Bayern/ZCB Bamberg)
+  - 153: US-Colombia Versus Project darknet marketplace operator Schmitz extradition (IRS-CI mirror)
+  - 154: Brazil-US Operação Decrypted II crypto-wallet fraud (PF + HSI El Dorado NY)
+  - 155: INTERPOL Operation Vibora Spain-led 11-country LatAm CSAM takedown
+  - 156: US-Spain Nefilim ransomware affiliate Stryzhak guilty plea (USAO-EDNY)
+  - 157: LKA NRW EK Parker DoppelPaymer DE-UA-US renewed strike
+  - 158: ZA-UK-US Hawks DPCI investment call-centre scam takedown (SAnews/Hawks)
+  - 159: BKA Hesse-RLP Dstat.CC + Flight RCS PowerOff takedown
+  - 160: CBZC Poland Europol VIDTF Apr 2026 12-children identification action
+- 8 new-as-lead organizations across iters 151-160 (NCA, Polizei Bayern, IRS-CI, PF Brazil, USAO-EDNY, LKA NRW, SAnews/Hawks, CBZC; plus 2nd INTERPOL and 3rd BKA).
+- Several slug corrections during the segment: `spanish-national-police` → canonical `spain-national-police` (orphan stub flagged for cleanup); `investment-fraud-ic` (non-existent) → `online-fraud-ic`; multiple bracketed placeholder wikilinks in op pages and log entries resolved.
+- About to run full integrity sweep (lint·check_links·ZZPROT·build_static.py) and push to origin/master.
+
 ## [2026-05-16] ingest [iter 159, single-agent, L23+L24+L25 strict] | BKA Hesse-RLP Dstat.CC + Flight RCS PowerOff Takedown (BKA, 1 Nov 2024)
 - Source: `raw/press-releases/2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen.md` (bka.de own-domain; de).
 - Pages created: `wiki/sources/2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen.md`, `wiki/operations/de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024.md` (provisional, source_count=1).
@@ -8,7 +48,7 @@
   - **L24 strict (with caveat)**: BKA release names "In einer international koordinierten Operation der ZIT der Generalstaatsanwaltschaft Frankfurt am Main mit dem Hessischen Landeskriminalamt (HLKA) und dem Bundeskriminalamt (BKA) ... Im Wege der internationalen Kooperation erfolgten Sicherstellungen und Unterstuetzungen in Frankreich, Griechenland, Island und den Vereinigten Staaten von Amerika." German side has 3 prosecutorial/LE bodies named (ZIT Frankfurt + HLKA + BKA); foreign jurisdictions acknowledged at country level only (FR/GR/IS/US) — specific foreign LE agencies not enumerated. Logged as `missing_fields: foreign_partner_agency_names`. This is part of the Operation PowerOff series (related backlinks to 3 prior Phase pages).
   - **Tier-1 publisher**: `bka.de` Bundeskriminalamt own-domain. 3rd BKA-as-lead op (1st BKA was iter 122 Warzone RAT, 2nd iter 127 Aisuru/Kimwolf, 3rd iter 136 Black Basta) — actually 4th counting iter 136. This is the German Hesse-RLP phase of multinational Operation PowerOff (BKA's coordinated DDoS-stresser takedown program).
   - **L23 compliance**: `lead_agency: "[[zit-frankfurt]]"`, `coordinating_body: "[[germany-bka]]"`; `participating_agencies` only Glob-verified wikilinks (zit-frankfurt, germany-bka); foreign agencies omitted (no plaintext entity names per L23 strict).
-  - **Slug cleanup**: agent included empty `[[wiki/concepts/]]` + `[[wiki/legal-frameworks/]]` placeholder wikilinks in prose — replaced with prose-only references.
+  - **Slug cleanup**: agent included empty placeholder wikilinks to wiki/concepts/ and wiki/legal-frameworks/ paths in prose — replaced with prose-only references.
   - Op profile: 2024-10-31 BKA-led German-side takedown of "Flight RCS" Section-127-StGB clearnet drug marketplace + "Dstat.CC" DDoS-stresser directory; arrests in Hesse and Rhineland-Palatinate; supportive seizures in FR/GR/IS/US under Operation PowerOff multinational coordination.
   - `case_id: CYB-2024-901`.
   - 2 source_count_mismatch HIGH + 4 LOW broken_wikilinks (2 in log iter 158 + 2 placeholder in op page) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.

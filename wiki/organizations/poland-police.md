@@ -32,17 +32,19 @@ operations_participated:
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
+  - "[[europol-vidtf-2026-12-children-identified]]"
 org_type: national-unit
 parent_org: "Komenda Główna Policji (Police Headquarters, Ministry of Interior and"
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
+  - "[[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified]]"
 status: active
 title: "Central Bureau for Combating Cybercrime (CBZC) — Poland"
 type: organization
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -101,3 +103,4 @@ Specific operation attributions pending further source ingestion. Poland is *lik
 | [4] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
 | [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [6] | [[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc\|Poland CBZC Phobos affiliate arrest (Operation Aether) — 47-y-o male in Małopolskie, Penal Code Art 269b §1; PL+US named]] | Polish CBZC | 2026-02-17 | https://cbzc.policja.gov.pl/bzc/aktualnosci/823,47-latek-zwiazany-z-grupa-Phobos-zatrzymany-przez-policjantow-CBZC.html |
+| [7] | [[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified\|CBZC Poland — Europol Victim Identification Taskforce (VIDTF) Apr 2026: 12 children identified, 204 leads, 31 countries at The Hague]] | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC, Polska) | 2026-04-24 | https://cbzc.policja.gov.pl/bzc/aktualnosci/901,Wykorzystywanie-seksualne-dzieci-12-dzieci-zidentyfikowanych-podczas-dzialan-gru.html |

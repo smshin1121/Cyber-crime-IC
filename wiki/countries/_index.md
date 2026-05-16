@@ -94,7 +94,7 @@ total: 61
 | 🇵🇪 | [[peru]] | not-assessed | — | unknown | unknown | 2 |
 | 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 3 |
 | 🇵🇰 | [[pakistan]] | not-assessed | — | unknown | unknown | 0 |
-| 🇵🇱 | [[poland]] | civil-law | party (2015) | medium | unknown | 7 |
+| 🇵🇱 | [[poland]] | civil-law | party (2015) | medium | unknown | 8 |
 | 🇵🇹 | [[portugal]] | civil-law | party (2010) | medium | unknown | 5 |
 | 🇵🇾 | [[paraguay]] | not-assessed | — | unknown | unknown | 2 |
 | 🇷🇴 | [[romania]] | civil-law | party (2004) | high | unknown | 11 |

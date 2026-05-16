@@ -73,9 +73,10 @@ operations_participated:
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
   - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
+  - "[[europol-vidtf-2026-12-children-identified]]"
 org_type: international-org
 parent_org: ""
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
@@ -85,6 +86,7 @@ sources:
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
   - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
+  - "[[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified]]"
 status: active
 title: "INTERPOL (International Criminal Police Organization)"
 type: organization
@@ -286,6 +288,7 @@ Korea's relationship with INTERPOL is *almost certainly* among the most active a
 | [10] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|BKA — Black Basta ransomware ringleader public arrest warrant + UA region searches (Jan 2026); 5-LE-jurisdiction op (DE+NL+CH+UA+UK); 100+ DE victims, 600+ worldwide, 3-digit-million EUR proceeds]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |
 | [11] | [[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing\|Gendarmerie nationale — Yauhen Horbach (Belarusian) sentenced in Paris; 2,300+ cyberattacks; FR-GE INTERPOL extradition]] | Gendarmerie nationale (France) | 2025-05-14 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/criminalite-organisee-et-enquetes/2025/les-gendarmes-mettent-fin-aux-agissements-d-un-hacker-bielorusse-implique-dans-2-300-cyberattaques-dans-le-monde |
 | [12] | [[2025-06-06_interpol_operation-vibora-csam-20-arrests\|INTERPOL — Operation Vibora: Spain-led LatAm CSAM takedown (20 arrests, 11 countries, June 2025)]] | INTERPOL General Secretariat | 2025-06-06 | https://www.interpol.int/en/News-and-Events/News/2025/20-arrested-in-international-operation-targeting-child-sexual-abuse-material |
+| [13] | [[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified\|CBZC Poland — Europol Victim Identification Taskforce (VIDTF) Apr 2026: 12 children identified, 204 leads, 31 countries at The Hague]] | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC, Polska) | 2026-04-24 | https://cbzc.policja.gov.pl/bzc/aktualnosci/901,Wykorzystywanie-seksualne-dzieci-12-dzieci-zidentyfikowanych-podczas-dzialan-gru.html |
 
 > [!note]
 > The original page body was created from general knowledge (source_count: 0 in frontmatter). The Current Status section above is verified against web sources as of 2026-04-10. Detailed historical operational statistics should be verified against INTERPOL press releases and annual reports.

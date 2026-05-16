@@ -53,7 +53,7 @@ sources:
   - "[[2025-04-02_bleepingcomputer-com_police-shuts-down-kidflix-child-sexual-exploitation-platform]]"
   - "[[2025-05-15_eucrim_pedophile-platform-kidflix-shut-down]]"
 created: 2026-04-08
-updated: 2026-05-09
+updated: 2026-05-16
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Stream dismantled the Kidflix dark-web CSAM platform through a Germany-led, Europol-coordinated investigation with Dutch server action, identifying 1,393 suspects and producing 79 arrests worldwide."
@@ -69,6 +69,7 @@ crime_types:
 related_operations:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
+  - "[[europol-vidtf-2026-12-children-identified]]"
 ---
 > [!note] Source basis
 > This page is now grounded in a collected Europol-centered source wrapper, a Security Affairs summary, and an official Dutch police page confirming the Netherlands-side server action. It replaces an encoding-damaged draft that had no references section despite clear cross-border relevance.

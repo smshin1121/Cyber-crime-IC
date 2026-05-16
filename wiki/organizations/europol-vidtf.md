@@ -3,11 +3,11 @@ type: organization
 title: "Europol Victim Identification Task Force"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-05-16
 last_verified: 2026-04-29
 org_type: victim-identification-taskforce
 country: ""
-jurisdiction: "regional"
+jurisdiction: regional
 parent_org: "[[europol-ec3]]"
 mandate: "Europol-supported specialist taskforce for identifying victims in child sexual exploitation material."
 key_roles:
@@ -19,10 +19,13 @@ cooperation_partners:
   - "[[europol-ec3]]"
   - "[[interpol]]"
   - "[[ncmec]]"
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-17_europol-europa-eu_european-cybercrime-centre-ec3-overview]]"
+  - "[[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified]]"
 coverage_status: audit-normalized
+operations_participated:
+  - "[[europol-vidtf-2026-12-children-identified]]"
 ---
 ## Summary
 
@@ -49,3 +52,4 @@ The organization audit treats a page as adequate when it explains why the entity
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | [[2026-04-17_europol-europa-eu_european-cybercrime-centre-ec3-overview|European Cybercrime Centre (EC3) — overview]] | Europol EC3 (ec3.pro) | 2026-04-17 | https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3 |
+| [2] | [[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified\|CBZC Poland — Europol Victim Identification Taskforce (VIDTF) Apr 2026: 12 children identified, 204 leads, 31 countries at The Hague]] | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC, Polska) | 2026-04-24 | https://cbzc.policja.gov.pl/bzc/aktualnosci/901,Wykorzystywanie-seksualne-dzieci-12-dzieci-zidentyfikowanych-podczas-dzialan-gru.html |

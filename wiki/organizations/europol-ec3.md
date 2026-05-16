@@ -159,9 +159,10 @@ operations_participated:
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
   - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
+  - "[[europol-vidtf-2026-12-children-identified]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
-source_count: 29
+source_count: 30
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
@@ -183,6 +184,7 @@ sources:
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
   - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
+  - "[[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified]]"
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
@@ -291,3 +293,4 @@ The [[phobos-8base-crackdown|Phobos/8Base crackdown]] (2025) is the most directl
 | [27] | [[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam\|NCA — UK arrest in €645M JuicyFields cannabis-investment Ponzi takedown; UK-ES-DE-FR JIT at Eurojust]] | National Crime Agency (UK) | 2024-04-12 | https://www.nationalcrimeagency.gov.uk/news/uk-arrest-in-645-million-international-investment-scam |
 | [28] | [[2025-06-06_interpol_operation-vibora-csam-20-arrests\|INTERPOL — Operation Vibora: Spain-led LatAm CSAM takedown (20 arrests, 11 countries, June 2025)]] | INTERPOL General Secretariat | 2025-06-06 | https://www.interpol.int/en/News-and-Events/News/2025/20-arrested-in-international-operation-targeting-child-sexual-abuse-material |
 | [29] | [[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine\|LKA NRW (polizei.nrw) — EK Parker DoppelPaymer renewed strike: DE-UA blockchain investigation with USSS; Ukraine searches]] | Landeskriminalamt NRW Pressestelle | 2023-09-18 | https://polizei.nrw/presse/ek-parker-mit-erneutem-schlag-gegen-internationales-cybercrime-netzwerk |
+| [30] | [[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified\|CBZC Poland — Europol Victim Identification Taskforce (VIDTF) Apr 2026: 12 children identified, 204 leads, 31 countries at The Hague]] | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC, Polska) | 2026-04-24 | https://cbzc.policja.gov.pl/bzc/aktualnosci/901,Wykorzystywanie-seksualne-dzieci-12-dzieci-zidentyfikowanych-podczas-dzialan-gru.html |
