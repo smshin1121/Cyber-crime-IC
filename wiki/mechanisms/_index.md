@@ -21,7 +21,7 @@ updated: 2026-04-14
 | [[empact]] | liaison-network | formal | weeks | [[europol-ec3]] | eu-policy-cycle | 4 |
 | [[eu-policy-cycle]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[eurojust-coordination-meeting]] | cooperation-or-enforcement-mechanism | — | — | — | — | 11 |
-| [[european-arrest-warrant]] | cooperation-or-enforcement-mechanism | — | — | — | — | 7 |
+| [[european-arrest-warrant]] | cooperation-or-enforcement-mechanism | — | — | — | — | 8 |
 | [[european-investigation-order]] | cooperation-or-enforcement-mechanism | — | — | — | — | 6 |
 | [[european-judicial-cybercrime-network]] | liaison-network | semi-formal | weeks-months | [[eurojust]] | Council Conclusions on the establishment of a European Judicial Cybercrime Network (Council of the EU, 9 June 2016) | 1 |
 | [[europol-jit]] | joint-investigation-team | formal | weeks-months | [[eurojust]] | budapest-convention, EU Council Framework Decision 2002/465/JHA | 6 |

@@ -105,6 +105,7 @@ related_operations:
   - "[[labhost-phishing-as-a-service-takedown-2024]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
   - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
+  - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:

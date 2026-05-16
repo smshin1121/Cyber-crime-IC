@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-05-09
-source_count: 7
+source_count: 8
 sources:
   - "[[europol-fraudulent-shopping-sites-takedown]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -14,6 +14,7 @@ sources:
   - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
   - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
   - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
+  - "[[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[matrix-encrypted-messaging-takedown-2024]]"
@@ -24,6 +25,7 @@ operations_using:
   - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
   - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
   - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
+  - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
 ---
 ## Summary
 

@@ -1,5 +1,46 @@
 # Activity Log
 
+## [2026-05-16] ingest + milestone push [iter 170, single-agent, L23+L24+L25 strict] | Hellenic Police Op Endgame Greek-Limb VenomRAT Mastermind Attica Arrest (astynomia.gr, 13 Nov 2025)
+- Source: `raw/press-releases/2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest.md` (astynomia.gr Hellenic Police own-domain; el).
+- Pages created: `wiki/sources/2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest.md`, `wiki/operations/hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025.md` (provisional, source_count=1).
+- Pages updated: 3 countries (greece, france, united-states); 3 organizations (europol-ec3, eurojust, fbi); 3 crime-types (malware-ic, cybercrime-infrastructure-ic, hacking-ic); 1 mechanism (european-arrest-warrant); 3 related ops (operation-endgame, operation-endgame-phase3, rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025).
+- Key findings:
+  - **L24 strict satisfied**: Hellenic Police release names "σε συνεργασία με τη Europol και τη Eurojust" + FBI on-site at residential search + EAW issued by French judicial — 5 distinct cooperating LE/prosecutor agencies: Hellenic Police Cyber Crime Directorate + Europol + Eurojust + FBI + French judiciary.
+  - **Tier-1 publisher**: `astynomia.gr` Hellenic Police own-domain. 1st astynomia.gr op (7th distinct German+European LE this session counting GR; 30th overall publisher).
+  - **L23 compliance**: `lead_agency: ""`, `coordinating_body: "[[europol-ec3]]"`; `participating_agencies` Glob-verified wikilinks only (europol-ec3, eurojust, fbi).
+  - Op profile: VenomRAT mastermind arrest in Attica 2025-11-03; FR-issued EAW executed by Hellenic Police; FBI representatives present at on-site residential search. Greek-limb of Operation Endgame Phase 3 Nov 2025 multi-country sweep (also covered as RCMP CIT-V Canadian limb iter 162).
+  - `case_id: CYB-2025-202`.
+  - 6 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
+## [2026-05-16] iter 170 milestone push integrity sweep [iters 161-170]
+- 10 commits since iter 160 push (`6613763ae`): iters 161-170 covering 10 unique-publisher ingests (1 REJECT-RETRY at 167).
+- Iters 161-170 tier-1 publishers introduced/promoted (own-domain strict — L25 enforced):
+  - 161: US State Dept (state.gov) — 1st state.gov op (US-ROK-Japan DPRK IT worker trilateral)
+  - 162: RCMP (rcmp.ca) — 1st RCMP-as-lead op (L11 Wayback fallback for curl_cffi-blocked URL)
+  - 163: Korea MOJ (moj.go.kr) — 1st MOJ-as-lead op (distinct from saturated korea.kr)
+  - 164: Bavarian State Ministry of Justice (justiz.bayern.de) — 1st justiz.bayern.de op (5th distinct German tier-1)
+  - 165: Europol (europol.europa.eu) — 1st Europol-as-lead op this session
+  - 166: HKSAR ISD (info.gov.hk) — 1st HKSAR state-government own-domain op
+  - 167: LKA Baden-Württemberg via presseportal.de (REJECT-RETRY) — BORDERLINE L25 flagged
+  - 168: GenStA Berlin + LKA Berlin (berlin.de) — 1st berlin.de op (6th distinct German tier-1)
+  - 169: USAO-WDTX (justice.gov/usao-wdtx) — 2nd USAO regional this session (after EDNY iter 156)
+  - 170: Hellenic Police (astynomia.gr) — 1st astynomia.gr op
+- 10 new-as-lead publishers across iters 161-170; brings session unique-publisher count to 30.
+- Iters 161-170 inscope tier-1 ops summary:
+  - 161: US-ROK-Japan Trilateral Joint Statement on DPRK IT Workers
+  - 162: RCMP CIT-V Canadian-limb Op Endgame Surrey malware-loader arrest
+  - 163: Korea-Thailand overseas hacking syndicate senior-leader extradition
+  - 164: Bavaria-Kosovo-Costa Rica-Israel investment fraud network extradition
+  - 165: Ragnar Locker ransomware gang 11-country takedown (Europol-led)
+  - 166: HKPF STEALTHNET counter cyber+physical terrorism joint exercise (HK-Macao-SG-KR + INTERPOL)
+  - 167: DE-SE online-trading fraud Helsingborg extradition (LKA-BW + CCZ Karlsruhe; REJECT-RETRY first attempt was duplicate CPS Qian sentencing)
+  - 168: DE-AT-PL-CH-SK-CZ Enkeltrick/Schockanruf phone-fraud 7-week ISF-LUMEN action
+  - 169: US-NL-BE Minasyan RedLine infostealer co-developer extradition (USAO-WDTX)
+  - 170: Hellenic Police Op Endgame Greek-limb VenomRAT mastermind Attica arrest
+- 1 REJECT-RETRY event (iter 167): first attempt picked CPS UK Zhimin Qian / 61K BTC sentencing → identified as duplicate of iter 146 Met Police conviction (same case, different procedural milestones). Per CLAUDE.md merge-over-multiplication. 3 files deleted; retry picked LKA-BW DE-SE op.
+- Slug/wiki-page issues observed during segment (flagged for next milestone sweep): (1) `czechia` vs `czech-republic` country-page duplicates (iter 165); (2) `spanish-national-police` orphan stub vs canonical `spain-national-police` (auto-corrected in iter 156); (3) `presseportal.de` borderline L25 classification (iter 167) — Germany LE de facto distribution platform but commercial wire by strict reading.
+- About to run full integrity sweep (lint·check_links·ZZPROT·build_static.py) and push to origin/master.
+
 ## [2026-05-16] ingest [iter 169, single-agent, L23+L24+L25 strict] | US-NL-BE Minasyan RedLine Infostealer Extradition (USAO-WDTX, 25 Mar 2026)
 - Source: `raw/press-releases/2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer.md` (justice.gov USAO-WDTX own-domain; en).
 - Pages created: `wiki/sources/2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer.md`, `wiki/operations/us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026.md` (provisional, source_count=1).

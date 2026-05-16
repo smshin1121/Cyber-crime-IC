@@ -13,11 +13,13 @@ operations_participated:
   - "[[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
+  - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
 region: southern-europe
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
+  - "[[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest]]"
 title: "Hellenic Republic"
 treaty_memberships:
   - not-assessed

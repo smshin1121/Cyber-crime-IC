@@ -73,7 +73,8 @@ mechanisms_used:
   - "[[search-seizure]]"
   - "[[domain-seizure]]"
   - "[[eurojust-coordination-meeting]]"
-legal_basis: []
+legal_basis:
+  []
 results:
   arrests: 1
   indictments: 0
@@ -90,23 +91,23 @@ results:
     - "Three named malware families disrupted: Rhadamanthys (infostealer), VenomRAT (RAT), and Elysium (botnet)"
     - "Main RAT-line suspect arrested in Greece"
 edges:
-  - source_actor: "europol-ec3"
-    target_actor: "eurojust"
+  - source_actor: europol-ec3
+    target_actor: eurojust
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "germany-bka"
-    target_actor: "fbi"
+  - source_actor: germany-bka
+    target_actor: fbi
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "uk-nca"
-    target_actor: "fbi"
+  - source_actor: uk-nca
+    target_actor: fbi
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "australia-afp"
-    target_actor: "fbi"
+  - source_actor: australia-afp
+    target_actor: fbi
     cooperation_type: info_sharing
     legal_basis: informal
     direction: undirected
@@ -115,12 +116,15 @@ source_tier: 1
 missing_fields:
   - "indictments (the cited Eurojust release does not enumerate downstream charging counts)"
   - "victims_notified (release attributes 600,000+ infected victims to the cited malware families across multiple sources)"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
   - "[[operation-endgame-phase2]]"
-challenges_encountered: []
+  - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Endgame Phase 3 shifts the umbrella's targeting from dropper/loader infrastructure (Phase 1) and ransomware-affiliate kill chain (Phase 2) to the initial-access stack — infostealer-as-a-service, RAT, and a downstream botnet. The same coordinating bodies (Europol + Eurojust) and a substantially overlapping core-partner roster (DE, FR, NL, DK, UK, US) maintain continuity across phases."
   - "Greece enters the Endgame partner roster for the first time in this phase via the RAT-suspect arrest, demonstrating extension of the umbrella's geographic enforcement reach beyond the prior six-country core."
@@ -129,7 +133,7 @@ sources:
   - "[[2025-11-13_eurojust_operation-endgame-phase3-malware-operation]]"
 summary: "Phase 3 of the Europol- and Eurojust-coordinated Operation Endgame, announced on 2025-11-13. The operation dismantled 1,025 servers worldwide, seized 20 domains, conducted 11 searches across participating jurisdictions, recovered login data from over 100,000 cryptocurrency wallets, and arrested a main RAT-line suspect in Greece. Three malware families were disrupted: Rhadamanthys (infostealer-as-a-service since 2022), VenomRAT (RAT delivered via phishing), and Elysium (associated botnet). Tier-1 participating-authorities roster (verbatim from Eurojust): Germany (BKA + Frankfurt PPO), France (Paris PPO J3 + JUNALCO + BL2C + OFAC), Netherlands (NPP + Politie), Denmark (Prosecution + Police), UK (NCA), US (DOJ + FBI + DCIS), Australia (AFP), Canada (RCMP + Sûreté du Québec); Greece named for the arrest action."
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-16
 ---
 ## Summary
 
