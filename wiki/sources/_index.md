@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (823)
+# Sources (824)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -305,6 +305,7 @@ updated: 2026-04-14
 | [[2025-02-11-europol-phobos-8base-ransomware-arrests]] | press-release | Europol | ? | high | ? |
 | [[2026-04-18_justice-gov_phobos-ransomware-affiliates-arrested-coordinated-international-disruption]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
 | [[2025-02-07_riskcompliance-biz_criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-busted]] | news | Risk & Compliance Platform Europe | ? | medium | ? |
+| [[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]] | press-release | Policía Nacional (España) - Sala de prensa | 1 | high | ? |
 | [[2018-10-09_justice-gov_leader-international-cyber-fraud-ring-romeo-chita-racketeering]] | press-release | US DOJ (Office of Public Affairs); USAO Northern District of Ohio | ? | high | ? |
 | [[2025-02-01_interpol-int_annual-report-2024-operation-orion-international]] | report | INTERPOL | ? | high | ? |
 | [[2025-01-31_infosecurity-magazine_operation-talent-cracked-nulled-dismantled]] | news | Infosecurity Magazine | ? | medium | ? |

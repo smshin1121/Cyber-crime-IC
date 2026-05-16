@@ -67,8 +67,9 @@ operations_participated:
   - "[[flubot-takedown-2022]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
+  - "[[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]]"
 region: western-europe
-source_count: 16
+source_count: 17
 sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]]"
@@ -86,6 +87,7 @@ sources:
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol]]"
+  - "[[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]]"
 title: "Kingdom of Spain"
 treaty_memberships:
   - date: 2010-06-03
@@ -97,7 +99,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 

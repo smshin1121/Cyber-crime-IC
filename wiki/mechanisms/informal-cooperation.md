@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-05-09
-source_count: 12
+source_count: 13
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -19,6 +19,7 @@ sources:
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
+  - "[[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -54,6 +55,7 @@ operations_using:
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
   - "[[operation-cyber-guardian-2026]]"
   - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
+  - "[[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]]"
 ---
 ## Summary
 

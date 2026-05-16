@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (269 canonical / 27 absorbed / 296 records)
+# Operations (270 canonical / 27 absorbed / 297 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (269)
+## Canonical Operations (270)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -183,6 +183,7 @@ updated: 2026-04-14
 | [[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]] | CYB-2025-117 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]] | CYB-2025-122 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]] | CYB-2025-130 | 3 | completed | — | 1 | — | 1 |
+| [[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]] | CYB-2025-143 | 3 | completed | — | 1 | 3.20 | 1 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-2025-190 | 3 | completed | umbrella | 5 | 4.30 | 1 |
 | [[operation-endgame-phase3]] | CYB-2025-201 | 3 | completed | phase | 1 | 4.00 | 1 |
 | [[sg-th-altdos-desorden-ghostr-takedown-2025]] | CYB-2025-201 | 3 | completed | — | 1 | 4.00 | 1 |

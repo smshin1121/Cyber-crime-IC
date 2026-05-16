@@ -1,5 +1,20 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 143, single-agent, L24-rejected-and-retry] | Spain-US Calpe Hacker Arrest — 40+ Cyberattacks on Strategic Institutions (Policía Nacional, 5 Feb 2025)
+- Source: `raw/press-releases/2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos.md` (Policía Nacional España; es).
+- Pages created: `wiki/sources/2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos.md`, `wiki/operations/spain-hsi-europol-calpe-hacker-40-cyberattacks-2025.md` (provisional, source_count=1).
+- Pages updated: 2 countries (spain, united-states); 3 organizations (spain-national-police, spain-guardia-civil, europol-ec3); 2 crime-types (hacking-ic, money-laundering-ic); 2 mechanisms (informal-cooperation, search-seizure).
+- **L24 REJECT-RETRY incident**: first agent attempt picked OPP "Project Atlas" with source_url on `orilliamatters.com` (Village Media private community-news network). Rejected per L24 strict: private wire reproduction ≠ tier-1 (state news wires only count). 3 files deleted; re-ran with stricter tier-1 domain class rule (national/sub-national police/prosecutor own domain, intergovernmental org own domain, .gov hosting, state wire reproducing official). Retry picked Policía Nacional own-domain release.
+- Key findings:
+  - **L24 strict satisfied**: Policía Nacional release names "En el ámbito internacional se ha contado con la colaboración de EUROPOL y la Homeland Security Investigations (HSI) de los EE.UU." — 2 countries' LE explicitly: Spain (Policía Nacional + Guardia Civil; CCN-CNI domestic) + United States (HSI/DHS); Europol as IGO support partner.
+  - **Tier-1 publisher**: `policia.es` Spanish National Police institutional own domain — national LE agency. 2nd policia.es op after iter 131 (acceptable: genuinely fresh op, agent rejected 14 dupe candidates).
+  - **L23 compliance**: `lead_agency: "[[spain-national-police]]"`, `coordinating_body: ""` (HSI/CCN-CNI kept in body prose only — no wiki page); `participating_agencies` only Glob-verified wikilinks (spain-national-police, spain-guardia-civil, europol-ec3).
+  - Op profile: solo hacker arrested in Calpe (Alicante) on 4 Feb 2025, attributed to 40+ cyberattacks against strategic Spanish institutions (NATO, US Army, MoD, Guardia Civil, UN agencies, etc.) and exfiltrating personal data sold/leaked on darknet forums. HSI assisted attribution/identification.
+  - `case_id: CYB-2025-143`.
+  - 3 source_count_mismatch HIGH resolved post-backlink via `.tmp_refs.py` (2 crime-types + europol-ec3); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0 after fix.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+  - **LESSONS impact**: this rejection event reinforces L24 strict — "Village Media-class private wires reproducing OPP/RCMP releases do NOT qualify as tier-1 even if release headline is verbatim." Should be added as L25 if pattern recurs. Marker: if no official own-domain or state-wire URL exists, REJECT the operation entirely rather than accept private-wire substitute.
+
 ## [2026-05-16] ingest [iter 142, single-agent, L23+L24 strict] | Italy-Portugal Operazione "Trust" — Rip-Deal Crypto Fraud & Laundering Takedown (Polizia di Stato, 31 May 2024)
 - Source: `raw/press-releases/2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta.md` (Polizia di Stato; it).
 - Pages created: `wiki/sources/2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta.md`, `wiki/operations/italy-portugal-operation-trust-rip-deal-crypto-fraud-2024.md` (provisional, source_count=1).
