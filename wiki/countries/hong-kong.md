@@ -9,16 +9,18 @@ operations_participated:
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[operation-cyber-guardian-2026]]"
+  - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
 region: east-asia
-source_count: 2
+source_count: 3
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
+  - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
 title: "Hong Kong Special Administrative Region"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

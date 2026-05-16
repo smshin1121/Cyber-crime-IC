@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (267 canonical / 27 absorbed / 294 records)
+# Operations (268 canonical / 27 absorbed / 295 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (267)
+## Canonical Operations (268)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -135,6 +135,7 @@ updated: 2026-04-14
 | [[operation-heart-blocker]] | CYB-2024-248 | 3 | completed | umbrella | 5 | — | — |
 | [[nemesis-market-takedown]] | CYB-2024-357 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-kraken-ghost-platform]] | CYB-2024-542 | 3 | completed | umbrella | 7 | — | — |
+| [[sg-hk-my-android-malware-distanthill-takedown-2024]] | CYB-2024-617 | 3 | completed | — | 1 | 4.20 | 1 |
 | [[operation-toy-soldier-gru-29155-estonia-2024]] | CYB-2024-665 | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[operation-endgame]] | CYB-2024-799 | 3 | ongoing | umbrella | 9 | — | — |
 | [[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]] | CYB-2024-859 | 3 | completed | — | 1 | 4.50 | 1 |

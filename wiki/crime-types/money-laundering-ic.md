@@ -77,6 +77,7 @@ notable_operations:
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
+  - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -91,7 +92,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 64
+source_count: 65
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -157,8 +158,9 @@ sources:
   - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
   - "[[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]]"
   - "[[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown]]"
+  - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
 created: 2026-04-14
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -278,3 +280,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [62] | [[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia\|Polizia di Stato — Operazione Cagliostro/Voltaiko: IT-FR Eurojust-coordinated crypto-wallet freezing in photovoltaic Ponzi (Apr 2026); USD 7.5M crypto + EUR 2M earlier seizures, 6000 IT victims]] | Polizia di Stato — Servizio Polizia Postale | 2026-04-29 | https://www.poliziadistato.it/articolo/operazione-cagliostro-truffa-online-fotovoltaica |
 | [63] | [[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie\|SPAK Albania — universaltrade.io crypto investment-fraud takedown via SPAK + Pau Gendarmerie joint investigation (Apr 2026); Tirana 1 call centre + 4 residences searched, 1 detention, 4 cold-wallets seized; EUR 845K + EUR 1.1M FR victim losses]] | SPAK (Special Structure Against Corruption and Organised Crime, Albania) | 2026-04-23 | https://www.spak.gov.al/al/njoftim-per-shtyp/njoftim-per-mediat-spak-ne-bashkepunim-me-xhandarmerine-e-pau-france-zhvilluan-keto-dite-kontrolle-ne-tirane-ne-kuader-te-nje-hetimi-te-perbashket-per-mashtrim-kompjuterik/ |
 | [64] | [[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown\|AFP — AFP-PAOCC-NBI Manila scam call-centre takedown (Operation Firestorm phase 1, Nov 2024); 250+ workers (foreign nationals incl. PRC/VN/ID); first AU-PH scam compound joint takedown]] | Australian Federal Police (AFP) | 2024-11-26 | https://www.afp.gov.au/news-centre/media-release/afp-partners-philippine-authorities-combating-scam-call-centres |
+| [65] | [[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction\|SPF — Two men extradited from Malaysia, charged in Singapore; multi-jurisdictional Android-malware takedown (Op DISTANTHILL)]] | Singapore Police Force | 2024-06-14 | https://www.police.gov.sg/media-room/news/20240614_two_men_extradited_from_malaysia_to_face_charges_in_sg_for_their_suspected_involvement |

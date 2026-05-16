@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (821)
+# Sources (822)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -431,6 +431,7 @@ updated: 2026-04-14
 | [[2024-06-28-uk-nca-operation-morpheus-cobalt-strike]] | press-release | UK National Crime Agency | ? | high | ? |
 | [[2024-07-01_police-gov-sg_mid-year-scams-and-cybercrime-brief-2024-operation-first-light]] | government-report | Singapore Police Force | ? | high | ? |
 | [[2024-06-18-interpol-operation-first-light-2024]] | press-release | INTERPOL | ? | high | ? |
+| [[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]] | press-release | Singapore Police Force (SPF) — Public Affairs Department | ? | high | ? |
 | [[2024-06-11_lusakatimes-com_22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes]] | news | Lusaka Times | ? | medium | ? |
 | [[2024-06-08_zambiamonitor-com_22-chinese-nationals-one-cameroonian-jailed-7-years-with-hard-labour-for-cybercrime]] | news | Zambia Monitor | ? | medium | ? |
 | [[2024-06-07_fbi-gov_the-911-s5-cyber-threat]] | podcast | Federal Bureau of Investigation | 2 | high | ? |

@@ -17,18 +17,20 @@ operations_participated:
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
   - "[[operation-cyber-guardian-2026]]"
+  - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
 region: southeast-asia
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
+  - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
 title: "Republic of Singapore"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

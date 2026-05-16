@@ -1,43 +1,46 @@
 ---
 type: organization
-title: Cyber Security Agency of Singapore
-official_name: Cyber Security Agency of Singapore (CSA)
-official_name_ko: 싱가포르 사이버보안청
+title: "Cyber Security Agency of Singapore"
+official_name: "Cyber Security Agency of Singapore (CSA)"
+official_name_ko: "싱가포르 사이버보안청"
 aliases:
-  - CSA Singapore
+  - "CSA Singapore"
   - CSA
-country: '[[singapore]]'
-jurisdiction: [[singapore]]
+country: "[[singapore]]"
+jurisdiction:
+
 org_type: national-agency
-parent_org: '[[singapore-mddi]]'
+parent_org: "[[singapore-mddi]]"
 headquarters: Singapore
-established: '2015-04-01'
+established: 2015-04-01
 status: active
-last_verified: '2026-04-10'
-mandate: Singapore's lead national cybersecurity agency — protecting Singapore's
-  cyberspace, operating SingCERT, supervising Critical Information Infrastructure (CII),
-  and coordinating national cyber incident response. Administratively under the Prime
-  Minister's Office until 2024, then under the Ministry of Digital Development and
-  Information (MDDI).
+last_verified: 2026-04-10
+mandate: "Singapore's lead national cybersecurity agency — protecting Singapore's"
 key_roles:
-  - National cybersecurity coordination and strategy
-  - Operate SingCERT (Singapore Computer Emergency Response Team)
-  - Administer the Cybersecurity Act 2018 and CII regulatory framework
-  - License cybersecurity service providers
-  - Coordinate national cyber incident response (major APT incidents)
-  - International cybersecurity cooperation and capacity building
+  - "National cybersecurity coordination and strategy"
+  - "Operate SingCERT (Singapore Computer Emergency Response Team)"
+  - "Administer the Cybersecurity Act 2018 and CII regulatory framework"
+  - "License cybersecurity service providers"
+  - "Coordinate national cyber incident response (major APT incidents)"
+  - "International cybersecurity cooperation and capacity building"
 cooperation_partners:
-  - '[[singapore-police]]'
-  - '[[interpol-igci]]'
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
-contact_point_for: []
-source_count: 4
-sources: []
+  - "[[singapore-police]]"
+  - "[[interpol-igci]]"
+frameworks_administered:
+
+mechanisms_operated:
+
+operations_participated:
+  - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
+notable_cases:
+
+contact_point_for:
+
+source_count: 5
+sources:
+  - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
 created: 2026-04-10
-updated: "2026-04-29"
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -108,3 +111,4 @@ CSA's relevance to cybercrime **international cooperation** (the focus of this w
 | [2] | Cyber Security Agency | Wikipedia | n.d. | https://en.wikipedia.org/wiki/Cyber_Security_Agency |
 | [3] | CSA — Agencies under MDDI | Singapore Ministry of Digital Development and Information | n.d. | https://www.mddi.gov.sg/ |
 | [4] | Singapore Cyber Security Agency chief: Cyber stability a necessity, not a luxury | Computer Weekly | 2025 | https://www.computerweekly.com/news/366641228/Singapore-Cyber-Security-Agency-chief-Cyber-stability-a-necessity-not-a-luxury |
+| [5] | [[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction\|SPF — Two men extradited from Malaysia, charged in Singapore; multi-jurisdictional Android-malware takedown (Op DISTANTHILL)]] | Singapore Police Force | 2024-06-14 | https://www.police.gov.sg/media-room/news/20240614_two_men_extradited_from_malaysia_to_face_charges_in_sg_for_their_suspected_involvement |

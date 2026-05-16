@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 141, single-agent, L23+L24 strict] | Singapore-Hong Kong-Malaysia Android Malware-Enabled Scam Takedown — Op DISTANTHILL (SPF 14 June 2024)
+- Source: `raw/press-releases/2024-06-14_spf-singapore_two-men-extradited-from-malaysia-malware-scams-multi-jurisdiction.md` (Singapore Police Force; en).
+- Pages created: `wiki/sources/2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction.md`, `wiki/operations/sg-hk-my-android-malware-distanthill-takedown-2024.md` (provisional, source_count=1).
+- Pages updated: 4 countries (singapore, hong-kong, malaysia, taiwan); 4 organizations (singapore-police, hong-kong-police, royal-malaysia-police, singapore-csa); 4 crime-types (banking-trojan-ic, malware-ic, online-fraud-ic, money-laundering-ic); 4 mechanisms (extradition, informal-cooperation, search-seizure, public-private-cooperation).
+- Key findings:
+  - **L24 strict satisfied**: tier-1 SPF release (`police.gov.sg`) names cooperating LE in 3 jurisdictions verbatim — "A joint, multi-jurisdiction investigation team led by the SPF and including the Hong Kong Police Force (HKPF) and the Royal Malaysia Police (RMP), was thus formed in November 2023." Plus Taiwan Police info-sharing partner explicitly acknowledged.
+  - **Tier-1 publisher**: Singapore Police Force national press release — top-tier per L24. First inducted SPF-led op centered on Android-malware scam infrastructure (prior SPF entry was Phnom Penh OCG repatriation arrest, iter 133, single-suspect).
+  - **L23 compliance**: `lead_agency: "[[singapore-police]]"`, `coordinating_body: "[[singapore-police]]"`; `participating_agencies` uses only Glob-verified existing wikilinks (singapore-police, hong-kong-police, royal-malaysia-police, singapore-csa). Taiwan Police kept in body prose only — no Taiwan LE wiki org page exists, so no plain-text frontmatter ref.
+  - Results: 20 arrests across 3 jurisdictions (2 principals + 14 mules + 4 fraudulent-customer-service-centre raid), 52 malware-controlling servers seized in Hong Kong, ~US$1.33M crypto+real-estate seized in Kaohsiung, S$34.1M Singapore victim losses (2023 baseline), 1,899 Singapore victims notified.
+  - `case_id: CYB-2024-617` (next available).
+  - 7 source_count_mismatch HIGH resolved post-backlink via `.tmp_refs.py` (crime-types ×4 + organizations ×3); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0 after fix.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated, sources index 821→822 rows.
+
 ## [2026-05-10] ingest [iter 140, single-agent, milestone, L23+L24 strict] | Germany-Cyprus-Bulgaria-Sweden Online Investment Fraud Cyprus Call-Centre Crackdown (Eurojust 22 January 2024)
 - Sources: 1 raw + 1 source page + 1 operation page (3 new pages).
 - Pages created: `raw/press-releases/2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres.md`, `wiki/sources/2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres.md`, `wiki/operations/de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024.md`.

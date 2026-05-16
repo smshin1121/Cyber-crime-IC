@@ -3,9 +3,9 @@ type: mechanism
 title: "Informal Police Cooperation"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-05-09
-source_count: 11
+source_count: 12
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -18,6 +18,7 @@ sources:
   - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
+  - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -52,6 +53,7 @@ operations_using:
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
   - "[[operation-cyber-guardian-2026]]"
+  - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
 ---
 ## Summary
 

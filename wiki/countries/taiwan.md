@@ -33,15 +33,17 @@ operations_participated:
   - "[[operation-avalanche]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[us-taiwan-elder-romance-fraud-mlaa-takedown-2025]]"
+  - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 2
+source_count: 3
 sources:
   - "[[2024-06-28_aljazeera-com_indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali]]"
   - "[[2024-06-29_taipeitimes-com_103-taiwanese-detained-in-bali-cybercrime-raid]]"
+  - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
 created: 2026-04-17
-updated: 2026-05-09
+updated: 2026-05-16
 status: corpus-linked
 ---
 ## Summary

@@ -3,8 +3,8 @@ type: mechanism
 title: "Search and Seizure"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-10
-source_count: 15
+updated: 2026-05-16
+source_count: 16
 sources:
   - "[[2021-10-09_shorenewsnetwork_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy]]"
   - "[[2026-01-13_komonews_4-people-federal-charges-drug-trafficking-conspiracy-marysville]]"
@@ -21,6 +21,7 @@ sources:
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
+  - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
@@ -40,6 +41,7 @@ operations_using:
   - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
+  - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
 ---
 ## Summary
 

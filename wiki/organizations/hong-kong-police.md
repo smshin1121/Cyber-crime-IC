@@ -33,15 +33,17 @@ operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
+  - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
 org_type: national-unit
 parent_org: "[[hong-kong-police]]"
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
+  - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
 status: active
 title: "Hong Kong Police Force — Cyber Security and Technology Crime Bureau"
 type: organization
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -134,3 +136,4 @@ CSTCB's cooperation capacity is *likely* strong on routine fraud and cybercrime 
 | [4] | LCQ7: Manpower of the Police for tackling technology crimes | HKSAR Government | 2024-07-17 | https://www.info.gov.hk/gia/general/202407/17/P2024071700218.htm |
 | [5] | Digital Policy Office introduces initiatives to promote cybersecurity in 2025 | HKSAR Government | 2025-03-27 | https://www.info.gov.hk/gia/general/202503/27/P2025032700270.htm |
 | [6] | [[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown\|SG-HK-MY tri-lateral GSM gateway scam syndicate takedown — 11 arrests, 226 GSM gateways seized; FRONTIER+ umbrella]] | Singapore Police Force (Public Affairs Dept) | 2025-06-17 | https://www.police.gov.sg/media-hub/news/2025/06/20250617_11_persons_arrested_in_a_joint_enforcement_operation_against_a_transnational_scam_syndicate |
+| [7] | [[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction\|SPF — Two men extradited from Malaysia, charged in Singapore; multi-jurisdictional Android-malware takedown (Op DISTANTHILL)]] | Singapore Police Force | 2024-06-14 | https://www.police.gov.sg/media-room/news/20240614_two_men_extradited_from_malaysia_to_face_charges_in_sg_for_their_suspected_involvement |

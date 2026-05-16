@@ -25,6 +25,7 @@ notable_operations:
   - "[[zeus-spyeye-jit-takedown]]"
   - "[[banking-trojan-fraud-sentencing-2017]]"
   - "[[flubot-takedown-2022]]"
+  - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
 notable_cases:
 
 criminalization_status:
@@ -33,15 +34,16 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 5
+source_count: 6
 sources:
   - "[[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]]"
   - "[[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]]"
   - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
   - "[[2019-12-05_thehackernews-com_fbi-puts-5-million-bounty-on-russian-hackers-behind-dridex-banking-malware]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
 created: 2026-04-17
-updated: 2026-05-10
+updated: 2026-05-16
 status: active
 ---
 ## Summary
@@ -73,3 +75,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [3] | [[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware|Europol Arrests Gang Behind Zeus and SpyEye Banking Malware]] | The Hacker News | 2015-06-27 | https://thehackernews.com/2015/06/zeus-spyeye-banking-malware.html?m=1 |
 | [4] | [[2019-12-05_thehackernews-com_fbi-puts-5-million-bounty-on-russian-hackers-behind-dridex-banking-malware|FBI Puts $5 Million Bounty On Russian Hackers Behind Dridex Banking Malware]] | The Hacker News | 2019-12-05 | https://thehackernews.com/2019/12/dridex-russian-hackers-wanted-by-fbi.html |
 | [5] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
+| [6] | [[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction\|SPF — Two men extradited from Malaysia, charged in Singapore; multi-jurisdictional Android-malware takedown (Op DISTANTHILL)]] | Singapore Police Force | 2024-06-14 | https://www.police.gov.sg/media-room/news/20240614_two_men_extradited_from_malaysia_to_face_charges_in_sg_for_their_suspected_involvement |
