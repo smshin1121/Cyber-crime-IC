@@ -69,36 +69,39 @@ results:
     - "Targeted three named operating entities: 'Ko Thet Company' (a.k.a. 'Pixy'), 'Sanduo Group', and 'Giant Company'"
     - "Investigation opened in 2025 by FBI San Diego under the Homeland Security Task Force"
 edges:
-  - source_actor: "fbi"
-    target_actor: "dubai-police"
+  - source_actor: fbi
+    target_actor: dubai-police
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "fbi"
-    target_actor: "china-mps"
+  - source_actor: fbi
+    target_actor: china-mps
     cooperation_type: info_sharing
     legal_basis: informal
     direction: undirected
-  - source_actor: "fbi"
-    target_actor: "thailand-royal-police"
+  - source_actor: fbi
+    target_actor: thailand-royal-police
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
-  - source_actor: "dubai-police"
-    target_actor: "thailand-royal-police"
+  - source_actor: dubai-police
+    target_actor: thailand-royal-police
     cooperation_type: joint_investigation
     legal_basis: informal
     direction: undirected
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  - "servers_seized"
-  - "domains_seized"
-  - "cryptocurrency_seized"
-  - "victims_notified"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - servers_seized
+  - domains_seized
+  - cryptocurrency_seized
+  - victims_notified
+related_cases:
+  []
+related_operations:
+  - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "The DOJ release explicitly characterizes the cooperation between FBI, Dubai Police, and Chinese Ministry of Public Security as 'unprecedented', signaling a notable widening of the cooperation footprint for US-led scam-compound investigations beyond traditional Five-Eyes / EU partners."
 source_count: 1
@@ -106,7 +109,7 @@ sources:
   - "[[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests]]"
 summary: "A 2026 multinational takedown spearheaded by the Dubai Police, under the UAE Ministry of Interior, with cooperation from the US FBI, Chinese Ministry of Public Security, and Royal Thai Police. The action arrested at least 276 individuals across at least nine scam centers tied to cryptocurrency 'pig-butchering' fraud against US victims, and the US Southern District of California unsealed federal wire fraud and money laundering charges against six defendants on 2026-04-29."
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-16
 ---
 ## Summary
 

@@ -229,8 +229,9 @@ operations_participated:
   - "[[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]]"
   - "[[usss-canada-operation-avalanche-ethereum-approval-phishing-2025]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
+  - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
 region: north-america
-source_count: 21
+source_count: 22
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -253,6 +254,7 @@ sources:
   - "[[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]]"
   - "[[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
+  - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

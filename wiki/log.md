@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 148, single-agent, L23+L24 strict] | FBI San Diego-RTP Tai Chang Domain Seizure — Scam Center Strike Force (FBI, 2 Dec 2025)
+- Source: `raw/press-releases/2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure.md` (fbi.gov own-domain field-office release; en).
+- Pages created: `wiki/sources/2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure.md`, `wiki/operations/fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025.md` (provisional, source_count=1).
+- Pages updated: 2 countries (united-states, thailand); 4 organizations (fbi, us-doj, us-secret-service, thailand-royal-police); 2 crime-types (online-fraud-ic, money-laundering-ic); 2 related ops (coordinated-cryptocurrency-scam-center-takedown-2026, treasury-sanctions-kok-an-scam-center-network-2026).
+- Key findings:
+  - **L24 strict satisfied**: FBI San Diego release names "Additionally, the Scam Center Strike Force has deployed FBI agents to Bangkok, who are working alongside the Royal Thai Police in their War Room Task Force, to investigate and combat scam compounds, including Tai Chang and other compounds in Burma." — 2 countries' LE explicitly: US (FBI San Diego + DOJ + USSS) + Thailand (Royal Thai Police War Room Task Force).
+  - **Tier-1 publisher**: `fbi.gov` San Diego field-office own-domain. 1st FBI-as-lead op in wiki (prior FBI appearances were participating agency).
+  - **L23 compliance**: `lead_agency: "[[fbi]]"`, `coordinating_body: "[[us-doj]]"`; `participating_agencies` only Glob-verified wikilinks (fbi, us-doj, us-secret-service, thailand-royal-police). Burma/China excluded from participating_countries (host/origin states per L24).
+  - Op profile: tickmilleas.com domain seized (3rd Tai Chang-associated CIF domain seized by Strike Force since Nov 2025); ~2,000 Tai Chang-linked Meta accounts removed; multiple mobile apps removed from Google/Apple. Tied to 2025-11-12 OFAC SDN designations against DKBA + Trans Asia International Holding Group Thailand Company Limited.
+  - `case_id: CYB-2025-998`.
+  - 7 source_count_mismatch HIGH + 2 LOW broken_wikilink (recurring bracketed `operation-cronos` and bracketed `bare-slug` placeholders both quoted inside iter 147 log text) resolved post-backlink by rewording without brackets; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 5 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 147, single-agent, L23+L24 strict] | Czech Police-FBI-Europol Arrest of Top-3 Worldwide Darknet CSAM Distributor (Policie ČR, 8 Oct 2024)
 - Source: `raw/press-releases/2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol.md` (Policie České republiky own-domain `policie.gov.cz`; cs).
 - Pages created: `wiki/sources/2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol.md`, `wiki/operations/czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024.md` (provisional, source_count=1).
@@ -12,7 +25,7 @@
   - `case_id: CYB-2024-461`.
   - 4 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed operation-cronos in iter 146 log text — pattern recurring since iter 144) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
   - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
-  - **LESSONS pattern note**: 3 consecutive iters (144→145→146→147) hit `[[operation-cronos]]` broken_wikilink — the lint scans wikilink patterns regardless of surrounding markdown (backticks/code-fences). Solution: never write `[[<bare-slug>]]` in log entries even inside backticks. Use prose-only references (e.g., `operation-cronos-phase1`, `operation-cronos`). Promotable to L25 at iter 150 milestone sweep.
+  - **LESSONS pattern note**: 3 consecutive iters (144→145→146→147) hit a broken_wikilink to the legacy `operation-cronos` slug — the lint scans wikilink patterns regardless of surrounding markdown (backticks / code-fences). Solution: never write bracketed wikilinks to non-existent slugs in log entries even inside backticks. Use prose-only references (operation-cronos-phase1, etc.). Promotable to L25 at iter 150 milestone sweep.
 
 ## [2026-05-16] ingest [iter 146, single-agent, L23+L24 strict] | Met Police UK-China Bitcoin Money-Laundering Conviction (Zhimin Qian / Seng Hok Ling, Met Police, 29 Sep 2025)
 - Source: `raw/press-releases/2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure.md` (news.met.police.uk own-domain; en).

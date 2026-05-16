@@ -42,15 +42,17 @@ operations_participated:
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
+  - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
 org_type: national-agency
 parent_org: "[[thailand-royal-police]]"
-source_count: 9
+source_count: 10
 sources:
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
+  - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
 status: active
 title: "Royal Thai Police — Cyber Crime Investigation Bureau"
 type: organization
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -147,3 +149,4 @@ CCIB's cooperation capacity is *likely* high and growing rapidly, driven by the 
 | [7] | Police to tackle rising cybercrime — 2025 priority | Thai Anti-TIP Project (Royal Thai Embassy, Washington DC) | 2025-01-02 | https://www.thaianti-humantraffickingaction.org/Home/2025/01/02/police-o-tackle-rising-cybercrime/ |
 | [8] | Cyber Police Raid Pattaya Condo, Arrest Two Chinese Nationals | The Pattaya News | 2026-01-31 | https://thepattayanews.com/2026/01/31/cyber-police-raid-pattaya-condo-arrest-two-chinese-nationals-suspected-of-running-online-scam-operation/ |
 | [9] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
+| [10] | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure\|FBI San Diego — Scam Center Strike Force tickmilleas.com domain seizure (Tai Chang scam compound Burma); US-Thailand cooperation]] | FBI San Diego Field Office | 2025-12-02 | https://www.fbi.gov/contact-us/field-offices/sandiego/news/fbi-san-diego-investigation-leads-to-scam-center-strike-force-seizure-of-fake-cryptocurrency-investment-domain-used-by-tai-chang-scam-compound-in-burma |

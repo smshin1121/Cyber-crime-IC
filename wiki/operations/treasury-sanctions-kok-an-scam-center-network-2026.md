@@ -99,11 +99,13 @@ missing_fields:
   - "specific Cambodian government cooperation status — release does not describe Cambodia-side LE cooperation"
   - "specific Burma government cooperation status — release does not describe Burma-side LE cooperation"
   - "specific Laos focus — release names Laos as a Strike Force focus area but does not detail Laos-side designations or actions today"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[us-uk-prince-group-tco-huione-group-sanctions-2025]]"
   - "[[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
+  - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
 lessons_learned:
@@ -118,9 +120,8 @@ source_count: 1
 sources:
   - "[[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 ---
-
 ## Summary
 
 On **23 April 2026**, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) issued **29 sanctions designations** targeting **Cambodian Senator Kok An and 28 individuals/entities in his scam-compound network** under E.O. 13694 as amended. Same-day, the **Scam Center Strike Force** (USAO-DC + DOJ Criminal Division + FBI + USSS) announced parallel actions: charges against **2 individuals** running a Burma scam compound and attempting to start one in Cambodia, the seizure of **a social media messaging app** used to recruit human-trafficking victims, and the seizure of **503 fraudulent web domains** used for cryptocurrency investment fraud. The action is undertaken in furtherance of **E.O. 14390 of 6 March 2026 ('Combating Cybercrime, Fraud, and Predatory Schemes Against American Citizens')** — a new presidential authority specifically directed at foreign-backed cybercrime / cyber-enabled fraud / extortion targeting Americans.

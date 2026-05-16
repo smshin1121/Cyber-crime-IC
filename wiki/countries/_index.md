@@ -109,13 +109,13 @@ total: 61
 | 🇸🇻 | [[el-salvador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇿 | [[eswatini]] | not-assessed | — | unknown | unknown | 0 |
 | 🇹🇬 | [[togo]] | civil-law | non-party | low | unknown | 3 |
-| 🇹🇭 | [[thailand]] | civil-law | non-party | medium | unknown | 5 |
+| 🇹🇭 | [[thailand]] | civil-law | non-party | medium | unknown | 6 |
 | 🇹🇱 | [[timor-leste]] | not-assessed | — | unknown | unknown | 0 |
 | 🇹🇷 | [[turkey]] | not-assessed | — | unknown | unknown | 1 |
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 8 |
-| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 21 |
+| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 22 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 1 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |
