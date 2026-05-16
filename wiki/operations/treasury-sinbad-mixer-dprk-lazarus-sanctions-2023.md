@@ -75,6 +75,7 @@ related_operations:
   - "[[treasury-matveev-russian-ransomware-sanctions-2023]]"
   - "[[de-ch-crypto-mixer-takedown-2025]]"
   - "[[operation-final-exchange-bka-russian-crypto-exchanges-2024]]"
+  - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
   - "[[extraterritorial-jurisdiction]]"
@@ -87,7 +88,7 @@ source_count: 1
 sources:
   - "[[2023-11-29_treasury_sinbad-mixer-dprk-lazarus-virtual-currency-laundering-jy1933]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 > [!info] Provisional page
 > This operation page is published from a single tier-1 source (OFAC press release JY-1933). Per the project's preferred publication threshold (`source_count >= 5`), it is treated as provisional pending corroborating sources (Chainalysis/TRM Labs blockchain analysis, Justice Department companion actions, partner-state designations, follow-on Atomic Wallet / Axie Infinity / Horizon Bridge prosecution documents).

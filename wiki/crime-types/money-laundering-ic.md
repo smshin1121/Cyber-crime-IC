@@ -92,6 +92,7 @@ notable_operations:
   - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
   - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
   - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
+  - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -106,7 +107,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 79
+source_count: 80
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -187,8 +188,9 @@ sources:
   - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
   - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
   - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
+  - "[[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]]"
 created: 2026-04-14
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -323,3 +325,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [77] | [[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud\|LKA Baden-Württemberg + CCZ Karlsruhe — DE-SE online-trading fraud EAW extradition (61yo Swedish national from Helsingborg)]] | LKA Baden-Württemberg + CCZ Karlsruhe (via presseportal.de) | 2026-03-26 | https://www.presseportal.de/blaulicht/pm/110980/6243831 |
 | [78] | [[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer\|USAO-WDTX — Hambardzum Minasyan (Armenian co-developer of RedLine infostealer) extradition from NL+BE to US WDTX (post Op Magnus)]] | U.S. Attorney's Office, Western District of Texas (DOJ) | 2026-03-25 | https://www.justice.gov/usao-wdtx/pr/armenian-man-extradited-us-faces-charges-role-infostealing-malware-scheme |
 | [79] | [[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke\|GenStA Koblenz/LZC — Operation Chargeback: 10-jurisdiction payment-processor card-fraud + ML takedown; 18 arrests, ~EUR 35M seized, 4.3M cardholders affected]] | Generalstaatsanwaltschaft Koblenz (Landeszentralstelle Cybercrime) | 2025-11-05 | https://gstko.justiz.rlp.de/presse-aktuelles/detail-1/operation-chargeback-18-festnahmen-bei-international-koordiniertem-vorgehen-gegen-mutmassliche-betrugs-und-geldwaeschenetzwerke-verdacht-des-systematischen-missbrauchs-von-zahlungsdienstleistern |
+| [80] | [[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution\|NPA Japan + FBI + DC3 — Joint attribution of DMM Bitcoin USD 308M / 4,502.9 BTC theft to TraderTraitor (DPRK-Lazarus sub-cluster)]] | NPA Japan Cyber Affairs Bureau | 2024-12-24 | https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html |

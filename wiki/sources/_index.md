@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (853)
+# Sources (854)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -349,6 +349,7 @@ updated: 2026-04-14
 | [[2025-01-10_justice-gov_operators-cryptocurrency-mixers-blender-sinbad-charged-money-laundering]] | press-release | U.S. Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2025-01-03_treasury_sanctions-integrity-technology-group-flax-typhoon]] | press-release | U.S. Department of the Treasury — Office of Foreign Assets Control (OFAC) | ? | high | ? |
 | [[2025-01-01_en-wikipedia-org_silk-road-marketplace]] | press-release | Wikipedia | ? | medium | ? |
+| [[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]] | press-release | National Police Agency of Japan (警察庁) — Cyber Affairs Bureau | ? | high | ? |
 | [[2024-12-19_politie-nl_27-jarige-man-aangehouden-voor-phishing]] | press-release | Dutch National Police | 1 | high | ? |
 | [[2024-12-18_doj-wdtx_ukrainian-national-sentenced-raccoon-infostealer]] | press-release | US Attorney's Office, Western District of Texas (USAO-WDTX) | ? | high | ? |
 | [[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]] | news | Bitdefender | 3 | medium | ? |

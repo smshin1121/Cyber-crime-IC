@@ -85,6 +85,7 @@ related_operations:
   - "[[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]]"
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
+  - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
 challenges_encountered:
 
 lessons_learned:
@@ -95,7 +96,7 @@ source_count: 1
 sources:
   - "[[2025-08-27_treasury_dprk-it-worker-fraud-network-andreyev-chinyong]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 ## Summary
 

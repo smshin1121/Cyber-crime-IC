@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-17] ingest [iter 174, single-agent, L23+L24+L25 strict] | TraderTraitor DMM Bitcoin USD 308M Theft Joint Attribution (NPA Japan + FBI + DC3, 24 Dec 2024)
+- Source: `raw/press-releases/2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution.md` (npa.go.jp Cyber Affairs Bureau own-domain; ja/en).
+- Pages created: `wiki/sources/2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution.md`, `wiki/operations/tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024.md` (provisional, source_count=1).
+- Pages updated: 2 countries (japan, united-states); 2 organizations (japan-npa, fbi); 2 crime-types (hacking-ic, money-laundering-ic); 4 related ops (treasury-sinbad-mixer-dprk-lazarus-sanctions-2023, treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025, us-rok-japan-joint-statement-dprk-it-workers-2025-08, us-doj-coordinated-nationwide-actions-dprk-it-workers-2025).
+- Key findings:
+  - **L24 strict satisfied**: NPA Japan release names "The Federal Bureau of Investigation, Department of Defense Cyber Crime Center, and National Police Agency of Japan alerted the public to the theft of cryptocurrency worth $308 million U.S. dollars from the Japan-based cryptocurrency company DMM by North Korean cyber actors in May 2024." — 3 distinct cooperating LE/forensic agencies in 2 countries: NPA Japan + FBI + DC3 (US DoD Cyber Crime Center). Joint advisory simultaneously published on npa.go.jp and fbi.gov own-domains.
+  - **Tier-1 publisher**: `npa.go.jp` Cyber Affairs Bureau own-domain. 2nd npa.go.jp op (1st was iter 139 Operation Cyber Guardian 2026); justified as fresh op (DPRK-attribution joint advisory) after agent rejected 22 dup candidates.
+  - **L23 compliance**: `lead_agency: "[[japan-npa]]"`, `coordinating_body: ""`; `participating_agencies` Glob-verified wikilinks only (japan-npa, fbi). DC3 kept in body prose only (no wiki org page).
+  - Op profile: May 2024 DMM Bitcoin theft USD 308M / 4,502.9 BTC; Dec 2024 joint attribution to TraderTraitor / Jade Sleet / UNC4899 / Slow Pisces (DPRK-Lazarus sub-cluster); supply-chain attack via Ginco compromised wallet. North Korea excluded from participating_countries (adversary state).
+  - `case_id: CYB-2024-997`.
+  - 4 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-17] ingest [iter 173, single-agent, L23+L24+L25 strict] | NZ-Denmark Operation Cavern Cyberhacking Arrest (NZ Police, 16 Sep 2015)
 - Source: `raw/press-releases/2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand.md` (police.govt.nz New Zealand Police own-domain; en).
 - Pages created: `wiki/sources/2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand.md`, `wiki/operations/operation-cavern-nz-denmark-cyberhacking-2015.md` (provisional, source_count=1).

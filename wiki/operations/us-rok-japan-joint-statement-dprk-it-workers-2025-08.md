@@ -35,8 +35,10 @@ participating_agencies:
   - "[[us-treasury]]"
   - "[[japan-npa]]"
   - "[[knpa]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 0
@@ -57,14 +59,17 @@ missing_fields:
   - arrests
   - indictments
   - cryptocurrency_seized
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025]]"
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[us-doj-coordinated-nationwide-actions-dprk-it-workers-2025]]"
   - "[[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
-challenges_encountered: []
+  - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Trilateral foreign-ministry-level statements function as 'umbrella' frameworks coordinating downstream enforcement: same week the joint statement was issued, U.S. Treasury OFAC sanctioned facilitator entities in Russia, Laos, and China, while Japan's NPA, Finance Ministry and METI co-signed updated industry advisories — illustrating how sanctions/regulatory IC can be sequenced under a high-level joint statement."
   - "Sanctions-monitoring gap left by Russia's veto-driven disbandment of the UN 1718 Panel of Experts in March 2024 is being filled through ad-hoc multilateral structures: the MSMT (Multilateral Sanctions Monitoring Team, Oct 2024) and trilateral US-Japan-ROK working group (now in its fourth iteration as of August 2025)."
@@ -72,9 +77,8 @@ source_count: 1
 sources:
   - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 ---
-
 ## Summary
 
 On **August 27, 2025**, the U.S. Department of State, Office of the Spokesperson, jointly with the Ministry of Foreign Affairs of Japan and the Ministry of Foreign Affairs of the Republic of Korea, issued a trilateral joint statement formalizing coordinated US-Japan-ROK action against the [[north-korea|DPRK]] information technology (IT) worker dispatch program. The joint statement positions DPRK IT-worker dispatch as a violation of UN Security Council resolutions and identifies it as a major sanctions-evasion revenue stream funding the regime's WMD and ballistic-missile programs.

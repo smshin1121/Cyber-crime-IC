@@ -38,18 +38,20 @@ operations_participated:
   - "[[operation-cyber-guardian-2026]]"
   - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
+  - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
 org_type: national-agency
 parent_org: "[[japan-npa-headquarters]]"
-source_count: 10
+source_count: 11
 sources:
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
   - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]]"
 status: active
 title: "Japan National Police Agency — Cyber Affairs Bureau"
 type: organization
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -141,3 +143,4 @@ Japan's cybercrime international cooperation capacity is *likely* growing rapidl
 | [8] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |
 | [9] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |
 | [10] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |
+| [11] | [[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution\|NPA Japan + FBI + DC3 — Joint attribution of DMM Bitcoin USD 308M / 4,502.9 BTC theft to TraderTraitor (DPRK-Lazarus sub-cluster)]] | NPA Japan Cyber Affairs Bureau | 2024-12-24 | https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html |

@@ -57,9 +57,10 @@ notable_operations:
   - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
   - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
   - "[[operation-cavern-nz-denmark-cyberhacking-2015]]"
+  - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
 relevant_legal_frameworks:
   - "[[budapest-convention]]"
-source_count: 36
+source_count: 37
 sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -97,6 +98,7 @@ sources:
   - "[[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest]]"
   - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
   - "[[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand]]"
+  - "[[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]]"
 title: "Hacking / Computer Intrusion — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -171,3 +173,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [34] | [[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest\|Hellenic Police Cyber Crime Directorate — Operation Endgame Greek limb: VenomRAT mastermind arrest in Attica (FR EAW, FBI on-site)]] | Hellenic Police (astynomia.gr) Cyber Crime Directorate | 2025-11-13 | https://www.astynomia.gr/2025/11/13/13-11-2025-i-elliniki-astynomia-stin-operation-endgame-gia-ton-termatismo-leitourgias-ypodomon-pou-diefkolynoun-to-kyvernoegklima/ |
 | [35] | [[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud\|USAO-WDNC — Gavril Sandu (RO) VoIP-vishing/bank-fraud 2009-2010 extradition from Romania to US after FBI Bucharest LEAT coordination]] | U.S. Attorney's Office, Western District of North Carolina (DOJ) | 2026-05-05 | https://www.justice.gov/usao-wdnc/pr/romanian-national-appears-federal-court-following-extradition-romania-bank-fraud |
 | [36] | [[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand\|NZ Police — Operation Cavern: NZ-Denmark bilateral cyberhacking/cyberstalking arrest in Vejle (Danish NC3 + South-East Jutland)]] | New Zealand Police | 2015-09-16 | https://www.police.govt.nz/news/release/danish-police-arrest-man-cybercrime-new-zealand |
+| [37] | [[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution\|NPA Japan + FBI + DC3 — Joint attribution of DMM Bitcoin USD 308M / 4,502.9 BTC theft to TraderTraitor (DPRK-Lazarus sub-cluster)]] | NPA Japan Cyber Affairs Bureau | 2024-12-24 | https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html |

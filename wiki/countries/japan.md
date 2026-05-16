@@ -20,19 +20,21 @@ operations_participated:
   - "[[operation-cyber-guardian-2026]]"
   - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
+  - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
 region: east-asia
-source_count: 5
+source_count: 6
 sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
   - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]]"
 title: Japan
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-16
+updated: 2026-05-17
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

@@ -244,8 +244,9 @@ operations_participated:
   - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
   - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
   - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
+  - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
 region: north-america
-source_count: 36
+source_count: 37
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -283,6 +284,7 @@ sources:
   - "[[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest]]"
   - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
   - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
+  - "[[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

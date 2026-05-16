@@ -106,6 +106,7 @@ related_operations:
   - "[[treasury-dprk-it-worker-korea-sobaeksu-sanctions-2025]]"
   - "[[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]]"
   - "[[us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024]]"
+  - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
 challenges_encountered:
 
 lessons_learned:
@@ -119,7 +120,7 @@ sources:
   - "[[2025-06-30_justice-gov_coordinated-nationwide-actions-dprk-it-workers]]"
 summary: "On 2025-06-30 the US DOJ announced a comprehensive coordinated enforcement wave under the DPRK RevGen: Domestic Enabler Initiative, packaging two federal indictments (D. Mass. — Zhenxing Wang et al.; N.D. Ga. — Kim Kwang Jin et al.), one separate plea/information (D. Mass. — Kejia Wang), one arrest (Zhenxing Wang), 29 laptop-farm searches across 16 states (June 10–17, 2025: 21 premises across 14 states; plus October 2024: 8 locations across 3 states), 29 financial accounts seized, 21 fraudulent websites seized, and approximately 200 computers seized. Defendants include 2 US, 8 Chinese, 4 DPRK, and 2 Taiwanese nationals. DPRK defendants used UAE travel destinations + aliases to obtain employment at Atlanta-based blockchain R&D and Serbia-based virtual token companies, stealing USD 900,000+ in virtual currency and laundering through Tornado Cash + Malaysian fraudulent IDs. D. Mass. scheme generated USD 5M+ revenue through 100+ US-company employments using 80+ stolen identities, including ITAR data theft from a California AI defense contractor."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 ## Summary
 
