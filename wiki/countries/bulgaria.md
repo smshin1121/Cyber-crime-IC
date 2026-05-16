@@ -42,12 +42,14 @@ operations_participated:
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]]"
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 region: eastern-europe
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
   - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
+  - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
 title: "Republic of Bulgaria"
 treaty_memberships:
   - date: 2005-04-07
@@ -62,7 +64,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -125,3 +127,4 @@ Capacity is *likely* medium. Bulgaria benefits from EU funding and Europol integ
 | [5] | [[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown\|Hellenic Police DAOE crypto-investment Ponzi takedown — €14.5M, 12 arrests, 8 countries (GR+FR+DE+MT+UK+IE+DK+BG); Bulgaria offshore companies link]] | Hellenic Police HQ (Δ.Α.Ο.Ε.) | 2026-03-06 | https://www.astynomia.gr/2026/03/06/06-03-2026-d-a-o-e-exarthrosi-egklimatikis-organosis-pou-diepratte-apates-me-to-proschima-ton-ependyseon-se-kryptonomismata-12-syllipseis/ |
 | [6] | [[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud\|BTA Sofia call-centre BG-ES Guardia Civil online investment fraud takedown — 17 gold bars, 5 hardware crypto wallets (one >USD 230K), BGN 45K cash]] | BTA (Bulgarian News Agency, state wire) relaying Sofia City Prosecutor's Office | 2025-12-12 | https://www.bta.bg/en/news/bulgaria/990290-organized-crime-group-running-fraudulent-online-investment-platforms-busted-i |
 | [7] | [[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres\|Eurojust — DE-CY-BG-SE crackdown on online investment fraud Cyprus call-centres (Jan 2024); 4-jurisdiction action day, 4 arrests]] | Eurojust | 2024-01-22 | https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud-from-cyprus-call-centres |
+| [8] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |

@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-04-10
-source_count: 7
+source_count: 8
 sources:
   - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
@@ -14,6 +14,7 @@ sources:
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]]"
+  - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
@@ -27,6 +28,7 @@ operations_using:
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
   - "[[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 ---
 ## Summary
 

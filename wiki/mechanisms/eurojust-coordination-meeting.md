@@ -3,8 +3,8 @@ type: mechanism
 title: "Eurojust Coordination Meeting"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-10
-source_count: 9
+updated: 2026-05-16
+source_count: 10
 sources:
   - "[[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]"
   - "[[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]]"
@@ -15,6 +15,7 @@ sources:
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
+  - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
@@ -29,6 +30,7 @@ operations_using:
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 ---
 ## Summary
 

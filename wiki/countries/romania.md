@@ -51,14 +51,16 @@ operations_participated:
   - "[[warzone-rat-takedown-2024]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[flubot-takedown-2022]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 region: eastern-europe
-source_count: 9
+source_count: 10
 sources:
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
 title: Romania
 treaty_memberships:
   - date: 2004-09-12
@@ -70,7 +72,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -129,3 +131,4 @@ High institutional capacity (DIICOT, specialized cybercrime judges), EU integrat
 | [7] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
 | [8] | [[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware\|Polizia di Stato — Operazione ELICIUS: IT-FR-RO joint task force vs. 'Diskstation' Romanian-national NAS-ransomware gang (Bucharest searches Jun 2024 → Jul 2025 announcement, Milan GIP custody)]] | Polizia di Stato — Servizio Polizia Postale (commissariatodips.it) | 2025-07-14 | https://www.commissariatodips.it/notizie/articolo/operazione-elicius-individuata-pericolosa-gang-hacker-internazionale-diskstation/index.html |
 | [9] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
+| [10] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |

@@ -93,6 +93,7 @@ related_operations:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
   - "[[goznym-takedown]]"
   - "[[xdedic-marketplace-takedown]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 challenges_encountered:
 
 lessons_learned:
@@ -105,7 +106,7 @@ sources:
   - "[[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day]]"
 summary: "On 2025-06-12, the Romanian Directorate for Investigating Organised Crime and Terrorism (DIICOT, Galati Regional Structure) and the Moldovan Prosecutor's Office for Combatting Organised Crime and Special Cases (PCCOCS) executed a coordinated joint action day across 44 locations in Romania and Moldova, targeting an organised crime group laundering the proceeds of phishing fraud. The action was carried out within a Joint Investigation Team set up with Eurojust assistance in March 2025 and financed by Eurojust; bilateral evidence flow between the two authorities was structured by European Investigation Orders (EIOs). The dismantled OCG — comprised of Romanian, Moldovan, Ukrainian, and Italian suspects operating professionally organised call centres from Moldova since at least 2013 — phished EU-wide victim data, redirected victim banking payments into network-controlled accounts (often opened with false Romanian identity documents), and laundered the proceeds through myriad accounts, financial platforms, and cryptocurrency wallets. 30 victims were identified with aggregate losses of EUR 20 million."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 ## Summary
 

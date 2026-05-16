@@ -3,14 +3,15 @@ type: mechanism
 title: "European Investigation Order"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-10
-source_count: 5
+updated: 2026-05-16
+source_count: 6
 sources:
   - "[[2025-09-23_eurojust_crypto-fraud-over-100-million-euros-across-europe]]"
   - "[[2026-04-17_coe-int_bulgaria-octopus-cybercrime-community]]"
   - "[[2026-04-17_coe-int_latvia-octopus-cybercrime-community]]"
   - "[[2026-04-17_netlaw-bg_general-directorate-combating-organized-crime-gdbop]]"
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
+  - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[archetyp-market-takedown-operation-deep-sentinel-2025]]"
@@ -19,6 +20,7 @@ operations_using:
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 ---
 ## Summary
 

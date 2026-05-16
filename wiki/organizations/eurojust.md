@@ -96,9 +96,10 @@ operations_participated:
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 org_type: regional-org
 parent_org: ""
-source_count: 20
+source_count: 21
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
@@ -111,10 +112,11 @@ sources:
   - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
   - "[[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]]"
   - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
+  - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
 status: active
 title: Eurojust
 type: organization
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Current Status (as of 2026-04-10)
 
@@ -282,3 +284,4 @@ Direct Eurojust-Korea judicial cooperation on cybercrime is *likely* limited but
 | [18] | [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests\|Eurojust — Austria-Latvia-Estonia online scams JIT takedown (Oct 2025); 7 arrests, 26 searches, EUR 700K frozen, 1200 SIM boxes + 40K SIM cards + 5 servers seized; 1700+ AT victims, 1500+ LV victims; FI assistance]] | Eurojust | 2025-10-17 | https://www.eurojust.europa.eu/news/decisive-action-against-various-online-scams-austria-and-latvia-seven-arrests |
 | [19] | [[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie\|SPAK Albania — universaltrade.io crypto investment-fraud takedown via SPAK + Pau Gendarmerie joint investigation (Apr 2026); Tirana 1 call centre + 4 residences searched, 1 detention, 4 cold-wallets seized; EUR 845K + EUR 1.1M FR victim losses]] | SPAK (Special Structure Against Corruption and Organised Crime, Albania) | 2026-04-23 | https://www.spak.gov.al/al/njoftim-per-shtyp/njoftim-per-mediat-spak-ne-bashkepunim-me-xhandarmerine-e-pau-france-zhvilluan-keto-dite-kontrolle-ne-tirane-ne-kuader-te-nje-hetimi-te-perbashket-per-mashtrim-kompjuterik/ |
 | [20] | [[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres\|Eurojust — DE-CY-BG-SE crackdown on online investment fraud Cyprus call-centres (Jan 2024); 4-jurisdiction action day, 4 arrests]] | Eurojust | 2024-01-22 | https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud-from-cyprus-call-centres |
+| [21] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |

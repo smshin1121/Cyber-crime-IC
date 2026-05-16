@@ -3,18 +3,20 @@ type: crime-type
 title: "Counterfeit Goods Trafficking"
 status: corpus-linked
 created: 2026-04-18
-updated: 2026-04-29
-source_count: 5
+updated: 2026-05-16
+source_count: 6
 sources:
   - "[[2014-02-20_cbsnews-baltimore_neb-man-charged-in-silk-road-case]]"
   - "[[2014-12-30_krebsonsecurity_alleged-counterfeiter-willy-clock-arrested]]"
   - "[[2015-11-03_md_sheldon-kennedy-silk-road-sentencing]]"
   - "[[2015-12-11_fbi-pittsburgh_us-citizen-deported-from-uganda-to-face-counterfeiting-charges-in-western-pa]]"
   - "[[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest]]"
+  - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
   - "[[crimenetwork-relaunch-takedown-2026]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 ---
 ## Summary
 

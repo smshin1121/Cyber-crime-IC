@@ -42,12 +42,14 @@ operations_participated:
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[poland-cbzc-phobos-affiliate-arrest-aether-2026]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 region: eastern-europe
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc]]"
+  - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
 title: "Republic of Poland"
 treaty_memberships:
   - date: 2015-02-20
@@ -59,7 +61,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -119,6 +121,7 @@ With CBZC's establishment in 2022, Poland has *highly likely* strengthened its i
 | [4] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
 | [5] | [[2025-02-28_politi-dk_operation-cumberland-ai-csam-international\|Operation Cumberland — Danish-led 19-country AI-CSAM buyer-side action (Europol J-CAT; 273 suspects, 25 arrests, 33 searches)]] | Rigspolitiet — NSK (National enhed for Særlig Kriminalitet) | 2025-02-28 | https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/danskledet-international-politiindsats/2025/02/28 |
 | [6] | [[2026-02-17_cbzc-policja-pl_47-latek-phobos-zatrzymany-cbzc\|Poland CBZC Phobos affiliate arrest (Operation Aether) — 47-y-o male in Małopolskie, Penal Code Art 269b §1; PL+US named]] | Polish CBZC | 2026-02-17 | https://cbzc.policja.gov.pl/bzc/aktualnosci/823,47-latek-zwiazany-z-grupa-Phobos-zatrzymany-przez-policjantow-CBZC.html |
+| [7] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |
 
 > [!warning] Legal status check needed
 > Exact ratification date for Second Additional Protocol (CETS 224) should be verified against Council of Europe Treaty Office.

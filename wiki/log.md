@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 149, single-agent, L23+L24 strict] | Eurojust RO-BG-HU-PL-MD Fake Medicines & Supplements Online Takedown (Eurojust, 14 May 2026)
+- Source: `raw/press-releases/2026-05-14_eurojust_fake-medicines-supplements-online-takedown.md` (Eurojust own-domain; en).
+- Pages created: `wiki/sources/2026-05-14_eurojust_fake-medicines-supplements-online-takedown.md`, `wiki/operations/eurojust-fake-medicines-supplements-online-takedown-2026.md` (provisional, source_count=1).
+- Pages updated: 5 countries (romania, bulgaria, hungary, poland, moldova); 2 organizations (eurojust, europol-ec3); 6 mechanisms (joint-investigation-team, eurojust-coordination-meeting, european-investigation-order, search-seizure, asset-freezing, domain-seizure); 2 crime-types (online-fraud-ic, counterfeit-goods); 2 related ops backlinks (albania-austria-call-centre-investment-fraud-2026, romania-moldova-phishing-laundering-jit-2025).
+- Key findings:
+  - **L24 strict satisfied**: Eurojust release names 5 jurisdictions' LE/prosecutor agencies explicitly verbatim — Romania (Prosecution Office of The High Court of Cassation and Justice; DIICOT; Iasi Territorial Service; Romanian Police), Bulgaria (Regional Prosecution Office Sofia; Sofia City Prosecution Office; Sofia Regional Police; GDCOC-Cybercrime Directorate), Hungary (Budapest Economic Crimes Prosecution Office; NBI Cybercrime Department), Poland (District Prosecutor's Office Warsaw; Central Cybercrime Bureau; National Revenue Administration), Moldova (Prosecutor's Office for Combating Organized Crime; National Investigation Inspectorate).
+  - **Tier-1 publisher**: `eurojust.europa.eu` own-domain. 4th Eurojust-led op (after iters 124, 134, 140).
+  - **L23 compliance**: `lead_agency: "[[eurojust]]"`, `coordinating_body: "[[eurojust]]"`; `participating_agencies` Glob-verified (eurojust, europol-ec3); national prosecutor/police agencies kept in body prose per L23 (no wiki org pages for these specific Romanian/Bulgarian/Hungarian/Polish/Moldovan offices).
+  - Op profile: 5-country action day 2026-05-12; online sales of fake medicines/supplements targeting seriously ill victims (cancer, chronic-disease sufferers); cross-border distribution network; investigated under EIO/JIT framework with Eurojust coordination. Online infrastructure + counterfeit-goods + fraud nexus = IC scope.
+  - `case_id: CYB-2026-989`.
+  - 6 source_count_mismatch HIGH resolved post-backlink via `.tmp_refs.py`; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 148, single-agent, L23+L24 strict] | FBI San Diego-RTP Tai Chang Domain Seizure — Scam Center Strike Force (FBI, 2 Dec 2025)
 - Source: `raw/press-releases/2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure.md` (fbi.gov own-domain field-office release; en).
 - Pages created: `wiki/sources/2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure.md`, `wiki/operations/fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025.md` (provisional, source_count=1).

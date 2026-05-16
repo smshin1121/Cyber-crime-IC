@@ -155,9 +155,10 @@ operations_participated:
   - "[[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]]"
   - "[[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
-source_count: 25
+source_count: 26
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
@@ -175,6 +176,7 @@ sources:
   - "[[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]]"
   - "[[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
+  - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
@@ -279,3 +281,4 @@ The [[phobos-8base-crackdown|Phobos/8Base crackdown]] (2025) is the most directl
 | [23] | [[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta\|Polizia di Stato — Operazione Trust: Milano-Portugal rip-deal crypto fraud and laundering takedown]] | Polizia di Stato (Italia) — Polizia Postale | 2024-05-31 | https://www.poliziadistato.it/articolo/milano--operazione--trust---frodi-informatiche-e-riciclaggio-di-criptovaluta |
 | [24] | [[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos\|Policía Nacional — Detención del hacker autor de más de 40 ciberataques a organismos estratégicos (Calpe; ES-US/HSI cooperation)]] | Policía Nacional (España) | 2025-02-05 | https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=16448 |
 | [25] | [[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol\|Policie ČR — Prague arrest of top-3 worldwide darknet CSAM distributor; FBI ~10-yr intel + Europol-coordinated identification]] | Policie České republiky | 2024-10-08 | https://policie.gov.cz/clanek/byl-v-hledacku-fbi-i-europolu-dopadli-jej-cesti-kriminaliste.aspx |
+| [26] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |

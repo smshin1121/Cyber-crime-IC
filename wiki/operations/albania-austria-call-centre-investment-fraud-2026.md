@@ -78,6 +78,7 @@ related_operations:
   - "[[ukraine-fraudulent-call-centres-takedown-2025]]"
   - "[[eurojust-massive-investment-fraud-hundreds-thousands-victims-2022]]"
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
+  - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
 challenges_encountered:
   - "Victim countries were broader than the formal participating-country list; metadata therefore records Austria and Albania as participating countries and keeps victim-market detail in results and evidence notes."
 lessons_learned:
@@ -89,7 +90,7 @@ sources:
   - "[[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]]"
 summary: "Austrian and Albanian authorities, supported by Eurojust and Europol, dismantled Tirana-based investment-fraud call centres that targeted EU citizens. The two-year investigation led to a JIT-supported action day on 2026-04-17, 10 arrests, searches at three call centres and nine residences, seizure of nearly EUR 900,000 and hundreds of devices, and reported damages exceeding EUR 50 million."
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 # Albania-Austria Call-Centre Investment Fraud Takedown (2026)
 
