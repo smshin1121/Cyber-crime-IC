@@ -86,6 +86,7 @@ notable_operations:
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
   - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+  - "[[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -100,7 +101,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 73
+source_count: 74
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -175,6 +176,7 @@ sources:
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
   - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
+  - "[[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud]]"
 created: 2026-04-14
 updated: 2026-05-16
 ---
@@ -305,3 +307,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [71] | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure\|FBI San Diego — Scam Center Strike Force tickmilleas.com domain seizure (Tai Chang scam compound Burma); US-Thailand cooperation]] | FBI San Diego Field Office | 2025-12-02 | https://www.fbi.gov/contact-us/field-offices/sandiego/news/fbi-san-diego-investigation-leads-to-scam-center-strike-force-seizure-of-fake-cryptocurrency-investment-domain-used-by-tai-chang-scam-compound-in-burma |
 | [72] | [[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern\|Polizei Bayern — DE-AT-RO Action Day (17 Dec 2024) takedown of internet-fraud OCG; ZCB Bayern + LKA Tirol + DIICOT + Eurojust JIT]] | Bayerische Polizei (Polizei Bayern) / ZCB Bamberg | 2025-01-15 | https://www.polizei.bayern.de/aktuelles/pressemitteilungen/078869/index.html |
 | [73] | [[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia\|IRS-CI / USAO-NJ — Versus Project darknet marketplace operator Patrick Schmitz extradition from Colombia to US]] | IRS-CI (mirror of USAO-NJ / DOJ OPA) | 2026-04-30 | https://www.irs.gov/compliance/criminal-investigation/leading-dark-web-marketplace-creator-and-operator-extradited-from-colombia-to-the-united-states |
+| [74] | [[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud\|Polícia Federal — Operação Decrypted II: BR-US bilateral crypto-wallet fraud takedown with HSI El Dorado Task Force NY]] | Polícia Federal (Brasil) | 2026-03-03 | https://www.gov.br/pf/pt-br/assuntos/noticias/2026/03/pf-mira-grupo-responsavel-por-fraudes-eletronicas |

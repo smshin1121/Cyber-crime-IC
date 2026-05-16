@@ -67,12 +67,13 @@ missing_fields:
   - "Brazilian Penal Code dual-criminality counterpart offences considered by STF (likely Lei 12.737/2012 Arts. 154-A/154-B + Penal Code Art. 298, but unconfirmed)"
   - "Whether the defendant will contest extradition or consent to extradição simplificada"
   - "Specific Brazilian PF unit beyond SR/SP that effected the arrest (e.g., NEPOM, NCEPI, or general policing)"
-related_cases:
+related_cases: ""
 related_operations:
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
   - "[[spf-fpb-operation-cryptoscam-2025]]"
   - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
-challenges_encountered:
+  - "[[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]]"
+challenges_encountered: ""
 lessons_learned:
   - "Brazil-Belgium passive-extradition records have been thin in the wiki. The case adds the Belgian-requesting / Brazilian-requested axis to the wiki's extradition catalogue, complementing the Brazilian-requesting / Belgian-requested side already documented at [[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]] (Belgium-as-base-of-CaaS-actor disrupted by Belgian FGP / federal police)."
   - "PF press releases for individual extradition arrests systematically withhold the defendant's name and the Belgian counterpart authority. This is a recurring item-nonresponse pattern across PF extradition releases (cf. the Albanian / Lebanese fugitive arrests in April 2026 and the Portuguese-Belgian fugitive in Goiás in April 2026), and the wiki should treat it as a known publication-policy gap rather than a case-specific data hole."
@@ -82,9 +83,8 @@ sources:
   - "[[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo]]"
 summary: "On 2026-03-09, the Polícia Federal in São Paulo arrested a Belgian national residing in Brazil on a Brazilian Supreme Federal Court (STF) mandado de prisão para extradição, in response to a Belgian extradition request. The Belgian charges, as enumerated by PF, include document forgery, criminal threat, fraud, falsificação de tecnologia da informação (information-technology forgery — computer-related forgery, Budapest Convention Art. 7 territory), breach of trust, and additional unspecified offences. The defendant remains in Brazilian custody pending extradition proceedings under STF jurisdiction. The release does not disclose the defendant's name, the Belgian counterpart authority, the treaty basis invoked, or the specific Belgian Code pénal articles charged."
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-16
 ---
-
 > [!info] Provisional / single-source page
 > This page is published with **source_count = 1** because the only public primary record currently available is the PF/SP press release of 2026-03-09. Per the wiki's preferred-threshold rule (≥5 sources), this is a provisional record. It will be promoted on (a) STF docket publication, (b) Belgian SPF Justice / federal prosecutor confirmation, (c) any Interpol Red Notice publication, or (d) Brazilian DRCI status update.
 

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (834)
+# Sources (835)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -89,6 +89,7 @@ updated: 2026-04-14
 | [[2026-03-05_diariolibre_operation-eclipse-dominican-republic]] | news | Diario Libre | ? | medium | ? |
 | [[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2026-03-04_europol_global-phishing-service-platform-tycoon-2fa-taken-down]] | press-release | Europol | ? | high | ? |
+| [[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud]] | press-release | Polícia Federal (Brazil) — Coordenação-Geral de Comunicação Social | ? | high | ? |
 | [[2026-02-23_eurojust_11-arrests-fraudulent-call-centre]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-02-23_eurojust-ukraine-term_11-arrests-fraudulent-call-centre]] | topic-page | Eurojust | 1 | high | ? |
 | [[2026-02-23_bordersecurityreport_11-arrests-fraudulent-call-centre]] | news | Border Security Report | 2 | medium | ? |

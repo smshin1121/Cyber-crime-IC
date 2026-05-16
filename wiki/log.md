@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 154, single-agent, L23+L24+L25 strict] | Brazil-US Operação Decrypted II Crypto-Wallet Fraud Takedown (Polícia Federal + HSI El Dorado NY, 3 Mar 2026)
+- Source: `raw/press-releases/2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud.md` (gov.br/pf own-domain; pt-br).
+- Pages created: `wiki/sources/2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud.md`, `wiki/operations/pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026.md` (provisional, source_count=1).
+- Pages updated: 2 countries (brazil, united-states); 1 organization (brazil-ministry-of-justice-public-security); 2 crime-types (online-fraud-ic, money-laundering-ic); 2 related ops backlinks (spf-fpb-operation-cryptoscam-2025, pf-belgium-extradition-arrest-sao-paulo-2026).
+- Key findings:
+  - **L24 strict satisfied**: PF release names "A ação é fruto de cooperação entre a Polícia Federal e o escritório da El Dorado Task Force da Homeland Security Investigations (HSI), em Nova York (EUA)" — 2 countries' LE explicitly: Brazil (PF) + US (HSI El Dorado Task Force NY).
+  - **Tier-1 publisher**: `gov.br/pf` Polícia Federal (Brazil) own-domain. 1st PF Brazil-as-lead op in wiki (prior PF appearances were via SPF or downstream).
+  - **L23 compliance**: `lead_agency: ""`, `coordinating_body: ""`, `participating_agencies: []` (no PF Brazil or HSI El Dorado wiki org pages exist; kept in body prose). Brazil-MoJ used as backlink anchor since PF is its agency.
+  - Op profile: Operação Decrypted II, action day 2026-03-03; PF + HSI El Dorado NY bilateral takedown of OCG running crypto-wallet fraud; multiple searches across Brazilian states.
+  - `case_id: CYB-2026-303`.
+  - 3 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 5 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 153, single-agent, L23+L24+L25 strict] | US-Colombia Versus Project Darknet Marketplace Operator (Patrick Schmitz) Extradition (IRS-CI / USAO-NJ, 30 Apr 2026)
 - Source: `raw/press-releases/2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia.md` (IRS-CI mirror of USAO-NJ / DOJ OPA — irs.gov own-domain; en).
 - Pages created: `wiki/sources/2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia.md`, `wiki/operations/us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026.md` (provisional, source_count=1).

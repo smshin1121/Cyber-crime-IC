@@ -30,14 +30,16 @@ operations_participated:
   - "[[operation-dark-bet-pf-brazil-nigeria-2025]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
-source_count: 4
+  - "[[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]]"
+source_count: 5
 sources:
   - "[[2019-11-01_mj-gov-br_operacao-404-combate-pirataria-internet]]"
   - "[[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo]]"
+  - "[[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud]]"
 created: 2026-05-04
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-05-09
 coverage_status: operation-linked
 ---
@@ -59,3 +61,4 @@ Brazil's Ministry of Justice and Public Security is retained here as an operatio
 | [2] | [[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps|Operacao internacional contra pirataria tira do ar 675 sites e 14 aplicativos de streaming]] | Brazil Ministry of Justice and Public Security | 2024-09-19 | https://www.gov.br/mj/pt-br/assuntos/noticias/operacao-internacional-contra-pirataria-tira-do-ar-675-sites-e-14-aplicativos-de-streaming |
 | [3] | [[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest\|GXC Team / GoogleXcoder phishing-kit CaaS takedown — ES Guardia Civil + BR Federal Police + Group-IB; phishing kits cloning ES banks/gov sold via Telegram]] | Guardia Civil (Spain) — UCO Departamento contra el Cibercrimen | 2025-10-08 | https://web.guardiacivil.es/en/destacados/noticias/La-Guardia-Civil-desmantela-una-red-de-phishing-bancario-y-detiene-al-principal-desarrollador-de-kits-de-robo-de-credenciales-en-Espana/ |
 | [4] | [[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo\|PF Brazil — Belgian-national fugitive arrested in São Paulo on STF mandado de prisão para extradição (Mar 2026); Belgian charges include falsificação de tecnologia da informação]] | Polícia Federal (Brazil) — Superintendência Regional em São Paulo / SR-SP | 2026-03-09 | https://www.gov.br/pf/pt-br/assuntos/noticias/2026/03/policia-federal-prende-foragido-belga-acusado-de-fraude-e-falsificacao-de-tecnologia-da-informacao-em-sao-paulo |
+| [5] | [[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud\|Polícia Federal — Operação Decrypted II: BR-US bilateral crypto-wallet fraud takedown with HSI El Dorado Task Force NY]] | Polícia Federal (Brasil) | 2026-03-03 | https://www.gov.br/pf/pt-br/assuntos/noticias/2026/03/pf-mira-grupo-responsavel-por-fraudes-eletronicas |

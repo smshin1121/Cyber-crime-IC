@@ -231,8 +231,9 @@ operations_participated:
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+  - "[[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]]"
 region: north-america
-source_count: 23
+source_count: 24
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -257,6 +258,7 @@ sources:
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
+  - "[[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29
