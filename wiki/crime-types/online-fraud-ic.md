@@ -113,6 +113,7 @@ notable_operations:
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
   - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
   - "[[nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025]]"
+  - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -130,7 +131,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 106
+source_count: 107
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -238,6 +239,7 @@ sources:
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
   - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
   - "[[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak]]"
+  - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
 created: 2026-04-08
 updated: 2026-05-16
 ---
@@ -407,3 +409,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [104] | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure\|FBI San Diego — Scam Center Strike Force tickmilleas.com domain seizure (Tai Chang scam compound Burma); US-Thailand cooperation]] | FBI San Diego Field Office | 2025-12-02 | https://www.fbi.gov/contact-us/field-offices/sandiego/news/fbi-san-diego-investigation-leads-to-scam-center-strike-force-seizure-of-fake-cryptocurrency-investment-domain-used-by-tai-chang-scam-compound-in-burma |
 | [105] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |
 | [106] | [[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak\|Politie NL — Spanish Policia Nacional UDYCO Greco Costa del Sol arrest in Estepona of Dutch bank-helpdesk-fraud/AnyDesk-takeover suspect]] | Politie Nederland | 2025-04-29 | https://www.politie.nl/nieuws/2025/april/29/spaanse-aanhouding-in-limburgse-cyberzaak.html |
+| [107] | [[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam\|NCA — UK arrest in €645M JuicyFields cannabis-investment Ponzi takedown; UK-ES-DE-FR JIT at Eurojust]] | National Crime Agency (UK) | 2024-04-12 | https://www.nationalcrimeagency.gov.uk/news/uk-arrest-in-645-million-international-investment-scam |

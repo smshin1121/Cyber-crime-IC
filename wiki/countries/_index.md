@@ -39,15 +39,15 @@ total: 61
 | 🇨🇾 | [[cyprus]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇨🇿 | [[czech-republic]] | civil-law | party (2013) | medium | 90-180 | 9 |
 | 🇨🇿 | [[czechia]] | not-assessed | — | unknown | unknown | 1 |
-| 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 14 |
+| 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 15 |
 | 🇩🇰 | [[denmark]] | civil-law | not-assessed | unknown | unknown | 4 |
 | 🇪🇨 | [[ecuador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇪🇪 | [[estonia]] | civil-law | party | high | unknown | 6 |
 | 🇪🇬 | [[egypt]] | civil-law | — | medium | unknown | 1 |
-| 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 18 |
+| 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 19 |
 | 🇫🇮 | [[finland]] | civil-law | party (2007) | high | 90-180 | 12 |
-| 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 15 |
-| 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 12 |
+| 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 16 |
+| 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 13 |
 | 🇬🇪 | [[georgia]] | not-assessed | — | unknown | unknown | 2 |
 | 🇬🇭 | [[ghana]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇲 | [[gambia]] | not-assessed | — | unknown | unknown | 0 |

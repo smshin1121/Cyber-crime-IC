@@ -77,9 +77,10 @@ operations_participated:
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[operation-otf-grimm]]"
   - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
+  - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
 org_type: national-agency
 parent_org: ""
-source_count: 15
+source_count: 16
 sources:
   - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
   - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
@@ -88,6 +89,7 @@ sources:
   - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
+  - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
 status: active
 title: "UK National Crime Agency (NCA)"
 type: organization
@@ -249,3 +251,4 @@ Direct NCA-Korea cybercrime cooperation is *likely* less developed than FBI-Kore
 | [13] | Operation Destabilise: NCA disrupts multi-billion money laundering networks | National Crime Agency | 2024-12-04 | https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests |
 | [14] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, Europol-coordinated)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
 | [15] | [[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure\|Met Police — World's largest bitcoin seizure: UK-China conviction of Zhimin Qian and Seng Hok Ling for laundering proceeds of CN-origin investment fraud]] | Metropolitan Police Service (UK) | 2025-09-29 | https://news.met.police.uk/news/woman-convicted-following-worlds-largest-seizure-501569 |
+| [16] | [[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam\|NCA — UK arrest in €645M JuicyFields cannabis-investment Ponzi takedown; UK-ES-DE-FR JIT at Eurojust]] | National Crime Agency (UK) | 2024-04-12 | https://www.nationalcrimeagency.gov.uk/news/uk-arrest-in-645-million-international-investment-scam |

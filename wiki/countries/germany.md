@@ -84,8 +84,9 @@ operations_participated:
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
+  - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
 region: western-europe
-source_count: 14
+source_count: 15
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -101,6 +102,7 @@ sources:
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
   - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
+  - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09
@@ -112,7 +114,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 

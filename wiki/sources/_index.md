@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (831)
+# Sources (832)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -462,6 +462,7 @@ updated: 2026-04-14
 | [[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]] | press-release | Slovenska policija (Slovenian Police, Ministry of the Interior of the Republic of Slovenia) | ? | high | ? |
 | [[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost]] | press-release | Europol | ? | high | ? |
 | [[2024-04-15_bitdefender-com_zambia-arrests-77-people-in-swoop-on-scam-call-centre]] | press-release | Bitdefender (Hot for Security) | ? | medium | ? |
+| [[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]] | press-release | National Crime Agency (UK) | ? | high | ? |
 | [[2026-04-18_justice-gov_socal-man-arrested-federal-charges-alleging-he-schemed-advertise-and-sell-hive]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-04-11_openzambia-com_chinese-crime-syndicate-raided-in-lusaka]] | news | Open Zambia | ? | medium | ? |
 | [[2024-04-01_interpol_africa-cyberthreat-assessment-report-2024]] | report | INTERPOL | ? | high | ? |

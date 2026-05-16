@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 151, single-agent, L23+L24+L25 strict] | UK-ES-DE-FR JuicyFields €645M Cannabis-Investment Ponzi JIT (NCA UK, 12 Apr 2024)
+- Source: `raw/press-releases/2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam.md` (NCA UK own-domain; en).
+- Pages created: `wiki/sources/2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam.md`, `wiki/operations/uk-juicyfields-645m-investment-scam-jit-2024.md` (provisional, source_count=1).
+- Pages updated: 4 countries (united-kingdom, spain, germany, france); 5 organizations (uk-nca, spain-national-police, germany-bka, france-national-police, eurojust, europol-ec3); 1 crime-type (online-fraud-ic); 2 mechanisms (joint-investigation-team, europol-jit).
+- Key findings:
+  - **L24 strict satisfied**: NCA release names "Huge numbers of police reports across Europe led to the establishment of a joint investigation team at Eurojust, led by Spanish, German and French authorities, and supported by Europol, the NCA, and policing partners from multiple Member States." — 4 cooperating LE jurisdictions explicitly named: UK (NCA) + Spain + Germany + France; plus Eurojust + Europol IGOs.
+  - **Tier-1 publisher**: `nationalcrimeagency.gov.uk` own-domain. 1st NCA-as-lead op in this session (NCA appeared as participant in prior wiki ops).
+  - **L23 compliance**: `lead_agency: ""` (JIT was multi-led, no single lead in primary source); `coordinating_body: "[[eurojust]]"`; `participating_agencies` only Glob-verified wikilinks (uk-nca, spain-national-police, germany-bka, france-national-police, eurojust, europol-ec3).
+  - Op profile: JuicyFields online platform purported to offer cannabis-farming investments to retail investors across Europe; ran as Ponzi €645M+ losses; 11 Apr 2024 action day with UK suspect arrest (Atherstone, Warwickshire) + EU-wide JIT-coordinated searches/arrests. Investment fraud + online-platform infrastructure.
+  - `case_id: CYB-2024-151`.
+  - 6 source_count_mismatch HIGH resolved post-backlink via `.tmp_refs.py`; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest + milestone push [iter 150, single-agent, L23+L24 strict, L25 added] | NL-ES Bank-Helpdesk Fraud / AnyDesk-Takeover Arrest in Estepona (Politie NL, 29 Apr 2025)
 - Source: `raw/press-releases/2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak.md` (politie.nl own-domain; nl).
 - Pages created: `wiki/sources/2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak.md`, `wiki/operations/nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025.md` (provisional, source_count=1).

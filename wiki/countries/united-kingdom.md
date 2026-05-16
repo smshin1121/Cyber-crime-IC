@@ -91,8 +91,9 @@ operations_participated:
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
   - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
+  - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
 region: western-europe
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
   - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
@@ -106,6 +107,7 @@ sources:
   - "[[2025-02-20_rcmp-grc-gc-ca_ontario-rcmp-shuts-prolific-cyber-fraudsters]]"
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
   - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
+  - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
 title: "United Kingdom"
 treaty_memberships:
   - date: 2011-05-25

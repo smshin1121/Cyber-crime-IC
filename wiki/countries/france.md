@@ -61,8 +61,9 @@ operations_participated:
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
   - "[[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]]"
   - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
+  - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
 region: western-europe
-source_count: 15
+source_count: 16
 sources:
   - "[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]"
@@ -79,6 +80,7 @@ sources:
   - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
   - "[[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]]"
   - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
+  - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
 title: "French Republic"
 treaty_memberships:
   - date: 2006-01-10
