@@ -1,5 +1,19 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 159, single-agent, L23+L24+L25 strict] | BKA Hesse-RLP Dstat.CC + Flight RCS PowerOff Takedown (BKA, 1 Nov 2024)
+- Source: `raw/press-releases/2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen.md` (bka.de own-domain; de).
+- Pages created: `wiki/sources/2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen.md`, `wiki/operations/de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024.md` (provisional, source_count=1).
+- Pages updated: 5 countries (germany, france, greece, iceland, united-states); 2 organizations (germany-bka, zit-frankfurt); 3 crime-types (ddos-ic, cybercrime-infrastructure-ic, drug-trafficking); 3 related ops (operation-power-off, operation-power-off-2025-05, operation-power-off-2026-04).
+- Key findings:
+  - **L24 strict (with caveat)**: BKA release names "In einer international koordinierten Operation der ZIT der Generalstaatsanwaltschaft Frankfurt am Main mit dem Hessischen Landeskriminalamt (HLKA) und dem Bundeskriminalamt (BKA) ... Im Wege der internationalen Kooperation erfolgten Sicherstellungen und Unterstuetzungen in Frankreich, Griechenland, Island und den Vereinigten Staaten von Amerika." German side has 3 prosecutorial/LE bodies named (ZIT Frankfurt + HLKA + BKA); foreign jurisdictions acknowledged at country level only (FR/GR/IS/US) — specific foreign LE agencies not enumerated. Logged as `missing_fields: foreign_partner_agency_names`. This is part of the Operation PowerOff series (related backlinks to 3 prior Phase pages).
+  - **Tier-1 publisher**: `bka.de` Bundeskriminalamt own-domain. 3rd BKA-as-lead op (1st BKA was iter 122 Warzone RAT, 2nd iter 127 Aisuru/Kimwolf, 3rd iter 136 Black Basta) — actually 4th counting iter 136. This is the German Hesse-RLP phase of multinational Operation PowerOff (BKA's coordinated DDoS-stresser takedown program).
+  - **L23 compliance**: `lead_agency: "[[zit-frankfurt]]"`, `coordinating_body: "[[germany-bka]]"`; `participating_agencies` only Glob-verified wikilinks (zit-frankfurt, germany-bka); foreign agencies omitted (no plaintext entity names per L23 strict).
+  - **Slug cleanup**: agent included empty `[[wiki/concepts/]]` + `[[wiki/legal-frameworks/]]` placeholder wikilinks in prose — replaced with prose-only references.
+  - Op profile: 2024-10-31 BKA-led German-side takedown of "Flight RCS" Section-127-StGB clearnet drug marketplace + "Dstat.CC" DDoS-stresser directory; arrests in Hesse and Rhineland-Palatinate; supportive seizures in FR/GR/IS/US under Operation PowerOff multinational coordination.
+  - `case_id: CYB-2024-901`.
+  - 2 source_count_mismatch HIGH + 4 LOW broken_wikilinks (2 in log iter 158 + 2 placeholder in op page) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 5 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 158, single-agent, L23+L24+L25 strict] | ZA-UK-US Hawks DPCI Investment Call-Centre Scam Takedown (SAnews/Hawks, 29 Jan 2026)
 - Source: `raw/press-releases/2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests.md` (sanews.gov.za state news wire own-domain; en).
 - Pages created: `wiki/sources/2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests.md`, `wiki/operations/za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026.md` (provisional, source_count=1).
@@ -8,7 +22,7 @@
   - **L24 strict satisfied**: SAnews/Hawks DPCI release names "internationally coordinated investigations conducted by the DPCI, the South African Police Service Crime Intelligence, the Financial Intelligence Centre, the United Kingdom National Crime Agency, the United States Department of Homeland Security Service" — 3 cooperating LE jurisdictions: South Africa (Hawks/DPCI + SAPS Crime Intel + FIC) + UK (NCA) + US (DHS). Australia/New Zealand excluded from participating_countries (victim-only + private partners only — Australian IFW, CyberTrace are private investigation companies, not LE).
   - **Tier-1 publisher**: `sanews.gov.za` South African Government News Agency (GCIS) state news wire — official .gov.za own-domain reproducing Hawks press release verbatim. 1st SAnews/Hawks op in wiki.
   - **L23 compliance**: `lead_agency: "[[south-africa-hawks]]"`, `coordinating_body: ""` (FIC kept in body prose, no wiki page); `participating_agencies` only Glob-verified wikilinks (south-africa-hawks, south-africa-saps, uk-nca, us-dhs).
-  - **Slug correction**: agent initially used `[[investment-fraud-ic]]` (non-existent); replaced with canonical `[[online-fraud-ic]]`. Also removed `[[LESSONS.md|L24]]` broken_wikilink and rephrased without brackets.
+  - **Slug correction**: agent initially used a non-existent `investment-fraud-ic` slug; replaced with canonical `online-fraud-ic`. Also removed a stray bracketed `LESSONS.md` wikilink and rephrased without brackets.
   - Op profile: 23-suspect Hawks DPCI arrests in Gauteng/Johannesburg week of 2026-01-26..29; investigation opened 2022 from 43 Australian victim complaints; victim losses R1B+ across 40+ identified victims in US/UK/AU/NZ; FAIS Act 37/2002 charges (unregistered financial-advisory call-centre); Johannesburg Commercial Crimes Court.
   - `case_id: CYB-2026-158`.
   - 4 source_count_mismatch HIGH + 1 LOW broken_wikilink resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.

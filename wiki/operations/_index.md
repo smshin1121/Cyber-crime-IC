@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (285 canonical / 27 absorbed / 312 records)
+# Operations (286 canonical / 27 absorbed / 313 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (285)
+## Canonical Operations (286)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -142,6 +142,7 @@ updated: 2026-04-14
 | [[operation-toy-soldier-gru-29155-estonia-2024]] | CYB-2024-665 | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[operation-endgame]] | CYB-2024-799 | 3 | ongoing | umbrella | 9 | — | — |
 | [[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]] | CYB-2024-859 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]] | CYB-2024-901 | 3 | completed | follow-on | 1 | 4.00 | 1 |
 | [[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]] | CYB-2024-995 | 3 | completed | phase | 1 | 4.00 | 1 |
 | [[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]] | CYB-2024-996 | 3 | completed | — | 1 | — | 1 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 5 | — | — |

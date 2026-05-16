@@ -11,12 +11,14 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-otf-grimm]]"
   - "[[operation-cumberland-ai-csam-2025]]"
-source_count: 2
+  - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
+source_count: 3
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
 created: 2026-04-12
-updated: 2026-05-09
+updated: 2026-05-16
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 assessment_confidence: limited

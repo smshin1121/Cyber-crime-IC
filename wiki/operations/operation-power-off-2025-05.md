@@ -103,11 +103,14 @@ missing_fields:
   - "specific 9 US booter-service domain names seized"
   - "victim counts and cumulative DDoS-attack volumes attributable to the 6 services"
   - "specific data-centre locations of the Dutch infrastructure seizures"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-power-off]]"
   - "[[operation-power-off-2026-04]]"
-challenges_encountered: []
+  - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "First wiki record of the Polish Central Cybercrime Bureau (Centralne Biuro Zwalczania Cyberprzestępczości / CBZC) as the lead Polish federal-cybercrime authority for an Operation PowerOFF phase."
   - "First wiki record of the Dutch fake-booter-site warning methodology as a discrete deception-based deterrence IC mechanism class — Dutch authorities running honeypot websites that warn users seeking out DDoS-for-hire services."
@@ -118,7 +121,7 @@ sources:
   - "[[2025-05-07_europol_ddos-for-hire-empire-poland-4-administrators-us-9-domains]]"
 summary: "On 2025-05-07 Europol announced the May 2025 phase of Operation PowerOFF: a 4-country (Germany, Netherlands, Poland, USA) coordinated takedown of a DDoS-for-hire empire running 6 stresser/booter services (Cfxapi, Cfxsecurity, neostress, jetstress, quickdown, zapcut) active 2022-2025. Polish Central Cybercrime Bureau (CBZC) arrested 4 administrators in Poland; US (USDOJ + FBI + HSI + DCIS) seized 9 booter-service domains during the coordinated week of action; Dutch authorities deployed fake booter sites as warnings and shared data from data-centre seizures with Polish investigators; German BKA + Prosecutor General's Office Frankfurt am Main — Cyber Crime Centre (ZIT) identified one suspect and shared intelligence on others. Europol EC3 provided analytical and operational support."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 ## Summary
 

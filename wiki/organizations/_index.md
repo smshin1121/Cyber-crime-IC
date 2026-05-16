@@ -50,7 +50,7 @@ updated: 2026-04-08
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 93 | 15 |
 | [[finland-nbi]] | national-agency | Vantaa, Finland | Lead Finnish national investigative agency for serious and transnational cybercrime; Finnish Europol national unit and INTERPOL national central bureau (NCB) liaison | 8 | 7 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | Compatibility label for Bundeskriminalamt references in older operation records.; Routes detailed mandate, cybercrime division, and international-cooperation context to [[germany-bka]]. | 2 | 3 |
-| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 48 | 12 |
+| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 49 | 13 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 6 | 4 |
 | [[indonesia-police]] | national-agency | Indonesia | Compatibility page for Indonesian police references in regional cybercrime operation records.; Preserves links where sources do not distinguish national police, cyber unit, or immigration enforcement. | 5 | 4 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination.; Italian participation node in encrypted communications and darknet-drug operations where DCSA is named. | 1 | 3 |
@@ -149,7 +149,7 @@ updated: 2026-04-08
 | [[spo-international-cooperation]] | prosecution-office | Seoul, South Korea | Coordinate Korean Prosecution Service international cooperation; Host the Cybercrime International Cooperation Center (APC-HUB Secretariat) | 1 | 9 |
 | [[supreme-prosecutors-office-korea]] | prosecution-office | Seocho-gu, Seoul, South Korea | South Korea's highest prosecution body (until 2026-10-02); Oversees MLAT processing and extradition coordination for prosecutors | 2 | 8 |
 | [[romania-public-ministry]] | prosecution-parent | [[romania]] | Parent organization for [[romania-diicot]], Romania's specialized organized-crime, terrorism, and cybercrime prosecutorial directorate.; Provides the prosecution-side context for Romanian cybercrime cooperation. | 2 | 2 |
-| [[zit-frankfurt]] | prosecutor-cybercrime-unit | Frankfurt am Main, Germany | Provides prosecutorial and judicial coordination for major German cybercrime investigations.; Works with [[germany-bka]] on infrastructure seizures, darknet marketplace cases, and cross-border enforcement actions. | 4 | 2 |
+| [[zit-frankfurt]] | prosecutor-cybercrime-unit | Frankfurt am Main, Germany | Provides prosecutorial and judicial coordination for major German cybercrime investigations.; Works with [[germany-bka]] on infrastructure seizures, darknet marketplace cases, and cross-border enforcement actions. | 5 | 3 |
 | [[german-prosecution]] | prosecutorial-authority | Germany | Compatibility page for generic German prosecution references in older cybercrime operation records.; Routes cybercrime-specific prosecution context to [[zit-frankfurt]] and [[germany-frankfurt-prosecutor]]. | 1 | 3 |
 | [[japan-jc3]] | public-private-cybercrime-center | [[japan]] | Provides Japan-side public-private coordination and infrastructure-disruption support in malware and cybercrime operations.; Serves as a Japanese partner node in multinational actions involving private-sector telemetry and law-enforcement process. | 1 | 2 |
 | [[ncfta]] | public-private-partnership | United States | public-private intelligence sharing; case support | 3 | 3 |

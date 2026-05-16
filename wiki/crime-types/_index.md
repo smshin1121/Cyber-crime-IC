@@ -19,12 +19,12 @@ updated: 2026-04-27
 | [[counterfeit-goods]] | — | — | — | crimenetwork-relaunch-takedown-2026, eurojust-fake-medicines-supplements-online-takedown-2026 | 6 |
 | [[csam-ic]] | content-related | Yes | interpol-icse-database\|INTERPOL ICSE Database, europol-vidtf\|Europol Victim Identification Task Force | operation-stream-kidflix, operation-cyber-guardian, operation-orion-international | 17 |
 | [[cybercrime-forum-ic]] | cyber-dependent | Yes | search-seizure, domain-seizure, extradition | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 7 |
-| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 31 |
+| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 32 |
 | [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | operation-otf-grimm, hungary-romania-swatting-doxing-discord-2026, operation-us-v-szabo-swatting-ring | 6 |
 | [[dark-web-ic]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025, operation-candy-encrypted-comms-drugs-2026, bohemia-cannabia-darknet-marketplace-takedown-2024 | 12 |
 | [[ddos-extortion]] | — | — | — | — | 1 |
-| [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 9 |
-| [[drug-trafficking]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025, operation-candy-encrypted-comms-drugs-2026, bohemia-cannabia-darknet-marketplace-takedown-2024 | 10 |
+| [[ddos-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, mutual-legal-assistance | ddos-for-hire-sweep-2016, operation-pleiades, operation-power-off-2026-04 | 10 |
+| [[drug-trafficking]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025, operation-candy-encrypted-comms-drugs-2026, bohemia-cannabia-darknet-marketplace-takedown-2024 | 11 |
 | [[extortion-ic]] | — | — | — | project-compass-the-com-network-2025, us-uk-prince-group-tco-huione-group-sanctions-2025, sg-th-altdos-desorden-ghostr-takedown-2025 | 12 |
 | [[hacking-ic]] | cyber-dependent | Yes | electronic-evidence, domain-seizure, extradition | isoon-apt27-indictment, proxy-service-takedown-2026-03, leakbase-takedown-2026 | 30 |
 | [[identity-theft]] | — | — | — | operation-magnus-redline-meta-stealer-takedown-2024, us-doj-dprk-it-worker-fraud-disruption-knoot-chapman-didenko-2024, veriftools-fake-id-marketplace-followup-arrests-2026 | 15 |

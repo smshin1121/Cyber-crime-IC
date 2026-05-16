@@ -4,7 +4,7 @@ title: "Drug Trafficking"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-16
-source_count: 10
+source_count: 11
 sources:
   - "[[2014-02-20_cbsnews-baltimore_neb-man-charged-in-silk-road-case]]"
   - "[[2014-05-30_justice-gov_texas-resident-charged-illegally-selling-controlled-substances-silk-road-bitmessage]]"
@@ -16,6 +16,7 @@ sources:
   - "[[2024-10-08_politie_bohemia-cannabia-darknet-marketplace-takedown]]"
   - "[[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
+  - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -24,6 +25,7 @@ notable_operations:
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
   - "[[crimenetwork-relaunch-takedown-2026]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+  - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
 ---

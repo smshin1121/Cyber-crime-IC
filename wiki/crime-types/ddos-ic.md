@@ -28,6 +28,7 @@ notable_operations:
   - "[[operation-power-off-2025-05]]"
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
+  - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
 notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
 criminalization_status:
@@ -36,7 +37,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 9
+source_count: 10
 sources:
   - "[[fbi-international-ddos-for-hire-sweep]]"
   - "[[cyberscoop-international-ddos-for-hire-sweep]]"
@@ -47,8 +48,9 @@ sources:
   - "[[2025-05-07_europol_ddos-for-hire-empire-poland-4-administrators-us-9-domains]]"
   - "[[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land]]"
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
+  - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
 created: 2026-04-17
-updated: 2026-05-10
+updated: 2026-05-16
 status: active
 ---
 ## Summary
@@ -84,3 +86,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [7] | [[2025-05-07_europol_ddos-for-hire-empire-poland-4-administrators-us-9-domains\|DDoS-for-hire empire brought down: Poland arrests 4 administrators, US seizes 9 domains]] | Europol | 2025-05-07 | https://www.europol.europa.eu/media-press/newsroom/news/ddos-for-hire-empire-brought-down-poland-arrests-4-administrators-us-seizes-9-domains |
 | [8] | [[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land\|United States, Australia, and United Kingdom Sanction Russian Cybercrime Infrastructure Supporting Ransomware]] | US Department of the Treasury (OFAC), Press Release SB-0319 | 2025-11-19 | https://home.treasury.gov/news/press-releases/sb0319 |
 | [9] | [[2026-03-20_bka_aisuru-kimwolf-botnet-takedown\|BKA + ZAC NRW — Aisuru/Kimwolf IoT-DDoS botnet takedown via DE-CA-US coordination (Mar 2026); 2 administrators identified (DE+CA), 31.4 Tbps record DDoS attributed]] | Bundeskriminalamt (BKA) + ZAC NRW | 2026-03-20 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260320_PM_Botnetze.html |
+| [10] | [[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen\|BKA — ZIT/HLKA/BKA Hessen-RLP phase of Operation PowerOff: Dstat.CC + Flight RCS DDoS-stresser/clearnet drug-marketplace takedown]] | Bundeskriminalamt | 2024-11-01 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/241031_PM_Festnahme_Cybercrime.html |
