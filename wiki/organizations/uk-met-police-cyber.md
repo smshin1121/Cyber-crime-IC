@@ -3,11 +3,12 @@ type: organization
 title: "Metropolitan Police Cyber Crime Unit"
 status: active
 created: 2026-04-26
-updated: "2026-04-29"
+updated: 2026-05-16
 last_verified: 2026-04-29
 org_type: police-cybercrime-unit
 country: "[[united-kingdom]]"
-jurisdiction: [[united-kingdom]]
+jurisdiction:
+
 parent_org: "[[uk-metropolitan-police]]"
 mandate: "Cybercrime investigation unit associated with London's Metropolitan Police Service."
 key_roles:
@@ -16,14 +17,16 @@ key_roles:
 operations_participated:
   - "[[operation-pleiades]]"
   - "[[rex-mundi-takedown]]"
+  - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
 cooperation_partners:
   - "[[uk-metropolitan-police]]"
   - "[[uk-nca]]"
   - "[[europol-ec3]]"
-source_count: 2
+source_count: 3
 sources:
   - "[[europol-operation-pleiades]]"
   - "[[europol-rex-mundi-hacking-group-takedown]]"
+  - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
 ---
 ## Summary
 

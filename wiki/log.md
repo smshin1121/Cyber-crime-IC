@@ -1,5 +1,19 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 146, single-agent, L23+L24 strict] | Met Police UK-China Bitcoin Money-Laundering Conviction (Zhimin Qian / Seng Hok Ling, Met Police, 29 Sep 2025)
+- Source: `raw/press-releases/2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure.md` (news.met.police.uk own-domain; en).
+- Pages created: `wiki/sources/2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure.md`, `wiki/operations/met-police-china-uk-bitcoin-money-laundering-conviction-2025.md` (provisional, source_count=1).
+- Pages updated: 2 countries (united-kingdom, china); 3 organizations (uk-met-police-cyber, uk-nca, china-mps); 2 crime-types (money-laundering-ic, online-fraud-ic); 2 mechanisms (informal-cooperation, mlat-process); 1 related op (operation-destabilise — related_operations backlink).
+- Key findings:
+  - **L24 strict satisfied**: Met Police DS Isabella Grotto on-record: "These pleas reflect years of hard work across both the UK and China... grateful for the support of the National Crime Agency and the Crown Prosecution Service, and to Chinese law enforcement teams in Tianjin and Beijing with whom we have collaborated throughout." Will Lyne adds: "unprecedented cooperation with Chinese law enforcement." 2 countries' LE explicitly: UK (Met + NCA + CPS) + China (LE teams in Tianjin + Beijing).
+  - **Tier-1 publisher**: `news.met.police.uk` Metropolitan Police Service UK own-domain. 1st Met Police-as-lead op in wiki (prior Met appearances were participating agency).
+  - **L23 compliance**: `lead_agency: "[[uk-met-police-cyber]]"`, `coordinating_body: ""` (CPS kept in body prose, no wiki page); `participating_agencies` only Glob-verified wikilinks (uk-met-police-cyber, uk-nca, china-mps).
+  - **China as cooperating jurisdiction (not adversary)**: this case the suspects defrauded Chinese victims using Chinese-origin scheme then fled to UK with bitcoin; China LE actively cooperated to identify victims. L24 cooperation-jurisdiction qualification confirmed by tier-1 quote.
+  - Op profile: Zhimin Qian (a.k.a. Yadi Zhang, 47, CN-national) + Seng Hok Ling (46) convicted at Southwark Crown Court 29-30 Sep 2025 of money-laundering ~61,000 BTC (~£5.5B / USD ~7.5B at peak) — described in release as "world's largest crypto seizure."
+  - `case_id: CYB-2025-024`.
+  - 5 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed operation-cronos in iter 145 log text — same lint issue surfaced again from iter 145 log entry that referenced [[operation-cronos]] inside backticks) resolved by replacing the bracketed reference with prose; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 145, single-agent, L23+L24 strict] | USSS-Canada Operation Avalanche 2025 — Ethereum Approval-Phishing Disruption (U.S. Secret Service, 16 Apr 2025)
 - Source: `raw/press-releases/2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities.md` (U.S. Secret Service own-domain; en).
 - Pages created: `wiki/sources/2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities.md`, `wiki/operations/usss-canada-operation-avalanche-ethereum-approval-phishing-2025.md` (provisional, source_count=1).
@@ -11,7 +25,7 @@
   - **Disambiguation**: distinct from existing `operation-avalanche.md` (2016 botnet takedown); explicitly noted in new page header. Related to Op Atlantic (2026-03 NCA-led trilateral) as parent → successor — backlink added.
   - Op profile: 2025-04-16 multi-agency action against Ethereum "approval phishing" / pig-butchering networks. Identified blockchain addresses drained of crypto worth ~USD 4.3M. Focus on compromised-wallet identification, victim notification, inter-agency coordination — not arrests/indictments.
   - `case_id: CYB-2025-997`.
-  - 5 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover `[[operation-cronos]]` in iter 144 log text) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - 5 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed operation-cronos in iter 144 log text) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
   - `reconcile_indexes.py` ran: 5 _index.md updated, master `wiki/index.md` updated.
 
 ## [2026-05-16] ingest [iter 144, single-agent, L23+L24 strict] | France-Georgia Belarusian Ransomware Hacker Yauhen Horbach Sentencing (Gendarmerie nationale, 14 May 2025)

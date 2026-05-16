@@ -25,13 +25,15 @@ cooperation_partners:
 operations_participated:
   - "[[myanmar-kokang-scam-compound-crackdown]]"
   - "[[coordinated-cryptocurrency-scam-center-takedown-2026]]"
-source_count: 3
+  - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
+source_count: 4
 sources:
   - https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html
   - https://news.cgtn.com/news/2023-11-21/31-000-telecom-scam-suspects-handed-over-to-China-by-Myanmar-1oUBBpIdweA/index.html
   - https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html
+  - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
 created: 2026-04-10
-updated: 2026-05-09
+updated: 2026-05-16
 last_verified: 2026-05-09
 coverage_status: audit-normalized
 frameworks_administered:
@@ -60,3 +62,4 @@ This page has been normalized for the organization audit: it includes role metad
 | [1] | voanews.com source | voanews.com | n/a | https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html |
 | [2] | news.cgtn.com source | news.cgtn.com | n/a | https://news.cgtn.com/news/2023-11-21/31-000-telecom-scam-suspects-handed-over-to-China-by-Myanmar-1oUBBpIdweA/index.html |
 | [3] | global.chinadaily.com.cn source | global.chinadaily.com.cn | n/a | https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html |
+| [4] | [[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure\|Met Police — World's largest bitcoin seizure: UK-China conviction of Zhimin Qian and Seng Hok Ling for laundering proceeds of CN-origin investment fraud]] | Metropolitan Police Service (UK) | 2025-09-29 | https://news.met.police.uk/news/woman-convicted-following-worlds-largest-seizure-501569 |

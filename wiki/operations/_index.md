@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (272 canonical / 27 absorbed / 299 records)
+# Operations (273 canonical / 27 absorbed / 300 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (272)
+## Canonical Operations (273)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -165,6 +165,7 @@ updated: 2026-04-14
 | [[ukraine-fraudulent-call-centres-takedown-2025]] | CYB-2025-020 | 3 | completed | umbrella | 3 | 4.25 | 1 |
 | [[operation-chakra-iv]] | CYB-2025-021 | 3 | completed | umbrella | 3 | 3.00 | 3 |
 | [[operation-chakra-v]] | CYB-2025-022 | 3 | completed | umbrella | 3 | 3.10 | 3 |
+| [[met-police-china-uk-bitcoin-money-laundering-conviction-2025]] | CYB-2025-024 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
 | [[operation-cumberland-ai-csam-2025]] | CYB-2025-051 | 3 | ongoing | — | 1 | 4.60 | 1 |
 | [[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]] | CYB-2025-085 | 3 | completed | — | 1 | 4.00 | 1 |

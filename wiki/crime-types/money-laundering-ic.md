@@ -82,6 +82,7 @@ notable_operations:
   - "[[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]]"
   - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
   - "[[usss-canada-operation-avalanche-ethereum-approval-phishing-2025]]"
+  - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
 notable_cases:
   - "[[us-v-schmitz-versus-project]]"
   - "[[us-v-jin-pak-alonso-prince-ashtor-dprk-it-workers-2025]]"
@@ -96,7 +97,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally; FATF and Chainalysis estimate hundreds of billions in laundered funds annually across all financial channels"
-source_count: 69
+source_count: 70
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
   - "[[2026-01-29_ace_operation-switch-off-illegal-iptv-ring]]"
@@ -167,6 +168,7 @@ sources:
   - "[[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]]"
   - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
   - "[[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities]]"
+  - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
 created: 2026-04-14
 updated: 2026-05-16
 ---
@@ -293,3 +295,4 @@ This page focuses on the **international cooperation** dimension: how states and
 | [67] | [[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos\|Policía Nacional — Detención del hacker autor de más de 40 ciberataques a organismos estratégicos (Calpe; ES-US/HSI cooperation)]] | Policía Nacional (España) | 2025-02-05 | https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=16448 |
 | [68] | [[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing\|Gendarmerie nationale — Yauhen Horbach (Belarusian) sentenced in Paris; 2,300+ cyberattacks; FR-GE INTERPOL extradition]] | Gendarmerie nationale (France) | 2025-05-14 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/criminalite-organisee-et-enquetes/2025/les-gendarmes-mettent-fin-aux-agissements-d-un-hacker-bielorusse-implique-dans-2-300-cyberattaques-dans-le-monde |
 | [69] | [[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities\|USSS — Operation Avalanche: US-Canada Ethereum approval-phishing disruption with BC Securities Commission + RCMP + provincial partners]] | U.S. Secret Service | 2025-04-16 | https://www.secretservice.gov/newsroom/releases/2025/04/us-secret-service-analysts-work-canadian-officials-disrupt-ethereum |
+| [70] | [[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure\|Met Police — World's largest bitcoin seizure: UK-China conviction of Zhimin Qian and Seng Hok Ling for laundering proceeds of CN-origin investment fraud]] | Metropolitan Police Service (UK) | 2025-09-29 | https://news.met.police.uk/news/woman-convicted-following-worlds-largest-seizure-501569 |

@@ -42,7 +42,7 @@ updated: 2026-04-08
 | [[cbi-india]] | national-agency | New Delhi, India | Lead agency for Operation Chakra series (I-V) against transnational cybercrime; International Operations Division handles cross-border case coordination | 5 | 4 |
 | [[cert-lv]] | national-agency | Latvia | Latvia's national computer security incident response institution.; Provides incident-response and cyber-resilience context distinct from police or prosecution functions. | — | 1 |
 | [[cert-mu]] | national-agency | Mauritius | Mauritius national computer emergency response team.; Provides incident-response and cybersecurity coordination distinct from Mauritius Police cybercrime investigation. | — | 2 |
-| [[china-mps]] | national-agency | Beijing, China | Coordinated Myanmar-Kokang cyber fraud crackdown (2023-2024); Bilateral border law enforcement cooperation with Myanmar, Thailand, Cambodia, Laos, Philippines | 2 | 3 |
+| [[china-mps]] | national-agency | Beijing, China | Coordinated Myanmar-Kokang cyber fraud crackdown (2023-2024); Bilateral border law enforcement cooperation with Myanmar, Thailand, Cambodia, Laos, Philippines | 3 | 4 |
 | [[dod-inspector-general]] | national-agency | United States | Independent oversight office for the US Department of Defense.; Parent organization for [[us-dcis\|Defense Criminal Investigative Service]]. | 1 | 2 |
 | [[dubai-police]] | national-agency | Dubai, United Arab Emirates | Lead emirate-level cybercrime investigations and arrests in Dubai jurisdiction; International liaison for UAE cyber and financial-crime cooperation, including with Interpol and US/EU law-enforcement partners | 1 | 1 |
 | [[dutch-police]] | national-agency | Netherlands | Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles.; Routes current institutional context to [[netherlands-politie]]. | 6 | 3 |
@@ -80,7 +80,7 @@ updated: 2026-04-08
 | [[switzerland-ncsc]] | national-agency | Switzerland | Switzerland's federal cybersecurity office and national cybersecurity coordination point.; Provides national CERT/GovCERT and NCSC/BACS/OFCS continuity context. | — | 2 |
 | [[thailand-police]] | national-agency | Bangkok, Thailand | Variant reference for ambiguous Thai cybercrime police labels.; Routes specific cybercrime-bureau content to [[thailand-royal-police]]. | 2 | 3 |
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 9 | 9 |
-| [[uk-nca]] | national-agency | London, United Kingdom | — | 48 | 14 |
+| [[uk-nca]] | national-agency | London, United Kingdom | — | 49 | 15 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 15 | 5 |
 | [[us-doj]] | national-agency | Washington, D.C., United States | — | 977 | 13 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 23 | 8 |
@@ -134,7 +134,7 @@ updated: 2026-04-08
 | [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 3 | 3 |
 | [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 29 | 9 |
 | [[ncmec]] | nonprofit-clearinghouse | [[united-states]] | Receives and routes child sexual exploitation tips through CyberTipline channels.; Supports law-enforcement victim identification and child-protection investigations. | 3 | 4 |
-| [[uk-met-police-cyber]] | police-cybercrime-unit | [[united-kingdom]] | Supports investigations into cyber extortion, DDoS-for-ransom, and cyber-enabled fraud affecting London or UK victims.; Acts as a UK metropolitan cybercrime partner in Europol-supported operations. | 2 | 2 |
+| [[uk-met-police-cyber]] | police-cybercrime-unit | [[united-kingdom]] | Supports investigations into cyber extortion, DDoS-for-ransom, and cyber-enabled fraud affecting London or UK victims.; Acts as a UK metropolitan cybercrime partner in Europol-supported operations. | 3 | 3 |
 | [[trend-micro]] | private-cybersecurity-company | [[japan]] | Provides malware telemetry, threat intelligence, and technical analysis to INTERPOL-led cybercrime operations.; Appears repeatedly in public-private cooperation chains for BEC, botnet, phishing, and malicious-infrastructure disruptions. | 10 | 6 |
 | [[intel-security]] | private-sector | — | Legacy private-sector security label in older Operation Source / Beebone records.; Represents vendor threat-intelligence support rather than law-enforcement authority. | 1 | 3 |
 | [[kaspersky-lab]] | private-sector | multinational | threat intelligence; malware analysis | 6 | 3 |

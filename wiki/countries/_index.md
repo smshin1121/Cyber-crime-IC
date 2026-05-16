@@ -33,7 +33,7 @@ total: 61
 | 🇨🇮 | [[cote-divoire]] | civil-law | invited-to-accede (2022) | medium | unknown | 4 |
 | 🇨🇱 | [[chile]] | not-assessed | — | unknown | unknown | 1 |
 | 🇨🇲 | [[cameroon]] | mixed | party (2024) | low | unknown | 3 |
-| 🇨🇳 | [[china]] | not-assessed | — | unknown | unknown | 1 |
+| 🇨🇳 | [[china]] | not-assessed | — | unknown | unknown | 2 |
 | 🇨🇴 | [[colombia]] | civil-law | party (2020) | medium | unknown | 6 |
 | 🇨🇷 | [[costa-rica]] | not-assessed | — | unknown | unknown | 1 |
 | 🇨🇾 | [[cyprus]] | civil-law | not-assessed | unknown | unknown | 3 |
@@ -47,7 +47,7 @@ total: 61
 | 🇪🇸 | [[spain]] | civil-law | party (2010) | high | 90-180 | 17 |
 | 🇫🇮 | [[finland]] | civil-law | party (2007) | high | 90-180 | 12 |
 | 🇫🇷 | [[france]] | civil-law | party (2006) | high | 90-180 | 15 |
-| 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 11 |
+| 🇬🇧 | [[united-kingdom]] | common-law | party (2011) | high | 90-180 | 12 |
 | 🇬🇪 | [[georgia]] | not-assessed | — | unknown | unknown | 2 |
 | 🇬🇭 | [[ghana]] | not-assessed | — | unknown | unknown | 0 |
 | 🇬🇲 | [[gambia]] | not-assessed | — | unknown | unknown | 0 |

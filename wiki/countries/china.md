@@ -19,15 +19,17 @@ operations_participated:
   - "[[treasury-integrity-technology-group-flax-typhoon-sanctions-2025]]"
   - "[[treasury-yin-kecheng-sichuan-juxinhe-salt-typhoon-sanctions-2025]]"
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
+  - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
 region: east-asia
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-11-01_korean-press_korea-china-anti-scam-mou-signing]]"
+  - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
 title: "People's Republic of China"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-09
+updated: 2026-05-16
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

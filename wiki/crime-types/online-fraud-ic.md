@@ -109,6 +109,7 @@ notable_operations:
   - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
   - "[[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]]"
   - "[[usss-canada-operation-avalanche-ethereum-approval-phishing-2025]]"
+  - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -126,7 +127,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 102
+source_count: 103
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -230,6 +231,7 @@ sources:
   - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
   - "[[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]]"
   - "[[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities]]"
+  - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
 created: 2026-04-08
 updated: 2026-05-16
 ---
@@ -395,3 +397,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [100] | [[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction\|SPF — Two men extradited from Malaysia, charged in Singapore; multi-jurisdictional Android-malware takedown (Op DISTANTHILL)]] | Singapore Police Force | 2024-06-14 | https://www.police.gov.sg/media-room/news/20240614_two_men_extradited_from_malaysia_to_face_charges_in_sg_for_their_suspected_involvement |
 | [101] | [[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta\|Polizia di Stato — Operazione Trust: Milano-Portugal rip-deal crypto fraud and laundering takedown]] | Polizia di Stato (Italia) — Polizia Postale | 2024-05-31 | https://www.poliziadistato.it/articolo/milano--operazione--trust---frodi-informatiche-e-riciclaggio-di-criptovaluta |
 | [102] | [[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities\|USSS — Operation Avalanche: US-Canada Ethereum approval-phishing disruption with BC Securities Commission + RCMP + provincial partners]] | U.S. Secret Service | 2025-04-16 | https://www.secretservice.gov/newsroom/releases/2025/04/us-secret-service-analysts-work-canadian-officials-disrupt-ethereum |
+| [103] | [[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure\|Met Police — World's largest bitcoin seizure: UK-China conviction of Zhimin Qian and Seng Hok Ling for laundering proceeds of CN-origin investment fraud]] | Metropolitan Police Service (UK) | 2025-09-29 | https://news.met.police.uk/news/woman-convicted-following-worlds-largest-seizure-501569 |
