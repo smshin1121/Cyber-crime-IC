@@ -119,9 +119,10 @@ operations_participated:
   - "[[operation-ragnar-locker-takedown-2023]]"
   - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
   - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
+  - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
-source_count: 20
+source_count: 21
 sources:
   - "[[2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers]]"
   - "[[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors]]"
@@ -143,10 +144,11 @@ sources:
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
   - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
   - "[[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest]]"
+  - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
 status: active
 title: FBI
 type: organization
-updated: 2026-05-16
+updated: 2026-05-17
 jurisdiction: "United States"
 ---
 ## Summary
@@ -181,3 +183,4 @@ The FBI appears across DDoS, malware, darknet, botnet, and fraud records as a U.
 | [18] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |
 | [19] | [[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer\|USAO-WDTX — Hambardzum Minasyan (Armenian co-developer of RedLine infostealer) extradition from NL+BE to US WDTX (post Op Magnus)]] | U.S. Attorney's Office, Western District of Texas (DOJ) | 2026-03-25 | https://www.justice.gov/usao-wdtx/pr/armenian-man-extradited-us-faces-charges-role-infostealing-malware-scheme |
 | [20] | [[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest\|Hellenic Police Cyber Crime Directorate — Operation Endgame Greek limb: VenomRAT mastermind arrest in Attica (FR EAW, FBI on-site)]] | Hellenic Police (astynomia.gr) Cyber Crime Directorate | 2025-11-13 | https://www.astynomia.gr/2025/11/13/13-11-2025-i-elliniki-astynomia-stin-operation-endgame-gia-ton-termatismo-leitourgias-ypodomon-pou-diefkolynoun-to-kyvernoegklima/ |
+| [21] | [[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud\|USAO-WDNC — Gavril Sandu (RO) VoIP-vishing/bank-fraud 2009-2010 extradition from Romania to US after FBI Bucharest LEAT coordination]] | U.S. Attorney's Office, Western District of North Carolina (DOJ) | 2026-05-05 | https://www.justice.gov/usao-wdnc/pr/romanian-national-appears-federal-court-following-extradition-romania-bank-fraud |

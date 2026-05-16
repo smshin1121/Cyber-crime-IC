@@ -56,6 +56,7 @@ notable_operations:
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+  - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
 notable_cases:
 
 criminalization_status:
@@ -64,7 +65,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "South Korea reports large recurring domestic losses; global phone-enabled fraud loss is not consistently separated from wider online-fraud statistics."
-source_count: 33
+source_count: 34
 sources:
   - "[[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]]"
   - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
@@ -99,8 +100,9 @@ sources:
   - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
   - "[[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown]]"
   - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
+  - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
 created: 2026-04-08
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -196,3 +198,4 @@ This distinction prevents the SNA from silently merging all online fraud into vo
 | [31] | [[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests\|Eurojust — Austria-Latvia-Estonia online scams JIT takedown (Oct 2025); 7 arrests, 26 searches, EUR 700K frozen, 1200 SIM boxes + 40K SIM cards + 5 servers seized; 1700+ AT victims, 1500+ LV victims; FI assistance]] | Eurojust | 2025-10-17 | https://www.eurojust.europa.eu/news/decisive-action-against-various-online-scams-austria-and-latvia-seven-arrests |
 | [32] | [[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown\|AFP — AFP-PAOCC-NBI Manila scam call-centre takedown (Operation Firestorm phase 1, Nov 2024); 250+ workers (foreign nationals incl. PRC/VN/ID); first AU-PH scam compound joint takedown]] | Australian Federal Police (AFP) | 2024-11-26 | https://www.afp.gov.au/news-centre/media-release/afp-partners-philippine-authorities-combating-scam-call-centres |
 | [33] | [[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks\|GenStA Berlin + LKA Berlin — DE-AT-PL-CH-SK-CZ Enkeltrick/Schockanruf phone-fraud 7-week action (ISF-LUMEN); 16 arrests, EUR 2M+ prevented]] | Generalstaatsanwaltschaft Berlin + LKA Berlin | 2025-11-12 | https://www.berlin.de/generalstaatsanwaltschaft/presse/pressemitteilungen/2025/pressemitteilung.1615574.php |
+| [34] | [[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud\|USAO-WDNC — Gavril Sandu (RO) VoIP-vishing/bank-fraud 2009-2010 extradition from Romania to US after FBI Bucharest LEAT coordination]] | U.S. Attorney's Office, Western District of North Carolina (DOJ) | 2026-05-05 | https://www.justice.gov/usao-wdnc/pr/romanian-national-appears-federal-court-following-extradition-romania-bank-fraud |

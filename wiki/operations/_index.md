@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (297 canonical / 27 absorbed / 324 records)
+# Operations (298 canonical / 27 absorbed / 325 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (297)
+## Canonical Operations (298)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -310,6 +310,7 @@ updated: 2026-04-14
 | [[aisuru-kimwolf-iot-botnet-takedown-2026]] | CYB-2026-896 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[veriftools-fake-id-marketplace-followup-arrests-2026]] | CYB-2026-939 | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[eurojust-fake-medicines-supplements-online-takedown-2026]] | CYB-2026-989 | 3 | completed | umbrella | 1 | 4.40 | 1 |
+| [[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]] | CYB-2026-991 | 3 | ongoing | — | 1 | 4.50 | 1 |
 
 ## Absorbed Follow-On Records (27)
 

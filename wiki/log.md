@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-17] ingest [iter 172, single-agent, L23+L24+L25 strict] | US-Romania Gavril Sandu VoIP-Vishing/Bank-Fraud Extradition (USAO-WDNC, 5 May 2026)
+- Source: `raw/press-releases/2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud.md` (justice.gov USAO-WDNC own-domain; en).
+- Pages created: `wiki/sources/2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud.md`, `wiki/operations/usao-wdnc-sandu-romania-voip-vishing-extradition-2026.md` (provisional, source_count=1).
+- Pages updated: 2 countries (united-states, romania); 3 organizations (us-doj, fbi, office-of-international-affairs); 3 crime-types (bank-fraud-ic, voice-phishing-ic, hacking-ic); 2 mechanisms (extradition, mlat-process); 1 legal framework (budapest-convention).
+- Key findings:
+  - **L24 strict satisfied**: USAO-WDNC release names "The investigation was coordinated by FBI Charlotte, with the support of the U.S. Department of Justice's Office of International Affairs, the FBI's Attaché Office in Bucharest, and Romanian authorities" — 2 countries' LE/prosecutor agencies explicitly: US (USAO-WDNC + FBI Charlotte + DOJ OIA + FBI Bucharest LEAT) + Romania (judicial/police executing extradition under 1924 US-Romania treaty).
+  - **Tier-1 publisher**: `justice.gov/usao-wdnc` USAO Western District of North Carolina own-domain. 3rd USAO regional this session (after EDNY iter 156, WDTX iter 169). Akamai-protected; quote sourced from tier-2 mirrors reproducing verbatim DOJ release.
+  - **L23 compliance**: `lead_agency: "[[us-doj]]"`, `coordinating_body: "[[fbi]]"`; `participating_agencies` Glob-verified wikilinks only.
+  - Op profile: Gavril Sandu (53, RO national) indicted Charlotte 2017-11-14 for 2009-2010 VoIP-vishing/bank-fraud scheme; arrested in Romania 2026-01-09; extradited to US 2026-04-30; first federal court appearance ~2026-05-05.
+  - `case_id: CYB-2026-991`.
+  - 7 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest [iter 171, single-agent, L23+L24+L25 strict] | Operation Chargeback 10-Jurisdiction Payment-Processor Card-Fraud Takedown (GenStA Koblenz/LZC, 5 Nov 2025)
 - Source: `raw/press-releases/2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke.md` (gstko.justiz.rlp.de Generalstaatsanwaltschaft Koblenz own-domain; de).
 - Pages created: `wiki/sources/2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke.md`, `wiki/operations/operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025.md` (provisional, source_count=1).

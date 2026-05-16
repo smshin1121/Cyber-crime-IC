@@ -51,13 +51,14 @@ operations_using:
   - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
   - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+  - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
 cases_using:
   - "[[us-v-szabo-swatting-ring]]"
 related_mechanisms:
   - "[[24-7-network]]"
   - "[[europol-jit]]"
   - "[[direct-provider-request]]"
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-04-29_congress-gov_us-australia-mlat-treaty-document-105-27]]"
   - "[[2026-04-29_congress-gov_korea-us-mlat-treaty-document-104-1]]"
@@ -71,8 +72,9 @@ sources:
   - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
   - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
   - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
+  - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
 created: 2026-04-08
-updated: 2026-05-16
+updated: 2026-05-17
 status: active
 ---
 ## Summary
@@ -111,3 +113,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [10] | [[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware\|USAO-EDNY — Ukrainian national Artem Stryzhak (Nefilim ransomware affiliate) pleads guilty after Spain extradition; thanks Spanish LE]] | U.S. Attorney's Office, Eastern District of New York | 2025-12-19 | https://www.justice.gov/usao-edny/pr/ukrainian-national-pleads-guilty-conspiracy-use-ransomware-0 |
 | [11] | [[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network\|GStA Bamberg/ZCB — DE-Kosovo-Costa Rica-Israel investment-fraud network: extradition + indictment (€4.5M DE / €21M worldwide)]] | Generalstaatsanwaltschaft Bamberg (ZCB Bayern) | 2026-01-23 | https://www.justiz.bayern.de/gerichte-und-behoerden/generalstaatsanwaltschaft/bamberg/presse/2026/3.php |
 | [12] | [[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks\|GenStA Berlin + LKA Berlin — DE-AT-PL-CH-SK-CZ Enkeltrick/Schockanruf phone-fraud 7-week action (ISF-LUMEN); 16 arrests, EUR 2M+ prevented]] | Generalstaatsanwaltschaft Berlin + LKA Berlin | 2025-11-12 | https://www.berlin.de/generalstaatsanwaltschaft/presse/pressemitteilungen/2025/pressemitteilung.1615574.php |
+| [13] | [[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud\|USAO-WDNC — Gavril Sandu (RO) VoIP-vishing/bank-fraud 2009-2010 extradition from Romania to US after FBI Bucharest LEAT coordination]] | U.S. Attorney's Office, Western District of North Carolina (DOJ) | 2026-05-05 | https://www.justice.gov/usao-wdnc/pr/romanian-national-appears-federal-court-following-extradition-romania-bank-fraud |

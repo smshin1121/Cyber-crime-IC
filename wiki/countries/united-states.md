@@ -243,8 +243,9 @@ operations_participated:
   - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
   - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
   - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
+  - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
 region: north-america
-source_count: 35
+source_count: 36
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -281,6 +282,7 @@ sources:
   - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
   - "[[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest]]"
   - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
+  - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29
@@ -292,7 +294,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 

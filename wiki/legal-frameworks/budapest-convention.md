@@ -42,6 +42,7 @@ operations_enabled:
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
   - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
+  - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
 parties:
   notable_non_parties:
     - Russia
@@ -61,7 +62,7 @@ scope:
   jurisdiction: true
   procedural_law: true
   substantive_law: true
-source_count: 13
+source_count: 14
 sources:
   - "[[2026-04-17_coe-int_about-the-convention-budapest-convention]]"
   - "[[2026-04-17_coe-int_parties-observers-to-the-budapest-convention]]"
@@ -76,11 +77,12 @@ sources:
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
   - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
+  - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
 sponsoring_body: "[[council-of-europe]]"
 status: in-force
 title: "Budapest Convention on Cybercrime"
 type: legal-framework
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -210,3 +212,4 @@ South Korea has been **invited to accede** but is **not yet a party** in the Cou
 | [11] | [[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware\|Polizia di Stato — Operazione ELICIUS: IT-FR-RO joint task force vs. 'Diskstation' Romanian-national NAS-ransomware gang (Bucharest searches Jun 2024 → Jul 2025 announcement, Milan GIP custody)]] | Polizia di Stato — Servizio Polizia Postale (commissariatodips.it) | 2025-07-14 | https://www.commissariatodips.it/notizie/articolo/operazione-elicius-individuata-pericolosa-gang-hacker-internazionale-diskstation/index.html |
 | [12] | [[2025-06-06_interpol_operation-vibora-csam-20-arrests\|INTERPOL — Operation Vibora: Spain-led LatAm CSAM takedown (20 arrests, 11 countries, June 2025)]] | INTERPOL General Secretariat | 2025-06-06 | https://www.interpol.int/en/News-and-Events/News/2025/20-arrested-in-international-operation-targeting-child-sexual-abuse-material |
 | [13] | [[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware\|USAO-EDNY — Ukrainian national Artem Stryzhak (Nefilim ransomware affiliate) pleads guilty after Spain extradition; thanks Spanish LE]] | U.S. Attorney's Office, Eastern District of New York | 2025-12-19 | https://www.justice.gov/usao-edny/pr/ukrainian-national-pleads-guilty-conspiracy-use-ransomware-0 |
+| [14] | [[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud\|USAO-WDNC — Gavril Sandu (RO) VoIP-vishing/bank-fraud 2009-2010 extradition from Romania to US after FBI Bucharest LEAT coordination]] | U.S. Attorney's Office, Western District of North Carolina (DOJ) | 2026-05-05 | https://www.justice.gov/usao-wdnc/pr/romanian-national-appears-federal-court-following-extradition-romania-bank-fraud |
