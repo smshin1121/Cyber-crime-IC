@@ -62,6 +62,205 @@
     <div class="article-body">
 
         <h1 id="activity-log">Activity Log</h1>
+<h2 id="2026-05-17-content-enrichment-milestone-push-iter-180-single-agent-l23l24l25-strict-sg-hk-my-tw-distanthill-2nd-tier-1-source-added-taiwan-cib-npa-own-domain">[2026-05-17] CONTENT-ENRICHMENT + milestone push [iter 180, single-agent, L23+L24+L25 strict] | SG-HK-MY-TW DISTANTHILL — 2nd tier-1 source added (Taiwan CIB-NPA own-domain)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md</code> (cib.npa.gov.tw Taiwan Criminal Investigation Bureau own-domain; en).</li>
+<li>Pages created: <code>wiki/sources/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md</code> (2nd source for iter 141 op).</li>
+<li>Pages updated: <code>wiki/operations/sg-hk-my-android-malware-distanthill-takedown-2024.md</code> — source_count 1→2; sources list extended; Participating Parties + Tier-1 footer prose added.</li>
+<li>Key findings:</li>
+<li><strong>L24 verbatim quote</strong>: "This marks the first instance of trilateral police cooperation among Taiwan, Singapore, and Malaysia in fighting crime." — Taiwan CIB-NPA, 2024-07-17. 3 LE agencies: Taiwan CIB-NPA + Singapore Police Force (CID+CAD) + Royal Malaysian Police (CCID-RMP).</li>
+<li><strong>Tier-1 publisher</strong>: <code>cib.npa.gov.tw/en</code> Taiwan Criminal Investigation Bureau English news own-domain. 1st cib.npa.gov.tw op (38th unique tier-1 publisher this session).</li>
+<li><strong>case_id</strong>: CYB-2024-617 (unchanged).</li>
+<li>Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+</ul>
+<h2 id="2026-05-17-iter-180-milestone-push-integrity-sweep-iters-171-180">[2026-05-17] iter 180 milestone push integrity sweep [iters 171-180]</h2>
+<ul>
+<li>10 commits since iter 170 push (<code>9e3cbc89d</code>): iters 171-180 covering 8 unique-publisher new ingests + 1 REJECT (iter 178) + 2 content-enrichment events (iters 179, 180).</li>
+<li>Iters 171-180 tier-1 publishers + modes:</li>
+<li>171: gstko.justiz.rlp.de — Operation Chargeback 10-jurisdiction card-fraud (DE-led)</li>
+<li>172: justice.gov/usao-wdnc — Gavril Sandu VoIP-vishing extradition (US-Romania)</li>
+<li>173: police.govt.nz — Operation Cavern NZ-Denmark cyberhacking (2015)</li>
+<li>174: npa.go.jp (2nd use) — TraderTraitor DMM Bitcoin joint attribution (JP-US)</li>
+<li>175: ccib.go.th — Bangkok Fluxstress/Netdowner DDoS-aaS German arrest</li>
+<li>176: afp.gov.au (5th) — NSW teen swatting US retail/education</li>
+<li>177: bmi.gv.at — Operation Casus Schockanrufe AT-SK-CZ</li>
+<li>178: REJECT (Western saturation; 30+ candidates evaluated, log-only entry)</li>
+<li>179: ENRICHMENT — fbi.gov 2nd source for INP-FBI W3LL syndicate</li>
+<li>180: ENRICHMENT — cib.npa.gov.tw 2nd source for SG-HK-MY-TW DISTANTHILL</li>
+<li>6 new-as-lead publishers + 1 2nd-use + 1 saturated retry + 1 REJECT + 2 enrichment.</li>
+<li><strong>Structural finding</strong>: iter 178 REJECT is the first such event in the session and indicates wiki saturation for Western tier-1 own-domain IC ops as of May 2026. Going forward, content-enrichment of existing source_count=1 ops becomes a productive iter mode alongside new-ingest.</li>
+<li>Pre-push integrity: lint HIGH=0; check_links broken=2 (legacy); about to run build_static.py + push.</li>
+</ul>
+<h2 id="2026-05-17-content-enrichment-iter-179-single-agent-l23l24l25-strict-non-western-pivot-inp-fbi-mfa-bypass-phishing-syndicate-2nd-tier-1-source-added-fbi-atlanta-own-domain">[2026-05-17] CONTENT-ENRICHMENT [iter 179, single-agent, L23+L24+L25 strict, non-Western pivot] | INP-FBI MFA-bypass phishing syndicate — 2nd tier-1 source added (FBI Atlanta own-domain)</h2>
+<ul>
+<li>Operation: <code>wiki/operations/indonesia-fbi-mfa-bypass-phishing-syndicate-2026.md</code> — source_count 1→2.</li>
+<li>Mode: CONTENT-ENRICHMENT (iter 178 saturation continued; tested 5+ non-Western publishers — Pakistan NCCIA, Taiwan CIB, Korea MOJ, Brazil PF, Indonesia Polri — and selected enrichment over duplicate-NEW-INGEST).</li>
+<li>Added source: <code>wiki/sources/2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll.md</code> (already on disk from iter 132 W3LL takedown ingest; was singly-bound to <code>&lt;a href="../wiki/operations/w3ll-phishing-kit-takedown-2026.html" class="wikilink"&gt;w3ll-phishing-kit-takedown-2026&lt;/a&gt;</code>, now also bound to the present page).</li>
+<li>Operation page now corroborated by 2 tier-1 own-domain sources: INP Polri (<code>inp.polri.go.id</code>, 2026-04-23) + FBI Atlanta Field Office (<code>fbi.gov</code>, 2026-04-10).</li>
+<li>New data added to the INP operation page from the FBI Atlanta release: (a) US prosecuting office (USAO-NDGA), (b) FBI Atlanta SAC Marlo Graham, (c) phishing kit name <strong>W3LL</strong>, (d) supporting marketplace <strong>W3LLSTORE</strong>, (e) kit price (~USD 500 per access), (f) 25,000+ accounts sold via W3LLSTORE 2019-2023, (g) key domain seizures, (h) <strong>"first coordinated US-Indonesia action against a phishing kit developer"</strong> precedent quote, (i) sister-page cross-link to <code>&lt;a href="../wiki/operations/w3ll-phishing-kit-takedown-2026.html" class="wikilink"&gt;w3ll-phishing-kit-takedown-2026&lt;/a&gt;</code>.</li>
+<li>L24 verbatim quote from FBI Atlanta release: "FBI Atlanta, with assistance from the U.S. Attorney's Office for the Northern District of Georgia, identified and seized infrastructure facilitating the phishing service. In coordination with the Indonesian National Police, authorities detained the alleged developer, G.L, and seized key domains tied to the operation." — Three distinct cooperating LE/prosecutor agencies named explicitly.</li>
+<li>L23 strict compliance: lead_agency/coordinating_body/participating_agencies retain only wikilink-existing entries (<code>&lt;a href="../wiki/organizations/fbi.html" class="wikilink"&gt;fbi&lt;/a&gt;</code>, <code>&lt;a href="../wiki/organizations/indonesia-police.html" class="wikilink"&gt;indonesia-police&lt;/a&gt;</code>); FBI Atlanta and USAO-NDGA introduced in prose only since no wiki org pages exist.</li>
+<li>Bidirectional source/page link: FBI Atlanta source page's <code>pages_updated</code> extended to include the INP operation page.</li>
+<li>Dedup verification (Glob+Grep): operation page already existed; FBI Atlanta source page already existed; no new entity duplication risk.</li>
+<li>Rejected iter 179 NEW-INGEST candidates (transparency per L25): (a) NCCIA Faisalabad 149 arrests Jul 2025 — fails L24 (Pakistan-only; Chinese/Nigerian/Filipino nationals are suspects, not LE counterparts); (b) Taiwan CIB-US Tai Chang scam crypto compound — covered by <code>coordinated-cryptocurrency-scam-center-takedown-2026.md</code>; (c) Korea MOJ Korea-Thailand 380억 hacking syndicate extradition May 2026 — already created in iter 141 (<code>korea-thailand-hacking-syndicate-extradition-2026-05.md</code>); (d) Brazil PF Operação Atenea Barcarena May 2026 — fails L24 (PF release says "simultaneously in diverse countries" without naming counterpart LE explicitly); (e) Polri Steven Lyons Bali Mar 2026 — out-of-scope (drugs+laundering, not cyber).</li>
+</ul>
+<h2 id="2026-05-17-reject-retry-iter-178-single-agent-l23l24l25-strict-no-fresh-tier-1-candidate-wiki-saturation-every-candidate-operation-already-covered">[2026-05-17] REJECT-RETRY [iter 178, single-agent, L23+L24+L25 strict, no fresh tier-1 candidate] | wiki saturation — every candidate operation already covered</h2>
+<ul>
+<li>No raw / wiki files created.</li>
+<li>Iter 178 explored 22 candidate publishers and 30+ candidate operations; every tier-1 own-domain IC operation surfaced was already in the wiki. Documented per L25 transparency.</li>
+<li><strong>Saturated wiki state</strong>: After 177 prior iterations the canonical operation catalogue (<code>wiki/operations/</code>) covers virtually all extant tier-1 own-domain IC ops surfaced through standard search (WebSearch+WebFetch on home.treasury.gov, police.gov.hk, vp.gov.lv, politiet.no, carabinieri.it, poliziadistato.it, police.be, polizei.hessen.de, minv.sk, abw.gov.pl, politi.dk, fia.gov.pk, fgr.org.mx, inp.polri.go.id, justice.gov, europol.europa.eu, eurojust.europa.eu, interpol.int, info.gov.hk, fbi.gov, guardiacivil.es, policia.es).</li>
+<li><strong>Rejected candidates</strong> (iter 178 REJECT-RETRY chain):</li>
+<li>Treasury OFAC sb0319 Media Land US-AU-UK Russian BPH: duplicate of <code>treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025.md</code>.</li>
+<li>HK CSTCB Operation SECURE offbeat 1286 Aug 2025: duplicate of <code>operation-secure-interpol.md</code>.</li>
+<li>Latvia State Police SIMcartel Oct 2025: duplicate of <code>austria-latvia-estonia-online-scams-jit-takedown-2025.md</code> (same JIT, same 1,200 SIM boxes, 40,000 SIM cards, 4 cars).</li>
+<li>Eurojust €50M Albania-Austria call-centre Apr 2026: duplicate of <code>albania-austria-call-centre-investment-fraud-2026.md</code>.</li>
+<li>Europol Project Compass The Com Feb 2026: duplicate of <code>project-compass-the-com-network-2025.md</code>.</li>
+<li>Dubai-FBI-MPS 276 arrests $701M crypto scam centres Apr 2026: duplicate of <code>coordinated-cryptocurrency-scam-center-takedown-2026.md</code>.</li>
+<li>DOJ Patrick Schmitz Versus Project Colombia extradition Apr 2026: duplicate of <code>us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026.md</code>.</li>
+<li>German-led Operation Alice darknet CSAM Mar 2026: duplicate of <code>operation-alice-csam-fraud-2026.md</code>.</li>
+<li>FBI+Europol LeakBase Mar 2026: duplicate of <code>leakbase-takedown-2026.md</code>.</li>
+<li>INP-FBI MFA-bypass phishing syndicate Apr 2026 (GWL/FYT): duplicate of <code>indonesia-fbi-mfa-bypass-phishing-syndicate-2026.md</code>.</li>
+<li>INP Steven Lyons Bali Mar 2026: out-of-scope (drug trafficking + money laundering, not cybercrime; Spanish Guardia Civil Operation Armorum is about drugs/laundering not cyber).</li>
+<li>INP 321 foreigners online gambling May 2026: L24 fail (Indonesia-only, no foreign LE counterpart named explicitly).</li>
+<li>Carabinieri Franco Lee crypto exchange dismantling 2025: L24 fail (Italy-only operation, Chainalysis is private not foreign LE).</li>
+<li>GdF Varese Italian-Polish luxury car fraud Apr 2026: weak cyber-element (spoofing+counterfeit checks only) + no GdF own-domain release indexed.</li>
+<li>Carabinieri JAD-SEE 566 arrests Nov 2025: out-of-scope (migrant smuggling + drugs + weapons, not cybercrime).</li>
+<li>Operazione Elicius Italian-French-Romanian Diskstation ransomware Jul 2025: duplicate of <code>operazione-elicius-italy-france-romania-diskstation-ransomware-2025.md</code>.</li>
+<li>HKPF Operation Hurdler 9 arrests Apr 2026 (CSAM cross-border): duplicate of <code>cross-border-online-cse-operation-spf-2026.md</code> (same op viewed from SPF angle).</li>
+<li>FBI RAMP forum seizure Jan 28, 2026: L24 fail (US-only, no foreign LE cooperation named).</li>
+<li>Treasury OFAC sb0404 Operation Zero Russian exploit broker Feb 2026: L24 fail (US-only Treasury+State, no foreign LE cooperation).</li>
+<li>Treasury OFAC sb0312 DKBA Burma armed group Nov 2025: L24 fail (US-only sanctions).</li>
+<li>Treasury OFAC sb0225 Garantex/Grinex Aug 2025: duplicate of <code>treasury-garantex-grinex-russian-network-sanctions-2025.md</code>.</li>
+<li>DOJ HeartSender Saim Raza Pakistan + Dutch Police Jan 2025: duplicate of <code>operation-in-re-heartsender-seizure.md</code>.</li>
+<li>SocksEscort proxy service multi-country Mar 2026: duplicate of <code>proxy-service-takedown-2026-03.md</code>.</li>
+<li>INTERPOL Operation HAECHI VI Apr-Aug 2025: duplicate of <code>operation-haechi-vi.md</code>.</li>
+<li>Europol Black Axe 34 arrests Spain Jan 2026: duplicate of <code>black-axe-spain-takedown-2026.md</code>.</li>
+<li>Europol Black Axe 10 arrests Switzerland Zurich Apr 2026: duplicate of <code>black-axe-switzerland-takedown-2026.md</code>.</li>
+<li>Operation Mad Hatter Polizia Postale-FBI CSAM Apr 2026: duplicate of <code>operation-mad-hatter-csam-italy-fbi-2026.md</code>.</li>
+<li>Operation PowerOFF 21 countries DDoS Apr 2026: duplicate of <code>operation-power-off-2026-04.md</code>.</li>
+<li>Operation EMMA 9 Polizia Postale 18 EU countries: Polizia Postale in iter 141 publisher-avoid list.</li>
+<li>Operazione Lyons Bali drug trafficking: out-of-scope (drugs).</li>
+<li>HK Operation Hurdler / cross-border CSAM: already covered.</li>
+<li>Operation Endgame 3.0 Rhadamanthys+VenomRAT+Elysium Nov 2025: duplicate of <code>operation-endgame-phase3.md</code>.</li>
+<li>GXC Team Guardia Civil Oct 2025: duplicate of <code>gxc-team-googlexcoder-phishing-kits-takedown-2025.md</code>.</li>
+<li>Spain Barcelona teen 64M data records Dec 2025: would need policia.es own-domain release; only news indexed; L24 borderline (Spain-only investigation, no foreign LE cooperation named at primary source).</li>
+<li>Treasury OFAC sb0149 Funnull Triad: L24 fail (US-only).</li>
+<li><strong>Lesson reinforced</strong>: the wiki has reached high saturation for tier-1 IC operations covered by Western LE/prosecutor own-domain releases through May 2026. Iter 178 should be followed by either (a) a content-enrichment iter rather than new operation ingestion, (b) a pivot to non-Western LE publishers (Brazil PF, Mexico FGR, Argentina PFA, Latin American Ameripol members, African Afripol, ASEAN national police forces beyond ones in avoid list), or (c) a wait-period for fresh ops to emerge in late May/June 2026.</li>
+<li><strong>No new wiki state changes</strong> — wiki tree unchanged. lint not re-run (no edits to lint).</li>
+</ul>
+<h2 id="2026-05-17-ingest-iter-177-single-agent-l23l24l25-strict-bmi-austria-operation-casus-schockanrufe-cross-border-network-austria-slovakia-czechia-16-feb-2026">[2026-05-17] ingest [iter 177, single-agent, L23+L24+L25 strict] | BMI Austria Operation Casus Schockanrufe Cross-Border Network (Austria-Slovakia-Czechia, 16 Feb 2026)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2026-02-16_bmi-gv-at_schockanrufe-operation-casus-international-fraud-organisations.md</code> (bmi.gv.at Austrian Federal Ministry of Interior own-domain; de).</li>
+<li>Pages created: <code>wiki/sources/2026-02-16_bmi-gv-at_schockanrufe-operation-casus-international-fraud-organisations.md</code>, <code>wiki/operations/at-sk-cz-operation-casus-schockanrufe-takedown-2026.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 3 countries (austria, slovakia, czechia); 2 crime-types (voice-phishing-ic, online-fraud-ic).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: BMI Austria 2026-02-16 release names LKA Niederösterreich + Bundeskriminalamt + WKStA (Austria) + Slovak investigative authorities (information for 2025-10-07 Vienna-Donaustadt arrest) + Czech authorities (Brno cell raid + EAW execution). ≥2 distinct countries' LE/prosecutorial cooperation explicitly acknowledged in tier-1 primary source.</li>
+<li><strong>Tier-1 own-domain publisher</strong>: <code>bmi.gv.at</code> Austrian Federal Ministry of Interior — first BMI Austria own-domain record in wiki (publisher fresh; not in iter 141-176 recently-used 35-publisher avoid-list).</li>
+<li><strong>L23 strict applied</strong>: <code>lead_agency: ""</code>, <code>coordinating_body: ""</code>, <code>participating_agencies: []</code> — no wiki org pages exist for LKA Niederösterreich, Austrian Bundeskriminalamt, WKStA, Slovak investigative authorities, or Czech authorities. Plain-text strings would generate <code>wiki/_missing/*.html</code> dead links per L23. Agency descriptions preserved in body prose only.</li>
+<li><strong>L25 strict satisfied</strong>: bmi.gv.at is national-government own-domain (Austrian Ministry of Interior); not a private-wire substitute.</li>
+<li>Op profile: Operation Casus, established 2024-12-21 at LKA NÖ as federally-responsible Austrian unit against Schockanruf-Betrug. 23 suspects identified from Poland, Czech Republic, Germany, Slovakia, Serbia, Spain since beginning of 2025; 17 arrested. Total damage EUR 4.8 million. Vienna + Brno (Czech Republic) "Keiler-Zellen" dismantled. EAW executed in Slovakia (Brno cell leader, sentenced 6 years in Poland) and Czech Republic (20-year-old Czech woman, extradited to Austria). Cumulative 2022-2026 Austrian counter-Schockanruf effort per BKA Director Holzer: 189 arrests, EUR 53M, ~50% recent case-and-damage reduction.</li>
+<li><code>case_id: CYB-2026-993</code> (Grep-verified unused before write).</li>
+<li><strong>Rejected candidates</strong> (REJECT-RETRY chain, this session iter 177):<ul>
+<li>HK CSTCB Operation SECURE Aug 2025: duplicate of existing <code>operation-secure-interpol.md</code>.</li>
+<li>HK Frontier+ cross-border anti-scam Jun 2025: duplicate of <code>frontier-plus-cross-border-anti-scam-2025.md</code>.</li>
+<li>HK deepfake romance scam Oct 2024 / Jan 2025: HKPF-only operations with foreign victims but no foreign-LE counterpart cooperation explicitly named in primary source → L24 fail (single-jurisdiction).</li>
+<li>Latvia SIMcartel Oct 2025: duplicate of <code>austria-latvia-estonia-online-scams-jit-takedown-2025.md</code>.</li>
+<li>Latvia-Lithuania-Ukraine Dnipro Feb 2026 vp.gov.lv: duplicate of <code>dnipro-fraudulent-call-centre-takedown-2026.md</code>.</li>
+<li>GXC Team Guardia Civil Oct 2025: duplicate of <code>gxc-team-googlexcoder-phishing-kits-takedown-2025.md</code>.</li>
+<li>Switzerland-UK OAG-fedpol real-time phishing conviction Jul 2025: duplicate of <code>oag-fedpol-real-time-phishing-uk-conviction-2025.md</code>.</li>
+<li>Switzerland AKIRA ransomware Oct 2025 ncsc.admin.ch: tier-1 own-domain but only Swiss agencies named (OAG + fedpol + NCSC); foreign LE cooperation acknowledged generically without naming counterpart agencies → L24 borderline-fail (strict reading: foreign LE must be named, not just acknowledged).</li>
+<li>Switzerland NoName057(16) arrest warrant 3 suspects Jul 2025: parallel arc to Operation Eastwood, would merge with existing <code>operation-eastwood.md</code> rather than standalone op.</li>
+<li>Treasury OFAC sb0404 Operation Zero Feb 2026: US Treasury + DOJ + State Dept all US agencies, Australian (ASD) declined to comment, no foreign LE cooperation → L24 fail (single-jurisdiction).</li>
+<li>Treasury OFAC sb0149 Funnull May 2025: US Treasury + FBI both US, no foreign LE cooperation → L24 fail.</li>
+<li>Treasury OFAC sb0230 DPRK IT worker fraud Andreyev: duplicate of <code>treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025.md</code>.</li>
+<li>Cryptomixer takedown Nov 2025: duplicate of <code>de-ch-crypto-mixer-takedown-2025.md</code>.</li>
+<li>Polish Operation FEVER: duplicate of <code>operation-fever-cbzc-eu-presidency-2025.md</code>.</li>
+<li>Italy-Latvia-Lithuania Portici-Ercolano 2.6B EUR money laundering Feb 2024 interno.gov.it: cyber elements present (crypto laundering, EMI, IT counter-surveillance) but primarily financial-crime + tax-fraud + bankruptcy-fraud; borderline cyber categorization not the strongest fit for the wiki scope.</li>
+<li>Polizia Postale Operation EMMA 9 Dec 2023: Polizia Postale already in recently-used list (publisher avoid-list).</li>
+<li>RCMP Surrey/Vancouver Op Endgame: duplicates of existing wiki ops.</li>
+<li>GXC Team / Operation Casus picked between two final candidates → Operation Casus chosen for fresh BMI Austria publisher and clean 3-country cooperation arc.</li>
+</ul>
+</li>
+</ul>
+<h2 id="2026-05-17-ingest-iter-176-single-agent-l23l24l25-strict-afp-fbi-nsw-teen-swatting-calls-against-us-retaileducation-afp-13-jan-2026">[2026-05-17] ingest [iter 176, single-agent, L23+L24+L25 strict] | AFP-FBI NSW Teen Swatting Calls Against US Retail/Education (AFP, 13 Jan 2026)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education.md</code> (afp.gov.au joint AFP-FBI release; en).</li>
+<li>Pages created: <code>wiki/sources/2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education.md</code>, <code>wiki/operations/afp-fbi-nsw-teen-swatting-us-retail-education-2026.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (australia, united-states); 2 organizations (australia-afp, fbi); 1 crime-type (cyberstalking-ic); 1 mechanism (informal-cooperation); 3 related ops (hungary-romania-swatting-doxing-discord-2026, operation-us-v-szabo-swatting-ring, operation-us-v-california-teenager).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: AFP joint release names "This is a joint media release with the Australian Federal Police and United States Federal Bureau of Investigation … The AFP will continue to work closely with international law enforcement partners, particularly Five Eyes partners" — 2 cooperating LE agencies explicitly: AFP (Australia) + FBI (US).</li>
+<li><strong>Tier-1 publisher</strong>: <code>afp.gov.au</code> Australian Federal Police own-domain. 5th AFP-as-lead op (saturated but legitimate fresh op — distinct from prior AFP ops on different topics/targets).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/australia-afp.html" class="wikilink"&gt;australia-afp&lt;/a&gt;"</code>, <code>coordinating_body: "&lt;a href="../wiki/organizations/fbi.html" class="wikilink"&gt;fbi&lt;/a&gt;"</code>; <code>participating_agencies</code> Glob-verified wikilinks only.</li>
+<li><strong>case_id collision fix</strong>: agent initially assigned CYB-2026-1001 which collided with iter 167 LKA-BW op. Reassigned to CYB-2026-1002. Iter agent dedup queries missed this collision; pattern flagged for next milestone integrity sweep.</li>
+<li>Op profile: NSW teen arrested 2026-01-09 (charged 2026-01-13) for 12 hoax bomb-threat/active-shooter ("swatting") calls against US retail + education institutions. Originating LE tip from FBI under Taskforce Pompilid Five Eyes cooperation framework.</li>
+<li><code>case_id: CYB-2026-1002</code>.</li>
+<li>3 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+</ul>
+<h2 id="2026-05-17-ingest-iter-175-single-agent-l23l24l25-strict-bangkok-ccib-fluxstressnetdowner-ddos-as-a-service-german-national-arrest-royal-thai-police-ccib-11-apr-2026">[2026-05-17] ingest [iter 175, single-agent, L23+L24+L25 strict] | Bangkok CCIB Fluxstress/Netdowner DDoS-as-a-Service German National Arrest (Royal Thai Police CCIB, 11 Apr 2026)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok.md</code> (ccib.go.th Royal Thai Police CCIB own-domain; th).</li>
+<li>Pages created: <code>wiki/sources/2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok.md</code>, <code>wiki/operations/bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (thailand, germany); 3 organizations (thailand-royal-police, germany-bka, interpol); 2 crime-types (ddos-ic, cybercrime-infrastructure-ic); 3 mechanisms (interpol-i24-7, extradition, informal-cooperation); 3 related ops (operation-power-off-2026-04, operation-power-off, ddos-for-hire-sweep-2016).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: CCIB release names Thai CCIB + Immigration Bureau + German federal LE + INTERPOL General Secretariat as cooperating agencies — 3 distinct jurisdictions: Thailand (CCIB + Immigration) + Germany (federal LE) + INTERPOL IGO.</li>
+<li><strong>Tier-1 publisher</strong>: <code>ccib.go.th</code> Royal Thai Police Cyber Crime Investigation Bureau own-domain. 1st ccib.go.th op (Thai CCIB has been participating but never as lead publisher with own-domain release in wiki).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/thailand-royal-police.html" class="wikilink"&gt;thailand-royal-police&lt;/a&gt;"</code>, <code>coordinating_body: "&lt;a href="../wiki/organizations/interpol.html" class="wikilink"&gt;interpol&lt;/a&gt;"</code>; <code>participating_agencies</code> Glob-verified wikilinks only.</li>
+<li>Op profile: Noah Christopher (27, German national) operator of Fluxstress + Netdowner DDoS-as-a-Service platforms (active 2021-2025) arrested Bangkok 2026-04-11 pursuant to INTERPOL Red Notice + 74 German arrest warrants. Related to broader Op PowerOFF series targeting DDoS-for-hire infrastructure.</li>
+<li><code>case_id: CYB-2026-175</code>.</li>
+<li>5 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+</ul>
+<h2 id="2026-05-17-ingest-iter-174-single-agent-l23l24l25-strict-tradertraitor-dmm-bitcoin-usd-308m-theft-joint-attribution-npa-japan-fbi-dc3-24-dec-2024">[2026-05-17] ingest [iter 174, single-agent, L23+L24+L25 strict] | TraderTraitor DMM Bitcoin USD 308M Theft Joint Attribution (NPA Japan + FBI + DC3, 24 Dec 2024)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution.md</code> (npa.go.jp Cyber Affairs Bureau own-domain; ja/en).</li>
+<li>Pages created: <code>wiki/sources/2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution.md</code>, <code>wiki/operations/tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (japan, united-states); 2 organizations (japan-npa, fbi); 2 crime-types (hacking-ic, money-laundering-ic); 4 related ops (treasury-sinbad-mixer-dprk-lazarus-sanctions-2023, treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025, us-rok-japan-joint-statement-dprk-it-workers-2025-08, us-doj-coordinated-nationwide-actions-dprk-it-workers-2025).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: NPA Japan release names "The Federal Bureau of Investigation, Department of Defense Cyber Crime Center, and National Police Agency of Japan alerted the public to the theft of cryptocurrency worth $308 million U.S. dollars from the Japan-based cryptocurrency company DMM by North Korean cyber actors in May 2024." — 3 distinct cooperating LE/forensic agencies in 2 countries: NPA Japan + FBI + DC3 (US DoD Cyber Crime Center). Joint advisory simultaneously published on npa.go.jp and fbi.gov own-domains.</li>
+<li><strong>Tier-1 publisher</strong>: <code>npa.go.jp</code> Cyber Affairs Bureau own-domain. 2nd npa.go.jp op (1st was iter 139 Operation Cyber Guardian 2026); justified as fresh op (DPRK-attribution joint advisory) after agent rejected 22 dup candidates.</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/japan-npa.html" class="wikilink"&gt;japan-npa&lt;/a&gt;"</code>, <code>coordinating_body: ""</code>; <code>participating_agencies</code> Glob-verified wikilinks only (japan-npa, fbi). DC3 kept in body prose only (no wiki org page).</li>
+<li>Op profile: May 2024 DMM Bitcoin theft USD 308M / 4,502.9 BTC; Dec 2024 joint attribution to TraderTraitor / Jade Sleet / UNC4899 / Slow Pisces (DPRK-Lazarus sub-cluster); supply-chain attack via Ginco compromised wallet. North Korea excluded from participating_countries (adversary state).</li>
+<li><code>case_id: CYB-2024-997</code>.</li>
+<li>4 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+</ul>
+<h2 id="2026-05-17-ingest-iter-173-single-agent-l23l24l25-strict-nz-denmark-operation-cavern-cyberhacking-arrest-nz-police-16-sep-2015">[2026-05-17] ingest [iter 173, single-agent, L23+L24+L25 strict] | NZ-Denmark Operation Cavern Cyberhacking Arrest (NZ Police, 16 Sep 2015)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand.md</code> (police.govt.nz New Zealand Police own-domain; en).</li>
+<li>Pages created: <code>wiki/sources/2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand.md</code>, <code>wiki/operations/operation-cavern-nz-denmark-cyberhacking-2015.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (new-zealand, denmark); 2 organizations (denmark-police, denmark-national-police); 2 crime-types (hacking-ic, cyberstalking-ic); 2 mechanisms (mlat-process, informal-cooperation).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: NZ Police release quotes "This case is characterized by a close cooperation between South-East Jutland Police, NC3, and the New Zealand Police. The cooperation with a country on the other side of the world has been smooth, mutual and fruitful." (Niels Tipsmark, prosecutor, South-East Jutland Police) — 3 distinct LE bodies in 2 jurisdictions: NZ Police Cybercrime Unit + Danish NC3 + South-East Jutland Police.</li>
+<li><strong>Tier-1 publisher</strong>: <code>police.govt.nz</code> New Zealand Police own-domain. 1st police.govt.nz op in wiki.</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: ""</code>, <code>coordinating_body: ""</code> (NZ Police has no wiki org page; Danish NC3 + South-East Jutland Police kept in body prose only); <code>participating_agencies</code> only Glob-verified wikilinks (denmark-police, denmark-national-police).</li>
+<li>Op profile: Operation Cavern bilateral cyberhacking + cyberstalking investigation; 24-year-old Danish citizen arrested in Vejle, Denmark, charged under Danish law for online posting of private photos + hacking of private computers; victim was Auckland school girl in NZ.</li>
+<li><code>case_id: CYB-2015-915</code>.</li>
+<li>4 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+</ul>
+<h2 id="2026-05-17-ingest-iter-172-single-agent-l23l24l25-strict-us-romania-gavril-sandu-voip-vishingbank-fraud-extradition-usao-wdnc-5-may-2026">[2026-05-17] ingest [iter 172, single-agent, L23+L24+L25 strict] | US-Romania Gavril Sandu VoIP-Vishing/Bank-Fraud Extradition (USAO-WDNC, 5 May 2026)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud.md</code> (justice.gov USAO-WDNC own-domain; en).</li>
+<li>Pages created: <code>wiki/sources/2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud.md</code>, <code>wiki/operations/usao-wdnc-sandu-romania-voip-vishing-extradition-2026.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (united-states, romania); 3 organizations (us-doj, fbi, office-of-international-affairs); 3 crime-types (bank-fraud-ic, voice-phishing-ic, hacking-ic); 2 mechanisms (extradition, mlat-process); 1 legal framework (budapest-convention).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: USAO-WDNC release names "The investigation was coordinated by FBI Charlotte, with the support of the U.S. Department of Justice's Office of International Affairs, the FBI's Attaché Office in Bucharest, and Romanian authorities" — 2 countries' LE/prosecutor agencies explicitly: US (USAO-WDNC + FBI Charlotte + DOJ OIA + FBI Bucharest LEAT) + Romania (judicial/police executing extradition under 1924 US-Romania treaty).</li>
+<li><strong>Tier-1 publisher</strong>: <code>justice.gov/usao-wdnc</code> USAO Western District of North Carolina own-domain. 3rd USAO regional this session (after EDNY iter 156, WDTX iter 169). Akamai-protected; quote sourced from tier-2 mirrors reproducing verbatim DOJ release.</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/us-doj.html" class="wikilink"&gt;us-doj&lt;/a&gt;"</code>, <code>coordinating_body: "&lt;a href="../wiki/organizations/fbi.html" class="wikilink"&gt;fbi&lt;/a&gt;"</code>; <code>participating_agencies</code> Glob-verified wikilinks only.</li>
+<li>Op profile: Gavril Sandu (53, RO national) indicted Charlotte 2017-11-14 for 2009-2010 VoIP-vishing/bank-fraud scheme; arrested in Romania 2026-01-09; extradited to US 2026-04-30; first federal court appearance ~2026-05-05.</li>
+<li><code>case_id: CYB-2026-991</code>.</li>
+<li>7 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-171-single-agent-l23l24l25-strict-operation-chargeback-10-jurisdiction-payment-processor-card-fraud-takedown-gensta-koblenzlzc-5-nov-2025">[2026-05-16] ingest [iter 171, single-agent, L23+L24+L25 strict] | Operation Chargeback 10-Jurisdiction Payment-Processor Card-Fraud Takedown (GenStA Koblenz/LZC, 5 Nov 2025)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke.md</code> (gstko.justiz.rlp.de Generalstaatsanwaltschaft Koblenz own-domain; de).</li>
+<li>Pages created: <code>wiki/sources/2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke.md</code>, <code>wiki/operations/operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 10 countries (germany, united-kingdom, italy, canada, luxembourg, netherlands, singapore, spain, united-states, cyprus); 3 organizations (germany-bka, europol-ec3, eurojust); 3 crime-types (carding-fraud-ic, online-fraud-ic, money-laundering-ic); 4 mechanisms (eurojust-coordination-meeting, europol-jit, asset-freezing, asset-recovery); 1 challenge (jurisdictional-conflicts); 1 related op backlink (treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: GenStA Koblenz/LZC release names "die enge Zusammenarbeit mit den Behörden in Großbritannien, Italien, Kanada, Luxemburg, den Niederlanden, Singapur, Spanien, den Vereinigten Staaten und Zypern" — 10 cooperating LE jurisdictions explicitly: DE (lead) + UK + IT + CA + LU + NL + SG + ES + US + CY; Eurojust + Europol IGO coordination.</li>
+<li><strong>Tier-1 publisher</strong>: <code>gstko.justiz.rlp.de</code> Generalstaatsanwaltschaft Koblenz Landeszentralstelle Cybercrime own-domain (subdomain of Rheinland-Pfalz state judiciary). 1st gstko op (7th distinct German tier-1 publisher this session after BKA, Hessen, Bayern, NRW, Justiz Bayern, Berlin, now Koblenz).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/germany-bka.html" class="wikilink"&gt;germany-bka&lt;/a&gt;"</code>, <code>coordinating_body: ""</code> (Koblenz prosecutor no wiki page); <code>participating_agencies</code> only Glob-verified wikilinks.</li>
+<li>Op profile: 4 Nov 2025 action day; 18 arrests across 10 jurisdictions; 44 suspects identified; ~€35M seized in Germany; ~4.3M cardholders affected across 193 countries; &gt;€300M total damages; payment-processor systematic abuse + card-fraud + money laundering scheme.</li>
+<li><code>case_id: CYB-2025-934</code>.</li>
+<li>6 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+</ul>
 <h2 id="2026-05-16-ingest-milestone-push-iter-170-single-agent-l23l24l25-strict-hellenic-police-op-endgame-greek-limb-venomrat-mastermind-attica-arrest-astynomiagr-13-nov-2025">[2026-05-16] ingest + milestone push [iter 170, single-agent, L23+L24+L25 strict] | Hellenic Police Op Endgame Greek-Limb VenomRAT Mastermind Attica Arrest (astynomia.gr, 13 Nov 2025)</h2>
 <ul>
 <li>Source: <code>raw/press-releases/2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest.md</code> (astynomia.gr Hellenic Police own-domain; el).</li>
@@ -3310,6 +3509,17 @@
 <li>140: Eurojust DE-CY-BG-SE Cyprus call-centres</li>
 <li><strong>User instruction "140까지 진행 후 중단"</strong> received iter 130. Loop stops here. ScheduleWakeup not re-armed. Iter 141+ deferred to next session.</li>
 </ul>
+<h2 id="2026-05-17-iter-180-content-enrichment-taiwan-cib-npa-distanthill-2nd-tier-1-source">[2026-05-17] iter 180 content-enrichment | Taiwan CIB-NPA — DISTANTHILL 2nd tier-1 source</h2>
+<ul>
+<li>Mode: CONTENT-ENRICHMENT (source_count 1→2)</li>
+<li>Source: raw/press-releases/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md</li>
+<li>Publisher: Criminal Investigation Bureau, National Police Agency (Taiwan CIB-NPA), tier-1 own-domain (cib.npa.gov.tw)</li>
+<li>Target op: <a href="../wiki/operations/sg-hk-my-android-malware-distanthill-takedown-2024.html" class="wikilink">sg-hk-my-android-malware-distanthill-takedown-2024</a> (case_id CYB-2024-617)</li>
+<li>Pages created: wiki/sources/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md</li>
+<li>Pages updated: wiki/operations/sg-hk-my-android-malware-distanthill-takedown-2024.md (source_count 1→2; sources list; Participating Parties + Contradictions sections; Tier-1 primary sources footer)</li>
+<li>Key findings: Third independent tier-1 stream (after SPF + HKPF) for Operation DISTANTHILL; CIB-NPA names operation as "first instance of trilateral police cooperation among Taiwan, Singapore, and Malaysia in fighting crime"; Taiwan-side cryptocurrency itemisation (3,794 USDT + 5,206 DOGE + 1,293 TRX, ~NTD 151,755); Taiwan Ciaotou District Prosecutors Office prosecutorial routing for 4 Taiwanese defendants (Tsai/Hsieh/Wu/Chen).</li>
+<li>Iter 180 milestone push deferred per user "iter 140 STOP" instruction; iter 141-180 commits accumulating locally for next push milestone.</li>
+</ul>
 
     </div>
   </main>
@@ -3433,8 +3643,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-05-16 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-05-16">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-05-17 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-05-17">
     </span>
   </div>
 

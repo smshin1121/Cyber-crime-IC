@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (302 canonical / 27 absorbed / 329 records)
+# Operations (303 canonical / 27 absorbed / 330 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (302)
+## Canonical Operations (303)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -140,7 +140,7 @@ updated: 2026-04-14
 | [[nemesis-market-takedown]] | CYB-2024-357 | 3 | completed | umbrella | 5 | — | — |
 | [[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]] | CYB-2024-461 | 3 | completed | standalone | 1 | 3.60 | 1 |
 | [[operation-kraken-ghost-platform]] | CYB-2024-542 | 3 | completed | umbrella | 7 | — | — |
-| [[sg-hk-my-android-malware-distanthill-takedown-2024]] | CYB-2024-617 | 3 | completed | — | 1 | 4.20 | 1 |
+| [[sg-hk-my-android-malware-distanthill-takedown-2024]] | CYB-2024-617 | 3 | completed | — | 2 | 4.20 | 1 |
 | [[operation-toy-soldier-gru-29155-estonia-2024]] | CYB-2024-665 | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[operation-endgame]] | CYB-2024-799 | 3 | ongoing | umbrella | 9 | — | — |
 | [[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]] | CYB-2024-859 | 3 | completed | — | 1 | 4.50 | 1 |
@@ -276,7 +276,7 @@ updated: 2026-04-14
 | [[operation-token-mirrors-2026]] | CYB-2026-038 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[hakkari-illegal-betting-fraud-network-bosnia-arrest-2026]] | CYB-2026-039 | 3 | ongoing | — | 1 | 3.60 | 1 |
 | [[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]] | CYB-2026-040 | 3 | completed | — | 1 | 3.40 | 1 |
-| [[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]] | CYB-2026-064 | 3 | completed | standalone | 1 | 3.40 | 1 |
+| [[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]] | CYB-2026-064 | 3 | completed | standalone | 2 | 3.40 | 1 |
 | [[operation-candy-encrypted-comms-drugs-2026]] | CYB-2026-068 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[us-doj-iranian-mois-handala-domain-seizure-2026]] | CYB-2026-072 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[pf-belgium-extradition-arrest-sao-paulo-2026]] | CYB-2026-074 | 3 | ongoing | — | 1 | 3.60 | 1 |
@@ -315,6 +315,7 @@ updated: 2026-04-14
 | [[veriftools-fake-id-marketplace-followup-arrests-2026]] | CYB-2026-939 | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[eurojust-fake-medicines-supplements-online-takedown-2026]] | CYB-2026-989 | 3 | completed | umbrella | 1 | 4.40 | 1 |
 | [[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]] | CYB-2026-991 | 3 | ongoing | — | 1 | 4.50 | 1 |
+| [[at-sk-cz-operation-casus-schockanrufe-takedown-2026]] | CYB-2026-993 | 3 | ongoing | — | 1 | 4.00 | 1 |
 
 ## Absorbed Follow-On Records (27)
 

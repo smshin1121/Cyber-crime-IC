@@ -1,5 +1,32 @@
 # Activity Log
 
+## [2026-05-17] CONTENT-ENRICHMENT + milestone push [iter 180, single-agent, L23+L24+L25 strict] | SG-HK-MY-TW DISTANTHILL — 2nd tier-1 source added (Taiwan CIB-NPA own-domain)
+- Source: `raw/press-releases/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md` (cib.npa.gov.tw Taiwan Criminal Investigation Bureau own-domain; en).
+- Pages created: `wiki/sources/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md` (2nd source for iter 141 op).
+- Pages updated: `wiki/operations/sg-hk-my-android-malware-distanthill-takedown-2024.md` — source_count 1→2; sources list extended; Participating Parties + Tier-1 footer prose added.
+- Key findings:
+  - **L24 verbatim quote**: "This marks the first instance of trilateral police cooperation among Taiwan, Singapore, and Malaysia in fighting crime." — Taiwan CIB-NPA, 2024-07-17. 3 LE agencies: Taiwan CIB-NPA + Singapore Police Force (CID+CAD) + Royal Malaysian Police (CCID-RMP).
+  - **Tier-1 publisher**: `cib.npa.gov.tw/en` Taiwan Criminal Investigation Bureau English news own-domain. 1st cib.npa.gov.tw op (38th unique tier-1 publisher this session).
+  - **case_id**: CYB-2024-617 (unchanged).
+  - Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
+## [2026-05-17] iter 180 milestone push integrity sweep [iters 171-180]
+- 10 commits since iter 170 push (`9e3cbc89d`): iters 171-180 covering 8 unique-publisher new ingests + 1 REJECT (iter 178) + 2 content-enrichment events (iters 179, 180).
+- Iters 171-180 tier-1 publishers + modes:
+  - 171: gstko.justiz.rlp.de — Operation Chargeback 10-jurisdiction card-fraud (DE-led)
+  - 172: justice.gov/usao-wdnc — Gavril Sandu VoIP-vishing extradition (US-Romania)
+  - 173: police.govt.nz — Operation Cavern NZ-Denmark cyberhacking (2015)
+  - 174: npa.go.jp (2nd use) — TraderTraitor DMM Bitcoin joint attribution (JP-US)
+  - 175: ccib.go.th — Bangkok Fluxstress/Netdowner DDoS-aaS German arrest
+  - 176: afp.gov.au (5th) — NSW teen swatting US retail/education
+  - 177: bmi.gv.at — Operation Casus Schockanrufe AT-SK-CZ
+  - 178: REJECT (Western saturation; 30+ candidates evaluated, log-only entry)
+  - 179: ENRICHMENT — fbi.gov 2nd source for INP-FBI W3LL syndicate
+  - 180: ENRICHMENT — cib.npa.gov.tw 2nd source for SG-HK-MY-TW DISTANTHILL
+- 6 new-as-lead publishers + 1 2nd-use + 1 saturated retry + 1 REJECT + 2 enrichment.
+- **Structural finding**: iter 178 REJECT is the first such event in the session and indicates wiki saturation for Western tier-1 own-domain IC ops as of May 2026. Going forward, content-enrichment of existing source_count=1 ops becomes a productive iter mode alongside new-ingest.
+- Pre-push integrity: lint HIGH=0; check_links broken=2 (legacy); about to run build_static.py + push.
+
 ## [2026-05-17] CONTENT-ENRICHMENT [iter 179, single-agent, L23+L24+L25 strict, non-Western pivot] | INP-FBI MFA-bypass phishing syndicate — 2nd tier-1 source added (FBI Atlanta own-domain)
 - Operation: `wiki/operations/indonesia-fbi-mfa-bypass-phishing-syndicate-2026.md` — source_count 1→2.
 - Mode: CONTENT-ENRICHMENT (iter 178 saturation continued; tested 5+ non-Western publishers — Pakistan NCCIA, Taiwan CIB, Korea MOJ, Brazil PF, Indonesia Polri — and selected enrichment over duplicate-NEW-INGEST).
@@ -3131,3 +3158,14 @@
   - 139: NPA Operation Cyber Guardian 2026 (Asia 7-country, 1st BN in participating_countries)
   - 140: Eurojust DE-CY-BG-SE Cyprus call-centres
 - **User instruction "140까지 진행 후 중단"** received iter 130. Loop stops here. ScheduleWakeup not re-armed. Iter 141+ deferred to next session.
+
+## [2026-05-17] iter 180 content-enrichment | Taiwan CIB-NPA — DISTANTHILL 2nd tier-1 source
+
+- Mode: CONTENT-ENRICHMENT (source_count 1→2)
+- Source: raw/press-releases/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md
+- Publisher: Criminal Investigation Bureau, National Police Agency (Taiwan CIB-NPA), tier-1 own-domain (cib.npa.gov.tw)
+- Target op: [[sg-hk-my-android-malware-distanthill-takedown-2024]] (case_id CYB-2024-617)
+- Pages created: wiki/sources/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md
+- Pages updated: wiki/operations/sg-hk-my-android-malware-distanthill-takedown-2024.md (source_count 1→2; sources list; Participating Parties + Contradictions sections; Tier-1 primary sources footer)
+- Key findings: Third independent tier-1 stream (after SPF + HKPF) for Operation DISTANTHILL; CIB-NPA names operation as "first instance of trilateral police cooperation among Taiwan, Singapore, and Malaysia in fighting crime"; Taiwan-side cryptocurrency itemisation (3,794 USDT + 5,206 DOGE + 1,293 TRX, ~NTD 151,755); Taiwan Ciaotou District Prosecutors Office prosecutorial routing for 4 Taiwanese defendants (Tsai/Hsieh/Wu/Chen).
+- Iter 180 milestone push deferred per user "iter 140 STOP" instruction; iter 141-180 commits accumulating locally for next push milestone.
