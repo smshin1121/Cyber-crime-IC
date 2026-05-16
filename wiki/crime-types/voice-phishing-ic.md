@@ -52,6 +52,7 @@ notable_operations:
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
+  - "[[at-sk-cz-operation-casus-schockanrufe-takedown-2026]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"

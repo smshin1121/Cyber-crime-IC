@@ -1,5 +1,36 @@
 # Activity Log
 
+## [2026-05-17] ingest [iter 177, single-agent, L23+L24+L25 strict] | BMI Austria Operation Casus Schockanrufe Cross-Border Network (Austria-Slovakia-Czechia, 16 Feb 2026)
+- Source: `raw/press-releases/2026-02-16_bmi-gv-at_schockanrufe-operation-casus-international-fraud-organisations.md` (bmi.gv.at Austrian Federal Ministry of Interior own-domain; de).
+- Pages created: `wiki/sources/2026-02-16_bmi-gv-at_schockanrufe-operation-casus-international-fraud-organisations.md`, `wiki/operations/at-sk-cz-operation-casus-schockanrufe-takedown-2026.md` (provisional, source_count=1).
+- Pages updated: 3 countries (austria, slovakia, czechia); 2 crime-types (voice-phishing-ic, online-fraud-ic).
+- Key findings:
+  - **L24 strict satisfied**: BMI Austria 2026-02-16 release names LKA Niederösterreich + Bundeskriminalamt + WKStA (Austria) + Slovak investigative authorities (information for 2025-10-07 Vienna-Donaustadt arrest) + Czech authorities (Brno cell raid + EAW execution). ≥2 distinct countries' LE/prosecutorial cooperation explicitly acknowledged in tier-1 primary source.
+  - **Tier-1 own-domain publisher**: `bmi.gv.at` Austrian Federal Ministry of Interior — first BMI Austria own-domain record in wiki (publisher fresh; not in iter 141-176 recently-used 35-publisher avoid-list).
+  - **L23 strict applied**: `lead_agency: ""`, `coordinating_body: ""`, `participating_agencies: []` — no wiki org pages exist for LKA Niederösterreich, Austrian Bundeskriminalamt, WKStA, Slovak investigative authorities, or Czech authorities. Plain-text strings would generate `wiki/_missing/*.html` dead links per L23. Agency descriptions preserved in body prose only.
+  - **L25 strict satisfied**: bmi.gv.at is national-government own-domain (Austrian Ministry of Interior); not a private-wire substitute.
+  - Op profile: Operation Casus, established 2024-12-21 at LKA NÖ as federally-responsible Austrian unit against Schockanruf-Betrug. 23 suspects identified from Poland, Czech Republic, Germany, Slovakia, Serbia, Spain since beginning of 2025; 17 arrested. Total damage EUR 4.8 million. Vienna + Brno (Czech Republic) "Keiler-Zellen" dismantled. EAW executed in Slovakia (Brno cell leader, sentenced 6 years in Poland) and Czech Republic (20-year-old Czech woman, extradited to Austria). Cumulative 2022-2026 Austrian counter-Schockanruf effort per BKA Director Holzer: 189 arrests, EUR 53M, ~50% recent case-and-damage reduction.
+  - `case_id: CYB-2026-993` (Grep-verified unused before write).
+  - **Rejected candidates** (REJECT-RETRY chain, this session iter 177):
+    - HK CSTCB Operation SECURE Aug 2025: duplicate of existing `operation-secure-interpol.md`.
+    - HK Frontier+ cross-border anti-scam Jun 2025: duplicate of `frontier-plus-cross-border-anti-scam-2025.md`.
+    - HK deepfake romance scam Oct 2024 / Jan 2025: HKPF-only operations with foreign victims but no foreign-LE counterpart cooperation explicitly named in primary source → L24 fail (single-jurisdiction).
+    - Latvia SIMcartel Oct 2025: duplicate of `austria-latvia-estonia-online-scams-jit-takedown-2025.md`.
+    - Latvia-Lithuania-Ukraine Dnipro Feb 2026 vp.gov.lv: duplicate of `dnipro-fraudulent-call-centre-takedown-2026.md`.
+    - GXC Team Guardia Civil Oct 2025: duplicate of `gxc-team-googlexcoder-phishing-kits-takedown-2025.md`.
+    - Switzerland-UK OAG-fedpol real-time phishing conviction Jul 2025: duplicate of `oag-fedpol-real-time-phishing-uk-conviction-2025.md`.
+    - Switzerland AKIRA ransomware Oct 2025 ncsc.admin.ch: tier-1 own-domain but only Swiss agencies named (OAG + fedpol + NCSC); foreign LE cooperation acknowledged generically without naming counterpart agencies → L24 borderline-fail (strict reading: foreign LE must be named, not just acknowledged).
+    - Switzerland NoName057(16) arrest warrant 3 suspects Jul 2025: parallel arc to Operation Eastwood, would merge with existing `operation-eastwood.md` rather than standalone op.
+    - Treasury OFAC sb0404 Operation Zero Feb 2026: US Treasury + DOJ + State Dept all US agencies, Australian (ASD) declined to comment, no foreign LE cooperation → L24 fail (single-jurisdiction).
+    - Treasury OFAC sb0149 Funnull May 2025: US Treasury + FBI both US, no foreign LE cooperation → L24 fail.
+    - Treasury OFAC sb0230 DPRK IT worker fraud Andreyev: duplicate of `treasury-sanctions-dprk-it-worker-network-andreyev-chinyong-2025.md`.
+    - Cryptomixer takedown Nov 2025: duplicate of `de-ch-crypto-mixer-takedown-2025.md`.
+    - Polish Operation FEVER: duplicate of `operation-fever-cbzc-eu-presidency-2025.md`.
+    - Italy-Latvia-Lithuania Portici-Ercolano 2.6B EUR money laundering Feb 2024 interno.gov.it: cyber elements present (crypto laundering, EMI, IT counter-surveillance) but primarily financial-crime + tax-fraud + bankruptcy-fraud; borderline cyber categorization not the strongest fit for the wiki scope.
+    - Polizia Postale Operation EMMA 9 Dec 2023: Polizia Postale already in recently-used list (publisher avoid-list).
+    - RCMP Surrey/Vancouver Op Endgame: duplicates of existing wiki ops.
+    - GXC Team / Operation Casus picked between two final candidates → Operation Casus chosen for fresh BMI Austria publisher and clean 3-country cooperation arc.
+
 ## [2026-05-17] ingest [iter 176, single-agent, L23+L24+L25 strict] | AFP-FBI NSW Teen Swatting Calls Against US Retail/Education (AFP, 13 Jan 2026)
 - Source: `raw/press-releases/2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education.md` (afp.gov.au joint AFP-FBI release; en).
 - Pages created: `wiki/sources/2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education.md`, `wiki/operations/afp-fbi-nsw-teen-swatting-us-retail-education-2026.md` (provisional, source_count=1).

@@ -15,6 +15,7 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+  - "[[at-sk-cz-operation-casus-schockanrufe-takedown-2026]]"
 source_count: 3
 sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"

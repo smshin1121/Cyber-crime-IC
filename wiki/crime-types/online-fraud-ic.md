@@ -96,6 +96,7 @@ notable_operations:
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
   - "[[sweden-us-bank-impersonation-fraud-extradition-2026]]"
+  - "[[at-sk-cz-operation-casus-schockanrufe-takedown-2026]]"
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"

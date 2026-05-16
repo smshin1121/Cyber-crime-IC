@@ -38,6 +38,7 @@ operations_participated:
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+  - "[[at-sk-cz-operation-casus-schockanrufe-takedown-2026]]"
 notable_cases:
 
 cooperation_assessment: ""

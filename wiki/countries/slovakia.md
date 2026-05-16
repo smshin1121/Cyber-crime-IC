@@ -17,6 +17,7 @@ verification_scope: "country profile not verified beyond linked operation/source
 operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+  - "[[at-sk-cz-operation-casus-schockanrufe-takedown-2026]]"
 ---
 ## Summary
 
