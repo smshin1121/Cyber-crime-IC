@@ -1,5 +1,51 @@
 # Activity Log
 
+## [2026-05-16] ingest + milestone push [iter 150, single-agent, L23+L24 strict, L25 added] | NL-ES Bank-Helpdesk Fraud / AnyDesk-Takeover Arrest in Estepona (Politie NL, 29 Apr 2025)
+- Source: `raw/press-releases/2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak.md` (politie.nl own-domain; nl).
+- Pages created: `wiki/sources/2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak.md`, `wiki/operations/nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025.md` (provisional, source_count=1).
+- Pages updated: 2 countries (netherlands, spain); 2 organizations (netherlands-politie, spain-national-police); 2 crime-types (online-fraud-ic, bank-fraud-ic); 2 mechanisms (mlat-process, informal-cooperation).
+- Key findings:
+  - **L24 strict satisfied**: Politie NL release names "werd hij in Estepona aangehouden door de Spaanse Policia Nacional, UDYCO Greco Costa del Sol" — 2 LE explicitly: Politie Nederland (Limburg) + Spanish Policia Nacional UDYCO Greco Costa del Sol.
+  - **Tier-1 publisher**: `politie.nl` Dutch National Police own-domain. 1st politie.nl-as-lead op (prior NL appearances were via om.nl or as participating agency).
+  - **L23 compliance**: `lead_agency: ""`, `coordinating_body: ""` (Openbaar Ministerie Parket Limburg kept in body prose, no wiki page); `participating_agencies` only Glob-verified wikilinks (netherlands-politie, spain-national-police).
+  - Op profile: Dutch suspect (33, b. NL, residing in Estepona, ES) impersonating Nationale Postcode Loterij (NL national lottery) helpdesk + abusing AnyDesk remote-control to seize victims' online banking sessions; arrested by Spanish Policia Nacional 2025-04-29; 3-address searches; phones/laptops seized.
+  - `case_id: CYB-2025-999`.
+  - 2 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
+## [2026-05-16] LESSONS L25 added — private community-news wires (Village Media etc.) reproducing tier-1 releases are NOT tier-1
+- Triggered by iter 143 REJECT-RETRY (OPP Project Atlas via orilliamatters.com / Village Media community-news wire).
+- L25 rule: if a tier-1 LE/prosecutor publisher has no own-domain release URL AND no state-wire reproduction (BTA / Yonhap / ANSA / Tribrata News Polri etc.), REJECT the operation rather than substitute a private-wire URL.
+- Disqualified outlets: Village Media (orilliamatters.com / barrietoday.com / ptbotoday.ca / renfrewtoday.ca / norfolktoday.ca / sydenhamcurrent.ca / pembroketoday.ca), CTV, ANI, AP, Reuters, Bloomberg, 99bitcoins, X/Twitter feeds.
+- Likely recurring pattern: Canadian provincial police (RCMP K-Division, OPP, SPVM, BC), US Sheriff's offices, NZ Police local releases.
+
+## [2026-05-16] iter 150 milestone push integrity sweep [iters 141-150]
+- 10 commits since iter 140 push (`2b570368c`): iters 141-150 covering 10 unique-publisher ingests + 1 REJECT-RETRY incident.
+- Iters 141-150 tier-1 publishers introduced/promoted (own-domain strict — L25 enforced):
+  - 141: SPF Singapore (police.gov.sg) — 2nd SPF op after iter 133 single-suspect repatriation
+  - 142: Polizia di Stato Italia (poliziadistato.it) — 2nd after iter 132 Cagliostro
+  - 143: Policía Nacional España (policia.es) — 2nd after iter 131; REJECT-RETRY from OPP Village Media
+  - 144: Gendarmerie nationale France (gendarmerie.interieur.gouv.fr) — 1st 1st-party
+  - 145: U.S. Secret Service (secretservice.gov) — 1st USSS-as-lead
+  - 146: Metropolitan Police UK (news.met.police.uk) — 1st Met-as-lead
+  - 147: Policie ČR Czech (policie.gov.cz) — 1st Czech-as-lead (1순위 candidate, never previously used)
+  - 148: FBI San Diego (fbi.gov) — 1st FBI-as-lead
+  - 149: Eurojust (eurojust.europa.eu) — 4th Eurojust-led
+  - 150: Politie NL (politie.nl) — 1st politie.nl-as-lead
+- Iters 141-150 inscope tier-1 ops summary:
+  - 141: SPF-HKPF-RMP Android malware DISTANTHILL (4-jurisdiction: SG-HK-MY-TW)
+  - 142: Italy-Portugal Operazione Trust rip-deal crypto fraud
+  - 143: Spain-US Calpe hacker arrest — Policía Nacional + HSI; REJECT-RETRY first
+  - 144: France-Georgia Belarusian ransomware Yauhen Horbach
+  - 145: USSS-Canada Op Avalanche 2025 Ethereum approval-phishing
+  - 146: Met-CN UK-China Zhimin Qian ~61K BTC money-laundering
+  - 147: Czech-FBI-Europol darknet CSAM top-3 distributor arrest
+  - 148: FBI-RTP Tai Chang scam-center domain seizure (US-TH)
+  - 149: Eurojust RO-BG-HU-PL-MD fake medicines/supplements takedown (5-country)
+  - 150: Politie NL-ES Policia Nacional bank-helpdesk fraud arrest in Estepona
+- LESSONS impact: **L25 added** (2026-05-16, iter 143) — private community-news wires reproducing tier-1 LE releases are NOT tier-1.
+- Pattern issue resolved: 4 consecutive iters (144-148) hit a recurring log-text broken_wikilink to the legacy `operation-cronos` slug — the lint scans wikilink patterns even inside backticks/code-fences. Solution applied: rewrote log entries to use prose-only references (no brackets) when documenting placeholder-like slugs.
+- About to run full integrity sweep (lint·check_links·ZZPROT·build_static.py) and push to origin/master.
+
 ## [2026-05-16] ingest [iter 149, single-agent, L23+L24 strict] | Eurojust RO-BG-HU-PL-MD Fake Medicines & Supplements Online Takedown (Eurojust, 14 May 2026)
 - Source: `raw/press-releases/2026-05-14_eurojust_fake-medicines-supplements-online-takedown.md` (Eurojust own-domain; en).
 - Pages created: `wiki/sources/2026-05-14_eurojust_fake-medicines-supplements-online-takedown.md`, `wiki/operations/eurojust-fake-medicines-supplements-online-takedown-2026.md` (provisional, source_count=1).

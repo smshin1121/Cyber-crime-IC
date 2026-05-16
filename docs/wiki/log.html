@@ -62,6 +62,187 @@
     <div class="article-body">
 
         <h1 id="activity-log">Activity Log</h1>
+<h2 id="2026-05-16-ingest-milestone-push-iter-150-single-agent-l23l24-strict-l25-added-nl-es-bank-helpdesk-fraud-anydesk-takeover-arrest-in-estepona-politie-nl-29-apr-2025">[2026-05-16] ingest + milestone push [iter 150, single-agent, L23+L24 strict, L25 added] | NL-ES Bank-Helpdesk Fraud / AnyDesk-Takeover Arrest in Estepona (Politie NL, 29 Apr 2025)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak.md</code> (politie.nl own-domain; nl).</li>
+<li>Pages created: <code>wiki/sources/2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak.md</code>, <code>wiki/operations/nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (netherlands, spain); 2 organizations (netherlands-politie, spain-national-police); 2 crime-types (online-fraud-ic, bank-fraud-ic); 2 mechanisms (mlat-process, informal-cooperation).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: Politie NL release names "werd hij in Estepona aangehouden door de Spaanse Policia Nacional, UDYCO Greco Costa del Sol" — 2 LE explicitly: Politie Nederland (Limburg) + Spanish Policia Nacional UDYCO Greco Costa del Sol.</li>
+<li><strong>Tier-1 publisher</strong>: <code>politie.nl</code> Dutch National Police own-domain. 1st politie.nl-as-lead op (prior NL appearances were via om.nl or as participating agency).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: ""</code>, <code>coordinating_body: ""</code> (Openbaar Ministerie Parket Limburg kept in body prose, no wiki page); <code>participating_agencies</code> only Glob-verified wikilinks (netherlands-politie, spain-national-police).</li>
+<li>Op profile: Dutch suspect (33, b. NL, residing in Estepona, ES) impersonating Nationale Postcode Loterij (NL national lottery) helpdesk + abusing AnyDesk remote-control to seize victims' online banking sessions; arrested by Spanish Policia Nacional 2025-04-29; 3-address searches; phones/laptops seized.</li>
+<li><code>case_id: CYB-2025-999</code>.</li>
+<li>2 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+</ul>
+<h2 id="2026-05-16-lessons-l25-added-private-community-news-wires-village-media-etc-reproducing-tier-1-releases-are-not-tier-1">[2026-05-16] LESSONS L25 added — private community-news wires (Village Media etc.) reproducing tier-1 releases are NOT tier-1</h2>
+<ul>
+<li>Triggered by iter 143 REJECT-RETRY (OPP Project Atlas via orilliamatters.com / Village Media community-news wire).</li>
+<li>L25 rule: if a tier-1 LE/prosecutor publisher has no own-domain release URL AND no state-wire reproduction (BTA / Yonhap / ANSA / Tribrata News Polri etc.), REJECT the operation rather than substitute a private-wire URL.</li>
+<li>Disqualified outlets: Village Media (orilliamatters.com / barrietoday.com / ptbotoday.ca / renfrewtoday.ca / norfolktoday.ca / sydenhamcurrent.ca / pembroketoday.ca), CTV, ANI, AP, Reuters, Bloomberg, 99bitcoins, X/Twitter feeds.</li>
+<li>Likely recurring pattern: Canadian provincial police (RCMP K-Division, OPP, SPVM, BC), US Sheriff's offices, NZ Police local releases.</li>
+</ul>
+<h2 id="2026-05-16-iter-150-milestone-push-integrity-sweep-iters-141-150">[2026-05-16] iter 150 milestone push integrity sweep [iters 141-150]</h2>
+<ul>
+<li>10 commits since iter 140 push (<code>2b570368c</code>): iters 141-150 covering 10 unique-publisher ingests + 1 REJECT-RETRY incident.</li>
+<li>Iters 141-150 tier-1 publishers introduced/promoted (own-domain strict — L25 enforced):</li>
+<li>141: SPF Singapore (police.gov.sg) — 2nd SPF op after iter 133 single-suspect repatriation</li>
+<li>142: Polizia di Stato Italia (poliziadistato.it) — 2nd after iter 132 Cagliostro</li>
+<li>143: Policía Nacional España (policia.es) — 2nd after iter 131; REJECT-RETRY from OPP Village Media</li>
+<li>144: Gendarmerie nationale France (gendarmerie.interieur.gouv.fr) — 1st 1st-party</li>
+<li>145: U.S. Secret Service (secretservice.gov) — 1st USSS-as-lead</li>
+<li>146: Metropolitan Police UK (news.met.police.uk) — 1st Met-as-lead</li>
+<li>147: Policie ČR Czech (policie.gov.cz) — 1st Czech-as-lead (1순위 candidate, never previously used)</li>
+<li>148: FBI San Diego (fbi.gov) — 1st FBI-as-lead</li>
+<li>149: Eurojust (eurojust.europa.eu) — 4th Eurojust-led</li>
+<li>150: Politie NL (politie.nl) — 1st politie.nl-as-lead</li>
+<li>Iters 141-150 inscope tier-1 ops summary:</li>
+<li>141: SPF-HKPF-RMP Android malware DISTANTHILL (4-jurisdiction: SG-HK-MY-TW)</li>
+<li>142: Italy-Portugal Operazione Trust rip-deal crypto fraud</li>
+<li>143: Spain-US Calpe hacker arrest — Policía Nacional + HSI; REJECT-RETRY first</li>
+<li>144: France-Georgia Belarusian ransomware Yauhen Horbach</li>
+<li>145: USSS-Canada Op Avalanche 2025 Ethereum approval-phishing</li>
+<li>146: Met-CN UK-China Zhimin Qian ~61K BTC money-laundering</li>
+<li>147: Czech-FBI-Europol darknet CSAM top-3 distributor arrest</li>
+<li>148: FBI-RTP Tai Chang scam-center domain seizure (US-TH)</li>
+<li>149: Eurojust RO-BG-HU-PL-MD fake medicines/supplements takedown (5-country)</li>
+<li>150: Politie NL-ES Policia Nacional bank-helpdesk fraud arrest in Estepona</li>
+<li>LESSONS impact: <strong>L25 added</strong> (2026-05-16, iter 143) — private community-news wires reproducing tier-1 LE releases are NOT tier-1.</li>
+<li>Pattern issue resolved: 4 consecutive iters (144-148) hit a recurring log-text broken_wikilink to the legacy <code>operation-cronos</code> slug — the lint scans wikilink patterns even inside backticks/code-fences. Solution applied: rewrote log entries to use prose-only references (no brackets) when documenting placeholder-like slugs.</li>
+<li>About to run full integrity sweep (lint·check_links·ZZPROT·build_static.py) and push to origin/master.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-149-single-agent-l23l24-strict-eurojust-ro-bg-hu-pl-md-fake-medicines-supplements-online-takedown-eurojust-14-may-2026">[2026-05-16] ingest [iter 149, single-agent, L23+L24 strict] | Eurojust RO-BG-HU-PL-MD Fake Medicines &amp; Supplements Online Takedown (Eurojust, 14 May 2026)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2026-05-14_eurojust_fake-medicines-supplements-online-takedown.md</code> (Eurojust own-domain; en).</li>
+<li>Pages created: <code>wiki/sources/2026-05-14_eurojust_fake-medicines-supplements-online-takedown.md</code>, <code>wiki/operations/eurojust-fake-medicines-supplements-online-takedown-2026.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 5 countries (romania, bulgaria, hungary, poland, moldova); 2 organizations (eurojust, europol-ec3); 6 mechanisms (joint-investigation-team, eurojust-coordination-meeting, european-investigation-order, search-seizure, asset-freezing, domain-seizure); 2 crime-types (online-fraud-ic, counterfeit-goods); 2 related ops backlinks (albania-austria-call-centre-investment-fraud-2026, romania-moldova-phishing-laundering-jit-2025).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: Eurojust release names 5 jurisdictions' LE/prosecutor agencies explicitly verbatim — Romania (Prosecution Office of The High Court of Cassation and Justice; DIICOT; Iasi Territorial Service; Romanian Police), Bulgaria (Regional Prosecution Office Sofia; Sofia City Prosecution Office; Sofia Regional Police; GDCOC-Cybercrime Directorate), Hungary (Budapest Economic Crimes Prosecution Office; NBI Cybercrime Department), Poland (District Prosecutor's Office Warsaw; Central Cybercrime Bureau; National Revenue Administration), Moldova (Prosecutor's Office for Combating Organized Crime; National Investigation Inspectorate).</li>
+<li><strong>Tier-1 publisher</strong>: <code>eurojust.europa.eu</code> own-domain. 4th Eurojust-led op (after iters 124, 134, 140).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/eurojust.html" class="wikilink"&gt;eurojust&lt;/a&gt;"</code>, <code>coordinating_body: "&lt;a href="../wiki/organizations/eurojust.html" class="wikilink"&gt;eurojust&lt;/a&gt;"</code>; <code>participating_agencies</code> Glob-verified (eurojust, europol-ec3); national prosecutor/police agencies kept in body prose per L23 (no wiki org pages for these specific Romanian/Bulgarian/Hungarian/Polish/Moldovan offices).</li>
+<li>Op profile: 5-country action day 2026-05-12; online sales of fake medicines/supplements targeting seriously ill victims (cancer, chronic-disease sufferers); cross-border distribution network; investigated under EIO/JIT framework with Eurojust coordination. Online infrastructure + counterfeit-goods + fraud nexus = IC scope.</li>
+<li><code>case_id: CYB-2026-989</code>.</li>
+<li>6 source_count_mismatch HIGH resolved post-backlink via <code>.tmp_refs.py</code>; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+<li><code>reconcile_indexes.py</code> ran: 6 _index.md updated, master <code>wiki/index.md</code> updated.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-148-single-agent-l23l24-strict-fbi-san-diego-rtp-tai-chang-domain-seizure-scam-center-strike-force-fbi-2-dec-2025">[2026-05-16] ingest [iter 148, single-agent, L23+L24 strict] | FBI San Diego-RTP Tai Chang Domain Seizure — Scam Center Strike Force (FBI, 2 Dec 2025)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure.md</code> (fbi.gov own-domain field-office release; en).</li>
+<li>Pages created: <code>wiki/sources/2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure.md</code>, <code>wiki/operations/fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (united-states, thailand); 4 organizations (fbi, us-doj, us-secret-service, thailand-royal-police); 2 crime-types (online-fraud-ic, money-laundering-ic); 2 related ops (coordinated-cryptocurrency-scam-center-takedown-2026, treasury-sanctions-kok-an-scam-center-network-2026).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: FBI San Diego release names "Additionally, the Scam Center Strike Force has deployed FBI agents to Bangkok, who are working alongside the Royal Thai Police in their War Room Task Force, to investigate and combat scam compounds, including Tai Chang and other compounds in Burma." — 2 countries' LE explicitly: US (FBI San Diego + DOJ + USSS) + Thailand (Royal Thai Police War Room Task Force).</li>
+<li><strong>Tier-1 publisher</strong>: <code>fbi.gov</code> San Diego field-office own-domain. 1st FBI-as-lead op in wiki (prior FBI appearances were participating agency).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/fbi.html" class="wikilink"&gt;fbi&lt;/a&gt;"</code>, <code>coordinating_body: "&lt;a href="../wiki/organizations/us-doj.html" class="wikilink"&gt;us-doj&lt;/a&gt;"</code>; <code>participating_agencies</code> only Glob-verified wikilinks (fbi, us-doj, us-secret-service, thailand-royal-police). Burma/China excluded from participating_countries (host/origin states per L24).</li>
+<li>Op profile: tickmilleas.com domain seized (3rd Tai Chang-associated CIF domain seized by Strike Force since Nov 2025); ~2,000 Tai Chang-linked Meta accounts removed; multiple mobile apps removed from Google/Apple. Tied to 2025-11-12 OFAC SDN designations against DKBA + Trans Asia International Holding Group Thailand Company Limited.</li>
+<li><code>case_id: CYB-2025-998</code>.</li>
+<li>7 source_count_mismatch HIGH + 2 LOW broken_wikilink (recurring bracketed <code>operation-cronos</code> and bracketed <code>bare-slug</code> placeholders both quoted inside iter 147 log text) resolved post-backlink by rewording without brackets; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+<li><code>reconcile_indexes.py</code> ran: 5 _index.md updated, master <code>wiki/index.md</code> updated.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-147-single-agent-l23l24-strict-czech-police-fbi-europol-arrest-of-top-3-worldwide-darknet-csam-distributor-policie-cr-8-oct-2024">[2026-05-16] ingest [iter 147, single-agent, L23+L24 strict] | Czech Police-FBI-Europol Arrest of Top-3 Worldwide Darknet CSAM Distributor (Policie ČR, 8 Oct 2024)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol.md</code> (Policie České republiky own-domain <code>policie.gov.cz</code>; cs).</li>
+<li>Pages created: <code>wiki/sources/2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol.md</code>, <code>wiki/operations/czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (czech-republic, united-states); 3 organizations (czech-police, fbi, europol-ec3); 2 crime-types (csam-ic, dark-web-ic); 3 mechanisms (informal-cooperation, electronic-evidence, search-seizure); 1 related op (operation-eclipse-csam-americas — related_operations backlink).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: Czech Police release names "Americká FBI o této osobě a jeho aktivitách evidovala informace takřka deset let. Totožnost tohoto muže byla však odhalena až na základě mezinárodní operace koordinované Europolem. Díky této spolupráci tak mohli pražští kriminalisté provést potřebná šetření a následně uvedenou osobu dopadnout." — 2 countries' LE explicitly: Czech Republic (Prague Regional Police) + United States (FBI ~10-year intelligence holder); Europol coordinating the multinational identification operation.</li>
+<li><strong>Tier-1 publisher</strong>: <code>policie.gov.cz</code> Czech National Police own-domain. 1st Czech Police-led op in wiki (1순위 candidate, never previously used).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/czech-police.html" class="wikilink"&gt;czech-police&lt;/a&gt;"</code>, <code>coordinating_body: "&lt;a href="../wiki/organizations/europol-ec3.html" class="wikilink"&gt;europol-ec3&lt;/a&gt;"</code>; <code>participating_agencies</code> only Glob-verified wikilinks (czech-police, fbi, europol-ec3).</li>
+<li>Op profile: target was a top-3 worldwide darknet CSAM distributor; FBI had ~10 years of intelligence; Europol-coordinated international identification operation revealed his identity; Prague Regional Police executed the arrest. CSAM + dark web crime types.</li>
+<li><code>case_id: CYB-2024-461</code>.</li>
+<li>4 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed operation-cronos in iter 146 log text — pattern recurring since iter 144) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+<li><code>reconcile_indexes.py</code> ran: 6 _index.md updated, master <code>wiki/index.md</code> updated.</li>
+<li><strong>LESSONS pattern note</strong>: 3 consecutive iters (144→145→146→147) hit a broken_wikilink to the legacy <code>operation-cronos</code> slug — the lint scans wikilink patterns regardless of surrounding markdown (backticks / code-fences). Solution: never write bracketed wikilinks to non-existent slugs in log entries even inside backticks. Use prose-only references (operation-cronos-phase1, etc.). Promotable to L25 at iter 150 milestone sweep.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-146-single-agent-l23l24-strict-met-police-uk-china-bitcoin-money-laundering-conviction-zhimin-qian-seng-hok-ling-met-police-29-sep-2025">[2026-05-16] ingest [iter 146, single-agent, L23+L24 strict] | Met Police UK-China Bitcoin Money-Laundering Conviction (Zhimin Qian / Seng Hok Ling, Met Police, 29 Sep 2025)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure.md</code> (news.met.police.uk own-domain; en).</li>
+<li>Pages created: <code>wiki/sources/2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure.md</code>, <code>wiki/operations/met-police-china-uk-bitcoin-money-laundering-conviction-2025.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (united-kingdom, china); 3 organizations (uk-met-police-cyber, uk-nca, china-mps); 2 crime-types (money-laundering-ic, online-fraud-ic); 2 mechanisms (informal-cooperation, mlat-process); 1 related op (operation-destabilise — related_operations backlink).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: Met Police DS Isabella Grotto on-record: "These pleas reflect years of hard work across both the UK and China... grateful for the support of the National Crime Agency and the Crown Prosecution Service, and to Chinese law enforcement teams in Tianjin and Beijing with whom we have collaborated throughout." Will Lyne adds: "unprecedented cooperation with Chinese law enforcement." 2 countries' LE explicitly: UK (Met + NCA + CPS) + China (LE teams in Tianjin + Beijing).</li>
+<li><strong>Tier-1 publisher</strong>: <code>news.met.police.uk</code> Metropolitan Police Service UK own-domain. 1st Met Police-as-lead op in wiki (prior Met appearances were participating agency).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/uk-met-police-cyber.html" class="wikilink"&gt;uk-met-police-cyber&lt;/a&gt;"</code>, <code>coordinating_body: ""</code> (CPS kept in body prose, no wiki page); <code>participating_agencies</code> only Glob-verified wikilinks (uk-met-police-cyber, uk-nca, china-mps).</li>
+<li><strong>China as cooperating jurisdiction (not adversary)</strong>: this case the suspects defrauded Chinese victims using Chinese-origin scheme then fled to UK with bitcoin; China LE actively cooperated to identify victims. L24 cooperation-jurisdiction qualification confirmed by tier-1 quote.</li>
+<li>Op profile: Zhimin Qian (a.k.a. Yadi Zhang, 47, CN-national) + Seng Hok Ling (46) convicted at Southwark Crown Court 29-30 Sep 2025 of money-laundering ~61,000 BTC (~£5.5B / USD ~7.5B at peak) — described in release as "world's largest crypto seizure."</li>
+<li><code>case_id: CYB-2025-024</code>.</li>
+<li>5 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed operation-cronos placeholder in iter 145 log text — same lint issue surfaced again from iter 145 log entry referencing the bare slug inside backticks) resolved by replacing the bracketed reference with prose; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+<li><code>reconcile_indexes.py</code> ran: 6 _index.md updated, master <code>wiki/index.md</code> updated.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-145-single-agent-l23l24-strict-usss-canada-operation-avalanche-2025-ethereum-approval-phishing-disruption-us-secret-service-16-apr-2025">[2026-05-16] ingest [iter 145, single-agent, L23+L24 strict] | USSS-Canada Operation Avalanche 2025 — Ethereum Approval-Phishing Disruption (U.S. Secret Service, 16 Apr 2025)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities.md</code> (U.S. Secret Service own-domain; en).</li>
+<li>Pages created: <code>wiki/sources/2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities.md</code>, <code>wiki/operations/usss-canada-operation-avalanche-ethereum-approval-phishing-2025.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (united-states, canada); 2 organizations (us-secret-service, canada-rcmp); 3 crime-types (online-fraud-ic, money-laundering-ic, organized-crime-ic); 1 related operation (operation-atlantic-approval-phishing-2026 — related_operations backlink).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: USSS release names "In addition to the U.S. Secret Service and the BC Securities Commission, Operation Avalanche included the Ontario Provincial Police, Alberta Securities Commission, the L'Autorité des marchés financiers, Ontario Securities Commission, Delta Police Department, Vancouver Police Department, and the Royal Canadian Mounted Police." — 2 countries' LE explicitly: US (USSS) + Canada (RCMP + provincial police + securities regulators).</li>
+<li><strong>Tier-1 publisher</strong>: <code>secretservice.gov</code> own-domain (U.S. Treasury/DHS protective-investigative service). 1st USSS-as-lead op (prior USSS appearances were as participating agency).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/us-secret-service.html" class="wikilink"&gt;us-secret-service&lt;/a&gt;"</code>, <code>coordinating_body: ""</code> (provincial Canadian agencies — BCSC, OPP, ASC, AMF, OSC, Delta PD, Vancouver PD — kept in body prose only; no wiki org pages exist); <code>participating_agencies</code> only Glob-verified wikilinks (us-secret-service, canada-rcmp).</li>
+<li><strong>Disambiguation</strong>: distinct from existing <code>operation-avalanche.md</code> (2016 botnet takedown); explicitly noted in new page header. Related to Op Atlantic (2026-03 NCA-led trilateral) as parent → successor — backlink added.</li>
+<li>Op profile: 2025-04-16 multi-agency action against Ethereum "approval phishing" / pig-butchering networks. Identified blockchain addresses drained of crypto worth ~USD 4.3M. Focus on compromised-wallet identification, victim notification, inter-agency coordination — not arrests/indictments.</li>
+<li><code>case_id: CYB-2025-997</code>.</li>
+<li>5 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed operation-cronos in iter 144 log text) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+<li><code>reconcile_indexes.py</code> ran: 5 _index.md updated, master <code>wiki/index.md</code> updated.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-144-single-agent-l23l24-strict-france-georgia-belarusian-ransomware-hacker-yauhen-horbach-sentencing-gendarmerie-nationale-14-may-2025">[2026-05-16] ingest [iter 144, single-agent, L23+L24 strict] | France-Georgia Belarusian Ransomware Hacker Yauhen Horbach Sentencing (Gendarmerie nationale, 14 May 2025)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing.md</code> (Gendarmerie nationale Gendinfo; fr).</li>
+<li>Pages created: <code>wiki/sources/2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing.md</code>, <code>wiki/operations/fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (france, georgia); 3 organizations (france-gendarmerie, france-junalco, interpol); 4 crime-types (ransomware-ic, extortion-ic, money-laundering-ic, hacking-ic); 3 mechanisms (extradition, informal-cooperation, interpol-i24-7).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: Gendarmerie release names "Après la diffusion par Interpol d'une notice rouge, l'homme est interpellé, puis incarcéré en Géorgie, en août 2022. Il est extradé vers la France huit mois plus tard, et placé en détention provisoire, tandis que l'information judiciaire se poursuit sous l'autorité de la Juridiction nationale de lutte contre la criminalité organisée (JUNALCO)." — France (Gendarmerie SR Rennes Antenne C3N + JUNALCO) + Georgia (arrest, incarceration, extradition); INTERPOL Red Notice mechanism. Belarus excluded from participating_countries (origin/adversary state).</li>
+<li><strong>Tier-1 publisher</strong>: <code>gendarmerie.interieur.gouv.fr</code> — French national Gendarmerie own-domain release (Gendinfo media platform). 1st Gendarmerie-led op centered on Belarusian-origin ransomware (prior Gendarmerie GIGN-FBI Saint-Martin op was different angle).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/france-gendarmerie.html" class="wikilink"&gt;france-gendarmerie&lt;/a&gt;"</code>, <code>coordinating_body: ""</code> (Georgia LE kept in body prose — no wiki page exists for Georgian police); <code>participating_agencies</code> only Glob-verified wikilinks (france-gendarmerie, france-junalco, interpol).</li>
+<li>Op profile: Belarusian national Yauhen Horbach (aliases "JohnSmith" / "Daniel") sentenced 28 Apr 2025 at Tribunal judiciaire de Paris; attributed to 2,300+ cyberattacks (cryptolocker-class ransomware extortion) since Feb 2020. Bitcoin ransom proceeds documented USD ~750K (not recovered per release).</li>
+<li><code>case_id: CYB-2025-995</code>.</li>
+<li>6 source_count_mismatch HIGH + 1 LOW broken_wikilink resolved post-backlink (broken_wikilink: <code>operation-cronos</code> → <code>operation-cronos-phase1</code>); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.</li>
+<li><code>reconcile_indexes.py</code> ran: 6 _index.md updated, master <code>wiki/index.md</code> updated.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-143-single-agent-l24-rejected-and-retry-spain-us-calpe-hacker-arrest-40-cyberattacks-on-strategic-institutions-policia-nacional-5-feb-2025">[2026-05-16] ingest [iter 143, single-agent, L24-rejected-and-retry] | Spain-US Calpe Hacker Arrest — 40+ Cyberattacks on Strategic Institutions (Policía Nacional, 5 Feb 2025)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos.md</code> (Policía Nacional España; es).</li>
+<li>Pages created: <code>wiki/sources/2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos.md</code>, <code>wiki/operations/spain-hsi-europol-calpe-hacker-40-cyberattacks-2025.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (spain, united-states); 3 organizations (spain-national-police, spain-guardia-civil, europol-ec3); 2 crime-types (hacking-ic, money-laundering-ic); 2 mechanisms (informal-cooperation, search-seizure).</li>
+<li><strong>L24 REJECT-RETRY incident</strong>: first agent attempt picked OPP "Project Atlas" with source_url on <code>orilliamatters.com</code> (Village Media private community-news network). Rejected per L24 strict: private wire reproduction ≠ tier-1 (state news wires only count). 3 files deleted; re-ran with stricter tier-1 domain class rule (national/sub-national police/prosecutor own domain, intergovernmental org own domain, .gov hosting, state wire reproducing official). Retry picked Policía Nacional own-domain release.</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: Policía Nacional release names "En el ámbito internacional se ha contado con la colaboración de EUROPOL y la Homeland Security Investigations (HSI) de los EE.UU." — 2 countries' LE explicitly: Spain (Policía Nacional + Guardia Civil; CCN-CNI domestic) + United States (HSI/DHS); Europol as IGO support partner.</li>
+<li><strong>Tier-1 publisher</strong>: <code>policia.es</code> Spanish National Police institutional own domain — national LE agency. 2nd policia.es op after iter 131 (acceptable: genuinely fresh op, agent rejected 14 dupe candidates).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/spain-national-police.html" class="wikilink"&gt;spain-national-police&lt;/a&gt;"</code>, <code>coordinating_body: ""</code> (HSI/CCN-CNI kept in body prose only — no wiki page); <code>participating_agencies</code> only Glob-verified wikilinks (spain-national-police, spain-guardia-civil, europol-ec3).</li>
+<li>Op profile: solo hacker arrested in Calpe (Alicante) on 4 Feb 2025, attributed to 40+ cyberattacks against strategic Spanish institutions (NATO, US Army, MoD, Guardia Civil, UN agencies, etc.) and exfiltrating personal data sold/leaked on darknet forums. HSI assisted attribution/identification.</li>
+<li><code>case_id: CYB-2025-143</code>.</li>
+<li>3 source_count_mismatch HIGH resolved post-backlink via <code>.tmp_refs.py</code> (2 crime-types + europol-ec3); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0 after fix.</li>
+<li><code>reconcile_indexes.py</code> ran: 6 _index.md updated, master <code>wiki/index.md</code> updated.</li>
+<li><strong>LESSONS impact</strong>: this rejection event reinforces L24 strict — "Village Media-class private wires reproducing OPP/RCMP releases do NOT qualify as tier-1 even if release headline is verbatim." Should be added as L25 if pattern recurs. Marker: if no official own-domain or state-wire URL exists, REJECT the operation entirely rather than accept private-wire substitute.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-142-single-agent-l23l24-strict-italy-portugal-operazione-trust-rip-deal-crypto-fraud-laundering-takedown-polizia-di-stato-31-may-2024">[2026-05-16] ingest [iter 142, single-agent, L23+L24 strict] | Italy-Portugal Operazione "Trust" — Rip-Deal Crypto Fraud &amp; Laundering Takedown (Polizia di Stato, 31 May 2024)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta.md</code> (Polizia di Stato; it).</li>
+<li>Pages created: <code>wiki/sources/2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta.md</code>, <code>wiki/operations/italy-portugal-operation-trust-rip-deal-crypto-fraud-2024.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 2 countries (italy, portugal); 3 organizations (italy-polizia-postale, portugal-policia-judiciaria, europol-ec3); 2 crime-types (online-fraud-ic, money-laundering-ic); 3 mechanisms (joint-investigation-team, cryptocurrency-seizure, search-seizure).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: Polizia di Stato Italia release names "in collaborazione con la Polícia Judiciária portoghese e con il supporto di Europol" — 2 cooperating LE jurisdictions explicitly: Italian Polizia Postale (C.O.S.C. Lombardia, coordinated by Procura di Milano) + Portuguese Polícia Judiciária.</li>
+<li><strong>Tier-1 publisher</strong>: Polizia di Stato (Italia) — national police agency. 2nd 1st-party Polizia Postale op after iter 132 Cagliostro (saturated note: agent rejected 8 1순위 candidates — Israel Lahav 433 Cloudflare-walled, Ukraine/Norway/Slovakia/Czech no fresh, Ireland Garda/Latvia/Polish dupe).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/italy-polizia-postale.html" class="wikilink"&gt;italy-polizia-postale&lt;/a&gt;"</code>, <code>coordinating_body: ""</code> (Procura di Milano kept in body prose only — no wiki page); <code>participating_agencies</code> only Glob-verified wikilinks (italy-polizia-postale, portugal-policia-judiciaria, europol-ec3).</li>
+<li>Results: 1 arrest in Portugal, 12 home/IT searches across Italy (Milano, Monza, Lodi, Roma, Torino, Cagliari, Nuoro), hundreds of thousands EUR crypto seized. Italy-led, multi-stage investigation 2023-04 → 2024-05.</li>
+<li>Op profile: "Rip-deal" face-to-face crypto-laundering scheme — Balkan-origin recruiters resident in France, predominantly Asian crypto-launderers resident in Italy. IT victims defrauded EUR several million.</li>
+<li><code>case_id: CYB-2024-996</code> (next available; iter 141 used CYB-2024-617).</li>
+<li>4 source_count_mismatch HIGH resolved post-backlink via <code>.tmp_refs.py</code> (portugal + 2 crime-types + europol-ec3); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0 after fix.</li>
+<li><code>reconcile_indexes.py</code> ran: 6 _index.md updated, master <code>wiki/index.md</code> updated.</li>
+</ul>
+<h2 id="2026-05-16-ingest-iter-141-single-agent-l23l24-strict-singapore-hong-kong-malaysia-android-malware-enabled-scam-takedown-op-distanthill-spf-14-june-2024">[2026-05-16] ingest [iter 141, single-agent, L23+L24 strict] | Singapore-Hong Kong-Malaysia Android Malware-Enabled Scam Takedown — Op DISTANTHILL (SPF 14 June 2024)</h2>
+<ul>
+<li>Source: <code>raw/press-releases/2024-06-14_spf-singapore_two-men-extradited-from-malaysia-malware-scams-multi-jurisdiction.md</code> (Singapore Police Force; en).</li>
+<li>Pages created: <code>wiki/sources/2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction.md</code>, <code>wiki/operations/sg-hk-my-android-malware-distanthill-takedown-2024.md</code> (provisional, source_count=1).</li>
+<li>Pages updated: 4 countries (singapore, hong-kong, malaysia, taiwan); 4 organizations (singapore-police, hong-kong-police, royal-malaysia-police, singapore-csa); 4 crime-types (banking-trojan-ic, malware-ic, online-fraud-ic, money-laundering-ic); 4 mechanisms (extradition, informal-cooperation, search-seizure, public-private-cooperation).</li>
+<li>Key findings:</li>
+<li><strong>L24 strict satisfied</strong>: tier-1 SPF release (<code>police.gov.sg</code>) names cooperating LE in 3 jurisdictions verbatim — "A joint, multi-jurisdiction investigation team led by the SPF and including the Hong Kong Police Force (HKPF) and the Royal Malaysia Police (RMP), was thus formed in November 2023." Plus Taiwan Police info-sharing partner explicitly acknowledged.</li>
+<li><strong>Tier-1 publisher</strong>: Singapore Police Force national press release — top-tier per L24. First inducted SPF-led op centered on Android-malware scam infrastructure (prior SPF entry was Phnom Penh OCG repatriation arrest, iter 133, single-suspect).</li>
+<li><strong>L23 compliance</strong>: <code>lead_agency: "&lt;a href="../wiki/organizations/singapore-police.html" class="wikilink"&gt;singapore-police&lt;/a&gt;"</code>, <code>coordinating_body: "&lt;a href="../wiki/organizations/singapore-police.html" class="wikilink"&gt;singapore-police&lt;/a&gt;"</code>; <code>participating_agencies</code> uses only Glob-verified existing wikilinks (singapore-police, hong-kong-police, royal-malaysia-police, singapore-csa). Taiwan Police kept in body prose only — no Taiwan LE wiki org page exists, so no plain-text frontmatter ref.</li>
+<li>Results: 20 arrests across 3 jurisdictions (2 principals + 14 mules + 4 fraudulent-customer-service-centre raid), 52 malware-controlling servers seized in Hong Kong, ~US$1.33M crypto+real-estate seized in Kaohsiung, S$34.1M Singapore victim losses (2023 baseline), 1,899 Singapore victims notified.</li>
+<li><code>case_id: CYB-2024-617</code> (next available).</li>
+<li>7 source_count_mismatch HIGH resolved post-backlink via <code>.tmp_refs.py</code> (crime-types ×4 + organizations ×3); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0 after fix.</li>
+<li><code>reconcile_indexes.py</code> ran: 6 _index.md updated, master <code>wiki/index.md</code> updated, sources index 821→822 rows.</li>
+</ul>
 <h2 id="2026-05-10-ingest-iter-140-single-agent-milestone-l23l24-strict-germany-cyprus-bulgaria-sweden-online-investment-fraud-cyprus-call-centre-crackdown-eurojust-22-january-2024">[2026-05-10] ingest [iter 140, single-agent, milestone, L23+L24 strict] | Germany-Cyprus-Bulgaria-Sweden Online Investment Fraud Cyprus Call-Centre Crackdown (Eurojust 22 January 2024)</h2>
 <ul>
 <li>Sources: 1 raw + 1 source page + 1 operation page (3 new pages).</li>
@@ -2763,6 +2944,38 @@
 <li><strong>L23-strict in-body fix</strong>: original agent prose used a non-existent placeholder wikilink for non-existent entity; orchestrator stripped wikilink brackets to plain <code>pdrm</code> (per L23 spirit — broken wikilinks → text).</li>
 <li>5 reference rows appended; 13 pages with <code>updated:</code> bumped.</li>
 </ul>
+<h2 id="2026-05-10-ingest-de-cy-bg-se-online-investment-fraud-cyprus-call-centres-takedown-eurojust-jan-2024-iter-140">[2026-05-10] ingest | DE-CY-BG-SE online investment fraud Cyprus call-centres takedown (Eurojust, Jan 2024) — iter 140</h2>
+<ul>
+<li>Source: raw/press-releases/2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres.md (Eurojust; en).</li>
+<li>Pages created: wiki/sources/2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres.md, wiki/operations/de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024.md (provisional, source_count=1).</li>
+<li>Pages updated: 4 country pages (germany, cyprus, bulgaria, sweden); 3 agencies (eurojust, bulgaria-police, sweden-police); crime-types/online-fraud-ic; mechanisms/joint-investigation-team + eurojust-coordination-meeting + european-investigation-order.</li>
+<li>Key findings:</li>
+<li><strong>DE-CY-BG-SE 4-jurisdiction action day</strong> (2024-01-22) — Eurojust-coordinated coordinated searches across the 4 EU jurisdictions; criminal network running fraudulent online investment trading platforms from Cyprus call-centres; 4 arrests.</li>
+<li>L24 strict ≥2-country IC compliance verified verbatim from Eurojust release (4 named LE/prosecutor jurisdictions).</li>
+<li>L23 strict applied: lead_agency=<code>&lt;a href="../wiki/organizations/eurojust.html" class="wikilink"&gt;eurojust&lt;/a&gt;</code>; coordinating_body=<code>&lt;a href="../wiki/organizations/eurojust.html" class="wikilink"&gt;eurojust&lt;/a&gt;</code>; 3 wikilinked participating_agencies (eurojust, bulgaria-police, sweden-police). Göttingen prosecutor, Sofia City PPO, Cyprus IPC Sub-Directorate kept in body prose only (no wiki org pages).</li>
+<li>4 reference rows appended; 11 pages with <code>updated:</code> bumped.</li>
+</ul>
+<h2 id="2026-05-10-iter-140-milestone-push-integrity-sweep-loop-stop">[2026-05-10] iter 140 milestone push integrity sweep + LOOP STOP</h2>
+<ul>
+<li>10 commits since iter 130 push (iters 131-140): <code>1985a3c54..[iter 140 head]</code> pushing 10 commits to origin/master.</li>
+<li>Lint: HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0</li>
+<li>check_links: broken=2 (legacy bohemia-cannabia LESSONS.md backlinks, sustained pre-existing only)</li>
+<li>placeholder strings (<code>Z</code>+<code>ZPROT</code> / <code>&gt;P</code>+<code>ROT[0-9]</code>): 0 across wiki/ + docs/</li>
+<li>web/build_static.py: 1659 pages → docs/ (was 1639 before iter 131 series)</li>
+<li>Iters 131-140 unique tier-1 publishers introduced/promoted: policia.es Spanish National Police (iter 131), poliziadistato.it main newsroom (iter 132), spak.gov.al Albania SPAK (iter 135), 2nd BKA op (iter 136 Black Basta), interpol.int official news (iter 137), npa.go.jp NPA Japan (iter 139), 2nd web.guardiacivil.es op (iter 130). 4th distinct AFP op (iter 138). Eurojust as primary publisher used 3 times (iters 124, 134, 140).</li>
+<li>Iters 131-140 inscope tier-1 ops summary:</li>
+<li>131: SPAK Albania-France universaltrade.io crypto fraud (1st spak.gov.al record)</li>
+<li>132: Operazione Cagliostro IT-FR Voltaiko crypto-Ponzi (USD 7.5M IT crypto seizure record)</li>
+<li>133: SPF-CNP Phnom Penh OCG repatriation arrest</li>
+<li>134: Eurojust AT-LV-EE+FI online scams JIT (1,200 SIM boxes seized)</li>
+<li>135: SPAK Albania-France crypto-investment fraud (1st AL-FR cybercrime cooperation)</li>
+<li>136: BKA Black Basta ransomware ringleader DE-UA-CH-NL-UK takedown (rejection-and-retry: Mexico CSAM duplicate + Thai Examiner private wire)</li>
+<li>137: INTERPOL 16shop PaaS ID+JP+US takedown</li>
+<li>138: AFP-PAOCC-NBI Manila Op Firestorm phase 1</li>
+<li>139: NPA Operation Cyber Guardian 2026 (Asia 7-country, 1st BN in participating_countries)</li>
+<li>140: Eurojust DE-CY-BG-SE Cyprus call-centres</li>
+<li><strong>User instruction "140까지 진행 후 중단"</strong> received iter 130. Loop stops here. ScheduleWakeup not re-armed. Iter 141+ deferred to next session.</li>
+</ul>
 
     </div>
   </main>
@@ -2886,8 +3099,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-05-10 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-05-10">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-05-16 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-05-16">
     </span>
   </div>
 

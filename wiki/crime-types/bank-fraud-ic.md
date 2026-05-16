@@ -3,8 +3,8 @@ type: crime-type
 title: "Bank Fraud - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
-updated: 2026-05-10
-source_count: 9
+updated: 2026-05-16
+source_count: 10
 sources:
   - "[[2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story]]"
   - "[[2015-09-12_justice-gov_san-francisco-resident-charged-in-alleged-identity-theft-bank-fraud-and-aggravat]]"
@@ -15,6 +15,7 @@ sources:
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -23,6 +24,7 @@ notable_operations:
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
   - "[[flubot-takedown-2022]]"
+  - "[[nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025]]"
 ---
 ## Summary
 

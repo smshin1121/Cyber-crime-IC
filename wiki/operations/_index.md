@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (276 canonical / 27 absorbed / 303 records)
+# Operations (277 canonical / 27 absorbed / 304 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (276)
+## Canonical Operations (277)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -232,6 +232,7 @@ updated: 2026-04-14
 | [[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]] | CYB-2025-995 | 3 | completed | — | 1 | 3.60 | 1 |
 | [[usss-canada-operation-avalanche-ethereum-approval-phishing-2025]] | CYB-2025-997 | 3 | completed | — | 1 | 4.20 | 1 |
 | [[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]] | CYB-2025-998 | 3 | completed | — | 1 | 4.20 | 1 |
+| [[nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025]] | CYB-2025-999 | 3 | completed | — | 1 | 4.20 | 1 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-synergia-iii]] | CYB-2026-002 | 3 | completed | umbrella | 4 | 4.25 | 1 |
 | [[operation-red-card-2]] | CYB-2026-003 | 3 | completed | umbrella | 4 | 4.25 | 1 |

@@ -225,6 +225,19 @@
 
 ---
 
+### ❗ L25. private community-news wires (e.g., Village Media affiliates) reproducing tier-1 LE releases are NOT tier-1 (2026-05-16, iter 143)
+
+- **상황**: iter 143 ingest agent picked an OPP "Project Atlas" $70M crypto-fraud release. OPP itself does not maintain a public press-release archive on `opp.ca` or `news.ontario.ca`; the only verbatim text was distributed via Village Media community-news affiliates (orilliamatters.com, barrietoday.com, ptbotoday.ca, renfrewtoday.ca, norfolktoday.ca, sydenhamcurrent.ca, pembroketoday.ca). Agent reasoned "OPP wire-syndication" justified `source_url=orilliamatters.com`. Operation pages created and only caught at L24 strict tier-1 check before commit.
+- **왜 실패**: L24 strict reads "state news wires reproducing official statements DO count" — but Village Media is not a state news wire, it is a private commercial chain. Same applies to ctvnews.ca, 99bitcoins.com, similar private aggregators (regardless of whether they quote the LE release verbatim under a "NEWS RELEASE" lede). The verbatim-reproduction does not upgrade the publisher's tier.
+- **교훈**: **If a tier-1 LE/prosecutor publisher has no own-domain release URL AND no state-wire reproduction (e.g., Reuters/AP NOT in the acceptlist; BTA Bulgaria / Yonhap / ANSA / Tribrata News Polri ARE), REJECT the operation outright rather than substitute a private-wire URL.** OPP and similar Canadian provincial police, US state police, US Sheriff's offices, and small-jurisdiction LEs that rely entirely on private-wire distribution are NOT ingestible under L24 strict. Pick another operation with a recoverable tier-1 own-domain release.
+- **어떻게 적용**:
+  - ingest agent prompt MUST enumerate domain classes that qualify (national/sub-national police/prosecutor own-domain, .gov/.gov.uk/.gov.au, intergovernmental org own-domain, named state news wires) AND explicitly list disqualified outlets (Village Media affiliates, CTV, ANI, AP, Reuters, Bloomberg, 99bitcoins, X/Twitter)
+  - if no tier-1 own-domain URL exists → REJECT and pick another candidate; do not invent justifications for private-wire substitution
+  - REJECT incident itself should be logged in `wiki/log.md` (transparency: which operations were rejected and why)
+  - iter 143 OPP Project Atlas was the first triggered REJECT-RETRY in this session; pattern likely to recur with Canadian provincial police (RCMP K-Division, OPP, SPVM, BC), US Sheriff's, NZ Police local releases
+
+---
+
 ### ❗ L24. participating_countries 는 협력국만 — 공격자/원천국/도착국은 제외 (2026-05-10, iter 124)
 
 - **상황**: iter 124 ingest agent 가 Delhi Police IFSO SIMBOX 사기조직 단속 (인도 단독 작전) 보도자료를 ANI 뉴스와이어에서 가져와 operation page 생성. participating_countries 에 [[india]], [[taiwan]], [[cambodia]], [[pakistan]], [[nepal]], [[china]] 6개국을 모두 wikilink 함. 그러나 Delhi Police 1차 statement 는 명시적으로 "Foreign-LE counterpart agencies — none named in the primary release" 라고 acknowledged. 즉 Taiwan/Cambodia/Pakistan/Nepal/China 는 모두 *공격 인프라 origin/handler/C2/recruitment* 역할이고 LE 협력 jurisdiction 이 아님.
