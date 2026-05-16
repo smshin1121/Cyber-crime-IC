@@ -98,9 +98,10 @@ operations_participated:
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
   - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
+  - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
 org_type: regional-org
 parent_org: ""
-source_count: 22
+source_count: 23
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
@@ -115,6 +116,7 @@ sources:
   - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
   - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
+  - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
 status: active
 title: Eurojust
 type: organization
@@ -288,3 +290,4 @@ Direct Eurojust-Korea judicial cooperation on cybercrime is *likely* limited but
 | [20] | [[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres\|Eurojust — DE-CY-BG-SE crackdown on online investment fraud Cyprus call-centres (Jan 2024); 4-jurisdiction action day, 4 arrests]] | Eurojust | 2024-01-22 | https://www.eurojust.europa.eu/news/crackdown-criminal-network-dealing-online-investment-fraud-from-cyprus-call-centres |
 | [21] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |
 | [22] | [[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam\|NCA — UK arrest in €645M JuicyFields cannabis-investment Ponzi takedown; UK-ES-DE-FR JIT at Eurojust]] | National Crime Agency (UK) | 2024-04-12 | https://www.nationalcrimeagency.gov.uk/news/uk-arrest-in-645-million-international-investment-scam |
+| [23] | [[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern\|Polizei Bayern — DE-AT-RO Action Day (17 Dec 2024) takedown of internet-fraud OCG; ZCB Bayern + LKA Tirol + DIICOT + Eurojust JIT]] | Bayerische Polizei (Polizei Bayern) / ZCB Bamberg | 2025-01-15 | https://www.polizei.bayern.de/aktuelles/pressemitteilungen/078869/index.html |

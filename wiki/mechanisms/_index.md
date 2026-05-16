@@ -31,7 +31,7 @@ updated: 2026-04-14
 | [[interpol-i-grip]] | information-sharing-platform | semi-formal | hours-days | [[interpol-igci]] | INTERPOL Constitution Art. 2 (mutual assistance), National anti-money laundering / proceeds of crime legislation | 2 |
 | [[interpol-i24-7]] | cooperation-or-enforcement-mechanism | — | — | — | — | 5 |
 | [[j-cat]] | joint-investigation-team | formal | days | [[europol-ec3]] | budapest-convention | 4 |
-| [[joint-investigation-team]] | cooperation-or-enforcement-mechanism | — | — | — | — | 9 |
+| [[joint-investigation-team]] | cooperation-or-enforcement-mechanism | — | — | — | — | 10 |
 | [[marketplace-admin-liability]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |
 | [[mlat-process]] | formal-mlat | formal | months | Central authorities of each state | budapest-convention, Bilateral MLATs between states | 7 |
 | [[mutual-legal-assistance]] | cooperation-or-enforcement-mechanism | — | — | — | — | 4 |

@@ -30,15 +30,16 @@ operations_participated:
   - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
+  - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
 org_type: prosecution-office
 parent_org: "[[romania-public-ministry]]"
-source_count: 0
+source_count: 1
 sources:
-
+  - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
 status: active
 title: "Directorate for Investigating Organized Crime and Terrorism (DIICOT)"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 ## Summary
 

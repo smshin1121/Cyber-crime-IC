@@ -52,8 +52,9 @@ operations_participated:
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[flubot-takedown-2022]]"
   - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
+  - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
 region: eastern-europe
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
@@ -61,6 +62,7 @@ sources:
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
   - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
+  - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
 title: Romania
 treaty_memberships:
   - date: 2004-09-12
@@ -132,3 +134,4 @@ High institutional capacity (DIICOT, specialized cybercrime judges), EU integrat
 | [8] | [[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware\|Polizia di Stato — Operazione ELICIUS: IT-FR-RO joint task force vs. 'Diskstation' Romanian-national NAS-ransomware gang (Bucharest searches Jun 2024 → Jul 2025 announcement, Milan GIP custody)]] | Polizia di Stato — Servizio Polizia Postale (commissariatodips.it) | 2025-07-14 | https://www.commissariatodips.it/notizie/articolo/operazione-elicius-individuata-pericolosa-gang-hacker-internazionale-diskstation/index.html |
 | [9] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
 | [10] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |
+| [11] | [[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern\|Polizei Bayern — DE-AT-RO Action Day (17 Dec 2024) takedown of internet-fraud OCG; ZCB Bayern + LKA Tirol + DIICOT + Eurojust JIT]] | Bayerische Polizei (Polizei Bayern) / ZCB Bamberg | 2025-01-15 | https://www.polizei.bayern.de/aktuelles/pressemitteilungen/078869/index.html |

@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 152, single-agent, L23+L24+L25 strict] | Bayern-Tirol-Romania Action Day Internet-Fraud OCG Takedown (Polizei Bayern / ZCB Bamberg, 17 Dec 2024)
+- Source: `raw/press-releases/2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern.md` (Polizei Bayern own-domain; de).
+- Pages created: `wiki/sources/2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern.md`, `wiki/operations/bayern-tirol-romania-action-day-internet-fraud-2024.md` (provisional, source_count=1).
+- Pages updated: 3 countries (germany, austria, romania); 2 organizations (eurojust, romania-diicot); 3 crime-types (online-fraud-ic, organized-crime-ic, money-laundering-ic); 1 mechanism (joint-investigation-team).
+- Key findings:
+  - **L24 strict satisfied**: Polizei Bayern release names "gemeinsamen Ermittlungsgruppe mit den rumänischen Strafverfolgungsbehörden unter Beteiligung von Eurojust" + "länderübergreifenden Strafverfolgung bayerischer, österreichischer und rumänischer Ermittler" — 3 jurisdictions' LE explicitly: DE (ZCB Bayern + Polizeipräsidium Mittelfranken + Kriminalpolizei Nürnberg + GStA Bamberg) + AT (LKA Tirol) + RO (DIICOT) + Eurojust IGO.
+  - **Tier-1 publisher**: `polizei.bayern.de` Bayerische Polizei own-domain. 1st Bayerische Polizei op in wiki (3rd distinct German tier-1 publisher after BKA + Hessen).
+  - **L23 compliance**: `lead_agency: ""` (ZCB Bayern has no wiki page; kept in body prose); `coordinating_body: "[[eurojust]]"`; `participating_agencies` only Glob-verified wikilinks (eurojust, romania-diicot — Austrian LKA Tirol + ZCB Bayern + Polizeipräsidium Mittelfranken kept in body prose).
+  - Op profile: action day 2024-12-17; DE-AT-RO JIT under Eurojust coordination; arrests of internet fraud OCG members suspected of large-scale online consumer fraud (specifics: "Plattformen mit gefälschten Angeboten"); cross-border searches in Bayern, Tirol, Romania.
+  - `case_id: CYB-2025-152`.
+  - 5 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 151, single-agent, L23+L24+L25 strict] | UK-ES-DE-FR JuicyFields €645M Cannabis-Investment Ponzi JIT (NCA UK, 12 Apr 2024)
 - Source: `raw/press-releases/2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam.md` (NCA UK own-domain; en).
 - Pages created: `wiki/sources/2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam.md`, `wiki/operations/uk-juicyfields-645m-investment-scam-jit-2024.md` (provisional, source_count=1).

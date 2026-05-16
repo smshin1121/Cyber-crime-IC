@@ -4,7 +4,7 @@ title: "Organized Crime - IC Perspective"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-16
-source_count: 26
+source_count: 27
 sources:
   - "[[2019-05-01_bbc-com_technology-48294788]]"
   - "[[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]]"
@@ -32,6 +32,7 @@ sources:
   - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
   - "[[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam]]"
   - "[[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities]]"
+  - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -55,6 +56,7 @@ notable_operations:
   - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
   - "[[usss-canada-operation-avalanche-ethereum-approval-phishing-2025]]"
+  - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
 notable_cases:
   - "[[us-v-chen-zhi-prince-group-edny-2025]]"
   - "[[us-v-chita-romanian-cyber-fraud-ring-2018]]"
