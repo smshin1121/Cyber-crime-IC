@@ -3,7 +3,7 @@ type: organization
 title: "Police of the Czech Republic"
 status: active
 created: 2026-04-26
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-04-29
 org_type: national-police-parent
 country: "[[czech-republic]]"
@@ -20,17 +20,19 @@ operations_participated:
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
+  - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
 cooperation_partners:
   - "[[czechia-police]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2026-04-17_cs-wikipedia-org_n-rodn-centr-la-proti-terorismu-extremismu-a-kybernetick-kriminalit]]"
   - "[[2013-01-01_coe-int_the-czech-republic-joins-budapest-convention]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
+  - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
 ---
 ## Summary
 

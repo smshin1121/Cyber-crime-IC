@@ -79,14 +79,15 @@ results:
 credibility_index: 4.2
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
-  []
+
 related_operations:
   - "[[operation-orion-international]]"
   - "[[operation-cyber-guardian]]"
   - "[[operation-stream-kidflix]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
+  - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
 challenges_encountered:
   - "CSAM operations require victim-identifying details to remain protected while still preserving cross-border evidentiary traceability."
 lessons_learned:
@@ -99,7 +100,7 @@ sources:
   - "[[2026-03-05_petersandpeters_operation-eclipse-60-arrests]]"
 summary: "Operation Eclipse was an INTERPOL-coordinated child sexual abuse material and victim-identification operation conducted from February 2025 to January 2026 across nine countries in Central America, North America, and the Caribbean. INTERPOL reported 60 arrests, 65 child victims identified and safeguarded, support from UNODC and Child Rescue Coalition, reassessment of 57 notices, and cross-border evidence work including Panama-Dominican Republic follow-up that triggered extradition proceedings."
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-16
 ---
 # Operation Eclipse (CSAM Americas)
 

@@ -1,5 +1,19 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 147, single-agent, L23+L24 strict] | Czech Police-FBI-Europol Arrest of Top-3 Worldwide Darknet CSAM Distributor (Policie ČR, 8 Oct 2024)
+- Source: `raw/press-releases/2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol.md` (Policie České republiky own-domain `policie.gov.cz`; cs).
+- Pages created: `wiki/sources/2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol.md`, `wiki/operations/czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024.md` (provisional, source_count=1).
+- Pages updated: 2 countries (czech-republic, united-states); 3 organizations (czech-police, fbi, europol-ec3); 2 crime-types (csam-ic, dark-web-ic); 3 mechanisms (informal-cooperation, electronic-evidence, search-seizure); 1 related op (operation-eclipse-csam-americas — related_operations backlink).
+- Key findings:
+  - **L24 strict satisfied**: Czech Police release names "Americká FBI o této osobě a jeho aktivitách evidovala informace takřka deset let. Totožnost tohoto muže byla však odhalena až na základě mezinárodní operace koordinované Europolem. Díky této spolupráci tak mohli pražští kriminalisté provést potřebná šetření a následně uvedenou osobu dopadnout." — 2 countries' LE explicitly: Czech Republic (Prague Regional Police) + United States (FBI ~10-year intelligence holder); Europol coordinating the multinational identification operation.
+  - **Tier-1 publisher**: `policie.gov.cz` Czech National Police own-domain. 1st Czech Police-led op in wiki (1순위 candidate, never previously used).
+  - **L23 compliance**: `lead_agency: "[[czech-police]]"`, `coordinating_body: "[[europol-ec3]]"`; `participating_agencies` only Glob-verified wikilinks (czech-police, fbi, europol-ec3).
+  - Op profile: target was a top-3 worldwide darknet CSAM distributor; FBI had ~10 years of intelligence; Europol-coordinated international identification operation revealed his identity; Prague Regional Police executed the arrest. CSAM + dark web crime types.
+  - `case_id: CYB-2024-461`.
+  - 4 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed operation-cronos in iter 146 log text — pattern recurring since iter 144) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+  - **LESSONS pattern note**: 3 consecutive iters (144→145→146→147) hit `[[operation-cronos]]` broken_wikilink — the lint scans wikilink patterns regardless of surrounding markdown (backticks/code-fences). Solution: never write `[[<bare-slug>]]` in log entries even inside backticks. Use prose-only references (e.g., `operation-cronos-phase1`, `operation-cronos`). Promotable to L25 at iter 150 milestone sweep.
+
 ## [2026-05-16] ingest [iter 146, single-agent, L23+L24 strict] | Met Police UK-China Bitcoin Money-Laundering Conviction (Zhimin Qian / Seng Hok Ling, Met Police, 29 Sep 2025)
 - Source: `raw/press-releases/2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure.md` (news.met.police.uk own-domain; en).
 - Pages created: `wiki/sources/2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure.md`, `wiki/operations/met-police-china-uk-bitcoin-money-laundering-conviction-2025.md` (provisional, source_count=1).
@@ -11,7 +25,7 @@
   - **China as cooperating jurisdiction (not adversary)**: this case the suspects defrauded Chinese victims using Chinese-origin scheme then fled to UK with bitcoin; China LE actively cooperated to identify victims. L24 cooperation-jurisdiction qualification confirmed by tier-1 quote.
   - Op profile: Zhimin Qian (a.k.a. Yadi Zhang, 47, CN-national) + Seng Hok Ling (46) convicted at Southwark Crown Court 29-30 Sep 2025 of money-laundering ~61,000 BTC (~£5.5B / USD ~7.5B at peak) — described in release as "world's largest crypto seizure."
   - `case_id: CYB-2025-024`.
-  - 5 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed operation-cronos in iter 145 log text — same lint issue surfaced again from iter 145 log entry that referenced [[operation-cronos]] inside backticks) resolved by replacing the bracketed reference with prose; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - 5 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed operation-cronos placeholder in iter 145 log text — same lint issue surfaced again from iter 145 log entry referencing the bare slug inside backticks) resolved by replacing the bracketed reference with prose; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
   - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
 
 ## [2026-05-16] ingest [iter 145, single-agent, L23+L24 strict] | USSS-Canada Operation Avalanche 2025 — Ethereum Approval-Phishing Disruption (U.S. Secret Service, 16 Apr 2025)

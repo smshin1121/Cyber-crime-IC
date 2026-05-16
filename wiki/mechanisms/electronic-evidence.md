@@ -3,8 +3,8 @@ type: mechanism
 title: "Electronic Evidence"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-09
-source_count: 8
+updated: 2026-05-16
+source_count: 9
 sources:
   - "[[2013-08-12_artci-ci_loi-n-2013-451-relative-la-lutte-contre-la-cybercriminalit-journal-officiel]]"
   - "[[2018-01-01_congress-gov_cloud-act-h-r-4943-115th-congress]]"
@@ -14,12 +14,14 @@ sources:
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
   - "[[2025-11-28_nbi-gov-ph_paranaque-cyber-scam-li-zhenjie-us-impersonation]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
+  - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
   - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
+  - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
 ---
 ## Summary
 

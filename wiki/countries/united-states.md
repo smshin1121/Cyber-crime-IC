@@ -228,8 +228,9 @@ operations_participated:
   - "[[16shop-phishing-as-a-service-takedown-2023]]"
   - "[[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]]"
   - "[[usss-canada-operation-avalanche-ethereum-approval-phishing-2025]]"
+  - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
 region: north-america
-source_count: 20
+source_count: 21
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -251,6 +252,7 @@ sources:
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]]"
   - "[[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities]]"
+  - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29
