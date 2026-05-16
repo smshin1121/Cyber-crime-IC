@@ -45,18 +45,20 @@ operations_participated:
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[knpa-cambodia-bavet-romance-scam-vietnam-arrests-2025]]"
   - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
+  - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
 notable_cases:
   - "[[us-v-evgenii-ptitsyn]]"
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 contact_point_for:
   - network: "[[interpol-i24-7]]"
     role: "NCB Korea"
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
   - "[[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests]]"
   - "[[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests]]"
   - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
+  - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-05-09
@@ -135,3 +137,4 @@ See [[knpa-cyber-bureau]] for detailed operation participation (HAECHI series, P
 | [4] | [[2026-02-19_korea-kr_knpa-cambodia-korea-task-force-redcorner-arrests\|KNPA Korea-dedicated Squad (코리아 전담반) — Cambodia bilateral op: 6 INTERPOL Red Notice fugitives + 3 Feb 2026 takedowns; ₩19B+ victim-loss attribution; Taizi compound Sihanoukville]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2026-02-19 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156745543 |
 | [5] | [[2025-11-04_korea-kr_knpa-cambodia-bavet-romance-scam-vietnam-arrests\|KNPA-Vietnam Public Security joint arrest of 5 Cambodia-Bavet romance-scam cadre in Vietnam (Da Nang+HCMC+Khanh Hoa, Oct 2025); 192 KR victims, ~₩4.6B losses]] | Korean National Police Agency (KNPA) via 대한민국 정책브리핑 (korea.kr) | 2025-11-04 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156724852 |
 | [6] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |
+| [7] | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand\|Korea MOJ — Korea-Thailand overseas hacking syndicate leader extradition (BTS Jungkook KRW 38B case; Thai OAG + RTP + INTERPOL cooperation)]] | Ministry of Justice (Republic of Korea) | 2026-05-13 | https://www.moj.go.kr/bbs/moj/182/606523/artclView.do |

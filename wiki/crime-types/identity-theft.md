@@ -4,7 +4,7 @@ title: "Identity Theft"
 status: corpus-linked
 created: 2026-04-18
 updated: 2026-05-16
-source_count: 15
+source_count: 16
 sources:
   - "[[2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story]]"
   - "[[2015-09-12_justice-gov_san-francisco-resident-charged-in-alleged-identity-theft-bank-fraud-and-aggravat]]"
@@ -21,6 +21,7 @@ sources:
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
+  - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
 category: cyber-enabled
 broadly_criminalized: varies-by-jurisdiction
 notable_cases:
@@ -37,6 +38,7 @@ notable_operations:
   - "[[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]]"
   - "[[16shop-phishing-as-a-service-takedown-2023]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+  - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
 ---
 ## Summary
 

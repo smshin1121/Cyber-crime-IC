@@ -3,7 +3,7 @@ type: organization
 title: "Korea Ministry of Justice"
 status: active
 created: 2026-04-26
-updated: 2026-05-08
+updated: 2026-05-16
 last_verified: 2026-05-08
 org_type: ministry
 country: "[[south-korea]]"
@@ -18,15 +18,17 @@ cooperation_partners:
   - "[[supreme-prosecutors-office-korea]]"
   - "[[spo-international-cooperation]]"
   - "[[unodc]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-01-01_spo-go-kr_2026]]"
   - "[[2025-10-01_unodc-org_hanoi-convention-homepage]]"
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
+  - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
 operations_participated:
   - "[[korea-cambodia-philippines-73-extradition-2026]]"
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
   - "[[knpa-kmsauto-lithuanian-hacker-georgia-extradition-2025]]"
+  - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
 ---
 ## Summary
 

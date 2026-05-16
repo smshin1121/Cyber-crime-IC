@@ -43,12 +43,14 @@ operations_participated:
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
+  - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
 org_type: national-agency
 parent_org: "[[thailand-royal-police]]"
-source_count: 10
+source_count: 11
 sources:
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
+  - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
 status: active
 title: "Royal Thai Police — Cyber Crime Investigation Bureau"
 type: organization
@@ -150,3 +152,4 @@ CCIB's cooperation capacity is *likely* high and growing rapidly, driven by the 
 | [8] | Cyber Police Raid Pattaya Condo, Arrest Two Chinese Nationals | The Pattaya News | 2026-01-31 | https://thepattayanews.com/2026/01/31/cyber-police-raid-pattaya-condo-arrest-two-chinese-nationals-suspected-of-running-online-scam-operation/ |
 | [9] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
 | [10] | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure\|FBI San Diego — Scam Center Strike Force tickmilleas.com domain seizure (Tai Chang scam compound Burma); US-Thailand cooperation]] | FBI San Diego Field Office | 2025-12-02 | https://www.fbi.gov/contact-us/field-offices/sandiego/news/fbi-san-diego-investigation-leads-to-scam-center-strike-force-seizure-of-fake-cryptocurrency-investment-domain-used-by-tai-chang-scam-compound-in-burma |
+| [11] | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand\|Korea MOJ — Korea-Thailand overseas hacking syndicate leader extradition (BTS Jungkook KRW 38B case; Thai OAG + RTP + INTERPOL cooperation)]] | Ministry of Justice (Republic of Korea) | 2026-05-13 | https://www.moj.go.kr/bbs/moj/182/606523/artclView.do |

@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 163, single-agent, L23+L24+L25 strict] | Korea-Thailand Overseas Hacking Syndicate Senior-Leader Extradition (Korea MOJ, 13 May 2026)
+- Source: `raw/press-releases/2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand.md` (moj.go.kr Ministry of Justice Korea own-domain; ko).
+- Pages created: `wiki/sources/2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand.md`, `wiki/operations/korea-thailand-hacking-syndicate-extradition-2026-05.md` (provisional, source_count=1).
+- Pages updated: 2 countries (south-korea, thailand); 4 organizations (ministry-of-justice-korea, knpa, thailand-royal-police, interpol); 3 crime-types (hacking-ic, identity-theft, online-fraud-ic); 2 mechanisms (extradition, informal-cooperation); 2 related ops (seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026, korea-cambodia-philippines-73-extradition-2026).
+- Key findings:
+  - **L24 strict satisfied**: Korea MOJ release names "법무부는 공조 중앙기관으로서 경찰청과 긴밀히 협력, 인터폴 합동작전을 통해 2025년 5월 태국 현지에서 총책급 공범인을 검거… 2025년 7월 태국 현지에 담당 검사, 수사관을 파견하여 태국 대검찰청 및 경찰청 관계자들과 면담을 진행." — 2 countries' LE/prosecutor agencies explicitly: Korea (MOJ + KNPA) + Thailand (Royal Office of Attorney General + Royal Thai Police); INTERPOL joint operation.
+  - **Tier-1 publisher**: `moj.go.kr` Korean Ministry of Justice own-domain (distinct from `korea.kr` saturated). 1st Korea-MOJ-as-lead op (prior KNPA appearances were via korea.kr).
+  - **L23 compliance**: `lead_agency: "[[ministry-of-justice-korea]]"`, `coordinating_body: "[[knpa]]"`; `participating_agencies` only Glob-verified wikilinks (ministry-of-justice-korea, knpa, thailand-royal-police, interpol).
+  - Op profile: Chinese-national senior leader of overseas hacking syndicate (BTS Jungkook KRW 38B case + identity theft + voice-phishing); arrested Thailand 2025-05 via INTERPOL joint op; Korean prosecutors+investigators traveled to Thailand 2025-07; extradited to Korea 2026-05-13.
+  - `case_id: CYB-2026-163`.
+  - 7 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest [iter 162, single-agent, L23+L24+L25 strict, Wayback fallback L11] | RCMP CIT-V Canadian-Limb Op Endgame Surrey Malware-Loader Arrest (RCMP, 9 Apr 2025)
 - Source: `raw/press-releases/2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident.md` (rcmp.ca own-domain; en) — retrieved via Wayback `20250824014221` snapshot per L11 fallback (live URL curl_cffi blocked).
 - Pages created: `wiki/sources/2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident.md`, `wiki/operations/rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025.md` (provisional, source_count=1).

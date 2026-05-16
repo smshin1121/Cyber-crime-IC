@@ -44,12 +44,14 @@ operations_participated:
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[operation-cyber-guardian-2026]]"
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
+  - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
 region: southeast-asia
-source_count: 6
+source_count: 7
 sources:
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
+  - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
 title: "Kingdom of Thailand"
 treaty_memberships:
   - date: ""
@@ -119,3 +121,4 @@ Medium institutional capacity. Thailand has established dedicated cybercrime uni
 | [4] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
 | [5] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |
 | [6] | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure\|FBI San Diego — Scam Center Strike Force tickmilleas.com domain seizure (Tai Chang scam compound Burma); US-Thailand cooperation]] | FBI San Diego Field Office | 2025-12-02 | https://www.fbi.gov/contact-us/field-offices/sandiego/news/fbi-san-diego-investigation-leads-to-scam-center-strike-force-seizure-of-fake-cryptocurrency-investment-domain-used-by-tai-chang-scam-compound-in-burma |
+| [7] | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand\|Korea MOJ — Korea-Thailand overseas hacking syndicate leader extradition (BTS Jungkook KRW 38B case; Thai OAG + RTP + INTERPOL cooperation)]] | Ministry of Justice (Republic of Korea) | 2026-05-13 | https://www.moj.go.kr/bbs/moj/182/606523/artclView.do |

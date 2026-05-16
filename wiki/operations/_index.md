@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (288 canonical / 27 absorbed / 315 records)
+# Operations (289 canonical / 27 absorbed / 316 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (288)
+## Canonical Operations (289)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -290,6 +290,7 @@ updated: 2026-04-14
 | [[albania-france-spak-pau-gendarmerie-universaltrade-crypto-investment-fraud-takedown-2026]] | CYB-2026-151 | 3 | completed | standalone | 1 | 4.00 | 1 |
 | [[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]] | CYB-2026-153 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]] | CYB-2026-158 | 3 | completed | — | 1 | — | 1 |
+| [[korea-thailand-hacking-syndicate-extradition-2026-05]] | CYB-2026-163 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[crimenetwork-relaunch-takedown-2026]] | CYB-2026-266 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]] | CYB-2026-275 | 3 | ongoing | standalone | 1 | 4.40 | 1 |
 | [[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]] | CYB-2026-303 | 3 | completed | — | 1 | 4.00 | 1 |

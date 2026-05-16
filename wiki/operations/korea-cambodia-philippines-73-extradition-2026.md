@@ -105,6 +105,7 @@ related_operations:
   - "[[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]]"
   - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
   - "[[lai-chau-cambodia-bokor-transnational-online-fraud-takedown-2025]]"
+  - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
 challenges_encountered:
 
 lessons_learned:
@@ -116,7 +117,7 @@ sources:
   - "[[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition]]"
 summary: "On 2026-04-27 the Korean National Police Agency announced the extradition of 73 Korean-national online-scam suspects from Cambodia (42) and the Philippines (31) over a roughly two-month operation period (2026-02-26 to 2026-04-27). Coordinated through a whole-government 「초국가범죄 특별대응TF」 task force (KNPA + 외교부 + 법무부 + 국가정보원) and the in-Cambodia 「코리아전담반」 field unit, the cohort comprises voice phishing, romance scam, illegal gambling-site, 2011 capital-firm data-breach, and auto-loan fraud cases. KNPA frames the operation as the largest single-country cyber-fugitive extradition into Korea on record."
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 ## Summary
 

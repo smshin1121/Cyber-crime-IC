@@ -103,6 +103,7 @@ related_operations:
   - "[[knpa-breaking-chains-2nd-international-operation-meeting-2026]]"
   - "[[nbi-paranaque-cyber-scam-li-zhenjie-us-impersonation-2025]]"
   - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
+  - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
 challenges_encountered:
 
 lessons_learned:
@@ -114,7 +115,7 @@ sources:
   - "[[2026-04-30_spo-go-kr_seoul-eastern-clark-philippines-voice-phishing-arrest-extradition]]"
 summary: "On 2026-04-30 the Seoul Eastern District Prosecutors' Office Voice-Phishing Joint Investigation Unit (보이스피싱범죄 합동수사부) announced the on-site arrest in Clark, Philippines, of 4 Korean-national voice-phishing call-centre operators, their forced repatriation to Korea, and indictment in custody on 2026-04-28. The cooperation chain runs SPO Organised Crime Division-deployed prosecutorial investigators → Philippine Bureau of Immigration Fugitive Search Unit (BI FSU) → INTERPOL Red Notice + Korean passport invalidation → MOJ International Criminal Affairs + Manila Embassy police attaché coordinated repatriation. The cell ran a two-stage 'review-task' (리뷰달기) lure scam during 2025-06–07 with ≈ ₩130 million in indicted-offence fraud volume."
 created: 2026-05-09
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-05-09
 ---
 ## Summary
