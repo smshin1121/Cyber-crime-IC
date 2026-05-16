@@ -48,7 +48,7 @@ participating_agencies:
   - "[[portugal-policia-judiciaria]]"
   - "[[uk-nca]]"
   - "[[australia-afp]]"
-legal_basis:
+legal_basis: ""
 mechanisms_used:
   - "[[eurojust-coordination-meeting]]"
 results:
@@ -64,10 +64,13 @@ results:
     - "Over 1,200 infected servers across dozens of countries identified during investigation"
     - "Charges unsealed in the United States against Maxim Rudometov (developer/administrator of RedLine Infostealer)"
     - "Public victim-check resource published at operation-magnus.com (with ESET-provided RedLine/META scanner)"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
-challenges_encountered: []
+  - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Private-sector tip (unnamed security company) seeded a Dutch investigation that scaled to a six-country coordinated takedown — confirms the value of public-private intake channels for MaaS infrastructure mapping."
   - "Eurojust coordination allowed simultaneous Dutch infrastructure seizure, Belgian arrest action, and US indictment unsealing on the same day — single-day multi-jurisdiction synchronization remains the operational signature of EU-coordinated MaaS takedowns."
@@ -75,10 +78,9 @@ source_count: 1
 sources:
   - "[[2024-10-29_eurojust-europa-eu_operation-magnus-redline-meta-infostealer-takedown]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 last_verified: 2026-05-09
 ---
-
 > [!info] Provisional page
 > This operation page is published below the preferred 5-source threshold (CLAUDE.md "Entity creation threshold"). It rests on a single tier-1 primary source (Eurojust press release, 2024-10-29). Additional companion sources (DOJ unsealing, IRS-CI page, Dutch police press release) should be ingested to lift the page to standard publication state.
 

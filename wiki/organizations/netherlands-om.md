@@ -35,18 +35,20 @@ operations_participated:
   - "[[bohemia-cannabia-darknet-marketplace-takedown-2024]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
+  - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
 notable_cases:
 
 contact_point_for:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_om-nl_internationale-samenwerking]]"
   - "[[2026-04-18_om-nl_landelijk-parket]]"
   - "[[2023-08-29_om-nl_qakbot-onschadelijk-gemaakt]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
+  - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
 created: 2026-04-18
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-04-18
 ---
 ## Summary

@@ -80,8 +80,9 @@ operations_participated:
   - "[[nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025]]"
   - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
+  - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
 region: western-europe
-source_count: 16
+source_count: 17
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
@@ -99,6 +100,7 @@ sources:
   - "[[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak]]"
   - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
 title: "Kingdom of the Netherlands"
 treaty_memberships:
   - date: 2006-11-16

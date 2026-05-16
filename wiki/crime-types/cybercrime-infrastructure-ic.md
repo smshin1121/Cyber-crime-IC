@@ -55,6 +55,7 @@ notable_operations:
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
   - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
   - "[[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]]"
+  - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -63,7 +64,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 34
+source_count: 35
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -99,6 +100,7 @@ sources:
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
   - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
   - "[[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]]"
+  - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
 created: 2026-04-17
 updated: 2026-05-16
 status: active
@@ -161,3 +163,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [32] | [[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen\|BKA — ZIT/HLKA/BKA Hessen-RLP phase of Operation PowerOff: Dstat.CC + Flight RCS DDoS-stresser/clearnet drug-marketplace takedown]] | Bundeskriminalamt | 2024-11-01 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/241031_PM_Festnahme_Cybercrime.html |
 | [33] | [[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident\|RCMP CIT-V — Operation Endgame Canadian-limb: Surrey BC malware-loader botnet operator arrest; 7-country LE cooperation]] | Royal Canadian Mounted Police (RCMP) | 2025-04-09 | https://rcmp.ca/en/news/2025/04/international-cybercrime-investigation-leads-arrest-surrey-resident |
 | [34] | [[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet\|HK Govt ISD/HKPF — STEALTHNET counter cyber+physical terrorism joint exercise (HK-Macao-SG-KR + INTERPOL, Apr 2026)]] | HKSAR Information Services Department (info.gov.hk) on behalf of HKPF | 2026-04-16 | https://www.info.gov.hk/gia/general/202604/16/P2026041600803.htm |
+| [35] | [[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer\|USAO-WDTX — Hambardzum Minasyan (Armenian co-developer of RedLine infostealer) extradition from NL+BE to US WDTX (post Op Magnus)]] | U.S. Attorney's Office, Western District of Texas (DOJ) | 2026-03-25 | https://www.justice.gov/usao-wdtx/pr/armenian-man-extradited-us-faces-charges-role-infostealing-malware-scheme |

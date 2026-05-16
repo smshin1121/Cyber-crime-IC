@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 169, single-agent, L23+L24+L25 strict] | US-NL-BE Minasyan RedLine Infostealer Extradition (USAO-WDTX, 25 Mar 2026)
+- Source: `raw/press-releases/2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer.md` (justice.gov USAO-WDTX own-domain; en).
+- Pages created: `wiki/sources/2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer.md`, `wiki/operations/us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026.md` (provisional, source_count=1).
+- Pages updated: 3 countries (united-states, netherlands, belgium); 7 organizations (us-doj, fbi, office-of-international-affairs, eurojust, netherlands-politie, netherlands-om, belgium-federal-police); 4 crime-types (malware-ic, cybercrime-infrastructure-ic, money-laundering-ic, hacking-ic); 2 mechanisms (extradition, mutual-legal-assistance); 1 related op (operation-magnus-redline-meta-stealer-takedown-2024).
+- Key findings:
+  - **L24 strict satisfied**: USAO-WDTX release names "In October 2024, the Department of Justice joined the Netherlands, Belgium, Eurojust and other partners in announcing an international disruption effort against the current version of RedLine Infostealer." — 3 cooperating jurisdictions: US (DOJ + FBI + USAO-WDTX + OIA) + Netherlands (Politie + OM) + Belgium (Federal Police); Eurojust IGO.
+  - **Tier-1 publisher**: `justice.gov/usao-wdtx` USAO Western District of Texas own-domain. 2nd USAO regional this session (1st was EDNY iter 156). Distinct downstream defendant from main RedLine developer (Maxim Rudometov) — Hambardzum Minasyan is a separately charged co-developer/administrator.
+  - **L23 compliance**: `lead_agency: "[[us-doj]]"`, `coordinating_body: "[[office-of-international-affairs]]"`; `participating_agencies` Glob-verified wikilinks (us-doj, fbi, office-of-international-affairs, eurojust, netherlands-politie, netherlands-om, belgium-federal-police).
+  - Op profile: Minasyan extradited NL→US 2026-03-23; arraigned WDTX Austin 2026-03-24; alleged registration of VPS + domains + crypto accounts supporting RedLine scheme; multi-developer conspiracy following Oct 2024 Operation Magnus infrastructure disruption. Armenia excluded from participating_countries (defendant-nationality only).
+  - `case_id: CYB-2026-325`.
+  - 8 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest [iter 168, single-agent, L23+L24+L25 strict] | DE-AT-PL-CH-SK-CZ Enkeltrick/Schockanruf Phone-Fraud 7-Week ISF-LUMEN Action (GenStA Berlin + LKA Berlin, 12 Nov 2025)
 - Source: `raw/press-releases/2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks.md` (berlin.de Berlin state government own-domain; de).
 - Pages created: `wiki/sources/2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks.md`, `wiki/operations/de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025.md` (provisional, source_count=1).

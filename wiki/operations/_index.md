@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (294 canonical / 27 absorbed / 321 records)
+# Operations (295 canonical / 27 absorbed / 322 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (294)
+## Canonical Operations (295)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -298,6 +298,7 @@ updated: 2026-04-14
 | [[crimenetwork-relaunch-takedown-2026]] | CYB-2026-266 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]] | CYB-2026-275 | 3 | ongoing | standalone | 1 | 4.40 | 1 |
 | [[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]] | CYB-2026-303 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]] | CYB-2026-325 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]] | CYB-2026-416 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[hungary-romania-swatting-doxing-discord-2026]] | CYB-2026-417 | 3 | completed | — | 1 | 4.60 | 1 |
 | [[italy-hsi-europol-live-distant-child-abuse-2026]] | CYB-2026-531 | 3 | completed | — | 1 | 4.50 | 1 |

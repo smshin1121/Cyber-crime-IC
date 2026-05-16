@@ -72,9 +72,10 @@ operations_participated:
   - "[[flubot-takedown-2022]]"
   - "[[nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
+  - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
-source_count: 12
+source_count: 13
 sources:
   - "[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
   - "[[2026-01-22_politie-nl_jaarcijfers-lx-internationale-samenwerking-verder-verstevigd]]"
@@ -88,6 +89,7 @@ sources:
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
   - "[[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
 status: active
 title: "Dutch National Police - Team High Tech Crime (THTC)"
 type: organization

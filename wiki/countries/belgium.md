@@ -47,8 +47,9 @@ operations_participated:
   - "[[fgp-oost-vlaanderen-belgium-phishingpanelen-caas-arrest-2026]]"
   - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
   - "[[flubot-takedown-2022]]"
+  - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
 region: western-europe
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-04-18_coe-int_belgium-octopus-cybercrime-community-country-profile]]"
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
@@ -60,6 +61,7 @@ sources:
   - "[[2026-04-22_police-be_phishingpanelen-leverancier-arrest]]"
   - "[[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
 title: "Kingdom of Belgium"
 treaty_memberships:
   - date: 2012-08-20
@@ -71,7 +73,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -135,3 +137,4 @@ Capacity is *highly likely* high. The FCCU/RCCU structure provides both national
 | [8] | [[2026-04-22_police-be_phishingpanelen-leverancier-arrest\|Belgian Federal Police — CaaS phishing-panel supplier arrest, NL→BE surrender, EUR 28K cash + data carriers seized (FGP Oost-Vlaanderen + Europol)]] | Belgian Federal Police (Politie.be / Police.be) | 2026-04-22 | https://www.police.be/5998/nl/nieuws/crime-as-a-service-leverancier-phishingpanelen-aan-phishingbendes-opgepakt |
 | [9] | [[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo\|PF Brazil — Belgian-national fugitive arrested in São Paulo on STF mandado de prisão para extradição (Mar 2026); Belgian charges include falsificação de tecnologia da informação]] | Polícia Federal (Brazil) — Superintendência Regional em São Paulo / SR-SP | 2026-03-09 | https://www.gov.br/pf/pt-br/assuntos/noticias/2026/03/policia-federal-prende-foragido-belga-acusado-de-fraude-e-falsificacao-de-tecnologia-da-informacao-em-sao-paulo |
 | [10] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
+| [11] | [[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer\|USAO-WDTX — Hambardzum Minasyan (Armenian co-developer of RedLine infostealer) extradition from NL+BE to US WDTX (post Op Magnus)]] | U.S. Attorney's Office, Western District of Texas (DOJ) | 2026-03-25 | https://www.justice.gov/usao-wdtx/pr/armenian-man-extradited-us-faces-charges-role-infostealing-malware-scheme |
