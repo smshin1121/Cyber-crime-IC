@@ -19,7 +19,7 @@ updated: 2026-04-27
 | [[counterfeit-goods]] | — | — | — | crimenetwork-relaunch-takedown-2026, eurojust-fake-medicines-supplements-online-takedown-2026 | 6 |
 | [[csam-ic]] | content-related | Yes | interpol-icse-database\|INTERPOL ICSE Database, europol-vidtf\|Europol Victim Identification Task Force | operation-stream-kidflix, operation-cyber-guardian, operation-orion-international | 18 |
 | [[cybercrime-forum-ic]] | cyber-dependent | Yes | search-seizure, domain-seizure, extradition | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 7 |
-| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 33 |
+| [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | domain-seizure, search-seizure, sinkholing | doublevpn-takedown, operation-nova, operation-kraken-ghost-platform | 34 |
 | [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request, mutual-legal-assistance | operation-otf-grimm, hungary-romania-swatting-doxing-discord-2026, operation-us-v-szabo-swatting-ring | 6 |
 | [[dark-web-ic]] | — | — | — | archetyp-market-takedown-operation-deep-sentinel-2025, operation-candy-encrypted-comms-drugs-2026, bohemia-cannabia-darknet-marketplace-takedown-2024 | 12 |
 | [[ddos-extortion]] | — | — | — | — | 1 |

@@ -10,12 +10,14 @@ operations_participated:
   - "[[sg-hk-my-gsm-gateway-scam-takedown-2025]]"
   - "[[operation-cyber-guardian-2026]]"
   - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
+  - "[[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]]"
 region: east-asia
-source_count: 3
+source_count: 4
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
   - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
+  - "[[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]]"
 title: "Hong Kong Special Administrative Region"
 treaty_memberships:
   - not-assessed

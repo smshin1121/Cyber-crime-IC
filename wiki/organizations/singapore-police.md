@@ -34,15 +34,17 @@ operations_participated:
   - "[[spf-cnp-government-officials-impersonation-cambodia-arrest-2026]]"
   - "[[operation-cyber-guardian-2026]]"
   - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
+  - "[[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]]"
 org_type: national-unit
 parent_org: "[[singapore-police]]"
-source_count: 12
+source_count: 13
 sources:
   - "[[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
   - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
+  - "[[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]]"
 status: active
 title: "Singapore Police Force — Cybercrime Command"
 type: organization
@@ -140,3 +142,4 @@ Singapore's Cybercrime Command is *highly likely* one of the most capable nation
 | [10] | [[2026-05-05_police-gov-sg_singaporean-man-arrested-cambodia-government-officials-impersonation-scam\|SPF — Phnom Penh OCG repatriation arrest of Ngiam Siow Jui (May 2026); SPF-CNP joint compound disruption Sep 2025; 535+ scam cases / S$53M loss; 2 Red Notice fugitives outstanding]] | Singapore Police Force (SPF) | 2026-05-05 | https://www.police.gov.sg/Media-Room/News/20260505_singaporean_man_arrested_in_cambodia_for_government_officials_impersonation_scams |
 | [11] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |
 | [12] | [[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction\|SPF — Two men extradited from Malaysia, charged in Singapore; multi-jurisdictional Android-malware takedown (Op DISTANTHILL)]] | Singapore Police Force | 2024-06-14 | https://www.police.gov.sg/media-room/news/20240614_two_men_extradited_from_malaysia_to_face_charges_in_sg_for_their_suspected_involvement |
+| [13] | [[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet\|HK Govt ISD/HKPF — STEALTHNET counter cyber+physical terrorism joint exercise (HK-Macao-SG-KR + INTERPOL, Apr 2026)]] | HKSAR Information Services Department (info.gov.hk) on behalf of HKPF | 2026-04-16 | https://www.info.gov.hk/gia/general/202604/16/P2026041600803.htm |

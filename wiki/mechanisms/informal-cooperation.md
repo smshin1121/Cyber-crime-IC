@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-05-09
-source_count: 20
+source_count: 21
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -27,6 +27,7 @@ sources:
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
   - "[[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified]]"
   - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
+  - "[[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -70,6 +71,7 @@ operations_using:
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
   - "[[europol-vidtf-2026-12-children-identified]]"
   - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
+  - "[[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]]"
 ---
 ## Summary
 

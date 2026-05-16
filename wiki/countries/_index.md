@@ -54,7 +54,7 @@ total: 61
 | 🇬🇷 | [[greece]] | not-assessed | — | unknown | unknown | 2 |
 | 🇬🇹 | [[guatemala]] | not-assessed | — | unknown | unknown | 1 |
 | 🇬🇾 | [[guyana]] | not-assessed | — | unknown | unknown | 0 |
-| 🇭🇰 | [[hong-kong]] | not-assessed | — | unknown | unknown | 3 |
+| 🇭🇰 | [[hong-kong]] | not-assessed | — | unknown | unknown | 4 |
 | 🇭🇳 | [[honduras]] | not-assessed | — | unknown | unknown | 2 |
 | 🇭🇷 | [[croatia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇭🇺 | [[hungary]] | civil-law | not-assessed | unknown | unknown | 6 |
@@ -70,7 +70,7 @@ total: 61
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | not-assessed | — | unknown | unknown | 5 |
 | 🇰🇵 | [[north-korea]] | socialist-civil-law | — | very-low | 180+ | 1 |
-| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 29 |
+| 🇰🇷 | [[south-korea]] | civil-law | invited-to-accede (2023) | high | 60-120 | 30 |
 | 🇰🇿 | [[kazakhstan]] | not-assessed | — | unknown | unknown | 1 |
 | 🇱🇦 | [[laos]] | not-assessed | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | not-assessed | — | unknown | unknown | 1 |
@@ -102,7 +102,7 @@ total: 61
 | 🇷🇺 | [[russia]] | civil-law | non-party | low | 180+ | 4 |
 | 🇷🇼 | [[rwanda]] | mixed | party (2025) | medium | unknown | 3 |
 | 🇸🇪 | [[sweden]] | not-assessed | — | unknown | unknown | 6 |
-| 🇸🇬 | [[singapore]] | not-assessed | — | unknown | unknown | 5 |
+| 🇸🇬 | [[singapore]] | not-assessed | — | unknown | unknown | 6 |
 | 🇸🇮 | [[slovenia]] | not-assessed | — | unknown | unknown | 1 |
 | 🇸🇷 | [[suriname]] | not-assessed | — | unknown | unknown | 0 |
 | 🇸🇸 | [[south-sudan]] | not-assessed | — | unknown | unknown | 0 |
@@ -145,7 +145,7 @@ total: 61
 |  | [[jamaica]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[kuwait]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[lebanon]] | not-assessed | — | unknown | unknown | 1 |
-|  | [[macau]] | not-assessed | — | unknown | unknown | 0 |
+|  | [[macau]] | not-assessed | — | unknown | unknown | 1 |
 |  | [[madagascar]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[maldives]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[mongolia]] | not-assessed | — | unknown | unknown | 0 |

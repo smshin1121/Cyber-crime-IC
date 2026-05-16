@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 166, single-agent, L23+L24+L25 strict] | HKPF STEALTHNET Counter Cyber+Physical Terrorism Joint Exercise (HKSAR ISD/HKPF, 16 Apr 2026)
+- Source: `raw/press-releases/2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet.md` (info.gov.hk HKSAR state news wire own-domain; en).
+- Pages created: `wiki/sources/2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet.md`, `wiki/operations/stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026.md` (provisional, source_count=1).
+- Pages updated: 4 countries (hong-kong, macau, singapore, south-korea); 5 organizations (hong-kong-police, interpol, singapore-police, singapore-csa, knpa); 1 crime-type (cybercrime-infrastructure-ic); 1 mechanism (informal-cooperation).
+- Key findings:
+  - **L24 strict satisfied**: HKSAR ISD/HKPF release names "The exercise was jointly organised by the Hong Kong Police Force's Crime Wing and Operations Wing, with the participation of the INTERPOL, the Macao Judiciary Police, the Singapore Police Force, the Cyber Security Agency of Singapore and the Korean National Police Agency." — 5 cooperating LE jurisdictions explicitly: HK (HKPF) + Macao (Judiciary Police) + SG (SPF + CSA) + KR (KNPA) + INTERPOL IGO.
+  - **Tier-1 publisher**: `info.gov.hk` HKSAR Information Services Department state news wire own-domain (acts as government-wire publisher for HKPF releases). 1st info.gov.hk op.
+  - **L23 compliance**: `lead_agency: "[[hong-kong-police]]"`, `coordinating_body: ""`; `participating_agencies` only Glob-verified wikilinks (hong-kong-police, interpol, singapore-police, singapore-csa, knpa). Macao Judiciary Police kept in body prose only (no wiki org page).
+  - Op profile: STEALTHNET joint counter cyber+physical terrorism exercise organised by HKPF Crime Wing + Operations Wing; 2026-04-16 conclusion; 4-jurisdiction + INTERPOL drill on coordinated response to cyber-physical terror scenarios. Operation_type: capacity-building-exercise.
+  - `case_id: CYB-2026-416`.
+  - 7 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest [iter 165, single-agent, L23+L24+L25 strict] | Ragnar Locker Ransomware Gang 11-Country Takedown (Europol, 20 Oct 2023)
 - Source: `raw/press-releases/2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop.md` (europol.europa.eu IGO own-domain; en).
 - Pages created: `wiki/sources/2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop.md`, `wiki/operations/operation-ragnar-locker-takedown-2023.md` (provisional, source_count=1).

@@ -32,13 +32,15 @@ mechanisms_operated:
 
 operations_participated:
   - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
+  - "[[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]]"
 notable_cases:
 
 contact_point_for:
 
-source_count: 5
+source_count: 6
 sources:
   - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
+  - "[[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]]"
 created: 2026-04-10
 updated: 2026-05-16
 ---
@@ -112,3 +114,4 @@ CSA's relevance to cybercrime **international cooperation** (the focus of this w
 | [3] | CSA — Agencies under MDDI | Singapore Ministry of Digital Development and Information | n.d. | https://www.mddi.gov.sg/ |
 | [4] | Singapore Cyber Security Agency chief: Cyber stability a necessity, not a luxury | Computer Weekly | 2025 | https://www.computerweekly.com/news/366641228/Singapore-Cyber-Security-Agency-chief-Cyber-stability-a-necessity-not-a-luxury |
 | [5] | [[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction\|SPF — Two men extradited from Malaysia, charged in Singapore; multi-jurisdictional Android-malware takedown (Op DISTANTHILL)]] | Singapore Police Force | 2024-06-14 | https://www.police.gov.sg/media-room/news/20240614_two_men_extradited_from_malaysia_to_face_charges_in_sg_for_their_suspected_involvement |
+| [6] | [[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet\|HK Govt ISD/HKPF — STEALTHNET counter cyber+physical terrorism joint exercise (HK-Macao-SG-KR + INTERPOL, Apr 2026)]] | HKSAR Information Services Department (info.gov.hk) on behalf of HKPF | 2026-04-16 | https://www.info.gov.hk/gia/general/202604/16/P2026041600803.htm |

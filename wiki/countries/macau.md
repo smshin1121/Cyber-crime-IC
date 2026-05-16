@@ -3,10 +3,10 @@ type: country
 title: Macau
 status: needs-official-source-ingestion
 created: 2026-04-26
-updated: 2026-05-03
-source_count: 0
+updated: 2026-05-16
+source_count: 1
 sources:
-
+  - "[[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]]"
 last_verified: 2026-05-03
 legal_system: not-assessed
 ic_capacity: not-assessed
@@ -16,6 +16,7 @@ assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 operations_participated:
   - "[[frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]]"
 ---
 ## Summary
 
