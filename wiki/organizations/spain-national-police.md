@@ -43,11 +43,12 @@ operations_participated:
   - "[[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]]"
   - "[[nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025]]"
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
 notable_cases:
 
 contact_point_for:
   - "[[24-7-network]]"
-source_count: 7
+source_count: 8
 sources:
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-18_policia-es_bcit]]"
@@ -56,6 +57,7 @@ sources:
   - "[[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]]"
   - "[[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak]]"
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
+  - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-05-09

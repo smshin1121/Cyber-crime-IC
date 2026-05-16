@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 155, single-agent, L23+L24+L25 strict] | INTERPOL Operation Vibora — Spain-led 11-country LatAm CSAM Takedown (INTERPOL, 6 Jun 2025)
+- Source: `raw/press-releases/2025-06-06_interpol_operation-vibora-csam-20-arrests.md` (interpol.int own-domain; en).
+- Pages created: `wiki/sources/2025-06-06_interpol_operation-vibora-csam-20-arrests.md`, `wiki/operations/operation-vibora-spain-latam-csam-takedown-2025.md` (provisional, source_count=1).
+- Pages updated: 11 countries (spain, argentina, bolivia, brazil, costa-rica, el-salvador, honduras, paraguay, panama, chile, united-states); 3 organizations (spain-national-police, interpol, europol-ec3); 4 mechanisms (interpol-i24-7, mlat-process, informal-cooperation, mutual-legal-assistance); 1 legal framework (budapest-convention); 1 crime-type (csam-ic); 2 related ops (operation-eclipse-csam-americas, spain-argentina-ameripol-claypole-csam-producer-takedown-2025).
+- Key findings:
+  - **L24 strict satisfied**: INTERPOL release names "INTERPOL invited Spanish investigators to Chile to attend the Latin America Victim Identification Task Force meeting... INTERPOL's Crimes against Children unit facilitated follow-up sessions between authorities to align operational efforts with Argentina, Bolivia, Brazil, Costa Rica, El Salvador, Honduras and Paraguay." — 11 cooperating LE jurisdictions explicitly named (12th unnamed per release).
+  - **Tier-1 publisher**: `interpol.int` IGO own-domain. 2nd INTERPOL-as-lead op (1st was iter 137 16shop PaaS).
+  - **L23 compliance**: `lead_agency: "[[spain-national-police]]"`, `coordinating_body: "[[interpol]]"`; `participating_agencies` Glob-verified wikilinks only.
+  - Op profile: Spain-led INTERPOL-coordinated CSAM takedown announced 2025-06-06; arrest wave Mar-May 2025; 20 arrests + 68 further suspects identified; ~12 LatAm countries plus US; coordinated via Dec 2024 LatAm Victim Identification Task Force meeting in Chile.
+  - `case_id: CYB-2025-255`.
+  - 5 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 154, single-agent, L23+L24+L25 strict] | Brazil-US Operação Decrypted II Crypto-Wallet Fraud Takedown (Polícia Federal + HSI El Dorado NY, 3 Mar 2026)
 - Source: `raw/press-releases/2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud.md` (gov.br/pf own-domain; pt-br).
 - Pages created: `wiki/sources/2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud.md`, `wiki/operations/pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026.md` (provisional, source_count=1).

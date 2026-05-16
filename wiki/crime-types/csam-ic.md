@@ -35,9 +35,10 @@ notable_operations:
   - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
   - "[[operation-cyber-guardian-2026]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
 relevant_legal_frameworks:
 
-source_count: 16
+source_count: 17
 sources:
   - "[[2026-03-05_interpol_operation-eclipse-csam-americas]]"
   - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
@@ -55,6 +56,7 @@ sources:
   - "[[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
+  - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
 title: "CSAM (Child Sexual Abuse Material) — International Cooperation Perspective"
 type: crime-type
 typical_ic_challenges:
@@ -106,3 +108,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [14] | [[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol\|Policía Nacional ES — Alicante + Claypole CSAM producer takedown via AMERIPOL/AC3 channel (Dec 2025); 2 arrests Spain+Argentina, NCMEC tipline upstream]] | Policía Nacional (Spain) — Sala de Prensa | 2025-12-23 | https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=16755 |
 | [15] | [[2026-04-27_npa-japan_operation-cyber-guardian-2026\|NPA Japan — Operation Cyber Guardian 2026 (Asia 7-country CSAM crackdown, Mar-Apr 2026); 445 suspects, 382 search locations, 99 JP arrests, 69 MY arrests, 204K+ CSAM files seized]] | National Police Agency of Japan (NPA) | 2026-04-27 | https://www.npa.go.jp/news/release/2026/2026-04-27_cyber-guardian.pdf |
 | [16] | [[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol\|Policie ČR — Prague arrest of top-3 worldwide darknet CSAM distributor; FBI ~10-yr intel + Europol-coordinated identification]] | Policie České republiky | 2024-10-08 | https://policie.gov.cz/clanek/byl-v-hledacku-fbi-i-europolu-dopadli-jej-cesti-kriminaliste.aspx |
+| [17] | [[2025-06-06_interpol_operation-vibora-csam-20-arrests\|INTERPOL — Operation Vibora: Spain-led LatAm CSAM takedown (20 arrests, 11 countries, June 2025)]] | INTERPOL General Secretariat | 2025-06-06 | https://www.interpol.int/en/News-and-Events/News/2025/20-arrested-in-international-operation-targeting-child-sexual-abuse-material |

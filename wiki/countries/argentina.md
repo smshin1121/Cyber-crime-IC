@@ -13,12 +13,14 @@ operations_participated:
   - "[[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
   - "[[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]]"
-source_count: 2
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
+source_count: 3
 sources:
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
   - "[[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol]]"
+  - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
 created: 2026-04-13
-updated: 2026-05-10
+updated: 2026-05-16
 status: needs-official-source-ingestion
 last_verified: 2026-05-03
 assessment_confidence: limited

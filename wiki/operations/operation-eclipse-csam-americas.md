@@ -88,6 +88,7 @@ related_operations:
   - "[[operation-stream-kidflix]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
 challenges_encountered:
   - "CSAM operations require victim-identifying details to remain protected while still preserving cross-border evidentiary traceability."
 lessons_learned:

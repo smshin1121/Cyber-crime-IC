@@ -9,10 +9,12 @@ treaty_memberships:
 ic_capacity: not-assessed
 operations_participated:
   - "[[operation-eclipse-csam-americas]]"
-source_count: 0
-sources: []
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
+source_count: 1
+sources:
+  - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-16
 status: needs-official-source-ingestion
 last_verified: 2026-05-08
 assessment_confidence: limited

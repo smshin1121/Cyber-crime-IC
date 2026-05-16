@@ -75,14 +75,15 @@ missing_fields:
   - "victim count, victim age range, victim jurisdictions, and identification status of the minor allegedly depicted in the newly-created CSAM"
   - "judicial-control identifiers (the press release does not name the Spanish or Argentine investigating judge or prosecutor)"
 related_cases:
-  []
+
 related_operations:
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
   - "[[mexico-yucatan-nayarit-csam-afp-fgr-2026]]"
   - "[[cross-border-online-cse-operation-spf-2026]]"
   - "[[italy-hsi-europol-live-distant-child-abuse-2026]]"
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "First Spain–Argentina CSAM-cooperation operation in the wiki corpus that explicitly invokes AMERIPOL's AC3 specialised cybercrime centre as the police-to-police channel, with the Spanish National Police liaison officer at AC3 named as the contact point. Adds AMERIPOL/AC3 as a formally-named cooperation mechanism rather than a generic 'police channels' attribution."
   - "Per L24, the operational LE-cooperation roster is bilateral (Spain + Argentina); 'ramificaciones operativas' across Europe and South America described in the primary release are body-prose attribution to the criminal organisation's footprint, not participating cooperation jurisdictions. NCMEC is recorded as a public-private partner that originated the lead, not as a participating LE jurisdiction."
@@ -92,7 +93,7 @@ sources:
   - "[[2025-12-23_policia-es_alicante-claypole-csam-producer-detention-ameripol]]"
 summary: "On 2025-12-23 the [[spanish-national-police|Policía Nacional]] (Spain) Unidad Central de Ciberdelincuencia, with the Brigada Provincial de Policía Judicial de Alicante, announced a Spain–Argentina coordinated arrest action against an international CSAM-producer / CSAM-distributor cell. The Spanish leg, opened from an [[ncmec|NCMEC]] CyberTipline-style lead, arrested a Spanish national in Alicante province who stored and exchanged CSAM via cloud and messaging services. Forensic analysis identified newly-created CSAM allegedly depicting a minor to whom an Argentine counterpart claimed personal access. Spain's UCC activated the AMERIPOL hemispheric police-cooperation mechanism via the Spanish National Police liaison officer at the AMERIPOL Centro Especializado en Cibercrimen (AC3); the **Dirección de Investigaciones Cibercrimen de la Policía de la Provincia de Buenos Aires** then identified, located, and arrested the second suspect in Claypole, Buenos Aires province (Argentina), with a domiciliary search. The Argentine subject is described by investigators as one of the leaders of an international criminal organisation with operational branches in Europe and South America. The investigation is reported as ongoing internationally."
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 

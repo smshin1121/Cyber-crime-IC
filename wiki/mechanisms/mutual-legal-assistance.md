@@ -3,14 +3,15 @@ type: mechanism
 title: "Mutual Legal Assistance"
 status: corpus-linked
 created: 2026-04-10
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-04-10
-source_count: 4
+source_count: 5
 sources:
   - "[[voa-infraud-organization-takedown]]"
   - "[[2026-03-06_astynomia-gr_daoe-crypto-investment-fraud-takedown]]"
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
+  - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[greek-daoe-crypto-investment-fraud-2026]]"
@@ -18,6 +19,7 @@ operations_using:
   - "[[operation-us-v-szabo-swatting-ring]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
 cases_using:
   - "[[us-v-szabo-swatting-ring]]"
 ---

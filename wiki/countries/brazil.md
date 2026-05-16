@@ -38,10 +38,11 @@ operations_participated:
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
   - "[[pf-belgium-extradition-arrest-sao-paulo-2026]]"
   - "[[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]]"
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
 notable_cases:
 
 cooperation_assessment: ""
-source_count: 8
+source_count: 9
 sources:
   - "[[2022-01-20_justice-gov_brazilian-national-pleads-guilty-to-role-in-nationwide-rideshare-and-delivery-ac]]"
   - "[[2025-02-22_bitget_brazilian-national-20-year-sentence-290m-bitcoin-ponzi-scheme]]"
@@ -51,6 +52,7 @@ sources:
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
   - "[[2026-03-09_pf-gov-br_pf-prende-foragido-belga-fraude-falsificacao-tecnologia-informacao-sao-paulo]]"
   - "[[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud]]"
+  - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
 created: 2026-04-13
 updated: 2026-05-16
 status: corpus-linked

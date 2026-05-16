@@ -47,13 +47,14 @@ operations_using:
   - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
   - "[[nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
 cases_using:
   - "[[us-v-szabo-swatting-ring]]"
 related_mechanisms:
   - "[[24-7-network]]"
   - "[[europol-jit]]"
   - "[[direct-provider-request]]"
-source_count: 8
+source_count: 9
 sources:
   - "[[2026-04-29_congress-gov_us-australia-mlat-treaty-document-105-27]]"
   - "[[2026-04-29_congress-gov_korea-us-mlat-treaty-document-104-1]]"
@@ -63,6 +64,7 @@ sources:
   - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
   - "[[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
+  - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
 created: 2026-04-08
 updated: 2026-05-16
 status: active
@@ -99,3 +101,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [6] | [[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure\|Met Police — World's largest bitcoin seizure: UK-China conviction of Zhimin Qian and Seng Hok Ling for laundering proceeds of CN-origin investment fraud]] | Metropolitan Police Service (UK) | 2025-09-29 | https://news.met.police.uk/news/woman-convicted-following-worlds-largest-seizure-501569 |
 | [7] | [[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak\|Politie NL — Spanish Policia Nacional UDYCO Greco Costa del Sol arrest in Estepona of Dutch bank-helpdesk-fraud/AnyDesk-takeover suspect]] | Politie Nederland | 2025-04-29 | https://www.politie.nl/nieuws/2025/april/29/spaanse-aanhouding-in-limburgse-cyberzaak.html |
 | [8] | [[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia\|IRS-CI / USAO-NJ — Versus Project darknet marketplace operator Patrick Schmitz extradition from Colombia to US]] | IRS-CI (mirror of USAO-NJ / DOJ OPA) | 2026-04-30 | https://www.irs.gov/compliance/criminal-investigation/leading-dark-web-marketplace-creator-and-operator-extradited-from-colombia-to-the-united-states |
+| [9] | [[2025-06-06_interpol_operation-vibora-csam-20-arrests\|INTERPOL — Operation Vibora: Spain-led LatAm CSAM takedown (20 arrests, 11 countries, June 2025)]] | INTERPOL General Secretariat | 2025-06-06 | https://www.interpol.int/en/News-and-Events/News/2025/20-arrested-in-international-operation-targeting-child-sexual-abuse-material |

@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-05-09
-source_count: 17
+source_count: 18
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -24,6 +24,7 @@ sources:
   - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
   - "[[2025-04-29_politie-nl_spaanse-aanhouding-limburgse-cyberzaak]]"
+  - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -64,6 +65,7 @@ operations_using:
   - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
   - "[[nl-limburg-spain-policia-nacional-bank-helpdesk-fraud-arrest-2025]]"
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
 ---
 ## Summary
 

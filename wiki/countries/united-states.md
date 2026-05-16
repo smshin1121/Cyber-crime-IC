@@ -232,8 +232,9 @@ operations_participated:
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
   - "[[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]]"
+  - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
 region: north-america
-source_count: 24
+source_count: 25
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -259,6 +260,7 @@ sources:
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
   - "[[2026-03-03_pf-gov-br_operacao-decrypted-ii-brazil-us-hsi-crypto-wallet-fraud]]"
+  - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29
