@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (837)
+# Sources (838)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -503,6 +503,7 @@ updated: 2026-04-14
 | [[2023-10-19_thenewsmill-com_cbi-launches-operation-chakra-2-against-cyber-criminals]] | news | The News Mill / ANI | ? | medium | ? |
 | [[2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes]] | press-release | Press Information Bureau / Ministry of Home Affairs | ? | high | ? |
 | [[2023-10-19_ndtv_operation-chakra-ii-cbi-raids-76-locations]] | news | NDTV / Press Trust of India | ? | medium | ? |
+| [[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]] | press-release | Landeskriminalamt Nordrhein-Westfalen (LKA NRW) — Pressestelle | ? | high | ? |
 | [[2023-09-12_lgtr-justiz-rlp-de_cyberbunker-convictions-final]] | court-press-release | Landgericht Trier | 1 | high | ? |
 | [[2023-09-08-korea-china-voice-phishing-qingdao]] | news | The Korea Times | ? | medium | ? |
 | [[2023-09-07_yna-co-kr_police-nab-16-voice-phishing-scam-suspects-based-in-china]] | news | Yonhap News Agency | ? | high | ? |

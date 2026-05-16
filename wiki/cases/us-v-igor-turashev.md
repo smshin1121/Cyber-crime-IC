@@ -15,17 +15,19 @@ defendants:
     status: charged
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-us-v-igor-turashev]]"
+related_operation:
+  - "[[operation-us-v-igor-turashev]]"
+  - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
-    []
+
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -40,7 +42,7 @@ source_count: 1
 sources:
   - "[[2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-05-16
 summary: "United States v. Igor Turashev is documented in the linked source material. The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. Available source coverage includes US DOJ."
 ---
 ## Summary

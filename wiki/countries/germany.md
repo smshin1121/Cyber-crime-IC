@@ -86,8 +86,9 @@ operations_participated:
   - "[[de-cy-bg-se-online-investment-fraud-cyprus-call-centres-2024]]"
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
   - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
+  - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
 region: western-europe
-source_count: 16
+source_count: 17
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -105,6 +106,7 @@ sources:
   - "[[2024-01-22_eurojust_crackdown-criminal-network-online-investment-fraud-cyprus-call-centres]]"
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
   - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
+  - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09

@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-05-09
-source_count: 11
+source_count: 12
 sources:
   - "[[europol-operation-pleiades]]"
   - "[[2026-02_europol_project-compass-the-com-network]]"
@@ -18,6 +18,7 @@ sources:
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
   - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
   - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
+  - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
 category: cybercrime-related
 broadly_criminalized: varies-by-jurisdiction
 notable_operations:
@@ -30,6 +31,7 @@ notable_operations:
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
   - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
+  - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
 notable_cases:
   - "[[us-v-kai-west-intelbroker-2025]]"
   - "[[us-v-jubair-scattered-spider-2025]]"

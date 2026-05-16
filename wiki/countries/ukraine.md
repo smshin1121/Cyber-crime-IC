@@ -47,14 +47,16 @@ operations_participated:
   - "[[operation-toy-soldier-gru-29155-estonia-2024]]"
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
+  - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
 region: eastern-europe
-source_count: 8
+source_count: 9
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
   - "[[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
+  - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
 title: Ukraine
 treaty_memberships:
   - date: 2005-09-10
@@ -66,7 +68,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -129,3 +131,4 @@ Despite wartime conditions, Ukraine maintains substantial cybercrime investigati
 | [6] | [[2024-09-05_politsei-ee_gru-unit-29155-toy-soldier-cyberattacks-estonia\|Operation Toy Soldier — Estonia-led GRU Unit 29155 attribution + indictment (EE+US+UA, 14 services / 10 states)]] | Estonian PPA | 2024-09-05 | https://www.politsei.ee/en/news/a-gru-military-unit-launched-cyberattacks-against-estonian-authorities-12173 |
 | [7] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
 | [8] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|BKA — Black Basta ransomware ringleader public arrest warrant + UA region searches (Jan 2026); 5-LE-jurisdiction op (DE+NL+CH+UA+UK); 100+ DE victims, 600+ worldwide, 3-digit-million EUR proceeds]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |
+| [9] | [[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine\|LKA NRW (polizei.nrw) — EK Parker DoppelPaymer renewed strike: DE-UA blockchain investigation with USSS; Ukraine searches]] | Landeskriminalamt NRW Pressestelle | 2023-09-18 | https://polizei.nrw/presse/ek-parker-mit-erneutem-schlag-gegen-internationales-cybercrime-netzwerk |

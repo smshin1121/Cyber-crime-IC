@@ -28,16 +28,18 @@ operations_participated:
   - "[[dnipro-fraudulent-call-centre-takedown-2026]]"
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
+  - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
 org_type: national-unit
 parent_org: "Національна поліція України (National Police of Ukraine) — Ministry of"
-source_count: 5
+source_count: 6
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
+  - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
 status: active
 title: "Cyber Police of Ukraine — Department of Cyber Police"
 type: organization
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -106,3 +108,4 @@ Since **March 2022**, by directive of the commander-in-chief of the Ukrainian Ar
 | [3] | How Ukraine's Cyber Police fights fraud, scams, and attacks on critical infrastructure | The Record (Recorded Future News) | n.d. | https://therecord.media/how-ukraines-cyber-police-fights-fraud-scams-and-attacks-on-critical-infrastructure |
 | [4] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
 | [5] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|BKA — Black Basta ransomware ringleader public arrest warrant + UA region searches (Jan 2026); 5-LE-jurisdiction op (DE+NL+CH+UA+UK); 100+ DE victims, 600+ worldwide, 3-digit-million EUR proceeds]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |
+| [6] | [[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine\|LKA NRW (polizei.nrw) — EK Parker DoppelPaymer renewed strike: DE-UA blockchain investigation with USSS; Ukraine searches]] | Landeskriminalamt NRW Pressestelle | 2023-09-18 | https://polizei.nrw/presse/ek-parker-mit-erneutem-schlag-gegen-internationales-cybercrime-netzwerk |

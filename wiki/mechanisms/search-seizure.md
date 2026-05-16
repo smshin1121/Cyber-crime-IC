@@ -4,7 +4,7 @@ title: "Search and Seizure"
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-16
-source_count: 20
+source_count: 21
 sources:
   - "[[2021-10-09_shorenewsnetwork_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy]]"
   - "[[2026-01-13_komonews_4-people-federal-charges-drug-trafficking-conspiracy-marysville]]"
@@ -26,6 +26,7 @@ sources:
   - "[[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
   - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
+  - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
@@ -50,6 +51,7 @@ operations_using:
   - "[[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
   - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
+  - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
 ---
 ## Summary
 

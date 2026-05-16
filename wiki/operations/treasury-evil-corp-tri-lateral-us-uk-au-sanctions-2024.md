@@ -97,8 +97,9 @@ related_operations:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
   - "[[operation-cronos-phase1]]"
   - "[[operation-cronos-phase3]]"
+  - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Tri-lateral US-UK-AU same-day designation is a deliberate template, not a one-off — the wiki-first record of this 3-country financial-sanctions coordination pattern. The same template (Treasury + FCDO + DFAT under E.O. 13694/14024) recurs in the 2025 Russian-BPH chain (Zservers Feb 2025 → Aeza Group Jul 2025 → Media Land Nov 2025), establishing a 9-month sustained-pressure track that is the direct operational sequel to this 2024 Evil Corp action."
   - "The 2019 → 2024 5-year sanctions chain (Dec 5 2019 OFAC Evil Corp / Yakubets core designation → Oct 2022 E.O. 14024 designations of NIK / Chayka / Troshin → Oct 1 2024 expansion to 7 more individuals + 2 entities) shows that OFAC pressure on Russia-based ransomware groups is not a single-shot action: it is iterated as new evidence develops about the group's state nexus and operational personnel."
@@ -109,9 +110,8 @@ source_count: 1
 sources:
   - "[[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 ---
-
 ## Summary
 
 On **2024-10-01**, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) designated **seven Russian-national individuals** (Eduard Benderskiy; Viktor Grigoryevich Yakubets; Aleksandr Viktorovich Ryzhenkov; Sergey Viktorovich Ryzhenkov; Aleksey Yevgenevich Shchetinin; Beyat Enverovich Ramazanov; Vadim Gennadievich Pogodin) and **two Russia-based entities** (Vympel-Assistance LLC; Solar-Invest LLC) as members and affiliates of the Russia-based [[ransomware-ic|Evil Corp]] cybercriminal group, under [[asset-freezing|E.O. 13694 as amended and E.O. 14024]]. On the same day, the **United Kingdom's** FCDO designated **15 additional** Evil Corp persons, **Australia's** DFAT designated **3 additional** Evil Corp persons, and the **U.S. Department of Justice** unsealed an Eastern District of Texas indictment charging **Aleksandr Ryzhenkov** with using **BitPaymer ransomware** to target numerous U.S. victims. The action coincided with day 2 of the U.S.-hosted Counter Ransomware Initiative (CRI) summit (over 50 countries).

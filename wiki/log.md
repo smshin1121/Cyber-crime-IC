@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 157, single-agent, L23+L24+L25 strict] | LKA NRW EK Parker DoppelPaymer DE-UA-US Renewed Strike (LKA NRW, 18 Sep 2023)
+- Source: `raw/press-releases/2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine.md` (polizei.nrw own-domain; de).
+- Pages created: `wiki/sources/2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine.md`, `wiki/operations/ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023.md` (provisional, source_count=1).
+- Pages updated: 3 countries (germany, ukraine, united-states); 4 organizations (germany-bka, us-secret-service, ukraine-police, europol-ec3); 2 crime-types (ransomware-ic, extortion-ic); 2 mechanisms (search-seizure, european-arrest-warrant); 1 case backlink (us-v-igor-turashev); 2 related ops (dridex-operations, treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024).
+- Key findings:
+  - **L24 strict satisfied**: LKA NRW release names "Blockchain-Ermittlungen des LKA NRW und des U.S. Secret Service" + "LKA-Experten und Polizeien anderer Länder Durchsuchungsbeschlüsse gegen die Verdächtigen in Deutschland und der Ukraine" + Europol global coordination — 3 cooperating LE jurisdictions: DE (LKA NRW + ZAC NRW) + US (USSS blockchain) + UA (Ukrainian police executed searches); Europol IGO coordination.
+  - **Tier-1 publisher**: `polizei.nrw` LKA Nordrhein-Westfalen Pressestelle own-domain. 1st LKA NRW op (4th distinct German tier-1 publisher after BKA + Hessen + Bayern).
+  - **L23 compliance**: `lead_agency: ""`, `coordinating_body: ""` (LKA NRW + ZAC NRW have no wiki pages; entity descriptions kept in body prose); `participating_agencies` only Glob-verified wikilinks (germany-bka, us-secret-service, ukraine-police, europol-ec3).
+  - Op profile: 2023-09-18 (action week 2023-09-11..18); LKA NRW + ZAC NRW + USSS blockchain investigations identified 2 men; parallel Germany-Ukraine searches by LKA + Ukrainian police; Europol global coordination. Targets DoppelPaymer (Bitpaymer/DoppelSpider) ransomware ring previously associated with Funke Mediengruppe attack and Düsseldorf university hospital fatal incident 2020.
+  - `case_id: CYB-2023-985`.
+  - 5 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 156, single-agent, L23+L24+L25 strict, L21 Akamai bypass] | US-Spain Nefilim Ransomware Affiliate Stryzhak Guilty Plea (USAO-EDNY, 19 Dec 2025)
 - Source: `raw/press-releases/2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware.md` (justice.gov USAO-EDNY own-domain; en).
 - Pages created: `wiki/sources/2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware.md`, `wiki/operations/us-spain-nefilim-stryzhak-extradition-guilty-plea-2025.md` (provisional, source_count=1).
