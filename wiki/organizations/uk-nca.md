@@ -78,9 +78,10 @@ operations_participated:
   - "[[operation-otf-grimm]]"
   - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
+  - "[[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]]"
 org_type: national-agency
 parent_org: ""
-source_count: 16
+source_count: 17
 sources:
   - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
   - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
@@ -90,6 +91,7 @@ sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
+  - "[[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests]]"
 status: active
 title: "UK National Crime Agency (NCA)"
 type: organization
@@ -252,3 +254,4 @@ Direct NCA-Korea cybercrime cooperation is *likely* less developed than FBI-Kore
 | [14] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led, Europol-coordinated)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
 | [15] | [[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure\|Met Police — World's largest bitcoin seizure: UK-China conviction of Zhimin Qian and Seng Hok Ling for laundering proceeds of CN-origin investment fraud]] | Metropolitan Police Service (UK) | 2025-09-29 | https://news.met.police.uk/news/woman-convicted-following-worlds-largest-seizure-501569 |
 | [16] | [[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam\|NCA — UK arrest in €645M JuicyFields cannabis-investment Ponzi takedown; UK-ES-DE-FR JIT at Eurojust]] | National Crime Agency (UK) | 2024-04-12 | https://www.nationalcrimeagency.gov.uk/news/uk-arrest-in-645-million-international-investment-scam |
+| [17] | [[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests\|SAnews/Hawks DPCI — ZA-UK-US joint takedown of 23-suspect investment call-centre scam targeting AU/NZ/UK/US retirees (R1B+ losses)]] | South African Government News Agency (SAnews) | 2026-01-29 | https://www.sanews.gov.za/south-africa/alleged-international-scam-syndicate-members-arrested |

@@ -6,15 +6,17 @@ last_verified: 2026-05-03
 legal_system: not-assessed
 operations_participated:
   - "[[operation-haechi-vi]]"
+  - "[[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]]"
 region: southern-africa
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
+  - "[[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests]]"
 title: "Republic of South Africa"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-03
+updated: 2026-05-16
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

@@ -25,18 +25,19 @@ notable_cases:
   - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 official_name: "Directorate for Priority Crime Investigation (DPCI)"
 operations_participated:
-
+  - "[[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]]"
 org_type: national-unit
 parent_org: "[[south-africa-saps]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2026-04-17_saps-gov-za_official-website]]"
   - "[[2026-04-17_coe-int_south-africa-octopus-cybercrime-community]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
+  - "[[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests]]"
 status: active
 title: "The Hawks"
 type: organization
-updated: 2026-04-29
+updated: 2026-05-16
 ---
 ## Summary
 

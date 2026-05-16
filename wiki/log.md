@@ -1,5 +1,19 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 158, single-agent, L23+L24+L25 strict] | ZA-UK-US Hawks DPCI Investment Call-Centre Scam Takedown (SAnews/Hawks, 29 Jan 2026)
+- Source: `raw/press-releases/2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests.md` (sanews.gov.za state news wire own-domain; en).
+- Pages created: `wiki/sources/2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests.md`, `wiki/operations/za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026.md` (provisional, source_count=1).
+- Pages updated: 3 countries (south-africa, united-kingdom, united-states); 4 organizations (south-africa-hawks, south-africa-saps, uk-nca, us-dhs); 1 crime-type (online-fraud-ic).
+- Key findings:
+  - **L24 strict satisfied**: SAnews/Hawks DPCI release names "internationally coordinated investigations conducted by the DPCI, the South African Police Service Crime Intelligence, the Financial Intelligence Centre, the United Kingdom National Crime Agency, the United States Department of Homeland Security Service" — 3 cooperating LE jurisdictions: South Africa (Hawks/DPCI + SAPS Crime Intel + FIC) + UK (NCA) + US (DHS). Australia/New Zealand excluded from participating_countries (victim-only + private partners only — Australian IFW, CyberTrace are private investigation companies, not LE).
+  - **Tier-1 publisher**: `sanews.gov.za` South African Government News Agency (GCIS) state news wire — official .gov.za own-domain reproducing Hawks press release verbatim. 1st SAnews/Hawks op in wiki.
+  - **L23 compliance**: `lead_agency: "[[south-africa-hawks]]"`, `coordinating_body: ""` (FIC kept in body prose, no wiki page); `participating_agencies` only Glob-verified wikilinks (south-africa-hawks, south-africa-saps, uk-nca, us-dhs).
+  - **Slug correction**: agent initially used `[[investment-fraud-ic]]` (non-existent); replaced with canonical `[[online-fraud-ic]]`. Also removed `[[LESSONS.md|L24]]` broken_wikilink and rephrased without brackets.
+  - Op profile: 23-suspect Hawks DPCI arrests in Gauteng/Johannesburg week of 2026-01-26..29; investigation opened 2022 from 43 Australian victim complaints; victim losses R1B+ across 40+ identified victims in US/UK/AU/NZ; FAIS Act 37/2002 charges (unregistered financial-advisory call-centre); Johannesburg Commercial Crimes Court.
+  - `case_id: CYB-2026-158`.
+  - 4 source_count_mismatch HIGH + 1 LOW broken_wikilink resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 5 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 157, single-agent, L23+L24+L25 strict] | LKA NRW EK Parker DoppelPaymer DE-UA-US Renewed Strike (LKA NRW, 18 Sep 2023)
 - Source: `raw/press-releases/2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine.md` (polizei.nrw own-domain; de).
 - Pages created: `wiki/sources/2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine.md`, `wiki/operations/ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023.md` (provisional, source_count=1).

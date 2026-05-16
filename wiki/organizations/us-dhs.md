@@ -40,15 +40,17 @@ operations_participated:
   - "[[crypto-investment-fraud-spain-460m-takedown-2025]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
-source_count: 5
+  - "[[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]]"
+source_count: 6
 sources:
   - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
   - "[[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service]]"
   - "[[2024-06-07_fbi-gov_the-911-s5-cyber-threat]]"
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
+  - "[[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests]]"
 created: 2026-04-10
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-05-09
 coverage_status: audit-normalized
 ---
@@ -77,3 +79,4 @@ This page has been normalized for the organization audit: it includes role metad
 | [3] | [[2024-06-07_fbi-gov_the-911-s5-cyber-threat|Inside the FBI Podcast: The 911 S5 Cyber Threat]] | Federal Bureau of Investigation | 2024-06-07 | https://www.fbi.gov/news/podcasts/inside-the-fbi-podcast-the-911-s5-cyber-threat |
 | [4] | [[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional\|MPF CABA — Operación Aliados por la Infancia VI: 270 raids across 13 jurisdictions (AR+BR+PA+DO+GT+UY+PY+CR+ES+PE+HN+FR+PR), 84 arrests]] | Ministerio Público Fiscal CABA — Cuerpo de Investigaciones Judiciales | 2026-04-29 | https://mpfciudad.gob.ar/noticias/operativo-internacional-aliados-por-la-infancia-vi |
 | [5] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
+| [6] | [[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests\|SAnews/Hawks DPCI — ZA-UK-US joint takedown of 23-suspect investment call-centre scam targeting AU/NZ/UK/US retirees (R1B+ losses)]] | South African Government News Agency (SAnews) | 2026-01-29 | https://www.sanews.gov.za/south-africa/alleged-international-scam-syndicate-members-arrested |

@@ -92,8 +92,9 @@ operations_participated:
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
   - "[[met-police-china-uk-bitcoin-money-laundering-conviction-2025]]"
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
+  - "[[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]]"
 region: western-europe
-source_count: 13
+source_count: 14
 sources:
   - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
   - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
@@ -108,6 +109,7 @@ sources:
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
   - "[[2025-09-29_met-police_two-people-convicted-following-worlds-largest-crypto-seizure]]"
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
+  - "[[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests]]"
 title: "United Kingdom"
 treaty_memberships:
   - date: 2011-05-25

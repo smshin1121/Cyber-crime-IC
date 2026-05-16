@@ -235,8 +235,9 @@ operations_participated:
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
   - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
   - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
+  - "[[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]]"
 region: north-america
-source_count: 27
+source_count: 28
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -265,6 +266,7 @@ sources:
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
   - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
   - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
+  - "[[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29
