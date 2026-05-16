@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 168, single-agent, L23+L24+L25 strict] | DE-AT-PL-CH-SK-CZ Enkeltrick/Schockanruf Phone-Fraud 7-Week ISF-LUMEN Action (GenStA Berlin + LKA Berlin, 12 Nov 2025)
+- Source: `raw/press-releases/2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks.md` (berlin.de Berlin state government own-domain; de).
+- Pages created: `wiki/sources/2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks.md`, `wiki/operations/de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025.md` (provisional, source_count=1).
+- Pages updated: 6 countries (germany, austria, poland, switzerland, slovakia, czechia); 6 organizations (germany-lka, germany-bka, poland-police, switzerland-fedpol, czech-police, europol-ec3); 3 crime-types (voice-phishing-ic, online-fraud-ic, organized-crime-ic); 3 mechanisms (informal-cooperation, europol-jit, mlat-process); 1 related op (operation-pandora-12-phone-fraud-call-centres-2024).
+- Key findings:
+  - **L24 strict satisfied**: GenStA Berlin/LKA Berlin release names "Der Verbundeinsatz von Polizeibehörden aus allen 16 Bundesländern, des Bundeskriminalamts, Österreich, Polen, Schweiz, Slowakei und Tschechien sowie von Europol" — 6 cooperating LE jurisdictions explicitly: DE (all 16 Länder + BKA) + AT + PL + CH + SK + CZ + Europol IGO.
+  - **Tier-1 publisher**: `berlin.de/generalstaatsanwaltschaft` Berlin state government own-domain. 1st berlin.de op (6th distinct German tier-1 publisher this session after BKA, Hessen, Bayern, NRW, Justiz Bayern + now Berlin GenStA).
+  - **L23 compliance**: `lead_agency: "[[germany-lka]]"`, `coordinating_body: ""` (Generalstaatsanwaltschaft Berlin has no wiki page); `participating_agencies` only Glob-verified wikilinks.
+  - Op profile: Schockanruf/Enkeltrick (grandparent-scam/shock-call) phone-fraud 7-action-week 2025-09-15 to 2025-10-31; EU-funded ISF-LUMEN project; 16 arrests; 3 call centres dismantled (Frankfurt am Main, Austria, Warsaw); 44 cases prevented; €2,007,330 victim damages prevented.
+  - `case_id: CYB-2025-1001`.
+  - 10 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest [iter 167, REJECT-AND-RETRY, L23+L24+L25 borderline] | DE-SE Online-Trading Fraud Helsingborg Extradition (LKA-BW + CCZ Karlsruhe, 26 Mar 2026)
 - Source: `raw/press-releases/2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud.md` (presseportal.de via LKA Baden-Württemberg + CCZ Karlsruhe; de).
 - Pages created: `wiki/sources/2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud.md`, `wiki/operations/de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026.md` (provisional, source_count=1).

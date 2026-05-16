@@ -14,10 +14,12 @@ operations_participated:
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
-source_count: 2
+  - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
+source_count: 3
 sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
 created: 2026-04-17
 updated: 2026-05-16
 status: needs-official-source-ingestion

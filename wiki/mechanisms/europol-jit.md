@@ -55,18 +55,20 @@ operations_using:
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
+  - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
 cases_using:
 
 related_mechanisms:
   - "[[mlat-process]]"
   - "[[24-7-network]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2015-06-01_europol-europa-eu_major-cybercrime-ring-dismantled-by-joint-investigation-team]]"
   - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
 created: 2026-04-08
 updated: 2026-05-16
 status: active
@@ -100,3 +102,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [3] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
 | [4] | [[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam\|NCA — UK arrest in €645M JuicyFields cannabis-investment Ponzi takedown; UK-ES-DE-FR JIT at Eurojust]] | National Crime Agency (UK) | 2024-04-12 | https://www.nationalcrimeagency.gov.uk/news/uk-arrest-in-645-million-international-investment-scam |
 | [5] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |
+| [6] | [[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks\|GenStA Berlin + LKA Berlin — DE-AT-PL-CH-SK-CZ Enkeltrick/Schockanruf phone-fraud 7-week action (ISF-LUMEN); 16 arrests, EUR 2M+ prevented]] | Generalstaatsanwaltschaft Berlin + LKA Berlin | 2025-11-12 | https://www.berlin.de/generalstaatsanwaltschaft/presse/pressemitteilungen/2025/pressemitteilung.1615574.php |

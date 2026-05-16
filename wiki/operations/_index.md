@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (293 canonical / 27 absorbed / 320 records)
+# Operations (294 canonical / 27 absorbed / 321 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (293)
+## Canonical Operations (294)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -176,6 +176,7 @@ updated: 2026-04-14
 | [[italy-riccione-cyber-extortion-arrest-khlynovskiy-2025]] | CYB-2025-085 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[oag-fedpol-real-time-phishing-uk-conviction-2025]] | CYB-2025-097 | 3 | completed | standalone | 3 | 4.20 | 1 |
 | [[fiscalia-colombia-criptoactivos-fraud-network-takedown-2025]] | CYB-2025-098 | 3 | ongoing | — | 1 | 4.00 | 1 |
+| [[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]] | CYB-2025-1001 | 3 | completed | — | 1 | 4.40 | 1 |
 | [[cbzc-krakow-money-laundering-jit-2025]] | CYB-2025-104 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-2025-107 | 3 | completed | umbrella | 5 | 4.32 | 1 |
 | [[treasury-sanctions-dprk-bankers-laundering-cybercrime-2025]] | CYB-2025-110 | 3 | completed | — | 1 | 4.50 | 1 |

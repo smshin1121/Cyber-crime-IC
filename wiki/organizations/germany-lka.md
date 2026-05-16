@@ -24,12 +24,14 @@ operations_participated:
   - "[[proxy-service-takedown-2026-03]]"
   - "[[warzone-rat-takedown-2024]]"
   - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
+  - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
 org_type: national-agency
 parent_org: "Interior Ministry of each of Germany's 16 federal states (Länder)"
-source_count: 5
+source_count: 6
 sources:
   - "[[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest]]"
   - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
+  - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
 status: active
 title: "Landeskriminalamt (LKA) — German State Criminal Police Offices (Collective)"
 type: organization
@@ -102,3 +104,4 @@ Direct bilateral engagement by LKAs with foreign police is *unlikely* to be stan
 | [3] | Law enforcement agencies — State Criminal Police Office Baden-Württemberg (LKA BW) | THW Sicherheitsforschung | n.d. | https://thw-forschung.de/EN/Forschungsprojekte/ForAn/Mitglieder/Polizeiliche-Gefahrenabwehr/_dokumente/steckbrief-foran-LKA-BW.html |
 | [4] | [[2024-02-13_afp-gov-au_warzone-rat-takedown-malta-arrest\|AFP — Warzone RAT MaaS takedown: Malta + Nigeria arrests + 4 US-domain seizure (Feb 2024); 11 countries, FBI-led with AFP/Europol/EFCC/RCMP coordination]] | Australian Federal Police (AFP) | 2024-02-13 | https://www.afp.gov.au/news-centre/media-release/global-operation-shuts-down-major-malware-network |
 | [5] | [[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud\|LKA Baden-Württemberg + CCZ Karlsruhe — DE-SE online-trading fraud EAW extradition (61yo Swedish national from Helsingborg)]] | LKA Baden-Württemberg + CCZ Karlsruhe (via presseportal.de) | 2026-03-26 | https://www.presseportal.de/blaulicht/pm/110980/6243831 |
+| [6] | [[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks\|GenStA Berlin + LKA Berlin — DE-AT-PL-CH-SK-CZ Enkeltrick/Schockanruf phone-fraud 7-week action (ISF-LUMEN); 16 arrests, EUR 2M+ prevented]] | Generalstaatsanwaltschaft Berlin + LKA Berlin | 2025-11-12 | https://www.berlin.de/generalstaatsanwaltschaft/presse/pressemitteilungen/2025/pressemitteilung.1615574.php |

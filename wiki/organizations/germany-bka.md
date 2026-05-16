@@ -75,9 +75,10 @@ operations_participated:
   - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
   - "[[operation-ragnar-locker-takedown-2023]]"
+  - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
-source_count: 14
+source_count: 15
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -93,6 +94,7 @@ sources:
   - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization

@@ -37,7 +37,7 @@ participating_agencies:
   - "[[germany-bka]]"
   - "[[europol-ec3]]"
 legal_basis:
-  []
+
 mechanisms_used:
   - "[[asset-freezing]]"
 results:
@@ -95,11 +95,12 @@ missing_fields:
   - "indictments enumerated separately from arrests"
   - "specific cooperation instruments (Budapest Convention articles, MLAT references) not named in the primary releases"
 related_cases:
-  []
+
 related_operations:
   - "[[albania-austria-call-centre-investment-fraud-2026]]"
+  - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Europol can host an entire 'operational coordination centre' at HQ on action day, with mobile Europol offices deployed abroad — a force-multiplying model for short-window simultaneous raids across non-EU jurisdictions (Albania, Bosnia-Herzegovina, Kosovo, Lebanon)."
   - "A single suspicious EUR-100,000 cash withdrawal at a Freiburg bank counter in December 2023 escalated into a five-country call-centre takedown by April 2024, illustrating how front-line bank-staff training and timely police escalation can seed a major IC investigation."
@@ -111,7 +112,7 @@ sources:
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
   - "[[2024-05-02_europol_operation-pandora-shuts-down-12-phone-fraud-call-centres]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 > [!info] Provisional page
 > This page is published below the preferred normal-page source threshold (`source_count >= 5`) and is marked provisional. It is anchored on a single Tier-1 primary source — the Slovenian Police press release dated 2024-05-03 — which itself cross-references and links to the Europol primary release of 2024-05-02. The Europol release was independently fetched and parsed for this ingest (via curl_cffi + SPA inline-JSON extraction) but is not separately filed as a `wiki/sources/` summary in this iteration. Page will be promoted to a fully sourced standalone page if and when additional Tier-1 corroboration (Eurojust press release, German prosecutor releases, Albanian/Bosnian/Kosovar/Lebanese police releases) is ingested.

@@ -3,10 +3,10 @@ type: country
 title: Slovakia
 status: needs-official-source-ingestion
 created: 2026-05-07
-updated: 2026-05-09
-source_count: 0
+updated: 2026-05-16
+source_count: 1
 sources:
-
+  - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
 last_verified: 2026-05-09
 legal_system: not-assessed
 ic_capacity: not-assessed
@@ -16,6 +16,7 @@ assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"
 operations_participated:
   - "[[project-compass-the-com-network-2025]]"
+  - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
 ---
 ## Summary
 

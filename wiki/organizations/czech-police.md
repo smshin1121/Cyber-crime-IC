@@ -21,11 +21,12 @@ operations_participated:
   - "[[operation-cumberland-ai-csam-2025]]"
   - "[[austrian-crypto-coin-loopx-takedown-2024]]"
   - "[[czech-fbi-europol-darknet-csam-top3-distributor-arrest-2024]]"
+  - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
 cooperation_partners:
   - "[[czechia-police]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-17_cs-wikipedia-org_n-rodn-centr-la-proti-terorismu-extremismu-a-kybernetick-kriminalit]]"
   - "[[2013-01-01_coe-int_the-czech-republic-joins-budapest-convention]]"
@@ -33,6 +34,7 @@ sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
   - "[[2024-10-08_policie-gov-cz_czech-csam-top3-darknet-distributor-arrest-fbi-europol]]"
+  - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
 ---
 ## Summary
 
