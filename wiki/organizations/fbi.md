@@ -121,9 +121,10 @@ operations_participated:
   - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
   - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
   - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
+  - "[[afp-fbi-nsw-teen-swatting-us-retail-education-2026]]"
 org_type: national-agency
 parent_org: "[[fbi-cyber-division]]"
-source_count: 22
+source_count: 23
 sources:
   - "[[2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers]]"
   - "[[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors]]"
@@ -147,6 +148,7 @@ sources:
   - "[[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest]]"
   - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
   - "[[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]]"
+  - "[[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education]]"
 status: active
 title: FBI
 type: organization
@@ -187,3 +189,4 @@ The FBI appears across DDoS, malware, darknet, botnet, and fraud records as a U.
 | [20] | [[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest\|Hellenic Police Cyber Crime Directorate — Operation Endgame Greek limb: VenomRAT mastermind arrest in Attica (FR EAW, FBI on-site)]] | Hellenic Police (astynomia.gr) Cyber Crime Directorate | 2025-11-13 | https://www.astynomia.gr/2025/11/13/13-11-2025-i-elliniki-astynomia-stin-operation-endgame-gia-ton-termatismo-leitourgias-ypodomon-pou-diefkolynoun-to-kyvernoegklima/ |
 | [21] | [[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud\|USAO-WDNC — Gavril Sandu (RO) VoIP-vishing/bank-fraud 2009-2010 extradition from Romania to US after FBI Bucharest LEAT coordination]] | U.S. Attorney's Office, Western District of North Carolina (DOJ) | 2026-05-05 | https://www.justice.gov/usao-wdnc/pr/romanian-national-appears-federal-court-following-extradition-romania-bank-fraud |
 | [22] | [[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution\|NPA Japan + FBI + DC3 — Joint attribution of DMM Bitcoin USD 308M / 4,502.9 BTC theft to TraderTraitor (DPRK-Lazarus sub-cluster)]] | NPA Japan Cyber Affairs Bureau | 2024-12-24 | https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html |
+| [23] | [[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education\|AFP-FBI joint release — NSW teen charged with 12 hoax 'swatting' calls against US retail and education institutions]] | Australian Federal Police (joint with FBI) | 2026-01-13 | https://www.afp.gov.au/news-centre/media-release/nsw-teen-charged-multiple-hoax-calls-major-retail-education-institutions |

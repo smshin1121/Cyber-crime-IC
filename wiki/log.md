@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-17] ingest [iter 176, single-agent, L23+L24+L25 strict] | AFP-FBI NSW Teen Swatting Calls Against US Retail/Education (AFP, 13 Jan 2026)
+- Source: `raw/press-releases/2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education.md` (afp.gov.au joint AFP-FBI release; en).
+- Pages created: `wiki/sources/2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education.md`, `wiki/operations/afp-fbi-nsw-teen-swatting-us-retail-education-2026.md` (provisional, source_count=1).
+- Pages updated: 2 countries (australia, united-states); 2 organizations (australia-afp, fbi); 1 crime-type (cyberstalking-ic); 1 mechanism (informal-cooperation); 3 related ops (hungary-romania-swatting-doxing-discord-2026, operation-us-v-szabo-swatting-ring, operation-us-v-california-teenager).
+- Key findings:
+  - **L24 strict satisfied**: AFP joint release names "This is a joint media release with the Australian Federal Police and United States Federal Bureau of Investigation … The AFP will continue to work closely with international law enforcement partners, particularly Five Eyes partners" — 2 cooperating LE agencies explicitly: AFP (Australia) + FBI (US).
+  - **Tier-1 publisher**: `afp.gov.au` Australian Federal Police own-domain. 5th AFP-as-lead op (saturated but legitimate fresh op — distinct from prior AFP ops on different topics/targets).
+  - **L23 compliance**: `lead_agency: "[[australia-afp]]"`, `coordinating_body: "[[fbi]]"`; `participating_agencies` Glob-verified wikilinks only.
+  - **case_id collision fix**: agent initially assigned CYB-2026-1001 which collided with iter 167 LKA-BW op. Reassigned to CYB-2026-1002. Iter agent dedup queries missed this collision; pattern flagged for next milestone integrity sweep.
+  - Op profile: NSW teen arrested 2026-01-09 (charged 2026-01-13) for 12 hoax bomb-threat/active-shooter ("swatting") calls against US retail + education institutions. Originating LE tip from FBI under Taskforce Pompilid Five Eyes cooperation framework.
+  - `case_id: CYB-2026-1002`.
+  - 3 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-17] ingest [iter 175, single-agent, L23+L24+L25 strict] | Bangkok CCIB Fluxstress/Netdowner DDoS-as-a-Service German National Arrest (Royal Thai Police CCIB, 11 Apr 2026)
 - Source: `raw/press-releases/2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok.md` (ccib.go.th Royal Thai Police CCIB own-domain; th).
 - Pages created: `wiki/sources/2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok.md`, `wiki/operations/bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026.md` (provisional, source_count=1).

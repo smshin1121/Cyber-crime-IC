@@ -68,8 +68,9 @@ missing_fields:
 related_operations:
   - "[[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]]"
   - "[[operation-us-v-california-teenager]]"
+  - "[[afp-fbi-nsw-teen-swatting-us-retail-education-2026]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Direct cross-border physical participation by foreign cyber investigators in the requested-state's search (HU officers in Bihor County) is feasible for fast bilateral cybercrime cooperation between EU neighbours, even without explicit Eurojust JIT framing."
   - "Discord platform disputes are a documented pre-cursor pattern for swatting/doxing offences requiring data preservation from the platform as part of the evidence chain."
@@ -78,7 +79,7 @@ source_count: 1
 sources:
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 > [!info] Provisional / single-source page
 > This operation page is built from a single tier-1 primary source (the Hungarian National Police press release of 2026-01-26). The Romanian counterpart agency is named only generically in the source ("Romanian partner authority" / "Romanian police") — agency-level identification is pending a Romanian-side primary source. The page is published below the preferred publication threshold (source_count >= 5) because the case provides a structurally novel HU-RO bilateral cybercrime cooperation pattern with explicit cross-border participation that is otherwise absent from the wiki.

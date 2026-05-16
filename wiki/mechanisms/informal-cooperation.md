@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-17
 last_verified: 2026-05-09
-source_count: 24
+source_count: 25
 sources:
   - "[[voa-operation-avalanche]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
@@ -31,6 +31,7 @@ sources:
   - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
   - "[[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand]]"
   - "[[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]]"
+  - "[[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[india-cbi-noida-tech-support-scam-takedown-2025]]"
@@ -78,6 +79,7 @@ operations_using:
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
   - "[[operation-cavern-nz-denmark-cyberhacking-2015]]"
   - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
+  - "[[afp-fbi-nsw-teen-swatting-us-retail-education-2026]]"
 ---
 ## Summary
 

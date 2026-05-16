@@ -48,9 +48,10 @@ operations_participated:
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
   - "[[flubot-takedown-2022]]"
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
+  - "[[afp-fbi-nsw-teen-swatting-us-retail-education-2026]]"
 org_type: national-agency
 parent_org: ""
-source_count: 12
+source_count: 13
 sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
   - "[[2023-11-27_afp-gov-au_eight-arrests-malaysia-mygov-phishing-kits]]"
@@ -58,10 +59,11 @@ sources:
   - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
   - "[[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown]]"
+  - "[[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education]]"
 status: active
 title: "Australian Federal Police — Cyber Command"
 type: organization
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -149,3 +151,4 @@ The AFP's cooperation capacity is *highly likely* one of the strongest in the As
 | [10] | [[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham\|AFP-USSS Operation Wickham — Melbourne man charged in Changjiang/Long River laundering of US investment-fraud proceeds (Oct 2023); AUD 21M restrained, AUD 100M+ allegedly laundered]] | Australian Federal Police (AFP) | 2023-10-26 | https://www.afp.gov.au/news-centre/media-release/melbourne-man-charged-laundering-cybercrime-victims-money |
 | [11] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
 | [12] | [[2024-11-26_afp_afp-partners-philippine-authorities-manila-scam-call-centre-takedown\|AFP — AFP-PAOCC-NBI Manila scam call-centre takedown (Operation Firestorm phase 1, Nov 2024); 250+ workers (foreign nationals incl. PRC/VN/ID); first AU-PH scam compound joint takedown]] | Australian Federal Police (AFP) | 2024-11-26 | https://www.afp.gov.au/news-centre/media-release/afp-partners-philippine-authorities-combating-scam-call-centres |
+| [13] | [[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education\|AFP-FBI joint release — NSW teen charged with 12 hoax 'swatting' calls against US retail and education institutions]] | Australian Federal Police (joint with FBI) | 2026-01-13 | https://www.afp.gov.au/news-centre/media-release/nsw-teen-charged-multiple-hoax-calls-major-retail-education-institutions |

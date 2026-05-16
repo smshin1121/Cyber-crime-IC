@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (301 canonical / 27 absorbed / 328 records)
+# Operations (302 canonical / 27 absorbed / 329 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (301)
+## Canonical Operations (302)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -284,6 +284,7 @@ updated: 2026-04-14
 | [[w3ll-phishing-kit-takedown-2026]] | CYB-2026-088 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[operation-atlantic-approval-phishing-2026]] | CYB-2026-095 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]] | CYB-2026-1001 | 3 | ongoing | standalone | 1 | 4.30 | 1 |
+| [[afp-fbi-nsw-teen-swatting-us-retail-education-2026]] | CYB-2026-1002 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]] | CYB-2026-101 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-sanctions-kok-an-scam-center-network-2026]] | CYB-2026-103 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[italy-china-us-hafnium-hacker-extradition-2026]] | CYB-2026-114 | 3 | completed | — | 1 | 4.50 | 1 |

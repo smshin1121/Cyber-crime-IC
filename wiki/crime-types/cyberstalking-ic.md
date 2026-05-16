@@ -25,6 +25,7 @@ notable_operations:
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
   - "[[operation-us-v-szabo-swatting-ring]]"
   - "[[operation-cavern-nz-denmark-cyberhacking-2015]]"
+  - "[[afp-fbi-nsw-teen-swatting-us-retail-education-2026]]"
 notable_cases:
   - "[[us-v-kevin-james-strutz]]"
   - "[[us-v-szabo-swatting-ring]]"
@@ -34,7 +35,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 7
+source_count: 8
 sources:
   - "[[2024-07-10_secretservice_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate]]"
   - "[[2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking]]"
@@ -43,6 +44,7 @@ sources:
   - "[[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]]"
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
   - "[[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand]]"
+  - "[[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education]]"
 created: 2026-04-27
 updated: 2026-05-17
 status: active
@@ -78,3 +80,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [5] | [[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation\|Hungary-Romania Discord swatting/doxing joint investigation — bilateral HU-RO operation, 4 suspects, terrorcselekmény charge]] | Hungarian National Police (KR NNI) | 2026-01-26 | https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/bunugyek/swatting-es-doxing-miatt-indult-nyomozas |
 | [6] | [[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months\|US v. Szabo swatting ring sentencing — RO national extradited to US Nov-2024 for swatting/bomb threats vs 75+ US officials]] | US Secret Service | 2026-04-29 | https://www.secretservice.gov/newsroom/releases/2026/04/romanian-citizen-sentenced-dc-swatting-members-congress-churches-and |
 | [7] | [[2015-09-16_police-govt-nz_danish-police-arrest-man-cybercrime-new-zealand\|NZ Police — Operation Cavern: NZ-Denmark bilateral cyberhacking/cyberstalking arrest in Vejle (Danish NC3 + South-East Jutland)]] | New Zealand Police | 2015-09-16 | https://www.police.govt.nz/news/release/danish-police-arrest-man-cybercrime-new-zealand |
+| [8] | [[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education\|AFP-FBI joint release — NSW teen charged with 12 hoax 'swatting' calls against US retail and education institutions]] | Australian Federal Police (joint with FBI) | 2026-01-13 | https://www.afp.gov.au/news-centre/media-release/nsw-teen-charged-multiple-hoax-calls-major-retail-education-institutions |

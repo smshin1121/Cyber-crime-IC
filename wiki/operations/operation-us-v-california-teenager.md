@@ -55,6 +55,7 @@ related_cases:
   - "[[us-v-california-teenager]]"
 related_operations:
   - "[[hungary-romania-swatting-doxing-discord-2026]]"
+  - "[[afp-fbi-nsw-teen-swatting-us-retail-education-2026]]"
 challenges_encountered:
 
 lessons_learned:
@@ -64,7 +65,7 @@ sources:
   - "[[2024-11-13_justice-gov-mdfl_california-teenager-pleads-guilty-florida-making-hundreds-swatting-calls-across-unite]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-california-teenager]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-29
+updated: 2026-05-17
 ---
 ## Summary
 

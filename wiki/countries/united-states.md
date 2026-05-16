@@ -245,8 +245,9 @@ operations_participated:
   - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
   - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
   - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
+  - "[[afp-fbi-nsw-teen-swatting-us-retail-education-2026]]"
 region: north-america
-source_count: 37
+source_count: 38
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -285,6 +286,7 @@ sources:
   - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
   - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
   - "[[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]]"
+  - "[[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

@@ -72,9 +72,9 @@ missing_fields:
 related_cases:
   - "[[us-v-szabo-swatting-ring]]"
 related_operations:
-  []
+  - "[[afp-fbi-nsw-teen-swatting-us-retail-education-2026]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Tier-1 U.S. release names a foreign country (Romania) and a foreign-evidence MLA channel as the operational hinge of an extradition for cyber-enabled threat conduct, not financial cybercrime — useful as a non-financial precedent for `[[mlat-process]]` and `[[extradition]]` reuse."
   - "U.S. inter-agency stack: Secret Service (lead investigator) + FBI Counterterrorism + U.S. Capitol Police + DOJ NSD Counterterrorism Section + DOJ Office of International Affairs + multiple cooperating USAOs. Pattern: Secret Service / Capitol Police primacy when victims are sitting U.S. legislators."
@@ -82,7 +82,7 @@ source_count: 1
 sources:
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 > [!info] Provisional / single-source
 > Source count is 1 (the 2026-04-29 sentencing release). The 2024 indictment and the 2025-06-02 plea announcement exist as additional primary tier-1 sources but are not yet ingested. This operation page is published because the underlying release explicitly names ≥2 countries (United States + Romania) and frames international cooperation (MLA + extradition) as the central success factor; it is not a thin domestic-only follow-on stub.

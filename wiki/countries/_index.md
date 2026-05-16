@@ -16,7 +16,7 @@ total: 61
 | 🇦🇲 | [[armenia]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇦🇷 | [[argentina]] | not-assessed | — | unknown | unknown | 3 |
 | 🇦🇹 | [[austria]] | civil-law | — | unknown | unknown | 6 |
-| 🇦🇺 | [[australia]] | not-assessed | — | unknown | unknown | 7 |
+| 🇦🇺 | [[australia]] | not-assessed | — | unknown | unknown | 8 |
 | 🇦🇼 | [[aruba]] | not-assessed | — | unknown | unknown | 0 |
 | 🇦🇿 | [[azerbaijan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇧🇦 | [[bosnia-and-herzegovina]] | not-assessed | — | unknown | unknown | 3 |
@@ -115,7 +115,7 @@ total: 61
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 10 |
-| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 37 |
+| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 38 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 1 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |

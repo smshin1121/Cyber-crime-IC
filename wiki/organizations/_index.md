@@ -35,7 +35,7 @@ updated: 2026-04-08
 | [[ministry-of-interior-korea]] | ministry | [[south-korea]] | Parent-ministry context for [[knpa]] in the current corpus.; Relevant to proposed or future Korean serious-crime investigation structures that include cybercrime. | — | 2 |
 | [[ministry-of-justice-korea]] | ministry | [[south-korea]] | Parent-ministry context for prosecutor-side international cooperation and post-reform prosecution structures.; Relevant to MLAT, extradition, and cybercrime treaty engagement alongside the prosecution service. | 4 | 4 |
 | [[singapore-mddi]] | ministry | [[singapore]] | Parent-ministry context for [[singapore-csa]] in the corpus.; Provides policy and agency-management context for Singapore's national cybersecurity posture. | — | 1 |
-| [[australia-afp]] | national-agency | Canberra, Australia | — | 24 | 12 |
+| [[australia-afp]] | national-agency | Canberra, Australia | — | 25 | 13 |
 | [[australian-criminal-intelligence-commission]] | national-agency | Australia | National criminal intelligence agency supporting serious and organized crime investigations.; Provides intelligence-sharing context for Australian cybercrime enforcement alongside [[australia-afp]]. | 1 | 1 |
 | [[brazil-ministry-of-justice-public-security]] | national-agency | Brasilia, Brazil | National public-security coordination; Cyber operations coordination through Ciberlab/Senasp structures | 8 | 5 |
 | [[cambodian-national-police]] | national-agency | Phnom Penh, Cambodia | National police force of Cambodia; Cambodian counterpart for the Korea–Cambodia Joint Task Force for Korean nationals (코리아전담반) MOU and joint operations | 4 | 3 |
@@ -46,7 +46,7 @@ updated: 2026-04-08
 | [[dod-inspector-general]] | national-agency | United States | Independent oversight office for the US Department of Defense.; Parent organization for [[us-dcis\|Defense Criminal Investigative Service]]. | 1 | 2 |
 | [[dubai-police]] | national-agency | Dubai, United Arab Emirates | Lead emirate-level cybercrime investigations and arrests in Dubai jurisdiction; International liaison for UAE cyber and financial-crime cooperation, including with Interpol and US/EU law-enforcement partners | 1 | 1 |
 | [[dutch-police]] | national-agency | Netherlands | Legacy label for Dutch police participation where sources do not isolate NHTCU, national police, or public prosecution roles.; Routes current institutional context to [[netherlands-politie]]. | 6 | 3 |
-| [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 73 | 22 |
+| [[fbi]] | national-agency | Washington, D.C., United States | cybercrime investigations; international liaison | 74 | 23 |
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 93 | 15 |
 | [[finland-nbi]] | national-agency | Vantaa, Finland | Lead Finnish national investigative agency for serious and transnational cybercrime; Finnish Europol national unit and INTERPOL national central bureau (NCB) liaison | 8 | 7 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | Compatibility label for Bundeskriminalamt references in older operation records.; Routes detailed mandate, cybercrime division, and international-cooperation context to [[germany-bka]]. | 2 | 3 |
