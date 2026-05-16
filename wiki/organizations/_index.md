@@ -102,7 +102,7 @@ updated: 2026-04-08
 | [[armenia-police]] | national-unit | Yerevan, Armenia | — | 2 | 3 |
 | [[belgium-federal-police]] | national-unit | Brussels, Belgium | National cybercrime investigation; Critical-infrastructure attack investigation | 8 | 7 |
 | [[bulgaria-police]] | national-unit | Sofia, Bulgaria | — | 8 | 4 |
-| [[canada-rcmp]] | national-unit | Ottawa, Ontario, Canada | — | 23 | 5 |
+| [[canada-rcmp]] | national-unit | Ottawa, Ontario, Canada | — | 24 | 6 |
 | [[city-of-london-police-ip-crime-unit]] | national-unit | London, United Kingdom | Intellectual-property crime enforcement; International digital-piracy cooperation | 1 | 1 |
 | [[czechia-police]] | national-unit | Prague, Czech Republic | — | 7 | 5 |
 | [[denmark-police]] | national-unit | Copenhagen, Denmark | — | 7 | 4 |
@@ -132,7 +132,7 @@ updated: 2026-04-08
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 11 | 5 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 7 | 5 |
 | [[us-ncis]] | national-unit | United States | Primary law-enforcement and counterintelligence agency of the US Department of the Navy.; Cybercrime and counterintelligence enforcement for Navy and Marine Corps equities. | 3 | 3 |
-| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 28 | 8 |
+| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 29 | 9 |
 | [[ncmec]] | nonprofit-clearinghouse | [[united-states]] | Receives and routes child sexual exploitation tips through CyberTipline channels.; Supports law-enforcement victim identification and child-protection investigations. | 3 | 4 |
 | [[uk-met-police-cyber]] | police-cybercrime-unit | [[united-kingdom]] | Supports investigations into cyber extortion, DDoS-for-ransom, and cyber-enabled fraud affecting London or UK victims.; Acts as a UK metropolitan cybercrime partner in Europol-supported operations. | 2 | 2 |
 | [[trend-micro]] | private-cybersecurity-company | [[japan]] | Provides malware telemetry, threat intelligence, and technical analysis to INTERPOL-led cybercrime operations.; Appears repeatedly in public-private cooperation chains for BEC, botnet, phishing, and malicious-infrastructure disruptions. | 10 | 6 |

@@ -51,18 +51,20 @@ operations_participated:
   - "[[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]]"
   - "[[afp-usss-operation-wickham-changjiang-money-laundering-2023]]"
   - "[[flubot-takedown-2022]]"
+  - "[[usss-canada-operation-avalanche-ethereum-approval-phishing-2025]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
-source_count: 8
+source_count: 9
 sources:
   - "[[2026-04-29_us-secret-service_szabo-romania-swatting-sentenced-48-months]]"
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
   - "[[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]]"
   - "[[2022-06-07_fedpol_flubot-android-malware-takedown]]"
+  - "[[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities]]"
 status: active
 title: "US Secret Service — Cyber Fraud Task Forces"
 type: organization
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Current Status (as of 2026-04-10)
 
@@ -163,3 +165,4 @@ USSS cooperation capacity is *highly likely* among the strongest in the US feder
 | [6] | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime\|OM.nl — AvCheck CAV/crypter takedown (NL/US/FI, May 2025) + Schiphol airport arrest of NL-national operator (Jan 2026); 2 Amsterdam companies, data carriers seized]] | Openbaar Ministerie — Landelijk Parket | 2026-01-12 | https://www.om.nl/actueel/nieuws/2026/01/12/cybercriminelen-aangehouden-op-schiphol |
 | [7] | [[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham\|AFP-USSS Operation Wickham — Melbourne man charged in Changjiang/Long River laundering of US investment-fraud proceeds (Oct 2023); AUD 21M restrained, AUD 100M+ allegedly laundered]] | Australian Federal Police (AFP) | 2023-10-26 | https://www.afp.gov.au/news-centre/media-release/melbourne-man-charged-laundering-cybercrime-victims-money |
 | [8] | [[2022-06-07_fedpol_flubot-android-malware-takedown\|fedpol — FluBot Android-banking-malware takedown via Europol EC3 'day of action' (May 2022); 11-country op (NL+BE+FI+HU+IE+RO+SE+ES+CH+AU+US); fedpol coordinated info exchange]] | fedpol Switzerland (Bundesamt für Polizei) / OAG | 2022-06-07 | https://www.fedpol.admin.ch/fedpol/en/home/news.html |
+| [9] | [[2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities\|USSS — Operation Avalanche: US-Canada Ethereum approval-phishing disruption with BC Securities Commission + RCMP + provincial partners]] | U.S. Secret Service | 2025-04-16 | https://www.secretservice.gov/newsroom/releases/2025/04/us-secret-service-analysts-work-canadian-officials-disrupt-ethereum |

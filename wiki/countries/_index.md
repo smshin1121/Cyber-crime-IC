@@ -27,7 +27,7 @@ total: 61
 | 🇧🇷 | [[brazil]] | civil-law | not-assessed | unknown | unknown | 7 |
 | 🇧🇾 | [[belarus]] | not-assessed | — | unknown | unknown | 0 |
 | 🇧🇿 | [[belize]] | not-assessed | — | unknown | unknown | 0 |
-| 🇨🇦 | [[canada]] | mixed | party (2015) | high | 90-180 | 9 |
+| 🇨🇦 | [[canada]] | mixed | party (2015) | high | 90-180 | 10 |
 | 🇨🇫 | [[central-african-republic]] | not-assessed | — | unknown | unknown | 0 |
 | 🇨🇭 | [[switzerland]] | civil-law | party (2011) | high | 90-180 | 4 |
 | 🇨🇮 | [[cote-divoire]] | civil-law | invited-to-accede (2022) | medium | unknown | 4 |
@@ -115,7 +115,7 @@ total: 61
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇹🇿 | [[tanzania]] | common-law | non-party | low | unknown | 2 |
 | 🇺🇦 | [[ukraine]] | civil-law | party (2005) | high | unknown | 8 |
-| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 19 |
+| 🇺🇸 | [[united-states]] | common-law | party (2006) | high | 180+ | 20 |
 | 🇺🇾 | [[uruguay]] | not-assessed | — | unknown | unknown | 1 |
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |

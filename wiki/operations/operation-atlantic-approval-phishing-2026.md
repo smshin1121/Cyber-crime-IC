@@ -87,11 +87,13 @@ missing_fields:
   - "specific domain count seized (120+ per Secret Service; NCA release does not enumerate)"
   - "specific cryptocurrency mix (BTC vs. ETH vs. stablecoins) — 'cryptocurrency wallets' generic"
   - "ongoing investigative tracks against fraud-network operators identified during the operation"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-token-mirrors-2026]]"
   - "[[eurojust-100m-crypto-investment-fraud-takedown-2025]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
+  - "[[usss-canada-operation-avalanche-ethereum-approval-phishing-2025]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts]]"
 lessons_learned:
@@ -104,9 +106,8 @@ source_count: 1
 sources:
   - "[[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-16
 ---
-
 ## Summary
 
 **Operation Atlantic** was an **NCA-led weeklong international action** against cryptocurrency **'approval phishing'** fraud held in approximately early-to-mid March 2026 and announced via NCA Newsroom press release on **9 April 2026**. The operation was co-hosted by the **NCA, US Secret Service, Ontario Provincial Police, and Ontario Securities Commission**, with UK participation from **City of London Police** and the **Financial Conduct Authority** and additional unnamed international law enforcement bodies. The format was physical co-location at NCA London HQ with real-time intelligence sharing, technical capabilities, and victim outreach.

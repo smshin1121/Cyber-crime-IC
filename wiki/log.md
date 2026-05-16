@@ -1,5 +1,19 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 145, single-agent, L23+L24 strict] | USSS-Canada Operation Avalanche 2025 — Ethereum Approval-Phishing Disruption (U.S. Secret Service, 16 Apr 2025)
+- Source: `raw/press-releases/2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities.md` (U.S. Secret Service own-domain; en).
+- Pages created: `wiki/sources/2025-04-16_secret-service_operation-avalanche-ethereum-approval-phishing-bc-securities.md`, `wiki/operations/usss-canada-operation-avalanche-ethereum-approval-phishing-2025.md` (provisional, source_count=1).
+- Pages updated: 2 countries (united-states, canada); 2 organizations (us-secret-service, canada-rcmp); 3 crime-types (online-fraud-ic, money-laundering-ic, organized-crime-ic); 1 related operation (operation-atlantic-approval-phishing-2026 — related_operations backlink).
+- Key findings:
+  - **L24 strict satisfied**: USSS release names "In addition to the U.S. Secret Service and the BC Securities Commission, Operation Avalanche included the Ontario Provincial Police, Alberta Securities Commission, the L'Autorité des marchés financiers, Ontario Securities Commission, Delta Police Department, Vancouver Police Department, and the Royal Canadian Mounted Police." — 2 countries' LE explicitly: US (USSS) + Canada (RCMP + provincial police + securities regulators).
+  - **Tier-1 publisher**: `secretservice.gov` own-domain (U.S. Treasury/DHS protective-investigative service). 1st USSS-as-lead op (prior USSS appearances were as participating agency).
+  - **L23 compliance**: `lead_agency: "[[us-secret-service]]"`, `coordinating_body: ""` (provincial Canadian agencies — BCSC, OPP, ASC, AMF, OSC, Delta PD, Vancouver PD — kept in body prose only; no wiki org pages exist); `participating_agencies` only Glob-verified wikilinks (us-secret-service, canada-rcmp).
+  - **Disambiguation**: distinct from existing `operation-avalanche.md` (2016 botnet takedown); explicitly noted in new page header. Related to Op Atlantic (2026-03 NCA-led trilateral) as parent → successor — backlink added.
+  - Op profile: 2025-04-16 multi-agency action against Ethereum "approval phishing" / pig-butchering networks. Identified blockchain addresses drained of crypto worth ~USD 4.3M. Focus on compromised-wallet identification, victim notification, inter-agency coordination — not arrests/indictments.
+  - `case_id: CYB-2025-997`.
+  - 5 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover `[[operation-cronos]]` in iter 144 log text) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - `reconcile_indexes.py` ran: 5 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 144, single-agent, L23+L24 strict] | France-Georgia Belarusian Ransomware Hacker Yauhen Horbach Sentencing (Gendarmerie nationale, 14 May 2025)
 - Source: `raw/press-releases/2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing.md` (Gendarmerie nationale Gendinfo; fr).
 - Pages created: `wiki/sources/2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing.md`, `wiki/operations/fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025.md` (provisional, source_count=1).
@@ -10,7 +24,7 @@
   - **L23 compliance**: `lead_agency: "[[france-gendarmerie]]"`, `coordinating_body: ""` (Georgia LE kept in body prose — no wiki page exists for Georgian police); `participating_agencies` only Glob-verified wikilinks (france-gendarmerie, france-junalco, interpol).
   - Op profile: Belarusian national Yauhen Horbach (aliases "JohnSmith" / "Daniel") sentenced 28 Apr 2025 at Tribunal judiciaire de Paris; attributed to 2,300+ cyberattacks (cryptolocker-class ransomware extortion) since Feb 2020. Bitcoin ransom proceeds documented USD ~750K (not recovered per release).
   - `case_id: CYB-2025-995`.
-  - 6 source_count_mismatch HIGH + 1 LOW broken_wikilink resolved post-backlink (broken_wikilink: `[[operation-cronos]]` → `[[operation-cronos-phase1|Operation Cronos]]`); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+  - 6 source_count_mismatch HIGH + 1 LOW broken_wikilink resolved post-backlink (broken_wikilink: `operation-cronos` → `operation-cronos-phase1`); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
   - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
 
 ## [2026-05-16] ingest [iter 143, single-agent, L24-rejected-and-retry] | Spain-US Calpe Hacker Arrest — 40+ Cyberattacks on Strategic Institutions (Policía Nacional, 5 Feb 2025)
