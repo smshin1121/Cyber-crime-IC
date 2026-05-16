@@ -1,5 +1,48 @@
 # Activity Log
 
+## [2026-05-17] REJECT-RETRY [iter 178, single-agent, L23+L24+L25 strict, no fresh tier-1 candidate] | wiki saturation — every candidate operation already covered
+- No raw / wiki files created.
+- Iter 178 explored 22 candidate publishers and 30+ candidate operations; every tier-1 own-domain IC operation surfaced was already in the wiki. Documented per L25 transparency.
+- **Saturated wiki state**: After 177 prior iterations the canonical operation catalogue (`wiki/operations/`) covers virtually all extant tier-1 own-domain IC ops surfaced through standard search (WebSearch+WebFetch on home.treasury.gov, police.gov.hk, vp.gov.lv, politiet.no, carabinieri.it, poliziadistato.it, police.be, polizei.hessen.de, minv.sk, abw.gov.pl, politi.dk, fia.gov.pk, fgr.org.mx, inp.polri.go.id, justice.gov, europol.europa.eu, eurojust.europa.eu, interpol.int, info.gov.hk, fbi.gov, guardiacivil.es, policia.es).
+- **Rejected candidates** (iter 178 REJECT-RETRY chain):
+  - Treasury OFAC sb0319 Media Land US-AU-UK Russian BPH: duplicate of `treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025.md`.
+  - HK CSTCB Operation SECURE offbeat 1286 Aug 2025: duplicate of `operation-secure-interpol.md`.
+  - Latvia State Police SIMcartel Oct 2025: duplicate of `austria-latvia-estonia-online-scams-jit-takedown-2025.md` (same JIT, same 1,200 SIM boxes, 40,000 SIM cards, 4 cars).
+  - Eurojust €50M Albania-Austria call-centre Apr 2026: duplicate of `albania-austria-call-centre-investment-fraud-2026.md`.
+  - Europol Project Compass The Com Feb 2026: duplicate of `project-compass-the-com-network-2025.md`.
+  - Dubai-FBI-MPS 276 arrests $701M crypto scam centres Apr 2026: duplicate of `coordinated-cryptocurrency-scam-center-takedown-2026.md`.
+  - DOJ Patrick Schmitz Versus Project Colombia extradition Apr 2026: duplicate of `us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026.md`.
+  - German-led Operation Alice darknet CSAM Mar 2026: duplicate of `operation-alice-csam-fraud-2026.md`.
+  - FBI+Europol LeakBase Mar 2026: duplicate of `leakbase-takedown-2026.md`.
+  - INP-FBI MFA-bypass phishing syndicate Apr 2026 (GWL/FYT): duplicate of `indonesia-fbi-mfa-bypass-phishing-syndicate-2026.md`.
+  - INP Steven Lyons Bali Mar 2026: out-of-scope (drug trafficking + money laundering, not cybercrime; Spanish Guardia Civil Operation Armorum is about drugs/laundering not cyber).
+  - INP 321 foreigners online gambling May 2026: L24 fail (Indonesia-only, no foreign LE counterpart named explicitly).
+  - Carabinieri Franco Lee crypto exchange dismantling 2025: L24 fail (Italy-only operation, Chainalysis is private not foreign LE).
+  - GdF Varese Italian-Polish luxury car fraud Apr 2026: weak cyber-element (spoofing+counterfeit checks only) + no GdF own-domain release indexed.
+  - Carabinieri JAD-SEE 566 arrests Nov 2025: out-of-scope (migrant smuggling + drugs + weapons, not cybercrime).
+  - Operazione Elicius Italian-French-Romanian Diskstation ransomware Jul 2025: duplicate of `operazione-elicius-italy-france-romania-diskstation-ransomware-2025.md`.
+  - HKPF Operation Hurdler 9 arrests Apr 2026 (CSAM cross-border): duplicate of `cross-border-online-cse-operation-spf-2026.md` (same op viewed from SPF angle).
+  - FBI RAMP forum seizure Jan 28, 2026: L24 fail (US-only, no foreign LE cooperation named).
+  - Treasury OFAC sb0404 Operation Zero Russian exploit broker Feb 2026: L24 fail (US-only Treasury+State, no foreign LE cooperation).
+  - Treasury OFAC sb0312 DKBA Burma armed group Nov 2025: L24 fail (US-only sanctions).
+  - Treasury OFAC sb0225 Garantex/Grinex Aug 2025: duplicate of `treasury-garantex-grinex-russian-network-sanctions-2025.md`.
+  - DOJ HeartSender Saim Raza Pakistan + Dutch Police Jan 2025: duplicate of `operation-in-re-heartsender-seizure.md`.
+  - SocksEscort proxy service multi-country Mar 2026: duplicate of `proxy-service-takedown-2026-03.md`.
+  - INTERPOL Operation HAECHI VI Apr-Aug 2025: duplicate of `operation-haechi-vi.md`.
+  - Europol Black Axe 34 arrests Spain Jan 2026: duplicate of `black-axe-spain-takedown-2026.md`.
+  - Europol Black Axe 10 arrests Switzerland Zurich Apr 2026: duplicate of `black-axe-switzerland-takedown-2026.md`.
+  - Operation Mad Hatter Polizia Postale-FBI CSAM Apr 2026: duplicate of `operation-mad-hatter-csam-italy-fbi-2026.md`.
+  - Operation PowerOFF 21 countries DDoS Apr 2026: duplicate of `operation-power-off-2026-04.md`.
+  - Operation EMMA 9 Polizia Postale 18 EU countries: Polizia Postale in iter 141 publisher-avoid list.
+  - Operazione Lyons Bali drug trafficking: out-of-scope (drugs).
+  - HK Operation Hurdler / cross-border CSAM: already covered.
+  - Operation Endgame 3.0 Rhadamanthys+VenomRAT+Elysium Nov 2025: duplicate of `operation-endgame-phase3.md`.
+  - GXC Team Guardia Civil Oct 2025: duplicate of `gxc-team-googlexcoder-phishing-kits-takedown-2025.md`.
+  - Spain Barcelona teen 64M data records Dec 2025: would need policia.es own-domain release; only news indexed; L24 borderline (Spain-only investigation, no foreign LE cooperation named at primary source).
+  - Treasury OFAC sb0149 Funnull Triad: L24 fail (US-only).
+- **Lesson reinforced**: the wiki has reached high saturation for tier-1 IC operations covered by Western LE/prosecutor own-domain releases through May 2026. Iter 178 should be followed by either (a) a content-enrichment iter rather than new operation ingestion, (b) a pivot to non-Western LE publishers (Brazil PF, Mexico FGR, Argentina PFA, Latin American Ameripol members, African Afripol, ASEAN national police forces beyond ones in avoid list), or (c) a wait-period for fresh ops to emerge in late May/June 2026.
+- **No new wiki state changes** — wiki tree unchanged. lint not re-run (no edits to lint).
+
 ## [2026-05-17] ingest [iter 177, single-agent, L23+L24+L25 strict] | BMI Austria Operation Casus Schockanrufe Cross-Border Network (Austria-Slovakia-Czechia, 16 Feb 2026)
 - Source: `raw/press-releases/2026-02-16_bmi-gv-at_schockanrufe-operation-casus-international-fraud-organisations.md` (bmi.gv.at Austrian Federal Ministry of Interior own-domain; de).
 - Pages created: `wiki/sources/2026-02-16_bmi-gv-at_schockanrufe-operation-casus-international-fraud-organisations.md`, `wiki/operations/at-sk-cz-operation-casus-schockanrufe-takedown-2026.md` (provisional, source_count=1).
