@@ -3,8 +3,8 @@ type: mechanism
 title: "Cryptocurrency Seizure"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-10
-source_count: 8
+updated: 2026-05-16
+source_count: 9
 sources:
   - "[[2024-01-26_irs_defendant-pleads-guilty-dark-web-narcotics-150m-cryptocurrency-seizure]]"
   - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
@@ -14,6 +14,7 @@ sources:
   - "[[2026-03-06_gendarmerie-interieur-gouv-fr_gign-fbi-saint-martin-cryptocurrency-hacker-arrest]]"
   - "[[2025-02-18_sputnik-kz_kazakhstan-armenia-yerevan-call-centre-cybercrime-takedown-41-detained]]"
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
+  - "[[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[crimenetwork-relaunch-takedown-2026]]"
@@ -21,6 +22,7 @@ operations_using:
   - "[[gign-fbi-saint-martin-cryptocurrency-hacker-arrest-2026]]"
   - "[[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]]"
   - "[[gxc-team-googlexcoder-phishing-kits-takedown-2025]]"
+  - "[[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]]"
 ---
 ## Summary
 

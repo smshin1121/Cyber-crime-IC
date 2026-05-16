@@ -64,7 +64,7 @@ total: 61
 | 🇮🇳 | [[india]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[international]] | mixed | not-assessed | variable | variable | 4 |
 | 🇮🇸 | [[iceland]] | not-assessed | — | unknown | unknown | 2 |
-| 🇮🇹 | [[italy]] | civil-law | party (2008) | high | 90-180 | 10 |
+| 🇮🇹 | [[italy]] | civil-law | party (2008) | high | 90-180 | 11 |
 | 🇯🇴 | [[jordan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇯🇵 | [[japan]] | not-assessed | — | unknown | unknown | 3 |
 | 🇰🇪 | [[kenya]] | not-assessed | — | unknown | unknown | 0 |
@@ -95,7 +95,7 @@ total: 61
 | 🇵🇭 | [[philippines]] | not-assessed | — | unknown | unknown | 3 |
 | 🇵🇰 | [[pakistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇵🇱 | [[poland]] | civil-law | party (2015) | medium | unknown | 6 |
-| 🇵🇹 | [[portugal]] | civil-law | party (2010) | medium | unknown | 4 |
+| 🇵🇹 | [[portugal]] | civil-law | party (2010) | medium | unknown | 5 |
 | 🇵🇾 | [[paraguay]] | not-assessed | — | unknown | unknown | 1 |
 | 🇷🇴 | [[romania]] | civil-law | party (2004) | high | unknown | 9 |
 | 🇷🇸 | [[serbia]] | civil-law | party (2009) | medium | unknown | 3 |

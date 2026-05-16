@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (268 canonical / 27 absorbed / 295 records)
+# Operations (269 canonical / 27 absorbed / 296 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (268)
+## Canonical Operations (269)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -140,6 +140,7 @@ updated: 2026-04-14
 | [[operation-endgame]] | CYB-2024-799 | 3 | ongoing | umbrella | 9 | — | — |
 | [[operacion-kaerb-iserver-phishing-as-a-service-takedown-2024]] | CYB-2024-859 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]] | CYB-2024-995 | 3 | completed | phase | 1 | 4.00 | 1 |
+| [[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]] | CYB-2024-996 | 3 | completed | — | 1 | — | 1 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 5 | — | — |
 | [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | umbrella | 5 | — | — |
 | [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | umbrella | 5 | — | — |

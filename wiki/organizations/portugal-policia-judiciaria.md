@@ -3,7 +3,7 @@ type: organization
 title: "Portugal Policia Judiciaria"
 status: active
 created: 2026-04-26
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-05-09
 org_type: national-criminal-police
 country: "[[portugal]]"
@@ -23,17 +23,19 @@ operations_participated:
   - "[[operation-magnus-redline-meta-stealer-takedown-2024]]"
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]]"
+  - "[[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]]"
 cooperation_partners:
   - "[[portugal-police]]"
   - "[[europol-ec3]]"
   - "[[eurojust]]"
   - "[[interpol]]"
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-17_pj-pt_unc3t-official-page]]"
   - "[[2016-11-18_portugal-gov-pt_pj-com-unidade-de-combate-ao-cibercrime]]"
   - "[[2024-07-23_policiajudiciaria-pt_pj-participa-na-fase-iii-da-operacao-jackal]]"
   - "[[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica]]"
+  - "[[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]]"
 ---
 ## Summary
 

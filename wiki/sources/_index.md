@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (822)
+# Sources (823)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -438,6 +438,7 @@ updated: 2026-04-14
 | [[2024-06-07_apnews-com_22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes]] | news | Associated Press | ? | high | ? |
 | [[2024-06-05_therecord-media_chinese-nationals-plead-guilty-to-running-zambia-scam-operation]] | press-release | The Record (Recorded Future News) | ? | medium | ? |
 | [[2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign]] | press-release | USAO Western District of Washington | ? | high | ? |
+| [[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]] | press-release | Polizia di Stato (Italia) — Polizia Postale, Centro operativo per la sicurezza cibernetica della Lombardia | ? | high | ? |
 | [[2024-05-30_krebsonsecurity-com_operation-endgame-hits-malware-delivery-platforms]] | press-release | KrebsOnSecurity | ? | medium | ? |
 | [[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]] | press-release | Europol | ? | high | ? |
 | [[2024-05-30_bmi-bund-de_worldwide-investigation-against-cyber-crime-crowned-by-success]] | press-release | German BMI | ? | medium | ? |

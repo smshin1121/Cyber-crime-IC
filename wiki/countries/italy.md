@@ -48,8 +48,9 @@ operations_participated:
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
+  - "[[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]]"
 region: southern-europe
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-04-18_coe-int_italy-octopus-cybercrime-community-country-profile]]"
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
@@ -61,6 +62,7 @@ sources:
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
   - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
+  - "[[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]]"
 title: "Italian Republic"
 treaty_memberships:
   - date: 2008-06-05
@@ -72,7 +74,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 

@@ -1,5 +1,19 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 142, single-agent, L23+L24 strict] | Italy-Portugal Operazione "Trust" — Rip-Deal Crypto Fraud & Laundering Takedown (Polizia di Stato, 31 May 2024)
+- Source: `raw/press-releases/2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta.md` (Polizia di Stato; it).
+- Pages created: `wiki/sources/2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta.md`, `wiki/operations/italy-portugal-operation-trust-rip-deal-crypto-fraud-2024.md` (provisional, source_count=1).
+- Pages updated: 2 countries (italy, portugal); 3 organizations (italy-polizia-postale, portugal-policia-judiciaria, europol-ec3); 2 crime-types (online-fraud-ic, money-laundering-ic); 3 mechanisms (joint-investigation-team, cryptocurrency-seizure, search-seizure).
+- Key findings:
+  - **L24 strict satisfied**: Polizia di Stato Italia release names "in collaborazione con la Polícia Judiciária portoghese e con il supporto di Europol" — 2 cooperating LE jurisdictions explicitly: Italian Polizia Postale (C.O.S.C. Lombardia, coordinated by Procura di Milano) + Portuguese Polícia Judiciária.
+  - **Tier-1 publisher**: Polizia di Stato (Italia) — national police agency. 2nd 1st-party Polizia Postale op after iter 132 Cagliostro (saturated note: agent rejected 8 1순위 candidates — Israel Lahav 433 Cloudflare-walled, Ukraine/Norway/Slovakia/Czech no fresh, Ireland Garda/Latvia/Polish dupe).
+  - **L23 compliance**: `lead_agency: "[[italy-polizia-postale]]"`, `coordinating_body: ""` (Procura di Milano kept in body prose only — no wiki page); `participating_agencies` only Glob-verified wikilinks (italy-polizia-postale, portugal-policia-judiciaria, europol-ec3).
+  - Results: 1 arrest in Portugal, 12 home/IT searches across Italy (Milano, Monza, Lodi, Roma, Torino, Cagliari, Nuoro), hundreds of thousands EUR crypto seized. Italy-led, multi-stage investigation 2023-04 → 2024-05.
+  - Op profile: "Rip-deal" face-to-face crypto-laundering scheme — Balkan-origin recruiters resident in France, predominantly Asian crypto-launderers resident in Italy. IT victims defrauded EUR several million.
+  - `case_id: CYB-2024-996` (next available; iter 141 used CYB-2024-617).
+  - 4 source_count_mismatch HIGH resolved post-backlink via `.tmp_refs.py` (portugal + 2 crime-types + europol-ec3); lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0 after fix.
+  - `reconcile_indexes.py` ran: 6 _index.md updated, master `wiki/index.md` updated.
+
 ## [2026-05-16] ingest [iter 141, single-agent, L23+L24 strict] | Singapore-Hong Kong-Malaysia Android Malware-Enabled Scam Takedown — Op DISTANTHILL (SPF 14 June 2024)
 - Source: `raw/press-releases/2024-06-14_spf-singapore_two-men-extradited-from-malaysia-malware-scams-multi-jurisdiction.md` (Singapore Police Force; en).
 - Pages created: `wiki/sources/2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction.md`, `wiki/operations/sg-hk-my-android-malware-distanthill-takedown-2024.md` (provisional, source_count=1).

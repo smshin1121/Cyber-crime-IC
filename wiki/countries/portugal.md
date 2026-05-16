@@ -40,10 +40,12 @@ operations_participated:
   - "[[tycoon-2fa-phishing-as-a-service-takedown-2026]]"
   - "[[pf-magna-fraus-pix-fraud-2025]]"
   - "[[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]]"
+  - "[[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]]"
 region: western-europe
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica]]"
+  - "[[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]]"
 title: "Portuguese Republic"
 treaty_memberships:
   - date: 2010-03-24
@@ -55,7 +57,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -111,3 +113,4 @@ Portugal's PJ and UNC3T represent consolidated institutional cybercrime capacity
 | [2] | Chart of Signatures and Ratifications of Treaty 185 | Council of Europe | 2025 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
 | [3] | Polícia Judiciária — UNC3T | Ministério da Justiça | — | https://www.pj.pt/ |
 | [4] | [[2025-09-22_policiajudiciaria-pt_detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica\|PT-ES EAW surrender of Luso-Angolan cyber-fraud + money-laundering suspect (PT+ES+UK+AO; Caya/Elvas border surrender)]] | Polícia Judiciária (Portugal) | 2025-09-22 | https://www.policiajudiciaria.pt/detido-em-espanha-homem-procurado-em-portugal-por-branqueamento-e-burla-informatica/ |
+| [5] | [[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta\|Polizia di Stato — Operazione Trust: Milano-Portugal rip-deal crypto fraud and laundering takedown]] | Polizia di Stato (Italia) — Polizia Postale | 2024-05-31 | https://www.poliziadistato.it/articolo/milano--operazione--trust---frodi-informatiche-e-riciclaggio-di-criptovaluta |

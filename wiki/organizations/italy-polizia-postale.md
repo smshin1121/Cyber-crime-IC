@@ -40,11 +40,12 @@ operations_participated:
   - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[operazione-elicius-italy-france-romania-diskstation-ransomware-2025]]"
   - "[[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]]"
+  - "[[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]]"
 notable_cases:
 
 contact_point_for:
   - "[[24-7-network]]"
-source_count: 7
+source_count: 8
 sources:
   - "[[2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi]]"
   - "[[2017-06-21_poliziadistato-it_operazione-criptolocker]]"
@@ -53,8 +54,9 @@ sources:
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
   - "[[2025-07-14_polizia-di-stato_operazione-elicius-diskstation-ransomware]]"
   - "[[2026-04-29_poliziadistato-it_operazione-cagliostro-fotovoltaico-cripto-italia-francia]]"
+  - "[[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]]"
 created: 2026-04-18
-updated: 2026-05-10
+updated: 2026-05-16
 last_verified: 2026-04-18
 ---
 ## Summary

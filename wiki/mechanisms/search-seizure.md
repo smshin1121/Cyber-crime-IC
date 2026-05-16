@@ -4,7 +4,7 @@ title: "Search and Seizure"
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-16
-source_count: 16
+source_count: 17
 sources:
   - "[[2021-10-09_shorenewsnetwork_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy]]"
   - "[[2026-01-13_komonews_4-people-federal-charges-drug-trafficking-conspiracy-marysville]]"
@@ -22,6 +22,7 @@ sources:
   - "[[2025-10-08_guardiacivil-es_gxc-team-googlexcoder-phishing-kits-arrest]]"
   - "[[2024-05-08_eurojust_austrian-crypto-coin-loopx-takedown]]"
   - "[[2024-06-14_spf-singapore_distanthill-malware-multi-jurisdiction]]"
+  - "[[2024-05-31_poliziadistato-it_operazione-trust-frodi-informatiche-riciclaggio-criptovaluta]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
@@ -42,6 +43,7 @@ operations_using:
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
   - "[[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]]"
   - "[[sg-hk-my-android-malware-distanthill-takedown-2024]]"
+  - "[[italy-portugal-operation-trust-rip-deal-crypto-fraud-2024]]"
 ---
 ## Summary
 
