@@ -76,6 +76,7 @@ related_operations:
   - "[[oag-fedpol-real-time-phishing-uk-conviction-2025]]"
   - "[[veriftools-fake-id-marketplace-followup-arrests-2026]]"
   - "[[polri-lcs-cambodia-abbishopee-red-notice-arrest-2026]]"
+sister_operation: "[[w3ll-phishing-kit-takedown-2026]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts|Jurisdictional conflicts]] — Indonesia is not a party to the Budapest Convention as of 2026-05, so cooperation operates outside the Article 35 24/7 Network and any other Budapest tooling."
   - "MFA-bypass capability defeats victim-side credential rotation, increasing pre-disruption dwell time."
@@ -84,17 +85,24 @@ lessons_learned:
   - "Direct INP–FBI bilateral channels can produce arrest-stage outcomes against a non-Budapest-Convention partner; treaty membership is not a precondition for joint investigation."
   - "Long-running PhaaS infrastructure (here ~8 years from 2018 to 2026) is detectable through victim-side intelligence aggregation in the requesting state (US/FBI) when the developer is in a non-extradition-friendly jurisdiction; prosecution-in-place by the host state is a viable alternative to extradition."
   - "Two-suspect division of labour (developer + crypto-launderer) is consistent with mature PhaaS operations and supports separate evidentiary tracks (technical artefacts vs. financial flows)."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate]]"
-summary: "On 22 April 2026, the Indonesian National Police (INP) Criminal Investigation Agency (Bareskrim) arrested an Indonesian couple - identified by initials GWL and FYT - in Jakarta, Indonesia, in a joint cross-border investigation with the U.S. Federal Bureau of Investigation (FBI). GWL is alleged to have developed and sold malicious phishing scripts since 2018 that bypassed Multi-Factor Authentication (MFA), enabling Business Email Compromise (BEC) at scale; FYT is alleged to have managed proceeds through cryptocurrency wallets. The syndicate's tools reportedly compromised 17,000 accounts and victimised 34,000 people globally - including United States victims and nine Indonesian corporate entities - with estimated losses of USD 20 million. Both suspects face up to 15 years' imprisonment under Indonesia's Electronic Information and Transactions (ITE) Law. INP was the announcing party (23 April 2026); the FBI's role and channel were not described in detail."
+  - "[[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll]]"
+summary: "On 22 April 2026, the Indonesian National Police (INP) Criminal Investigation Agency (Bareskrim) arrested an Indonesian couple - identified by initials GWL and FYT - in Jakarta, Indonesia, in a joint cross-border investigation with the U.S. Federal Bureau of Investigation (FBI). GWL is alleged to have developed and sold malicious phishing scripts since 2018 that bypassed Multi-Factor Authentication (MFA), enabling Business Email Compromise (BEC) at scale; FYT is alleged to have managed proceeds through cryptocurrency wallets. The syndicate's tools reportedly compromised 17,000 accounts and victimised 34,000 people globally - including United States victims and nine Indonesian corporate entities - with estimated losses of USD 20 million. Both suspects face up to 15 years' imprisonment under Indonesia's Electronic Information and Transactions (ITE) Law. INP was the announcing party (23 April 2026); the FBI's role and channel were not described in detail. A second tier-1 own-domain source — the FBI Atlanta Field Office press release of 10 April 2026 — identifies the kit as **W3LL** with its supporting **W3LLSTORE** marketplace, names the US-side prosecutor (USAO Northern District of Georgia), and characterises the case as the **first coordinated US-Indonesia action against a phishing kit developer**."
 created: 2026-05-09
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 # Indonesia INP-FBI MFA-Bypass Phishing Syndicate Takedown (2026)
 
 > [!info] Provisional record
-> This page rests on a single tier-1 primary source — an English-language press release on the official Indonesian National Police newsroom (`inp.polri.go.id`) dated 23 April 2026. It is below the preferred 5-source threshold for a normal operation page and is filed as a provisional joint-investigation record. It will be promoted when (a) Antara/Kompas/Detik Indonesian-language coverage is ingested with corroborating detail, (b) any FBI press statement or US criminal complaint surfaces, or (c) Indonesian charging documents are released.
+> This page rests on **two tier-1 own-domain primary sources** as of iter 179 (2026-05-17):
+> 1. INP English-language newsroom (`inp.polri.go.id`) dated 23 April 2026 — the Indonesian announcement, focused on the on-site arrest, suspect initials (GWL/FYT), and ITE Law charging context.
+> 2. FBI Atlanta Field Office press release (`fbi.gov/contact-us/field-offices/atlanta/news/...`) dated 10 April 2026 — the US announcement, which identifies the kit by name (**W3LL**), the supporting marketplace (**W3LLSTORE**), the US prosecuting office (**USAO Northern District of Georgia**), and the FBI Atlanta Special Agent in Charge **Marlo Graham**. The FBI page identifies the suspect by initials **G.L.** (consistent with INP's "GWL").
+>
+> It remains below the preferred 5-source threshold and is filed as a provisional joint-investigation record. It will be promoted when (a) Antara/Kompas/Detik Indonesian-language coverage is ingested with corroborating detail, (b) DOJ Main / USAO-NDGA publishes a charging document or further US press release, or (c) Indonesian charging documents are released.
+>
+> **Note on sister operation page.** The related page [[w3ll-phishing-kit-takedown-2026]] (case_id CYB-2026-088) was created from the FBI Atlanta release and treats the same underlying takedown from the US-side framing. The present page (CYB-2026-064) treats the same takedown from the INP-side framing. The two are sister-record entries pending consolidation in a future curation pass; both now share the FBI Atlanta source for cross-reference integrity.
 
 ## Summary
 
@@ -114,12 +122,14 @@ The distinguishing technical claim in the present operation is that the seller's
 
 | Role | Party |
 |---|---|
-| **Lead investigating agency** | [[indonesia-police\|Indonesian National Police (INP) - Bareskrim]] |
-| **Senior official cited** | Inspector General Nunung Syaifuddin, Deputy Chief of Bareskrim (Criminal Investigation Agency) |
-| **Foreign cooperating agency** | [[fbi\|U.S. Federal Bureau of Investigation]] (specific field office not stated) |
-| **Communicating arm** | INP Public Relations Division (Divisi Humas Polri) |
+| **Lead investigating agency (Indonesia)** | [[indonesia-police\|Indonesian National Police (INP) - Bareskrim]] |
+| **Indonesian senior official cited** | Inspector General Nunung Syaifuddin, Deputy Chief of Bareskrim (Criminal Investigation Agency) |
+| **Foreign cooperating agency (US)** | [[fbi\|U.S. Federal Bureau of Investigation]] — specifically the **FBI Atlanta Field Office** per the FBI Atlanta press release of 10 April 2026 |
+| **US senior official cited** | **Special Agent in Charge Marlo Graham** (FBI Atlanta Field Office) |
+| **US prosecuting office** | **U.S. Attorney's Office for the Northern District of Georgia (USAO-NDGA)** — provided "assistance" to FBI Atlanta in identifying and seizing US-side phishing-service infrastructure (per the FBI Atlanta release) |
+| **Indonesian communicating arm** | INP Public Relations Division (Divisi Humas Polri) |
 
-The release describes the cooperation as "INP and the FBI have uncovered" the syndicate, suggesting a **joint investigative effort** rather than a unidirectional intelligence handoff. However, the specific cooperation channel — whether through the FBI's Legal Attaché (Legat) office in Jakarta, through an INTERPOL National Central Bureau request, through a bilateral mutual legal assistance request, or via informal liaison — is not stated.
+Both tier-1 own-domain sources describe the cooperation as a joint investigative effort. The FBI Atlanta release goes further by characterising the case as the **"first coordinated action against a phishing kit developer between the United States and Indonesia"**, indicating that the cooperation channel was a direct bilateral track between FBI Atlanta and INP Bareskrim, with USAO-NDGA handling the US-side prosecutorial vehicle for infrastructure seizures. The specific procedural channel (FBI Legat Jakarta, INTERPOL NCB, bilateral MLAR, or informal liaison) is still not named in either release.
 
 ## Legal Framework
 
@@ -155,25 +165,30 @@ The release does not state when the joint INP–FBI investigation formally began
 
 | Metric | Value | Source |
 |---|---|---|
-| Arrests | 2 | INP release |
-| Compromised accounts | 17,000 | INP release |
+| Arrests (Indonesia) | 2 (GWL/G.L. + FYT) | INP release; FBI Atlanta names developer as "G.L." |
+| Compromised accounts targeted (2023–2024) | 17,000+ | INP + FBI Atlanta release |
 | Total victims (global) | 34,000 | INP release |
 | Indonesian corporate victims | 9 | INP release |
 | US victims | "yes" (count not given) | INP release |
-| Losses (USD) | 20,000,000 | INP release |
-| Servers seized | not stated | (n/a) |
+| Losses (USD, attempted fraud) | 20,000,000+ | INP + FBI Atlanta release |
+| Phishing kit name | **W3LL** | FBI Atlanta release |
+| Supporting marketplace | **W3LLSTORE** | FBI Atlanta release |
+| Kit price | ≈ USD 500 per access | FBI Atlanta release |
+| W3LLSTORE compromised-account sales (2019–2023) | 25,000+ | FBI Atlanta release |
+| Servers seized | not enumerated | (n/a) |
 | Cryptocurrency seized | not stated | (n/a) |
-| Domains seized | not stated | (n/a) |
+| Domains seized | "**key domains**" seized in coordination with INP | FBI Atlanta release |
+| US-side infrastructure seizure | identified and seized by FBI Atlanta + USAO-NDGA | FBI Atlanta release |
 
-The release does not describe any seizure of infrastructure (servers, domains, cryptocurrency wallets), which is unusual for a PhaaS takedown of this duration. This may reflect that asset-recovery steps are pending, that FBI-side seizures will be reported separately, or simply that the announcement focuses on the arrest action.
+The INP release does not enumerate any infrastructure seizure. The FBI Atlanta release adds that **FBI Atlanta, with assistance from USAO-NDGA, identified and seized infrastructure facilitating the phishing service** and that **key domains tied to the operation were seized**, addressing the asset-recovery gap noted earlier from the INP-only record.
 
 The outcome is logged as **partial**: arrests are confirmed, but no seizure of infrastructure or proceeds is reported, and downstream prosecution and conviction outcomes are pending.
 
 ## Cooperation Mechanisms Used
 
-The operation appears to have run on **direct bilateral police-to-police cooperation** between **INP Bareskrim** and the **FBI**. The release does not name a specific mechanism such as the [[24-7-network|Article 35 24/7 Network]] (inapplicable since Indonesia is not a Budapest Party), the [[interpol-i24-7|INTERPOL I-24/7]] system, the FBI Legat channel, or a [[joint-investigation-team|Joint Investigation Team]] in the European sense.
+The operation ran on **direct bilateral police-to-police cooperation** between **INP Bareskrim** (Indonesia) and **FBI Atlanta Field Office** (US), with **USAO-NDGA** handling the US-side prosecutorial vehicle for infrastructure seizures. Neither release names a specific mechanism such as the [[24-7-network|Article 35 24/7 Network]] (inapplicable since Indonesia is not a Budapest Party), the [[interpol-i24-7|INTERPOL I-24/7]] system, the FBI Legat channel, or a [[joint-investigation-team|Joint Investigation Team]] in the European sense.
 
-In the absence of a named mechanism, the cooperation is best classified as **[[informal-cooperation|Informal Police Cooperation]]** with a long-standing bilateral character — analogous to other arrest-only Southeast Asia operations where the requesting/intelligence-providing state is the United States and the host/arresting state is the Indonesian, Philippine, or Thai national police.
+In the absence of a named mechanism, the cooperation is best classified as **[[informal-cooperation|Informal Police Cooperation]]** with a long-standing bilateral character. The FBI Atlanta release elevates the precedent value by explicitly framing the case as the **"first coordinated action against a phishing kit developer between the United States and Indonesia"** — implying that prior US-Indonesia cybercrime cooperation existed at the level of victim notification and intelligence sharing but had not produced an operational action against an upstream tool developer until this case.
 
 ## Challenges and Friction Points
 
@@ -190,9 +205,10 @@ In the absence of a named mechanism, the cooperation is best classified as **[[i
 
 ## Follow-Up Actions
 
-- Ingest Indonesian-language Antara, Kompas, and/or Detik coverage to confirm the specific ITE Law article(s) charged and any named US victims or FBI field office.
-- Watch for any US Department of Justice indictment or FBI press release relating to the same syndicate.
-- Re-evaluate this page for promotion to non-provisional status when ≥4 additional independent sources are available.
+- Ingest Indonesian-language Antara, Kompas, and/or Detik coverage to confirm the specific ITE Law article(s) charged.
+- Watch for any USAO-NDGA charging document, DOJ Main press release, or parallel US indictment relating to the same syndicate.
+- Consolidate with the sister page [[w3ll-phishing-kit-takedown-2026]] in a future curation pass (both describe the same underlying takedown from opposite-side framings: INP-side arrest record vs. FBI Atlanta-side infrastructure-seizure record).
+- Re-evaluate this page for promotion to non-provisional status when ≥3 additional independent sources beyond the two current tier-1 own-domain releases are available.
 
 ## Korean Involvement (한국의 참여)
 
@@ -202,10 +218,11 @@ The case is, however, of regional interest because it concerns a **Southeast-Asi
 
 ## Contradictions & Open Questions
 
-- **Total-victims arithmetic.** The release reports both "17,000 accounts" and "34,000 victims globally" — a ~2:1 ratio that may reflect multi-account compromise per victim (work + personal email), or may reflect downstream BEC victims distinct from the directly-phished users. The release does not reconcile the two figures.
-- **FBI role characterisation.** The release describes the FBI as a co-uncoverer of the syndicate but does not explain whether the FBI provided initial intelligence (typical Legat handoff) or whether the case originated with INP and the FBI joined later.
-- **Asset recovery silence.** No cryptocurrency or fiat-currency seizure is reported despite FYT's named role as the proceeds-management half of the partnership. Whether this reflects an incomplete announcement, ongoing tracing, or unrecoverable assets is unclear.
-- **Prosecution forum.** Whether the United States will pursue a parallel indictment, or will defer to Indonesian prosecution under the ITE Law, is not stated.
+- **Total-victims arithmetic.** The INP release reports both "17,000 accounts" and "34,000 victims globally" — a ~2:1 ratio. The FBI Atlanta release independently confirms "17,000 victims worldwide" for the 2023–2024 window, and separately reports "25,000 compromised accounts sold" via W3LLSTORE during 2019–2023, suggesting that the 34,000 figure in the INP release may aggregate across the full operational lifespan (2018–2026) rather than the 2023–2024 sub-window.
+- **FBI role characterisation.** The FBI Atlanta release positions FBI Atlanta as the investigating lead on the US side (with FBI Atlanta SAC Marlo Graham as quoted senior official), with USAO-NDGA as the prosecutorial partner. The INP release described the FBI as a co-uncoverer. Net: both sources are mutually consistent — joint investigation, both sides active — but neither identifies who held initial source intelligence.
+- **Asset recovery — partial resolution.** The FBI Atlanta release confirms **US-side infrastructure seizure** and **key domain seizures**, addressing one gap from the INP-only record. **Cryptocurrency / fiat seizure** is still not reported despite FYT's named role; this gap persists.
+- **Prosecution forum.** Both releases indicate Indonesian prosecution under the ITE Law. No US indictment is identified in either tier-1 source. Whether USAO-NDGA will pursue a parallel indictment remains unanswered.
+- **Suspect-naming convention divergence.** The INP release uses initials **GWL** and **FYT** (per Indonesian pre-trial reporting practice). The FBI Atlanta release uses **"G.L."** for the developer (a US redaction style with periods between letters). The two are consistent in referring to the same developer; FYT is not separately named in the FBI Atlanta release, which focuses on the developer alone.
 
 > [!note] Translation note
 > The INP English-language release uses "INP" (Indonesian National Police) consistently, while Indonesian-language sources will use "Polri" (Polisi Republik Indonesia). Both refer to the same agency. "Bareskrim" is the standard short form for *Badan Reserse Kriminal*, the Criminal Investigation Agency.

@@ -13,6 +13,7 @@ credibility: probably-true
 sensitivity: public
 pages_updated:
   - "[[w3ll-phishing-kit-takedown-2026]]"
+  - "[[indonesia-fbi-mfa-bypass-phishing-syndicate-2026]]"
   - "[[united-states]]"
   - "[[indonesia]]"
   - "[[fbi]]"

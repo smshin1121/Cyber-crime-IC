@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-17] CONTENT-ENRICHMENT [iter 179, single-agent, L23+L24+L25 strict, non-Western pivot] | INP-FBI MFA-bypass phishing syndicate — 2nd tier-1 source added (FBI Atlanta own-domain)
+- Operation: `wiki/operations/indonesia-fbi-mfa-bypass-phishing-syndicate-2026.md` — source_count 1→2.
+- Mode: CONTENT-ENRICHMENT (iter 178 saturation continued; tested 5+ non-Western publishers — Pakistan NCCIA, Taiwan CIB, Korea MOJ, Brazil PF, Indonesia Polri — and selected enrichment over duplicate-NEW-INGEST).
+- Added source: `wiki/sources/2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll.md` (already on disk from iter 132 W3LL takedown ingest; was singly-bound to `[[w3ll-phishing-kit-takedown-2026]]`, now also bound to the present page).
+- Operation page now corroborated by 2 tier-1 own-domain sources: INP Polri (`inp.polri.go.id`, 2026-04-23) + FBI Atlanta Field Office (`fbi.gov`, 2026-04-10).
+- New data added to the INP operation page from the FBI Atlanta release: (a) US prosecuting office (USAO-NDGA), (b) FBI Atlanta SAC Marlo Graham, (c) phishing kit name **W3LL**, (d) supporting marketplace **W3LLSTORE**, (e) kit price (~USD 500 per access), (f) 25,000+ accounts sold via W3LLSTORE 2019-2023, (g) key domain seizures, (h) **"first coordinated US-Indonesia action against a phishing kit developer"** precedent quote, (i) sister-page cross-link to `[[w3ll-phishing-kit-takedown-2026]]`.
+- L24 verbatim quote from FBI Atlanta release: "FBI Atlanta, with assistance from the U.S. Attorney's Office for the Northern District of Georgia, identified and seized infrastructure facilitating the phishing service. In coordination with the Indonesian National Police, authorities detained the alleged developer, G.L, and seized key domains tied to the operation." — Three distinct cooperating LE/prosecutor agencies named explicitly.
+- L23 strict compliance: lead_agency/coordinating_body/participating_agencies retain only wikilink-existing entries (`[[fbi]]`, `[[indonesia-police]]`); FBI Atlanta and USAO-NDGA introduced in prose only since no wiki org pages exist.
+- Bidirectional source/page link: FBI Atlanta source page's `pages_updated` extended to include the INP operation page.
+- Dedup verification (Glob+Grep): operation page already existed; FBI Atlanta source page already existed; no new entity duplication risk.
+- Rejected iter 179 NEW-INGEST candidates (transparency per L25): (a) NCCIA Faisalabad 149 arrests Jul 2025 — fails L24 (Pakistan-only; Chinese/Nigerian/Filipino nationals are suspects, not LE counterparts); (b) Taiwan CIB-US Tai Chang scam crypto compound — covered by `coordinated-cryptocurrency-scam-center-takedown-2026.md`; (c) Korea MOJ Korea-Thailand 380억 hacking syndicate extradition May 2026 — already created in iter 141 (`korea-thailand-hacking-syndicate-extradition-2026-05.md`); (d) Brazil PF Operação Atenea Barcarena May 2026 — fails L24 (PF release says "simultaneously in diverse countries" without naming counterpart LE explicitly); (e) Polri Steven Lyons Bali Mar 2026 — out-of-scope (drugs+laundering, not cyber).
+
 ## [2026-05-17] REJECT-RETRY [iter 178, single-agent, L23+L24+L25 strict, no fresh tier-1 candidate] | wiki saturation — every candidate operation already covered
 - No raw / wiki files created.
 - Iter 178 explored 22 candidate publishers and 30+ candidate operations; every tier-1 own-domain IC operation surfaced was already in the wiki. Documented per L25 transparency.
