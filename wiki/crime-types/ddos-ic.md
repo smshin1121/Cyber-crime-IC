@@ -29,6 +29,7 @@ notable_operations:
   - "[[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025]]"
   - "[[aisuru-kimwolf-iot-botnet-takedown-2026]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
+  - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
 notable_cases:
   - "[[us-v-victoria-eduardovna-dubranova]]"
 criminalization_status:
@@ -37,7 +38,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 10
+source_count: 11
 sources:
   - "[[fbi-international-ddos-for-hire-sweep]]"
   - "[[cyberscoop-international-ddos-for-hire-sweep]]"
@@ -49,8 +50,9 @@ sources:
   - "[[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land]]"
   - "[[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]]"
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
+  - "[[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]]"
 created: 2026-04-17
-updated: 2026-05-16
+updated: 2026-05-17
 status: active
 ---
 ## Summary
@@ -87,3 +89,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [8] | [[2025-11-19_treasury_us-au-uk-sanctions-russian-cybercrime-infrastructure-media-land\|United States, Australia, and United Kingdom Sanction Russian Cybercrime Infrastructure Supporting Ransomware]] | US Department of the Treasury (OFAC), Press Release SB-0319 | 2025-11-19 | https://home.treasury.gov/news/press-releases/sb0319 |
 | [9] | [[2026-03-20_bka_aisuru-kimwolf-botnet-takedown\|BKA + ZAC NRW — Aisuru/Kimwolf IoT-DDoS botnet takedown via DE-CA-US coordination (Mar 2026); 2 administrators identified (DE+CA), 31.4 Tbps record DDoS attributed]] | Bundeskriminalamt (BKA) + ZAC NRW | 2026-03-20 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260320_PM_Botnetze.html |
 | [10] | [[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen\|BKA — ZIT/HLKA/BKA Hessen-RLP phase of Operation PowerOff: Dstat.CC + Flight RCS DDoS-stresser/clearnet drug-marketplace takedown]] | Bundeskriminalamt | 2024-11-01 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/241031_PM_Festnahme_Cybercrime.html |
+| [11] | [[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok\|Thai CCIB + Immigration Bureau — arrest of German national Noah Christopher operating Fluxstress/Netdowner DDoS-as-a-Service; INTERPOL Red Notice + 74 German warrants]] | Royal Thai Police — Cyber Crime Investigation Bureau (CCIB) | 2026-04-11 | https://www.ccib.go.th/2026-april-6-ตร-ไซเบอร-ควง-ตม-บกคนรงบอสใหญชาวเยอรมน |

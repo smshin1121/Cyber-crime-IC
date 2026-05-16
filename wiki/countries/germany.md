@@ -94,8 +94,9 @@ operations_participated:
   - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
   - "[[de-at-pl-ch-sk-cz-berlin-lka-enkeltrick-shock-call-takedown-2025]]"
   - "[[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]]"
+  - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
 region: western-europe
-source_count: 24
+source_count: 25
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -121,6 +122,7 @@ sources:
   - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
   - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
   - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
+  - "[[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09
@@ -132,7 +134,7 @@ treaty_memberships:
     reservations: ""
     status: signatory
 type: country
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 

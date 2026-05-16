@@ -39,7 +39,7 @@ total: 61
 | 🇨🇾 | [[cyprus]] | civil-law | not-assessed | unknown | unknown | 4 |
 | 🇨🇿 | [[czech-republic]] | civil-law | party (2013) | medium | 90-180 | 10 |
 | 🇨🇿 | [[czechia]] | not-assessed | — | unknown | unknown | 3 |
-| 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 24 |
+| 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 25 |
 | 🇩🇰 | [[denmark]] | civil-law | not-assessed | unknown | unknown | 6 |
 | 🇪🇨 | [[ecuador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇪🇪 | [[estonia]] | civil-law | party | high | unknown | 6 |
@@ -109,7 +109,7 @@ total: 61
 | 🇸🇻 | [[el-salvador]] | not-assessed | — | unknown | unknown | 1 |
 | 🇸🇿 | [[eswatini]] | not-assessed | — | unknown | unknown | 0 |
 | 🇹🇬 | [[togo]] | civil-law | non-party | low | unknown | 3 |
-| 🇹🇭 | [[thailand]] | civil-law | non-party | medium | unknown | 7 |
+| 🇹🇭 | [[thailand]] | civil-law | non-party | medium | unknown | 8 |
 | 🇹🇱 | [[timor-leste]] | not-assessed | — | unknown | unknown | 0 |
 | 🇹🇷 | [[turkey]] | not-assessed | — | unknown | unknown | 1 |
 | 🇹🇼 | [[taiwan]] | civil-law | not-assessed | unknown | unknown | 3 |

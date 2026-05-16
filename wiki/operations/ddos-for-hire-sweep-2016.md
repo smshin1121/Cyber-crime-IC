@@ -47,7 +47,7 @@ period: 1
 related_cases:
 
 related_operations:
-
+  - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
 results:
   arrests: 34
   cryptocurrency_seized: ""
@@ -77,7 +77,7 @@ timeframe:
 title: "International DDoS-for-Hire Sweep"
 title_ko: "International DDoS-for-Hire Sweep (공식 작전명 미확인; alias: International Cyber Sweep DDoS)"
 type: operation
-updated: 2026-04-27
+updated: 2026-05-17
 ---
 ## Summary
 

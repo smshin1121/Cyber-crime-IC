@@ -4,7 +4,7 @@ title: Extradition
 status: corpus-linked
 created: 2026-04-26
 updated: 2026-05-17
-source_count: 25
+source_count: 26
 sources:
   - "[[2015-10-13_fbi-pittsburgh_bugat-botnet-administrator-arrested-and-malware-disabled]]"
   - "[[2015-10-13_scmagazine_moldovian-sentenced-stealing-millions-bugat-banking-malware]]"
@@ -31,6 +31,7 @@ sources:
   - "[[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]]"
   - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
   - "[[2026-05-05_justice-gov_romanian-national-appears-federal-court-following-extradition-romania-bank-fraud]]"
+  - "[[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[operation-token-mirrors-2026]]"
@@ -61,6 +62,7 @@ operations_using:
   - "[[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]]"
   - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
   - "[[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]]"
+  - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
 cases_using:
   - "[[us-v-sokolovsky-raccoon-infostealer]]"
   - "[[us-v-vardanyan-avetisyan-ryuk-ransomware]]"

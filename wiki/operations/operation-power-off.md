@@ -176,6 +176,7 @@ related_operations:
   - "[[operation-power-off-2026-04]]"
   - "[[operation-power-off-2025-05]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
+  - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
   - "Reconstituted booter services repeatedly reappeared under new domains after earlier seizures."
@@ -196,7 +197,7 @@ sources:
   - "[[2024-12-12_cyberscoop-com_international-crackdown-disrupts-ddos-for-hire-operations]]"
   - "[[2024-12-12_theregister-com_operation-poweroff-extinguishes-18-more-ddos-booters]]"
 created: 2026-04-10
-updated: 2026-05-16
+updated: 2026-05-17
 summary: "Operation PowerOFF is an ongoing multi-phase international law enforcement campaign against DDoS-for-hire booter and stresser services. Public Europol and DOJ records show recurring enforcement from 2018 through the April 2026 action week, combining domain seizures, administrator arrests, U.S. prosecutions, user identification, warning campaigns, and public-private cooperation. The latest documented phase involved 21 countries, 53 domain takedowns, 25 search warrants, 4 arrests, more than 75,000 warning messages, and intelligence derived from more than 3 million user accounts."
 ---
 # Operation PowerOFF

@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-05-17] ingest [iter 175, single-agent, L23+L24+L25 strict] | Bangkok CCIB Fluxstress/Netdowner DDoS-as-a-Service German National Arrest (Royal Thai Police CCIB, 11 Apr 2026)
+- Source: `raw/press-releases/2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok.md` (ccib.go.th Royal Thai Police CCIB own-domain; th).
+- Pages created: `wiki/sources/2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok.md`, `wiki/operations/bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026.md` (provisional, source_count=1).
+- Pages updated: 2 countries (thailand, germany); 3 organizations (thailand-royal-police, germany-bka, interpol); 2 crime-types (ddos-ic, cybercrime-infrastructure-ic); 3 mechanisms (interpol-i24-7, extradition, informal-cooperation); 3 related ops (operation-power-off-2026-04, operation-power-off, ddos-for-hire-sweep-2016).
+- Key findings:
+  - **L24 strict satisfied**: CCIB release names Thai CCIB + Immigration Bureau + German federal LE + INTERPOL General Secretariat as cooperating agencies — 3 distinct jurisdictions: Thailand (CCIB + Immigration) + Germany (federal LE) + INTERPOL IGO.
+  - **Tier-1 publisher**: `ccib.go.th` Royal Thai Police Cyber Crime Investigation Bureau own-domain. 1st ccib.go.th op (Thai CCIB has been participating but never as lead publisher with own-domain release in wiki).
+  - **L23 compliance**: `lead_agency: "[[thailand-royal-police]]"`, `coordinating_body: "[[interpol]]"`; `participating_agencies` Glob-verified wikilinks only.
+  - Op profile: Noah Christopher (27, German national) operator of Fluxstress + Netdowner DDoS-as-a-Service platforms (active 2021-2025) arrested Bangkok 2026-04-11 pursuant to INTERPOL Red Notice + 74 German arrest warrants. Related to broader Op PowerOFF series targeting DDoS-for-hire infrastructure.
+  - `case_id: CYB-2026-175`.
+  - 5 source_count_mismatch HIGH resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-17] ingest [iter 174, single-agent, L23+L24+L25 strict] | TraderTraitor DMM Bitcoin USD 308M Theft Joint Attribution (NPA Japan + FBI + DC3, 24 Dec 2024)
 - Source: `raw/press-releases/2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution.md` (npa.go.jp Cyber Affairs Bureau own-domain; ja/en).
 - Pages created: `wiki/sources/2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution.md`, `wiki/operations/tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024.md` (provisional, source_count=1).

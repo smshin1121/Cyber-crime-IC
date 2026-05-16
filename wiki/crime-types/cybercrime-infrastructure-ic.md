@@ -57,6 +57,7 @@ notable_operations:
   - "[[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]]"
   - "[[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]]"
   - "[[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]]"
+  - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
 notable_cases:
   - "[[us-v-rim-jong-hyok-andariel-ransomware-2024]]"
 criminalization_status:
@@ -65,7 +66,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: ""
-source_count: 36
+source_count: 37
 sources:
   - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
@@ -103,8 +104,9 @@ sources:
   - "[[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]]"
   - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
   - "[[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest]]"
+  - "[[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]]"
 created: 2026-04-17
-updated: 2026-05-16
+updated: 2026-05-17
 status: active
 ---
 ## Summary
@@ -167,3 +169,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [34] | [[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet\|HK Govt ISD/HKPF — STEALTHNET counter cyber+physical terrorism joint exercise (HK-Macao-SG-KR + INTERPOL, Apr 2026)]] | HKSAR Information Services Department (info.gov.hk) on behalf of HKPF | 2026-04-16 | https://www.info.gov.hk/gia/general/202604/16/P2026041600803.htm |
 | [35] | [[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer\|USAO-WDTX — Hambardzum Minasyan (Armenian co-developer of RedLine infostealer) extradition from NL+BE to US WDTX (post Op Magnus)]] | U.S. Attorney's Office, Western District of Texas (DOJ) | 2026-03-25 | https://www.justice.gov/usao-wdtx/pr/armenian-man-extradited-us-faces-charges-role-infostealing-malware-scheme |
 | [36] | [[2025-11-13_astynomia-gr_hellenic-police-operation-endgame-venomrat-mastermind-arrest\|Hellenic Police Cyber Crime Directorate — Operation Endgame Greek limb: VenomRAT mastermind arrest in Attica (FR EAW, FBI on-site)]] | Hellenic Police (astynomia.gr) Cyber Crime Directorate | 2025-11-13 | https://www.astynomia.gr/2025/11/13/13-11-2025-i-elliniki-astynomia-stin-operation-endgame-gia-ton-termatismo-leitourgias-ypodomon-pou-diefkolynoun-to-kyvernoegklima/ |
+| [37] | [[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok\|Thai CCIB + Immigration Bureau — arrest of German national Noah Christopher operating Fluxstress/Netdowner DDoS-as-a-Service; INTERPOL Red Notice + 74 German warrants]] | Royal Thai Police — Cyber Crime Investigation Bureau (CCIB) | 2026-04-11 | https://www.ccib.go.th/2026-april-6-ตร-ไซเบอร-ควง-ตม-บกคนรงบอสใหญชาวเยอรมน |

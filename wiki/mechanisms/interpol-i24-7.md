@@ -3,8 +3,8 @@ type: mechanism
 title: "INTERPOL I-24/7"
 status: corpus-linked
 created: 2026-04-26
-updated: 2026-05-16
-source_count: 6
+updated: 2026-05-17
+source_count: 7
 sources:
   - "[[2025-01-01_interpol-int_interpol-s-asian-conference-to-address-regional-crime-threats]]"
   - "[[2025-06-01_interpol-int_interpol-celebrates-10-years-of-innovation-and-collaboration-in-singapore-igci-1]]"
@@ -12,6 +12,7 @@ sources:
   - "[[2026-04-17_interpol-int_interpol-official-website-leadership-and-structure]]"
   - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
+  - "[[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[spf-fpb-operation-cryptoscam-2025]]"
@@ -20,6 +21,7 @@ operations_using:
   - "[[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]]"
   - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
+  - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
 ---
 ## Summary
 

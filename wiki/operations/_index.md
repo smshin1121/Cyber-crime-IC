@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (300 canonical / 27 absorbed / 327 records)
+# Operations (301 canonical / 27 absorbed / 328 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (300)
+## Canonical Operations (301)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -298,6 +298,7 @@ updated: 2026-04-14
 | [[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]] | CYB-2026-153 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]] | CYB-2026-158 | 3 | completed | — | 1 | — | 1 |
 | [[korea-thailand-hacking-syndicate-extradition-2026-05]] | CYB-2026-163 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]] | CYB-2026-175 | 3 | completed | standalone | 1 | — | 1 |
 | [[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]] | CYB-2026-225 | 3 | completed | — | 1 | 4.20 | 1 |
 | [[crimenetwork-relaunch-takedown-2026]] | CYB-2026-266 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]] | CYB-2026-275 | 3 | ongoing | standalone | 1 | 4.40 | 1 |

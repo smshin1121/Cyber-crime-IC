@@ -20,7 +20,7 @@ updated: 2026-04-08
 | [[russian-ministry-of-interior]] | interior-ministry | [[russia]] | Historic Russian law-enforcement participant in the 2015 Simda botnet disruption.; Provides a rare pre-2022 data point for Russia-inclusive cybercrime cooperation with INTERPOL and private-sector technical partners. | 1 | 2 |
 | [[c-proc]] | international-org | Bucharest, Romania | Delivery of capacity building programmes for cybercrime and electronic evidence; Support to countries implementing the Budapest Convention and its Protocols | — | 5 |
 | [[icann]] | international-org | — | Domain-name governance and infrastructure actor relevant to malware and botnet domain disruption.; Appears where cybercrime operations require coordination around domain registration, sinkholing, or abuse handling. | 1 | 2 |
-| [[interpol]] | international-org | Lyon, France | — | 53 | 16 |
+| [[interpol]] | international-org | Lyon, France | — | 54 | 17 |
 | [[interpol-igci]] | international-org | Singapore | — | 24 | 12 |
 | [[unodc]] | international-org | Vienna, Austria | — | 5 | 8 |
 | [[council-of-europe]] | international-organization | Strasbourg, France | Administers the Budapest Convention ecosystem for cybercrime law harmonization and international cooperation.; Maintains treaty status and party-observer information for Convention 185. | — | 3 |
@@ -50,7 +50,7 @@ updated: 2026-04-08
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 93 | 15 |
 | [[finland-nbi]] | national-agency | Vantaa, Finland | Lead Finnish national investigative agency for serious and transnational cybercrime; Finnish Europol national unit and INTERPOL national central bureau (NCB) liaison | 8 | 7 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | Compatibility label for Bundeskriminalamt references in older operation records.; Routes detailed mandate, cybercrime division, and international-cooperation context to [[germany-bka]]. | 2 | 3 |
-| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 52 | 16 |
+| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 53 | 17 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 8 | 6 |
 | [[indonesia-police]] | national-agency | Indonesia | Compatibility page for Indonesian police references in regional cybercrime operation records.; Preserves links where sources do not distinguish national police, cyber unit, or immigration enforcement. | 5 | 4 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination.; Italian participation node in encrypted communications and darknet-drug operations where DCSA is named. | 1 | 3 |
@@ -79,7 +79,7 @@ updated: 2026-04-08
 | [[switzerland-fedpol]] | national-agency | Bern, Switzerland | — | 13 | 8 |
 | [[switzerland-ncsc]] | national-agency | Switzerland | Switzerland's federal cybersecurity office and national cybersecurity coordination point.; Provides national CERT/GovCERT and NCSC/BACS/OFCS continuity context. | — | 2 |
 | [[thailand-police]] | national-agency | Bangkok, Thailand | Variant reference for ambiguous Thai cybercrime police labels.; Routes specific cybercrime-bureau content to [[thailand-royal-police]]. | 2 | 3 |
-| [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 11 | 11 |
+| [[thailand-royal-police]] | national-agency | Bangkok, Thailand | National lead on cybercrime investigation in Thailand; Handles approximately 800 victim complaints daily | 12 | 12 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 51 | 17 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 16 | 6 |
 | [[us-doj]] | national-agency | Washington, D.C., United States | — | 982 | 18 |

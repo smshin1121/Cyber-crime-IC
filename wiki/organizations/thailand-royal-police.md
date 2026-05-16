@@ -44,17 +44,19 @@ operations_participated:
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[fbi-san-diego-rtp-tai-chang-tickmilleas-domain-seizure-2025]]"
   - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
+  - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
 org_type: national-agency
 parent_org: "[[thailand-royal-police]]"
-source_count: 11
+source_count: 12
 sources:
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
   - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
+  - "[[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]]"
 status: active
 title: "Royal Thai Police — Cyber Crime Investigation Bureau"
 type: organization
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -153,3 +155,4 @@ CCIB's cooperation capacity is *likely* high and growing rapidly, driven by the 
 | [9] | [[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown\|Guardia Civil — Operación PONEI: Madeira Invest Club / 'CryptoSpain' EUR 260M+ crypto-ponzi takedown (Nov 2025); 3000+ victims, 5-country coop (ES+US+SG+MY+TH)]] | Guardia Civil (España) | 2025-11-06 | https://www.guardiacivil.es/es/prensa/noticias/9737.html |
 | [10] | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure\|FBI San Diego — Scam Center Strike Force tickmilleas.com domain seizure (Tai Chang scam compound Burma); US-Thailand cooperation]] | FBI San Diego Field Office | 2025-12-02 | https://www.fbi.gov/contact-us/field-offices/sandiego/news/fbi-san-diego-investigation-leads-to-scam-center-strike-force-seizure-of-fake-cryptocurrency-investment-domain-used-by-tai-chang-scam-compound-in-burma |
 | [11] | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand\|Korea MOJ — Korea-Thailand overseas hacking syndicate leader extradition (BTS Jungkook KRW 38B case; Thai OAG + RTP + INTERPOL cooperation)]] | Ministry of Justice (Republic of Korea) | 2026-05-13 | https://www.moj.go.kr/bbs/moj/182/606523/artclView.do |
+| [12] | [[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok\|Thai CCIB + Immigration Bureau — arrest of German national Noah Christopher operating Fluxstress/Netdowner DDoS-as-a-Service; INTERPOL Red Notice + 74 German warrants]] | Royal Thai Police — Cyber Crime Investigation Bureau (CCIB) | 2026-04-11 | https://www.ccib.go.th/2026-april-6-ตร-ไซเบอร-ควง-ตม-บกคนรงบอสใหญชาวเยอรมน |

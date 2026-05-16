@@ -105,6 +105,7 @@ related_operations:
   - "[[operation-power-off]]"
   - "[[operation-power-off-2025-05]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
+  - "[[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]]"
 challenges_encountered:
 
 lessons_learned:
@@ -115,7 +116,7 @@ sources:
   - "[[2026-04-13_europol_operation-poweroff-75000-ddos-users]]"
 summary: "The 2026-04 action week under the long-running [[operation-power-off|Operation PowerOFF]] umbrella, coordinated by Europol, targeting DDoS-for-hire (booter) infrastructure and users. The 21-country roster (verbatim from the Europol release) includes Australia, Austria, Belgium, Brazil, Bulgaria, Denmark, Estonia, Finland, Germany, Japan, Latvia, Lithuania, Luxembourg, Netherlands, Norway, Poland, Portugal, Sweden, Thailand, the United Kingdom, and the United States. Reported results: 53 domains taken down, 4 arrests, 25 search warrants, 75 000+ user-warning communications, and 3 million+ criminal user accounts identified in seized booter-service databases."
 created: 2026-05-08
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 
