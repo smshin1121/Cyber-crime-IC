@@ -119,6 +119,7 @@ notable_operations:
   - "[[za-uk-us-au-investment-call-centre-scam-hawks-dpci-2026]]"
   - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
   - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
+  - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
 notable_cases:
   - "[[de-fr-online-fraud-group-2026]]"
   - "[[us-v-knoot-prince-dprk-laptop-farms-2026]]"
@@ -136,7 +137,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 112
+source_count: 113
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -250,6 +251,7 @@ sources:
   - "[[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests]]"
   - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
   - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
+  - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
 created: 2026-04-08
 updated: 2026-05-16
 ---
@@ -425,3 +427,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [110] | [[2026-01-29_sanews-gov-za_hawks-dpci-uk-nca-us-dhs-international-scam-syndicate-arrests\|SAnews/Hawks DPCI — ZA-UK-US joint takedown of 23-suspect investment call-centre scam targeting AU/NZ/UK/US retirees (R1B+ losses)]] | South African Government News Agency (SAnews) | 2026-01-29 | https://www.sanews.gov.za/south-africa/alleged-international-scam-syndicate-members-arrested |
 | [111] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |
 | [112] | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand\|Korea MOJ — Korea-Thailand overseas hacking syndicate leader extradition (BTS Jungkook KRW 38B case; Thai OAG + RTP + INTERPOL cooperation)]] | Ministry of Justice (Republic of Korea) | 2026-05-13 | https://www.moj.go.kr/bbs/moj/182/606523/artclView.do |
+| [113] | [[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network\|GStA Bamberg/ZCB — DE-Kosovo-Costa Rica-Israel investment-fraud network: extradition + indictment (€4.5M DE / €21M worldwide)]] | Generalstaatsanwaltschaft Bamberg (ZCB Bayern) | 2026-01-23 | https://www.justiz.bayern.de/gerichte-und-behoerden/generalstaatsanwaltschaft/bamberg/presse/2026/3.php |

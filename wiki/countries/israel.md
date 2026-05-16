@@ -33,18 +33,20 @@ operations_participated:
   - "[[operation-shrouded-horizon]]"
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[us-doj-iranian-mois-handala-domain-seizure-2026]]"
+  - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
 notable_cases:
   - "[[bryanston-call-centre-investment-fraud-syndicate-2026]]"
 cooperation_assessment: ""
-source_count: 5
+source_count: 6
 sources:
   - "[[2024-12-20_bloomberg_us-charges-israeli-national-with-working-for-lockbit-ransom-gang]]"
   - "[[2024-12-20_justice-gov_u-s-charges-dual-russian-and-israeli-national-as-developer-of-lockbit-ransomware]]"
   - "[[2025-03-13_justice-gov_dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-i]]"
   - "[[2026-04-18_justice-gov_dual-russian-and-israeli-national-extradited-united-states-his-role-lockbit-ransomware]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
+  - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
 created: 2026-04-17
-updated: 2026-05-09
+updated: 2026-05-16
 status: corpus-linked
 ---
 ## Summary

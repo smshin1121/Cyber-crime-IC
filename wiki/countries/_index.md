@@ -35,11 +35,11 @@ total: 61
 | 🇨🇲 | [[cameroon]] | mixed | party (2024) | low | unknown | 3 |
 | 🇨🇳 | [[china]] | not-assessed | — | unknown | unknown | 2 |
 | 🇨🇴 | [[colombia]] | civil-law | party (2020) | medium | unknown | 7 |
-| 🇨🇷 | [[costa-rica]] | not-assessed | — | unknown | unknown | 2 |
+| 🇨🇷 | [[costa-rica]] | not-assessed | — | unknown | unknown | 3 |
 | 🇨🇾 | [[cyprus]] | civil-law | not-assessed | unknown | unknown | 3 |
 | 🇨🇿 | [[czech-republic]] | civil-law | party (2013) | medium | 90-180 | 10 |
 | 🇨🇿 | [[czechia]] | not-assessed | — | unknown | unknown | 1 |
-| 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 19 |
+| 🇩🇪 | [[germany]] | civil-law | party (2009) | high | 90-180 | 20 |
 | 🇩🇰 | [[denmark]] | civil-law | not-assessed | unknown | unknown | 5 |
 | 🇪🇨 | [[ecuador]] | not-assessed | — | unknown | unknown | 0 |
 | 🇪🇪 | [[estonia]] | civil-law | party | high | unknown | 6 |
@@ -60,7 +60,7 @@ total: 61
 | 🇭🇺 | [[hungary]] | civil-law | not-assessed | unknown | unknown | 6 |
 | 🇮🇩 | [[indonesia]] | not-assessed | — | unknown | unknown | 2 |
 | 🇮🇪 | [[ireland]] | not-assessed | — | unknown | unknown | 2 |
-| 🇮🇱 | [[israel]] | mixed | not-assessed | unknown | unknown | 5 |
+| 🇮🇱 | [[israel]] | mixed | not-assessed | unknown | unknown | 6 |
 | 🇮🇳 | [[india]] | not-assessed | — | unknown | unknown | 0 |
 |  | [[international]] | mixed | not-assessed | variable | variable | 4 |
 | 🇮🇸 | [[iceland]] | not-assessed | — | unknown | unknown | 3 |
@@ -120,7 +120,7 @@ total: 61
 | 🇺🇿 | [[uzbekistan]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | not-assessed | — | unknown | unknown | 0 |
 | 🇻🇳 | [[vietnam]] | civil-law | not-assessed | low | unknown | 3 |
-| 🇽🇰 | [[kosovo]] | not-assessed | — | unknown | unknown | 1 |
+| 🇽🇰 | [[kosovo]] | not-assessed | — | unknown | unknown | 2 |
 | 🇿🇦 | [[south-africa]] | not-assessed | — | unknown | unknown | 2 |
 | 🇿🇲 | [[zambia]] | common-law | non-party | low | unknown | 2 |
 |  | [[algeria]] | not-assessed | — | unknown | unknown | 0 |

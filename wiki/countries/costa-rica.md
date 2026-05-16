@@ -11,10 +11,12 @@ operations_participated:
   - "[[operation-shrouded-horizon]]"
   - "[[aliados-por-la-infancia-vi-mpf-caba-2026]]"
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
-source_count: 2
+  - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
+source_count: 3
 sources:
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
+  - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
 created: 2026-04-17
 updated: 2026-05-16
 status: needs-official-source-ingestion

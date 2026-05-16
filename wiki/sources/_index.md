@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (843)
+# Sources (844)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -112,6 +112,7 @@ updated: 2026-04-14
 | [[2026-01-28_yna_co_kr_136-scam-suspects-nabbed-by-joint-s-korea-cambodia-police-team]] | news | Yonhap News Agency | ? | medium | ? |
 | [[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]] | press-release | Office of Financial Sanctions Implementation | ? | high | ? |
 | [[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]] | press-release | A Magyar Rendőrség hivatalos honlapja (police.hu) — Készenléti Rendőrség Nemzeti Nyomozó Iroda (KR NNI) | ? | high | ? |
+| [[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]] | press-release | Generalstaatsanwaltschaft Bamberg — Zentralstelle Cybercrime Bayern (Bavarian State Ministry of Justice / Bamberg General Public Prosecutor's Office, Central Cybercrime Unit Bavaria) | ? | high | ? |
 | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]] | press-release | Bundeskriminalamt (BKA) — German Federal Criminal Police Office | ? | high | ? |
 | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]] | press-release | Openbaar Ministerie (Dutch Public Prosecution Service) — Landelijk Parket | ? | high | ? |
 | [[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation]] | press-release | Europol | ? | high | ? |

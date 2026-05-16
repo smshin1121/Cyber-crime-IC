@@ -49,13 +49,14 @@ operations_using:
   - "[[us-colombia-versus-project-darknet-marketplace-schmitz-extradition-2026]]"
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
   - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
+  - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
 cases_using:
   - "[[us-v-szabo-swatting-ring]]"
 related_mechanisms:
   - "[[24-7-network]]"
   - "[[europol-jit]]"
   - "[[direct-provider-request]]"
-source_count: 10
+source_count: 11
 sources:
   - "[[2026-04-29_congress-gov_us-australia-mlat-treaty-document-105-27]]"
   - "[[2026-04-29_congress-gov_korea-us-mlat-treaty-document-104-1]]"
@@ -67,6 +68,7 @@ sources:
   - "[[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia]]"
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
   - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
+  - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
 created: 2026-04-08
 updated: 2026-05-16
 status: active
@@ -105,3 +107,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [8] | [[2026-04-30_irs-ci_versus-project-darknet-marketplace-schmitz-extradition-colombia\|IRS-CI / USAO-NJ — Versus Project darknet marketplace operator Patrick Schmitz extradition from Colombia to US]] | IRS-CI (mirror of USAO-NJ / DOJ OPA) | 2026-04-30 | https://www.irs.gov/compliance/criminal-investigation/leading-dark-web-marketplace-creator-and-operator-extradited-from-colombia-to-the-united-states |
 | [9] | [[2025-06-06_interpol_operation-vibora-csam-20-arrests\|INTERPOL — Operation Vibora: Spain-led LatAm CSAM takedown (20 arrests, 11 countries, June 2025)]] | INTERPOL General Secretariat | 2025-06-06 | https://www.interpol.int/en/News-and-Events/News/2025/20-arrested-in-international-operation-targeting-child-sexual-abuse-material |
 | [10] | [[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware\|USAO-EDNY — Ukrainian national Artem Stryzhak (Nefilim ransomware affiliate) pleads guilty after Spain extradition; thanks Spanish LE]] | U.S. Attorney's Office, Eastern District of New York | 2025-12-19 | https://www.justice.gov/usao-edny/pr/ukrainian-national-pleads-guilty-conspiracy-use-ransomware-0 |
+| [11] | [[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network\|GStA Bamberg/ZCB — DE-Kosovo-Costa Rica-Israel investment-fraud network: extradition + indictment (€4.5M DE / €21M worldwide)]] | Generalstaatsanwaltschaft Bamberg (ZCB Bayern) | 2026-01-23 | https://www.justiz.bayern.de/gerichte-und-behoerden/generalstaatsanwaltschaft/bamberg/presse/2026/3.php |

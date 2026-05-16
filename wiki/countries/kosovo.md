@@ -8,15 +8,17 @@ operations_participated:
   - "[[operation-switch-off-illegal-iptv-2026]]"
   - "[[leakbase-takedown-2026]]"
   - "[[operation-pandora-12-phone-fraud-call-centres-2024]]"
+  - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
 region: western-balkans
-source_count: 1
+source_count: 2
 sources:
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
+  - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
 title: "Republic of Kosovo"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-09
+updated: 2026-05-16
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

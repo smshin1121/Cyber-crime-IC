@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 164, single-agent, L23+L24+L25 strict] | Bavaria-Kosovo-Costa Rica-Israel Investment Fraud Network Extradition (GStA Bamberg/ZCB, 23 Jan 2026)
+- Source: `raw/press-releases/2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network.md` (justiz.bayern.de Bavarian State Ministry of Justice own-domain; de).
+- Pages created: `wiki/sources/2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network.md`, `wiki/operations/bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026.md` (provisional, source_count=1).
+- Pages updated: 4 countries (germany, kosovo, costa-rica, israel); 2 crime-types (online-fraud-ic, money-laundering-ic); 2 mechanisms (extradition, mlat-process).
+- Key findings:
+  - **L24 strict satisfied**: GStA Bamberg release names "Die Ermittlungen der Kriminalpolizeiinspektion Neu-Ulm und der Zentralstelle Cybercrime führten bereits im März 2021 zu einem gemeinsamen Action Day mit den kosovarischen Ermittlungsbehörden in Pristina" — Germany (KPI Neu-Ulm + ZCB Bayern) + Kosovo (Ermittlungsbehörden); Costa Rica judicial authorities (executed extradition); Israeli authorities (identification/asset-tracing).
+  - **Tier-1 publisher**: `justiz.bayern.de` Bavarian State Ministry of Justice own-domain (5th distinct German tier-1 publisher this session after BKA, Hessen, Bayern, NRW, and now Bavarian Justiz). 1st justiz.bayern.de op.
+  - **L23 compliance**: `lead_agency: ""`, `coordinating_body: ""`, `participating_agencies: []` (no wiki entity pages for KPI Neu-Ulm, ZCB Bamberg, Kosovo/Costa Rica/Israeli authorities; all kept in body prose per L23 strict).
+  - **Slug cleanup**: agent included placeholder `[[wikilink]]` literal in prose explaining L23 compliance — replaced with descriptive "wiki entity page" phrasing.
+  - Op profile: GStA Bamberg / ZCB Bayern 2021-03 joint Action Day with Kosovo in Pristina against international investment-fraud network; suspect arrested Costa Rica 2025-07 and extradited to Germany; indictment Oct 2025; ≥€4.5M Germany losses, est. ≥€21M worldwide.
+  - `case_id: CYB-2026-225`.
+  - 3 source_count_mismatch HIGH + 1 LOW broken_wikilink resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest [iter 163, single-agent, L23+L24+L25 strict] | Korea-Thailand Overseas Hacking Syndicate Senior-Leader Extradition (Korea MOJ, 13 May 2026)
 - Source: `raw/press-releases/2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand.md` (moj.go.kr Ministry of Justice Korea own-domain; ko).
 - Pages created: `wiki/sources/2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand.md`, `wiki/operations/korea-thailand-hacking-syndicate-extradition-2026-05.md` (provisional, source_count=1).
