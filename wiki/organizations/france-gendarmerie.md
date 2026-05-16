@@ -26,10 +26,11 @@ operations_participated:
   - "[[eurojust-600m-crypto-money-laundering-takedown-2025]]"
   - "[[operation-otf-grimm]]"
   - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-05-09
-source_count: 7
+source_count: 8
 sources:
   - "[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]]"
   - "[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels]]"
@@ -39,6 +40,7 @@ sources:
   - "[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]"
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 ---
 ## Summary
 
@@ -73,6 +75,7 @@ That division is important for this repo because French participation in multina
 | [5] | Circulaire du 17 décembre 2019 relative à la compétence nationale concurrente | Legifrance | 2019-12-17 | https://www.legifrance.gouv.fr/ |
 | [6] | [[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests\|OTF GRIMM one-year anniversary — 280 arrests across 11 countries (Sweden-led)]] | Europol — ESOCC | 2026-04-29 | https://www.europol.europa.eu/media-press/newsroom/news/otf-grimm-one-year-anniversary-violence-service-targets-published-eu-most-wanted |
 | [7] | [[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing\|Gendarmerie nationale — Yauhen Horbach (Belarusian) sentenced in Paris; 2,300+ cyberattacks; FR-GE INTERPOL extradition]] | Gendarmerie nationale (France) | 2025-05-14 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/criminalite-organisee-et-enquetes/2025/les-gendarmes-mettent-fin-aux-agissements-d-un-hacker-bielorusse-implique-dans-2-300-cyberattaques-dans-le-monde |
+| [8] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |
 ### Supplemental Source
 
 - Cybercriminalit챕 : 챕tat des lieux | Gendarmerie nationale | 2026-01-13 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/dossiers/lutte-contre-la-criminalite-organisee/cybercriminalite-etat-des-lieux

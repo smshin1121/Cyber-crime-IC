@@ -5,7 +5,7 @@ status: corpus-linked
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-04-10
-source_count: 10
+source_count: 11
 sources:
   - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
@@ -17,6 +17,7 @@ sources:
   - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
   - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 mechanism_type: cooperation-or-enforcement-mechanism
 operations_using:
   - "[[romania-moldova-phishing-laundering-jit-2025]]"
@@ -33,6 +34,7 @@ operations_using:
   - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
   - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 ---
 ## Summary
 

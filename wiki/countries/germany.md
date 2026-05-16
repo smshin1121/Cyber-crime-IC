@@ -90,8 +90,9 @@ operations_participated:
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
   - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
   - "[[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 region: western-europe
-source_count: 20
+source_count: 21
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -113,6 +114,7 @@ sources:
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
   - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
   - "[[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 title: "Federal Republic of Germany"
 treaty_memberships:
   - date: 2009-03-09

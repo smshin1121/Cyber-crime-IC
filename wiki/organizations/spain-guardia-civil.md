@@ -40,11 +40,12 @@ operations_participated:
   - "[[bulgaria-sofia-call-centre-investment-fraud-takedown-2025]]"
   - "[[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]]"
   - "[[spain-hsi-europol-calpe-hacker-40-cyberattacks-2025]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 notable_cases:
 
 contact_point_for:
   - "[[24-7-network]]"
-source_count: 6
+source_count: 7
 sources:
   - "[[2026-04-18_guardiacivil-es_gdt]]"
   - "[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]"
@@ -52,6 +53,7 @@ sources:
   - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
   - "[[2025-11-06_guardiacivil-es_operacion-ponei-madeira-invest-club-260m-takedown]]"
   - "[[2025-02-05_policia-es_detenido-peligroso-hacker-40-ciberataques-organismos-estrategicos]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 created: 2026-04-10
 updated: 2026-05-16
 last_verified: 2026-05-09

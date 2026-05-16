@@ -14,16 +14,18 @@ operations_participated:
   - "[[operation-fever-cbzc-eu-presidency-2025]]"
   - "[[latvia-phone-fraud-money-mule-network-takedown-2026]]"
   - "[[austria-latvia-estonia-online-scams-jit-takedown-2025]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 region: eastern-europe
-source_count: 2
+source_count: 3
 sources:
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
   - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 title: "Republic of Latvia"
 treaty_memberships:
   - not-assessed
 type: country
-updated: 2026-05-10
+updated: 2026-05-16
 status: needs-official-source-ingestion
 assessment_confidence: limited
 verification_scope: "country profile not verified beyond linked operation/source relationships"

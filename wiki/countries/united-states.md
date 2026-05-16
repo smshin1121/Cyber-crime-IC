@@ -239,8 +239,9 @@ operations_participated:
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
   - "[[us-rok-japan-joint-statement-dprk-it-workers-2025-08]]"
   - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 region: north-america
-source_count: 31
+source_count: 32
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
   - "[[2026-04-21_npa-gov-za_afu-r43m-restraint-bryanston-call-centre-syndicate]]"
@@ -273,6 +274,7 @@ sources:
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
   - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
   - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 title: "United States of America"
 treaty_memberships:
   - date: 2006-09-29

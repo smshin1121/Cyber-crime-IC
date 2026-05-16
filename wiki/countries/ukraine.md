@@ -48,8 +48,9 @@ operations_participated:
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]]"
   - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 region: eastern-europe
-source_count: 9
+source_count: 10
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
@@ -57,6 +58,7 @@ sources:
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
   - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 title: Ukraine
 treaty_memberships:
   - date: 2005-09-10
@@ -132,3 +134,4 @@ Despite wartime conditions, Ukraine maintains substantial cybercrime investigati
 | [7] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
 | [8] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|BKA — Black Basta ransomware ringleader public arrest warrant + UA region searches (Jan 2026); 5-LE-jurisdiction op (DE+NL+CH+UA+UK); 100+ DE victims, 600+ worldwide, 3-digit-million EUR proceeds]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |
 | [9] | [[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine\|LKA NRW (polizei.nrw) — EK Parker DoppelPaymer renewed strike: DE-UA blockchain investigation with USSS; Ukraine searches]] | Landeskriminalamt NRW Pressestelle | 2023-09-18 | https://polizei.nrw/presse/ek-parker-mit-erneutem-schlag-gegen-internationales-cybercrime-netzwerk |
+| [10] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |

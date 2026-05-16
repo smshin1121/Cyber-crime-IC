@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-16] ingest [iter 165, single-agent, L23+L24+L25 strict] | Ragnar Locker Ransomware Gang 11-Country Takedown (Europol, 20 Oct 2023)
+- Source: `raw/press-releases/2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop.md` (europol.europa.eu IGO own-domain; en).
+- Pages created: `wiki/sources/2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop.md`, `wiki/operations/operation-ragnar-locker-takedown-2023.md` (provisional, source_count=1).
+- Pages updated: 11 countries (czechia, france, germany, italy, japan, latvia, netherlands, spain, sweden, ukraine, united-states); 14 organizations (europol-ec3, eurojust, france-gendarmerie, czechia-police, germany-bka, italy-polizia-postale, japan-npa, latvia-state-police, netherlands-politie, spain-guardia-civil, sweden-police, ukraine-police, fbi, interpol); 2 crime-types (ransomware-ic, extortion-ic); 7 mechanisms (europol-jit, joint-investigation-team, eurojust-coordination-meeting, empact, j-cat, search-seizure, domain-seizure).
+- Key findings:
+  - **L24 strict satisfied**: Europol release names "This international sweep follows a complex investigation led by the French National Gendarmerie, together with law enforcement authorities from the Czechia, Germany, Italy, Japan, Latvia, the Netherlands, Spain, Sweden, Ukraine and the United States of America." — 11 cooperating LE jurisdictions explicitly with named units (NCOZ Czech, Gendarmerie C3N, LKA Sachsen+BKA, Polizia di Stato/Postale, NPA Japan, Latvia State Police, Politie Oost-NL, Guardia Civil, SC3 Sweden, Ukraine Cyberpolice, FBI Atlanta).
+  - **Tier-1 publisher**: `europol.europa.eu` IGO own-domain. 1st Europol-as-lead op this session.
+  - **L23 compliance**: `lead_agency: "[[france-gendarmerie]]"`, `coordinating_body: "[[europol-ec3]]"`; `participating_agencies` Glob-verified wikilinks for 14 organizations.
+  - Op profile: 2023-10-16..20 international action week; coordinated arrests + infrastructure seizure of Ragnar Locker ransomware operation (active since 2019; victims include critical infrastructure orgs).
+  - **Note**: agent used `[[czechia]]` country slug; `[[czech-republic]]` also exists as a duplicate orphan-state country page. Pattern observed: czechia (proper schema) vs czech-republic (stub-state). Flagged for milestone integrity sweep cleanup at iter 170 push.
+  - `case_id: CYB-2023-820`.
+  - 14 source_count_mismatch HIGH + 1 LOW broken_wikilink (leftover bracketed-wikilink placeholder in iter 164 log text) resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.
+
 ## [2026-05-16] ingest [iter 164, single-agent, L23+L24+L25 strict] | Bavaria-Kosovo-Costa Rica-Israel Investment Fraud Network Extradition (GStA Bamberg/ZCB, 23 Jan 2026)
 - Source: `raw/press-releases/2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network.md` (justiz.bayern.de Bavarian State Ministry of Justice own-domain; de).
 - Pages created: `wiki/sources/2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network.md`, `wiki/operations/bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026.md` (provisional, source_count=1).
@@ -8,7 +21,7 @@
   - **L24 strict satisfied**: GStA Bamberg release names "Die Ermittlungen der Kriminalpolizeiinspektion Neu-Ulm und der Zentralstelle Cybercrime führten bereits im März 2021 zu einem gemeinsamen Action Day mit den kosovarischen Ermittlungsbehörden in Pristina" — Germany (KPI Neu-Ulm + ZCB Bayern) + Kosovo (Ermittlungsbehörden); Costa Rica judicial authorities (executed extradition); Israeli authorities (identification/asset-tracing).
   - **Tier-1 publisher**: `justiz.bayern.de` Bavarian State Ministry of Justice own-domain (5th distinct German tier-1 publisher this session after BKA, Hessen, Bayern, NRW, and now Bavarian Justiz). 1st justiz.bayern.de op.
   - **L23 compliance**: `lead_agency: ""`, `coordinating_body: ""`, `participating_agencies: []` (no wiki entity pages for KPI Neu-Ulm, ZCB Bamberg, Kosovo/Costa Rica/Israeli authorities; all kept in body prose per L23 strict).
-  - **Slug cleanup**: agent included placeholder `[[wikilink]]` literal in prose explaining L23 compliance — replaced with descriptive "wiki entity page" phrasing.
+  - **Slug cleanup**: agent included a placeholder bracketed-wikilink literal in prose explaining L23 compliance — replaced with descriptive "wiki entity page" phrasing.
   - Op profile: GStA Bamberg / ZCB Bayern 2021-03 joint Action Day with Kosovo in Pristina against international investment-fraud network; suspect arrested Costa Rica 2025-07 and extradited to Germany; indictment Oct 2025; ≥€4.5M Germany losses, est. ≥€21M worldwide.
   - `case_id: CYB-2026-225`.
   - 3 source_count_mismatch HIGH + 1 LOW broken_wikilink resolved post-backlink; lint HIGH=0 CRITICAL=0 MEDIUM=0 LOW=0.

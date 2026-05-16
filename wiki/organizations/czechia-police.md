@@ -31,17 +31,19 @@ operations_participated:
   - "[[operation-octopus-investment-fraud-czechia-ukraine-2025]]"
   - "[[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]]"
   - "[[cbzc-krakow-money-laundering-jit-2025]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 org_type: national-unit
 parent_org: "[[czech-police]]"
-source_count: 5
+source_count: 6
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder]]"
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 status: active
 title: "National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)"
 type: organization
-updated: 2026-05-09
+updated: 2026-05-16
 ---
 ## Summary
 
@@ -93,3 +95,4 @@ The Czech Republic is a party to the Budapest Convention (since 2013) and a memb
 | [3] | [[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv\|Operation OCTOPUS investment-fraud takedown in Kyiv (CZ+UA bilateral JIT, 17 arrests, CZK 33M seized)]] | Policie ČR / NCTEKK | 2025-12-16 | https://policie.gov.cz/clanek/mezinarodni-operace-octopus-a-connect.aspx |
 | [4] | [[2025-05-13_policie-gov-cz_uspesna-mezinarodni-operace-pathfinder\|Operation PATHFINDER — Czech-Ukraine fake-investment call-centre takedown (CZ+UA Eurojust JIT, 70 detained, Zakarpattia)]] | Policie ČR / NCTEKK | 2025-05-13 | https://policie.gov.cz/clanek/uspesna-mezinarodni-operace-pathfinder.aspx |
 | [5] | [[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary\|CBZC Kraków money-laundering JIT (PL+ES+CZ+HU JIT, RO suspects, GR/IT/ES/BE/NL cash-out; ~EUR 2.23M + PLN 717K laundered)]] | Polish CBZC (Centralne Biuro Zwalczania Cyberprzestępczości) | 2025-12-16 | https://cbzc.policja.gov.pl/bzc/aktualnosci/768,Rozbita-miedzynarodowa-grupa-przestepcza-zajmujaca-sie-praniem-pieniedzy-z-oszus.html |
+| [6] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |

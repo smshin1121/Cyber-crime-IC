@@ -64,8 +64,9 @@ operations_participated:
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
   - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 region: western-europe
-source_count: 18
+source_count: 19
 sources:
   - "[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]"
   - "[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]"
@@ -85,6 +86,7 @@ sources:
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
   - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 title: "French Republic"
 treaty_memberships:
   - date: 2006-01-10

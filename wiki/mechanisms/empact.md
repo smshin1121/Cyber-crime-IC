@@ -34,17 +34,19 @@ operations_using:
   - "[[doublevpn-takedown]]"
   - "[[vpnlab-takedown]]"
   - "[[operation-talent]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 cases_using:
-  []
+
 related_mechanisms:
   - "[[j-cat]]"
-source_count: 3
+source_count: 4
 sources:
   - "[[2021-06-30_eurojust_coordinated-action-cuts-access-vpn-service-used-ransomware-groups]]"
   - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
   - "[[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 created: 2026-04-12
-updated: "2026-04-29"
+updated: 2026-05-16
 status: active
 ---
 ## Summary
@@ -74,3 +76,4 @@ The page groups terminology; it is not independent proof that the concept, crime
 | [1] | [[2021-06-30_eurojust_coordinated-action-cuts-access-vpn-service-used-ransomware-groups|Coordinated action cuts off access to VPN service used by ransomware groups]] | Eurojust | 2021-06-30 | https://www.eurojust.europa.eu/news/coordinated-action-cuts-access-vpn-service-used-ransomware-groups |
 | [2] | [[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline|Unhappy New Year for cybercriminals as VPNLab.net goes offline]] | Europol | 2022-01-18 | https://www.europol.europa.eu/media-press/newsroom/news/unhappy-new-year-for-cybercriminals-vpnlabnet-goes-offline |
 | [3] | [[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation|Cracked and Nulled Marketplaces Disrupted in International Cyber Operation]] | U.S. Department of Justice | 2025-01-30 | https://www.justice.gov/opa/pr/cracked-and-nulled-marketplaces-disrupted-international-cyber-operation |
+| [4] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |

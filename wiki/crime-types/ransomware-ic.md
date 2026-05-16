@@ -47,6 +47,7 @@ notable_operations:
   - "[[fr-ge-belarusian-ransomware-hacker-yauhen-horbach-2025]]"
   - "[[us-spain-nefilim-stryzhak-extradition-guilty-plea-2025]]"
   - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 notable_cases:
   - "[[us-v-deniss-zolotarjovs]]"
   - "[[us-v-stryzhak-nefilim]]"
@@ -64,7 +65,7 @@ criminalization_status:
   problem_jurisdictions:
 
 estimated_annual_loss: "Billions of USD globally (exact figure uncertain)"
-source_count: 35
+source_count: 36
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
@@ -101,6 +102,7 @@ sources:
   - "[[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing]]"
   - "[[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware]]"
   - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 created: 2026-04-08
 updated: 2026-05-16
 ---
@@ -304,3 +306,4 @@ Korea's 2024 accession to the [[budapest-convention]] enhances the legal framewo
 | [33] | [[2025-05-14_gendarmerie-fr_belarusian-ransomware-hacker-yauhen-horbach-paris-sentencing\|Gendarmerie nationale — Yauhen Horbach (Belarusian) sentenced in Paris; 2,300+ cyberattacks; FR-GE INTERPOL extradition]] | Gendarmerie nationale (France) | 2025-05-14 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/criminalite-organisee-et-enquetes/2025/les-gendarmes-mettent-fin-aux-agissements-d-un-hacker-bielorusse-implique-dans-2-300-cyberattaques-dans-le-monde |
 | [34] | [[2025-12-19_justice-gov-usao-edny_ukrainian-national-pleads-guilty-conspiracy-nefilim-ransomware\|USAO-EDNY — Ukrainian national Artem Stryzhak (Nefilim ransomware affiliate) pleads guilty after Spain extradition; thanks Spanish LE]] | U.S. Attorney's Office, Eastern District of New York | 2025-12-19 | https://www.justice.gov/usao-edny/pr/ukrainian-national-pleads-guilty-conspiracy-use-ransomware-0 |
 | [35] | [[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine\|LKA NRW (polizei.nrw) — EK Parker DoppelPaymer renewed strike: DE-UA blockchain investigation with USSS; Ukraine searches]] | Landeskriminalamt NRW Pressestelle | 2023-09-18 | https://polizei.nrw/presse/ek-parker-mit-erneutem-schlag-gegen-internationales-cybercrime-netzwerk |
+| [36] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |

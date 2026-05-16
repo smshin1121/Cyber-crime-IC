@@ -74,9 +74,10 @@ operations_participated:
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
   - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
   - "[[de-hesse-rlp-flight-rcs-dstat-cc-poweroff-takedown-2024]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
-source_count: 13
+source_count: 14
 sources:
   - "[[2026-04-18_bka-de_our-tasks]]"
   - "[[2026-04-18_bka-de_cybercrime]]"
@@ -91,6 +92,7 @@ sources:
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
   - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
   - "[[2024-11-01_bka_hessen-rlp-dstat-flight-rcs-poweroff-festnahmen]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization

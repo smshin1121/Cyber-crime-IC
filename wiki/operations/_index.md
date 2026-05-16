@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (290 canonical / 27 absorbed / 317 records)
+# Operations (291 canonical / 27 absorbed / 318 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (290)
+## Canonical Operations (291)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -95,6 +95,7 @@ updated: 2026-04-14
 | [[treasury-matveev-russian-ransomware-sanctions-2023]] | CYB-2023-099 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-sinbad-mixer-dprk-lazarus-sanctions-2023]] | CYB-2023-100 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[afp-usss-operation-wickham-changjiang-money-laundering-2023]] | CYB-2023-683 | 2 | ongoing | — | 1 | 3.00 | 1 |
+| [[operation-ragnar-locker-takedown-2023]] | CYB-2023-820 | 1 | completed | — | 1 | 4.50 | 1 |
 | [[afp-jpc3-rmp-fbi-mygov-phishing-kits-malaysia-2023]] | CYB-2023-856 | 2 | completed | — | 1 | 3.00 | 1 |
 | [[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]] | CYB-2023-985 | 1 | ongoing | standalone | 1 | 3.40 | 1 |
 | [[operation-orion-international]] | CYB-2024-001 | 3 | completed | umbrella | 4 | — | — |

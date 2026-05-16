@@ -13,11 +13,13 @@ operations_participated:
   - "[[project-compass-the-com-network-2025]]"
   - "[[operation-alice-csam-fraud-2026]]"
   - "[[operation-cumberland-ai-csam-2025]]"
-source_count: 1
+  - "[[operation-ragnar-locker-takedown-2023]]"
+source_count: 2
 sources:
   - "[[2025-02-28_politi-dk_operation-cumberland-ai-csam-international]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 created: 2026-04-17
-updated: 2026-05-09
+updated: 2026-05-16
 status: needs-official-source-ingestion
 last_verified: 2026-05-09
 assessment_confidence: limited

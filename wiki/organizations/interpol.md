@@ -75,9 +75,10 @@ operations_participated:
   - "[[operation-vibora-spain-latam-csam-takedown-2025]]"
   - "[[europol-vidtf-2026-12-children-identified]]"
   - "[[korea-thailand-hacking-syndicate-extradition-2026-05]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 org_type: international-org
 parent_org: ""
-source_count: 14
+source_count: 15
 sources:
   - "[[2026-03-31_anadolu-agency_hakkari-illegal-betting-fraud-network-bosnia-arrest]]"
   - "[[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]]"
@@ -89,6 +90,7 @@ sources:
   - "[[2025-06-06_interpol_operation-vibora-csam-20-arrests]]"
   - "[[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified]]"
   - "[[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 status: active
 title: "INTERPOL (International Criminal Police Organization)"
 type: organization
@@ -292,6 +294,7 @@ Korea's relationship with INTERPOL is *almost certainly* among the most active a
 | [12] | [[2025-06-06_interpol_operation-vibora-csam-20-arrests\|INTERPOL — Operation Vibora: Spain-led LatAm CSAM takedown (20 arrests, 11 countries, June 2025)]] | INTERPOL General Secretariat | 2025-06-06 | https://www.interpol.int/en/News-and-Events/News/2025/20-arrested-in-international-operation-targeting-child-sexual-abuse-material |
 | [13] | [[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified\|CBZC Poland — Europol Victim Identification Taskforce (VIDTF) Apr 2026: 12 children identified, 204 leads, 31 countries at The Hague]] | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC, Polska) | 2026-04-24 | https://cbzc.policja.gov.pl/bzc/aktualnosci/901,Wykorzystywanie-seksualne-dzieci-12-dzieci-zidentyfikowanych-podczas-dzialan-gru.html |
 | [14] | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand\|Korea MOJ — Korea-Thailand overseas hacking syndicate leader extradition (BTS Jungkook KRW 38B case; Thai OAG + RTP + INTERPOL cooperation)]] | Ministry of Justice (Republic of Korea) | 2026-05-13 | https://www.moj.go.kr/bbs/moj/182/606523/artclView.do |
+| [15] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |
 
 > [!note]
 > The original page body was created from general knowledge (source_count: 0 in frontmatter). The Current Status section above is verified against web sources as of 2026-04-10. Detailed historical operational statistics should be verified against INTERPOL press releases and annual reports.

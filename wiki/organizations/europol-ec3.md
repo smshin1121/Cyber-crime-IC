@@ -161,9 +161,10 @@ operations_participated:
   - "[[ek-parker-doppelpaymer-germany-ukraine-renewed-strike-2023]]"
   - "[[europol-vidtf-2026-12-children-identified]]"
   - "[[rcmp-cit-v-canada-endgame-surrey-malware-loader-arrest-2025]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
-source_count: 31
+source_count: 32
 sources:
   - "[[2026-04-29_europol_otf-grimm-one-year-anniversary-280-arrests]]"
   - "[[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]]"
@@ -187,6 +188,7 @@ sources:
   - "[[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine]]"
   - "[[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified]]"
   - "[[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 status: active
 title: "Europol European Cybercrime Centre (EC3)"
 type: organization
@@ -297,3 +299,4 @@ The [[phobos-8base-crackdown|Phobos/8Base crackdown]] (2025) is the most directl
 | [29] | [[2023-09-18_lka-polizei-nrw_ek-parker-renewed-strike-doppelpaymer-germany-ukraine\|LKA NRW (polizei.nrw) — EK Parker DoppelPaymer renewed strike: DE-UA blockchain investigation with USSS; Ukraine searches]] | Landeskriminalamt NRW Pressestelle | 2023-09-18 | https://polizei.nrw/presse/ek-parker-mit-erneutem-schlag-gegen-internationales-cybercrime-netzwerk |
 | [30] | [[2026-04-24_cbzc-policja-gov-pl_europol-vidtf-2026-12-children-identified\|CBZC Poland — Europol Victim Identification Taskforce (VIDTF) Apr 2026: 12 children identified, 204 leads, 31 countries at The Hague]] | Centralne Biuro Zwalczania Cyberprzestępczości (CBZC, Polska) | 2026-04-24 | https://cbzc.policja.gov.pl/bzc/aktualnosci/901,Wykorzystywanie-seksualne-dzieci-12-dzieci-zidentyfikowanych-podczas-dzialan-gru.html |
 | [31] | [[2025-04-09_rcmp_international-cybercrime-investigation-leads-arrest-surrey-resident\|RCMP CIT-V — Operation Endgame Canadian-limb: Surrey BC malware-loader botnet operator arrest; 7-country LE cooperation]] | Royal Canadian Mounted Police (RCMP) | 2025-04-09 | https://rcmp.ca/en/news/2025/04/international-cybercrime-investigation-leads-arrest-surrey-resident |
+| [32] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |

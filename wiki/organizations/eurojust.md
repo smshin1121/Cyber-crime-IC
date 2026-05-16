@@ -99,9 +99,10 @@ operations_participated:
   - "[[eurojust-fake-medicines-supplements-online-takedown-2026]]"
   - "[[uk-juicyfields-645m-investment-scam-jit-2024]]"
   - "[[bayern-tirol-romania-action-day-internet-fraud-2024]]"
+  - "[[operation-ragnar-locker-takedown-2023]]"
 org_type: regional-org
 parent_org: ""
-source_count: 23
+source_count: 24
 sources:
   - "[[2025-12-16_policie-cz_operation-octopus-investment-fraud-takedown-kyiv]]"
   - "[[2026-03-18_prokuratura-lv_telephone-fraud-2-million-euros-170-money-mules]]"
@@ -117,6 +118,7 @@ sources:
   - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
   - "[[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]]"
   - "[[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern]]"
+  - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
 status: active
 title: Eurojust
 type: organization
@@ -291,3 +293,4 @@ Direct Eurojust-Korea judicial cooperation on cybercrime is *likely* limited but
 | [21] | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown\|Eurojust — RO-BG-HU-PL-MD takedown of online fake medicines and supplements network targeting seriously ill victims]] | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |
 | [22] | [[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam\|NCA — UK arrest in €645M JuicyFields cannabis-investment Ponzi takedown; UK-ES-DE-FR JIT at Eurojust]] | National Crime Agency (UK) | 2024-04-12 | https://www.nationalcrimeagency.gov.uk/news/uk-arrest-in-645-million-international-investment-scam |
 | [23] | [[2025-01-15_polizei-bayern_action-day-rumaenien-oesterreich-bayern\|Polizei Bayern — DE-AT-RO Action Day (17 Dec 2024) takedown of internet-fraud OCG; ZCB Bayern + LKA Tirol + DIICOT + Eurojust JIT]] | Bayerische Polizei (Polizei Bayern) / ZCB Bamberg | 2025-01-15 | https://www.polizei.bayern.de/aktuelles/pressemitteilungen/078869/index.html |
+| [24] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |
