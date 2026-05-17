@@ -117,6 +117,16 @@ On 2026-05-12, [[romania|Romanian]], [[bulgaria|Bulgarian]], [[hungary|Hungarian
 
 The operation qualifies for the IC corpus because the criminal infrastructure was primarily online (hundreds of fraudulent websites and social-media pages), and named cybercrime LE units — Bulgaria's GDCOC Cybercrime Directorate, Hungary's NBI Cybercrime Department, and Poland's Central Cybercrime Bureau — were direct participants in a JIT coordinated by Eurojust.
 
+## Background
+
+**Modus operandi.** The network had operated since 2019 as a multi-tier counterfeit-pharma e-commerce operation. The criminal group built and ran *hundreds* of fraudulent websites and parallel social-media storefronts (primarily Facebook pages and groups) designed to mimic legitimate pharmacies and supplement retailers. The Eurojust 2026-05-14 release describes a two-layer distribution model: (1) front-end fraudulent web storefronts and social-media pages that captured orders and payments, and (2) physical fulfilment from warehouses where counterfeit medicines and supplements — many produced or relabelled in violation of EU pharmaceutical authorisation regimes — were packed and shipped. Affiliates were trained to create and operate fake social-media accounts that drove traffic from health-related communities to the storefronts, and to seed positive fake reviews of the products. The network exploited search-engine visibility and cross-platform social-media advertising to reach an EU-wide victim pool.
+
+**Victim profile and impact.** The targeted demographic was *seriously ill victims* — Eurojust uses this phrasing explicitly — including cancer patients, chronic-disease patients, and people seeking alternative or unconventional remedies that they could not obtain through regulated channels. Victims were typically charged for products that were either entirely counterfeit (no active ingredient, substituted inert filler) or genuine-looking but unauthorised supplements with no verified safety profile. The harm is therefore both financial (payment for fraudulent products) and medical (delayed legitimate treatment, ingestion of unverified substances by patients with compromised health). The geographic victim distribution is implied to be EU-wide given the ten supporting jurisdictions, but a per-country victim-count breakdown was not disclosed publicly.
+
+**Financial flow.** Eurojust estimates total illicit transactions across the lifetime of the network at **EUR 240 million**. Payments flowed primarily through standard online retail rails (card payments and bank transfers to merchant accounts associated with the fraudulent storefronts), with proceeds laundered through company structures and assets in multiple jurisdictions. The action day froze **EUR 1.8 million in assets in Poland** alone, indicating that Poland was a significant proceeds-holding jurisdiction. A per-jurisdiction asset-freeze breakdown beyond Poland was not published, and the EUR 1.8 million is therefore a floor rather than the full restraint figure. No cryptocurrency component is mentioned in the tier-1 release — the network appears to have used conventional fiat retail payment infrastructure rather than crypto rails.
+
+**Criminal organisation structure.** The five core jurisdictions (Romania, Bulgaria, Hungary, Poland, Moldova) housed the operational centre of the network, with main suspects detained in **Poland, Romania, and Moldova** on action day. Romania was the principal hosting jurisdiction for the fraudulent websites (196 sites blocked there). Hungary and Bulgaria played roles in physical distribution (large quantities of fake supplements seized in those two countries plus Romania). The structure is therefore consistent with an OCG split into (a) IT/online operations in Romania, (b) logistics/warehousing in Hungary and Bulgaria, (c) financial structuring and leadership in Poland, and (d) supporting operational nodes in Moldova. The 23 witnesses interviewed across the action suggest a significant cooperator base, but the tier-1 release does not specify hierarchy, total membership headcount, or whether the network was a single OCG or a federation of cooperating cells. The exact arrest count and per-jurisdiction detention figures are not disclosed.
+
 ## Cooperation Model
 
 | Role | Parties |
@@ -151,6 +161,14 @@ The network operated since 2019, marketing fake medicines and supplements primar
 ## Boundary and Non-Duplication Notes
 
 This page is separate from [[albania-austria-call-centre-investment-fraud-2026]] and [[romania-moldova-phishing-laundering-jit-2025]] because the public source set identifies a distinct 2026-05-12 multi-country action against a fake-medicines and supplements network, with a different jurisdiction set, a different target infrastructure (counterfeit-goods e-commerce websites and social media), and different result metrics.
+
+## Contradictions & Open Questions
+
+- **Exact arrest count and per-jurisdiction detention figures** are not disclosed in the Eurojust 2026-05-14 release. Only the participating-detention countries (Poland, Romania, Moldova) and 23-witnesses-interviewed metric are public.
+- **Per-country victim count and victim-loss distribution** are not broken out across the five core or ten supporting jurisdictions. The EUR 240 million is an aggregate illicit-transaction estimate; per-victim and per-product breakdowns are not public.
+- **Per-jurisdiction asset-freeze totals beyond Poland (EUR 1.8 million)** are not disclosed. Whether Romania, Bulgaria, Hungary, and Moldova also froze assets, and at what scale, remains undocumented.
+- **OCG hierarchy and total membership headcount** are not disclosed. The tier-1 release confirms a multi-jurisdictional structure with main suspects in three countries, but does not specify leadership identity, internal command structure, or whether the entity is a single OCG or a federation of cooperating cells.
+- **Payment-processor and merchant-bank involvement** is not detailed. The financial-flow description in the Eurojust release identifies aggregate transaction volume but does not name the payment infrastructure or specify whether card-network rules, EU PSD2 controls, or merchant-acquirer due-diligence failures contributed to the network's longevity.
 
 ## References
 
