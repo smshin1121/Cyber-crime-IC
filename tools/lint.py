@@ -38,6 +38,9 @@ def lint_all() -> list[dict[str, Any]]:
         # 6. Empty required sections
         issues.extend(_check_empty_sections(page))
 
+        # 29. Missing Korean translation sidecar (L27, 2026-05-18, iter 225)
+        issues.extend(_check_ko_sidecar(page))
+
     # Cross-page checks
     issues.extend(_check_bidirectional_links(all_pages))
 
@@ -49,6 +52,9 @@ def _load_all_pages() -> list[dict]:
     pages = []
     for md in WIKI_DIR.rglob("*.md"):
         if md.name.startswith("_"):
+            continue
+        # Skip Korean translation sidecars — consumed by render_bilingual.
+        if md.stem.endswith(".ko"):
             continue
         try:
             post = frontmatter.load(md)
@@ -190,6 +196,40 @@ def _check_empty_sections(page: dict) -> list[dict]:
             "detail": f"Empty sections: {[e.strip() for e in empty[:3]]}",
         })
     return issues
+
+
+_KO_SIDECAR_REQUIRED_TYPES = {
+    "operation", "case", "organization", "country", "legal-framework",
+}
+
+# Pages created on or after this date MUST ship with a .ko.md sidecar — L27
+# enforcement begins at iter 225. Earlier pages are backfill-priority but do
+# not block ingest; flagged as MEDIUM.
+_L27_ENFORCEMENT_DATE = "2026-05-18"
+
+
+def _check_ko_sidecar(page: dict) -> list[dict]:
+    """L27: bilingual sidecar — every operation/case/org/country/legal-framework
+    page must have <slug>.ko.md alongside <slug>.md."""
+    page_type = page["meta"].get("type", "")
+    if page_type not in _KO_SIDECAR_REQUIRED_TYPES:
+        return []
+    md_path: Path = page["path"]
+    sidecar = md_path.with_name(md_path.stem + ".ko.md")
+    if sidecar.exists():
+        return []
+    created = str(page["meta"].get("created", "")).strip()
+    severity = "HIGH" if created and created >= _L27_ENFORCEMENT_DATE else "MEDIUM"
+    return [{
+        "severity": severity,
+        "type": "missing_ko_sidecar",
+        "file": str(md_path.relative_to(WIKI_DIR)),
+        "detail": (
+            f"Missing Korean sidecar: {sidecar.name}. "
+            f"Run `python tools/translate_prompt.py {md_path.parent.name} "
+            f"{md_path.stem}` to get a translation prompt (L27)."
+        ),
+    }]
 
 
 def _check_bidirectional_links(all_pages: list[dict]) -> list[dict]:

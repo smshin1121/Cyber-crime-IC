@@ -91,8 +91,8 @@ def check_all() -> dict:
 
 def _resolve_href(from_file: str, href: str) -> str | None:
     """Resolve a relative href to a path relative to DOCS_DIR."""
-    # Strip fragment
-    href = href.split("#")[0]
+    # Strip fragment and query string (e.g. style.css?v=1779060137)
+    href = href.split("#")[0].split("?")[0]
     if not href:
         return None
 

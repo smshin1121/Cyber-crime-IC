@@ -225,6 +225,21 @@
 
 ---
 
+### ❗ L27. bilingual content parity — every new wiki page needs a `<slug>.ko.md` sidecar (2026-05-18, iter 225)
+
+- **상황**: User on 2026-05-18 audit: "한글토글 누를때 내용과 영어 토글 누를때 내용이 차이가 여전히 많다." Investigation showed Korean toggle was rendering only a frontmatter-synthesized overview (~2-4KB of bullet lists) while English toggle rendered the full body (~10KB+ of prose). Even after iter 222 expanded the synthesis and iter 223 displayed the English body underneath the Korean overview in lang-ko mode (with Korean H2/H3 headings via bilingual_headings()), the body **prose** remained English-only. Frontmatter synthesis cannot translate prose paragraphs — it can only restate structured fields in a Korean template. The asymmetry is structural, not display-toggle.
+- **왜 실패**: original design assumed Korean-language readers would read English prose with Korean section labels. In practice that fails the user's mental model of "a Korean wiki." Korean wiki readers expect Korean prose. Auto-translation from frontmatter cannot fill this gap — it only restates `target_entity`, `results.*`, `crime_types[]` etc. The actual narrative prose (Summary, Background, Cooperation Mechanisms Used, Lessons Learned) was never translated.
+- **교훈**: **Korean-side body prose must exist as a real translation, not a synthesis.** Maintain a sidecar file `wiki/<category>/<slug>.ko.md` containing the full Korean translation of the English body (no frontmatter; the English page is authoritative for metadata). `render_bilingual()` in `web/app.py` prefers the sidecar over the frontmatter synthesis; if no sidecar exists, the synthesis is used as fallback. Every new operation/case/organization/country/legal-framework page must ship with its `.ko.md` sidecar as part of the same ingest commit — sidecar generation is part of ingest, not an afterthought.
+- **어떻게 적용**:
+  - INGEST workflow gains a new step (between "Step 5: Maintain Bidirectional Links" and "Step 6: Update Indexes"): **Step 5b — Generate Korean sidecar `<slug>.ko.md`**. Spawn a translation agent (or invoke `tools/translate_prompt.py <slug>` to get a paste-ready prompt) for the new page's body. The agent must preserve wikilinks `[[X]]`/`[[X|display]]` exactly, preserve markdown structure (tables, blockquotes, callouts), and use the canonical Korean legal-IC glossary (MLAT → 형사사법공조조약, extradition → 범죄인 인도, joint investigation → 합동수사, etc.).
+  - Sidecar files have **no YAML frontmatter** — the body starts directly at the first `## ...` heading. `render_bilingual()` strips a leading `---`-delimited block defensively but authors should never write one.
+  - `web/build_static.py` and `tools/lint.py` filter out `*.ko.md` from page enumeration (they are not standalone pages).
+  - **Lint MEDIUM check (29)**: operation/case pages without `.ko.md` sidecar are flagged for backfill priority. CRITICAL/HIGH for new pages created after 2026-05-18 (iter 225) — those must ship bilingual or the commit is incomplete.
+  - Backfill of pre-2026-05-18 pages is incremental (228 ops, ~100 cases, ~100 orgs). Track in `wiki/log.md` per batch.
+  - L27 takes effect from iter 225 onward.
+
+---
+
 ### ❗ L26. operation `## Background` must describe the crime, not just the operation (2026-05-17, iter 202 retrospective)
 
 - **상황**: 60+ iters of new-ingest + 22 content-enrichment events produced op pages where `## Background` often restated the operation context ("Operation Endgame is a multi-country LE initiative since 2022...") instead of the crime substance ("what malware, what victims, what financial flow, what OCG structure"). E.g., RCMP CIT-V Surrey arrest (iter 162) Background discussed Op Endgame umbrella but not what botnet, what victims, what malware family. User audit flagged the pattern: "범죄의 구체적인 내용은 어디에 포함되어 있는가?"

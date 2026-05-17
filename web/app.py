@@ -1365,15 +1365,54 @@ def load_translation_cache() -> None:
         _translation_cache.update(by_slug)
 
 
+def _load_sidecar_ko(category: str, slug: str) -> str:
+    """Return the body of <slug>.ko.md if it exists; else empty string.
+
+    Sidecar files live next to the English source and hold a full Korean
+    translation of the body. They have no frontmatter (the English page is
+    authoritative for metadata). If a sidecar is present its content fully
+    replaces the auto-synthesized Korean overview.
+    """
+    if not slug:
+        return ""
+    candidates = []
+    if category:
+        candidates.append(WIKI_DIR / category / f"{slug}.ko.md")
+    candidates.append(WIKI_DIR / f"{slug}.ko.md")
+    for p in candidates:
+        if p.exists():
+            try:
+                text = p.read_text(encoding="utf-8")
+            except UnicodeDecodeError:
+                text = p.read_text(encoding="utf-8-sig")
+            # Strip a leading frontmatter block if the file accidentally has one
+            if text.startswith("---\n"):
+                end = text.find("\n---", 4)
+                if end != -1:
+                    text = text[end + 4:].lstrip("\n")
+            return text
+    return ""
+
+
 def render_bilingual(meta: dict, en_content: str, page_type: str,
                      category: str = "", slug: str = ""):
-    """Render both English and Korean content for a page."""
+    """Render both English and Korean content for a page.
+
+    Korean rendering order:
+      1. If a sidecar <slug>.ko.md file exists, render it as the Korean body
+         (highest fidelity — a real human/agent translation).
+      2. Otherwise, synthesize a Korean overview from frontmatter via
+         generate_ko_content() (fallback — sparser, but always available).
+    """
     en_html = render_markdown(en_content)
 
-    # Cached translations have repeatedly lagged behind source updates and
-    # reintroduced stale counts and broken wikilinks. Prefer fresh generation.
     if slug == "index" or page_type == "category-index":
         return en_html, None
+
+    sidecar_ko = _load_sidecar_ko(category, slug)
+    if sidecar_ko.strip():
+        ko_html = render_markdown(sidecar_ko)
+        return en_html, ko_html
 
     ko_md = generate_ko_content(meta, en_content, page_type)
     if ko_md:

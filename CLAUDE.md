@@ -41,8 +41,9 @@ Every session must begin by reading [`LESSONS.md`](LESSONS.md) (project root). I
 | External tool integration | L7 (verify behavior, version drift), L8 (Windows cp949) |
 | External URL referenced in wiki | L12, L13 (check_external_urls.py + bot whitelist) |
 | Source mismatch 정리 | L16 (mismatch는 operation→org/country로 전파), L1 (URL 검증) |
-| Operation 페이지 생성/보강 | L17 (participating_countries 공식 출처 교차 검증) |
+| Operation 페이지 생성/보강 | L17 (participating_countries 공식 출처 교차 검증), L26 (Background = crime substance, not LE narrative) |
 | Windows 스케줄러 변경 | L18 (schtasks DAILY 복수 시간 = 별도 태스크) |
+| 새 wiki 페이지 작성 / ingest | L27 (한국어 sidecar `<slug>.ko.md` 동시 생성 필수) |
 
 After completing any task:
 - Run `python tools/lint.py` (HIGH must be 0)
@@ -645,6 +646,18 @@ If yes, prefer updating existing pages and/or analysis rather than creating a ne
 | `mechanisms_used: [[X]]` on operation | `operations_using: [[op]]` on mechanism X |
 | `applied_in_cases: [[X]]` on concept | `key_legal_issues: [[concept]]` on case X |
 | `pages_updated: [[X]]` on source | `sources: [[source]]` on entity X |
+
+**Step 5b: Generate Korean sidecar** (`wiki/<category>/<slug>.ko.md`) — L27 (2026-05-18, iter 225)
+
+Every new operation/case/organization/country/legal-framework page must ship with a Korean translation sidecar in the same ingest commit. The sidecar is the Korean body content used by `render_bilingual()` in `web/app.py`; without it, the Korean toggle falls back to a sparse frontmatter-synthesized overview and the page reads as English-only to Korean users.
+
+How to generate:
+1. Run `python tools/translate_prompt.py <category> <slug>` to print a paste-ready translation prompt.
+2. Spawn a translation agent (or use the in-conversation Agent tool) with that prompt.
+3. The agent writes `wiki/<category>/<slug>.ko.md` — body only (no YAML frontmatter), starting at the first `## ...` heading.
+4. The agent must preserve every wikilink (`[[slug]]` / `[[slug|display]]`) exactly, preserve markdown structure (tables, blockquotes, callouts), and use canonical Korean legal-IC terminology: MLAT → 형사사법공조조약, extradition → 범죄인 인도, joint investigation → 합동수사, mutual legal assistance → 형사사법공조, dual criminality → 쌍방가벌성, etc.
+
+Sidecar parity rule: when the English page is updated (new facts, new sources, new sections), the `.ko.md` sidecar must be updated in the same commit. Stale sidecars drift just like stale translation caches did pre-L27 — never commit one without the other.
 
 **Step 6: Update Indexes** — category `_index.md` tables and `wiki/index.md`.
 

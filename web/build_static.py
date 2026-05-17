@@ -94,6 +94,11 @@ def build() -> None:
                 for md_file in cat_dir.glob("*.md"):
                     if md_file.name.startswith("_"):
                         continue
+                    # Skip Korean-translation sidecars (e.g. foo.ko.md);
+                    # they are consumed by render_bilingual(), not rendered
+                    # as their own page.
+                    if md_file.stem.endswith(".ko"):
+                        continue
                     try:
                         meta, _ = parse_page(md_file)
                     except Exception:
@@ -113,6 +118,8 @@ def build() -> None:
             slug = md_file.stem
             if slug.startswith("_"):
                 continue
+            if slug.endswith(".ko"):
+                continue
             _save(client, f"/wiki/{slug}", f"wiki/{slug}.html")
             routes_built += 1
 
@@ -130,6 +137,8 @@ def build() -> None:
     search_index = []
     for md_file in sorted(WIKI_DIR.rglob("*.md")):
         if md_file.name.startswith("_"):
+            continue
+        if md_file.stem.endswith(".ko"):
             continue
         try:
             meta, content = parse_page(md_file)
