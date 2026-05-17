@@ -90,6 +90,7 @@ sources:
   - "[[2026-04-28_ministeriopublico-gob-pa_pgn-aliados-por-la-infancia-vi]]"
 created: 2026-05-10
 updated: 2026-05-17
+last_enriched: 2026-05-17
 ---
 
 > [!info] Provisional page (two tier-1 primary sources)
@@ -102,6 +103,29 @@ updated: 2026-05-17
 The operation is anchored to a tripartite IC arrangement among the **U.S. Embassy in Argentina**, the **U.S. Department of Homeland Security ([[us-dhs|DHS]])**, and **MPF CABA / CIJ**, with detection driven by the **ICACCOPS** (Internet Crimes Against Children Child Online Protection System) platform — to which Argentina has access via an agreement with the National Criminal Justice Training Center at Fox Valley Technical College — and the **CPS** (Child Protection System) platform developed by Child Rescue Coalition. Inbound CSAM tips were drawn from **[[ncmec|NCMEC]] CyberTipline** reports.
 
 ## Background
+
+### Modus operandi
+
+The targeted offending pattern, as reflected in the MPF CABA primary release and the PGN Panamá release, centres on **production, distribution, possession, and facilitation of child sexual abuse material (CSAM) over the open internet — predominantly peer-to-peer (P2P) file-sharing networks**. Detection runs through two technical platforms that surveil P2P traffic for known CSAM hash-matched files:
+
+- **ICACCOPS** (Internet Crimes Against Children Child Online Protection System), a U.S.-hosted Fox Valley Technical College / National Criminal Justice Training Center–maintained database to which Argentine prosecutors hold an institutional access agreement; ICACCOPS continuously logs IP addresses sharing flagged CSAM files on Gnutella, eMule, BitTorrent, and similar P2P networks.
+- **CPS** (Child Protection System), a Child Rescue Coalition–developed peer-to-peer surveillance and attribution platform that produces investigator-actionable target lists by IP and jurisdiction.
+
+These detection feeds are supplemented by **[[ncmec|NCMEC]] CyberTipline reports** — inbound tips from U.S. platforms (electronic service providers obligated to report apparent CSAM under 18 U.S.C. § 2258A) — which the CIJ then triages and routes to the relevant national jurisdiction. The Panama leg additionally charges *posesión y distribución de material de abuso sexual infantil* under Panama Penal Code's "delitos contra la libertad e integridad sexual" chapter, and the MPF CABA release adds **grooming** (online sexual solicitation of minors) and **facilitation** as charged conduct categories. The action day pattern is synchronised search warrants at residential locations of identified subscribers, followed by on-site seizure of digital storage for forensic analysis by the CIJ.
+
+### Victim profile and impact
+
+Victims are **children depicted in the CSAM files in circulation**. Neither primary release publishes a verified victim count, victim identification statistics, or the number of children rescued from active abuse during the action day. The operation is **possession/distribution-focused rather than rescue-focused**: the 84 arrests are of CSAM consumers, distributors, producers, and facilitators identified by IP attribution from P2P surveillance, not of contact abusers identified by victim disclosure. The MPF CABA release does flag that abbreviated-trial paths (juicio abreviado) will be pursued where digital evidence is unambiguous, indicating that the prosecution posture is primarily conviction-on-possession rather than victim-rescue-led. Aggregate impact is best measured by **270 raids across 13 jurisdictions plus 84 detentions** as a demand-side disruption of CSAM circulation on P2P networks.
+
+### Financial flow
+
+No monetary exchange is alleged in the primary releases. The targeted offending — P2P sharing of CSAM, possession, and online solicitation — is **predominantly non-commercial peer-distribution rather than commercial CSAM marketplace operation**. Neither release identifies cryptocurrency seizures, payment-rail attribution, or any monetisation infrastructure. This distinguishes the operation from commercial CSAM marketplace takedowns (e.g., Welcome to Video, Darknet CSAM forum takedowns) where Bitcoin tracing and payment-rail forensics drive investigation. Gap: whether any of the 84 arrestees were also engaged in commercial CSAM distribution (subscription forums, paid private channels) is not addressed in the available primary sources.
+
+### Criminal organisation structure
+
+The targeted subject set is **not described as a single hierarchical organised crime group**. Rather, the 84 arrestees and 270 raid targets are characterised as **a population of individually operating CSAM possessors, distributors, producers, and facilitators identified by IP attribution from P2P surveillance feeds**. This is the canonical structure of large-scale CSAM enforcement sweeps: a loose population of independent offenders connected only by their shared use of common P2P networks and CSAM file collections, rather than by an articulated criminal hierarchy. The PGN Panamá release similarly treats the 7 Panama detainees as independent subjects rather than as members of a co-ordinated ring. The "Aliados por la Infancia" series, in its sixth iteration, has therefore developed as an **enforcement-population sweep model** rather than an OCG-decapitation model.
+
+### Series context
 
 "Aliados por la Infancia" is described in the MPF CABA release as a recurring proactive multilateral CSAM enforcement series conceived in Argentina to combat the production, distribution, and possession of online child sexual abuse material, with simultaneous procedural action across partner countries. Iteration VI is the largest published instance of the series: 270 raids, 84 arrests, and 13 active enforcement jurisdictions. Earlier iterations (I-V) are referenced on the same MPF CABA news index, with iteration V dated 26 August 2025.
 
@@ -215,6 +239,8 @@ No Korean involvement reported in the primary source. The operation is regionall
 - **Foreign agency identification**: foreign police / prosecutor partners who executed the 202 raids abroad are not named in the Argentine release; this is a gap that subsequent ingestion of foreign primary sources will close.
 - **Treaty / MLAT basis**: not stated. Whether MLA channels were used to formalise cross-border evidence transfer or whether the operation ran exclusively on informal/bilateral channels is unverified.
 - **Iteration lineage in the wiki**: prior iterations of Aliados por la Infancia (I-V) are not yet wiki operation pages. Iteration V (26 August 2025) is the most recent prior round and could be ingested separately to provide series context.
+- **L26 Background gap — victim count**: Neither primary release publishes a verified victim count, identified-child count, or rescued-child count from the action day. The operation is structured as a demand-side P2P-attribution sweep rather than a victim-rescue operation, but absence of an explicit "no children rescued" statement leaves the rescue dimension undocumented.
+- **L26 Background gap — commercial CSAM monetisation overlap**: Neither primary release addresses whether any of the 84 arrestees were also engaged in commercial / subscription-based CSAM distribution (paid forums, encrypted private channels). The operation is presented as targeting non-commercial P2P distribution, but the absence of cryptocurrency / payment-rail seizure data leaves the commercial-overlap question unverified.
 
 ## Source Coverage
 

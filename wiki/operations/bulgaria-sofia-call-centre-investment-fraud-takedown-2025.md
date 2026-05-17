@@ -78,7 +78,8 @@ source_count: 1
 sources:
   - "[[2025-12-12_bta-bg_sofia-call-centre-bulgaria-spain-guardia-civil-investment-fraud]]"
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-17
+last_enriched: 2026-05-17
 ---
 
 > [!info] Provisional / sparse-source page
@@ -95,6 +96,44 @@ Seizures included over 20 mobile phones, numerous SIM cards, 30+ USB flash drive
 The Bulgarian-side announcement does not publish an operation codename, suspect count, victim count, or total fraud-volume estimate. It does not connect this action to the broader Eurojust-coordinated 700-million-euro cryptocurrency-fraud takedown of October-November 2025, despite some surface-level similarity in modus operandi (call-centre social engineering against EU investment-fraud victims) — see Contradictions & Open Questions.
 
 ## Background
+
+### Modus operandi
+
+The targeted scheme, per the BTA-relayed SCPO account, is a **classic Bulgaria-hosted call-centre online investment-fraud (OIF) operation**, operating since **mid-2022**. The criminal pattern works as follows:
+
+- **Lead generation via fictitious investment websites**: Multiple Bulgarian-hosted websites, marketed to EU member-state nationals (predominantly via affiliate-marketing channels), advertise "high-return" trading in *regulated financial instruments* (forex, CFDs, equities, commodities, increasingly cryptoassets). The websites display fabricated trading interfaces, fake performance dashboards, and forged regulatory credentials to project legitimacy.
+- **Cold-call / boiler-room conversion**: Inbound leads from the websites are passed to call-centre agents in Sofia, who use **social-engineering scripts** (typical OIF "broker" / "account manager" / "senior trader" persona scripts) to walk victims through opening an account, making an initial small deposit, witnessing fabricated "winning trades" on the dashboard, then escalating to larger deposits.
+- **Cash-out denial and fee extortion**: When victims attempt to withdraw funds, agents introduce a cascade of fabricated obstacles — "compliance fees," "tax withholdings," "regulator authorisation charges," "broker bonuses requiring volume" — to extract additional payments before disappearing. This pattern is the canonical "online investment scam" / "boiler room fraud" modus operandi recognised by EU LE and identical in structure to the larger Eurojust-coordinated EUR 700M cryptocurrency-fraud network (see [[eurojust-600m-crypto-money-laundering-takedown-2025]]).
+
+The Sofia call-centres functioned as the **production floor** of the scheme; victim deposits flowed into Bulgarian or other EU-based payment-processor / e-money / shell-company rails before being converted partly into cryptoassets (evidenced by seizure of 5 hardware cryptocurrency wallets), partly into physical gold (17 investment gold bars seized), and partly into cash.
+
+### Victim profile and impact
+
+Victims are **EU member-state citizens** — the BTA report does not enumerate specific source jurisdictions. By analogy with the 2023 Bulgaria-Germany-Greece scams and the Eurojust 700M network, the typical victim demographic of Bulgaria-hosted OIF call-centre operations is **40-70-year-old EU residents responding to online advertising for high-return trading**, with per-victim losses in the range EUR 5,000-100,000+, occasionally far higher when fee-cascade extortion extracts retirement savings. **Neither a verified victim count nor a total-loss estimate is published** in the BTA report; both fields are recorded under `missing_fields`. The mid-2022 scheme start-date and the scale of seized infrastructure (20+ phones, 30+ USB drives, 5 hardware wallets, USD 230,000+ in one wallet alone) imply a victim base in at least the high-hundreds-to-thousands range, but this is not corroborated in the primary source and is **not asserted** here per L19.
+
+### Financial flow
+
+The seizure inventory itself maps the layering and integration stages of the scheme's value-extraction:
+
+- **Layering into cryptoassets**: 5 hardware cryptocurrency wallets seized; **one wallet alone held more than USD 230,000 in cryptoassets** at seizure time. Hardware wallets are the canonical OCG-grade tool for storing the cryptoasset-converted share of victim deposits offline, beyond exchange seizure reach.
+- **Layering into physical gold**: 17 investment gold bars, each valued at approximately BGN 7,000 (≈ EUR 3,575 each; aggregate ≈ BGN 119,000 / EUR 60,800). Investment gold is the canonical OCG-grade tool for non-bank, non-cryptoasset value storage with global liquidity.
+- **Operating cash float**: more than BGN 45,000 in cash seized (≈ EUR 23,000), consistent with a call-centre's working-capital and small-bribe / agent-cash-pay buffer.
+- **Operating infrastructure**: 20+ mobile phones (per-agent call equipment), numerous SIM cards (likely rotation for caller-ID spoofing and bypass of telecom anti-fraud blocking), 30+ USB drives (lead lists and victim CRM exports), personal computers and notebooks (CRM, dialler, dashboard-fabrication tooling), employee lists (call-centre payroll records).
+
+Notably, narcotics were also seized — atypical for a pure call-centre OIF operation and a possible indicator of overlapping OCG activity or in-house agent supply. The total fraud volume is **not stated** in the primary source.
+
+### Criminal organisation structure
+
+The OCG is described in the BTA-relayed SCPO account as a **multi-tier organised crime group composed of both Bulgarian and foreign nationals**, operating multiple Sofia call centres and multiple websites in parallel since mid-2022. The structure inferable from the seizure inventory and the multi-call-centre / multi-website setup is the canonical Bulgaria-hosted boiler-room OCG pattern:
+
+- **Foreign-national leadership / website operators** (often Israeli, Romanian, or Ukrainian nationals in comparable EU OIF networks) controlling the fictitious-investment websites, the affiliate-marketing lead flow, and the cryptoasset / gold layering.
+- **Bulgarian-national call-centre management** running the Sofia floor operations, handling employee recruitment, employee payroll, and shift rotation across the multiple call centres.
+- **Bulgarian-national agent layer** (the "brokers" / "account managers" / "senior traders") on the phones, working scripted social-engineering against the EU victim base.
+- **Local Bulgarian facilitators**: payment-processor / e-money / shell-company operators converting victim card payments into cryptoasset and gold reserves.
+
+**Specific suspect identities, suspect counts, and the foreign-national share of the OCG are not published** in the BTA report (consistent with the pre-charge SCPO procedural posture). The OCG-scale inference is therefore by analogy with comparable Bulgaria-hosted OIF takedowns rather than from the primary source.
+
+### Series context
 
 Bulgaria has a multi-year history of hosting call-centre-style investment-fraud operations targeting victims abroad — see prior takedowns referenced under [[bulgaria]] (online investment scams targeting Germany / Greece in 2023; the November 2025 Eurojust-coordinated 700M cryptocurrency-fraud network where Bulgaria participated in Phase 2 affiliate-marketing-infrastructure searches). The 2025-12-11 action represents a continued bilateral push with Spain — historically a frequent partner with Bulgaria in EU investment-fraud cases — through Spain's Guardia Civil rather than via the formal Eurojust/Europol coordination channel used in the parallel 700M operation.
 
@@ -178,3 +217,12 @@ None. There is no Korean involvement reported. Korean readers may note that the 
 
 > [!info] Open question — suspect and victim counts
 > BTA reports neither suspect counts nor victim counts. The Sofia City Prosecutor's Office may release this information at a later procedural stage (formal charges or remand hearings).
+
+> [!info] L26 Background gap — victim count and total loss
+> Neither a verified victim count nor a total-loss estimate is published in the BTA-relayed SCPO announcement. By analogy with the contemporaneous Eurojust 700M cryptocurrency-fraud takedown and prior Bulgaria-hosted OIF cases, a victim base in the high-hundreds-to-thousands and per-victim losses of EUR 5,000-100,000+ are *likely* (medium confidence), but neither is asserted on the page until a Spanish Guardia Civil release or follow-on SCPO formal-charge filing publishes the figures.
+
+> [!info] L26 Background gap — OCG nationality composition
+> The OCG is described as composed of "both Bulgarian and foreign nationals" but neither the foreign nationalities nor the leadership-versus-floor-agent split is enumerated in the primary source. Inferences in the Background section are by analogy with comparable Bulgaria-hosted OIF takedowns rather than from the primary source.
+
+> [!info] L26 Background gap — narcotics-seizure context
+> Narcotics were seized at the Sofia call-centre but no quantity, drug type, or relationship to the OIF scheme (in-house agent supply vs. overlapping OCG drug-trafficking sideline vs. unrelated tenant activity) is given. This is atypical for a pure boiler-room operation and warrants follow-on clarification.
