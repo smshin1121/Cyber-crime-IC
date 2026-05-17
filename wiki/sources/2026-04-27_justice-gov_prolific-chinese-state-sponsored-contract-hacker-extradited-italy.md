@@ -13,6 +13,7 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - "[[us-v-xu-zewei-hafnium-extradited-italy]]"
+  - "[[italy-china-us-hafnium-hacker-extradition-2026]]"
   - "[[united-states]]"
   - "[[italy]]"
   - "[[china]]"

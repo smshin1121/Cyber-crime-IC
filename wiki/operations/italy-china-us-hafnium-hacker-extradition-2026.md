@@ -89,14 +89,15 @@ challenges_encountered:
 lessons_learned:
   - "First wiki record of an Italy → US extradition of a PRC state-sponsored cyber actor sourced from the **Italian primary side** (Polizia di Stato press release) — confirms partner-state agency-chain detail (Polizia Postale + Polaria di Malpensa + Servizio per la Cooperazione Internazionale di Polizia + Corte d'Appello di Milano + Ministro della giustizia) that the US DOJ release summarises only as 'Italian National Police — Cyber Division'."
   - "Schengen-region airport interception pattern: suspect transit through Malpensa intercepted by border police acting on FBI-shared targeting intelligence; analogous to other Schengen-region apprehensions of state-affiliated cyber actors logged in the wiki."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]]"
+  - "[[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]]"
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 > [!info] Provisional / sparse-source page
-> This page is built from a **single tier-1 primary source** (Polizia di Stato / Polizia Postale press release, 2026-04-27). The corresponding US-side primary source ([[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]]) is *not* counted toward this operation page's source count because it is already exhaustively summarised in the related case page [[us-v-xu-zewei-hafnium-extradited-italy]]. This operation page exists to document the **Italian-partner-state operational angle** (the extradition execution + chain-of-Italian-agencies) which the case page (US prosecution angle) does not fully capture. Treat all numeric/temporal claims as provisional pending a second independent primary source from the Italian side (e.g., a future ANSA wire reproducing official statements, or a Ministero della Giustizia release).
+> This page is now built from **two tier-1 own-domain primary sources**: (1) the Italian Polizia di Stato / Polizia Postale press release on the extradition execution and Italian-agency chain (commissariatodips.it, 2026-04-27), and (2) the US DOJ Office of Public Affairs press release on the same-date extradition handover and US-side prosecution posture (justice.gov, 2026-04-27). The DOJ release was previously cross-referenced via the related case page [[us-v-xu-zewei-hafnium-extradited-italy]] but is now counted directly toward this operation page's `source_count` because it independently substantiates the Italy↔US LE cooperation that defines the operation (Polizia Postale ↔ FBI partnership leading to the Milan arrest, plus DOJ OIA ↔ Servizio per la Cooperazione Internazionale di Polizia handover) — a relationship that the Italian release narrates from the Italian side and the DOJ release narrates from the US side.
 
 ## Summary
 
@@ -182,8 +183,8 @@ The extradition is *almost certainly* (>95%) the **first publicly recorded Italy
 ## Cooperation Mechanisms Used
 
 - **Bilateral extradition treaty** (US-Italy, 1983/1984) — the legal backbone of the handover; not a wiki entity yet.
-- **Informal pre-extradition operational cooperation** — the Italian release explicitly characterises a "lunga collaborazione operativa tra FBI e gli investigatori della polizia italiana", *highly likely* (80–95%) to include FBI targeting intelligence shared with Italian investigators in advance of the July 2025 Malpensa interception.
-- **[[extradition|Extradition]]** as a formal mechanism — the Italian release names the full Italian-side chain (Corte d'Appello di Milano + Ministro della giustizia + Servizio per la Cooperazione Internazionale di Polizia).
+- **Informal pre-extradition operational cooperation** — the Italian release explicitly characterises a "lunga collaborazione operativa tra FBI e gli investigatori della polizia italiana", *highly likely* (80–95%) to include FBI targeting intelligence shared with Italian investigators in advance of the July 2025 Malpensa interception. The DOJ release independently corroborates this from the US side: FBI Cyber Division Assistant Director Brett Leatherman stated that **"The FBI thanks our Italian law enforcement colleagues, especially the Polizia Postale, whose partnership led to Xu's arrest in Milan and his extradition to the United States."** (US DOJ OPA, 2026-04-27 — L24 ≥2-LE quote).
+- **[[extradition|Extradition]]** as a formal mechanism — the Italian release names the full Italian-side chain (Corte d'Appello di Milano + Ministro della giustizia + Servizio per la Cooperazione Internazionale di Polizia); the DOJ release names the US-side counterpart channel as the **DOJ Office of International Affairs**, which "secured the arrest and extradition from Italy of Xu."
 
 ## Challenges and Friction Points
 
@@ -217,3 +218,4 @@ South Korea is not named in the Italian release as a victim, source, or cooperat
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | [[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti\|LA POLIZIA DI STATO ESEGUE L'ESTRADIZIONE DI UN PERICOLOSO HACKER CINESE]] | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | 2026-04-27 | https://www.commissariatodips.it/notizie/articolo/la-polizia-di-stato-esegue-lestradizione-di-un-pericoloso-hacker-cinese/index.html |
+| [2] | [[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy\|Prolific Chinese State-Sponsored Contract Hacker Extradited from Italy]] | US Department of Justice — Office of Public Affairs (Press Release 26-404) | 2026-04-27 | https://www.justice.gov/opa/pr/prolific-chinese-state-sponsored-contract-hacker-extradited-italy |

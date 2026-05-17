@@ -1,5 +1,16 @@
 # Activity Log
 
+## [2026-05-17] CONTENT-ENRICHMENT [iter 192, single-agent, L23+L24+L25 strict] | Italy–US HAFNIUM Xu Zewei extradition — 2nd tier-1 source via US DOJ OPA
+- Target op: `wiki/operations/italy-china-us-hafnium-hacker-extradition-2026.md` (source_count 1 -> 2).
+- 1st publisher (already on page): Polizia di Stato — Servizio Polizia Postale (commissariatodips.it, 2026-04-27).
+- 2nd publisher (newly counted): US Department of Justice — Office of Public Affairs (Press Release 26-404), 2026-04-27 — https://www.justice.gov/opa/pr/prolific-chinese-state-sponsored-contract-hacker-extradited-italy (justice.gov own-domain; L25 strict-compliant).
+- Fetch: curl_cffi chrome124 (200 OK, 97 KB body; Akamai L21 session pattern not required this session — single-shot success).
+- L24 verbatim cooperation quote (FBI Cyber Division Assistant Director Brett Leatherman, DOJ OPA): "The FBI thanks our Italian law enforcement colleagues, especially the Polizia Postale, whose partnership led to Xu's arrest in Milan and his extradition to the United States."
+- Pages updated: op page (source_count 1->2, DOJ ref [2] added to References, L24 quote added to Cooperation Mechanisms, callout downgraded from single-source to two-source, `updated:` bumped to 2026-05-17); DOJ source page (`pages_updated` now includes the op page for bidirectional linking).
+- Raw + source pages: NOT new — both pre-existed from prior 2026-05-09 ingest. iter 192 work was purely counting + cross-linking the existing DOJ release as a second tier-1 own-domain substantiator of the operation page (as opposed to the case page where it was already counted).
+- L23 wikilink-or-empty: lead_agency=`[[polizia-di-stato]]`, coordinating_body=`""` — unchanged, compliant.
+- L24 ≥2-LE cooperation: Polizia di Stato (Polizia Postale cyber unit + Polaria di Malpensa border police + Servizio per la Cooperazione Internazionale di Polizia) ↔ FBI (Cyber Division + Houston Field Office) + DOJ OIA. Both 1st and 2nd source describe the same cooperation pair from opposite sides.
+
 ## [2026-05-17] CONTENT-ENRICHMENT + milestone push [iter 190, single-agent, L23+L24+L25 strict] | 16shop PaaS Takedown 2023 — 2nd tier-1 source via ANTARA state news wire
 - Source: `raw/press-releases/2023-08-08_antara_16shop-bareskrim-japanese-embassy-police-credit-card-hacking.md` (antarafoto.com Indonesian state news wire; en).
 - Pages created: `wiki/sources/2023-08-08_antara_16shop-bareskrim-japanese-embassy-police-credit-card-hacking.md`, op updated.
