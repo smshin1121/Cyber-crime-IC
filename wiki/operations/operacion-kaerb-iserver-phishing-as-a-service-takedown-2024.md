@@ -115,11 +115,12 @@ lessons_learned:
   - "The PAcCTO 2.0 programme (Programa de Asistencia Contra el Crimen Transnacional Organizado, EU-funded) is named in the release as a coordination conduit alongside EUROPOL and AMERIPOL — a tri-modal architecture in which the EU-side coordination (EUROPOL) and the Latin American policing community (AMERIPOL) are bridged by an EU-funded technical-assistance instrument (PAcCTO 2.0). This is a documented worked example of how the Latin American leg of multinational cybercrime takedowns can be wired through PAcCTO."
   - "Public-private intelligence partnership: Group-IB is named as a private-sector contributor whose collaborative input the release describes as 'invaluable'. The operation is consistent with the Group-IB-aided EUROPOL-coordinated public-private template visible in earlier ingested operations such as [[carding-action-2020]]."
   - "Stolen-phone phishing-as-a-service: this operation documents a niche cybercrime supply chain in which a single SaaS administrator served 2,000+ downstream offenders (\"desbloqueadores\") who phished credentials needed to unlock stolen high-end devices. The Spanish-language descriptive vocabulary ('desbloqueador') for this niche subscriber role does not have a direct English-language counterpart in mainstream cybercrime literature."
-source_count: 1
+source_count: 2
 sources:
   - "[[2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown]]"
+  - "[[2024-09-19_fiscalia-gob-ec_operacion-kaerb-iserver-cibercrimen-desarticulada]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 > [!info] Provisional / single-source page
 > This page is below the preferred `source_count >= 5` publication threshold. It is retained as a tier-1 primary-source operation page because the Argentine Ministry of Security / Policía Federal Argentina issued an institutionally signed press release on `argentina.gob.ar` naming all six participating jurisdictions, the platform, the coordination architecture (EUROPOL, AMERIPOL, PAcCTO 2.0, Group-IB), aggregate enforcement totals, and per-country victim counts. Eurojust/Europol English-language coverage and Group-IB's PRNewswire release in the same news cycle independently corroborate headline figures (17 arrests, 28 searches, 921 devices, six countries, 483,000 victims). Those secondary sources should be folded in when next ingested, and the page should be promoted out of provisional status at that point.
