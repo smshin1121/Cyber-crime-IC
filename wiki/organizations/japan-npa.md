@@ -41,13 +41,14 @@ operations_participated:
   - "[[tradertraitor-dmm-bitcoin-cryptocurrency-theft-joint-attribution-2024]]"
 org_type: national-agency
 parent_org: "[[japan-npa-headquarters]]"
-source_count: 11
+source_count: 12
 sources:
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
   - "[[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers]]"
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
   - "[[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]]"
+  - "[[2024-12-24_fbi-gov_fbi-dc3-npa-tradertraitor-dmm-bitcoin-308m-attribution]]"
 status: active
 title: "Japan National Police Agency — Cyber Affairs Bureau"
 type: organization
@@ -144,3 +145,4 @@ Japan's cybercrime international cooperation capacity is *likely* growing rapidl
 | [9] | [[2025-08-27_state-gov_us-rok-japan-joint-statement-dprk-it-workers\|US Dept of State — U.S.-ROK-Japan Joint Statement on DPRK Information Technology Workers (2025-08-27)]] | U.S. Department of State (Office of the Spokesperson) | 2025-08-27 | https://www.state.gov/releases/office-of-the-spokesperson/2025/08/u-s-rok-japan-joint-statement-on-dprk-information-technology-workers |
 | [10] | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop\|Europol — Ragnar Locker ransomware gang takedown international police swoop (11-country LE cooperation; FR-led)]] | Europol | 2023-10-20 | https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop |
 | [11] | [[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution\|NPA Japan + FBI + DC3 — Joint attribution of DMM Bitcoin USD 308M / 4,502.9 BTC theft to TraderTraitor (DPRK-Lazarus sub-cluster)]] | NPA Japan Cyber Affairs Bureau | 2024-12-24 | https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html |
+| [12] | [[2024-12-24_fbi-gov_fbi-dc3-npa-tradertraitor-dmm-bitcoin-308m-attribution\|FBI + DC3 + NPA — US-side own-domain anchor of the joint TraderTraitor / DMM Bitcoin USD 308M attribution]] | Federal Bureau of Investigation (FBI) — National Press Office | 2024-12-24 | https://www.fbi.gov/news/press-releases/fbi-dc3-and-npa-identification-of-north-korean-cyber-actors-tracked-as-tradertraitor-responsible-for-theft-of-308-million-from-bitcoindmmcom |

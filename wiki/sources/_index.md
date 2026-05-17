@@ -356,6 +356,7 @@ updated: 2026-05-17
 | [[2025-01-03_treasury_sanctions-integrity-technology-group-flax-typhoon]] | press-release | U.S. Department of the Treasury — Office of Foreign Assets Control (OFAC) | ? | high | ? |
 | [[2025-01-01_en-wikipedia-org_silk-road-marketplace]] | press-release | Wikipedia | ? | medium | ? |
 | [[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]] | press-release | National Police Agency of Japan (警察庁) — Cyber Affairs Bureau | ? | high | ? |
+| [[2024-12-24_fbi-gov_fbi-dc3-npa-tradertraitor-dmm-bitcoin-308m-attribution]] | press-release | Federal Bureau of Investigation (FBI) — National Press Office | 1 | high | confirmed |
 | [[2024-12-19_politie-nl_27-jarige-man-aangehouden-voor-phishing]] | press-release | Dutch National Police | 1 | high | ? |
 | [[2024-12-18_doj-wdtx_ukrainian-national-sentenced-raccoon-infostealer]] | press-release | US Attorney's Office, Western District of Texas (USAO-WDTX) | ? | high | ? |
 | [[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]] | news | Bitdefender | 3 | medium | ? |

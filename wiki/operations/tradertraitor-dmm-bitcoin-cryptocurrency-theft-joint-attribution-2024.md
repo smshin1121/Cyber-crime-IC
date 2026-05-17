@@ -73,9 +73,10 @@ lessons_learned:
   - "Joint multi-government public attribution of a state-affiliated cyber actor is itself an IC instrument — typically deployed 6-12 months after incident to combine evidence sharing, joint forensic analysis, and political concurrence."
   - "Supply-chain compromise pathways (wallet-software vendor employee → exchange) are the dominant vector for large-scale DPRK crypto-theft; attribution must trace the full chain back to the recruiting-platform lure."
   - "NPA Japan + US FBI + US DoD Cyber Crime Center (DC3) tri-party attribution shows operational US-Japan cyber cooperation extends beyond diplomacy-level to joint technical attribution."
-source_count: 1
+source_count: 2
 sources:
   - "[[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]]"
+  - "[[2024-12-24_fbi-gov_fbi-dc3-npa-tradertraitor-dmm-bitcoin-308m-attribution]]"
 created: 2026-05-17
 updated: 2026-05-17
 ---
