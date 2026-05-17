@@ -72,11 +72,12 @@ lessons_learned:
   - "Embedded FBI personnel inside a host-nation cyber war-room task force (Royal Thai Police, Bangkok) is now an operational model for sustained pursuit of Southeast Asian scam compounds, not a one-off liaison visit."
   - "Domain seizure is a credible disruption lever even against compounds physically located in jurisdictions where US LE has no direct enforcement reach: the US-registry / US-infrastructure nexus is enough for Strike Force action."
   - "Public-private co-action (Google, Apple, Meta) is treated as an explicit Strike Force workstream, not just a downstream notification."
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]]"
+  - "[[2025-12-02_justice-gov-usao-dc-scam-center-strike-force-tickmilleas-seizure]]"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 > [!info] Provisional page
