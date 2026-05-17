@@ -78,7 +78,7 @@ source_count: 1
 sources:
   - "[[2024-10-29_eurojust-europa-eu_operation-magnus-redline-meta-infostealer-takedown]]"
 created: 2026-05-09
-updated: 2026-05-16
+updated: 2026-05-17
 last_verified: 2026-05-09
 ---
 > [!info] Provisional page
@@ -92,7 +92,23 @@ It is *almost certain* (>95% confidence, single tier-1 primary source plus open 
 
 ## Background
 
-RedLine and META are infostealer malware families operated as **malware-as-a-service** — criminal customers paid to use the infrastructure to deploy the stealer against victims and harvest credentials. Per the Eurojust release, the malware exfiltrated saved usernames and passwords, automatically saved form data (addresses, email addresses, phone numbers), cryptocurrency wallet contents, and browser cookies. Eurojust characterizes the victim scale as "millions" worldwide.
+### Modus operandi
+
+RedLine and META are commodity **infostealer** (information-stealing) malware families operated under a **malware-as-a-service (MaaS)** model. Criminal customers ("affiliates" or "clients") paid a subscription or one-time fee to operate their own panel-controlled instances of the stealer, delivered to victim endpoints via the usual social-engineering vectors: malicious links and attachments in phishing emails, malicious advertising ("malvertising") on search-engine result pages and software-download portals, trojanised "cracked" software bundles, fake browser updates and game-cheat installers, and YouTube comment-section lures pointing to malicious archives. Once executed on a Windows host, the stealer harvests sensitive material from the local environment and exfiltrates it to operator-controlled command-and-control (C2) servers. Per the Eurojust release, the data categories collected include saved usernames and passwords from browser credential stores, automatically saved form data (postal addresses, email addresses, phone numbers), **cryptocurrency-wallet contents** (including locally stored seed-phrase/private-key files for popular wallet software and browser-extension wallets), and **browser cookies** — including authentication-session cookies that allow attackers to bypass multi-factor authentication on already-authenticated accounts.
+
+### Victim profile and impact
+
+Eurojust characterised the victim scale as **"millions" worldwide**. The infection footprint is global and indiscriminate at the endpoint level — anyone running an unpatched Windows host who clicks a malicious lure can be infected — but the *exploitation* of stolen data concentrates downstream against (a) holders of cryptocurrency wallets (drained directly), (b) consumers and small-business operators whose stolen passwords are resold on underground markets for account-takeover, and (c) corporate users whose stolen session cookies provide initial-access brokers a route into enterprise SaaS, RDP, and VPN environments that are subsequently sold on to ransomware affiliates. Infected/operating servers mapped during the investigation exceeded **1,200** across **dozens of countries**, indicating that the customer base — and therefore the downstream victim exposure — spanned multiple regions and threat-actor segments simultaneously.
+
+### Financial flow
+
+The MaaS subscription model concentrates revenue at the operator/developer layer: customers pay the platform (Maxim Rudometov in the case of RedLine, per the unsealed US indictment) for access to the panel and updates, and customers monetise stolen logs themselves through downstream channels — direct cryptocurrency theft from drained wallets, account-takeover-as-a-service offerings on dark-web markets, and bulk sale of "logs" (zip archives of harvested credential + cookie + wallet data per infected host) on marketplaces such as Russian Market and Genesis Market (the latter dismantled in 2023 in [[operation-cookie-monster]]). The Eurojust release does not enumerate specific dollar figures for revenue captured during the investigation; the retrieved **client database** from the RedLine and META platforms is the primary evidentiary artefact for downstream follow-on actions against subscribers in non-listed jurisdictions worldwide.
+
+### Criminal organisation structure
+
+The RedLine/META operation displays the canonical **MaaS three-tier structure**: (1) a small developer/administrator core (the US indictment names a single named principal, Maxim Rudometov, for RedLine; META operator(s) not publicly named in the Eurojust release), responsible for code maintenance, infrastructure upkeep, panel/control software, and customer support; (2) a paying **customer/affiliate** layer that purchases access and runs their own campaigns; (3) a downstream **buyer-of-logs** layer on underground markets that consumes the output of the affiliate layer. The investigation entered via the **infrastructure layer** (Dutch-hosted C2 servers) and pivoted to the developer layer (Rudometov indictment) via the recovered client database — which also serves as the lead artefact for any future expansion of the action against the customer/affiliate layer in non-listed jurisdictions.
+
+### Investigation seed
 
 The investigation began after victims came forward and an unnamed private-sector security company notified authorities about possible RedLine/META servers hosted in the Netherlands. Investigators subsequently mapped over 1,200 infected/operating servers across dozens of countries — the scope that justified the multi-jurisdictional coordination.
 
@@ -186,3 +202,5 @@ The Eurojust press release does not name South Korea among the participating jur
 - **Statutory citations**: The Eurojust release does not enumerate the US statutes or treaty articles invoked. Pending DOJ unsealed-indictment ingestion.
 - **Identity of the private-sector tip-source**: Eurojust's release does not name the security company that initially flagged Dutch-hosted RedLine/META servers; companion press indicates ESET supplied the post-takedown victim scanner, but pre-takedown attribution is unconfirmed.
 - **Belgium-arrest identities**: The Eurojust release does not name the two suspects taken into custody in Belgium nor specify whether they are RedLine operators, META operators, or customers.
+- **L26 gap — financial-flow specifics**: The Eurojust release does not enumerate the subscription pricing, revenue captured, or aggregate cryptocurrency drained via downstream wallet theft. Background's "Financial flow" subsection describes the canonical MaaS revenue model qualitatively; quantitative figures await the unsealed US indictment text and any forfeiture pleadings.
+- **L26 gap — META developer/administrator identity**: The Eurojust release names only Maxim Rudometov (for RedLine) on the developer/administrator layer. The named principal(s) behind META are not publicly disclosed in the cited source; Background's "Criminal organisation structure" subsection therefore identifies the operator layer for META as not publicly named in the present source.

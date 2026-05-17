@@ -100,7 +100,7 @@ sources:
   - "[[2024-05-07_justice-gov-dnj_us-charges-russian-national-developing-operating-lockbit-ransomware]]"
 summary: "On 2024-05-07 the US Justice Department (District of New Jersey) unsealed a 26-count indictment against Dmitry Yuryevich Khoroshev (a.k.a. LockBitSupp) — the alleged developer and administrator of LockBit since September 2019. Concurrently, the US Treasury (OFAC) sanctioned Khoroshev, the US State Department offered a USD 10 million reward, and parallel sanctions actions were taken by the UK Office of Financial Sanctions Implementation (OFSI) and Australia's Department of Foreign Affairs and Trade (DFAT). LockBit is described in the indictment as having attacked over 2,500 victims in at least 120 countries (1,800 in the US), with USD 500 million+ in ransom proceeds and Khoroshev personally receiving at least USD 100 million through his 20% developer share."
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -110,7 +110,92 @@ This wave is the named-suspect attribution and prosecution layer of the multi-ph
 
 ## Background
 
-LockBit operated under the ransomware-as-a-service (RaaS) model, with Khoroshev allegedly designing and maintaining the LockBit ransomware code, recruiting affiliates to deploy it, and operating the infrastructure including a control panel for affiliates and a public-facing data leak site. According to the indictment, Khoroshev typically received a 20% developer share of each ransom payment, with the responsible affiliate receiving the remaining 80%. During the scheme, Khoroshev alone allegedly received at least USD 100 million in cryptocurrency disbursements through his developer shares of LockBit ransom payments. LockBit attacked more than 2,500 victims in at least 120 countries — including 1,800 victims in the United States — with at least USD 500 million in ransom proceeds and billions of dollars in broader losses to victims spanning hospitals, schools, critical infrastructure, multinational corporations, small businesses, and government and law-enforcement agencies.
+### Modus operandi
+
+LockBit operated under the **ransomware-as-a-service (RaaS)** model. Per the
+unsealed DOJ DNJ indictment and prior DOJ/NCA filings, the LockBit
+intrusion chain followed the canonical "human-operated ransomware" pattern:
+(1) **initial access** obtained either by affiliates directly (via phishing,
+RDP brute-force, exploitation of vulnerable internet-facing services, or
+purchase from initial-access brokers feeding off [[operation-magnus-redline-meta-stealer-takedown-2024|infostealer-harvested credentials]]); (2) **internal
+reconnaissance and lateral movement** within the victim network using
+off-the-shelf and custom tooling; (3) **privilege escalation** to domain
+administrator; (4) **defence-evasion** and disabling of endpoint protection,
+backup systems, and shadow copies; (5) **double-extortion staging** —
+exfiltration of victim data to attacker-controlled storage before encryption,
+to support the "name and shame" data-leak-site (DLS) extortion layer; and
+(6) **encryption deployment** of the LockBit locker payload (LockBit 1.0 →
+LockBit 2.0 → LockBit 3.0/Black → LockBit Green generations, per public
+threat-intelligence reporting). Victims received a ransom note pointing to a
+Tor-hosted negotiation portal, with the parallel threat that exfiltrated data
+would be published on the LockBit DLS if the demand was not met. Khoroshev,
+as alleged developer/administrator, maintained the locker codebase, the
+affiliate control panel, the DLS, and the negotiation infrastructure.
+
+### Victim profile and impact
+
+The DOJ DNJ indictment characterises the LockBit victim cohort as
+**more than 2,500 victims in at least 120 countries, including
+approximately 1,800 victims in the United States**, with victim verticals
+spanning **hospitals, schools, critical infrastructure, multinational
+corporations, small businesses, and government and law-enforcement
+agencies**. The healthcare and education exposures translated into
+operational impacts on patient care, scheduled clinical procedures,
+school-system data, and municipal-service continuity; the critical-
+infrastructure exposures included multiple incidents on industrial-control
+and public-utility operators. Aggregate ransom proceeds extracted from
+victims are stated at **at least USD 500 million**, with **billions of
+dollars in broader losses** (downtime, remediation, regulatory exposure,
+data-leak harm to natural-person data subjects swept up in exfiltrated
+corporate datasets) attributable to LockBit attacks. The 1,800 US-victim
+floor and the 120-country footprint make LockBit, on the indictment's own
+figures, the largest single-RaaS-brand victim base publicly documented by
+US prosecutors as of 2024-05-07.
+
+### Financial flow
+
+The LockBit revenue model rested on a **20/80 split**: per the indictment,
+**Khoroshev typically received a 20 percent developer share of each ransom
+payment**, with the responsible **affiliate receiving the remaining 80
+percent**. Victim payments were demanded and settled in cryptocurrency
+(predominantly Bitcoin, with some affiliates accepting other tokens at the
+negotiation stage). On Khoroshev's 20-percent slice alone, the indictment
+alleges he personally received **at least USD 100 million in cryptocurrency
+disbursements** through his developer shares — implying an affiliate-side
+aggregate proceeds figure several-fold larger and consistent with the
+"USD 500 million-plus" group-level ransom-proceeds figure. After
+disbursement, proceeds flowed through standard ransomware-laundering
+pipelines (mixers, chain-hopping across multiple cryptocurrency tokens,
+nested exchange accounts on lower-KYC venues, and conversion to fiat through
+high-risk over-the-counter brokers). The concurrent **OFAC sanctions
+designation**, **UK OFSI sanctions**, and **Australia DFAT sanctions**
+specifically target the laundering and cash-out leg by freezing
+US/UK/Australia-touching financial-system assets attributed to Khoroshev and
+prohibiting US/UK/Australian persons from transacting with him under
+penalty of secondary sanctions.
+
+### Criminal organisation structure
+
+LockBit displays the canonical **RaaS three-layer structure**: (1) a small
+core **developer/administrator** team — the DOJ DNJ indictment attributes
+that role to Khoroshev as the principal developer/administrator from
+September 2019 through May 2024, with the broader Cronos operation
+identifying additional charged co-conspirators tracked in
+[[operation-cronos-phase1]] and [[operation-cronos-phase3]]; (2) an
+**affiliate** layer composed of recruited operators who pay (or are revenue-
+shared with) the core to access the locker, the panel, the DLS, and the
+negotiation infrastructure, and who in practice run the intrusion campaigns
+end-to-end against named victims; and (3) an **initial-access-broker / IAB**
+upstream layer that supplies affiliates with pre-compromised credentials and
+foothold access. Public reporting and the Phase 1/Phase 3 Cronos artefacts
+identify multiple charged affiliates of various nationalities — including
+Russian, Belarusian-Canadian, and dual-national defendants — and at least
+two affiliates were in custody awaiting trial as of the 2024-05-07 Phase 2
+announcement. The cooperation/recruitment perimeter alleged in the
+indictment spans the Russian Federation (Khoroshev's residence) and other
+jurisdictions where affiliates lived or operated; the indictment does not
+assert any *state-sponsored* role and is structured around an organised-
+criminal-group framing.
 
 ## Participating Parties
 
@@ -152,6 +237,8 @@ South Korea is not named in the cited tier-1 DOJ DNJ release among the cooperati
 - Khoroshev was, as of the 2024-05-07 announcement, at large in Russia; the indictment is one of the rare US ransomware indictments that names a Russian-national administrator, but Khoroshev's apprehension would require his exit from Russian protection.
 - The cited DOJ DNJ release names "five other LockBit affiliates" previously charged, with "two in custody awaiting trial". Their identity, charges, and case progressions are tracked in separate wiki records and case pages where available.
 - Treasury OFAC and State Department reward documents are referenced through the DOJ DNJ release; standalone source pages for those documents may be added separately when their independent fact content (sanctions text, reward terms) is materially distinct from the DOJ DNJ release.
+- **L26 gap — laundering-chain specifics:** the DOJ DNJ release describes the 20/80 split and Khoroshev's USD 100 million-plus personal proceeds but does not enumerate the specific cryptocurrency mixers, OTC brokers, nested exchange accounts, or cash-out venues used by Khoroshev or the affiliate layer. Background's "Financial flow" subsection therefore describes the laundering pipeline qualitatively; quantitative chain-analysis figures await OFAC sanctions-designation supporting material and any subsequent forfeiture pleadings.
+- **L26 gap — per-victim/per-vertical impact breakdown:** the indictment supplies aggregate figures (2,500+ victims, 120+ countries, 1,800 US, USD 500M+ proceeds) but does not publish a per-vertical or per-country victim-impact breakdown. Background's "Victim profile and impact" subsection reflects the named verticals (healthcare, education, critical infrastructure, MNCs, SMBs, government and LE) from the indictment's narrative without quantitative disaggregation.
 
 ## References
 
