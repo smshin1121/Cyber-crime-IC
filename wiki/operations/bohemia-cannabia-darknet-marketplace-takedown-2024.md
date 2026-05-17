@@ -99,7 +99,7 @@ source_count: 1
 sources:
   - "[[2024-10-08_politie_bohemia-cannabia-darknet-marketplace-takedown]]"
 created: 2026-05-09
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 # Bohemia / Cannabia Darknet Marketplace Takedown (2024)
 
@@ -111,7 +111,31 @@ The case is *almost certainly* the highest-grossing darknet-marketplace investig
 
 ## Background
 
-Bohemia and its sister market Cannabia operated as a dual storefront under common administration. Tier-1 reporting indicates Dutch investigators opened the case towards the end of 2022 and continued working it after the operators took the markets offline at the end of 2023, despite the operators' apparent attempt to exit-scam users. The administrators were identified during the latter half of the investigation, leading to coordinated arrests in mid-2024.
+### Modus operandi
+Bohemia and its sister market Cannabia operated as a dual-storefront Tor-hidden-service darknet marketplace under common administration, structured along the conventional escrow-mediated model used by Hansa, AlphaBay and similar predecessors. Vendors paid listing fees to advertise illicit goods and services; buyers placed orders using cryptocurrency (predominantly Bitcoin) held in marketplace-controlled escrow wallets, with the administrators taking a commission on each completed transaction. The product mix was *not* drugs-only: alongside narcotics listings, the platform hosted active **cybercrime-as-a-service** advertisements including **malware** and **DDoS-for-hire** (booter/stresser) services — placing Bohemia in the hybrid drug-plus-cybercrime category rather than the drug-pure-marketplace category. Operationally the market grew steadily across 2022–2023, peaking at approximately **82,000 advertisements per day worldwide** and **~67,000 completed transactions per month** before the operators executed an apparent **exit scam** at the end of 2023, taking the marketplace offline with user balances reportedly unreturned (high confidence; figures per Politie statement).
+
+### Victim profile and impact
+Bohemia's harm footprint is unusual among darknet-marketplace cases because the marketplace itself is *primarily* a facilitator of downstream crimes (drug distribution, DDoS attacks, malware deployment) rather than a direct-loss-to-victim platform. Direct losses fall in two distinct buckets:
+- **Marketplace users defrauded by the exit scam** at end-2023 — buyers and vendors whose cryptocurrency held in marketplace escrow at the moment of shutdown was retained by the administrators. The Politie statement quantifies administrator earnings at approximately **EUR 5 million** prior to exit, of which an unknown portion derives from the final-balance seizure rather than ordinary commissions.
+- **Downstream end-victims of products sold via the platform** — drug-overdose risk (not quantified in the release), DDoS targets (not enumerated), and malware-infected end-users (not enumerated). Of the seller base, **at least 14,000 transactions worth approximately EUR 1.7 million** are attributed to vendors shipping from the Netherlands, indicating a substantial Dutch domestic-distribution footprint.
+
+> [!note] Victim notification status
+> The Politie release does not report a victim-notification programme of the kind used in some ransomware decryption operations. Marketplace-user victims of the exit scam are *unlikely* to receive direct restitution from seized cryptocurrency given the absence of KYC records on most marketplace registrations.
+
+### Financial flow
+- **Inflows**: buyer cryptocurrency (predominantly BTC) into per-order escrow addresses controlled by the marketplace infrastructure. Marketplace commission accrued to administrator-controlled wallets.
+- **Outflows pre-exit**: vendor pay-outs upon order completion (escrow release), minus commission.
+- **Outflows post-exit (December 2023)**: administrator-controlled wallets retained accumulated commissions plus seized escrow balances. Approximately **EUR 5 million** of administrator profit is attributed to the operation overall by Politie.
+- **Peak monthly turnover**: **EUR 12 million in September 2023** — the highest single-month figure ever recorded by Dutch police on a darknet marketplace.
+- **Seizure**: combined **> EUR 8 million** in cryptocurrency recovered across the two administrator arrests, including Bitcoin wallet access keys physically seized at Schiphol (June 2024) and additional seizures from the second administrator in Ireland (August 2024). The seizure exceeds the Politie's estimate of administrator profits, *suggesting* that escrow balances at the moment of exit scam were largely intact and ultimately recovered by investigators.
+- The seized cryptocurrency was held in **administrator-controlled wallets** rather than co-mingled with a third-party laundering service; the case does not appear to have triggered a Bitzlato/Garantex-style separate exchange-sanction action.
+
+### Criminal organisation structure
+Available tier-1 coverage describes a **small administrator cell** rather than a hierarchical organised-crime group:
+- **Two principal administrators** publicly arrested — a 20-year-old British national (Schiphol, June 2024) and a 23-year-old Irish national identified in tier-2 coverage as Kevin Daniel Andrei (Ireland, August 2024). Both fall in the **young-adult Anglophone administrator** demographic typical of recent darknet-marketplace takedowns (cf. AlphaBay's Alexandre Cazes).
+- **Further arrests anticipated**: the Politie statement explicitly indicates additional arrests are expected as analysis of seized infrastructure continues, implying additional moderators, infrastructure operators or laundering-side associates remain at large.
+- **Vendor / buyer ecosystem**: tens of thousands of users globally (extrapolated from the ~67,000 transactions/month metric and the multi-thousand active-listing count). Vendor-side and buyer-side prosecutions for the Bohemia ecosystem were pursued separately under the Europol-coordinated **Operation RapTor** (May 2025), which is coded as a downstream operation.
+- The administrators' nationality and geographic dispersion (UK national arrested in NL; Irish national arrested in IE) is consistent with the **operator-flight pattern** observed in prior marketplace cases — administrators do not reside in their nationality state, do not reside in the host-infrastructure state, and rely on travel between European jurisdictions where European Arrest Warrants are operative. Most marketplace infrastructure (database, crypto and web servers) was hosted **in the Netherlands**, which determined the Dutch-led prosecution forum.
 
 ## Participating Parties
 
@@ -202,3 +226,14 @@ No Korean agency, suspect, victim or jurisdictional element is identified in ava
 
 > [!warning] Open question — Eurojust / Europol coordination
 > No Eurojust release matching the Politie URL pattern was located. The original takedown does not appear to have been Eurojust-coordinated. Operation RapTor (Europol-coordinated, May 2025) used Bohemia evidence but is downstream and operationally distinct.
+
+### L26 Background gap notes
+
+> [!note] L26 gap — exit-scam victim restitution mechanism
+> The Politie statement does not disclose whether (a) seized cryptocurrency exceeding the EUR 5 million administrator-profit estimate represents recovered escrow balances and (b) whether any restitution programme is contemplated for marketplace buyers/vendors who lost balances in the end-2023 exit scam. Given the absence of KYC records on most marketplace registrations, victim restitution is *unlikely* to be practical for most users.
+
+> [!note] L26 gap — downstream-victim quantification
+> The Politie release does not enumerate (a) DDoS-attack victims of services brokered through the marketplace, (b) malware-infection victims of payloads sold via the marketplace, or (c) overdose / health outcomes attributable to drugs sold via the marketplace. The harm-footprint quantification on this page is therefore limited to direct marketplace-throughput metrics.
+
+> [!note] L26 gap — wider operator network beyond the two arrested administrators
+> Politie indicated further arrests are anticipated, but the release does not specify the size of the moderator team, infrastructure-operator team, or laundering-side associates. The "small administrator cell" characterisation in Background is based on the publicly-arrested cohort only and may be revised downward if subsequent arrests reveal a larger operating crew.
