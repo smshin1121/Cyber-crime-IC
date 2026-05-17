@@ -106,11 +106,12 @@ challenges_encountered:
 lessons_learned:
   - "Real-time intelligence sharing between sister anti-scam centres allowed near-simultaneous enforcement actions across seven jurisdictions, accelerating disruption of cash flows compared to formal MLAT."
   - "Scam scripts proven to migrate across jurisdictions (HK customer-service impersonation tactic moving to Singapore and Macao SAR in 2025), demonstrating the necessity of cross-jurisdictional intelligence to anticipate emerging vectors."
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025]]"
+  - "[[2025-06-04_police-gov-sg_seven-law-enforcement-agencies-collaborate-major-anti-scam-operations-frontier-plus]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -179,6 +180,14 @@ The operation's **financial choke-point impact** — 32,607 accounts frozen and 
 
 The HK release explicitly contrasts FRONTIER+ with prior models by emphasising **"real-time intelligence analysis and sharing"** rather than ex-post evidence requests.
 
+**L24 verbatim cooperation quote** (Singapore Police Force, police.gov.sg, 2025-06-04 — Singapore-side counterpart release):
+
+> "The Anti-Scam Command (ASCom) of the Singapore Police Force (SPF), together with six other law enforcement agencies namely Hong Kong SAR's Anti-Deception Coordination Centre, the Republic of Korea's National Counter Scam Centre, Malaysia's National Scam Response Centre, the Republic of Maldives' Anti-Scam Centre, Thailand's Anti-Online Scam Operation Centre, and Macao SAR's Anti-Fraud Co-Ordination Centre involving a total of 2,784 officers, conducted a month-long anti-scam operation between 28 April 2025 and 28 May 2025."
+
+This SPF release **identifies the specific operational unit within each LE agency** that participated (where the HK release named only the police forces): ASCom (SPF), ADCC (HKPF), NCSC (KNPA), NSRC (PDRM), Maldives Anti-Scam Centre, AOC (RTP), AFCC (PJ Macao). Director CAD David Chew framed the cooperation explicitly: *"A transnational threat requires a transnational response. No single jurisdiction has an adequate answer, but we are collectively stronger together."*
+
+**Concrete cross-border-recovery case study** (Singapore-side example, April 2025): In two separate Chinese Services Impersonation Scam cases, victims transferred S$25,000 and S$45,000 to Singaporean accounts controlled by the scammer; SPF Anti-Scam Centre traced **same-day onward outflow to bank accounts in Malaysia**; with assistance from **Malaysia's National Scam Response Centre**, **S$19,000+ was successfully recovered**. The SPF release cites this as proof of FRONTIER+ cross-border-recovery effectiveness within hours rather than the months typical of formal MLAT.
+
 ## Challenges and Friction Points
 
 The primary source does not enumerate friction points, but the release flags as a continuing operational challenge:
@@ -217,4 +226,7 @@ Open questions:
 
 ## Sources
 
-- Primary: [[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025]] — HKSAR Government Information Services, Press Release P2025060300475, 2025-06-03 (with PDF Annex).
+Two tier-1 own-domain primary sources from opposite LE jurisdictions — HK-side and Singapore-side — published one day apart on the same FRONTIER+ first joint operation. The two releases mutually corroborate aggregate figures and adjoin the operation in non-overlapping detail (HK = per-jurisdiction Annex; SPF = unit-level operational designations + Singapore prosecution charges + concrete cross-border recovery case study).
+
+1. [[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025]] — HKSAR Government Information Services, Press Release P2025060300475, 2025-06-03 (with PDF Annex).
+2. [[2025-06-04_police-gov-sg_seven-law-enforcement-agencies-collaborate-major-anti-scam-operations-frontier-plus]] — Singapore Police Force (Public Affairs Department), media-hub release 20250504_seven_law_enforcement_agencies_collaborate, 2025-06-04 (police.gov.sg own-domain).

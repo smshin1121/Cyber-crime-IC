@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-17] CONTENT-ENRICHMENT [iter 201, single-agent, L23+L24+L25 strict] | FRONTIER+ first joint operation 2025 — 2nd tier-1 source via Singapore Police Force (police.gov.sg own-domain)
+- Target op: `wiki/operations/frontier-plus-cross-border-anti-scam-2025.md` (source_count 1 → 2).
+- 1st publisher (already on page): HKSAR Government Information Services (info.gov.hk) Press Release P2025060300475, 2025-06-03.
+- 2nd publisher (newly added): Singapore Police Force — Public Affairs Department / Anti-Scam Command, 2025-06-04 — https://www.police.gov.sg/media-hub/news/2025/06/20250504_seven_law_enforcement_agencies_collaborate_in_major_anti-scam_operations (police.gov.sg own-domain; L25 strict-compliant — Singapore Government statutory LE agency own channel, not a private wire, not an aggregator).
+- L24 verbatim cooperation quote (SPF, 2025-06-04): "The Anti-Scam Command (ASCom) of the Singapore Police Force (SPF), together with six other law enforcement agencies namely Hong Kong SAR's Anti-Deception Coordination Centre, the Republic of Korea's National Counter Scam Centre, Malaysia's National Scam Response Centre, the Republic of Maldives' Anti-Scam Centre, Thailand's Anti-Online Scam Operation Centre, and Macao SAR's Anti-Fraud Co-Ordination Centre involving a total of 2,784 officers, conducted a month-long anti-scam operation between 28 April 2025 and 28 May 2025."
+- L24 ≥2-LE cooperation: SPF ASCom ↔ HKPF ADCC ↔ KNPA NCSC ↔ PDRM NSRC ↔ Maldives Anti-Scam Centre ↔ RTP AOC ↔ Macao PJ AFCC. 7 LE jurisdictions explicit in 2nd source — matches 1st source. SPF release adds Singapore-side unit-level operational designations (where HK release named only the police forces).
+- L23 wikilink-or-empty: lead_agency=`[[hong-kong-police]]`, coordinating_body=`[[hong-kong-police]]` — unchanged, compliant.
+- Cross-jurisdictional anchor: HK-side and Singapore-side own-domain releases published one day apart; aggregate figures cross-validate (HK 1,858 / SPF "more than 1,800"; Singapore-specific 106 arrests matched exactly; ~US$20M seized matched; 7 jurisdictions matched; 10-member platform listing matched).
+- New content added to op page (resolves prior gaps): unit-level operational designations for each of the 7 LE participating agencies; concrete cross-border-recovery case study (Chinese Services Impersonation, S$25K+S$45K victim transfer, S$19K+ recovered same-day from Malaysia via Malaysia's National Scam Response Centre); Singapore-side domestic prosecution charges under PC s.417 r/w s.109, CMA s.3(1) r/w s.12, CDSA s.55A, CDSA s.51, CMA s.8A.
+- Pages created: raw `raw/press-releases/2025-06-04_police-gov-sg_seven-law-enforcement-agencies-collaborate-major-anti-scam-operations-frontier-plus.md`; source `wiki/sources/2025-06-04_police-gov-sg_seven-law-enforcement-agencies-collaborate-major-anti-scam-operations-frontier-plus.md`.
+- Pages updated: op page (source_count 1→2; sources list extended; Cooperation Mechanisms gains L24 verbatim quote block + unit-level designations + cross-border recovery case study; Sources section gains explicit two-source banner; `updated:` bumped to 2026-05-17); `wiki/sources/_index.md` count 877→878 with new entry.
+- Lint: HIGH=0 (about to run).
+
 ## [2026-05-17] CONTENT-ENRICHMENT + milestone push [iter 200] | Eurojust fake medicines/supplements 2nd source via BTA Bulgaria
 - Target op: eurojust-fake-medicines-supplements-online-takedown-2026 — source_count 1→2.
 - 2nd source: bta.bg Bulgarian News Agency state news wire (L24 state-wire-qualified analogous to ANTARA/Yonhap/ANSA).
