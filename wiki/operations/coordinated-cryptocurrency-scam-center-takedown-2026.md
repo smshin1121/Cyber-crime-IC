@@ -109,7 +109,7 @@ sources:
   - "[[2026-04-29_justice-gov_coordinated-takedown-scam-centers-276-arrests]]"
 summary: "A 2026 multinational takedown spearheaded by the Dubai Police, under the UAE Ministry of Interior, with cooperation from the US FBI, Chinese Ministry of Public Security, and Royal Thai Police. The action arrested at least 276 individuals across at least nine scam centers tied to cryptocurrency 'pig-butchering' fraud against US victims, and the US Southern District of California unsealed federal wire fraud and money laundering charges against six defendants on 2026-04-29."
 created: 2026-05-08
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -119,9 +119,15 @@ The DOJ release characterizes the cooperation between the [[fbi|FBI]], Dubai Pol
 
 ## Background
 
-In 2025 the FBI San Diego Field Office opened a Homeland Security Task Force investigation after identifying multiple companies and individuals managing scam compounds conducting cryptocurrency-investment fraud schemes against US victims. The schemes followed the "pig-butchering" pattern, where scammers cultivate trust with victims through phony friendship or romance before persuading them to invest in fraudulent cryptocurrency platforms that the scammers control. Court records identify three named operating entities: "Ko Thet Company" (also known as "Pixy"), "Sanduo Group", and "Giant Company".
+**Modus operandi.** The three operating entities — "Ko Thet Company" (a.k.a. "Pixy"), "Sanduo Group", and "Giant Company" — executed the "pig-butchering" (*shā zhū pán*) cryptocurrency-investment fraud pattern at industrial scale. The mechanism follows a standardized multi-stage workflow: (1) initial contact via unsolicited SMS, WhatsApp, Telegram, dating-app messages, or social-media direct messages (Meta Platforms is named as a private-sector partner because Facebook/Instagram were the primary contact-acquisition surfaces); (2) trust-building over weeks-to-months through faux romance, faux friendship, or faux mentorship dialogue scripts read from playbooks; (3) introduction of a fraudulent cryptocurrency-investment platform (often a spoofed "exchange" web/app frontend) showing fake gains on small initial deposits; (4) victim is persuaded to escalate deposits — at the withdrawal stage the platform locks the account, demands "tax/release fees", and ultimately disappears with the funds. Per the DOJ release the schemes used "phony friendship or romance" as the trust vector, with US victims persuaded to invest in fraudulent crypto platforms that the scammers fully controlled.
 
-The 2026 action against the network is publicly contextualized by the DOJ alongside the FBI San Diego–Phoenix joint initiative known as Operation Level Up (since 2024), which has notified almost 9,000 victims and saved an estimated USD 562 million as of April 2026, and FBI San Diego's ongoing investigation of the "Tai Chang Scam Enterprise" in Burma's Karen State.
+**Victim profile and impact.** The DOJ release identifies US-jurisdiction victims, sourced through IC3 complaints and financial-record analysis, with "millions of dollars in identified victim losses". Although the release does not enumerate the exact number of victims of this specific defendant cohort, the companion Operation Level Up initiative — explicitly contextualized alongside this takedown — has notified nearly 9,000 victims and saved an estimated USD 562 million as of April 2026, indicating the order of magnitude of the broader US victim pool tied to compound-run pig-butchering. Victim demographics typically skew toward middle-aged to elderly US residents with retirement savings.
+
+**Financial flow.** Victim funds were transmitted as cryptocurrency from US-side wallets into compound-controlled wallets, then layered through additional wallets and converted, with on-chain laundering consistent with the wire fraud + money laundering conspiracy charges (18 U.S.C. §§ 1956(h), 1956(a)(2)(A), 1956(a)(2)(B)(i)) — outbound international transfers and obfuscatory transfers structured to conceal source. The DOJ release does not disclose specific wallet addresses, total cryptocurrency volume, or the laundering venue.
+
+**Criminal organization structure.** The three named operating entities were corporate-style scam compounds, each operating multiple scam centers (at least nine total dismantled). Roles distinguished by the indictment cohort: (a) **managers / executives** (Thet Min Nyi indicted by SDCA grand jury; a fugitive co-defendant), (b) **recruiters** (Awang, Chandra, Mariam charged by criminal complaint), and (c) the broader **scam-worker layer** — the 270 arrestees not federally charged in San Diego, many of whom are themselves trafficking victims coerced into reading scripts at the compounds. Defendant nationalities recorded as Myanmar (Burma) and Indonesia, consistent with the Southeast-Asian compound-economy labour-trafficking pattern. The "Tai Chang Scam Enterprise" in Burma's Karen State is named by DOJ as a related ongoing target, indicating the same regional ecosystem.
+
+The 2026 action against the network is publicly contextualized by the DOJ alongside the FBI San Diego–Phoenix joint initiative known as Operation Level Up (since 2024), and FBI San Diego's ongoing investigation of the "Tai Chang Scam Enterprise" in Burma's Karen State.
 
 ## Participating Parties
 
@@ -169,6 +175,9 @@ The DOJ release does not name South Korean agencies or victims among the coopera
 - The legal basis for cooperation with the Chinese Ministry of Public Security is not described in the public release; whether information sharing flowed through formal channels (such as direct law-enforcement liaison) or under bilateral arrangements is not stated.
 - The release does not enumerate the specific Dubai Police unit, the specific China MPS bureau, or the specific Royal Thai Police unit beyond the named RTP components (Immigration Bureau, Foreign Affairs, Anti Cyber Scam Center).
 - Whether the 270 arrested but not federally charged in San Diego face local prosecution in the UAE or Thailand, or repatriation to source jurisdictions, is not described in the cited source.
+- **L26 gap — Victim count for this specific defendant cohort:** The cited DOJ release does not enumerate the precise number of victims attributable to the six SDCA defendants or to the "Ko Thet"/"Sanduo"/"Giant" entities specifically; it cites only aggregate "millions of dollars in identified victim losses" and references Operation Level Up's 9,000-victim figure as broader context.
+- **L26 gap — Financial flow specifics:** No wallet addresses, on-chain laundering venue/mixer, fiat off-ramp jurisdictions, or aggregate cryptocurrency volume tied to this defendant cohort is enumerated in the cited tier-1 source.
+- **L26 gap — OCG hierarchy resolution:** The compound-management hierarchy (whether the three named entities share an upstream owner, whether the compound managers report to a Karen-State or Cambodian/Myanmar-border syndicate parent) is not enumerated in the release.
 
 ## References
 
