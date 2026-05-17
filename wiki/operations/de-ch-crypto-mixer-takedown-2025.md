@@ -98,7 +98,7 @@ sources:
   - "[[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]]"
   - "[[2025-11-26_europol_cryptomixer-operation-olympia-takedown]]"
 created: 2026-04-14
-updated: 2026-05-09
+updated: 2026-05-17
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Olympia (24-28 November 2025) was the joint German-Swiss takedown of Cryptomixer (cryptomixer.io) — a hybrid clear-web + dark-web cryptocurrency mixing service active since 2016 that had laundered over EUR 1.3 billion in Bitcoin for ransomware groups, dark web markets, drug traffickers, weapons traffickers, and payment-card fraudsters. Lead authorities: German BKA + Frankfurt am Main Prosecutor General's Office Cyber Crime Centre (ZIT); Zurich City Police (Stadtpolizei Zürich); Zurich Cantonal Police (Kantonspolizei Zürich); Public Prosecutor's Office Zurich (Staatsanwaltschaft Zürich). Europol coordination via the Joint Cybercrime Action Taskforce (J-CAT) at Europol HQ The Hague + on-the-spot cybercrime expert support and forensic assistance during the action days. Eurojust judicial coordination. Action-day seizures: 3 servers in Switzerland, the cryptomixer.io clearnet domain, 12+ TB of operational data, and EUR 25 million+ worth of Bitcoin. Splash banner placed on cryptomixer.io after takedown. Predecessor in same Europol-supported mixer-takedown chronology: Chipmixer (March 2023)."
@@ -125,15 +125,33 @@ The Eurojust release does not name the service, the action lead in either countr
 
 ## Background
 
-Cryptocurrency mixing services (also called "tumblers") obfuscate the on-chain link between source and destination wallets by pooling funds from many users and redistributing them. They are a core piece of the cybercrime laundering pipeline and are used to conceal proceeds from:
+### Modus operandi (the crime)
 
-- **Ransomware payments**
-- **Drug trafficking** (darknet marketplaces)
-- **Weapons trafficking**
-- **Online fraud and BEC**
-- **Other cybercrimes** (carding, account takeover, etc.)
+**Cryptomixer (cryptomixer.io)** was a hybrid clear-web + dark-web Bitcoin mixing ("tumbling") service that operated **continuously from 2016 through November 2025** — making it one of the longest-running mixers ever taken down by EU law enforcement. The service pooled inbound BTC deposits from many separate criminal customers, severed the on-chain trace by mixing through a large pool of operator-controlled wallets, then redistributed clean-output BTC to destination addresses selected by the customer. Cryptomixer accepted customer payments **without KYC/AML controls**, charged a percentage fee per mix (the operator-retained margin is the criminal monetisation), and offered customer-configurable time-delay and output-split options to defeat blockchain-analytics clustering. The service was reachable both via clear-web (`cryptomixer.io`) and a parallel Tor hidden-service address — a hybrid posture intended to maximise inbound customer reach while preserving deniability for the operators.
 
-Switzerland's role as a global financial hub and the location of the so-called "Crypto Valley" in Zug make it a high-relevance host or operating jurisdiction for cryptocurrency-asset service providers. Germany's prosecutorial cybercrime infrastructure — particularly the [[germany-frankfurt-prosecutor|ZIT Frankfurt]] — is a major continental European center for cryptocurrency takedowns.
+### Victim profile and impact
+
+The mixer itself does not have first-order direct victims — its harm is **downstream-enabling**: it functions as the laundering choke-point that converts criminal-source BTC into spendable BTC for the predicate offenders. Per the Europol release, customer-criminals using Cryptomixer ran predicate offences across:
+
+- **Ransomware payments** (named explicitly — Cryptomixer was identified as a routine laundering venue for ransomware operators receiving victim-paid BTC ransoms)
+- **Underground economy forums** (carding markets, credential markets, stolen-data resale)
+- **Dark web marketplaces** (drug trafficking, weapons trafficking)
+- **Online fraud / BEC** (business-email-compromise proceeds, investment fraud, romance fraud)
+- **Payment-card fraud** (post-theft cashout cycles)
+
+The second-order victim pool is therefore the global ransomware-victim and fraud-victim populations whose paid-out BTC passed through Cryptomixer between 2016 and 2025 — *highly likely* (≥80%) numbering in the tens of thousands across jurisdictions, though no per-victim enumeration is provided in the cited Europol release.
+
+### Financial flow
+
+Lifetime laundering volume through Cryptomixer: **over EUR 1.3 billion in Bitcoin** (Europol-attributed figure as of the November 2025 takedown). The 12+ TB of operational data seized from the three Swiss servers contains the transaction graph linking inbound deposits → mixed-pool → outbound clean-side addresses, and *highly likely* (≥80%) will be the primary evidence base for ongoing follow-on investigations against Cryptomixer customers downstream. **EUR 25 million-equivalent in Bitcoin** was directly seized on the action day. Per AML Intelligence reporting, the on-chain volume figure (~USD 1.5 billion) places Cryptomixer in the same volume-tier as previously dismantled mixers such as **ChipMixer** (March 2023, EUR 90 million seized at takedown) and **Tornado Cash** (sanctioned 2022), though the per-incident seizure ratio (EUR 25M / EUR 1.3B = ~1.9%) reflects the structural difficulty of recovering already-laundered cryptocurrency.
+
+### Criminal organisation structure
+
+The cited Eurojust and Europol releases **do not enumerate Cryptomixer's operator identities, organisational headcount, or hierarchical structure**. The infrastructure footprint — 3 servers in Switzerland, 1 clearnet domain, 12+ TB operational data — is consistent with a small-to-mid-size technical operator team (likely <10 core operators) rather than a large hierarchical OCG. The Swiss server-hosting plus German-prosecutorial nexus suggests the operator(s) may have had ties to either jurisdiction, though no arrests were announced on the action day. **No indictments enumerated** post-takedown as of the cited releases — see gap notes in Contradictions.
+
+### Operational geography (LE side)
+
+Switzerland's role as a global financial hub and the location of the so-called "Crypto Valley" in Zug make it a high-relevance host or operating jurisdiction for cryptocurrency-asset service providers. Germany's prosecutorial cybercrime infrastructure — particularly the [[germany-frankfurt-prosecutor|ZIT Frankfurt]] — is a major continental European centre for cryptocurrency takedowns.
 
 ## Participating Parties
 
@@ -197,11 +215,17 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 
 ## Contradictions & Open Questions
 
-- **What is the name of the mixing service?** The Eurojust release does not identify it.
+- **What is the name of the mixing service?** The Eurojust release does not identify it; subsequent CoinDesk, AML Intelligence, TechRadar, and heise reporting plus the Europol 2025-11-26 release identify the service as **Cryptomixer / cryptomixer.io** with operation codename **Operation Olympia**.
 - **How many arrests, if any, were made?** The cited source leaves this undisclosed.
 - **Which German prosecutor (ZIT Frankfurt? a Land prosecutor?) led the German component?** The cited source leaves this undisclosed.
 - **What was the legal basis used by Switzerland?** Candidate legal bases include the Eurojust-Switzerland cooperation agreement and Swiss Criminal Code art. 305bis (money laundering), but the cited source does not confirm the instrument.
 - **Is this operation linked to any larger campaign (e.g., Operation Endgame, a sanctions track)?** No linkage is stated in the source.
+
+**L26 Background gap notes** (crime substance missing from cited tier-1 sources):
+- **Cryptomixer operator identities / OCG headcount / nationality of operators** — no arrests enumerated, operator identity remains undisclosed in the cited Europol and Eurojust releases.
+- **Customer-criminal segmentation** — per-customer-segment breakdown of the EUR 1.3 billion lifetime laundering pool (ransomware vs darknet vs BEC vs carding) is not provided in the cited primary sources.
+- **Victim-level enumeration** — second-order victim count (downstream ransomware and fraud victims whose paid-out BTC passed through Cryptomixer) is not disclosed; the EUR 1.3 billion figure aggregates across criminal customers, not victims.
+- **Fee structure / operator margin** — Cryptomixer's per-mix fee percentage and accumulated operator revenue (the criminal monetisation) is not stated in the cited releases.
 
 
 ## Follow-Up Actions

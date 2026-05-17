@@ -121,6 +121,51 @@ The month-long operation resulted in **1,858 arrests** (ages 14–81), addressed
 
 ## Background
 
+### Modus operandi (the crime)
+
+The 9,268 scam cases addressed by FRONTIER+'s first joint operation fall into a defined catalogue of **transnational telephone-and-online fraud typologies** that share a common Asia-Pacific operational pattern: syndicate principals based in scam-compound jurisdictions (Cambodia, Myanmar Special Economic Zones, Laos GTSEZ, occasionally the Philippines) operate large call-floor and online-outreach teams via often-trafficked workers, using social engineering scripts in the victim's native language plus rapid cross-border money-mule cashout networks. The predominant scam typologies addressed in this operation, per the HK release Annex:
+
+- **Government-official impersonation** — perpetrators impersonate police, prosecutors, court clerks, customs, or tax officials, then claim the victim is implicated in money-laundering or criminal investigations and must transfer "guarantee funds" to a designated "safe account" to clear their name. Highly active across South Korea and Hong Kong.
+- **Customer-service impersonation** — fake calls from "bank fraud teams," "credit-card dispute resolution," or "platform refund desks" trick victims into authorising transfers or installing remote-access software. The HK release flags the HK 2024 customer-service script as having **migrated to Singapore and Macao SAR in 2025** — direct evidence of cross-jurisdictional script reuse.
+- **Investment scams** — fake high-yield trading platforms (forex, cryptocurrency, gold), often introduced via romance approach or social-media "investment mentor" personas. Predominant in South Korea (US$68.2M loss share) and Hong Kong (US$60.7M).
+- **Online romance scams** — long-cultivation relationship building followed by investment-fraud or crisis-fund extraction.
+- **Friend impersonation scams** — compromised or spoofed messaging accounts request urgent loans from the victim's contacts.
+- **Employment scams** — fake job offers requiring upfront payment for training, equipment, or recruitment "guarantee deposits"; the recruitment channel itself is also a feeder into scam-compound trafficking.
+- **Online shopping scams** — fake marketplace listings, fake escrow services, non-delivery fraud.
+- **Rental scams** — fake property listings demanding deposits for properties the perpetrator does not own.
+
+### Victim profile and impact
+
+The cited HK and Singapore primary-source releases quantify the operation's victim base and loss profile in the per-jurisdiction Annex:
+
+- **Aggregate financial loss across the 7 participating jurisdictions: US$225 million** (HK$1,755 million) — the largest disclosed Asia-Pacific anti-scam-operation loss-tally on the wiki record for a single month-long enforcement window.
+- **33,991 subjects interviewed** across the 7 jurisdictions (HK figure not separately reported in the Annex).
+- **Victim distribution by jurisdiction** (US$ million loss share): South Korea US$68.2M / Hong Kong US$60.7M / Thailand US$58.8M / Singapore US$30.6M / Malaysia US$4.89M / Macao SAR US$1.49M / Maldives US$0.18M.
+- **Victim demographics**: not directly enumerated, but the scam typology mix is *highly likely* (≥80%) skewed toward retail consumers and elderly victims (government-official-impersonation and customer-service-impersonation scams have well-documented elderly-victim selection bias), with investment-scam victims spanning broader age cohorts and including high-net-worth retail investors.
+- **Korea-specific** (the largest loss-share jurisdiction): US$68.2 million ≈ **KRW 88.6 billion** in identified victim losses, 2,275 scam cases addressed — *highly likely* reflects the maturity of Korean voice-phishing (보이스피싱) and impersonation-scam syndicates, where regional source-jurisdictions (Cambodia, Laos GTSEZ, Philippines) host call-floor infrastructure targeting Korean-language victims.
+
+### Financial flow
+
+The fraud financial flow follows a typical **3-stage layered structure** documented across the participating jurisdictions:
+
+1. **Victim transfer to first-tier mule account** — initial victim-deposit goes to a domestic mule account in the victim's jurisdiction (e.g., the Singapore Chinese Services Impersonation case cited in the SPF release: victim deposits S$25,000 and S$45,000 to Singaporean accounts).
+2. **Cross-border layering to second-tier accounts** — within hours to a day, funds are moved to accounts in the next jurisdiction (the same SPF case study: same-day onward outflow to **Malaysia** bank accounts).
+3. **Final cashout in compound-host or principal-domicile jurisdiction** — funds reach accounts in Cambodia/Myanmar/Laos compound jurisdictions or are converted to cryptocurrency for further obfuscation.
+
+The operation's **32,607 bank accounts frozen** and **~US$20 million intercepted** (8.9% of the US$225M loss pool) is the cumulative result of FRONTIER+ sister-centre real-time intelligence enabling Stage-2 freezes before the Stage-3 cashout. The recovery ratio is *highly likely* (≥80%) substantially higher than the typical sub-1% recovery seen via formal MLAT for the same scam typologies — the FRONTIER+ sister-centre architecture is precisely engineered to defeat the rapid Stage-2 outbound-transfer window.
+
+### Criminal organisation structure
+
+The cited primary sources do not enumerate specific named scam syndicates targeted in this operation. *Highly likely* (≥80%), based on the scam typology mix and Asia-Pacific cross-border money flow pattern, the 1,858 arrestees consist predominantly of:
+
+- **Low-tier money mules and account-rental cashout layer** — *almost certainly* (>95%) the bulk of arrests, given the age range (14-81) and per-jurisdiction count pattern (HK 337, Malaysia 708, Thailand 582, Singapore 106, KNPA 116, Macao 9, Maldives 0). The HK release does not specify what fraction were syndicate principals versus mules.
+- **Call-floor operators and online-outreach agents** based in destination/transit jurisdictions.
+- **Syndicate principals** — *unlikely* significant numbers of principals were arrested in this operation, as syndicate command structures are predominantly based in Cambodia, Myanmar, and Laos compound jurisdictions which are NOT participating in this FRONTIER+ first joint operation. Compound-host jurisdiction enforcement is a separate operational track (cf. [[afp-paocc-nbi-manila-scam-call-centre-operation-firestorm-2024]], [[afp-rtp-bangkok-scam-centre-operation-firestorm-2025]] in the wiki corpus).
+
+The Maldives 0-arrest outcome (against 199 subjects interviewed, 366 accounts frozen) suggests either an exclusively transit/cashout role for that jurisdiction or a domestic prosecutorial threshold issue — not explained in source.
+
+### FRONTIER+ platform context (LE side)
+
 FRONTIER+ — the **Cross-border Anti-Scam Collaboration Platform** — was jointly established by various national/regional anti-scam centres in **October 2024**. Per the Hong Kong release of 2025-06-03, platform membership stands at 10 jurisdictions: Australia, Canada, Hong Kong SAR, Indonesia, Macao SAR, Malaysia, the Maldives, [[singapore|Singapore]], [[south-korea|South Korea]], and [[thailand|Thailand]].
 
 > [!note] Platform-membership discrepancy
@@ -223,6 +268,12 @@ Open questions:
 - The 0-arrest outcome for the Maldives (against 199 subjects interviewed and 366 accounts frozen) is unexplained in the source.
 - Indonesia, Australia, and Canada are FRONTIER+ members but did not contribute to this first joint operation per the Annex; the operational scope of their future involvement is undefined.
 - The HK release does not name a coordinating prosecutorial body; *unlikely* prosecutions will be coordinated centrally — each jurisdiction *almost certainly* prosecutes domestically.
+
+**L26 Background gap notes** (crime substance missing from cited tier-1 sources):
+- **Specific named scam syndicates / OCG identities** — the HK and SPF releases describe scam typologies and aggregate enforcement results but do not name specific syndicates (e.g., particular Cambodia/Laos compound operators) targeted in this operation.
+- **Victim demographic breakdown** — age, occupation, residency, prior-fraud-exposure profile of victims across the US$225M loss pool is not enumerated.
+- **Compound-host jurisdiction attribution** — the primary sources do not attribute the predicate-scam call-floors to specific Cambodia/Myanmar/Laos SEZ jurisdictions, despite the structural certainty (≥80%) of that connection.
+- **Per-typology loss-share breakdown** — what fraction of the US$225M was lost to investment scams vs government-official impersonation vs romance scams vs other typologies, across the 7 jurisdictions, is not provided.
 
 ## Sources
 
