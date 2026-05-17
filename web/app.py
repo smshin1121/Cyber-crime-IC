@@ -77,6 +77,14 @@ HEADING_MAP = {
     "References": "참고문헌",
     "Contradictions & Open Questions": "모순점 및 미해결 문제",
     "Contradictions &amp; Open Questions": "모순점 및 미해결 문제",
+    # L26 Background sub-sections (crime substance)
+    "Modus operandi": "수법 (모더스 오페란디)",
+    "Modus operandi (the crime)": "수법 (모더스 오페란디)",
+    "Victim profile and impact": "피해자 프로파일 및 영향",
+    "Victim profile": "피해자 프로파일",
+    "Financial flow": "자금 흐름",
+    "Criminal organization structure": "범죄 조직 구조",
+    "Operation Endgame umbrella context": "Operation Endgame 우산 맥락",
     # Operations
     "Participating Parties": "참여 기관",
     "Legal Framework": "법적 근거",

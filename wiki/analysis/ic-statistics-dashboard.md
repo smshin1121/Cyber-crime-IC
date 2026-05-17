@@ -19,7 +19,7 @@ scope: "공개 위키 corpus 기준 사이버범죄 국제공조 작전 통계"
 sources_consulted: 879
 title: "사이버범죄 국제공조 통계 대시보드"
 type: analysis
-updated: 2026-05-17
+updated: 2026-05-18
 ---
 # 사이버범죄 국제공조 통계 대시보드
 

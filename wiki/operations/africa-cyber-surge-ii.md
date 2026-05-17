@@ -107,13 +107,21 @@ crime_types:
 
 ## Background
 
-**Modus operandi.** The 25-country sweep targeted a mixed portfolio of cyber-enabled fraud and supporting criminal infrastructure rather than a single malware family. INTERPOL's release identifies four crime patterns disrupted during the four-month action window (April–August 2023): business email compromise (BEC), phishing kits and credential-harvesting pages, romance and investment fraud, and high-volume malware-hosting infrastructure used to support those schemes. Country-specific examples disclosed by INTERPOL include a Cameroon-based art-sale fraud ring that defrauded victims of approximately USD 850,000, and Kenyan operators of bulk malware-hosting services. Across the operation, 1,442 malicious IP addresses, domains, and servers used to support these schemes were taken down and 20,674 suspicious cyber networks were mapped — meaning the dominant criminal tradecraft was distributed online-fraud infrastructure (mule/phishing/host nodes) rather than centralized ransomware-style intrusion.
+### Modus operandi
 
-**Victim profile and impact.** Tier-1 reporting attributes more than USD 40 million in linked financial losses to the networks disrupted during the operation window, but does not publish a per-victim or per-country breakdown. Victims of the named Cameroon art-sale fraud were buyers of high-value items targeted by impersonation; victims of the BEC/phishing/romance components reach across Africa and to extra-regional residents whose funds were routed through African mule infrastructure, but tier-1 sources do not disclose victim counts.
+The 25-country sweep targeted a mixed portfolio of cyber-enabled fraud and supporting criminal infrastructure rather than a single malware family. INTERPOL's release identifies four crime patterns disrupted during the four-month action window (April–August 2023): business email compromise (BEC), phishing kits and credential-harvesting pages, romance and investment fraud, and high-volume malware-hosting infrastructure used to support those schemes. Country-specific examples disclosed by INTERPOL include a Cameroon-based art-sale fraud ring that defrauded victims of approximately USD 850,000, and Kenyan operators of bulk malware-hosting services. Across the operation, 1,442 malicious IP addresses, domains, and servers used to support these schemes were taken down and 20,674 suspicious cyber networks were mapped — meaning the dominant criminal tradecraft was distributed online-fraud infrastructure (mule/phishing/host nodes) rather than centralized ransomware-style intrusion.
 
-**Financial flow.** INTERPOL's release totals the USD 40 million figure as financial losses linked to the identified networks. The release does not disclose how funds were laundered, what share was recovered, or what crypto/cash-out pathway each scheme used.
+### Victim profile and impact
 
-**Criminal organization structure.** Tier-1 sources describe the 14 arrests as distributed across multiple participating African countries and tied to multiple separate criminal cells rather than to one named transnational organization. INTERPOL discloses arrest counts at country level (e.g., 3 arrests in Cameroon for art-sale fraud) but does not publish ringleader names, group hierarchies, nationalities of accused, or evidence that the disrupted cells coordinated with each other.
+Tier-1 reporting attributes more than USD 40 million in linked financial losses to the networks disrupted during the operation window, but does not publish a per-victim or per-country breakdown. Victims of the named Cameroon art-sale fraud were buyers of high-value items targeted by impersonation; victims of the BEC/phishing/romance components reach across Africa and to extra-regional residents whose funds were routed through African mule infrastructure, but tier-1 sources do not disclose victim counts.
+
+### Financial flow
+
+INTERPOL's release totals the USD 40 million figure as financial losses linked to the identified networks. The release does not disclose how funds were laundered, what share was recovered, or what crypto/cash-out pathway each scheme used.
+
+### Criminal organization structure
+
+Tier-1 sources describe the 14 arrests as distributed across multiple participating African countries and tied to multiple separate criminal cells rather than to one named transnational organization. INTERPOL discloses arrest counts at country level (e.g., 3 arrests in Cameroon for art-sale fraud) but does not publish ringleader names, group hierarchies, nationalities of accused, or evidence that the disrupted cells coordinated with each other.
 
 ## Participating Parties
 
