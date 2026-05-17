@@ -1,5 +1,16 @@
 # Activity Log
 
+## [2026-05-17] CONTENT-ENRICHMENT [iter 185, single-agent, L23+L24+L25 strict] | AvCheck CAV/crypter takedown — 2nd tier-1 source added (USAO-SDTX Houston DOJ own-domain)
+- Source: `raw/press-releases/2025-05-29_justice-gov-usao-sdtx_websites-selling-hacking-tools-cybercriminals-seized.md` (justice.gov USAO Southern District of Texas, Houston; en; published 2025-05-29, updated 2025-05-30; fetched via tools/doj_fetch.py Akamai bm-verify solver).
+- Pages created: `wiki/sources/2025-05-29_justice-gov-usao-sdtx_websites-selling-hacking-tools-cybercriminals-seized.md` (2nd source for [[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]] operation, originally ingested in iter ~125 from OM.nl 12-Jan-2026 Schiphol-arrest release only).
+- Pages updated: `wiki/operations/avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026.md` — source_count 1→2; sources list extended; `wiki/sources/_index.md` count 859→860 with new entry.
+- Key findings:
+  - **L24 verbatim quote**: "The FBI Houston Field Office is conducting the investigation with the cooperation and significant assistance of law enforcement partners in The Netherlands and Finland and U.S. Secret Service." — USAO-SDTX, 2025-05-29. ≥2-LE cooperation: US (DOJ/FBI Houston/USSS) + Netherlands (national police) + Finland (national police).
+  - **Tier-1 publisher**: USAO-SDTX (Houston) DOJ own-domain (`justice.gov/usao-sdtx`). Counterpart to OM.nl 1st publisher (Dutch); cross-jurisdiction tier-1 anchor pair now established for the AvCheck operation.
+  - **Operation Endgame umbrella confirmed**: USAO-SDTX release explicitly frames the seizure as part of Operation Endgame, lists participating countries (US, Netherlands, France, Germany, Denmark) + supporting countries (Ukraine, Portugal).
+  - **Legal basis**: U.S. District Court for the Southern District of Texas seizure warrant; supports L23 wikilink-or-empty rule (frontmatter unchanged).
+  - Lint: HIGH=0.
+
 ## [2026-05-17] CONTENT-ENRICHMENT + milestone push [iter 180, single-agent, L23+L24+L25 strict] | SG-HK-MY-TW DISTANTHILL — 2nd tier-1 source added (Taiwan CIB-NPA own-domain)
 - Source: `raw/press-releases/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md` (cib.npa.gov.tw Taiwan Criminal Investigation Bureau own-domain; en).
 - Pages created: `wiki/sources/2024-07-17_cib-npa-tw_taiwan-singapore-malaysia-trilateral-mobile-trojan-fraud.md` (2nd source for iter 141 op).

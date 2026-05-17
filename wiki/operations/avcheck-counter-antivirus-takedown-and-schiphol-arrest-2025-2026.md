@@ -96,11 +96,12 @@ lessons_learned:
   - "Counter-Antivirus / crypter services are an upstream chokepoint for malware delivery — disrupting them creates downstream visibility into the operators of the malware that used them."
   - "Tri-lateral coordination (NL-US-FI) on a single CAV service produced both immediate infrastructure takedown (May 2025) and a follow-up arrest at a non-extraditing transit point (Schiphol, January 2026) — illustrating the value of international wanted-person flagging when the suspect attempts to relocate to a non-cooperating jurisdiction (UAE)."
   - "Border-stop arrest is a viable backup pathway when extradition from the suspect's chosen safe haven is uncertain."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]]"
+  - "[[2025-05-29_justice-gov-usao-sdtx_websites-selling-hacking-tools-cybercriminals-seized]]"
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 # AvCheck Counter-Antivirus Takedown & Schiphol Follow-up Arrest (NL/US/FI, 2025–2026)
 
