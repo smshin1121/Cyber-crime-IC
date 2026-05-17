@@ -81,7 +81,7 @@ source_count: 2
 sources:
   - "[[2026-04-27_npa-japan_operation-cyber-guardian-2026]]"
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 
 ## Summary
@@ -91,6 +91,24 @@ updated: 2026-05-10
 The [[japan-npa|Japan National Police Agency]] announced the multilateral results on 27 April 2026, reporting **445 suspects investigated** in total, **382 search-and-seizure locations** across the seven jurisdictions, and an aggregate haul of digital devices including 116 PCs, 340 mobile phones, and 140 external storage media. Japan alone accounted for **99 arrests** at 131 locations. The Malaysian Royal Police (PDRM) announced **69 arrests** in its portion of the campaign, with **204,934 CSAM files** plus **293,756 adult-pornography files** seized.
 
 ## Background
+
+### Modus operandi
+
+Per the Japan NPA consolidated press materials and the Malaysian PDRM domestic statement, suspects investigated under the 2026 sweep were engaged in (i) possession and storage of child sexual abuse material on personal PCs, mobile phones, tablets, and external storage media; (ii) manufacture and production of CSAM (including at least one Japan case involving the physical kidnapping of a child under 10 by a former childcare-facility employee); (iii) provision and public display of CSAM via peer-to-peer file-sharing software; (iv) child prostitution and non-consensual sexual intercourse (Japan charge sheet categories); and (v) — distinctively in the Malaysian portion — commercial buying and selling of CSAM via social-media platforms using e-wallets and QR-code payment systems. The seizure of 116 PCs, 340 mobile phones, 25 tablets, 140 external storage media, and 16 routers across 382 search locations indicates a distributed individual-offender pattern rather than a single platform/forum target.
+
+### Victim profile and impact
+
+The 2026 sweep does not publish an aggregated victim count, but the Malaysian portion alone reported seizure of **204,934 CSAM files** (498,690 total digital files including 293,756 adult-pornography files) — implying a victim pool of at least several hundred individual children whose imagery was in possession of the 69 Malaysian arrestees alone. Japan domestic charges include child prostitution (charges presuppose identifiable child victims) and at least one explicit kidnapping case. The 445-suspect, 7-jurisdiction multilateral footprint reflects a transnational distribution problem in which Asian-region CSAM circulation is treated by NPA as both a domestic-victim and a cross-border-content problem.
+
+### Financial flow
+
+The Malaysian PDRM disclosure is the only public per-jurisdiction financial-flow detail in the 2026 sweep: CSAM was being **bought and sold via social-media-platforms using e-wallets and QR-code payment systems** in Malaysia, indicating an e-money/QR-payment monetisation layer rather than cryptocurrency-only commerce. The Japan NPA materials do not enumerate financial-flow details for the Japanese portion. The 2026 sweep does not publish an aggregate proceeds figure across the 7 jurisdictions.
+
+### Criminal organization structure
+
+The 2026 Cyber Guardian footprint is best characterised as a **distributed-individual-offender** target set rather than a single organised criminal group. The Japan NPA characterisation names specific individual offender categories (a public high-school teacher in his 20s; a former childcare-facility employee in his 40s who had kidnapped a child under 10; an unemployed man in his 60s using file-sharing software for public display) — i.e., the 445 suspects are predominantly stand-alone individual offenders ranging from age 12 to 72 (430 male, 15 female), not a hierarchical OCG. The Malaysian commercial-sale element does suggest small-scale vendor cells, but the available primary materials do not name a coordinating OCG, marketplace operator, or producer/distributor hierarchy. The 2026 sweep enforcement model — peer-coordinated individual-arrest action across 7 jurisdictions in a ~4-week window — is calibrated to that distributed-offender pattern.
+
+### Operational continuity
 
 The 2025 Operation Cyber Guardian established a regional CSAM-enforcement coordination model among six Asian jurisdictions. The Japan NPA explicitly framed the 2026 campaign period as a "Period of Strengthened International Cooperation for the Eradication of Child Pornography" (児童ポルノ撲滅に関する国際協力強化期間), institutionalizing the cooperation as a standing annual exercise.
 
@@ -187,6 +205,9 @@ The Malaysian announcement noted a **commercial monetization element** — CSAM 
 
 - Country-by-country breakdown of the 445 suspects and 382 search locations remains incomplete — only Japan (99 arrests / 131 locations) and Malaysia (69 arrests) have published per-country figures.
 - The relationship to the 2025 6-country edition is not explicitly described as a "second annual" iteration in the NPA PDF — but the structural continuity (same 6 countries + Brunei, same operation name, same operational logic) makes that interpretation **highly likely**.
+- **L26 gap — aggregate victim count**: no aggregated victim-identification count is published across the 7 jurisdictions; only Malaysia's 204,934 CSAM-file seizure is reported, with no per-victim figure or victim-identification protocol disclosed.
+- **L26 gap — financial-flow scope**: only the Malaysian portion discloses a financial-flow mechanism (e-wallet + QR-code payments via social media). Whether the Japan/Korea/Singapore/Thailand/Hong-Kong/Brunei portions involve cryptocurrency, e-money, or no-payment-trace distribution is not stated.
+- **L26 gap — OCG attribution**: the primary materials do not name any specific CSAM marketplace, forum, vendor cell, or producer/distributor hierarchy. The 445-suspect target set appears to be predominantly distributed individual offenders, but the operational documents do not exclude the possibility that an underlying platform or ring was the seed-target.
 
 ## Sources
 
