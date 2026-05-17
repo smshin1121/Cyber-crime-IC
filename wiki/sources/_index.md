@@ -54,6 +54,7 @@ updated: 2026-04-14
 | [[2026-04-17_europol-europa-eu_operation-endgame-official-page]] | press-release | Europol | ? | high | ? |
 | [[2026-04-17_en-wikipedia-org_operation-onymous]] | press-release | Wikipedia | ? | medium | ? |
 | [[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]] | press-release | Information Services Department, Government of the Hong Kong Special Administrative Region (HKSAR) | ? | high | ? |
+| [[2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody]] | press-release | Bundeskriminalamt (BKA) + Generalstaatsanwaltschaft Frankfurt am Main / ZIT | 2026-05-17 | high | confirmed |
 | [[2026-04-13_europol_operation-poweroff-75000-ddos-users]] | press-release | Europol | ? | high | ? |
 | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]] | press-release | Eurojust | ? | high | ? |
 | [[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]] | press-release | Royal Thai Police — Cyber Crime Investigation Bureau (CCIB) | ? | high | ? |

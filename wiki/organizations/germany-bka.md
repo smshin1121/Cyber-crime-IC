@@ -99,6 +99,7 @@ sources:
   - "[[2025-11-12_berlin-generalstaatsanwaltschaft_laenderuebergreifender-einsatz-bekaempfung-enkeltricks]]"
   - "[[2025-11-05_gstko-justiz-rlp_operation-chargeback-18-festnahmen-betrugs-geldwaeschenetzwerke]]"
   - "[[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]]"
+  - "[[2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody]]"
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization

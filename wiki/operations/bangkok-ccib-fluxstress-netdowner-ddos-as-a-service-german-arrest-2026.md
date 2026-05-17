@@ -92,15 +92,16 @@ related_operations:
   - "[[ddos-for-hire-sweep-2016]]"
 challenges_encountered: []
 lessons_learned: []
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]]"
+  - "[[2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody]]"
 created: 2026-05-17
 updated: 2026-05-17
 ---
 
-> [!info] Provisional / single-source entry
-> This page is published with `source_count: 1` (below the wiki's preferred publication threshold of 5). It is retained because the primary source is a tier-1 own-domain Thai LE release (CCIB) that explicitly names the cooperating foreign LE counterparts (German federal law-enforcement + INTERPOL General Secretariat), and the operation fits cleanly into the wiki's existing [[ddos-ic]] and [[cybercrime-infrastructure-ic]] cooperation corpus. It will be expanded as German federal LE issues its own statement and as Thai extradition proceedings progress.
+> [!info] Provisional / dual-source entry
+> This page is published with `source_count: 2` (below the wiki's preferred publication threshold of 5) but corroborated by two **independent tier-1 own-domain releases from two cooperating jurisdictions**: (1) the Royal Thai Police Cybercrime Investigation Bureau (CCIB) release of 2026-04-11 (Thai LE side, names the German federal authorities and INTERPOL General Secretariat as cooperating partners), and (2) the joint Bundeskriminalamt (BKA) + Generalstaatsanwaltschaft Frankfurt am Main / Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT) release of 2026-04-16 (German LE side, explicitly confirms that the German national in Thai custody is the alleged operator of Fluxstress and Netdowner and that a § 127 StGB arrest warrant underlies the case). The page will be expanded further as Thai extradition proceedings progress and German federal indictment is filed.
 
 ## Summary
 
@@ -154,6 +155,7 @@ Extradition proceedings to return the suspect to Germany are in preparation as o
 | 2026-04-11 | CCIB and Immigration Bureau Investigation Division execute joint arrest at Thonglor Soi 25, Watthana District, Bangkok |
 | 2026-04-11 (same day) | CCIB hosts press conference announcing arrest; identifies cooperation with German federal LE and INTERPOL |
 | 2026-04-11 onwards | Digital forensic analysis of seized devices commences; Thai authorities finalising paperwork for extradition to Germany |
+| 2026-04-16 | Bundeskriminalamt (BKA) and Generalstaatsanwaltschaft Frankfurt am Main / ZIT issue joint press release on the broader [[operation-power-off-2026-04|Operation PowerOFF 2026-04]] sprint; confirm that the German national in Thai custody is the ZIT-led suspect alleged to operate Fluxstress and Netdowner under a § 127 StGB arrest warrant; report 40+ servers linked to the suspect identified and seized |
 
 ## Results and Impact
 
@@ -187,8 +189,9 @@ None identified in the primary release. No Korean victims or LE involvement repo
 - **Press-release date**: The CCIB site lists the release under the URL slug "2026-april-6", but the arrest itself occurred on 11 April 2026 according to the CCIB statement, Thai press, and English-language Thai/international coverage. The "april-6" string in the URL appears to be an internal slug rather than the publication date.
 - **Platform name**: "Netdowner" appears in most reports; some sources render it "Neldowner". Both are referenced to a single platform.
 - **European Union warrants**: Thai Examiner coverage refers to EU-issued warrants in addition to the German warrants, but the CCIB release does not enumerate them separately; the relationship between the German-state warrants and the EU-level warrant base will become clearer through the extradition record.
-- **Specific German agency**: CCIB release uses the generic phrasing "law-enforcement authorities of the Federal Republic of Germany"; the specific German federal agency (likely Bundeskriminalamt, possibly with a particular Landeskriminalamt as the originating warrant-holder) is not identified by name in the primary release.
+- **Specific German agency**: CCIB release uses the generic phrasing "law-enforcement authorities of the Federal Republic of Germany". The BKA + ZIT release of 2026-04-16 ([[2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody]]) resolves this: the German lead-prosecution authority is the **Generalstaatsanwaltschaft Frankfurt am Main – Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT)** with **Bundeskriminalamt (BKA)** as the federal-police investigative partner. The originating Landeskriminalamt is still not separately identified.
 
 ## Sources
 
 - [[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]] — Royal Thai Police CCIB primary press release (11 April 2026; ccib.go.th own-domain)
+- [[2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody]] — Bundeskriminalamt (BKA) + Generalstaatsanwaltschaft Frankfurt am Main / ZIT joint press release on Operation PowerOFF 2026-04 sprint (16 April 2026; bka.de own-domain). Explicitly confirms the German national in Thai custody is the alleged operator of Fluxstress and Netdowner; § 127 StGB arrest warrant.
