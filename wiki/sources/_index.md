@@ -6,11 +6,10 @@ created: 2026-04-08
 updated: 2026-05-17
 ---
 
-# Sources (878)
+# Sources (879)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
-| [[2025-06-04_police-gov-sg_seven-law-enforcement-agencies-collaborate-major-anti-scam-operations-frontier-plus]] | press-release | Singapore Police Force | 1 | high | police.gov.sg |
 | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-05-14_bta-bg_international-operation-fake-medicines-supplements-network-bulgaria]] | press-release | Bulgarian News Agency (BTA) | 1 | high | ? |
 | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]] | press-release | 법무부 (Ministry of Justice of the Republic of Korea) | ? | high | ? |
@@ -263,6 +262,7 @@ updated: 2026-05-17
 | [[the-cyber-express-marketplace-a-dekhtyarchuk-indictment]] | news | The Cyber Express | 3 | medium | ? |
 | [[2025-06-06_interpol_operation-vibora-csam-20-arrests]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-06-06_helpnetsecurity-com_bidencash-marketplace-domains-seized-in-coordinated-international-action]] | press-release | Help Net Security | ? | high | ? |
+| [[2025-06-04_police-gov-sg_seven-law-enforcement-agencies-collaborate-major-anti-scam-operations-frontier-plus]] | press-release | Singapore Police Force (Public Affairs Department) | ? | high | ? |
 | [[2025-06-04_justice-gov_in-re-seizure-of-bidencash-marketplace-domains-and-cryptocurrency]] | press-release | US DOJ (Eastern District of Virginia) | ? | high | ? |
 | [[2025-06-03_info-gov-hk_frontier-plus-cross-border-anti-scam-2025]] | press-release | Hong Kong SAR Government — Government Information Services (info.gov.hk) | ? | high | ? |
 | [[2025-06-01_therecord-media_us-and-netherlands-take-down-bidencash-cybercrime-marketplace-infrastructure]] | press-release | The Record | ? | high | ? |
@@ -431,6 +431,7 @@ updated: 2026-05-17
 | [[2024-10-02_aptantech-com_operation-contender-2-leads-to-arrests-of-8-cybercrime-suspects]] | news | aptantech | ? | medium | ? |
 | [[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623]] | press-release | U.S. Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2024-10-01_the420-in_operation-chakra-iii-inside-cbi-s-explosive-takedown]] | press-release | The420.in | ? | medium | ? |
+| [[2024-10-01_justice-gov_russian-national-indicted-ransomware-attacks-ryzhenkov]] | press-release | U.S. Department of Justice — Office of Public Affairs (OPA) | ? | high | ? |
 | [[2024-10-01_interpol-int-fr_operation-contender-2]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-10-01_europol-europa-eu_operation-cronos-phase-3]] | press-release | Europol | ? | high | ? |
 | [[2024-10-01-europol-operation-cronos-lockbit-phase3]] | press-release | Europol | ? | high | ? |

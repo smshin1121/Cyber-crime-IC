@@ -1,5 +1,22 @@
 # Activity Log
 
+## [2026-05-17] iter 210 milestone push + L26 batch | Op Eastwood + Dnipro call-centre + Op PowerOFF Apr 2026 Backgrounds (iters 201-210)
+- L26 batch (210): Op Eastwood 758→1376w; Dnipro 847→1487w; PowerOFF Apr 2026 1063→1676w.
+- 10 commits since iter 200 push (`636064405..`):
+  - 201: FRONTIER+ enrichment via SPF
+  - 202: Evil Corp Treasury sanctions enrichment via DOJ OPA
+  - 203: L26 first sample — RCMP Surrey Background expanded (4-element substance)
+  - 204: L26 batch — Africa Cyber Surge II + CBZC Kraków JIT + BlackCat composite
+  - 205: L26 batch — Bohemia Cannabia + Cryptex/PM2BTC + Bavaria-Costa Rica-Kosovo
+  - 206: L26 batch — Coordinated Crypto Scam Center + Archetyp + Crimenetwork
+  - 207: L26 batch — Aliados VI + Sofia call-centre + SPF cross-border CSE
+  - 208: L26 batch — LoopX + Bayern-Tirol-Romania + Bangkok Fluxstress
+  - 209: L26 batch — AT-LV-EE JIT + Zamunda piracy + Eurojust 100M crypto
+  - 210: L26 batch — Op Eastwood + Dnipro + Op PowerOFF Apr 2026
+- **Cumulative L26 enrichment count: 22 ops** (iters 203-210); ~206 Background-thin pages remaining.
+- Structural changes (iter 202 retrospective): CLAUDE.md "Background section requirements" block + LESSONS L26 added; addresses user audit "범죄의 구체적인 내용은 어디에 포함되어 있는가".
+- Pre-push integrity: lint HIGH=0; check_links broken=3 (legacy); build 1753 pages.
+
 ## [2026-05-17] CONTENT-ENRICHMENT [iter 201, single-agent, L23+L24+L25 strict] | FRONTIER+ first joint operation 2025 — 2nd tier-1 source via Singapore Police Force (police.gov.sg own-domain)
 - Target op: `wiki/operations/frontier-plus-cross-border-anti-scam-2025.md` (source_count 1 → 2).
 - 1st publisher (already on page): HKSAR Government Information Services (info.gov.hk) Press Release P2025060300475, 2025-06-03.

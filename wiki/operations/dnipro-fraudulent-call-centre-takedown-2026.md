@@ -95,7 +95,7 @@ sources:
   - "[[2026-02-23_eurojust-ukraine-term_11-arrests-fraudulent-call-centre]]"
 summary: "Latvian, Lithuanian, and Ukrainian authorities, coordinated by Eurojust through a JIT, took down a fraudulent call centre operating across three offices in Dnipro. The 2026-02-17 action day produced 11 arrests, 32 searches, seizure of EUR 400,000, two cryptocurrency wallets, eight luxury cars, and electronic evidence."
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-17
 ---
 # Dnipro Fraudulent Call Centre Takedown (2026)
 
@@ -104,6 +104,18 @@ updated: 2026-05-08
 Latvian, Lithuanian, and Ukrainian authorities, coordinated by [[eurojust|Eurojust]], dismantled a fraudulent call centre operating across three offices in Dnipro. The group used a fake cryptocurrency investment scheme, remote-access software, and bank and cryptocurrency transfer channels to take money from victims.
 
 This operation qualifies for the public IC corpus because the action was a source-backed three-country JIT matter, coordinated through Eurojust, and the enforcement result is distinct from the later 2025 December [[ukraine-fraudulent-call-centres-takedown-2025|Ukraine fraudulent call-centres action]].
+
+## Background
+
+This section describes the crime itself — what the group did, who they hurt, how the money moved, and how the organization was structured — separate from the operation's law-enforcement architecture (Summary and Cooperation Model).
+
+**Modus operandi.** The group operated a fraudulent call centre across three offices in Dnipro, Ukraine. Operators ran a fake cryptocurrency investment scheme that approached prospective victims by phone and online, promising "large profits" on managed crypto-asset trading accounts. After initial trust-building deposits, operators escalated victims to install remote-access software (Eurojust does not name the specific RAT family) under the cover story of a "trading platform" or "support tool." Once the remote-access channel was live, operators directly accessed the victim's banking and crypto-wallet credentials and transferred funds out of victim-controlled accounts into the group's controlled bank accounts and cryptocurrency wallets. The group also ran a secondary "recovery fraud" overlay: victims of the initial scheme were re-contacted and asked to pay further sums for purported legal support to recover the supposed lost assets — a classic re-victimisation pattern in investment-fraud call centres.
+
+**Victim profile + impact.** Initial investigations identified at least nine victims in Latvia and Lithuania with combined losses exceeding EUR 160 000. Eurojust further states that the call centre was set up to defraud citizens across Europe more broadly, indicating the nine-victim figure is a floor representing only the early identified subset whose complaints triggered the JIT. The Baltic victim concentration reflects the Russian/Latvian/Lithuanian linguistic reach of Dnipro-based operators, who could plausibly run cold-call scripts in Russian and Baltic languages with native or near-native fluency. The victim profile is consistent with retail investors targeted via online trading-platform advertising, not enterprise victims.
+
+**Financial flow.** Victim funds were exfiltrated via two channels: (1) bank wire transfers from victim-controlled accounts into group-controlled accounts (the EUR 400 000 in cash seized on action day represents a downstream-cash-out fraction of this flow); and (2) cryptocurrency transfers into group-controlled wallets (two such wallets were seized). Eight luxury cars seized in Ukraine indicate downstream cash-out into high-value physical assets, a common laundering pattern for Eastern European call-centre fraud rings. The cryptocurrency seizure figure (USD/EUR equivalent of the two wallets) is not published in the cited Eurojust release — see Contradictions.
+
+**Criminal organization structure.** Eleven members of the criminal group were arrested on action day; ten were placed in pre-trial detention and one under house arrest. The footprint across three Dnipro offices indicates a layered operation: a recruiting/management layer, a calling-floor operator layer (the bulk of the eleven arrests), and a money-handling layer responsible for moving funds into banking, crypto, and high-value physical assets. The group used SIM cards (seized on action day) to rotate phone numbers and evade caller-ID flagging — a standard call-centre fraud operational-security pattern. The tier-1 release does not name a head/principal, an external coordinator, or a known broader OCG affiliation.
 
 ## Cooperation Model
 
@@ -134,6 +146,14 @@ This page is separate from [[ukraine-fraudulent-call-centres-takedown-2025]] bec
 ## Evidence Notes
 
 Eurojust is the anchor source for the JIT, country participation, action day, agency list, victim-loss estimate, remote-access pattern, arrests, searches, and seizure figures. Border Security Report republishes the same public facts and provides an independent news URL for the action. Eurojust's Ukraine topic page confirms the release remains associated with Ukraine-linked Eurojust casework.
+
+## Contradictions & Open Questions
+
+- **L26 gap — cryptocurrency seizure value:** The release confirms two cryptocurrency wallets were seized but does not publish their EUR/USD value or the total volume of crypto throughput across the group's operational lifetime.
+- **L26 gap — victim total:** The nine victims (EUR 160 000+ losses) figure is explicitly described as an "initial" finding; total victim count across Europe is not enumerated in the tier-1 release.
+- **L26 gap — RAT family:** Eurojust describes "remote-access software" generically; the specific remote-access toolkit family (AnyDesk, TeamViewer, custom RAT, etc.) is not identified in the cited release.
+- **L26 gap — OCG affiliation:** The release does not state whether the eleven arrested individuals belong to a broader pre-existing OCG (e.g., known Eastern-European investment-fraud syndicate) or constituted a standalone Dnipro-based ring.
+- The participating-countries roster is restricted to the three JIT jurisdictions (Latvia, Lithuania, Ukraine) per L24 — additional victim countries across Europe are reflected in narrative but not in the frontmatter `participating_countries` list.
 
 ## References
 

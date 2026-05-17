@@ -122,7 +122,7 @@ updated: 2026-04-14
 | [[rydox-marketplace-takedown]] | CYB-2024-053 | 3 | completed | umbrella | 5 | 4.40 | 1 |
 | [[operation-taken-down-illegal-iptv-2024]] | CYB-2024-054 | 3 | completed | umbrella | 3 | 4.20 | 1 |
 | [[operation-soga-x]] | CYB-2024-055 | 3 | completed | umbrella | 3 | 4.25 | 1 |
-| [[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]] | CYB-2024-098 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[treasury-evil-corp-tri-lateral-us-uk-au-sanctions-2024]] | CYB-2024-098 | 3 | completed | — | 2 | 4.50 | 1 |
 | [[operation-final-exchange-bka-russian-crypto-exchanges-2024]] | CYB-2024-099 | 2 | completed | — | 6 | 3.80 | 1 |
 | [[operation-magnus-redline-meta-stealer-takedown-2024]] | CYB-2024-100 | 2 | completed | — | 1 | — | — |
 | [[us-doj-doppelganger-russian-influence-op-domain-seizures-2024]] | CYB-2024-101 | 2 | completed | — | 1 | — | 1 |
@@ -238,7 +238,7 @@ updated: 2026-04-14
 | [[operation-fever-cbzc-eu-presidency-2025]] | CYB-2025-814 | 3 | completed | — | 1 | 4.60 | 1 |
 | [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-827 | 3 | completed | umbrella | 5 | 4.70 | 2 |
 | [[portugal-spain-luso-angolan-cyber-fraud-money-laundering-eaw-2025]] | CYB-2025-861 | 3 | completed | — | 1 | 4.50 | 1 |
-| [[frontier-plus-cross-border-anti-scam-2025]] | CYB-2025-896 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[frontier-plus-cross-border-anti-scam-2025]] | CYB-2025-896 | 3 | completed | — | 2 | 4.50 | 1 |
 | [[sg-hk-my-gsm-gateway-scam-takedown-2025]] | CYB-2025-921 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[operation-chargeback-koblenz-bka-payment-processor-card-fraud-2025]] | CYB-2025-934 | 3 | completed | — | 1 | 4.60 | 1 |
 | [[kazakhstan-armenia-yerevan-call-centre-investment-fraud-2025]] | CYB-2025-968 | 3 | ongoing | — | 1 | 3.40 | 1 |

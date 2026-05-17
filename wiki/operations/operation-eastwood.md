@@ -114,7 +114,7 @@ sources:
   - "[[2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber]]"
 summary: "Operation Eastwood was a July 2025 Eurojust- and Europol-coordinated action against the pro-Russian NoName057(16) DDoS network. Authorities from more than a dozen jurisdictions disrupted over 100 servers, conducted searches, issued arrest warrants, and warned more than 1,100 supporters or administrators linked to the DDoSia ecosystem."
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-05-17
 ---
 # Operation Eastwood
 
@@ -123,6 +123,18 @@ updated: 2026-05-06
 Operation Eastwood was a July 2025 international enforcement action against the pro-Russian NoName057(16) DDoS network. The operation targeted the group's botnet, attack infrastructure, and organizer/supporter layer used to run DDoS attacks against public institutions, transport, energy, banking, and other targets across Europe and allied states.
 
 Eurojust described the action as a twelve-country operation with Eurojust and Europol support. The operational record also shows wider support and follow-on U.S. activity: DOJ later described the NoName action as coordinated with the FBI's Operation Red Circus and said law enforcement in 19 countries disrupted more than 100 servers in July 2025.
+
+## Background
+
+This section describes the underlying crime — the NoName057(16) DDoS ecosystem — rather than the law-enforcement umbrella (which is covered in Summary and Operational Timeline).
+
+**Modus operandi.** NoName057(16) ran a distributed-denial-of-service (DDoS) attack campaign against European and allied targets using a botnet of "hundreds of servers" combined with a crowdsourced volunteer client called DDoSia. According to the Eurojust release and the BKA/Polizei Sachsen mirror, supporters downloaded the DDoSia client onto their own machines and registered to receive Russia-aligned target lists pushed through Telegram channels operated by the group's administrator layer. The client then issued HTTP/HTTPS flood requests against the listed targets. Administrators incentivised participation with cryptocurrency micro-payments to top-contributing nodes, gamifying the volunteer botnet via leaderboards. Initial reconnaissance and target selection were managed through a small core of administrators; execution was offloaded to the volunteer node pool plus the dedicated server-based botnet layer that authorities disrupted on action day.
+
+**Victim profile + impact.** Targets were public institutions and critical-infrastructure-adjacent services across Europe and allied states — Eurojust and BKA name attacks against public administration, transport (including airports and railways), energy companies, banking, and defence and government portals. The group claimed responsibility for attacks tied to NATO summits, Ukraine-aid policy votes in European parliaments, and elections in Switzerland and elsewhere. Direct financial loss per incident is generally modest for HTTP-flood DDoS, but cumulative service-availability disruption across hundreds of targeted public-sector and CI sites over 2022–2025 made NoName057(16) the most active pro-Russian hacktivist DDoS actor in the European theatre during that window. Exact victim count is not enumerated in the tier-1 release; the 1 100+ figure refers to *supporters notified*, not victims.
+
+**Financial flow.** The crowdsourced model relied on cryptocurrency micro-payments to volunteer node operators, which gives the group a hybrid hacktivist/criminal profile: ideological recruitment of the user base, but monetary incentive to keep nodes online. The tier-1 release notes that Europol provided "crypto tracing" support during the operation, indicating the group's payment-rail surface was traceable on-chain. No total cryptocurrency seizure figure or USD-equivalent throughput is published in the cited releases — this is a gap (see Contradictions).
+
+**Criminal organization structure.** The group operates as a three-tier structure: (1) a small core of Russia-resident administrators who set targets, run Telegram channels, and operate the dedicated botnet servers; (2) a layer of approximately 17 administrators or linked operators (the number authorities subsequently notified) who run regional Telegram chapters, recruit, and distribute payouts; and (3) the broad volunteer base — the 1 100+ supporters notified by authorities — who run the DDoSia client. The two arrests took place in France and Spain against members of the administrator layer; primary core suspects remained in Russia and were targeted only via the seven international arrest warrants.
 
 ## Cooperation Model
 
@@ -149,6 +161,13 @@ This page is the operation-level aggregation point for the July 2025 internation
 ## Evidence Notes
 
 The strongest evidence comes from Eurojust, the German BKA/ZIT notice mirrored through Polizei Sachsen, and DOJ's later U.S. charging release. CyberScoop provides independent trade-press confirmation of the arrest, warrant, search, server-disruption, and country-participation figures.
+
+## Contradictions & Open Questions
+
+- **L26 gap — financial flow:** The tier-1 releases describe cryptocurrency micro-payments to volunteer node operators and confirm Europol provided crypto-tracing support, but do NOT publish total cryptocurrency volume, seizure totals, or USD-equivalent throughput for the DDoSia payout system. Total criminal-revenue figure is unknown.
+- **L26 gap — victim count:** Authorities publish 1 100+ *supporter* notifications, not a victim count. The number of attacked public-sector and CI services across 2022–2025 is not enumerated in the tier-1 releases.
+- **Country count discrepancy:** Eurojust frames the action as 12-country; DOJ's later release describes 19 countries disrupting infrastructure in July 2025. This page records the Eurojust-named 13 jurisdictions (Eurojust 12 + United States via the FBI's parallel Operation Red Circus track) for the frontmatter participating_countries roster.
+- **Russia-resident core:** Primary suspects believed to reside in Russia were unreachable for arrest; seven international arrest warrants were issued but execution depends on future travel. The two on-action-day arrests occurred against administrator-layer members in France and Spain.
 
 ## References
 
