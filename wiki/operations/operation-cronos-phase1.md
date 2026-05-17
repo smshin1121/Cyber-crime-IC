@@ -115,7 +115,7 @@ sources:
   - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-nca-disrupts-multi-billion-money-laundering-networks]]"
   - "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
 created: 2026-04-08
-updated: 2026-05-09
+updated: 2026-05-17
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Cronos Phase 1** was a landmark international law enforcement action that disrupted **LockBit**, the world's most deployed ransomware variant since 2022. On 20 February 2024, agencies from 10 countries executed a coordinated takedown of LockBit's infrastructure, led by the [[uk-nca|UK National Crime Agency]] and coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]]."
@@ -161,9 +161,25 @@ This was *almost certainly* one of the most significant ransomware disruption op
 
 ## Background
 
-LockBit emerged in late 2019 and by 2022 had become the most deployed ransomware variant worldwide. Operating as a Ransomware-as-a-Service (RaaS) platform, LockBit provided affiliates with malware tools in exchange for a share of ransom payments. The group's victims spanned critical infrastructure, healthcare, financial services, and government entities across dozens of countries.
+### Modus Operandi
 
-The investigation that led to Operation Cronos involved sustained multi-year preparation, with [[europol-ec3|Europol]] organizing 27 operational meetings and 4 technical sprints to coordinate the action.
+LockBit emerged in **late 2019** (initially as "ABCD" ransomware) and by 2022 had become the **most deployed ransomware variant worldwide**. It operated as a **Ransomware-as-a-Service (RaaS)** platform: the core LockBit development team maintained the encryptor binary, the affiliate control panel, and the public-facing data-leak site (`lockbitsupp` / `lockbitsupp.gov.uk`-style mirrors over Tor), while a tiered network of affiliates carried out the actual intrusions. Affiliates obtained initial access through purchased credentials, exploitation of public-facing vulnerabilities (e.g., Fortinet, Citrix, ESXi), and phishing; deployed reconnaissance and lateral-movement tooling (Cobalt Strike, Mimikatz); exfiltrated data via tools such as StealBit and rclone; and finally detonated the LockBit encryptor across the victim estate. The group employed a **double-extortion** model — encrypt-and-leak — and from LockBit 2.0 onwards the operators experimented with **triple-extortion** elements (DDoS pressure on victims who refused to pay).
+
+### Victim Profile and Impact
+
+According to subsequent US DOJ filings tied to the same investigation (see [[operation-cronos-phase2]]), LockBit attacked **more than 2,500 victims in at least 120 countries**, including approximately **1,800 victims in the United States** alone. Victim sectors included **hospitals and healthcare providers, schools and universities, critical infrastructure operators, multinational corporations, small and medium businesses, and government and law-enforcement agencies**. The UK NCA February 2024 disruption announcement characterised LockBit as having caused "billions of pounds" in losses; the FCDO's May 2024 sanctions statement put extortion proceeds at **"over USD 1 billion"** from thousands of victims globally.
+
+### Financial Flow
+
+Ransom payments were made in **Bitcoin** to affiliate-controlled wallets. The standard split, later confirmed in US DOJ charging documents for the LockBit developer Dmitry Khoroshev, was a **20 % developer share / 80 % affiliate share**. By the time of the February 2024 disruption, NCA-led infrastructure access showed evidence of large-scale crypto laundering — over **200 cryptocurrency accounts linked to the group were frozen** on action day. Khoroshev personally was later (Phase 2) alleged to have received **at least USD 100 million** in developer-share cryptocurrency disbursements.
+
+### Criminal Organisation Structure
+
+LockBit operated on a **core-developer plus affiliate** model. A small core team (Khoroshev and associates) maintained the ransomware code base, the affiliate panel, the data-leak site, and the negotiation chat infrastructure. Affiliates — vetted before being granted panel access — included individuals later named in US/French/Polish/Ukrainian charging documents: Mikhail Vasiliev (Russian-Canadian, arrested in Canada 2022, transferred to US 2024), Ruslan Astamirov (Russian national, arrested in Arizona 2023), Mikhail Matveev / "Wazawaka" / "Boriselcin", Artur Sungatov, and Ivan Kondratyev / "Bassterlord". This is *highly likely* the modal RaaS organisational pattern in 2022-2024.
+
+### Investigation Origins
+
+Sustained multi-year preparation preceded the disruption: [[europol-ec3|Europol]] organised **27 operational meetings and 4 technical sprints**, and an estimated **1,000+ SIENA messages** were exchanged between the participating agencies. The UK [[uk-nca|National Crime Agency]] led the operational pillar, having developed covert access to the affiliate panel and core servers; French judicial authorities provided the arrest-warrant framework that triggered the Polish and Ukrainian detentions on action day.
 
 ## Participating Parties
 
@@ -248,6 +264,8 @@ No direct Korean involvement in Operation Cronos Phase 1 was identified. However
 - What specific legal bases (treaty provisions) were invoked for the cross-border arrests in Poland and Ukraine?
 - What was the exact scope and timing of the investigation phase preceding the action day?
 - How many victims were directly assisted by the released decryption tools?
+- Phase 1 frontmatter records only 2 arrests on action day (Poland, Ukraine), but per-affiliate identifications (Vasiliev, Astamirov, Matveev, Sungatov, Kondratyev, Khoroshev) accrued progressively from 2022 through 2024-05 sanctions; the Phase 1 page deliberately scopes "arrests" to the 2024-02-20 action — see [[operation-cronos-phase2]] for the cumulative US-charging pipeline.
+- The aggregate ransom proceeds figure of "over USD 1 billion" (FCDO 2024-05-07) is *highly likely* an enforcement-side estimate combining DOJ chain-analysis with NCA infrastructure access; the exact methodology is not published.
 
 <!-- SOURCE_ENRICHMENT_START -->
 
