@@ -12,6 +12,7 @@ updated: 2026-05-17
 |--------|------|-----------|------|-------------|--------|
 | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]] | press-release | 법무부 (Ministry of Justice of the Republic of Korea) | ? | high | ? |
+| [[2026-05-12_politia-md_crimenetwork-darknet-takedown-ini-pccocs-moldova]] | press-release | Poliția Republicii Moldova (IGP — INI Cybercrime Centre + PCCOCS) | ? | high | ? |
 | [[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest]] | press-release | Bundeskriminalamt (BKA) | ? | high | ? |
 | [[2026-05-08_afp-gov-au_mexico-yucatan-nayarit-csam-international-investigation]] | press-release | Australian Federal Police (AFP) — joint with Queensland Police Service, Mexico FGR/FEMDO and SSPC | ? | high | ? |
 | [[2026-05-07_mhra_operation-pangea-xviii-illegal-medicines]] | press-release | UK Medicines and Healthcare products Regulatory Agency | ? | high | ? |

@@ -100,14 +100,15 @@ lessons_learned:
   - "Successor platforms can re-emerge within days after a takedown; sustained monitoring of the 'underground economy' ecosystem is required to detect and disrupt relaunches."
   - "European Arrest Warrant + host-state special police unit remains an effective pathway when a German-language marketplace operator is physically located in another EU member state."
   - "Inclusion of a non-EU partner (Moldova) suggests technical infrastructure spread beyond the EU; Eurojust coordination still scales to mixed EU/non-EU IC."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest]]"
+  - "[[2026-05-12_politia-md_crimenetwork-darknet-takedown-ini-pccocs-moldova]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
-> [!info] Provisional / single-source page
-> This page is built from a single tier-1 primary source (the BKA / ZIT joint press release of 8 May 2026). It is below the preferred publication threshold of `source_count >= 5` and should be enriched as additional tier-1 sources (Eurojust press release, Spanish National Police statement, Moldovan CCCC statement, court filings) are ingested.
+> [!info] Provisional page — below preferred publication threshold
+> This page is built from two tier-1 primary sources: the **BKA / ZIT joint press release** of 8 May 2026 and the **Poliția Republicii Moldova (politia.md / INI–PCCOCS) press release** of 12 May 2026. It is still below the preferred publication threshold of `source_count >= 5` and should be enriched as additional tier-1 sources (Eurojust press release, Spanish National Police statement, court filings) are ingested.
 
 ## Summary
 
@@ -138,7 +139,8 @@ Transactions were settled in **Bitcoin**, **Litecoin**, and **Monero**. The oper
 | Polizeipräsidium Offenburg | Parallel domestic action | Germany |
 | Polizeipräsidium Reutlingen | Parallel domestic action | Germany |
 | [[spain-national-police]] (Policía Nacional, special unit) | Executed the arrest on Mallorca | Spain |
-| Inspectoratul Național de Investigații – Centrul pentru Combaterea Crimelor Cibernetice | Foreign cybercrime investigative cooperation | Moldova |
+| Inspectoratul Național de Investigații (INI) – Centrul pentru Combaterea Crimelor Cibernetice | Cyber LE participant in Joint Investigation Group (per politia.md 12 May 2026); platform infrastructure was hosted on a Moldovan company's servers | Moldova |
+| Procuratura pentru Combaterea Criminalității Organizate și Cauze Speciale (PCCOCS) | Lead Moldovan prosecutor (per politia.md 12 May 2026) | Moldova |
 | [[eurojust]] | Judicial coordination support | EU |
 
 > [!note] Stub note

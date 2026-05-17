@@ -1,5 +1,16 @@
 # Activity Log
 
+## [2026-05-17] CONTENT-ENRICHMENT [iter 196, single-agent, L23+L24+L25 strict] | Crimenetwork Relaunch Takedown 2026 — 2nd tier-1 source via Poliția Republicii Moldova
+- Target op: `wiki/operations/crimenetwork-relaunch-takedown-2026.md` (source_count 1 -> 2).
+- 1st publisher (already on page): Bundeskriminalamt (BKA) + ZIT Frankfurt am Main (bka.de, 2026-05-08).
+- 2nd publisher (newly added): Poliția Republicii Moldova — INI Centrul pentru combaterea crimelor cibernetice + PCCOCS (politia.md, 2026-05-12) — https://politia.md/ro/politia-actiune/operatiune-comuna-ini-si-autoritatilor-germane-soldata-cu-destructurarea-unei (Moldovan national police own-domain; L25 strict-compliant — not a private wire, not aggregator).
+- Fetch: WebFetch (Cloudflare-free, full Romanian body recovered first-shot).
+- L24 verbatim cooperation quote (politia.md headline + lede, ro): "Operațiune comună a INI și autorităților germane … Ofițerii Centrului pentru combaterea crimelor cibernetice al INI și procurorii PCCOCS, în cooperare cu autoritățile de aplicare a legii din Germania, Poliția Spaniolă și EUROJUST, au destructurat activitatea unei grupări criminale organizate care administra platforma „Crimenetwork"."
+- L24 ≥2-LE cooperation: Moldova INI–PCCOCS (lead Moldovan side) ↔ Germany BKA/ZIT + Spain Policía Nacional ↔ EUROJUST. Joint Investigation Group ("grupul comun de investigație") explicitly named.
+- L23 wikilink-or-empty: lead_agency=`[[germany-bka]]`, coordinating_body=`[[eurojust]]` — unchanged, compliant.
+- Pages created: raw `raw/press-releases/2026-05-12_politia-md_crimenetwork-darknet-takedown-ini-pccocs-moldova.md`; source summary `wiki/sources/2026-05-12_politia-md_crimenetwork-darknet-takedown-ini-pccocs-moldova.md`.
+- Op page edits: source_count 1->2, sources list extended, banner downgraded from single-source to "two tier-1 primary sources", `updated:` bumped to 2026-05-17; Participating Parties table now distinguishes INI (cyber LE) from PCCOCS (prosecutor) per the politia.md source.
+
 ## [2026-05-17] CONTENT-ENRICHMENT [iter 192, single-agent, L23+L24+L25 strict] | Italy–US HAFNIUM Xu Zewei extradition — 2nd tier-1 source via US DOJ OPA
 - Target op: `wiki/operations/italy-china-us-hafnium-hacker-extradition-2026.md` (source_count 1 -> 2).
 - 1st publisher (already on page): Polizia di Stato — Servizio Polizia Postale (commissariatodips.it, 2026-04-27).
