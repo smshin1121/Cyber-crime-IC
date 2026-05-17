@@ -3284,3 +3284,13 @@
 - ANTARA-side adds: Jakarta-side press conference at Bareskrim Mabes Polri HQ; three named officials on stage — Brigjen Pol Adi Vivid Agustiadi Bachtiar (Dirtipidsiber Bareskrim Polri, same officer quoted by INTERPOL), Brigjen Pol Ahmad Ramadhan (Karo Penmas Humas Polri), Mr. Miyagawa (Japanese Embassy police attache for Indonesia, physically on stage with Polri); Indonesian sub-case loss = Rp1.6 billion (~USD 105K); evidence = smartphones + laptops + hard disks; in-country diplomatic-LE channel via Japanese Embassy in Jakarta added to Cooperation Mechanisms (now 4 layers).
 - L23 wikilink-or-empty: lead_agency=[[interpol-igci]], coordinating_body=[[interpol-igci]] — unchanged, both wikilink-compliant.
 - Files: 2 new (raw antara + source antara), 1 updated (op page — added Antara paragraph to Operational Timeline + 4th cooperation-layer + provisional callout downgraded from "single-source" to "two-source" + source_count 1->2 + sources list + summary expansion).
+
+## [2026-05-17] enrich | Eurojust 100M Crypto Investment Fraud Takedown — 2nd tier-1 own-domain (PJ Portugal)
+- Op: [[eurojust-100m-crypto-investment-fraud-takedown-2025]] (source_count 1 -> 2)
+- 2nd publisher: Polícia Judiciária (Portugal) — Unidade Nacional de Combate a Corrupção; release dated 2025-09-25; URL: https://www.policiajudiciaria.pt/detido-em-lisboa-lider-de-organizacao-internacional-de-criptoativos/
+- L25 tier-1 own-domain class: national LE agency, own-domain (policiajudiciaria.pt); NOT a private news-wire reproduction. PJ is the executing authority for the Portuguese segment of the 2025-09-17 joint action day.
+- L24 verbatim cooperation quote (PJ release): "joint operation conducted by the PJ together with the Corpo Nacional de Policia (Spain) and Bulgarian and Lithuanian authorities, supported by Europol and Eurojust" — multiple foreign LE partners explicitly named (≥2-state IC cooperation satisfied independently of the Eurojust release).
+- PJ-side adds: 9 in-country searches in Portugal; seizures specifically itemised — 6 properties, 3 luxury vehicles, 1 motorcycle, 6 watches, 15 paintings, ~EUR 20,000 in cryptocurrency; Portuguese victim losses exceed EUR 1 million (subset of the 100M+ Europe-wide total); EAW issued by Spain; suspect surrender proceedings at Tribunal da Relação de Lisboa; case processed by DCIAP.
+- L23 wikilink-or-empty: lead_agency=[[eurojust]], coordinating_body=[[eurojust]] — unchanged, both wikilink-compliant.
+- Files: 2 new (raw PJ + source PJ), 1 updated (op page — source_count 1->2 + sources list + References [2] row + updated date).
+- Lint: HIGH=0 (verified post-edit).

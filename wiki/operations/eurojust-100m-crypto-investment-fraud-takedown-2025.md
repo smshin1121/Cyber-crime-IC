@@ -114,12 +114,13 @@ lessons_learned:
   - "First wiki record explicitly capturing a Spain-Lithuania JIT pattern in a major cryptocurrency-investment-fraud joint action day, with Europol joining as a third operational party. The 23-country corpus is among the wider per-operation jurisdictional coverage in the wiki."
   - "Europol cryptocurrency-expert in-country deployment to Portugal demonstrates a discrete IC mechanism class for cross-jurisdictional crypto-asset seizure that complements traditional JIT and EAW/EIO instruments."
   - "Lithuanian bank-account proceeds-laundering pattern identified by DOJ/Eurojust as the recurring laundering route — adds to the wiki's documentation of Lithuanian financial-system exposure to EU-wide crypto-fraud schemes alongside the [[us-v-tymoshchuk-nefilim-megacortex-lockergoga|Tymoshchuk Lithuania-cooperation track record]]."
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown]]"
+  - "[[2025-09-25_policia-judiciaria-pt_lisbon-leader-international-crypto-fraud-organisation]]"
 summary: "Eurojust-coordinated 2025-09-23 joint action day across Spain, Portugal, Italy, Romania, and Bulgaria led to 5 arrests including the alleged main perpetrator behind an online cryptocurrency investment fraud running since at least 2018 that defrauded 100+ victims in Germany, France, Italy, and Spain of EUR 100 million+. Spain-Lithuania Joint Investigation Team supported by Europol; Europol deployed a cryptocurrency expert to Portugal for in-country crypto-asset seizure. 23-country corpus (proceeds-laundering or victim jurisdictions). Lithuanian bank accounts identified as the primary proceeds-laundering route. Eurojust assisted with the execution of a European Arrest Warrant, European Investigation Orders, and freezing orders."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -183,3 +184,4 @@ South Korea is not named in the cited Eurojust release among the 23 countries in
 | # | Title | Publisher | Date | URL |
 |---|-------|-----------|------|-----|
 | [1] | [[2025-09-23_eurojust_100m-cryptocurrency-investment-fraud-takedown\|Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe]] | Eurojust | 2025-09-23 | https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe |
+| [2] | [[2025-09-25_policia-judiciaria-pt_lisbon-leader-international-crypto-fraud-organisation\|Detido em Lisboa lider de organizacao internacional de criptoativos]] | Policia Judiciaria (Portugal) | 2025-09-25 | https://www.policiajudiciaria.pt/detido-em-lisboa-lider-de-organizacao-internacional-de-criptoativos/ |
