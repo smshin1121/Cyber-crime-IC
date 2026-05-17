@@ -6,6 +6,7 @@ aliases:
   - "LabHost takedown"
   - "LabHost phishing-as-a-service disruption"
   - "Operation LabHost"
+  - "Operation Nebulae (Australian arm — AFP JPC3)"
 case_id: CYB-2024-202
 period: 2
 operation_type: takedown
@@ -86,6 +87,7 @@ results:
     - "LabHost platform shut down (previously available on the open web)"
     - "≥40,000 phishing domains linked to LabHost; ~10,000 users worldwide"
     - "LabRat campaign-management tool with 2FA-code capture capability disrupted"
+    - "Australia (Operation Nebulae, AFP JPC3): 5 arrests, 22 search warrants across 5 states (14 VIC, 2 QLD, 3 NSW, 1 SA, 2 WA), 207 criminal servers taken down, 100+ Australian suspects identified, 94,000+ Australian victims targeted, AUD 28 million estimated Australian harm"
 edges:
   - source_actor: uk-metropolitan-police
     target_actor: europol-ec3
@@ -138,12 +140,13 @@ lessons_learned:
   - "Establishes the Europol J-CAT (Joint Cybercrime Action Taskforce, hosted at Europol HQ) as a discrete IC mechanism class for organising multilateral cybercrime takedowns — supplementing the bilateral MLAT and EU JIT models tracked elsewhere in the wiki."
   - "Demonstrates the PhaaS commoditisation pattern with explicit pricing ($249/month), feature menu (170+ fake-website templates), and integrated 2FA-capture tooling (LabRat) — a benchmark for evaluating later phishing-platform takedowns."
   - "Action-phase Europol specialist on-site deployment to the Dutch National Police is a discrete supporting mechanism class — Europol cryptocurrency-expert deployment to Portugal in the [[eurojust-100m-crypto-investment-fraud-takedown-2025|2025 Eurojust €100M crypto fraud takedown]] is a structurally similar pattern for crypto-asset rather than phishing infrastructure."
-source_count: 1
+source_count: 2
 sources:
   - "[[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost]]"
+  - "[[2024-04-18_afp-gov-au_global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing]]"
 summary: "Between 14 and 17 April 2024, a UK London Metropolitan Police-led international investigation supported by Europol EC3 and the Joint Cybercrime Action Taskforce (J-CAT) executed 70 searches across 19 countries (Australia, Austria, Belgium, Canada, Czechia, Estonia, Finland, Ireland, Lithuania, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Spain, Sweden, United Kingdom, United States) producing 37 arrests including 4 in the UK linked to the running of the site (the LabHost original developer among them). The LabHost phishing-as-a-service platform — $249/month subscription, ≥40,000 LabHost-linked phishing domains, ~10,000 users worldwide, 170+ fake-website templates, and the integrated LabRat campaign-management tool capturing 2FA codes — was shut down. Investigation supported since September 2023 with an operational sprint at Europol HQ; Europol specialist on-site deployment to the Dutch National Police during the action phase."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -159,7 +162,7 @@ What made LabHost particularly destructive was its integrated campaign managemen
 
 | Country | Lead Authority |
 |---|---|
-| Australia | Australian Federal Police-led Joint Policing Cybercrime Coordination Centre (AFP / JPC3) |
+| Australia | Australian Federal Police-led Joint Policing Cybercrime Coordination Centre (AFP / JPC3); joint with Victoria Police, Queensland Police Service, NSW Police Force, WA Police Force (Operation Nebulae) |
 | Austria | Criminal Intelligence Service (Bundeskriminalamt) |
 | Belgium | Federal Judicial Police Brussels |
 | Canada | Royal Canadian Mounted Police (RCMP) |
@@ -187,7 +190,8 @@ What made LabHost particularly destructive was its integrated campaign managemen
 | September 2023 | Europol begins supporting the case | Europol 2024-04-18 |
 | (date not enumerated) | Operational sprint at Europol HQ with all 19 participating countries to identify users and victims in their jurisdictions | Europol 2024-04-18 |
 | 2024-04-14 to 2024-04-17 | Action days: 70 searches globally; 37 arrests; 4 UK arrests including LabHost developer; Europol specialist deployed on-site to Dutch National Police | Europol 2024-04-18 |
-| 2024-04-18 | Public announcement; LabHost platform shut down | Europol 2024-04-18 |
+| 2024-04-17 | Australia (Operation Nebulae, AFP JPC3 + Victoria/Queensland/NSW/WA Police): 22 search warrants executed across 5 states (14 VIC, 2 QLD, 3 NSW, 1 SA, 2 WA) by 200+ AFP and state/territory officers; 5 arrests (1 Melbourne + 1 Adelaide on cybercrime charges as alleged LabHost users; 3 additional Melbourne men on drug charges); 207 criminal servers taken down | AFP 2024-04-18 |
+| 2024-04-18 | Europol public announcement; LabHost platform shut down. AFP joint release with Victoria/Queensland/NSW/WA Police announces Australian arm | Europol & AFP 2024-04-18 |
 
 ## Results and Impact
 
@@ -198,6 +202,18 @@ What made LabHost particularly destructive was its integrated campaign managemen
 - **≥40,000 phishing domains** linked to LabHost.
 - **~10,000 LabHost users worldwide.**
 - **LabRat 2FA-capture tool** disrupted.
+
+### Australia (Operation Nebulae — AFP JPC3 + State Police)
+
+Per the [[2024-04-18_afp-gov-au_global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing|AFP joint media release]] of 2024-04-18 (issued jointly with Victoria Police, Queensland Police Service, NSW Police Force, and WA Police Force):
+
+- **5 Australian arrests** on 2024-04-17 — 1 Melbourne man + 1 Adelaide man charged with cybercrime offences as alleged LabHost users; 3 additional Melbourne men charged with drug-related offences during the warrants.
+- **22 Australian search warrants** executed across five states: 14 Victoria, 2 Queensland, 3 NSW, 1 South Australia, 2 Western Australia. More than 200 AFP and state/territory officers involved.
+- **207 criminal servers taken down** by AFP JPC3 (servers hosting LabHost-generated fraudulent phishing websites).
+- **More than 100 LabHost-using suspects identified in Australia** targeting Australian victims.
+- **More than 94,000 Australians targeted** via LabHost phishing campaigns.
+- **AUD 28 million** estimated potential harm to Australians from the sale of stolen Australian credentials (AFP Acting Assistant Commissioner Cyber Command Chris Goldsmid).
+- LabHost origin attribution (AFP): "originated in Canada in 2021, targeting North America, and expanded to the United Kingdom (UK) and Ireland, before going global. Australian criminals are believed to be among its top three user countries."
 
 ## Cooperation Mechanisms Used
 
@@ -213,13 +229,15 @@ South Korea is not named among the 19 participating jurisdictions in the cited E
 
 ## Contradictions & Open Questions
 
-- The cited release does not name the LabHost original developer or the other 3 UK arrestees by identity.
-- Specific victim totals per country (including the AFP-stated "94,000+ Australians") are not enumerated in the cited Europol release; that figure comes from secondary AFP commentary rather than this primary source.
-- Specific bank-card / PIN / password totals (480,000 / 64,000 / 1M+ per CNN secondary reporting) are not enumerated in the cited Europol release.
-- Post-arrest charging timelines, indictment counts, and sentencing schedules are not enumerated.
+- Neither the Europol primary nor the AFP joint release names the LabHost original developer or the other 3 UK arrestees by identity.
+- The AFP joint release confirms the "94,000+ Australian victims" figure as a tier-1 primary attribution; per-country victim totals for the other 18 participating jurisdictions are not enumerated in either primary.
+- Specific bank-card / PIN / password totals (480,000 / 64,000 / 1M+ per CNN secondary reporting) are not enumerated in either of the two cited tier-1 primaries.
+- Post-arrest charging timelines, indictment counts, and sentencing schedules are not enumerated beyond the 2 cybercrime-charged Australians and 3 drug-charged Australians named in the AFP release.
+- **LabHost subscription price discrepancy**: the Europol primary states "monthly fee averaging $249" while the AFP release states "as little as $270 per month". The two figures are reconcilable as a tier-pricing range ($249 average / $270 entry-level), but neither primary explicitly reconciles them.
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|-----------|------|-----|
 | [1] | [[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost\|International investigation disrupts phishing-as-a-service platform LabHost]] | Europol | 2024-04-18 | https://www.europol.europa.eu/media-press/newsroom/news/international-investigation-disrupts-phishing-service-platform-labhost |
+| [2] | [[2024-04-18_afp-gov-au_global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing\|Global sting sees Australian offenders arrested for cybercrime and phishing attacks]] | Australian Federal Police (joint w/ Victoria Police, Queensland Police Service, NSW Police Force, WA Police Force) | 2024-04-18 | https://www.afp.gov.au/news-centre/media-release/global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing |
