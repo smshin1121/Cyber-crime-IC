@@ -105,7 +105,7 @@ sources:
   - "[[2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide]]"
 summary: "Operation RapTor was a 2025 global darknet-trafficking operation announced by DOJ JCODE and international partners. Authorities arrested 270 dark web vendors, buyers, and administrators across four continents and ten named countries, while seizing more than USD 200 million in currency and digital assets, over two metric tons of drugs, 144 kilograms of fentanyl or fentanyl-laced narcotics, and more than 180 firearms."
 created: 2026-05-07
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 # Operation RapTor
 
@@ -114,6 +114,16 @@ updated: 2026-05-09
 Operation RapTor was a global coordinated operation against darknet trafficking of fentanyl, opioids, firearms, counterfeit goods, and related illicit services. DOJ announced the results on 22 May 2025 with JCODE and international law-enforcement partners.
 
 The operation produced 270 arrests across four continents and ten named countries: Austria, Brazil, France, Germany, the Netherlands, South Korea, Spain, Switzerland, the United Kingdom, and the United States.
+
+## Background
+
+**Modus operandi.** Per DOJ and FBI releases, the targets of Operation RapTor were vendors, buyers, and administrators operating on Tor-hidden-service darknet marketplaces — principally Nemesis, Tor2Door, Bohemia, and Kingdom Markets, the four markets DOJ named as evidence-source feeders for the coordinated arrest wave. Vendors used these markets to sell fentanyl, fentanyl-laced counterfeit pills (pressed to imitate oxycodone, Xanax, and Adderall), heroin, methamphetamine, cocaine, firearms, counterfeit currency, fraudulent identity documents, and stolen account data. Orders were placed through marketplace escrow, shipped via national postal services and private couriers (often disguised as innocuous packages with falsified return addresses), and paid in Bitcoin or Monero through marketplace-hosted wallets. After prior takedowns of Hydra (2022), Nemesis (March 2024), and other markets, RapTor exploited the resulting evidence packages — vendor PGP keys, shipping addresses, customer lists, and on-chain transaction histories — to identify individual vendors and high-volume buyers across jurisdictions.
+
+**Victim profile + impact.** The defining victim class is users of opioids and counterfeit pharmaceuticals, particularly U.S. consumers exposed to fentanyl-laced counterfeit prescription tablets. DOJ framed RapTor as a fentanyl-poisoning response: 144 kilograms of fentanyl or fentanyl-laced narcotics seized in the operation represents lethal doses sufficient to kill millions, given the ~2 mg lethal-dose threshold widely cited by DEA. U.S. overdose-death statistics that motivated the JCODE initiative — over 100,000 annual U.S. overdose deaths in the years preceding 2025, with synthetic opioids accounting for the majority — provide the impact backdrop. Secondary victim categories include firearms-trafficking victims (recipients of weapons sold through darknet listings, often diverted into U.S. street markets) and counterfeit-document fraud victims.
+
+**Financial flow.** Darknet-market commerce on the targeted platforms ran on Bitcoin and Monero, with Monero adoption increasing as on-chain analytics matured. Marketplaces operated escrow wallets that held buyer funds until delivery confirmation, then released funds to vendor wallets (less a market commission of typically 2-5%). Vendor cash-out paths included no-KYC and weak-KYC cryptocurrency exchanges, peer-to-peer trades, prepaid debit cards, and conversion through privacy-coin swap services. The USD 200 million+ in currency and digital assets seized in Operation RapTor reflects on-chain vendor and administrator wallets traced through the prior marketplace seizures, plus cash and bank funds recovered during national search warrants.
+
+**Criminal organization structure.** Targets clustered in three roles: (1) **vendors** — typically small operations of 1-5 individuals running storefronts, often specialising in one product class (fentanyl analogues, firearms, counterfeit currency), with the most prolific vendors on Nemesis and Tor2Door identified by DOJ as having processed thousands of orders before takedown; (2) **administrators** — small teams (often 2-4 named individuals per market) operating the marketplace infrastructure, escrow wallets, and forum moderation; (3) **buyers** — individual consumers and resellers, with high-volume buyers (those purchasing in kilogram quantities for street-level redistribution) prioritised for arrest. Public DOJ releases do not describe targets as members of pre-existing hierarchical OCGs (cartels, mafias); rather, RapTor targeted the post-Hydra darknet vendor ecosystem of independent operators connected only through shared markets and forum identities.
 
 ## Cooperation Model
 
@@ -142,6 +152,12 @@ This page is the operation-level aggregation point for Operation RapTor. The exi
 ## Evidence Notes
 
 DOJ is the anchor source for the operation name, arrest total, participating-country list, and seizure totals. FBI and ICE provide parallel U.S. government confirmation. Hackread and OCCRP add external media confirmation of the operation name, ten-country scope, prior-marketplace evidence pipeline, and headline enforcement metrics.
+
+## Contradictions & Open Questions
+
+- Per-vendor revenue breakdowns and overall on-chain transaction volume on the feeder marketplaces (Nemesis, Tor2Door, Bohemia, Kingdom) are not disclosed in DOJ's public RapTor announcement; only the aggregate USD 200 million+ asset-seizure figure is reported.
+- Defendant-level financial flows (laundering routes, exchange identities, cash-out infrastructure) are not enumerated in public sources for the 270 arrested individuals.
+- Aggregate victim count and total user-poisoning impact from products sold through the targeted vendors are not quantified in tier-1 sources; only the 144 kg fentanyl seizure metric is provided.
 
 ## References
 

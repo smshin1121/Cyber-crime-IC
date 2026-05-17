@@ -109,7 +109,7 @@ sources:
   - "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
   - "[[2024-10-02_therecord-media_operation-cronos-phase-3-lockbit]]"
 created: 2026-04-08
-updated: 2026-05-09
+updated: 2026-05-17
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Cronos Phase 3** was the third phase of the international enforcement campaign against the **LockBit** ransomware group, announced on 1 October 2024. This phase resulted in 4 new arrests across France, the UK, and Spain, the seizure of 9 servers in Spain, and coordinated **financial sanctions** by Australia, the UK, and the US against a prolific LockBit affiliate linked to **Evil Corp**."
@@ -152,7 +152,13 @@ The introduction of financial sanctions alongside traditional criminal enforceme
 
 ## Background
 
-Following the [[operation-cronos-phase1|Phase 1 takedown]] in February 2024, the Operation Cronos task force continued its investigation, resulting in additional arrests and a significant expansion of enforcement tools. Phase 3 revealed the operational link between LockBit and Evil Corp, a notorious Russian cybercrime group, through a shared affiliate who was identified and sanctioned.
+**Modus operandi.** Per Europol, NCA, and gov.uk releases tied to Phases 1 and 3, LockBit operated as a Ransomware-as-a-Service (RaaS) platform from approximately 2019. The core developer team — led by Russian national Dmitry Khoroshev (publicly identified as "LockBitSupp" in May 2024) — maintained the LockBit encryptor binary (versions including LockBit 2.0, LockBit 3.0/Black, and LockBit Green), the affiliate-management panel, and the Tor leak site used for double-extortion threat publication. Affiliates rented the encryptor on a revenue-share basis (typically 70-80% to the affiliate, 20-30% to the LockBit operators), gained initial network access through phishing, exploitation of public-facing services (Citrix Bleed, Fortinet, Confluence, Cisco ASA vulnerabilities), purchased access from initial-access brokers, or insider recruitment, then deployed the encryptor after exfiltrating sensitive data. Phase 3 specifically targeted the affiliate ecosystem — including bulletproof-hosting infrastructure in Spain used to support affiliate command-and-control — and uncovered an operational nexus with Evil Corp, the long-standing Russian cybercriminal group behind Dridex banking malware and BitPaymer/WastedLocker ransomware, through a shared affiliate identified during the post-Phase-1 forensic exploitation.
+
+**Victim profile + impact.** LockBit was the most prolific ransomware brand of 2022-2023, claiming over 2,500 victims globally per the U.K. Foreign, Commonwealth & Development Office sanctions statement of 7 May 2024, with publicly listed victims spanning hospitals (Hospital for Sick Children Toronto, Royal Mail, NHS supply-chain providers), manufacturing, financial services, education, and government entities across more than 120 countries. The FCDO sanctions package valued total extortion proceeds at "over USD 1 billion" extracted from victims globally. Notable high-impact incidents included the attacks on Royal Mail International (early 2023), Boeing (October 2023), the U.K. Royal Mail logistics shutdown, and the November 2023 ICBC New York attack that disrupted U.S. Treasury market settlement. Phase 3 did not announce new victim-side disruption metrics but extended the affiliate-disruption pressure following the Phase 1 takeover of the leak site and decryption-key distribution.
+
+**Financial flow.** LockBit ransom payments flowed in Bitcoin to affiliate-controlled wallets, with the revenue-share split executed off-chain through the affiliate panel. Per U.S. Treasury OFAC designations supporting the Phase 3 sanctions package, ransom proceeds were laundered through cryptocurrency exchanges with weak KYC (including services subsequently sanctioned, e.g., Zservers infrastructure later targeted in February 2025), mixers, and conversion to fiat via Russian-jurisdiction exchanges. The trilateral Australia-UK-US sanctions targeted the financial infrastructure supporting Evil Corp and the shared LockBit affiliate identified in Phase 3, naming individuals (15 by UK, 6 by US, 2 by Australia) involved in laundering and cash-out roles.
+
+**Criminal organization structure.** LockBit operated on a clear three-tier structure: (1) **core developers / operators** — a small Russian-speaking team headed by Khoroshev maintaining the encryptor, panel, leak site, and negotiation chat; (2) **affiliates** — an estimated 100-200 active operators at peak who carried out the actual intrusion-to-encryption attacks, rotating among RaaS brands but recurring under LockBit; (3) **support roles** — bulletproof-hosting operators (one Spanish administrator arrested in Phase 3), money launderers (the sanctioned Evil Corp-linked network), and initial-access brokers selling network footholds. The LockBit-Evil Corp nexus disclosed in Phase 3 — a single affiliate active in both ecosystems — demonstrated that the RaaS ecosystem is interconnected through shared operators rather than partitioned into discrete groups.
 
 Cumulative Operation Cronos results (Phase 1 + Phase 3):
 - **6 total arrests** (2 in Phase 1, 4 in Phase 3)
@@ -233,6 +239,8 @@ No direct Korean involvement in Operation Cronos Phase 3 was identified. Japan w
 - What specific Evil Corp activities were the basis for the sanctions?
 - How effective were the financial sanctions in disrupting the targeted individuals' operations?
 - Are additional Cronos phases planned beyond Phase 3?
+- Phase 3 tier-1 sources do not disclose Phase-3-specific victim-side impact metrics (number of victims protected, ransom payments prevented, data recoveries); only cumulative LockBit-brand victim figures from Phase 1 and the FCDO sanctions statement are available.
+- The identity of the shared LockBit-Evil Corp affiliate (beyond designation as "a prolific affiliate") is not fully disclosed in publicly available Phase 3 sources; OFAC and OFSI sanctions lists name underlying individuals without explicitly attributing each to the LockBit nexus.
 
 <!-- SOURCE_ENRICHMENT_START -->
 
