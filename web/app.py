@@ -1644,11 +1644,23 @@ def page_not_found(e):
     return render_template("404.html"), 404
 
 
+def _compute_css_version() -> str:
+    css_path = Path(__file__).parent / "static" / "style.css"
+    try:
+        return str(int(css_path.stat().st_mtime))
+    except Exception:
+        return "1"
+
+
+CSS_VERSION = _compute_css_version()
+
+
 @app.context_processor
 def inject_globals():
     return {
         "categories": CATEGORIES,
         "now": os.environ.get("WIKI_BUILD_DATE") or datetime.now().strftime("%Y-%m-%d"),
+        "css_version": CSS_VERSION,
     }
 
 
