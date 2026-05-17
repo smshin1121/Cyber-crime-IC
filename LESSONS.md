@@ -225,6 +225,19 @@
 
 ---
 
+### ❗ L26. operation `## Background` must describe the crime, not just the operation (2026-05-17, iter 202 retrospective)
+
+- **상황**: 60+ iters of new-ingest + 22 content-enrichment events produced op pages where `## Background` often restated the operation context ("Operation Endgame is a multi-country LE initiative since 2022...") instead of the crime substance ("what malware, what victims, what financial flow, what OCG structure"). E.g., RCMP CIT-V Surrey arrest (iter 162) Background discussed Op Endgame umbrella but not what botnet, what victims, what malware family. User audit flagged the pattern: "범죄의 구체적인 내용은 어디에 포함되어 있는가?"
+- **왜 실패**: ingest agent prompts emphasised L24 (≥2-LE cooperation) and L25 (tier-1 publisher) heavily, but did not require crime-substance content in Background. Agents defaulted to copying LE cooperation language from press releases and stopping there. The wiki drifted from a *cybercrime IC knowledge base* toward a *LE cooperation event log*.
+- **교훈**: **`## Background` must describe (1) modus operandi, (2) victim profile + impact, (3) financial flow if applicable, (4) criminal organization structure** — to the extent the tier-1 source(s) provide. Missing elements get an explicit one-line gap note in `Contradictions & Open Questions`. Reader of op page must be able to answer "what was the crime, who was hurt, how did it work" without leaving the page. Operation context (LE side) belongs in `Summary` and `Operational Timeline`, NOT in `Background`.
+- **어떻게 적용**:
+  - CLAUDE.md operation schema gains an explicit "Background section requirements" block (2026-05-17 added; appears right after operation body-sections line).
+  - Future ingest agent prompts must include: "Background section: describe the crime — modus operandi, victim profile, financial flow, OCG structure. Do not restate the operation context (that belongs in Summary). If tier-1 source does not disclose one of the four elements, write an explicit gap note in Contradictions."
+  - **Background-thin op pages** existing in wiki get bulk-enrichment via dedicated sweep iters (look for op pages where Background section is < 100 words OR consists entirely of operation-umbrella context with zero modus/victim detail).
+  - L26 takes effect from iter 203 onward.
+
+---
+
 ### ❗ L25. private community-news wires (e.g., Village Media affiliates) reproducing tier-1 LE releases are NOT tier-1 (2026-05-16, iter 143)
 
 - **상황**: iter 143 ingest agent picked an OPP "Project Atlas" $70M crypto-fraud release. OPP itself does not maintain a public press-release archive on `opp.ca` or `news.ontario.ca`; the only verbatim text was distributed via Village Media community-news affiliates (orilliamatters.com, barrietoday.com, ptbotoday.ca, renfrewtoday.ca, norfolktoday.ca, sydenhamcurrent.ca, pembroketoday.ca). Agent reasoned "OPP wire-syndication" justified `source_url=orilliamatters.com`. Operation pages created and only caught at L24 strict tier-1 check before commit.

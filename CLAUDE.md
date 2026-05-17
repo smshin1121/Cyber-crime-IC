@@ -314,6 +314,19 @@ updated: YYYY-MM-DD
 
 Body sections: Summary | Background | Participating Parties | Legal Framework | Operational Timeline | Results and Impact | Cooperation Mechanisms Used | Challenges and Friction Points | Lessons Learned | Follow-Up Actions | Korean Involvement (한국의 참여) | Contradictions & Open Questions
 
+**Background section requirements (mandatory crime-substance content)**
+
+The wiki is a knowledge base on **cybercrime international cooperation**, not just on LE cooperation metadata. The `## Background` section is where the crime itself is documented and must contain — to the extent the tier-1 source(s) provide — all four of:
+
+1. **Modus operandi** — the technical mechanism of the crime (e.g., "double-extortion ransomware exploiting exposed RDP", "boiler-room call-center pressure on victims of a fake trading platform", "Android-RAT delivered via APK sideload masquerading as banking app"). Cite specific technical details when available: exploit vectors, malware family, infrastructure type, attack chain steps.
+2. **Victim profile and impact** — who was targeted, how many, financial loss, sectors affected, geographic distribution (e.g., "1,899 Singapore victims, S$34.1M reported losses", "TAP Air Portugal and an Israeli hospital", "retirement-aged victims in US/UK/AU/NZ"). When tier-1 sources state aggregates, record them; when they don't, mark as `missing_fields`.
+3. **Financial flow** (when applicable) — how proceeds moved: crypto-wallet chains, mule networks, cash-out methods, structuring patterns. Include quantified figures only when the tier-1 source asserts them.
+4. **Criminal organization structure** — roles within the criminal network (developer, administrator, money-mule organizer, infrastructure facilitator, recruiter), nationality/jurisdiction of suspects, recruitment patterns, prior CV of the OCG (when stated by tier-1 source).
+
+If a tier-1 source does not disclose one or more of these elements, write a one-line explicit gap note in `Contradictions & Open Questions` (e.g., "**Missing: victim count not disclosed in BKA release**"). Do not silently omit. The aim is that a reader of the operation page can answer "what was the crime, who was hurt, and how did it work" without leaving the page.
+
+Avoid the failure mode of "Background = restated operation context" — Background should describe the **crime** (what happened to victims), not the **operation** (what LE did to respond). Operation context belongs in `Summary` and `Operational Timeline`.
+
 ### Case
 
 File: `wiki/cases/{case-slug}.md`
