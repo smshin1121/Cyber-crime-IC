@@ -93,7 +93,7 @@ sources:
   - "[[2025-12-16_cbzc-policja-pl_international-money-laundering-jit-poland-spain-czechia-hungary]]"
 summary: "CBZC's Kraków Branch, supervised by Prokuratura Regionalna w Krakowie, leads a Eurojust-hosted Joint Investigation Team with Spain, Czech Republic, and Hungary against an international money-laundering network monetizing cyber-enabled online fraud. The network used forged identity documents and Polish PESEL numbers to open Polish bank accounts that received fraud proceeds later cashed out in Greece, Italy, Spain, Belgium, and the Netherlands. As of the 16 December 2025 announcement, 12 persons were charged, 10 placed in pretrial detention, ~EUR 2.23 million plus PLN 717,000 laundered through Polish accounts have been documented, and over 40 forged ID documents plus a BMW X5 have been seized."
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 
 # CBZC Kraków Money-Laundering JIT — Online Fraud Cash-Out Network (2025)
@@ -106,7 +106,13 @@ The case combines two cyber-enabled crime patterns: (1) online/investment fraud 
 
 ## Background
 
-The press release describes a "multi-thread" (wielowątkowy) case with criminals operating across several EU countries. Funds derived from cyber-enabled fraud were transferred through accounts opened in Poland with forged identity documentation, then withdrawn at multiple downstream cash-out points. The investigation has been able to map the group's structure, fund-flow channels, and forged-document mechanisms thanks to JIT-enabled information exchange.
+**Modus operandi.** The criminal group ran a two-stage cyber-enabled fraud monetization pipeline. (1) **Identity-document fraud layer:** members procured forged personal identity documents (paszporty/dowody) and used them to obtain Polish PESEL numbers (the national civil identifier required for resident bank-account opening). The CBZC release explicitly states that the 5 December 2025 Śląskie arrest cohort used forged documentation to obtain PESEL numbers needed to open additional bank accounts ("wykorzystując sfałszowaną dokumentację uzyskali numery PESEL potrzebne do otwierania kolejnych rachunków bankowych"). (2) **Mule-account layer:** the network then recruited Polish, Czech, and Hungarian individuals to open Polish bank accounts on Polish territory and hand control of those accounts to the group. Those accounts received proceeds from cyber-enabled online/investment fraud committed against victims, after which funds were withdrawn at downstream cash-out points across five other EU states.
+
+**Victim profile and impact.** The predicate offence is online/investment fraud committed "za pośrednictwem sieci teleinformatycznej" (via teleinformatic networks). The CBZC release does not enumerate victim counts, victim countries, or per-victim losses; only the aggregate laundered quantum through Polish accounts is published.
+
+**Financial flow.** Tier-1 source quantifies approximately **EUR 2.23 million plus PLN 717,000** laundered through the Polish mule-account layer to date (per established findings as of 2025-12-16). The funds were withdrawn ("wypłacano") in five EU member states named by CBZC: **Greece, Italy, Spain, Belgium, and the Netherlands**. The release does not state whether withdrawals were cash ATM cash-out, account-to-account fan-out, or crypto off-ramp.
+
+**Criminal organization structure.** The CBZC release describes a multi-nationality network with at least three role layers identifiable from arrest patterns: (a) **document-fraud / identity procurement** (Romanian nationals — 2 in initial phase plus 5 in 2025-12-05 Śląskie action = 7 Romanian nationals total); (b) **mule-account holders** (Polish, Czech, and Hungarian nationals who opened bank accounts on Polish territory and surrendered control to the group — 3 Czech nationals plus 1 Hungarian national named in source); (c) **cash-out actors** operating in the five downstream EU jurisdictions (not yet named or arrest-counted in source). Total: 12 persons charged, 10 in three-month pretrial detention as of 2025-12-16. Source does not name a ringleader or describe internal command hierarchy.
 
 ## Participating Parties
 
@@ -183,3 +189,6 @@ No Korean involvement is indicated in the source.
 - Whether the predicate online-fraud component overlaps with any earlier Polish CBZC investment-fraud takedown is not addressed in this release; comparison is open pending further sourcing.
 - The breakdown between "online fraud" and "investment fraud" predicate offences is not specified.
 - The full geographic scope of cash-outs (named: Greece, Italy, Spain, Belgium, Netherlands) may extend further once the investigation reaches its next reporting milestone.
+- **L26 gap — victim profile:** CBZC release does not publish victim counts, victim nationalities, or per-victim losses for the predicate online/investment fraud — only the aggregate laundered quantum through Polish accounts.
+- **L26 gap — financial flow mechanics:** source does not state whether the EUR 2.23M+PLN 717K cash-outs in Greece/Italy/Spain/Belgium/Netherlands were ATM withdrawals, onward bank transfers, or crypto off-ramps.
+- **L26 gap — OCG hierarchy:** no ringleader is named and no internal command structure is described in the CBZC release.

@@ -83,7 +83,7 @@ sources:
   - "[[2023-12-19_cisa-gov_stopransomware-alphv-blackcat]]"
   - "[[2023-12-19_bleepingcomputer_fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: 2026-05-17
 operation_role: umbrella
 parent_operation: ""
 summary: "This page groups three separate official enforcement actions announced in late November and December 2023 that respectively targeted ALPHV/BlackCat, a LockerGoga-linked ransomware affiliate group, and Kelvin Security."
@@ -116,7 +116,37 @@ Taken together, these announcements illustrate how official cyber enforcement ac
 
 ## Background
 
-The page originally combined these events using a placeholder media roundup. The revised version anchors each element to official or clearly attributable sources. The three actions were related only in timing and enforcement theme, not because authorities described them as one named umbrella operation.
+This page covers three distinct criminal targets. The crime substance for each, as disclosed by tier-1 sources, follows.
+
+### 1. ALPHV/BlackCat ransomware-as-a-service
+
+**Modus operandi.** ALPHV/BlackCat operated a ransomware-as-a-service (RaaS) model: a core development team built and maintained the BlackCat ransomware variant; affiliates rented the malware in exchange for a share (typically 80-90%) of ransom proceeds. Tier-1 source (DOJ, 2023-12-19) characterizes ALPHV/BlackCat as the "second most prolific ransomware-as-a-service variant in the world" measured by "hundreds of millions of dollars in ransoms paid by victims around the world" over the preceding 18 months. Operationally, affiliates compromised victim networks (entry vectors are not disclosed in DOJ's announcement), exfiltrated data, then deployed the BlackCat encryptor for double-extortion (encrypt + leak threat).
+
+**Victim profile and impact.** DOJ states the FBI's decryption tool was offered to "more than 500" identified victims globally. Victim sectors targeted by ALPHV/BlackCat during the campaign window included healthcare, critical infrastructure, schools, and government entities (as documented in the parallel CISA/FBI/HHS #StopRansomware joint advisory AA23-353A issued the same day, 2023-12-19). DOJ does not publish per-victim ransom amounts but aggregates the campaign as "hundreds of millions of dollars" in paid ransoms.
+
+**Financial flow.** Ransoms were paid in cryptocurrency (predominantly Bitcoin); DOJ has not disclosed cumulative seizure or laundering pathway figures in the 19 December 2023 release.
+
+**Criminal organization structure.** RaaS structure: core developer team plus a distributed affiliate network. DOJ's 19 December 2023 disruption action targeted operator infrastructure (dark-web leak site seizure, decryption-key recovery) but did not announce arrests or indictments of named core operators or affiliates on that date.
+
+### 2. LockerGoga / MegaCortex / HIVE / Dharma ransomware affiliate network (Ukraine action)
+
+**Modus operandi.** Per Eurojust (2023-11-28), the network compromised corporate IT environments using multiple intrusion vectors: brute-force attacks, SQL injection against data applications, stolen credentials, and phishing emails carrying malicious attachments. After foothold, the network used Trickbot malware plus post-exploitation frameworks (Cobalt Strike, PowerShell Empire) for persistence and lateral movement. After dwell periods sometimes lasting months, operators deployed one of four ransomware families — **LockerGoga, MegaCortex, HIVE, or Dharma** — and presented Bitcoin ransom notes in exchange for decryption keys.
+
+**Victim profile and impact.** Tier-1 source (Eurojust) attributes more than **1,800 victims across 71 countries** to the network — predominantly large corporations whose business operations were brought to a standstill. Aggregate losses: "at least several hundred millions of euros."
+
+**Financial flow.** Ransom payments collected in Bitcoin in exchange for decryption keys. Eurojust does not disclose cumulative seizure or asset-recovery figures in the 28 November 2023 release.
+
+**Criminal organization structure.** Multi-role network with differentiated criminal functions: infiltration operators (running brute-force/SQL injection/credential-stuffing/phishing), persistence-and-access operators (handling Trickbot/Cobalt Strike/PowerShell Empire post-exploitation), and ransomware deployment operators. The 2023-11-28 action arrested **1 ringleader** plus detained **4 additional suspects** in Ukraine, executed **30 searches**, and seized **over 100 digital equipment tools**. This was a continuation of the same investigation that produced a first round of arrests in 2021.
+
+### 3. Kelvin Security hacker-for-hire / data-exfiltration crew
+
+**Modus operandi.** Per Spain's Ministry of the Interior (2023-12-11), Kelvin Security conducted intrusions against organizational targets for data exfiltration and resale, rather than encryption-based extortion. The Spanish release frames the alleged Spain-based subject as the **leader of the group's financial apparatus** (líder del aparato financiero) — i.e., monetization rather than intrusion lead.
+
+**Victim profile and impact.** Spanish source attributes activity to **more than 300 organizations across more than 90 countries over three years**, including public-sector targets. Per-victim impact figures are not published in the Spanish release.
+
+**Financial flow.** Spanish source charges include money-laundering offences, indicating proceeds-conversion activity is the alleged role of the Alicante arrestee, but does not disclose laundering volume or routing.
+
+**Criminal organization structure.** Group described as one of the world's most prominent "hacktivist" groups per Spanish source (terminology used loosely — alleged offences are financially motivated). Spanish source charges include criminal organization membership, disclosure of secrets, computer damage, and money laundering, indicating a structured group with discrete roles; the Alicante arrest covers the financial-apparatus leader role specifically.
 
 ## Participating Parties
 
@@ -171,6 +201,11 @@ No Korean involvement identified.
 - How many countries participated in total across all three enforcement actions?
 - What was the total estimated damage caused by all three groups?
 - Were the BlackCat/ALPHV operators identified?
+- **L26 gap — BlackCat intrusion vectors:** DOJ's 2023-12-19 release does not disclose how affiliates obtained initial access to victim environments.
+- **L26 gap — BlackCat financial flow:** DOJ has not published cumulative cryptocurrency seizure figures or laundering pathway analysis as part of the 2023-12-19 disruption announcement.
+- **L26 gap — Ukraine LockerGoga financial recovery:** Eurojust does not disclose how much of the "several hundred million euros" in ransom proceeds has been recovered or traced.
+- **L26 gap — Kelvin Security victim impact:** Spanish source does not publish per-victim loss figures or which of the 300+ targeted organizations actually paid or suffered material data exposure.
+- **L26 gap — Kelvin Security OCG roster:** beyond the Alicante "financial apparatus leader" arrest, Spanish source does not name other group members or their geographic distribution.
 
 ## Follow-Up Actions
 

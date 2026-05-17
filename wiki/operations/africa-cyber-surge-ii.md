@@ -79,7 +79,7 @@ sources:
   - "[[2023-08-18_kaspersky_assists-interpol-in-operation-to-disrupt-cybercrime-in-african-countries]]"
   - "[[2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol]]"
 created: 2026-04-08
-updated: 2026-04-29
+updated: 2026-05-17
 operation_role: umbrella
 parent_operation: ""
 summary: "Africa Cyber Surge II was an INTERPOL-AFRIPOL operation across 25 African countries that produced 14 arrests, mapped more than 20,000 suspicious networks, and linked over USD 40 million in losses to cyber-enabled crime."
@@ -107,7 +107,13 @@ crime_types:
 
 ## Background
 
-The operation formed part of INTERPOL's African Joint Operation against Cybercrime work and was supported by external capacity-building partners. Public reporting shows that the initiative was not only a takedown effort but also a regional capacity-building exercise designed to improve investigation, intelligence exchange, and incident response across participating states.
+**Modus operandi.** The 25-country sweep targeted a mixed portfolio of cyber-enabled fraud and supporting criminal infrastructure rather than a single malware family. INTERPOL's release identifies four crime patterns disrupted during the four-month action window (April–August 2023): business email compromise (BEC), phishing kits and credential-harvesting pages, romance and investment fraud, and high-volume malware-hosting infrastructure used to support those schemes. Country-specific examples disclosed by INTERPOL include a Cameroon-based art-sale fraud ring that defrauded victims of approximately USD 850,000, and Kenyan operators of bulk malware-hosting services. Across the operation, 1,442 malicious IP addresses, domains, and servers used to support these schemes were taken down and 20,674 suspicious cyber networks were mapped — meaning the dominant criminal tradecraft was distributed online-fraud infrastructure (mule/phishing/host nodes) rather than centralized ransomware-style intrusion.
+
+**Victim profile and impact.** Tier-1 reporting attributes more than USD 40 million in linked financial losses to the networks disrupted during the operation window, but does not publish a per-victim or per-country breakdown. Victims of the named Cameroon art-sale fraud were buyers of high-value items targeted by impersonation; victims of the BEC/phishing/romance components reach across Africa and to extra-regional residents whose funds were routed through African mule infrastructure, but tier-1 sources do not disclose victim counts.
+
+**Financial flow.** INTERPOL's release totals the USD 40 million figure as financial losses linked to the identified networks. The release does not disclose how funds were laundered, what share was recovered, or what crypto/cash-out pathway each scheme used.
+
+**Criminal organization structure.** Tier-1 sources describe the 14 arrests as distributed across multiple participating African countries and tied to multiple separate criminal cells rather than to one named transnational organization. INTERPOL discloses arrest counts at country level (e.g., 3 arrests in Cameroon for art-sale fraud) but does not publish ringleader names, group hierarchies, nationalities of accused, or evidence that the disrupted cells coordinated with each other.
 
 ## Participating Parties
 
@@ -158,6 +164,9 @@ Africa Cyber Surge II combined supranational coordination with operational assis
 - Public reporting is consistent on the headline metrics, but it does not disclose a full list of all 25 participating states.
 - Arrest counts are clear; prosecution and conviction outcomes remain opaque at the country level.
 - It remains unclear how many of the 20,674 suspicious networks were directly remediated versus only mapped or referred onward.
+- **L26 gap — victim profile:** tier-1 sources do not publish per-scheme victim counts (only an aggregate USD 40M loss figure and one named USD 850K Cameroon case).
+- **L26 gap — financial flow:** tier-1 sources do not disclose laundering pathways, asset-recovery share, or per-scheme cash-out mechanics.
+- **L26 gap — OCG structure:** tier-1 sources name no ringleaders, no nationalities of accused, and provide no evidence the disrupted cells coordinated with each other beyond shared crime patterns.
 
 <!-- SOURCE_ENRICHMENT_START -->
 
