@@ -6,11 +6,10 @@ created: 2026-04-08
 updated: 2026-05-17
 ---
 
-# Sources (860)
+# Sources (868)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
-| [[2026-04-23_us-embassy-jakarta_united-states-indonesia-dismantle-global-phishing-network-w3ll]] | press-release | U.S. Embassy Jakarta (U.S. Department of State) | 1 | high | id.usembassy.gov |
 | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]] | press-release | 법무부 (Ministry of Justice of the Republic of Korea) | ? | high | ? |
 | [[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest]] | press-release | Bundeskriminalamt (BKA) | ? | high | ? |
@@ -35,11 +34,13 @@ updated: 2026-05-17
 | [[2026-04-29_eurojust_fraud-call-centres-eu-citizens]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-04-28_poliziadistato-it_operazione-mad-hatter-csam-fbi-cooperation]] | press-release | Polizia di Stato (Questura di Milano) | ? | high | ? |
 | [[2026-04-28_police-gov-sg_326-arrested-119-investigated-cross-border-online-cse-operation]] | press-release | Singapore Police Force | ? | high | ? |
+| [[2026-04-28_ministeriopublico-gob-pa_pgn-aliados-por-la-infancia-vi]] | press-release | Procuraduría General de la Nación de Panamá (PGN) | ? | high | ? |
 | [[2026-04-28_europol_black-axe-switzerland-10-arrests]] | press-release | Europol | ? | high | ? |
 | [[2026-04-27_npa-japan_operation-cyber-guardian-2026]] | press-release | Japan National Police Agency (警察庁) | ? | high | ? |
 | [[2026-04-27_korean-press_korea-cambodia-philippines-73-extradition]] | press-release | 경찰청 (KNPA, via Korea.kr 정책브리핑) | ? | high | ? |
 | [[2026-04-27_justice-gov_prolific-chinese-state-sponsored-contract-hacker-extradited-italy]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |
 | [[2026-04-27_commissariatodips-it_estradizione-hacker-cinese-hafnium-italia-stati-uniti]] | press-release | Polizia di Stato — Servizio Polizia Postale e per la Sicurezza Cibernetica | ? | high | ? |
+| [[2026-04-23_us-embassy-jakarta_united-states-indonesia-dismantle-global-phishing-network-w3ll]] | press-release | U.S. Embassy Jakarta (U.S. Department of State) | ? | high | ? |
 | [[2026-04-23_treasury_sanctions-cambodian-senator-kok-an-scam-center-network]] | press-release | US Department of the Treasury (Office of Foreign Assets Control) | ? | high | ? |
 | [[2026-04-23_spak-gov-al_albania-france-cryptocurrency-investment-fraud-universaltrade-pau-gendarmerie]] | press-release | Special Structure Against Corruption and Organised Crime (SPAK / Prokuroria e Posaçme), Republic of Albania | ? | high | ? |
 | [[2026-04-23_inp-polri_inp-fbi-global-phishing-mfa-bypass-syndicate]] | press-release | Indonesian National Police (INP) — official English newsroom (inp.polri.go.id) | ? | high | ? |
@@ -54,7 +55,7 @@ updated: 2026-05-17
 | [[2026-04-17_europol-europa-eu_operation-endgame-official-page]] | press-release | Europol | ? | high | ? |
 | [[2026-04-17_en-wikipedia-org_operation-onymous]] | press-release | Wikipedia | ? | medium | ? |
 | [[2026-04-16_info-gov-hk_counter-cyber-physical-terrorism-joint-exercise-stealthnet]] | press-release | Information Services Department, Government of the Hong Kong Special Administrative Region (HKSAR) | ? | high | ? |
-| [[2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody]] | press-release | Bundeskriminalamt (BKA) + Generalstaatsanwaltschaft Frankfurt am Main / ZIT | 2026-05-17 | high | confirmed |
+| [[2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody]] | press-release | Bundeskriminalamt (BKA) and Generalstaatsanwaltschaft Frankfurt am Main – Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT) | ? | high | ? |
 | [[2026-04-13_europol_operation-poweroff-75000-ddos-users]] | press-release | Europol | ? | high | ? |
 | [[2026-04-11_eurojust-europa-eu_main-suspect-swedish-bank-scam-extradited-united-states]] | press-release | Eurojust | ? | high | ? |
 | [[2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok]] | press-release | Royal Thai Police — Cyber Crime Investigation Bureau (CCIB) | ? | high | ? |
@@ -144,6 +145,7 @@ updated: 2026-05-17
 | [[2025-12-09_koreatimes-co-kr_trial-begins-for-46-suspects-accused-of-involvement-in-online-scams-in-cambodia]] | news | The Korea Times | ? | medium | ? |
 | [[2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion]] | news | TechRadar | ? | medium | ? |
+| [[2025-12-02_justice-gov-usao-dc-scam-center-strike-force-tickmilleas-seizure]] | press-release | U.S. Department of Justice — U.S. Attorney's Office for the District of Columbia | ? | high | ? |
 | [[2025-12-02_fbi-san-diego-tai-chang-tickmilleas-domain-seizure]] | press-release | FBI San Diego Field Office | ? | high | ? |
 | [[2025-12-01_police-gov-sg_cad-report-2024-operation-first-light]] | government-report | Singapore Police Force Commercial Affairs Department | ? | high | ? |
 | [[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]] | news | heise online | ? | medium | ? |
@@ -244,6 +246,7 @@ updated: 2026-05-17
 | [[2025-06-17_spf-singapore_sg-hk-my-gsm-gateway-scam-syndicate-takedown]] | press-release | Singapore Police Force | ? | high | ? |
 | [[2025-06-17_afp_bangkok-investment-scam-centre-takedown-operation-firestorm]] | press-release | Australian Federal Police (AFP) | ? | high | ? |
 | [[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]] | press-release | Europol | ? | high | ? |
+| [[2025-06-16_bka-de_archetyp-market-abgeschaltet-betreiber-festgenommen]] | press-release | Bundeskriminalamt (BKA) — Generalstaatsanwaltschaft Frankfurt am Main / ZIT | ? | high | ? |
 | [[2025-06-12_eurojust_romania-moldova-phishing-fraud-laundering-jit-action-day]] | press-release | Eurojust (European Union Agency for Criminal Justice Cooperation) | ? | high | ? |
 | [[2025-04-01_kaspersky-com_kaspersky-supports-interpol-operation-secure]] | press-release | Kaspersky | ? | medium | ? |
 | [[2025-04-01_helpnetsecurity-com_operation-secure-disrupts-global-infostealer-malware-operations]] | news | Help Net Security | ? | medium | ? |
@@ -256,8 +259,8 @@ updated: 2026-05-17
 | [[2025-06-01_therecord-media_us-and-netherlands-take-down-bidencash-cybercrime-marketplace-infrastructure]] | press-release | The Record | ? | high | ? |
 | [[2025-06-01_thehackernews-com_doj-seizes-145-domains-tied-to-bidencash-marketplace]] | press-release | The Hacker News | ? | medium | ? |
 | [[2025-05-30_hindustantimes-com_cbi-busts-two-illegal-call-centres-cheating-japan-citizens-6-held]] | news | Hindustan Times | ? | medium | ? |
-| [[2025-05-29_justice-gov-usao-sdtx_websites-selling-hacking-tools-cybercriminals-seized]] | press-release | US DOJ (USAO Southern District of Texas, Houston) | 1 | high | justice.gov |
 | [[2025-05-29_newindianexpress_operation-chakra-v-japanese-tech-support-scam]] | news | The New Indian Express | ? | medium | ? |
+| [[2025-05-29_justice-gov-usao-sdtx_websites-selling-hacking-tools-cybercriminals-seized]] | press-release | US Department of Justice (USAO Southern District of Texas, Houston) | ? | high | ? |
 | [[2025-05-29_abplive-com_operation-chakra-v-cbi-crackdown-global-tech-support-scam-japan]] | news | ABP Live | ? | medium | ? |
 | [[2025-05-28_krebsonsecurity-com_pakistan-arrests-21-in-heartsender-malware-service]] | press-release | KrebsOnSecurity | ? | medium | ? |
 | [[2025-05-28-thehackernews-danabot-malware]] | news | The Hacker News | ? | medium | ? |
@@ -356,7 +359,7 @@ updated: 2026-05-17
 | [[2025-01-03_treasury_sanctions-integrity-technology-group-flax-typhoon]] | press-release | U.S. Department of the Treasury — Office of Foreign Assets Control (OFAC) | ? | high | ? |
 | [[2025-01-01_en-wikipedia-org_silk-road-marketplace]] | press-release | Wikipedia | ? | medium | ? |
 | [[2024-12-24_npa-japan_tradertraitor-dmm-bitcoin-fbi-dc3-joint-attribution]] | press-release | National Police Agency of Japan (警察庁) — Cyber Affairs Bureau | ? | high | ? |
-| [[2024-12-24_fbi-gov_fbi-dc3-npa-tradertraitor-dmm-bitcoin-308m-attribution]] | press-release | Federal Bureau of Investigation (FBI) — National Press Office | 1 | high | confirmed |
+| [[2024-12-24_fbi-gov_fbi-dc3-npa-tradertraitor-dmm-bitcoin-308m-attribution]] | press-release | Federal Bureau of Investigation (FBI) — National Press Office | ? | high | ? |
 | [[2024-12-19_politie-nl_27-jarige-man-aangehouden-voor-phishing]] | press-release | Dutch National Police | 1 | high | ? |
 | [[2024-12-18_doj-wdtx_ukrainian-national-sentenced-raccoon-infostealer]] | press-release | US Attorney's Office, Western District of Texas (USAO-WDTX) | ? | high | ? |
 | [[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]] | news | Bitdefender | 3 | medium | ? |
@@ -434,6 +437,7 @@ updated: 2026-05-17
 | [[2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc]] | analysis | Chainalysis | 3 | medium-high | ? |
 | [[2024-09-24_argentina-gob-ar_operacion-kaerb-iserver-phishing-as-a-service-takedown]] | press-release | Ministerio de Seguridad Nacional, República Argentina (argentina.gob.ar / Policía Federal Argentina sub-section) | ? | high | ? |
 | [[2024-09-19_mj-gov-br_operacao-404-675-sites-14-streaming-apps]] | news | Brazil Ministry of Justice and Public Security | ? | high | ? |
+| [[2024-09-19_fiscalia-gob-ec_operacion-kaerb-iserver-cibercrimen-desarticulada]] | press-release | Fiscalia General del Estado de Ecuador (fiscalia.gob.ec) | ? | high | ? |
 | [[2024-09-19_bka_operation-final-exchange-47-russian-no-kyc-crypto-exchanges-seized]] | press-release | Bundeskriminalamt (BKA) / Generalstaatsanwaltschaft Frankfurt am Main – ZIT | 1 | high | ? |
 | [[2024-09-18_theregister-com_51-arrests-made-in-global-takedown-of-ghost-crime-platform]] | press-release | The Register | ? | medium | ? |
 | [[2024-09-18_therecord-media_police-announce-takedown-and-arrest-mastermind-behind-criminal-comms-platform-gh]] | press-release | The Record | ? | medium | ? |
@@ -523,6 +527,7 @@ updated: 2026-05-17
 | [[2026-04-18_justice-gov_monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2023-10-26_afp-gov-au_melbourne-man-charged-laundering-cybercrime-victims-operation-wickham]] | press-release | Australian Federal Police | ? | high | ? |
 | [[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]] | press-release | Europol | ? | high | ? |
+| [[2023-10-20_eurojust_major-international-operation-against-ragnar-locker-ransomware-group]] | press-release | Eurojust | ? | high | ? |
 | [[2023-10-19_thenewsmill-com_cbi-launches-operation-chakra-2-against-cyber-criminals]] | news | The News Mill / ANI | ? | medium | ? |
 | [[2023-10-19_pib-gov-in_cbi-launches-operation-chakra-ii-to-combat-cyber-enabled-financial-crimes]] | press-release | Press Information Bureau / Ministry of Home Affairs | ? | high | ? |
 | [[2023-10-19_ndtv_operation-chakra-ii-cbi-raids-76-locations]] | news | NDTV / Press Trust of India | ? | medium | ? |
@@ -543,6 +548,7 @@ updated: 2026-05-17
 | [[2023-08-10_garda-ie_interpol-operation-jackal-ireland-operation-skein-update-august-2023]] | press-release | An Garda Siochana | ? | high | ? |
 | [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]] | press-release | INTERPOL — official news (interpol.int) | ? | high | ? |
 | [[2023-08-08_brusselstimes-com_internet-scams-interpol-swoops-down-on-west-africa-based-criminal-networks]] | news | The Brussels Times | ? | medium | ? |
+| [[2023-08-08_antara_16shop-bareskrim-japanese-embassy-police-credit-card-hacking]] | press-release | ANTARA Foto (Perum LKBN Antara — Indonesian state news wire) | ? | high | ? |
 | [[2023-07-05_interpol_operation-nervone-opera1er-arrest]] | press-release | INTERPOL | 1 | high | ? |
 | [[2023-07-05_group-ib_top-investigations_operation-nervone]] | report | Group-IB | ? | medium | ? |
 | [[2023-07-05_group-ib_operation-nervone-opera1er]] | press-release | Group-IB | ? | medium | ? |

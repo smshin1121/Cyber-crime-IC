@@ -1,5 +1,34 @@
 # Activity Log
 
+## [2026-05-17] CONTENT-ENRICHMENT + milestone push [iter 190, single-agent, L23+L24+L25 strict] | 16shop PaaS Takedown 2023 — 2nd tier-1 source via ANTARA state news wire
+- Source: `raw/press-releases/2023-08-08_antara_16shop-bareskrim-japanese-embassy-police-credit-card-hacking.md` (antarafoto.com Indonesian state news wire; en).
+- Pages created: `wiki/sources/2023-08-08_antara_16shop-bareskrim-japanese-embassy-police-credit-card-hacking.md`, op updated.
+- Pages updated: `wiki/operations/16shop-phishing-as-a-service-takedown-2023.md` — source_count 1→2; provisional callout downgraded; Operational Timeline gains Antara-derived paragraph; Cooperation Mechanisms gains 4th in-country diplomatic-LE layer (Japanese Embassy Jakarta).
+- Key findings:
+  - **L24 verbatim**: "Ditipidsiber Bareskrim Polri together with the Japanese Police party managed to secure two suspects of WNI along with proof tools including smart phones, laptops and hardisks" — ANTARA documents Bareskrim Polri press conference at Mabes Polri HQ Jakarta 2023-08-08; 3 named officials on stage: Brigjen Pol Adi Vivid Agustiadi Bachtiar (Dirtipidsiber, same officer quoted by INTERPOL) + Brigjen Pol Ahmad Ramadhan (Karo Penmas Humas Polri) + Mr. Miyagawa (Japanese Embassy police attaché Indonesia, physically on stage with Polri).
+  - **Tier-1 publisher (L25 analysis)**: ANTARA / Perum LKBN Antara — Indonesian state news agency (est. 1937, state-owned per Presidential Regulation 40/2007). Structural analogue to L24-enumerated state wires (BTA Bulgaria, Yonhap Korea, ANSA Italy, Tribrata News Polri). Distinct from L25-disqualified private wires.
+  - In-country diplomatic-LE cooperation layer added: Japanese Embassy police attaché in Jakarta physically on stage = direct diplomatic-LE channel distinct from bilateral NPA Japan ↔ INP channel cited by INTERPOL.
+  - Indonesian sub-case loss = Rp1.6B (~USD 105K).
+  - Lint: HIGH=0.
+
+## [2026-05-17] iter 190 milestone push integrity sweep [iters 181-190]
+- 10 commits since iter 180 push (`7dc135e6f`): iters 181-190 — all CONTENT-ENRICHMENT mode (source_count 1→2 chain).
+- Iters 181-190 enrichment summary:
+  - 181: Operación Kaerb iServer — 2nd source via Ecuador Fiscalía (fiscalia.gob.ec)
+  - 182: INP-FBI W3LL phishing kit — 2nd source via US Embassy Jakarta (id.usembassy.gov)
+  - 183: Bangkok CCIB Fluxstress/Netdowner — 2nd source via BKA + ZIT Frankfurt (bka.de)
+  - 184: Operation Ragnar Locker 2023 — 2nd source via Eurojust (eurojust.europa.eu)
+  - 185: AvCheck CAV — 2nd source via USAO-SDTX Houston (justice.gov)
+  - 186: FBI San Diego Tai Chang tickmilleas — 2nd source via USAO-DC (justice.gov/usao-dc)
+  - 187: TraderTraitor DMM Bitcoin — 2nd source via FBI National Press Office (fbi.gov)
+  - 188: Aliados por la Infancia VI — 2nd source via Panama PGN (ministeriopublico.gob.pa)
+  - 189: Archetyp Market Op Deep Sentinel — 2nd source via BKA + ZIT Frankfurt (bka.de)
+  - 190: 16shop PaaS Takedown 2023 — 2nd source via ANTARA (antarafoto.com)
+- 10 source_count 1→2 promotions; 10 distinct 2nd-tier-1 publishers added (Ecuador FGE, US Embassy Jakarta, BKA x2, Eurojust, USAO-SDTX, USAO-DC, FBI nat'l, Panama PGN, ANTARA Indonesia).
+- Cumulative publisher count across the session: ~41 distinct tier-1 publishers.
+- **Saturation strategy confirmed**: after iter 178 Western-saturation REJECT, content-enrichment became the productive iter mode. 10 consecutive successful enrichments without further REJECT events demonstrates the strategy works.
+- Pre-push integrity: lint HIGH=0; about to run check_links + build_static.py + push.
+
 ## [2026-05-17] CONTENT-ENRICHMENT [iter 185, single-agent, L23+L24+L25 strict] | AvCheck CAV/crypter takedown — 2nd tier-1 source added (USAO-SDTX Houston DOJ own-domain)
 - Source: `raw/press-releases/2025-05-29_justice-gov-usao-sdtx_websites-selling-hacking-tools-cybercriminals-seized.md` (justice.gov USAO Southern District of Texas, Houston; en; published 2025-05-29, updated 2025-05-30; fetched via tools/doj_fetch.py Akamai bm-verify solver).
 - Pages created: `wiki/sources/2025-05-29_justice-gov-usao-sdtx_websites-selling-hacking-tools-cybercriminals-seized.md` (2nd source for [[avcheck-counter-antivirus-takedown-and-schiphol-arrest-2025-2026]] operation, originally ingested in iter ~125 from OM.nl 12-Jan-2026 Schiphol-arrest release only).
@@ -3234,3 +3263,13 @@
 - L23 wikilink-or-empty: lead_agency=[[germany-bka]], coordinating_body=[[europol-ec3]] both wikilink-compliant.
 - Files: 2 new (raw bka-de + source), 1 updated (op page — added German-Side Detail section + 2nd reference row + Contradictions update).
 - Lint: HIGH=0.
+
+## [2026-05-17] enrich | 16shop PaaS takedown 2023 — add Antara state-news-wire 2nd tier-1 source (iter 190)
+- Mode: CONTENT-ENRICHMENT (iter 190; source_count 1 -> 2)
+- Target op: [[16shop-phishing-as-a-service-takedown-2023]]
+- 2nd Publisher (tier-1): ANTARA Foto (Perum LKBN Antara — Indonesian state news wire) — https://www.antarafoto.com/view/2034336/disclosure-of-credit-card-hacking-cases
+- L24 verbatim cooperation quote (ANTARA-attributed, English auto-translation): "Ditipidsiber Bareskrim Polri together with the Japanese Police party managed to secure two suspects of WNI along with proof tools including smart phones, laptops and hardisks in the case of a credit card hack that results in a total loss of Rp1.6 billion."
+- Tier-1 justification: ANTARA = Indonesian state news agency (Perum LKBN, est. 1937, state-owned per Presidential Regulation 40/2007). Structural analogue to L24-enumerated state wires (BTA Bulgaria, Yonhap Korea, ANSA Italy, Tribrata News Polri). Distinct from L25-disqualified private commercial wires (Village Media, CTV, ANI, AP, Reuters).
+- ANTARA-side adds: Jakarta-side press conference at Bareskrim Mabes Polri HQ; three named officials on stage — Brigjen Pol Adi Vivid Agustiadi Bachtiar (Dirtipidsiber Bareskrim Polri, same officer quoted by INTERPOL), Brigjen Pol Ahmad Ramadhan (Karo Penmas Humas Polri), Mr. Miyagawa (Japanese Embassy police attache for Indonesia, physically on stage with Polri); Indonesian sub-case loss = Rp1.6 billion (~USD 105K); evidence = smartphones + laptops + hard disks; in-country diplomatic-LE channel via Japanese Embassy in Jakarta added to Cooperation Mechanisms (now 4 layers).
+- L23 wikilink-or-empty: lead_agency=[[interpol-igci]], coordinating_body=[[interpol-igci]] — unchanged, both wikilink-compliant.
+- Files: 2 new (raw antara + source antara), 1 updated (op page — added Antara paragraph to Operational Timeline + 4th cooperation-layer + provisional callout downgraded from "single-source" to "two-source" + source_count 1->2 + sources list + summary expansion).

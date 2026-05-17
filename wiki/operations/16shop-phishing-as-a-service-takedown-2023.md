@@ -119,17 +119,18 @@ lessons_learned:
   - "INTERPOL-coordinated intelligence-sharing model can substitute for treaty-based mechanisms in non-Budapest-Convention partners (Indonesia)."
   - "Private-sector partner ecosystem (Cyber Defense Institute, Group-IB, Palo Alto Networks Unit 42, Trend Micro, Cybertoolbelt) materially shaped attribution, demonstrating the operational value of the public-private cooperation model in PaaS takedowns."
   - "ASEAN-region cyber-threat intelligence project (with Japan NPA support) identified the platform — illustrating the regional-monitoring-to-takedown pipeline at INTERPOL IGCI."
-source_count: 1
+source_count: 2
 sources:
   - "[[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan]]"
-summary: "On 8 August 2023, INTERPOL announced the shutdown of the '16shop' phishing-as-a-service (PaaS) platform in a global investigation it coordinated, resulting in three arrests: the 21-year-old administrator and one facilitator in Indonesia (executed by the Indonesian National Police's Directorate of Cyber Crimes / Bareskrim) and a second facilitator in Japan (by Japan's National Police Agency). The platform sold phishing kits that compromised over 70,000 users across 43 countries; its servers were hosted in the United States, prompting INTERPOL liaison with the FBI through the INTERPOL NCB Washington. The case is a tier-1 INTERPOL-coordinated cybercrime takedown that explicitly names four cooperating LE entities (INTERPOL Cybercrime Directorate, POLRI Directorate of Cyber Crimes, Japan NPA, FBI / INTERPOL NCB Washington), satisfying the wiki's L24 ≥2-LE threshold."
+  - "[[2023-08-08_antara_16shop-bareskrim-japanese-embassy-police-credit-card-hacking]]"
+summary: "On 8 August 2023, INTERPOL announced the shutdown of the '16shop' phishing-as-a-service (PaaS) platform in a global investigation it coordinated, resulting in three arrests: the 21-year-old administrator and one facilitator in Indonesia (executed by the Indonesian National Police's Directorate of Cyber Crimes / Bareskrim) and a second facilitator in Japan (by Japan's National Police Agency). The platform sold phishing kits that compromised over 70,000 users across 43 countries; its servers were hosted in the United States, prompting INTERPOL liaison with the FBI through the INTERPOL NCB Washington. The case is a tier-1 INTERPOL-coordinated cybercrime takedown that explicitly names four cooperating LE entities (INTERPOL Cybercrime Directorate, POLRI Directorate of Cyber Crimes, Japan NPA, FBI / INTERPOL NCB Washington), satisfying the wiki's L24 ≥2-LE threshold. Indonesian state news wire Antara (ANTARA Foto, 8 August 2023) independently documents the Jakarta-side announcement at Bareskrim HQ, naming Brigjen Pol Adi Vivid Agustiadi Bachtiar (Dirtipidsiber Bareskrim Polri), Brigjen Pol Ahmad Ramadhan (Karo Penmas Humas Polri), and Mr. Miyagawa (Japanese Embassy police attaché) on stage, with the operative cooperation statement that 'Ditipidsiber Bareskrim Polri together with the Japanese Police party managed to secure two suspects of WNI'."
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 # 16shop Phishing-as-a-Service Platform Takedown (INTERPOL-coordinated, 2023)
 
-> [!info] Provisional / single-source record
-> This page rests on a single tier-1 primary source — the INTERPOL official news release of 8 August 2023 — and is filed as a provisional INTERPOL-coordinated takedown record under the wiki's preferred 5-source threshold. It will be promoted when (a) Indonesian-language POLRI / Antara coverage is ingested, (b) any Japan NPA or US FBI corroborating release surfaces, or (c) Indonesian charging documents are released.
+> [!info] Provisional / two-source record
+> This page rests on two tier-1 primary sources — the [[2023-08-08_interpol_16shop-phishing-as-a-service-takedown-indonesia-japan|INTERPOL official news release of 8 August 2023]] (Singapore dateline) and the [[2023-08-08_antara_16shop-bareskrim-japanese-embassy-police-credit-card-hacking|ANTARA Foto Indonesian state-news-wire caption of 8 August 2023]] (Jakarta dateline) — and remains filed as a provisional INTERPOL-coordinated takedown record under the wiki's preferred 5-source threshold. It will be promoted further when (a) Indonesian-language Polri or full ANTARA newswire articles surface with charging details, (b) any Japan NPA Japanese-language release or US FBI corroborating release is ingested, or (c) Indonesian charging documents are released.
 
 ## Summary
 
@@ -201,6 +202,16 @@ The release frames the operation as INTERPOL-coordinated but emphasises that arr
 
 The release describes the sequence — administrator first, then facilitators after Japan-Indonesia information exchange — but does not give precise dates for individual arrests.
 
+Indonesian state news wire ANTARA (via [[2023-08-08_antara_16shop-bareskrim-japanese-embassy-police-credit-card-hacking|ANTARA Foto, 8 August 2023]], 14:55 WIB, Jakarta) independently documents the Indonesian-side public announcement at **Bareskrim Mabes Polri HQ in Jakarta** on the same day. The Antara caption identifies three officials on stage:
+
+- **Brigadier General Pol. Adi Vivid Agustiadi Bachtiar** — Director of the Directorate of Cyber Crimes (*Dirtipidsiber*) at Bareskrim Polri (the same Polri officer quoted on the record by INTERPOL).
+- **Brigadier General Pol. Ahmad Ramadhan** — Head of the Public Information Bureau (*Karo Penmas*), Public Relations Division (*Humas*) of Polri.
+- **Mr. Miyagawa** — Police attaché of the Japanese Embassy for Indonesia.
+
+The Antara caption explicitly states (verbatim): "**Ditipidsiber Bareskrim Polri together with the Japanese Police party managed to secure two suspects of WNI along with proof tools including smart phones, laptops and hardisks** in the case of a credit card hack that results in a total loss of Rp1.6 billion."
+
+This is the L24 verbatim acknowledgment of Indonesia-Japan LE cooperation at the level of the Indonesian state news wire, complementing the INTERPOL release's same-day Singapore-side narrative.
+
 ## Results and Impact
 
 | Metric | Value | Source |
@@ -223,6 +234,7 @@ The cooperation pattern in this case is best characterised as **INTERPOL-coordin
 1. **Hub-and-spoke intelligence-sharing through INTERPOL HQ.** The INTERPOL Cybercrime Directorate at IGCI Singapore acted as the central analytic and coordinating point, compiling a criminal intelligence report dispatched to POLRI's Directorate of Cyber Crimes.
 2. **Bilateral Japan NPA ↔ INP information exchange.** After the administrator arrest, "further information was shared between the National Police Agency of Japan and the Indonesian National Police resulting in the identification and arrest of two facilitators."
 3. **INTERPOL NCB Washington / FBI liaison for US-hosted infrastructure.** Because servers were hosted in the United States, INTERPOL analysts liaised with the INTERPOL NCB Washington and the FBI to secure key information for Indonesian investigators.
+4. **In-country diplomatic-LE channel via the Japanese Embassy in Jakarta.** ANTARA Foto documents that the Japanese Embassy's police attaché (Miyagawa) was physically present alongside Bareskrim leadership at the 8 August 2023 Jakarta press conference at Bareskrim HQ — confirming that Japan-Indonesia cooperation operated through both the bilateral NPA-INP channel cited by INTERPOL and the in-country diplomatic-LE channel routed through the Japanese Embassy in Jakarta.
 
 The release also explicitly describes the role of **private-sector partners** (Cyber Defense Institute, Group-IB, Palo Alto Networks Unit 42, Trend Micro, with added support from Cybertoolbelt), placing this case as an example of [[public-private-cooperation|public-private cooperation]] in cybercrime takedowns.
 
