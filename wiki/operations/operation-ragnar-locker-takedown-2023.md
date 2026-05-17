@@ -72,32 +72,34 @@ legal_basis:
 results:
   arrests: 1
   indictments: 0
-  servers_seized: 0
+  servers_seized: 9
   domains_seized: 0
-  cryptocurrency_seized: ""
+  cryptocurrency_seized: "undisclosed (Eurojust: 'the seizure of various crypto currencies took place')"
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
     - "Key target (suspected developer) arrested 2023-10-16 in Paris, France, and brought before examining magistrates of the Paris Judicial Court"
-    - "Five additional suspects interviewed in Spain and Latvia during 2023-10-16 to 2023-10-20 action week"
+    - "6 suspects heard during action week across Czech Republic, Spain, Latvia, and France (Eurojust verbatim count)"
     - "House search executed in Czechia at the key target's residence"
-    - "Ransomware infrastructure seized in the Netherlands, Germany, and Sweden"
+    - "9 servers taken down: 5 in the Netherlands, 2 in Germany, 2 in Sweden (Eurojust verbatim count)"
     - "Tor-hosted 'Wall of Shame' data leak website taken down in Sweden"
-    - "Builds on October 2021 first-wave arrests of two prominent Ragnar Locker operators in Ukraine"
-credibility_index: 4.5
+    - "168 international companies attacked worldwide by Ragnar Locker since 2020 (Eurojust)"
+    - "Ransom demands ranged from USD 5 million to USD 70 million per victim (Eurojust)"
+    - "Builds on October 2021 first-wave arrests of two prominent Ragnar Locker operators in Ukraine + October 2022 arrest of an additional suspect in Canada (FR-CA-US joint action)"
+credibility_index: 4.7
 source_tier: 1
 missing_fields:
-  - "exact number of servers seized (Europol stated 'infrastructure ... seized in the Netherlands, Germany and Sweden' without numeric count)"
-  - "value of cryptocurrency seized (not disclosed)"
-  - "total number of victims (Europol notes 'numerous high-profile attacks against critical infrastructure' but no global victim count)"
+  - "value of cryptocurrency seized (Eurojust confirms seizures took place but no figure disclosed)"
+  - "exact victim notifications during the action week (separate from the 168 historical-victim count)"
 related_cases: []
 related_operations:
   - "[[operation-endgame]]"
-source_count: 1
+source_count: 2
 sources:
   - "[[2023-10-20_europol_ragnar-locker-ransomware-gang-taken-down-international-police-swoop]]"
+  - "[[2023-10-20_eurojust_major-international-operation-against-ragnar-locker-ransomware-group]]"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 # Ragnar Locker ransomware gang takedown — 11-country international police swoop (October 2023)
@@ -136,6 +138,20 @@ Europol's published participant list (verbatim):
 | United States | Atlanta Field Office of the [[fbi|Federal Bureau of Investigation]] |
 | Coordination | [[europol-ec3|Europol European Cybercrime Centre (EC3)]] + [[eurojust|Eurojust]] |
 
+**Named prosecutorial counterparts** (per the Eurojust 2023-10-20 release, which extends the Europol roster down to the public-prosecutor level):
+
+| Country | Prosecutorial authority |
+|---|---|
+| Czech Republic | Metropolitan Public Prosecutor's Office Prague |
+| France | JUNALCO (French National Public Prosecutor's Office against organised crime), Cybercrime Unit |
+| Germany | Public Prosecutor's Office Leipzig (Staatsanwaltschaft Leipzig) |
+| Italy | Milan Public Prosecutor's Office |
+| Latvia | State Police of Latvia — International Cooperation Department + Cybercrime Enforcement Department |
+| Netherlands | East Netherlands Public Prosecutor's Office |
+| Spain | Investigative Court no. 1 Torrevieja (Alicante); International Cooperation Section, Public Prosecutor's Office Alicante; Guardia Civil Attached Unit Alicante supported by Team EDITE |
+| Sweden | Swedish Public Prosecutor's Office; National Unit against Organised Crime |
+| Ukraine | Kyiv City Prosecutor's Office |
+
 ## Legal Framework
 
 - **EMPACT (European Multidisciplinary Platform Against Criminal Threats)** — the investigation was carried out under the EMPACT cyber-attacks priority for the 2022-2025 policy cycle.
@@ -150,8 +166,9 @@ Europol's published participant list (verbatim):
 |---|---|
 | December 2019 | Ragnar Locker ransomware strain first observed; double-extortion operation begins. |
 | May 2021 | Eurojust opens case at request of French authorities. |
-| October 2021 | First-wave Ukrainian arrests of two prominent Ragnar Locker operators (French Gendarmerie + US FBI + Europol + INTERPOL + Ukrainian National Police). |
-| 2021-2023 | Multi-year intelligence development; Europol EC3 organises 15 coordination meetings + two week-long sprints. |
+| September 2021 | First-wave arrests in Ukraine of two prominent Ragnar Locker operators (French + Ukrainian + US authorities). Eurojust: "a coordinated strike between the French, Ukrainian and the United States' authorities led to the arrest of two suspects in Ukraine." |
+| October 2022 | Second-wave arrest in Canada of an additional suspect via FR-CA-US joint action (per Eurojust 2023-10-20 release). |
+| 2021-2023 | Multi-year intelligence development; Europol EC3 organises 15 coordination meetings + two week-long sprints; Eurojust hosts 5 coordination meetings. |
 | 2023-10-16 | Key target (suspected developer) arrested in Paris by French Gendarmerie. Home search executed in Czechia. |
 | 2023-10-16 to 2023-10-20 | Searches in Czechia, Spain, Latvia; five additional suspects interviewed in Spain and Latvia; infrastructure seized in the Netherlands, Germany, Sweden; Tor data leak site taken down in Sweden. |
 | 2023-10-20 | Key perpetrator brought before examining magistrates of the Paris Judicial Court. Europol announces the international action. |
@@ -159,11 +176,14 @@ Europol's published participant list (verbatim):
 ## Results and Impact
 
 - **1 key target arrested** (Paris, 16 October 2023; suspected developer of the Ragnar Locker ransomware) — brought before examining magistrates of the Paris Judicial Court at the end of the action week.
-- **5 additional suspects interviewed** in Spain and Latvia.
+- **6 suspects heard** during the action week across the Czech Republic, Spain, Latvia, and France (Eurojust verbatim count).
 - **House search executed in Czechia** at the key target's residence.
-- **Infrastructure seizures** in the Netherlands, Germany, and Sweden (Europol does not specify server count).
+- **9 servers taken down** (per Eurojust): **5 in the Netherlands + 2 in Germany + 2 in Sweden**.
 - **Tor "Wall of Shame" data leak site taken down** in Sweden — eliminating the group's primary public extortion-leverage channel.
-- **Builds on October 2021** first-wave arrests of two prominent operators in Ukraine, demonstrating sustained multi-year follow-through.
+- **Cryptocurrency seizures** during the action days (value undisclosed; Eurojust confirms "the seizure of various crypto currencies took place").
+- **168 international companies attacked worldwide** by Ragnar Locker since 2020 (Eurojust historical victim count).
+- **Ransom demands ranged from USD 5 million to USD 70 million per victim** (Eurojust).
+- **Builds on September 2021 Ukraine arrests + October 2022 Canada arrest** of two prior waves of Ragnar suspects, demonstrating sustained multi-year, multi-wave follow-through.
 
 ## Cooperation Mechanisms Used
 
@@ -203,7 +223,8 @@ No direct Korean LE participation is documented in the Europol press release. [[
 
 ## Contradictions & Open Questions
 
-- **Exact server count seized** — Europol's wording "infrastructure ... seized in the Netherlands, Germany and Sweden" lacks numeric detail; subsequent unsealing or trial documents may clarify.
-- **Cryptocurrency seizure value** — not disclosed in the press release; Europol notes crypto-tracing support but does not quantify recovered or frozen assets.
-- **Full count of indictments downstream** — only one arrest is named for the action week itself; how many of the five interviewed suspects in Spain and Latvia were subsequently charged is not detailed in the source.
+- **Exact server count seized** — RESOLVED by the Eurojust 2023-10-20 release: 9 servers (5 NL + 2 DE + 2 SE).
+- **Cryptocurrency seizure value** — partially resolved: Eurojust confirms seizures took place during the action days but does not quantify recovered or frozen assets.
+- **Full count of indictments downstream** — only one arrest is named for the action week itself; how many of the six interviewed suspects (CZ + ES + LV + FR) were subsequently charged is not detailed in either tier-1 release.
 - **TAP Air Portugal / Israeli hospital attribution** — Europol references "the Portuguese national carrier" and "a hospital in Israel" without naming them; cross-source corroboration (Portuguese press, Israeli MoH advisories) would close the attribution loop.
+- **Identity of October 2022 Canada arrestee** — Eurojust mentions the FR-CA-US joint action and the arrest in Canada but does not name the suspect; downstream Canadian press releases would close this gap.
