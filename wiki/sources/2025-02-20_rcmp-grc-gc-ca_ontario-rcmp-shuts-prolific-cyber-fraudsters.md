@@ -47,7 +47,8 @@ This source is valuable for the wiki because:
 
 ## Cross-References
 
-- Operation page: [[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]].
+- Operation page: [[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]] (source_count=2 as of 2026-05-17).
+- 2nd tier-1 RCMP own-domain source for the same operation (added iter 198, 2026-05-17): [[2025-10-30_rcmp-ca-gazette_how-rcmp-took-down-prolific-cyber-fraudsters]] — RCMP Gazette long-form follow-up confirming partner list verbatim and adding sentencing outcomes (Mansouri 4y9m; Alouah 2y9m).
 - Sister RCMP-Central-Region cybercrime IC source: [[2025-09-10_rcmp_canada-fbi-twitter-nft-redman-extradition]].
 - Canadian agency: [[canada-rcmp]].
 - Canadian country profile: [[canada]].

@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-17] CONTENT-ENRICHMENT [iter 198, single-agent, L23+L24+L25 strict] | Ontario RCMP iSpoof.cc Toronto arrest — 2nd tier-1 source via RCMP Gazette (rcmp.ca own-domain)
+- Target op: `wiki/operations/rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025.md` (source_count 1 → 2).
+- 1st publisher (already on page): RCMP Central Region (Ontario) press-release wire 2025-02-20 (grc-rcmp.gc.ca / CNW newswire.ca mirror).
+- 2nd publisher (newly added): RCMP Gazette long-form magazine article, author Paul Monteith (RCMP Federal Policing Central Region), 2025-10-30 — https://rcmp.ca/en/gazette/rcmp-took-down-prolific-cyber-fraudsters (rcmp.ca own-domain RCMP in-house publication; L25 strict-compliant — Crown corporation own-channel, not a private wire, not aggregator). Distinct RCMP communications channel from the 1st-source press-release wire.
+- Fetch: curl_cffi chrome124 against rcmp.ca returned HTTP 500 directly; Wayback snapshot `web.archive.org/web/20260312191115/https://rcmp.ca/en/gazette/rcmp-took-down-prolific-cyber-fraudsters` (status 200, 145 KB) recovered full body. WebSearch corroborated byline + publish date + sentencing details.
+- L24 verbatim cooperation quote (RCMP Gazette, 2025-10-30): "Canadian law enforcement first got wind of the case in late 2022, when police in the U.K. notified the RCMP about an account on a platform called iSpoof.cc being used to defraud victims in Canada. ... Doing so required the Ontario RCMP Cybercrime Unit to cooperate with several domestic and international partners including the London Metropolitan Police, the Dutch National Police, EUROPOL, EUROJUST, Toronto Police, Peel Regional Police, FINTRAC, the Canadian Anti-Fraud Centre, and the National Cybercrime Coordination Centre."
+- L24 ≥2-LE cooperation: RCMP (Canada) ↔ UK Metropolitan Police (UK) ↔ Dutch National Police (Netherlands) + Europol + Eurojust. 3 distinct LE jurisdictions cooperating explicitly per 2nd-source quote.
+- L23 wikilink-or-empty: `lead_agency=[[canada-rcmp]]`, `coordinating_body=""` — unchanged, compliant.
+- New procedural-history information added to op page (resolves prior missing_field): August 2025 guilty pleas by both defendants; Mansouri sentenced to 4 years 9 months; Alouah sentenced to 2 years 9 months; 40 mobile phones seized at search; final victim count revised from ~600 to "literally thousands"; RCMP undercover-operative deployment confirmed.
+- Pages created: raw `raw/press-releases/2025-10-30_rcmp-ca-gazette_how-rcmp-took-down-prolific-cyber-fraudsters.md`; source `wiki/sources/2025-10-30_rcmp-ca-gazette_how-rcmp-took-down-prolific-cyber-fraudsters.md`.
+- Pages updated: op page (source_count 1→2; results.indictments 0→2; results.other expanded; missing_fields trimmed; provisional callout downgraded to two-source banner; Operational Timeline gains 2 rows; new "Court Outcome" subsection; Cooperation Mechanisms gains L24 verbatim quote; Contradictions section updated; credibility_index 4.0→4.5; updated 2026-05-17); `wiki/sources/_index.md` 868→869; 1st-source page Cross-References extended.
+- Lint: HIGH=0 (about to run).
+
 ## [2026-05-17] CONTENT-ENRICHMENT [iter 196, single-agent, L23+L24+L25 strict] | Crimenetwork Relaunch Takedown 2026 — 2nd tier-1 source via Poliția Republicii Moldova
 - Target op: `wiki/operations/crimenetwork-relaunch-takedown-2026.md` (source_count 1 -> 2).
 - 1st publisher (already on page): Bundeskriminalamt (BKA) + ZIT Frankfurt am Main (bka.de, 2026-05-08).
