@@ -82,8 +82,47 @@
 
         <div class="ko-block"><h2 id="_1">개요</h2>
 <p><strong>Aisuru / Kimwolf IoT 봇넷 단속 — 독일·캐나다·미국 공조로 수백만 IoT 기기 DDoS 봇넷 인프라 차단 (BKA + ZAC NRW + 미국 DOJ/DCIS/FBI + 캐나다 LE, 2026-03)</strong> 테이크다운 작전으로, <strong>2026-03-19 ~ 2026-03-19</strong> 기간 동안 <strong>3개국</strong>이 참여하였다.</p>
-<p>대상: Two of the world's currently largest IoT-based DDoS botnets, Aisuru and Kimwolf, plus the C2 infrastructure used by their administrators. Aisuru is a botnet of 'mehrere Millionen' (several million) compromised Internet-of-Things devices — predominantly routers and webcams — assembled by infecting devices with weak/default credentials and exploitable firmware vulnerabilities. Kimwolf, in direct technical relation with Aisuru, comprises 'mehrere Millionen' (several million) infected devices, predominantly Android TV boxes; its compromised devices were dual-purposed both for high-volume DDoS attacks and for monetisation as a 'residential proxy' anonymisation network rented to third parties. The US-side parallel announcement also names two further botnets in the disrupted set — JackSkid and Mossad — operated under the same or related criminal infrastructure cluster.</p>
-<h2 id="_2">결과</h2>
+<p><strong>대상:</strong> Two of the world's currently largest IoT-based DDoS botnets, Aisuru and Kimwolf, plus the C2 infrastructure used by their administrators. Aisuru is a botnet of 'mehrere Millionen' (several million) compromised Internet-of-Things devices — predominantly routers and webcams — assembled by infecting devices with weak/default credentials and exploitable firmware vulnerabilities. Kimwolf, in direct technical relation with Aisuru, comprises 'mehrere Millionen' (several million) infected devices, predominantly Android TV boxes; its compromised devices were dual-purposed both for high-volume DDoS attacks and for monetisation as a 'residential proxy' anonymisation network rented to third parties. The US-side parallel announcement also names two further botnets in the disrupted set — JackSkid and Mossad — operated under the same or related criminal infrastructure cluster.</p>
+<h2 id="_2">범죄 내용 (배경)</h2>
+<p>이 작전이 다룬 범죄 유형은 <strong>DDoS 공격, 사이버범죄 인프라</strong>이다.</p>
+<h3 id="_3">범행 대상</h3>
+<blockquote>
+<p>Two of the world's currently largest IoT-based DDoS botnets, Aisuru and Kimwolf, plus the C2 infrastructure used by their administrators. Aisuru is a botnet of 'mehrere Millionen' (several million) compromised Internet-of-Things devices — predominantly routers and webcams — assembled by infecting devices with weak/default credentials and exploitable firmware vulnerabilities. Kimwolf, in direct technical relation with Aisuru, comprises 'mehrere Millionen' (several million) infected devices, predominantly Android TV boxes; its compromised devices were dual-purposed both for high-volume DDoS attacks and for monetisation as a 'residential proxy' anonymisation network rented to third parties. The US-side parallel announcement also names two further botnets in the disrupted set — JackSkid and Mossad — operated under the same or related criminal infrastructure cluster.</p>
+</blockquote>
+<h3 id="_4">범행 양상 및 규모</h3>
+<ul>
+<li>Two suspected administrators identified — one in Germany, one in Canada (per BKA release). The release records identification + residence searches but does not record arrests; legal consequences (formal charging) are described as forthcoming.</li>
+<li>Aisuru botnet C2 infrastructure disrupted: globally distributed servers and domains (specific count: not enumerated in BKA release; US DOJ side cites broader infrastructure across the four-botnet cluster).</li>
+<li>Kimwolf botnet C2 infrastructure disrupted: globally distributed servers, including the residential-proxy rental layer.</li>
+<li>Devices compromised at peak (per BKA): 'mehrere Millionen' (several million) IoT devices per botnet — routers/webcams (Aisuru) and Android TV boxes (Kimwolf).</li>
+<li>Combined attack volume (per US DOJ side): &gt;300,000 DDoS attack commands across the four-botnet cluster (Aisuru &gt;200,000; KimWolf &gt;25,000; JackSkid &gt;90,000; Mossad ~1,000).</li>
+<li>Record DDoS attack attributed to the cluster (per third-party telemetry corroborating the US DOJ release): a 31.4 Tbps DDoS attack of 35-second duration in November 2025, attributed by Cloudflare to the AISURU/Kimwolf infrastructure.</li>
+<li>Evidence seized at suspect residences: 'zahlreiche Datentraeger' (numerous data carriers) and cryptocurrencies in the 5-digit EUR range.</li>
+<li>BSI (Federal Office for Information Security) sinkholing redirected botnet traffic from victim devices to controlled systems for victim-notification via German ISPs.</li>
+<li>Two further botnets named in the parallel US DOJ/FBI announcement of the same coordinated action — JackSkid and Mossad — were also disrupted; the BKA release scopes only Aisuru and Kimwolf.</li>
+</ul>
+<h3 id="_5">단속 규모 요약</h3>
+<ul>
+<li>암호화폐 압수: <strong>5-digit EUR amount (per BKA release; specific figure not disclosed)</strong> (자금 흐름 규모)</li>
+</ul>
+<h2 id="_6">참여 기관</h2>
+<p><strong>주도기관:</strong> Germany Bka</p>
+<p><strong>참여기관:</strong> Germany Bka, Fbi, Us Doj, Us Dcis, Canada Rcmp Federal Policing</p>
+<p><strong>참여국:</strong> Germany, Canada, United States</p>
+<h2 id="_7">법적 근거</h2>
+<ul>
+<li>Court-authorised C2 disruption order (US): the US-side action was conducted as a 'court-authorized law enforcement operation' under FBI/DCIS authority, targeting C2 infrastructure used by the four named IoT botnets.</li>
+<li>German criminal procedure: residence searches of identified administrators in Germany executed under StPO authority by ZAC NRW / BKA.</li>
+<li>Canadian criminal procedure: residence search in Canada of the second identified administrator executed under domestic Canadian law (specific instrument not detailed in BKA release).</li>
+<li>BSI sinkholing operation: technical disruption coordinated under the German Federal Office for Information Security's IT-security mandate (BSI law).</li>
+</ul>
+<h2 id="_8">작전 일정</h2>
+<ul>
+<li><strong>발표:</strong> 2026-03-20</li>
+<li><strong>개시:</strong> 2026-03-19</li>
+<li><strong>종료:</strong> 2026-03-19</li>
+</ul>
+<h2 id="_9">결과 및 영향</h2>
 <ul>
 <li><strong>5-digit EUR amount (per BKA release; specific figure not disclosed)</strong> 암호화폐 압수</li>
 <li>Two suspected administrators identified — one in Germany, one in Canada (per BKA release). The release records identification + residence searches but does not record arrests; legal consequences (formal charging) are described as forthcoming.</li>
@@ -96,23 +135,9 @@
 <li>BSI (Federal Office for Information Security) sinkholing redirected botnet traffic from victim devices to controlled systems for victim-notification via German ISPs.</li>
 <li>Two further botnets named in the parallel US DOJ/FBI announcement of the same coordinated action — JackSkid and Mossad — were also disrupted; the BKA release scopes only Aisuru and Kimwolf.</li>
 </ul>
-<h2 id="_3">참여 기관</h2>
-<p><strong>주도기관:</strong> Germany Bka</p>
-<p><strong>참여기관:</strong> Germany Bka, Fbi, Us Doj, Us Dcis, Canada Rcmp Federal Policing</p>
-<p><strong>참여국:</strong> Germany, Canada, United States</p>
-<h2 id="_4">교훈</h2>
+<h2 id="_10">협력 메커니즘</h2>
 <ul>
-<li>First wiki record of a Germany-Canada-United States trilateral IoT-botnet takedown in Period 3 — establishes the <em>Western trilateral coordination</em> pattern as an operational alternative to the larger Europol-led multistate action weeks (Endgame, PowerOFF) for cases where the suspects are concentrated in two non-EU jurisdictions plus one EU lead.</li>
-<li>The Aisuru/Kimwolf DDoS botnets reached attack capacities of 31.4 Tbps (per Cloudflare third-party telemetry) — among the largest DDoS volumes recorded in the wiki corpus, exceeding the typical hundreds-of-Gbps range of earlier IoT botnets in the Mirai lineage. The takedown documents the <em>industrial scale</em> of contemporary IoT-botnet capacity.</li>
-<li>The Kimwolf botnet's dual-use of compromised Android TV devices (DDoS attacks + residential-proxy rental) is a structurally important pattern: it demonstrates monetisation of compromised IoT capacity through the <em>anonymisation-as-a-service</em> market in addition to the <em>DDoS-as-a-service</em> market. Compromised consumer IoT devices are increasingly multi-product.</li>
-<li>BSI sinkholing as the victim-notification channel — the German Federal Office for Information Security's role in redirecting botnet traffic to controlled systems and notifying victim citizens via their ISPs is a reproducible model for other countries' national CSIRTs in IoT-botnet disruption operations.</li>
-<li>The discrepancy between the BKA release's two-botnet scope (Aisuru, Kimwolf) and the US DOJ release's four-botnet scope (Aisuru, Kimwolf, JackSkid, Mossad) is illustrative of <em>jurisdiction-scoped charging</em>: each national authority describes the action in terms of the offences chargeable in its own legal system, even when the underlying operational coordination is shared. A reader synthesising the operation must read both releases.</li>
-<li>L24 strict compliance: BKA release explicitly names cooperating LE in Canada and the US — Canada and the US are <em>cooperating jurisdictions</em> (suspects co-located with LE searches), not adversary/origin/destination states. This contrasts with the Iter 124 Delhi Police SIMBOX case where origin/handler/C2 states were misclassified as participating_countries.</li>
-</ul>
-<h2 id="_5">관련 작전</h2>
-<ul>
-<li><a href="../../wiki/operations/operation-endgame-phase3.html" class="wikilink">operation-endgame-phase3</a></li>
-<li><a href="../../wiki/operations/operation-power-off-2026-04.html" class="wikilink">operation-power-off-2026-04</a></li>
+<li><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 협력</a></li>
 </ul>
 <blockquote>
 <p>신뢰도 지수(CI): <strong>4.0</strong> | 출처: 1건</p>

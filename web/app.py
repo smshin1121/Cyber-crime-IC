@@ -97,6 +97,23 @@ HEADING_MAP = {
     "Follow-Up Actions": "후속 조치",
     "Korean Involvement": "한국의 참여",
     "Korean Perspective": "한국 관점",
+    "Related Operations": "관련 작전",
+    "Related Cases": "관련 사건",
+    "Verbatim cooperation quote": "협력 증언 (원문 인용)",
+    "Verbatim cooperation quote (L24 evidence)": "협력 증언 (L24 근거 — 원문 인용)",
+    "Verbatim quote": "원문 인용",
+    "Facts": "사실관계",
+    "International Cooperation Elements": "국제공조 요소",
+    "Evidence Gathering": "증거 수집",
+    "Arrest & Extradition": "체포 및 인도",
+    "Asset Recovery": "자산 회수",
+    "Legal Analysis": "법적 분석",
+    "Jurisdiction": "관할권",
+    "Key Legal Issues": "주요 법적 쟁점",
+    "Precedent Value": "선례 가치",
+    "Proceedings Timeline": "소송 진행 타임라인",
+    "Cooperation Effectiveness": "공조 효과성",
+    "Korean Relevance": "한국 관련성",
     # Organizations
     "Mandate and Authority": "임무와 권한",
     "Structure Relevant to Cybercrime IC": "사이버범죄 국제공조 관련 구조",
@@ -943,37 +960,15 @@ def _gen_ko_operation(meta: dict, en: str) -> str:
             else:
                 lines.append(f"- {ko_label}")
 
-    # Challenges
-    challenges = meta.get("challenges_encountered", [])
-    if isinstance(challenges, list) and challenges:
-        lines.append("\n## 도전 및 마찰점\n")
-        for c in challenges[:10]:
-            lines.append(f"- {_strip_wikilink(c)}")
-
-    # Lessons learned
-    lessons = meta.get("lessons_learned", [])
-    if isinstance(lessons, list) and lessons:
-        lines.append("\n## 교훈\n")
-        for lesson in lessons:
-            lines.append(f"- {lesson}")
-
-    # Related operations
-    related = meta.get("related_operations", [])
-    if isinstance(related, list) and related:
-        lines.append("\n## 관련 작전\n")
-        for r in related:
-            lines.append(f"- {r}")
-
-    # Credibility
+    # Credibility note (compact Korean-side metadata)
     if ci:
         lines.append(f"\n> 신뢰도 지수(CI): **{ci}** | 출처: {src_count}건")
 
-    # Extract references table from English content (keep as-is)
-    ref_match = re.search(r'(## References\n.*)', en, re.DOTALL)
-    if ref_match:
-        lines.append("\n## 참고문헌\n")
-        ref_table = ref_match.group(1).replace("## References\n", "").strip()
-        lines.append(ref_table)
+    # NOTE: Lessons Learned, Related Operations, Challenges, and References are
+    # NOT duplicated here. The English body (rendered below the Korean overview
+    # in lang-ko mode) already provides these sections with Korean H2/H3 headings
+    # via bilingual_headings(). Including them in the synthesized Korean overview
+    # would cause visible duplication in Korean toggle mode.
 
     return "\n".join(lines)
 

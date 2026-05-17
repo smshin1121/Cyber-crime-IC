@@ -442,11 +442,30 @@ body {
 .lang-en .ko-text { display: none; }
 .lang-en .en-text { display: inline; }
 
-/* Bilingual block-level elements */
+/* Bilingual block-level elements.
+   Korean mode shows BOTH the synthesized Korean overview AND the English body
+   (which has Korean H2/H3 headings via bilingual_headings()), so the Korean
+   view is not a sparse subset of the English view. English mode shows only
+   the English body. */
 .lang-ko .ko-block { display: block; }
-.lang-ko .en-block { display: none; }
+.lang-ko .en-block { display: block; }
 .lang-en .ko-block { display: none; }
 .lang-en .en-block { display: block; }
+
+/* Visual separator between the Korean overview and the English body
+   (only visible in Korean mode, where both are shown). */
+.lang-ko .ko-block::after {
+  content: "── 원문 (English source content) ──";
+  display: block;
+  text-align: center;
+  margin: 28px 0 8px;
+  padding: 12px 0;
+  border-top: 1px dashed var(--border, #e0e0e0);
+  border-bottom: 1px dashed var(--border, #e0e0e0);
+  color: var(--text-muted, #888);
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
 
 /* Section headings: bilingual spans */
 .heading-ko, .heading-en { transition: opacity 0.15s; }
