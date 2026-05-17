@@ -106,7 +106,7 @@ sources:
   - "[[2026-03-04_justice-gov_united-states-leads-dismantlement-leakbase-hacker-forum]]"
 summary: "LeakBase, an open-web English-language forum that DOJ describes as one of the world's largest cybercriminal data-trading platforms (over 142,000 members, over 215,000 messages), was dismantled on 2026-03-03 and 2026-03-04 in a synchronized 14-country action coordinated by Europol in The Hague. The US lead was the FBI Salt Lake City Field Office, with prosecution by USAO-Utah and CCIPS, and the action follows the DOJ-led RaidForums (2022) and BreachForums (2023) takedowns."
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -116,7 +116,28 @@ The United States and other countries shut down LeakBase, seized its data and tw
 
 ## Background
 
-LeakBase allowed forum users to sell information from stolen databases — including data illegally obtained from US corporations and individuals — and offered credit and debit card numbers, banking account and routing information, usernames and associated passwords (which could facilitate additional account takeovers), and other sensitive business and personally identifiable information. DOJ's release explicitly contextualizes the takedown as the latest in a sequence of major cybercrime-marketplace disruptions led by the United States: RaidForums in 2022 and BreachForums in 2023, with the BreachForums founder convicted and sentenced in 2025.
+### Modus operandi
+
+LeakBase operated as an open-web, English-language cybercrime forum — i.e., it required no Tor browser, invitation, or special credentials to access — and structured its commerce around the resale of stolen-database content harvested from third-party breaches. Per the unsealed affidavit cited in the DOJ release, the forum maintained an enormous, continuously updated archive of hacked databases including hundreds of millions of account credentials. Forum users posted, sold, and traded:
+
+- Credit and debit card numbers (carding inventory).
+- Banking account numbers and routing information.
+- Username/password pairs (which the DOJ explicitly notes can facilitate downstream account takeovers — i.e., credential-stuffing and ATO chains).
+- Additional sensitive business and personally identifiable information sourced from US corporations and individuals.
+
+The forum had over 142,000 registered members and over 215,000 messages at takedown. Two domain names were used to surface the marketplace on the open web; both were seized and replaced with seizure banners on 2026-03-03.
+
+### Victim profile and impact
+
+The unsealed affidavit characterizes the stolen-database archive as encompassing hundreds of millions of compromised account credentials — i.e., the proximate victim population is the credential holders behind those records, not the 142,000 forum members. The DOJ release explicitly names US corporations and US individuals as a source population for the stolen data trafficked through the forum, but does not quantify per-victim losses, total laundered proceeds, or aggregate fraud volume attributable to LeakBase listings.
+
+### Financial flow
+
+The cited tier-1 source does not describe a specific cryptocurrency, escrow, or payment-processor flow for LeakBase transactions, and the seizure announcement records no cryptocurrency-seizure figure. The forum-economy model is consistent with the pattern previously documented in DOJ-led RaidForums (2022) and BreachForums (2023) takedowns — peer-to-peer crypto and on-platform credit systems — but specific financial-flow detail for LeakBase is not disclosed in this release.
+
+### Criminal organization structure
+
+DOJ explicitly contextualizes LeakBase as the latest in a sequence of major English-language cybercrime-marketplace disruptions — RaidForums (2022) and BreachForums (2023, founder convicted and sentenced in 2025) — characterising the forum-takedown vertical as a recurring US-led, Europol-coordinated enforcement target with displacement-and-takedown dynamics across successor venues. The cited release does not name a founder, administrator, moderator team, or organisational hierarchy for LeakBase itself; per-country arrest counts were not disclosed and no defendants were named, although search warrants, arrests, and interviews were executed across eight active-enforcement jurisdictions (United States, Australia, Belgium, Poland, Portugal, Romania, Spain, United Kingdom).
 
 ## Participating Parties
 
@@ -159,6 +180,9 @@ South Korea is not named in the cited DOJ release as either an active-enforcemen
 - Per-country arrest counts are not described in the cited release; the public source attributes "search warrants, arrests, and interviews" collectively to the eight active-enforcement countries.
 - The hosting infrastructure of LeakBase is not described in the cited DOJ release; secondary reporting (Malay Mail) attributes Malaysia-hosted servers to Malaysia's MACC, which would also explain Malaysia's inclusion in the assistance roster, but Malaysia's specific role is not described in the tier-1 DOJ source itself.
 - No defendant or operator of LeakBase is named in the cited release; the founder/administrator's identity and any indictment under seal are not disclosed in this source.
+- **L26 gap — financial flow**: the cited DOJ release does not disclose the specific cryptocurrency, escrow, or payment-channel mechanics used inside the LeakBase economy; aggregate proceeds and laundering pathways are not quantified.
+- **L26 gap — victim quantification**: the cited DOJ release does not quantify per-victim losses or aggregate fraud volume traceable to LeakBase listings; the "hundreds of millions of account credentials" figure is the archive scale, not a downstream-loss figure.
+- **L26 gap — OCG structure**: no LeakBase founder, administrator, or moderator hierarchy is named in the cited release; the takedown is described as forum-platform disruption rather than as the dismantling of an identified organised criminal group.
 
 ## References
 

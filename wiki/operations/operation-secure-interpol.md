@@ -86,7 +86,7 @@ timeframe:
 title: "Operation Secure (INTERPOL Infostealer Crackdown)"
 title_ko: "Operation Secure (인포스틸러 인프라 단속)"
 type: operation
-updated: 2026-05-08
+updated: 2026-05-17
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure. The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims."
@@ -113,7 +113,31 @@ This operation focused specifically on information-stealing malware (infostealer
 
 ## Background
 
-Infostealers represent a growing cybercrime threat, serving as the initial access vector for ransomware, fraud, and identity theft operations. INTERPOL's Asia-Pacific cyber operations desk coordinated this region-wide crackdown as a successor to the [[operation-synergia-ii|Operation Synergia II]] model of large-scale infrastructure takedowns.
+### Modus operandi
+
+Operation Secure targeted the infostealer-malware vertical — i.e., information-stealing trojans that infect victim endpoints (typically via phishing, cracked-software lures, malvertising, or drive-by downloads) and exfiltrate browser-stored credentials, browser cookies and session tokens, autofill data, cryptocurrency wallet seeds, email account credentials, and locally cached document and form data to an attacker-controlled command-and-control (C2) server. The harvested credential bundles ("logs") are then resold on cybercrime marketplaces as Initial Access Broker (IAB) inventory feeding ransomware, business email compromise, account takeover, and crypto-asset theft pipelines. The cited tier-1 INTERPOL release does not name specific malware families, but Kaspersky's same-day support release contextualises the operation against the broader Lumma / Redline / Meta / Risepro infostealer family ecosystem that this wiki tracks separately under [[operation-magnus-redline-meta-stealer-takedown-2024|Operation Magnus]] and related actions.
+
+The operation hit infrastructure-layer assets rather than end-user devices: 20,000-plus malicious IPs and domains were taken down, 41 servers were seized, and 100 GB-plus of data was captured for evidence. The action targeted both the C2 infrastructure (for live exfiltration sessions) and the resale-platform infrastructure where infostealer logs are sold.
+
+### Victim profile and impact
+
+INTERPOL reports that 216,000-plus victims were notified through the operation. The cited release does not break down victims by country, by language of credentials harvested, or by downstream fraud-loss figure. Given the Asia-Pacific operational footprint (26 jurisdictions), the credential population is likely heavily weighted toward Asia-Pacific regional users — including Korean residents whose credentials are an upstream supply for voice-phishing, romance-scam, and account-takeover schemes tracked elsewhere in this wiki. Aggregate fraud losses across the notified victim cohort are not quantified in the cited source.
+
+### Financial flow
+
+Infostealer-economy proceeds flow primarily through:
+
+1. Per-log sales (typical 1-25 USD per credential bundle on resale marketplaces such as Russian Market, 2easy, Genesis-style platforms),
+2. IAB resale of corporate-credential bundles to ransomware operators (which can monetise at five-to-seven figures per ransom event), and
+3. Direct monetisation of harvested crypto-wallet seeds and exchange-account credentials.
+
+The cited INTERPOL release records no cryptocurrency-seizure figure for Operation Secure and does not disaggregate proceeds by monetisation channel. The 100 GB of seized data is evidentiary, not laundered-proceeds.
+
+### Criminal organization structure
+
+The 32 arrests are reported as a cohort total across the 26-country roster; the cited tier-1 source does not name specific OCGs, malware-family operators, marketplace administrators, or per-country arrest breakdowns. Infostealer ecosystems are typically structured as loosely federated affiliates — malware-as-a-service (MaaS) operators selling stealer builds, affiliate distributors running spam/phishing campaigns, log-aggregator marketplaces, and downstream IAB resellers — rather than as integrated hierarchies. The release does not disclose which tier or role the 32 arrested individuals occupied, nor whether they include MaaS operators, infrastructure providers, or log resellers.
+
+Infostealers serve as the initial access vector for ransomware, fraud, and identity theft operations. INTERPOL's Asia-South Pacific Cybercrime Operations Desk coordinated this region-wide crackdown as a successor to the [[operation-synergia-ii|Operation Synergia II]] model of large-scale infrastructure takedowns.
 
 ## Participating Parties
 
@@ -151,6 +175,10 @@ The case is a strong infostealer-IC datapoint for Korea given that infostealer-d
 ## Contradictions & Open Questions
 
 - Per-country breakdown of arrests and infrastructure actions not disclosed in the cited tier-1 source. The 32 arrests, 41 servers, 100 GB+ of seized data, and 20 000+ disrupted IPs/domains are reported as cohort totals.
+- **L26 gap — modus operandi specificity**: the cited INTERPOL release does not name specific malware families targeted (Lumma, RedLine, Meta, RisePro, Raccoon, Vidar, etc.); the operation is described at the "infostealer infrastructure" abstraction level only.
+- **L26 gap — financial flow**: the cited release does not quantify infostealer-log resale proceeds, IAB downstream monetisation, or aggregate ransomware-attributable losses traceable to logs sourced through the seized infrastructure.
+- **L26 gap — OCG structure**: the 32 arrested individuals' roles (MaaS operators / infrastructure providers / marketplace administrators / affiliate distributors) are not disclosed; whether the 32-arrest cohort represents a coordinated OCG or independent actors across 26 jurisdictions is unspecified.
+- **L26 gap — victim quantification**: per-jurisdiction victim breakdown, language/region of harvested credentials, and downstream fraud-loss aggregates across the 216 000-plus notified population are not disclosed.
 - The wiki record's `participating_countries` frontmatter currently captures the 19 jurisdictions in the 26-country INTERPOL roster that have existing country pages in this wiki: Brunei, Cambodia, Hong Kong, India, Indonesia, Japan, Kazakhstan, Laos, Macau, Malaysia, Maldives, Nepal, Philippines, South Korea, Singapore, Sri Lanka, Thailand, Timor-Leste, and Vietnam. The remaining 7 source-named jurisdictions — Fiji, Kiribati, Nauru, Papua New Guinea, Samoa, Solomon Islands, Tonga, and Vanuatu — are named verbatim in the cited INTERPOL release but do not yet have country pages in this wiki and are therefore listed in the prose roster only. (Counted as 8 entries; the eighth Pacific entry, Macau, is treated as a Chinese region in INTERPOL's text and is captured separately above.)
 - Legal basis for cross-border data sharing across 26 jurisdictions is not specified in the cited tier-1 source; the standing Asia-South Pacific Joint Operations Against Cybercrime (ASPJOC) project structure is the operational frame named in same-day INTERPOL coverage.
 
