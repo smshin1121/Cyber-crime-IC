@@ -3294,3 +3294,13 @@
 - L23 wikilink-or-empty: lead_agency=[[eurojust]], coordinating_body=[[eurojust]] — unchanged, both wikilink-compliant.
 - Files: 2 new (raw PJ + source PJ), 1 updated (op page — source_count 1->2 + sources list + References [2] row + updated date).
 - Lint: HIGH=0 (verified post-edit).
+
+## [2026-05-17] enrich | DE-UA-CH-NL-UK Black Basta takedown 2026 — 2nd tier-1 own-domain (Cyber Police Ukraine)
+- Op: [[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]] (source_count 1 -> 2)
+- 2nd publisher: Cyber Police Department of the National Police of Ukraine (Департамент Кіберполіції) — release dated 2026-01-15 16:30 Kyiv local; URL: https://cyberpolice.gov.ua/news/naczpolicziya-vykryla-chleniv-mizhnarodnogo-xakerskogo-ugrupovannya-ta-identyfikuvala-jogo-organizatora-6407/
+- L25 tier-1 own-domain class: national-police agency, own-domain (cyberpolice.gov.ua); NOT a private commercial wire. Cyber Police is the executing authority for the Ukrainian segment of the 2026-01-15 joint action day.
+- L24 verbatim cooperation quote (Ukrainian release): "Поточні слідчі дії проводилися в рамках міжнародної співпраці між правоохоронними органами України, Німеччини, Швейцарії, Нідерландів та Великої Британії" — five cooperating LE jurisdictions explicitly named (Ukraine, Germany, Switzerland, Netherlands, United Kingdom). Matches BKA tier-1 release on the nose.
+- UA-side adds: explicit attribution to Cyber Directorate of the Office of the Prosecutor General of Ukraine for procedural supervision; Main Investigation Directorate of the National Police of Ukraine as investigative authority; Europol specialists named as participating in ringleader identification; corroboration of prior Kharkiv-area search wave; seizures itemised (digital storage media + cryptocurrency assets); 2022-2025 attribution scope (hundreds of organizations, hundreds of millions of euros in damages) consistent with BKA's >100 DE / ~600 global figures.
+- L23 wikilink-or-empty: lead_agency=[[germany-bka]], coordinating_body=[[europol-ec3]] — unchanged, both wikilink-compliant.
+- Files: 2 new (raw cyberpolice + source cyberpolice), 1 updated (op page — provisional callout updated to "two tier-1 own-domain sources" + source_count 1->2 + sources list + References [2] row + cross-source corroboration note + updated date).
+- Lint: HIGH=0 (verified post-edit).

@@ -118,16 +118,17 @@ lessons_learned:
   - "The BKA release frames the action as a continuation of pre-existing cooperation — the Aug 2025 Kharkiv-area search preceded the Jan 2026 Ivano-Frankivsk/Lviv searches — illustrating how German-Ukrainian ransomware cooperation under wartime conditions has remained operational across multiple 2025-2026 action waves."
   - "Russian citizenship of the alleged ringleader functions as a structural barrier: the public arrest warrant + Europol/Interpol Most Wanted publication is the realistically available enforcement vector when the suspect is presumed to be in a non-cooperating jurisdiction."
   - "ZIT (Generalstaatsanwaltschaft Frankfurt am Main — Zentralstelle zur Bekämpfung der Internetkriminalität) appears as the consistent German prosecutorial counter-party for ransomware international cooperation cases (cf. Operation Endgame, the 2025 Crimenetwork takedown, and the Aisuru/Kimwolf 2026 botnet action)."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]]"
+  - "[[2026-01-15_cyberpolice-gov-ua_naczpolicziya-vykryla-chleniv-mizhnarodnogo-xakerskogo-ugrupovannya-black-basta]]"
 summary: "On 2026-01-15 the German Bundeskriminalamt (BKA) and the Frankfurt am Main Generalstaatsanwaltschaft — Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT) — announced a public arrest warrant for the alleged ringleader of the Black Basta ransomware group, identified as a Russian citizen with previous Conti links, and confirmed January 2026 searches in the Ukrainian Ivano-Frankivsk and Lviv regions of two suspected Ukrainian-citizen members accused of hash-cracking. The action is the public phase of an internationally coordinated investigation by ZIT/BKA together with the Dutch NHTCU, Swiss fedpol and Bundesanwaltschaft, the British SEROCU, and the Ukrainian Cyber Police and Office of the Prosecutor General of Ukraine, supported by Europol and Interpol via the Most Wanted publication channels."
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 
-> [!note] Provisional / single-source page
-> This page is published below the standard preferred source threshold (`source_count >= 5`). It is retained as a provisional record because the BKA press release is a tier-1 primary source documenting (a) a previously unrecorded multi-country (DE/NL/CH/UK/UA) law-enforcement coalition explicitly named in a single official statement, and (b) the public arrest-warrant phase of an active Black Basta investigation. It should be enriched as Europol/Eurojust/Politie/fedpol/NCA corroborating sources are added.
+> [!note] Provisional / two tier-1 own-domain sources
+> This page is published below the standard preferred source threshold (`source_count >= 5`). It is retained as a provisional record because two tier-1 primary sources from two distinct cooperating national-LE agencies (BKA Germany and Cyber Police of the National Police of Ukraine) document the same action day, the same suspect roles, the same action geography, and the same five-country cooperation list (DE/UA/CH/NL/UK). It should be enriched further as Eurojust/Politie/fedpol/NCA corroborating sources are added.
 
 ## Summary
 
@@ -231,3 +232,7 @@ The BKA release does not name the Republic of Korea or any Korean agencies. Blac
 | # | Title | Publisher | Date | URL |
 |---|-------|-----------|------|-----|
 | [1] | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta\|Fahndung nach Kopf der Ransomware-Gruppierung „Black Basta"]] | Bundeskriminalamt (BKA) | 2026-01-15 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260115_PM_Black_Basta.html |
+| [2] | [[2026-01-15_cyberpolice-gov-ua_naczpolicziya-vykryla-chleniv-mizhnarodnogo-xakerskogo-ugrupovannya-black-basta\|Нацполіція викрила членів міжнародного хакерського угруповання та ідентифікувала його організатора]] | Cyber Police Department of the National Police of Ukraine | 2026-01-15 | https://cyberpolice.gov.ua/news/naczpolicziya-vykryla-chleniv-mizhnarodnogo-xakerskogo-ugrupovannya-ta-identyfikuvala-jogo-organizatora-6407/ |
+
+> [!note] Cross-source corroboration (iter 194)
+> Both tier-1 own-domain releases (BKA Germany and Cyber Police of the National Police of Ukraine, both 2026-01-15) match on: action date; suspect count (2); action geography (Ivano-Frankivsk + Lviv regions of Ukraine); suspect role (hash-cracking); alleged ringleader nationality (Russian citizen); Conti-antecedent attribution; prior Kharkiv-area search wave (late Aug 2025); five-country cooperating-jurisdiction list (Germany, Netherlands, Switzerland, Ukraine, United Kingdom); and Europol + Interpol coordination role. The Ukrainian release adds explicit attribution to the Cyber Directorate of the Office of the Prosecutor General of Ukraine for procedural supervision; the German release adds the named foreign-LE counter-parties (fedpol + Bundesanwaltschaft CH, NHTCU NL, SEROCU UK). L24-qualifying sentence in the Ukrainian release (verbatim): "Поточні слідчі дії проводилися в рамках міжнародної співпраці між правоохоронними органами України, Німеччини, Швейцарії, Нідерландів та Великої Британії."
