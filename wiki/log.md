@@ -3225,3 +3225,12 @@
 - L23: lead_agency=[[japan-npa]] (wikilink), coordinating_body="" (empty) - both wikilink-or-empty compliant.
 - Fetch posture: FBI URL returned HTTP 403 to direct WebFetch (L11/L13 - FBI/Cloudflare/Akamai bot protection routinely 403s non-browser clients). Content cross-confirmed via NPA Japan own-domain release, cyber.go.jp/eng companion English PDF, and multiple secondary outlets reproducing FBI text verbatim. FBI URL retained as canonical US-side anchor per LESSONS L11.
 - Dedup: confirmed no prior FBI-anchor source ingest for this operation; existing entry is NPA-side only.
+
+## [2026-05-17] iter 189 CONTENT-ENRICHMENT | Archetyp Market Operation Deep Sentinel — 2nd source via BKA + ZIT Frankfurt am Main (Jun 2025)
+- Target op: archetyp-market-takedown-operation-deep-sentinel-2025 — source_count 1 -> 2.
+- 2nd source: bka.de own-domain joint BKA + Generalstaatsanwaltschaft Frankfurt am Main (ZIT) release; tier-1 national police + national prosecutor's office publisher (L25 strict compliant).
+- L24 verbatim cooperation quote (BKA, ZIT-attributed): "Dieser erneute Ermittlungserfolg von BKA, ZIT und internationalen Partnerdienststellen zeigt, dass die Strafverfolgungsbehoerden in immer schnellerer Abfolge illegale IT-Infrastruktur wie Darknet-Marktplaetze abschalten und mutmassliche Verantwortliche festnehmen koennen."
+- BKA-side adds: admin alias "ASNT" verified; charges under Paragraphen 29a/30a BtMG; Bucharest search added to NL+ES+DE+SE picture; 9 German police forces enumerated; 7-arrests-in-Sweden quantified ("Sieben weitere Personen wurden in Schweden festgenommen"); 47 smartphones + 45 computers further seized.
+- L23 wikilink-or-empty: lead_agency=[[germany-bka]], coordinating_body=[[europol-ec3]] both wikilink-compliant.
+- Files: 2 new (raw bka-de + source), 1 updated (op page — added German-Side Detail section + 2nd reference row + Contradictions update).
+- Lint: HIGH=0.

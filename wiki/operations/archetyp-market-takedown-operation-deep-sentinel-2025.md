@@ -134,12 +134,13 @@ lessons_learned:
   - "Demonstrates explicit Eurojust EIO + MLA coordination as a discrete IC mechanism class for darknet-marketplace takedowns — a structurally similar pattern to [[eurojust-100m-crypto-investment-fraud-takedown-2025|the 2025-09 €100M crypto-investment-fraud takedown]] (Eurojust EAW + EIO + freezing-order coordination), applied here to drug-marketplace infrastructure."
   - "Establishes the German lead-jurisdiction + Spanish arrest-jurisdiction + Dutch infrastructure-hosting-jurisdiction triplet as a routine pattern for EU-led darknet-marketplace takedowns: the German federal-prosecution architecture (ZIT Frankfurt am Main + BKA), the Spanish ability to apprehend German-national operators within Schengen, and the Dutch hosting infrastructure that has historically been a darknet-server preferred-location."
   - "US partner cooperation (HSI + IRS-CI + USDOJ) without action-day arrests demonstrates the analytical-support + intelligence-sharing pattern that complements EU JIT-anchored darknet enforcement, as recorded for [[operation-raptor|Operation Raptor]] and other prior dark-web takedowns."
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market]]"
+  - "[[2025-06-16_bka-de_archetyp-market-abgeschaltet-betreiber-festgenommen]]"
 summary: "Operation Deep Sentinel was a 6-jurisdiction darknet-marketplace takedown executed during 11-13 June 2025, led by German authorities (Generalstaatsanwaltschaft Frankfurt am Main — ZIT + BKA), with 5-EU-state plus US partnership (Germany, Netherlands, Romania, Spain, Sweden, US-HSI/IRS-CI/USDOJ) coordinated by Europol EC3 and Eurojust (mutual legal assistance + European Investigation Order coordination during the action days). The operation took offline the longest-running dark-web drug marketplace, Archetyp Market, which had operated for 5+ years with 600,000+ users, EUR 250 million+ in transaction volume, and 17,000+ listings including fentanyl and other synthetic opioids. The 30-year-old German-national administrator was arrested in Barcelona, Spain; the Netherlands-hosted infrastructure was taken offline; one moderator and six highest vendors were targeted in Germany and Sweden; EUR 7.8 million in assets were seized; approximately 300 officers were deployed across the EU jurisdictions."
 created: 2026-05-09
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -191,16 +192,30 @@ The cited release describes three discrete IC mechanism classes for this operati
 
 South Korea is not named in the cited Europol release among the participating jurisdictions or the underlying user/vendor cohort. The case is recorded in the wiki for the 6-jurisdiction darknet-marketplace takedown architecture and the Eurojust EIO + MLA mechanism class. Korean exposure to Archetyp Market is *likely* present given the global 600,000+ user scale but is not enumerated in this source.
 
+## German-Side Detail (BKA + ZIT Frankfurt am Main)
+
+The BKA + Generalstaatsanwaltschaft Frankfurt am Main (ZIT) joint release on the same day (2025-06-16) confirms and extends the operational picture:
+
+- **Administrator's alias confirmed by tier-1 source**: "ASNT" (the Europol release does not name the alias; BKA names it from the German side).
+- **Charges (German criminal code)**: bandenmaessiges unerlaubtes Handeltreiben mit Betaeubungsmitteln in nicht geringer Menge unter Paragraphen 29a, 30a Betaeubungsmittelgesetz (BtMG) — gang-mode unauthorized trafficking of narcotics in non-minor quantity.
+- **Search-and-seizure locations beyond Europol enumeration**: admin residence in Barcelona + one object each in Hannover, Landkreis Minden-Luebbecke, and Bucharest; plus a further 20 objects in Germany (Nordrhein-Westfalen × 2, Niedersachsen × 2, Hessen × 1, Baden-Wuerttemberg × 1) and additional searches in Sweden.
+- **Sweden arrest count**: BKA explicitly states "Sieben weitere Personen wurden in Schweden festgenommen" — 7 arrests in Sweden (where the Europol release described 1 moderator + 6 vendors "targeted").
+- **Additional seizures** (other suspects beyond admin): 47 smartphones, 45 computers/notebooks, narcotics, and further assets — in addition to the admin's 8 mobiles + 4 computers + 34 data carriers.
+- **9 German police forces enumerated**: Polizeipraesidium Bielefeld, Polizeipraesidium Bonn, Kriminalkommissariat Bruchsal, Polizeidirektion Darmstadt-Dieburg, Polizeidirektion Hannover, Kreispolizeibehoerde Minden-Luebbecke, Zentrale Kriminalinspektion Oldenburg, Polizeidirektion Osnabrueck, Polizeipraesidium Recklinghausen.
+- **International partners enumerated with local names**: Niederlande (Politie), Rumaenien (Inspectoratul General al Politiei Romane / IGPR), Schweden (Polisen), Spanien (Policia Nacional), USA (USDOJ + HSI + IRS-CI).
+- **Cooperation framing (verbatim)**: "Den durch die ZIT und das BKA koordinierten Massnahmen im Zuge der internationalen Operation 'Deep Sentinel' gegen den 'Archetyp Market' gingen langwierige und aufwaendige verdeckte Ermittlungen in den beteiligten Staaten voraus, welche von Europol und Eurojust unterstuetzt wurden."
+
 ## Contradictions & Open Questions
 
-- The cited release does not enumerate the specific arrest counts beyond the administrator (1 moderator + 6 vendors targeted; how many were arrested vs subjected to other measures is not specified).
-- Specific Romania-side operational detail is not enumerated.
-- Cryptocurrency-vs-other-asset breakdown within the EUR 7.8M seizure is not enumerated.
-- Indictment counts in any jurisdiction are not enumerated in the cited release.
-- The specific alias of the German-national administrator (third-party reporting cites "ASNT" but this is not in the primary Europol release).
+- BKA states 7 arrests in Sweden; Europol release framed this as "1 moderator + 6 highest vendors targeted" — *likely* consistent (7 total), but the Europol "targeted" language did not specify arrest vs other measure. BKA's "festgenommen" resolves this as arrest.
+- Specific Romania-side operational detail: BKA names one search object in Bucharest but does not enumerate Romania-side arrests.
+- Cryptocurrency-vs-other-asset breakdown within the EUR 7.8M seizure is not enumerated in either release.
+- Indictment counts in any jurisdiction are not enumerated in the cited releases (pre-indictment action-day events).
+- The 8th arrest figure (some secondary reporting cites "8 suspects total") is consistent with 1 admin (Spain) + 7 (Sweden) = 8 across the action days; this is not framed as a single total in either tier-1 release.
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|-----------|------|-----|
 | [1] | [[2025-06-16_europol_europe-wide-takedown-archetyp-dark-web-drug-market\|Europe-wide takedown hits longest-standing dark web drug market]] | Europol | 2025-06-16 | https://www.europol.europa.eu/media-press/newsroom/news/europe-wide-takedown-hits-longest-standing-dark-web-drug-market |
+| [2] | [[2025-06-16_bka-de_archetyp-market-abgeschaltet-betreiber-festgenommen\|Darknet-Handelsplattform "Archetyp Market" abgeschaltet – Betreiber identifiziert und festgenommen]] | Bundeskriminalamt (BKA) / Generalstaatsanwaltschaft Frankfurt am Main — ZIT | 2025-06-16 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2025/Presse2025/250616_Archetyp_abgeschaltet.html |
