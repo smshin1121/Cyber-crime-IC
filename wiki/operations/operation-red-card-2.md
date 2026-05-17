@@ -107,7 +107,7 @@ sources:
   - "[[2026-02-19_nairametrics_operation-red-card-2-african-cybercrime]]"
 summary: "Operation Red Card 2.0 was an INTERPOL-supported AFJOC cyber-fraud operation conducted from December 2025 to January 2026. Law enforcement agencies from 16 African countries made 651 arrests, recovered more than USD 4.3 million, identified 1,247 victims, seized 2,341 devices, and took down 1,442 malicious IPs, domains, servers, and related infrastructure."
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-17
 ---
 # Operation Red Card 2.0
 
@@ -116,6 +116,16 @@ updated: 2026-05-07
 Operation Red Card 2.0 was an INTERPOL-supported cyber-fraud operation conducted under the African Joint Operation against Cybercrime framework. It ran from 8 December 2025 to 30 January 2026 and targeted high-yield investment scams, mobile money fraud, and fraudulent mobile loan applications.
 
 The operation is distinct from [[operation-red-card|Operation Red Card]], which covered the November 2024 to February 2025 phase. Red Card 2.0 has a separate enforcement window, a larger 16-country coalition, and separate public results.
+
+## Background
+
+**Modus operandi.** INTERPOL describes three convergent fraud business models targeted by Red Card 2.0. (1) **High-yield investment scams** advertised on messaging platforms and social media: victims were directed to fraudulent "investment" platforms purporting to offer crypto, forex, or commodity trading at outsized returns, deposited funds, were shown fake account balances, and lost the principal when withdrawal was refused or conditioned on further "tax" or "verification" payments. (2) **Mobile-money fraud**, predominantly in East and West African mobile-money corridors (Kenya M-PESA-style ecosystems, Cote d'Ivoire/Senegal Orange Money/Wave): fraudsters used social engineering, agent impersonation, and SIM-swap-adjacent techniques to redirect transfers or coerce victims into authorising payouts. (3) **Fraudulent mobile loan applications**: malicious lending apps (in particular targeted in Cote d'Ivoire, where 58 arrests are publicly attributed) extracted personal data, contact lists, and identity documents from borrowers, then used coercion, harassment, and disclosure threats against the victim's contacts to collect inflated repayments on small short-term loans.
+
+**Victim profile and impact.** INTERPOL identified **1,247 victims** during the operation, with **USD 45 million in linked losses exposed**. Victim populations skewed toward retail consumers and small businesses across the 16 African participating jurisdictions, with the Nigerian high-yield investment-fraud and Kenyan messaging/social-media investment-fraud caseloads accounting for the bulk of named cases in the INTERPOL release. The Cote d'Ivoire mobile-loan caseload disproportionately affected lower-income borrowers exposed to harassment of their contacts as a debt-collection tactic. INTERPOL does not publish a per-victim loss distribution.
+
+**Financial flow.** Funds were routed through (i) local mobile-money accounts and agent networks for the mobile-money fraud strand; (ii) crypto deposit addresses controlled by the investment-fraud operators, with downstream flows mapped by private-sector partners (TRM Labs, Uppsala Security) and shared with national LE; (iii) bank mule networks domestically within each participating country. Public reporting credits private-sector blockchain-analytics partners with infrastructure attribution that supported the **1,442 IPs, domains, servers and related infrastructure** taken down. **USD 4.3 million** was recovered.
+
+**Criminal organisation structure.** INTERPOL and partners describe a distributed pattern rather than a single OCG. Country-level arrests (Nigeria investment fraud, Kenya 27 arrests, Cote d'Ivoire 58 mobile-loan arrests) suggest geographically rooted national crews operating against pan-African and partly external victim pools, with some infrastructure (hosting, loan-app distribution) reused across crews. Public sources do not name a centralised network or hierarchical leadership, and INTERPOL frames the action as a coalition sweep across coexisting fraud ecosystems rather than dismantlement of one syndicate.
 
 ## Cooperation Model
 

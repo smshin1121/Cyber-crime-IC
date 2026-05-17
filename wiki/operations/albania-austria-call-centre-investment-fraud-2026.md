@@ -90,7 +90,7 @@ sources:
   - "[[2026-04-29_marketscreener_reuters_albanian-investment-call-centre-scam]]"
 summary: "Austrian and Albanian authorities, supported by Eurojust and Europol, dismantled Tirana-based investment-fraud call centres that targeted EU citizens. The two-year investigation led to a JIT-supported action day on 2026-04-17, 10 arrests, searches at three call centres and nine residences, seizure of nearly EUR 900,000 and hundreds of devices, and reported damages exceeding EUR 50 million."
 created: 2026-05-08
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 # Albania-Austria Call-Centre Investment Fraud Takedown (2026)
 
@@ -99,6 +99,16 @@ updated: 2026-05-16
 Austrian and Albanian authorities, supported by [[eurojust|Eurojust]] and [[europol-ec3|Europol]], dismantled a Tirana-based online investment-fraud network. Public sources describe a two-year investigation into call centres that targeted EU citizens with false investment opportunities and later recovery-scam approaches.
 
 The operation qualifies for the public IC corpus because the enforcement action was a source-backed Austria-Albania joint investigation, supported by Eurojust and Europol, with a JIT, coordination meetings, action-day support, and cross-border evidence exchange.
+
+## Background
+
+**Modus operandi.** Eurojust and Europol describe a multilingual online investment-fraud (boiler-room) operation run out of three Tirana call centres. The scheme recruited victims through online advertising for purported high-return investment products in foreign exchange, cryptocurrency, and other instruments. Targets clicking the ads were channelled to call-centre operators presenting themselves as licensed brokers or investment advisers. Operators built rapport over a series of calls, walked victims through deposits onto fake trading dashboards, displayed fabricated balances and "profits", and then escalated requested deposits. When victims attempted withdrawal, operators introduced new "taxes", "regulatory fees", or "verification deposits" that had to be paid first. After the primary fraud, a subset of victims was re-targeted with **recovery-room** approaches in which a different operator, posing as an investigator or regulator, offered to help recover earlier losses in exchange for opening a cryptocurrency account and making an initial recovery-fee payment.
+
+**Victim profile and impact.** Public reporting identifies victims **across Europe and worldwide, including Italy, Germany, Greece, Spain, Canada, and the United Kingdom**. The fraud was deliberately segmented by language, with call-centre desks dedicated to German, English, Italian, Greek, and Spanish-speaking victim pools. **Aggregate reported damage exceeded EUR 50 million.** Authorities did not publish a per-victim loss distribution or the total number of identified victims; Eurojust frames the EUR 50 million figure as a damage estimate derived from the investigation rather than a victim-by-victim claim total.
+
+**Financial flow.** Victim deposits were routed off the call-centre operators' fake trading platforms via banking and (in the recovery-fraud phase) cryptocurrency channels. The action-day seizure of **EUR 891,735 in cash** at three call-centre sites and nine residences indicates a meaningful cash-handling layer in Tirana, alongside electronic channels. Public sources do not specify the laundering jurisdictions, the payment processors used, or the final destination wallets. The recovery-scam payments were specifically directed to cryptocurrency accounts opened by the victim under operator guidance.
+
+**Criminal organisation structure.** The network operated as a **corporate-style multilingual call-centre service** with desk-level specialisation by language and victim market. Three Tirana call-centre premises were searched along with nine private residences associated with operators or principals, and **443 computers, 238 mobile phones, six laptops** were seized — a scale consistent with dozens of seated operators. Ten individuals were arrested in Tirana; public sources do not publicly name the leadership tier above the operator/manager level or identify external franchise/affiliate relationships, though Eurojust's lesson-learned note records that "call centres can operate as corporate-style multilingual service structures" requiring coordinated judicial response across affected victim countries.
 
 ## Cooperation Model
 

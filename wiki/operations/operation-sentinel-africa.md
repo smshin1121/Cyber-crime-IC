@@ -99,7 +99,7 @@ sources:
   - "[[2025-12-23_interpol-int_support-for-afripol-operation-sentinel]]"
   - "[[2025-12-24_tomshardware_operation-sentinel-africa-cybercrime-crackdown]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-05-17
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Sentinel was an INTERPOL-coordinated cybercrime enforcement action conducted from 27 October to 27 November 2025 across **19 African countries** under the African Joint Operation against Cybercrime (AFJOC) umbrella. The operation resulted in **574 arrests**, **USD 3 million** recovered, over **6,000 malicious links** taken down, and **6 ransomware variants** decrypted. Primary targets were BEC, digital extortion, and ransomware. Investigated cases were linked to estimated financial losses exceeding **USD 21 million**."
@@ -136,7 +136,15 @@ Operation Sentinel was an INTERPOL-coordinated cybercrime enforcement action con
 
 ## Background
 
-Operation Sentinel was funded by the UK's Foreign, Commonwealth and Development Office (FCDO) and through the Global Action on Cybercrime Enhanced (GLACY-e) project, a joint initiative of the European Union and the Council of Europe. It follows [[operation-serengeti|Operation Serengeti]] (2024) as the second major Africa-focused cybercrime enforcement action.
+**Modus operandi.** INTERPOL identifies three convergent crime classes targeted by Sentinel: business email compromise (BEC), digital extortion, and ransomware. (1) **BEC**: attackers compromised corporate email systems (the Senegal case publicly attributes infiltration of a major petroleum company's internal email), impersonated executives or trusted suppliers, and issued fraudulent wire-transfer instructions to internal finance staff or external counter-parties. (2) **Digital extortion**: a heterogeneous category including sextortion, fake-investigator threats, and data-leak threats, frequently delivered via social-media accounts and messaging platforms — Benin's 4,318 social-media accounts shut down indicates a heavy social-media surface. (3) **Ransomware**: 6 distinct ransomware variants were decrypted during the operation through partner intelligence (Team Cymru publicly identified as a contributor), implying the operation touched both ransomware operator infrastructure and previously-infected victim systems requiring decryption support. The Ghana caseload of a "cyber-fraud network mimicking fast-food brands" indicates additional brand-impersonation phishing and payment fraud running alongside the named three categories.
+
+**Victim profile and impact.** Investigated cases were linked to **estimated losses exceeding USD 21 million**, with **USD 3 million recovered** during the operation. The marquee Senegal BEC case intercepted a fraudulent **USD 7.9 million** wire transfer from a petroleum company — a single corporate victim accounting for a large share of the headline loss figure and indicating that BEC under Sentinel reached the corporate-treasury layer of large industrial firms. The Ghana fast-food brand-impersonation network produced 10 arrests and over 100 seized digital devices; in Benin, 106 arrests are publicly attributed alongside 43 malicious domains and 4,318 social-media accounts taken down, indicating a large retail-victim consumer-fraud footprint there. INTERPOL did not publish per-country victim counts or victim demographic breakdowns.
+
+**Financial flow.** Public sources describe (i) wire-transfer interception in the Senegal BEC case (i.e., correspondent-bank cooperation to halt and recover the USD 7.9 million corporate transfer); (ii) ransomware payment flows implicit in the decryptor-recovery and infrastructure-takedown work but not quantified publicly; and (iii) general crypto/banking laundering channels typical of the targeted crime classes. INTERPOL does not publish a public laundering-pathway breakdown, and per-variant ransomware payment volumes are not disclosed.
+
+**Criminal organisation structure.** Sentinel was a coalition sweep across 19 African jurisdictions rather than dismantlement of a single OCG. Public reporting points to national-level crews operating in BEC, digital extortion, and ransomware/affiliate-adjacent capacities, with the Ghana fast-food network presented as one identifiable cell-level network. Six decrypted ransomware variants and 6,000+ malicious links taken down suggest engagement with multiple distinct technical operators or affiliate clusters, but INTERPOL does not name specific ransomware brands or attribute operators to identified groups. Private-sector partners (Team Cymru) supplied infrastructure intelligence that supported targeting.
+
+**Operational context.** Operation Sentinel was funded by the UK's Foreign, Commonwealth and Development Office (FCDO) and through the Global Action on Cybercrime Enhanced (GLACY-e) project, a joint initiative of the European Union and the Council of Europe. It follows [[operation-serengeti|Operation Serengeti]] (2024) as the second major Africa-focused cybercrime enforcement action under the AFJOC umbrella.
 
 ## Participating Parties
 
@@ -168,6 +176,9 @@ No direct Korean involvement. Operation focused exclusively on African countries
 - How does Sentinel compare operationally with [[operation-serengeti|Operation Serengeti]] in terms of scope and methodology?
 - What is the sustainability of donor-funded operations after funding cycles end?
 - What ransomware variants were decrypted?
+- **L26 Background gap — financial flow detail**: public sources describe the USD 7.9 million Senegal BEC wire interception and aggregate USD 3 million / USD 21 million figures, but no public per-variant ransomware payment volumes, laundering pathway breakdowns, or correspondent-bank mechanics are disclosed.
+- **L26 Background gap — OCG attribution**: 6 ransomware variants were decrypted and 6,000+ malicious links taken down, but INTERPOL does not name specific ransomware brands, affiliate clusters, or syndicate-level leadership; public attribution remains at the national-crew and per-case level.
+- **L26 Background gap — victim demographics**: INTERPOL publishes country-level arrest and infrastructure figures but no per-country victim counts or victim demographic breakdowns; the per-country victim distribution implied by "USD 21 million linked losses" cannot be reconstructed from public sources.
 
 ## Follow-Up Actions
 
