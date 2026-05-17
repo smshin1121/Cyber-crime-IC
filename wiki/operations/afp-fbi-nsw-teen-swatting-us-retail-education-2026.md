@@ -75,9 +75,10 @@ challenges_encountered: []
 lessons_learned:
   - "Tip-and-charge model: FBI-originated intelligence (Nov 2025) → AFP-led domestic investigation, arrest, and prosecution in Australia avoids the slower extradition pathway when the offender is identified inside an allied jurisdiction."
   - "Joint media release format (single document with both agencies' commanders quoted) is becoming the AFP-FBI norm for swatting-from-abroad cases (cf. Taskforce Pompilid mandate)."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education]]"
+  - "[[2026-01-14_us-embassy-canberra_nsw-teen-charged-hoax-calls-us-retail-education]]"
 created: 2026-05-17
 updated: 2026-05-17
 ---
@@ -148,6 +149,12 @@ No Korean involvement is mentioned in the source material. The AFP-FBI joint rel
 - The joint release does not disclose which US states, schools, or retailers were targeted, which limits cross-validation against any US-side prosecutorial filings.
 - Whether any US criminal charges have been or will be filed in parallel is not stated; the AFP press release indicates the Australian prosecution is the announced disposition.
 
+> [!warning] Cross-source date divergence (search warrant)
+> The AFP own-domain release ([[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education]]) states the AFP arrested the juvenile on 9 January 2026, executing the search warrant during that action. The U.S. Embassy Canberra reproduction ([[2026-01-14_us-embassy-canberra_nsw-teen-charged-hoax-calls-us-retail-education]]) states the search warrant was executed at a NSW house on 18 December 2025. The two dates are likely reconcilable as separate search-warrant vs. arrest events (search 18 Dec 2025 → continued investigation → arrest 9 Jan 2026), but the AFP release does not mention the December search and the Embassy release does not mention the January arrest. Both dates are recorded here pending a third tier-1 source.
+
+> [!note] Cross-source divergence (FBI Kaplan division)
+> AFP own-domain release attributes Jason A. Kaplan to the FBI's Criminal Investigative Division. U.S. Embassy Canberra reproduction attributes him to the FBI's International Operations Division. Both are tier-1 own-domain sources; no resolution at this time.
+
 ## Verbatim cooperation quote (L24 evidence)
 
 > "This is a joint media release with the Australian Federal Police and United States Federal Bureau of Investigation … The AFP will continue to work closely with international law enforcement partners, particularly Five Eyes partners, to target members of the decentralised online crime network."
@@ -155,3 +162,6 @@ No Korean involvement is mentioned in the source material. The AFP-FBI joint rel
 
 > "This case demonstrates that anonymity online is an illusion, and we are committed to working with the AFP, our international partners, and private sector partners to identify and hold accountable those who exploit technology to cause harm to communities."
 > — FBI Assistant Director Jason A. Kaplan, Criminal Investigative Division, 13 January 2026.
+
+> "We are grateful for the strong partnership between the FBI and AFP that prevented further harm to US citizens. Our agencies have worked side-by-side for decades to keep both our countries safe, and we appreciate our continued cooperation."
+> — U.S. Embassy Canberra Chargé d'Affaires Erika Olson, 14 January 2026 (`au.usembassy.gov`).
