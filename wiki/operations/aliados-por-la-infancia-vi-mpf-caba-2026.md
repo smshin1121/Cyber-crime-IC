@@ -84,15 +84,16 @@ related_operations:
   - "[[operation-orion-international]]"
 challenges_encountered: []
 lessons_learned: []
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional]]"
+  - "[[2026-04-28_ministeriopublico-gob-pa_pgn-aliados-por-la-infancia-vi]]"
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 
-> [!info] Provisional page (single tier-1 primary source)
-> This page is below the preferred publication threshold (`source_count >= 5`). It is published in provisional state because the anchor is a tier-1 primary release from the operation's coordinating prosecutor (MPF CABA) and the operation has clear durable IC value as the sixth iteration of a recurring Argentine-led multi-jurisdiction series. Foreign-jurisdiction agency identifications and additional source breadth should be added in subsequent iterations.
+> [!info] Provisional page (two tier-1 primary sources)
+> This page is below the preferred publication threshold (`source_count >= 5`). It is published in provisional state with two tier-1 own-domain primary releases: the **MPF CABA Argentina** roll-up release and the **PGN Panamá** Panama-jurisdiction release (issued one day earlier, same calendar action). Foreign-jurisdiction agency identifications from other participants (Brazil PF, Spain, France, etc.) remain to be added in subsequent iterations.
 
 ## Summary
 
@@ -120,8 +121,9 @@ The operation is anchored to a tripartite IC arrangement among the **U.S. Embass
 - Escuadrón de Investigaciones de Delitos Complejos de Gendarmería Nacional
 - División Investigaciones de Ciberdelitos de Prefectura Naval Argentina
 
-### International Cooperation Partners (named in primary release)
-- [[us-dhs|U.S. Department of Homeland Security]]
+### International Cooperation Partners (named in primary releases)
+- [[us-dhs|U.S. Department of Homeland Security]] — named in both MPF CABA release (as "U.S. Department of Homeland Security") and PGN Panama release (as the operational HSI sub-component)
+- **Homeland Security Investigations (HSI)** — DHS sub-component named explicitly in the PGN Panamá release as "la agencia Homeland Security Investigations" providing direct collaboration on the Panama leg of the operation; no separate wiki entity yet
 - U.S. Embassy in Buenos Aires (Ambassador Peter Lamelas attended the in-person results conference)
 - [[ncmec|National Center for Missing and Exploited Children (NCMEC)]] (John Shehan attended)
 - ICMEC — International Centre for Missing & Exploited Children (Laura Suárez Alonso attended; no wiki entity yet)
@@ -129,6 +131,18 @@ The operation is anchored to a tripartite IC arrangement among the **U.S. Embass
 - Spanish Embassy in Buenos Aires (Francisco Arenas attended; no wiki entity yet)
 - National Criminal Justice Training Center, Fox Valley Technical College (tooling agreement holder for ICACCOPS; no wiki entity yet)
 - Child Rescue Coalition (CPS platform developer; no wiki entity yet)
+
+### Panama-Side Enforcement Chain (added from PGN Panamá primary release)
+
+The second tier-1 primary source — the [[2026-04-28_ministeriopublico-gob-pa_pgn-aliados-por-la-infancia-vi|Procuraduría General de la Nación de Panamá (PGN) release of 2026-04-28]] — adds Panama-specific operational-chain detail that is not enumerated in the MPF CABA release:
+
+- **Procuraduría General de la Nación (PGN)** — Panama national prosecutor's office; led the Panama leg of the operation. (No wikilink — Panama PGN entity not yet a wiki entity page.)
+- **Procurador Luis Carlos Gómez** — personally named in the PGN release as participating in the operation.
+- **Dirección Nacional de Investigación Penal (DNIP)** — Policía Nacional de Panamá penal-investigation directorate; named as one of two "brazos auxiliares" of PGN in the operation. (No wikilink yet.)
+- **División de Investigación Judicial (DIJ)** — Policía Nacional de Panamá judicial-investigation division; second named PGN auxiliary in the operation. (No wikilink yet.)
+- **Jueces de garantías (Panama)** — pre-trial guarantee judges who will decide on admission of imputación and cautionary measures for the 7 Panama detainees, per PGN release.
+- **Panama search locations**: multiple points across the province of Panamá and Chiriquí.
+- **Panama charges**: posesión y distribución de material de abuso sexual infantil (possession and distribution of CSAM) — under Panama Penal Code's "delitos contra la libertad e integridad sexual" chapter.
 
 ### Participating Countries (verified raid roster)
 - [[argentina|Argentina]] — 68 raids, 26 arrests
@@ -160,8 +174,9 @@ This places the operation in the mechanisms category of [[informal-cooperation|i
 ## Operational Timeline
 
 - 2026-04-28 (Tuesday): coordinated international action day (270 raids, 84 detentions executed).
-- 2026-04-29: in-person results conference at CIJ headquarters in Buenos Aires; press release published on MPF CABA news index.
-- Post-action: forensic analysis of seized digital storage media by the CIJ; abbreviated-trial paths (juicio abreviado) flagged by the prosecuting fiscal for cases with unambiguous evidence.
+- 2026-04-28: PGN Panamá publishes Panama-jurisdiction same-day primary release on ministeriopublico.gob.pa, confirming 7 Panama arrests and HSI cooperation.
+- 2026-04-29: in-person results conference at CIJ headquarters in Buenos Aires; MPF CABA roll-up press release published on the MPF CABA news index.
+- Post-action: forensic analysis of seized digital storage media by the CIJ; abbreviated-trial paths (juicio abreviado) flagged by the prosecuting fiscal for cases with unambiguous evidence. In Panama, the 7 aprehendidos to be presented to jueces de garantías for admission of imputación and cautionary measures.
 
 ## Results and Impact
 
@@ -186,7 +201,7 @@ This places the operation in the mechanisms category of [[informal-cooperation|i
 ## Challenges and Friction Points
 
 - The release does not enumerate a treaty legal basis. Whether the cross-border evidence transfer underlying the foreign raids relied on MLAT, bilateral MOUs, or informal police channels is not stated and is open for later verification.
-- Foreign-jurisdiction agency identification is absent from the Argentine release; subsequent ingest of Brazilian (PF / state PCs), Panamanian (Procuraduría General de la Nación), Spanish (Guardia Civil / Policía Nacional), and other partner releases is required to fill this out.
+- Foreign-jurisdiction agency identification is partially closed by the PGN Panamá release (which names PGN + DNIP + DIJ + HSI); subsequent ingest of Brazilian (PF / state PCs), Spanish (Guardia Civil / Policía Nacional), French, and other partner releases is required to fully close the foreign-agency identification gap.
 - Headline-vs-detail discrepancy: the primary source cites "otros 15 países" but the per-country raid breakdown enumerates only 12. The discrepancy is unresolved in the available record.
 
 ## Korean Involvement (한국의 참여)
@@ -203,10 +218,12 @@ No Korean involvement reported in the primary source. The operation is regionall
 
 ## Source Coverage
 
-- [[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional|MPF CABA, 2026-04-29]] — official tier-1 primary release.
+- [[2026-04-29_mpf-caba_aliados-por-la-infancia-vi-megaoperativo-internacional|MPF CABA, 2026-04-29]] — Argentina-side coordinating tier-1 primary release.
+- [[2026-04-28_ministeriopublico-gob-pa_pgn-aliados-por-la-infancia-vi|PGN Panamá, 2026-04-28]] — Panama-side tier-1 primary release (national prosecutor's office own-domain); confirms 7 Panama arrests, names HSI as the explicit US cooperation partner on the Panama leg, and names PGN's DNIP and DIJ auxiliaries.
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Aliados por la infancia VI: 84 detenidos en un megaoperativo internacional contra la explotación sexual de niños, niñas y adolescentes | Ministerio Público Fiscal de la Ciudad Autónoma de Buenos Aires (MPF CABA) | 2026-04-29 | https://mpfciudad.gob.ar/noticias/2026-04-28-13-16-47-aliados-por-la-infancia-vi-84-detenidos-en-un-megaoperativo-internacional-contra-la-explotacion-sexual-de-ninos-ninas-y-adolescentes |
+| [2] | PGN lidera operación internacional "Aliados por la Infancia VI" | Procuraduría General de la Nación de Panamá (PGN) | 2026-04-28 | https://ministeriopublico.gob.pa/notas-de-prensa/pgn-lidera-operacion-internacional-aliados-por-la-infancia-vi/ |
