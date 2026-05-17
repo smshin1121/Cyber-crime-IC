@@ -101,12 +101,13 @@ challenges_encountered:
   - "Fake-medicines fraud spans economic-crime and cybercrime divisions across cooperating jurisdictions; coordination required Eurojust to harmonise JIT participants drawn from cybercrime, organised-crime and economic-crime units."
 lessons_learned:
   - "Cyber-enabled counterfeit-medicines schemes that exploit seriously ill victims can scale to nine-figure illicit revenues when distributed across hundreds of websites and social-media storefronts, justifying multi-jurisdictional JIT coordination rather than purely national consumer-protection enforcement."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]]"
+  - "[[2026-05-14_bta-bg_international-operation-fake-medicines-supplements-network-bulgaria]]"
 summary: "On 2026-05-12, authorities from Romania, Bulgaria, Hungary, Poland and Moldova, supported by Eurojust and Europol with assistance from ten further EU jurisdictions, dismantled a long-running online network selling fake medicines and supplements that targeted seriously ill victims through hundreds of fraudulent websites and social-media pages. The action covered 113 searches across six countries, 196 website blocks in Romania, EUR 1.8 million in frozen assets in Poland, and main-suspect detentions in Poland, Romania and Moldova, with estimated illicit transactions reaching EUR 240 million."
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 # Eurojust Fake Medicines & Supplements Online Takedown (2026)
 
@@ -156,3 +157,4 @@ This page is separate from [[albania-austria-call-centre-investment-fraud-2026]]
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Takedown of criminal group selling fake medicines and supplements that mislead seriously ill victims | Eurojust | 2026-05-14 | https://www.eurojust.europa.eu/news/takedown-criminal-group-selling-fake-medicines-and-supplements-mislead-seriously-ill-victims |
+| [2] | International Operation Targeting Network Selling Fake Medicines and Supplements Ongoing in Bulgaria | Bulgarian News Agency (BTA) | 2026-05-14 | https://www.bta.bg/en/news/bulgaria/1126139-international-operation-targeting-network-selling-fake-medicines-and-supplements |

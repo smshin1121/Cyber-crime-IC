@@ -6,14 +6,14 @@ created: 2026-04-08
 updated: 2026-05-17
 ---
 
-# Sources (869)
+# Sources (877)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
-| [[2025-10-30_rcmp-ca-gazette_how-rcmp-took-down-prolific-cyber-fraudsters]] | press-release | Royal Canadian Mounted Police — Gazette (rcmp.ca own-domain magazine) | 1 | high | rcmp.ca |
 | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]] | press-release | Eurojust | 1 | high | ? |
+| [[2026-05-14_bta-bg_international-operation-fake-medicines-supplements-network-bulgaria]] | press-release | Bulgarian News Agency (BTA) | 1 | high | ? |
 | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]] | press-release | 법무부 (Ministry of Justice of the Republic of Korea) | ? | high | ? |
-| [[2026-05-12_politia-md_crimenetwork-darknet-takedown-ini-pccocs-moldova]] | press-release | Poliția Republicii Moldova (IGP — INI Cybercrime Centre + PCCOCS) | ? | high | ? |
+| [[2026-05-12_politia-md_crimenetwork-darknet-takedown-ini-pccocs-moldova]] | press-release | Poliția Republicii Moldova (General Police Inspectorate — IGP) | ? | high | ? |
 | [[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest]] | press-release | Bundeskriminalamt (BKA) | ? | high | ? |
 | [[2026-05-08_afp-gov-au_mexico-yucatan-nayarit-csam-international-investigation]] | press-release | Australian Federal Police (AFP) — joint with Queensland Police Service, Mexico FGR/FEMDO and SSPC | ? | high | ? |
 | [[2026-05-07_mhra_operation-pangea-xviii-illegal-medicines]] | press-release | UK Medicines and Healthcare products Regulatory Agency | ? | high | ? |
@@ -69,6 +69,7 @@ updated: 2026-05-17
 | [[2026-03-30_irs-ci_ten-foreign-nationals-charged-crypto-market-manipulation]] | press-release | IRS Criminal Investigation (IRS-CI) | ? | high | ? |
 | [[2026-03-26_lka-bw_61-year-old-swedish-national-extradited-online-trading-fraud]] | press-release | Landeskriminalamt Baden-Württemberg (LKA-BW) / Cybercrime-Zentrum Karlsruhe (CCZ) | ? | high | ? |
 | [[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]] | press-release | U.S. Department of Justice — U.S. Attorney's Office, Western District of Texas (USAO-WDTX) | ? | high | ? |
+| [[2026-03-25_irs-gov_armenian-man-extradited-redline-infostealer]] | press-release | Internal Revenue Service — Criminal Investigation (IRS-CI) | ? | high | ? |
 | [[2026-03-23_justice-gov_russian-citizen-sentenced-prison-hacking-us-companies-yanluowang]] | press-release | US Department of Justice (Office of Public Affairs) | ? | high | ? |
 | [[2026-03-21_europol_global-cybercrime-crackdown-373000-dark-web-sites-operation-alice]] | press-release | Europol | ? | high | ? |
 | [[2026-03-20_bka_aisuru-kimwolf-botnet-takedown]] | press-release | Bundeskriminalamt (BKA) | ? | high | ? |
@@ -124,10 +125,13 @@ updated: 2026-05-17
 | [[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]] | press-release | Office of Financial Sanctions Implementation | ? | high | ? |
 | [[2026-01-26_police-hu_swatting-doxing-hungary-romania-joint-investigation]] | press-release | A Magyar Rendőrség hivatalos honlapja (police.hu) — Készenléti Rendőrség Nemzeti Nyomozó Iroda (KR NNI) | ? | high | ? |
 | [[2026-01-23_justiz-bayern_bamberg-costa-rica-extradition-international-fraud-network]] | press-release | Generalstaatsanwaltschaft Bamberg — Zentralstelle Cybercrime Bayern (Bavarian State Ministry of Justice / Bamberg General Public Prosecutor's Office, Central Cybercrime Unit Bavaria) | ? | high | ? |
+| [[2026-01-15_cyberpolice-gov-ua_naczpolicziya-vykryla-chleniv-mizhnarodnogo-xakerskogo-ugrupovannya-black-basta]] | press-release | Cyber Police Department of the National Police of Ukraine (Департамент Кіберполіції Національної поліції України) | ? | high | ? |
 | [[2026-01-15_bka-de_fahndung-nach-kopf-der-ransomware-gruppierung-black-basta]] | press-release | Bundeskriminalamt (BKA) — German Federal Criminal Police Office | ? | high | ? |
+| [[2026-01-14_us-embassy-canberra_nsw-teen-charged-hoax-calls-us-retail-education]] | press-release | U.S. Embassy & Consulates in Australia (U.S. Department of State) | ? | high | ? |
 | [[2026-01-13_afp_nsw-teen-charged-hoax-calls-us-retail-education]] | press-release | Australian Federal Police (joint with US FBI) | ? | high | ? |
 | [[2026-01-12_om-nl_avcheck-amsterdam-schiphol-arrest-cybercrime]] | press-release | Openbaar Ministerie (Dutch Public Prosecution Service) — Landelijk Parket | ? | high | ? |
 | [[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation]] | press-release | Europol | ? | high | ? |
+| [[2026-01-09_policia-es_black-axe-ciberfraude-spain-bavaria-europol-34-detenidos]] | press-release | Policía Nacional (España) | ? | high | ? |
 | [[2026-01-08_team-cymru_interpol-afripol-operation-sentinel-africa]] | press-release | Team Cymru | ? | medium | ? |
 | [[2025-12-29_korea-kr_knpa-kmsauto-lithuanian-hacker-georgia-extradition]] | press-release | 경찰청 국가수사본부 (KNPA, via Korea.kr 정책브리핑) | ? | high | ? |
 | [[2025-12-24_tomshardware_operation-sentinel-africa-cybercrime-crackdown]] | news | Tom's Hardware | ? | medium | ? |
@@ -175,6 +179,7 @@ updated: 2026-05-17
 | [[2025-11-04_eurojust_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | press-release | Eurojust | 2 | high | ? |
 | [[2025-11-04_eurojust_600m-cryptocurrency-money-laundering-takedown]] | press-release | Eurojust | ? | high | ? |
 | [[2025-11-04_112wwft-nl_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | news | 112WWFT | ? | medium | ? |
+| [[2025-10-30_rcmp-ca-gazette_how-rcmp-took-down-prolific-cyber-fraudsters]] | press-release | Royal Canadian Mounted Police — Gazette (RCMP own-domain magazine) | ? | high | ? |
 | [[2025-10-30_pf-gov-br_operacao-magna-fraus-fase-2-pix-fraud]] | press-release | Polícia Federal (Brazil) — Coordenação-Geral de Comunicação Social | ? | high | ? |
 | [[2025-10-29_baochinhphu-vn_lai-chau-cambodia-bokor-transnational-online-fraud-takedown]] | press-release | Báo Chính phủ (Báo điện tử Chính phủ — Vietnam Government Newspaper, electronic newspaper of the Government Office of Việt Nam) | ? | high | ? |
 | [[2025-10-28_hstoday_operation-catalyst-africa-terrorism-financing]] | news | Homeland Security Today | ? | medium | ? |
@@ -195,6 +200,7 @@ updated: 2026-05-17
 | [[2025-09-26_group-ib_operation-contender3]] | press-release | Group-IB | ? | high | ? |
 | [[2025-09-26_defenceweb_pan-african-cybercrime-operation-contender-3]] | news | defenceWeb | ? | medium | ? |
 | [[2025-09-26_comsuregroup_operation-haechi-vi-439m-recovered]] | news | Comsure Group | ? | medium | ? |
+| [[2025-09-25_policia-judiciaria-pt_lisbon-leader-international-crypto-fraud-organisation]] | press-release | Policia Judiciaria (Portugal) - Unidade Nacional de Combate a Corrupcao | ? | high | ? |
 | [[2025-09-25_maldivespolice-gov-mv_interpol-operation-haechi-vi-recovery-and-arrest-update]] | press-release | Maldives Police Service | ? | medium | ? |
 | [[2025-09-25_interpol-es_usd-439-million-recovered-in-global-financial-crime-operation-haechi-vi]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-09-25-interpol-operation-haechi-vi]] | press-release | INTERPOL | ? | high | ? |
@@ -494,7 +500,7 @@ updated: 2026-05-17
 | [[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]] | official-press-release | Foreign, Commonwealth & Development Office | 2 | high | ? |
 | [[2024-05-03_policija-si_operation-pandora-12-phone-fraud-call-centres-slovenia]] | press-release | Slovenska policija (Slovenian Police, Ministry of the Interior of the Republic of Slovenia) | ? | high | ? |
 | [[2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost]] | press-release | Europol | ? | high | ? |
-| [[2024-04-18_afp-gov-au_global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing]] | press-release | Australian Federal Police (joint w/ Victoria Police, Queensland Police Service, NSW Police Force, WA Police Force) | 1 | high | public |
+| [[2024-04-18_afp-gov-au_global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing]] | press-release | Australian Federal Police (AFP) | ? | high | ? |
 | [[2024-04-15_bitdefender-com_zambia-arrests-77-people-in-swoop-on-scam-call-centre]] | press-release | Bitdefender (Hot for Security) | ? | medium | ? |
 | [[2024-04-12_nca-uk_uk-arrest-645m-juicyfields-investment-scam]] | press-release | National Crime Agency (UK) | ? | high | ? |
 | [[2026-04-18_justice-gov_socal-man-arrested-federal-charges-alleging-he-schemed-advertise-and-sell-hive]] | press-release | US DOJ USAO | ? | high | ? |

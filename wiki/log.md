@@ -1,5 +1,18 @@
 # Activity Log
 
+## [2026-05-17] CONTENT-ENRICHMENT + milestone push [iter 200] | Eurojust fake medicines/supplements 2nd source via BTA Bulgaria
+- Target op: eurojust-fake-medicines-supplements-online-takedown-2026 — source_count 1→2.
+- 2nd source: bta.bg Bulgarian News Agency state news wire (L24 state-wire-qualified analogous to ANTARA/Yonhap/ANSA).
+- L24 verbatim: "A joint investigation team was established between Romania, Poland, Hungary, Moldova, and Bulgaria." Bulgarian side adds SCPO + GDCOC Cybercrime + Sofia Directorate of Internal Affairs.
+- Lint: HIGH=0.
+
+## [2026-05-17] iter 200 milestone push integrity sweep [iters 191-200]
+- 10 commits since iter 190 push (`889b6dade`): iters 191-200 — all CONTENT-ENRICHMENT (source_count 1→2).
+- Enrichments: 191 IRS-CI (Minasyan RedLine); 192 DOJ OPA (HAFNIUM Xu Zewei); 193 PJ Portugal (€100M crypto); 194 UA Cyber Police (Black Basta); 195 AFP Op Nebulae (LabHost); 196 Poliția Moldova (Crimenetwork); 197 US Embassy Canberra (NSW swatting); 198 RCMP Gazette (iSpoof Toronto); 199 Policía Nacional España (Black Axe); 200 BTA Bulgaria (fake medicines).
+- 10 source_count 1→2 promotions; 10 distinct 2nd-tier-1 publishers — meaningful geographic + linguistic diversification (PT, UA, MD, BG state wires).
+- Cumulative enrichment count: 20 ops (iters 180-200) — zero REJECT post-iter-178.
+- Pre-push integrity: lint HIGH=0; check_links broken=3 (legacy); build 1751 pages.
+
 ## [2026-05-17] CONTENT-ENRICHMENT [iter 198, single-agent, L23+L24+L25 strict] | Ontario RCMP iSpoof.cc Toronto arrest — 2nd tier-1 source via RCMP Gazette (rcmp.ca own-domain)
 - Target op: `wiki/operations/rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025.md` (source_count 1 → 2).
 - 1st publisher (already on page): RCMP Central Region (Ontario) press-release wire 2025-02-20 (grc-rcmp.gc.ca / CNW newswire.ca mirror).

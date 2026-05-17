@@ -134,7 +134,7 @@ updated: 2026-04-14
 | [[uk-juicyfields-645m-investment-scam-jit-2024]] | CYB-2024-151 | 2 | completed | — | 1 | 4.00 | 1 |
 | [[operation-pandora-12-phone-fraud-call-centres-2024]] | CYB-2024-157 | 3 | completed | — | 2 | 4.50 | 1 |
 | [[operation-cronos-phase2]] | CYB-2024-201 | 2 | completed | phase | 1 | 4.00 | 1 |
-| [[labhost-phishing-as-a-service-takedown-2024]] | CYB-2024-202 | 2 | completed | — | 1 | 4.00 | 1 |
+| [[labhost-phishing-as-a-service-takedown-2024]] | CYB-2024-202 | 2 | completed | — | 2 | 4.00 | 1 |
 | [[matrix-encrypted-messaging-takedown-2024]] | CYB-2024-203 | 2 | completed | — | 1 | 4.50 | 1 |
 | [[operation-heart-blocker]] | CYB-2024-248 | 3 | completed | umbrella | 5 | — | — |
 | [[nemesis-market-takedown]] | CYB-2024-357 | 3 | completed | umbrella | 5 | — | — |
@@ -202,7 +202,7 @@ updated: 2026-04-14
 | [[hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025]] | CYB-2025-202 | 3 | ongoing | national-limb | 1 | — | 1 |
 | [[latvia-sim-box-cybercrime-as-a-service-takedown-2025]] | CYB-2025-203 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[crypto-investment-fraud-spain-460m-takedown-2025]] | CYB-2025-204 | 3 | completed | — | 1 | 4.00 | 1 |
-| [[eurojust-100m-crypto-investment-fraud-takedown-2025]] | CYB-2025-204 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[eurojust-100m-crypto-investment-fraud-takedown-2025]] | CYB-2025-204 | 3 | completed | — | 2 | 4.00 | 1 |
 | [[operation-pathfinder-czech-ukraine-investment-fraud-takedown-2025]] | CYB-2025-204 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[eurojust-600m-crypto-money-laundering-takedown-2025]] | CYB-2025-205 | 3 | completed | — | 2 | 4.00 | 1 |
 | [[india-cbi-noida-tech-support-scam-takedown-2025]] | CYB-2025-206 | 3 | completed | — | 1 | 4.00 | 1 |
@@ -221,7 +221,7 @@ updated: 2026-04-14
 | [[nz-fbi-malone-lam-265m-cryptocurrency-scam-2025]] | CYB-2025-244 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[operation-vibora-spain-latam-csam-takedown-2025]] | CYB-2025-255 | 3 | completed | — | 1 | — | — |
 | [[romania-moldova-phishing-laundering-jit-2025]] | CYB-2025-301 | 3 | completed | — | 1 | 4.50 | 1 |
-| [[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]] | CYB-2025-302 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[rcmp-toronto-ispoof-cyber-fraudsters-arrest-2025]] | CYB-2025-302 | 3 | completed | — | 2 | 4.50 | 1 |
 | [[operacion-ponei-madeira-invest-club-cryptospain-takedown-2025]] | CYB-2025-308 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[spain-argentina-ameripol-claypole-csam-producer-takedown-2025]] | CYB-2025-309 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[pf-magna-fraus-pix-fraud-2025]] | CYB-2025-310 | 3 | completed | — | 1 | 4.50 | 1 |
@@ -253,14 +253,14 @@ updated: 2026-04-14
 | [[coordinated-cryptocurrency-scam-center-takedown-2026]] | CYB-2026-008 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[leakbase-takedown-2026]] | CYB-2026-009 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[poland-cbzc-phobos-affiliate-arrest-aether-2026]] | CYB-2026-009 | 3 | completed | — | 1 | 4.00 | 1 |
-| [[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]] | CYB-2026-010 | 3 | ongoing | — | 1 | 4.00 | 1 |
+| [[de-ua-ch-nl-uk-black-basta-ransomware-takedown-2026]] | CYB-2026-010 | 3 | ongoing | — | 2 | 4.00 | 1 |
 | [[operation-power-off-2026-04]] | CYB-2026-010 | 3 | completed | follow-on | 1 | 4.00 | 1 |
 | [[korea-cambodia-philippines-73-extradition-2026]] | CYB-2026-011 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[uk-nigeria-meta-scam-centre-disruption-2026]] | CYB-2026-012 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[cross-border-online-cse-operation-spf-2026]] | CYB-2026-013 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[seoul-eastern-clark-philippines-voice-phishing-arrest-extradition-2026]] | CYB-2026-013 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[us-v-volkov-yanluowang-sentencing]] | CYB-2026-013 | 3 | completed | — | 1 | 4.50 | 1 |
-| [[black-axe-spain-takedown-2026]] | CYB-2026-014 | 3 | completed | — | 1 | 4.00 | 1 |
+| [[black-axe-spain-takedown-2026]] | CYB-2026-014 | 3 | completed | — | 2 | 4.00 | 1 |
 | [[knpa-breaking-chains-2nd-international-operation-meeting-2026]] | CYB-2026-014 | 3 | ongoing | — | 1 | 4.00 | 1 |
 | [[operation-cyber-guardian-2026]] | CYB-2026-014 | 3 | completed | — | 2 | 4.50 | 1 |
 | [[knpa-cambodia-korea-task-force-redcorner-arrests-2026-02]] | CYB-2026-016 | 3 | ongoing | — | 1 | 4.00 | 1 |
@@ -284,10 +284,10 @@ updated: 2026-04-14
 | [[w3ll-phishing-kit-takedown-2026]] | CYB-2026-088 | 3 | completed | — | 2 | 4.00 | 1 |
 | [[operation-atlantic-approval-phishing-2026]] | CYB-2026-095 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[de-se-online-trading-fraud-lka-bw-ccz-karlsruhe-helsingborg-extradition-2026]] | CYB-2026-1001 | 3 | ongoing | standalone | 1 | 4.30 | 1 |
-| [[afp-fbi-nsw-teen-swatting-us-retail-education-2026]] | CYB-2026-1002 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[afp-fbi-nsw-teen-swatting-us-retail-education-2026]] | CYB-2026-1002 | 3 | completed | — | 2 | 4.50 | 1 |
 | [[bulgaria-zamunda-arenabg-zelka-piracy-takedown-2026]] | CYB-2026-101 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[treasury-sanctions-kok-an-scam-center-network-2026]] | CYB-2026-103 | 3 | completed | — | 1 | 4.50 | 1 |
-| [[italy-china-us-hafnium-hacker-extradition-2026]] | CYB-2026-114 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[italy-china-us-hafnium-hacker-extradition-2026]] | CYB-2026-114 | 3 | completed | — | 2 | 4.50 | 1 |
 | [[aliados-por-la-infancia-vi-mpf-caba-2026]] | CYB-2026-117 | 3 | completed | — | 2 | 4.00 | 1 |
 | [[treasury-dprk-it-worker-fraud-facilitators-amnokgang-2026]] | CYB-2026-117 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[tycoon-2fa-phishing-as-a-service-takedown-2026]] | CYB-2026-118 | 3 | completed | — | 1 | 4.50 | 1 |
@@ -301,10 +301,10 @@ updated: 2026-04-14
 | [[korea-thailand-hacking-syndicate-extradition-2026-05]] | CYB-2026-163 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[bangkok-ccib-fluxstress-netdowner-ddos-as-a-service-german-arrest-2026]] | CYB-2026-175 | 3 | completed | standalone | 2 | — | 1 |
 | [[bavaria-costa-rica-kosovo-international-fraud-network-extradition-2026]] | CYB-2026-225 | 3 | completed | — | 1 | 4.20 | 1 |
-| [[crimenetwork-relaunch-takedown-2026]] | CYB-2026-266 | 3 | completed | — | 1 | 4.50 | 1 |
+| [[crimenetwork-relaunch-takedown-2026]] | CYB-2026-266 | 3 | completed | — | 2 | 4.50 | 1 |
 | [[operazione-cagliostro-voltaiko-italy-france-crypto-freezing-2026]] | CYB-2026-275 | 3 | ongoing | standalone | 1 | 4.40 | 1 |
 | [[pf-hsi-eldorado-decrypted-ii-crypto-wallet-fraud-2026]] | CYB-2026-303 | 3 | completed | — | 1 | 4.00 | 1 |
-| [[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]] | CYB-2026-325 | 3 | ongoing | — | 1 | 4.00 | 1 |
+| [[us-netherlands-belgium-minasyan-redline-infostealer-extradition-2026]] | CYB-2026-325 | 3 | ongoing | — | 2 | 4.00 | 1 |
 | [[stealthnet-hkpf-interpol-macao-singapore-korea-counter-cyber-physical-terrorism-exercise-2026]] | CYB-2026-416 | 3 | completed | — | 1 | 4.50 | 1 |
 | [[hungary-romania-swatting-doxing-discord-2026]] | CYB-2026-417 | 3 | completed | — | 1 | 4.60 | 1 |
 | [[italy-hsi-europol-live-distant-child-abuse-2026]] | CYB-2026-531 | 3 | completed | — | 1 | 4.50 | 1 |
@@ -313,7 +313,7 @@ updated: 2026-04-14
 | [[mexico-yucatan-nayarit-csam-afp-fgr-2026]] | CYB-2026-809 | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[aisuru-kimwolf-iot-botnet-takedown-2026]] | CYB-2026-896 | 3 | completed | — | 1 | 4.00 | 1 |
 | [[veriftools-fake-id-marketplace-followup-arrests-2026]] | CYB-2026-939 | 3 | ongoing | — | 1 | 4.50 | 1 |
-| [[eurojust-fake-medicines-supplements-online-takedown-2026]] | CYB-2026-989 | 3 | completed | umbrella | 1 | 4.40 | 1 |
+| [[eurojust-fake-medicines-supplements-online-takedown-2026]] | CYB-2026-989 | 3 | completed | umbrella | 2 | 4.40 | 1 |
 | [[usao-wdnc-sandu-romania-voip-vishing-extradition-2026]] | CYB-2026-991 | 3 | ongoing | — | 1 | 4.50 | 1 |
 | [[at-sk-cz-operation-casus-schockanrufe-takedown-2026]] | CYB-2026-993 | 3 | ongoing | — | 1 | 4.00 | 1 |
 
