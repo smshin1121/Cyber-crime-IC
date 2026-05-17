@@ -1,6 +1,6 @@
 ---
 type: operation
-title: "Tri-Lateral US-UK-AU Sanctions on Evil Corp Members and Concurrent DOJ-EDTX Ryzhenkov BitPaymer Indictment (2024)"
+title: "Tri-Lateral US-UK-AU Sanctions on Evil Corp Members and Concurrent DOJ-NDTX Ryzhenkov BitPaymer Indictment (2024)"
 aliases:
   - "Evil Corp tri-lateral sanctions 2024"
   - "Treasury JY-2623"
@@ -22,7 +22,7 @@ timeframe:
   ongoing: false
 crime_types:
   - "[[ransomware-ic]]"
-target_entity: "Seven Russian-national individuals (Eduard Benderskiy; Viktor Grigoryevich Yakubets; Aleksandr Viktorovich Ryzhenkov; Sergey Viktorovich Ryzhenkov; Aleksey Yevgenevich Shchetinin; Beyat Enverovich Ramazanov; Vadim Gennadievich Pogodin) and two Russia-based entities (Vympel-Assistance LLC; Solar-Invest LLC) designated by OFAC under E.O. 13694 as amended and E.O. 14024 as members and affiliates of the Russia-based Evil Corp cybercriminal group; 15 additional persons designated by the United Kingdom (FCDO) and 3 additional persons designated by Australia (DFAT) on the same day. Concurrently, the U.S. Department of Justice unsealed a BitPaymer-ransomware indictment against Aleksandr Ryzhenkov in the Eastern District of Texas (DOJ-EDTX). Builds directly on the December 5, 2019 OFAC Evil Corp / Maksim Viktorovich Yakubets designations and on the October 2022 E.O. 14024 designations of NIK / Igor Yuryevich Chayka / Aleksei Valeryavich Troshin."
+target_entity: "Seven Russian-national individuals (Eduard Benderskiy; Viktor Grigoryevich Yakubets; Aleksandr Viktorovich Ryzhenkov; Sergey Viktorovich Ryzhenkov; Aleksey Yevgenevich Shchetinin; Beyat Enverovich Ramazanov; Vadim Gennadievich Pogodin) and two Russia-based entities (Vympel-Assistance LLC; Solar-Invest LLC) designated by OFAC under E.O. 13694 as amended and E.O. 14024 as members and affiliates of the Russia-based Evil Corp cybercriminal group; 15 additional persons designated by the United Kingdom (FCDO) and 3 additional persons designated by Australia (DFAT) on the same day. Concurrently, the U.S. Department of Justice unsealed a BitPaymer-ransomware indictment against Aleksandr Ryzhenkov in the Northern District of Texas (DOJ-NDTX). Builds directly on the December 5, 2019 OFAC Evil Corp / Maksim Viktorovich Yakubets designations and on the October 2022 E.O. 14024 designations of NIK / Igor Yuryevich Chayka / Aleksei Valeryavich Troshin."
 lead_agency: "[[us-treasury]]"
 coordinating_body: "[[us-treasury]]"
 participating_countries:
@@ -53,7 +53,7 @@ results:
     - "OFAC: 2 entities designated (Vympel-Assistance LLC; Solar-Invest LLC) — both Benderskiy-owned consulting companies"
     - "UK FCDO: 15 additional Evil Corp members and affiliates designated on the same day (names not enumerated in JY-2623)"
     - "Australia DFAT: 3 additional Evil Corp members and affiliates designated on the same day (names not enumerated in JY-2623)"
-    - "DOJ-EDTX unsealed a BitPaymer-ransomware indictment against Aleksandr Ryzhenkov; FBI published a wanted poster"
+    - "DOJ-NDTX unsealed a BitPaymer-ransomware indictment against Aleksandr Ryzhenkov; FBI published a wanted poster"
     - "Action timed with day 2 of the U.S.-hosted Counter Ransomware Initiative summit (over 50 countries)"
 edges:
   - source_actor: us-treasury
@@ -85,7 +85,7 @@ credibility_index: 4.5
 source_tier: 1
 missing_fields:
   - "Names of the 15 UK FCDO designees and 3 Australia DFAT designees (Treasury JY-2623 does not enumerate them; full lists are published by FCDO / OFSI and DFAT under separate notices)"
-  - "EDTX docket / case number for the unsealed Aleksandr Ryzhenkov BitPaymer indictment"
+  - "NDTX docket / case number for the unsealed Aleksandr Ryzhenkov BitPaymer indictment"
   - "Specific bilateral or multilateral coordination instrument used for the tri-lateral designation timing (likely informal Five-Eyes / CRI-coordination channels)"
 related_cases:
   - "[[us-v-yakubets-dridex]]"
@@ -106,15 +106,16 @@ lessons_learned:
   - "The dual-authority designation of Eduard Benderskiy under both E.O. 13694 (cyber) and E.O. 14024 (Russian-state nexus) is a designation-engineering technique that simultaneously locks in the cyber predicate and the state-actor predicate, narrowing the licensing-removal pathways available to the designee."
   - "Pairing OFAC designation with the concurrent unsealing of a U.S. district-court indictment against one of the designees (Aleksandr Ryzhenkov, BitPaymer, EDTX) is the canonical 'designate + charge' combination — sanctions cut off the financial system access while the indictment creates the criminal-justice predicate for any future arrest, extradition, or third-country interdiction."
   - "Timing the designation to a Counter Ransomware Initiative summit day (over 50 countries) is *highly likely* a deliberate political amplifier — converting a bilateral/trilateral sanctions act into a normative anchor for the broader CRI coalition's anti-ransomware posture."
-source_count: 1
+source_count: 2
 sources:
   - "[[2024-10-01_treasury_evil-corp-tri-lateral-us-uk-australia-sanctions-jy2623]]"
+  - "[[2024-10-01_justice-gov_russian-national-indicted-ransomware-attacks-ryzhenkov]]"
 created: 2026-05-09
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 ## Summary
 
-On **2024-10-01**, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) designated **seven Russian-national individuals** (Eduard Benderskiy; Viktor Grigoryevich Yakubets; Aleksandr Viktorovich Ryzhenkov; Sergey Viktorovich Ryzhenkov; Aleksey Yevgenevich Shchetinin; Beyat Enverovich Ramazanov; Vadim Gennadievich Pogodin) and **two Russia-based entities** (Vympel-Assistance LLC; Solar-Invest LLC) as members and affiliates of the Russia-based [[ransomware-ic|Evil Corp]] cybercriminal group, under [[asset-freezing|E.O. 13694 as amended and E.O. 14024]]. On the same day, the **United Kingdom's** FCDO designated **15 additional** Evil Corp persons, **Australia's** DFAT designated **3 additional** Evil Corp persons, and the **U.S. Department of Justice** unsealed an Eastern District of Texas indictment charging **Aleksandr Ryzhenkov** with using **BitPaymer ransomware** to target numerous U.S. victims. The action coincided with day 2 of the U.S.-hosted Counter Ransomware Initiative (CRI) summit (over 50 countries).
+On **2024-10-01**, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) designated **seven Russian-national individuals** (Eduard Benderskiy; Viktor Grigoryevich Yakubets; Aleksandr Viktorovich Ryzhenkov; Sergey Viktorovich Ryzhenkov; Aleksey Yevgenevich Shchetinin; Beyat Enverovich Ramazanov; Vadim Gennadievich Pogodin) and **two Russia-based entities** (Vympel-Assistance LLC; Solar-Invest LLC) as members and affiliates of the Russia-based [[ransomware-ic|Evil Corp]] cybercriminal group, under [[asset-freezing|E.O. 13694 as amended and E.O. 14024]]. On the same day, the **United Kingdom's** FCDO designated **15 additional** Evil Corp persons, **Australia's** DFAT designated **3 additional** Evil Corp persons, and the **U.S. Department of Justice** unsealed an Northern District of Texas indictment charging **Aleksandr Ryzhenkov** with using **BitPaymer ransomware** to target numerous U.S. victims. The action coincided with day 2 of the U.S.-hosted Counter Ransomware Initiative (CRI) summit (over 50 countries).
 
 This action is *almost certainly* the **first wiki-recorded US-UK-AU tri-lateral cyber-sanctions action** and the predicate template for the subsequent 2025 BPH-track sanctions chain ([[treasury-us-au-uk-zservers-sanctions-2025|Zservers]] Feb 2025; [[treasury-aeza-group-bulletproof-hosting-sanctions-2025|Aeza Group]] Jul 2025; [[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025|Media Land]] Nov 2025).
 
@@ -126,7 +127,7 @@ The October 1, 2024 action — JY-2623 — is the next iteration of this 5-year 
 
 ## Participating Parties
 
-- **United States** — OFAC (lead designator under E.O. 13694 as amended and E.O. 14024); DOJ-EDTX (concurrent indictment unsealing against Aleksandr Ryzhenkov for BitPaymer ransomware); FBI (wanted poster for Aleksandr Ryzhenkov; investigative support).
+- **United States** — OFAC (lead designator under E.O. 13694 as amended and E.O. 14024); DOJ-NDTX (concurrent indictment unsealing against Aleksandr Ryzhenkov for BitPaymer ransomware); FBI (wanted poster for Aleksandr Ryzhenkov; investigative support).
 - **United Kingdom** — Foreign, Commonwealth & Development Office (FCDO) designated 15 Evil Corp members and affiliates on the same day. The UK [[uk-nca|National Crime Agency]] is *highly likely* to have provided the underlying investigative dossier given its lead role in UK ransomware enforcement, although JY-2623 does not name NCA directly.
 - **Australia** — Department of Foreign Affairs and Trade (DFAT) designated 3 Evil Corp members and affiliates on the same day.
 - **Russia** — host jurisdiction for all named designees and entities; not a participating party.
@@ -135,7 +136,7 @@ The October 1, 2024 action — JY-2623 — is the next iteration of this 5-year 
 
 - **Executive Order 13694 (April 1, 2015)**, as amended by **E.O. 13757 (December 28, 2016)** — "Blocking the Property of Certain Persons Engaging in Significant Malicious Cyber-Enabled Activities" (the cyber-sanctions authority). Used as the cyber-predicate authority for all 7 OFAC individual designations and both entity designations on October 1, 2024.
 - **Executive Order 14024 (April 15, 2021)** — "Blocking Property With Respect to Specified Harmful Foreign Activities of the Government of the Russian Federation." Used **in addition** to E.O. 13694 for Eduard Benderskiy (acting on behalf of the Government of the Russian Federation) and his two consulting companies — a dual-authority designation engineering choice that *almost certainly* narrows licensing-removal pathways.
-- **DOJ-EDTX BitPaymer indictment** — concurrent unsealed indictment against Aleksandr Ryzhenkov; specific statutes of conviction and case number not stated in JY-2623.
+- **DOJ-NDTX BitPaymer indictment** — concurrent unsealed indictment against Aleksandr Ryzhenkov; specific statutes of conviction and case number not stated in JY-2623.
 - **Counter Ransomware Initiative (CRI)** — political/multilateral coordination forum (over 50 countries); the action was timed to day 2 of the U.S.-hosted CRI summit.
 
 ## Operational Timeline
@@ -147,21 +148,21 @@ The October 1, 2024 action — JY-2623 — is the next iteration of this 5-year 
 - **December 5, 2019** — Original OFAC Evil Corp designation; Maksim Yakubets and over a dozen members designated; DOJ indicts Yakubets and Turashev; State Department issues $5 million TOC reward (see [[us-v-yakubets-dridex]]).
 - **2020** — Maksim and Aleksandr Ryzhenkov return to operations against U.S. victims; Aleksandr Ryzhenkov, Sergey Ryzhenkov, and Maksim develop "Dridex 2.0"; Pogodin contributes to a ransomware attack on a U.S. company.
 - **October 2022** — OFAC designates NIK, Igor Yuryevich Chayka, and Aleksei Valeryavich Troshin under E.O. 14024.
-- **October 1, 2024 (CRI summit, day 2)** — OFAC designates 7 individuals + 2 entities; FCDO designates 15; DFAT designates 3; DOJ-EDTX unseals Aleksandr Ryzhenkov BitPaymer indictment; FBI publishes wanted poster.
+- **October 1, 2024 (CRI summit, day 2)** — OFAC designates 7 individuals + 2 entities; FCDO designates 15; DFAT designates 3; DOJ-NDTX unseals Aleksandr Ryzhenkov BitPaymer indictment; FBI publishes wanted poster.
 
 ## Results and Impact
 
 - **OFAC designations (October 1, 2024):** 7 individuals + 2 entities. All property and interests in property in the United States or in possession or control of U.S. persons are blocked; entities owned 50% or more by blocked persons are also blocked.
 - **UK FCDO designations:** 15 Evil Corp members and affiliates (full names published under separate FCDO / OFSI notices, not enumerated in JY-2623).
 - **Australia DFAT designations:** 3 Evil Corp members and affiliates (full names published under separate DFAT notice, not enumerated in JY-2623).
-- **DOJ-EDTX:** unsealed indictment against Aleksandr Ryzhenkov for BitPaymer ransomware; FBI wanted poster published.
+- **DOJ-NDTX:** unsealed indictment against Aleksandr Ryzhenkov for BitPaymer ransomware; FBI wanted poster published.
 - **Operational result:** all named designees are *highly likely* to remain in Russia and shielded by the Russian state (per the press release's own framing of Benderskiy's protection role); arrests are *unlikely* in the near term. The action's impact is *almost certainly* concentrated in (a) financial-system access denial through SDN-list compliance globally, (b) targeting any future third-country travel by designees, (c) constraining future state-nexus laundering pathways through Benderskiy's consulting companies, and (d) building the criminal-justice record (the unsealed Ryzhenkov indictment) that would activate if a designee leaves Russian protection.
 
 ## Cooperation Mechanisms Used
 
 - **OFAC SDN-list designation** under [[asset-freezing|E.O. 13694 as amended and E.O. 14024]] — the formal U.S.-side mechanism; same-day publication in the SDN list.
 - **Same-day tri-lateral designation alignment** — informal coordination among U.S. (Treasury), UK (FCDO), and Australia (DFAT) sanctions authorities to time individual designations to the same announcement day. JY-2623 does not name a specific bilateral or multilateral instrument; coordination *almost certainly* runs through informal Five-Eyes-adjacent channels and the Counter Ransomware Initiative coordination architecture.
-- **Concurrent DOJ indictment unsealing** — coordinated timing between OFAC designation and the unsealing of an existing sealed federal indictment in the Eastern District of Texas.
+- **Concurrent DOJ indictment unsealing** — coordinated timing between OFAC designation and the unsealing of an existing sealed federal indictment in the Northern District of Texas.
 - **Counter Ransomware Initiative summit framing** — the action was timed to day 2 of the U.S.-hosted CRI summit, *highly likely* deliberately to amplify the normative impact across CRI's >50-country coalition.
 
 ## Challenges and Friction Points
@@ -182,7 +183,7 @@ The October 1, 2024 action — JY-2623 — is the next iteration of this 5-year 
 ## Follow-Up Actions
 
 - **2025 BPH-track sequel chain.** The same US-UK-AU template is reused on Russian bulletproof hosting providers: [[treasury-us-au-uk-zservers-sanctions-2025|Zservers]] (Feb 11, 2025), [[treasury-aeza-group-bulletproof-hosting-sanctions-2025|Aeza Group]] (Jul 2025), and [[treasury-us-au-uk-sanctions-media-land-russian-bulletproof-hosting-2025|Media Land / Hypercore]] (Nov 2025) — the wiki's first record of a 9-month sustained-pressure trilateral track that flows directly out of this 2024 Evil Corp predicate.
-- **DOJ-EDTX Aleksandr Ryzhenkov BitPaymer case.** The unsealed indictment is the criminal-justice mechanism that would reactivate on any change in Ryzhenkov's location or protection.
+- **DOJ-NDTX Aleksandr Ryzhenkov BitPaymer case.** The unsealed indictment is the criminal-justice mechanism that would reactivate on any change in Ryzhenkov's location or protection.
 
 ## Korean Involvement (한국의 참여)
 
@@ -197,7 +198,10 @@ However, three Korean-relevance points are worth recording:
 ## Contradictions & Open Questions
 
 - **Names of UK FCDO and Australia DFAT designees.** JY-2623 does not enumerate the 15 UK and 3 Australia designees. Cross-referencing the FCDO / OFSI consolidated list and DFAT consolidated list under separate ingest is required to fully reconcile the 7+15+3 universe and identify any persons designated by more than one jurisdiction.
-- **EDTX docket / case number.** The Aleksandr Ryzhenkov BitPaymer indictment is referenced as unsealed in JY-2623 but the docket number is not stated. Cross-referencing the DOJ EDTX press release (separate ingest) is required.
+- **NDTX docket / case number.** The Aleksandr Ryzhenkov BitPaymer indictment is referenced as unsealed in JY-2623 but the docket number is not stated. The DOJ Office of Public Affairs companion press release [[2024-10-01_justice-gov_russian-national-indicted-ransomware-attacks-ryzhenkov]] confirms the venue as the **Northern District of Texas (NDTX)** with FBI Dallas Field Office investigation and USAO-NDTX prosecution (co-prosecuted by CCIPS), but does not state the docket number. PACER lookup remains the next step.
+
+> [!warning] Venue contradiction (resolved)
+> An earlier version of this page asserted "DOJ-EDTX" (Eastern District of Texas) for the Aleksandr Ryzhenkov BitPaymer indictment. The DOJ Office of Public Affairs press release of October 1, 2024 ([[2024-10-01_justice-gov_russian-national-indicted-ransomware-attacks-ryzhenkov]]) confirms the venue as the **Northern District of Texas (NDTX)**. The page has been corrected throughout. The Treasury JY-2623 release on which the original EDTX claim rested did not in fact name a specific district; the EDTX label appears to have been an inferred misattribution during initial ingest.
 - **Specific UK NCA role.** JY-2623 names the UK FCDO as the UK designating authority but does not specify the underlying UK investigative agency. The UK [[uk-nca|National Crime Agency]] is *highly likely* the lead operational source given its role in UK ransomware enforcement, but this is an inference not stated in JY-2623.
 - **Specific tri-lateral coordination instrument.** No bilateral or multilateral sanctions-coordination MOU is named; the same-day timing is *almost certainly* the product of informal Five-Eyes / CRI-adjacent channels.
 - **Evil Corp / LockBit rebrand assessment.** The Chainalysis analysis (October 3, 2024) asserts an Evil Corp / LockBit rebrand-for-sanctions-evasion pattern; JY-2623 itself does not make this attribution, so the rebrand thesis is *likely* but documented in third-party analysis rather than the Treasury press release.
