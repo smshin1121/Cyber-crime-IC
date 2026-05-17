@@ -3169,3 +3169,14 @@
 - Pages updated: wiki/operations/sg-hk-my-android-malware-distanthill-takedown-2024.md (source_count 1→2; sources list; Participating Parties + Contradictions sections; Tier-1 primary sources footer)
 - Key findings: Third independent tier-1 stream (after SPF + HKPF) for Operation DISTANTHILL; CIB-NPA names operation as "first instance of trilateral police cooperation among Taiwan, Singapore, and Malaysia in fighting crime"; Taiwan-side cryptocurrency itemisation (3,794 USDT + 5,206 DOGE + 1,293 TRX, ~NTD 151,755); Taiwan Ciaotou District Prosecutors Office prosecutorial routing for 4 Taiwanese defendants (Tsai/Hsieh/Wu/Chen).
 - Iter 180 milestone push deferred per user "iter 140 STOP" instruction; iter 141-180 commits accumulating locally for next push milestone.
+
+## [2026-05-17] iter 182 content-enrichment | U.S. Embassy Jakarta — W3LL takedown 2nd tier-1 source
+
+- Mode: CONTENT-ENRICHMENT (source_count 1->2)
+- Source: raw/press-releases/2026-04-23_us-embassy-jakarta_united-states-indonesia-dismantle-global-phishing-network-w3ll.md
+- Publisher: U.S. Embassy Jakarta (U.S. Department of State), tier-1 own-domain id.usembassy.gov
+- Target op: [[w3ll-phishing-kit-takedown-2026]] (case_id CYB-2026-088)
+- Pages created: wiki/sources/2026-04-23_us-embassy-jakarta_united-states-indonesia-dismantle-global-phishing-network-w3ll.md
+- Pages updated: wiki/operations/w3ll-phishing-kit-takedown-2026.md (source_count 1->2; sources list; Participating Parties table extended with US Embassy + Kupang Polri rows; Operational Timeline +2026-04-22 Jakarta press conference + 2026-04-23 US Embassy release)
+- Key findings: Second independent tier-1 own-domain attestation of the W3LL takedown (State Department arm distinct from the prior FBI Atlanta release). Adds (a) 2026-04-22 joint Bareskrim-Polri press conference in Jakarta as new dated event, (b) sub-national Indonesian unit Kupang Polri (East Nusa Tenggara provincial police) as participating agency, (c) named US officials on the record: FBI Atlanta SAC Marlo Graham, FBI Representative Robert Lafferty, (d) verbatim "first-of-its-kind joint cyber investigation between the United States and Indonesia" framing from the State-Department side.
+- L24 verbatim quote (Lafferty, US Embassy release): "The success of the takedown relied on the coordinated execution between cyber investigators from FBI Atlanta, INP Bareskrim, and East Nusa Tanggera (Kupang Polri)." Two LE jurisdictions explicitly named -> L24 strict satisfied.

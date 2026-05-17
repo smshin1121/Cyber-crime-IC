@@ -89,11 +89,12 @@ lessons_learned:
   - "**Post-marketplace migration to encrypted messaging platforms** — after W3LLSTORE shut down in 2023, the kit was rebranded and marketed via encrypted messaging. Demonstrates that PhaaS ecosystems persist beyond marketplace-level enforcement, requiring follow-on developer-targeting actions like this one."
   - "**Field-office-led international cooperation pattern** — FBI Atlanta Field Office (rather than FBI HQ Cyber Division) led this US-Indonesia bilateral track, paired with USAO-NDGA. Demonstrates that field-office-level US international cybercrime cooperation works at the bilateral scale on a single-developer target."
   - "**Asymmetric documented vs. inferred metrics** — 25,000 accounts sold 2019-2023 + 17,000 victims targeted 2023-2024 + USD 20M+ attempted fraud is a layered metric set. The cited release does not consolidate these into a single 'total victims' figure, leaving cumulative impact partially un-summed."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll]]"
+  - "[[2026-04-23_us-embassy-jakarta_united-states-indonesia-dismantle-global-phishing-network-w3ll]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 ## Summary
 
@@ -123,9 +124,11 @@ The cited release notes that the developer behind the tool *also collected and r
 
 | Party | Country | Role |
 |---|---|---|
-| [[fbi\|FBI Atlanta Field Office]] | United States | Lead US investigator; identified and seized US-side phishing infrastructure |
+| [[fbi\|FBI Atlanta Field Office]] | United States | Lead US investigator; identified and seized US-side phishing infrastructure; named officials on the record at the 2026-04-22 Jakarta press conference: SAC Marlo Graham, FBI Representative Robert Lafferty (per U.S. Embassy Jakarta release 2026-04-23) |
 | U.S. Attorney's Office for the Northern District of Georgia (USAO-NDGA) | United States | Prosecutorial assistance; backed US-side seizure actions |
-| [[indonesia-police\|Indonesian National Police (Polri)]] | Indonesia | Detained alleged developer 'G.L.' on Indonesian soil; seized key domains |
+| U.S. Embassy Jakarta (U.S. Department of State) | United States | Diplomatic-channel attestation of the takedown; published 2026-04-23 press release on the 2026-04-22 Bareskrim Polri joint press conference, framing the action as a "first-of-its-kind joint cyber investigation between the United States and Indonesia" |
+| [[indonesia-police\|Indonesian National Police (Polri) — Bareskrim HQ]] | Indonesia | Detained alleged developer 'G.L.' on Indonesian soil; seized key domains; hosted the 2026-04-22 joint press conference at Bareskrim HQ in Jakarta |
+| Indonesian National Police — East Nusa Tenggara provincial police (Kupang Polri) | Indonesia | Sub-national operational unit identified by the U.S. Embassy Jakarta 2026-04-23 release as participating in the W3LL takedown alongside Bareskrim HQ — the on-the-ground apprehension dimension of the Indonesian side |
 
 > [!note] First coordinated US-Indonesia phishing-developer action
 > FBI Atlanta credits the Indonesian National Police for *the first coordinated action against a phishing kit developer between the United States and Indonesia*. The legal instrument (MLAR vs. police-to-police informal cooperation) is not specified in the cited release.
@@ -150,6 +153,8 @@ The cited release notes that the developer behind the tool *also collected and r
 | (date undated) | FBI Atlanta + USAO-NDGA infrastructure-seizure investigation; coordination with Indonesian National Police initiated |
 | (date undated) | Indonesian National Police detains G.L.; key domains seized |
 | 10 April 2026 | FBI Atlanta press release announcing the takedown |
+| 22 April 2026 | Joint US-Indonesia press conference at INP Criminal Investigation Division (Bareskrim Polri) headquarters in Jakarta. FBI Atlanta SAC Marlo Graham and FBI Representative Robert Lafferty (US side) and Indonesian National Police (Indonesian side) brief jointly. Sub-national Indonesian unit Kupang Polri (East Nusa Tenggara provincial police) identified for the first time as a participating agency alongside Bareskrim HQ. |
+| 23 April 2026 | U.S. Embassy Jakarta (State Department) issues English-language press release on the 22 April Jakarta press conference, framing the W3LL takedown as a "first-of-its-kind joint cyber investigation between the United States and Indonesia". |
 
 ## Results and Impact
 
@@ -204,3 +209,4 @@ The cited release does not enumerate post-detention follow-up steps — Indonesi
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | [[2026-04-10_fbi-atlanta_global-phishing-network-takedown-w3ll\|FBI Atlanta, Indonesian Authorities Take Down Global Phishing Network Behind Millions in Fraud Attempts]] | FBI Atlanta Field Office | 2026-04-10 | https://www.fbi.gov/contact-us/field-offices/atlanta/news/fbi-atlanta-indonesian-authorities-take-down-global-phishing-network-behind-millions-in-fraud-attempts |
+| [2] | [[2026-04-23_us-embassy-jakarta_united-states-indonesia-dismantle-global-phishing-network-w3ll\|United States and Indonesia Dismantle Global Phishing Network]] | U.S. Embassy Jakarta (U.S. Department of State) | 2026-04-23 | https://id.usembassy.gov/united-states-and-indonesia-dismantle-global-phishing-network/ |

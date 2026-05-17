@@ -6,10 +6,11 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (858)
+# Sources (859)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
+| [[2026-04-23_us-embassy-jakarta_united-states-indonesia-dismantle-global-phishing-network-w3ll]] | press-release | U.S. Embassy Jakarta (U.S. Department of State) | 1 | high | id.usembassy.gov |
 | [[2026-05-14_eurojust_fake-medicines-supplements-online-takedown]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-05-13_moj-go-kr_overseas-hacking-organisation-leader-extradited-thailand]] | press-release | 법무부 (Ministry of Justice of the Republic of Korea) | ? | high | ? |
 | [[2026-05-08_bka_crimenetwork-relaunch-takedown-spain-arrest]] | press-release | Bundeskriminalamt (BKA) | ? | high | ? |
