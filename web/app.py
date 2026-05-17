@@ -680,6 +680,74 @@ def _format_list(items, limit=10) -> str:
     return result
 
 
+CRIME_TYPE_KO = {
+    "ransomware-ic": "랜섬웨어",
+    "phishing-ic": "피싱",
+    "csam-ic": "아동성착취물(CSAM)",
+    "cyberstalking-ic": "사이버스토킹",
+    "ddos-ic": "DDoS 공격",
+    "ddos-extortion": "DDoS 공갈",
+    "money-laundering-ic": "자금세탁",
+    "malware-ic": "악성코드",
+    "hacking-ic": "해킹",
+    "voice-phishing-ic": "보이스피싱",
+    "online-fraud-ic": "온라인 사기",
+    "bec-ic": "기업이메일침해(BEC)",
+    "bec-crime-ic": "기업이메일침해(BEC)",
+    "bank-fraud-ic": "은행 사기",
+    "banking-trojan-ic": "뱅킹 트로이",
+    "carding-fraud-ic": "카드 사기 (Carding)",
+    "extortion-ic": "협박/공갈",
+    "identity-theft": "신원 도용",
+    "drug-trafficking": "마약 거래",
+    "counterfeit-goods": "위조 상품",
+    "organized-crime-ic": "조직 범죄",
+    "illegal-iptv-ic": "불법 IPTV",
+    "cybercrime-forum-ic": "사이버범죄 포럼",
+    "cybercrime-infrastructure-ic": "사이버범죄 인프라",
+    "access-device-fraud": "접근장치 사기",
+    "dark-web-ic": "다크웹 거래",
+    "darknet-trade-ic": "다크넷 거래",
+}
+
+
+MECHANISM_KO = {
+    "mlat-process": "MLAT (형사사법공조)",
+    "informal-cooperation": "비공식 경찰 협력",
+    "informal-police-cooperation": "비공식 경찰 협력",
+    "joint-investigation-team": "공동수사팀(JIT)",
+    "joint-investigation-teams": "공동수사팀(JIT)",
+    "24-7-network": "24/7 네트워크",
+    "europol-emas": "Europol 분석 프로젝트",
+    "interpol-i-247": "INTERPOL I-24/7",
+    "five-eyes-leg": "Five Eyes 법집행그룹",
+    "j-cat": "J-CAT (공동사이버범죄대응팀)",
+    "europol-empact": "Europol EMPACT",
+    "extradition": "범죄인 인도",
+    "european-arrest-warrant": "유럽체포영장(EAW)",
+}
+
+
+def _format_crime_types_ko(items) -> str:
+    if not isinstance(items, list):
+        items = [items]
+    names = []
+    for i in items:
+        if not i:
+            continue
+        slug = _extract_slug(i)
+        ko = CRIME_TYPE_KO.get(slug)
+        if ko:
+            names.append(ko)
+        else:
+            names.append(_strip_wikilink(i))
+    return ", ".join(n for n in names if n)
+
+
+def _format_mechanism_ko(slug: str, fallback: str) -> str:
+    return MECHANISM_KO.get(slug, fallback)
+
+
 def generate_ko_content(meta: dict, en_content: str, page_type: str) -> str:
     """Generate Korean markdown content from frontmatter metadata."""
     generators = {
@@ -778,7 +846,7 @@ def _gen_ko_operation(meta: dict, en: str) -> str:
         lines.append(f"- {canonical_case}")
 
     if target:
-        lines.append(f"\n대상: {target}\n")
+        lines.append(f"\n**대상:** {target}\n")
 
     if isinstance(key_findings, list) and key_findings:
         lines.append("\n## 핵심 사실\n")
@@ -786,6 +854,62 @@ def _gen_ko_operation(meta: dict, en: str) -> str:
             if isinstance(finding, dict):
                 finding = "; ".join(f"{k}: {v}" for k, v in finding.items())
             lines.append(f"- {finding}")
+
+    # Background / crime substance — synthesized from frontmatter (L26)
+    if not is_absorbed:
+        crime_types_list = meta.get("crime_types", [])
+        if not crime_types_list and meta.get("crime_type"):
+            crime_types_list = [meta.get("crime_type")]
+        ct_ko = _format_crime_types_ko(crime_types_list)
+        bg_other = other if isinstance(other, list) else []
+        if ct_ko or target or bg_other:
+            lines.append("\n## 범죄 내용 (배경)\n")
+            if ct_ko:
+                lines.append(f"이 작전이 다룬 범죄 유형은 **{ct_ko}**이다.\n")
+            if target:
+                lines.append(f"### 범행 대상\n\n> {target}\n")
+            if bg_other:
+                lines.append("### 범행 양상 및 규모\n")
+                for o in bg_other[:10]:
+                    lines.append(f"- {o}")
+            if arrests or servers or domains or crypto:
+                lines.append("\n### 단속 규모 요약")
+                if arrests:
+                    lines.append(f"- 체포: **{arrests:,}명** (피의자 규모)")
+                if servers:
+                    lines.append(f"- 서버 압수: **{servers:,}대** (인프라 규모)")
+                if domains:
+                    lines.append(f"- 도메인 압수/차단: **{domains:,}개**")
+                if crypto:
+                    lines.append(f"- 암호화폐 압수: **{crypto}** (자금 흐름 규모)")
+
+    # Participants
+    lines.append("\n## 참여 기관\n")
+    if lead:
+        lines.append(f"**주도기관:** {lead}")
+    if coord and coord != lead:
+        lines.append(f"\n**조정기관:** {coord}")
+    if agencies_str:
+        lines.append(f"\n**참여기관:** {agencies_str}")
+    if countries_str:
+        lines.append(f"\n**참여국:** {countries_str}")
+
+    # Legal basis
+    legal_basis = meta.get("legal_basis", [])
+    if isinstance(legal_basis, list) and legal_basis:
+        lines.append("\n## 법적 근거\n")
+        for lb in legal_basis[:12]:
+            lines.append(f"- {_strip_wikilink(lb)}")
+
+    # Operational timeline
+    if announced or start or end:
+        lines.append("\n## 작전 일정\n")
+        if announced:
+            lines.append(f"- **발표:** {announced}")
+        if start:
+            lines.append(f"- **개시:** {start}")
+        if end:
+            lines.append(f"- **종료:** {end}")
 
     # Results section
     result_items = []
@@ -799,23 +923,32 @@ def _gen_ko_operation(meta: dict, en: str) -> str:
         result_items.append(f"**{crypto}** 암호화폐 압수")
 
     if result_items:
-        lines.append("\n## 결과\n")
+        lines.append("\n## 결과 및 영향\n")
         for item in result_items:
             lines.append(f"- {item}")
         if isinstance(other, list):
             for o in other:
                 lines.append(f"- {o}")
 
-    # Participants
-    lines.append("\n## 참여 기관\n")
-    if lead:
-        lines.append(f"**주도기관:** {lead}")
-    if coord and coord != lead:
-        lines.append(f"\n**조정기관:** {coord}")
-    if agencies_str:
-        lines.append(f"\n**참여기관:** {agencies_str}")
-    if countries_str:
-        lines.append(f"\n**참여국:** {countries_str}")
+    # Cooperation mechanisms
+    mechanisms = meta.get("mechanisms_used", [])
+    if isinstance(mechanisms, list) and mechanisms:
+        lines.append("\n## 협력 메커니즘\n")
+        for m in mechanisms[:10]:
+            slug = _extract_slug(m)
+            disp = _strip_wikilink(m)
+            ko_label = _format_mechanism_ko(slug, disp)
+            if slug and slug != disp:
+                lines.append(f"- [[{slug}|{ko_label}]]")
+            else:
+                lines.append(f"- {ko_label}")
+
+    # Challenges
+    challenges = meta.get("challenges_encountered", [])
+    if isinstance(challenges, list) and challenges:
+        lines.append("\n## 도전 및 마찰점\n")
+        for c in challenges[:10]:
+            lines.append(f"- {_strip_wikilink(c)}")
 
     # Lessons learned
     lessons = meta.get("lessons_learned", [])
