@@ -95,17 +95,18 @@ challenges_encountered: []
 lessons_learned:
   - "Multi-year extradition follow-through: a successful joint infrastructure disruption (here, Operation Magnus, Oct 2024) creates the evidentiary base for individual-defendant extraditions 16+ months later, illustrating the long-tail nature of cyber-IC cooperation timelines."
   - "Domain-of-jurisdiction interplay: an alleged Armenian developer arrested in the Netherlands and extradited to a U.S. district court (W.D. Tex.) — three distinct jurisdictions cooperating to produce one defendant in one trial venue."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-03-25_justice-gov-usao-wdtx_armenian-man-extradited-redline-infostealer]]"
+  - "[[2026-03-25_irs-gov_armenian-man-extradited-redline-infostealer]]"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 # US–Netherlands–Belgium Minasyan RedLine Infostealer Extradition (2026-03)
 
-> [!info] Provisional / single-tier-1 ingest
-> This page is published at the `source_count = 1` threshold against a single tier-1 own-domain U.S. Attorney's Office press release. Per CLAUDE.md preferred publication threshold (`source_count >= 5`), this page is **explicitly provisional** and should be enriched as additional Netherlands, Belgium, or Eurojust own-domain releases on the same matter become available, or as case proceedings advance in W.D. Tex.
+> [!info] Provisional / two-tier-1 ingest
+> This page is published at the `source_count = 2` threshold against two tier-1 own-domain U.S. federal-LE press releases (USAO-WDTX justice.gov + IRS-CI irs.gov, both 2026-03-25). The IRS-CI release is a *participating-agency* own-domain corroboration — IRS-CI is itself named as a member of the FBI Austin Cyber Task Force that built the case. Per CLAUDE.md preferred publication threshold (`source_count >= 5`), this page remains **provisional** and should be further enriched as Netherlands (Politie / OM) own-domain, Belgium (Federal Police) own-domain, or Eurojust newsroom releases on the same matter become available, or as case proceedings advance in W.D. Tex.
 
 ## Summary
 
