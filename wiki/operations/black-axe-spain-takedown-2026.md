@@ -97,16 +97,17 @@ lessons_learned:
   - "Documents the structural pattern in which a Nigeria-origin TCO ('Black Axe' / Neo-Black Movement of Africa) recruits and exploits *local-nationality* money mules in the destination country (Spanish citizens in this case) to launder cyber-fraud proceeds, blurring the line between transnational organised crime and 'ordinary' local fraud — explicitly cited by Europol as the disruption challenge."
   - "Demonstrates the compact-team on-site deployment pattern (2 BLKA officers in Spain on the action day) as the German contribution to a Spanish-led arrest sweep — a less-studied model than full JIT or large-scale OTF formats."
   - "Adds Black Axe presence concentration in Andalusia (Seville, Málaga) to the wiki's documented Black Axe geographic footprint in Europe (which also includes Switzerland, Italy, the Netherlands, Austria, and Germany)."
-source_count: 1
+source_count: 2
 sources:
   - "[[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation]]"
+  - "[[2026-01-09_policia-es_black-axe-ciberfraude-spain-bavaria-europol-34-detenidos]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-17
 ---
 
 ## Summary
 
-On the action day announced via Europol Newsroom on **12 January 2026**, the **Spanish National Police** (Policía Nacional), in coordination with the **Bavarian State Criminal Police Office (BLKA, Germany)** and with operational and analytical support from **[[europol-ec3|Europol]]**, arrested **34 alleged members of the 'Black Axe' criminal organisation** across Spain. Of the 34 arrests, 28 were carried out in Seville, 3 in Madrid, 2 in Málaga, and 1 in Barcelona. Investigators attribute fraud damages exceeding **EUR 5.93 million** to the targeted cell; **EUR 119,352** was frozen in bank accounts and **EUR 66,403** was seized in cash during house searches.
+On the action day publicly announced by the Spanish National Police on **9 January 2026** and amplified by Europol Newsroom on **12 January 2026**, the **Spanish National Police** (Policía Nacional), in coordination with the **Bavarian State Criminal Police Office (BLKA, Germany)** and with operational and analytical support from **[[europol-ec3|Europol]]**, arrested **34 alleged members of the 'Black Axe' criminal organisation** across Spain. Of the 34 arrests, 28 were carried out in Seville, 3 in Madrid, 2 in Málaga, and 1 in Barcelona. Investigators attribute fraud damages exceeding **EUR 5.93 million** to the targeted cell (EUR 5,937,589.70 total organisation defraudation, of which EUR 3,211,297.89 falls within the scope of this specific operation per the Spanish primary release); **EUR 119,352.07** was frozen in bank accounts and **EUR 66,403** was seized in cash during house searches. **Provisional imprisonment** was ordered for four of the principal responsables.
 
 The action day completed a Spain-Germany cross-border collaboration in which Spanish investigators received analytical support, intelligence was exchanged with Germany, and **two German BLKA officers were deployed on-site in Spain** during the operational day. Europol's contributions included information analysis, a **data sprint held in Madrid**, and on-the-spot support — explicitly framed by Europol as a strategy to map the group's structure across countries, centralise information, share relevant intelligence packages, and support coordinated national investigations.
 
@@ -133,19 +134,21 @@ The Spain-side cell targeted in this action recruited money mules in impoverishe
 ## Legal Framework
 
 - **Europol regulation (Regulation (EU) 2016/794)** — basis for analytical, intelligence-sharing, and coordination support to the Spanish-led national investigation.
-- **Bilateral Spain-Germany police cooperation** — basis for BLKA's on-site deployment of two officers and intelligence exchange. The cited release does not specify whether a JIT, an MLAR, or informal liaison was the operative instrument.
-- **Spanish national criminal procedure** — basis for arrests and house searches.
+- **Bilateral Spain-Germany police cooperation** — basis for BLKA's on-site deployment of two officers and intelligence exchange. Neither cited release specifies whether a JIT, an MLAR, or informal liaison was the operative instrument.
+- **Spanish national criminal procedure** — basis for arrests and house searches. The investigating court is named in the Policía Nacional primary release as **Juzgado de Instrucción nº 18 de Sevilla**, which authorised the *entradas y registros* (search-and-arrest warrants) executed at residences in Torreblanca (Sevilla), Los Molares, Montequinto, La Palmilla (Málaga), and Barcelona, together with arrests in Madrid.
+- **Charges enumerated (Policía Nacional primary release):** *estafa agravada continuada* (aggravated continuous fraud), *pertenencia a organización criminal* (membership in a criminal organisation), *blanqueo de capitales* (money laundering), *falsedad documental* (documentary forgery), *obstrucción a la justicia* (obstruction of justice), and *tráfico ilícito de vehículos* (illicit traffic in vehicles).
 
-> [!warning] Legal status check needed
-> The cited release does not enumerate specific charges under the Spanish criminal code or the corresponding articles of the German Strafgesetzbuch potentially in play in Bavaria-side proceedings against fugitive members. Subsequent prosecutorial documents may clarify.
+> [!note] Predicate fraud typology
+> The Policía Nacional release identifies the targeted modus operandi specifically as **Man-in-the-Middle (MITM)** with **Business Email Compromise (BEC)** as the most common sub-typology — compromise or impersonation of corporate email accounts, interception of legitimate inter-business communications, and modification of bank-account details to redirect high-value payments to organisation-controlled accounts.
 
 ## Operational Timeline
 
 | Date | Event |
 |---|---|
-| pre-2026-01 | Cross-border investigation between Spanish National Police and Bavarian BLKA |
-| pre-2026-01 | Europol analytical support, Madrid-held data sprint, and on-the-spot support |
-| early 2026-01 | Action day across Spain — 34 arrests, EUR 5.93M+ fraud damages established, EUR 119,352 frozen, EUR 66,403 cash seized |
+| 2023-09 | Investigation opened by Spanish National Police on becoming aware of the organisation's illicit activities (per Policía Nacional primary release) |
+| 2023-09 – 2026-01 | Cross-border investigation between Spanish National Police and Bavarian BLKA; Europol analytical support, Madrid-held data sprint, and on-the-spot support |
+| early 2026-01 | Action day across Spain — 34 arrests, EUR 5.93M+ fraud damages established, EUR 119,352.07 frozen, EUR 66,403 cash seized; 4 principal suspects ordered into provisional imprisonment by Juzgado de Instrucción nº 18 de Sevilla |
+| 2026-01-09 | Spanish National Police primary press release (policia.es Comunicación-Prensa, ID 16763) |
 | 2026-01-12 | Europol Newsroom press release announcement |
 
 ## Results and Impact
@@ -189,11 +192,13 @@ The cited release does not enumerate follow-up extraditions, indictments in Bava
 
 ## Contradictions & Open Questions
 
-- The release was published on 12 January 2026 but does not specify the precise action-day date. Subsequent reporting (e.g., AML Intelligence) suggests the action day was in early January 2026; precise dating remains an open item.
-- The release notes Black Axe damages of *billions of euros* annually globally but documents only *EUR 5.93 million* from the Spain cell — leaving open whether the Spain cell's true cumulative damages substantially exceed the documented figure.
+- The Europol release of 12 January 2026 does not specify the precise action-day date. The Policía Nacional primary release of 9 January 2026 publicly announces the dismantling but also does not provide a separate enumerated action-day date; the action day is *likely* the days immediately preceding 9 January 2026.
+- The Europol release notes Black Axe damages of *billions of euros* annually globally but both primaries document only *EUR 5.93 million* from the Spain cell — leaving open whether the Spain cell's true cumulative damages substantially exceed the documented figure.
+- Neither primary release names whether the Bavarian-side involvement reflects a Joint Investigation Team (JIT), an executed mutual legal assistance request, a Europol-facilitated parallel investigation, or informal bilateral liaison. The Policía Nacional release uses *"colaboración"* (collaboration) without a treaty citation.
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | [[2026-01-12_europol_34-arrests-spain-black-axe-criminal-organisation\|34 arrests in Spain during action against the 'Black Axe' criminal organisation]] | Europol | 2026-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/34-arrests-in-spain-during-action-against-black-axe-criminal-organisation |
+| [2] | [[2026-01-09_policia-es_black-axe-ciberfraude-spain-bavaria-europol-34-detenidos\|Desarticulada en España una red criminal dedicada al ciberfraude vinculada con la organización Black Axe]] | Policía Nacional (España) | 2026-01-09 | https://policia.es/_es/comunicacion_prensa_detalle.php?ID=16763 |
