@@ -92,7 +92,7 @@ sources:
   - "[[2025-10-17_eurojust_decisive-action-online-scams-austria-latvia-seven-arrests]]"
 summary: "Austrian, Latvian, and Estonian authorities, with Finnish assistance, dismantled a multi-pattern online and phone scam network through a Eurojust-hosted joint investigation team. The October 2025 coordinated action day produced 7 arrests, 26 searches, EUR 700,000 frozen, and seizure of 1,200 SIM box devices, 40,000 SIM cards, 5 servers, and 4 luxury cars."
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 # Austria-Latvia-Estonia Online Scams JIT Takedown (2025)
 
@@ -102,7 +102,15 @@ Austrian, Latvian, and Estonian authorities, coordinated by [[eurojust|Eurojust]
 
 ## Background
 
-The criminal network targeted German-speaking and Latvian-speaking victims with several scam patterns simultaneously, including fake high-yield investment platforms, fraudulent micro-loan and "contract recovery" schemes, romance scams, and phone calls impersonating bank, government, or technical-support personnel. The use of SIM box farms allowed criminal call centres to display Austrian or Latvian local caller IDs while operating outbound from third-country infrastructure, eroding the most basic call-screening defence available to private victims. The Austrian Public Prosecutor's Office in Vienna and the State Police of Latvia opened parallel investigations and brought them together at Eurojust as a JIT, with Estonia joining as a third party-state and Finland providing assistance.
+**Modus operandi.** The criminal network ran four scam patterns in parallel from the same call-centre/SIM-box infrastructure: (1) fake high-yield cryptocurrency and FX investment platforms with professionally designed dashboards showing fictitious returns; (2) fraudulent micro-loan and "contract recovery" schemes that solicited up-front fees from victims seeking small loans or debt cancellation; (3) romance scams cultivated over weeks before financial requests; and (4) live phone-impersonation scams in which agents posed as bank fraud-prevention officers, government officials, or technical-support personnel. The technical anchor of all four patterns was a **SIM box farm of 1,200 devices and 40,000 SIM cards** that terminated outbound calls onto Austrian and Latvian mobile networks, displaying local caller IDs so that victims received what appeared to be domestic calls from in-country institutions. This neutralised the most basic call-screening defence available to private victims and to bank fraud-detection systems that rely on origin-country signalling.
+
+**Victim profile and impact.** The Eurojust release enumerates **1,700+ victims in Austria and 1,500+ victims in Latvia** (≈3,200 confirmed victims), with **aggregate losses exceeding EUR 3 million**. Victim demographics are not broken out, but the four-pattern targeting (investment, micro-loan, romance, phone impersonation) implies a mixed-age victim profile spanning working-age investors lured by crypto returns, financially distressed individuals seeking micro-loans, and older adults vulnerable to romance and impersonation scams. The German-speaking (Austria) and Latvian-speaking (Latvia) targeting indicates linguistic capability within the call centre operation in both languages.
+
+**Financial flow.** The Eurojust release confirms **EUR 700,000 frozen across the four participating jurisdictions** on the action day, against the EUR 3 million+ aggregate loss — implying that ≈77% of proceeds had already been moved beyond reach of immediate seizure. The release does not enumerate the laundering route (correspondent banks, crypto-OTC, cash mules), and 4 luxury cars seized point to typical proceeds-conversion-into-tangible-assets behaviour. SIM box operation cost (40,000 SIM cards plus 1,200 devices plus call-termination tariffs) is itself a significant operating expense that must be covered by scam revenue.
+
+**Criminal organization structure.** Seven arrests across Austria, Latvia, and Estonia, with the per-country breakdown not enumerated in the public release. The 26-search-locations footprint across the three jurisdictions suggests a distributed cell structure rather than a single call centre, with the SIM-box infrastructure likely consolidated at one or two technical sites and the human operators (callers, money mules, technical staff) distributed across multiple addresses. The Estonian participation as a third party-state in the JIT (rather than the more common single-bilateral pattern) indicates that the network had operational presence in Estonia significant enough to warrant a co-equal prosecutorial role, not just MLA-style assistance.
+
+The Austrian Public Prosecutor's Office in Vienna and the State Police of Latvia opened parallel investigations and brought them together at Eurojust as a JIT, with Estonia joining as a third party-state and Finland providing assistance through its National Bureau of Investigations and National Cyber-Enabled Crimes Units.
 
 ## Cooperation Model
 
@@ -172,6 +180,9 @@ No direct Korean involvement is reported in the source. The case is informative 
 - Per-country arrest breakdown is not given.
 - Whether the SIM box infrastructure itself was located in one of the four states or in a third country (e.g., a Western Balkans or post-Soviet jurisdiction) is not stated explicitly in the public release.
 - Whether any extradition or transfer-of-proceedings step will be needed between the three party states is not addressed in the announcement.
+- **L26 gap — victim demographics**: age, gender, and per-scam-type victim breakdowns are not provided in the public release; only aggregate counts (1,700+ Austria / 1,500+ Latvia) and aggregate loss (EUR 3 million+).
+- **L26 gap — laundering route**: the EUR 700,000 frozen vs. EUR 3 million+ losses gap (≈77% missing) is not explained; the release does not enumerate correspondent-banking, crypto-OTC, or cash-mule channels through which proceeds left the four jurisdictions.
+- **L26 gap — OCG structure**: the seven arrestees' roles (organisers, callers, technical operators, money mules) are not enumerated, and the network leadership identity/nationality is not disclosed.
 
 ## References
 
