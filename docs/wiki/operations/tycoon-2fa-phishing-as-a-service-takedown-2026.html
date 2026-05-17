@@ -68,7 +68,7 @@
 
 
           <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-09
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-17
           </span>
 
 
@@ -141,7 +141,48 @@
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>On <strong>2026-03-04</strong>, Europol announced the coordinated public-private disruption of <strong>Tycoon 2FA</strong> — one of the <strong>largest phishing-as-a-service (PhaaS) platforms worldwide</strong>, active since at least <strong>August 2023</strong>. <strong>330 domains</strong> forming the platform's core infrastructure (phishing pages + control panels) were taken down. The technical disruption was led by <strong>Microsoft</strong> with a coalition of private partners; seizure of infrastructure and other operational measures were carried out by law enforcement in <strong>six countries</strong> — <strong>Latvia, Lithuania, Portugal, Poland, Spain, and the United Kingdom</strong> — coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol's European Cybercrime Centre (EC3)</a>.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
-<p>Tycoon 2FA was a phishing-as-a-service (PhaaS) platform active since at least August 2023 that enabled thousands of cybercriminals to covertly access email and cloud-based service accounts. At scale, the platform generated <strong>tens of millions of phishing emails each month</strong> and facilitated unauthorised access to <strong>nearly 100 000 organisations globally</strong>, including schools, hospitals, and public institutions. By <strong>mid-2025</strong> Tycoon 2FA accounted for roughly <strong>62 %</strong> of all phishing attempts blocked by Microsoft.</p>
+<p>(This section describes the <strong>crime substance</strong> — modus operandi, victim profile + impact, financial flow, and criminal-organisation structure of the Tycoon 2FA PhaaS platform. Operation context — how Europol mounted the disruption — appears in Summary and Cooperation Mechanisms.)</p>
+<h3 id="modus-operandi-adversary-in-the-middle-2fa-bypass-as-a-service">Modus operandi — adversary-in-the-middle 2FA bypass as a service</h3>
+<p>Tycoon 2FA was a <strong>phishing-as-a-service (PhaaS) platform</strong> active since at least <strong>August 2023</strong>. Its principal value proposition was an <strong>adversary-in-the-middle (AiTM)</strong> phishing kit specifically engineered to bypass <strong>two-factor authentication (2FA)</strong> on Microsoft 365 and Google Workspace accounts. The platform operated as a subscription service marketed to thousands of cybercriminal customers ("traffers" or "phishers"); customers paid the operators (Telegram-channel-mediated, cryptocurrency-denominated) for access to a control panel, ready-to-deploy phishing-page templates impersonating Microsoft / Google login flows, and operator-maintained backend infrastructure.</p>
+<p>The end-to-end attack sequence (as described by the cited Europol release and by tier-2 industry reporting from coalition partners — Trend Micro, Microsoft, Proofpoint, Sekoia):</p>
+<ol>
+<li><strong>Lure delivery</strong>: customer launches a phishing campaign (typically QR-code, OneDrive/SharePoint share-notification, or DocuSign-spoof emails) directing victims to a Tycoon-2FA-hosted landing URL.</li>
+<li><strong>CAPTCHA + filtering layer</strong>: the landing page presents a Cloudflare-Turnstile or invisible-CAPTCHA challenge to filter out automated-scanning and security-tool inspection traffic.</li>
+<li><strong>AiTM proxy layer</strong>: upon CAPTCHA pass, the victim is presented with a pixel-perfect Microsoft / Google login page that proxies authentication requests to the real Microsoft/Google authentication backend in real time.</li>
+<li><strong>Credential + session token capture</strong>: the platform captures the victim's username, password, <strong>and the 2FA-completed session cookie/token</strong> — bypassing TOTP, push-prompt, FIDO-non-resident, and SMS-based 2FA in a single user session.</li>
+<li><strong>Tokens delivered to customer</strong>: the captured session token is delivered to the cybercriminal customer's control panel, who can then replay it from a customer-controlled browser to take over the victim's Microsoft 365 / Google Workspace account without re-authenticating.</li>
+</ol>
+<p>This AiTM-with-token-replay design is what makes the platform a 2FA-bypass kit — distinct from older credential-only phishing kits — and is what gave Tycoon 2FA its ~62% share of all phishing attempts blocked by Microsoft at mid-2025.</p>
+<h3 id="victim-profile-and-impact">Victim profile and impact</h3>
+<p>Per the cited Europol release:</p>
+<ul>
+<li><strong>Nearly 100 000 organisations globally</strong> with credentials harvested or accounts accessed via Tycoon-2FA-driven campaigns.</li>
+<li><strong>Victim sectors named in the cited release</strong>: schools, hospitals, and public institutions, alongside the implied corporate-employee victim base (the AiTM kit's design target is Microsoft 365 / Google Workspace tenants).</li>
+<li><strong>Tens of millions of phishing emails per month</strong> at peak — the customer-driven email-volume signature of a successful PhaaS subscription model.</li>
+<li><strong>62 %</strong> of all phishing attempts blocked by Microsoft at mid-2025 used Tycoon 2FA infrastructure — making it the <strong>single largest phishing platform</strong> in Microsoft's telemetry at that point.</li>
+<li><strong>Post-takeover damage typology</strong> (industry coverage; not explicitly enumerated by the cited Europol release): business-email-compromise (BEC) wire fraud against the victim organisation's customers, internal lateral movement, ransomware initial-access handoff, payroll-redirection fraud, and onward credential harvesting from the compromised tenant.</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on victim-side financial damage
+The cited Europol release publishes the "100,000 organisations" footprint but does <strong>not</strong> enumerate aggregate victim-side financial losses, per-victim-sector damage breakdowns, or per-country victim counts. See Contradictions.</div><div class="callout-body"></div></div>
+<h3 id="financial-flow">Financial flow</h3>
+<ul>
+<li><strong>Operator-side revenue</strong>: the cited Europol release does not enumerate aggregate operator revenue, per-subscription pricing, or cryptocurrency-wallet recoveries. Industry reporting from coalition partners (Trend Micro, Sekoia, Proofpoint) describes Tycoon 2FA's monthly subscription tiers in the historical USD 120 – USD 1,500 range (depending on number of phishing-domain slots, duration, and feature tier), payable in Bitcoin or USDT through Telegram-channel-mediated escrow. These industry figures are <strong>not</strong> carried in the cited tier-1 release.</li>
+<li><strong>Customer-side downstream proceeds</strong>: each Tycoon-2FA-driven account compromise typically feeds BEC wire-fraud, ransomware-deployment, or credential-resale revenue streams for the customer; aggregate downstream proceeds are not quantified in the cited release.</li>
+<li><strong>Cryptocurrency seized during the takedown</strong>: empty per the cited release (<code>cryptocurrency_seized</code> field). Coinbase and Cloudflare are named as private-coalition partners, which is consistent with cryptocurrency-tracing and DNS-/account-disablement support roles, but no specific Coinbase-side seizure figure is disclosed.</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on financial flow
+Operator revenue, subscription pricing, cryptocurrency wallet identifications, and aggregate customer-side downstream proceeds are not enumerated in the cited tier-1 Europol release. See Contradictions.</div><div class="callout-body"></div></div>
+<h3 id="criminal-organisation-structure">Criminal organisation structure</h3>
+<p>The cited Europol release frames Tycoon 2FA as a <strong>service platform with a thousands-strong customer cohort</strong>, not a single hierarchical OCG. Structural elements visible from the cited tier-1 source and the broader PhaaS literature:</p>
+<ul>
+<li><strong>Operator team</strong> — the platform's developers and administrators, who maintain the AiTM-proxy codebase, the customer control panel, the CAPTCHA-filter layer, and the back-end domain-and-hosting rotation. The cited Europol release does <strong>not</strong> publicly name Tycoon 2FA operators; the release focuses on infrastructure disruption rather than on operator identification. Industry reporting indicates a Russian-speaking origin, but operator identities are not publicly disclosed in tier-1 sources.</li>
+<li><strong>Reseller / Telegram-channel intermediaries</strong> — customer onboarding, subscription sales, technical support, and feature-update announcements were conducted via operator-controlled Telegram channels (typical PhaaS marketing pattern). The cited release does not name specific channels.</li>
+<li><strong>Customer / "phisher" base</strong> — thousands of cybercriminal subscribers, dispersed globally and not part of a single hierarchical organisation. Each customer runs independent phishing campaigns against their own selected victim base, using the operator-supplied tooling.</li>
+<li><strong>Downstream customer-of-customer</strong>: ransomware affiliates and BEC fraud crews who purchase 2FA-bypassed account-takeover access from Tycoon-2FA customers as a feed into their own pipelines. Tier-1 release does not enumerate this layer.</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on OCG structure
+The cited Europol release does not publicly name Tycoon 2FA operators, individual cybercriminal customers, or downstream customer-of-customer linkages (notably to ransomware groups). The "arrests / suspect identification not enumerated" note in the cited release <code>results.other</code> confirms that the takedown was infrastructure-focused rather than operator-arrest-focused. See Contradictions.</div><div class="callout-body"></div></div>
+<h3 id="investigation-triggering-and-europol-pipeline">Investigation triggering and Europol pipeline</h3>
 <p>The investigation was triggered by intelligence shared by <strong>Trend Micro</strong>. Europol disseminated this information through its <strong>EC3 Advisory Groups</strong> and operational networks, enabling a coordinated operational strategy to be developed. A number of Advisory Group members were subsequently brought into the investigation to support the disruption effort, and through Europol's <strong>Cyber Intelligence Extension Programme (CIEP)</strong>, Microsoft and Trend Micro worked alongside law enforcement authorities providing technical expertise and infrastructure analysis.</p>
 <h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
 <table>
@@ -284,6 +325,9 @@
 <li>Specific judicial authorities orchestrating each national seizure are not enumerated.</li>
 <li>Specific Europol command-post / coordination-centre arrangement (on-site vs. virtual) is not enumerated, in contrast with the more detailed <a href="../../wiki/operations/xss-is-cybercrime-forum-takedown-2025.html" class="wikilink">xss.is takedown</a> release.</li>
 <li>The release frames Tycoon 2FA as having ~62 % of mid-2025 Microsoft-blocked phishing share but does not provide an aggregate post-disruption phishing-blocked share to quantify residual / displacement effects.</li>
+<li><strong>L26 gap — victim-side damage</strong>: the cited Europol release publishes the 100,000-organisation footprint but does <strong>not</strong> enumerate aggregate victim-side financial losses, per-victim-sector damage breakdowns, or per-country victim counts. Downstream BEC / ransomware / payroll-fraud losses driven by Tycoon-2FA account-takeovers are not separately tracked.</li>
+<li><strong>L26 gap — financial flow</strong>: operator subscription pricing, operator revenue, cryptocurrency-wallet identifications, and any Coinbase-side wallet recoveries are not disclosed in the cited tier-1 release. Industry-reporting historical price ranges (USD 120 – USD 1,500 / month) are not confirmed by the cited tier-1 source.</li>
+<li><strong>L26 gap — OCG structure</strong>: the cited Europol release does not publicly name Tycoon 2FA operators, Telegram-channel intermediaries, individual cybercriminal customers, or downstream customer-of-customer linkages (notably to ransomware groups). The release confirms the takedown was infrastructure-focused rather than operator-arrest-focused, so operator-identification work remains a follow-on intelligence task.</li>
 </ul>
 <h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <table class="reference-table"><colgroup><col class="col-ref-num"><col class="col-ref-source"><col class="col-ref-publisher"><col class="col-ref-date"><col class="col-ref-url"></colgroup>

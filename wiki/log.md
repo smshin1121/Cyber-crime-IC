@@ -1,5 +1,21 @@
 # Activity Log
 
+## [2026-05-17] iter 220 milestone push + L26 batch | Op Casus + Dark HunTOR + Op Atlantic Backgrounds (iters 211-220)
+- L26 batch (220): Op Casus 681w; Dark HunTOR 853w; Op Atlantic 884w (all 4-element compliant).
+- 10 commits since iter 210 push (`74870cd81..`):
+  - 211: L26 batch (LeakBase + Op SECURE + Op Talent)
+  - 212: L26 batch (Eurojust fake meds + Op Synergia III + Op Stream/Kidflix)
+  - 213: L26 batch (Cryptomixer + Latvia SIMcartel + FRONTIER+)
+  - 214: L26 batch (Op Cronos Phase 1 + BlackSuit + Eclipse CSAM Americas)
+  - 215: L26 batch (Op PowerOFF + Op RapTor + Op Cronos Phase 3)
+  - 216: L26 batch (Op Cyber Guardian 2026 + Op Trojan Shield + Berlin Enkeltrick)
+  - 217: L26 batch (Op Endgame Phase 2 + Phase 3 + Tycoon 2FA)
+  - 218: L26 batch (Op Magnus RedLine + Op Cumberland AI-CSAM + Op Cronos Phase 2)
+  - 219: L26 batch (Op Red Card 2 + Albania-Austria call centre + Op Sentinel Africa)
+  - 220: L26 batch (Op Casus + Dark HunTOR + Op Atlantic)
+- **Cumulative L26 enrichment: 52 ops** (iters 203-220); ~176 Background-thin pages remaining.
+- Pre-push integrity: lint HIGH=0; check_links broken=3 (legacy); build 1753 pages.
+
 ## [2026-05-17] iter 210 milestone push + L26 batch | Op Eastwood + Dnipro call-centre + Op PowerOFF Apr 2026 Backgrounds (iters 201-210)
 - L26 batch (210): Op Eastwood 758→1376w; Dnipro 847→1487w; PowerOFF Apr 2026 1063→1676w.
 - 10 commits since iter 200 push (`636064405..`):

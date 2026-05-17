@@ -68,7 +68,7 @@
 
 
           <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-09
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-17
           </span>
 
 
@@ -144,15 +144,23 @@
 <p>In October 2025, a Latvian-led action day dismantled a sophisticated <strong>cybercrime-as-a-service (CaaS) SIM-box network</strong> that offered rented telephone numbers from <strong>more than 80 source countries</strong> for use in a wide range of smishing, phishing, fraud, extortion, migrant smuggling, child sexual abuse material distribution, and impersonation schemes. The action was coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> and <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a> under a Joint Investigation Team (JIT) framework with <strong>Austria, Estonia, and Latvia</strong> as JIT partners and <strong>Finland</strong> as a supporting jurisdiction. The Shadowserver Foundation served as a private-sector cooperation partner for technical infrastructure dismantling. The operation was announced publicly on <strong>2025-10-17</strong>.</p>
 <p>The CaaS network operated two websites — <strong>gogetsms.com and apisim.com</strong> — that were taken over by law enforcement and replaced with seizure splash pages. Action-day results: 26 searches, 5 arrests, approximately 1,200 SIM-box devices seized (operating 40,000 SIM cards), hundreds of thousands of further SIM cards seized, 5 servers, EUR 431,000 in bank accounts and USD 333,000 in cryptocurrency accounts frozen, and 4 luxury vehicles seized. The operation's underlying scale, per Europol: <strong>more than 49 million online accounts</strong> were created via the illegal service.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
-<p>The criminal network's SIM-box service allowed perpetrators worldwide to set up fake accounts on social media and communication platforms while obscuring their true identity and location. Crime types facilitated by the network are described verbatim in the Europol release as including phishing, smishing, fraud, extortion, migrant smuggling, and the distribution of child sexual abuse material. Specific named schemes include:</p>
+<h3 id="modus-operandi-the-crime">Modus operandi (the crime)</h3>
+<p>The criminal network operated a <strong>cybercrime-as-a-service (CaaS) SIM-box infrastructure</strong> — approximately <strong>1,200 SIM-box devices</strong> orchestrating <strong>40,000 active SIM cards</strong> at action time, with hundreds of thousands of additional SIM cards held in reserve. SIM boxes are hardware concentrators that allow a remote customer to "rent" outbound calls or SMS originating from a chosen country code — the call/SMS appears to the recipient mobile network as a domestic origination from a local SIM card, defeating both caller-ID-based fraud filters and geolocation-based account-registration controls. The Latvian operators commercialised this capability as two public-facing services — <strong>gogetsms.com</strong> and <strong>apisim.com</strong> — selling time-limited rental of telephone numbers from <strong>80+ countries</strong> via web-based subscription, paid in cryptocurrency. Customers used the rented numbers to bulk-register fake accounts on social media, messaging apps (WhatsApp, Telegram), online marketplaces, and banking platforms, and to send smishing campaigns plus voice-phishing outbound calls. The Europol release quantifies the throughput: <strong>more than 49 million online accounts</strong> were allegedly created via the illegal service over its operational lifetime.</p>
+<h3 id="victim-profile-and-impact">Victim profile and impact</h3>
+<p>Crime types facilitated by the network are described verbatim in the Europol release. Specific named schemes targeting downstream victims:</p>
 <ul>
-<li>Fraud on online second-hand marketplaces (mass fake-account creation).</li>
-<li>"Daughter–son scam" via WhatsApp, demanding urgent four-figure payments.</li>
-<li>Investment fraud with telephone outreach and remote-access software deployment.</li>
-<li>Fake shops and fake bank websites.</li>
-<li><strong>Fake-police-officer schemes targeting Russian-speaking victims</strong> with forged IDs and personal cash collection.</li>
+<li><strong>Fraud on online second-hand marketplaces</strong> — mass fake-account creation enables buyer/seller impersonation scams (victim base: retail consumers across EU and 80+ source-number countries).</li>
+<li><strong>"Daughter–son scam"</strong> via WhatsApp — impersonators message parents claiming to be the child in urgent financial distress, demanding immediate four-figure transfers (victim base: parents, predominantly aged 50+, in German-speaking and Eastern European markets).</li>
+<li><strong>Investment fraud with telephone outreach</strong> — cold-call victims and deploy remote-access software (AnyDesk, TeamViewer) for direct account drainage (victim base: retail investors across EU).</li>
+<li><strong>Fake shops and fake bank websites</strong> — phishing infrastructure for credential and payment-card theft (victim base: online shoppers, banking customers).</li>
+<li><strong>Fake-police-officer schemes targeting Russian-speaking victims</strong> — perpetrators impersonate police using forged IDs and personal cash collection at the victim's home, exploiting Russian-speaking diaspora communities across the EU (victim base: predominantly elderly Russian-speaking migrants in Germany, Austria, Baltic states).</li>
+<li><strong>CSAM distribution and migrant smuggling</strong> — fake accounts used to operate communication channels for these predicate offences.</li>
 </ul>
-<p>One of the main suspects was previously under investigation in Estonia for arson and extortion — a public-record cross-domain criminal-actor link.</p>
+<p>No aggregate victim count or aggregate financial-loss figure is provided in the cited Europol release. Given the 49M-account creation throughput and the scheme catalogue, the downstream victim pool is <em>highly likely</em> (≥80%) in the hundreds of thousands across the EU and the 80+ source-number jurisdictions.</p>
+<h3 id="financial-flow">Financial flow</h3>
+<p>The cited release does not disclose the per-rental price of SIM-box numbers, but the <strong>action-day asset freezes</strong> quantify the operators' realised criminal proceeds: <strong>EUR 431,000</strong> frozen in suspects' bank accounts, <strong>USD 333,000</strong> frozen in cryptocurrency accounts, plus <strong>4 luxury vehicles</strong> seized — <em>likely</em> (55-80%) cash-equivalent in the high-six-figure to low-seven-figure EUR range. Customer payments to the CaaS operators <em>highly likely</em> flowed via cryptocurrency (the seized USD 333K crypto position is consistent with this), while downstream-victim funds (from the predicate schemes above) flowed to separate customer-controlled accounts not part of the seizures. The CaaS operator-revenue share is therefore distinct from the downstream-victim-loss pool — the operators monetise per-number-rental fees regardless of customer outcome.</p>
+<h3 id="criminal-organisation-structure">Criminal organisation structure</h3>
+<p>The Europol release names <strong>5 action-day arrests</strong> with the title figure of 7 (see Contradictions). One of the main suspects was previously under investigation in <strong>Estonia for arson and extortion</strong> — a public-record cross-domain criminal-actor link suggesting at least one OCG principal had prior offline-criminal exposure before the SIM-box CaaS pivot. The 5-arrest cohort plus 26 searches across Latvia, Austria, Estonia (and supporting Finland) indicates a <strong>distributed-cell structure</strong> — <em>highly likely</em> (≥80%) with technical operators concentrated in Latvia (server hosting + SIM-box warehouse) and customer-recruitment / cashout layers distributed across the JIT partner jurisdictions. The cited Europol release does not enumerate role-specific responsibilities, headcount-per-cell, or whether the network had hierarchical leadership vs flat-partner structure. <strong>No indictments enumerated</strong> as of the action-day release.</p>
 <h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
 <table>
 <thead>
@@ -242,6 +250,11 @@
 <li>The cited release does not enumerate the specific identities of the Russian-speaking victim cohort.</li>
 <li>The relationship between this CaaS network and broader scam-compound infrastructure documented elsewhere in the corpus (e.g., Cambodia/Philippines compounds) is not described.</li>
 </ul>
+<p><strong>L26 Background gap notes</strong> (crime substance missing from cited tier-1 source):
+- <strong>Aggregate downstream-victim count and aggregate financial-loss figure</strong> — Europol release quantifies LE asset freezes (EUR 431K + USD 333K + 4 vehicles) but does not aggregate victim losses across the predicate-scheme catalogue.
+- <strong>Per-rental price-list of the SIM-box CaaS service</strong> — gogetsms.com / apisim.com per-number-rental fee schedule and operator revenue history not disclosed.
+- <strong>OCG hierarchical structure</strong> — role-specific responsibilities, headcount-per-cell, principal-vs-affiliate relationships across the 5-arrest cohort are not enumerated.
+- <strong>Per-customer-segment breakdown of the 49M-account throughput</strong> — what share went to daughter-son scams vs investment fraud vs fake-police vs CSAM is not provided.</p>
 <h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <table class="reference-table"><colgroup><col class="col-ref-num"><col class="col-ref-source"><col class="col-ref-publisher"><col class="col-ref-date"><col class="col-ref-url"></colgroup>
 <thead>

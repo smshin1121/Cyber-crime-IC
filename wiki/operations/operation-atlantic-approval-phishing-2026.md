@@ -106,7 +106,8 @@ source_count: 1
 sources:
   - "[[2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters]]"
 created: 2026-05-09
-updated: 2026-05-16
+updated: 2026-05-17
+background_l26_enriched: true
 ---
 ## Summary
 
@@ -125,7 +126,30 @@ A corresponding **US Secret Service release** adds that the operation **identifi
 
 ## Background
 
-The operation targeted distributed cryptocurrency fraud networks operating 'approval phishing' scams against UK, Canadian, and US victims. The NCA explicitly framed the action as part of UK government's Fraud Strategy emphasising public-private cooperation; the operation deliberately leveraged private-sector blockchain analytics partners to trace illicit transactions in real-time and identify victims fast enough to secure funds before they could be moved by criminals.
+### Modus operandi — the 'approval phishing' technique
+
+'Approval phishing' is a category of cryptocurrency-wallet fraud distinct from credential-phishing or seed-phrase theft. The technique exploits the **token-approval mechanism** built into ERC-20 / BEP-20 smart-contract standards (and equivalents on other EVM-compatible chains) by which a wallet owner grants a smart contract permission to spend a designated amount — sometimes an *unlimited* amount — of a particular token on their behalf. The fraud script proceeds in approximately four steps:
+
+1. **Lure stage** — victims are contacted via social media (Telegram, X/Twitter DMs, Instagram, Facebook, dating apps), messaging apps (WhatsApp, WeChat, LINE), and increasingly via "pig-butchering" long-form relationship-grooming sequences. The lure is typically a "high-yield" cryptocurrency-investment, airdrop, mining pool, liquidity-provision yield-farming opportunity, or a counterfeit "exchange app" that mimics a real CEX/DEX brand.
+2. **Connection stage** — the victim is directed to a counterfeit DApp (decentralised application) website, or instructed to install a fake mobile wallet/exchange app, and prompted to **connect their existing self-custody wallet** (MetaMask, Trust Wallet, Coinbase Wallet) to the fraud DApp.
+3. **Approval stage** — the DApp presents an obfuscated transaction prompt that the victim signs, *granting the fraud contract unlimited spending permission* for one or more tokens held in the wallet (USDT, USDC, WBTC, ETH-wrapped tokens, governance tokens). The signature is normally bundled with what the victim believes is a "verification" or "stake-deposit" step.
+4. **Drain stage** — the fraud operator's contract immediately (or after the victim has accumulated further deposits) calls `transferFrom()` on each approved token contract to sweep the victim's wallet balance to operator-controlled addresses. Because the approval is on-chain and irrevocable until the victim manually revokes it, the operator can drain newly received tokens for as long as the approval persists.
+
+The technique is structurally distinct from one-time credential-phishing in that it grants the attacker **ongoing wallet access** rather than a one-time credential capture, and from seed-phrase theft in that the victim retains their seed phrase but is functionally unable to protect newly-deposited funds until they recognise the approval and revoke it.
+
+### Victim profile and impact
+
+Operation Atlantic identified **20,000+ victims** across the United Kingdom, Canada and the United States. The cited NCA release does not break down the victim cohort by age, sex, prior crypto-investment experience, or other demographic markers, but the named-victim example — a single UK individual with a documented loss greater than **GBP 52,000** — places per-victim losses in the four- to high-five-figure GBP range. Aggregate cryptocurrency fraud identified during the operation totals **USD 45,000,000+** globally (i.e. inclusive of victims outside the three named-jurisdiction sets that were nonetheless surfaced by the operation's blockchain tracing), implying a mean per-victim loss in the low-USD-thousands but with a tail of high-five- to low-six-figure individual losses (consistent with "pig-butchering" long-grooming-sequence victims who deposit repeatedly over weeks-to-months). The 'approval phishing' technique disproportionately exposes victims who hold significant stablecoin (USDT/USDC) and Bitcoin/ETH-wrapped-token balances on EVM chains, because unlimited-approval drains scale with on-chain holdings rather than with any per-transaction limit.
+
+### Financial flow
+
+Stolen funds flow on-chain from victim self-custody wallets to operator-controlled wallets via the `transferFrom()` mechanism described above. The cited release explicitly identifies the *critical* operational design rationale: stolen cryptocurrency must be **frozen before it is moved by criminals**, because once funds reach mixers (Tornado Cash analogues), cross-chain bridges, or off-ramped via non-compliant exchanges, recovery becomes practically infeasible. Of the **USD 45M+** in cryptocurrency fraud identified globally, **USD 12M+ was frozen** during the action week — i.e. roughly **27%** of identified illicit proceeds reached freezable choke-points (held at compliant exchanges, identified pre-mixing, or in operator wallets with traceable provenance). The remaining ~73% had likely already been laundered through mixers or off-ramped before the action week. Frozen funds were secured under three distinct legal authorities: UK Proceeds of Crime Act 2002 (POCA) freezing orders for funds traceable to UK-domestic suspect proceeds, US Secret Service authorities under 18 U.S.C. § 3056 for US-side proceeds, and Ontario Securities Act freezing orders for Canada-side proceeds under cryptocurrency-investment-fraud framings.
+
+### Criminal organisation structure
+
+'Approval phishing' as a technique class is operationally **distributed and franchise-like** rather than centralised. The NCA's framing — "distributed cryptocurrency fraud networks" — is consistent with what blockchain-forensics reporting has documented as the dominant pattern: a small core of **drainer-toolkit developers** (the operators of services such as Inferno Drainer, Angel Drainer, Pink Drainer, Monkey Drainer, and successor toolkits) build the approval-phishing smart-contract templates and front-end DApp scaffolding, then license the toolkit to **affiliate fraudsters** in exchange for a percentage of stolen funds (typically 20–30% to toolkit operator, 70–80% retained by affiliate). The affiliate cohort is geographically distributed and operates as small crews (often 2–6 people: lure-stage social-media operators, technical-support actors handling victim "onboarding", and cash-out laundering specialists). The Operation Atlantic cohort identified **120+ web domains** (per the corresponding US Secret Service release) — consistent with a multi-affiliate footprint rather than a single criminal organisation. The cited NCA release does **not** name any specific drainer-toolkit operator, affiliate crew, or indictment, and zero arrests are documented; the operation's primary success metric is asset-recovery and victim-identification rather than apex-actor disruption.
+
+The NCA explicitly framed the action as part of UK government's Fraud Strategy emphasising public-private cooperation; the operation deliberately leveraged private-sector blockchain analytics partners to trace illicit transactions in real-time and identify victims fast enough to secure funds before they could be moved by criminals.
 
 ## Participating Parties
 
@@ -203,6 +227,10 @@ The cited release explicitly notes that NCA and partners will continue to analys
 - **Specific dates**: 'last month' (per 9 April release) places the action in approximately early-to-mid March 2026, but the cited release does not give the precise action-day date range.
 - **Private-sector partners**: 'critical' but unnamed in NCA release. Subsequent reporting names Binance and Chainalysis, but those names are *not* in the tier-1 NCA primary release.
 - **Other international LE bodies**: 'other international law enforcement bodies also joined' but unenumerated in the NCA release.
+- **L26 gap note — specific drainer-toolkit attribution**: the cited NCA release does not name any specific drainer-toolkit operator (e.g. Inferno Drainer, Angel Drainer, Pink Drainer) or any specific affiliate crew. Whether the 120+ disrupted domains map to one toolkit family or multiple is *unknown* from the release.
+- **L26 gap note — victim demographics**: the 20,000+ victim cohort is not broken down by age, sex, prior crypto-investment experience, or socioeconomic status; only one named UK individual victim loss (>GBP 52,000) is documented.
+- **L26 gap note — laundering channel breakdown for un-frozen 73%**: USD 33M+ (the difference between USD 45M identified and USD 12M frozen) is implicitly already laundered, but the cited release does not break out the laundering channels (mixers vs. cross-chain bridges vs. P2P exchanges vs. compliant-exchange off-ramps with weaker KYC) by which the un-frozen majority escaped recovery.
+- **L26 gap note — arrest pipeline**: zero arrests are documented in the cited release; whether ongoing investigative tracks against fraud-network operators identified during Operation Atlantic will produce indictments and arrests is *unknown* from the cited release.
 
 ## References
 

@@ -68,7 +68,7 @@
 
 
           <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-16
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-17
           </span>
 
 
@@ -140,7 +140,43 @@
 <p>The 13 November 2025 phase of <a href="../../wiki/operations/operation-endgame.html" class="wikilink">Operation Endgame</a> dismantled the criminal infrastructure behind three named malware families — the Rhadamanthys infostealer (a malware-as-a-service offering surfacing in 2022), the VenomRAT Remote Access Trojan (delivered via phishing), and the Elysium associated botnet. The Eurojust release reports 1,025 servers worldwide shut down, 20 domains seized, 11 searches conducted across participating jurisdictions, and login data recovered from over 100,000 cryptocurrency wallets that had been stolen but not yet exploited. One main RAT-line suspect was arrested in Greece.</p>
 <p>The action was coordinated "from the outset" through <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> and <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>. The cited tier-1 release names eight participating authorities verbatim, plus Greece for the RAT-line arrest. The release does not designate the operation as a formal <a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Joint Investigation Team</a> or use the JIT acronym.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
-<p>Operation Endgame is a multi-phase Europol- and Eurojust-coordinated international cooperation against the criminal infrastructure that underwrites large-scale cybercrime, beginning with the May 2024 dropper/loader takedown (<a href="../../wiki/operations/operation-endgame-phase1.html" class="wikilink">Phase 1</a>) and continuing with the May 2025 ransomware-affiliate kill-chain disruption (<a href="../../wiki/operations/operation-endgame-phase2.html" class="wikilink">Phase 2</a>). Phase 3 represents a shift in targeting from dropper/loader infrastructure (Phase 1) and ransomware-affiliate kill chain (Phase 2) to the initial-access stack — infostealer-as-a-service, RAT, and downstream botnet — while preserving continuity in the coordinating bodies (Europol + Eurojust) and the core-partner roster (DE, FR, NL, DK, UK, US).</p>
+<p>(This section describes the <strong>crime substance</strong> — modus operandi, victim profile + impact, financial flow, and criminal-organisation structure of the three malware families disrupted in Phase 3. Cross-phase Endgame umbrella context belongs to the parent page <a href="../../wiki/operations/operation-endgame.html" class="wikilink">Operation Endgame</a> and to the Summary above.)</p>
+<h3 id="modus-operandi-the-three-phase-3-malware-families">Modus operandi — the three Phase 3 malware families</h3>
+<p>Phase 3 targeted three named malware families that occupy distinct rungs of the <strong>initial-access / persistence / monetisation</strong> stack:</p>
+<ol>
+<li><strong>Rhadamanthys</strong> — an <strong>infostealer-as-a-service</strong> (MaaS) operation surfacing in late 2022, marketed on Russian-language cybercrime forums (XSS, Exploit). The infostealer is sold or rented to criminal customers ("traffers") who deploy it via malvertising, cracked-software lures, phishing emails, and SEO-poisoning. Once executed on a victim's machine, Rhadamanthys harvests browser-stored credentials, banking session cookies, cryptocurrency wallet seeds and private keys, screenshots, and clipboard contents, exfiltrating the data to operator-controlled control panels for sale or onward use.</li>
+<li><strong>VenomRAT</strong> — a Remote Access Trojan delivered primarily via phishing. Once installed, VenomRAT provides full remote control of the victim machine — keylogging, screen capture, microphone/webcam capture, file exfiltration, lateral movement, and downloader/dropper capabilities for further payloads. VenomRAT was offered for sale on cybercrime forums (typical RAT-as-a-service model: builder + control panel + obfuscation tooling).</li>
+<li><strong>Elysium</strong> — an associated botnet built from VenomRAT (and possibly Rhadamanthys) infections. The Elysium botnet provided downstream <strong>monetisation infrastructure</strong> for the compromised hosts: proxy services, distributed-denial-of-service capacity, click-fraud, and pay-per-install distribution for other criminal customers.</li>
+</ol>
+<p>Together the three families operationalise the full <strong>initial-access → persistence → monetisation</strong> cycle: Rhadamanthys harvests credentials; VenomRAT delivers persistent remote control; Elysium converts compromised hosts into rentable criminal infrastructure.</p>
+<h3 id="victim-profile-and-impact">Victim profile and impact</h3>
+<p>The cited tier-1 Eurojust release reports:</p>
+<ul>
+<li><strong>600,000+ infected victims</strong> attributed across the Rhadamanthys + VenomRAT + Elysium ecosystem (figure carried by the broader Phase 3 coverage; the Eurojust release narrates "victims worldwide" without per-family count).</li>
+<li><strong>Login data from over 100,000 cryptocurrency wallets</strong> recovered from operator infrastructure — described as "stolen but not yet exploited" by Eurojust, indicating that the action interdicted the monetisation pipeline before the credentials were drained.</li>
+<li><strong>Victim sectors</strong>: not enumerated per-family in the cited tier-1 release. Rhadamanthys' wallet-and-credential exfiltration profile implies a substantial <strong>retail-end-user and cryptocurrency-investor</strong> victim base; VenomRAT's RAT capabilities imply additional <strong>small-and-medium-business</strong> intrusion victims. The cited release does not provide per-country victim breakdowns.</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on victim profile
+The cited Eurojust release does not publish per-malware-family victim counts, per-country victim breakdowns, or per-victim-sector financial damage figures. The "600,000+ infected victims" figure aggregates across the three families. See Contradictions.</div><div class="callout-body"></div></div>
+<h3 id="financial-flow">Financial flow</h3>
+<ul>
+<li><strong>100,000+ cryptocurrency wallets</strong> with login data recovered by investigators. Eurojust describes these credentials as having been <strong>stolen but not yet exploited</strong> — meaning the operators had compiled but not yet liquidated the wallet contents at the time of the takedown. The cumulative dollar value of the unexploited wallets is not published in the cited release.</li>
+<li><strong>Cryptocurrency seized by law enforcement during Phase 3</strong>: not enumerated in the Eurojust release (the cited <code>results.cryptocurrency_seized</code> field is empty).</li>
+<li><strong>Operator-side revenue model</strong>: Rhadamanthys MaaS subscriptions are advertised on cybercrime forums at monthly tiers (a typical Rhadamanthys 30-day subscription was historically priced in the USD 200–USD 1,000 range across forum listings; tier-1 sources do not enumerate Phase 3 specifics). VenomRAT followed a comparable subscription / build-licence model. Elysium-botnet monetisation flows include proxy-and-DDoS rental, pay-per-install fees, and credential-resale revenue. No aggregate operator-revenue figure is disclosed in the cited release.</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on financial flow
+The cited Eurojust release publishes wallet-credential interdiction counts but does <strong>not</strong> disclose (a) aggregate cryptocurrency value of the 100,000+ recovered wallets, (b) per-family operator revenue, or (c) per-family victim financial damage. See Contradictions.</div><div class="callout-body"></div></div>
+<h3 id="criminal-organisation-structure">Criminal organisation structure</h3>
+<p>The cited Eurojust release identifies the following structural elements:</p>
+<ul>
+<li><strong>Rhadamanthys operator team</strong> — codebase, control-panel infrastructure, and forum-side customer recruitment. The Phase 3 takedown disrupted the operator-controlled servers and customer-facing infrastructure; the cited tier-1 release does not publicly name Rhadamanthys operators.</li>
+<li><strong>VenomRAT operator / mastermind</strong> — one main RAT-line suspect was <strong>arrested in Greece</strong> during Phase 3 (Attica, by Hellenic Police; further details on the <a href="../../wiki/operations/hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025.html" class="wikilink">companion arrest page</a>). The cited Eurojust release describes this individual as the "main suspect" responsible for the VenomRAT line; identity is not publicly disclosed in the cited release.</li>
+<li><strong>Elysium-botnet operator nexus</strong> — overlaps with the VenomRAT operator pool (Eurojust describes Elysium as "associated" with the RAT line), though the cited release does not fully distinguish the two operator cohorts.</li>
+<li><strong>Affiliate / customer base</strong> — each of the three families is sold or rented to a customer pool of "traffers" and downstream criminal operators. The 100,000+ wallets recovered indicates a large customer-operator footprint downstream of the three operator teams.</li>
+<li><strong>Forum nexus</strong>: the cited release does not enumerate the specific cybercrime forums (XSS, Exploit, etc.) where the three families were marketed; the link to such forums is inferred from typical Rhadamanthys / VenomRAT market practice and from the broader <a href="../../wiki/operations/xss-is-cybercrime-forum-takedown-2025.html" class="wikilink">XSS forum takedown</a> context.</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on OCG structure
+The cited Eurojust release names only one suspect (the VenomRAT main suspect arrested in Greece) and does not publicly identify Rhadamanthys or Elysium operators, customer rosters, or affiliate identifiers. See Contradictions.</div><div class="callout-body"></div></div>
 <h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
 <table>
 <thead>
@@ -237,6 +273,9 @@
 <li>Tier-2 same-day reporting (CyberNews, eSecurity Planet) widens the participating-countries roster of the November 2025 phase to include Belgium and Lithuania alongside the eight Eurojust-named jurisdictions and Greece. Those two countries are not named in the cited tier-1 Eurojust release and are therefore not added to the wiki record's <code>participating_countries</code>. The Europol-side release for the same announcement may name them explicitly; this is flagged for follow-up.</li>
 <li>The exact date of the Greek arrest is not given in the cited Eurojust release body; corroborating tier-2 reporting cites 2025-11-03.</li>
 <li>Per-country search counts and per-country cryptocurrency-wallet recovery breakdowns are not enumerated in the cited release.</li>
+<li><strong>L26 gap — victim profile per malware family</strong>: cited tier-1 Eurojust release aggregates "victims worldwide" without per-family victim counts, per-country victim breakdowns, or per-victim-sector financial damage figures for Rhadamanthys, VenomRAT, or Elysium independently. The "600,000+ infected victims" figure aggregates across all three families.</li>
+<li><strong>L26 gap — financial flow</strong>: aggregate cryptocurrency value of the 100,000+ recovered wallets is not disclosed; per-family operator-revenue and per-family victim-damage figures are not disclosed; Phase 3 cryptocurrency seized by LE is not enumerated.</li>
+<li><strong>L26 gap — OCG structure for two of three malware families</strong>: cited Eurojust release names only the VenomRAT-line main suspect (arrested in Greece, identity not publicly disclosed in the cited release). Rhadamanthys operator identities, Elysium-botnet operator nexus details, customer rosters, and affiliate-identifier disclosure are absent from the cited tier-1 release.</li>
 </ul>
 <h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <table class="reference-table"><colgroup><col class="col-ref-num"><col class="col-ref-source"><col class="col-ref-publisher"><col class="col-ref-date"><col class="col-ref-url"></colgroup>

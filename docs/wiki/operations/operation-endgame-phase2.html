@@ -67,7 +67,7 @@
 
 
           <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-16
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-17
           </span>
 
 
@@ -170,7 +170,43 @@
 <p><strong>Operation Endgame Phase 2</strong> was the second major phase of the international campaign against ransomware-enabling infrastructure, conducted between 19 and 22 May 2025. The operation achieved an unprecedented scale of infrastructure disruption: <strong>300 servers taken down</strong>, <strong>650 domains neutralized</strong>, and <strong>EUR 3.5 million in cryptocurrency seized</strong> (bringing total Operation Endgame seizures to over EUR 21.2 million).</p>
 <p>While no physical arrests were made during this phase, <strong>20 international arrest warrants</strong> were issued and <strong>18 suspects</strong> were added to the <strong>EU Most Wanted list</strong>, creating sustained pressure on identified actors. The operation targeted initial-access malware families — Bumblebee, Lactrodectus, Qakbot, Hijackloader, DanaBot, Trickbot, and Warmcookie — that form the beginning of the ransomware attack chain.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
-<p>Building on <a href="../../wiki/operations/operation-endgame-phase1.html" class="wikilink">Phase 1</a> (May 2024), which targeted 6 dropper malware families and resulted in 4 arrests and 100+ servers taken down, Phase 2 expanded the scope to 7 malware families and achieved significantly larger infrastructure takedowns.</p>
+<p>(This section describes the <strong>crime substance</strong> — modus operandi, victim profile + impact, financial flow, and criminal organisation structure of the seven malware families disrupted in Phase 2. Operation context belongs in the Summary; cross-phase comparison appears under Operational Timeline / Results.)</p>
+<h3 id="modus-operandi-initial-access-malware-as-the-ransomware-kill-chain">Modus operandi — initial-access malware as the ransomware kill chain</h3>
+<p>Phase 2 targeted seven malware families that occupy the <strong>initial-access stage</strong> of the ransomware kill chain: <strong>Bumblebee, Lactrodectus, Qakbot, Hijackloader, DanaBot, Trickbot, and Warmcookie</strong>. These are not themselves ransomware — they are the entry-and-foothold tools that ransomware affiliates rent or deploy to compromise corporate networks. The typical delivery sequence (verbatim where the cited tier-1 release narrates it; otherwise reflecting the established pattern of these malware families):</p>
+<ol>
+<li><strong>Phishing email or malicious advertisement</strong> carries a payload (e.g., Bumblebee, Warmcookie, Hijackloader) that establishes a beachhead on the victim machine.</li>
+<li><strong>Loader/dropper stage</strong> (Bumblebee, Hijackloader, Lactrodectus) pulls down additional modules — credential stealers, lateral-movement tooling, post-exploitation frameworks.</li>
+<li><strong>Information-stealer / banking trojan stage</strong> (DanaBot, Qakbot, Trickbot) harvests credentials, banking sessions, and corporate single-sign-on tokens; DanaBot specifically provides both criminal credential theft and on-demand espionage capability against government and military targets.</li>
+<li><strong>Affiliate hand-off</strong>: stolen access — RDP credentials, VPN tokens, Active Directory footholds — is sold to or used by ransomware affiliates (Conti, BlackBasta, REvil, LockBit) to deploy the encrypting payload.</li>
+</ol>
+<p>DanaBot is singled out in the Phase 2 release: the US DOJ DanaBot indictment alleges DanaBot served <strong>dual purposes</strong> — commodity cybercrime (credential theft, banking fraud) plus state-aligned espionage (intrusions against government and military networks for handler-directed targeting).</p>
+<h3 id="victim-profile-and-impact">Victim profile and impact</h3>
+<p>The cited tier-1 sources (Europol, FBI, BMI Germany, plus The Hacker News for the DanaBot-specific arc) enumerate the following victim-side figures:</p>
+<ul>
+<li><strong>DanaBot alone</strong>: 300,000+ computers infected worldwide; USD 50 million+ estimated cumulative financial damages.</li>
+<li><strong>Combined Phase 2 malware families</strong>: Bumblebee, Trickbot, and Qakbot are documented in tier-1 reporting as the principal initial-access tools for the <strong>Conti, BlackBasta, and REvil</strong> ransomware ecosystems, which collectively victimised hospitals, schools, manufacturing companies, critical-infrastructure operators, and multinational corporations across at least 15 countries (figure from the umbrella <a href="../../wiki/operations/operation-endgame.html" class="wikilink">Operation Endgame</a> reporting; per-family Phase 2 attribution is partly inferred from the Phase 1 + DanaBot disclosures).</li>
+<li><strong>No per-country victim breakdown</strong> is provided in the cited Phase 2 sources; the figure of "9 servers seized in 10 countries" (Phase 1) versus "300 servers in Phase 2" indicates a substantially larger but uncharacterised victim footprint.</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on victim profile
+The cited tier-1 Phase 2 sources enumerate infrastructure-seizure counts but do <strong>not</strong> publish per-malware-family victim counts, victim-country breakdowns, or per-family financial damage figures (except for the DanaBot-specific 300,000 / USD 50M arc). See the Contradictions section.</div><div class="callout-body"></div></div>
+<h3 id="financial-flow">Financial flow</h3>
+<ul>
+<li><strong>DanaBot</strong>: USD 50 million+ cumulative damages attributed by US DOJ. The 16-count DanaBot indictment alleges that operators received cryptocurrency payments through wallets linked to the alleged operators Aleksandr Stepanov and Artem Kalinkin (Novosibirsk, Russia); precise per-defendant proceeds breakdown not disclosed in the cited sources.</li>
+<li><strong>Phase 2 cryptocurrency seizures</strong>: EUR 3.5 million from operator-controlled wallets identified during the investigation.</li>
+<li><strong>Cumulative across all Operation Endgame phases</strong>: EUR 21.2 million+ in seized cryptocurrency. (A Phase 1 suspect-asset figure of EUR 69 million is also reported — see Contradictions for the relationship between asset-freeze and seizure totals.)</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on financial flow
+Per-family ransom-revenue figures (for Bumblebee, Lactrodectus, Qakbot, Hijackloader, Trickbot, Warmcookie) are not disclosed in the cited Phase 2 tier-1 sources. The aggregate EUR 21.2M+ figure does not break down by malware family or by Phase. See Contradictions.</div><div class="callout-body"></div></div>
+<h3 id="criminal-organisation-structure">Criminal organisation structure</h3>
+<p>The cited tier-1 sources describe the Phase 2 target ecosystem as a <strong>services market</strong> rather than a single criminal organisation:</p>
+<ul>
+<li><strong>Operator cells per malware family</strong>: each of the seven malware families is run by a distinct operator team that maintains the codebase, the control-panel infrastructure, and the affiliate-recruitment channel. DanaBot's operator team is the only one publicly named in the Phase 2 release — <strong>16 Russian nationals</strong> indicted by US DOJ, including Aleksandr Stepanov (39) and Artem Kalinkin (34), both of Novosibirsk, Russia.</li>
+<li><strong>Affiliate model</strong>: each operator team rents or licenses access to ransomware affiliates and other criminal customers. Affiliates pay either flat fees, per-install fees, or revenue-share splits; the Phase 1 Smokeloader customer database (seized May 2024) provided the template for the subsequent April 2025 demand-side follow-up.</li>
+<li><strong>Geographic distribution</strong>: operator infrastructure spans cloud, bullet-proof-hosting, and compromised legitimate hosting across the 7+ Phase 2 jurisdictions plus additional non-cooperating locations (notably Russia, where many operators reside).</li>
+<li><strong>Russian-nexus concentration</strong>: the named DanaBot operators are all Russian nationals; the broader Phase 2 indictment / EU Most Wanted list adds 18 suspects whose national affiliations are partially disclosed and weighted toward Russia and the former Soviet space.</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on OCG structure
+The cited tier-1 Phase 2 sources name only the 16 DanaBot indicted operators. For the other six malware families (Bumblebee, Lactrodectus, Qakbot, Hijackloader, Trickbot, Warmcookie), operator identities are not enumerated in the cited Phase 2 sources, and only the EU Most Wanted listing (18 suspects total) hints at the broader operator pool. See Contradictions.</div><div class="callout-body"></div></div>
 <h3 id="cumulative-operation-endgame-results-phase-1-phase-2">Cumulative Operation Endgame Results (Phase 1 + Phase 2)</h3>
 <table>
 <thead>
@@ -346,6 +382,9 @@ The following DanaBot-specific details were identified from The Hacker News repo
 <li>How quickly did the targeted malware families reconstitute operations after the takedown?</li>
 <li>What is the relationship between the EUR 21.2M+ total and the Phase 1 EUR 69M suspect holdings figure?</li>
 <li>The 16 DanaBot indictments and 300K infection figure come from The Hacker News (non-official source) — official DOJ source needed for confirmation.</li>
+<li><strong>L26 gap — victim profile per malware family</strong>: cited tier-1 Phase 2 sources publish only DanaBot-specific victim counts (300,000 infections, USD 50M damages). Per-family victim counts and per-country victim breakdowns for Bumblebee, Lactrodectus, Qakbot, Hijackloader, Trickbot, and Warmcookie are not disclosed.</li>
+<li><strong>L26 gap — financial flow per malware family</strong>: only the EUR 3.5M Phase 2 cryptocurrency seizure and EUR 21.2M+ Operation-Endgame-cumulative figure are disclosed. Per-family ransom-revenue or operator-revenue figures (other than DanaBot's USD 50M+ damages attribution) are not enumerated.</li>
+<li><strong>L26 gap — OCG structure for six of seven malware families</strong>: only the 16 DanaBot operators are publicly named. Operator identities, recruitment patterns, and revenue-share splits for Bumblebee, Lactrodectus, Qakbot, Hijackloader, Trickbot, and Warmcookie operator cells are not enumerated in the cited Phase 2 sources beyond the aggregate "18 EU Most Wanted listings" figure.</li>
 </ul>
 <!-- SOURCE_ENRICHMENT_START -->
 

@@ -97,6 +97,7 @@ sources:
   - "[[2026-02-16_bmi-gv-at_schockanrufe-operation-casus-international-fraud-organisations]]"
 created: 2026-05-17
 updated: 2026-05-17
+background_l26_enriched: true
 ---
 
 > [!info] Provisional page
@@ -112,9 +113,27 @@ Across the broader 2022–2026 Austrian counter-Schockanruf effort, Bundeskrimin
 
 ## Background
 
-Schockanrufe (shock calls), also termed *Enkeltrick* or *Polizistentrick* in German-speaking literature, are a voice-phishing typology in which callers impersonate police officers, court officials, judges, doctors or bank employees and induce (predominantly elderly) victims to surrender cash, valuables, or banking access under a fabricated emergency pretext — typically the supposed arrest of a relative requiring immediate "bail" payment. The callers operate from VoIP-routed caller cells (*Keiler-Zellen*) in foreign jurisdictions, with money-mule "pickup" logistics coordinated separately.
+### Modus operandi — the Schockanruf / Polizistentrick script
 
-Austrian Bundeskriminalamt reporting cited in the 2026-02-16 release shows: total damages from Schockanrufe and *Enkeltrick* in Austria declined from approximately EUR 20 million in 2023 to approximately EUR 10 million in 2024, with continued ~50% reductions reported into 2025-2026 — attributed by Bundeskriminalamt Director Holzer to the consolidated LKA NÖ unit model and sustained international cooperation.
+Schockanrufe (shock calls), also termed *Enkeltrick* ("grandchild trick") or *Polizistentrick* ("fake-police-officer trick") in German-speaking literature, are a voice-phishing typology in which callers impersonate police officers, court officials, public prosecutors, judges, doctors or bank employees and induce (predominantly elderly) victims to surrender cash, valuables, or banking access under a fabricated emergency pretext — typically the supposed arrest of a close relative requiring immediate "bail" or "court bond" payment to avert imminent detention. A *Keiler* (the on-script caller) places the initial call, often spoofing the local emergency number (133 in Austria, 112 EU-wide) via SIP/VoIP caller-ID manipulation; a follow-on *Übergeber* call (typically presenting as a court official or police investigator) keeps the victim on the line, isolates them from family members, dictates the cash-withdrawal pretext to the bank teller if needed, and directs the victim to hand over the cash, jewellery or gold bars at the front door to an *Abholer* (pickup courier). The callers operate from VoIP-routed caller cells (*Keiler-Zellen*) located in foreign jurisdictions, geographically separated from both the victim base and the cash-pickup logistics.
+
+### Victim profile and impact
+
+Victims are overwhelmingly elderly (Austrian Bundeskriminalamt reporting on the Schockanruf typology consistently identifies victims aged 70+ as the modal target). Within Operation Casus specifically the BMI 2026-02-16 release reports **EUR 4,800,000** in total attributed fraud damage across the Austrian victim population, with one named cell-leader case alone causing **EUR 483,000** in Austrian losses and one Czech "logistician" case attributed to **EUR 500,000+** in damages — i.e. losses per identified cell/operator concentrate in the high-five- to mid-six-figure range. Per-victim losses are not enumerated, but 2025 Austrian crime statistics cited in the release record 90 completed offences and 329 reported attempted offences. The wider Bundeskriminalamt counter-Schockanruf effort 2022–2026 records **EUR 53 million cumulative damage** across 189 cumulative arrests, indicating the per-case damage average in the high-five-figure EUR range.
+
+### Financial flow
+
+Victim payments are taken in **cash, gold bars, jewellery and high-value valuables** at the victim's residence by the *Abholer* pickup courier (rather than via wire/SEPA transfer, which would expose AML choke-points). The pickup is then handed up the chain to a *Logistiker* — exemplified in this case by the 44-year-old Czech national from Ostrava sentenced in Vienna Regional Court to 6 years for arranging pickups and laundering stolen goods (>EUR 500,000 attributed) — who is responsible for recruiting and dispatching pickups and for converting goods/cash through informal value-transfer routes back to the cell leadership. The BMI 2026-02-16 release does not enumerate the specific laundering channels (informal money-remitter, cash courier, crypto, gold-trader) but the *Logistiker* role is named explicitly. The cell leadership shares are passed onwards to the *Keiler-Zelle* operators in Vienna and Brno.
+
+### Criminal organisation structure
+
+Operation Casus exposed a multi-tier transnational organised criminal group (OCG) with at least three role layers:
+
+1. **Caller cells (*Keiler-Zellen*)** — physical VoIP call centres in Vienna (Austria) and Brno/Brünn (Czech Republic). The Brno cell was led by a **27-year-old Czech citizen** responsible for telephone fraud against victims in Austria, Poland and Slovakia. The Vienna cell was dismantled in 2025 (specific operational date not enumerated).
+2. **Logistics / mule layer** — pickup couriers (*Abholer*) and arrangers (*Logistiker*) dispatched in-country to victim residences, with recruitment drawn from across at least six countries. Of 23 identified suspects, the nationality distribution is **Poland, Czech Republic, Germany, Slovakia, Serbia and Spain** — indicating the OCG recruits across the Schengen-mobility band and South-Slavic / Iberian peripheries rather than from a single ethnic-national pool.
+3. **Convicting / sentencing forums** — distinct from the operating cells: the Brno cell leader was ultimately sentenced in **Poland** (6 years), and the Czech *Logistiker* was sentenced in **Austria** (6 years, Vienna Regional Court). The "convict-in-third-state" pattern (cf. [[latvia-phone-fraud-money-mule-network-takedown-2026]]) is again present.
+
+Austrian Bundeskriminalamt reporting cited in the 2026-02-16 release shows: total damages from Schockanrufe and *Enkeltrick* in Austria declined from approximately EUR 20 million in 2023 to approximately EUR 10 million in 2024, with continued ~50% reductions reported into 2025–2026 — attributed by Bundeskriminalamt Director Holzer to the consolidated LKA NÖ unit model and sustained international cooperation.
 
 ## Participating Parties
 
@@ -207,3 +226,6 @@ South Korea is not named in the BMI Austria 2026-02-16 release as a victim, susp
 - The release does not name a Polish counterpart law-enforcement or prosecutorial agency despite 6 of 23 identified suspects being Polish nationals and the Brno cell leader being sentenced in Poland. Whether this reflects a parallel Polish investigation or a non-coordinated convicting forum is unresolved.
 - The Austrian Criminal Code (StGB) sections invoked for the Schockanruf-Betrug charging are not enumerated in the primary release.
 - The total number of victims is not enumerated; only the aggregate fraud damage (EUR 4.8 million) is reported.
+- **L26 gap note — financial-flow channels**: the BMI 2026-02-16 release names the *Logistiker* role explicitly and confirms cash/goods pickup at victim residences but does not enumerate the laundering routes (informal money-remitter, gold trade, crypto on-ramp) by which the Brno/Vienna *Keiler-Zellen* received their share of victim proceeds.
+- **L26 gap note — per-victim impact statistics**: the release reports aggregate EUR 4.8M damage but does not give per-victim loss median/distribution, victim count, or victim age-bracket statistics (only the modal-elderly description).
+- **L26 gap note — full OCG hierarchy above the cell-leader layer**: the BMI 2026-02-16 release names cell leaders (27-year-old Czech, Brno) and the *Logistiker* layer (44-year-old Czech, Ostrava) but does not identify a higher *Bosse* / financier layer above the operating cells, nor the recruitment / hiring channel by which the multi-national operator pool (Poland, Czechia, Germany, Slovakia, Serbia, Spain) is staffed. Whether the OCG has a single apex or is structured as a federation of independent cells is unresolved.

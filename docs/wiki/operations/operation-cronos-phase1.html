@@ -67,7 +67,7 @@
 
 
           <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-09
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-17
           </span>
 
 
@@ -183,8 +183,16 @@
 <p>The operation resulted in 34 servers seized across 8 countries, 2 arrests, 5 indictments, the freezing of over 200 cryptocurrency accounts, and the identification of 14,000+ rogue accounts. Free decryption tools were made available to victims worldwide through the "No More Ransom" portal.</p>
 <p>This was <em>almost certainly</em> one of the most significant ransomware disruption operations in history, both in terms of the target's scale (LockBit had been the dominant ransomware variant globally) and the breadth of international cooperation involved.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
-<p>LockBit emerged in late 2019 and by 2022 had become the most deployed ransomware variant worldwide. Operating as a Ransomware-as-a-Service (RaaS) platform, LockBit provided affiliates with malware tools in exchange for a share of ransom payments. The group's victims spanned critical infrastructure, healthcare, financial services, and government entities across dozens of countries.</p>
-<p>The investigation that led to Operation Cronos involved sustained multi-year preparation, with <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> organizing 27 operational meetings and 4 technical sprints to coordinate the action.</p>
+<h3 id="modus-operandi">Modus Operandi</h3>
+<p>LockBit emerged in <strong>late 2019</strong> (initially as "ABCD" ransomware) and by 2022 had become the <strong>most deployed ransomware variant worldwide</strong>. It operated as a <strong>Ransomware-as-a-Service (RaaS)</strong> platform: the core LockBit development team maintained the encryptor binary, the affiliate control panel, and the public-facing data-leak site (<code>lockbitsupp</code> / <code>lockbitsupp.gov.uk</code>-style mirrors over Tor), while a tiered network of affiliates carried out the actual intrusions. Affiliates obtained initial access through purchased credentials, exploitation of public-facing vulnerabilities (e.g., Fortinet, Citrix, ESXi), and phishing; deployed reconnaissance and lateral-movement tooling (Cobalt Strike, Mimikatz); exfiltrated data via tools such as StealBit and rclone; and finally detonated the LockBit encryptor across the victim estate. The group employed a <strong>double-extortion</strong> model — encrypt-and-leak — and from LockBit 2.0 onwards the operators experimented with <strong>triple-extortion</strong> elements (DDoS pressure on victims who refused to pay).</p>
+<h3 id="victim-profile-and-impact">Victim Profile and Impact</h3>
+<p>According to subsequent US DOJ filings tied to the same investigation (see <a href="../../wiki/operations/operation-cronos-phase2.html" class="wikilink">operation-cronos-phase2</a>), LockBit attacked <strong>more than 2,500 victims in at least 120 countries</strong>, including approximately <strong>1,800 victims in the United States</strong> alone. Victim sectors included <strong>hospitals and healthcare providers, schools and universities, critical infrastructure operators, multinational corporations, small and medium businesses, and government and law-enforcement agencies</strong>. The UK NCA February 2024 disruption announcement characterised LockBit as having caused "billions of pounds" in losses; the FCDO's May 2024 sanctions statement put extortion proceeds at <strong>"over USD 1 billion"</strong> from thousands of victims globally.</p>
+<h3 id="financial-flow">Financial Flow</h3>
+<p>Ransom payments were made in <strong>Bitcoin</strong> to affiliate-controlled wallets. The standard split, later confirmed in US DOJ charging documents for the LockBit developer Dmitry Khoroshev, was a <strong>20 % developer share / 80 % affiliate share</strong>. By the time of the February 2024 disruption, NCA-led infrastructure access showed evidence of large-scale crypto laundering — over <strong>200 cryptocurrency accounts linked to the group were frozen</strong> on action day. Khoroshev personally was later (Phase 2) alleged to have received <strong>at least USD 100 million</strong> in developer-share cryptocurrency disbursements.</p>
+<h3 id="criminal-organisation-structure">Criminal Organisation Structure</h3>
+<p>LockBit operated on a <strong>core-developer plus affiliate</strong> model. A small core team (Khoroshev and associates) maintained the ransomware code base, the affiliate panel, the data-leak site, and the negotiation chat infrastructure. Affiliates — vetted before being granted panel access — included individuals later named in US/French/Polish/Ukrainian charging documents: Mikhail Vasiliev (Russian-Canadian, arrested in Canada 2022, transferred to US 2024), Ruslan Astamirov (Russian national, arrested in Arizona 2023), Mikhail Matveev / "Wazawaka" / "Boriselcin", Artur Sungatov, and Ivan Kondratyev / "Bassterlord". This is <em>highly likely</em> the modal RaaS organisational pattern in 2022-2024.</p>
+<h3 id="investigation-origins">Investigation Origins</h3>
+<p>Sustained multi-year preparation preceded the disruption: <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> organised <strong>27 operational meetings and 4 technical sprints</strong>, and an estimated <strong>1,000+ SIENA messages</strong> were exchanged between the participating agencies. The UK <a href="../../wiki/organizations/uk-nca.html" class="wikilink">National Crime Agency</a> led the operational pillar, having developed covert access to the affiliate panel and core servers; French judicial authorities provided the arrest-warrant framework that triggered the Polish and Ukrainian detentions on action day.</p>
 <h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
 <h3 id="lead-agency">Lead Agency</h3>
 <ul>
@@ -320,6 +328,8 @@ Specific legal bases (treaty provisions, domestic authorities) for the cross-bor
 <li>What specific legal bases (treaty provisions) were invoked for the cross-border arrests in Poland and Ukraine?</li>
 <li>What was the exact scope and timing of the investigation phase preceding the action day?</li>
 <li>How many victims were directly assisted by the released decryption tools?</li>
+<li>Phase 1 frontmatter records only 2 arrests on action day (Poland, Ukraine), but per-affiliate identifications (Vasiliev, Astamirov, Matveev, Sungatov, Kondratyev, Khoroshev) accrued progressively from 2022 through 2024-05 sanctions; the Phase 1 page deliberately scopes "arrests" to the 2024-02-20 action — see <a href="../../wiki/operations/operation-cronos-phase2.html" class="wikilink">operation-cronos-phase2</a> for the cumulative US-charging pipeline.</li>
+<li>The aggregate ransom proceeds figure of "over USD 1 billion" (FCDO 2024-05-07) is <em>highly likely</em> an enforcement-side estimate combining DOJ chain-analysis with NCA infrastructure access; the exact methodology is not published.</li>
 </ul>
 <!-- SOURCE_ENRICHMENT_START -->
 

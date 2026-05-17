@@ -67,7 +67,7 @@
 
 
           <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-29
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-05-17
           </span>
 
 
@@ -161,7 +161,14 @@
 <p>Operation Checkmate was a coordinated international operation to disrupt the <strong>BlackSuit (formerly Royal) ransomware group</strong>, announced by the US Department of Justice on 11 August 2025. The operation culminated in the takedown of <strong>4 servers and 9 domains</strong> on 24 July 2025. The seized domains were used by BlackSuit to leak stolen data and communicate with victims for ransom negotiations. <strong>USD 1,091,453</strong> in virtual currency was seized.</p>
 <p>The operation involved five US agencies — Homeland Security Investigations (HSI), US Secret Service, IRS Criminal Investigation (IRS-CI), the <a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI</a>, and DOJ — and international law enforcement from the United Kingdom, Germany, Ireland, France, Canada, Ukraine, and Lithuania.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
-<p>BlackSuit ransomware evolved from the Royal ransomware group. Since 2022, BlackSuit had compromised <strong>more than 450 victims</strong> in the United States. The group operated a double-extortion model: encrypting victim data and threatening to publish stolen data on their leak site unless ransom was paid.</p>
+<h3 id="modus-operandi">Modus Operandi</h3>
+<p>BlackSuit emerged in <strong>mid-2023</strong> as a rebrand of the <strong>Royal ransomware</strong> group, which had itself spun out from the <strong>Conti</strong> ecosystem after Conti's collapse in 2022. The group operated a <strong>double-extortion</strong> model: affiliates obtained initial access primarily through <strong>phishing emails with malicious attachments, exploitation of unpatched perimeter devices (VPN, RDP, internet-facing servers), and the abuse of valid credentials</strong>, then deployed Cobalt Strike and other post-exploitation tooling to move laterally and disable backups before detonating the BlackSuit encryptor. Stolen data was uploaded to actor-controlled hosting and the existence of the breach was advertised on a dedicated <strong>Tor-based data-leak site</strong> (one of the nine domains seized on 24 July 2025). Victim negotiations were conducted via a separate Tor-based <strong>negotiation portal</strong>, which was also part of the seized infrastructure.</p>
+<h3 id="victim-profile-and-impact">Victim Profile and Impact</h3>
+<p>Per the DOJ Operation Checkmate announcement, BlackSuit/Royal compromised <strong>more than 450 victims in the United States alone since 2022</strong>, with sectoral concentration on <strong>healthcare, education, manufacturing, government, and critical-infrastructure</strong> operators. Independent industry tracking (Bitdefender, BleepingComputer, TechRadar) put cumulative <strong>ransom demands at approximately USD 500 million</strong>. Royal was the named attacker in the <strong>City of Dallas (Texas) May 2023 attack</strong> that disrupted municipal services for weeks; BlackSuit was the named attacker in the <strong>CDK Global June 2024 incident</strong> that paralysed thousands of US/Canadian car dealerships. These two cases alone affected millions of downstream end users.</p>
+<h3 id="financial-flow">Financial Flow</h3>
+<p>Ransoms were demanded in <strong>Bitcoin and Monero</strong>. The DOJ filings backing Operation Checkmate recorded the seizure of <strong>USD 1,091,453 in virtual currency</strong> plus a separately documented victim ransom payment of <strong>49.3120227 BTC (approximately USD 1.445 million at transaction time)</strong> that had been routed to BlackSuit-controlled wallets and was clawed back via court-authorised seizure warrants. Total ransom collection across all victims is not publicly quantified, but ransom demands aggregated to roughly USD 500 million implies <em>highly likely</em> actual collections in the low-to-mid-tens of millions of USD given typical RaaS payment rates of 5-15 %.</p>
+<h3 id="criminal-organisation-structure">Criminal Organisation Structure</h3>
+<p>BlackSuit retained the <strong>core-team + affiliate</strong> architecture inherited from Conti and Royal. The core team maintained the encryptor variant (a successor to the Royal binary, itself a Conti derivative), the leak site, and the negotiation infrastructure; affiliates carried out intrusions in return for a percentage of ransoms. Public attribution from US LE and private threat-intelligence firms ties the core group to <strong>Russian-speaking operators</strong>, with personnel overlap with prior Conti and Royal cadres. No BlackSuit operator was publicly indicted as part of the July 2025 disruption — this remains an open follow-on enforcement gap noted explicitly in <em>Contradictions &amp; Open Questions</em> below.</p>
 <h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
 <ul>
 <li><strong>US agencies:</strong> DOJ, DHS Homeland Security Investigations (HSI), US Secret Service, IRS Criminal Investigation, <a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI</a></li>
@@ -207,9 +214,10 @@
 <p>No Korean involvement noted in this operation.</p>
 <h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ul>
-<li>Were any BlackSuit operators identified or indicted?</li>
-<li>What is the total ransom collected by BlackSuit/Royal across all victims?</li>
+<li>Were any BlackSuit operators identified or indicted? (No public indictment accompanied the July 2025 disruption; this is a documented gap in the criminal-organisation structure record above.)</li>
+<li>What is the <strong>total ransom collected</strong> by BlackSuit/Royal across all victims? (Tier-1 sources report demand totals of ~USD 500M but no aggregate payment figure; the gap is flagged in <em>Financial Flow</em> above.)</li>
 <li>Will the group reconstitute under a new name, as Royal did when becoming BlackSuit?</li>
+<li>The specific affiliate roster and the geographic distribution of BlackSuit operators is not disclosed in the DOJ Operation Checkmate announcement; private threat-intel attribution to Russian-speaking operators is not formally adopted by the US LE record.</li>
 </ul>
 <h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
 <div class="callout callout-warning"><div class="callout-title">⚠️ No public court documents found
