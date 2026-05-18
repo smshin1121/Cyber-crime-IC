@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 282 L27 backfill milestone 57 | countries sidecars 60/154 (+20, 39.0%)
+- Batches UK-UN landed (denmark through guyana).
+- Remaining: countries 94 + legal-frameworks 25 = 119.
+
 ## [2026-05-18] iter 281 L27 backfill milestone 56 | countries sidecars 40/154 (+20, 26.0%)
 - Batches UG-UJ landed (bulgaria through democratic-republic-of-the-congo).
 - Remaining: countries 114 + legal-frameworks 25 = 139.
