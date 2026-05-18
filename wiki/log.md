@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-18] iter 252 L27 backfill milestone 27 | cases sidecars 45/1225 (+45, 3.7%)
+- Cases backfill begun post-ops-completion.
+- Batches JA/JB/JC/JD/JE/JF/JG/JH/JI landed (9 batches × 5 = 45 cases sidecars).
+- Cases pages are smaller/wrapper-heavy (avg agent runtime: 70-130s vs 5-10min for substantive ops). Throughput ~3-4× faster.
+- Pre-push integrity: lint HIGH=0 CRITICAL=0 LOW=0; MEDIUM=1511 (declining — 1556 → 1511 = -45 cases sidecars).
+- Cases queue: 1180 remaining.
+
 ## [2026-05-18] iter 251 L27 backfill milestone 26 | **OPERATIONS COMPLETE** 1282/1282 (+48, 100%)
 - Korean sidecar batches IM/IN/IO/IP/IQ/IR/IS/IT/IU/IV landed.
 - Mix: 48 substantive multi-country joint-investigation pages (US-DOJ DPRK IT-worker disruption, Treasury sanctions, RedLine extradition, USSS-Canada Avalanche, VeriFTools, VPNLab, Warzone RAT, xDedic, XSS.is, Zambia-Golden-Top, Zeus-SpyEye JIT, etc.).
