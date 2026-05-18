@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-18] iter 250 L27 backfill milestone 25 | operations sidecars 1234/1283 (+45, 96.2%)
+- Korean sidecar batches ID/IE/IF/IG/IH/II/IJ/IK/IL landed in milestone 25 window.
+- Mix: 30 ops absorbed-wrapper (us-v/op-utah/op-woman/op-vibora/op-weleakinfo/op-zuni) + 15 substantive multi-country (operazione-Cagliostro/Elicius/pf-*/phobos-8base/poland-cbzc/polri-LCS/portugal-spain/project-compass/proxy-takedown/qakbot-/qqaazz-/ramnit-/rcmp-/rex-mundi/romania-moldova-jit/rydox/seoul-eastern-clark/sg-hk-my-android+gsm/sg-th-altdos/silk-road/simda/spain-argentina-ameripol/spain-hsi-europol-calpe/spanish-pay-tv/spf-cnp-cambodia).
+- Operations queue: 49 remaining (≈ 1 more milestone to ops completion).
+- Pre-push integrity: lint HIGH=0 CRITICAL=0 LOW=0; MEDIUM=1604 (declining); check_links broken=3 (legacy); ZZPROT real=0.
+- Substantive ops avg agent runtime: 5-10 min/batch (vs 50-60s for wrappers).
+
 ## [2026-05-18] iter 249 L27 backfill milestone 24 | operations sidecars 1189/1283 (+45, 92.7%)
 - Korean sidecar batches HU/HV/HW/HX/HY/HZ/IA/IB/IC landed.
 - 6-batch parallel cadence (3 agents × 5 slugs × 2-3 rounds) holding steady ~45 ops/milestone.
