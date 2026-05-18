@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 273 L27 backfill milestone 48 | orgs sidecars 20/152 (+20, 13.2%)
+- Phase 3 begins. Batches TA-TD landed (20 orgs alphabet a-c starting through china-mps-cyber).
+- Remaining: orgs 132 + countries 154 + legal-frameworks 25 = 311.
+
 ## [2026-05-18] iter 272 L27 backfill milestone 47 | cases sidecars 1225/1225 (+40, 100% — CASES COMPLETE)
 - Batches SD-SG landed. Cases queue: 0 remaining. **CASES BACKFILL COMPLETE.**
 - Next phase: organizations (152) + countries (154) + legal-frameworks (25) = 331 pages.
