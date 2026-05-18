@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 272 L27 backfill milestone 47 | cases sidecars 1225/1225 (+40, 100% — CASES COMPLETE)
+- Batches SD-SG landed. Cases queue: 0 remaining. **CASES BACKFILL COMPLETE.**
+- Next phase: organizations (152) + countries (154) + legal-frameworks (25) = 331 pages.
+
 ## [2026-05-18] iter 271 L27 backfill milestone 46 | cases sidecars 1185/1225 (+60, 96.7%)
 - Batches RR-SC landed. Cases queue: 40 remaining (final round).
 
