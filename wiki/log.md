@@ -1,5 +1,8 @@
 # Activity Log
 
+## [2026-05-18] iter 266 L27 backfill milestone 41 | cases sidecars 885/1225 (+60, 72.2%)
+- Batches PJ-PU landed. Cases queue: 340 remaining.
+
 ## [2026-05-18] iter 265 L27 backfill milestone 40 | cases sidecars 825/1225 (+60, 67.3%)
 - Batches OX-PI landed. Cases queue: 400 remaining (one-third left).
 
