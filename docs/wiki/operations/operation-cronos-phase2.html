@@ -81,49 +81,117 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>오퍼레이션 크로노스 — 페이즈 2 (LockBit 운영자 기소·제재)</strong> <a href="../../wiki/organizations/us-doj.html" class="wikilink">Us Doj</a>의 조정 하에 수행된 기소 작전으로, <strong>2024-05-07 ~ 2024-05-07</strong> 기간 동안 <strong>3개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Dmitry Yuryevich Khoroshev (a.k.a. LockBitSupp / LockBit / putinkrab) — developer and administrator of the LockBit ransomware-as-a-service from September 2019 through May 2024; the broader LockBit ransomware group infrastructure</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>랜섬웨어, 악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Dmitry Yuryevich Khoroshev (a.k.a. LockBitSupp / LockBit / putinkrab) — developer and administrator of the LockBit ransomware-as-a-service from September 2019 through May 2024; the broader LockBit ransomware group infrastructure</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p>2024년 5월 7일, 미국 법무부는 뉴저지 연방지방검찰청을 통해 <a href="../../wiki/crime-types/ransomware-ic.html" class="wikilink">Dmitry Yuryevich Khoroshev</a>(가명 LockBitSupp, LockBit, putinkrab; 31세, 러시아 보로네시 거주)에 대한 26개 죄목의 연방 기소를 공개하였다 — Khoroshev는 약 2019년 9월부터 2024년 5월까지 <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">LockBit(랜섬웨어 그룹)</a>의 개발자 및 운영자로 지목된 인물이다. 동시 진행된 국제 조치에는 미국 재무부(OFAC) 제재 지정, Khoroshev의 체포 또는 유죄 판결로 이어지는 정보에 대해 최대 미화 1,000만 달러의 미국 국무부 현상금 제안, 그리고 영국 OFSI(Office of Financial Sanctions Implementation)와 호주 DFAT(Department of Foreign Affairs and Trade)에 의한 병행 제재가 포함되었다.</p>
+<p>본 라운드는 다단계 <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Operation Cronos(크로노스 작전)</a>의 명명된 피의자 귀속 및 기소 계층으로서, 2024년 2월 NCA(영국 국가범죄청) 주도의 인프라 와해(<a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Phase 1</a>)와 2024년 10월 NCA 주도의 체포 및 추가 제재 라운드(<a href="../../wiki/operations/operation-cronos-phase3.html" class="wikilink">Phase 3</a>) 사이의 공백을 채우고 있다.</p>
+<h2 id="_2">배경</h2>
+<h3 id="_3">수법(모더스 오페란디)</h3>
+<p>LockBit은 <strong>랜섬웨어서비스형(RaaS)</strong> 모델 하에서 운영되었다. 공개된 DOJ DNJ 기소장과 이전 DOJ/NCA 자료에 따르면, LockBit 침입 체인은 정형적 "인간 운영 랜섬웨어(human-operated ransomware)" 패턴을 따랐다: (1) 어필리에이트가 직접 (피싱, RDP 무차별 대입, 취약한 인터넷 노출 서비스의 악용, 또는 <a href="../../wiki/operations/operation-magnus-redline-meta-stealer-takedown-2024.html" class="wikilink">infostealer로 수집된 자격증명</a>을 공급받는 초기접근 브로커로부터의 구매를 통해) 확보한 <strong>초기 접근(initial access)</strong>; (2) 즉시 활용 가능한 도구와 맞춤형 도구를 사용한 피해 네트워크 내 <strong>내부 정찰 및 측면 이동(internal reconnaissance and lateral movement)</strong>; (3) 도메인 관리자 권한으로의 <strong>권한 상승(privilege escalation)</strong>; (4) 엔드포인트 보호, 백업 시스템, 섀도우 카피의 비활성화를 포함한 <strong>방어 회피(defence-evasion)</strong>; (5) "name and shame" 데이터 유출 사이트(DLS) 갈취 계층을 뒷받침하기 위해, 암호화 이전에 공격자 통제 저장소로 피해자 데이터를 유출하는 <strong>이중 갈취 스테이징(double-extortion staging)</strong>; 그리고 (6) LockBit 락커 페이로드(LockBit 1.0 → LockBit 2.0 → LockBit 3.0/Black → LockBit Green 세대, 공개 위협 인텔리전스 보고에 따름)의 <strong>암호화 배포(encryption deployment)</strong>. 피해자는 Tor 호스팅 협상 포털을 가리키는 랜섬 노트를 받았으며, 요구가 충족되지 않으면 유출된 데이터가 LockBit DLS에 공개될 것이라는 병행 위협이 가해졌다. 개발자/운영자로 지목된 Khoroshev는 락커 코드베이스, 어필리에이트 관제 패널, DLS, 그리고 협상 인프라를 유지하였다.</p>
+<h3 id="_4">피해자 프로파일 및 영향</h3>
+<p>DOJ DNJ 기소장은 LockBit 피해자 집단을 <strong>최소 120개국에서 2,500명 이상의 피해자, 그중 미국에서 약 1,800명의 피해자</strong>로 특징지으며, 피해자 부문은 <strong>병원, 학교, 핵심 인프라, 다국적 기업, 중소기업, 그리고 정부 및 법집행 기관</strong>에 걸쳐 있다. 의료 및 교육 부문 노출은 환자 진료, 예정된 임상 절차, 학교 시스템 데이터, 그리고 지자체 서비스 연속성에 대한 운영적 영향으로 이어졌으며; 핵심 인프라 노출에는 산업제어 및 공공 유틸리티 운영자에 대한 다수의 사건이 포함되었다. 피해자로부터 갈취한 총 랜섬 수익은 <strong>최소 미화 5억 달러</strong> 이상으로 기재되어 있으며, <strong>수십억 달러의 광범위한 피해</strong>(다운타임, 복구, 규제 노출, 유출된 기업 데이터셋에 포함된 자연인 정보주체에 대한 데이터 유출 피해)가 LockBit 공격에 기인한다. 1,800명의 미국 피해자 하한선과 120개국 footprint는, 기소장 자체의 수치에 따르면, 2024년 5월 7일 기준 미국 검사들에 의해 공개적으로 문서화된 가장 큰 단일 RaaS 브랜드 피해자 집단으로 LockBit을 위치 짓는다.</p>
+<h3 id="_5">자금 흐름</h3>
+<p>LockBit 수익 모델은 <strong>20/80 분배</strong>에 기반하였다: 기소장에 따르면, <strong>Khoroshev는 일반적으로 각 랜섬 지불의 개발자 분배금 20%를 수령</strong>하였으며, 책임 <strong>어필리에이트가 나머지 80%를 수령</strong>하였다. 피해자 지불은 암호화폐(주로 비트코인, 일부 어필리에이트는 협상 단계에서 다른 토큰을 수용)로 요구되고 정산되었다. Khoroshev의 20% 몫만으로도, 기소장은 그가 개발자 분배금을 통해 <strong>최소 미화 1억 달러의 암호화폐 지급</strong>을 개인적으로 수령했다고 주장한다 — 이는 어필리에이트 측 총 수익 수치가 그보다 몇 배 더 크고 그룹 수준의 "미화 5억 달러 초과" 랜섬 수익 수치와 일관됨을 시사한다. 지급 이후, 수익은 표준 랜섬웨어 자금세탁 파이프라인(믹서, 다수 암호화폐 토큰 간 체인 호핑, KYC가 낮은 거래소의 중첩 계정, 그리고 고위험 장외(OTC) 브로커를 통한 법정화폐 전환)을 통해 흘러갔다. 동시 진행된 <strong>OFAC 제재 지정</strong>, <strong>영국 OFSI 제재</strong>, <strong>호주 DFAT 제재</strong>는 Khoroshev에게 귀속된 미국/영국/호주 금융 시스템 연계 자산을 동결하고 미국/영국/호주 시민이 2차 제재의 처벌 하에 그와 거래하는 것을 금지함으로써, 자금세탁 및 출금 단계를 구체적으로 표적으로 삼는다.</p>
+<h3 id="_6">범죄 조직 구조</h3>
+<p>LockBit은 정형적 <strong>RaaS 3계층 구조</strong>를 보여준다: (1) 소규모 코어 <strong>개발자/운영자</strong> 팀 — DOJ DNJ 기소장은 2019년 9월부터 2024년 5월까지 주(主) 개발자/운영자 역할을 Khoroshev에게 귀속시키며, 광범위한 Cronos 작전은 <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">operation-cronos-phase1</a> 및 <a href="../../wiki/operations/operation-cronos-phase3.html" class="wikilink">operation-cronos-phase3</a>에서 추적되는 추가 기소된 공동피의자를 식별한다; (2) 코어에 지불(또는 수익 분배)을 통해 락커, 패널, DLS, 협상 인프라에 접근하고 실무적으로 명명된 피해자에 대한 침입 캠페인을 종단간(end-to-end) 수행하는 모집된 운영자로 구성된 <strong>어필리에이트(affiliate)</strong> 계층; (3) 어필리에이트에게 사전 침해된 자격증명과 거점 접근을 공급하는 <strong>초기접근 브로커(initial-access-broker / IAB)</strong> 상위 계층. 공개 보도와 Phase 1/Phase 3 Cronos 자료는 다양한 국적의 기소된 어필리에이트를 식별하며 — 러시아, 벨라루스-캐나다, 그리고 이중 국적 피고인 포함 — 2024년 5월 7일 Phase 2 발표 시점 기준 최소 2명의 어필리에이트가 재판 대기 중 구금 상태에 있었다. 기소장에서 주장된 협력/모집 경계는 러시아 연방(Khoroshev의 거주지)과 어필리에이트가 거주하거나 활동한 다른 관할권을 포괄한다; 기소장은 어떠한 <em>국가 후원적</em> 역할도 주장하지 않으며 조직범죄집단 프레임으로 구성되어 있다.</p>
+<h2 id="_7">참여 당사자</h2>
+<table>
+<thead>
+<tr>
+<th>역할</th>
+<th>당사자</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>미국 주도 수사 및 기소 권한</td>
+<td><a href="../../wiki/organizations/fbi.html" class="wikilink">FBI(미국 연방수사국)</a>(뉴어크 야전사무소); 뉴저지 연방지방검찰청; <a href="../../wiki/organizations/us-doj.html" class="wikilink">US DOJ(미국 법무부)</a> 형사국(CCIPS, Computer Crime and Intellectual Property Section)</td>
+</tr>
+<tr>
+<td>미국 제재 권한</td>
+<td>미국 재무부(Office of Foreign Assets Control / OFAC)</td>
+</tr>
+<tr>
+<td>미국 현상금 권한</td>
+<td>미국 국무부</td>
+</tr>
+<tr>
+<td>영국 협력</td>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">National Crime Agency(NCA, 영국 국가범죄청)</a> Cyber Division; 영국 HM Treasury Office of Financial Sanctions Implementation(OFSI)</td>
+</tr>
+<tr>
+<td>호주 협력</td>
+<td><a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police(AFP, 호주 연방경찰)</a>; 호주 외교통상부(DFAT)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_8">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>날짜</th>
+<th>사건</th>
+<th>출처</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024-02-19 / 2024-02-20</td>
+<td>Phase 1 — NCA 주도 인프라 와해 발표</td>
+<td>(See <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">operation-cronos-phase1</a>)</td>
+</tr>
+<tr>
+<td>2024-05-07</td>
+<td>Phase 2 — DOJ가 26개 죄목의 기소 공개; 동시 OFAC 제재; 미국/영국/호주 병행 제재; 국무부 미화 1,000만 달러 현상금</td>
+<td>DOJ DNJ 2024-05-07</td>
+</tr>
+<tr>
+<td>2024-10-01</td>
+<td>Phase 3 — NCA 체포 및 추가 제재 라운드</td>
+<td>(See <a href="../../wiki/operations/operation-cronos-phase3.html" class="wikilink">operation-cronos-phase3</a>)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_9">결과 및 영향</h2>
 <ul>
-<li>26-count federal indictment unsealed in the District of New Jersey against Dmitry Yuryevich Khoroshev (a.k.a. LockBitSupp)</li>
-<li>Concurrent OFAC sanctions designation of Khoroshev for cyber-related ransomware activity</li>
-<li>USD 10 million State Department reward offered for information leading to Khoroshev's apprehension or conviction</li>
-<li>Concurrent UK OFSI and Australia DFAT/AFP sanctions actions against Khoroshev</li>
-<li>Five other LockBit affiliates previously charged; two in custody awaiting trial as of the 2024-05-07 announcement</li>
-<li>LockBit alleged to have attacked more than 2,500 victims in at least 120 countries, including 1,800 US victims; USD 500 million+ in ransom proceeds; billions of dollars in broader losses; Khoroshev personally receiving at least USD 100 million through 20% developer share</li>
+<li>Dmitry Yuryevich Khoroshev에 대해 뉴저지 연방지방법원에서 26개 죄목의 연방 기소가 공개됨(최대 합산 형량 185년).</li>
+<li>사이버 관련 랜섬웨어 활동에 대한 미국 재무부 OFAC의 Khoroshev 제재 지정.</li>
+<li>체포 또는 유죄 판결로 이어지는 정보에 대한 미국 국무부의 최대 미화 1,000만 달러 현상금 제안.</li>
+<li>영국 OFSI 및 호주 DFAT의 병행 제재 지정.</li>
+<li>다단계 작전에서 기소된 그 외 5명의 LockBit 어필리에이트; 2024년 5월 7일 발표 시점 기준 2명이 재판 대기 중 구금.</li>
+<li>LockBit 집단 규모: 120개국 이상에서 2,500명 이상의 피해자; 미국 피해자 1,800명; 미화 5억 달러 이상의 랜섬 수익; Khoroshev 개인이 20% 개발자 분배금을 통해 미화 1억 달러 이상 수령.</li>
 </ul>
-<h2 id="_5">참여 기관</h2>
-<p><strong>주도기관:</strong> Us Doj</p>
-<p><strong>참여기관:</strong> Us Doj, Fbi, Uk Nca, Australia Afp</p>
-<p><strong>참여국:</strong> United States, United Kingdom, Australia</p>
-<h2 id="_6">법적 근거</h2>
+<h2 id="_10">활용된 협력 메커니즘</h2>
+<p>인용된 보도자료는 미국 형사 기소 위에 미국-영국-호주 3개 관할권 동시 제재 협력이 중첩된 형태를 기술한다. 보도자료는 특정 형사사법공조조약(MLAT) 문서나 공동수사팀(JIT)을 열거하지 않는다. 협력 패턴은 오히려 병행 트랙 모델이다: 각 관할권은 국내 법적 권한에 따라 자체 제재 또는 기소 도구를 집행하며, FBI, NCA, AFP, OFAC, OFSI, DFAT 간 비공식 정보공유 채널을 통해 시기적으로 조율된다.</p>
+<h2 id="_11">한국의 참여</h2>
+<p>한국은 인용된 1차 출처인 DOJ DNJ 보도자료에서 협력 관할권 또는 LockBit 귀속 행위자로 명시되지 않았다. 본 사건은 다단계 Operation Cronos 보강(enrichment)과 verbatim 미국-영국-호주 3개 관할권 동시 제재 패턴을 위해 위키에 기록되어 있다. LockBit의 규모(120개국 이상에서 2,500명 이상의 피해자)와 INTERPOL 랜섬웨어 조율 작전에 대한 한국의 반복적 참여를 감안할 때, LockBit 귀속 맥락은 본 위키의 다른 곳에서 추적되는 한국의 광범위한 랜섬웨어 국제공조 자세와 관련성을 가진다.</p>
+<h2 id="_12">모순점 및 미해결 문제</h2>
 <ul>
-<li>26-count indictment in the District of New Jersey alleging conspiracy to commit fraud and extortion (max aggregate 185 years)</li>
-<li>US Department of Treasury (OFAC) cyber-related sanctions designation, 2024-05-07</li>
-<li>US Department of State reward offer up to USD 10 million for information leading to apprehension and/or conviction</li>
-<li>UK Office of Financial Sanctions Implementation (OFSI) parallel sanctions</li>
-<li>Australia Department of Foreign Affairs and Trade (DFAT) parallel sanctions</li>
+<li>Khoroshev는 2024년 5월 7일 발표 시점 기준 러시아 내에서 도피 중이었다; 본 기소는 러시아 국적의 운영자를 명명한 보기 드문 미국 랜섬웨어 기소 중 하나이지만, Khoroshev의 체포는 그가 러시아의 보호로부터 이탈해야 가능할 것이다.</li>
+<li>인용된 DOJ DNJ 보도자료는 이전에 기소된 "다섯 명의 다른 LockBit 어필리에이트"를 명명하며, "두 명이 재판 대기 중 구금"되어 있다고 한다. 그들의 신원, 기소 사항, 사건 진행은, 가용한 경우, 별도의 위키 기록 및 사건 페이지에서 추적된다.</li>
+<li>재무부 OFAC 및 국무부 현상금 문서는 DOJ DNJ 보도자료를 통해 참조된다; 해당 문서의 독립적 사실 내용(제재 본문, 현상금 조건)이 DOJ DNJ 보도자료와 실질적으로 구별되는 경우, 해당 문서에 대한 독립적 출처 페이지가 별도로 추가될 수 있다.</li>
+<li><strong>L26 갭 — 자금세탁 체인 세부사항:</strong> DOJ DNJ 보도자료는 20/80 분배와 Khoroshev의 미화 1억 달러 이상 개인 수익을 기술하지만, Khoroshev 또는 어필리에이트 계층이 사용한 특정 암호화폐 믹서, OTC 브로커, 중첩 거래소 계정, 또는 출금 채널을 열거하지 않는다. 따라서 배경 부분의 "자금 흐름" 하위섹션은 자금세탁 파이프라인을 정성적으로 기술한다; 정량적 체인 분석 수치는 OFAC 제재 지정 보조 자료 및 이후의 자산몰수 변론서를 기다린다.</li>
+<li><strong>L26 갭 — 피해자별/부문별 영향 분석:</strong> 기소장은 총합 수치(2,500명 이상의 피해자, 120개국 이상, 1,800명 미국 피해자, 미화 5억 달러 이상의 수익)를 제공하지만, 부문별 또는 국가별 피해자 영향 분석을 공개하지 않는다. 배경 부분의 "피해자 프로파일 및 영향" 하위섹션은 정량적 분해 없이 기소장 서술에서 명명된 부문(의료, 교육, 핵심 인프라, 다국적 기업, 중소기업, 정부 및 법집행)을 반영한다.</li>
 </ul>
-<h2 id="_7">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2024-05-07</li>
-<li><strong>개시:</strong> 2024-05-07</li>
-<li><strong>종료:</strong> 2024-05-07</li>
-</ul>
-<h2 id="_8">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 협력</a></li>
-<li><a href="../../wiki/mechanisms/asset-freezing.html" class="wikilink">Asset Freezing</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.0</strong> | 출처: 1건</p>
-</blockquote></div>
+<h2 id="_13">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>발행처</th>
+<th>날짜</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td><a href="../../wiki/sources/2024-05-07_justice-gov-dnj_us-charges-russian-national-developing-operating-lockbit-ransomware.html" class="wikilink">U.S. Charges Russian National with Developing and Operating Lockbit Ransomware</a></td>
+<td>US DOJ DNJ / USAO-NJ</td>
+<td>2024-05-07</td>
+<td><a href="https://www.justice.gov/usao-nj/pr/us-charges-russian-national-developing-and-operating-lockbit-ransomware" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-nj/pr/us-charges-russian-national-developing-and-operating-lockbit-ransomware" data-full-url="https://www.justice.gov/usao-nj/pr/us-charges-russian-national-developing-and-operating-lockbit-ransomware" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>On 2024-05-07 the United States Justice Department, through the US Attorney's Office for the District of New Jersey, unsealed a 26-count federal indictment against <a href="../../wiki/crime-types/ransomware-ic.html" class="wikilink">Dmitry Yuryevich Khoroshev</a> (alias LockBitSupp, LockBit, and putinkrab; 31, of Voronezh, Russia) — the alleged developer and administrator of the <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">LockBit</a> ransomware group from approximately September 2019 through May 2024. Concurrent international actions included a US Treasury (OFAC) sanctions designation, a US Department of State reward offer of up to USD 10 million for information leading to Khoroshev's apprehension or conviction, and parallel sanctions by the UK's Office of Financial Sanctions Implementation (OFSI) and Australia's Department of Foreign Affairs and Trade (DFAT).</p>
 <p>This wave is the named-suspect attribution and prosecution layer of the multi-phase <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Operation Cronos</a>, filling the gap between the February 2024 NCA-led infrastructure disruption (<a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Phase 1</a>) and the October 2024 NCA-led arrests and additional sanctions wave (<a href="../../wiki/operations/operation-cronos-phase3.html" class="wikilink">Phase 3</a>).</p>

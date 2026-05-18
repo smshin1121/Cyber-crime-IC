@@ -80,48 +80,218 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation Endgame — Phase 1 (Botnet Takedown)</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2024-05-27 ~ 2024-05-29</strong> 기간 동안 <strong>13개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Dropper malware ecosystem (IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot)</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>랜섬웨어, 악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Dropper malware ecosystem (IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot)</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p><strong>Operation Endgame Phase 1</strong>은 2024년 5월 27일부터 29일까지 수행된 <strong>봇넷에 대한 사상 최대 규모의 국제 작전</strong>이다. 본 작전은 랜섬웨어 그룹의 초기 접근 벡터로 기능하는 드로퍼 악성코드 패밀리 — IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot — 를 표적으로 삼았다. 20명 이상의 관계자로 구성된 지휘소를 통해 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a> 본부에서 공조된 본 조치는 4건의 체포, 10개국에 걸친 100대 이상의 서버 테이크다운, 2,000개 이상의 도메인 압수로 이어졌다.</p>
+<p>본 작전은 <em>거의 확실히</em> 국제 랜섬웨어 집행의 전략적 전환을 대표하였다. 랜섬웨어 운영자를 직접 표적으로 삼는 대신, 처음부터 랜섬웨어 배포를 가능하게 하는 인프라를 타격하였다.</p>
+<h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
+<p>드로퍼 악성코드("로더" 또는 "초기 접근 브로커"라고도 알려짐)는 랜섬웨어 공격 체인의 1단계를 구성한다. 이 악성코드 패밀리들은 시스템을 감염시킨 후 랜섬웨어 운영자에게 접근 권한을 판매하거나 제공한다. 표적이 된 패밀리 — IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot — 는 BlackBasta, REvil, Conti를 포함한 최소 <strong>15개 랜섬웨어 그룹</strong>과 연결되어 있었다.</p>
+<p>드로퍼 생태계를 무력화함으로써 법집행기관은 랜섬웨어 킬 체인을 그 가장 초기 지점에서 차단하고자 하였으며, 이 전략은 <a href="../../wiki/operations/operation-endgame-phase2.html" class="wikilink">Phase 2</a>에서 더욱 두드러지게 된다.</p>
+<h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
+<h3 id="coordinating-body">Coordinating Body</h3>
 <ul>
-<li>16 location searches conducted</li>
-<li>Command post with 20+ officers at Europol HQ</li>
+<li><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> — 20명 이상의 관계자로 구성된 본부 지휘소 운영</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h3 id="judicial-coordination">Judicial Coordination</h3>
 <ul>
-<li>체포: <strong>4명</strong> (피의자 규모)</li>
-<li>서버 압수: <strong>100대</strong> (인프라 규모)</li>
-<li>도메인 압수/차단: <strong>2,000개</strong></li>
-<li>암호화폐 압수: <strong>EUR 69 million (accumulated by key suspect)</strong> (자금 흐름 규모)</li>
+<li><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a></li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Europol Ec3, Eurojust, Denmark Police, France National Police, Germany Bka, Netherlands Politie, Uk Nca, Fbi Cyber Division, Armenia Police, Bulgaria Police 외 5개</p>
-<p><strong>참여국:</strong> Denmark, France, Germany, Netherlands, United Kingdom, United States, Armenia, Bulgaria, Lithuania, Portugal 외 3개</p>
-<h2 id="_7">작전 일정</h2>
+<h3 id="participating-countries-6-7">Participating Countries (주요 6개국 + 지원 7개국)</h3>
+<p><strong>주요:</strong> 덴마크, 프랑스, 독일, 네덜란드, 영국, 미국
+<strong>지원:</strong> 아르메니아, 불가리아, 리투아니아, 포르투갈, 루마니아, 스위스, 우크라이나</p>
+<h3 id="participating-agencies-15">Participating Agencies (15)</h3>
+<p><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a>, <a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>, <a href="../../wiki/organizations/denmark-police.html" class="wikilink">덴마크 경찰</a>, <a href="../../wiki/organizations/france-national-police.html" class="wikilink">프랑스 국립경찰</a>, <a href="../../wiki/organizations/germany-bka.html" class="wikilink">독일 BKA</a>, <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">네덜란드 국립경찰</a>, <a href="../../wiki/organizations/uk-nca.html" class="wikilink">영국 NCA</a>, <a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI</a>, <a href="../../wiki/organizations/armenia-police.html" class="wikilink">아르메니아 경찰</a>, <a href="../../wiki/organizations/bulgaria-police.html" class="wikilink">불가리아 경찰</a>, <a href="../../wiki/organizations/lithuania-police.html" class="wikilink">리투아니아 경찰</a>, <a href="../../wiki/organizations/portugal-police.html" class="wikilink">포르투갈 경찰</a>, <a href="../../wiki/organizations/romania-police.html" class="wikilink">루마니아 경찰</a>, <a href="../../wiki/organizations/switzerland-fedpol.html" class="wikilink">스위스 Fedpol</a>, <a href="../../wiki/organizations/ukraine-police.html" class="wikilink">우크라이나 경찰</a></p>
+<h2 id="legal-framework"><span class="heading-ko">법적 근거</span><span class="heading-en">Legal Framework</span></h2>
+<p>본 작전에는 13개국의 법집행기관과 사법기관이 참여하였다. 체포는 아르메니아(1건) 및 우크라이나(3건)에서 이루어졌다.</p>
+<div class="callout callout-info"><div class="callout-title">ℹ️ Legal-basis note
+국경 간 집행 조치에 대한 구체적 법적 근거 및 조약 조항은 추가 자료에서 확인되어야 한다.</div><div class="callout-body"></div></div>
+<h2 id="operational-timeline"><span class="heading-ko">작전 타임라인</span><span class="heading-en">Operational Timeline</span></h2>
+<table>
+<thead>
+<tr>
+<th>일자</th>
+<th>사건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024년 이전</td>
+<td>다국적 수사 단계</td>
+</tr>
+<tr>
+<td>2024-05-27</td>
+<td>작전 개시</td>
+</tr>
+<tr>
+<td>2024-05-27 ~ 2024-05-29</td>
+<td>서버 테이크다운, 도메인 압수, 체포 집행</td>
+</tr>
+<tr>
+<td>2024-05-30</td>
+<td>Europol의 공개 발표</td>
+</tr>
+</tbody>
+</table>
+<h2 id="results-and-impact"><span class="heading-ko">결과 및 영향</span><span class="heading-en">Results and Impact</span></h2>
+<table>
+<thead>
+<tr>
+<th>항목</th>
+<th>수치</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>체포</td>
+<td>4건(아르메니아 1건, 우크라이나 3건)</td>
+</tr>
+<tr>
+<td>위치 수색</td>
+<td>16건</td>
+</tr>
+<tr>
+<td>테이크다운된 서버</td>
+<td>100대 이상(10개국에 걸쳐)</td>
+</tr>
+<tr>
+<td>압수된 도메인</td>
+<td>2,000개 이상</td>
+</tr>
+<tr>
+<td>암호화폐(핵심 용의자)</td>
+<td>6,900만 유로 축적</td>
+</tr>
+<tr>
+<td>표적 악성코드 패밀리</td>
+<td>6</td>
+</tr>
+<tr>
+<td>연결된 랜섬웨어 그룹</td>
+<td>15개 이상</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cooperation-mechanisms-used"><span class="heading-ko">활용된 공조 메커니즘</span><span class="heading-en">Cooperation Mechanisms Used</span></h2>
 <ul>
-<li><strong>발표:</strong> 2024-05-30</li>
-<li><strong>개시:</strong> 2024-05-27</li>
-<li><strong>종료:</strong> 2024-05-29</li>
+<li><strong>Europol 지휘소:</strong> 덴마크, 프랑스, 독일, 미국에서 20명 이상의 관계자로 구성된 Europol 본부 내 현장 공조 센터</li>
+<li><strong>Eurojust 공조 회의:</strong> 다중 관할 체포영장 및 압수 명령을 위한 사법 공조</li>
 </ul>
-<h2 id="_8">결과 및 영향</h2>
+<h2 id="lessons-learned"><span class="heading-ko">교훈</span><span class="heading-en">Lessons Learned</span></h2>
+<ol>
+<li><strong>공급망 공격:</strong> 드로퍼 악성코드 인프라를 표적으로 삼는 것은 다수의 랜섬웨어 작전을 동시에 무력화하여, 개별 랜섬웨어 그룹을 표적으로 하는 것에 비해 승수 효과를 제공한다.</li>
+<li><strong>실시간 공조 센터:</strong> Europol 본부의 20명 이상 관계자 지휘소는 시간대를 초월한 신속한 의사결정과 동기화된 행동을 가능하게 하였다.</li>
+<li><strong>규모는 공조를 요구한다:</strong> 10개국에 걸쳐 100대 이상의 서버와 2,000개 이상의 도메인을 동시에 테이크다운하는 것은 Europol과 Eurojust의 전담 제도적 지원 없이는 <em>거의 확실히</em> 달성될 수 없는 수준의 공조를 요구한다.</li>
+</ol>
+<h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ 공개 법원 문서 발견되지 않음
+웹 검색(2026-04-17)을 통해 본 작전에 대한
+공개적으로 접근 가능한 법원 문서가 확인되지 않았다. 가능한 사유:
+공개 법원 기록 시스템이 없는 비미국 관할, 비공개 절차, 또는
+작전이 정식 기소로 이어지지 않음.</div><div class="callout-body"></div></div>
 <ul>
-<li><strong>4명</strong> 체포</li>
-<li><strong>100대</strong> 서버 압수</li>
-<li><strong>2,000개</strong> 도메인 압수/차단</li>
-<li><strong>EUR 69 million (accumulated by key suspect)</strong> 암호화폐 압수</li>
-<li>16 location searches conducted</li>
-<li>Command post with 20+ officers at Europol HQ</li>
+<li><a href="../../wiki/operations/operation-endgame-phase2.html" class="wikilink">Operation Endgame Phase 2</a> (2025년 5월): 300대의 서버 테이크다운, 650개의 도메인 무력화, 350만 유로 암호화폐 압수, 20건의 국제 체포영장 발부</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>2.28</strong> | 출처: 5건</p>
-</blockquote></div>
+<h2 id="korean-involvement">Korean Involvement (한국의 참여)</h2>
+<p>Operation Endgame Phase 1에 대한 한국의 직접적인 참여는 확인되지 않았다.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
+<ul>
+<li>드로퍼 테이크다운의 직접적 결과로 어떤 구체적 랜섬웨어 그룹이 접근 권한을 상실하였는가?</li>
+<li>본 작전 이후 랜섬웨어 배포율에 대한 측정 가능한 영향은 무엇이었는가?</li>
+<li>표적이 된 악성코드 패밀리들은 테이크다운 이후 얼마나 빠르게 재구성되었는가?</li>
+</ul>
+<!-- SOURCE_ENRICHMENT_START -->
+
+<h2 id="source-coverage">Source Coverage</h2>
+<ul>
+<li>Europol, 2024-05-30: 봇넷에 대한 사상 최대 규모의 작전이 드로퍼 악성코드 생태계를 타격 — Operation Endgame.</li>
+<li>FBI, 2024-05-29: Operation Endgame: 사이버 범죄자 네트워크에 대한 공조 글로벌 법집행 조치.</li>
+<li>독일 BMI, 2024-05-30: 사이버 범죄에 대한 전 세계적 수사가 성공으로 결실.</li>
+<li>KrebsOnSecurity, 2024-05-30: 'Operation Endgame', 악성코드 배포 플랫폼 타격.</li>
+<li>Europol, 2026-04-17: Operation Endgame — 공식 페이지.</li>
+</ul>
+<h2 id="evidence-and-attribution-notes">Evidence and Attribution Notes</h2>
+<ul>
+<li>Operation Endgame Phase 1은 봇넷에 대한 사상 최대 규모의 국제 조치로서 2024년 5월 27–29일에 수행됨</li>
+<li>표적이 된 드로퍼 악성코드 패밀리: IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot</li>
+<li>4건의 체포(아르메니아 1건, 우크라이나 3건), 10개국에서 100대 이상의 서버 테이크다운, 2,000개 이상의 도메인 압수</li>
+<li>핵심 용의자는 범죄 인프라 임대로부터 최소 6,900만 유로의 암호화폐를 축적함</li>
+<li>악성코드 드로퍼는 BlackBasta, REvil, Conti를 포함한 최소 15개 랜섬웨어 그룹과 연결됨</li>
+<li>2024년 5월 27일과 29일 사이에 <strong>Operation Endgame</strong> — 봇넷에 대한 사상 최대 규모의 국제 조치 — 는 IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot을 포함한 드로퍼 악성코드 패밀리를 표적으로 함.</li>
+<li>덴마크, 프랑스, 독일, 미국의 20명 이상의 관계자로 구성된 지휘소를 통해 Europol 본부에서 공조된 본 작전은 4건의 체포, 10개국에 걸친 100대 이상의 서버 테이크다운, 2,000개 이상의 도메인 압수로 이어짐.</li>
+<li>이러한 악성코드 드로퍼는 BlackBasta, REvil, Conti를 포함한 최소 15개 랜섬웨어 그룹과 연결된 초기 접근 벡터의 역할을 함.</li>
+</ul>
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+<h2 id="raw-source-highlights">Raw Source Highlights</h2>
+<ul>
+<li>FBI, 2024-05-29: 우크라이나, 포르투갈, 루마니아, 리투아니아, 불가리아, 스위스의 법집행기관은 용의자 체포 또는 면담, 수색 실시, 서버 압수 또는 테이크다운을 위한 경찰 조치를 지원함.</li>
+<li>FBI, 2024-05-29: 2024년 5월 28일부터, 이러한 종류의 첫 공조 국제 작전에 12개국이 참여하여 다수의 악성코드 변종을 무력화하기 위해 수색을 실시하고, 대상자를 심문 또는 체포하며, 100대 이상의 서버를 테이크다운 또는 무력화함.</li>
+</ul>
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+<h2 id="canonical-operation-assessment">Canonical Operation Assessment</h2>
+<p>본 페이지는 피고인별 후속 조치가 아닌 드로퍼 악성코드 생태계(IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot)에 대한 테이크다운을 기술하므로 정식 작전으로 보존된다. 본 기록은 주된 책임을 Europol EC3에, 공조를 Europol EC3에 귀속시키며, 참여 또는 영향을 받은 관할로는 덴마크, 프랑스, 독일, 네덜란드, 영국, 미국, 아르메니아, 불가리아, 리투아니아, 포르투갈, 루마니아, 스위스, 우크라이나를 기록한다.</p>
+<p>공조 모델은 명명된 기관 및 파트너를 통해 문서화된다. Europol EC3, Eurojust, Denmark Police, France National Police, Germany BKA, Netherlands Politie, UK NCA, FBI Cyber Division, Armenia Police, Bulgaria Police. 집행 자세: 체포, 압수, 테이크다운, 자산 동결.</p>
+<p>정식 기록에 포착된 작전 결과: 4건의 체포; 100대 서버 압수; 2,000개 도메인 압수; 암호화폐/자산 결과는 6,900만 유로(핵심 용의자가 축적)로 기록; 16건의 위치 수색 수행; 20명 이상의 관계자로 구성된 Europol 본부 지휘소.</p>
+<p>정식 자료 집합은 5건의 참조 자료를 포함한다: 2024 05 30 Europol Operation Endgame Botnet Takedown, 2024 05 29 FBI Gov Operation Endgame Coordinated Worldwide Law Enforcement Action Against Network O, 2024 05 30 Bmi Bund De Worldwide Investigation Against Cyber Crime Crowned By Success, 2024 05 30 Krebsonsecurity Com Operation Endgame Hits Malware Delivery Platforms, 2026 04 17 Europol Europa Eu Operation Endgame Official Page.
+자료 하한선은 정식 작전에 부합하지만, 자료의 광범위함만으로는 모든 하방 체포 또는 선고가 본 작전의 일부임을 증명하지 못한다. 후속 기록은 별도로 연결된 상태로 유지되어야 한다.
+본 페이지에 알려진 메타데이터 공백: Legal Basis 및 Mechanisms Used.
+데이터셋 활용 측면에서, 본 페이지는 작전 수준의 통합 기준점으로 다루어져야 한다. 국가, 기관, 메커니즘, 결과 필드는 공조 집행 조치 전체를 기술한다. 이후의 기소, 답변, 선고, 범죄인 인도, 또는 몰수 조치는 자료가 명시적으로 새로운 다국적 작전으로 제시하지 않는 한 관련 사건 또는 흡수된 후속 기록으로 첨부되어야 한다.
+자료 기록이 보다 광범위한 배경, 반복된 통신사 재게재, 또는 주제 페이지 자료를 포함하는 경우, 본 평가는 명명된 작전, 그 참여 당국, 표적 인프라 또는 범죄 서비스, 측정 가능한 집행 결과에 직접 연결된 사실에 우선순위를 부여한다. 주변적인 자료 제목은 독립적인 분류 또는 결과 증거로 다루어지지 않는다.
+이는 정식 기록이 분석적으로 한정되고 재현 가능한 상태를 유지하도록 한다.</p>
+<!-- CANONICAL_ASSESSMENT_END -->
+
+<h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>봇넷에 대한 사상 최대 규모의 작전이 드로퍼 악성코드 생태계를 타격 — Operation Endgame</td>
+<td>Europol</td>
+<td>2024-05-30</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>Operation Endgame: 사이버 범죄자 네트워크에 대한 공조 글로벌 법집행 조치</td>
+<td>FBI</td>
+<td>2024-05-29</td>
+<td><a href="https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals" data-full-url="https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>사이버 범죄에 대한 전 세계적 수사가 성공으로 결실</td>
+<td>German BMI</td>
+<td>2024-05-30</td>
+<td><a href="https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html" target="_blank" rel="noopener noreferrer" title="https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html" data-full-url="https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>'Operation Endgame', 악성코드 배포 플랫폼 타격</td>
+<td>KrebsOnSecurity</td>
+<td>2024-05-30</td>
+<td><a href="https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/" target="_blank" rel="noopener noreferrer" title="https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/" data-full-url="https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>Operation Endgame — 공식 페이지</td>
+<td>Europol</td>
+<td>2026-04-17</td>
+<td><a href="https://www.europol.europa.eu/operations-services-and-innovation/operations/operation-endgame" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/operations-services-and-innovation/operations/operation-endgame" data-full-url="https://www.europol.europa.eu/operations-services-and-innovation/operations/operation-endgame" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p><strong>Operation Endgame Phase 1</strong> was the <strong>largest-ever international operation against botnets</strong>, conducted between 27 and 29 May 2024. The operation targeted dropper malware families — IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, and Trickbot — that serve as initial-access vectors for ransomware groups. Coordinated from <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a>'s headquarters with a command post of 20+ officers, the action resulted in 4 arrests, 100+ servers taken down across 10 countries, and 2,000+ domains seized.</p>
 <p>The operation <em>almost certainly</em> represented a strategic shift in international ransomware enforcement: rather than targeting ransomware operators directly, it struck at the infrastructure that enables ransomware deployment in the first place.</p>

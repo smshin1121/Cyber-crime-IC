@@ -81,67 +81,190 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation Chargeback — 코블렌츠-BKA 주도 결제처리망 침입 카드사기·자금세탁 네트워크 10개국 합동 단속 (2025년 11월)</strong> 테이크다운 작전으로, <strong>2020 ~ 2025-11-04</strong> 기간 동안 <strong>10개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Three transnational organised-crime networks that allegedly implanted malicious software in regulated German payment-service-provider systems, abused stolen credit-card data from approximately 4.3 million cardholders across 193 countries (2016–2021), and used &gt;2,000 fake streaming/dating/entertainment subscription websites and ~500 shell companies to draw more than 19 million fraudulent recurring subscription charges, generating &gt; EUR 300 million in damages.</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>카드 사기 (Carding), 온라인 사기, 자금세탁</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Three transnational organised-crime networks that allegedly implanted malicious software in regulated German payment-service-provider systems, abused stolen credit-card data from approximately 4.3 million cardholders across 193 countries (2016–2021), and used &gt;2,000 fake streaming/dating/entertainment subscription websites and ~500 shell companies to draw more than 19 million fraudulent recurring subscription charges, generating &gt; EUR 300 million in damages.</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p><strong>2025년 11월 4일</strong>, 독일 라인란트팔츠주 <strong>Generalstaatsanwaltschaft Koblenz(코블렌츠 검찰총장청)</strong> 산하 사이버범죄 주(州)중앙청(Landeszentralstelle Cybercrime, LZC)과 <a href="../../wiki/organizations/germany-bka.html" class="wikilink">연방수사청(BKA)</a>은 10개국 공조 작전 당일을 주도하여, 2016년 이래 독일 규제 결제서비스 제공업체를 침해해 온 3개 초국가적 조직범죄 네트워크를 해체하였다. 이들은 193개국에 걸친 약 430만 명의 카드 소지자로부터 1,900만 건 이상의 허위 정기결제 청구를 발생시켰다. 18건의 체포영장이 집행(독일 5건)되었고, 44명의 용의자가 식별되었으며, 전 세계 60여 곳의 수색이 이루어졌고(독일 내 8개 연방주 29곳), 독일에서만 약 3,500만 유로 규모의 자산이 압수되었다. 총 추정 피해액은 3억 유로를 초과한다.</p>
+<p><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a>는 다중 관할권 사법 조치를 조율하였고, <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3(유럽 사이버범죄 센터)</a>는 법집행 운영 상황도를 조정하였다. 독일은 코블렌츠 검찰이 명시적으로 거명한 협력 관할권 — <strong>영국, 이탈리아, 캐나다, 룩셈부르크, 네덜란드, 싱가포르, 스페인, 미국, 키프로스</strong> — 의 지원을 받았다.</p>
+<div class="callout callout-info"><div class="callout-title">ℹ️ Confidence
+협력 관할권 명단과 작전 당일 지표는 코블렌츠 검찰의 자체 도메인 보도자료에 근거하며, 24시간 이내 BKA, Europol, Eurojust 및 Zoll-FIU(독일 관세청 금융정보분석원)에 의해 교차 확인되었다. 신뢰도: 게재된 내용대로 <strong>거의 확실히</strong> 정확함.</div><div class="callout-body"></div></div>
+<h2 id="_2">배경</h2>
+<p>수사는 BaFin(연방금융감독청, Bundesanstalt für Finanzdienstleistungsaufsicht)이 규제하는 인수은행 및 결제서비스 제공업체로부터 의심스러운 차지백 패턴이 보고된 후 2020년 코블렌츠 LZC에서 시작되었다. 포렌식 분석 결과 제공업체의 처리 시스템에 악성 소프트웨어가 이식되어, 범죄자들이 합법적으로 보이는 가맹점 계좌를 통해 부정 청구를 은밀히 라우팅하고 이를 일상적인 구독 청구로 위장할 수 있었음이 드러났다. 범죄 비즈니스 모델은 다음과 같이 계층화되어 있었다.</p>
+<ol>
+<li><strong>도난 카드 공급</strong> — 약 430만 명의 피해자 카드 데이터를 별개의 침해 사고 및 다크웹 시장을 통해 193개국에서 수집(2016–2021).</li>
+<li><strong>허위 가맹점 인프라</strong> — 스트리밍, 데이팅, 엔터테인먼트 서비스를 모방한 전문적으로 구축된 2,000여 개의 웹사이트와, 각각 규제가 느슨한 관할권에 등록된 약 500개의 페이퍼컴퍼니를 통해 운영되며, 카드 소지자의 주의 임계값 이하의 소액 정기 청구만을 수신하도록 설계.</li>
+<li><strong>결제 처리업체 침해</strong> — 악성코드를 이용해 독일 규제 결제서비스 제공업체를 악용함으로써 허위 가맹점에게 카드 네트워크로 진입하는 "합법적" 채널 제공.</li>
+<li><strong>자금세탁</strong> — 10만 건 이상의 개별 자금세탁 행위를 통해 수익금을 여러 관할권의 법인 계좌로 이동.</li>
+</ol>
+<h2 id="_3">참여 당사자</h2>
+<table>
+<thead>
+<tr>
+<th>역할</th>
+<th>기관</th>
+<th>국가</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>주도 검찰</td>
+<td>Generalstaatsanwaltschaft Koblenz — Landeszentralstelle Cybercrime (LZC)</td>
+<td>독일</td>
+</tr>
+<tr>
+<td>주도 경찰</td>
+<td><a href="../../wiki/organizations/germany-bka.html" class="wikilink">연방수사청(BKA)</a></td>
+<td>독일</td>
+</tr>
+<tr>
+<td>독일 금융정보분석원</td>
+<td>FIU Deutschland (Zoll/Generalzolldirektion)</td>
+<td>독일</td>
+</tr>
+<tr>
+<td>독일 금융감독기관</td>
+<td>Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)</td>
+<td>독일</td>
+</tr>
+<tr>
+<td>다자 사법 조율</td>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a></td>
+<td>EU</td>
+</tr>
+<tr>
+<td>다자 법집행 조율</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a></td>
+<td>EU</td>
+</tr>
+<tr>
+<td>협력 외국 관할권</td>
+<td>영국, 이탈리아, 캐나다, 룩셈부르크, 네덜란드, 싱가포르, 스페인, 미국, 키프로스의 법집행·검찰</td>
+<td>(코블렌츠 보도자료에 그대로 명시)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_4">법적 근거</h2>
 <ul>
-<li>44 suspects total identified by Koblenz LZC and BKA (36 men, 8 women, ages 32–70)</li>
-<li>Approximately EUR 35 million in assets seized in Germany (frozen bank accounts, real estate, vehicles, luxury goods)</li>
-<li>More than 60 search locations executed worldwide on action day (29 in Germany, spread across Baden-Württemberg, Bavaria, Berlin, Hesse, Rhineland-Palatinate, Saxony, Hamburg and Schleswig-Holstein)</li>
-<li>Over 2,000 fraudulent streaming/dating/entertainment subscription websites identified by investigators</li>
-<li>Approximately 500 shell companies identified as part of the laundering layer</li>
-<li>More than 19 million fake subscriptions generated against ~4.3 million cardholders' credit-card data</li>
-<li>Damage estimate &gt; EUR 300 million across 193 countries</li>
-<li>Offending period 2016–2021; investigation by Koblenz LZC and BKA since 2020</li>
+<li><strong>혐의(독일)</strong>: gewerbs- und bandenmäßiger Computerbetrug(영리·조직적 컴퓨터 사기), Geldwäsche(자금세탁), Missbrauch von Zahlungsdienstleistern(결제서비스 제공업체 악용).</li>
+<li><strong>조율 수단</strong>: 독일, 이탈리아, 캐나다, 룩셈부르크, 네덜란드, 싱가포르, 스페인, 미국, 키프로스 사법당국 간 Eurojust 조율 회의, Europol 운영 태스크포스 지원.</li>
+<li><strong>국경 간 증거</strong>: 작전 당일 병행 압수수색을 위한 9개 외국 협력 관할권에 대한 형사사법공조조약(MLAT) 요청.</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h2 id="_5">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>날짜</th>
+<th>사건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2016년</td>
+<td>독일 결제서비스 제공업체에 대한 최초 알려진 침해(코블렌츠 보도자료 기준)</td>
+</tr>
+<tr>
+<td>2020년</td>
+<td>Generalstaatsanwaltschaft Koblenz LZC가 공식 수사 개시, BKA가 주도 경찰기관으로 합류</td>
+</tr>
+<tr>
+<td>2020–2025년</td>
+<td>10개 관할권에 걸친 Eurojust 조율 회의 및 MLAT 지원 증거 수집 5년간</td>
+</tr>
+<tr>
+<td><strong>2025년 11월 4일</strong></td>
+<td>합동 작전 당일: 18건의 체포영장 집행(독일 5건), 독일 내 29건 수색, 독일에서 3,500만 유로 압수; 9개 협력 관할권에서 병행 수색 및 체포</td>
+</tr>
+<tr>
+<td>2025년 11월 5일</td>
+<td>코블렌츠 검찰 및 BKA가 보도자료 발표; Europol 및 Eurojust도 동일한 보도자료 게재</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_6">결과 및 영향</h2>
+<table>
+<thead>
+<tr>
+<th>지표</th>
+<th>값</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>집행된 체포영장</td>
+<td>18건(독일 5건)</td>
+</tr>
+<tr>
+<td>식별된 총 용의자 수</td>
+<td>44명(남성 36명, 여성 8명, 32–70세)</td>
+</tr>
+<tr>
+<td>수색 장소</td>
+<td>전 세계 60곳 이상; 독일 29곳</td>
+</tr>
+<tr>
+<td>압수 자산(독일)</td>
+<td>약 3,500만 유로</td>
+</tr>
+<tr>
+<td>영향받은 카드 소지자</td>
+<td>약 430만 명</td>
+</tr>
+<tr>
+<td>피해자 발생 국가</td>
+<td>193개국</td>
+</tr>
+<tr>
+<td>발생된 허위 구독</td>
+<td>1,900만 건 이상</td>
+</tr>
+<tr>
+<td>식별된 허위 가맹점 웹사이트</td>
+<td>2,000개 이상</td>
+</tr>
+<tr>
+<td>식별된 페이퍼컴퍼니</td>
+<td>약 500개</td>
+</tr>
+<tr>
+<td>총 추정 피해액</td>
+<td>3억 유로 이상</td>
+</tr>
+<tr>
+<td>범행 기간</td>
+<td>2016–2021년</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_7">활용된 협력 메커니즘</h2>
 <ul>
-<li>체포: <strong>18명</strong> (피의자 규모)</li>
+<li><strong><a href="../../wiki/mechanisms/eurojust-coordination-meeting.html" class="wikilink">Eurojust 조율 회의</a></strong> — 10개 협력 관할권 검찰 간 회의로, 단일 작전 당일 병행 사법 조치를 가능하게 함.</li>
+<li><strong><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Europol 운영 조율</a></strong> — EC3 / 유럽 사이버범죄 센터를 통한 국경 간 운영 상황도 제공, 독일의 결제 처리업체 증거를 외국 관할권의 가맹점 측 활동과 연결.</li>
+<li><strong>MLAT</strong> — 영국, 이탈리아, 캐나다, 룩셈부르크, 네덜란드, 싱가포르, 스페인, 미국 및 키프로스에서의 외국 수색·압수·체포 요청.</li>
+<li><strong>금융감독기관 / FIU 통합</strong> — BaFin(침해된 결제서비스 제공업체 규제기관)과 FIU Deutschland(자금세탁 분석)이 수사에 직접 통합되어, 감독-금융-법집행 융합을 보여줌.</li>
+<li><strong><a href="../../wiki/mechanisms/asset-freezing.html" class="wikilink">자산 동결</a></strong> 및 <strong><a href="../../wiki/mechanisms/asset-recovery.html" class="wikilink">자산 회수</a></strong> — 작전 첫날 독일에서 3,500만 유로 확보.</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Germany Bka</p>
-<p><strong>참여기관:</strong> Germany Bka, Europol Ec3, Eurojust</p>
-<p><strong>참여국:</strong> Germany, United Kingdom, Italy, Canada, Luxembourg, Netherlands, Singapore, Spain, United States, Cyprus</p>
-<h2 id="_7">법적 근거</h2>
+<h2 id="_8">도전 및 마찰 요인</h2>
 <ul>
-<li>Eurojust coordination meetings across 10 jurisdictions (Germany lead; UK, Italy, Canada, Luxembourg, Netherlands, Singapore, Spain, US, Cyprus partners)</li>
-<li>Mutual legal assistance for cross-border searches and asset seizures</li>
-<li>Europol Joint Cybercrime Action Taskforce (EC3) operational coordination</li>
+<li>5년에 걸친 수사 기간(2020–2025)은 범죄 측 웹사이트가 전문적으로 분리되어 여러 관할권을 거쳐 자금세탁 페이퍼컴퍼니와 연결될 때 결제 처리업체 침해를 특정 개인에게 귀속시키는 어려움을 반영한다.</li>
+<li>193개 피해국이 존재하는 상황에서 작전 당일 규모의 전면적인 피해자 통지는 불가능하며, 피해 회복은 각 관할권의 후속 민·형사 절차에 의존하게 된다.</li>
+<li>협력 관할권 명단(10개국)에 대해 코블렌츠 보도자료는 외국 법집행 카운터파트를 이름까지 열거하지 않으며, 협력 관할권 자체만 거명한다. (BKA, Europol, Eurojust의 동일 보도자료는 후속 보강을 위한 기관 수준의 부분적 명명을 제공한다.)</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
+<h2 id="_9">교훈</h2>
 <ul>
-<li><strong>발표:</strong> 2025-11-05</li>
-<li><strong>개시:</strong> 2020</li>
-<li><strong>종료:</strong> 2025-11-04</li>
+<li>장기간 진행되는 검찰 주도의 사이버범죄 수사(코블렌츠 LZC, 2020년 이래)는 Eurojust와 Europol이 구조적 조율을 제공할 때 <strong>10개 관할권에 걸친 다년간 증거 수집을 견디고 동시 작전 당일 체포를 산출할 수 있다</strong>.</li>
+<li>금융감독기관(BaFin)과 FIU를 사이버범죄 수사에 — 하위 통지 수신자가 아닌 운영팀 일부로서 — 통합하면, 그렇지 않으면 법집행 단독 수사에서는 보이지 않는 결제 처리업체 침해에 대한 직접적 가시성을 확보할 수 있다.</li>
 </ul>
-<h2 id="_9">결과 및 영향</h2>
+<h2 id="_10">후속 조치</h2>
 <ul>
-<li><strong>18명</strong> 체포</li>
-<li>44 suspects total identified by Koblenz LZC and BKA (36 men, 8 women, ages 32–70)</li>
-<li>Approximately EUR 35 million in assets seized in Germany (frozen bank accounts, real estate, vehicles, luxury goods)</li>
-<li>More than 60 search locations executed worldwide on action day (29 in Germany, spread across Baden-Württemberg, Bavaria, Berlin, Hesse, Rhineland-Palatinate, Saxony, Hamburg and Schleswig-Holstein)</li>
-<li>Over 2,000 fraudulent streaming/dating/entertainment subscription websites identified by investigators</li>
-<li>Approximately 500 shell companies identified as part of the laundering layer</li>
-<li>More than 19 million fake subscriptions generated against ~4.3 million cardholders' credit-card data</li>
-<li>Damage estimate &gt; EUR 300 million across 193 countries</li>
-<li>Offending period 2016–2021; investigation by Koblenz LZC and BKA since 2020</li>
+<li>용의자들은 코블렌츠 검찰의 기소를 기다리며 독일에서 미결구금 상태로 송치되었다.</li>
+<li>독일 내 자산 회수 절차가 진행 중이며, 외국 협력 관할권에서의 상호승인 자산 동결 요청이 진행 중이다.</li>
+<li>카드 소지자 통지는 193개 영향 관할권 전반에 걸쳐 발급은행을 통해 처리된다.</li>
 </ul>
-<h2 id="_10">협력 메커니즘</h2>
+<h2 id="_11">한국의 참여</h2>
+<div class="callout callout-info"><div class="callout-title">ℹ️ No Korean LE participation acknowledged
+코블렌츠, BKA, Europol, Eurojust 보도자료는 한국 법집행기관의 참여를 명시하지 않는다. 그럼에도 한국 카드 소지자는 영향받은 430만 명(193개국) 중 포함될 수 있으며, 피해 회복은 직접적 법집행 협력보다는 한국 발급은행 및 KoFIU 상응 흐름을 통해 이루어질 것이다.</div><div class="callout-body"></div></div>
+<h2 id="_12">모순점 및 미해결 문제</h2>
 <ul>
-<li><a href="../../wiki/mechanisms/eurojust-coordination-meeting.html" class="wikilink">Eurojust Coordination Meeting</a></li>
-<li><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Europol Jit</a></li>
-<li><a href="../../wiki/mechanisms/asset-freezing.html" class="wikilink">Asset Freezing</a></li>
-<li><a href="../../wiki/mechanisms/asset-recovery.html" class="wikilink">Asset Recovery</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.6</strong> | 출처: 1건</p>
-</blockquote></div>
+<li><strong>미해결 문제</strong>: 코블렌츠 보도자료는 협력 <em>관할권</em>은 거명하지만 그들의 구체적인 법집행·검찰 기관은 명시하지 않는다. participating_agencies 보강을 위해 BKA 및 Europol 보도자료와의 교차 참조가 필요하다.</li>
+<li><strong>미해결 문제</strong>: 18건의 체포영장 집행 중 몇 건이 독일로의 범죄인 인도이고 몇 건이 협력 관할권 내 자국 체포인가? (코블렌츠 보도자료에는 명시되지 않음.)</li>
+</ul></div>
         <div class="en-block"><h1 id="operation-chargeback-koblenz-bka-led-10-jurisdiction-takedown-of-payment-processor-compromise-card-fraud-and-money-laundering-networks-nov-2025">Operation Chargeback — Koblenz-BKA-led 10-jurisdiction takedown of payment-processor-compromise card-fraud and money-laundering networks (Nov 2025)</h1>
 <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>On <strong>4 November 2025</strong>, the Landeszentralstelle Cybercrime (LZC) of the <strong>Generalstaatsanwaltschaft Koblenz</strong> (Rhineland-Palatinate, Germany) and the <a href="../../wiki/organizations/germany-bka.html" class="wikilink">Bundeskriminalamt (BKA)</a> led a coordinated action day across ten jurisdictions, dismantling three transnational organised-crime networks that had been compromising regulated German payment-service-providers since 2016 and using the access to draw more than 19 million fake recurring-subscription charges from approximately 4.3 million cardholders in 193 countries. Eighteen arrest warrants were executed (five in Germany), 44 suspects were identified, more than 60 search locations were searched worldwide (29 in Germany across eight federal states), and approximately EUR 35 million in assets were seized in Germany alone. Total estimated damage exceeds EUR 300 million.</p>

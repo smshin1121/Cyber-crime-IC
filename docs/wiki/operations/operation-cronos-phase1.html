@@ -80,49 +80,274 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation Cronos — Phase 1 (LockBit Disruption)</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2024-02-20 ~ 2024-02-20</strong> 기간 동안 <strong>14개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> LockBit ransomware group</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>랜섬웨어, 악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>LockBit ransomware group</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p><strong>Operation Cronos Phase 1</strong>(크로노스 작전 1단계)은 2022년 이래 전 세계적으로 가장 많이 배포된 랜섬웨어 변종인 <strong>LockBit(랜섬웨어 그룹)</strong>을 와해시킨 기념비적 국제 법집행 조치였다. 2024년 2월 20일, 10개국의 기관들이 <a href="../../wiki/organizations/uk-nca.html" class="wikilink">UK National Crime Agency(NCA, 영국 국가범죄청)</a>의 주도와 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a> 및 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a>의 조율 하에 LockBit 인프라를 조율 테이크다운하였다.</p>
+<p>본 작전의 결과로 8개국에 걸쳐 34대의 서버가 압수되었으며, 2명이 체포되고, 5건의 기소가 이루어졌으며, 200개 이상의 암호화폐 계정이 동결되고, 14,000개 이상의 비인가(rogue) 계정이 식별되었다. 무료 복호화 도구는 "No More Ransom" 포털을 통해 전 세계 피해자에게 제공되었다.</p>
+<p>이는 표적의 규모(LockBit은 전 세계적으로 지배적 랜섬웨어 변종이었음)와 관련된 국제공조의 폭 양 측면에서 <em>거의 확실히(almost certainly)</em> 역사상 가장 중요한 랜섬웨어 와해 작전 중 하나였다.</p>
+<h2 id="_2">배경</h2>
+<h3 id="_3">수법(모더스 오페란디)</h3>
+<p>LockBit은 <strong>2019년 말</strong>(초기에는 "ABCD" 랜섬웨어로 알려짐)에 등장하여, 2022년에는 <strong>전 세계적으로 가장 많이 배포되는 랜섬웨어 변종</strong>이 되었다. 본 그룹은 <strong>랜섬웨어서비스형(RaaS)</strong> 플랫폼으로 운영되었다: LockBit의 코어 개발팀은 암호화 바이너리, 어필리에이트(affiliate) 관제 패널, 그리고 공개적으로 운영되는 데이터 유출 사이트(<code>lockbitsupp</code> / <code>lockbitsupp.gov.uk</code> 형태의 Tor 미러)를 유지하였으며, 계층화된 어필리에이트 네트워크가 실제 침입을 수행하였다. 어필리에이트는 구매한 자격증명, 공개 노출 취약점(예: Fortinet, Citrix, ESXi) 악용, 그리고 피싱을 통해 초기 접근을 확보하였고; 정찰 및 측면이동(lateral-movement) 도구(Cobalt Strike, Mimikatz)를 배포하였으며; StealBit이나 rclone 같은 도구를 통해 데이터를 유출한 후; 최종적으로 피해자 환경 전체에 LockBit 암호화기를 폭발(detonate)시켰다. 본 그룹은 <strong>이중 갈취(double-extortion)</strong> 모델 — 암호화 후 유출 — 을 사용하였으며, LockBit 2.0 이후로는 운영자들이 <strong>삼중 갈취(triple-extortion)</strong> 요소(지불을 거부한 피해자에 대한 DDoS 압박)를 실험하였다.</p>
+<h3 id="_4">피해자 프로파일 및 영향</h3>
+<p>동일 수사에 연계된 이후의 미국 DOJ 기소 자료(see <a href="../../wiki/operations/operation-cronos-phase2.html" class="wikilink">operation-cronos-phase2</a>)에 따르면, LockBit은 <strong>최소 120개국에서 2,500명 이상의 피해자</strong>를 공격하였으며, 그중 미국에서만 <strong>약 1,800명</strong>의 피해자가 포함된다. 피해자 부문은 <strong>병원 및 의료기관, 학교 및 대학, 핵심 인프라 운영자, 다국적 기업, 중소기업, 그리고 정부 및 법집행 기관</strong>에 걸쳐 있다. 영국 NCA의 2024년 2월 와해 발표에서는 LockBit이 "수십억 파운드"의 피해를 야기했다고 특징지었고; 영국 FCDO의 2024년 5월 제재 성명은 전 세계 수천 명의 피해자로부터 갈취한 수익을 <strong>"미화 10억 달러 초과"</strong>로 명시하였다.</p>
+<h3 id="_5">자금 흐름</h3>
+<p>랜섬 지불은 <strong>비트코인</strong>으로 어필리에이트 통제 지갑에 송금되었다. 표준 분배 비율은, 이후 미국 DOJ의 LockBit 개발자 Dmitry Khoroshev 기소 문서에서 확인된 바와 같이, <strong>개발자 20% / 어필리에이트 80%</strong> 분배였다. 2024년 2월 와해 시점에 NCA 주도의 인프라 접근으로 대규모 암호화폐 자금세탁 증거가 드러났으며, 작전일에 본 그룹과 연결된 <strong>200개 이상의 암호화폐 계정이 동결되었다</strong>. Khoroshev 개인은 이후(Phase 2) 개발자 분배금 지급으로 <strong>최소 미화 1억 달러</strong>의 암호화폐를 수령한 것으로 주장되었다.</p>
+<h3 id="_6">범죄 조직 구조</h3>
+<p>LockBit은 <strong>코어 개발자 + 어필리에이트</strong> 모델로 운영되었다. 소규모 코어 팀(Khoroshev 및 관련자들)이 랜섬웨어 코드베이스, 어필리에이트 패널, 데이터 유출 사이트, 그리고 협상 채팅 인프라를 유지하였다. 패널 접근 권한을 부여받기 전에 검증을 거친 어필리에이트들에는 이후 미국/프랑스/폴란드/우크라이나 기소 문서에 명시된 다음 인물들이 포함된다: Mikhail Vasiliev(러시아-캐나다 이중국적, 2022년 캐나다에서 체포, 2024년 미국으로 이송), Ruslan Astamirov(러시아 국적, 2023년 애리조나에서 체포), Mikhail Matveev / "Wazawaka" / "Boriselcin", Artur Sungatov, Ivan Kondratyev / "Bassterlord". 이는 <em>highly likely</em> 2022-2024년 RaaS 조직의 전형적(modal) 패턴이다.</p>
+<h3 id="investigation-origins">Investigation Origins</h3>
+<p>장기간에 걸친 다년간의 준비가 와해에 선행하였다: <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a>은 <strong>27차례의 작전 회의와 4회의 기술 스프린트</strong>를 조직하였고, 참여 기관 간에 추정 <strong>1,000건 이상의 SIENA 메시지</strong>가 교환되었다. 영국 <a href="../../wiki/organizations/uk-nca.html" class="wikilink">National Crime Agency</a>가 작전 축을 주도하였으며, 어필리에이트 패널 및 코어 서버에 대한 은밀한 접근을 확보하고 있었다; 프랑스 사법당국은 작전일 폴란드 및 우크라이나에서의 체포를 촉발한 체포영장 프레임워크를 제공하였다.</p>
+<h2 id="_7">참여 당사자</h2>
+<h3 id="lead-agency">Lead Agency</h3>
 <ul>
-<li>14,000+ rogue accounts identified for removal</li>
-<li>Free decryption tools released on No More Ransom portal</li>
-<li>3 international arrest warrants issued</li>
+<li><a href="../../wiki/organizations/uk-nca.html" class="wikilink">UK National Crime Agency (NCA, 영국 국가범죄청)</a></li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h3 id="coordinating-bodies">Coordinating Bodies</h3>
 <ul>
-<li>체포: <strong>2명</strong> (피의자 규모)</li>
-<li>서버 압수: <strong>34대</strong> (인프라 규모)</li>
-<li>암호화폐 압수: <strong>200+ accounts frozen</strong> (자금 흐름 규모)</li>
+<li><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a> — 작전 조율, 분석 지원, 27차례 작전 회의</li>
+<li><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a> — 사법 조율</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Uk Nca</p>
-<p><strong>조정기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Uk Nca, Europol Ec3, Eurojust, France Gendarmerie, Germany Bka, Netherlands Politie, Sweden Police, Australia Afp, Canada Rcmp, Japan Npa 외 2개</p>
-<p><strong>참여국:</strong> France, Germany, Netherlands, Sweden, Australia, Canada, Japan, United Kingdom, United States, Switzerland 외 4개</p>
-<h2 id="_7">작전 일정</h2>
+<h3 id="participating-countries-10">Participating Countries (10)</h3>
+<p>프랑스, 독일, 네덜란드, 스웨덴, 호주, 캐나다, 일본, 영국, 미국, 스위스</p>
+<h3 id="supporting-countries-4">Supporting Countries (4)</h3>
+<p>핀란드, 폴란드, 뉴질랜드, 우크라이나</p>
+<h3 id="participating-agencies-12">Participating Agencies (12)</h3>
+<p><a href="../../wiki/organizations/uk-nca.html" class="wikilink">uk-nca</a>, <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a>, <a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>, <a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">French Gendarmerie(프랑스 헌병대)</a>, <a href="../../wiki/organizations/germany-bka.html" class="wikilink">German BKA(독일 연방수사청)</a>, <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Dutch National Police(네덜란드 국가경찰)</a>, <a href="../../wiki/organizations/sweden-police.html" class="wikilink">Swedish Police(스웨덴 경찰)</a>, <a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police(호주 연방경찰)</a>, <a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">RCMP(캐나다 기마경찰)</a>, <a href="../../wiki/organizations/japan-npa.html" class="wikilink">Japanese NPA(일본 경찰청)</a>, <a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI(미국 연방수사국)</a>, <a href="../../wiki/organizations/switzerland-fedpol.html" class="wikilink">Swiss Fedpol(스위스 연방경찰)</a></p>
+<h2 id="_8">법적 근거</h2>
+<p>본 작전은 복수 관할권에서의 사법 조치를 수반하였다:
+- <strong>프랑스 당국</strong>은 체포영장 및 기소를 발부
+- <strong>미국 당국</strong>은 기소 발부(프랑스와 미국 합산 5건)
+- <strong>체포</strong>는 프랑스 사법당국의 요청에 따라 폴란드 및 우크라이나에서 집행</p>
+<div class="callout callout-info"><div class="callout-title">ℹ️ Legal-basis note
+(한국어 번역: 국경 간 집행 조치에 대한 구체적인 법적 근거(조약 규정, 국내 권한)는 추가 출처를 통해 확인할 필요가 있다.)</div><div class="callout-body"></div></div>
+<h2 id="_9">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>날짜</th>
+<th>사건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pre-2024</td>
+<td>27차례 Europol 작전 회의를 포함한 다년간 수사</td>
+</tr>
+<tr>
+<td>Pre-2024</td>
+<td>4회 기술 스프린트 수행</td>
+</tr>
+<tr>
+<td>2024-02-20</td>
+<td>조율 작전일: 8개국에 걸쳐 34대 서버 압수</td>
+</tr>
+<tr>
+<td>2024-02-20</td>
+<td>폴란드 및 우크라이나에서 2명 체포</td>
+</tr>
+<tr>
+<td>2024-02-20</td>
+<td>200개 이상의 암호화폐 계정 동결</td>
+</tr>
+<tr>
+<td>2024-02-20</td>
+<td>14,000개 이상의 비인가 계정 식별</td>
+</tr>
+<tr>
+<td>2024-02-20</td>
+<td>No More Ransom에 복호화 도구 공개</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_10">결과 및 영향</h2>
+<table>
+<thead>
+<tr>
+<th>지표</th>
+<th>수치</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>체포</td>
+<td>2 (폴란드, 우크라이나)</td>
+</tr>
+<tr>
+<td>국제 체포영장</td>
+<td>3</td>
+</tr>
+<tr>
+<td>기소</td>
+<td>5 (프랑스, 미국)</td>
+</tr>
+<tr>
+<td>압수 서버</td>
+<td>34 (8개국 전역)</td>
+</tr>
+<tr>
+<td>동결 암호화폐 계정</td>
+<td>200+</td>
+</tr>
+<tr>
+<td>식별된 비인가 계정</td>
+<td>14,000+</td>
+</tr>
+<tr>
+<td>작전 회의</td>
+<td>27</td>
+</tr>
+<tr>
+<td>기술 스프린트</td>
+<td>4</td>
+</tr>
+<tr>
+<td>교환 SIENA 메시지</td>
+<td>1,000+</td>
+</tr>
+</tbody>
+</table>
+<p>"No More Ransom" 포털(37개 언어로 제공되며, 150여 종의 랜섬웨어에 대한 120여 개의 솔루션을 포함)에 무료 복호화 도구를 공개한 것은 <em>highly likely</em> 전 세계 피해자에게 즉각적인 구제를 제공한 것으로 평가된다.</p>
+<h2 id="_11">활용된 협력 메커니즘</h2>
 <ul>
-<li><strong>발표:</strong> 2024-02-20</li>
-<li><strong>개시:</strong> 2024-02-20</li>
-<li><strong>종료:</strong> 2024-02-20</li>
+<li><strong>SIENA</strong>(Secure Information Exchange Network Application): 1,000건 이상의 작전 메시지 교환</li>
+<li><strong>Europol 작전 회의:</strong> 27차례 회의가 계획 및 조율을 위해 조직됨</li>
+<li><strong>기술 스프린트:</strong> 조율된 기술 분석을 위한 4회 스프린트</li>
+<li><strong>No More Ransom 포털:</strong> 피해자 복호화 도구 배포를 위한 민관 공동 이니셔티브</li>
 </ul>
-<h2 id="_8">결과 및 영향</h2>
+<h2 id="_12">교훈</h2>
+<ol>
+<li><strong>다년 조율의 효용성:</strong> 27차례의 작전 회의 및 4회의 기술 스프린트에 대한 지속적 투자는, 표적이 인프라를 이전하지 못하도록 막는 데 필수적인 다국적 동시 조치를 가능하게 하였다.</li>
+<li><strong>피해자 중심 접근:</strong> No More Ransom을 통한 신속한 복호화 도구 공개는, 작전 산출물이 단순히 집행 목적뿐만 아니라 피해자에게도 직접적인 이익이 될 수 있음을 보여주었다.</li>
+<li><strong>SIENA의 중추적 역할:</strong> 1,000건 이상의 SIENA 메시지는 본 플랫폼이 대규모 EU 조율 작전을 위한 핵심 보안 통신 채널임을 확인시켰다.</li>
+<li><strong>단계적 접근:</strong> 본 작전은 지속적인 캠페인(1단계)으로 설계되었으며, 후속 조치가 계획되었다 — 이는 <em>highly likely</em> 랜섬웨어 생태계에 대한 지속적 압박을 유지하기 위한 의도적 설계였다.</li>
+</ol>
+<h2 id="_13">후속 조치</h2>
 <ul>
-<li><strong>2명</strong> 체포</li>
-<li><strong>34대</strong> 서버 압수</li>
-<li><strong>200+ accounts frozen</strong> 암호화폐 압수</li>
-<li>14,000+ rogue accounts identified for removal</li>
-<li>Free decryption tools released on No More Ransom portal</li>
-<li>3 international arrest warrants issued</li>
+<li><a href="../../wiki/operations/operation-cronos-phase3.html" class="wikilink">Operation Cronos Phase 3</a> (2024년 10월): 추가 4명 체포, 서버 9대 압수, Evil Corp 어필리에이트에 대한 금융 제재</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>2.28</strong> | 출처: 7건</p>
-</blockquote></div>
+<h2 id="_14">한국의 참여</h2>
+<p>Operation Cronos Phase 1에서 한국의 직접적 참여는 확인되지 않았다. 다만, LockBit 피해자는 전 세계 기관을 포함하고 있고, 한국이 2024년 <a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">budapest-convention</a>에 가입함으로써 유사 작전을 위한 향후 협력 채널이 강화되었으므로, 본 작전은 한국의 사이버범죄 협력 프레임워크와 관련성을 가진다.</p>
+<h2 id="_15">모순점 및 미해결 문제</h2>
+<ul>
+<li>폴란드 및 우크라이나에서의 국경 간 체포에 대해 구체적으로 어떤 법적 근거(조약 규정)가 원용되었는가?</li>
+<li>작전일 이전 수사 단계의 정확한 범위와 시기는 무엇이었는가?</li>
+<li>공개된 복호화 도구의 직접적 지원을 받은 피해자는 몇 명인가?</li>
+<li>Phase 1 프론트매터는 작전일(폴란드, 우크라이나)의 2명 체포만 기록하고 있으나, 어필리에이트별 식별(Vasiliev, Astamirov, Matveev, Sungatov, Kondratyev, Khoroshev)은 2022년부터 2024-05 제재까지 점진적으로 축적된 것이며; Phase 1 페이지는 "체포"를 의도적으로 2024-02-20 작전일에 한정하여 범위를 설정한다 — 누적 미국 기소 파이프라인은 <a href="../../wiki/operations/operation-cronos-phase2.html" class="wikilink">operation-cronos-phase2</a>를 참조하라.</li>
+<li>"미화 10억 달러 초과"라는 총 랜섬 수익 수치(FCDO 2024-05-07)는 <em>highly likely</em> DOJ의 체인 분석과 NCA의 인프라 접근을 결합한 집행 측 추정치이며; 정확한 방법론은 공개되지 않았다.</li>
+</ul>
+<!-- SOURCE_ENRICHMENT_START -->
+
+<h2 id="source-coverage">Source Coverage</h2>
+<ul>
+<li>Europol, 2024-02-20: Law enforcement disrupt world's biggest ransomware operation - Operation Cronos (LockBit).</li>
+<li>Foreign, Commonwealth &amp; Development Office, 2024-05-07: UK and Allies Sanction Prolific Cyber Hacker.</li>
+<li>US DOJ (District of New Jersey), 2024-07-18: Two Foreign Nationals Plead Guilty to Participation in LockBit Ransomware Group.</li>
+<li>DOJ NJ, 2024-07-22: LockBit case summary page.</li>
+<li>Europol, 2024-10-01: Operation Cronos Phase 3.</li>
+<li>National Crime Agency, 2024-12-04: Operation Destabilise: NCA disrupts multi-billion money laundering networks.</li>
+<li>Office of Financial Sanctions Implementation, 2026-01-28: Financial sanctions guidance for ransomware.</li>
+</ul>
+<h2 id="evidence-and-attribution-notes">Evidence and Attribution Notes</h2>
+<ul>
+<li>Operation Cronos Phase 1은 2024년 2월 20일, 2022년 이래 전 세계적으로 가장 많이 배포된 랜섬웨어인 LockBit을 와해시켰다.</li>
+<li>10개국이 12개 기관과 함께 참여하였으며, 영국 NCA가 주도하고 Europol 및 Eurojust가 조율하였다.</li>
+<li>8개국에 걸쳐 34대 서버 압수, 2명 체포(폴란드, 우크라이나), 5건 기소, 200개 이상의 암호화폐 계정 동결.</li>
+<li>150여 종의 랜섬웨어를 다루는 무료 복호화 도구가 No More Ransom 포털에 공개되었다.</li>
+<li>Europol은 27차례의 작전 회의와 4회의 기술 스프린트를 조직하였으며, 1,000건 이상의 SIENA 메시지가 교환되었다.</li>
+<li>2024년 2월 20일, 10개국의 법집행기관이 <strong>Operation Cronos</strong>로 알려진 합동수사를 통해 LockBit 랜섬웨어 작전을 와해시켰으며, 본 합동수사는 영국 National Crime Agency가 주도하고 Europol과 Eurojust가 조율하였다.</li>
+<li>LockBit은 2019년 말 등장한 이래 2022년부터 전 세계적으로 가장 많이 배포된 랜섬웨어 변종이었다.</li>
+<li>본 작전의 결과로 8개국에 걸쳐 34대 서버 압수, 2명 체포, 5건 기소, 200개 이상의 암호화폐 계정 동결, 14,000개의 비인가 계정 식별이 이루어졌다.</li>
+</ul>
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+<h2 id="raw-source-highlights">Raw Source Highlights</h2>
+<ul>
+<li>Foreign, Commonwealth &amp; Development Office, 2024-05-07: Today's sanctions target Russian national Dmitry Khoroshev who has been identified, as part of an ongoing international law enforcement investigation, as one of the leaders of LockBit, the ransomware group responsible for extorting over $1 billion from thousands of victims globally.</li>
+<li>Foreign, Commonwealth &amp; Development Office, 2024-05-07: In February the NCA announced that it had infiltrated the group's network and taken control of its services , compromising the entire criminal enterprise.</li>
+<li>DOJ NJ, 2024-07-22: 24-299 Case Summary : Defendants Matveev, Vasiliev, Astamirov, Sungatov, Kondratyev, and Khoroshev have been charged for their role in a conspiracy to deploy a ransomware variant known as "LockBit," a prolific form of malware and, at relevant times, the most deployed ransomware variant across the world.</li>
+<li>DOJ NJ, 2024-07-22: law, LockBit victims anywhere in the world are entitled to certain rights as a crime victim with respect to the ongoing LockBit prosecutions, including the right to claim restitution and/or to submit a victim impact statement to the Court for consideration at the sentencing of any LockBit defendant.</li>
+<li>National Crime Agency, 2024-12-04: Operation Destabilise: NCA disrupts $multi-billion Russian money laundering networks with links to, drugs, ransomware and espionage, resulting in 84 arrests - National Crime Agency --&gt; Skip to content Quick exit Cymraeg Reporting SARs CSEA Reporting for Industry Protecting the public from serious and organised crime Who we are show.</li>
+<li>Office of Financial Sanctions Implementation, 2026-01-28: Financial sanctions guidance for ransomware - GOV.UK Cookies on GOV.UK We use some essential cookies to make this website work.</li>
+<li>Office of Financial Sanctions Implementation, 2026-01-28: Cyber resilience and mitigating ransomware attacks Print this page © Crown copyright 2026 This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.</li>
+</ul>
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+<h2 id="canonical-operation-assessment">정본 작전 평가(Canonical Operation Assessment)</h2>
+<p>본 페이지는 LockBit 랜섬웨어 그룹에 대한 테이크다운을 기술하는 정본 작전으로 유지되며, 피고인 특정 후속 조치(defendant-specific follow-on action)가 아니다. 본 기록은 주도 책임을 Uk Nca에, 조율을 Europol Ec3에 귀속시키며, 참여 또는 영향을 받은 관할권은 프랑스, 독일, 네덜란드, 스웨덴, 호주, 캐나다, 일본, 영국, 미국, 스위스, 핀란드, 폴란드, 뉴질랜드, 우크라이나로 기록한다.</p>
+<p>협력 모델은 명시된 기관 및 파트너를 통해 문서화된다: Uk Nca, Europol Ec3, Eurojust, France Gendarmerie, Germany Bka, Netherlands Politie, Sweden Police, Australia Afp, Canada Rcmp, Japan Npa; 집행 양태(enforcement posture): 체포(Arrest), 압수(Seizure), 테이크다운(Takedown), 기소(Indictment), 자산 동결(Asset Freeze).</p>
+<p>정본 기록을 위해 포착된 작전 결과: 체포 2건; 기소 5건; 서버 압수 34대; 암호화폐/자산 결과는 200개 이상의 계정 동결로 기록; 14,000개 이상의 비인가 계정이 제거 대상으로 식별; No More Ransom 포털에 무료 복호화 도구 공개; 국제 체포영장 3건 발부.</p>
+<p>정본 출처 세트는 7건의 참고문헌을 포함한다: 2024 02 20 Europol Operation Cronos Lockbit, 2024 05 07 Gov Uk Uk And Allies Sanction Prolific Cyber Hacker, 2024 07 18 Nj Lockbit Astamirov Vasiliev Pleas, 2024 07 22 Justice Gov Lockbit Case Summary Page, 2024 10 01 Europol Europa Eu Operation Cronos Phase 3, 2024 12 04 Nationalcrimeagency Gov Uk Operation Destabilise Nca Disrupts Multi Billion Money Laundering Networks, 외 1건.
+출처 하한선(source floor)은 정본 작전 기준을 충족하지만, 출처의 폭(source breadth) 자체가 모든 하위(downstream) 체포 또는 양형이 본 작전의 일부임을 입증하지는 않는다; 후속 기록은 별도로 연결된 상태로 유지되어야 한다.
+본 페이지가 여전히 안고 있는 알려진 메타데이터 갭: 법적 근거(Legal Basis) 및 활용 메커니즘(Mechanisms Used).
+데이터셋 사용 시, 본 페이지는 작전 수준 집계점(operation-level aggregation point)으로 취급되어야 한다: 국가, 기관, 메커니즘, 결과 필드는 조율된 집행 조치 전체를 기술한다. 이후의 기소, 답변(plea), 양형, 범죄인 인도, 자산몰수 조치는, 출처가 이를 새로운 다국적 작전으로 명시적으로 제시하지 않는 한, 관련 사건(related case)으로 첨부되거나 후속 기록(follow-on record)으로 흡수되어야 한다.
+출처 기록이 더 광범위한 배경, 반복적 통신사 재게재(wire-service republications), 또는 토픽 페이지 자료를 포함하는 경우, 본 평가는 명시된 작전, 그 참여 당국, 그 표적 인프라 또는 범죄 서비스, 그리고 측정 가능한 집행 결과에 직접적으로 연결된 사실에 우선순위를 부여한다. 주변적 출처 제목은 독립적 분류(taxonomy) 또는 결과 증거로 취급되지 않는다.
+이는 정본 기록을 분석적으로 한정되고(재현 가능한) 상태로 유지하기 위함이다.</p>
+<!-- CANONICAL_ASSESSMENT_END -->
+
+<h2 id="_16">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>발행처</th>
+<th>날짜</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>Law enforcement disrupt world's biggest ransomware operation - Operation Cronos (LockBit)</td>
+<td>Europol</td>
+<td>2024-02-20</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>UK and Allies Sanction Prolific Cyber Hacker</td>
+<td>Foreign, Commonwealth &amp; Development Office</td>
+<td>2024-05-07</td>
+<td><a href="https://www.gov.uk/government/news/uk-and-allies-sanction-prolific-cyber-hacker" target="_blank" rel="noopener noreferrer" title="https://www.gov.uk/government/news/uk-and-allies-sanction-prolific-cyber-hacker" data-full-url="https://www.gov.uk/government/news/uk-and-allies-sanction-prolific-cyber-hacker" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>Two Foreign Nationals Plead Guilty to Participation in LockBit Ransomware Group</td>
+<td>US DOJ (District of New Jersey)</td>
+<td>2024-07-18</td>
+<td><a href="https://www.justice.gov/usao-nj/pr/two-foreign-nationals-plead-guilty-participation-lockbit-ransomware-group" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-nj/pr/two-foreign-nationals-plead-guilty-participation-lockbit-ransomware-group" data-full-url="https://www.justice.gov/usao-nj/pr/two-foreign-nationals-plead-guilty-participation-lockbit-ransomware-group" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>LockBit case summary page</td>
+<td>DOJ NJ</td>
+<td>2024-07-22</td>
+<td><a href="https://www.justice.gov/usao-nj/lockbit" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-nj/lockbit" data-full-url="https://www.justice.gov/usao-nj/lockbit" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>Operation Cronos Phase 3</td>
+<td>Europol</td>
+<td>2024-10-01</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[6]</td>
+<td>Operation Destabilise: NCA disrupts multi-billion money laundering networks</td>
+<td>National Crime Agency</td>
+<td>2024-12-04</td>
+<td><a href="https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests" target="_blank" rel="noopener noreferrer" title="https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests" data-full-url="https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[7]</td>
+<td>Financial sanctions guidance for ransomware</td>
+<td>Office of Financial Sanctions Implementation</td>
+<td>2026-01-28</td>
+<td><a href="https://www.gov.uk/government/publications/financial-sanctions-guidance-for-ransomware/financial-sanctions-guidance-for-ransomware" target="_blank" rel="noopener noreferrer" title="https://www.gov.uk/government/publications/financial-sanctions-guidance-for-ransomware/financial-sanctions-guidance-for-ransomware" data-full-url="https://www.gov.uk/government/publications/financial-sanctions-guidance-for-ransomware/financial-sanctions-guidance-for-ransomware" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p><strong>Operation Cronos Phase 1</strong> was a landmark international law enforcement action that disrupted <strong>LockBit</strong>, the world's most deployed ransomware variant since 2022. On 20 February 2024, agencies from 10 countries executed a coordinated takedown of LockBit's infrastructure, led by the <a href="../../wiki/organizations/uk-nca.html" class="wikilink">UK National Crime Agency</a> and coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> and <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>.</p>
 <p>The operation resulted in 34 servers seized across 8 countries, 2 arrests, 5 indictments, the freezing of over 200 cryptocurrency accounts, and the identification of 14,000+ rogue accounts. Free decryption tools were made available to victims worldwide through the "No More Ransom" portal.</p>

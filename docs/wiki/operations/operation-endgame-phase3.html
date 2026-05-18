@@ -80,62 +80,168 @@
     </div>
     <div class="article-body">
 
-        <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>오퍼레이션 엔드게임 — 페이즈 3 (정보탈취·RAT·봇넷 차단)</strong> <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2025-11 ~ 2025-11-13</strong> 기간 동안 <strong>9개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Rhadamanthys infostealer (malware-as-a-service since 2022), VenomRAT (RAT delivered via phishing), and the Elysium botnet</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>악성코드, 랜섬웨어, 해킹</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Rhadamanthys infostealer (malware-as-a-service since 2022), VenomRAT (RAT delivered via phishing), and the Elysium botnet</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+        <div class="ko-block"><h2 id="_1">요약</h2>
+<p>2025년 11월 13일자 <a href="../../wiki/operations/operation-endgame.html" class="wikilink">Operation Endgame(엔드게임 작전)</a> 단계는 세 개의 거명된 악성코드 패밀리 — 2022년에 등장한 서비스형 악성코드(MaaS) 제공물인 Rhadamanthys 정보탈취형 악성코드, 피싱을 통해 전달되는 VenomRAT 원격 접근 트로이목마, 그리고 이와 연관된 Elysium 봇넷 — 의 배후 범죄 인프라를 해체하였다. Eurojust(유럽사법협력기구) 보도자료에 따르면 전 세계에서 1,025대의 서버를 차단하고, 20개 도메인을 압수하였으며, 참여 관할 구역 전반에 걸쳐 11건의 수색을 수행하였고, 탈취되었으나 아직 악용되지 않은 10만 개 이상의 암호화폐 지갑 로그인 데이터를 복구하였다. 그리스에서 RAT 라인의 주요 용의자 1명이 체포되었다.</p>
+<p>본 조치는 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a> 및 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>를 통해 "처음부터" 조정되었다. 인용된 tier-1 보도자료는 8개 참여 당국과 더불어, RAT 라인 체포에 대해 그리스를 거명한다. 보도자료는 본 작전을 공식 <a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">공동수사팀(JIT)</a>으로 지정하거나 JIT 약어를 사용하지 않는다.</p>
+<h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
+<p>(본 절은 페이즈 3에서 차단된 3개 악성코드 패밀리의 <strong>범죄 실체</strong> — 수법(모더스 오페란디), 피해자 프로파일 및 영향, 자금 흐름, 범죄 조직 구조 — 를 기술한다. 단계 간 Endgame 우산 맥락은 상위 페이지 <a href="../../wiki/operations/operation-endgame.html" class="wikilink">Operation Endgame</a> 및 위 요약에 속한다.)</p>
+<h3 id="3">수법(모더스 오페란디) — 페이즈 3의 세 악성코드 패밀리</h3>
+<p>페이즈 3은 <strong>초기 접근 / 지속성 / 수익화</strong> 스택의 별개 단계에 위치한 세 개의 거명된 악성코드 패밀리를 표적으로 삼았다:</p>
+<ol>
+<li><strong>Rhadamanthys</strong> — 2022년 말에 등장한 <strong>서비스형 정보탈취 악성코드</strong>(MaaS) 운영이며, 러시아어 사이버 범죄 포럼(XSS, Exploit)에서 마케팅된다. 이 정보탈취형 악성코드는 악성 광고, 크랙 소프트웨어 미끼, 피싱 이메일, SEO 포이즈닝을 통해 배포하는 범죄 고객("트래퍼")에게 판매되거나 임대된다. 피해자 기기에서 실행되면 Rhadamanthys는 브라우저에 저장된 자격증명, 뱅킹 세션 쿠키, 암호화폐 지갑 시드 및 개인 키, 스크린샷, 클립보드 내용을 수집하여, 판매 또는 후속 사용을 위해 운영자가 통제하는 통제 패널로 데이터를 유출한다.</li>
+<li><strong>VenomRAT</strong> — 주로 피싱을 통해 전달되는 원격 접근 트로이목마. 설치되면 VenomRAT은 피해 기기에 대한 완전한 원격 통제 — 키로깅, 화면 캡처, 마이크/웹캠 캡처, 파일 유출, 측면 이동, 추가 페이로드를 위한 다운로더/드로퍼 기능 — 를 제공한다. VenomRAT은 사이버 범죄 포럼에서 판매 제공되었다(전형적인 RAT-as-a-Service 모델: 빌더 + 통제 패널 + 난독화 도구).</li>
+<li><strong>Elysium</strong> — VenomRAT(및 가능하게는 Rhadamanthys) 감염으로부터 구축된 연관 봇넷. Elysium 봇넷은 침해된 호스트들에 대한 하류 <strong>수익화 인프라</strong>를 제공하였다: 프록시 서비스, 분산 서비스 거부 용량, 클릭 사기, 그리고 다른 범죄 고객들을 위한 설치당 결제(pay-per-install) 배포.</li>
+</ol>
+<p>이 세 패밀리는 함께 <strong>초기 접근 → 지속성 → 수익화</strong> 사이클의 전 과정을 운용한다: Rhadamanthys는 자격증명을 수집하고, VenomRAT은 지속적인 원격 통제를 제공하며, Elysium은 침해된 호스트를 임대 가능한 범죄 인프라로 전환한다.</p>
+<h3 id="_2">피해자 프로파일 및 영향</h3>
+<p>인용된 tier-1 Eurojust 보도자료는 다음을 보고한다:</p>
 <ul>
-<li>1,025 servers worldwide shut down</li>
-<li>20 domains seized</li>
-<li>11 searches conducted across participating jurisdictions</li>
-<li>Login data from over 100,000 cryptocurrency wallets recovered (stolen but not yet exploited per Eurojust)</li>
-<li>Three named malware families disrupted: Rhadamanthys (infostealer), VenomRAT (RAT), and Elysium (botnet)</li>
-<li>Main RAT-line suspect arrested in Greece</li>
+<li>Rhadamanthys + VenomRAT + Elysium 생태계 전반에 걸쳐 <strong>60만 명 이상의 감염 피해자</strong>가 귀속됨(이 수치는 더 넓은 페이즈 3 보도에서 가져온 것이며, Eurojust 보도자료는 패밀리별 수치 없이 "전 세계 피해자"라고 기술한다).</li>
+<li><strong>10만 개 이상의 암호화폐 지갑</strong> 로그인 데이터가 운영자 인프라에서 복구됨 — Eurojust는 이를 "탈취되었으나 아직 악용되지 않음"으로 기술하여, 본 조치가 자격증명이 인출되기 전에 수익화 파이프라인을 차단하였음을 시사한다.</li>
+<li><strong>피해 부문</strong>: 인용된 tier-1 보도자료에 패밀리별로 열거되어 있지 않다. Rhadamanthys의 지갑 및 자격증명 유출 프로파일은 상당한 <strong>소매 최종 사용자 및 암호화폐 투자자</strong> 피해자 기반을 시사한다; VenomRAT의 RAT 기능은 추가적인 <strong>중소기업</strong> 침해 피해자를 시사한다. 인용된 보도자료는 국가별 피해자 세부 내역을 제공하지 않는다.</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on victim profile
+인용된 Eurojust 보도자료는 악성코드 패밀리별 피해자 수, 국가별 피해자 분포, 또는 피해 부문별 재정 피해 수치를 공개하지 않는다. "60만 명 이상의 감염 피해자" 수치는 세 패밀리 전체를 합산한 것이다. Contradictions 절 참조.</div><div class="callout-body"></div></div>
+<h3 id="_3">자금 흐름</h3>
 <ul>
-<li>체포: <strong>1명</strong> (피의자 규모)</li>
-<li>서버 압수: <strong>1,025대</strong> (인프라 규모)</li>
-<li>도메인 압수/차단: <strong>20개</strong></li>
+<li>수사관에 의해 로그인 데이터가 복구된 <strong>10만 개 이상의 암호화폐 지갑</strong>. Eurojust는 이 자격증명들을 <strong>탈취되었으나 아직 악용되지 않은</strong> 상태로 기술하였는데, 이는 운영자들이 테이크다운 시점에 지갑 내용을 수집하였으나 아직 청산하지 않았음을 의미한다. 미악용 지갑들의 누적 달러 가치는 인용된 보도자료에서 공개되지 않는다.</li>
+<li><strong>페이즈 3 중 법 집행기관이 압수한 암호화폐</strong>: Eurojust 보도자료에서 열거되지 않는다(인용된 <code>results.cryptocurrency_seized</code> 필드는 비어 있다).</li>
+<li><strong>운영자 측 수익 모델</strong>: Rhadamanthys MaaS 구독은 사이버 범죄 포럼에서 월 단위로 광고된다(전형적인 Rhadamanthys 30일 구독은 포럼 게시 기준 USD 200–USD 1,000 범위에서 책정되었다; tier-1 출처는 페이즈 3 구체 사항을 열거하지 않는다). VenomRAT은 비교 가능한 구독 / 빌드 라이선스 모델을 따랐다. Elysium 봇넷 수익화 흐름은 프록시 및 DDoS 임대, 설치당 결제 수수료, 자격증명 재판매 수익을 포함한다. 인용된 보도자료에는 운영자 수익 총합 수치가 공개되지 않는다.</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Europol Ec3</p>
-<p><strong>조정기관:</strong> Eurojust</p>
-<p><strong>참여기관:</strong> Germany Bka, Germany Frankfurt Prosecutor, France Gendarmerie, Netherlands Politie, Denmark Police, Uk Nca, Us Doj, Fbi, Us Dcis, Australia Afp 외 3개</p>
-<p><strong>참여국:</strong> Germany, France, Netherlands, Denmark, United Kingdom, United States, Australia, Canada, Greece</p>
-<h2 id="_7">작전 일정</h2>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on financial flow
+인용된 Eurojust 보도자료는 지갑 자격증명 차단 수치를 공개하지만 (a) 복구된 10만 개 이상 지갑의 총합 암호화폐 가치, (b) 패밀리별 운영자 수익, 또는 (c) 패밀리별 피해자 재정 피해는 <strong>공개하지 않는다</strong>. Contradictions 절 참조.</div><div class="callout-body"></div></div>
+<h3 id="_4">범죄 조직 구조</h3>
+<p>인용된 Eurojust 보도자료는 다음과 같은 구조적 요소를 식별한다:</p>
 <ul>
-<li><strong>발표:</strong> 2025-11-13</li>
-<li><strong>개시:</strong> 2025-11</li>
-<li><strong>종료:</strong> 2025-11-13</li>
+<li><strong>Rhadamanthys 운영자 팀</strong> — 코드베이스, 통제 패널 인프라, 그리고 포럼 측 고객 모집. 페이즈 3 테이크다운은 운영자가 통제하는 서버 및 고객 대응 인프라를 차단하였다; 인용된 tier-1 보도자료는 Rhadamanthys 운영자의 이름을 공개적으로 거명하지 않는다.</li>
+<li><strong>VenomRAT 운영자 / 주모자</strong> — 페이즈 3 중 RAT 라인의 주요 용의자 1명이 <strong>그리스에서 체포</strong>되었다(아티카, 그리스 경찰에 의해; 자세한 사항은 <a href="../../wiki/operations/hellenic-police-endgame-venomrat-mastermind-attica-arrest-2025.html" class="wikilink">관련 체포 페이지</a>). 인용된 Eurojust 보도자료는 이 개인을 VenomRAT 라인에 책임이 있는 "주요 용의자"로 기술한다; 신원은 인용된 보도자료에서 공개되지 않는다.</li>
+<li><strong>Elysium 봇넷 운영자 연계</strong> — VenomRAT 운영자 풀과 겹치며(Eurojust는 Elysium을 RAT 라인과 "연관"된 것으로 기술), 인용된 보도자료는 두 운영자 집단을 완전히 구분하지 않는다.</li>
+<li><strong>제휴자 / 고객 기반</strong> — 세 패밀리 각각은 "트래퍼" 및 하류 범죄 운영자들로 구성된 고객 풀에 판매되거나 임대된다. 복구된 10만 개 이상의 지갑은 세 운영자 팀 하류에 있는 대규모 고객 운영자 발자국을 시사한다.</li>
+<li><strong>포럼 연계</strong>: 인용된 보도자료는 세 패밀리가 마케팅된 특정 사이버 범죄 포럼(XSS, Exploit 등)을 열거하지 않는다; 그러한 포럼과의 연결은 전형적인 Rhadamanthys / VenomRAT 시장 관행과 더 넓은 <a href="../../wiki/operations/xss-is-cybercrime-forum-takedown-2025.html" class="wikilink">XSS 포럼 테이크다운</a> 맥락에서 추론된다.</li>
 </ul>
-<h2 id="_8">결과 및 영향</h2>
+<div class="callout callout-note"><div class="callout-title">📝 Gap on OCG structure
+인용된 Eurojust 보도자료는 한 명의 용의자(그리스에서 체포된 VenomRAT 주요 용의자)만 거명하며, Rhadamanthys 또는 Elysium 운영자, 고객 명단, 또는 제휴자 식별자를 공개적으로 식별하지 않는다. Contradictions 절 참조.</div><div class="callout-body"></div></div>
+<h2 id="_5">참여 당사자</h2>
+<table>
+<thead>
+<tr>
+<th>역할</th>
+<th>당사자</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>조정 기구</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> 및 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a></td>
+</tr>
+<tr>
+<td>독일</td>
+<td><a href="../../wiki/organizations/germany-bka.html" class="wikilink">독일 연방수사청(BKA)</a>; <a href="../../wiki/organizations/germany-frankfurt-prosecutor.html" class="wikilink">프랑크푸르트 암 마인 검찰총장청 – 사이버범죄과</a></td>
+</tr>
+<tr>
+<td>프랑스</td>
+<td>파리 검찰 사이버범죄과 J3; JUNALCO 수사판사; BL2C(파리 경찰청 사이버 부서); <a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">OFAC(중앙 사이버범죄 사무국)</a></td>
+</tr>
+<tr>
+<td>네덜란드</td>
+<td>네덜란드 검찰청(국가 사무소); <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">네덜란드 경찰</a></td>
+</tr>
+<tr>
+<td>덴마크</td>
+<td>덴마크 검찰; <a href="../../wiki/organizations/denmark-police.html" class="wikilink">덴마크 경찰</a></td>
+</tr>
+<tr>
+<td>영국</td>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">영국 국가범죄청(NCA)</a></td>
+</tr>
+<tr>
+<td>미국</td>
+<td><a href="../../wiki/organizations/us-doj.html" class="wikilink">법무부</a>; <a href="../../wiki/organizations/fbi.html" class="wikilink">FBI</a>; <a href="../../wiki/organizations/us-dcis.html" class="wikilink">국방범죄수사청</a></td>
+</tr>
+<tr>
+<td>호주</td>
+<td><a href="../../wiki/organizations/australia-afp.html" class="wikilink">호주 연방경찰(AFP)</a></td>
+</tr>
+<tr>
+<td>캐나다</td>
+<td><a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">캐나다 왕립기마경찰(RCMP)</a>; 퀘벡 보안경찰</td>
+</tr>
+<tr>
+<td>그리스</td>
+<td>(체포 관할; 그리스 경찰 기관은 보도자료에 거명되지 않음)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_6">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>날짜</th>
+<th>사건</th>
+<th>출처</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024-05-30</td>
+<td>Operation Endgame 페이즈 1 발표(드로퍼/로더 테이크다운)</td>
+<td>(<a href="../../wiki/operations/operation-endgame-phase1.html" class="wikilink">operation-endgame-phase1</a> 참조)</td>
+</tr>
+<tr>
+<td>2025-05-23</td>
+<td>Operation Endgame 페이즈 2 발표(랜섬웨어 킬 체인 차단)</td>
+<td>(<a href="../../wiki/operations/operation-endgame-phase2.html" class="wikilink">operation-endgame-phase2</a> 참조)</td>
+</tr>
+<tr>
+<td>2025-11-13</td>
+<td>Operation Endgame 페이즈 3 발표(정보탈취 + RAT + 봇넷 차단)</td>
+<td>Eurojust 2025-11-13</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_7">결과 및 영향</h2>
 <ul>
-<li><strong>1명</strong> 체포</li>
-<li><strong>1,025대</strong> 서버 압수</li>
-<li><strong>20개</strong> 도메인 압수/차단</li>
-<li>1,025 servers worldwide shut down</li>
-<li>20 domains seized</li>
-<li>11 searches conducted across participating jurisdictions</li>
-<li>Login data from over 100,000 cryptocurrency wallets recovered (stolen but not yet exploited per Eurojust)</li>
-<li>Three named malware families disrupted: Rhadamanthys (infostealer), VenomRAT (RAT), and Elysium (botnet)</li>
-<li>Main RAT-line suspect arrested in Greece</li>
+<li>전 세계에서 1,025대의 서버가 차단되었다.</li>
+<li>20개 도메인이 압수되었다.</li>
+<li>참여 관할 구역 전반에서 11건의 수색이 수행되었다.</li>
+<li>10만 개 이상의 암호화폐 지갑(Eurojust에 따르면 탈취되었으나 아직 악용되지 않은)에서 로그인 데이터가 복구되었다.</li>
+<li>세 개의 거명된 악성코드 패밀리가 차단되었다: Rhadamanthys(2022년 이후 서비스형 정보탈취 악성코드), VenomRAT(RAT), Elysium(봇넷).</li>
+<li>그리스에서 RAT 라인의 주요 용의자 1명이 체포되었다.</li>
 </ul>
-<h2 id="_9">협력 메커니즘</h2>
+<h2 id="_8">활용된 협력 메커니즘</h2>
+<p>인용된 tier-1 보도자료는 8개의 거명된 관할 구역에서 병행되는 국내 집행 조치와 함께 "처음부터 Eurojust 및 Europol을 통한" 조정을 기술한다. 보도자료는 본 작전을 공동수사팀(JIT)으로 지정하거나 특정 형사사법공조조약(MLAT) 도구를 원용하지 않는다; 따라서 법적 근거 분류는 조치 기간 동안 각 참여 관할 구역에서 집행된 <a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">국내 수색 및 압수</a> 및 <a href="../../wiki/mechanisms/domain-seizure.html" class="wikilink">도메인 압수</a> 도구를 따른다.</p>
+<h2 id="korean-involvement">Korean Involvement (한국의 참여)</h2>
+<p>Eurojust 보도자료는 본 Operation Endgame 단계의 참여 당국 또는 체포 관할 구역에 한국을 거명하지 않는다. 본 사례는 우산 보강 및 8개국 참여 당국 명부 그대로의 기록을 위해 위키에 기록되며, 한국의 악성코드 / RAT IC 자세는 본 출처로부터 직접적으로 정보를 얻지 못한다.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ul>
-<li><a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">Search Seizure</a></li>
-<li><a href="../../wiki/mechanisms/domain-seizure.html" class="wikilink">Domain Seizure</a></li>
-<li><a href="../../wiki/mechanisms/eurojust-coordination-meeting.html" class="wikilink">Eurojust Coordination Meeting</a></li>
+<li>같은 날짜의 tier-2 보도(CyberNews, eSecurity Planet)는 2025년 11월 단계의 참여국 명부를 Eurojust가 거명한 8개 관할 구역 및 그리스 외에 벨기에와 리투아니아를 포함하도록 확장한다. 이 두 국가는 인용된 tier-1 Eurojust 보도자료에 거명되지 않으므로 위키 기록의 <code>participating_countries</code>에 추가되지 않는다. 같은 발표에 대한 Europol 측 보도자료가 이를 명시적으로 거명할 수 있으며, 이는 후속 조치를 위해 표시된다.</li>
+<li>그리스 체포의 정확한 날짜는 인용된 Eurojust 보도자료 본문에 주어지지 않는다; 보강 tier-2 보도는 2025-11-03을 인용한다.</li>
+<li>국가별 수색 건수 및 국가별 암호화폐 지갑 복구 분포는 인용된 보도자료에 열거되지 않는다.</li>
+<li><strong>L26 gap — 악성코드 패밀리별 피해자 프로파일</strong>: 인용된 tier-1 Eurojust 보도자료는 Rhadamanthys, VenomRAT, Elysium 각각에 대한 패밀리별 피해자 수, 국가별 피해자 분포, 또는 피해 부문별 재정 피해 수치 없이 "전 세계 피해자"를 합산한다. "60만 명 이상의 감염 피해자" 수치는 세 패밀리 전체를 합산한 것이다.</li>
+<li><strong>L26 gap — 자금 흐름</strong>: 복구된 10만 개 이상 지갑의 총합 암호화폐 가치는 공개되지 않는다; 패밀리별 운영자 수익 및 패밀리별 피해자 피해 수치는 공개되지 않는다; 법 집행기관이 압수한 페이즈 3 암호화폐는 열거되지 않는다.</li>
+<li><strong>L26 gap — 세 패밀리 중 두 패밀리의 OCG 구조</strong>: 인용된 Eurojust 보도자료는 VenomRAT 라인의 주요 용의자(그리스에서 체포, 신원은 인용된 보도자료에 공개되지 않음)만 거명한다. Rhadamanthys 운영자 신원, Elysium 봇넷 운영자 연계 세부 사항, 고객 명단, 그리고 제휴자 식별자 공개는 인용된 tier-1 보도자료에서 결여되어 있다.</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.0</strong> | 출처: 1건</p>
-</blockquote></div>
+<h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td><a href="../../wiki/sources/2025-11-13_eurojust_operation-endgame-phase3-malware-operation.html" class="wikilink">Authorities continue to protect citizens from cybercriminals during major malware operation</a></td>
+<td>Eurojust</td>
+<td>2025-11-13</td>
+<td><a href="https://www.eurojust.europa.eu/news/authorities-continue-protect-citizens-cybercriminals-during-major-malware-operation" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/authorities-continue-protect-citizens-cybercriminals-during-major-malware-operation" data-full-url="https://www.eurojust.europa.eu/news/authorities-continue-protect-citizens-cybercriminals-during-major-malware-operation" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>The 13 November 2025 phase of <a href="../../wiki/operations/operation-endgame.html" class="wikilink">Operation Endgame</a> dismantled the criminal infrastructure behind three named malware families — the Rhadamanthys infostealer (a malware-as-a-service offering surfacing in 2022), the VenomRAT Remote Access Trojan (delivered via phishing), and the Elysium associated botnet. The Eurojust release reports 1,025 servers worldwide shut down, 20 domains seized, 11 searches conducted across participating jurisdictions, and login data recovered from over 100,000 cryptocurrency wallets that had been stolen but not yet exploited. One main RAT-line suspect was arrested in Greece.</p>
 <p>The action was coordinated "from the outset" through <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> and <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>. The cited tier-1 release names eight participating authorities verbatim, plus Greece for the RAT-line arrest. The release does not designate the operation as a formal <a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Joint Investigation Team</a> or use the JIT acronym.</p>

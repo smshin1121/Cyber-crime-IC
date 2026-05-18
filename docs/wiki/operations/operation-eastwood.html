@@ -80,58 +80,112 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation Eastwood</strong> <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>의 조정 하에 수행된 인프라 압수 작전으로, <strong>2025-07-14 ~ 2025-07-17</strong> 기간 동안 <strong>13개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> NoName057(16) DDoS botnet and support infrastructure</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>DDoS 공격, 사이버범죄 인프라, 악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>NoName057(16) DDoS botnet and support infrastructure</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p>Operation Eastwood(이스트우드 작전)은 친러시아 NoName057(16)(친러시아 핵티비스트 그룹) DDoS(분산 서비스 거부) 네트워크를 겨냥한 2025년 7월의 국제 집행 작전이었다. 본 작전은 유럽과 동맹국 전역의 공공기관, 교통, 에너지, 금융 등 다양한 표적에 대한 DDoS 공격 운용에 사용된 봇넷, 공격 인프라, 조직자/지원자 계층을 표적으로 삼았다.</p>
+<p>Eurojust(유럽사법협력기구)는 본 작전을 Eurojust 및 Europol(유럽 경찰청) 지원하의 12개국 작전으로 기술하였다. 또한 작전 기록은 보다 광범위한 지원과 후속 미국 활동을 보여준다. DOJ(미국 법무부)는 이후 NoName 조치가 FBI(미국 연방수사국)의 Operation Red Circus와 공조되었다고 설명하였으며, 2025년 7월에 19개국의 법집행기관이 100대 이상의 서버를 무력화하였다고 발표하였다.</p>
+<h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
+<p>본 섹션은 법집행 우산 작전(요약 및 작전 타임라인에서 다룸)이 아니라 그 기저의 범죄, 즉 NoName057(16) DDoS 생태계를 기술한다.</p>
+<h3 id="_2">수법(모더스 오페란디)</h3>
+<p>NoName057(16)은 "수백 대의 서버"로 구성된 봇넷과 DDoSia라는 크라우드소싱 자원봉사 클라이언트를 결합하여 유럽 및 동맹국 표적에 대한 분산 서비스 거부(DDoS) 공격 캠페인을 운용하였다. Eurojust 보도자료 및 BKA(독일 연방수사청)/Polizei Sachsen 미러에 따르면, 지원자들은 자신의 컴퓨터에 DDoSia 클라이언트를 다운로드하고 그룹 관리자 계층이 운영하는 Telegram 채널을 통해 배포되는 친러시아 표적 목록을 수신하도록 등록하였다. 클라이언트는 이후 등록된 표적에 HTTP/HTTPS 플러드 요청을 발생시켰다. 관리자들은 상위 기여 노드에 암호화폐 소액 결제를 통해 참여를 장려하였으며, 순위표를 통해 자원봉사 봇넷을 게임화하였다. 초기 정찰 및 표적 선정은 소수의 관리자 핵심 그룹이 관리하였고, 실행은 자원봉사 노드 풀과 작전 당일 당국이 무력화한 전용 서버 기반 봇넷 계층에 위임되었다.</p>
+<p><strong>피해자 프로파일 및 영향.</strong> 표적은 유럽 및 동맹국 전역의 공공기관과 핵심 인프라 인접 서비스였다. Eurojust와 BKA는 공공행정, 교통(공항 및 철도 포함), 에너지 기업, 금융, 국방 및 정부 포털을 대상으로 한 공격을 명시하였다. 이 그룹은 NATO 정상회의, 유럽 의회의 우크라이나 지원 정책 표결, 스위스 및 기타 국가의 선거와 연결된 공격에 대해 책임을 주장하였다. HTTP 플러드 DDoS의 사고당 직접적인 금전적 손실은 일반적으로 크지 않지만, 2022–2025년에 걸쳐 수백 개의 표적 공공부문 및 핵심 인프라 사이트에서 누적된 서비스 가용성 장애로 인해 NoName057(16)은 해당 기간 유럽 전구에서 가장 활동적인 친러시아 핵티비스트 DDoS 행위자가 되었다. 정확한 피해자 수는 1차 자료 보도에서 열거되지 않았으며, 1,100명 이상이라는 수치는 <em>피해자</em>가 아닌 <em>통보받은 지지자</em>를 지칭한다.</p>
+<h3 id="_3">자금 흐름</h3>
+<p>크라우드소싱 모델은 자원봉사 노드 운영자에게 지급되는 암호화폐 소액 결제에 의존하였으며, 이는 그룹에 핵티비스트/범죄 혼합 프로파일을 부여한다. 즉, 사용자 기반의 이념적 모집이 이루어졌으나 노드 가동 유지를 위한 금전적 인센티브가 존재하였다. 1차 자료 보도는 Europol이 작전 중 "암호화폐 추적" 지원을 제공하였다고 기술하며, 이는 그룹의 결제 경로 표면이 온체인에서 추적 가능하였음을 시사한다. 인용된 보도자료에는 총 암호화폐 압수 금액이나 USD 환산 처리량이 공개되지 않았으며, 이는 공백 사항이다(아래 모순 사항 참조).</p>
+<h3 id="_4">범죄 조직 구조</h3>
+<p>이 그룹은 3계층 구조로 운영된다. (1) 표적 설정, Telegram 채널 운영, 전용 봇넷 서버 운영을 담당하는 러시아 거주 관리자 소수 핵심층, (2) 지역 Telegram 챕터를 운영하고 모집 및 보상금 분배를 담당하는 약 17명의 관리자 또는 연계 운영자 계층(당국이 이후 통보한 인원수), (3) DDoSia 클라이언트를 운영하는 광범위한 자원봉사 기반(당국이 통보한 1,100명 이상의 지지자). 두 건의 체포는 관리자 계층의 구성원을 대상으로 프랑스 및 스페인에서 이루어졌으며, 주요 핵심 용의자는 러시아에 잔류하여 7건의 국제 체포영장을 통해서만 표적이 되었다.</p>
+<h2 id="cooperation-model">Cooperation Model</h2>
 <ul>
-<li>Seven international arrest warrants issued.</li>
-<li>Twenty-four searches conducted across multiple jurisdictions.</li>
-<li>Seventeen Telegram administrators or linked operators warned or notified.</li>
-<li>The action targeted the NoName057(16) DDoSia support ecosystem and a botnet of hundreds of servers.</li>
+<li><strong>사법 공조:</strong> Eurojust는 수사 결과, 작전 당일 계획, 유럽 수사명령, 형사사법공조(MLA) 절차, 막바지 사법 요청을 조정하였다.</li>
+<li><strong>경찰 공조:</strong> Europol은 정보 교환, 작전 조정, 분석 지원, 암호화폐 추적, 포렌식 지원, 작전 당일 지휘소를 지원하였다.</li>
+<li><strong>국가별 집행:</strong> 수색 및 증거 수집은 독일, 라트비아, 스페인, 이탈리아, 체코, 폴란드, 프랑스에서 실시되었으며, 보다 광범위한 연합에는 체코, 에스토니아, 핀란드, 프랑스, 독일, 라트비아, 리투아니아, 네덜란드, 폴란드, 스페인, 스웨덴, 스위스, 미국의 당국이 포함되었다.</li>
+<li><strong>억지 구성 요소:</strong> 당국은 1,100명 이상의 지지자와 17명의 관리자 또는 연계 운영자에게 취해진 조치 및 잠재적 형사 책임에 대해 통보하였다.</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h2 id="results-and-impact"><span class="heading-ko">결과 및 영향</span><span class="heading-en">Results and Impact</span></h2>
+<table>
+<thead>
+<tr>
+<th>항목</th>
+<th style="text-align: right;">값</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>무력화된 서버</td>
+<td style="text-align: right;">100대 이상</td>
+</tr>
+<tr>
+<td>공개 보도된 체포</td>
+<td style="text-align: right;">2건</td>
+</tr>
+<tr>
+<td>국제 체포영장</td>
+<td style="text-align: right;">7건</td>
+</tr>
+<tr>
+<td>수색</td>
+<td style="text-align: right;">24건</td>
+</tr>
+<tr>
+<td>통보받은 지지자/운영자</td>
+<td style="text-align: right;">지지자 1,100명 이상 및 관리자 17명</td>
+</tr>
+<tr>
+<td>핵심 표적</td>
+<td style="text-align: right;">NoName057(16) DDoSia/봇넷 생태계</td>
+</tr>
+</tbody>
+</table>
+<h2 id="boundary-and-non-duplication-notes">Boundary and Non-Duplication Notes</h2>
+<p>본 페이지는 NoName057(16)에 대한 2025년 7월 국제 조치의 작전 수준 통합 기준점이다. 기존의 operation-us-v-victoria-eduardovna-dubranova 기록은 피고인별 미국 후속 사안으로서, 작전 수준의 국제 무력화 조치와 별개로 계산되어서는 안 된다.</p>
+<h2 id="evidence-notes">Evidence Notes</h2>
+<p>가장 강력한 증거는 Eurojust, Polizei Sachsen을 통해 미러링된 독일 BKA/ZIT 공지, 그리고 DOJ의 이후 미국 기소 발표에서 나온다. CyberScoop은 체포, 영장, 수색, 서버 무력화, 국가 참여 수치에 대한 독립적인 업계 언론 확인을 제공한다.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ul>
-<li>체포: <strong>2명</strong> (피의자 규모)</li>
-<li>서버 압수: <strong>100대</strong> (인프라 규모)</li>
+<li><strong>L26 공백 — 자금 흐름:</strong> 1차 자료 보도는 자원봉사 노드 운영자에 대한 암호화폐 소액 결제를 기술하고 Europol이 암호화폐 추적 지원을 제공했음을 확인하지만, DDoSia 보상 시스템의 총 암호화폐 규모, 압수 총액, USD 환산 처리량은 공개하지 않는다. 총 범죄 수익 수치는 알려져 있지 않다.</li>
+<li><strong>L26 공백 — 피해자 수:</strong> 당국은 1,100명 이상의 <em>지지자</em> 통보 수치를 공개하지만 피해자 수는 공개하지 않는다. 2022–2025년에 걸쳐 공격받은 공공부문 및 핵심 인프라 서비스의 수는 1차 자료 보도에서 열거되지 않는다.</li>
+<li><strong>국가 수 불일치:</strong> Eurojust는 본 조치를 12개국 작전으로 기술하며, DOJ의 이후 보도자료는 2025년 7월에 19개국이 인프라를 무력화하였다고 기술한다. 본 페이지는 frontmatter의 participating_countries 명단을 위해 Eurojust가 명시한 13개 관할(Eurojust 12개국 + FBI의 병행 Operation Red Circus 트랙을 통한 미국)을 기록한다.</li>
+<li><strong>러시아 거주 핵심:</strong> 러시아에 거주하는 것으로 추정되는 주요 용의자들은 체포가 불가능하였으며, 7건의 국제 체포영장이 발부되었으나 집행은 향후 이동 여부에 달려 있다. 작전 당일의 2건의 체포는 프랑스 및 스페인에 있는 관리자 계층 구성원을 대상으로 이루어졌다.</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Eurojust</p>
-<p><strong>참여기관:</strong> Eurojust, Europol Ec3, Germany Bka, Germany Frankfurt Prosecutor, Fbi, France Gendarmerie, Spain National Police, Spain Guardia Civil, Sweden Police, Switzerland Fedpol 외 3개</p>
-<p><strong>참여국:</strong> Czechia, Estonia, Finland, France, Germany, Latvia, Lithuania, Netherlands, Poland, Spain 외 3개</p>
-<h2 id="_7">법적 근거</h2>
-<ul>
-<li>Mutual Legal Assistance</li>
-</ul>
-<h2 id="_8">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2025-07-16</li>
-<li><strong>개시:</strong> 2025-07-14</li>
-<li><strong>종료:</strong> 2025-07-17</li>
-</ul>
-<h2 id="_9">결과 및 영향</h2>
-<ul>
-<li><strong>2명</strong> 체포</li>
-<li><strong>100대</strong> 서버 압수</li>
-<li>Seven international arrest warrants issued.</li>
-<li>Twenty-four searches conducted across multiple jurisdictions.</li>
-<li>Seventeen Telegram administrators or linked operators warned or notified.</li>
-<li>The action targeted the NoName057(16) DDoSia support ecosystem and a botnet of hundreds of servers.</li>
-</ul>
-<h2 id="_10">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/electronic-evidence.html" class="wikilink">Electronic Evidence</a></li>
-<li><a href="../../wiki/mechanisms/public-private-cooperation.html" class="wikilink">Public Private Cooperation</a></li>
-<li><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">Mutual Legal Assistance</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.4</strong> | 출처: 4건</p>
-</blockquote></div>
+<h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>유럽 핵심 인프라에 대한 사이버 공격에 책임이 있는 핵티비스트 그룹 무력화</td>
+<td>Eurojust</td>
+<td>2025-07-16</td>
+<td><a href="https://www.eurojust.europa.eu/news/hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down" data-full-url="https://www.eurojust.europa.eu/news/hacktivist-group-responsible-cyberattacks-critical-infrastructure-europe-taken-down" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>Operation EASTWOOD</td>
+<td>Polizei Sachsen / BKA</td>
+<td>2025-07-16</td>
+<td><a href="https://www.polizei.sachsen.de/de/operation-eastwood-36241.html" target="_blank" rel="noopener noreferrer" title="https://www.polizei.sachsen.de/de/operation-eastwood-36241.html" data-full-url="https://www.polizei.sachsen.de/de/operation-eastwood-36241.html" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>친러시아 DDoS 그룹 NoName057(16), 국제 법집행 작전에 의해 무력화</td>
+<td>CyberScoop</td>
+<td>2025-07-16</td>
+<td><a href="https://cyberscoop.com/noname05716-disruption-operation-eastwood-europol/" target="_blank" rel="noopener noreferrer" title="https://cyberscoop.com/noname05716-disruption-operation-eastwood-europol/" data-full-url="https://cyberscoop.com/noname05716-disruption-operation-eastwood-europol/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>법무부, 두 개의 러시아 국가 지원 사이버 범죄 해킹 그룹에 대한 조치 발표</td>
+<td>U.S. Department of Justice</td>
+<td>2025-12-09</td>
+<td><a href="https://www.justice.gov/usao-cdca/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-cdca/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal" data-full-url="https://www.justice.gov/usao-cdca/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h1 id="operation-eastwood">Operation Eastwood</h1>
 <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Operation Eastwood was a July 2025 international enforcement action against the pro-Russian NoName057(16) DDoS network. The operation targeted the group's botnet, attack infrastructure, and organizer/supporter layer used to run DDoS attacks against public institutions, transport, energy, banking, and other targets across Europe and allied states.</p>
