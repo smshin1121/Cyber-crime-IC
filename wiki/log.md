@@ -1,5 +1,8 @@
 # Activity Log
 
+## [2026-05-18] iter 269 L27 backfill milestone 44 | cases sidecars 1065/1225 (+60, 86.9%)
+- Batches QT-RE landed. Cases queue: 160 remaining.
+
 ## [2026-05-18] iter 268 L27 backfill milestone 43 | cases sidecars 1005/1225 (+60, 82.0%)
 - Batches QH-QS landed. Cases queue: 220 remaining.
 
