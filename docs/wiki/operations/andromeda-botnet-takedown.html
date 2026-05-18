@@ -81,56 +81,127 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Andromeda 봇넷 해체</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2017-11-29 ~ 2017-12-04</strong> 기간 동안 <strong>17개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Andromeda Botnet</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Andromeda Botnet</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p>Andromeda/Gamarue 테이크다운은 Europol(유럽 경찰청)과 FBI(미국 연방수사국)의 조정, 독일과 벨라루스의 법집행 행동, 그리고 Microsoft가 지원한 싱크홀(sinkhole) 지원을 결합하여 2017년 말 장기 운영되어 온 악성코드 생태계를 와해시킨 작전이다.</p>
+<h2 id="_2">본 작전의 의의</h2>
+<p>Andromeda는 단일 체포 사건보다는 생태계 와해 작전으로 이해하는 것이 더 적절하다. 공개 자료는 그 기술적 규모를 강조한다.</p>
 <ul>
-<li>Approximately 2 million victim IP addresses observed during a 48-hour sinkhole window</li>
-<li>Andromeda/Gamarue infrastructure disrupted after a long-running eradication campaign</li>
+<li>Andromeda는 설치 수익화 및 후속 페이로드 전달에 사용되는 범죄형 서비스(crimeware service)로서 수년간 활성 상태를 유지해 왔다</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h2 id="_3">참여 당사자</h2>
+<p><strong>핵심 기관:</strong>
+- <a href="../../wiki/organizations/fbi.html" class="wikilink">fbi</a>
+- <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a>
+- 독일 Lueneburg 소재 수사관
+- <a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>
+- <a href="../../wiki/organizations/microsoft.html" class="wikilink">microsoft</a></p>
+<p><strong>공개적으로 확인된 참여국:</strong>
+미국, 독일, 오스트리아, 벨기에, 핀란드, 프랑스, 이탈리아, 네덜란드, 폴란드, 스페인, 영국, 호주, 벨라루스, 캐나다, 몬테네그로, 싱가포르, 대만.</p>
+<h2 id="_4">결과</h2>
 <ul>
-<li>체포: <strong>1명</strong> (피의자 규모)</li>
-<li>도메인 압수/차단: <strong>1,500개</strong></li>
+<li>벨라루스에서 1명의 공개 발표된 체포</li>
+<li>1,500개의 악성 도메인 싱크홀(sinkhole) 처리</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Fbi</p>
-<p><strong>조정기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Fbi, Europol Ec3, J Cat, Eurojust, German Bka, Microsoft</p>
-<p><strong>참여국:</strong> United States, Germany, Austria, Belgium, Finland, France, Italy, Netherlands, Poland, Spain 외 7개</p>
-<h2 id="_7">법적 근거</h2>
+<h2 id="_5">협력 및 법적 분석</h2>
+<p>본 작전은 사이버 테이크다운/단속이 기술적 프레이밍과 법적 프레이밍을 모두 필요로 하는 이유를 잘 보여주는 사례이다. Europol의 보도자료는 법집행 측 개요를 제공하고, Microsoft의 자료는 민간 부문의 와해 역할을 보완한다. 이는 중요한 의미를 갖는데, Andromeda는 단순한 웹사이트나 마켓플레이스가 아니라 지속적인 악성코드 설치 생태계였기 때문에, 영속적인 작전 효과를 위해서는 기술적 복원 및 싱크홀 조정이 필수적이었다.</p>
+<p>또한 본 페이지는 형사절차적 측면을 과장하지 않는다. 공개 자료는 테이크다운과 1건의 체포를 명확히 뒷받침하지만, 풍부한 공개 법원 기록 흔적을 드러내지 않는다. 그러한 이유로 본 저장소는 Andromeda를 주로 다국적 와해 작전(multinational disruption operation)으로 다루되, 기록이 충실한 기소 사건으로 다루지는 않는다.</p>
+<h2 id="_6">후속 조치</h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ No public court documents found
+공개 자료는 테이크다운 서사를 강하게 뒷받침하지만, 본 저장소는 현재 해당 작전에 부합하는 견고한 공개 법원 문서 세트를 보유하고 있지 않다.</div><div class="callout-body"></div></div>
+<!-- SOURCE_ENRICHMENT_START -->
+
+<h2 id="_7">소스 커버리지</h2>
 <ul>
-<li>Budapest Convention</li>
-<li>Mutual Legal Assistance</li>
-<li>Domestic Malware Disruption And Seizure Authorities</li>
+<li>Europol, 2017년 12월 4일: Andromeda Botnet Dismantled in International Cyber Operation.</li>
+<li>Microsoft, 2017년 12월 4일: Microsoft assists law enforcement to help disrupt the Andromeda botnet.</li>
+<li>Microsoft, 2026년 4월 18일: Gamarue threat profile.</li>
+<li>BleepingComputer, 2017년 12월 4일: Andromeda Botnet Gets Crushed.</li>
+<li>PortSwigger (The Daily Swig), 2017년 12월 5일: PortSwigger Daily Swig: Andromeda Botnet Dismantled by International Taskforce.</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
+<h2 id="_8">작전 타임라인</h2>
 <ul>
-<li><strong>발표:</strong> 2017-12-04</li>
-<li><strong>개시:</strong> 2017-11-29</li>
-<li><strong>종료:</strong> 2017-12-04</li>
+<li>2017-11-29: 활동 또는 수사 개시.</li>
+<li>2017-12-04: 공식 발표.</li>
+<li>2017-12-04: 보고된 법집행 종료 시점.</li>
+<li>2017-12-04: BleepingComputer, Europol, Microsoft의 공개 소스 보도.</li>
+<li>2017-12-05: PortSwigger (The Daily Swig)의 공개 소스 보도.</li>
+<li>2026-04-18: Microsoft의 공개 소스 보도.</li>
 </ul>
-<h2 id="_9">결과 및 영향</h2>
+<h2 id="_9">증거 및 귀속 관련 주석</h2>
 <ul>
-<li><strong>1명</strong> 체포</li>
-<li><strong>1,500개</strong> 도메인 압수/차단</li>
-<li>Approximately 2 million victim IP addresses observed during a 48-hour sinkhole window</li>
-<li>Andromeda/Gamarue infrastructure disrupted after a long-running eradication campaign</li>
+<li>2017년 11월 말에서 12월 초에 걸쳐, 국제 법집행 작전이 Andromeda 봇넷 인프라를 해체하였다.</li>
+<li>FBI(미국 연방수사국), Luneburg 소재 독일 중앙형사수사청, Europol(유럽 경찰청) 산하 유럽사이버범죄센터(EC3), 사이버범죄공동대응팀(J-CAT), 그리고 Eurojust(유럽사법협력기구)가 Microsoft 등 민간 부문 파트너를 포함한 17개국과 함께 봇넷 무력화를 위한 공조를 진행하였다.</li>
+<li>본 작전은 Andromeda 악성코드 패밀리를 통한 악성코드 배포에 사용된 서버와 도메인을 와해시켰다.</li>
+<li>Microsoft는 디지털범죄대응팀(Digital Crimes Unit)과 보안팀이 조정된 박멸 캠페인을 통해 Gamarue/Andromeda 와해 작업에서 법집행기관 및 파트너를 지원했다고 밝히고 있다.</li>
+<li>본 게시물은 2017년 다국적 작전 배후의 민간 부문 싱크홀 및 기술 지원 역할을 설명하는 데 도움이 된다.</li>
+<li>Microsoft의 게시물은 Andromeda 테이크다운에 민간 부문 와해 관점을 더한다.</li>
+<li>이는 공공 부문 법집행 행동을 보완한 싱크홀 및 조정된 악성코드 박멸 지원의 귀속을 분석하는 데 유용하다.</li>
+<li>Andromeda/Gamarue 테이크다운은 Europol과 FBI의 조정, 독일과 벨라루스의 법집행 행동, 그리고 Microsoft가 지원한 싱크홀 지원을 결합하여 2017년 말 장기 운영되어 온 악성코드 생태계를 와해시켰다.</li>
 </ul>
-<h2 id="_10">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/sinkholing.html" class="wikilink">Sinkholing</a></li>
-<li><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 협력</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>3.75</strong> | 출처: 5건</p>
-</blockquote></div>
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+<h2 id="canonical">표준(Canonical) 작전 평가</h2>
+<p>본 페이지는 피고인 특정 후속 조치가 아닌 Andromeda Botnet에 대한 테이크다운/단속을 기술하므로 표준 작전(canonical operation)으로 유지된다. 본 기록은 주도 책임을 FBI(미국 연방수사국)에 귀속시키고 조정 역할을 Europol EC3에 부여하며, 참여 또는 영향을 받은 관할권으로는 미국, 독일, 오스트리아, 벨기에, 핀란드, 프랑스, 이탈리아, 네덜란드, 폴란드, 스페인, 영국, 호주, 벨라루스, 캐나다, 몬테네그로, 싱가포르, 대만이 기록되어 있다.</p>
+<p>협력 모델은 명명된 기관 및 파트너(Fbi, Europol Ec3, J Cat, Eurojust, German Bka, Microsoft), 메커니즘(싱크홀(Sinkholing) 및 비공식 협력), 법집행 자세(체포, 압수, 테이크다운/단속)를 통해 문서화되어 있다.</p>
+<p>표준 기록에 포착된 작전 결과: 체포 1건; 도메인 압수 1,500건; 48시간 싱크홀(sinkhole) 시간대 동안 약 200만 개의 피해자 IP 주소 관측; 장기에 걸친 박멸 캠페인 이후 Andromeda/Gamarue 인프라 와해.</p>
+<p>표준 소스 세트는 5개의 참조 자료를 포함한다: 2017 12 04 Europol Europa Eu Andromeda Botnet Dismantled In International Cyber Operation, 2017 12 04 Microsoft Com Microsoft Assists Law Enforcement Help Disrupt Andromeda Botnet, 2026 04 18 Microsoft Com Gamarue Threat Profile, 2017 12 04 Bleepingcomputer Com Andromeda Botnet Gets Crushed, Portswigger 911 S5 Botnet Dismantling.
+표준 작전을 위한 소스 최저 기준은 충족되지만, 소스의 폭이 그 자체로 모든 하류 체포 또는 양형이 본 작전의 일부임을 입증하지는 않는다. 후속 기록은 별도로 연결되어 유지되어야 한다.
+현재 본 페이지에 표시된 frontmatter 누락 필드 플래그는 없다.
+데이터셋 활용 측면에서, 본 페이지는 작전 수준의 집계 지점으로 다루어져야 한다: 국가, 기관, 메커니즘 및 결과 필드는 조정된 법집행 행동 전체를 기술한다. 이후 기소, 답변 협상(plea), 양형, 범죄인 인도, 또는 몰수 조치는 관련 사건(related case)으로 첨부되거나 흡수된 후속 기록으로 다루어져야 하며, 소스가 이를 새로운 다국적 작전으로 명시적으로 제시하지 않는 한 별도로 처리되지 않는다.
+소스 기록이 더 광범위한 배경, 반복되는 통신사 재게재, 또는 토픽 페이지 자료를 포함하는 경우, 본 평가는 명명된 작전, 참여 기관, 대상 인프라 또는 범죄 서비스, 그리고 측정 가능한 법집행 결과와 직접 연결된 사실을 우선시한다. 주변적인 소스 제목은 독립적인 분류 체계 또는 결과 증거로 다루어지지 않는다.
+이렇게 함으로써 표준 기록이 분석적으로 한정되고 재현 가능한 상태로 유지된다.</p>
+<!-- CANONICAL_ASSESSMENT_END -->
+
+<h2 id="_10">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>국제 사이버 작전을 통한 Andromeda 봇넷 해체</td>
+<td>Europol</td>
+<td>2017-12-04</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>Microsoft, Andromeda 봇넷 와해를 위해 법집행기관 지원</td>
+<td>Microsoft</td>
+<td>2017-12-04</td>
+<td><a href="https://www.microsoft.com/en-us/msrc/blog/2018/01/microsoft-teams-up-with-law-enforcement-and-other-partners-to-disrupt-gamarue-andromeda" target="_blank" rel="noopener noreferrer" title="https://www.microsoft.com/en-us/msrc/blog/2018/01/microsoft-teams-up-with-law-enforcement-and-other-partners-to-disrupt-gamarue-andromeda" data-full-url="https://www.microsoft.com/en-us/msrc/blog/2018/01/microsoft-teams-up-with-law-enforcement-and-other-partners-to-disrupt-gamarue-andromeda" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>Gamarue 위협 프로파일</td>
+<td>Microsoft</td>
+<td>2026-04-18</td>
+<td><a href="https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/" target="_blank" rel="noopener noreferrer" title="https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/" data-full-url="https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>Andromeda 봇넷, 분쇄되다</td>
+<td>BleepingComputer</td>
+<td>2017-12-04</td>
+<td><a href="https://www.bleepingcomputer.com/news/security/andromeda-botnet-gets-crushed-in-eu-us-law-enforcement-operation/" target="_blank" rel="noopener noreferrer" title="https://www.bleepingcomputer.com/news/security/andromeda-botnet-gets-crushed-in-eu-us-law-enforcement-operation/" data-full-url="https://www.bleepingcomputer.com/news/security/andromeda-botnet-gets-crushed-in-eu-us-law-enforcement-operation/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>PortSwigger Daily Swig: 국제 태스크포스에 의해 해체된 Andromeda 봇넷</td>
+<td>PortSwigger (The Daily Swig)</td>
+<td>2017-12-05</td>
+<td><a href="https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce" target="_blank" rel="noopener noreferrer" title="https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce" data-full-url="https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>The Andromeda/Gamarue takedown combined Europol and FBI coordination, German and Belarusian enforcement action, and Microsoft-backed sinkhole support to disrupt a long-running malware ecosystem in late 2017.</p>
 <h2 id="why-the-operation-matters">Why The Operation Matters</h2>

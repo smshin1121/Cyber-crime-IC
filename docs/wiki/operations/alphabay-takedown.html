@@ -80,66 +80,477 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation Bayonet -- AlphaBay &amp; Hansa Takedown</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2015 ~ 2017-07-20</strong> 기간 동안 <strong>8개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> AlphaBay and Hansa darknet marketplaces</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>온라인 사기, 악성코드, 다크웹 거래</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>AlphaBay and Hansa darknet marketplaces</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p>Operation Bayonet(바요넷 작전)은 <strong>2017년 7월</strong> 세계 최대 규모의 두 다크웹 마켓플레이스인 <strong>AlphaBay</strong>와 <strong>Hansa</strong>를 와해시킨 다국적 법집행기관 작전이다. AlphaBay 부문은 <a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI(미국 연방수사국)</a>와 DEA(미국 마약단속국)가 주도하였고, Hansa 부문은 <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">네덜란드 국가경찰(NHTCU)</a>이 주도하였으며, <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a>이 전반적인 전략을 조율하였다.</p>
+<h2 id="audit-note">Audit Note</h2>
+<p>AlphaBay와 Hansa는 연결되어 있으나 다국적 테이크다운의 별개 국면으로 다루어졌기 때문에, 본 페이지는 우산(umbrella) 작전으로서 유지된다. Hansa 잠입 운영 국면은 AlphaBay 압수 자체와 동일시되어서는 안 된다.</p>
+<p>본 작전은 공개 기록상 가장 정교한 다크웹 마켓플레이스 테이크다운 중 하나로, 전례 없는 <strong>이중 함정(double-sting) 전략</strong>을 구사하였다. 즉, <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">네덜란드 경찰</a>은 AlphaBay가 공개적으로 폐쇄되기 전 약 한 달간 Hansa 마켓플레이스를 비밀리에 압수·운영하였으며, 이는 AlphaBay 사용자들이 Hansa로 이주할 것을 예측한 조치였다. 이러한 이주 함정을 통해 법집행기관은 수천 명의 판매자와 구매자에 대한 광범위한 증거를 수집할 수 있었다.</p>
+<p>AlphaBay 관리자였던 <strong>알렉상드르 카제(Alexandre Cazes)</strong>(캐나다 국적, 25세)는 <strong>2017년 7월 5일</strong> 방콕에서 미국의 요청에 따라 태국 경찰에 의해 체포되었다. 카제는 <strong>2017년 7월 12일</strong> 태국 구금 시설에서 자살로 추정되는 상태로 사망하였다. Hansa의 독일 국적 관리자 2명은 독일 경찰에 의해 체포되었다. 폐쇄 시점 기준으로 AlphaBay는 약 <strong>40만 명의 사용자</strong>, <strong>4만 명의 판매자</strong>, 그리고 불법 상품·서비스에 대한 <strong>35만 건 이상의 게시물</strong>을 보유하고 있었다.</p>
+<p><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a>은 Operation Bayonet을 "온라인 범죄 활동에 맞선 투쟁에서 지금까지 목격된 가장 정교한 테이크다운 작전 중 하나"로 평가하였다.</p>
+<h2 id="_2">배경</h2>
+<h3 id="alphabay">AlphaBay</h3>
+<p>AlphaBay는 <strong>2014년 9월</strong> 태국에 거주하던 캐나다 국적자 알렉상드르 카제(별명 "Alpha02" 및 "Admin")에 의해 출범하였다. 이 마켓플레이스는 빠르게 성장하여 초기 Silk Road를 규모면에서 능가하는 최대 다크웹 마켓플레이스로 자리 잡았다.</p>
 <ul>
-<li>AlphaBay: 400,000 users, 40,000 vendors, 350,000+ listings disrupted</li>
-<li>Hansa: Covertly operated by Dutch police for ~1 month; 10,000 delivery addresses collected</li>
-<li>Alexandre Cazes (AlphaBay admin) died in Thai custody 2017-07-12</li>
-<li>2 Hansa administrators arrested (German nationals)</li>
-<li>27,000 transactions monitored during covert Hansa operation</li>
-<li>Luxury vehicles, residences, and hotel in Thailand seized</li>
+<li>폐쇄 시점 기준 <strong>35만 건 이상의 게시물</strong>, 그 내역은 다음과 같다:</li>
+<li>25만 건 이상의 마약 게시물</li>
+<li>도난·위조 신분증명서, 악성코드, 해킹 도구, 총기, 사기 서비스 등 10만 건 이상의 게시물</li>
+<li><strong>40만 명의 등록 사용자</strong>와 <strong>4만 명의 판매자</strong>(FBI 추정)</li>
+<li>최성기 <strong>일일 60만~80만 달러의 거래 규모</strong></li>
+<li>운영 기간 동안 누적 <strong>10억 달러 이상의 암호화폐 거래</strong> 매개</li>
+<li>비트코인 및 Monero(모네로) 결제 옵션과 함께 Tor(토르) 히든 서비스로 운영</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h3 id="hansa-market">Hansa Market</h3>
+<p>Hansa는 <strong>두 번째로 큰</strong> 다크웹 마켓플레이스로, 2015년부터 운영되었다. 두 명의 독일 국적자에 의해 관리되었다. AlphaBay 폐쇄 이후 Hansa에는 사용자가 대규모로 유입되어, 판매자 등록이 일일 약 1,000건에서 8,000건으로 급증하였다.</p>
+<h3 id="_3">카제가 식별된 경위</h3>
+<p>카제는 결정적인 운영 보안(OPSEC) 실패를 통해 식별되었다.</p>
 <ul>
-<li>체포: <strong>3명</strong> (피의자 규모)</li>
-<li>도메인 압수/차단: <strong>2개</strong></li>
-<li>암호화폐 압수: <strong>$8.8 million (FBI) + 726 million Thai baht (~$21.7 million) frozen by Thai police</strong> (자금 흐름 규모)</li>
+<li>그는 새로 가입한 AlphaBay 사용자에게 발송되는 시스템 생성 환영 이메일 및 비밀번호 재설정 이메일의 "From" 주소로 자신의 개인 Hotmail 주소(<code>pimp_alex_91@hotmail.com</code>)를 사용하였다</li>
+<li>이 이메일 주소는 다른 온라인 계정을 통해 그의 실명과 연결되어 있었다</li>
+<li>추가적인 디지털 흔적들이 "Alpha02"를 카제의 알려진 온라인 페르소나와 연결시켰다</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Fbi Cyber Division</p>
-<p><strong>조정기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Fbi Cyber Division, Europol Ec3, Eurojust, Netherlands Politie</p>
-<p><strong>참여국:</strong> United States, Thailand, Netherlands, Lithuania, Canada, United Kingdom, France, Germany</p>
-<h2 id="_7">법적 근거</h2>
+<h3 id="_4">수사의 기원</h3>
+<p>FBI(미국 연방수사국)의 AlphaBay 수사는 약 <strong>2015년</strong>에 시작되었다. 네덜란드 경찰의 Hansa 수사는 독립적으로 시작되었다. 두 테이크다운을 "이중 함정"이라는 단일 작전으로 조율하기로 한 전략적 결정은 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a>과 협력하여 2017년 초·중반에 이루어졌다.</p>
+<h2 id="_5">참여 당사자</h2>
+<h3 id="alphabay_1">주도 기관 (AlphaBay)</h3>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>기관</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></td>
+<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">fbi-cyber-division</a></td>
+<td>수사 주도; 카제 식별; 체포 요청 조율</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></td>
+<td>DEA(미국 마약단속국)</td>
+<td>공동 주도; 마약 거래 측면</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/thailand.html" class="wikilink">thailand</a></td>
+<td>태국 왕립경찰</td>
+<td>카제 체포; 자산 압수; 구금</td>
+</tr>
+</tbody>
+</table>
+<h3 id="hansa">주도 기관 (Hansa)</h3>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>기관</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a></td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a> (NHTCU)</td>
+<td>Hansa 잠입 인수 및 운영; 정보 수집</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/germany.html" class="wikilink">germany</a></td>
+<td>BKA(독일 연방수사청, Bundeskriminalamt)</td>
+<td>Hansa 관리자 2명(독일 국적) 체포</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_6">조율 기관</h3>
+<table>
+<thead>
+<tr>
+<th>기관</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a></td>
+<td>FBI(미국 연방수사국)와 네덜란드 경찰 간 전략적 조율; 정보 공유; 국제적으로 10,000개의 배송지 주소 배포</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a></td>
+<td>EU 측 작전에 대한 사법 조율</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_7">지원 기관</h3>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/countries/lithuania.html" class="wikilink">lithuania</a></td>
+<td>인프라 지원</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/canada.html" class="wikilink">canada</a></td>
+<td>수사 지원 (카제의 국적)</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a></td>
+<td>작전 지원</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/france.html" class="wikilink">france</a></td>
+<td>작전 지원</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_8">법적 근거</h2>
 <ul>
-<li>Mutual Legal Assistance</li>
-<li>Budapest Convention</li>
+<li><strong>미국-태국 형사사법공조조약(MLAT)</strong>: 태국 내 카제 체포 요청 및 자산 압수를 가능하게 함</li>
+<li><strong><a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">부다페스트 협약</a></strong>: 유럽 참여국 간 국경 간 증거 공유의 틀 제공</li>
+<li><strong><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">양자 MLAT</a></strong>: 미국과 유럽 관할권 간의 증거 이전에 활용</li>
+<li><strong>EU 상호 인정 제도</strong>: Hansa 부문에서 네덜란드와 독일 간 협력에 활용</li>
+<li><strong>태국 마약법 및 컴퓨터범죄법</strong>: 체포 및 자산 압수의 태국 국내법적 근거</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
+<p>미국은 AlphaBay의 자산 및 카제의 개인 재산에 대해 <strong>형사 고소 및 민사 몰수 소송</strong>(미국 캘리포니아 동부지구 연방지방법원)을 제기하였다.</p>
+<h2 id="_9">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>일자</th>
+<th>사건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2014년 9월</td>
+<td>알렉상드르 카제가 태국에서 AlphaBay 출범</td>
+</tr>
+<tr>
+<td>약 2015년</td>
+<td>FBI(미국 연방수사국)가 AlphaBay 수사 개시</td>
+</tr>
+<tr>
+<td>약 2016년</td>
+<td>네덜란드 경찰이 Hansa Market 수사 개시</td>
+</tr>
+<tr>
+<td><strong>2017-06-20</strong></td>
+<td>독일 경찰이 Hansa 관리자 2명(독일 국적) 체포</td>
+</tr>
+<tr>
+<td><strong>2017-06-20</strong></td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a> (NHTCU)가 Hansa Market을 잠입 장악; 관리자 사칭 개시</td>
+</tr>
+<tr>
+<td>2017-06-20~2017-07-04</td>
+<td>네덜란드 경찰이 Hansa를 잠입 운영하면서 판매자 IP 주소, 구매자 위치, 거래 데이터 수집</td>
+</tr>
+<tr>
+<td><strong>2017-07-04</strong></td>
+<td>AlphaBay 서버 압수; 마켓플레이스 오프라인 전환</td>
+</tr>
+<tr>
+<td><strong>2017-07-05</strong></td>
+<td>알렉상드르 카제가 방콕 자택에서 미국의 요청에 따라 태국 왕립경찰에 의해 체포</td>
+</tr>
+<tr>
+<td>2017-07-05~2017-07-20</td>
+<td>AlphaBay 사용자들이 대거 Hansa로 이주; 판매자 등록이 일일 8,000건으로 급증</td>
+</tr>
+<tr>
+<td><strong>2017-07-12</strong></td>
+<td>알렉상드르 카제가 태국 경찰 구금 시설에서 사망한 채 발견; 태국 당국은 자살로 판정</td>
+</tr>
+<tr>
+<td>2017-07-12~2017-07-20</td>
+<td>네덜란드 경찰이 Hansa 운영을 계속하면서 이주해 온 AlphaBay 사용자에 대한 증거 수집</td>
+</tr>
+<tr>
+<td><strong>2017-07-20</strong></td>
+<td>Hansa Market 공개적으로 폐쇄; DOJ(미국 법무부), Europol(유럽 경찰청), 네덜란드 경찰이 공동으로 Operation Bayonet 발표</td>
+</tr>
+<tr>
+<td>2017-07-24</td>
+<td>태국 경찰이 카제 자산 중 7억 2,600만 태국 바트(약 2,170만 달러) 압수 발표</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_10">결과 및 영향</h2>
+<h3 id="_11">즉각적 결과</h3>
+<table>
+<thead>
+<tr>
+<th>지표</th>
+<th>수치</th>
+<th>출처</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>폐쇄된 다크넷 마켓</td>
+<td>2개(AlphaBay + Hansa)</td>
+<td>DOJ(미국 법무부) / Europol(유럽 경찰청)</td>
+</tr>
+<tr>
+<td>체포</td>
+<td>3명(카제 + Hansa 관리자 2명)</td>
+<td>DOJ(미국 법무부) / Europol(유럽 경찰청)</td>
+</tr>
+<tr>
+<td>와해된 AlphaBay 사용자</td>
+<td>약 40만 명</td>
+<td>FBI(미국 연방수사국)</td>
+</tr>
+<tr>
+<td>와해된 AlphaBay 판매자</td>
+<td>약 4만 명</td>
+<td>FBI(미국 연방수사국)</td>
+</tr>
+<tr>
+<td>제거된 AlphaBay 게시물</td>
+<td>35만 건 이상</td>
+<td>DOJ(미국 법무부)</td>
+</tr>
+<tr>
+<td>압수된 자산 (FBI)</td>
+<td>880만 달러(암호화폐 + 은행 계좌)</td>
+<td>DOJ(미국 법무부)</td>
+</tr>
+<tr>
+<td>동결된 자산 (태국 경찰)</td>
+<td>7억 2,600만 바트(약 2,170만 달러)</td>
+<td>태국 경찰</td>
+</tr>
+<tr>
+<td>수집된 Hansa 배송지 주소</td>
+<td>10,000건 이상</td>
+<td>Europol(유럽 경찰청)</td>
+</tr>
+<tr>
+<td>감시된 Hansa 거래</td>
+<td>27,000건</td>
+<td>네덜란드 경찰</td>
+</tr>
+<tr>
+<td>기록된 Hansa 판매자 IP 주소</td>
+<td>수천 건</td>
+<td>네덜란드 경찰</td>
+</tr>
+</tbody>
+</table>
+<h3 id="hansa_1">Hansa 정보 수집 작전</h3>
+<p>네덜란드 경찰이 Hansa를 잠입 운영한 약 한 달 동안, 여러 가지 정보 수집 조치가 이루어졌다.</p>
+<ol>
+<li><strong>PGP 암호화 기능을 변조</strong>하여 암호화 이전의 메시지 평문 사본 기록</li>
+<li><strong>모든 사용자 비밀번호를 평문으로 기록</strong>하여, 사용자가 비밀번호를 재사용한 다른 마켓플레이스 계정과의 교차 대조 가능</li>
+<li><strong>사진 메타데이터 제거 도구를 변조</strong>하여 판매자 사진의 GPS 좌표 및 기타 메타데이터를 제거하기 전에 기록</li>
+<li><strong>기존 사진 데이터베이스를 삭제</strong>하여 판매자가 사진을 재업로드하도록 강제(이제는 메타데이터가 수집됨)</li>
+<li>적절한 Tor(토르) 설정 없이 Hansa를 사용한 판매자의 <strong>실제 IP 주소 수집</strong></li>
+<li>국제 후속 수사를 위해 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a>에 <strong>10,000개의 배송지 주소 배포</strong></li>
+</ol>
+<h3 id="_12">전략적 영향</h3>
+<ol>
+<li><strong>다크넷 생태계 와해:</strong> 최대 규모 두 마켓의 동시 테이크다운과 Hansa 잠입 운영에서 확보된 정보가 결합되어, 유럽 및 전 세계에 걸쳐 <strong>수백 건의 후속 수사</strong>가 촉발되었다</li>
+<li><strong>"이중 함정" 모델 입증:</strong> Operation Bayonet은 한 마켓플레이스의 잠입 운영과 다른 마켓플레이스의 공개 테이크다운을 조율함으로써 사용자 이주 패턴을 이용하여 정보 수집을 극대화할 수 있음을 입증하였다</li>
+<li><strong>억지 효과:</strong> Hansa가 한 달간 경찰에 의해 운영되었다는 사실이 공개되면서 다크웹 마켓플레이스 생태계 내에 상당한 불신을 야기하였다</li>
+<li><strong>자산 회수:</strong> 총 3,000만 달러 이상의 자산 압수·동결</li>
+<li><strong>향후 작전의 본보기:</strong> 이 전략적 접근법은 후속 마켓플레이스 테이크다운에 영향을 미쳤다</li>
+</ol>
+<h3 id="_13">한계</h3>
 <ul>
-<li><strong>발표:</strong> 2017-07-20</li>
-<li><strong>개시:</strong> 2015</li>
-<li><strong>종료:</strong> 2017-07-20</li>
+<li>AlphaBay는 자칭 공동 창립자("DeSnake")에 의해 <strong>2021년 8월 재출범</strong>하였으며, 이는 다크웹 마켓플레이스를 영구적으로 제거하는 일의 어려움을 보여준다</li>
+<li>카제의 사망으로 기소 및 협력을 통한 잠재적 정보 확보가 불가능해졌다</li>
+<li>다크웹 마켓플레이스 생태계는 사용자들이 Dream Market 등 다른 대체재로 이주하면서 빠르게 재구성되었다</li>
 </ul>
-<h2 id="_9">결과 및 영향</h2>
+<h2 id="_14">활용된 협력 메커니즘</h2>
+<table>
+<thead>
+<tr>
+<th>메커니즘</th>
+<th>적용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">mutual-legal-assistance</a></td>
+<td>체포/범죄인 인도 요청에 대한 미국-태국 MLAT(형사사법공조조약); 증거 공유를 위한 양자 MLAT</td>
+</tr>
+<tr>
+<td><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">informal-cooperation</a></td>
+<td>이중 함정 전략에 관한 FBI(미국 연방수사국)-NHTCU 조율</td>
+</tr>
+<tr>
+<td><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">europol-jit</a></td>
+<td>Europol(유럽 경찰청)이 Hansa 작전에서 수집된 정보를 회원국에 배포하는 조율</td>
+</tr>
+<tr>
+<td>미국 몰수 절차</td>
+<td>AlphaBay 자산 및 카제 재산에 대한 민사 몰수 소송</td>
+</tr>
+<tr>
+<td>잠입 마켓플레이스 운영</td>
+<td>네덜란드 경찰이 Hansa를 약 한 달간 운영 -- 공개 다크넷 마켓 기록상 이러한 규모로는 전례 없음</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_15">핵심 협력 혁신: 이중 함정</h3>
+<p>Operation Bayonet의 가장 전략적으로 중요한 측면은 두 테이크다운의 <strong>조율된 순차 진행</strong>이었다.</p>
+<ol>
+<li><strong>1단계(잠입):</strong> 네덜란드 경찰이 Hansa를 조용히 장악(6월 20일)</li>
+<li><strong>2단계(공개):</strong> FBI(미국 연방수사국)가 AlphaBay 폐쇄(7월 4~5일)</li>
+<li><strong>3단계(수집):</strong> 사용자가 AlphaBay에서 경찰이 통제하는 Hansa로 이주; 정보 수집 극대화</li>
+<li><strong>4단계(공개):</strong> Hansa 공개적으로 폐쇄(7월 20일); 작전 발표</li>
+</ol>
+<p>이 접근법에는 다음이 요구되었다.</p>
 <ul>
-<li><strong>3명</strong> 체포</li>
-<li><strong>2개</strong> 도메인 압수/차단</li>
-<li><strong>$8.8 million (FBI) + 726 million Thai baht (~$21.7 million) frozen by Thai police</strong> 암호화폐 압수</li>
-<li>AlphaBay: 400,000 users, 40,000 vendors, 350,000+ listings disrupted</li>
-<li>Hansa: Covertly operated by Dutch police for ~1 month; 10,000 delivery addresses collected</li>
-<li>Alexandre Cazes (AlphaBay admin) died in Thai custody 2017-07-12</li>
-<li>2 Hansa administrators arrested (German nationals)</li>
-<li>27,000 transactions monitored during covert Hansa operation</li>
-<li>Luxury vehicles, residences, and hotel in Thailand seized</li>
+<li>FBI(미국 연방수사국)와 네덜란드 경찰의 행동 간 <strong>정밀한 시점 조율</strong></li>
+<li>수 주에 걸쳐 운영 보안을 유지하기 위한 미국 및 네덜란드 법집행기관 간의 <strong>신뢰</strong></li>
+<li>다중 관할권 정보 흐름을 관리하기 위한 <strong>Europol(유럽 경찰청)의 조율</strong></li>
+<li><strong>자제</strong> -- 즉각적인 폐쇄가 아니라 Hansa에서 27,000건의 불법 거래가 이루어지도록 허용함으로써 증거를 축적</li>
 </ul>
-<h2 id="_10">협력 메커니즘</h2>
+<h2 id="_16">도전 및 마찰 요인</h2>
 <ul>
-<li><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">Mutual Legal Assistance</a></li>
-<li><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 협력</a></li>
-<li><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Europol Jit</a></li>
+<li><strong>관할권 복잡성:</strong> 이 작전은 서로 다른 법체계(보통법, 대륙법, 태국법)를 가진 최소 8개국에 걸쳐 있었으며, 광범위한 법적 조율이 필요하였다</li>
+<li><strong>카제의 사망:</strong> 태국 구금 시설 내에서의 주요 표적의 자살 추정 사망은 기소 및 보다 광범위한 범죄 네트워크에 관한 정보를 얻을 수 있었던 잠재적 협력을 가로막았다</li>
+<li><strong>윤리적·법적 문제:</strong> Hansa 잠입 운영 중 27,000건의 불법 거래를 허용한 네덜란드 경찰의 결정은 잠입 작전의 한계와 잠재적 함정수사(entrapment)에 관한 의문을 제기하였다</li>
+<li><strong>암호화폐 추적:</strong> 다수의 블록체인 네트워크와 거래소에 걸쳐 암호화폐 자산을 추적하고 압수하는 작업은 전문화된 기술적 역량을 요구하였다</li>
+<li><strong>일시적 와해:</strong> 작전의 성공에도 불구하고, 다크웹 마켓플레이스는 수개월 내에 재구성되었으며, AlphaBay 자체도 2021년에 재출범하였다</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.0</strong> | 출처: 5건</p>
-</blockquote></div>
+<h2 id="_17">교훈</h2>
+<ol>
+<li><strong>OPSEC 실패는 여전히 주된 식별 경로다:</strong> 카제는 재사용된 개인 이메일 주소를 통해 식별되었다 -- 정교한 관리자조차도 기본적인 보안 실수를 저지른다</li>
+<li><strong>조율된 다중 마켓 테이크다운은 영향력을 극대화한다:</strong> 이중 함정 접근법은 예측 가능한 사용자 이주 행태를 활용하여, 고립된 테이크다운에 비해 정보 수확량을 극적으로 증가시켰다</li>
+<li><strong>잠입 마켓플레이스 운영은 작전상 실행 가능하다:</strong> 네덜란드 경찰은 법집행기관이 장기간 마켓플레이스 관리자를 적발 없이 성공적으로 사칭할 수 있음을 입증하였다</li>
+<li><strong>다양한 법 전통에 걸친 국제 협력은 달성 가능하다:</strong> 미국, EU, 태국 법체계를 가로지르는 조율의 복잡성에도 불구하고, 본 작전은 공식적 MLAT(형사사법공조조약)과 비공식적 경찰 간 협력의 결합을 통해 성공하였다</li>
+<li><strong>자산 압수는 핵심 와해 경로다:</strong> 3,000만 달러 이상의 자산 압수 -- 특히 암호화폐와 사치 재산 -- 는 다크넷 작전에서 금융 수사의 중요성을 보여준다</li>
+<li><strong>항구성은 여전히 어려운 과제다:</strong> 다른 관리자에 의한 AlphaBay의 2021년 재출범은 지속적인 집행 압력이 없으면 마켓플레이스 와해가 일시적이라는 점을 부각시킨다</li>
+</ol>
+<h2 id="_18">한국의 참여</h2>
+<p>대한민국은 Operation Bayonet의 <strong>참여국에 포함되지 않았다</strong>. 그러나 본 작전은 한국 법집행기관에 다음과 같은 함의를 지닌다.</p>
+<ul>
+<li><strong>한국 내 다크웹 마켓플레이스 이용:</strong> 한국 국적자는 국제 다크웹 마켓플레이스의 사용자 및 판매자로 식별되어 왔으나, 한국인의 AlphaBay 참여 범위는 공개적으로 문서화되어 있지 않다</li>
+<li><strong>작전 본보기:</strong> Operation Bayonet에서 입증된 미국, 유럽, 태국 당국 간의 협력 모델은 아시아 국가들이 관여하는 유사한 다국적 작전의 선례를 제공한다</li>
+<li><strong>태국 협력 선례:</strong> <a href="../../wiki/countries/thailand.html" class="wikilink">태국</a>에서 미국의 요청에 따라 캐나다 국적 피의자를 성공적으로 체포한 사례는 동남아시아에서 법집행기관 협력의 실현 가능성을 보여주며, 해당 지역에서의 체포가 필요한 한국 수사와 관련성이 있다(참조: <a href="../../wiki/operations/korea-cambodia-scam-repatriation.html" class="wikilink">korea-cambodia-scam-repatriation</a>)</li>
+<li><strong>마약 거래 연계:</strong> AlphaBay는 아시아·태평양 지역과 잠재적 공급망 연결을 지닌 국제 마약 거래를 매개하였다</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Operation Bayonet 또는 후속 수사에 한국 법집행기관이 참여하였다고 공개적으로 보고된 사례는 없다. 다크웹 마켓플레이스 단속에 대한 한국의 참여는 주로 INTERPOL이 조율하는 작전을 통해 이루어져 왔다.</div><div class="callout-body"></div></div>
+<h2 id="_19">모순점 및 미해결 문제</h2>
+<ol>
+<li>
+<p><strong>카제의 사망:</strong> 태국 당국은 카제의 사망을 자살로 판정하였다. 이러한 판정에 대해 공개적으로 신빙성 있게 보고된 모순점은 없으나, 정황 -- 범죄인 인도 이전 구금 중 사망 -- 은 추측을 낳았다. 자살 판정은 태국 공식 법의학 검사에 근거한 가장 잘 뒷받침되는 설명이다.</p>
+</li>
+<li>
+<p><strong>사용자/판매자 수 추정치:</strong> FBI(미국 연방수사국)는 200,000명의 사용자와 40,000명의 판매자를 언급한 반면, 일부 출처는 400,000명의 사용자를 인용한다. 이러한 불일치는 활성 계정과 등록 계정 간의 차이를 반영한다. DOJ(미국 법무부)의 200,000 수치는 활성 사용자를 반영할 수 있으며, 400,000은 휴면 계정을 포함한다.</p>
+</li>
+<li>
+<p><strong>총 거래 금액:</strong> 추정치는 "수억 달러"(DOJ(미국 법무부))부터 "10억 달러"(여러 언론)까지 다양하다. 10억 달러 수치는 암호화폐 기준 누적 평생 거래량을 가리키며, 보다 낮은 추정치는 특정 기간을 가리킬 수 있다.</p>
+</li>
+<li>
+<p><strong>잠입 마켓플레이스 운영의 법적 근거:</strong> 네덜란드 경찰이 Hansa를 운영한 -- 사실상 27,000건의 불법 거래를 매개한 -- 법적 근거는 법원에서 공개적으로 다투어지지 않았으나, 디지털 영역에서의 잠입 작전의 한계에 관한 미해결 의문을 제기한다.</p>
+</li>
+<li>
+<p><strong>AlphaBay 재출범(2021년):</strong> 새로운 AlphaBay가 2021년 8월 "DeSnake"(자칭 원조 공동 창립자이자 보안 관리자)에 의해 출범하였다. DeSnake와 원래 운영 간의 관계는 법집행기관에 미해결 문제로 남아 있다.</p>
+</li>
+</ol>
+<!-- SOURCE_ENRICHMENT_START -->
+
+<h2 id="source-coverage">Source Coverage</h2>
+<ul>
+<li>Europol(유럽 경찰청), 2017-07-20: 전 세계적으로 조율된 작전 이후 다크웹 범죄 활동에 막대한 타격.</li>
+<li>미국 법무부(공보실), 2017-07-20: 최대 온라인 '다크 마켓' AlphaBay, 폐쇄.</li>
+<li>미국 마약단속국, 2017-07-20: 최대 온라인 '다크 마켓' AlphaBay, 폐쇄.</li>
+<li>미국 연방수사국, 2017-07-20: AlphaBay 테이크다운.</li>
+<li>유엔 마약범죄사무소(UNODC), --: 실화 사건: AlphaBay.</li>
+</ul>
+<h2 id="evidence-and-attribution-notes">Evidence and Attribution Notes</h2>
+<ul>
+<li>AlphaBay는 200,000명 이상의 사용자와 40,000명의 판매자를 보유; 2014년 이후 10억 달러 이상이 거래됨.</li>
+<li>주요 피의자는 태국에서 체포; Hansa 관리자 2명은 독일에서 체포.</li>
+<li>서버는 캐나다, 네덜란드, 독일, 리투아니아에서 압수; 수백만 달러 상당의 암호화폐 동결.</li>
+<li>DOJ(미국 법무부)의 AlphaBay 테이크다운 공식 발표, 2017년 7월 20일.</li>
+<li>알렉상드르 카제는 관리자로 식별; 2017년 7월 5일 태국에서 체포.</li>
+<li>미국 캘리포니아 동부지구 연방지방법원에 민사 몰수 소송 제기.</li>
+<li>Operation Bayonet은 <strong>2017년 7월</strong> 세계 최대 규모의 두 다크웹 마켓플레이스인 <strong>AlphaBay</strong>와 <strong>Hansa</strong>를 와해시킨 다국적 법집행기관 작전이었다.</li>
+<li>AlphaBay 부문은 FBI(미국 연방수사국)와 DEA(미국 마약단속국)가 주도하였고, Hansa 부문은 네덜란드 국가경찰(NHTCU)이 주도하였으며, Europol(유럽 경찰청)이 전반적인 전략을 조율하였다.</li>
+</ul>
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+<h2 id="raw-source-highlights">Raw Source Highlights</h2>
+<ul>
+<li>미국 법무부(공보실), 2017-07-20: AlphaBay의 인프라를 압수하기 위한 국제 작전은 미국이 주도하였으며, 태국, 네덜란드, 리투아니아, 캐나다, 영국, 프랑스의 법집행기관과 유럽 법집행기관인 Europol(유럽 경찰청)의 협력과 노력이 관여되었다.</li>
+<li>미국 법무부(공보실), 2017-07-20: 7월 5일, 태국에 거주하는 캐나다 국적자이자 25세인 알렉상드르 카제(별명 Alpha02 및 Admin)가 AlphaBay의 창립자이자 관리자로서의 역할에 대해 미국의 요청에 따라 태국 당국에 의해 체포되었다.</li>
+<li>미국 연방수사국, 2017-07-20: 수십만 명의 범죄자가 익명으로 마약, 무기, 해킹 도구, 도난 신원, 그 밖의 다양한 불법 상품·서비스를 사고팔던 다크넷 최대의 마켓플레이스가 법집행기관의 지금까지 가장 정교하고 조율된 노력 중 하나에 따라 폐쇄되었다.</li>
+<li>미국 연방수사국, 2017-07-20: 7월 초, AlphaBay 웹사이트가 사용한 다수의 컴퓨터 서버가 전 세계에서 압수되었고, 사이트의 창립자 겸 관리자 -- 태국에 거주하는 25세 캐나다 국적자 -- 가 체포되었다.</li>
+</ul>
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+<h2 id="canonical-operation-assessment">Canonical Operation Assessment</h2>
+<p>본 페이지는 피고인별 후속 조치가 아니라 AlphaBay 및 Hansa 다크웹 마켓플레이스를 겨냥한 테이크다운을 서술하므로 정본(canonical) 작전 페이지로 유지된다. 기록상 주도 책임은 Fbi Cyber Division에, 조율은 Europol Ec3에 귀속되며, 참여 또는 영향을 받은 관할권으로는 미국, 태국, 네덜란드, 리투아니아, 캐나다, 영국, 프랑스, 독일이 기록된다.</p>
+<p>협력 모델은 명명된 기관과 파트너를 통해 문서화된다: Fbi Cyber Division, Europol Ec3, Eurojust, Netherlands Politie; 메커니즘: 형사사법공조, 비공식 협력, Europol Jit; 법적 근거: 형사사법공조 및 부다페스트 협약; 집행 자세: 테이크다운, 체포, 압수, 자산 동결.</p>
+<p>정본 기록에 포착된 작전 결과: 3명 체포; 1건 기소; 2개 도메인 압수; 암호화폐/자산 결과는 880만 달러(FBI(미국 연방수사국)) + 태국 경찰이 동결한 7억 2,600만 태국 바트(약 2,170만 달러)로 기록; AlphaBay: 사용자 400,000명, 판매자 40,000명, 게시물 350,000건 이상 와해; Hansa: 네덜란드 경찰이 약 1개월간 잠입 운영; 배송지 주소 10,000건 수집; 알렉상드르 카제(AlphaBay 관리자)가 2017년 7월 12일 태국 구금 시설에서 사망; Hansa 관리자 2명(독일 국적) 체포.</p>
+<p>정본 출처 집합에는 5건의 참고문헌이 포함되어 있다: 2017 07 20 Europol Alphabay Hansa Takedown, 2017 07 20 Doj Alphabay Shutdown, 2017 07 20 Dea Alphabay Shutdown, 2017 07 20 Fbi Alphabay Takedown, Unodc Alphabay True Crime Story.
+출처 하한선은 정본 작전 요건을 충족하지만, 출처의 폭만으로는 모든 하류의 체포나 선고가 본 작전의 일부임이 입증되지 않는다; 후속 기록은 별도로 연결된 상태로 유지되어야 한다.
+본 페이지에 여전히 남아 있는 메타데이터 누락: 정확한 서버 수 및 지원 역할을 수행한 국가 기관의 전체 목록.
+데이터셋 활용을 위해서는, 본 페이지를 작전 수준의 집계 지점으로 다루어야 한다: 국가, 기관, 메커니즘, 결과 필드는 조율된 집행 행위 전체를 기술한다. 이후의 기소, 인정 답변, 선고, 범죄인 인도 또는 몰수 조치는 출처가 명시적으로 새로운 다국적 작전으로 제시하지 않는 한 관련 사건으로 첨부되거나 흡수된 후속 기록으로 처리되어야 한다.
+출처 기록이 보다 광범위한 배경, 반복되는 통신사 재게재 또는 주제 페이지 자료를 포함하는 경우, 본 평가는 명명된 작전, 그 참여 당국, 표적 인프라 또는 범죄 서비스, 그리고 측정 가능한 집행 결과와 직접 연결된 사실에 우선순위를 둔다. 주변적인 출처 제목은 독립적인 분류 또는 결과 증거로 다루어지지 않는다.
+이는 정본 기록을 분석적으로 한정되고 재현 가능한 상태로 유지한다.</p>
+<!-- CANONICAL_ASSESSMENT_END -->
+
+<h2 id="_20">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>전 세계적으로 조율된 작전 이후 다크웹 범죄 활동에 막대한 타격</td>
+<td>Europol</td>
+<td>2017-07-20</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation" class="external-link">link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>최대 온라인 '다크 마켓' AlphaBay, 폐쇄</td>
+<td>US DOJ</td>
+<td>2017-07-20</td>
+<td><a href="https://www.justice.gov/opa/pr/alphabay-largest-online-dark-market-shut-down" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/alphabay-largest-online-dark-market-shut-down" data-full-url="https://www.justice.gov/opa/pr/alphabay-largest-online-dark-market-shut-down" class="external-link">link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>최대 온라인 '다크 마켓' AlphaBay, 폐쇄</td>
+<td>DEA</td>
+<td>2017-07-20</td>
+<td><a href="https://www.dea.gov/press-releases/2017/07/20/alphabay-largest-online-dark-market-shut-down" target="_blank" rel="noopener noreferrer" title="https://www.dea.gov/press-releases/2017/07/20/alphabay-largest-online-dark-market-shut-down" data-full-url="https://www.dea.gov/press-releases/2017/07/20/alphabay-largest-online-dark-market-shut-down" class="external-link">link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>AlphaBay 테이크다운</td>
+<td>FBI</td>
+<td>2017-07-20</td>
+<td><a href="https://www.fbi.gov/news/stories/alphabay-takedown" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/news/stories/alphabay-takedown" data-full-url="https://www.fbi.gov/news/stories/alphabay-takedown" class="external-link">link</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>실화 사건: AlphaBay</td>
+<td>UNODC</td>
+<td>--</td>
+<td><a href="https://www.unodc.org/unodc/untoc20/truecrimestories/alphabay.html" target="_blank" rel="noopener noreferrer" title="https://www.unodc.org/unodc/untoc20/truecrimestories/alphabay.html" data-full-url="https://www.unodc.org/unodc/untoc20/truecrimestories/alphabay.html" class="external-link">link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Operation Bayonet was a multinational law enforcement operation that dismantled <strong>AlphaBay</strong> and <strong>Hansa</strong> -- the world's two largest darknet marketplaces -- in <strong>July 2017</strong>. The operation was led by the <a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI</a> and the US Drug Enforcement Administration (DEA) for the AlphaBay component, while the <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Dutch National Police (NHTCU)</a> led the Hansa component, with <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> coordinating the overall strategy.</p>
 <h2 id="audit-note">Audit Note</h2>

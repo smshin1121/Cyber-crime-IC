@@ -79,57 +79,120 @@
     </div>
     <div class="article-body">
 
-        <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Bangkok CCIB–Immigration Bureau arrest of Fluxstress/Netdowner DDoS-as-a-Service operator — German fugitive on INTERPOL Red Notice (2026)</strong> <a href="../../wiki/organizations/interpol.html" class="wikilink">Interpol</a>의 조정 하에 수행된 일제검거 작전으로, <strong>2026-04-11 ~ 2026-04-11</strong> 기간 동안 <strong>2개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Noah Christopher (27, German national) — alleged developer and principal operator of the Fluxstress and Netdowner DDoS-as-a-Service / 'stresser-booter' platforms (active 2021–2025) selling cryptocurrency-paid Distributed Denial-of-Service attack services against organisational targets worldwide; also alleged to have developed ransomware and broader Cybercrime-as-a-Service (CaaS) tooling.</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>DDoS 공격, 사이버범죄 인프라</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Noah Christopher (27, German national) — alleged developer and principal operator of the Fluxstress and Netdowner DDoS-as-a-Service / 'stresser-booter' platforms (active 2021–2025) selling cryptocurrency-paid Distributed Denial-of-Service attack services against organisational targets worldwide; also alleged to have developed ransomware and broader Cybercrime-as-a-Service (CaaS) tooling.</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+        <div class="ko-block"><div class="callout callout-info"><div class="callout-title">ℹ️ 잠정/이중 출처 항목
+본 페이지는 <code>source_count: 2</code>로 게시되었으며(위키의 권장 게시 임계치 5 미만), 다만 <strong>협력 두 관할의 독립적 tier-1 자체 도메인 보도자료 2건</strong>에 의해 교차 확인된다: (1) 태국 왕립경찰청 사이버범죄수사국(CCIB)의 2026년 4월 11일 보도자료(태국 법집행 측, 독일 연방 당국 및 INTERPOL 사무총국을 협력 파트너로 명시), (2) 독일 연방수사청(BKA) + 프랑크푸르트 검찰청/인터넷범죄 중앙기구(ZIT) 공동 2026년 4월 16일 보도자료(독일 법집행 측, 태국 구금 중인 독일 국적자가 Fluxstress 및 Netdowner의 추정 운영자임과 § 127 StGB 체포영장이 본건의 기저임을 명시적으로 확인). 본 페이지는 태국 인도 절차 진행과 독일 연방 기소장 제출 시점에 따라 추가 확장될 예정이다.</div><div class="callout-body"></div></div>
+<h2 id="_1">개요</h2>
+<p>2026년 4월 11일, 태국 왕립경찰 사이버범죄수사국(CCIB / กองบัญชาการตำรวจสืบสวนสอบสวนอาชญากรรมทางเทคโนโลยี — บช.สอท.) 소속 경관들이 출입국관리국 수사부서와 함께 방콕 왓타나구 텅러 25길의 고급 콘도미니엄에서 27세 독일 국적자 Noah Christopher를 체포하였다. 본 체포는 독일 연방 당국이 발부한 74건의 미집행 체포영장에 근거한 INTERPOL 적색수배(Red Notice)를 집행하는 차원에서 이루어졌다. CCIB 발표는 "독일연방공화국 법집행 당국 및 INTERPOL 사무총국"과의 협력을 명시적으로 적시하였다.</p>
+<p>피의자는 2021년부터 2025년 사이 활동한 두 개의 DDoS 서비스형(DDoS-as-a-Service) 플랫폼 — <strong>Fluxstress</strong> 및 <strong>Netdowner</strong> — 의 개발자이자 주요 운영자로 추정된다. 이 플랫폼들은 전 세계 조직 서버를 표적으로 암호화폐 결제 방식의 분산 서비스 거부("스트레서/부터") 공격을 판매하였다. CCIB는 추가로 피의자에 대해 랜섬웨어 도구 및 보다 광범위한 사이버범죄 서비스형(CaaS) 제공의 개발도 귀속시켰다.</p>
+<h2 id="_2">배경</h2>
+<p><strong>수법(모더스 오페란디) (DDoS 서비스형/"스트레서-부터" 플랫폼).</strong> Fluxstress와 Netdowner는 피의자가 <strong>2021년부터 2025년</strong>까지 개발·운영한 것으로 추정되는 두 개의 <strong>DDoS 서비스형(DDoSaaS)</strong> 플랫폼 — 통상 "스트레서" 또는 "부터" 서비스로 불림 — 이다. 스트레서-부터 플랫폼은 (보통 셀프 서비스 가입, 단계별 구독 요금제, 결제 게이트웨이를 갖춘) 웹 프론트엔드를 노출하며, <strong>결제 고객은 표적 IP 주소 또는 도메인을 선택하고 공격 벡터</strong>(예: UDP 플러드, TCP SYN 플러드, HTTP/HTTPS 계층-7 플러드, DNS/NTP/Memcached 반사기를 통한 증폭), <strong>공격 지속 시간(통상 수 초~수십 분), 동시성 등급</strong>을 선택한 뒤, 선택한 표적에 대해 온디맨드 분산 서비스 거부 트래픽을 전달받는다. 고객 대상 스토어프론트 뒤에서 운영자는 실제 공격 트래픽을 생성하는 <strong>침해된 서버, 부터 노드, 증폭 반사기로 구성된 백엔드 공격 인프라</strong>를 유지한다. BKA + ZIT의 2026년 4월 16일 보도자료는 Operation PowerOFF 2026-04 단속 기간 중 <strong>피의자와 연관된 40대 이상의 서버 식별 및 압수</strong>를 보고하였으며, 이는 본격적 DDoSaaS 플랫폼의 백엔드 인프라 프로파일과 일치한다. CCIB는 또한 피의자에 대해 순수 DDoSaaS를 넘어선 <strong>랜섬웨어 도구 및 보다 광범위한 사이버범죄 서비스형(CaaS) 제공</strong>의 개발을 귀속시켰는데, 이는 DDoSaaS 전용 운영자가 아닌 다중 제품 CaaS 운영자임을 시사한다. Fluxstress와 Netdowner는 국제 법집행 와해 작전의 반복적 표적이 되어 온 장기적 DDoS 임대 생태계의 일부이다(<a href="../../wiki/operations/operation-power-off.html" class="wikilink">operation-power-off</a> 및 <a href="../../wiki/operations/operation-power-off-2026-04.html" class="wikilink">2026년 4월 글로벌 액션 위크</a> 참조).</p>
+<h3 id="_3">피해자 프로파일 및 영향</h3>
+<p><strong>피해자 수 및 피해자 프로파일은 인용된 1차 보도자료에 열거되지 않는다.</strong> 이 2021-2025 세대의 DDoSaaS 플랫폼들은 통상 연간 수만 건에서 수십만 건의 유료 공격을 제공하며, 피해자 군은 <strong>온라인 게임 서비스, 게임 플랫폼 사용자(Minecraft/FiveM/Discord 서버 호스팅 커뮤니티), 경쟁 e스포츠 라이벌, 웹 호스팅 고객, 개인 크리에이터/스트리머, 중소기업 웹사이트, 그리고 선택적으로 정부/법집행기관/저널리즘 표적</strong>에 집중된다. CCIB 보도자료는 표적 계층을 일반적으로 "전 세계 조직 서버"로 묘사한다. BKA + ZIT 보도자료는 피의자를 DDoSaaS 생태계 전체를 표적으로 하는 Operation PowerOFF 2026-04 단속의 보다 광범위한 맥락에 연결시키는데, 이는 독일 연방 수사가 CCIB 체포 보도자료가 공개적으로 밝힌 수준을 넘는 피해자 귀속 데이터셋을 개발하였음을 시사한다. 피해자별 또는 집계 손실 수치, 다운타임 시간, 표적 분류는 독일 기소 측의 공개 및 압수 기기에 대한 디지털 포렌식 분석을 기다리고 있다.</p>
+<h3 id="_4">자금 흐름</h3>
+<p>CCIB 보도자료는 본 플랫폼들이 2021-2025의 4년 기간 동안 <strong>암호화폐 결제</strong> 방식으로 운영되었음을 보고한다(구체적 암호화폐는 열거되지 않음; 이 세대 DDoSaaS의 표준 결제 모드 쌍은 BTC와 프라이버시 코인 Monero이다). 고객 결제는 플랫폼의 고객 대상 결제 게이트웨이를 통해 운영자 통제 지갑으로 흘러간 뒤, 피의자의 다중 관할 거주 발자국(UAE, 중국, 태국)에 걸쳐 환전/법정화폐 환출/소비로 이어졌을 것이다. 작전 당일 <strong>하드웨어 암호화폐 지갑 1개</strong> 압수는 운영자의 범죄수익 보유분을 재구성하기 위한 핵심 포렌식 자산이다. <strong>인용된 보도자료에서는 가치가 공개되지 않았으며</strong>, 포렌식 분석을 통해 발전될 것이다. 다중 관할에 걸친 소비 패턴은 피의자의 생활 양식 프로파일(방콕 텅러 지구의 고급 콘도미니엄)과 일치한다. 두 플랫폼에 걸친 4년간 집계 암호화폐 처리량은 인용된 보도자료에 열거되지 않는다.</p>
+<p><strong>범죄 조직 구조.</strong> 인용된 CCIB 1차 보도자료는 피의자 — <strong>Noah Christopher, 27세, 독일 국적</strong> — 를 Fluxstress와 Netdowner 양자의 <strong>개발자이자 주요 운영자</strong>로 묘사하며, 공모자, 제휴자, 고객 기반 규모, 상위 개발자/하위 리셀러 관계는 명명하지 않는다. 따라서 OCG 프로파일은 공개 귀속 계층에서 <strong>단일 책임자 운영자</strong>이지만, 백엔드 인프라 규모(BKA 보도자료 기준 40대 이상의 서버)와 병행되는 랜섬웨어 + 광범위한 CaaS 도구 귀속은 일부 작전 지원(호스팅 조달, 결제 처리 프론트엔드 유지, 고객 지원 처리)이 자체 운영되거나 추적되지 않는 제휴자를 통해 위탁되었음을 시사한다. BKA + ZIT의 2026년 4월 16일 보도자료는 Fluxstress/Netdowner 사건에 대해 § 127 StGB 체포영장의 단일 피의자 표적을 확인하며, 이는 CCIB의 단일 책임자 프레임과 일치한다. 공모자(존재한다면)는 두 tier-1 보도자료 어디에도 명명되지 않는다.</p>
+<p><strong>도피 경로.</strong> CCIB 보도자료와 태국 언론 보도에 따르면, 피의자는 방콕의 고급 콘도미니엄에 정착하기 전 수년간 <strong>아랍에미리트, 중국, 태국</strong>을 옮겨 다니며 독일 당국을 피하였다. 독일 연방 법집행기관이 그의 태국 소재를 추적하여 태국 CCIB와 조율하였으며, 태국 출입국관리국은 합동 CCIB-출입국관리국 작전이 체포를 집행하기 이틀 전인 <strong>2026년 4월 9일</strong> 그의 비자를 취소하였다.</p>
+<h2 id="_5">참여 당사자</h2>
+<p><strong>태국:</strong>
+- <a href="../../wiki/organizations/thailand-royal-police.html" class="wikilink">태국 왕립경찰 — 사이버범죄수사국(CCIB)</a> — 주도 작전 기관
+- 출입국관리국(สำนักงานตรวจคนเข้าเมือง) 수사부서 — 공동 집행 기관; 비자 취소; 체포 집행
+  - 사령관 Phanop Warathanachakun
+  - 부사령관 Ratchot Chotikun, Chitdecha Songhong
+  - 총경 Pisit Sri-on
+- 국제범죄수사국(2과) — 국제 연락 지원
+- 태국 왕립경찰 3과(법적 절차) — 인도 서류 작성</p>
+<p><strong>독일:</strong>
+- <a href="../../wiki/organizations/germany-bka.html" class="wikilink">독일 연방 법집행기관</a> — 74건의 체포영장 발부 당국; 피의자의 태국 소재를 추적하여 태국 CCIB와 조율한 정보 파트너</p>
+<p><strong>다자:</strong>
+- <a href="../../wiki/organizations/interpol.html" class="wikilink">INTERPOL 사무총국</a> — 독일을 대신하여 적색수배 발부; 독일과 태국 법집행 간 조정 채널 제공</p>
+<h2 id="_6">법적 근거</h2>
+<p>본 체포는 세 가지 계층의 도구에 근거한다.</p>
+<ol>
+<li><strong>74건의 독일 국내 체포영장</strong> — 실질적 형사 혐의(구체적 독일 법령 식별자는 CCIB 보도자료에 열거되지 않음; 태국 언론 보도에 따르면 혐의는 해킹, 협박, 랜섬웨어, 암호화폐 결제 채널 사이버범죄에 걸쳐 있음)</li>
+<li><strong>INTERPOL 적색수배</strong> — 독일 영장에 기반한 국제 검거 요청. INTERPOL 사무총국이 발부하고 <a href="../../wiki/mechanisms/interpol-i24-7.html" class="wikilink">INTERPOL I-24/7 안전 통신망</a>을 통해 모든 회원국 국가중앙사무국에 전파</li>
+<li><strong>태국 형사소송법 + 출입국관리법</strong> — 태국 영토에서 유효한 적색수배 대상 외국 국적자를 체포할 권한. 출입국관리국이 사전 비자 취소를 거쳐 집행</li>
+</ol>
+<p>74개 영장 중에는 유럽연합(EU) 차원의 영장도 포함된 것으로 보도되어, 실질적 형사 책임이 독일을 넘어 다수 EU 관할에 걸쳐 있음을 시사한다.</p>
+<p>피의자를 독일로 송환하기 위한 범죄인 인도 절차는 1차 보도자료 시점 기준 준비 중이다. 절차는 태국–독일 <a href="../../wiki/mechanisms/extradition.html" class="wikilink">범죄인 인도</a> 조약 체계 하에서 진행될 것이다.</p>
+<h2 id="_7">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>일자</th>
+<th>사건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2021</td>
+<td>Fluxstress/Netdowner DDoS 서비스형 플랫폼 운영 개시 (CCIB 진술 기준)</td>
+</tr>
+<tr>
+<td>2025</td>
+<td>플랫폼이 이 기간 말까지 대체로 활동 유지 (CCIB 진술 기준)</td>
+</tr>
+<tr>
+<td>(2026년 이전 수년간)</td>
+<td>피의자가 아랍에미리트·중국·태국을 옮겨 다니며 독일 당국을 피한 것으로 보고됨</td>
+</tr>
+<tr>
+<td>2026-04-09</td>
+<td>태국 출입국관리국이 피의자의 태국 비자 취소</td>
+</tr>
+<tr>
+<td>2026-04-11</td>
+<td>CCIB와 출입국관리국 수사부서가 방콕 왓타나구 텅러 25길에서 합동 체포 집행</td>
+</tr>
+<tr>
+<td>2026-04-11 (당일)</td>
+<td>CCIB가 체포 발표 기자회견 개최; 독일 연방 법집행 및 INTERPOL과의 협력을 명시</td>
+</tr>
+<tr>
+<td>2026-04-11 이후</td>
+<td>압수 기기에 대한 디지털 포렌식 분석 개시; 태국 당국이 독일 인도 서류 마무리</td>
+</tr>
+<tr>
+<td>2026-04-16</td>
+<td>독일 연방수사청(BKA)과 프랑크푸르트 검찰청/ZIT가 보다 광범위한 <a href="../../wiki/operations/operation-power-off-2026-04.html" class="wikilink">Operation PowerOFF 2026-04</a> 단속에 관한 공동 보도자료 발부; 태국 구금 독일 국적자가 § 127 StGB 체포영장 하의 ZIT 주도 피의자(Fluxstress 및 Netdowner 추정 운영자)임을 확인; 피의자와 연관된 40대 이상의 서버 식별·압수 보고</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_8">결과 및 영향</h2>
 <ul>
-<li>Electronic devices seized: 1 computer, 3 iPads, 1 tablet, 3 mobile phones, 1 hardware crypto wallet, miscellaneous documentation</li>
-<li>74 outstanding German arrest warrants against the suspect (basis for the Red Notice — not an arrest count itself)</li>
-<li>Thai immigration visa revoked 9 April 2026 (two days prior to arrest)</li>
+<li><strong>체포 1건</strong> (Noah Christopher, 27세, 독일 국적)</li>
+<li>인도에 의한 신병 인도를 위해 <strong>74건의 미집행 독일/EU 영장</strong> 활성화</li>
+<li><strong>압수 품목</strong>: 컴퓨터 1대, iPad 3대, 태블릿 1대, 휴대전화 3대, 하드웨어 암호화폐 지갑 1개, 기타 문서 다수</li>
+<li>체포 이틀 전 태국 출입국관리국에 의한 <strong>비자 취소</strong> (체포 전 추방 가능성 확보 수단)</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<p>CCIB 보도자료는 Fluxstress 및 Netdowner 고객의 전 세계 피해자 모집단이나 4년간의 플랫폼 운영에 걸친 암호화폐 처리량을 정량화하지 않는다. 이러한 수치는 독일 기소 진행과 압수 기기에 대한 디지털 포렌식 분석을 통해 발전될 것으로 예상된다.</p>
+<h2 id="_9">활용된 협력 메커니즘</h2>
 <ul>
-<li>체포: <strong>1명</strong> (피의자 규모)</li>
-<li>암호화폐 압수: <strong>1 hardware cryptocurrency wallet (value not disclosed in primary release)</strong> (자금 흐름 규모)</li>
+<li><strong><a href="../../wiki/mechanisms/interpol-i24-7.html" class="wikilink">INTERPOL I-24/7</a> / 적색수배 채널</strong> — 독일 체포영장 기반과 태국 작전 체포를 연결한 주요 국제 조정 도구</li>
+<li><strong><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 간 협력</a></strong> — 피의자를 방콕에서 특정하기 위해 독일 연방 법집행과 태국 CCIB 간의 직접 정보 공유</li>
+<li><strong>비자 취소 수단</strong> (태국 출입국관리법) — 체포 이틀 전 피의자의 합법적 거주 지위를 약화시키기 위해 사용되어 추방·인도 가능성 확보</li>
+<li><strong><a href="../../wiki/mechanisms/extradition.html" class="wikilink">양자 범죄인 인도</a></strong> — 보도자료 시점 기준 태국–독일 인도 절차 준비 중; 체포 이후의 법적 경로 결정</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Thailand Royal Police</p>
-<p><strong>조정기관:</strong> Interpol</p>
-<p><strong>참여기관:</strong> Thailand Royal Police, Germany Bka, Interpol</p>
-<p><strong>참여국:</strong> Thailand, Germany</p>
-<h2 id="_7">법적 근거</h2>
+<h2 id="_10">도전 및 마찰 요인</h2>
 <ul>
-<li>INTERPOL Red Notice issued at the request of the Federal Republic of Germany — 74 outstanding German arrest warrants underlying the Red Notice</li>
-<li>Thai Criminal Procedure Code authority for arrest of a foreign national subject to an INTERPOL Red Notice on Thai territory; Immigration Act authority for visa revocation (executed by Immigration Bureau on 9 April 2026, two days prior to the arrest)</li>
-<li>Pending bilateral extradition request from the Federal Republic of Germany to the Kingdom of Thailand under the Thailand–Germany Extradition Treaty framework, in preparation as of the date of the primary release</li>
-<li>European Union arrest warrants underlying additional charges (per Thai Examiner coverage of the CCIB press conference)</li>
+<li>UAE, 중국, 태국에 걸친 다년간의 도피 — 법집행 관여 프로파일이 다양한 관할 간에 호스팅과 물리적 존재를 이동시키는 DDoS 서비스형 운영자 추적의 지속적 도전을 보여 줌</li>
+<li>암호화폐 결제 채널 — 피해자 귀속 및 범죄수익 추적을 복잡하게 함; 압수된 하드웨어 지갑은 핵심 포렌식 자산</li>
+<li>74개 영장의 폭 — 독일 연방 및 주(Land) 검사 간 조정과 EU 회원국 간 다수 영장의 가능성을 시사; CCIB 보도자료는 이를 구분하지 않음</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
+<h2 id="_11">한국의 참여</h2>
+<p>1차 보도자료에 식별된 바 없음. 한국 피해자나 법집행 관여 보고는 없다.</p>
+<h2 id="_12">모순점 및 미해결 문제</h2>
 <ul>
-<li><strong>발표:</strong> 2026-04-11</li>
-<li><strong>개시:</strong> 2026-04-11</li>
-<li><strong>종료:</strong> 2026-04-11</li>
+<li><strong>피의자 연령</strong>: CCIB와 대부분의 태국 언론은 피의자를 27세로 기재; 한 Twitter/X 보도는 "26세"를 인용. 27 수치는 1차 CCIB 보도자료 및 기자회견에 대한 Bangkok Post 보도의 버전이다.</li>
+<li><strong>보도자료 일자</strong>: CCIB 사이트는 URL 슬러그 "2026-april-6" 하에 보도자료를 게시하나, 체포 자체는 CCIB 진술·태국 언론·영어권 태국/국제 보도에 따르면 2026년 4월 11일 발생. URL의 "april-6" 문자열은 게시일이 아닌 내부 슬러그인 것으로 보인다.</li>
+<li><strong>플랫폼명</strong>: 대부분 보도에서 "Netdowner"로 표기; 일부 출처는 "Neldowner"로 표기. 양자 모두 단일 플랫폼을 지칭한다.</li>
+<li><strong>유럽연합 영장</strong>: Thai Examiner 보도는 독일 영장 외에 EU 발부 영장을 언급하나, CCIB 보도자료는 이를 별도로 열거하지 않음; 독일 주 영장과 EU 차원 영장 기반 간의 관계는 인도 기록을 통해 더 명확해질 것이다.</li>
+<li><strong>특정 독일 기관</strong>: CCIB 보도자료는 "독일연방공화국 법집행 당국"이라는 일반적 표현을 사용. BKA + ZIT의 2026년 4월 16일 보도자료(<a href="../../wiki/sources/2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody.html" class="wikilink">2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody</a>)는 이를 해결: 독일 측 주도 기소 당국은 <strong>프랑크푸르트 검찰청 – 인터넷범죄 중앙기구(Generalstaatsanwaltschaft Frankfurt am Main – Zentralstelle zur Bekämpfung der Internetkriminalität, ZIT)</strong> 이며 연방경찰 수사 파트너는 <strong>독일 연방수사청(Bundeskriminalamt, BKA)</strong> 이다. 원천 주수사국(Landeskriminalamt)은 여전히 별도로 식별되지 않는다.</li>
+<li><strong>L26 격차 기록</strong>: (a) 집계 피해자 수, 피해자별 다운타임 영향, 표적 분류(게임 플랫폼 사용자 vs. 중소기업 웹 호스트 vs. 정부/저널리즘 표적)는 인용된 tier-1 보도자료에 열거되지 않음; 독일 기소 측의 공개 대기 중. (b) 4년간 플랫폼 운영 기간 동안의 집계 암호화폐 처리량과 압수된 하드웨어 지갑의 보유 가치는 미공개. (c) 공모자(백엔드 인프라 운영자, 결제 처리자, 고객 지원 인력)는 인용된 tier-1 보도자료에 명명되지 않음; CCIB와 BKA + ZIT 모두 단일 책임자 프레임이다.</li>
 </ul>
-<h2 id="_9">결과 및 영향</h2>
+<h2 id="sources">Sources</h2>
 <ul>
-<li><strong>1명</strong> 체포</li>
-<li><strong>1 hardware cryptocurrency wallet (value not disclosed in primary release)</strong> 암호화폐 압수</li>
-<li>Electronic devices seized: 1 computer, 3 iPads, 1 tablet, 3 mobile phones, 1 hardware crypto wallet, miscellaneous documentation</li>
-<li>74 outstanding German arrest warrants against the suspect (basis for the Red Notice — not an arrest count itself)</li>
-<li>Thai immigration visa revoked 9 April 2026 (two days prior to arrest)</li>
-</ul>
-<h2 id="_10">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/interpol-i24-7.html" class="wikilink">Interpol I24 7</a></li>
-<li><a href="../../wiki/mechanisms/extradition.html" class="wikilink">범죄인 인도</a></li>
-<li><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 협력</a></li>
+<li><a href="../../wiki/sources/2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok.html" class="wikilink">2026-04-11_ccib-go-th_fluxstress-netdowner-ddos-german-arrest-bangkok</a> — 태국 왕립경찰 CCIB 1차 보도자료(2026년 4월 11일; ccib.go.th 자체 도메인)</li>
+<li><a href="../../wiki/sources/2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody.html" class="wikilink">2026-04-16_bka-de_operation-poweroff-fluxstress-netdowner-thai-custody</a> — 독일 연방수사청(BKA) + 프랑크푸르트 검찰청/ZIT 공동 보도자료(Operation PowerOFF 2026-04 단속, 2026년 4월 16일; bka.de 자체 도메인). 태국 구금 중인 독일 국적자가 Fluxstress 및 Netdowner의 추정 운영자임을 명시적으로 확인; § 127 StGB 체포영장.</li>
 </ul></div>
         <div class="en-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Provisional / dual-source entry
 This page is published with <code>source_count: 2</code> (below the wiki's preferred publication threshold of 5) but corroborated by two <strong>independent tier-1 own-domain releases from two cooperating jurisdictions</strong>: (1) the Royal Thai Police Cybercrime Investigation Bureau (CCIB) release of 2026-04-11 (Thai LE side, names the German federal authorities and INTERPOL General Secretariat as cooperating partners), and (2) the joint Bundeskriminalamt (BKA) + Generalstaatsanwaltschaft Frankfurt am Main / Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT) release of 2026-04-16 (German LE side, explicitly confirms that the German national in Thai custody is the alleged operator of Fluxstress and Netdowner and that a § 127 StGB arrest warrant underlies the case). The page will be expanded further as Thai extradition proceedings progress and German federal indictment is filed.</div><div class="callout-body"></div></div>
