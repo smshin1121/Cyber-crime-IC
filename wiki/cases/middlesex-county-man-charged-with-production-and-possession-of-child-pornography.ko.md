@@ -1,0 +1,29 @@
+## 개요
+
+미들섹스 카운티 거주 남성이 아동 음란물 제작 및 소지 혐의로 기소된 사실이 연계된 출처 자료에 기록되어 있다. 확보된 출처 범위는 US DOJ USAO(미국 연방검찰청)의 보도자료를 포함한다.
+
+## 출처 범위
+
+- US DOJ USAO, 2024-08-20: Middlesex County Man Charged with Production and Possession of Child Pornography.
+
+## 작전 타임라인
+
+- 2024-08-20: US DOJ USAO의 공개 출처 보도.
+
+## 국제공조 세부사항
+
+- 명시된 기관 및 협력 주체는 [[us-doj|US DOJ]]를 포함한다.
+- 기록된 협력 메커니즘은 [[informal-cooperation|비공식 협력]]을 포함한다.
+
+## 법적·절차적 쟁점
+
+- 기록된 범죄 분류: [[online-fraud-ic|온라인 사기]] 및 [[csam-ic|CSAM(아동 성학대물)]].
+- 메타데이터에 기록된 법적·절차적 근거: [[informal-cooperation|비공식 협력]].
+- 본 기록은 형사기소(prosecution)로 분류되며 상태는 기소됨(charged)이다.
+- 관련 법적·작전 기록: [[operation-middlesex-county-man-charged-with-production-and-possession-of-child-pornography|Operation Middlesex County Man Charged With Production And Possession Of Child Pornography]].
+
+## 참고문헌
+
+| # | 출처 | 발행기관 | 날짜 | URL |
+|---|---|---|---|---|
+| 1 | Middlesex County Man Charged with Production and Possession of Child Pornography | US DOJ USAO | 2024-08-20 | https://www.justice.gov/usao-nj/pr/middlesex-county-man-charged-production-and-possession-child-pornography |

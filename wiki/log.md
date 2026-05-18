@@ -1,5 +1,8 @@
 # Activity Log
 
+## [2026-05-18] iter 258 L27 backfill milestone 33 | cases sidecars 405/1225 (+60, 33.1%)
+- Batches LR-MC landed. Cases queue: 820 remaining.
+
 ## [2026-05-18] iter 257 L27 backfill milestone 32 | cases sidecars 345/1225 (+60, 28.2%)
 - Batches LF/LG/LH/LI/LJ/LK/LL/LM/LN/LO/LP/LQ landed.
 - Cases queue: 880 remaining.
