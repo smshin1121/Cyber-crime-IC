@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 275 L27 backfill milestone 50 | orgs sidecars 60/152 (+20, 39.5%)
+- Batches TI-TL landed (france-gendarmerie through interpol).
+- Remaining: orgs 92 + countries 154 + legal-frameworks 25 = 271.
+
 ## [2026-05-18] iter 274 L27 backfill milestone 49 | orgs sidecars 40/152 (+20, 26.3%)
 - Batches TE-TH landed (city-of-london-police through first-forum-incident-response).
 - Remaining: orgs 112 + countries 154 + legal-frameworks 25 = 291.
