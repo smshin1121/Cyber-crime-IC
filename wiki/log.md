@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 278 L27 backfill milestone 53 | orgs sidecars 120/152 (+20, 78.9%)
+- Batches TU-TX landed (office-of-international-affairs through singapore-police).
+- Remaining: orgs 32 + countries 154 + legal-frameworks 25 = 211.
+
 ## [2026-05-18] iter 277 L27 backfill milestone 52 | orgs sidecars 100/152 (+40, 65.8%)
 - Batches TM-TT landed across two rounds (interpol-icse-database through norway-nsm).
 - Remaining: orgs 52 + countries 154 + legal-frameworks 25 = 231.
