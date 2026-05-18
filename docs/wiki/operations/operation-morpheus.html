@@ -81,58 +81,205 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>모르페우스 작전 (코발트 스트라이크 소탕)</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 인프라 압수 작전으로, <strong>2024-06-24 ~ 2024-06-28</strong> 기간 동안 <strong>7개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Unauthorized Cobalt Strike servers</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>해킹, 랜섬웨어, 악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Unauthorized Cobalt Strike servers</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p><strong>Operation Morpheus(모르페우스 작전, Cobalt Strike Europol)</strong> 는 영국 국가범죄청(NCA) 주도, Europol(유럽 경찰청) 조정으로 진행된 국제 작전으로서, 합법적 침투 테스트 도구이나 랜섬웨어 공격·간첩 활동·기타 악의적 목적으로 사이버범죄자들에게 광범위하게 악용되어 온 <strong>Cobalt Strike</strong> 의 무단(불법 복제/크랙) 인스턴스를 표적으로 삼았다. 본 작전은 <strong>27개국에 걸친 593대의 Cobalt Strike 서버</strong> 의 소탕이라는 결과로 이어졌다.</p>
+<p>본 작전은 특정 범죄 집단이 아닌 이중 용도 도구의 범죄적 악용을 표적으로 삼아, 사이버범죄 생태계를 교란하기 위한 인프라 중심 접근법을 보여준 점에서 중요한 의의를 가진다.</p>
+<h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
+<p>Cobalt Strike 는 HelpSystems(현 Fortra)가 개발한 상용 침투 테스트 도구이다. 합법적인 보안 테스트 목적으로 설계되었으나, 크랙·불법 복제된 Cobalt Strike 는 사후 침투 활동, 명령제어(C2) 통신, 랜섬웨어 배포 등에서 사이버범죄자들이 가장 선호하는 도구 가운데 하나로 자리잡았다. Cobalt Strike 의 광범위한 악용은 사이버보안 공동체의 중대한 우려 사안이 되어 왔다.</p>
+<h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
+<h3 id="lead-agency">Lead Agency</h3>
 <ul>
-<li>690 malicious Cobalt Strike instances targeted across 129 internet service providers</li>
-<li>593 unauthorized Cobalt Strike servers removed</li>
-<li>1.2 million indicators of compromise identified during the operation</li>
-<li>Private-sector partners included Fortra, BAE Systems, Trellix, Shadowserver, Spamhaus, and abuse.ch</li>
+<li><a href="../../wiki/organizations/uk-nca.html" class="wikilink">영국 국가범죄청(NCA)</a></li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h3 id="coordinating-body">Coordinating Body</h3>
 <ul>
-<li>서버 압수: <strong>593대</strong> (인프라 규모)</li>
+<li><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3(유럽 경찰청 사이버범죄센터)</a></li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Uk Nca</p>
-<p><strong>조정기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Uk Nca, Europol Ec3, Fbi, Australia Afp, Canada Rcmp, Germany Bka, Netherlands Politie, Poland Police, Shadowserver</p>
-<p><strong>참여국:</strong> United Kingdom, Australia, Canada, Germany, Netherlands, Poland, United States</p>
-<h2 id="_7">법적 근거</h2>
+<h3 id="participating-agencies">Participating Agencies</h3>
 <ul>
-<li>Budapest Convention</li>
-<li>Mutual Legal Assistance</li>
-<li>Domestic Unauthorized Access And Malware Disruption Authorities</li>
+<li><a href="../../wiki/organizations/fbi.html" class="wikilink">FBI(미국 연방수사국)</a></li>
+<li><a href="../../wiki/organizations/australia-afp.html" class="wikilink">호주 연방경찰(AFP)</a></li>
+<li><a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">RCMP(캐나다 왕립기마경찰)</a></li>
+<li><a href="../../wiki/organizations/germany-bka.html" class="wikilink">독일 연방범죄수사청(BKA)</a></li>
+<li><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">네덜란드 경찰</a></li>
+<li><a href="../../wiki/organizations/poland-police.html" class="wikilink">폴란드 경찰</a></li>
+<li><a href="../../wiki/organizations/shadowserver.html" class="wikilink">Shadowserver</a> 및 기타 민간 부문 인프라 파트너</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
+<h3 id="participating-countries-7-20-27">Participating Countries (주도 7개국 + 지원 20개국 = 총 27개국)</h3>
+<p>주도 참여국:
+- <a href="../../wiki/countries/united-kingdom.html" class="wikilink">영국</a>
+- <a href="../../wiki/countries/australia.html" class="wikilink">호주</a>
+- <a href="../../wiki/countries/canada.html" class="wikilink">캐나다</a>
+- <a href="../../wiki/countries/germany.html" class="wikilink">독일</a>
+- <a href="../../wiki/countries/netherlands.html" class="wikilink">네덜란드</a>
+- <a href="../../wiki/countries/poland.html" class="wikilink">폴란드</a>
+- <a href="../../wiki/countries/united-states.html" class="wikilink">미국</a></p>
+<p>추가로 20개국이 ISP 통지를 통해 관여하였다.</p>
+<h2 id="legal-framework"><span class="heading-ko">법적 근거</span><span class="heading-en">Legal Framework</span></h2>
+<p>구체적인 법적 수단은 공개 소스에서 상세히 기술되어 있지 않다. 본 작전은 법집행 및 민간 부문 텔레메트리의 지원을 받아 서비스 사업자들 전반에서 이루어진 통지 및 소탕 활동의 조정으로 가장 잘 문서화된다.</p>
+<h2 id="operational-timeline"><span class="heading-ko">작전 타임라인</span><span class="heading-en">Operational Timeline</span></h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024년 이전</td>
+<td>범죄적 Cobalt Strike 인프라에 대한 수사</td>
+</tr>
+<tr>
+<td>2024-06-24 ~ 2024-06-28</td>
+<td>악의적 Cobalt Strike 인스턴스를 표적으로 한 집중 주간</td>
+</tr>
+<tr>
+<td>2024-07-03</td>
+<td>NCA/Europol 대외 발표; 27개국에 걸쳐 593대 서버 제거</td>
+</tr>
+</tbody>
+</table>
+<h2 id="results-and-impact"><span class="heading-ko">결과 및 영향</span><span class="heading-en">Results and Impact</span></h2>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>소탕된 서버</td>
+<td>593</td>
+</tr>
+<tr>
+<td>표적이 된 악의적 인스턴스</td>
+<td>690</td>
+</tr>
+<tr>
+<td>관여한 ISP</td>
+<td>129</td>
+</tr>
+<tr>
+<td>관여한 국가</td>
+<td>27</td>
+</tr>
+<tr>
+<td>주도 참여국</td>
+<td>7</td>
+</tr>
+<tr>
+<td>침해지표(IoC)</td>
+<td>약 120만 건</td>
+</tr>
+</tbody>
+</table>
+<p>593대의 Cobalt Strike 서버 소탕은 해당 도구가 범죄 생태계에서 광범위하게 사용된다는 점에 비추어 다수 사이버범죄 집단의 활동을 <em>likely</em> 교란하였을 것으로 평가된다.</p>
+<h2 id="cooperation-mechanisms-used"><span class="heading-ko">활용된 공조 메커니즘</span><span class="heading-en">Cooperation Mechanisms Used</span></h2>
+<p>공개 소스는 민관 협력 인프라 소탕 모델을 묘사한다. 즉 악의적 인스턴스가 식별되고, 법집행 및 벤더 채널을 통해 공유된 후, 집중 주간 동안 호스팅 사업자와 ISP 에 의해 조치되는 방식이다.</p>
+<h2 id="korean-involvement">Korean Involvement (한국의 참여)</h2>
+<p>한국의 관여는 확인되지 않았다. 다만 Cobalt Strike 악용은 글로벌 이슈이며, 한국 기관들도 해당 도구를 이용한 공격의 표적이 되어 왔다.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ul>
-<li><strong>발표:</strong> 2024-07-03</li>
-<li><strong>개시:</strong> 2024-06-24</li>
-<li><strong>종료:</strong> 2024-06-28</li>
+<li>서버 소탕으로 영향을 받은 범죄 집단은 몇 곳인가?</li>
+<li>27개의 서로 다른 관할권에서 서버를 소탕한 법적 근거는 무엇이었는가?</li>
+<li>그중 몇 대의 서버가 이후 범죄자들에 의해 대체되었는가?</li>
+<li>Cobalt Strike 개발사 Fortra 는 본 작전에서 어떤 역할을 하였는가?</li>
 </ul>
-<h2 id="_9">결과 및 영향</h2>
+<h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ No public court documents found
+웹 검색(2026-04-17) 결과 본 작전에 대해 공개적으로 접근 가능한
+법원 제출 문서는 발견되지 않았다. 가능한 사유: 공개 법원 기록
+시스템이 없는 비미국 관할권, 봉인된 절차, 또는 작전이 정식
+기소로 이어지지 않은 경우 등.</div><div class="callout-body"></div></div>
+<!-- SOURCE_ENRICHMENT_START -->
+
+<h2 id="source-coverage">Source Coverage</h2>
 <ul>
-<li><strong>593대</strong> 서버 압수</li>
-<li>690 malicious Cobalt Strike instances targeted across 129 internet service providers</li>
-<li>593 unauthorized Cobalt Strike servers removed</li>
-<li>1.2 million indicators of compromise identified during the operation</li>
-<li>Private-sector partners included Fortra, BAE Systems, Trellix, Shadowserver, Spamhaus, and abuse.ch</li>
+<li>영국 국가범죄청, 2024-07-03: 영국 국가범죄청이 Cobalt Strike 불법 버전의 약화를 위한 국제 작전을 주도함.</li>
+<li>The Hacker News, 2024-07-03: The Hacker News — 글로벌 경찰 작전으로 600대의 사이버범죄 서버 소탕 (Operation Morpheus).</li>
+<li>UK NCA, 시점 불명: UK NCA — Operation Morpheus (Cobalt Strike 소탕).</li>
+<li>BleepingComputer, 2024-07-03: Europol(유럽 경찰청), 사이버범죄자들이 사용한 593대 Cobalt Strike 서버 소탕.</li>
+<li>TechRadar, 2024-07-03: 대규모 경찰 작전으로 수백 대의 Cobalt Strike 연계 서버 소탕.</li>
 </ul>
-<h2 id="_10">협력 메커니즘</h2>
+<h2 id="evidence-and-attribution-notes">Evidence and Attribution Notes</h2>
 <ul>
-<li><a href="../../wiki/mechanisms/public-private-cooperation.html" class="wikilink">Public Private Cooperation</a></li>
-<li><a href="../../wiki/mechanisms/electronic-evidence.html" class="wikilink">Electronic Evidence</a></li>
+<li>27개국 129개 ISP 에서 690대의 악의적 Cobalt Strike 인스턴스가 표적이 되었으며, 593대가 제거됨.</li>
+<li>다기관 합동 작전: Europol(유럽 경찰청), FBI(미국 연방수사국), AFP(호주 연방경찰), RCMP(캐나다 왕립기마경찰), 독일 BKA, 네덜란드 Politie, 폴란드 CBZC.</li>
+<li>2024년 6월 24일부터 시작된 집중 주간 (2024년 7월 3일 발표).</li>
+<li><strong>Operation Morpheus(모르페우스 작전, Cobalt Strike Europol)</strong> 는 NCA 주도, Europol(유럽 경찰청) 조정으로 진행된 국제 작전으로서, 합법적 침투 테스트 도구이나 사이버범죄자들에 의해 랜섬웨어 공격·간첩·기타 악의적 목적으로 광범위하게 악용되어 온 <strong>Cobalt Strike</strong> 의 무단(불법 복제/크랙) 인스턴스를 표적으로 삼았다.</li>
+<li>본 작전은 <strong>27개국에 걸친 593대의 Cobalt Strike 서버</strong> 의 소탕이라는 결과로 이어졌다.</li>
+<li>Europol(유럽 경찰청)은 2024년 7월 3일 Operation Morpheus 를 발표하였다: 사이버범죄자들이 사용한 무허가/크랙 Cobalt Strike 레드팀 도구 서버 593대 소탕, 이는 2024년 6월 24일부터 28일까지의 집중 주간 동안 27개국 온라인 서비스 사업자에게 초기 통지된 690개 IP 주소 중 일부에 해당함.</li>
+<li>주도 기관: 영국 국가범죄청(NCA); 참여 법집행기관: 호주, 캐나다, 독일, 네덜란드, 폴란드, 미국 — Europol(유럽 경찰청) 본부를 통해 조정됨.</li>
+<li>민간 부문 파트너들이 이례적으로 두드러진 역할을 수행함: BAE Systems Digital Intelligence, Trellix, Shadowserver, Spamhaus, Abuse.ch 가 악의적 Cobalt Strike 인스턴스의 식별 및 보고에 기여하였고, 실시간 위협 인텔리전스 공유를 위해 악성코드 정보공유 플랫폼(MISP) 이 활용됨.</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>3.75</strong> | 출처: 4건</p>
-</blockquote></div>
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+<h2 id="raw-source-highlights">Raw Source Highlights</h2>
+<ul>
+<li>영국 국가범죄청, 2024-07-03: National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike - National Crime Agency --&gt; Skip to content Quick exit Cymraeg Reporting SARs CSEA Reporting for Industry Protecting the public from serious and organised crime Who we are show submenu for Who we are Our mission Our people Our leadership.</li>
+<li>UK NCA, 2024-07-03: National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike - National Crime Agency --&gt; Skip to content Quick exit Cymraeg Reporting SARs CSEA Reporting for Industry Protecting the public from serious and organised crime Who we are show submenu for Who we are Our mission Our people Our leadership.</li>
+</ul>
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+<h2 id="canonical-operation-assessment">Canonical Operation Assessment</h2>
+<p>본 페이지는 피고인 특정 후속 조치가 아닌, 무단 Cobalt Strike 서버를 대상으로 한 인프라 압수 작전을 기술하므로 정본 작전으로 유지된다. 본 기록은 주도 책임을 Uk Nca 에, 조정을 Europol Ec3 에 귀속시키며, 참여 또는 영향 받은 관할권으로 영국, 호주, 캐나다, 독일, 네덜란드, 폴란드, 미국을 기록한다.</p>
+<p>협력 모델은 주로 주도/조정 기관 및 국가 목록을 통해 가시화되며, 상세한 법적 메커니즘 항목은 여전히 희소하다.</p>
+<p>정본 기록을 위해 포착된 작전 결과: 서버 593대 압수.</p>
+<p>정본 소스 셋은 5개의 참고문헌을 포함한다: 2024 06 28 Uk Nca Operation Morpheus Cobalt Strike, The Hacker News Operation Morpheus Cobalt Strike Takedown, Uk Nca Operation Morpheus Cobalt Strike Takedown, 2024 07 03 Bleepingcomputer Com Europol Takes Down 593 Cobalt Strike Servers Used By Cybercriminals, 2024 07 03 Techradar Com Hundreds Of Cobalt Strike Linked Servers Taken Down In Major Police Operation.
+정본 작전을 위한 최소 소스 기준은 충족되나, 소스 폭만으로 모든 다운스트림 체포 또는 양형이 본 작전의 일부임을 입증하지는 않는다. 후속 기록은 별도로 연결되어야 한다.
+현재 본 페이지에는 frontmatter missing-field 플래그가 부여되어 있지 않다.
+데이터셋 활용 측면에서, 본 페이지는 작전 수준의 집계 지점으로 취급되어야 한다. 국가·기관·메커니즘·결과 항목은 조정된 집행 조치 전체를 기술한다. 이후의 기소, 인정, 양형, 인도, 몰수 조치는 별도의 신규 다국적 작전으로 소스가 명시적으로 제시하지 않는 한 관련 사건 또는 흡수된 후속 기록으로 연결되어야 한다.
+소스 기록이 더 폭넓은 배경, 반복적인 통신사 재게재, 또는 토픽 페이지 자료를 포함할 경우, 본 평가는 명명된 작전, 그 참여 당국, 표적 인프라 또는 범죄 서비스, 그리고 측정 가능한 집행 결과와 직접 연결된 사실에 우선순위를 부여한다. 주변적 소스 제목은 독립적 분류 체계 또는 결과 증거로 취급되지 않는다.
+이로써 정본 기록은 분석적으로 한정되고 재현 가능한 상태로 유지된다.</p>
+<!-- CANONICAL_ASSESSMENT_END -->
+
+<h2 id="_2">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>영국 국가범죄청이 Cobalt Strike 불법 버전의 약화를 위한 국제 작전을 주도함</td>
+<td>UK National Crime Agency</td>
+<td>2024-07-03</td>
+<td><a href="https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike" target="_blank" rel="noopener noreferrer" title="https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike" data-full-url="https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>The Hacker News — 글로벌 경찰 작전으로 600대의 사이버범죄 서버 소탕 (Operation Morpheus)</td>
+<td>The Hacker News</td>
+<td>2024-07-03</td>
+<td><a href="https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html" target="_blank" rel="noopener noreferrer" title="https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html" data-full-url="https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>Europol, 사이버범죄자들이 사용한 593대 Cobalt Strike 서버 소탕</td>
+<td>BleepingComputer</td>
+<td>2024-07-03</td>
+<td><a href="https://www.bleepingcomputer.com/news/security/europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals/" target="_blank" rel="noopener noreferrer" title="https://www.bleepingcomputer.com/news/security/europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals/" data-full-url="https://www.bleepingcomputer.com/news/security/europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>대규모 경찰 작전으로 수백 대의 Cobalt Strike 연계 서버 소탕</td>
+<td>TechRadar</td>
+<td>2024-07-03</td>
+<td><a href="https://www.techradar.com/pro/security/hundreds-of-cobalt-strike-linked-servers-taken-down-in-major-police-operation" target="_blank" rel="noopener noreferrer" title="https://www.techradar.com/pro/security/hundreds-of-cobalt-strike-linked-servers-taken-down-in-major-police-operation" data-full-url="https://www.techradar.com/pro/security/hundreds-of-cobalt-strike-linked-servers-taken-down-in-major-police-operation" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p><strong>Operation Morpheus</strong> was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of <strong>Cobalt Strike</strong>, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes. The operation resulted in the takedown of <strong>593 Cobalt Strike servers</strong> across <strong>27 countries</strong>.</p>
 <p>The operation was significant as it targeted the criminal abuse of a dual-use tool rather than a specific criminal group, demonstrating an infrastructure-focused approach to disrupting the cybercrime ecosystem.</p>

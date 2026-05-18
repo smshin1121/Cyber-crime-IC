@@ -79,52 +79,181 @@
     </div>
     <div class="article-body">
 
-        <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation Magnus — RedLine and META Infostealer Takedown (October 2024)</strong> <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2024-10-28 ~ 2024-10-28</strong> 기간 동안 <strong>6개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> RedLine Infostealer and META Infostealer (malware-as-a-service)</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>악성코드, 사이버범죄 인프라, 신원 도용</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>RedLine Infostealer and META Infostealer (malware-as-a-service)</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+        <div class="ko-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Provisional page
+본 작전 페이지는 권장 5-출처 임계치(CLAUDE.md "Entity creation threshold") 미만으로 게재된다. 단일 tier-1 1차 출처(Eurojust(유럽사법협력기구) 보도자료, 2024-10-29)에 기반한다. 추가 동반 출처(DOJ(미국 법무부) 기소 공개, IRS-CI 페이지, 네덜란드 경찰 보도자료)가 수집되어 페이지를 표준 게재 상태로 끌어올려야 한다.</div><div class="callout-body"></div></div>
+<h2 id="_1">개요</h2>
+<p><strong>Operation Magnus(매그너스 작전)</strong> 은 조정된 국제 법집행 활동으로, <strong>2024년 10월 28일</strong> 두 개의 다작 malware-as-a-service 정보 탈취 악성코드(infostealer) — <strong>RedLine(infostealer)</strong> 과 <strong>Meta Stealer(infostealer)</strong> — 의 운영 인프라를 해체하고 RedLine 개발자 중 한 명에 대한 미국 형사 기소를 공개하였다. 본 작전은 <strong><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a></strong> 가 조정하였으며, 6개 관할구역의 당국을 결집시켰다. 네덜란드, 미국, 벨기에, 포르투갈, 영국, 호주이다. 작전은 네덜란드에서 서버 3건 압수, 도메인 2건 압수, 벨기에에서 2명 체포, 미국 기소 공개, 그리고 RedLine/META 유료 고객 데이터베이스 회수를 산출하였다(출처: <a href="../../wiki/sources/2024-10-29_eurojust-europa-eu_operation-magnus-redline-meta-infostealer-takedown.html" class="wikilink">Eurojust 보도자료, 2024-10-29</a>).</p>
+<p>본 작전이 2024년 10월 28일에 이루어졌고 거명된 6개국이 참여 관할구역이라는 사실은 <em>almost certain</em>(&gt;95% 신뢰도, 단일 tier-1 1차 출처 및 공개 동반 피해자 사이트 기반)이다. "Operation Magnus(매그너스 작전)" 코드명은 공개 피해자 대응 사이트인 operation-magnus.com에 표시되나 Eurojust(유럽사법협력기구) 보도자료 헤드라인에는 사용되지 않으며, 별칭으로 기록된다.</p>
+<h2 id="_2">배경</h2>
+<h3 id="modus-operandi"><span class="heading-ko">수법 (모더스 오페란디)</span><span class="heading-en">Modus operandi</span></h3>
+<p>RedLine(infostealer)과 Meta Stealer(infostealer)는 <strong>malware-as-a-service(MaaS)</strong> 모델로 운영되는 일반 상품형 <strong>정보 탈취 악성코드</strong>(infostealer) 계열이다. 범죄 고객("affiliates" 또는 "clients")은 구독 또는 일회성 요금을 지불하여 본인의 패널 제어 인스턴스를 운영하였고, 일반적인 사회공학 벡터를 통해 피해 단말로 전달되었다. 즉, 피싱 이메일의 악성 링크와 첨부물, 검색엔진 결과 페이지 및 소프트웨어 다운로드 포털의 악성 광고("malvertising"), 트로이목마화된 "크랙" 소프트웨어 번들, 가짜 브라우저 업데이트 및 게임 치트 설치파일, 그리고 악성 압축파일로 유인하는 YouTube 댓글란 미끼이다. Windows 호스트에서 실행되면 스틸러는 로컬 환경에서 민감 자료를 수집하여 운영자 통제 명령제어(C2) 서버로 유출한다. Eurojust(유럽사법협력기구) 발표에 따르면 수집되는 데이터 범주는 브라우저 자격증명 저장소에 저장된 사용자명과 비밀번호, 자동 저장된 폼 데이터(우편 주소, 이메일 주소, 전화번호), <strong>암호화폐 지갑 콘텐츠</strong>(인기 지갑 소프트웨어 및 브라우저 확장 지갑의 로컬 저장 시드 문구/개인키 파일 포함), 그리고 <strong>브라우저 쿠키</strong>(이미 인증된 계정에서 다중 요소 인증을 우회할 수 있는 인증 세션 쿠키 포함)이다.</p>
+<h3 id="victim-profile-and-impact"><span class="heading-ko">피해자 프로파일 및 영향</span><span class="heading-en">Victim profile and impact</span></h3>
+<p>Eurojust(유럽사법협력기구)는 피해자 규모를 전 세계 <strong>"수백만"</strong> 으로 특징지었다. 감염 발자국은 단말 차원에서 글로벌하고 비차별적이다. 즉, 악성 미끼를 클릭한 패치되지 않은 Windows 호스트 운영자라면 누구나 감염될 수 있다. 그러나 도난 데이터의 <em>악용</em>은 후속 단계에서 (a) 암호화폐 지갑 보유자(직접 자금 인출 대상), (b) 도난 비밀번호가 계정 탈취용으로 지하 시장에서 재판매되는 소비자 및 소상공인 운영자, 그리고 (c) 도난 세션 쿠키가 초기 침투 브로커에게 기업 SaaS, RDP, VPN 환경으로의 경로를 제공하여 이후 랜섬웨어 affiliate에게 판매되는 기업 사용자에게 집중된다. 수사 중 매핑된 감염/운영 서버는 수십 개국에 걸쳐 <strong>1,200대 이상</strong>으로, 이는 고객 기반과 후속 피해자 노출이 동시에 다수 지역 및 위협 행위자 분야에 걸쳐 있었음을 시사한다.</p>
+<h3 id="financial-flow"><span class="heading-ko">자금 흐름</span><span class="heading-en">Financial flow</span></h3>
+<p>MaaS 구독 모델은 수익을 운영자/개발자 계층에 집중시킨다. 즉, 고객은 패널 및 업데이트 접근을 위해 플랫폼(RedLine의 경우 미국 측 공개된 기소장에 따르면 Maxim Rudometov)에 비용을 지불하고, 고객은 직접 후속 채널을 통해 도난 로그를 수익화한다. 즉, 인출된 지갑으로부터의 직접 암호화폐 절도, 다크웹 시장의 계정-탈취-서비스 제공, 그리고 Russian Market과 Genesis Market(후자는 2023년 <a href="../../wiki/operations/operation-cookie-monster.html" class="wikilink">operation-cookie-monster</a>에서 해체됨)와 같은 시장에서의 "logs"(감염 호스트별 수집 자격증명 + 쿠키 + 지갑 데이터의 zip 압축파일) 대량 판매이다. Eurojust(유럽사법협력기구) 발표는 수사 중 포착된 수익에 대한 구체적 달러 수치를 열거하지 않는다. RedLine 및 META 플랫폼에서 회수된 <strong>고객 데이터베이스</strong>는 전 세계 비거명 관할구역의 구독자에 대한 후속 조치를 위한 주요 증거 산물이다.</p>
+<h3 id="criminal-organisation-structure">Criminal organisation structure</h3>
+<p>RedLine/META 운영은 정전적 <strong>MaaS 3계층 구조</strong>를 보여준다. (1) 소규모 개발자/관리자 핵심(미국 기소장은 RedLine에 대해 단일 거명 주범 Maxim Rudometov를 명시하고 있으며, META 운영자는 Eurojust(유럽사법협력기구) 발표에서 공개적으로 거명되지 않음)으로 코드 유지, 인프라 관리, 패널/제어 소프트웨어, 고객 지원을 담당한다. (2) 접근을 구매하고 자체 캠페인을 운영하는 유료 <strong>customer/affiliate</strong> 계층이다. (3) affiliate 계층의 산출물을 소비하는 지하 시장의 후속 <strong>buyer-of-logs</strong> 계층이다. 수사는 <strong>인프라 계층</strong>(네덜란드 호스팅 C2 서버)을 통해 진입하였고, 회수된 고객 데이터베이스를 통해 개발자 계층(Rudometov 기소)으로 전환되었다. 이 데이터베이스는 또한 거명되지 않은 관할구역의 customer/affiliate 계층에 대한 향후 작전 확대를 위한 주요 단서 산물 역할도 한다.</p>
+<h3 id="investigation-seed">Investigation seed</h3>
+<p>수사는 피해자들의 신고와 익명의 민간 부문 보안 회사가 네덜란드에서 호스팅되는 가능한 RedLine/META 서버에 대해 당국에 통보한 후 시작되었다. 수사관들은 이후 수십 개국에 걸쳐 1,200대 이상의 감염/운영 서버를 매핑하였으며, 이는 다중 관할 조정을 정당화한 규모였다.</p>
+<h2 id="_3">참여 당사자</h2>
+<h3 id="coordinating-body">Coordinating body</h3>
 <ul>
-<li>Client database from RedLine and META platforms retrieved by investigators</li>
-<li>Over 1,200 infected servers across dozens of countries identified during investigation</li>
-<li>Charges unsealed in the United States against Maxim Rudometov (developer/administrator of RedLine Infostealer)</li>
-<li>Public victim-check resource published at operation-magnus.com (with ESET-provided RedLine/META scanner)</li>
+<li><strong><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust (European Union Agency for Criminal Justice Cooperation)</a></strong> — 6개 관할구역 전체에서의 정보 교환과 동기화된 조치를 조정.</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h3 id="lead-investigative-agency">Lead investigative agency</h3>
 <ul>
-<li>체포: <strong>2명</strong> (피의자 규모)</li>
-<li>서버 압수: <strong>3대</strong> (인프라 규모)</li>
-<li>도메인 압수/차단: <strong>2개</strong></li>
+<li><strong><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Netherlands National Police, Team Cybercrime Limburg</a></strong>, 네덜란드 <strong><a href="../../wiki/organizations/netherlands-om.html" class="wikilink">Public Prosecution Service (Openbaar Ministerie)</a></strong> 와 함께.</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Netherlands Politie</p>
-<p><strong>조정기관:</strong> Eurojust</p>
-<p><strong>참여기관:</strong> Eurojust, Netherlands Politie, Netherlands Om, Fbi, Us Doj, Us Ncis, Us Dcis, Belgium Federal Police, Portugal Policia Judiciaria, Uk Nca 외 1개</p>
-<p><strong>참여국:</strong> Netherlands, United States, Belgium, Portugal, United Kingdom, Australia</p>
-<h2 id="_7">작전 일정</h2>
+<h3 id="participating-jurisdictions-and-authorities-as-named-in-the-eurojust-release">Participating jurisdictions and authorities (as named in the Eurojust release)</h3>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Authorities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/countries/netherlands.html" class="wikilink">네덜란드</a></td>
+<td>National Police (Team Cybercrime Limburg); Public Prosecution Service</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">미국</a></td>
+<td><a href="../../wiki/organizations/fbi.html" class="wikilink">FBI(미국 연방수사국)</a>; <a href="../../wiki/organizations/us-ncis.html" class="wikilink">Naval Criminal Investigative Service (NCIS)</a>; Internal Revenue Service Criminal Investigations (IRS-CI); <a href="../../wiki/organizations/us-dcis.html" class="wikilink">Department of Defense Criminal Investigative Service (DCIS)</a>; Army Criminal Investigation Division (Army CID); <a href="../../wiki/organizations/us-doj.html" class="wikilink">DOJ(미국 법무부)</a> 가 기소 조정</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/belgium.html" class="wikilink">벨기에</a></td>
+<td><a href="../../wiki/organizations/belgium-federal-police.html" class="wikilink">Federal Police</a>; Federal Prosecutor's Office</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/portugal.html" class="wikilink">포르투갈</a></td>
+<td><a href="../../wiki/organizations/portugal-policia-judiciaria.html" class="wikilink">Polícia Judiciária</a></td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">영국</a></td>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">National Crime Agency (NCA)</a></td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/australia.html" class="wikilink">호주</a></td>
+<td><a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police (AFP)</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="private-sector-touchpoints">Private-sector touchpoints</h3>
 <ul>
-<li><strong>발표:</strong> 2024-10-29</li>
-<li><strong>개시:</strong> 2024-10-28</li>
-<li><strong>종료:</strong> 2024-10-28</li>
+<li>익명의 보안 회사가 네덜란드에 있는 서버를 식별하는 최초 제보를 제공하였다(Eurojust(유럽사법협력기구) 발표에서 출처 표시 없이 언급됨).</li>
+<li>ESET가 operation-magnus.com을 통해 게시된 무료 RedLine/META 탐지 스캐너를 제공하였다(동반 출처 — Eurojust(유럽사법협력기구) 발표는 벤더명을 거명하지 않는다).</li>
 </ul>
-<h2 id="_8">결과 및 영향</h2>
+<h2 id="_4">법적 근거</h2>
+<p>Eurojust(유럽사법협력기구) 발표는 특정 조약 조항 또는 법적 협력 도구를 거명하여 인용하지 않는다. Eurojust(유럽사법협력기구)의 다중 관할 사이버범죄 작전 조정은 <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Cronos Phase 1</a> 및 <a href="../../wiki/cases/us-v-sokolovsky-raccoon-infostealer.html" class="wikilink">Raccoon Infostealer</a>와 같은 이전의 비견 가능한 Eurojust(유럽사법협력기구) 조정 작전에 근거할 때 <em>typically</em>(약 80% 신뢰도) 조정을 위한 <strong>Eurojust 규정 (EU) 2018/1727</strong>, 당사국 간 국경 간 절차적 권한을 위한 <strong>사이버범죄 부다페스트 협약</strong>, 그리고 미국-EU 증거 사슬을 위한 양자 <strong>형사사법공조조약(MLAT)</strong> 채널에 기반한다. 이들 중 어느 것도 본 출처에서 명시적으로 인용되지 않는다 — 그에 따라 표시한다.</p>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
+사용된 특정 법령 및 조약 근거는 Eurojust(유럽사법협력기구) 보도자료에 열거되어 있지 않다. DOJ(미국 법무부)의 기소 공개는 Maxim Rudometov 기소에 대해 18 U.S.C. §§ 1029(접근 장치 사기), 1030 및 371(컴퓨터 침입 공모), 그리고 1956(자금 세탁)을 인용하는 것으로 보도되고 있으며, 이는 IRS Criminal Investigation 동반 페이지에 따른 것이다. 그러나 이는 공개된 기소장 본문과 직접 대조하여 확인 대기 중이다. 해당 인용을 <code>legal_basis</code>에 추가하는 것은 그 출처가 수집될 때까지 보류된다.</div><div class="callout-body"></div></div>
+<h2 id="_5">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(2024년 이전)</td>
+<td>피해자 신고 및 민간 부문 제보가 네덜란드 내 가능한 RedLine/META 서버를 표시한다.</td>
+</tr>
+<tr>
+<td>2024년(출처에 날짜 없음)</td>
+<td>수사관들이 수십 개국에 걸쳐 1,200대 이상의 감염 서버를 매핑한다. Eurojust(유럽사법협력기구) 조정 하에 협력 채널이 수립된다.</td>
+</tr>
+<tr>
+<td><strong>2024-10-28</strong></td>
+<td>전 세계 작전일: 네덜란드 서버 3대 폐쇄; 도메인 2건 압수; 벨기에에서 체포 2건 집행; 미국에서 기소 공개.</td>
+</tr>
+<tr>
+<td><strong>2024-10-29</strong></td>
+<td>Eurojust(유럽사법협력기구)가 조정 보도자료를 공개하고, 네덜란드 경찰이 operation-magnus.com에 공개 피해자 점검 자원을 출범시킨다.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_6">결과 및 영향</h2>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Count</th>
+<th>Source statement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>폐쇄된 서버(네덜란드)</td>
+<td>3대</td>
+<td>"three servers taken down in the Netherlands"</td>
+</tr>
+<tr>
+<td>압수된 도메인</td>
+<td>2건</td>
+<td>"two domains seized"</td>
+</tr>
+<tr>
+<td>체포(벨기에)</td>
+<td>2건</td>
+<td>"two people taken into custody in Belgium"</td>
+</tr>
+<tr>
+<td>미국 기소 공개</td>
+<td>1건(Maxim Rudometov)</td>
+<td>"charges unsealed in the United States"</td>
+</tr>
+<tr>
+<td>회수된 고객 데이터베이스</td>
+<td>1건</td>
+<td>"a client database of RedLine and Meta was retrieved"(Eurojust(유럽사법협력기구)에서 의역)</td>
+</tr>
+<tr>
+<td>식별된 감염/영향 서버</td>
+<td>1,200대 이상</td>
+<td>"over 1,200 servers in dozens of countries were running the malware"</td>
+</tr>
+<tr>
+<td>피해자 규모</td>
+<td>"수백만"</td>
+<td>Eurojust(유럽사법협력기구) 표현</td>
+</tr>
+</tbody>
+</table>
+<p>본 작전은 RedLine 및 META 정보 탈취 악성코드(infostealer)를 직후 운영 기간 동안 작동 불가 상태로 만들었으며 고객 풀을 노출시켰다. 이는 MaaS <em>운영자</em> 및 <em>고객</em> 모두에 대한 후속 수사의 전제조건이다.</p>
+<h2 id="_7">활용된 협력 메커니즘</h2>
 <ul>
-<li><strong>2명</strong> 체포</li>
-<li><strong>3대</strong> 서버 압수</li>
-<li><strong>2개</strong> 도메인 압수/차단</li>
-<li>Client database from RedLine and META platforms retrieved by investigators</li>
-<li>Over 1,200 infected servers across dozens of countries identified during investigation</li>
-<li>Charges unsealed in the United States against Maxim Rudometov (developer/administrator of RedLine Infostealer)</li>
-<li>Public victim-check resource published at operation-magnus.com (with ESET-provided RedLine/META scanner)</li>
+<li><strong>Eurojust(유럽사법협력기구) 조정</strong>(정보 교환 + 동기화된 다중 관할 조치)이 Eurojust(유럽사법협력기구) 보도자료에서 명시적으로 거명된 유일한 메커니즘이다.</li>
+<li>(a) 네덜란드 인프라 압수, (b) 벨기에 체포, (c) 미국 기소 공개의 동시 패턴은 <strong><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">합동수사팀(JIT)</a></strong> 구조와 일치하나 명시적으로 귀속되지는 않는다. 공식 JIT가 Eurojust(유럽사법협력기구)에 등록되었는지는 출처에서 진술되지 않는다.</li>
+<li>IRS-CI 동반 출처는 Europol(유럽 경찰청)의 <strong><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">Joint Cybercrime Action Taskforce (J-CAT)</a></strong> 를 미국 측의 조정 태스크포스로 언급한다. 이는 Eurojust(유럽사법협력기구) 발표에서 반복되지 않으므로 직접 확인 대기 중 <code>mechanisms_used</code>에 단정되지 않는다.</li>
 </ul>
-<h2 id="_9">협력 메커니즘</h2>
+<h2 id="challenges-and-friction-points"><span class="heading-ko">과제 및 마찰 요인</span><span class="heading-en">Challenges and Friction Points</span></h2>
+<p>Eurojust(유럽사법협력기구) 발표는 마찰점을 서술하지 않는다. 작전 구조로부터 추론된 내용(사실로 단정되지 않음).</p>
 <ul>
-<li><a href="../../wiki/mechanisms/eurojust-coordination-meeting.html" class="wikilink">Eurojust Coordination Meeting</a></li>
+<li>두 대륙과 네 개 시간대를 넘는 6개 관할 동기화는 비범한 사전 작전 시퀀싱을 시사하며, 이는 Eurojust(유럽사법협력기구) 조정을 통해 관리되었다.</li>
+<li>유일한 물리적 체포를 벨기에에서(인프라를 호스팅한 네덜란드나 기소를 주도한 미국 대신) 집행하기로 한 결정은 전략적 포럼 쇼핑 결과보다는 피의자의 관할 위치를 시사하나, 이는 진술되지 않았다.</li>
+</ul>
+<h2 id="_8">교훈</h2>
+<ul>
+<li><strong>민간 부문 입력이 중요하다</strong>: 익명의 보안 회사 제보가 네덜란드 수사를 촉발하여 6개국 작전으로 확장되었으며, 이는 국가 사이버범죄 부서로의 자발적 공개 채널의 가치를 강화한다.</li>
+<li><strong>Eurojust(유럽사법협력기구) 조정은 당일 다중 관할 동기화를 가져온다</strong>: 본 작전은 MaaS-infostealer 부류에 대해 <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Operation Cronos Phase 1</a> 템플릿(단일일, 다국, 인프라 + 체포 + 기소)을 재현하였다.</li>
+<li><strong>MaaS 고객 데이터베이스 회수는 force-multiplier이다</strong>: RedLine/META 고객 명단 회수는 단일 작전을 전 세계 구독자에 대한 후속 수사 파이프라인으로 전환한다.</li>
+</ul>
+<h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
+<p>Eurojust(유럽사법협력기구) 발표는 작전을 넘는 후속 활동을 열거하지 않는다. 이후 Maxim Rudometov 기소 절차(미국) 및 가능한 고객 데이터베이스 기반 거명되지 않은 관할구역에서의 조치는 Raccoon Infostealer와 같은 이전 MaaS 작전에 근거할 때 <em>likely</em>(약 70% 신뢰도)이나, 추가 출처의 문서화를 기다린다.</p>
+<h2 id="_9">한국의 참여</h2>
+<p>Eurojust(유럽사법협력기구) 보도자료는 한국을 참여 관할구역으로 거명하지 않으며, 어떠한 한국 기관도 집행 당국으로 열거하지 않는다. RedLine의 알려진 글로벌 유포와 Eurojust(유럽사법협력기구)의 "전 세계 수백만" 표현을 고려할 때 한국 피해자는 <em>plausibly</em> 영향을 받았으나, 출처는 한국 운영 참여를 입증하지 않는다. 본 페이지에서 한국 참여에 대한 단정은 이루어지지 않는다.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
+<ul>
+<li><strong>작전 코드명</strong>: "Operation Magnus(매그너스 작전)"는 피해자 대응 사이트(operation-magnus.com)와 동반 언론에 표시되나, Eurojust(유럽사법협력기구) 발표 헤드라인에는 표시되지 않는다. 별칭으로 기록됨.</li>
+<li><strong>공식 JIT?</strong>: 다국 조정이 Eurojust(유럽사법협력기구)에 등록된 합동수사팀(JIT)으로 공식화되었는지는 가용 출처에 진술되지 않는다.</li>
+<li><strong>법령 인용</strong>: Eurojust(유럽사법협력기구) 발표는 인용된 미국 법령 또는 조약 조항을 열거하지 않는다. DOJ(미국 법무부)의 공개된 기소장 수집 대기 중.</li>
+<li><strong>민간 부문 제보 출처의 신원</strong>: Eurojust(유럽사법협력기구) 발표는 네덜란드 호스팅 RedLine/META 서버를 최초로 표시한 보안 회사를 거명하지 않는다. 동반 언론은 ESET가 작전 후 피해자 스캐너를 제공하였음을 시사하나, 작전 전 귀속은 확인되지 않는다.</li>
+<li><strong>벨기에 체포자 신원</strong>: Eurojust(유럽사법협력기구) 발표는 벨기에에서 신병 확보된 두 피의자를 거명하지 않으며, 이들이 RedLine 운영자, META 운영자, 또는 고객인지 명시하지 않는다.</li>
+<li><strong>L26 gap — 금융 흐름 구체사항</strong>: Eurojust(유럽사법협력기구) 발표는 구독 가격, 포착된 수익, 또는 후속 지갑 절도를 통해 인출된 총 암호화폐를 열거하지 않는다. 배경의 "Financial flow" 하위 섹션은 정전적 MaaS 수익 모델을 질적으로 기술한다. 정량적 수치는 공개된 미국 기소장 본문 및 일체의 몰수 변론을 기다린다.</li>
+<li><strong>L26 gap — META 개발자/관리자 신원</strong>: Eurojust(유럽사법협력기구) 발표는 개발자/관리자 계층에서 RedLine에 대해서만 Maxim Rudometov를 거명한다. META 배후의 거명된 주범은 인용된 출처에서 공개적으로 공개되지 않으므로, 배경의 "Criminal organisation structure" 하위 섹션은 META에 대한 운영자 계층을 본 출처에서 공개적으로 거명되지 않은 것으로 식별한다.</li>
 </ul></div>
         <div class="en-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Provisional page
 This operation page is published below the preferred 5-source threshold (CLAUDE.md "Entity creation threshold"). It rests on a single tier-1 primary source (Eurojust press release, 2024-10-29). Additional companion sources (DOJ unsealing, IRS-CI page, Dutch police press release) should be ingested to lift the page to standard publication state.</div><div class="callout-body"></div></div>
