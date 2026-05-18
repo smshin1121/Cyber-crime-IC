@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-18] iter 248 L27 backfill milestone 23 | operations sidecars 1144/1283 (+45, 89.2%)
+- Korean sidecar batches HL/HM/HN/HO/HP/HQ/HR/HS/HT landed in milestone 23 window.
+- All 45 ops in milestone 23 follow the absorbed-wrapper 3-section pattern (개요/정본 기록/참고문헌), confirming the us-v t-w alphabetical run is dominated by Phase-1 wrapper translations.
+- Operations queue: 139 remaining (mostly us-v w-z + non-us-v stragglers, est. 3 more milestones to operations completion).
+- Pre-push integrity: lint HIGH=0 CRITICAL=0 LOW=0; MEDIUM=1694 (all `missing_ko_sidecar`, declining ~45/milestone); check_links broken=3 (legacy bohemia LESSONS.md backlink, allowed); ZZPROT real=0.
+
 ## [2026-05-18] iter 247 L27 backfill milestone 22 | operations sidecars 1099/1283 (+55, 85.7%)
 - Korean sidecar (`<slug>.ko.md`) backfill continues per L27 (CLAUDE.md INGEST Step 5b).
 - Batches landed since milestone 21 (1044): HG (us-v sh-series 5) + 20 us-v r-series sidecars created earlier in alphabetical sweep + HH (simon-kaura, sirotkin-deaver, solomon-ekunke-okpe, south-carolina, spencer-xdedic) + HI (stealing-senate, stepanov-danabot, steve-parish, steven-ehizojie-oboite, steven-michael-burke) + HJ (sturgis, sumit-garg, sumter, sunday-daniel-ganyo, szabo-swatting) + HK (t-andre-mcneely, tai-jauna-jones, tal-prihar-michael-phan, tan-dark-web, tanisha-spencer).
