@@ -1,5 +1,10 @@
 # Activity Log
 
+## [2026-05-18] iter 254 L27 backfill milestone 29 | cases sidecars 185/1225 (+60, 15.1%)
+- Batches JZ/KA-KK landed (12 batches × 5 = 60 cases).
+- Lint: HIGH=0 CRITICAL=0 LOW=0; MEDIUM=1371 (declining).
+- Cases queue: 1040 remaining.
+
 ## [2026-05-18] iter 253 L27 backfill milestone 28 | cases sidecars 125/1225 (+80, 10.2%)
 - Batches JJ-JY landed (4 rounds × 4-5 batches = 16 batches × 5 = 80 cases).
 - Cadence shifted to 4 parallel batches per round (vs 3 for ops).
