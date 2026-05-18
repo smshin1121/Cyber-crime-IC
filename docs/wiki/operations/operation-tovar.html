@@ -81,57 +81,97 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation Tovar</strong> <a href="../../wiki/organizations/us-doj.html" class="wikilink">Us Doj</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2014-05-30 ~ 2014-07-11</strong> 기간 동안 <strong>12개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Gameover Zeus botnet and CryptoLocker command-and-control infrastructure</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>악성코드, 뱅킹 트로이, 랜섬웨어, 사이버범죄 인프라, 온라인 사기</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Gameover Zeus botnet and CryptoLocker command-and-control infrastructure</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
-<ul>
-<li>Gameover Zeus infections were estimated at 500,000 to 1 million computers worldwide.</li>
-<li>The FBI estimated Gameover Zeus losses at more than USD 100 million.</li>
-<li>CryptoLocker infections were estimated at more than 234,000 computers as of April 2014.</li>
-<li>DOJ reported more than USD 27 million in CryptoLocker ransom payments during its first two months.</li>
-<li>Court-authorized sinkholing redirected infected computers away from criminal command infrastructure to substitute servers.</li>
-<li>By July 2014, DOJ reported all or nearly all active Gameover Zeus computers had been liberated from criminal control.</li>
-<li>Remediation reduced Gameover Zeus infections by 31 percent after disruption began.</li>
-<li>CryptoLocker was neutralized and unable to communicate with its control infrastructure.</li>
-</ul>
-<h2 id="_5">참여 기관</h2>
-<p><strong>주도기관:</strong> FBI</p>
-<p><strong>조정기관:</strong> Us Doj</p>
-<p><strong>참여기관:</strong> Us Doj, FBI, DOJ Office of International Affairs, DHS NCCIC / US-CERT, UK National Crime Agency, Australian Federal Police, Dutch National High Tech Crime Unit, Europol EC3, Germany BKA, French Judicial Police 외 8개</p>
-<p><strong>참여국:</strong> United States, United Kingdom, Australia, Netherlands, Germany, France, Italy, Japan, Luxembourg, New Zealand 외 2개</p>
-<h2 id="_6">법적 근거</h2>
-<ul>
-<li>Electronic Evidence</li>
-<li>Search Seizure</li>
-<li>Domain Seizure</li>
-<li>Sinkholing</li>
-<li>Public Private Cooperation</li>
-<li>Mutual Legal Assistance</li>
-</ul>
-<h2 id="_7">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2014-06-02</li>
-<li><strong>개시:</strong> 2014-05-30</li>
-<li><strong>종료:</strong> 2014-07-11</li>
-</ul>
-<h2 id="_8">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/electronic-evidence.html" class="wikilink">Electronic Evidence</a></li>
-<li><a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">Search Seizure</a></li>
-<li><a href="../../wiki/mechanisms/domain-seizure.html" class="wikilink">Domain Seizure</a></li>
-<li><a href="../../wiki/mechanisms/sinkholing.html" class="wikilink">Sinkholing</a></li>
-<li><a href="../../wiki/mechanisms/public-private-cooperation.html" class="wikilink">Public Private Cooperation</a></li>
-<li><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">Mutual Legal Assistance</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.4</strong> | 출처: 5건</p>
-</blockquote></div>
+<p>Operation Tovar(토바 작전, GameOver Zeus)는 2014년 GameOver Zeus(봇넷) 봇넷 및 CryptoLocker(랜섬웨어) 랜섬웨어 인프라에 대한 다국적 무력화 작전이었다. DOJ(미국 법무부) 및 FBI(미국 연방수사국) 발표는 법원 인가 대체 서버를 사용하여 감염된 컴퓨터를 범죄자의 통제로부터 우회시키는 한편, 외국 법집행 파트너 및 민간 부문 전문가들이 관련 명령통제(C2) 인프라의 무력화와 피해자 구제 지원을 도운 조율된 법적·기술적 조치를 기술한다.</p>
+<p>본 작전은 DOJ(미국 법무부)가 호주, 네덜란드, Europol(유럽 경찰청) EC3, 독일, 프랑스, 이탈리아, 일본, 룩셈부르크, 뉴질랜드, 캐나다, 우크라이나, 영국 및 미국의 참여 법집행 파트너를 명시하였기 때문에 국제공조에 해당한다. Shadowserver 또한 공식 코드명을 Operation Tovar(토바 작전, GameOver Zeus)로 식별하며, 이를 FBI(미국 연방수사국), 영국 NCA, Europol(유럽 경찰청) EC3 및 다수의 민간 파트너 간 합동 노력으로 기술한다.</p>
+<h2 id="operational-scope">Operational Scope</h2>
+<p>GameOver Zeus(봇넷)는 은행 자격증명을 탈취하고 송금을 우회시키는 데 사용된 P2P 뱅킹 트로이목마였다. 그 분산형 구조는 기존 Zeus 변종보다 봇넷 무력화를 어렵게 만들었다. CryptoLocker(랜섬웨어)는 피해자의 파일을 암호화하고 복호화 대가로 금전을 요구한 랜섬웨어로, DOJ(미국 법무부)는 CryptoLocker(랜섬웨어) 서버 압수를 동일한 범죄 생태계와 연결되지만 별개의 조치로 취급하였다.</p>
+<p>무력화 작전은 Evgeniy Bogachev에 대한 형사 기소, 민사 및 형사 법원 명령, 싱크홀링, 서버 압수, CERT 기반 통지, 그리고 민간 부문 구제 지원을 결합하였다. DOJ(미국 법무부)는 이후 기술적·법적 조치가 성공적이었으며 CryptoLocker(랜섬웨어)가 더 이상 명령통제 인프라와 통신할 수 없게 되었다고 보고하였다.</p>
+<h2 id="results"><span class="heading-ko">결과</span><span class="heading-en">Results</span></h2>
+<table>
+<thead>
+<tr>
+<th>지표</th>
+<th style="text-align: right;">공식 수치</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GameOver Zeus(봇넷) 감염 수</td>
+<td style="text-align: right;">500,000-1,000,000</td>
+</tr>
+<tr>
+<td>추정 GameOver Zeus(봇넷) 손실</td>
+<td style="text-align: right;">미화 1억 달러 이상</td>
+</tr>
+<tr>
+<td>CryptoLocker(랜섬웨어) 감염 수</td>
+<td style="text-align: right;">234,000+</td>
+</tr>
+<tr>
+<td>초기 CryptoLocker(랜섬웨어) 랜섬 지급액</td>
+<td style="text-align: right;">미화 2,700만 달러 이상</td>
+</tr>
+<tr>
+<td>무력화 이후 GameOver Zeus(봇넷) 감염 감소율</td>
+<td style="text-align: right;">31%</td>
+</tr>
+<tr>
+<td>명시된 피고인 기소 건수</td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="boundary-notes">Boundary Notes</h2>
+<p>본 페이지는 Operation Tovar(토바 작전, GameOver Zeus)로 알려진 2014년 GameOver Zeus(봇넷) 및 CryptoLocker(랜섬웨어) 무력화 작전의 정본(canonical) 작전 기록이다. 이는 초기 Zeus/Jabber Zeus 집행과 관련된 <a href="../../wiki/operations/operation-trident-breach.html" class="wikilink">Operation Trident Breach</a>와, <a href="../../wiki/operations/operation-avalanche.html" class="wikilink">Operation Avalanche</a>, <a href="../../wiki/operations/emotet-takedown.html" class="wikilink">Emotet 무력화</a>, <a href="../../wiki/operations/operation-endgame-phase1.html" class="wikilink">Operation Endgame</a> 등의 후속 악성코드 무력화 작전과 별개로 유지되어야 한다.</p>
+<h2 id="_2">참고문헌</h2>
+<table class="reference-table"><colgroup><col class="col-ref-num"><col class="col-ref-source"><col class="col-ref-publisher"><col class="col-ref-date"><col class="col-ref-url"></colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Source</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td><a href="../../wiki/sources/2014-06-02_doj_operation-tovar-gameover-zeus.html" class="wikilink">미국, GameOver Zeus 봇넷 및 Cryptolocker 랜섬웨어에 대한 다국적 조치 주도(U.S. Leads Multi-National Action Against Gameover Zeus Botnet and Cryptolocker Ransomware)</a></td>
+<td>U.S. Department of Justice</td>
+<td>2014-06-02</td>
+<td><a href="https://www.justice.gov/opa/pr/us-leads-multi-national-action-against-gameover-zeus-botnet-and-cryptolocker-ransomware" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/us-leads-multi-national-action-against-gameover-zeus-botnet-and-cryptolocker-ransomware" data-full-url="https://www.justice.gov/opa/pr/us-leads-multi-national-action-against-gameover-zeus-botnet-and-cryptolocker-ransomware" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td><a href="../../wiki/sources/2014-06-02_fbi_gameover-zeus-botnet-disrupted.html" class="wikilink">GameOver Zeus 봇넷 무력화(GameOver Zeus Botnet Disrupted)</a></td>
+<td>FBI</td>
+<td>2014-06-02</td>
+<td><a href="https://www.fbi.gov/news/stories/gameover-zeus-botnet-disrupted" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/news/stories/gameover-zeus-botnet-disrupted" data-full-url="https://www.fbi.gov/news/stories/gameover-zeus-botnet-disrupted" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td><a href="../../wiki/sources/2014-07-11_doj_gameover-zeus-cryptolocker-update.html" class="wikilink">법무부, Gameover Zeus 및 Cryptolocker 무력화 관련 최신 정보 제공(Department of Justice Provides Update on Gameover Zeus and Cryptolocker Disruption)</a></td>
+<td>U.S. Department of Justice</td>
+<td>2014-07-11</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/department-justice-provides-update-gameover-zeus-and-cryptolocker-disruption" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/department-justice-provides-update-gameover-zeus-and-cryptolocker-disruption" data-full-url="https://www.justice.gov/archives/opa/pr/department-justice-provides-update-gameover-zeus-and-cryptolocker-disruption" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td><a href="../../wiki/sources/2014-06-08_shadowserver_operation-tovar.html" class="wikilink">Gameover Zeus &amp; Cryptolocker</a></td>
+<td>Shadowserver Foundation</td>
+<td>2014-06-08</td>
+<td><a href="https://www.shadowserver.org/news/gameover-zeus-cryptolocker/" target="_blank" rel="noopener noreferrer" title="https://www.shadowserver.org/news/gameover-zeus-cryptolocker/" data-full-url="https://www.shadowserver.org/news/gameover-zeus-cryptolocker/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td><a href="../../wiki/sources/2014-06-02_arstechnica_operation-tovar.html" class="wikilink">각국 정부, 봇넷 Gameover ZeuS 및 랜섬웨어 Cryptolocker 무력화(Governments disrupt botnet Gameover ZeuS and ransomware Cryptolocker)</a></td>
+<td>Ars Technica</td>
+<td>2014-06-02</td>
+<td><a href="https://arstechnica.com/tech-policy/2014/06/governments-disrupt-botnet-gameover-zeus-and-ransomware-cryptolocker/" target="_blank" rel="noopener noreferrer" title="https://arstechnica.com/tech-policy/2014/06/governments-disrupt-botnet-gameover-zeus-and-ransomware-cryptolocker/" data-full-url="https://arstechnica.com/tech-policy/2014/06/governments-disrupt-botnet-gameover-zeus-and-ransomware-cryptolocker/" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Operation Tovar was the 2014 multinational disruption of the Gameover Zeus botnet and CryptoLocker ransomware infrastructure. DOJ and FBI announcements describe a coordinated legal and technical action that used court-authorized substitute servers to redirect infected computers away from criminal control while foreign law-enforcement partners and private-sector specialists helped disrupt related command infrastructure and support victim remediation.</p>
 <p>The operation qualifies as international cooperation because DOJ identified participating law-enforcement partners from Australia, the Netherlands, Europol EC3, Germany, France, Italy, Japan, Luxembourg, New Zealand, Canada, Ukraine, and the United Kingdom, alongside the United States. Shadowserver also identifies the public codename as Operation Tovar and describes it as a joint effort among FBI, UK NCA, Europol EC3, and multiple private partners.</p>
