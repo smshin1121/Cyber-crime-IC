@@ -81,76 +81,226 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Ragnar Locker 랜섬웨어 조직 단속 — 11개국 국제공조 작전 (2023년 10월)</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2023-10-16 ~ 2023-10-20</strong> 기간 동안 <strong>11개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Ragnar Locker ransomware group — active since December 2019; double-extortion criminal operation that targeted critical infrastructure worldwide, including the Portuguese national carrier (TAP Air Portugal) and an Israeli hospital. Operated Windows-targeting ransomware exploiting exposed services such as RDP, with a Tor-hosted 'Wall of Shame' data leak site.</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>랜섬웨어, 협박/공갈</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Ragnar Locker ransomware group — active since December 2019; double-extortion criminal operation that targeted critical infrastructure worldwide, including the Portuguese national carrier (TAP Air Portugal) and an Israeli hospital. Operated Windows-targeting ransomware exploiting exposed services such as RDP, with a Tor-hosted 'Wall of Shame' data leak site.</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p><strong>2023년 10월 16일부터 20일까지</strong>, <strong>11개국</strong> — 체코, 프랑스, 독일, 이탈리아, 일본, 라트비아, 네덜란드, 스페인, 스웨덴, 우크라이나 및 미국 — 의 사법·법집행 당국은 <a href="https://en.wikipedia.org/wiki/Ragnar_Locker" target="_blank" rel="noopener noreferrer" title="https://en.wikipedia.org/wiki/Ragnar_Locker" data-full-url="https://en.wikipedia.org/wiki/Ragnar_Locker" class="external-link">Ragnar Locker</a>(랜섬웨어) 조직에 대한 공조 작전 주간을 수행하였다. 국제 차원의 조정은 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청) 유럽 사이버범죄 센터(EC3)</a>와 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a>가 담당하였고, 작전 지휘는 <a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">프랑스 국가헌병대 사이버범죄센터(C3N)</a>가 맡았다.</p>
+<p>해당 작전의 "핵심 표적"인 Ragnar 조직의 개발자 용의자는 2023년 10월 16일 파리에서 체포되어 파리 사법법원의 예심판사에게 송치되었으며, 체코에 있는 그의 자택은 수색을 받았다. 추가로 5명의 용의자가 스페인과 라트비아에서 조사를 받았다. 조직의 랜섬웨어 인프라는 네덜란드, 독일, 스웨덴에서 압수되었고, Tor 기반 "Wall of Shame" 데이터 유출 사이트는 스웨덴에서 테이크다운되었다.</p>
+<div class="callout callout-info"><div class="callout-title">ℹ️ Confidence: Highly likely (&gt;80%)
+전체 참여국 명단(11개국 및 명명된 법집행 기관)은 Europol 보도자료의 JSON-LD 페이로드(게재일 2023-10-20T15:35:26+00:00, EMPACT 표시, ISO 코드 CZ-FR-DE-IT-JP-LV-NL-ES-SE-UA-US가 기재된 구조화 <code>countries</code> 필드)에 그대로 게재되어 있다. 한 가지 수치 공백이 남아 있다: Europol은 "네덜란드, 독일, 스웨덴에서 인프라 압수"라고 기술하면서 서버 수를 적시하지 않았고, 피해자 총수나 가상자산 압수 금액도 공개하지 않았다.</div><div class="callout-body"></div></div>
+<h2 id="_2">배경</h2>
+<p>Ragnar Locker는 2019년 12월부터 활동한 이중 갈취형 랜섬웨어 변종으로, Windows 시스템의 원격 데스크톱 프로토콜(RDP)과 같이 노출된 서비스를 악용하여 피해자 네트워크를 암호화하고 탈취한 데이터를 Tor 기반 "Wall of Shame" 유출 사이트에 공개하겠다고 협박하였다. 테이크다운 시점의 최근 피해자에는 포르투갈 국적 항공사(TAP Air Portugal로 공개 보도) 및 이스라엘 병원이 포함된다. 조직은 피해자가 법집행기관에 연락할 경우 탈취 데이터를 즉시 공개하겠다고 명시적으로 경고하였다.</p>
+<p>이 작전은 다년간 진행된 수사의 두 번째 단계였다. 첫 번째 단계는 2021년 10월 우크라이나에서 두 명의 주요 Ragnar Locker 운영자가 체포된 작전으로, 프랑스 헌병대, <a href="../../wiki/organizations/fbi.html" class="wikilink">FBI(미국 연방수사국)</a>, <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a>, <a href="../../wiki/organizations/interpol.html" class="wikilink">INTERPOL(국제형사경찰기구)</a> 및 <a href="../../wiki/organizations/ukraine-police.html" class="wikilink">우크라이나 국립경찰</a>이 공동 수행하였다.</p>
+<h2 id="_3">참여 당사자</h2>
+<p>Europol이 공표한 참여국 목록(원문 그대로):</p>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>당국</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>체코</td>
+<td>체코 경찰 국립 대테러·극단주의·사이버범죄청 (<a href="../../wiki/organizations/czechia-police.html" class="wikilink">NCOZ — 체코 경찰</a>)</td>
+</tr>
+<tr>
+<td>프랑스</td>
+<td>프랑스 국가헌병대 사이버범죄센터 (Gendarmerie Nationale – C3N) (<a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">france-gendarmerie</a>)</td>
+</tr>
+<tr>
+<td>독일</td>
+<td>작센 주(州)범죄수사청 (Landeskriminalamt Sachsen); 연방범죄수사청 (<a href="../../wiki/organizations/germany-bka.html" class="wikilink">Bundeskriminalamt</a>)</td>
+</tr>
+<tr>
+<td>이탈리아</td>
+<td>국가경찰 (Polizia di Stato); 우편·통신경찰 (<a href="../../wiki/organizations/italy-polizia-postale.html" class="wikilink">Polizia Postale e delle Comunicazioni</a>)</td>
+</tr>
+<tr>
+<td>일본</td>
+<td>경찰청 (<a href="../../wiki/organizations/japan-npa.html" class="wikilink">NPA</a>)</td>
+</tr>
+<tr>
+<td>라트비아</td>
+<td>국가경찰 (<a href="../../wiki/organizations/latvia-state-police.html" class="wikilink">Latvijas Valsts Policija</a>)</td>
+</tr>
+<tr>
+<td>네덜란드</td>
+<td>동(東)네덜란드 경찰 (Politie Oost-Nederland) (<a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a>)</td>
+</tr>
+<tr>
+<td>스페인</td>
+<td>헌병대 (<a href="../../wiki/organizations/spain-guardia-civil.html" class="wikilink">Guardia Civil</a>)</td>
+</tr>
+<tr>
+<td>스웨덴</td>
+<td>스웨덴 사이버범죄센터 (<a href="../../wiki/organizations/sweden-police.html" class="wikilink">SC3</a>)</td>
+</tr>
+<tr>
+<td>우크라이나</td>
+<td>우크라이나 국립경찰 사이버경찰국 (Національна поліція України) (<a href="../../wiki/organizations/ukraine-police.html" class="wikilink">ukraine-police</a>)</td>
+</tr>
+<tr>
+<td>미국</td>
+<td><a href="../../wiki/organizations/fbi.html" class="wikilink">FBI(미국 연방수사국)</a> 애틀랜타 지부</td>
+</tr>
+<tr>
+<td>조정</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청) 유럽 사이버범죄 센터(EC3)</a> + <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>명명된 검찰 측 카운터파트</strong> (Eurojust 2023-10-20 보도자료, Europol 명단을 검찰 차원까지 확장):</p>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>검찰 당국</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>체코</td>
+<td>프라하 도시검찰청</td>
+</tr>
+<tr>
+<td>프랑스</td>
+<td>JUNALCO (프랑스 조직범죄 대응 국가검찰청), 사이버범죄부</td>
+</tr>
+<tr>
+<td>독일</td>
+<td>라이프치히 검찰청 (Staatsanwaltschaft Leipzig)</td>
+</tr>
+<tr>
+<td>이탈리아</td>
+<td>밀라노 검찰청</td>
+</tr>
+<tr>
+<td>라트비아</td>
+<td>라트비아 국가경찰 — 국제협력부 + 사이버범죄집행부</td>
+</tr>
+<tr>
+<td>네덜란드</td>
+<td>동(東)네덜란드 검찰청</td>
+</tr>
+<tr>
+<td>스페인</td>
+<td>토레비에하 제1수사법원(알리칸테); 알리칸테 검찰청 국제협력과; Team EDITE의 지원을 받는 알리칸테 헌병대 부속단</td>
+</tr>
+<tr>
+<td>스웨덴</td>
+<td>스웨덴 검찰청; 조직범죄 대응 국가단</td>
+</tr>
+<tr>
+<td>우크라이나</td>
+<td>키이우 시검찰청</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_4">법적 근거</h2>
 <ul>
-<li>Key target (suspected developer) arrested 2023-10-16 in Paris, France, and brought before examining magistrates of the Paris Judicial Court</li>
-<li>6 suspects heard during action week across Czech Republic, Spain, Latvia, and France (Eurojust verbatim count)</li>
-<li>House search executed in Czechia at the key target's residence</li>
-<li>9 servers taken down: 5 in the Netherlands, 2 in Germany, 2 in Sweden (Eurojust verbatim count)</li>
-<li>Tor-hosted 'Wall of Shame' data leak website taken down in Sweden</li>
-<li>168 international companies attacked worldwide by Ragnar Locker since 2020 (Eurojust)</li>
-<li>Ransom demands ranged from USD 5 million to USD 70 million per victim (Eurojust)</li>
-<li>Builds on October 2021 first-wave arrests of two prominent Ragnar Locker operators in Ukraine + October 2022 arrest of an additional suspect in Canada (FR-CA-US joint action)</li>
+<li><strong>EMPACT (유럽 다분야 범죄위협 대응 플랫폼)</strong> — 본 수사는 2022-2025 정책 사이클의 EMPACT 사이버공격 우선과제하에서 수행되었다.</li>
+<li><strong>Eurojust 사건 파일</strong> — 프랑스 당국의 요청에 따라 2021년 5월 개설되었으며, 사법협력을 촉진하기 위해 작전 주간 이전에 5차례의 조정회의를 주최하였고, 2023년 10월 16-20일 동안 사법당국 간 신속한 협력을 가능하게 하는 조정센터를 가동하였다.</li>
+<li><strong>Europol EC3 작전 조정</strong> — 작전 준비를 위해 15차례의 조정회의와 두 차례의 1주간 스프린트를 조직하였고, 분석·악성코드·디지털포렌식·암호화폐 추적 지원을 제공하였으며, 작전 주간에는 가상 지휘소를 운영하였다.</li>
+<li><strong>J-CAT (공동 사이버범죄 대응 태스크포스)</strong> — Europol 본부에 파견된 사이버범죄 연락관들이 관련 법집행기관 간 긴밀한 협력을 촉진하였다.</li>
+<li><strong>국내 권한</strong> — 11개 관할권 각각이 자국의 랜섬웨어/컴퓨터 오용 및 갈취 관련 법령에 따라 체포·수색·압수·송치 권한을 집행하였다.</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h2 id="_5">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>일자</th>
+<th>사건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2019년 12월</td>
+<td>Ragnar Locker 랜섬웨어 변종 최초 관측; 이중 갈취 작전 개시.</td>
+</tr>
+<tr>
+<td>2021년 5월</td>
+<td>Eurojust가 프랑스 당국의 요청으로 사건 개설.</td>
+</tr>
+<tr>
+<td>2021년 9월</td>
+<td>우크라이나에서 두 명의 주요 Ragnar Locker 운영자에 대한 1차 체포(프랑스·우크라이나·미국 당국 공조). Eurojust: "프랑스·우크라이나·미국 당국의 공조 작전이 우크라이나에서 두 명의 용의자 체포로 이어졌다."</td>
+</tr>
+<tr>
+<td>2022년 10월</td>
+<td>캐나다에서 추가 용의자에 대한 2차 체포가 FR-CA-US 공조 작전으로 이루어짐(Eurojust 2023-10-20 보도자료 기준).</td>
+</tr>
+<tr>
+<td>2021-2023년</td>
+<td>다년에 걸친 정보 축적; Europol EC3가 15차례 조정회의 + 두 차례 1주간 스프린트 조직; Eurojust가 5차례 조정회의 주최.</td>
+</tr>
+<tr>
+<td>2023-10-16</td>
+<td>핵심 표적(개발자 용의자)이 프랑스 헌병대에 의해 파리에서 체포됨. 체코 자택 수색 집행.</td>
+</tr>
+<tr>
+<td>2023-10-16 ~ 2023-10-20</td>
+<td>체코·스페인·라트비아에서 수색 진행; 스페인과 라트비아에서 추가 5명의 용의자 조사; 네덜란드·독일·스웨덴에서 인프라 압수; 스웨덴에서 Tor 데이터 유출 사이트 테이크다운.</td>
+</tr>
+<tr>
+<td>2023-10-20</td>
+<td>핵심 가해자가 파리 사법법원 예심판사에게 송치됨. Europol이 국제 작전을 공식 발표.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_6">결과 및 영향</h2>
 <ul>
-<li>체포: <strong>1명</strong> (피의자 규모)</li>
-<li>서버 압수: <strong>9대</strong> (인프라 규모)</li>
-<li>암호화폐 압수: <strong>undisclosed (Eurojust: 'the seizure of various crypto currencies took place')</strong> (자금 흐름 규모)</li>
+<li><strong>핵심 표적 1명 체포</strong> (파리, 2023년 10월 16일; Ragnar Locker 랜섬웨어의 개발자 용의자) — 작전 주간 종료 시점에 파리 사법법원 예심판사에게 송치됨.</li>
+<li>작전 주간 중 체코, 스페인, 라트비아, 프랑스에 걸쳐 <strong>6명의 용의자 조사</strong> (Eurojust 원문 표기).</li>
+<li><strong>체코에서 가택 수색 집행</strong> (핵심 표적의 거주지).</li>
+<li><strong>9대의 서버 테이크다운</strong> (Eurojust): <strong>네덜란드 5대 + 독일 2대 + 스웨덴 2대</strong>.</li>
+<li><strong>Tor "Wall of Shame" 데이터 유출 사이트 스웨덴에서 테이크다운</strong> — 조직의 주요 공개 갈취 레버리지 채널 제거.</li>
+<li>작전 기간 중 <strong>가상자산 압수</strong> (금액 미공개; Eurojust는 "다양한 가상자산 압수가 이루어졌다"고 확인).</li>
+<li>2020년 이후 Ragnar Locker에 의해 <strong>전 세계 168개 국제 기업이 피해를 입음</strong> (Eurojust 역사적 피해자 집계).</li>
+<li><strong>피해자별 몸값 요구액은 미화 500만 달러에서 7천만 달러 사이</strong> (Eurojust).</li>
+<li><strong>2021년 9월 우크라이나 체포 + 2022년 10월 캐나다 체포</strong> 등 Ragnar 용의자에 대한 사전 두 차례의 단계 위에 구축됨으로써, 다년·다단계의 지속적 수사 후속조치를 입증.</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> France Gendarmerie</p>
-<p><strong>조정기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Europol Ec3, Eurojust, France Gendarmerie, Czechia Police, Germany Bka, Italy Polizia Postale, Japan Npa, Latvia State Police, Netherlands Politie, Spain Guardia Civil 외 4개</p>
-<p><strong>참여국:</strong> Czechia, France, Germany, Italy, Japan, Latvia, Netherlands, Spain, Sweden, Ukraine 외 1개</p>
-<h2 id="_7">법적 근거</h2>
+<h2 id="cooperation-mechanisms-used"><span class="heading-ko">활용된 공조 메커니즘</span><span class="heading-en">Cooperation Mechanisms Used</span></h2>
 <ul>
-<li>EMPACT — European Multidisciplinary Platform Against Criminal Threats (cyber-attacks priority)</li>
-<li>Eurojust case opened at the request of French authorities (May 2021), five coordination meetings hosted, action-week coordination centre</li>
-<li>Europol EC3 operational coordination + J-CAT (Joint Cybercrime Action Taskforce) liaison support</li>
-<li>Domestic computer-misuse, ransomware/extortion, and search-seizure powers in eleven cooperating jurisdictions</li>
+<li><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">europol-jit</a> — Europol 조정 공동수사(프랑스 주도 핵심팀에 대해 Eurojust 후원하의 공식 공동수사팀 구조)</li>
+<li><a href="../../wiki/mechanisms/eurojust-coordination-meeting.html" class="wikilink">eurojust-coordination-meeting</a> — 사전 5차례 조정회의 + 작전 주간 조정센터</li>
+<li><a href="../../wiki/mechanisms/empact.html" class="wikilink">empact</a> — 유럽 다분야 범죄위협 대응 플랫폼 (사이버공격 우선과제)</li>
+<li><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">j-cat</a> — Europol 본부의 공동 사이버범죄 대응 태스크포스 연락관</li>
+<li><a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">search-seizure</a> — 체코·스페인·라트비아에 걸친 공조 수색</li>
+<li><a href="../../wiki/mechanisms/domain-seizure.html" class="wikilink">domain-seizure</a> — Tor 데이터 유출 사이트 (스웨덴)</li>
+<li>Europol 가상 지휘소 + 24/7 분석·악성코드·디지털포렌식·암호화폐 추적 지원</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
+<h2 id="challenges-and-friction-points"><span class="heading-ko">과제 및 마찰 요인</span><span class="heading-en">Challenges and Friction Points</span></h2>
 <ul>
-<li><strong>발표:</strong> 2023-10-20</li>
-<li><strong>개시:</strong> 2023-10-16</li>
-<li><strong>종료:</strong> 2023-10-20</li>
+<li><strong>다관할 Tor 인프라</strong> — 데이터 유출 사이트는 공조 테이크다운 조치가 필요한 호스팅 인프라(스웨덴)였으며, 서버들은 네덜란드·독일·스웨덴에 지리적으로 분산되어 있었다.</li>
+<li><strong>2년에 걸친 사건 진행</strong> — Eurojust는 2021년 5월에 사건을 개설하였으나 작전 주간은 2023년 10월에야 이루어졌으며, 이는 EMPACT 작전 계획 두 사이클에 걸쳐 11개 관할권을 조정하는 복잡성을 반영한다.</li>
+<li><strong>핵심 인프라 피해자 외교</strong> — 피해자(TAP Air Portugal, 이스라엘 병원)에 대한 공개 귀속 문제는 11개 작전 주간 참여국 외의 호스트 국가 법익을 함의하였다.</li>
+<li><strong>이중 갈취 위협 메시징</strong> — 법집행기관에 연락한 피해자에 대한 Ragnar Locker의 명시적 위협은 작전 이전 피해자 협조 및 정보 수집의 난도를 가중시켰다.</li>
 </ul>
-<h2 id="_9">결과 및 영향</h2>
+<h2 id="lessons-learned"><span class="heading-ko">교훈</span><span class="heading-en">Lessons Learned</span></h2>
 <ul>
-<li><strong>1명</strong> 체포</li>
-<li><strong>9대</strong> 서버 압수</li>
-<li><strong>undisclosed (Eurojust: 'the seizure of various crypto currencies took place')</strong> 암호화폐 압수</li>
-<li>Key target (suspected developer) arrested 2023-10-16 in Paris, France, and brought before examining magistrates of the Paris Judicial Court</li>
-<li>6 suspects heard during action week across Czech Republic, Spain, Latvia, and France (Eurojust verbatim count)</li>
-<li>House search executed in Czechia at the key target's residence</li>
-<li>9 servers taken down: 5 in the Netherlands, 2 in Germany, 2 in Sweden (Eurojust verbatim count)</li>
-<li>Tor-hosted 'Wall of Shame' data leak website taken down in Sweden</li>
-<li>168 international companies attacked worldwide by Ragnar Locker since 2020 (Eurojust)</li>
-<li>Ransom demands ranged from USD 5 million to USD 70 million per victim (Eurojust)</li>
-<li>Builds on October 2021 first-wave arrests of two prominent Ragnar Locker operators in Ukraine + October 2022 arrest of an additional suspect in Canada (FR-CA-US joint action)</li>
+<li><strong>다년·다단계 모델</strong> — 2021년 우크라이나 체포와 2023년 유럽 작전 주간은 EC3/Eurojust의 사이클 간 지속적 조정이 회복력 있는 랜섬웨어 조직에 대해서도 후속 성과를 거둘 수 있음을 보여준다.</li>
+<li><strong>조정자 주도의 폭넓은 참여</strong> — <a href="../../wiki/organizations/japan-npa.html" class="wikilink">일본 NPA</a>와 <a href="../../wiki/organizations/fbi.html" class="wikilink">FBI(미국 연방수사국)</a>를 9개 유럽 법집행·사법기관과 함께 포함시킨 것은 EC3 조정 작전이 EU 국경을 넘어선 도달 범위를 가짐을 입증한다.</li>
+<li><strong>EMPACT 프레임워크의 가치</strong> — 공식 EMPACT 지정은 자국 작전 우선순위의 변동을 견디는 사이버공격 우선과제의 안정적인 다년 계획 수단을 공급하였다.</li>
 </ul>
-<h2 id="_10">협력 메커니즘</h2>
+<h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
 <ul>
-<li><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Europol Jit</a></li>
-<li><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">공동수사팀(JIT)</a></li>
-<li><a href="../../wiki/mechanisms/eurojust-coordination-meeting.html" class="wikilink">Eurojust Coordination Meeting</a></li>
-<li><a href="../../wiki/mechanisms/empact.html" class="wikilink">Empact</a></li>
-<li><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">J-CAT (공동사이버범죄대응팀)</a></li>
-<li><a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">Search Seizure</a></li>
-<li><a href="../../wiki/mechanisms/domain-seizure.html" class="wikilink">Domain Seizure</a></li>
+<li>파리 사법법원 예심판사 절차를 통한 핵심 표적의 프랑스 내 후속 기소.</li>
+<li>Europol EC3의 잔여 Ragnar Locker 가담자 및 재구성 시도에 대한 지속적 추적.</li>
+<li>J-CAT 프레임워크를 통한 사이버위협정보 기업과의 민관 협력 활동.</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.7</strong> | 출처: 2건</p>
-</blockquote></div>
+<h2 id="korean-involvement">Korean Involvement (한국의 참여)</h2>
+<p>Europol 보도자료에는 한국 법집행기관의 직접 참여가 기록되지 않았다. <a href="../../wiki/organizations/japan-npa.html" class="wikilink">일본 경찰청(NPA)</a>이 명명된 유일한 아시아 법집행 참여기관이다. 한국 관련 시사점:</p>
+<ul>
+<li>11개국 명단(CZ-FR-DE-IT-JP-LV-NL-ES-SE-UA-US)은 향후 한국 법집행기관이 유럽 연계점을 가진 랜섬웨어 수사를 수행할 경우 <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">MLAT</a> 또는 <a href="../../wiki/organizations/interpol.html" class="wikilink">INTERPOL(국제형사경찰기구)</a> 통보 채널을 통해 참여할 수 있는 EC3/Eurojust 작전 주간 모델을 보여준다.</li>
+<li>한국의 부다페스트 협약 가입 상태(2023년 초청, 2026-05-16 기준 미당사국)는 이러한 성격의 Europol 조정 사건과의 직접적 사법협력 채널을 제한한다; <a href="../../wiki/organizations/knpa-cyber-bureau.html" class="wikilink">경찰청 사이버수사국</a> 및 대검찰청의 관찰자는 향후 유입·유출 랜섬웨어 수사를 위해 EMPACT 표시 플레이북을 연구할 수 있다.</li>
+</ul>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
+<ul>
+<li><strong>압수 서버 수의 정확한 숫자</strong> — Eurojust 2023-10-20 보도자료에 의해 해결: 서버 9대 (NL 5 + DE 2 + SE 2).</li>
+<li><strong>가상자산 압수 금액</strong> — 부분 해결: Eurojust는 작전 기간 중 압수가 이루어졌음을 확인하나 회수·동결 자산을 수량화하지 않는다.</li>
+<li><strong>후속 기소의 전체 건수</strong> — 작전 주간 자체에 대해서는 단 1건의 체포만 명명되었으며, 조사를 받은 6명의 용의자(CZ + ES + LV + FR) 중 몇 명이 추후 기소되었는지는 두 1차 보도자료 모두에서 상세히 다루지 않는다.</li>
+<li><strong>TAP Air Portugal / 이스라엘 병원 귀속</strong> — Europol은 "포르투갈 국적 항공사"와 "이스라엘의 한 병원"으로 지칭할 뿐 명시하지 않으며, 교차출처 검증(포르투갈 언론, 이스라엘 보건부 권고)이 귀속 회로를 마무리할 수 있을 것이다.</li>
+<li><strong>2022년 10월 캐나다 체포자의 신원</strong> — Eurojust는 FR-CA-US 공조 작전과 캐나다 체포를 언급하나 용의자를 명명하지 않으며, 후속 캐나다 측 보도자료가 이 공백을 메울 것이다.</li>
+</ul></div>
         <div class="en-block"><h1 id="ragnar-locker-ransomware-gang-takedown-11-country-international-police-swoop-october-2023">Ragnar Locker ransomware gang takedown — 11-country international police swoop (October 2023)</h1>
 <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Between <strong>16 and 20 October 2023</strong>, law enforcement and judicial authorities from <strong>eleven countries</strong> — Czechia, France, Germany, Italy, Japan, Latvia, the Netherlands, Spain, Sweden, Ukraine, and the United States — executed a coordinated action week against the <a href="https://en.wikipedia.org/wiki/Ragnar_Locker" target="_blank" rel="noopener noreferrer" title="https://en.wikipedia.org/wiki/Ragnar_Locker" data-full-url="https://en.wikipedia.org/wiki/Ragnar_Locker" class="external-link">Ragnar Locker</a> ransomware group, coordinated at the international level by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol's European Cybercrime Centre (EC3)</a> and <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a> and led operationally by the <a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">French National Gendarmerie's Cybercrime Centre (C3N)</a>.</p>

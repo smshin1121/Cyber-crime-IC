@@ -81,55 +81,101 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>오퍼레이션 파워오프 (2026-04 액션 위크)</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2026-04-13 ~ 2026-04</strong> 기간 동안 <strong>21개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> DDoS-for-hire (booter) services and high-value users; 3 million+ criminal user accounts in seized booter databases</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>DDoS 공격</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>DDoS-for-hire (booter) services and high-value users; 3 million+ criminal user accounts in seized booter databases</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p>Operation PowerOFF(파워오프 작전)의 2026년 4월 액션 위크는 Europol(유럽 경찰청)이 조정한 21개국 공조 조치로, DDoS(분산 서비스 거부) 서비스형(부터) 서비스와 사용자를 표적으로 하여 2026-04-13에 발표되었다. Europol(유럽 경찰청) 뉴스룸 보도자료는 참여 관할권을 그대로(verbatim) 명시하고, 액션 위크를 "전 세계 국가 당국의 전문가들"이 DDoS(분산 서비스 거부) 서비스형 플랫폼의 고가치 사용자를 추적한 작전 스프린트의 정점으로 규정한다. 인용된 tier-1 보도자료 헤더 및 동일자 보강 보도에 따르면, 이 조치는 53개 도메인 차단, 4명 검거, 25건의 수색영장 집행, 식별된 DDoS(분산 서비스 거부) 서비스형 플랫폼 사용자에 대한 75,000건 이상의 경고 이메일 또는 서한 발송, 압수된 부터 서비스 데이터베이스에서 식별된 300만 개 이상의 범죄 사용자 계정의 성과를 달성하였다.</p>
+<h2 id="_2">배경</h2>
+<p>상위 맥락(2018년 12월 이후 Europol(유럽 경찰청) 조정의 장기 이니셔티브로서 Operation PowerOFF(파워오프 작전))은 상위 페이지 <a href="../../wiki/operations/operation-power-off.html" class="wikilink">operation-power-off</a>에서 다룬다. 이 절은 2026년 4월 액션 위크가 교란시킨 기저 범죄, 즉 DDoS(분산 서비스 거부) 서비스형(부터·스트레서) 서비스를 기술한다.</p>
+<h3 id="modus-operandi">범행 수법(Modus operandi)</h3>
+<p>DDoS(분산 서비스 거부) 서비스형 서비스("부터" 또는 "스트레서"라고도 불림)는 고객이 결제(통상 월 5~200달러, 신용카드/PayPal을 통한 법정통화 또는 암호화폐)하여 웹 대시보드를 통해 선택된 임의의 표적에 대해 분산 서비스 거부 공격을 개시할 수 있는 구독형 웹 플랫폼이다. 고객은 표적 IP 또는 도메인을 입력하고, 공격 벡터(UDP 플러드, TCP SYN, HTTPS GET, DNS 증폭, NTP 증폭 등)를 선택하며, 지속시간을 설정하면, 플랫폼이 운영자가 통제하는 봇 인프라(통상 침해된 IoT 기기, 악용된 클라우드 서버, 반사·증폭 표면의 혼합)로부터 공격을 개시한다. Europol(유럽 경찰청) 보도자료는 차단된 53개 도메인이 고객 대면 부터 포털이었음을 시사한다. 압수된 백엔드 데이터베이스에는 300만 개 이상의 범죄 사용자 계정 수치를 도출한 고객 원장이 포함되어 있었다. "사용자 경고" 방법론, 즉 식별된 부터 고객에게 발송된 75,000건 이상의 이메일·서한은 운영자가 압수된 백엔드 데이터베이스에 고객 이메일/개인식별정보 등록 데이터를 보유하고 있음에 의존한다. 이는 운영자가 유료 구독 청구에 이를 필요로 하기 때문에 부터 플랫폼의 안정적 특성이다.</p>
+<p><strong>피해자 프로필 및 영향.</strong> 부터 고객이 선택한 표적은 역사적으로 학교 및 대학(시험 기간 중), 온라인 게임 플랫폼 및 개별 게이머 경쟁자(Minecraft / Roblox / Call of Duty 서버가 오랜 상위 범주), 중소기업 전자상거래 사이트, 정부 포털(정치적 동기의 사용자 공격 중), 은행·금융 서비스 가용성 계층, ISP·통신 인프라에 이른다. Europol(유럽 경찰청) 보도자료는 2026년 4월 단계에 대한 표적별 피해 영향을 열거하지 않으나, 이전 PowerOFF 단계는 부터 공격으로 인한 수백만 달러 규모의 다운타임 손실을 귀속시켜 왔다. 단일 부터 공격의 "피해자"는 일반적으로 표적의 서비스 가용성 표면 및 이에 의존하는 모든 하위 사용자이다. 식별된 300만 개 이상의 고객 계정에 걸친 누적 영향은 압수된 플랫폼의 운영 기간에 걸쳐 전 세계적으로 수백만 건의 별개의 다운타임 이벤트로 측정되는 공격 표면을 나타낸다.</p>
+<h3 id="_3">자금 흐름</h3>
+<p>부터 수익은 고객 결제(구독료, 통상 운영자가 계정이 차단됨에 따라 순환적으로 사용하는 Stripe / PayPal / 암호화폐 처리업체를 통해)에서 운영자가 통제하는 지갑으로 유입되며, 자금은 믹서, 거래소, 게임 플랫폼 기프트카드, 위장 회사 가맹점 계정을 통해 후속적으로 세탁된다. 2026년 4월 보도자료는 이 단계에 대한 암호화폐 압수 수치를 공개하지 않는다(Contradictions 참조). 이전 PowerOFF 단계(특히 2018년 12월 및 2024년 5월)는 후속 고객 식별을 가능케 한 백엔드 결제 처리업체 기록을 압수하였으며, 이는 이 단계에서 75,000건 이상의 사용자 경고 방법론의 데이터 기반이다.</p>
+<h3 id="_4">범죄 조직 구조</h3>
+<p>21개국 조치는 두 개의 별개 계층을 표적으로 한다. (1) 부터 플랫폼 <em>운영자</em>의 정점 계층(이 단계의 검거 4건은 액션 위크당 운영자 3~6명이 검거되는 이전 PowerOFF 단계와 일관되게 소수의 운영자에 대한 집행을 시사한다), 그리고 (2) 부터 플랫폼 <em>고객</em>의 긴 꼬리, 즉 식별된 300만 개 이상의 계정 및 75,000명 이상의 경고 수신자가 그것이다. 경고 방법론은 의도적으로 1회성 저용량 사용자가 아닌 고용량·반복 고객을 대상으로 범위가 한정되어 있으며, 이는 고객 꼬리 전체를 기소하는 것이 실현 불가능하다는 억지·예방 설계 선택을 반영한다. 부터 운영자는 역사적으로 단독 10대 운영자(현재까지의 대부분 기소는 16~22세 운영자에 대한 것이었다)에서 소규모 조직 그룹에 이르기까지 다양하다. 2026년 4월 보도자료는 검거된 운영자 4명의 규모 또는 소속을 공개하지 않는다.</p>
+<h2 id="_5">참여 당사자</h2>
+<table>
+<thead>
+<tr>
+<th>역할</th>
+<th>당사자</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>조정 기관</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청) / EC3</a> (헤이그)</td>
+</tr>
+<tr>
+<td>적극적 집행 국가 (인용된 tier-1 출처에 따름)</td>
+<td><a href="../../wiki/countries/australia.html" class="wikilink">호주</a>, <a href="../../wiki/countries/austria.html" class="wikilink">오스트리아</a>, <a href="../../wiki/countries/belgium.html" class="wikilink">벨기에</a>, <a href="../../wiki/countries/brazil.html" class="wikilink">브라질</a>, <a href="../../wiki/countries/bulgaria.html" class="wikilink">불가리아</a>, <a href="../../wiki/countries/denmark.html" class="wikilink">덴마크</a>, <a href="../../wiki/countries/estonia.html" class="wikilink">에스토니아</a>, <a href="../../wiki/countries/finland.html" class="wikilink">핀란드</a>, <a href="../../wiki/countries/germany.html" class="wikilink">독일</a>, <a href="../../wiki/countries/japan.html" class="wikilink">일본</a>, <a href="../../wiki/countries/latvia.html" class="wikilink">라트비아</a>, <a href="../../wiki/countries/lithuania.html" class="wikilink">리투아니아</a>, <a href="../../wiki/countries/luxembourg.html" class="wikilink">룩셈부르크</a>, <a href="../../wiki/countries/netherlands.html" class="wikilink">네덜란드</a>, <a href="../../wiki/countries/norway.html" class="wikilink">노르웨이</a>, <a href="../../wiki/countries/poland.html" class="wikilink">폴란드</a>, <a href="../../wiki/countries/portugal.html" class="wikilink">포르투갈</a>, <a href="../../wiki/countries/sweden.html" class="wikilink">스웨덴</a>, <a href="../../wiki/countries/thailand.html" class="wikilink">태국</a>, <a href="../../wiki/countries/united-kingdom.html" class="wikilink">영국</a>, <a href="../../wiki/countries/united-states.html" class="wikilink">미국</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="_6">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2018-12-19</td>
+<td>최초 Operation PowerOFF(파워오프 작전) 발표 (상위 작전 정립)</td>
+<td>(<a href="../../wiki/operations/operation-power-off.html" class="wikilink">operation-power-off</a> 참조)</td>
+</tr>
+<tr>
+<td>2026-04-13</td>
+<td>2026년 액션 위크 발표, 21개 참여국, Europol(유럽 경찰청) 조정</td>
+<td>Europol 2026-04-13</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_7">결과 및 영향</h2>
 <ul>
-<li>75 000+ warning emails and letters sent to identified DDoS-for-hire platform users</li>
-<li>25 search warrants executed across participating jurisdictions</li>
-<li>3 million+ criminal user accounts identified from seized booter-service databases</li>
-<li>21 jurisdictions joined the action week</li>
-<li>Operational sprints leading up to the action week targeted high-value users of DDoS-for-hire platforms across the globe</li>
+<li>53개 도메인 차단(부터·DDoS(분산 서비스 거부) 서비스형 인프라).</li>
+<li>4명 검거.</li>
+<li>참여 관할권 전반에 걸쳐 25건의 수색영장 집행.</li>
+<li>식별된 DDoS(분산 서비스 거부) 서비스형 플랫폼 사용자에게 75,000건 이상의 경고 이메일 및 서한 발송.</li>
+<li>압수된 부터 서비스 데이터베이스에서 식별된 300만 개 이상의 범죄 사용자 계정.</li>
+<li>일본, 태국, 브라질과 같은 비EU·비파이브아이즈 참가국을 포함한 21개 관할권이 액션 위크에 공조.</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h2 id="cooperation-mechanisms-used"><span class="heading-ko">활용된 공조 메커니즘</span><span class="heading-en">Cooperation Mechanisms Used</span></h2>
+<p>보도자료는 액션 위크에 앞서 진행된 Europol(유럽 경찰청) 주도의 "작전 스프린트"를 운영적 조정 메커니즘으로 기술한다. 인용된 tier-1 출처는 특정 MLAT, JIT 또는 인도 도구를 명시하지 않는다. 따라서 법적 근거 분류는 액션 위크 동안 각 참여 관할권에서 집행된 <a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">국내 수색·압수</a> 및 <a href="../../wiki/mechanisms/domain-seizure.html" class="wikilink">도메인 압수</a> 도구를 따른다.</p>
+<h2 id="korean-involvement">Korean Involvement (한국의 참여)</h2>
+<p>인용된 Europol(유럽 경찰청) 보도자료의 21개국 명단에 한국은 명시되지 않는다. 일본과 태국이 이 단계의 명시된 비서구 아시아·태평양 참가국이다. 이 사건은 2026년 PowerOFF 우산 보강 및 21개국 명단의 명시적 verbatim 기록을 위해 위키에 기록된다. 한국의 DDoS(분산 서비스 거부) 서비스형 국제공조 자세는 이 출처에 의해 직접적으로 정보를 얻지 않는다.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ul>
-<li>체포: <strong>4명</strong> (피의자 규모)</li>
-<li>도메인 압수/차단: <strong>53개</strong></li>
+<li>Europol(유럽 경찰청) 뉴스룸 HTML은 JavaScript <code>window.SERVER_DATA</code> 객체 내에 보도자료 본문을 JSON 문자열로 임베드한다. TLS 스푸프 추출은 참여국 단락과 방법론 단락을 verbatim으로 복원했지만, 다른 본문 섹션(예: 국가별 분석, 차단된 명명된 부터 서비스, 개별 국가별 결과)이 캡처된 2,416바이트 본문 필드를 넘어 존재할 수 있으며, 다른 추출 경로 하의 향후 재페치는 후속 조치 대상으로 표시되어 있다.</li>
+<li>국가별 검거 및 영장 수는 인용된 보도자료에 열거되지 않는다. 공개 출처는 합계를 21개국 명단에 집합적으로 귀속시킨다.</li>
+<li>Tier-1 / tier-2 보강 보도(Industrial Cyber, CodeRoasis 등)는 수치적 결과에 대해 기록되지만, 그 자체로 별도의 출처 페이지로 인제스트되지는 않는다.</li>
+<li><strong>L26 갭 — 명명된 부터 서비스:</strong> 압수된 53개 도메인은 합계로 보고된다. 이 단계에서 차단된 구체적 부터·스트레서 브랜드명은 인용된 tier-1 보도자료에 열거되지 않는다.</li>
+<li><strong>L26 갭 — 암호화폐 / 결제 압수:</strong> 2026년 4월 단계에 대해 암호화폐 압수 수치, 법정통화 결제 처리업체 압수 수치, 누적 범죄 수익 추정치가 공개되지 않는다.</li>
+<li><strong>L26 갭 — 운영자 프로필:</strong> 검거된 운영자 4명은 인용된 보도자료에 연령, 검거 관할권 또는 플랫폼 소속으로 식별되지 않는다.</li>
+<li><strong>L26 갭 — 피해자 영향:</strong> 보도자료는 결과를 운영자/고객 관점에서 (53개 도메인, 4명 검거, 300만 개 이상 계정, 75,000건 이상 경고) 규정하지만, 2026년 4월 단계에서 교란된 플랫폼에 귀속될 수 있는 하위 피해자 수, 다운타임 시간 또는 USD 영향을 열거하지 않는다.</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Europol Ec3</p>
-<p><strong>참여국:</strong> Australia, Austria, Belgium, Brazil, Bulgaria, Denmark, Estonia, Finland, Germany, Japan 외 11개</p>
-<h2 id="_7">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2026-04-13</li>
-<li><strong>개시:</strong> 2026-04-13</li>
-<li><strong>종료:</strong> 2026-04</li>
-</ul>
-<h2 id="_8">결과 및 영향</h2>
-<ul>
-<li><strong>4명</strong> 체포</li>
-<li><strong>53개</strong> 도메인 압수/차단</li>
-<li>75 000+ warning emails and letters sent to identified DDoS-for-hire platform users</li>
-<li>25 search warrants executed across participating jurisdictions</li>
-<li>3 million+ criminal user accounts identified from seized booter-service databases</li>
-<li>21 jurisdictions joined the action week</li>
-<li>Operational sprints leading up to the action week targeted high-value users of DDoS-for-hire platforms across the globe</li>
-</ul>
-<h2 id="_9">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">Search Seizure</a></li>
-<li><a href="../../wiki/mechanisms/domain-seizure.html" class="wikilink">Domain Seizure</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.0</strong> | 출처: 1건</p>
-</blockquote></div>
+<h2 id="_8">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td><a href="../../wiki/sources/2026-04-13_europol_operation-poweroff-75000-ddos-users.html" class="wikilink">Europol(유럽 경찰청) 지원 글로벌 작전, DDoS 공격에 가담한 75,000명 이상의 사용자 표적화 – Operation PowerOFF(파워오프 작전)는 범죄적 DDoS 서비스형 인프라 해체를 목표로 하는 글로벌 노력이다</a></td>
+<td>Europol</td>
+<td>2026-04-13</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/europol-supported-global-operation-targets-over-75-000-users-engaged-in-ddos-attacks" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Operation PowerOFF's 2026-04 action week was a Europol-coordinated 21-country joint action against DDoS-for-hire (booter) services and their users, announced on 2026-04-13. The Europol newsroom release names the participating jurisdictions verbatim and frames the action week as the culmination of operational sprints during which "experts from national authorities across the globe" pursued high-value users of DDoS-for-hire platforms. According to the cited tier-1 release header and corroborating same-day reporting, the action achieved 53 domains taken down, 4 arrests, 25 search warrants executed, more than 75 000 warning emails or letters sent to identified DDoS-for-hire platform users, and over 3 million criminal user accounts identified in seized booter-service databases.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
