@@ -79,50 +79,175 @@
     </div>
     <div class="article-body">
 
-        <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Ramnit Botnet Takedown</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2015-02 ~ 2015-02-24</strong> 기간 동안 <strong>4개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Ramnit botnet (banking trojan)</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Ramnit botnet (banking trojan)</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+        <div class="ko-block"><div class="callout callout-info"><div class="callout-title">ℹ️ 페이지 정정 (2026-04-10)
+본 페이지는 당초 "Europol Botnet Takedown 2023"(<code>botnet-takedown-europol-2023.md</code>)으로 작성되었다. Europol 소스 URL의 내용 검증 결과, 실제 작전은 <strong>2015년 2월 Ramnit 봇넷 단속</strong>임이 확인되었다. 페이지 명칭을 변경하고 모든 데이터를 정정하였다.</div><div class="callout-body"></div></div>
+<h2 id="_1">개요</h2>
+<p>2015년 2월 24일, <strong>영국 국가범죄수사청(UK National Crime Agency, NCA)</strong>은 전 세계 약 <strong>320만 대의 컴퓨터</strong>를 감염시킨 <strong>Ramnit 봇넷(람니트 봇넷)</strong>을 무력화하기 위한 다국적 작전을 주도하였다. 본 작전은 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 사이버범죄센터, EC3)</a> 및 <a href="../../wiki/mechanisms/j-cat.html" class="wikilink">합동 사이버범죄 대응 태스크포스(J-CAT)</a>를 통해 조정되었으며, <a href="../../wiki/countries/germany.html" class="wikilink">독일</a>, <a href="../../wiki/countries/italy.html" class="wikilink">이탈리아</a>, <a href="../../wiki/countries/netherlands.html" class="wikilink">네덜란드</a> 법집행기관이 참여하였다.</p>
+<p>Ramnit 악성코드(악성코드)는 뱅킹 트로이목마로, 범죄자가 감염된 Windows 시스템에서 비밀번호 등 개인 정보와 뱅킹 정보를 탈취하고 백신 보호 기능을 무력화할 수 있도록 하였다.</p>
+<h2 id="_2">배경</h2>
+<p>Ramnit은 2010년경 처음 식별되었으며, 단순 파일 감염형 악성코드에서 본격적인 뱅킹 트로이목마로 진화하였다. 2015년에 이르러 약 320만 건의 감염이 추정되어 전 세계에서 가장 만연한 봇넷 중 하나가 되었다. 본 악성코드는 일반적으로 스팸 이메일 내 링크 또는 익스플로잇 키트로의 리디렉션을 통한 사회공학 공격을 통해 확산되었다.</p>
+<h2 id="_3">참여 당사자</h2>
+<p><strong>주도 기관</strong>: <a href="../../wiki/organizations/uk-nca.html" class="wikilink">영국 국가범죄수사청</a></p>
+<p><strong>법집행 (4개국)</strong>:
+- <a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a> — NCA (주도)
+- <a href="../../wiki/countries/germany.html" class="wikilink">germany</a> — BKA(독일 연방범죄수사청)
+- <a href="../../wiki/countries/italy.html" class="wikilink">italy</a> — 이탈리아 법집행기관
+- <a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a> — 네덜란드 국가첨단기술범죄수사대(NHTCU)</p>
+<p><strong>조정</strong>: <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a>, <a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>, <a href="../../wiki/mechanisms/j-cat.html" class="wikilink">J-CAT</a>, CERT-EU</p>
+<p><strong>민간 부문 파트너</strong>:
+- Microsoft — 기술 분석
+- Symantec — 악성코드 연구 및 싱크홀링
+- AnubisNetworks — 도메인 인텔리전스</p>
+<h2 id="_4">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>날짜</th>
+<th>사건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>~2010년</td>
+<td>Ramnit 파일 감염형 악성코드로 최초 관찰</td>
+</tr>
+<tr>
+<td>2012-2014년</td>
+<td>뱅킹 트로이목마로 진화; 감염 수 수백만 대 도달</td>
+</tr>
+<tr>
+<td>2015-02-24</td>
+<td>조정된 단속: C2 서버 폐쇄, 약 300개 도메인 싱크홀링</td>
+</tr>
+<tr>
+<td>2015-02-24</td>
+<td>Europol 공개 발표</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_5">결과 및 영향</h2>
 <ul>
-<li>Command-and-control servers shut down</li>
-<li>~300 domains sinkholed</li>
-<li>3.2 million infected computers disrupted</li>
+<li><strong>약 300개 인터넷 도메인 주소</strong> 압수/싱크홀링 — 범죄 측 C2에서 법집행 측 싱크홀로 우회</li>
+<li>참여국 전역에서 <strong>지휘통제 서버</strong> 폐쇄</li>
+<li><strong>320만 대의 감염 컴퓨터</strong>가 범죄자 명령 수신으로부터 차단됨</li>
+<li>본 작전의 일환으로 <strong>공식 발표된 체포는 없음</strong></li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h2 id="_6">활용된 협력 메커니즘</h2>
 <ul>
-<li>도메인 압수/차단: <strong>300개</strong></li>
+<li><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">합동 사이버범죄 대응 태스크포스(J-CAT)</a> — Europol 내 작전 조정 허브</li>
+<li><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a> — 분석 및 조정 지원</li>
+<li><strong>민관 파트너십</strong>: Microsoft, Symantec, AnubisNetworks가 기술 정보 및 싱크홀 인프라 제공</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> UK National Crime Agency</p>
-<p><strong>조정기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> UK NCA, Europol EC3, Eurojust</p>
-<p><strong>참여국:</strong> United Kingdom, Germany, Italy, Netherlands</p>
-<h2 id="_7">작전 일정</h2>
+<h2 id="_7">교훈</h2>
+<ol>
+<li><strong>주된 무력화 수단으로서의 싱크홀링</strong>: 체포 없이 인프라 압류에 의존한 작전은 무력화에는 효과적이었으나, 운영자가 재구축할 여지를 남겼다.</li>
+<li><strong>J-CAT 조정 모형</strong>: Ramnit은 헤이그를 거점으로 다국적 봇넷 단속을 조정하는 J-CAT의 역량을 보여 준 초기 사례였다.</li>
+<li><strong>PPP(민관 협력)</strong>: Microsoft와 Symantec의 인텔리전스가 필수적이었다. 법집행기관 단독으로는 충분한 기술적 가시성을 확보하지 못하였다.</li>
+</ol>
+<h2 id="korean-involvement">한국의 참여 (Korean Involvement)</h2>
+<p>본 작전에서 한국의 참여는 확인되지 않는다. 다만, 한국 내에서도 Ramnit 감염이 보고되었으며, <a href="../../wiki/countries/south-korea.html" class="wikilink">대한민국</a>은 시스템이 영향을 받은 190개국 이상에 포함되었다.</p>
+<h2 id="_8">모순 및 미해결 질문</h2>
 <ul>
-<li><strong>발표:</strong> 2015-02-24</li>
-<li><strong>개시:</strong> 2015-02</li>
-<li><strong>종료:</strong> 2015-02-24</li>
+<li><strong>체포 부재</strong>: 320만 건의 감염 규모에도 불구하고 공식적으로 기소된 운영자는 없다. 이후 수사에서 체포로 이어졌는지는 불명확하다.</li>
+<li><strong>Ramnit의 부활</strong>: 보안 연구자들은 단속 이후 수개월 내에 Ramnit 활동이 재개되었음을 보고하였으며, 인프라 단속만에 의존하는 장기적 실효성에 의문이 제기되었다.</li>
 </ul>
-<h2 id="_8">결과 및 영향</h2>
+<h2 id="_9">후속 조치</h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ 공개 법원 문서 미확인
+웹 검색(2026-04-17) 결과, 본 작전에 대한 공개 접근 가능한 법원 문건은
+확인되지 않았다. 가능한 사유: 공개 법원 기록 시스템이 없는 비미국
+관할권, 비공개 절차 진행, 또는 정식 기소로 이어지지 않은 작전.</div><div class="callout-body"></div></div>
+<!-- SOURCE_ENRICHMENT_START -->
+
+<h2 id="_10">소스 커버리지</h2>
 <ul>
-<li><strong>300개</strong> 도메인 압수/차단</li>
-<li>Command-and-control servers shut down</li>
-<li>~300 domains sinkholed</li>
-<li>3.2 million infected computers disrupted</li>
+<li>Europol, 2015-02-24: Europol: 국제 법집행 협력을 통해 무력화된 봇넷(Ramnit, 2015).</li>
+<li>Microsoft, 2015-10-22: 봇넷 해체 — Ramnit이 어떻게 무력화되었는가.</li>
+<li>AnubisNetworks, 2015-02-25: AnubisNetworks, 악성 봇넷 단속에서 Europol(유럽 사이버범죄센터) 지원.</li>
+<li>Ars Technica, 2015-02-25: Europol, 320만 대 컴퓨터를 감염시킨 봇넷 단속.</li>
+<li>PCWorld, 2015-02-25: Europol 및 보안 벤더, 대규모 Ramnit 봇넷 무력화.</li>
 </ul>
-<h2 id="_9">협력 메커니즘</h2>
+<h2 id="_11">법적·절차적 상태</h2>
 <ul>
-<li><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">J-CAT (공동사이버범죄대응팀)</a></li>
+<li>기록상 범죄 분류: 악성코드.</li>
+<li>기록상 집행 형태: 단속 및 압류.</li>
+<li>본 기록은 완료(completed) 상태의 단속(takedown)으로 분류된다.</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.0</strong> | 출처: 5건</p>
-</blockquote></div>
+<h2 id="_12">증거 및 귀속 주석</h2>
+<ul>
+<li>URL-주제 불일치: 'Europol Botnet Takedown 2023' 위키 작전에 연결되어 있던 Europol URL은 실제로 2015-02-24 Ramnit 봇넷 단속에 관한 보도자료이며, 2023년의 조치가 아니다.</li>
+<li>작전 페이지 제목이 오인 소지가 있으므로 정정 또는 소스 재배정이 필요하다.</li>
+<li>실제 기사는 영국 국가범죄수사청(NCA)이 주도하고 독일, 이탈리아, 네덜란드의 파트너 조치와 함께 약 320만 대의 컴퓨터를 감염시킨 Ramnit 봇넷을 2015년 2월 24일 무력화한 사실을 기술한다.</li>
+<li>민간 부문 파트너: Microsoft, Symantec, AnubisNetworks가 기술 분석 및 싱크홀링에 기여하였다.</li>
+<li>Europol의 합동 사이버범죄 대응 태스크포스(J-CAT) 및 EC3를 통해 작전이 조정되었으며, CERT-EU의 지원이 있었다.</li>
+<li>기술적 조치: Ramnit 봇넷이 감염 기기에 명령을 하달하는 데 사용한 약 300개 인터넷 도메인 주소에 대한 지휘통제 서버 폐쇄 및 리디렉션(싱크홀링).</li>
+<li>악성코드 기능: Ramnit은 Windows 시스템에서 범죄자가 '개인 및 뱅킹 정보, 특히 비밀번호를 탈취하고 백신 보호 기능을 무력화'하도록 하는 전형적 뱅킹 트로이목마 프로파일을 갖는다.</li>
+<li>본 사항은 중요한 데이터 무결성 정정 — 소스가 2015년 Ramnit 단속을 기술함을 검증한 후, 작전 페이지명을 botnet-takedown-europol-2023에서 Ramnit 봇넷 단속으로 변경하였다.</li>
+</ul>
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+<h2 id="_13">정본 작전 평가</h2>
+<p>본 페이지는 피의자 특정 후속 조치가 아닌, Ramnit 봇넷(뱅킹 트로이목마)에 대한 단속(takedown)을 기술하므로 정본 작전으로 유지된다. 기록상 주도 책임은 UK National Crime Agency에, 조정 책임은 Europol Ec3에 귀속되며, 참여 또는 영향을 받은 관할로 영국, 독일, 이탈리아, 네덜란드가 기록되어 있다.</p>
+<p>협력 모형은 명명된 기관 및 파트너를 통해 문서화되어 있다: UK NCA, Europol EC3, Eurojust; 메커니즘: 합동 사이버범죄 대응 태스크포스(J-CAT); 집행 형태: 단속 및 압류.</p>
+<p>정본 기록에 포착된 작전 결과: 도메인 300개 압수; 지휘통제 서버 폐쇄; 약 300개 도메인 싱크홀링; 320만 대의 감염 컴퓨터 무력화.</p>
+<p>정본 소스 집합은 5건의 참조를 포함한다: Europol Europol Botnet Takedown 2023, 2015 10 22 Microsoft Breaking Up A Botnet How Ramnit Was Foiled, 2015 02 25 Anubisnetworks Aids Europols European Cybercrime Centre In Takedown Of Malicious Botnet, 2015 02 25 Arstechnica Europol Cracks Down On Botnet Infecting 3 2 Million Computers, 2015 02 25 Pcworld Europol And Security Vendors Disrupt Massive Ramnit Botnet.
+정본 작전의 소스 하한선은 충족되나, 소스의 폭이 곧 모든 후속 체포 또는 형 선고가 본 작전의 일부임을 입증하지는 않는다. 후속 기록은 별도로 연결되어야 한다.
+본 페이지에 여전히 남아 있는 메타데이터 공백: 법적 근거 및 체포.
+데이터셋 활용 측면에서 본 페이지는 작전 단위 집계 지점으로 취급되어야 한다: 국가, 기관, 메커니즘, 결과 필드는 조정된 집행 행위 전체를 기술한다. 후속 기소, 유죄협상, 형 선고, 범죄인 인도, 자산 몰수는 소스가 명시적으로 이를 새로운 다국적 작전으로 제시하지 않는 한 관련 사건(case) 또는 흡수된 후속 기록으로 부가되어야 한다.
+소스 기록에 더 폭넓은 배경, 반복적 통신사 재게시, 또는 주제 페이지성 자료가 포함된 경우 본 평가는 명명된 작전, 참여 당국, 표적 인프라 또는 범죄 서비스, 측정 가능한 집행 결과에 직접 연결된 사실을 우선시한다. 주변적 소스 제목은 독립적 분류 또는 결과 증거로 취급되지 않는다.
+이는 정본 기록을 분석적으로 한정되고 재현 가능한 상태로 유지한다.</p>
+<!-- CANONICAL_ASSESSMENT_END -->
+
+<h2 id="_14">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>Europol: 국제 법집행 협력을 통해 무력화된 봇넷(Ramnit, 2015)</td>
+<td>Europol</td>
+<td>2015-02-24</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>봇넷 해체 — Ramnit이 어떻게 무력화되었는가</td>
+<td>Microsoft</td>
+<td>2015-10-22</td>
+<td><a href="https://blogs.microsoft.com/eupolicy/2015/10/22/breaking-up-a-botnet-how-ramnit-was-foiled/" target="_blank" rel="noopener noreferrer" title="https://blogs.microsoft.com/eupolicy/2015/10/22/breaking-up-a-botnet-how-ramnit-was-foiled/" data-full-url="https://blogs.microsoft.com/eupolicy/2015/10/22/breaking-up-a-botnet-how-ramnit-was-foiled/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>AnubisNetworks, 악성 봇넷 단속에서 Europol(유럽 사이버범죄센터) 지원</td>
+<td>AnubisNetworks</td>
+<td>2015-02-25</td>
+<td><a href="https://www.anubisnetworks.com/news/community/news/anubisnetworks-aids-europols-european-cybercrime-centre-in-takedown-of-malicious-botnet" target="_blank" rel="noopener noreferrer" title="https://www.anubisnetworks.com/news/community/news/anubisnetworks-aids-europols-european-cybercrime-centre-in-takedown-of-malicious-botnet" data-full-url="https://www.anubisnetworks.com/news/community/news/anubisnetworks-aids-europols-european-cybercrime-centre-in-takedown-of-malicious-botnet" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>Europol, 320만 대 컴퓨터를 감염시킨 봇넷 단속</td>
+<td>Ars Technica</td>
+<td>2015-02-25</td>
+<td><a href="https://arstechnica.com/tech-policy/2015/02/europol-cracks-down-on-botnet-infecting-3-2-million-computers/" target="_blank" rel="noopener noreferrer" title="https://arstechnica.com/tech-policy/2015/02/europol-cracks-down-on-botnet-infecting-3-2-million-computers/" data-full-url="https://arstechnica.com/tech-policy/2015/02/europol-cracks-down-on-botnet-infecting-3-2-million-computers/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>Europol 및 보안 벤더, 대규모 Ramnit 봇넷 무력화</td>
+<td>PCWorld</td>
+<td>2015-02-25</td>
+<td><a href="https://www.pcworld.com/article/432079/europol-and-security-vendors-disrupt-massive-ramnit-botnet.html" target="_blank" rel="noopener noreferrer" title="https://www.pcworld.com/article/432079/europol-and-security-vendors-disrupt-massive-ramnit-botnet.html" data-full-url="https://www.pcworld.com/article/432079/europol-and-security-vendors-disrupt-massive-ramnit-botnet.html" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Page corrected (2026-04-10)
 This page was originally filed as "Europol Botnet Takedown 2023" (<code>botnet-takedown-europol-2023.md</code>). Content verification of the Europol source URL confirmed this is actually the <strong>February 2015 Ramnit botnet takedown</strong>. Page renamed and all data corrected.</div><div class="callout-body"></div></div>
 <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>

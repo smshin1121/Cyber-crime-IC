@@ -79,35 +79,190 @@
     </div>
     <div class="article-body">
 
-        <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>US DOJ Raptor Train (Flax Typhoon / Integrity Technology Group) PRC IoT Botnet Court-Authorized Disruption (September 2024)</strong> 테이크다운 작전으로, <strong>2024-09-18</strong> 기간 동안 <strong>7개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Integrity Technology Group (PRC-based publicly-traded company, public brand 'KRLab') — assessed by FBI as the entity behind the activity industry tracks as 'Flax Typhoon'. Operated the Raptor Train IoT botnet (&gt;200,000 SOHO routers, IP cameras, DVRs, NAS devices).</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>해킹, 사이버범죄 인프라, 악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Integrity Technology Group (PRC-based publicly-traded company, public brand 'KRLab') — assessed by FBI as the entity behind the activity industry tracks as 'Flax Typhoon'. Operated the Raptor Train IoT botnet (&gt;200,000 SOHO routers, IP cameras, DVRs, NAS devices).</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+        <div class="ko-block"><div class="callout callout-info"><div class="callout-title">ℹ️ 잠정 페이지
+권장되는 5개 출처 임계값 미만 게시(CLAUDE.md "Entity creation threshold" 참조). 1차 출처 1개(DOJ OPA 보도자료, 2024-09-18, 보도자료 번호 24-1173). 후속 라운드에서 추가 수집할 동반 자료: (a) 동일자 합동 사이버보안 권고문(defense.gov 호스팅 PDF, FBI+NSA+USCYBERCOM+AU/CA/NZ/UK), (b) Lumen Technologies / Black Lotus Labs 기술 보고서("Derailing the Raptor Train"), (c) 보도자료에서 참조된 WDPA 법원명령·진술서, (d) Wray FBI 국장의 Aspen Cyber Summit 발표(FBI.gov), (e) NCSC-UK 동반 지침("Defending against China-nexus covert networks of compromised devices").</div><div class="callout-body"><p>[!warning] L19에 따라 1차 DOJ 출처에 명시된 국가만 참여국으로 주장됨
+주장된 국가: <strong>미국</strong>(주도), <strong>프랑스</strong>(명명됨 — "프랑스 당국"), <strong>호주 / 캐나다 / 뉴질랜드 / 영국</strong>(합동 권고문 공동서명 파트너 사이버 기관의 국가로 명명), <strong>중국</strong>(명명된 PRC 계약 기업 Integrity Technology Group의 표적 국적). 특정 파트너 기관명(ASD/ACSC, CCCS, GCSB/NCSC-NZ, NCSC-UK)은 여기서 링크되지 않음 — 별도 1차 등급 출처로 동반 합동 권고문 PDF가 필요함. 보도자료의 "호주, 캐나다, 뉴질랜드 및 영국의 파트너 기관" 문구는 기관명을 열거하지 않는다.</p></div></div>
+<h2 id="_1">개요</h2>
+<p><strong>2024년 9월 18일</strong> 미국 법무부(DOJ)는 <strong>미국 펜실베이니아 서부지구 연방지방법원</strong>에서 공개된 법원명령에 따라 진행된 <strong>법원 승인 법집행 작전</strong>을 발표하였다. 본 작전은 <strong>20만 대 이상의 소비자용 기기</strong>(소호 라우터, IP 카메라, 디지털 비디오 레코더, 네트워크 부착 스토리지)로 구성된 전 세계 IoT 봇넷을 와해하였다. Lumen Technologies의 Black Lotus Labs가 2023년 7월 처음 기술하면서 <strong>"Raptor Train"</strong>(Raptor Train (PRC 봇넷 캠페인명))이라는 공개 명칭이 부여된 본 봇넷은, FBI가 업계에서 <strong>"Flax Typhoon"</strong>(Flax Typhoon (중국 국가배후 APT))으로 추적하는 중국 기반 해커 활동에 대해 책임이 있다고 평가하는 <strong>Integrity Technology Group</strong>(베이징 소재 상장 기업)에 의해 개발·통제되었다(출처: <a href="../../wiki/sources/2024-09-18_justice-gov_court-authorized-operation-disrupts-raptor-train-botnet-flax-typhoon.html" class="wikilink">DOJ OPA, 2024년 9월 18일</a>).</p>
+<p>본 작전은 <strong>적의 명령제어(C2) 인프라를 장악</strong>하고, 그 인프라를 이용해 감염 기기의 악성코드에 <strong>무력화 명령</strong>을 전송하였다. Integrity Technology Group은 단속 진행 중 FBI 작전 인프라에 대한 <strong>분산서비스거부(DDoS) 반격</strong>을 시도하였으나 — 반격은 실패하였다. 보도자료는 본 단속을 명시적으로 <strong>"파트너와의 국제 작전"</strong>으로 규정한다(FBI 부국장 Paul Abbate 발언).</p>
+<p>작전이 발표된 일자에 적시된 범위와 표적 단체로 발생했다는 점은 <strong>거의 확실</strong>(&gt;95% 신뢰도, 1차 등급 DOJ 출처)하다. 권고문 문단에 언급된 4개 FVEY(파이브 아이즈) 파트너국 사이버 기관(ASD/ACSC, CCCS, GCSB/NCSC-NZ, NCSC-UK)이 적시되지 않은 "파트너 기관"이라는 점은 <strong>상당히 가능성 있음</strong>(80-95%)이며, 동반 합동 권고문의 직접 수집을 통해 확인되어야 한다.</p>
+<h2 id="_2">배경</h2>
+<p><strong>Raptor Train</strong>은 손상된 소비자급 IoT 기기로 구축된 장기 PRC 국가 연계 봇넷의 공개/업계 명칭(2023년 7월 Lumen Black Lotus Labs가 부여)이다. DOJ 보도자료와 교차검증된 공개 보도에 따르면:</p>
 <ul>
-<li>Court-authorized takeover of the adversary's command-and-control infrastructure (DOJ asserts FBI 'took control of the hackers' computer infrastructure').</li>
-<li>More than 200,000 compromised IoT consumer devices worldwide (SOHO routers, IP cameras, DVRs, NAS) had disabling commands issued to the malware via the seized C2 channel.</li>
-<li>Adversary DDoS counter-attack against the FBI's operational infrastructure during the takedown — ultimately unsuccessful.</li>
-<li>Same-day Joint Cybersecurity Advisory co-published by FBI, NSA, USCYBERCOM CNMF, and partner cyber agencies in Australia, Canada, New Zealand, and the United Kingdom.</li>
-<li>FBI provides victim notice to U.S. owners of affected devices via their internet service providers.</li>
+<li>손상된 기기 유형: <strong>소호 라우터, IP 카메라, DVR, NAS</strong> 어플라이언스.</li>
+<li>악성코드는 20만 대 이상의 감염 기기를 봇넷으로 연결하였으며 <strong>Integrity Technology Group이 통제</strong>하였고, 악성 사이버 활동을 일상적 소비자 인터넷 트래픽으로 위장하는 데 사용되었다.</li>
+<li>Integrity Technology Group의 온라인 통제 애플리케이션은 <strong>"KRLab"</strong>으로 브랜딩되었으며, 고객에게 서비스로 판매되는 <strong>"vulnerability-arsenal"</strong> 악성 명령 메뉴 도구를 갖추고 있었다.</li>
+<li>FBI는 Integrity Technology Group이 업계에서 <strong>Flax Typhoon</strong>으로 추적하는 활동에 대해 책임이 있다고 평가한다. Microsoft Threat Intelligence는 Flax Typhoon을 2021년부터 활동 중인 PRC 기반 국가 행위자로 기술하며 <strong>대만 및 그 외 지역</strong>의 정부, 교육, 핵심 제조업, IT 조직을 표적으로 한다. FBI 수사는 표적 범위를 미국 및 외국의 <strong>기업, 대학, 정부기관, 통신사업자, 미디어 조직</strong>으로 확장한다.</li>
 </ul>
-<h2 id="_5">참여 기관</h2>
-<p><strong>주도기관:</strong> Fbi</p>
-<p><strong>참여기관:</strong> Fbi, Fbi Cyber Division, Us Doj</p>
-<p><strong>참여국:</strong> United States, France, Australia, Canada, New Zealand, United Kingdom, China</p>
-<h2 id="_6">작전 일정</h2>
+<p>본 사건은 DOJ가 2024년에 와해시킨 <strong>두 번째 PRC 계약 봇넷</strong>이다 — Olsen 차관보의 발언("올해 들어 두 번째로 우리는 PRC 대리인이 사용한 봇넷을 와해시켰다")은 본 사건을 2024년 5월 <a href="../../wiki/operations/911-s5-botnet-takedown.html" class="wikilink">911 S5</a> 와해와 연결한다.</p>
+<h2 id="_3">참여 당사자</h2>
+<h3 id="_4">미국 주도 구성요소</h3>
 <ul>
-<li><strong>발표:</strong> 2024-09-18</li>
-<li><strong>종료:</strong> 2024-09-18</li>
+<li><strong><a href="../../wiki/organizations/fbi.html" class="wikilink">FBI(미국 연방수사국)</a></strong> — 샌디에이고 현장사무소(특수요원 책임자 Stacey Moy) 및 <strong><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">사이버부</a></strong>.</li>
+<li><strong><a href="../../wiki/organizations/us-doj.html" class="wikilink">DOJ(미국 법무부)</a></strong> — 국가안보국(NSD) 국가안보 사이버부(차관보 Matthew G. Olsen); 형사국 — 컴퓨터범죄·지적재산권부(CCIPS); 형사국 — 국제업무부(OIA).</li>
+<li><strong>미국 펜실베이니아 서부지구 연방검찰청</strong>(USAO WDPA) — 연방검사 Eric G. Olshan; 압수 명령이 공개된 법원 관할.</li>
 </ul>
-<h2 id="_7">협력 메커니즘</h2>
+<h3 id="_5">동일자 합동 사이버보안 권고문 공동서명자</h3>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>DOJ 보도자료에 따른 공동서명 역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="../../wiki/countries/united-states.html" class="wikilink">미국</a></strong></td>
+<td>FBI, <strong>NSA</strong>, <strong>미국 사이버사령부 — 사이버국가임무부대(CNMF)</strong></td>
+</tr>
+<tr>
+<td><strong><a href="../../wiki/countries/australia.html" class="wikilink">호주</a></strong></td>
+<td>"파트너 기관"(DOJ 보도자료에 구체 기관명 미열거)</td>
+</tr>
+<tr>
+<td><strong><a href="../../wiki/countries/canada.html" class="wikilink">캐나다</a></strong></td>
+<td>"파트너 기관"(DOJ 보도자료에 구체 기관명 미열거)</td>
+</tr>
+<tr>
+<td><strong><a href="../../wiki/countries/new-zealand.html" class="wikilink">뉴질랜드</a></strong></td>
+<td>"파트너 기관"(DOJ 보도자료에 구체 기관명 미열거)</td>
+</tr>
+<tr>
+<td><strong><a href="../../wiki/countries/united-kingdom.html" class="wikilink">영국</a></strong></td>
+<td>"파트너 기관"(DOJ 보도자료에 구체 기관명 미열거)</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-note"><div class="callout-title">📝 기관명 귀속
+L19에 따라, 본 작전 페이지는 본 출처만으로는 특정 FVEY 파트너 기관 위키링크(ASD/ACSC, CCCS, GCSB/NCSC-NZ, NCSC-UK)를 주장하지 않는다. DOJ 보도자료는 <strong>파트너 기관</strong>을 국가 차원에서만 인정한다.</div><div class="callout-body"></div></div>
+<h3 id="_6">명시적으로 명명된 외국 정부 협력</h3>
 <ul>
-<li><a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">Search Seizure</a></li>
+<li><strong><a href="../../wiki/countries/france.html" class="wikilink">프랑스</a></strong> — Lumen과 함께 "파트너의 협력"에 대해 인정된 "프랑스 당국". 구체적 프랑스 기관은 보도자료에 명명되지 않는다.</li>
+</ul>
+<h3 id="_7">민간 부문 파트너</h3>
+<ul>
+<li><strong>Lumen Technologies / Black Lotus Labs</strong> — <strong>2023년 7월</strong> 봇넷을 최초로 식별·기술("Raptor Train"으로 명명); 단속 성공의 핵심 기여자로 인정.</li>
+</ul>
+<h3 id="_8">표적 / 위협 행위자</h3>
+<ul>
+<li><strong>Integrity Technology Group</strong> — 베이징 본사의 상장 기업(<a href="../../wiki/countries/china.html" class="wikilink">중국</a>). 공개 브랜드 <strong>"KRLab"</strong>.</li>
+<li><strong>Flax Typhoon</strong>(업계 명칭) — 2021년부터 활동 중인 PRC 국가배후 사이버 행위자(Microsoft Threat Intelligence 평가, FBI 수사로 교차검증).</li>
+</ul>
+<h2 id="_9">법적 근거</h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ 특정 죄목 및 압수 법령이 보도자료에 열거되지 않음
+보도자료는 <strong>펜실베이니아 서부지구에서 공개된 법원 문서</strong>와 함께 진행된 <strong>법원 승인 법집행 작전</strong>을 기술한다. 구체적 법령 근거(예: 연방형사소송규칙 제41조 압수·수색 영장; 18 U.S.C. § 1030 컴퓨터사기및남용법 전제; 종전 PRC 봇넷 단속의 민사 가처분 선례)는 DOJ 공개 보도자료에 식별되지 않는다. 법원명령 및 그 근거 진술서("진술서 보기")는 참조되지만 별도 원시 출처로 아직 수집되지 않았다. CLAUDE.md "법적 정확성 규칙"에 따라 근거 법원 문서가 수집될 때까지 <code>Legal status check needed</code>로 표시된다.</div><div class="callout-body"></div></div>
+<p>본 작전은 외국 국적자가 미국 외에서 운영하는 경우라도 미국 피해자에 대한 전제 범죄에 사용된 인프라에 대해 명령을 발할 미국 법원의 권한에 법적으로 근거한다 — 이는 최근 PRC 귀속 봇넷에 대한 선례 작전(<a href="../../wiki/operations/911-s5-botnet-takedown.html" class="wikilink">911 S5</a>, 2024년 5월) 및 종전 러시아·미국 제재 조치와 유사하다.</p>
+<h2 id="_10">작전 타임라인</h2>
+<ul>
+<li><strong>2023년 7월</strong> — Lumen Technologies의 Black Lotus Labs가 봇넷 초기 기술을 게시, <strong>"Raptor Train"</strong>으로 명명.</li>
+<li><strong>2021년 → 2024-09</strong>(Microsoft / FBI 평가) — Flax Typhoon / Integrity Technology Group 활동이 대만, 미국 등의 정부, 교육, 통신, 미디어, DIB 부문을 표적으로 함; 전 세계 20만 대 이상 IoT 기기 손상.</li>
+<li><strong>2024-09-18 이전</strong>(일자 미상) — 펜실베이니아 서부지구에서 법원명령 청구 및 인용; FBI가 무력화 명령을 준비·테스트.</li>
+<li><strong>2024-09-18</strong>(수) — FBI가 적 C2 인프라 장악 실행; 감염 기기의 악성코드에 무력화 명령 전송.</li>
+<li><strong>단속 진행 중</strong> — Integrity Technology Group이 FBI 작전 인프라에 대한 DDoS 반격을 개시; 반격 실패.</li>
+<li><strong>2024-09-18</strong> — DOJ 공보처가 보도자료 번호 <strong>24-1173</strong> 발행; 동일자 FBI + NSA + USCYBERCOM CNMF + AU/CA/NZ/UK 파트너 사이버 기관 합동 사이버보안 권고문 게시(defense.gov 호스팅 PDF); 동일자 Lumen Black Lotus Labs 기술 보고서("Derailing the Raptor Train") 게시.</li>
+<li><strong>2024-09-18 이후</strong> — FBI가 영향받은 기기의 미국 소유자에게 인터넷 서비스 제공자를 통해 피해자 통지 제공; FBI는 Integrity Technology Group / Flax Typhoon 수사 지속.</li>
+</ul>
+<h2 id="_11">결과 및 영향</h2>
+<table>
+<thead>
+<tr>
+<th>지표</th>
+<th>값</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>봇넷 내 기기</td>
+<td><strong>20만 대 이상</strong>(소호 라우터, IP 카메라, DVR, NAS)</td>
+</tr>
+<tr>
+<td>적 인프라 통제</td>
+<td><strong>예</strong>("법원 승인 작전이 해커의 컴퓨터 인프라를 장악")</td>
+</tr>
+<tr>
+<td>감염 기기의 악성코드에 무력화 명령 전송</td>
+<td><strong>예</strong></td>
+</tr>
+<tr>
+<td>적 DDoS 반격</td>
+<td>예 — <strong>실패</strong></td>
+</tr>
+<tr>
+<td>체포</td>
+<td>0(위협 행위자는 PRC 내; 본 발표에는 기소 없음)</td>
+</tr>
+<tr>
+<td>기소</td>
+<td>0(본 사건은 법원 승인 단속이지 기소 발표가 아님)</td>
+</tr>
+<tr>
+<td>합동 사이버보안 권고문 공동서명국</td>
+<td><strong>5개국</strong>(미국 + 호주 + 캐나다 + 뉴질랜드 + 영국)</td>
+</tr>
+<tr>
+<td>양자 외국 법집행 파트너 명명</td>
+<td><strong>프랑스</strong></td>
+</tr>
+<tr>
+<td>민간 부문 파트너 명명</td>
+<td><strong>Lumen Technologies / Black Lotus Labs</strong></td>
+</tr>
+<tr>
+<td>보도자료 번호</td>
+<td><strong>24-1173</strong></td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-note"><div class="callout-title">📝 신뢰도 및 정량화
+"20만 대 이상"이라는 수치는 DOJ 보도자료에서 비롯된다. 동반 보도(Lumen, NPR, Wray FBI 국장의 Aspen Cyber Summit 발언)는 2024년 6월 최고치 약 26만 대, 단속 시점 약 25만 대로 봇넷 규모를 기술한다 — 이들 수치는 <em>상당히 가능성 있음</em>(80-95%)이나 여기 수집된 DOJ 1차 출처에서는 주장되지 않는다.</div><div class="callout-body"></div></div>
+<h2 id="_12">활용된 협력 메커니즘</h2>
+<ul>
+<li><strong>법원 승인 인프라 장악</strong> — 미국은 WDPA 법원명령에 따라 적 C2 인프라에 대한 관할을 행사한다. 이는 외국 협력 채널보다는 디지털 인프라에 적용된 <code>&lt;a href="../../wiki/mechanisms/search-seizure.html" class="wikilink"&gt;search-seizure&lt;/a&gt;</code>형 메커니즘에 의존한다.</li>
+<li><strong>파이브 아이즈(FVEY) 합동 사이버보안 권고문</strong> — 다자 정보공유 및 공개 귀속 도구로, FBI + NSA + USCYBERCOM CNMF + 호주, 캐나다, 뉴질랜드, 영국 파트너 사이버 기관이 공동서명. 이는 증거 이전 채널이 아니라 단속과 병행 운영되는 <strong>비조약 협력 메커니즘</strong>이다.</li>
+<li><strong>양자 외국 법집행 협력</strong> — 프랑스 당국이 인정(구체적 프랑스 기관은 명명되지 않음); 경로 미특정(비공식 경찰 협력 또는 공식 MLAT일 수 있으나 보도자료는 명시하지 않음).</li>
+<li><strong>민관 협력</strong> — Lumen Technologies / Black Lotus Labs의 기술 귀속 및 운영 지원. 보도자료는 본 협력을 성공에 필수적이라고 인정.</li>
+</ul>
+<div class="callout callout-warning"><div class="callout-title">⚠️ 공식 MLAT 또는 부다페스트 협약 인용 없음
+DOJ 보도자료는 MLAT, 부다페스트 협약 24/7 네트워크 또는 어떠한 조약 기반 메커니즘도 명시하지 않는다. 보도자료 말미의 OIA 구성요소 표기는 외국 협력 경로(프랑스 협력 관련 가능성 높음)와 일치하지만 정확한 도구는 식별되지 않는다.</div><div class="callout-body"></div></div>
+<h2 id="_13">도전 과제 및 마찰 지점</h2>
+<ul>
+<li><strong>PRC 모국 비협조</strong> — 위협 행위자(Integrity Technology Group은 베이징 소재 상장 기업)에 대한 범죄인 인도 또는 중국 측 MLAT 경로가 없다. 미국의 대응은 모국과의 증거·체포 협력 체인이 아니라 <strong>일방적 법원 승인 인프라 장악</strong>이다.</li>
+<li><strong>단속 중 적의 실시간 반격</strong> — Integrity Technology Group의 작전 중 DDoS 시도는 기록된 전술적 현실이다. 보도자료는 실패했음을 명시하지만 충돌이 발생했음을 공개하는데, 이는 이러한 발표에서 이례적이다.</li>
+<li><strong>봇넷 재구축 위험</strong> — 보도자료는 행위자의 영구적 해체를 주장하지 않으며("이" 봇넷의 해체만 주장). 독립 보도(Lumen, Wray Aspen 발언)는 Flax Typhoon이 새 인프라에서 재구축을 시도할 가능성이 높다고 기술하며, 이는 보도자료의 수사 지속 메모와 일치한다.</li>
+<li><strong>파트너 기관 귀속 불투명성</strong> — DOJ는 FVEY 파트너국을 명명하지만 그 구체적 기관은 명명하지 않는다. 이는 FVEY 메커니즘이 관여한 미국 단속 발표에서 반복적으로 나타나는 불투명성이다.</li>
+</ul>
+<h2 id="_14">교훈</h2>
+<ul>
+<li><strong>법원 승인 인프라 장악은 이제 미국의 기본 대응</strong>이 되었다 — 모국이 협력하지 않는 PRC 계약 IoT 봇넷에 대해(2024년 5월 <a href="../../wiki/operations/911-s5-botnet-takedown.html" class="wikilink">911 S5</a> 및 2024년 9월 Raptor Train — 2024년 내 4개월 이내).</li>
+<li><strong>파이브 아이즈 합동 사이버보안 권고문은 PRC 귀속 활동에 대한 표준 다자 귀속 도구</strong>이며 조약 협상을 요구하지 않고 미국 집행과 병행 트랙으로 운영된다.</li>
+<li><strong>양자 외국 법집행 협력 + 다자 사이버 기관 권고문 + 민간 부문 기술 귀속</strong>은 2024년 시점 미국 봇넷 단속 작전의 반복적 3트랙 IC 패턴이다.</li>
+<li><strong>작전 중 적의 반격</strong>(단속 중 DDoS)은 고가치 PRC 계약 작전에서 기록된 운영 현실이며 예상되어야 한다.</li>
+<li><strong>계약 기업명을 공개적으로 귀속</strong>하는 것(Integrity Technology Group / "KRLab" / "vulnerability-arsenal")은 APT 명칭만 호명하는 것보다 공격적인 공개 패턴이며, 상장 외국 기업에 직접적 평판·경제적 비용을 부과한다. 이는 PRC 상업 중개자 명명으로 향하는 2024년 미국의 전환과 일관된다.</li>
+</ul>
+<h2 id="_15">후속 조치</h2>
+<ul>
+<li>동일자 공동 게시된 <strong>합동 사이버보안 권고문</strong>(FBI + NSA + USCYBERCOM CNMF + AU/CA/NZ/UK)은 방어자를 위한 TTP를 제공한다. 별도 1차 등급 출처로 수집할 것.</li>
+<li><strong>Lumen Black Lotus Labs 기술 보고서</strong>("Derailing the Raptor Train")는 기기 유형 분포, 지리적 분포, Mirai 변종 악성코드 분석을 제공한다. 1차 등급 산업 출처로 수집할 것.</li>
+<li><strong>WDPA 법원명령 및 근거 진술서</strong> — 보도자료에서 참조됨("진술서 보기"); 법적 근거 frontmatter를 위한 1차 법원 문서 출처로 수집할 것.</li>
+<li><strong>Christopher Wray FBI 국장 Aspen Cyber Summit 발언</strong>(FBI.gov) — Flax Typhoon의 Integrity Technology Group 식별에 대한 공개 귀속 발표; 1차 등급 FBI 출처로 수집할 것.</li>
+<li><strong>NCSC-UK 동반 지침</strong>("Defending against China-nexus covert networks of compromised devices") — 영국 측 동반 자료; 영국 파트너 기관이 NCSC-UK임을 확인하기 위해 수집할 것(현재 L19에 따라 추정되나 주장되지 않음).</li>
+<li><strong>후속 Raptor Train 활동</strong> — FBI / FVEY 파트너의 봇넷 재구축 시도 및 후속 PRC 계약 공개를 모니터링.</li>
+</ul>
+<h2 id="_16">한국의 참여</h2>
+<p><strong>기록되지 않음.</strong> DOJ 보도자료는 한국, 한국 단체 또는 한국 시민을 언급하지 않는다. 한국 관련성은 <strong>간접·비교적</strong>이다 — 본 사건은 한국 소비자 기기에 영향을 주거나 한국 표적에 대해 운영되는 PRC 국가 계약 IoT 봇넷에 대한 한국의 향후 대응에 유용한 참조점이다. 특히 다음에 비추어:</p>
+<ul>
+<li>Microsoft / FBI의 Flax Typhoon 평가는 대만과 그 외 지역을 표적으로 한다 — 이는 한국 관련 부수적 침해를 포함할 수 있는 지역 범위이다.</li>
+<li>미국 법원 승인 인프라 장악 모델은 유사한 사이버범죄 특정 권한 없이는 현행 한국 형사절차(한국 형사소송법 압수·수색 절차) 하에서 직접 이용 가능하지 않다.</li>
+<li>파이브 아이즈 합동 사이버보안 권고문 메커니즘은 현재 한국을 공동서명자로 포함하지 않는다; 한국을 포함한 비교 가능 합동 귀속 제품은 대안적 틀(예: 한미 양자 사이버 성명, ROK-NIS / KISA / KNPA 채널)을 요구할 것이다.</li>
+</ul>
+<h2 id="_17">모순 및 미해결 질문</h2>
+<ul>
+<li><strong>특정 FVEY 파트너 기관</strong> — 보도자료는 국가(호주, 캐나다, 뉴질랜드, 영국)는 명명하지만 기관은 명명하지 않는다. ASD/ACSC, CCCS, GCSB/NCSC-NZ, NCSC-UK가 적시되지 않은 파트너 기관일 가능성이 <em>상당히 높음</em>(80-95%)이며, 이는 FVEY 사이버 CSA의 반복적 패턴에 근거하지만, L19에 따라 동반 합동 권고문 PDF를 수집하여 확인해야 한다.</li>
+<li><strong>특정 프랑스 기관</strong> — "프랑스 당국"만 인정됨; 구체적 기관(ANSSI 또는 사이버 검찰/OFAC-CCNUM 단위일 가능성)은 명명되지 않음.</li>
+<li><strong>정확한 봇넷 규모</strong> — DOJ 보도자료는 "20만 대 이상"이라고 명시; 동반 보도는 2024년 6월 최고치 약 26만 대를 시사. 이 차이는 보수적 법원 문서 언어와 위협 인텔리전스 텔레메트리 간의 격차이다.</li>
+<li><strong>법원명령 법적 근거</strong> — 구체적 법령 및 규칙(제41조 가능성)은 DOJ 보도자료에 열거되지 않음; 보도자료에서 참조된 진술서가 이를 명확히 할 것이다.</li>
+<li><strong>와해의 지속성</strong> — 보도자료는 위협 행위자가 영구히 해체되었다고 주장하지 않음; FBI의 수사 지속 메모는 재구축 시도가 예상됨을 시사.</li>
+<li><strong>개인 기소</strong> — 본 발표에서는 어떠한 개인도 기소되지 않음. Integrity Technology Group 인력 또는 Flax Typhoon 운영자에 대한 후속 형사 기소가 이어질지 여부는 본 출처에서 <em>불명</em>이다.</li>
 </ul></div>
         <div class="en-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Provisional page
 Published below the preferred 5-source threshold (CLAUDE.md "Entity creation threshold"). One tier-1 primary source (DOJ OPA press release, 2024-09-18, Press Release Number 24-1173). Companion artifacts to ingest in subsequent rounds: (a) the same-day Joint Cybersecurity Advisory (defense.gov-hosted PDF, FBI+NSA+USCYBERCOM+AU/CA/NZ/UK), (b) Lumen Technologies / Black Lotus Labs technical writeup ("Derailing the Raptor Train"), (c) the WDPA court-order/affidavit referenced in the press release, (d) FBI Director Wray's Aspen Cyber Summit announcement (FBI.gov), (e) NCSC-UK companion guidance ("Defending against China-nexus covert networks of compromised devices").</div><div class="callout-body"><p>[!warning] Per L19 — only countries explicitly named in the primary DOJ source are asserted as participating_countries

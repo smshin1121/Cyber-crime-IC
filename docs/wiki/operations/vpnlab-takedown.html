@@ -80,60 +80,275 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>VPNLab.net Takedown</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a>의 조정 하에 수행된 인프라 압수 작전으로, <strong>2021-01-01 ~ 2022-01-17</strong> 기간 동안 <strong>10개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> VPNLab.net bulletproof VPN service</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>랜섬웨어, 악성코드, 다크웹 거래</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>VPNLab.net bulletproof VPN service</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p>2022년 1월 17일, <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a>에 의해 조정되고 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>에 의해 지원된 10개국의 법집행 당국이 2008년 이래 랜섬웨어 배포, 악성코드 유포 및 기타 불법 활동을 촉진하는 데 사이버범죄자들이 사용해 온 <a href="../../wiki/concepts/bulletproof-hosting.html" class="wikilink">방탄형 VPN 서비스</a> VPNLab.net을 호스팅하는 15개 서버를 압수하거나 무력화하였다. 본 작전은 EMPACT 보안 프레임워크의 "사이버범죄 — 정보시스템에 대한 공격" 우선순위 하에서 <a href="../../wiki/organizations/germany-lka.html" class="wikilink">하노버 경찰서(Polizeidirektion Hannover)</a> 가 주도하였다. 본 서비스는 최소 150건의 랜섬웨어 공격과 연관되어 있으며 최소 6,000만 유로의 재정적 피해를 야기한 것으로 알려져 있다. 작전일 당일에 체포는 이루어지지 않았으나, 압수된 고객 데이터는 후속 수사를 지원할 것으로 기대되었다.</p>
+<h2 id="_2">배경</h2>
+<p>VPNLab.net은 2008년에 설립되었으며 2048비트 암호화를 적용한 OpenVPN 기술 기반의 서비스를 연 60 달러라는 저렴한 가격에 온라인 익명성으로 제공하였다. 본 서비스는 여러 국가의 서버를 통한 이중 VPN 라우팅을 특징으로 하여, 네트워크 활동을 은폐해야 하는 사이버범죄자들에게 매우 매력적이었다.</p>
+<p>주류 상업용 VPN 제공자와 달리, VPNLab.net은 다크넷 포럼에서 자체 마케팅을 하였으며 사이버범죄 지하 세계에서 법집행 탐지 회피를 위한 신뢰할 만한 도구로 광범위하게 광고되었다. 본 서비스는 다음 용도로 사용되었다:</p>
 <ul>
-<li>VPNLab.net service rendered inoperable</li>
-<li>Customer data seized for investigative follow-up</li>
-<li>Linked to at least 150 ransomware attacks</li>
-<li>Financial damages of at least EUR 60 million attributed to users</li>
+<li><strong>랜섬웨어 배포</strong>: 랜섬웨어 캠페인 배후의 인프라 및 통신</li>
+<li><strong>악성코드 유포</strong>: 악성코드 운영자를 위한 명령제어(C2) 통신</li>
+<li><strong>범죄 조정</strong>: 범죄 행위자 간 보안 통신</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<p>법집행 기관은 여러 별개의 수사가 사이버범죄의 다양한 유형을 촉진하기 위해 본 서비스를 사용하는 범죄자들을 발견하면서 처음으로 VPNLab.net에 관심을 갖기 시작하였다. 이러한 독립 사건들로부터 누적된 증거를 토대로 수사관들은 개별 사용자보다는 인프라 자체를 표적으로 삼았다.</p>
+<h2 id="_3">참여 당사자</h2>
+<h3 id="_4">주관 수사</h3>
 <ul>
-<li>서버 압수: <strong>15대</strong> (인프라 규모)</li>
-<li>도메인 압수/차단: <strong>1개</strong></li>
+<li><strong><a href="../../wiki/organizations/germany-lka.html" class="wikilink">하노버 경찰서 (Polizeidirektion Hannover)</a></strong> — 중앙 형사수사실, 수사 지휘</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Hannover Police Department (Germany)</p>
-<p><strong>조정기관:</strong> Europol EC3</p>
-<p><strong>참여기관:</strong> Hannover Police Department, Europol EC3, Eurojust, Dutch National Police, RCMP, Czech Police, French National Police, Latvian State Police, Ukrainian Police, UK NCA 외 1개</p>
-<p><strong>참여국:</strong> Germany, Netherlands, Canada, Czech Republic, France, Hungary, Latvia, Ukraine, United Kingdom, United States</p>
+<h3 id="_5">국제 파트너</h3>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>기관</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/countries/germany.html" class="wikilink">독일</a></td>
+<td><a href="../../wiki/organizations/germany-lka.html" class="wikilink">하노버 경찰</a></td>
+<td>주관 수사, 서버 압수</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/netherlands.html" class="wikilink">네덜란드</a></td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">네덜란드 국가경찰</a></td>
+<td>서버 압수</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/canada.html" class="wikilink">캐나다</a></td>
+<td><a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">RCMP</a></td>
+<td>서버 압수</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/czech-republic.html" class="wikilink">체코</a></td>
+<td><a href="../../wiki/organizations/czechia-police.html" class="wikilink">체코 경찰</a></td>
+<td>서버 압수</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/france.html" class="wikilink">프랑스</a></td>
+<td><a href="../../wiki/organizations/france-national-police.html" class="wikilink">국가경찰</a></td>
+<td>서버 압수</td>
+</tr>
+<tr>
+<td>헝가리</td>
+<td>헝가리 경찰</td>
+<td>서버 압수</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/latvia.html" class="wikilink">라트비아</a></td>
+<td><a href="../../wiki/organizations/latvia-state-police.html" class="wikilink">국가경찰</a></td>
+<td>서버 압수, 과거 VPN 등록 데이터</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/ukraine.html" class="wikilink">우크라이나</a></td>
+<td><a href="../../wiki/organizations/ukraine-police.html" class="wikilink">사이버 경찰</a></td>
+<td>서버 압수</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">영국</a></td>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">NCA</a></td>
+<td>서버 압수</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">미국</a></td>
+<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI</a></td>
+<td>서버 압수</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_6">조정 기구</h3>
+<ul>
+<li><strong><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 사이버범죄센터) EC3</a></strong> — Analysis Project "CYBORG" 가 분석·포렌식 지원 제공; 60회 이상의 조정 회의 및 3회의 대면 워크숍 개최</li>
+<li><strong><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a></strong> — 국경 간 사법 협력을 가능하게 하기 위한 조정 회의 개최</li>
+<li><strong>J-CAT</strong> (Joint Cybercrime Action Taskforce) — Europol 본부에서 주최, 정보 교환 촉진</li>
+</ul>
 <h2 id="_7">법적 근거</h2>
+<p>본 작전은 EU의 EMPACT (European Multidisciplinary Platform Against Criminal Threats) 프레임워크, 구체적으로 "사이버범죄 — 정보시스템에 대한 공격" 우선순위 하에서 수행되었다.</p>
 <ul>
-<li>Budapest Convention</li>
-<li>EU Directive 2013/40/EU on attacks against information systems</li>
+<li><strong><a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">부다페스트협약</a></strong> — 국경 간 서버 압수 및 증거 수집을 위한 법적 프레임워크 제공</li>
+<li><strong>EU 지침 2013/40/EU</strong> — 정보시스템에 대한 공격에 관한 EU 차원 지침, 조화된 범죄 정의 제공</li>
+<li><strong>국내 형법</strong> — 각 참여국이 자국 국내 절차법에 따라 압수 명령 집행</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2022-01-18</li>
-<li><strong>개시:</strong> 2021-01-01</li>
-<li><strong>종료:</strong> 2022-01-17</li>
-</ul>
+<p>VPN 인프라의 다중 관할 성격 (10개국에 분산된 서버) 은 동시 조정된 법적 조치를 요구하였으며, <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a> 가 필요한 사법 협력을 가능하게 하였다.</p>
+<h2 id="_8">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>일자</th>
+<th>사건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2008</td>
+<td>VPNLab.net 설립, 암호화 VPN 서비스 제공 시작</td>
+</tr>
+<tr>
+<td>2019-2020</td>
+<td>다수의 독립적 수사에서 VPNLab.net이 랜섬웨어 행위자들이 사용하는 공통 인프라로 식별</td>
+</tr>
+<tr>
+<td>2021 (초)</td>
+<td>하노버 경찰서가 VPNLab.net에 대한 전담 수사 개시</td>
+</tr>
+<tr>
+<td>2021 (지속)</td>
+<td>Europol EC3 Analysis Project "CYBORG" 가 조정 제공; 60회 이상의 회의 개최</td>
+</tr>
+<tr>
+<td>2022-01-17</td>
+<td>10개국에 걸친 동시 무력화 조치; 15개 서버 압수 또는 무력화</td>
+</tr>
+<tr>
+<td>2022-01-18</td>
+<td>Europol이 압수를 공개 발표</td>
+</tr>
+</tbody>
+</table>
 <h2 id="_9">결과 및 영향</h2>
+<h3 id="_10">즉각적 결과</h3>
 <ul>
-<li><strong>15대</strong> 서버 압수</li>
-<li><strong>1개</strong> 도메인 압수/차단</li>
-<li>VPNLab.net service rendered inoperable</li>
-<li>Customer data seized for investigative follow-up</li>
-<li>Linked to at least 150 ransomware attacks</li>
-<li>Financial damages of at least EUR 60 million attributed to users</li>
+<li><strong>15개 서버 압수 또는 무력화</strong> — 10개국에 걸쳐</li>
+<li><strong>VPNLab.net 운영 불가</strong> — 도메인에 법집행 압수 배너 표시</li>
+<li><strong>고객 데이터 압수</strong> — 수사 후속 조치를 위해</li>
+<li><strong>작전일 당일 체포 없음</strong></li>
 </ul>
-<h2 id="_10">협력 메커니즘</h2>
+<h3 id="_11">정보적 가치</h3>
+<p>압수된 서버 데이터는 다음을 제공할 것으로 기대되었다:
+- 고객 신원 및 사용 패턴
+- 범죄 활동을 특정 사용자와 연결하는 접속 로그
+- 결제 정보
+- 통신 메타데이터</p>
+<h3 id="_12">광범위한 맥락</h3>
+<p>VPNLab.net의 무력화는 개별 범죄 행위자보다는 조력 서비스를 표적으로 하는 더 광범위한 법집행 전략의 일부이다. 유사한 작전에는 다음이 포함된다:
+- <strong><a href="../../wiki/operations/doublevpn-takedown.html" class="wikilink">DoubleVPN Takedown</a></strong> (2021년 6월) — 국제 협력으로 압수된 또 다른 범죄용 VPN 서비스
+- <strong><a href="../../wiki/operations/cyberbunker-takedown.html" class="wikilink">CyberBunker Takedown</a></strong> — 폐쇄된 방탄 호스팅 제공자</p>
+<p>이 접근법은 공유된 범죄 인프라의 비활성화가 승수 효과를 가지며, 동일 서비스에 의존하는 다수의 범죄 운영을 동시에 무력화한다는 이해에 기반한다.</p>
+<h2 id="_13">활용된 협력 메커니즘</h2>
+<ol>
+<li><strong>EMPACT 프레임워크</strong> — 조직범죄에 대한 EU의 우선순위 설정 메커니즘으로, 본 작전에 전략적 권한 부여</li>
+<li><strong><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3 Analysis Project "CYBORG"</a></strong> — 작전의 분석 중추로서, 60회 이상의 회의에 걸쳐 정보 상관관계 분석, 포렌식 지원 및 운영적 조정 제공</li>
+<li><strong><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a></strong> — 사법 협력 촉진, 각 관할에서의 압수 명령이 법적으로 유효하고 조정되도록 보장</li>
+<li><strong>J-CAT</strong> — Europol의 Joint Cybercrime Action Taskforce, 참여국 간 실시간 정보 교환 플랫폼 역할</li>
+<li><strong><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">형사사법공조</a></strong> — EU 프레임워크 밖의 국가들 (캐나다, 미국, 우크라이나) 에 대한 공식 MLA 요청</li>
+</ol>
+<h2 id="_14">도전 과제 및 마찰 지점</h2>
 <ul>
-<li><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">공동수사팀(JIT)</a></li>
-<li><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">Mutual Legal Assistance</a></li>
-<li><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Europol JIT Support</a></li>
+<li><strong>체포 없음</strong>: 본 작전은 순수하게 인프라 무력화였다. VPNLab.net의 운영자는 공개적으로 식별되거나 체포되지 않았으며, 이는 억지 효과를 제한한다.</li>
+<li><strong>동시 다중 국가 집행</strong>: 10개국에 걸친 서버 압수의 조정은 운영자가 증거를 파기하거나 백업 인프라로 이동하는 것을 방지하기 위해 정확한 타이밍을 요구하였다.</li>
+<li><strong>프라이버시 대 보안 논쟁</strong>: VPN 제공자의 압수는 비범죄 사용자의 프라이버시에 대한 의문을 제기한다. VPNLab.net이 범죄적 목적으로 광범위하게 사용되었음에도 불구하고, VPN 인프라 압수 선례는 프라이버시 옹호자들에 의해 주목되어 왔다.</li>
+<li><strong>대체 서비스</strong>: 압수 후 다른 방탄형 VPN 서비스가 VPNLab.net의 이전 고객 기반을 흡수했을 가능성이 높으나, 추정컨대 더 큰 법집행 감시 하에 있을 것이다.</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.5</strong> | 출처: 5건</p>
-</blockquote></div>
+<h2 id="_15">교훈</h2>
+<ol>
+<li><strong>조력 인프라 표적은 승수 효과가 있다</strong>: 단일 VPN 서비스를 무력화함으로써 법집행은 최소 150건의 랜섬웨어 캠페인과 알려지지 않은 수의 기타 범죄 운영에 동시에 영향을 미쳤다.</li>
+<li><strong>EMPACT는 효과적 조정 프레임워크를 제공한다</strong>: EU의 전략적 우선순위 설정 메커니즘은 작전에 회원국 전반에 걸친 제도적 후원과 자원 배분을 부여하였다.</li>
+<li><strong>Europol Analysis Project는 운영적으로 가치 있다</strong>: AP CYBORG 하에서 조직된 60회 이상의 조정 회의와 3회의 워크숍은 Europol 분석 지원 구조의 실용적 가치를 입증한다.</li>
+<li><strong>압수 후 정보 활용은 결정적이다</strong>: VPNLab.net 압수의 진정한 가치는 압수된 고객 데이터에 있으며, 이는 수년간 수사를 이끌 수 있다.</li>
+</ol>
+<h2 id="_16">한국의 참여</h2>
+<p>VPNLab.net 압수에서 공개적으로 보고된 한국의 참여는 없다. 그러나 본 작전은 <a href="../../wiki/countries/south-korea.html" class="wikilink">대한민국</a>에 다음과 같이 관련이 있다:</p>
+<ul>
+<li>한국 기관들은 범죄자들이 VPN 서비스를 이용해 활동을 은폐하는 것에 유사한 과제를 안고 있으며, 특히 <a href="../../wiki/crime-types/voice-phishing-ic.html" class="wikilink">보이스피싱</a> 및 <a href="../../wiki/crime-types/ransomware-ic.html" class="wikilink">랜섬웨어</a> 사건에서 그러하다</li>
+<li>EMPACT 프레임워크 모델은 향후 한국의 다자 인프라 압수 참여에 정보를 제공할 수 있다</li>
+<li>Europol의 J-CAT 메커니즘은 비EU 파트너 국가들에 개방되어 있으며, 이는 한국 법집행이 유사한 작전에 협력할 수 있는 채널을 제공할 수 있다</li>
+</ul>
+<h2 id="_17">모순 및 미해결 질문</h2>
+<ul>
+<li><strong>운영자 신원</strong>: VPNLab.net 운영자는 공개적으로 식별되지 않았다. 압수된 데이터로부터의 후속 수사가 체포로 이어졌는지는 불분명하다.</li>
+<li><strong>피해액 출처</strong>: VPNLab.net 사용자에게 귀속된 6,000만 유로의 피해액 수치는 여러 출처에 등장하나, 본 수치의 산정 방법론은 문서화되어 있지 않다.</li>
+<li><strong>효과 지속 기간</strong>: 대체 방탄형 VPN 서비스가 존재한다는 점을 감안할 때, 압수의 범죄 운영에 대한 장기적 무력화 효과는 불확실하다.</li>
+</ul>
+<h2 id="_18">후속 조치</h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ 공개된 법원 문서 없음
+웹 검색 (2026-04-17) 결과, 본 작전에 대한 공개적으로 접근 가능한 법원 자료가 없음. 가능한 이유: 공개 법원 기록 시스템이 없는 비미국 관할, 봉인 절차, 또는 작전이 공식 기소로 이어지지 않음.</div><div class="callout-body"></div></div>
+<!-- SOURCE_ENRICHMENT_START -->
+
+<h2 id="_19">출처 범위</h2>
+<ul>
+<li>Europol, 2022-01-18: 사이버범죄자들에게 불행한 새해 — VPNLab.net 오프라인.</li>
+<li>CyberScoop, 2022-01-18: 국제 협력 작전으로 범죄 활동에 사용된 VPN 서비스 VPNLab 압수.</li>
+<li>The Hacker News, 2022-01-18: Europol이 사이버범죄자들의 가장 선호하는 VPN 서비스 VPNLab을 폐쇄.</li>
+<li>SecurityWeek, 2022-01-18: 법집행 작전 후 서버 압수로 VPNLab 다운.</li>
+<li>BleepingComputer, 2022-01-18: Europol, 랜섬웨어 그룹이 사용한 VPN 서비스 폐쇄.</li>
+</ul>
+<h2 id="_20">증거 및 귀속 노트</h2>
+<ul>
+<li>2022년 1월 17일, Europol에 의해 조정되고 Eurojust에 의해 지원된 10개국의 법집행 당국이 2008년 이래 사이버범죄자들이 랜섬웨어 배포, 악성코드 유포 및 기타 불법 활동을 촉진하는 데 사용해 온 방탄형 VPN 서비스 VPNLab.net을 호스팅하는 15개 서버를 압수하거나 무력화하였다.</li>
+<li>본 작전은 EMPACT 보안 프레임워크의 "사이버범죄 — 정보시스템에 대한 공격" 우선순위 하에서 하노버 경찰서(Polizeidirektion Hannover) 가 주도하였다. 본 서비스는 최소 150건의 랜섬웨어 공격과 연관되어 있으며 최소 6,000만 유로의 재정적 피해를 야기하였다.</li>
+<li>작전일 당일에 체포는 이루어지지 않았으나, 압수된 고객 데이터는 후속 수사를 지원할 것으로 기대되었다.</li>
+<li>SecurityWeek는 VPNLab 수사가 초기 독일 랜섬웨어 수사와 연결되어 있으며 Ryuk 관련 사용을 강조한다고 보도하였다.</li>
+<li>본 기사는 15개 압수 서버, 10개국 참여 및 최소 6,000만 유로 관련 손실이라는 Europol 수치를 반복하였다.</li>
+<li>또한 압수된 고객 데이터가 피해자 통지 및 후속 사건에 사용될 것으로 예상된다고 언급하였다.</li>
+<li>SecurityWeek는 VPNLab 압수와 관련된 설명적 보도를 추가하고 독일 측 수사 트리거 및 인프라 활동의 배경에 있는 랜섬웨어 맥락을 유용하게 부각시킨다.</li>
+<li>보도는 10개국에 걸친 15개 서버 VPNLab 압수에 대한 Europol의 설명을 요약하였다.</li>
+</ul>
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+<h2 id="_21">정본 작전 평가</h2>
+<p>본 페이지는 피고인 특정 후속 활동이 아닌, VPNLab.net 방탄형 VPN 서비스에 대한 인프라 압수를 기술하는 정본 작전으로 보유된다. 본 기록은 주관 책임을 하노버 경찰서 (독일) 에, 조정을 Europol EC3에 귀속시키며, 참여 또는 영향을 받은 관할로 독일, 네덜란드, 캐나다, 체코, 프랑스, 헝가리, 라트비아, 우크라이나, 영국, 미국을 기록한다.</p>
+<p>협력 모델은 명명된 기관 및 파트너를 통해 문서화된다: 하노버 경찰서, Europol EC3, Eurojust, 네덜란드 국가경찰, RCMP, 체코 경찰, 프랑스 국가경찰, 라트비아 국가경찰, 우크라이나 경찰, 영국 NCA, FBI; 메커니즘: 합동수사팀, 형사사법공조, Europol JIT 지원; 법적 근거: 부다페스트협약 및 정보시스템에 대한 공격에 관한 EU 지침 2013/40/EU; 집행 태세: 압수 및 takedown.</p>
+<p>정본 기록에 포착된 운영 결과: 15개 서버 압수; 1개 도메인 압수; VPNLab.net 서비스 운영 불가; 수사 후속 조치를 위한 고객 데이터 압수; 최소 150건의 랜섬웨어 공격과 연관; 사용자에게 귀속된 최소 6,000만 유로의 재정적 피해.</p>
+<p>정본 출처 세트는 5건의 참고문헌을 포함한다: 2022 01 18 Europol Europa Eu Unhappy New Year For Cybercriminals As Vpnlab Net Goes Offline, 2022 01 18 Cyberscoop Com International Effort Takes Down Vpn Service Vpnlab Used For Criminal Activity, 2022 01 18 Thehackernews Com Europol Shuts Down Vpnlab Cybercriminals Favourite Vpn Service, 2022 01 18 Securityweek Com Vpnlab Goes Down After Servers Seized, 2022 01 18 Bleepingcomputer Com Europol Shuts Down Vpn Service Used By Ransomware Groups.
+출처 하한은 정본 작전에 대해 충족되나, 출처 폭만으로 모든 후속 체포 또는 양형이 본 작전의 일부임을 입증하지는 않는다. 후속 기록은 별도로 연결되어 유지되어야 한다.
+현재 본 페이지에는 frontmatter missing-field 표지가 없다.
+데이터셋 사용에 있어 본 페이지는 작전 수준 집계점으로 취급되어야 한다: 국가, 기관, 메커니즘 및 결과 필드는 조정된 집행 활동을 전체로서 기술한다. 후속 기소, 유죄 인정, 양형, 인도 또는 몰수 활동은 새로운 다국적 작전으로 명시적으로 제시되지 않는 한 관련 사건 또는 흡수된 후속 기록으로 첨부되어야 한다.
+출처 기록이 더 넓은 배경, 반복되는 와이어 서비스 재게재, 또는 주제 페이지 자료를 포함할 때, 본 평가는 명명된 작전, 그 참여 당국, 그 표적 인프라 또는 범죄 서비스, 그리고 그 측정 가능한 집행 결과에 직접 결부된 사실에 우선순위를 둔다. 주변적 출처 제목은 독립적 분류법 또는 결과 증거로 취급되지 않는다.
+이는 정본 기록을 분석적으로 한정되고 재현 가능하게 유지한다.</p>
+<!-- CANONICAL_ASSESSMENT_END -->
+
+<h2 id="_22">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>사이버범죄자들에게 불행한 새해 — VPNLab.net 오프라인</td>
+<td>Europol</td>
+<td>2022-01-18</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/unhappy-new-year-for-cybercriminals-vpnlabnet-goes-offline" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/unhappy-new-year-for-cybercriminals-vpnlabnet-goes-offline" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/unhappy-new-year-for-cybercriminals-vpnlabnet-goes-offline" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Europol, 랜섬웨어 그룹이 사용한 VPN 서비스 폐쇄</td>
+<td>BleepingComputer</td>
+<td>2022-01-18</td>
+<td><a href="https://www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/" target="_blank" rel="noopener noreferrer" title="https://www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/" data-full-url="https://www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Europol, 사이버범죄자들의 가장 선호하는 VPN 서비스 VPNLab 폐쇄</td>
+<td>The Hacker News</td>
+<td>2022-01-18</td>
+<td><a href="https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html" target="_blank" rel="noopener noreferrer" title="https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html" data-full-url="https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>국제 협력 작전으로 범죄 활동에 사용된 VPN 서비스 VPNLab 압수</td>
+<td>CyberScoop</td>
+<td>2022-01-18</td>
+<td><a href="https://cyberscoop.com/vpnlab-europol-germany-police-takedown/" target="_blank" rel="noopener noreferrer" title="https://cyberscoop.com/vpnlab-europol-germany-police-takedown/" data-full-url="https://cyberscoop.com/vpnlab-europol-germany-police-takedown/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>법집행 작전 후 서버 압수로 VPNLab 다운</td>
+<td>SecurityWeek</td>
+<td>2022-01-18</td>
+<td><a href="https://www.securityweek.com/vpnlab-goes-down-after-servers-seized-law-enforcement-operation/" target="_blank" rel="noopener noreferrer" title="https://www.securityweek.com/vpnlab-goes-down-after-servers-seized-law-enforcement-operation/" data-full-url="https://www.securityweek.com/vpnlab-goes-down-after-servers-seized-law-enforcement-operation/" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>On 17 January 2022, law enforcement authorities from 10 countries, coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> and supported by <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>, seized or disrupted the 15 servers hosting VPNLab.net, a <a href="../../wiki/concepts/bulletproof-hosting.html" class="wikilink">bulletproof VPN service</a> that had been used by cybercriminals to facilitate ransomware deployment, malware distribution, and other illicit activities since 2008. The operation was led by <a href="../../wiki/organizations/germany-lka.html" class="wikilink">Hannover Police Department (Polizeidirektion Hannover)</a> under the EMPACT security framework priority on "Cybercrime — Attacks Against Information Systems." The service had been linked to at least 150 ransomware attacks causing financial damages of at least EUR 60 million. No arrests were made during the action day, but seized customer data was expected to support follow-on investigations.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
