@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-05-18] iter 253 L27 backfill milestone 28 | cases sidecars 125/1225 (+80, 10.2%)
+- Batches JJ-JY landed (4 rounds × 4-5 batches = 16 batches × 5 = 80 cases).
+- Cadence shifted to 4 parallel batches per round (vs 3 for ops).
+- Lint clean: HIGH=0 CRITICAL=0 LOW=0; MEDIUM=1431 (declining).
+- Minor inconsistency: a few JX batches translated `## Summary` → `## 요약` instead of canonical `## 개요` due to abbreviated prompt. Cosmetic only; can be unified in post-completion sweep.
+- Some batches "upgraded" plain-text entity mentions (Us Doj, informal-cooperation) to wikilinks for consistency with frontmatter — verified slugs exist (no broken_wikilink lint).
+- Cases queue: 1100 remaining.
+
 ## [2026-05-18] iter 252 L27 backfill milestone 27 | cases sidecars 45/1225 (+45, 3.7%)
 - Cases backfill begun post-ops-completion.
 - Batches JA/JB/JC/JD/JE/JF/JG/JH/JI landed (9 batches × 5 = 45 cases sidecars).
