@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 281 L27 backfill milestone 56 | countries sidecars 40/154 (+20, 26.0%)
+- Batches UG-UJ landed (bulgaria through democratic-republic-of-the-congo).
+- Remaining: countries 114 + legal-frameworks 25 = 139.
+
 ## [2026-05-18] iter 280 L27 backfill milestone 55 | countries sidecars 20/154 (+20, 13.0%)
 - Phase 3b begins. Batches UC-UF landed (albania through brunei).
 - Remaining: countries 134 + legal-frameworks 25 = 159.
