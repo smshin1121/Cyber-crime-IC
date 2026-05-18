@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 280 L27 backfill milestone 55 | countries sidecars 20/154 (+20, 13.0%)
+- Phase 3b begins. Batches UC-UF landed (albania through brunei).
+- Remaining: countries 134 + legal-frameworks 25 = 159.
+
 ## [2026-05-18] iter 279 L27 backfill milestone 54 | orgs sidecars 152/152 (+32, 100% — ORGS COMPLETE)
 - Batches TY-UB landed (south-africa-hawks through zit-frankfurt). **ORGS BACKFILL COMPLETE.**
 - Next: countries (154) + legal-frameworks (25) = 179 pages.
