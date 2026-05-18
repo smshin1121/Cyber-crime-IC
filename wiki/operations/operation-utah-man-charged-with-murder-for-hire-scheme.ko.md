@@ -1,0 +1,15 @@
+## 개요
+
+이 미국 국내 단독의 후속 기록은 정본 사건 페이지 [[utah-man-charged-with-murder-for-hire-scheme]]에 흡수되었다. 가시적인 국경 간 메커니즘이 문서화되지 않았으므로, 별도의 국제공조 작전으로 취급하지 않는다.
+
+이 래퍼 페이지는 검색, 백링크 및 출처 추적의 연속성을 위해서만 유지된다. 출처가 뒷받침하는 사실 및 절차 분석은 아래의 정본 기록에 수록된다.
+
+## 정본 기록
+
+- [[utah-man-charged-with-murder-for-hire-scheme]]
+
+## 참고문헌
+
+| # | 제목 | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | Utah Man Pleads Guilty to Murder-for-Hire Scheme | US DOJ USAO | 2023-12-06 | https://www.justice.gov/usao-ndny/pr/utah-man-pleads-guilty-murder-hire-scheme |

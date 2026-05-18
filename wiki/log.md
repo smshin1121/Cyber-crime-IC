@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-05-18] iter 249 L27 backfill milestone 24 | operations sidecars 1189/1283 (+45, 92.7%)
+- Korean sidecar batches HU/HV/HW/HX/HY/HZ/IA/IB/IC landed.
+- 6-batch parallel cadence (3 agents × 5 slugs × 2-3 rounds) holding steady ~45 ops/milestone.
+- Operations queue: 94 remaining (us-v y-z tail, op-usd-* HAECHI variants, op-utah/-vibora/-weleakinfo + non-us-v stragglers).
+- Pre-push integrity: lint HIGH=0 CRITICAL=0 LOW=0; MEDIUM=1649 (missing_ko_sidecar, declining); check_links broken=3 (legacy); ZZPROT real=0.
+
 ## [2026-05-18] iter 248 L27 backfill milestone 23 | operations sidecars 1144/1283 (+45, 89.2%)
 - Korean sidecar batches HL/HM/HN/HO/HP/HQ/HR/HS/HT landed in milestone 23 window.
 - All 45 ops in milestone 23 follow the absorbed-wrapper 3-section pattern (개요/정본 기록/참고문헌), confirming the us-v t-w alphabetical run is dominated by Phase-1 wrapper translations.
