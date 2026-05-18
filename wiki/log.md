@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 285 L27 backfill milestone 60 | countries sidecars 120/154 (+20, 77.9%)
+- Batches UW-UZ landed (netherlands through saint-lucia).
+- Remaining: countries 34 + legal-frameworks 25 = 59.
+
 ## [2026-05-18] iter 284 L27 backfill milestone 59 | countries sidecars 100/154 (+20, 64.9%)
 - Batches US-UV landed (latvia through nepal).
 - Remaining: countries 54 + legal-frameworks 25 = 79.
