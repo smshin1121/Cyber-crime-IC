@@ -1,5 +1,10 @@
 # Activity Log
 
+## [2026-05-18] iter 287 L27 backfill milestone 62 | legal-frameworks 25/25 (100% — L27 BACKFILL COMPLETE)
+- Batches VE-VH landed (african-union-convention-cybersecurity through wire-fraud-statute).
+- **🎉 ENTIRE L27 BILINGUAL SIDECAR BACKFILL COMPLETE.** Total: 2,838 sidecars across operations (1282) + cases (1225) + organizations (152) + countries (154) + legal-frameworks (25).
+- Korean toggle (`render_bilingual()` in `web/app.py`) now returns full localized bodies for all required entity pages instead of frontmatter-synthesized fallback.
+
 ## [2026-05-18] iter 286 L27 backfill milestone 61 | countries sidecars 154/154 (+34, 100% — COUNTRIES COMPLETE)
 - Batches VA-VD landed (san-marino through zimbabwe). **COUNTRIES BACKFILL COMPLETE.**
 - Next: legal-frameworks (25 pages, final phase).
