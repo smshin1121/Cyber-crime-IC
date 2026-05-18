@@ -1,0 +1,34 @@
+## 개요
+
+세인트루이스(St. Louis) 남성이 가중 신원도용(aggravated identity theft) 및 기타 혐의로 형을 선고받은 사건으로, 연계된 출처 자료에 기록되어 있다. 관련 보도자료(Slovakian Man Admits Aiding Darknet Market that Sold Drugs and Stolen)도 확인된다. 확보된 출처 자료에는 미국 DOJ USAO(연방검찰청)의 공식 발표가 포함된다.
+
+## 출처 범위 (Source Coverage)
+
+- 미국 DOJ USAO, 2022-06-29: 세인트루이스 남성, 가중 신원도용 및 기타 혐의로 형 선고.
+
+## 작전 타임라인 (Operational Timeline)
+
+- 2022-06-29: 미국 DOJ USAO의 공식 공개 자료 보도.
+
+## 국제공조 세부사항 (International Cooperation Details)
+
+- 명시된 기관 및 협력 파트너에는 미국 DOJ가 포함된다.
+- 기록된 공조 메커니즘에는 비공식 공조(informal cooperation)가 포함된다.
+
+## 법적·절차적 지위 (Legal and Procedural Posture)
+
+- 기록된 범죄 분류: 온라인 사기(online fraud).
+- 메타데이터에 기록된 법적 또는 절차적 근거: 비공식 공조.
+- 본 기록은 기소(prosecution) 유형이며, 상태는 형 선고됨(sentenced)으로 분류된다.
+- 연관된 법적 또는 작전 기록: Operation St Louis Man Sentenced On Aggravated Id Theft Other Charges.
+
+## 증거 및 귀속 참고사항 (Evidence and Attribution Notes)
+
+- 관련 보도자료: Slovakian Man Admits Aiding Darknet Market that Sold Drugs and Stolen
+
+
+## 참고문헌 (References)
+
+| # | 출처 | 발행기관 | 일자 | URL |
+|---|---|---|---|---|
+| 1 | St. Louis man sentenced on aggravated ID theft, other charges | US DOJ USAO | 2022-06-29 | https://www.justice.gov/usao-edmo/pr/st-louis-man-sentenced-aggravated-id-theft-other-charges |
