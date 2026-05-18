@@ -80,60 +80,112 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation Synergia III</strong> <a href="../../wiki/organizations/interpol-igci.html" class="wikilink">Interpol Igci</a>의 조정 하에 수행된 인프라 압수 작전으로, <strong>2025-07-18 ~ 2026-01-31</strong> 기간 동안 <strong>50개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Phishing, malware, ransomware, romance-scam, and credit-card-fraud infrastructure</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>사이버범죄 인프라, 악성코드, 랜섬웨어, 온라인 사기</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Phishing, malware, ransomware, romance-scam, and credit-card-fraud infrastructure</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p>Operation Synergia(시너지아 작전, INTERPOL) III는 피싱, 악성코드, 랜섬웨어, 로맨스 스캠, 신용카드 사기 및 관련 온라인 사기에 사용된 인프라를 겨냥한 INTERPOL(국제형사경찰기구) 조정 글로벌 작전이었다. 이 조치는 2025년 7월 18일부터 2026년 1월 31일까지 진행되었으며 2026년 3월 13일에 공개 발표되었다.</p>
+<p>본 작전은 <a href="../../wiki/operations/operation-synergia-ii.html" class="wikilink">operation-synergia-ii</a>의 후속이며, 민간 부문 텔레메트리가 국가 법집행 팀을 위한 실행 가능한 단서로 전환되는 글로벌 인프라 차단의 광범위한 패턴을 반영한다.</p>
+<h2 id="_2">배경</h2>
+<h3 id="modus-operandi"><span class="heading-ko">수법 (모더스 오페란디)</span><span class="heading-en">Modus operandi</span></h3>
+<p>Synergia III는 단일 위협 행위자 또는 단일 악성코드 패밀리가 아니라 다수의 사이버범죄 사업 라인의 지원 인프라 계층을 겨냥했다. 식별된 45,000개 이상의 악성 IP 주소 및 서버는 이질적인 공격자 자산 혼합물을 호스팅했다: 피싱 키트와 자격증명 수확 페이지, 악성코드 명령제어(C2) 노드, 랜섬웨어 스테이징 및 유출 서버, 로맨스 스캠 및 "돼지 도살" 투자 사기 웹 프론트엔드, 섹스토션 전달 인프라, 대출 사기 및 신원 도용 점포, 신용카드 사기 캐시아웃 사이트. INTERPOL의 발표는 대상 인프라를 별개의 범죄 그룹들이 규모를 확장할 수 있게 한 <em>연결 조직</em>으로 묘사한다: 피싱 조직은 랜섬웨어 어필리에이트가 사용한 동일한 방탄 호스팅 노드를 임대하였고, 로맨스 스캠 운영자는 계정 탈취 툴킷을 재사용하였으며, 신용카드 사기 캐시아웃 상점은 악성코드 C2와 겹치는 IP 범위에 있었다. Group-IB, Trend Micro, S2W는 위협 인텔리전스 피드 — IP 평판 데이터, 인증서 투명성 이상 신호, 활성 악성코드 C2 인벤토리 — 를 기여하였으며, 국가 법집행 부서가 이를 검증한 후 국내 법적 절차(서버 압수, 호스팅 공급자 협력, 용의자 식별)를 통해 조치하였다.</p>
+<h3 id="victim-profile-and-impact"><span class="heading-ko">피해자 프로파일 및 영향</span><span class="heading-en">Victim profile and impact</span></h3>
+<p>피해자는 대상 인프라가 범죄 유형 무관(crime-type-agnostic)이었기 때문에 전체 사이버범죄 피해자 스펙트럼에 걸쳐 있었다. INTERPOL 발표는 명명된 피해자 범주를 강조한다: 로맨스 스캠 및 계정 탈취 사기의 표적, 섹스토션 피해자, 대출 사기 피해자, 신원 도용 피해자, 신용카드 사기 피해자. 마카오만 해도 지역 금융 서비스 브랜드 소비자를 겨냥한 33,000개 이상의 피싱/사기 웹사이트를 식별했다. 180만 사용자급의 헤드라인은 Synergia III에 대해 제공되지 않으며(단일 플랫폼 적발과 달리), INTERPOL은 본 작전에 대한 글로벌 피해자 손실 추정치를 발표하지 않는다. 따라서 영향은 검증된 피해자 배상 수치가 아니라 <em>인프라 거부</em> — 활성 공격 표면에서 제거된 45,000개의 악성 노드 — 로 측정된다.</p>
+<h3 id="financial-flow"><span class="heading-ko">자금 흐름</span><span class="heading-en">Financial flow</span></h3>
+<p>Synergia III에 대해 통합된 암호화폐 압수 또는 자산 동결 수치는 발표되지 않았다. 범죄 유형은 암호화 레일 수익화(랜섬웨어 지불, 암호화폐 투자 사기)와 법정화폐 레일 수익화(카드 없는 거래(card-not-present) 사기, 대출 사기, 로맨스 스캠 송금 및 상품권) 양쪽에 걸쳐 있다. Group-IB의 병행 발표는 금융 추적 데이터를 포함한 인텔리전스 패키지를 기술하지만, Synergia III의 일환으로서 특정 압수 자금 수치, 실소유자 귀속, 또는 자금 운반책 검거는 INTERPOL이 공개하지 않는다. 본 작전의 핵심 결과는 자산 회수가 아닌 인프라 제거와 검거이다.</p>
+<p><strong>범죄 조직 구조.</strong> 94명의 검거와 110명의 추가 수사 대상자는 72개국 및 영토에 걸쳐 분산되어 있으며, 공개 국가별 내역은 빈약하다: 마카오 주도의 웹사이트 식별, 토고 10명 검거, 방글라데시 40명 검거가 명명된 국가별 하이라이트이다. 단일 명명된 OCG 또는 계층도가 없는 것은 본 작전의 설계를 반영한다 — Synergia III는 하나의 조직범죄 단체에 대한 적발이 아니라 독립적으로 운영되는 범죄 그룹 생태계에 대한 <em>광범위 휩쓸기 인프라 작전</em>이었다. 따라서 94명의 용의자는 단독 운영자에서 다중 셀 피싱 조직, 조직화된 로맨스 스캠 단지에 이르기까지 많은 별개의 OCG에서 추출된다. INTERPOL 발표는 검거된 개인들이 지휘 구조를 공유한다거나 어떤 부분 집합이 일관된 명명된 OCG를 구성한다고 주장하지 않는다.</p>
+<h2 id="cooperation-model">Cooperation Model</h2>
 <ul>
-<li>More than 45,000 malicious IP addresses and servers taken down.</li>
-<li>Another 110 individuals remained under investigation.</li>
-<li>Macau authorities identified more than 33,000 phishing and fraudulent websites.</li>
-<li>Togo police arrested 10 suspects; Bangladesh police arrested 40 suspects.</li>
+<li><strong>글로벌 조정:</strong> INTERPOL이 72개국 및 영토의 법집행을 조정.</li>
+<li><strong>민간 부문 인텔리전스:</strong> Group-IB, Trend Micro, S2W가 불법 사이버 활동을 추적하고 악성 인프라를 식별하여 작전을 지원.</li>
+<li><strong>국가별 조치:</strong> 마카오, 토고, 방글라데시가 사기 웹사이트, 계정 탈취 로맨스 스캠, 섹스토션, 대출 사기, 신원 도용, 신용카드 사기를 포괄하는 국가 조치 예로 공개적으로 강조되었다.</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h2 id="_3">결과 및 영향</h2>
+<table>
+<thead>
+<tr>
+<th>지표</th>
+<th style="text-align: right;">값</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>적발된 악성 IP 주소 및 서버</td>
+<td style="text-align: right;">45,000+</td>
+</tr>
+<tr>
+<td>검거</td>
+<td style="text-align: right;">94</td>
+</tr>
+<tr>
+<td>추가 수사 대상자</td>
+<td style="text-align: right;">110</td>
+</tr>
+<tr>
+<td>압수된 전자기기 및 서버</td>
+<td style="text-align: right;">212</td>
+</tr>
+<tr>
+<td>마카오에서 식별된 피싱/사기 웹사이트</td>
+<td style="text-align: right;">33,000+</td>
+</tr>
+<tr>
+<td>참여국 및 영토</td>
+<td style="text-align: right;">72</td>
+</tr>
+</tbody>
+</table>
+<h2 id="boundary-and-non-duplication-notes">Boundary and Non-Duplication Notes</h2>
+<p>이 페이지는 2025-2026년 세 번째 Synergia 작전을 기록하며, 별개의 2024년 4월-8월 조치를 다룬 <a href="../../wiki/operations/operation-synergia-ii.html" class="wikilink">operation-synergia-ii</a>에 병합되어서는 안 된다.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ul>
-<li>체포: <strong>94명</strong> (피의자 규모)</li>
-<li>서버 압수: <strong>212대</strong> (인프라 규모)</li>
-<li>도메인 압수/차단: <strong>45,000개</strong></li>
+<li><strong>마카오, 토고(10), 방글라데시(40) 이외의 국가별 검거 분포</strong>는 공개되지 않는다. 다른 참여 관할권에 걸친 나머지 44명의 검거는 집계되지만 세분화되지 않는다.</li>
+<li>45,000개 이상의 악성 노드에 대한 <strong>명명된 OCG 또는 위협 행위자 귀속</strong>은 발표되지 않는다. 해당 인프라는 피싱, 악성코드, 랜섬웨어, 로맨스 스캠, 신용카드 사기를 지원하는 것으로 기술되지만, 특정 그룹 귀속(예: 어떤 랜섬웨어 어필리에이트, 어떤 로맨스 스캠 단지)은 공개되지 않는다.</li>
+<li><strong>암호화폐 압수 및 법정화폐 자산 동결 총계</strong>는 제공되지 않는다. 핵심 지표는 인프라 제거와 검거이며, 금융 차단 지표는 부재한다.</li>
+<li><strong>글로벌 피해자 손실 추정치</strong>는 발표되지 않는다. 본 작전은 검증된 피해자 피해가 아니라 제거된 인프라(45,000+)에 의해 프레이밍된다 — 단일 플랫폼 적발(예: Operation Endgame)과의 비용-편익 비교를 어렵게 만든다.</li>
+<li>각 국가 적발 조치에 대한 <strong>관할권별 법적 근거</strong>는 열거되지 않는다. 본 작전은 단일 공유 법적 도구가 아닌 비공식 협력과 Interpol 채널에 의존했지만, 72개 관할권 전반의 구체적 MLAT/EIO 사용은 공개적으로 문서화되어 있지 않다.</li>
+<li><strong>S2W 기여</strong>는 INTERPOL 발표에서 Group-IB 및 Trend Micro와 함께 등재되어 있으나 현재 participating_agencies frontmatter에 포착되어 있지 않다; S2W 기관 스텁이 생성될 때 추가해야 한다.</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Interpol Igci</p>
-<p><strong>참여기관:</strong> Interpol Igci, Group Ib, Trend Micro</p>
-<p><strong>참여국:</strong> Angola, Argentina, Austria, Bangladesh, Bolivia, Bosnia And Herzegovina, Brazil, Brunei, Cameroon, Colombia 외 40개</p>
-<h2 id="_7">법적 근거</h2>
-<ul>
-<li>Informal Cooperation</li>
-</ul>
-<h2 id="_8">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2026-03-13</li>
-<li><strong>개시:</strong> 2025-07-18</li>
-<li><strong>종료:</strong> 2026-01-31</li>
-</ul>
-<h2 id="_9">결과 및 영향</h2>
-<ul>
-<li><strong>94명</strong> 체포</li>
-<li><strong>212대</strong> 서버 압수</li>
-<li><strong>45,000개</strong> 도메인 압수/차단</li>
-<li>More than 45,000 malicious IP addresses and servers taken down.</li>
-<li>Another 110 individuals remained under investigation.</li>
-<li>Macau authorities identified more than 33,000 phishing and fraudulent websites.</li>
-<li>Togo police arrested 10 suspects; Bangladesh police arrested 40 suspects.</li>
-</ul>
-<h2 id="_10">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/public-private-cooperation.html" class="wikilink">Public Private Cooperation</a></li>
-<li><a href="../../wiki/mechanisms/electronic-evidence.html" class="wikilink">Electronic Evidence</a></li>
-<li><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 협력</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.25</strong> | 출처: 4건</p>
-</blockquote></div>
+<h2 id="evidence-notes">Evidence Notes</h2>
+<p>INTERPOL은 범위 및 결과 수치의 앵커 출처이다. Group-IB는 자체 기여를 확인하고 72개국, 94명 검거, 45,000 인프라, 212 기기/서버 수치를 반복한다. Help Net Security와 Cybernews는 독립적인 사이버보안 매체의 확인을 제공한다.</p>
+<h2 id="_4">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>국제 사이버 작전에서 악성 IP 주소 45,000개 적발</td>
+<td>INTERPOL</td>
+<td>2026-03-13</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2026/45-000-malicious-IP-addresses-taken-down-in-international-cyber-operation" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2026/45-000-malicious-IP-addresses-taken-down-in-international-cyber-operation" data-full-url="https://www.interpol.int/News-and-Events/News/2026/45-000-malicious-IP-addresses-taken-down-in-international-cyber-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>Group-IB가 INTERPOL의 Operation Synergia III 지원, 글로벌 사이버범죄 적발에 인텔리전스 기여</td>
+<td>Group-IB</td>
+<td>2026-03-13</td>
+<td><a href="https://www.group-ib.com/media-center/press-releases/interpol-operation-synergia-3/" target="_blank" rel="noopener noreferrer" title="https://www.group-ib.com/media-center/press-releases/interpol-operation-synergia-3/" data-full-url="https://www.group-ib.com/media-center/press-releases/interpol-operation-synergia-3/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>악성 IP 주소 45,000개 적발, 용의자 94명 검거</td>
+<td>Help Net Security</td>
+<td>2026-03-16</td>
+<td><a href="https://www.helpnetsecurity.com/2026/03/16/interpol-operation-synergia-iii-cybercrime-infrastructure-takedown/" target="_blank" rel="noopener noreferrer" title="https://www.helpnetsecurity.com/2026/03/16/interpol-operation-synergia-iii-cybercrime-infrastructure-takedown/" data-full-url="https://www.helpnetsecurity.com/2026/03/16/interpol-operation-synergia-iii-cybercrime-infrastructure-takedown/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>Interpol, 글로벌 사이버범죄 단속에서 악성 웹사이트 45,000개 적발</td>
+<td>Cybernews</td>
+<td>2026-03-13</td>
+<td><a href="https://cybernews.com/news/interpol-takes-down-45000-malicious-websites/" target="_blank" rel="noopener noreferrer" title="https://cybernews.com/news/interpol-takes-down-45000-malicious-websites/" data-full-url="https://cybernews.com/news/interpol-takes-down-45000-malicious-websites/" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h1 id="operation-synergia-iii">Operation Synergia III</h1>
 <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Operation Synergia III was an INTERPOL-coordinated global operation targeting infrastructure used for phishing, malware, ransomware, romance scams, credit-card fraud, and related online fraud. The action ran from 18 July 2025 to 31 January 2026 and was publicly announced on 13 March 2026.</p>
