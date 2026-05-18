@@ -1,6 +1,13 @@
 # Activity Log
 
-## [2026-05-17] iter 220 milestone push + L26 batch | Op Casus + Dark HunTOR + Op Atlantic Backgrounds (iters 211-220)
+## [2026-05-18] iter 247 L27 backfill milestone 22 | operations sidecars 1099/1283 (+55, 85.7%)
+- Korean sidecar (`<slug>.ko.md`) backfill continues per L27 (CLAUDE.md INGEST Step 5b).
+- Batches landed since milestone 21 (1044): HG (us-v sh-series 5) + 20 us-v r-series sidecars created earlier in alphabetical sweep + HH (simon-kaura, sirotkin-deaver, solomon-ekunke-okpe, south-carolina, spencer-xdedic) + HI (stealing-senate, stepanov-danabot, steve-parish, steven-ehizojie-oboite, steven-michael-burke) + HJ (sturgis, sumit-garg, sumter, sunday-daniel-ganyo, szabo-swatting) + HK (t-andre-mcneely, tai-jauna-jones, tal-prihar-michael-phan, tan-dark-web, tanisha-spencer).
+- Operations queue: 184 remaining (mostly us-v t-z series + a few non-us-v stragglers).
+- Pre-push integrity: lint HIGH=0 CRITICAL=0 LOW=0; MEDIUM=1739 (all `missing_ko_sidecar` — declining as backfill proceeds); check_links broken=3 (legacy bohemia LESSONS.md, allowed); ZZPROT real placeholders=0 (6 grep hits = log-text mentions of the sweep string itself).
+- Next milestone (23) at ~1144 ops (iter 248).
+
+
 - L26 batch (220): Op Casus 681w; Dark HunTOR 853w; Op Atlantic 884w (all 4-element compliant).
 - 10 commits since iter 210 push (`74870cd81..`):
   - 211: L26 batch (LeakBase + Op SECURE + Op Talent)
