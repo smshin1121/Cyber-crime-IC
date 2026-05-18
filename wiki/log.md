@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 274 L27 backfill milestone 49 | orgs sidecars 40/152 (+20, 26.3%)
+- Batches TE-TH landed (city-of-london-police through first-forum-incident-response).
+- Remaining: orgs 112 + countries 154 + legal-frameworks 25 = 291.
+
 ## [2026-05-18] iter 273 L27 backfill milestone 48 | orgs sidecars 20/152 (+20, 13.2%)
 - Phase 3 begins. Batches TA-TD landed (20 orgs alphabet a-c starting through china-mps-cyber).
 - Remaining: orgs 132 + countries 154 + legal-frameworks 25 = 311.
