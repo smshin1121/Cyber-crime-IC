@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 277 L27 backfill milestone 52 | orgs sidecars 100/152 (+40, 65.8%)
+- Batches TM-TT landed across two rounds (interpol-icse-database through norway-nsm).
+- Remaining: orgs 52 + countries 154 + legal-frameworks 25 = 231.
+
 ## [2026-05-18] iter 275 L27 backfill milestone 50 | orgs sidecars 60/152 (+20, 39.5%)
 - Batches TI-TL landed (france-gendarmerie through interpol).
 - Remaining: orgs 92 + countries 154 + legal-frameworks 25 = 271.
