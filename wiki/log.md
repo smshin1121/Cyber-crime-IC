@@ -1,5 +1,8 @@
 # Activity Log
 
+## [2026-05-18] iter 263 L27 backfill milestone 38 | cases sidecars 705/1225 (+60, 57.6%)
+- Batches NZ-OK landed. Cases queue: 520 remaining.
+
 ## [2026-05-18] iter 262 L27 backfill milestone 37 | cases sidecars 645/1225 (+60, 52.7%)
 - Batches NN-NY landed. Cases queue: 580 remaining. **Past halfway mark on cases.**
 
