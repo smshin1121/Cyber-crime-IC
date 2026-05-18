@@ -1,5 +1,9 @@
 # Activity Log
 
+## [2026-05-18] iter 279 L27 backfill milestone 54 | orgs sidecars 152/152 (+32, 100% — ORGS COMPLETE)
+- Batches TY-UB landed (south-africa-hawks through zit-frankfurt). **ORGS BACKFILL COMPLETE.**
+- Next: countries (154) + legal-frameworks (25) = 179 pages.
+
 ## [2026-05-18] iter 278 L27 backfill milestone 53 | orgs sidecars 120/152 (+20, 78.9%)
 - Batches TU-TX landed (office-of-international-affairs through singapore-police).
 - Remaining: orgs 32 + countries 154 + legal-frameworks 25 = 211.
