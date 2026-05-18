@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-05-18] iter 251 L27 backfill milestone 26 | **OPERATIONS COMPLETE** 1282/1282 (+48, 100%)
+- Korean sidecar batches IM/IN/IO/IP/IQ/IR/IS/IT/IU/IV landed.
+- Mix: 48 substantive multi-country joint-investigation pages (US-DOJ DPRK IT-worker disruption, Treasury sanctions, RedLine extradition, USSS-Canada Avalanche, VeriFTools, VPNLab, Warzone RAT, xDedic, XSS.is, Zambia-Golden-Top, Zeus-SpyEye JIT, etc.).
+- **All 1282 wiki/operations/*.md source pages now have a Korean `.ko.md` sidecar.** `_index.md` excluded per design (category index, not an operation page).
+- Pre-push integrity: lint HIGH=0 CRITICAL=0 LOW=0; MEDIUM=1556 (no more operation `missing_ko_sidecar` — remaining MEDIUM is cases/orgs/countries/legal-frameworks); check_links broken=3 (legacy); ZZPROT real=0.
+- **Next phase: L27 cases backfill** (1225 pages). After that: organizations (152) + countries (154) + legal-frameworks (25) = 331.
+
 ## [2026-05-18] iter 250 L27 backfill milestone 25 | operations sidecars 1234/1283 (+45, 96.2%)
 - Korean sidecar batches ID/IE/IF/IG/IH/II/IJ/IK/IL landed in milestone 25 window.
 - Mix: 30 ops absorbed-wrapper (us-v/op-utah/op-woman/op-vibora/op-weleakinfo/op-zuni) + 15 substantive multi-country (operazione-Cagliostro/Elicius/pf-*/phobos-8base/poland-cbzc/polri-LCS/portugal-spain/project-compass/proxy-takedown/qakbot-/qqaazz-/ramnit-/rcmp-/rex-mundi/romania-moldova-jit/rydox/seoul-eastern-clark/sg-hk-my-android+gsm/sg-th-altdos/silk-road/simda/spain-argentina-ameripol/spain-hsi-europol-calpe/spanish-pay-tv/spf-cnp-cambodia).
