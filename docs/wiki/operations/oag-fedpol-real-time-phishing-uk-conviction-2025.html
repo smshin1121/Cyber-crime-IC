@@ -79,63 +79,144 @@
     </div>
     <div class="article-body">
 
-        <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>OAG/fedpol Real-Time Phishing Joint Investigation - UK Conviction (2025)</strong> <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>의 조정 하에 수행된 합동수사 작전으로, <strong>2022-07 ~ 2025-07-23</strong> 기간 동안 <strong>2개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> British national who developed and distributed a real-time-phishing kit used against Swiss bank customers</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>은행 사기, 온라인 사기, 자금세탁</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>British national who developed and distributed a real-time-phishing kit used against Swiss bank customers</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+        <div class="ko-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Provisional record
+본 페이지는 단일 스위스 연방정부 보도자료와 미러된 확인 자료(Keystone-SDA / fedpol Report 2024)에 기반한다. 선호 5개 출처 임계치 미만이며 잠정적 사건 협력 기록으로 보관된다. 피의자를 식별하는 영국 법원 문서나 NCA/CPS 보도자료가 입수되는 시점에 정식으로 승격될 예정이다.</div><div class="callout-body"></div></div>
+<h2 id="_1">개요</h2>
+<p>스위스 연방검찰(Office of the Attorney General of Switzerland, OAG / Bundesanwaltschaft)과 스위스 연방경찰(<a href="../../wiki/organizations/switzerland-fedpol.html" class="wikilink">fedpol</a>)의 합동 형사수사는 스위스 은행 고객을 대상으로 "실시간 피싱"(real-time phishing) 수법으로 사기를 자행하는 데 사용된 피싱 키트의 개발 및 배포자로 영국 국적자를 식별하였다. OAG는 <strong>2022년 7월</strong> 형사절차를 개시하였으며 약 <strong>30건의 칸톤 단위 사기 사건</strong>을 단일 연방 사건으로 통합하였다; 총 피해액은 약 <strong>240만 스위스프랑(CHF)</strong>이었다. 개발자/배포자는 <strong>2023년 8월</strong> OAG/fedpol 합동수사를 통해 식별되었으며 <strong>2023년 10월 26일</strong> 영국에서 체포되었다. 영국 당국과의 양자 조율을 거쳐 기소가 영국으로 이전되었다. <strong>2025년 7월 23일</strong> 영국 법원은 가해자에게 <strong>징역 7년</strong>을 선고하였다. OAG는 <strong>2025년 7월 29일</strong> 유죄 판결을 공표하였다.</p>
+<p>본 기록은 사건이 스위스-영국 초국경 사이버범죄 협력으로 수행되었고 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a>과 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a>(fedpol 연차보고서 2024의 기술에 따름)의 보조적 역할이 있었으며, 피의자의 본국으로 기소가 이전된 결과로 이어졌다는 점에서 국제공조 코퍼스에 해당한다.</p>
+<h2 id="_2">배경</h2>
+<p>대략 <strong>2022년 5월부터 10월</strong> 사이, 범죄 네트워크는 스위스 은행 고객 — 특히 칸톤은행 e뱅킹 고객 — 을 대상으로 "실시간 피싱" 공격을 수행하였다:</p>
+<ol>
+<li>공격자들은 스위스 은행의 실제 도메인을 흡사하게 모방한 도메인명을 등록하였다.</li>
+<li>유료 Google 검색 광고를 게재함으로써, 피해자가 자신의 은행을 검색할 때 가짜 e뱅킹 로그인 페이지가 검색 결과 상단에 노출되도록 하였다.</li>
+<li>피해자가 로그인을 시도하면 페이지가 실시간으로 자격증명을 캡처하였다.</li>
+<li>피해자에게 피싱 페이지에 SMS 일회용 코드를 입력하도록 유도하여 이중인증을 우회하였다; 해당 코드는 실시간으로 사기범에게 전달되어 세션을 인증하고 공격자의 기기를 피해자 계정에 등록하는 데 사용되었다.</li>
+<li>자금은 머니뮬과 암호화폐 거래소를 통해 유출되었다.</li>
+</ol>
+<p>OAG는 <strong>2022년 7월</strong> 형사절차를 개시하였다. 본 수법이 칸톤 간 및 국경 간 차원을 갖는 점을 고려하여, 원래 스위스 칸톤 단위로 처리되던 약 30건의 사기 사건이 OAG로 이송되어 통합되었다.</p>
+<h2 id="_3">참여 당사자</h2>
+<table>
+<thead>
+<tr>
+<th>역할</th>
+<th>당사자</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>스위스 기소 당국</td>
+<td>OAG / Bundesanwaltschaft (스위스 연방검찰)</td>
+</tr>
+<tr>
+<td>스위스 수사 경찰 당국</td>
+<td><a href="../../wiki/organizations/switzerland-fedpol.html" class="wikilink">fedpol</a></td>
+</tr>
+<tr>
+<td>영국 기소/유죄판결 당국</td>
+<td>영국 법원 및 검찰청</td>
+</tr>
+<tr>
+<td>EU 작전 지원</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> (fedpol Report 2024 기술 기준)</td>
+</tr>
+<tr>
+<td>EU 사법 조율 지원</td>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a> (fedpol Report 2024 기술 기준)</td>
+</tr>
+<tr>
+<td>출처가 뒷받침하는 참여국</td>
+<td><a href="../../wiki/countries/switzerland.html" class="wikilink">스위스</a>, <a href="../../wiki/countries/united-kingdom.html" class="wikilink">영국</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="_4">법적 근거</h2>
 <ul>
-<li>British national arrested in England on 2023-10-26 (per fedpol Report 2024).</li>
-<li>OAG consolidated approximately 30 cantonal Swiss fraud cases into a single proceeding opened in July 2022.</li>
-<li>Total losses to Swiss bank customers approximately CHF 2.4 million.</li>
-<li>On 2025-07-23 a UK court sentenced the perpetrator to seven years' imprisonment.</li>
-<li>OAG transferred / discontinued Swiss proceedings in favour of UK prosecution.</li>
+<li>스위스 측 형사절차는 <strong>스위스 형법 제147조</strong>(컴퓨터 사기 / <em>betrügerischer Missbrauch einer Datenverarbeitungsanlage</em> / <em>abus de la dispositif d'identification informatique</em>)에 근거하여 개시되었다.</li>
+<li>피의자가 식별·위치추적되고 영국에서 체포된 이후, 영국 당국과의 조율을 거쳐, 동일 인물에 대해 영국 측 병행 절차가 이미 진행 중이라는 근거 하에 OAG는 영국 기소를 위해 자국 절차를 <strong>이전/중단</strong>하였다.</li>
+<li>작전 및 사법 협력은 Europol 및 Eurojust 채널을 통해 지원되었다 (fedpol 연차보고서 기술 기준).</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h2 id="_5">작전 타임라인</h2>
 <ul>
-<li>체포: <strong>1명</strong> (피의자 규모)</li>
+<li><strong>2022년 5월–10월:</strong> 스위스 은행 고객을 대상으로 한 피싱 캠페인.</li>
+<li><strong>2022년 7월:</strong> OAG 형사절차 개시; 약 30건의 스위스 칸톤 단위 사기 사건 통합.</li>
+<li><strong>2023년 8월:</strong> OAG/fedpol 합동수사가 피싱 키트의 개발 및 배포자를 식별; 피의자가 절차에 추가됨.</li>
+<li><strong>2023년 10월 26일:</strong> 피의자 영국에서 체포 (fedpol Report 2024 기준).</li>
+<li><strong>2025년 7월 23일:</strong> 영국 법원이 피의자에게 징역 7년 선고.</li>
+<li><strong>2025년 7월 29일:</strong> OAG가 영국 유죄 판결을 알리는 보도자료 발표.</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Switzerland Fedpol</p>
-<p><strong>조정기관:</strong> Eurojust</p>
-<p><strong>참여기관:</strong> Switzerland Fedpol, Office of the Attorney General of Switzerland (OAG / Bundesanwaltschaft), Uk Nca, Europol Ec3, Eurojust</p>
-<p><strong>참여국:</strong> Switzerland, United Kingdom</p>
-<h2 id="_7">법적 근거</h2>
+<h2 id="_6">결과 및 영향</h2>
 <ul>
-<li>Article 147 Swiss Criminal Code (computer fraud)</li>
-<li>Bilateral Switzerland-UK criminal-justice cooperation; transfer of proceedings to UK</li>
-<li>Europol/Eurojust operational and judicial coordination support</li>
+<li>1명의 식별된 피의자가 영국에서 체포·기소되어 <strong>징역 7년</strong>을 선고받음.</li>
+<li>통합된 OAG 사건 파일에 기반하여 스위스 은행 고객에 대해 문서화된 손실 약 <strong>CHF 240만</strong>.</li>
+<li>약 <strong>30건의 칸톤 단위 사기 사건</strong>이 단일 연방 절차와 영국 기소를 통해 통합·해결됨.</li>
+<li>피의자가 자국에서 위치 확인되고 기소되는 경우의 사이버범죄 기소 이전에 대한 문서화된 스위스-영국 협력 선례 확립.</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
+<h2 id="_7">활용된 협력 메커니즘</h2>
 <ul>
-<li><strong>발표:</strong> 2025-07-29</li>
-<li><strong>개시:</strong> 2022-07</li>
-<li><strong>종료:</strong> 2025-07-23</li>
+<li><strong>스위스-영국 양자 조율</strong>, OAG에서 영국 기소로의 절차 이전 포함.</li>
+<li>식별 및 위치 첩보를 공급하는 스위스 수사 경찰 당국으로서의 <strong>fedpol</strong>.</li>
+<li><strong>Europol</strong> 지원 (fedpol Report 2024이 본 사건을 "국제 네트워크"로 기술한 데 따름).</li>
+<li><strong>Eurojust</strong> 사법 조율 지원 (fedpol Report 2024 기술 기준).</li>
 </ul>
-<h2 id="_9">결과 및 영향</h2>
+<h2 id="_8">도전 및 마찰 요인</h2>
 <ul>
-<li><strong>1명</strong> 체포</li>
-<li>British national arrested in England on 2023-10-26 (per fedpol Report 2024).</li>
-<li>OAG consolidated approximately 30 cantonal Swiss fraud cases into a single proceeding opened in July 2022.</li>
-<li>Total losses to Swiss bank customers approximately CHF 2.4 million.</li>
-<li>On 2025-07-23 a UK court sentenced the perpetrator to seven years' imprisonment.</li>
-<li>OAG transferred / discontinued Swiss proceedings in favour of UK prosecution.</li>
+<li><strong>이중인증 우회.</strong> SMS 기반 2FA가 실시간으로 무력화되었으며, 이는 2FA만으로는 실시간 피싱 키트에 대한 충분한 방어책이 되지 못함을 보여준다.</li>
+<li><strong>칸톤 → 연방 통합.</strong> 약 30건의 개별 칸톤 단위 신고가 의미 있는 국제 협력이 가능해지기 전 단일 OAG 절차로 통합되어야 했다.</li>
+<li><strong>체포 이전의 국경 간 귀속.</strong> 영국에서의 키트 개발자 식별에는 영국 체포가 이루어지기까지 1년 이상의 기간에 걸친 OAG/fedpol 합동 수사 작업이 필요하였다.</li>
 </ul>
-<h2 id="_10">협력 메커니즘</h2>
+<h2 id="_9">교훈</h2>
 <ul>
-<li><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">공동수사팀(JIT)</a></li>
-<li><a href="../../wiki/mechanisms/eurojust-coordination-meeting.html" class="wikilink">Eurojust Coordination Meeting</a></li>
-<li><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">Mutual Legal Assistance</a></li>
-<li><a href="../../wiki/mechanisms/electronic-evidence.html" class="wikilink">Electronic Evidence</a></li>
+<li>피의자, 피해, 기소 당국이 서로 다른 국가에 위치한 경우, <strong>피의자 국가로의 기소 이전</strong>은 양자 조율이 견고할 때 효율적인 협력 결과가 될 수 있다.</li>
+<li>칸톤 차원의 사이버범죄 신고는 대규모 국제 협력 채널로 이행되기 전에 <strong>연방 단위 통합</strong>이 필요할 수 있다.</li>
+<li>실시간 피싱 키트는 <strong>상품 수준의 범죄 제품</strong>을 대표한다: 운영자만이 아니라 개발자/배포자를 기소하는 것은 기저 역량을 실질적으로 와해시킨다.</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.2</strong> | 출처: 3건</p>
-</blockquote></div>
+<h2 id="_10">후속 조치</h2>
+<ul>
+<li>스위스 공공 커뮤니케이션(NCSC 및 fedpol)은 스위스 칸톤은행 고객에 대한 실시간 피싱에 대해 지속적으로 경고하고 있으며, 2025년 NCSC가 동일한 사기 패턴에 특화된 포커스 기사를 발표한 바 있다.</li>
+</ul>
+<h2 id="_11">한국의 참여</h2>
+<p>본 사건에는 한국의 참여가 보고된 바 없다. 본 사안은 한국의 칸톤/연방 등가 사기 통합 쟁점과의 비교 분석, 그리고 한국-영국 / 한국-EU 사이버범죄 협력 논의를 위한 관심 대상 스위스-영국 양자 선례로 위키에 기록된다.</p>
+<h2 id="_12">모순점 및 미해결 문제</h2>
+<ul>
+<li>피의자의 이름은 OAG에 의해 공개되지 않았다; 해당 세부사항의 출처는 영국 법원 문서가 될 것이다.</li>
+<li>OAG 보도자료는 특정 영국 법원 또는 영국 사건번호를 명시하지 않는다; NCA / CPS / 영국 법원 출처가 입수되는 시점에 보완되어야 한다.</li>
+<li>fedpol Report 2024 기술은 Europol과 Eurojust 지원을 언급한다; OAG 보도자료 자체는 해당 채널들을 상세히 열거하지 않는다. 따라서 Europol/Eurojust 귀속은 본 기록에 보존되되, 본 특정 사건에 대한 공식 Europol/Eurojust 보도자료가 아닌 fedpol 연차보고서 기술에서 도출되었다는 점을 명시한다.</li>
+</ul>
+<h2 id="_13">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>사이버범죄: OAG와 fedpol의 국제 수사가 영국 내 실시간 피싱 유죄 판결로 귀결</td>
+<td>Office of the Attorney General of Switzerland (OAG) / fedpol</td>
+<td>2025-07-29</td>
+<td><a href="https://www.bag.admin.ch/en/newnsb/b4yhFXHLpERSkhgNMVb89" target="_blank" rel="noopener noreferrer" title="https://www.bag.admin.ch/en/newnsb/b4yhFXHLpERSkhgNMVb89" data-full-url="https://www.bag.admin.ch/en/newnsb/b4yhFXHLpERSkhgNMVb89" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>스위스 은행 고객을 사기친 영국 학생에게 판결</td>
+<td>Keystone-SDA / SWI swissinfo.ch</td>
+<td>2025-07-29</td>
+<td><a href="https://www.swissinfo.ch/eng/various/fedpol-investigation-into-phishing-leads-to-conviction-in-england/89752247" target="_blank" rel="noopener noreferrer" title="https://www.swissinfo.ch/eng/various/fedpol-investigation-into-phishing-leads-to-conviction-in-england/89752247" data-full-url="https://www.swissinfo.ch/eng/various/fedpol-investigation-into-phishing-leads-to-conviction-in-england/89752247" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>국제 네트워크에 의한 피싱 사기 적발</td>
+<td>fedpol Report 2024</td>
+<td>2024</td>
+<td><a href="https://fedpol.report/en/report-2024-en/serious-crime/phishing-scam-by-an-international-network-uncovered/" target="_blank" rel="noopener noreferrer" title="https://fedpol.report/en/report-2024-en/serious-crime/phishing-scam-by-an-international-network-uncovered/" data-full-url="https://fedpol.report/en/report-2024-en/serious-crime/phishing-scam-by-an-international-network-uncovered/" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h1 id="oagfedpol-real-time-phishing-joint-investigation-uk-conviction-2025">OAG/fedpol Real-Time Phishing Joint Investigation - UK Conviction (2025)</h1>
 <div class="callout callout-info"><div class="callout-title">ℹ️ Provisional record
 This page rests on a single Swiss federal-government press release plus mirrored confirmations (Keystone-SDA / fedpol Report 2024). It is below the preferred 5-source threshold and is filed as a provisional case-cooperation record. It will be promoted when UK court documents or NCA/CPS releases identifying the defendant become available.</div><div class="callout-body"></div></div>

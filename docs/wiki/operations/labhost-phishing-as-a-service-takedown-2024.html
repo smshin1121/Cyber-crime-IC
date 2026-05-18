@@ -81,67 +81,204 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>LabHost 피싱 서비스 플랫폼 단속 (영국 경시청 주도, 19개국 합동 작전, 2024-04-14~2024-04-17)</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2024-04-14 ~ 2024-04-17</strong> 기간 동안 <strong>19개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> LabHost — phishing-as-a-service platform offering subscription access to phishing kits, hosting infrastructure, fake-website templates (170+), and the integrated LabRat campaign-management tool capturing 2FA codes; ~10,000 users worldwide; ≥40,000 LabHost-linked phishing domains; $249/month average subscription</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>온라인 사기, 악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>LabHost — phishing-as-a-service platform offering subscription access to phishing kits, hosting infrastructure, fake-website templates (170+), and the integrated LabRat campaign-management tool capturing 2FA codes; ~10,000 users worldwide; ≥40,000 LabHost-linked phishing domains; $249/month average subscription</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p><strong>2024년 4월 14일부터 17일까지</strong>, <strong>영국 런던 경시청(London Metropolitan Police)</strong>이 주도하고 <strong>Europol(유럽 경찰청) 유럽사이버범죄센터(EC3)</strong> 및 Europol 본부에 설치된 <strong>합동사이버범죄대응팀(Joint Cybercrime Action Taskforce, J-CAT)</strong>의 지원을 받아 진행된 국제 수사는 <strong>19개국</strong>에 걸쳐 <strong>70건의 수색</strong>을 집행하였으며, <strong>37명의 체포</strong>를 산출하였다. 여기에는 사이트 운영과 관련된 <strong>영국 내 4명</strong>이 포함되며, <strong>LabHost 원개발자</strong>도 그중 한 명이다. <strong>LabHost 피싱서비스형(PhaaS) 플랫폼</strong>(LabHost(피싱 플랫폼))은 폐쇄되었다. LabHost는 사이버범죄자에게 구독제(월 평균 249달러) 방식으로 피싱 키트, 위장 페이지 호스팅 인프라, <strong>170개 이상의 위장 웹사이트 템플릿</strong>, 그리고 <strong>이중인증(2FA) 코드</strong>를 캡처할 수 있는 통합 캠페인 관리 도구 <strong>LabRat</strong>을 제공하였다. 수사를 통해 LabHost와 연계된 <strong>최소 40,000개의 피싱 도메인</strong>과 <strong>전 세계 약 10,000명의 사용자</strong>가 확인되었다.</p>
+<h2 id="_2">배경</h2>
+<p>사이버범죄서비스형(CaaS)은 위협 행위자가 다른 사이버범죄자에게 공격 도구, 전문성, 서비스를 임대하거나 판매하여 공격을 수행하게 하는, 범죄 환경에서 급성장하는 비즈니스 모델이 되었다. 이 모델은 랜섬웨어 그룹(예: <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Operation Cronos / LockBit</a>)에서 잘 정립되어 있지만, 피싱과 같은 사이버범죄의 다른 영역에서도 채택되어 왔다. LabHost는 피싱을 상품화하여 맞춤형, 클릭 배포 가능한 키트를 제공하였으며, 구독 단계별로 금융기관, 우편 배송 서비스, 통신사업자를 포함한 다양한 타깃군에 대한 접근 권한을 부여하였다.</p>
+<p>LabHost가 특히 파괴적이었던 점은 통합 캠페인 관리 도구 <strong>LabRat</strong>으로, 이를 통해 사이버범죄자들은 자신의 공격을 실시간으로 모니터링하고 통제할 수 있었다. LabRat은 <strong>이중인증 코드와 자격증명</strong>을 캡처하도록 특별히 설계되어, 범죄자들이 강화된 보안 조치를 우회할 수 있도록 하였다.</p>
+<h2 id="_3">참여 당사자</h2>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>주관 기관</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>호주</td>
+<td>호주연방경찰 주도 합동치안사이버범죄조정센터(AFP / JPC3); 빅토리아 경찰, 퀸즐랜드 경찰청, NSW 경찰, WA 경찰과 합동(Operation Nebulae)</td>
+</tr>
+<tr>
+<td>오스트리아</td>
+<td>형사정보국(Bundeskriminalamt)</td>
+</tr>
+<tr>
+<td>벨기에</td>
+<td>브뤼셀 연방사법경찰</td>
+</tr>
+<tr>
+<td>캐나다</td>
+<td>캐나다 왕립기마경찰(RCMP)</td>
+</tr>
+<tr>
+<td>체코</td>
+<td>형사경찰수사국</td>
+</tr>
+<tr>
+<td>에스토니아</td>
+<td>에스토니아 경찰·국경수비청</td>
+</tr>
+<tr>
+<td>핀란드</td>
+<td>국가경찰(Poliisi)</td>
+</tr>
+<tr>
+<td>아일랜드</td>
+<td>안 가르다 시오하나(An Garda Síochána)</td>
+</tr>
+<tr>
+<td>리투아니아</td>
+<td>리투아니아 경찰</td>
+</tr>
+<tr>
+<td>몰타</td>
+<td>몰타 경찰청</td>
+</tr>
+<tr>
+<td>네덜란드</td>
+<td>중부 네덜란드 경찰(Politie Midden-Nederland)</td>
+</tr>
+<tr>
+<td>뉴질랜드</td>
+<td>뉴질랜드 경찰</td>
+</tr>
+<tr>
+<td>폴란드</td>
+<td>사이버범죄대응중앙국(Centralne Biuro Zwalczania Cyberprzestępczości)</td>
+</tr>
+<tr>
+<td>포르투갈</td>
+<td>사법경찰(Polícia Judiciária)</td>
+</tr>
+<tr>
+<td>루마니아</td>
+<td>루마니아 경찰(Poliția Română)</td>
+</tr>
+<tr>
+<td>스페인</td>
+<td>국가경찰(Policía Nacional)</td>
+</tr>
+<tr>
+<td>스웨덴</td>
+<td>스웨덴 경찰청(Polisen)</td>
+</tr>
+<tr>
+<td>영국</td>
+<td>런던 경시청(주도)</td>
+</tr>
+<tr>
+<td>미국</td>
+<td>미국 비밀경호국(USSS) + FBI(미국 연방수사국)</td>
+</tr>
+<tr>
+<td>조정</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol 유럽사이버범죄센터(EC3)</a> + 합동사이버범죄대응팀(J-CAT)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_4">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>일자</th>
+<th>사건</th>
+<th>출처</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2023년 9월</td>
+<td>Europol(유럽 경찰청)이 사건 지원 시작</td>
+<td>Europol 2024-04-18</td>
+</tr>
+<tr>
+<td>(일자 미기재)</td>
+<td>19개 참여국 전원과 함께 Europol 본부에서 운영 스프린트 진행, 각 관할에서 LabHost 사용자 및 피해자 식별</td>
+<td>Europol 2024-04-18</td>
+</tr>
+<tr>
+<td>2024-04-14~2024-04-17</td>
+<td>작전일: 전 세계 70건 수색; 37명 체포; LabHost 개발자 포함 영국 내 4명 체포; Europol 전문가가 네덜란드 국가경찰에 현장 배치</td>
+<td>Europol 2024-04-18</td>
+</tr>
+<tr>
+<td>2024-04-17</td>
+<td>호주(Operation Nebulae, AFP JPC3 + 빅토리아/퀸즐랜드/NSW/WA 경찰): 5개 주(빅토리아 14건, 퀸즐랜드 2건, NSW 3건, 남호주 1건, 서호주 2건)에 걸쳐 22건의 압수수색영장 집행, AFP 및 주·준주 경찰관 200명 이상 투입; 5명 체포(LabHost 사용자 혐의 사이버범죄로 멜버른 1명 + 애들레이드 1명; 마약 혐의로 멜버른 3명 추가); 207개 범죄용 서버 폐쇄</td>
+<td>AFP 2024-04-18</td>
+</tr>
+<tr>
+<td>2024-04-18</td>
+<td>Europol 공개 발표; LabHost 플랫폼 폐쇄. AFP가 빅토리아/퀸즐랜드/NSW/WA 경찰과 합동 보도자료로 호주 측 작전 발표</td>
+<td>Europol &amp; AFP 2024-04-18</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_5">결과 및 영향</h2>
 <ul>
-<li>37 arrests during 2024-04-14 → 2024-04-17 action days</li>
-<li>70 addresses searched across the world</li>
-<li>4 arrests in the United Kingdom linked to the running of the site, including LabHost's original developer</li>
-<li>LabHost platform shut down (previously available on the open web)</li>
-<li>≥40,000 phishing domains linked to LabHost; ~10,000 users worldwide</li>
-<li>LabRat campaign-management tool with 2FA-code capture capability disrupted</li>
-<li>Australia (Operation Nebulae, AFP JPC3): 5 arrests, 22 search warrants across 5 states (14 VIC, 2 QLD, 3 NSW, 1 SA, 2 WA), 207 criminal servers taken down, 100+ Australian suspects identified, 94,000+ Australian victims targeted, AUD 28 million estimated Australian harm</li>
+<li>2024-04-14 ~ 2024-04-17 작전일 동안 <strong>37명 체포</strong>.</li>
+<li>전 세계에서 <strong>70개 주소 수색</strong>.</li>
+<li>사이트 운영과 연결된 <strong>영국 내 4명 체포</strong>, <strong>LabHost 원개발자 포함</strong>.</li>
+<li><strong>LabHost 플랫폼 폐쇄</strong>(기존에는 공개 웹에서 이용 가능).</li>
+<li>LabHost와 연계된 <strong>40,000개 이상의 피싱 도메인</strong>.</li>
+<li><strong>전 세계 약 10,000명의 LabHost 사용자</strong>.</li>
+<li><strong>LabRat 2FA 캡처 도구</strong> 무력화.</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h3 id="operation-nebulae-afp-jpc3">호주 (Operation Nebulae — AFP JPC3 + 주 경찰)</h3>
+<p>2024-04-18 자 <a href="../../wiki/sources/2024-04-18_afp-gov-au_global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing.html" class="wikilink">AFP 합동 보도자료</a>(빅토리아 경찰, 퀸즐랜드 경찰청, NSW 경찰, WA 경찰과 합동 발표)에 따르면:</p>
 <ul>
-<li>체포: <strong>37명</strong> (피의자 규모)</li>
-<li>도메인 압수/차단: <strong>40,000개</strong></li>
+<li>2024-04-17 <strong>호주 내 5명 체포</strong> — 멜버른 남성 1명 + 애들레이드 남성 1명이 LabHost 사용자 혐의로 사이버범죄 혐의 기소; 영장 집행 중 멜버른 남성 3명이 추가로 마약 관련 혐의로 기소.</li>
+<li>5개 주에 걸쳐 <strong>호주 내 22건의 압수수색영장</strong> 집행: 빅토리아 14건, 퀸즐랜드 2건, NSW 3건, 남호주 1건, 서호주 2건. AFP 및 주·준주 경찰관 200명 이상 투입.</li>
+<li>AFP JPC3에 의해 <strong>207개 범죄용 서버 폐쇄</strong>(LabHost가 생성한 사기 피싱 웹사이트를 호스팅하던 서버).</li>
+<li>호주 피해자를 표적으로 한 <strong>호주 내 LabHost 사용 용의자 100명 이상 식별</strong>.</li>
+<li>LabHost 피싱 캠페인을 통해 <strong>94,000명 이상의 호주인이 표적</strong>이 됨.</li>
+<li>도난당한 호주 자격증명 판매로 호주인에게 발생한 잠재적 피해 추정액 <strong>호주달러 2,800만</strong>(AFP 사이버사령부 부보좌관 Chris Goldsmid).</li>
+<li>LabHost 기원 귀속(AFP): "2021년 캐나다에서 시작되어 북미를 표적으로 하였으며, 영국(UK)과 아일랜드로 확장한 후 글로벌화. 호주 범죄자들이 상위 3개 사용국 안에 드는 것으로 추정된다."</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Uk Metropolitan Police</p>
-<p><strong>조정기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Europol Ec3, Uk Metropolitan Police, Fbi, Us Secret Service, Australia Afp, Canada Rcmp, Ireland Garda</p>
-<p><strong>참여국:</strong> United Kingdom, United States, Australia, Austria, Belgium, Canada, Czechia, Estonia, Finland, Ireland 외 9개</p>
-<h2 id="_7">법적 근거</h2>
+<h2 id="_6">활용된 협력 메커니즘</h2>
+<p>해당 보도자료는 이 작전에 대한 세 가지 별개의 국제공조 메커니즘 유형을 기술한다:</p>
+<ol>
+<li><strong>Europol 합동사이버범죄대응팀(J-CAT)</strong> — Europol 본부에 설치된 다자 조정 도구로, 19개국 합동 작전일 기획 및 실행을 위한 제도적 장(場)을 제공한다.</li>
+<li><strong>Europol EC3 운영 스프린트</strong> — 본부에서 모든 참여국과 함께 진행한 작전일 이전 정보 개발 메커니즘으로, 각 참여 관할의 LabHost 사용자 및 피해자를 식별하기 위한 것이다.</li>
+<li><strong>작전 단계 Europol 전문가의 현장 배치</strong> — 네덜란드 국가경찰에 대한 배치로, <a href="../../wiki/operations/eurojust-100m-crypto-investment-fraud-takedown-2025.html" class="wikilink">2025년 Eurojust 1억 유로 암호화폐 투자사기 단속</a>에서 포르투갈에 배치된 Europol 암호화폐 전문가와 구조적으로 유사한 메커니즘이나, 본 사건에서는 암호자산 인프라가 아닌 피싱 플랫폼 인프라에 적용되었다.</li>
+</ol>
+<h2 id="_7">한국의 참여</h2>
+<p>한국은 인용된 Europol 보도자료에서 19개 참여 관할에 명시되어 있지 않다. 본 사건은 PhaaS 상품화 패턴과 19개국 J-CAT 작전일 모델로서 위키에 기록된다. 전 세계 약 10,000명의 사용자/약 40,000개 도메인 규모를 고려할 때 한국이 LabHost 연계 피싱 캠페인에 노출되었을 가능성은 <em>높다(likely)</em>고 판단되나, 이 출처에는 열거되어 있지 않다.</p>
+<h2 id="_8">모순점 및 미해결 문제</h2>
 <ul>
-<li>Per-country domestic search-and-arrest warrants executed under the lead authority's domestic procedural code</li>
-<li>Europol J-CAT (Joint Cybercrime Action Taskforce, hosted at Europol HQ) as the supporting multilateral coordination instrument</li>
-<li>Europol EC3 operational sprint at HQ with all 19 participating countries; Europol specialist on-site deployment to Dutch National Police during the action phase</li>
+<li>Europol 1차 출처와 AFP 합동 보도자료 모두 LabHost 원개발자 또는 다른 영국 체포자 3명의 신원을 명시하지 않는다.</li>
+<li>AFP 합동 보도자료는 "94,000명 이상 호주 피해자" 수치를 1차 출처(tier-1) 귀속으로 확인하나, 나머지 18개 참여 관할의 국가별 피해자 총수는 두 1차 출처 어디에도 열거되어 있지 않다.</li>
+<li>CNN 등 2차 보도의 구체적 은행카드/PIN/비밀번호 총수치(48만/6만 4천/100만 이상)는 인용된 두 1차 출처 어디에도 열거되어 있지 않다.</li>
+<li>체포 후 기소 일정, 기소 건수, 양형 일정은 AFP 보도자료에 명시된 사이버범죄 혐의 호주인 2명과 마약 혐의 호주인 3명 이외에는 열거되어 있지 않다.</li>
+<li><strong>LabHost 구독 가격 불일치</strong>: Europol 1차 출처는 "월 평균 249달러"라고 기재한 반면, AFP 보도자료는 "월 270달러까지 낮은 가격"이라고 기재한다. 두 수치는 단계별 가격 범위(249달러 평균 / 270달러 입문 단계)로 조정될 수 있으나, 두 1차 출처 어디에도 이를 명시적으로 조정하지 않는다.</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2024-04-18</li>
-<li><strong>개시:</strong> 2024-04-14</li>
-<li><strong>종료:</strong> 2024-04-17</li>
-</ul>
-<h2 id="_9">결과 및 영향</h2>
-<ul>
-<li><strong>37명</strong> 체포</li>
-<li><strong>40,000개</strong> 도메인 압수/차단</li>
-<li>37 arrests during 2024-04-14 → 2024-04-17 action days</li>
-<li>70 addresses searched across the world</li>
-<li>4 arrests in the United Kingdom linked to the running of the site, including LabHost's original developer</li>
-<li>LabHost platform shut down (previously available on the open web)</li>
-<li>≥40,000 phishing domains linked to LabHost; ~10,000 users worldwide</li>
-<li>LabRat campaign-management tool with 2FA-code capture capability disrupted</li>
-<li>Australia (Operation Nebulae, AFP JPC3): 5 arrests, 22 search warrants across 5 states (14 VIC, 2 QLD, 3 NSW, 1 SA, 2 WA), 207 criminal servers taken down, 100+ Australian suspects identified, 94,000+ Australian victims targeted, AUD 28 million estimated Australian harm</li>
-</ul>
-<h2 id="_10">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">Search Seizure</a></li>
-<li><a href="../../wiki/mechanisms/domain-seizure.html" class="wikilink">Domain Seizure</a></li>
-<li><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 협력</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.0</strong> | 출처: 2건</p>
-</blockquote></div>
+<h2 id="_9">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>발행처</th>
+<th>일자</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td><a href="../../wiki/sources/2024-04-18_europol_international-investigation-disrupts-phishing-service-platform-labhost.html" class="wikilink">International investigation disrupts phishing-as-a-service platform LabHost</a></td>
+<td>Europol</td>
+<td>2024-04-18</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/international-investigation-disrupts-phishing-service-platform-labhost" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/international-investigation-disrupts-phishing-service-platform-labhost" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/international-investigation-disrupts-phishing-service-platform-labhost" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td><a href="../../wiki/sources/2024-04-18_afp-gov-au_global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing.html" class="wikilink">Global sting sees Australian offenders arrested for cybercrime and phishing attacks</a></td>
+<td>Australian Federal Police (빅토리아 경찰, 퀸즐랜드 경찰청, NSW 경찰, WA 경찰과 합동)</td>
+<td>2024-04-18</td>
+<td><a href="https://www.afp.gov.au/news-centre/media-release/global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing" target="_blank" rel="noopener noreferrer" title="https://www.afp.gov.au/news-centre/media-release/global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing" data-full-url="https://www.afp.gov.au/news-centre/media-release/global-sting-sees-australian-offenders-arrested-cybercrime-and-phishing" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Between <strong>14 and 17 April 2024</strong>, a <strong>UK London Metropolitan Police-led</strong> international investigation, supported by <strong>Europol's European Cybercrime Centre (EC3)</strong> and the <strong>Joint Cybercrime Action Taskforce (J-CAT)</strong> hosted at Europol HQ, executed <strong>70 searches</strong> across <strong>19 countries</strong> producing <strong>37 arrests</strong> — including <strong>4 individuals in the United Kingdom</strong> linked to the running of the site, <strong>including LabHost's original developer</strong>. The <strong>LabHost phishing-as-a-service (PhaaS) platform</strong> was shut down. LabHost provided cybercriminals with a subscription-based ($249/month average) menu of phishing kits, infrastructure for hosting fake pages, <strong>170+ fake-website templates</strong>, and the <strong>LabRat</strong> integrated campaign-management tool capable of capturing <strong>two-factor authentication (2FA) codes</strong>. The investigation uncovered <strong>at least 40,000 phishing domains</strong> linked to LabHost and <strong>~10,000 users worldwide</strong>.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>

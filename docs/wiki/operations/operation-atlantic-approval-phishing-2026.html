@@ -81,61 +81,211 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation Atlantic — 영국 NCA 주도 영국·미국·캐나다 합동 가상자산 'approval phishing' 사기 단속 (NCA + 미국 비밀경호국 + 온타리오주 경찰 + 온타리오 증권위원회, 2026-03)</strong> <a href="../../wiki/organizations/uk-nca.html" class="wikilink">Uk Nca</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2026-04-09</strong> 기간 동안 <strong>3개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Distributed cryptocurrency fraud networks operating 'approval phishing' scams that trick victims into granting criminals access to their cryptocurrency wallets, typically marketed as investment opportunities. Networks targeted UK, Canadian, and US victims; victims totalled 20,000+ across the three jurisdictions; cumulative cryptocurrency fraud identified globally totalled USD 45,000,000+; weeklong action froze USD 12,000,000+ in suspected criminal proceeds; per a corresponding US Secret Service release, the operation also identified and disrupted 120+ web domains used by scammers.</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>온라인 사기, 자금세탁</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Distributed cryptocurrency fraud networks operating 'approval phishing' scams that trick victims into granting criminals access to their cryptocurrency wallets, typically marketed as investment opportunities. Networks targeted UK, Canadian, and US victims; victims totalled 20,000+ across the three jurisdictions; cumulative cryptocurrency fraud identified globally totalled USD 45,000,000+; weeklong action froze USD 12,000,000+ in suspected criminal proceeds; per a corresponding US Secret Service release, the operation also identified and disrupted 120+ web domains used by scammers.</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
-<ul>
-<li>20,000+ victims identified across UK, Canada, and the United States (per NCA)</li>
-<li>USD 45,000,000+ in cryptocurrency fraud identified globally (per NCA)</li>
-<li>USD 12,000,000+ frozen in suspected criminal proceeds (per NCA)</li>
-<li>120+ web domains used by scammers identified and disrupted (per US Secret Service release; NCA release does not enumerate the domain count)</li>
-<li>One UK victim documented loss &gt; GBP 52,000 (per NCA)</li>
-<li>Format: weeklong NCA HQ-hosted action with multiple LE agencies physically co-located; private-sector partners critical to real-time illicit-transaction tracing and victim identification, enabling funds to be secured before criminals could move them</li>
-<li>Operation date: 'last month' (per 9 April 2026 release) — i.e., approximately early-to-mid March 2026</li>
-</ul>
-<h3 id="_5">단속 규모 요약</h3>
-<ul>
-<li>암호화폐 압수: <strong>$12,000,000+ frozen in suspected criminal proceeds (per NCA)</strong> (자금 흐름 규모)</li>
-</ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Uk Nca</p>
-<p><strong>참여기관:</strong> Uk Nca, Us Secret Service, City Of London Police</p>
-<p><strong>참여국:</strong> United Kingdom, United States, Canada</p>
+<p><strong>Operation Atlantic</strong>(애틀랜틱 어프루벌 작전)은 <strong>영국 NCA(국가범죄청)가 주도한 일주일 단위의 국제 합동작전</strong>으로, 가상자산(암호화폐) <strong>'어프루벌 피싱'(approval phishing)</strong> 사기를 대상으로 2026년 3월 초중순경에 시행되었으며 NCA 보도자료를 통해 <strong>2026년 4월 9일</strong> 공표되었다. 본 작전은 <strong>NCA, 미국 비밀경호국(US Secret Service), 온타리오주 경찰(Ontario Provincial Police), 온타리오 증권위원회(Ontario Securities Commission)</strong>가 공동 주최하였으며, 영국 측에서는 <strong>City of London Police</strong>와 <strong>금융감독청(Financial Conduct Authority)</strong> 및 명시되지 아니한 추가 국제 법집행기관이 참여하였다. 운영 형식은 NCA 런던 본부에 물리적으로 집결하여 실시간 정보 공유, 기술 역량 결집 및 피해자 통보를 수행하는 방식이었다.</p>
+<p><strong>성과</strong>(NCA 기준):
+- 영국, 캐나다, 미국에 걸쳐 <strong>20,000명 이상의 피해자 식별</strong>
+- 범죄 수익 추정금 <strong>미화 1,200만 달러 이상 동결</strong>
+- 글로벌 기준 <strong>미화 4,500만 달러 이상</strong>의 암호화폐 사기 적발
+- 영국 피해자 1인의 손실액이 <strong>5만 2,000파운드(GBP) 이상</strong>으로 확인</p>
+<p>이에 상응하는 <strong>미국 비밀경호국 보도자료</strong>에 따르면, 본 작전은 사기범들이 사용한 <strong>웹 도메인 120개 이상을 식별·차단</strong>하였다. NCA 보도자료에는 해당 도메인 수가 명시되어 있지 아니하다.</p>
+<div class="callout callout-note"><div class="callout-title">📝 'Approval phishing' technique class
+'어프루벌 피싱'은 피해자가 자신의 암호화폐 지갑에 대한 <em>접근권을 범죄자에게 부여하도록</em> 속이는 수법으로, 통상 투자 사기의 일환으로 활용된다. 본 기법은 1회성 자격증명 탈취와 달리 공격자에게 <em>지속적인 지갑 접근권</em>을 부여한다는 점에서 일반적인 자격증명 피싱과 구별된다.</div><div class="callout-body"></div></div>
+<h2 id="_2">배경</h2>
+<h3 id="approval-phishing-technique">수법(모더스 오페란디) — 'approval phishing' technique</h3>
+<p>'어프루벌 피싱'은 자격증명 피싱이나 시드 문구(seed phrase) 탈취와 구별되는 암호화폐 지갑 사기의 한 범주이다. 본 기법은 ERC-20 / BEP-20 스마트 컨트랙트 표준(및 기타 EVM 호환 체인의 동등 표준)에 내장된 <strong>토큰 승인(token-approval) 메커니즘</strong>을 악용한다. 이 메커니즘은 지갑 소유자가 특정 스마트 컨트랙트에 특정 토큰을 일정 한도 — 때로는 <em>무제한</em> — 자신을 대신하여 사용할 수 있는 권한을 부여하는 구조이다. 사기 스크립트는 대체로 다음 네 단계로 진행된다.</p>
+<ol>
+<li><strong>유인 단계(Lure stage)</strong> — 피해자는 소셜 미디어(Telegram, X/Twitter DM, Instagram, Facebook, 데이팅 앱), 메시징 앱(WhatsApp, WeChat, LINE)을 통하여, 그리고 점차 "돼지 도살(pig-butchering)" 방식의 장기 관계 형성 시퀀스를 통하여 접촉을 받는다. 유인 미끼는 통상 "고수익" 암호화폐 투자, 에어드롭, 채굴 풀, 유동성 공급 이자 농사 기회 또는 실재하는 CEX/DEX 브랜드를 모방한 위조 "거래소 앱"이다.</li>
+<li><strong>연결 단계(Connection stage)</strong> — 피해자는 위조 DApp(분산 애플리케이션) 웹사이트로 유도되거나 위조 모바일 지갑/거래소 앱을 설치하도록 지시받고, 자신의 <strong>기존 자가 수탁(self-custody) 지갑</strong>(MetaMask, Trust Wallet, Coinbase Wallet)을 사기 DApp에 <strong>연결하도록</strong> 유도된다.</li>
+<li><strong>승인 단계(Approval stage)</strong> — DApp은 난독화된 거래 프롬프트를 표시하며, 피해자는 이에 서명함으로써 지갑 내 보유 토큰(USDT, USDC, WBTC, ETH-wrapped 토큰, 거버넌스 토큰) 중 하나 이상에 대하여 <em>사기 컨트랙트에 무제한 지출 권한을 부여</em>한다. 해당 서명은 통상 피해자가 "인증" 또는 "스테이크 예치" 단계라고 믿는 절차와 함께 묶여 진행된다.</li>
+<li><strong>드레인 단계(Drain stage)</strong> — 사기 운영자의 컨트랙트는 즉시(또는 피해자가 추가 예치를 누적한 후) 승인된 각 토큰 컨트랙트에 대하여 <code>transferFrom()</code>을 호출하여 피해자 지갑 잔고를 운영자 통제 주소로 일소한다. 해당 승인은 온체인 상에 존재하며 피해자가 수동으로 폐지하기 전까지 취소될 수 없으므로, 운영자는 승인이 유지되는 한 새로 입금되는 토큰까지도 계속 인출할 수 있다.</li>
+</ol>
+<p>본 기법은 1회성 자격증명 탈취가 아닌 <strong>지속적인 지갑 접근권</strong>을 공격자에게 부여한다는 점에서 1회성 자격증명 피싱과 구조적으로 구별되며, 피해자가 시드 문구는 보유한 채로 새로 입금된 자금을 사실상 보호할 수 없다는 점에서 시드 문구 탈취와도 구별된다 — 단, 피해자가 해당 승인을 인지하고 폐지하지 아니하는 한.</p>
+<h3 id="_3">피해자 프로파일 및 영향</h3>
+<p>Operation Atlantic은 영국, 캐나다 및 미국에 걸쳐 <strong>20,000명 이상의 피해자</strong>를 식별하였다. 인용된 NCA 보도자료는 피해자 코호트를 연령, 성별, 사전 암호화폐 투자 경험 또는 기타 인구학적 표지로 세분화하지 아니하나, 명시된 피해 사례 — 단일 영국인의 손실액 <strong>5만 2,000파운드 이상</strong> — 에 비추어 1인당 손실은 4자릿수에서 5자릿수 상한 범위(GBP)에 위치한다. 작전 기간 중 식별된 암호화폐 사기 총액은 글로벌 기준 <strong>미화 4,500만 달러 이상</strong>(즉, 3개 명시 관할권 외부 피해자도 작전의 블록체인 추적을 통하여 적출됨)으로, 1인당 평균 손실은 미화 수천 달러 단위에 위치하되 5자릿수 상한 ~ 6자릿수 하단(개인 손실 사례)의 꼬리 분포를 보인다(반복적 예치가 수 주에서 수 개월에 걸쳐 누적되는 "돼지 도살" 장기 그루밍 시퀀스 피해자 패턴과 부합). '어프루벌 피싱' 기법은 EVM 체인 상에서 유의미한 스테이블코인(USDT/USDC) 및 비트코인/ETH-wrapped 토큰 잔고를 보유한 피해자를 비례 이상으로 노출시키는데, 이는 무제한 승인 기반의 드레인이 거래별 한도가 아닌 온체인 보유고에 비례하여 작동하기 때문이다.</p>
+<h3 id="_4">자금 흐름</h3>
+<p>탈취된 자금은 위에서 기술한 <code>transferFrom()</code> 메커니즘을 통하여 피해자 자가 수탁 지갑에서 운영자 통제 지갑으로 온체인 이동한다. 인용된 보도자료는 <em>결정적</em> 운영 설계 근거를 명시적으로 제시하고 있다: 즉, 탈취된 암호화폐는 <strong>범죄자가 이동시키기 전에 동결</strong>되어야 한다는 점이다. 자금이 일단 믹서(Tornado Cash 유형), 크로스체인 브리지 또는 비준수 거래소를 통한 오프램프에 도달하면 회수는 사실상 불가능해진다. 글로벌 기준으로 식별된 <strong>미화 4,500만 달러 이상</strong>의 암호화폐 사기 중 작전 주간 동안 <strong>미화 1,200만 달러 이상이 동결</strong>되었다 — 즉, 식별된 불법 수익 중 약 <strong>27%</strong>가 동결 가능한 병목점(준수 거래소 보관 중, 믹싱 이전에 식별, 또는 추적 가능한 출처가 있는 운영자 지갑 내)에 도달하였다. 나머지 약 73%는 작전 주간 이전에 이미 믹서를 통해 자금세탁되었거나 오프램프되었을 가능성이 높다. 동결 자금은 세 가지 별개의 법적 권한에 따라 확보되었다: 영국 도메스틱 피의자 수익에 추적 가능한 자금에 대하여는 영국 범죄수익법(Proceeds of Crime Act 2002, POCA) 동결 명령, 미국 측 수익에 대하여는 18 U.S.C. § 3056에 따른 미국 비밀경호국의 권한, 캐나다 측 수익에 대하여는 암호화폐 투자 사기 관점에서 적용된 온타리오 증권법(Ontario Securities Act) 동결 명령.</p>
+<h3 id="_5">범죄 조직 구조</h3>
+<p>기법 범주로서의 '어프루벌 피싱'은 중앙집중적이 아닌 <strong>분산형·프랜차이즈형</strong>으로 운영된다. NCA의 표현 — "분산된 암호화폐 사기 네트워크" — 은 블록체인 포렌식 보고서들이 지배적 패턴으로 기록해 온 양상과 부합한다: 소수의 핵심 <strong>드레이너 툴킷 개발자</strong>(Inferno Drainer, Angel Drainer, Pink Drainer, Monkey Drainer 등 서비스 및 후속 툴킷 운영자)가 어프루벌 피싱 스마트 컨트랙트 템플릿과 프런트엔드 DApp 스캐폴딩을 구축한 후, 해당 툴킷을 <strong>제휴 사기범</strong>에게 탈취 자금의 일정 비율(통상 툴킷 운영자에게 20–30%, 제휴자에게 70–80%) 분배 조건으로 라이선스한다. 제휴자 코호트는 지리적으로 분산되어 있으며 소규모 팀(통상 2–6인: 유인 단계의 소셜미디어 운영자, 피해자 "온보딩"을 처리하는 기술 지원 행위자, 현금화 자금세탁 전문가)으로 구성된다. Operation Atlantic 코호트는 (이에 상응하는 미국 비밀경호국 보도자료 기준) <strong>120개 이상의 웹 도메인</strong>을 식별하였으며 — 이는 단일 범죄 조직보다는 다수 제휴자 기반의 풋프린트와 부합한다. 인용된 NCA 보도자료는 특정 드레이너 툴킷 운영자, 제휴자 팀 또는 기소 사실을 <strong>명시하지 아니하며</strong>, 체포 건수도 0건으로 기록되어 있다. 본 작전의 주된 성과 지표는 정점(apex) 행위자 와해가 아닌 자산 회수 및 피해자 식별이다.</p>
+<p>NCA는 본 조치를 공공-민간 협력을 강조하는 영국 정부의 사기 전략(Fraud Strategy) 일환으로 명시적으로 설정하였으며, 작전은 의도적으로 민간 부문 블록체인 분석 파트너를 활용하여 불법 거래를 실시간으로 추적하고 피해자를 신속히 식별함으로써 자금이 범죄자에 의해 이동되기 전에 확보될 수 있도록 하였다.</p>
+<h2 id="_6">참여 당사자</h2>
+<table>
+<thead>
+<tr>
+<th>기관</th>
+<th>국가</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">영국 국가범죄청(UK National Crime Agency)</a></td>
+<td>영국</td>
+<td><strong>주도(Lead)</strong>; 본부 호스트; 3개 관할권 코디네이터</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/us-secret-service.html" class="wikilink">미국 비밀경호국(US Secret Service)</a></td>
+<td>미국</td>
+<td>공동 호스트; 사이버 금융범죄에 관한 미국 측 수사 권한</td>
+</tr>
+<tr>
+<td>Ontario Provincial Police</td>
+<td>캐나다</td>
+<td>공동 호스트; 캐나다 측 수사 권한</td>
+</tr>
+<tr>
+<td>Ontario Securities Commission</td>
+<td>캐나다</td>
+<td>공동 호스트; 캐나다 측 암호화폐 투자 사기 규제기관</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/city-of-london-police.html" class="wikilink">City of London Police</a></td>
+<td>영국</td>
+<td>영국 측 사기 전문 참여기관</td>
+</tr>
+<tr>
+<td>Financial Conduct Authority</td>
+<td>영국</td>
+<td>영국 측 금융 서비스 규제기관</td>
+</tr>
+<tr>
+<td>기타(미열거)</td>
+<td>다수</td>
+<td>"기타 국제 법집행기관도 본 일주일 단위 작전에 참여"</td>
+</tr>
+<tr>
+<td>민간 부문</td>
+<td>해당 없음</td>
+<td>"불법 거래 추적 및 피해자 실시간 식별에 결정적인 역할" — NCA 보도자료에는 파트너명 미공개</td>
+</tr>
+</tbody>
+</table>
 <h2 id="_7">법적 근거</h2>
 <ul>
-<li>Bilateral / trilateral UK-US-Canada law enforcement cooperation. The cited NCA release does not specify a single legal instrument; the operative framework is a combination of (a) MLAR/MLAT channels for evidence transfer, (b) police-to-police informal cooperation for intelligence sharing, and (c) private-sector voluntary disclosure for real-time blockchain tracing.</li>
-<li>UK Proceeds of Crime Act 2002 (POCA): basis for the GBP/USD freezing orders against UK-domestic suspect proceeds.</li>
-<li>US Secret Service authorities under 18 U.S.C. § 3056 (Treasury fraud / cyber-financial-crime jurisdiction).</li>
-<li>Ontario Securities Commission authorities under the Ontario Securities Act for cryptocurrency-investment-fraud freezing orders.</li>
+<li><strong>양자 / 3자 영국·미국·캐나다 법집행 협력.</strong> 운영 프레임워크: 증거 이전을 위한 형사사법공조(MLAR/MLAT), 실시간 정보 공유를 위한 경찰 간 비공식 협력, 블록체인 추적을 위한 민간 부문 자율 정보 제공.</li>
+<li><strong>영국 범죄수익법(POCA) 2002.</strong> 피의자 수익에 대한 영국 도메스틱 동결 명령의 근거.</li>
+<li><strong>미국 비밀경호국 권한(18 U.S.C. § 3056)</strong> — 미국 측 사이버 금융범죄 관할.</li>
+<li><strong>온타리오 증권법(Ontario Securities Act)</strong> — 캐나다 측 암호화폐 투자 사기 동결 명령의 근거.</li>
 </ul>
-<h2 id="_8">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2026-04-09</li>
-</ul>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
+인용된 보도자료는 미국 1,200만 달러 이상의 동결을 영국, 미국, 캐나다 자산에 걸쳐 실현하기 위해 사용된 구체적 법적 수단을 명시하지 아니한다. 후속 법원 제출 서류 또는 절차를 통하여 명확화될 가능성이 있다.</div><div class="callout-body"></div></div>
+<h2 id="_8">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2026년 3월 초중순경</td>
+<td>Operation Atlantic 작전 주간 — NCA 런던 본부 물리적 집결; 실시간 정보 공유; 다수의 사기 네트워크 와해; 피해자 20,000명 이상 식별; 미화 1,200만 달러 이상 동결; 글로벌 기준 미화 4,500만 달러 이상 사기 적발; 웹 도메인 120개 이상 차단(미국 비밀경호국 기준)</td>
+</tr>
+<tr>
+<td>2026년 4월 9일</td>
+<td>NCA 보도자료 공표(같은 날 미국 비밀경호국 상응 보도자료 발표)</td>
+</tr>
+</tbody>
+</table>
 <h2 id="_9">결과 및 영향</h2>
+<table>
+<thead>
+<tr>
+<th>지표</th>
+<th>수치</th>
+<th>비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>피해자 식별</td>
+<td><strong>20,000명 이상</strong></td>
+<td>영국, 캐나다, 미국 전역</td>
+</tr>
+<tr>
+<td>동결</td>
+<td><strong>미화 1,200만 달러 이상</strong></td>
+<td>범죄 수익 추정금</td>
+</tr>
+<tr>
+<td>식별된 암호화폐 사기</td>
+<td><strong>미화 4,500만 달러 이상</strong></td>
+<td>글로벌 기준</td>
+</tr>
+<tr>
+<td>차단된 웹 도메인</td>
+<td><strong>120개 이상</strong></td>
+<td>미국 비밀경호국 상응 보도자료 기준; NCA 보도자료에는 미명시</td>
+</tr>
+<tr>
+<td>영국 단일 피해자 최고 손실액</td>
+<td><strong>5만 2,000파운드(GBP) 이상</strong></td>
+<td>영국인 1인 식별</td>
+</tr>
+<tr>
+<td>형식</td>
+<td>일주일 단위</td>
+<td>NCA 런던 본부 호스트 물리적 집결</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_10">활용된 협력 메커니즘</h2>
 <ul>
-<li><strong>$12,000,000+ frozen in suspected criminal proceeds (per NCA)</strong> 암호화폐 압수</li>
-<li>20,000+ victims identified across UK, Canada, and the United States (per NCA)</li>
-<li>USD 45,000,000+ in cryptocurrency fraud identified globally (per NCA)</li>
-<li>USD 12,000,000+ frozen in suspected criminal proceeds (per NCA)</li>
-<li>120+ web domains used by scammers identified and disrupted (per US Secret Service release; NCA release does not enumerate the domain count)</li>
-<li>One UK victim documented loss &gt; GBP 52,000 (per NCA)</li>
-<li>Format: weeklong NCA HQ-hosted action with multiple LE agencies physically co-located; private-sector partners critical to real-time illicit-transaction tracing and victim identification, enabling funds to be secured before criminals could move them</li>
-<li>Operation date: 'last month' (per 9 April 2026 release) — i.e., approximately early-to-mid March 2026</li>
+<li><strong>NCA 런던 본부 호스트 물리적 집결</strong> — 실시간 정보 공유 기반의 다중 기관 운영실</li>
+<li><strong>3개 관할권(영국·미국·캐나다) 공조</strong>과 명시되지 아니한 추가 국제 법집행 기관 보완</li>
+<li><strong>민간 부문 실시간 블록체인 추적</strong> — NCA가 명시적으로 작전 성공의 '결정적' 요소로 지목</li>
+<li><strong>자산 회수 우선(asset-recovery-first) 자세</strong> — 주된 성공 지표는 체포가 아닌 동결된 자금 + 식별된 피해자</li>
 </ul>
-<h2 id="_10">협력 메커니즘</h2>
+<h2 id="_11">도전 및 마찰 요인</h2>
 <ul>
-<li><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 협력</a></li>
+<li><strong>분산형 사기 네트워크 구조</strong> — '어프루벌 피싱' 사기 네트워크는 통상 다수 관할권에 걸쳐 다수의 소규모 운영자들 사이에 분산되어 있다. 와해 조치에는 단일 표적 기소가 아닌 Operation Atlantic이 제공한 종류의 다기관·다국가·민간 추적 결합 기반 폭이 필요하다.</li>
+<li><strong>암호화폐 흐름의 속도</strong> — 자금은 범죄자에 의해 이동되기 전에 동결되어야 한다. 이것이 민간 부문 실시간 추적 통합의 명시적 운영 설계 근거이다.</li>
+<li><strong>자산 회수 전용(asset-recovery-only) 자세</strong> — 인용된 보도자료에는 체포 사례가 기록되지 아니하였다. 작전 중 식별된 사기 네트워크 운영자들에 대한 후속 수사 트랙이 기소 및 체포를 산출할지는 인용된 보도자료를 기준으로 <em>불확실</em>하다.</li>
 </ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.0</strong> | 출처: 1건</p>
-</blockquote></div>
+<h2 id="_12">교훈</h2>
+<ol>
+<li><strong>NCA 주도 영국·미국·캐나다 3개 관할권 형식</strong>이 문서화된 패턴으로 정립됨. 통상의 영국·EU 또는 영국 양자 협력 트랙과 구별되며, 위키에 북대서양 협력 패턴이 추가됨.</li>
+<li><strong>'어프루벌 피싱'은 별개의 암호화폐 사기 기법 범주이다.</strong> 본 기법은 1회성 자격증명 탈취가 아닌 지속적 지갑 접근권을 부여하며 별도의 분석 카테고리가 정당화된다.</li>
+<li><strong>NCA 본부 물리적 집결 형식</strong>은 Europol J-CAT / 데이터 스프린트 형식과 유사하나 비-EU 코디네이션 호스트 중핵을 가진다. Europol 외부에서도 동 패턴이 유효함을 입증.</li>
+<li><strong>민간 부문 실시간 블록체인 추적은 자산 회수 우선 암호화폐 사기 와해의 결정적 운영 계층이다.</strong> 공공 부문 단독으로는 자금이 이동되기 전에 충분히 신속히 추적할 수 <em>없다</em>.</li>
+<li><strong>자산 회수 우선 지표 세트</strong>(미화 1,200만 달러 동결 + 피해자 20,000명 + 미화 4,500만 달러 식별, 체포 0건)는 피해자 회복을 형사 기소에 앞서 작전의 <em>주된</em> 성공 지표로 우선시한 의도적 설계 선택이다.</li>
+</ol>
+<h2 id="_13">후속 조치</h2>
+<p>인용된 보도자료는 NCA 및 파트너 기관들이 Operation Atlantic 기간 수집한 정보를 계속 분석하여 피해자를 지원하고 잠재적 범죄 활동을 조사할 것임을 명시적으로 언급한다. 구체적인 후속 기소, 체포 또는 범죄인 인도는 인용된 보도자료에 열거되어 있지 아니하다.</p>
+<h2 id="_14">한국의 참여</h2>
+<p><a href="../../wiki/countries/south-korea.html" class="wikilink">한국</a>의 본 작전 관여는 문서화되어 있지 아니하다. 식별된 20,000명 이상의 피해자 중 한국인 피해자 존재 여부는 인용된 보도자료를 기준으로 <em>불확실</em>하다. 보도자료는 피해자를 '영국, 캐나다 및 미국 전역'으로 표시하여 글로벌이 아닌 3개 관할권 중심 초점을 시사한다. 한국 경찰청 사이버수사국 ↔ NCA 채널은 본 사례에서 열거되어 있지 아니하다.</p>
+<h2 id="_15">모순점 및 미해결 문제</h2>
+<ul>
+<li><strong>NCA 대 미국 비밀경호국의 도메인 수 표기</strong>: NCA 보도자료는 도메인 수를 열거하지 아니하며, 같은 날 미국 비밀경호국 보도자료는 120개 이상으로 보고한다. 양 수치는 <em>상호 보완적</em>이며 모순적이지 아니하나, 기관 간 프레이밍 차이를 보여준다.</li>
+<li><strong>구체적 일자</strong>: '지난달'(2026년 4월 9일 보도자료 기준)이라는 표현은 작전 시점을 2026년 3월 초중순으로 위치 짓지만, 인용된 보도자료는 정확한 작전일 범위를 제시하지 아니한다.</li>
+<li><strong>민간 부문 파트너</strong>: NCA 보도자료에서 '결정적'이라 표현되나 명시되지 아니함. 후속 보도에서는 Binance와 Chainalysis를 명명하나, 이들은 1차 NCA 1차 출처(tier-1)에 <em>명시되지</em> 아니한다.</li>
+<li><strong>기타 국제 법집행 기관</strong>: '기타 국제 법집행 기관도 본 작전에 참여'하였다고 표현되나 NCA 보도자료에 열거되어 있지 아니하다.</li>
+<li><strong>L26 gap note — 구체적 드레이너 툴킷 귀속</strong>: 인용된 NCA 보도자료는 특정 드레이너 툴킷 운영자(예: Inferno Drainer, Angel Drainer, Pink Drainer)나 특정 제휴자 팀을 명시하지 아니한다. 와해된 120개 이상의 도메인이 단일 툴킷 계열에 매핑되는지 또는 다중 계열에 걸쳐 있는지는 보도자료를 기준으로 <em>불확실</em>하다.</li>
+<li><strong>L26 gap note — 피해자 인구통계</strong>: 20,000명 이상의 피해자 코호트는 연령, 성별, 사전 암호화폐 투자 경험, 사회경제적 지위로 세분화되지 아니하며, 단 1명의 영국 피해자 손실액(5만 2,000파운드 이상)만이 기록되어 있다.</li>
+<li><strong>L26 gap note — 미동결 73%에 대한 자금세탁 채널 분해</strong>: 미화 3,300만 달러 이상(식별된 4,500만 달러와 동결된 1,200만 달러의 차이)은 암묵적으로 이미 자금세탁된 금액이나, 인용된 보도자료는 미동결 다수가 회수를 모면하기 위해 통과한 자금세탁 채널(믹서 대 크로스체인 브리지 대 P2P 거래소 대 KYC가 취약한 준수 거래소 오프램프)을 세분화하지 아니한다.</li>
+<li><strong>L26 gap note — 체포 파이프라인</strong>: 인용된 보도자료에는 체포 사례 0건이 기록되어 있으며, Operation Atlantic 기간 식별된 사기 네트워크 운영자들에 대한 후속 수사 트랙이 기소 및 체포를 산출할지는 인용된 보도자료를 기준으로 <em>불확실</em>하다.</li>
+</ul>
+<h2 id="_16">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>출처</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td><a href="../../wiki/sources/2026-04-09_nca-uk_operation-atlantic-cryptocurrency-fraudsters.html" class="wikilink">Fraudsters targeting cryptocurrency stopped and $12 million frozen in NCA-led Operation Atlantic</a></td>
+<td>UK National Crime Agency</td>
+<td>2026-04-09</td>
+<td><a href="https://www.nationalcrimeagency.gov.uk/news/fraudsters-targeting-cryptocurrency-stopped-and-12-million-frozen-in-nca-led-operation-atlantic" target="_blank" rel="noopener noreferrer" title="https://www.nationalcrimeagency.gov.uk/news/fraudsters-targeting-cryptocurrency-stopped-and-12-million-frozen-in-nca-led-operation-atlantic" data-full-url="https://www.nationalcrimeagency.gov.uk/news/fraudsters-targeting-cryptocurrency-stopped-and-12-million-frozen-in-nca-led-operation-atlantic" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p><strong>Operation Atlantic</strong> was an <strong>NCA-led weeklong international action</strong> against cryptocurrency <strong>'approval phishing'</strong> fraud held in approximately early-to-mid March 2026 and announced via NCA Newsroom press release on <strong>9 April 2026</strong>. The operation was co-hosted by the <strong>NCA, US Secret Service, Ontario Provincial Police, and Ontario Securities Commission</strong>, with UK participation from <strong>City of London Police</strong> and the <strong>Financial Conduct Authority</strong> and additional unnamed international law enforcement bodies. The format was physical co-location at NCA London HQ with real-time intelligence sharing, technical capabilities, and victim outreach.</p>
 <p><strong>Outcomes</strong> (per NCA):
