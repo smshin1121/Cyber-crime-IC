@@ -80,60 +80,415 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Operation LadyBird -- Emotet Botnet Takedown</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2019 ~ 2021-04-25</strong> 기간 동안 <strong>8개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Emotet botnet infrastructure and operators</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>랜섬웨어, 악성코드</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Emotet botnet infrastructure and operators</p>
+<p>Operation LadyBird는 <strong>Emotet 봇넷(Emotet(악성코드/봇넷))</strong> — <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)</a>이 "세계에서 가장 위험한 악성코드"라고 묘사한 — 을 <strong>2021년 1월 27일</strong> 와해시킨 다국적 법집행 작전이다. 본 작전은 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a>와 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a>가 조정하였으며, <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">네덜란드 국가경찰(NHTCU)</a>과 독일의 BKA(독일 연방수사청, Bundeskriminalamt)가 주된 작전 주도 기관으로 기능하였다.</p>
+<p><strong>8개 국가</strong> — <a href="../../wiki/countries/netherlands.html" class="wikilink">네덜란드</a>, <a href="../../wiki/countries/germany.html" class="wikilink">독일</a>, <a href="../../wiki/countries/united-states.html" class="wikilink">미국</a>, <a href="../../wiki/countries/united-kingdom.html" class="wikilink">영국</a>, <a href="../../wiki/countries/france.html" class="wikilink">프랑스</a>, <a href="../../wiki/countries/ukraine.html" class="wikilink">우크라이나</a>, <a href="../../wiki/countries/canada.html" class="wikilink">캐나다</a>, <a href="../../wiki/countries/lithuania.html" class="wikilink">리투아니아</a> — 의 법집행 기관들은 약 <strong>700개의 명령통제(C2) 서버</strong>와 <strong>2,000개 이상의 도메인</strong>을 동시에 장악하고, 감염된 머신들을 법집행 통제 인프라로 우회시켰다.</p>
+<p>본 작전은 공공 기록상 가장 기술적으로 혁신적인 봇넷 테이크다운 중 하나이다: 단순히 인프라를 차단하는 대신, 법집행 기관은 Emotet 자체의 업데이트 메커니즘을 활용하여 전 세계 감염 머신에 제거 모듈을 배포하였고, 이는 <strong>2021년 4월 25일</strong> 활성화되어 악성코드를 제거하였다. 그러나 결과는 <strong>부분 성공</strong>으로 평가되는데, Emotet이 약 10개월 후인 2021년 11월에 TrickBot 인프라를 활용하여 재구축되어 다시 출현하였기 때문이다.</p>
+<h2 id="_2">배경</h2>
+<h3 id="emotet">Emotet의 진화</h3>
+<p>Emotet은 <strong>2014년</strong> 금융기관을 표적으로 한 뱅킹 트로이로 처음 등장하였다. 2017년경에는 정교한 <strong>악성코드형 서비스(Malware-as-a-Service, MaaS) 플랫폼</strong> — 침해된 시스템에 초기 접근을 제공하고 이를 다른 사이버범죄 집단에 판매하는 "로더(loader)" — 로 진화하였다. 주요 특징:</p>
+<ul>
+<li><strong>모듈식 아키텍처:</strong> 뱅킹 트로이(TrickBot), 랜섬웨어(Ryuk, Conti), 정보 탈취 도구 등 추가 페이로드 배포 가능</li>
+<li><strong>스팸 인프라:</strong> 세계 최대 규모의 스팸 봇넷 중 하나를 운영하며 매일 수백만 건의 악성 첨부 피싱 이메일 발송</li>
+<li><strong>다형성 코드:</strong> 다운로드마다 코드를 변경하여 백신 탐지 회피</li>
+<li><strong>회복력 있는 C2 네트워크:</strong> 중복 통신 채널을 가진 다수 국가 소재 수백 대의 서버</li>
+</ul>
+<h3 id="_3">위협의 규모</h3>
+<p>2020년까지 Emotet은 <strong>전 세계 약 160만 대의 컴퓨터</strong>를 감염시킨 것으로 추정된다(DOJ(미국 법무부) 추정으로 2020년 4월부터 2021년 1월 사이만 해도). 본 봇넷은 전 세계에서 가장 피해 규모가 큰 일부 랜섬웨어 공격의 진입 벡터로 기능하였으며, 총 피해액은 수억 달러로 추정된다. Europol(유럽 경찰청)은 이를 사이버범죄자들에게 "문을 열어주는 도구(door opener)"로 묘사하였다 — 초기 Emotet 감염은 제휴 범죄 집단에 의한 랜섬웨어 또는 뱅킹 트로이 배포로 이어졌다.</p>
+<h3 id="_4">수사의 기원</h3>
+<p>Emotet 인프라에 대한 수사는 약 <strong>2019년</strong> 시작되었으며, 네덜란드와 독일 당국이 본 봇넷의 전 세계적으로 분산된 C2 아키텍처 매핑을 주도하였다. 본 수사는 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a>가 지원한 <a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">공동수사팀(JIT)</a>을 통해 수행되었다.</p>
+<h2 id="_5">참여 당사자</h2>
+<h3 id="_6">주도 기관</h3>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>기관</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a></td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a> (NHTCU)</td>
+<td>인프라 인수; 업데이트 모듈 배포; 탈취된 자격 증명 복구</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/germany.html" class="wikilink">germany</a></td>
+<td>BKA(독일 연방수사청, Bundeskriminalamt)</td>
+<td>공동 주도; 독일 내 17대 C2 서버 압수; 검찰과 조정</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_7">조정 기관</h3>
+<table>
+<thead>
+<tr>
+<th>조직</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a></td>
+<td>작전 조정, 정보 교차매칭, 조정 센터</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a></td>
+<td>사법적 조정, JIT 지원</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_8">지원 기관</h3>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>기관</th>
+<th>역할</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></td>
+<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">fbi-cyber-division</a> / 미국 DOJ MDNC</td>
+<td>법률 지원; 미국 영토 내 인프라 압수</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a></td>
+<td>영국 국가범죄수사국(NCA)</td>
+<td>C2 서버 압수; 약 700대 서버 오프라인 보고</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/france.html" class="wikilink">france</a></td>
+<td>프랑스 국가경찰(Police Nationale)</td>
+<td>프랑스 관할권 내 인프라 압수</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/ukraine.html" class="wikilink">ukraine</a></td>
+<td>우크라이나 사이버경찰국</td>
+<td>하르키우(Kharkiv) 내 부동산 압수수색; 2명 피의자 체포</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/canada.html" class="wikilink">canada</a></td>
+<td>캐나다 왕립기마경찰(RCMP)</td>
+<td>인프라 압수 지원</td>
+</tr>
+<tr>
+<td><a href="../../wiki/countries/lithuania.html" class="wikilink">lithuania</a></td>
+<td>리투아니아 형사경찰국</td>
+<td>인프라 압수 지원</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_9">법적 근거</h2>
+<p>본 작전은 다수의 법적 협력 수단에 의존하였다:</p>
+<ul>
+<li><strong><a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">부다페스트 협약</a></strong> (제29-35조): 당사국 간 국경 간 증거 보전 및 제공 명령의 기본 법적 근거 제공</li>
+<li><strong><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">형사사법공조조약(MLAT)</a></strong>: 양자 MLAT를 통해 관할권 간 증거 공유 및 인프라 압수 가능</li>
+<li><strong><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">공동수사팀(JIT)</a></strong>: 네덜란드, 독일 및 기타 EU 참여국 간 실시간 증거 공유를 위해 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>를 통해 JIT 설치</li>
+<li><strong>EU 유럽수사명령(EIO)</strong>: EU 내부 사법 협력에 활용</li>
+</ul>
+<p>우크라이나 측 체포는 우크라이나 국내 형사절차에 따라 수행되었으며, 증거는 <a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">MLAT</a> 채널을 통해 공유되었다.</p>
+<h2 id="_10">작전 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>일자</th>
+<th>사건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>약 2019년</td>
+<td>수사 개시; 네덜란드 및 독일 당국이 Emotet C2 인프라 매핑 시작</td>
+</tr>
+<tr>
+<td>2020년</td>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>를 통한 JIT 설치; 다국가 인프라 식별 가속화</td>
+</tr>
+<tr>
+<td>2021년 1월 26일</td>
+<td>8개국 전반에 걸친 협력 행동의 날 준비 완료</td>
+</tr>
+<tr>
+<td><strong>2021년 1월 27일</strong></td>
+<td><strong>행동의 날</strong>: 모든 참여국에 걸쳐 약 700대 C2 서버와 2,000개 이상 도메인 동시 압수</td>
+</tr>
+<tr>
+<td>2021년 1월 27일</td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a>가 Emotet 자체 인프라를 통해 업데이트 모듈 배포; 감염 머신은 법집행 통제 서버로 우회</td>
+</tr>
+<tr>
+<td>2021년 1월 27일</td>
+<td>우크라이나 사이버경찰이 하르키우 내 부동산 압수수색; 2명 피의자 체포</td>
+</tr>
+<tr>
+<td>2021년 1월 27일</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a>와 <a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>가 작전을 공개 발표</td>
+</tr>
+<tr>
+<td>2021년 1월 27일</td>
+<td>DOJ(미국 법무부)가 Emotet 봇넷 와해 발표</td>
+</tr>
+<tr>
+<td>2021년 2월 17일</td>
+<td>네덜란드 경찰이 침해된 이메일 주소 430만 건 복구 발표; 피해자가 노출 여부를 확인할 수 있는 온라인 도구 출시</td>
+</tr>
+<tr>
+<td><strong>2021년 4월 25일</strong></td>
+<td>법집행 배포 제거 모듈 활성화; Emotet이 전 세계 감염 머신에서 자가 삭제</td>
+</tr>
+<tr>
+<td>2021년 11월</td>
+<td>Emotet 봇넷이 Conti 랜섬웨어 그룹에 의해 TrickBot 인프라를 활용해 재구축되어 재출현</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_11">결과 및 영향</h2>
+<h3 id="_12">즉각적 결과</h3>
+<table>
+<thead>
+<tr>
+<th>지표</th>
+<th>값</th>
+<th>출처</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>압수/무력화된 C2 서버</td>
+<td>약 700대</td>
+<td>NCA / Europol</td>
+</tr>
+<tr>
+<td>압수된 도메인</td>
+<td>2,000개 이상</td>
+<td>Europol</td>
+</tr>
+<tr>
+<td>압수된 독일 내 C2 서버</td>
+<td>17대</td>
+<td>BKA</td>
+</tr>
+<tr>
+<td>체포된 피의자</td>
+<td>2명(우크라이나)</td>
+<td>우크라이나 사이버경찰</td>
+</tr>
+<tr>
+<td>식별된 감염 머신</td>
+<td>160만 대(2020년 4월 - 2021년 1월)</td>
+<td>미국 DOJ</td>
+</tr>
+<tr>
+<td>복구된 침해 자격 증명</td>
+<td>이메일 주소 430만 건 + 비밀번호</td>
+<td>네덜란드 국가경찰</td>
+</tr>
+<tr>
+<td>피해자 통보</td>
+<td>제거 모듈을 통해 100만 대 이상 시스템 정화</td>
+<td>Europol</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_13">전략적 영향</h3>
+<ol>
+<li><strong>MaaS 생태계의 일시적 와해:</strong> Emotet의 테이크다운은 약 10개월간 랜섬웨어 운영자(Ryuk, Conti)들로부터 주된 초기 접근 벡터를 박탈하였다</li>
+<li><strong>선구적 피해자 구제:</strong> 감염 머신을 정화하기 위한 법집행 통제 업데이트 배포는 규모면에서 전례 없는 것이었으며 새로운 작전 템플릿을 수립하였다</li>
+<li><strong>정보 수확:</strong> 압수된 인프라와 자격 증명 데이터베이스는 광범위한 사이버범죄 생태계에 대한 광범위한 정보를 제공하였다</li>
+<li><strong>자격 증명 통보:</strong> 네덜란드 경찰은 잠재적 피해자가 자신의 이메일 자격 증명이 침해되었는지 확인할 수 있는 온라인 도구를 구축하였다</li>
+</ol>
+<h3 id="_14">한계</h3>
+<p>본 작전의 결과는 다음 이유로 <strong>부분 성공</strong>으로 평가된다:
+- <strong>2명</strong>만 체포되었으며(우크라이나), 어떠한 고위 Emotet 개발자나 운영자도 공개적으로 기소되지 않았다
+- 봇넷은 <strong>2021년 11월에 재출현</strong>하였으며, Conti 랜섬웨어 그룹과 연관된 행위자들이 TrickBot 인프라를 통해 재구축하였다
+- 재출현은 핵심 운영자에 대한 체포가 동반되지 않은 인프라 테이크다운이 일시적 와해만을 제공함을 입증한다</p>
+<h2 id="_15">활용된 협력 메커니즘</h2>
+<table>
+<thead>
+<tr>
+<th>메커니즘</th>
+<th>적용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">joint-investigation-team</a></td>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>를 통한 네덜란드, 독일 및 기타 EU 국가 간 공동수사팀(JIT)</td>
+</tr>
+<tr>
+<td><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">europol-jit</a></td>
+<td>Europol(유럽 경찰청)이 작전 조정 센터 운영; 교차매칭 분석 제공</td>
+</tr>
+<tr>
+<td><a href="../../wiki/mechanisms/mutual-legal-assistance.html" class="wikilink">mutual-legal-assistance</a></td>
+<td>국경 간 증거 공유 및 인프라 압수에 MLAT(형사사법공조조약) 활용</td>
+</tr>
+<tr>
+<td><a href="../../wiki/mechanisms/24-7-network.html" class="wikilink">24-7-network</a></td>
+<td>인프라 매핑 단계 중 긴급 보전 요청을 위해 사용 가능</td>
+</tr>
+<tr>
+<td>DNS 싱크홀링</td>
+<td>법집행이 C2 트래픽을 통제된 서버로 우회</td>
+</tr>
+<tr>
+<td>피해자 통보</td>
+<td>네덜란드 경찰이 침해 자격 증명 확인 도구 공개; 제거 모듈 배포</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_16">기술적 혁신: 제거 모듈</h3>
+<p>Operation LadyBird의 가장 기술적으로 두드러진 측면은 Emotet 자체의 업데이트 메커니즘을 통해 법집행이 만든 DLL("EmotetLoader.dll")을 배포한 것이다. 이 모듈은:</p>
+<ol>
+<li>C2 인프라가 압수된 후 감염된 머신으로 푸시되었다</li>
+<li><strong>2021년 4월 25일</strong>로 시간 지연 활성화가 설정되어 있어 ISP와 CERT가 영향을 받은 조직에 통보할 약 3개월의 기간을 부여하였다</li>
+<li>활성화 시 모든 Emotet 관련 서비스를 삭제하고, 레지스트리 키를 제거하며, 실행 중인 프로세스를 종료한 후 자체 삭제되었다</li>
+<li>이 접근은 봇넷 자체 인프라를 통해 배포된 법집행 통제 업데이트가 대규모로 피해자를 보호하기 위해 운영적으로 사용된, 최초로 광범위하게 문서화된 사례였다</li>
+</ol>
+<h2 id="_17">도전 및 마찰 요인</h2>
+<ul>
+<li><strong>관할권의 복잡성:</strong> Emotet의 C2 인프라는 수십 개국에 걸쳐 있었다; 8개 관할권 전반의 동시 조치를 조정하는 데에는 광범위한 준비가 필요하였다</li>
+<li><strong>대규모 피해자 통보:</strong> 160만 대 감염 머신을 통보하고 정화를 보장하는 것은 물류적 도전이었다</li>
+<li><strong>"경찰 악성코드"의 법적 권한:</strong> 피해자 머신에 제거 모듈을 배포하는 것은, 구제 목적이라 할지라도, 법집행이 제3자 시스템을 수정할 권한에 대한 법적 의문을 제기하였다</li>
+<li><strong>범죄 네트워크의 회복력:</strong> 테이크다운에도 불구하고 기저 범죄 운영자들은 10개월 이내에 봇넷을 재구축할 지식과 관계를 유지하였다</li>
+</ul>
+<h2 id="_18">교훈</h2>
+<ol>
+<li><strong>인프라 압수는 필요조건이나 충분조건은 아니다:</strong> 핵심 개발자와 운영자를 체포하지 않으면 범죄 네트워크는 재구축될 수 있다. 2021년 11월의 Emotet 재출현은 봇넷 테이크다운이 보완적인 체포 작전을 요구함을 입증하였다</li>
+<li><strong>공동수사팀(JIT)이 혁신적 작전을 가능케 한다:</strong> 공동수사팀(JIT) 구조는 관할권 전반에 걸친 법집행 통제 업데이트 모듈의 전례 없는 배포를 용이하게 하였다</li>
+<li><strong>대규모 피해자 구제는 실현 가능하다:</strong> 시간 지연 제거 접근은 법집행이 전 세계적으로 피해자 머신을 구제할 수 있음을 입증하였으나, 권한과 책임에 관한 거버넌스 의문을 제기한다</li>
+<li><strong>민관 협력이 필수적이다:</strong> ISP, CERT, 보안 업체는 제거 모듈 활성화 전 3개월 기간 동안의 피해자 통보에서 핵심적 역할을 수행하였다</li>
+<li><strong>향후 작전을 위한 템플릿:</strong> Operation LadyBird의 접근은 <a href="../../wiki/operations/operation-endgame-phase1.html" class="wikilink">Operation Endgame</a>(2024)을 포함한 후속 봇넷 작전에 직접적 영향을 미쳤다</li>
+</ol>
+<h2 id="_19">한국의 참여</h2>
+<p>한국은 Operation LadyBird의 <strong>8개 참여국에 포함되지 않았다</strong>. 그러나 본 작전은 다음과 같은 측면에서 한국의 사이버 보안 이익과 관련이 있다:</p>
+<ul>
+<li><strong>한국 내 Emotet 감염:</strong> 한국은 Emotet C2 인프라가 식별된 국가들 중 하나였으나, 주된 호스팅 위치는 아니었다</li>
+<li><strong>하류 랜섬웨어 영향:</strong> Emotet은 Ryuk 및 Conti 랜섬웨어의 주된 전달 메커니즘으로 기능하여 한국 조직들의 노출을 야기하였다</li>
+<li><strong>TrickBot 연결고리:</strong> 테이크다운 이후 Emotet 재구축에 사용된 악성코드인 TrickBot의 추정 개발자가 2022년 한국에서 체포되었으며, 이는 한국이 광범위한 사이버범죄 집행 생태계에서 차지하는 역할을 보여준다</li>
+<li><strong>작전 템플릿:</strong> Operation LadyBird에서 입증된 협력 모델은 한국이 참여한 후속 작전, 예컨대 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> 조정의 <a href="../../wiki/operations/phobos-8base-crackdown.html" class="wikilink">Phobos/8Base 단속</a>(2025) 등에 적용되었다</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 한국의 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> J-CAT(공동 사이버범죄 행동 태스크포스, Joint Cybercrime Action Taskforce) 참여는 봇넷 작전에 관한 정보 공유 채널을 제공하나, Operation LadyBird 당시 한국은 J-CAT 참여국이 아니었다.</div><div class="callout-body"></div></div>
+<h2 id="_20">모순점 및 미해결 문제</h2>
+<ol>
+<li>
+<p><strong>체포 인원 불일치:</strong> Europol과 DOJ 보도자료는 정확한 체포 인원을 명시하지 않고 "와해"에 초점을 둔다. 우크라이나 사이버경찰은 하르키우에서 2명 체포를 보고하였으나, 일부 미디어 소스는 더 높은 수치를 보고하였다. 1차 출처 일관성에 근거할 때 2명 체포 수치가 가장 잘 뒷받침된다.</p>
+</li>
+<li>
+<p><strong>서버 수의 변동:</strong> Europol은 "수백 대의 서버"를 보고하였고, 영국 NCA는 약 700대를 인용하였으며, BKA는 독일 내에 17대를 보고하였다. 이 수치는 호환된다(총 700대, 독일 내 17대). 그러나 정확한 수치는 백업/중계 노드 포함 여부에 따라 변동될 수 있다.</p>
+</li>
+<li>
+<p><strong>Emotet의 재출현과 운영자 정체성:</strong> 원본 Emotet의 동일 운영자가 TrickBot/Conti 인프라를 활용해 봇넷을 재구축하였을 수 있다. 그렇다면 우크라이나에서의 2명 체포는 핵심 개발 팀을 검거하지 못한 것이다. Emotet 운영자와 Conti 그룹의 관계는 미해결 문제로 남는다.</p>
+</li>
+<li>
+<p><strong>피해자 구제의 법적 권한:</strong> 피해자 머신에 제거 모듈을 배포하는 법적 근거는 관할권마다 다르다. 공개된 법적 이의 제기는 보고되지 않았으나, 본 관행은 비례성과 권한에 관한 미해결 의문을 제기한다.</p>
+</li>
+</ol>
+<div class="callout callout-warning"><div class="callout-title">⚠️ 결과 한정
+Operation LadyBird는 성공으로 널리 보도되었으나, <strong>일시적 와해</strong>에 그쳤다. 2021년 11월의 Emotet 재출현은 핵심 운영자에 대한 체포가 동반되지 않은 인프라 중심 테이크다운의 한계를 입증한다.</div><div class="callout-body"></div></div>
+<!-- SOURCE_ENRICHMENT_START -->
+
+<h2 id="source-coverage">Source Coverage</h2>
+<ul>
+<li>Europol, 2021-01-27: 전 세계 조치를 통해 와해된 세계에서 가장 위험한 악성코드 EMOTET.</li>
+<li>미국 법무부 (공보실), 2021-01-27: 국제 사이버 작전에서 와해된 Emotet 봇넷.</li>
+<li>Eurojust, 2021-01-27: 위험한 악성코드 시스템 와해를 위한 주요 작전.</li>
+<li>미국 노스캐롤라이나 중부지구 연방검찰청(DOJ), 2021-01-27: 국제 사이버 작전에서 와해된 Emotet 봇넷.</li>
+<li>미국 DOJ (OPA / M.D.N.C.), 2021-01-27: 국제 사이버 작전에서 와해된 Emotet 봇넷.</li>
+</ul>
+<h2 id="evidence-and-attribution-notes">Evidence and Attribution Notes</h2>
+<ul>
+<li>8개국 작전(NL, DE, US, UK, FR, LT, CA, UA)을 Europol/Eurojust가 조정.</li>
+<li>Emotet은 랜섬웨어와 뱅킹 트로이를 배포하는 '로더(loader)' MaaS로 운영됨.</li>
+<li>수백 대의 C2 서버 압수; 새로운 '내부로부터의(from the inside)' 인프라 테이크다운으로 묘사됨.</li>
+<li>미국 DOJ 추정: 2020년 4월 – 2021년 1월 사이 160만 대 컴퓨터 감염.</li>
+<li>미국 측 법률 지원과 미국 영토 내 인프라 압수 확인.</li>
+<li>Eurojust 발표가 JIT(공동수사팀) 지원 역할을 확인.</li>
+<li>네덜란드, 독일 및 기타 EU 참여국 간 사법 조정.</li>
+<li>Emotet 인프라 관련 민사 조치의 미국 측 관할로서 MDNC 확인.</li>
+</ul>
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+<h2 id="raw-source-highlights">Raw Source Highlights</h2>
+<ul>
+<li>미국 법무부 (공보실), 2021-01-27: Department of Justice title="About" title="News" title="Guidance &amp; Resources" Justice.gov Office of Public Affairs Emotet Botnet Disrupted In International Cyber Operation This is archived content from the U.S.</li>
+<li>미국 법무부 (공보실), 2021-01-27: ﻿"The Emotet malware and botnet infected hundreds of thousands of computers throughout the United States, including our critical infrastructure, and caused millions of dollars in damage to victims worldwide," said Acting Deputy Attorney General John Carlin.<blockquote>
+<p>(한국어 번역: "Emotet 악성코드와 봇넷은 핵심 인프라를 포함한 미국 전역의 수십만 대의 컴퓨터를 감염시켰으며, 전 세계 피해자들에게 수백만 달러의 피해를 일으켰다"고 존 칼린(John Carlin) 미국 법무부 차관 직무대행은 말했다.)</p>
 </blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
-<ul>
-<li>4.3 million compromised email addresses recovered by Dutch police</li>
-<li>Law enforcement deployed uninstall module to infected machines (activated 2021-04-25)</li>
-<li>Emotet botnet resurfaced in November 2021 via TrickBot infrastructure</li>
+</li>
+<li>미국 노스캐롤라이나 중부지구 연방검찰청(DOJ), 2021-01-27: Attorney's Office, Middle District of North Carolina Emotet Malware Infected More than 1.6 Million Victim Computers and Caused Hundreds of Millions of Dollars in Damage Worldwide WASHINGTON – The Justice Department today announced its participation in a multinational operation involving actions in the United States, Canada, France.</li>
+<li>미국 노스캐롤라이나 중부지구 연방검찰청(DOJ), 2021-01-27: "The Emotet malware and botnet infected hundreds of thousands of computers throughout the United States, including our critical infrastructure, and caused millions of dollars in damage to victims worldwide," said Acting Deputy Attorney General John Carlin.<blockquote>
+<p>(한국어 번역: "Emotet 악성코드와 봇넷은 핵심 인프라를 포함한 미국 전역의 수십만 대의 컴퓨터를 감염시켰으며, 전 세계 피해자들에게 수백만 달러의 피해를 일으켰다"고 존 칼린(John Carlin) 미국 법무부 차관 직무대행은 말했다.)</p>
+</blockquote>
+</li>
+<li>미국 DOJ (OPA / M.D.N.C.), 2021-01-27: Department of Justice title="About" title="News" title="Guidance &amp; Resources" Justice.gov Office of Public Affairs Emotet Botnet Disrupted In International Cyber Operation This is archived content from the U.S.</li>
+<li>미국 DOJ (OPA / M.D.N.C.), 2021-01-27: ﻿"The Emotet malware and botnet infected hundreds of thousands of computers throughout the United States, including our critical infrastructure, and caused millions of dollars in damage to victims worldwide," said Acting Deputy Attorney General John Carlin.<blockquote>
+<p>(한국어 번역: "Emotet 악성코드와 봇넷은 핵심 인프라를 포함한 미국 전역의 수십만 대의 컴퓨터를 감염시켰으며, 전 세계 피해자들에게 수백만 달러의 피해를 일으켰다"고 존 칼린(John Carlin) 미국 법무부 차관 직무대행은 말했다.)</p>
+</blockquote>
+</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
-<ul>
-<li>체포: <strong>2명</strong> (피의자 규모)</li>
-<li>서버 압수: <strong>700대</strong> (인프라 규모)</li>
-<li>도메인 압수/차단: <strong>2,000개</strong></li>
-</ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Netherlands Politie</p>
-<p><strong>조정기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Netherlands Politie, Europol Ec3, Eurojust, Fbi Cyber Division</p>
-<p><strong>참여국:</strong> Netherlands, Germany, United States, United Kingdom, France, Ukraine, Canada, Lithuania</p>
-<h2 id="_7">법적 근거</h2>
-<ul>
-<li>Budapest Convention</li>
-<li>Mutual Legal Assistance</li>
-</ul>
-<h2 id="_8">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2021-01-27</li>
-<li><strong>개시:</strong> 2019</li>
-<li><strong>종료:</strong> 2021-04-25</li>
-</ul>
-<h2 id="_9">결과 및 영향</h2>
-<ul>
-<li><strong>2명</strong> 체포</li>
-<li><strong>700대</strong> 서버 압수</li>
-<li><strong>2,000개</strong> 도메인 압수/차단</li>
-<li>4.3 million compromised email addresses recovered by Dutch police</li>
-<li>Law enforcement deployed uninstall module to infected machines (activated 2021-04-25)</li>
-<li>Emotet botnet resurfaced in November 2021 via TrickBot infrastructure</li>
-</ul>
-<h2 id="_10">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">공동수사팀(JIT)</a></li>
-<li><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Europol Jit</a></li>
-<li><a href="../../wiki/mechanisms/24-7-network.html" class="wikilink">24/7 네트워크</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>3.5</strong> | 출처: 4건</p>
-</blockquote></div>
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+<h2 id="canonical-operation-assessment">Canonical Operation Assessment</h2>
+<p>본 페이지는 피고인 특정 후속 조치가 아니라 Emotet 봇넷 인프라 및 운영자에 대한 테이크다운을 기술하므로 정본 작전으로 유지된다. 본 기록은 주도 책임을 Netherlands Politie에, 조정을 Europol Ec3에 귀속시키며, 참여 또는 영향 받은 관할권은 Netherlands, Germany, United States, United Kingdom, France, Ukraine, Canada, Lithuania로 기록된다.</p>
+<p>협력 모델은 명시된 기관과 파트너를 통해 문서화된다: Netherlands Politie, Europol Ec3, Eurojust, Fbi Cyber Division; 메커니즘: Joint Investigation Team, Europol Jit, 24 7 Network; 법적 근거: Budapest Convention과 형사사법공조; 집행 자세: Takedown, Arrest, Seizure.</p>
+<p>정본 기록을 위한 작전 결과: 체포 2명; 서버 압수 700대; 도메인 압수 2,000개; 피해자 통보 1,000,000명; 네덜란드 경찰이 침해된 이메일 주소 430만 건 복구; 법집행이 감염 머신에 제거 모듈 배포(2021-04-25 활성화); Emotet 봇넷이 2021년 11월 TrickBot 인프라를 통해 재출현.</p>
+<p>정본 출처 집합은 4개의 참조를 포함한다: 2021 01 27 Europol Emotet Disruption, 2021 01 27 Eurojust Emotet Operation, 2021 01 27 Doj Mdnc Emotet, 2021 01 27 Mdnc Emotet Disruption Order.
+출처 하한선은 정본 작전 기준을 충족하나, 출처의 폭이 모든 하류 체포나 형 선고가 본 작전의 일부임을 그 자체로 증명하지는 않는다; 후속 기록은 별도로 연결된 상태로 유지되어야 한다.
+본 페이지가 여전히 보유하는 알려진 메타데이터 공백: Cryptocurrency Seized 및 Full List Of National Agencies Beyond Lead Participants.
+데이터셋 활용 시 본 페이지는 작전 수준 집계 지점으로 취급되어야 한다: 국가, 기관, 메커니즘 및 결과 필드는 조정된 집행 조치 전체를 기술한다. 이후 기소, 답변, 형 선고, 인도 또는 몰수 조치는 출처가 이를 새로운 다국적 작전으로 명시적으로 제시하지 않는 한 관련 사건으로 첨부되거나 후속 기록으로 흡수되어야 한다.
+출처 기록이 광범위한 배경, 반복된 통신사 재게재 또는 주제 페이지 자료를 포함하는 경우, 본 평가는 명시된 작전, 그 참여 당국, 그 표적 인프라 또는 범죄 서비스, 측정 가능한 집행 결과와 직접 결부된 사실을 우선시한다. 주변적 출처 제목은 독립적 분류나 결과 증거로 취급되지 않는다.
+이는 정본 기록을 분석적으로 한정되고 재현 가능한 것으로 유지한다.</p>
+<!-- CANONICAL_ASSESSMENT_END -->
+
+<h2 id="_21">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>발행처</th>
+<th>일자</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>전 세계 조치를 통해 와해된 세계에서 가장 위험한 악성코드 EMOTET</td>
+<td>Europol</td>
+<td>2021-01-27</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>국제 사이버 작전에서 와해된 Emotet 봇넷</td>
+<td>미국 DOJ (OPA / M.D.N.C.)</td>
+<td>2021-01-27</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation" data-full-url="https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>위험한 악성코드 시스템 와해를 위한 주요 작전</td>
+<td>Eurojust</td>
+<td>2021-01-27</td>
+<td><a href="https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems" data-full-url="https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>국제 사이버 작전에서 와해된 Emotet 봇넷</td>
+<td>미국 노스캐롤라이나 중부지구 연방검찰청(DOJ)</td>
+<td>2021-01-27</td>
+<td><a href="https://www.justice.gov/usao-mdnc/pr/emotet-botnet-disrupted-international-cyber-operation" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdnc/pr/emotet-botnet-disrupted-international-cyber-operation" data-full-url="https://www.justice.gov/usao-mdnc/pr/emotet-botnet-disrupted-international-cyber-operation" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Operation LadyBird was a multinational law enforcement operation that disrupted the <strong>Emotet botnet</strong> -- described by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> as "the world's most dangerous malware" -- on <strong>27 January 2021</strong>. The operation was coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a> and <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>, with the <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Dutch National Police (NHTCU)</a> and Germany's Bundeskriminalamt (BKA) serving as the primary operational leads.</p>
 <p>Law enforcement agencies from <strong>eight countries</strong> -- the <a href="../../wiki/countries/netherlands.html" class="wikilink">Netherlands</a>, <a href="../../wiki/countries/germany.html" class="wikilink">Germany</a>, the <a href="../../wiki/countries/united-states.html" class="wikilink">United States</a>, the <a href="../../wiki/countries/united-kingdom.html" class="wikilink">United Kingdom</a>, <a href="../../wiki/countries/france.html" class="wikilink">France</a>, <a href="../../wiki/countries/ukraine.html" class="wikilink">Ukraine</a>, <a href="../../wiki/countries/canada.html" class="wikilink">Canada</a>, and <a href="../../wiki/countries/lithuania.html" class="wikilink">Lithuania</a> -- simultaneously seized control of approximately <strong>700 command-and-control (C2) servers</strong> and over <strong>2,000 domains</strong>, redirecting infected machines to law enforcement-controlled infrastructure.</p>

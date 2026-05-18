@@ -79,49 +79,187 @@
     </div>
     <div class="article-body">
 
-        <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>FluBot Android-malware takedown — Europol EC3 'day of action' (May–June 2022)</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol Ec3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2021 ~ 2022-05</strong> 기간 동안 <strong>11개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> FluBot Android-banking-malware ecosystem (SMS-propagated banking trojan and the supporting infrastructure used to control infected devices)</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>악성코드, 뱅킹 트로이, 은행 사기</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
+        <div class="ko-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Provisional record
+이 페이지는 두 tier-1 발행기관(fedpol/OAG 1차 2022-06-07 + Europol(유럽 경찰청) 병행 2022-06-01)에 기반한다. 양자 모두 11개 협력 법집행 관할권과 기본 기술 조치를 명명한다. 선호 5개 출처 기준치(<code>source_count = 2</code>) 미만이며, 잠정 구조 기록으로 보관된다. 추가 국가별 법집행 1차 보도자료(Politie, AFP, US Secret Service, Polisen 등)가 개별적으로 수집될 경우 승격된다.</div><div class="callout-body"></div></div>
+<h2 id="_1">개요</h2>
+<p>2022년 5월, <strong><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">네덜란드 경찰(Politie)</a></strong>은 <strong>FluBot(스마트폰 뱅킹 트로이)</strong> 안드로이드 뱅킹 악성코드 인프라를 파괴하고 악성코드 변종을 비활성화하였으며, 이는 <strong><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청)의 유럽사이버범죄센터(EC3)</a></strong>가 조정한 국제 "행동의 날"의 최종 단계에서였다. <strong>11개 법집행 관할권</strong>이 참여하였으며, 각 관할권에 대해 명명된 기관이 있었다. <strong><a href="../../wiki/organizations/switzerland-fedpol.html" class="wikilink">fedpol</a></strong>은 <strong>스위스 연방검찰총장청(OAG / Bundesanwaltschaft)</strong>의 지휘 아래, 스위스 <a href="../../wiki/organizations/switzerland-ncsc.html" class="wikilink">NCSC</a>, 칸톤 경찰, 통신사업자, 디지털화 서비스 제공업체 Switch와의 긴밀한 협력 속에 참여하였다. fedpol/OAG 발표는 <strong>2022년 6월 7일</strong>에 발표되었으며, 병행 Europol 발표는 <strong>2022년 6월 1일</strong>이었다.</p>
+<p>FluBot은 2020년 12월에 처음 발견된 공격적 안드로이드 표적 뱅킹 트로이로, 소포 추적 또는 음성메일 알림으로 위장한 SMS 메시지를 통해 전파되었다. 일단 설치되면 뱅킹 앱 자격증명, 암호화폐 계정 자격증명, SMS 일회용 코드를 탈취하고, 내장 보안 메커니즘을 무력화하였다. 감염된 각 휴대전화의 주소록을 통해 자가 전파하며, "들불처럼 확산"되었다.</p>
+<h2 id="_2">배경</h2>
+<p><strong>fedpol</strong> 2022년 6월 7일 보도자료에 따르면:</p>
 <blockquote>
-<p>FluBot Android-banking-malware ecosystem (SMS-propagated banking trojan and the supporting infrastructure used to control infected devices)</p>
+<p>"At the end of May, a large-scale operation led by Europol and the Dutch police and involving other law enforcement authorities succeeded in stopping the rapid spread of a type of malware known as «FluBot». The malware, which infects mobile phones with the Android operating system via text messages, such as those sent by SMS, has also caused considerable damage in Switzerland."
+(한국어 번역: 5월 말, Europol(유럽 경찰청)과 네덜란드 경찰이 주도하고 기타 법집행 당국이 참여한 대규모 작전이 «FluBot»으로 알려진 악성코드 유형의 급속한 확산을 저지하는 데 성공하였다. SMS 등 문자 메시지를 통해 안드로이드 운영체제 휴대전화를 감염시키는 본 악성코드는 스위스에서도 상당한 피해를 일으켰다.)</p>
 </blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
-<ul>
-<li>FluBot infrastructure destroyed and the malware strain rendered inactive by Dutch Police (Politie) in May 2022.</li>
-<li>10,000 victims of the malware disconnected from the FluBot network during the Dutch raid (per Dutch Police; cited via Europol-aligned reporting).</li>
-<li>International coordination via Europol EC3 'day of action' with eleven cooperating LE jurisdictions; virtual command post hosted by Europol.</li>
-<li>Investigations to identify the suspected perpetrators were continuing as of the June 2022 announcement; no arrests reported by either fedpol or Europol on the announcement day.</li>
-</ul>
-<h2 id="_5">참여 기관</h2>
-<p><strong>주도기관:</strong> Netherlands Politie</p>
-<p><strong>조정기관:</strong> Europol Ec3</p>
-<p><strong>참여기관:</strong> Netherlands Politie, Europol Ec3, Switzerland Fedpol, Australia Afp, Belgium Federal Police, Finland Nbi, Ireland Garda, Romania Police, Sweden Police, Spanish National Police 외 1개</p>
-<p><strong>참여국:</strong> Australia, Belgium, Finland, Hungary, Ireland, Netherlands, Romania, Spain, Sweden, Switzerland 외 1개</p>
-<h2 id="_6">법적 근거</h2>
-<ul>
-<li>Swiss preliminary investigations under the leadership of the Office of the Attorney General of Switzerland (Bundesanwaltschaft); Article 147 Swiss Criminal Code (computer fraud) typology applies to the underlying victim losses</li>
-<li>Europol EC3 operational coordination mandate; J-CAT (Joint Cybercrime Action Taskforce) hosted at Europol</li>
-<li>National cybercrime statutes of the eleven participating jurisdictions</li>
-</ul>
-<h2 id="_7">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2022-06-01</li>
-<li><strong>개시:</strong> 2021</li>
-<li><strong>종료:</strong> 2022-05</li>
-</ul>
-<h2 id="_8">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">J-CAT (공동사이버범죄대응팀)</a></li>
-<li><a href="../../wiki/mechanisms/sinkholing.html" class="wikilink">Sinkholing</a></li>
-<li><a href="../../wiki/mechanisms/public-private-cooperation.html" class="wikilink">Public Private Cooperation</a></li>
-<li><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">비공식 경찰 협력</a></li>
-</ul>
+<p>병행 <strong>Europol(유럽 경찰청)</strong> 2022년 6월 1일 보도자료에 따르면:</p>
 <blockquote>
-<p>신뢰도 지수(CI): <strong>4.4</strong> | 출처: 2건</p>
-</blockquote></div>
+<p>"This technical achievement follows a complex investigation involving law enforcement authorities of Australia, Belgium, Finland, Hungary, Ireland, Spain, Sweden, Switzerland, the Netherlands and the United States, with the coordination of international activity carried out by Europol's European Cybercrime Centre (EC3)."
+(한국어 번역: 이 기술적 성과는 호주, 벨기에, 핀란드, 헝가리, 아일랜드, 스페인, 스웨덴, 스위스, 네덜란드, 미국의 법집행 당국이 참여한 복잡한 수사에 뒤이은 것이며, 국제 활동의 조정은 Europol(유럽 경찰청)의 유럽사이버범죄센터(EC3)가 수행하였다.)</p>
+</blockquote>
+<p>(루마니아는 Europol 보도자료의 국가별 기관 표(루마니아 경찰 / Poliția Română)에서 본문 리드 단락에 열거된 10개국에 더해 협력 법집행 관할권으로 명명되어 있다; 따라서 11번째 참여국은 루마니아이다.)</p>
+<h2 id="_3">참여 당사자</h2>
+<table>
+<thead>
+<tr>
+<th>국가</th>
+<th>명명된 법집행 기관 (Europol tier-1 보도자료 기준)</th>
+<th>위키링크</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>호주</td>
+<td>Australian Federal Police</td>
+<td><a href="../../wiki/organizations/australia-afp.html" class="wikilink">australia-afp</a></td>
+</tr>
+<tr>
+<td>벨기에</td>
+<td>연방경찰 (Federale Politie / Police Fédérale)</td>
+<td><a href="../../wiki/organizations/belgium-federal-police.html" class="wikilink">belgium-federal-police</a></td>
+</tr>
+<tr>
+<td>핀란드</td>
+<td>국가수사국 (Poliisi)</td>
+<td><a href="../../wiki/organizations/finland-nbi.html" class="wikilink">finland-nbi</a></td>
+</tr>
+<tr>
+<td>헝가리</td>
+<td>국가수사국 (Nemzeti Nyomozó Iroda)</td>
+<td>(canonical 위키 페이지 없음; 산문으로만)</td>
+</tr>
+<tr>
+<td>아일랜드</td>
+<td>An Garda Síochána</td>
+<td><a href="../../wiki/organizations/ireland-garda.html" class="wikilink">ireland-garda</a></td>
+</tr>
+<tr>
+<td>네덜란드</td>
+<td>국가경찰 (Politie)</td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a></td>
+</tr>
+<tr>
+<td>루마니아</td>
+<td>루마니아 경찰 (Poliția Română)</td>
+<td><a href="../../wiki/organizations/romania-police.html" class="wikilink">romania-police</a></td>
+</tr>
+<tr>
+<td>스페인</td>
+<td>국가경찰 (Policia Nacional)</td>
+<td><a href="../../wiki/organizations/spanish-national-police.html" class="wikilink">spanish-national-police</a></td>
+</tr>
+<tr>
+<td>스웨덴</td>
+<td>스웨덴 경찰청 (Polisen)</td>
+<td><a href="../../wiki/organizations/sweden-police.html" class="wikilink">sweden-police</a></td>
+</tr>
+<tr>
+<td>스위스</td>
+<td>연방경찰청 (fedpol)</td>
+<td><a href="../../wiki/organizations/switzerland-fedpol.html" class="wikilink">switzerland-fedpol</a></td>
+</tr>
+<tr>
+<td>미국</td>
+<td>미국 비밀경호국</td>
+<td><a href="../../wiki/organizations/us-secret-service.html" class="wikilink">us-secret-service</a></td>
+</tr>
+<tr>
+<td>조정</td>
+<td>유럽사이버범죄센터(EC3); Europol에 호스트된 J-CAT</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a></td>
+</tr>
+<tr>
+<td>스위스 사법 지휘</td>
+<td>스위스 연방검찰총장청 (OAG / Bundesanwaltschaft)</td>
+<td>(산문으로만)</td>
+</tr>
+<tr>
+<td>스위스 측 파트너</td>
+<td>국가사이버보안센터 (<a href="../../wiki/organizations/switzerland-ncsc.html" class="wikilink">NCSC</a>); 칸톤 경찰; 통신사업자; Switch</td>
+<td><a href="../../wiki/organizations/switzerland-ncsc.html" class="wikilink">switzerland-ncsc</a></td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-note"><div class="callout-title">📝 헝가리 국가수사국(Nemzeti Nyomozó Iroda)은 현재 별도의 위키 조직 페이지가 없다. 산문에서 유지된다. 국가 위키링크 <a href="../../wiki/countries/hungary.html" class="wikilink">hungary</a>는 헝가리가 참여 법집행 관할권임을 반영한다.</div><div class="callout-body"></div></div>
+<h2 id="_4">법적 근거</h2>
+<ul>
+<li>스위스 측 예비 수사는 <strong>스위스 연방검찰총장청(Bundesanwaltschaft)</strong>의 지휘 아래, 피해자 손실에 적용 가능한 스위스 형법 제147조의 컴퓨터 사기(<em>betrügerischer Missbrauch einer Datenverarbeitungsanlage</em>) 유형에 부합하여 진행되었다.</li>
+<li>국제 조정은 <strong><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol(유럽 경찰청) EC3</a></strong>의 작전 권한 아래 이루어졌으며, Europol에 호스트된 <strong><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">J-CAT</a></strong>가 수사를 지원하였다.</li>
+<li>11개 참여 관할권 각각의 국가 사이버범죄 법령이 각국의 수사 조치에 대한 기본 법적 근거를 제공하였다.</li>
+</ul>
+<h2 id="_5">작전 타임라인</h2>
+<ul>
+<li><strong>2020년 12월:</strong> FluBot 첫 발견 (Europol 기준).</li>
+<li><strong>2021년:</strong> FluBot이 추진력을 얻어 전 세계적으로 "엄청난 수"의 기기를 침해하며, 스페인과 핀란드에서 유의미한 사건 발생 (Europol 기준).</li>
+<li><strong>2022년 5월 말:</strong> 네덜란드 경찰(Politie)이 Europol 조정 "행동의 날"에 FluBot 인프라를 파괴하고 악성코드 변종을 비활성화함.</li>
+<li><strong>2022년 6월 1일:</strong> Europol(유럽 경찰청)이 테이크다운을 발표하고 11개 협력 법집행 관할권을 명명하는 보도자료 발행.</li>
+<li><strong>2022년 6월 7일:</strong> fedpol 및 스위스 연방검찰총장청이 스위스 연방 뉴스 포털에 병행 보도자료를 발행하여 스위스의 작전·전략적 참여를 확인.</li>
+</ul>
+<h2 id="_6">결과 및 영향</h2>
+<ul>
+<li>행동의 날에 네덜란드 경찰에 의해 <strong>FluBot 인프라 파괴</strong> 및 악성코드 변종 비활성화.</li>
+<li>네덜란드 단속 시 FluBot 네트워크로부터 <strong>10,000명의 피해자 분리</strong> (네덜란드 경찰 기준; Europol 정렬 보도에서 인용).</li>
+<li>발표 시점(2022년 6월) 기준 <strong>혐의자 신원확인을 위한 수사 계속</strong>. 양 tier-1 보도자료 모두 발표 시점에 체포는 보고하지 않았다.</li>
+<li>테이크다운 당일 Europol EC3의 가상 지휘소를 통한 <strong>11개 관할권 법집행 협력</strong> 수행.</li>
+</ul>
+<h2 id="_7">활용된 협력 메커니즘</h2>
+<ul>
+<li><strong>Europol EC3 '행동의 날' 조정</strong>, 테이크다운 당일 가상 지휘소 운영.</li>
+<li>Europol에 호스트된 <strong><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">J-CAT (공동사이버범죄대응태스크포스)</a></strong>.</li>
+<li>11개 관할권 각각의 <strong>국가 법집행–Europol 양자 채널</strong> (예: fedpol은 스위스 측에서 특히 Europol과 국제 정보 교환을 조정).</li>
+<li><strong>국가 CERT 및 민간 부문 파트너십</strong> (스위스: NCSC, 통신사업자, Switch).</li>
+</ul>
+<h2 id="_8">도전 및 마찰 요인</h2>
+<ul>
+<li><strong>귀속 격차.</strong> 수사관들은 FluBot 인프라 와해에는 성공하였으나, 2022년 6월 발표 시점에는 혐의자 신원확인을 여전히 진행 중이었다.</li>
+<li><strong>모바일 2FA 우회.</strong> FluBot은 사용자에게 접근성 권한을 부여하도록 설득한 후, 피해자 자격증명과 SMS 코드를 실시간으로 포착하여 SMS 기반 2단계 인증을 무력화하였다.</li>
+<li><strong>바이러스성 SMS 전파.</strong> 감염된 각 휴대전화의 주소록이 추가 SMS 미끼의 발판이 되어, 전파 주기 차단을 위해 통신사업자의 신속한 협력이 요구되었다.</li>
+</ul>
+<h2 id="_9">교훈</h2>
+<ul>
+<li>협력된 다중 관할 "행동의 날"은 행위자 귀속이 테이크다운 당일에 불완전한 경우에도 활성 SMS 전파 뱅킹 트로이 인프라를 무력화하는 데 효과적이다.</li>
+<li>국가 CERT 및 통신사업자 파트너십(스위스: NCSC + Switch + 통신사)은 국제 조치를 견인하는 피해자 및 수법 데이터를 수집하는 데 필수적이다.</li>
+<li>Europol의 "가상 지휘소" 모델은 서로 다른 시간대의 11개 법집행 관할권 간 실시간 조정을 가능케 한다.</li>
+</ul>
+<h2 id="_10">후속 조치</h2>
+<ul>
+<li>fedpol 보도자료에 따르면, "혐의자 신원확인을 목표로 하는 수사는 계속 진행 중"이다. 후속 스위스 형사 절차는 OAG의 지휘 아래 계속되었다.</li>
+<li>안드로이드 SMS 전파 뱅킹 트로이에 관한 공개 경고 발표(NCSC, 통신사업자)는 2022년 이후에도 유지되었다.</li>
+</ul>
+<h2 id="_11">한국의 참여</h2>
+<p>FluBot 테이크다운에서 한국 법집행기관의 관여는 보고되지 않는다. 본 사례는 SMS 전파 안드로이드 뱅킹 트로이 대응 모델의 비교 참조로서 위키에 보관되며, 유사한 국가 CERT + 법집행 + 통신사 모델이 작전상 유사한 스미싱 주도 뱅킹 악성코드(smishing 사이버범죄, 안드로이드 뱅킹 트로이) 관련 한국 사이버범죄 협력 논의에 관련성이 있다.</p>
+<h2 id="_12">모순점 및 미해결 문제</h2>
+<ul>
+<li>fedpol 1차 보도자료는 "11개국"을 식별하고 Europol(유럽 경찰청), 네덜란드 경찰, fedpol, OAG, NCSC, 스위스 칸톤 경찰, 통신사업자, Switch를 명시적으로 명명한다. 11개 국가 법집행 기관의 명명은 병행 Europol 보도자료에 등장한다. 따라서 교차 인용은: 스위스 측 참여는 fedpol 1차; 11개 관할권 명단은 Europol 1차.</li>
+<li>Europol 보도자료의 본문은 리드 단락에 10개국을 명명하며, 국가별 기관 표는 11번째로 루마니아를 포함한다; 이는 본 기록에 반영된 국가별 기관 표 판독이다.</li>
+<li>구체적 서버 / 도메인 압수 수치와 행위자 신원은 발표 당일의 양 tier-1 보도자료 모두에 <strong>열거되어 있지 않다</strong>. 본 페이지는 tier-1 출처가 제공하지 않는 수치를 주장하지 않는다.</li>
+</ul>
+<h2 id="_13">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>Cybercrime: Aggressive malware, which targeted Android phones, successfully eliminated thanks to international cooperation involving the Swiss law enforcement authorities and other partners</td>
+<td>Federal Office of Police (fedpol) / Office of the Attorney General of Switzerland (OAG)</td>
+<td>2022-06-07</td>
+<td><a href="https://www.news.admin.ch/en/nsb?id=89145" target="_blank" rel="noopener noreferrer" title="https://www.news.admin.ch/en/nsb?id=89145" data-full-url="https://www.news.admin.ch/en/nsb?id=89145" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>Takedown of SMS-based FluBot spyware infecting Android phones</td>
+<td>Europol</td>
+<td>2022-06-01</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/takedown-of-sms-based-flubot-spyware-infecting-android-phones" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/takedown-of-sms-based-flubot-spyware-infecting-android-phones" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/takedown-of-sms-based-flubot-spyware-infecting-android-phones" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h1 id="flubot-android-malware-takedown-europol-ec3-day-of-action-mayjune-2022">FluBot Android-malware takedown — Europol EC3 "day of action" (May–June 2022)</h1>
 <div class="callout callout-info"><div class="callout-title">ℹ️ Provisional record
 This page rests on two tier-1 publishers (fedpol/OAG primary 2022-06-07 + Europol parallel 2022-06-01). Both name eleven cooperating LE jurisdictions and the underlying technical action. It is below the preferred 5-source threshold (<code>source_count = 2</code>) and is filed as a provisional structural record. It will be promoted when additional national-LE primary releases (Politie, AFP, US Secret Service, Polisen, etc.) are individually ingested.</div><div class="callout-body"></div></div>

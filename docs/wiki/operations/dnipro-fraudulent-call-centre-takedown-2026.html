@@ -80,65 +80,105 @@
     <div class="article-body">
 
         <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Dnipro Fraudulent Call Centre Takedown (2026)</strong> <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>의 조정 하에 수행된 합동수사 작전으로, <strong>2026-02-17 ~ 2026-02-17</strong> 기간 동안 <strong>3개국</strong>이 참여하였다.</p>
-<p><strong>대상:</strong> Dnipro-based fraudulent call centre using fake cryptocurrency investment schemes and remote-access software</p>
-<h2 id="_2">범죄 내용 (배경)</h2>
-<p>이 작전이 다룬 범죄 유형은 <strong>보이스피싱, 온라인 사기</strong>이다.</p>
-<h3 id="_3">범행 대상</h3>
-<blockquote>
-<p>Dnipro-based fraudulent call centre using fake cryptocurrency investment schemes and remote-access software</p>
-</blockquote>
-<h3 id="_4">범행 양상 및 규모</h3>
+<p>라트비아, 리투아니아, 우크라이나 당국은 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a>의 조정으로 드니프로 내 3개 사무실에 걸쳐 운영되던 사기성 콜센터를 해체하였다. 해당 조직은 허위 암호화폐 투자 사기, 원격 접속 소프트웨어, 은행 및 암호화폐 이체 채널을 이용하여 피해자들로부터 자금을 탈취하였다.</p>
+<p>본 작전은 출처에 의해 뒷받침된 3개국 공동수사팀(JIT) 사안이며 Eurojust를 통해 조정되었고, 그 집행 결과가 이후 2025년 12월 <a href="../../wiki/operations/ukraine-fraudulent-call-centres-takedown-2025.html" class="wikilink">우크라이나 사기 콜센터 작전</a>과 구분되기 때문에 공개 IC 코퍼스의 대상이 된다.</p>
+<h2 id="_2">배경</h2>
+<p>이 섹션은 작전의 법집행 구조(개요 및 협력 모델)와는 별개로, 범죄 자체 — 즉 해당 조직이 무엇을 했고, 누구에게 피해를 입혔으며, 자금이 어떻게 이동했고, 조직이 어떻게 구성되었는지 — 를 기술한다.</p>
+<h3 id="_3">수법(모더스 오페란디)</h3>
+<p>해당 조직은 우크라이나 드니프로의 3개 사무실에 걸쳐 사기성 콜센터를 운영하였다. 운영자들은 잠재 피해자에게 전화 및 온라인으로 접근하여 관리형 암호화폐 자산 거래 계좌에서 "큰 수익"을 약속하는 허위 암호화폐 투자 사기를 운영하였다. 초기 신뢰 구축 입금 이후, 운영자들은 "거래 플랫폼" 또는 "지원 도구"라는 명목으로 피해자에게 원격 접속 소프트웨어 설치를 요구하는 단계로 끌어올렸다(Eurojust는 특정 RAT 계열을 명명하지 않음). 원격 접속 채널이 활성화되면, 운영자들은 피해자의 은행 및 암호화폐 지갑 자격 증명에 직접 접속하여 피해자 관리 계좌의 자금을 그룹 관리 은행 계좌 및 암호화폐 지갑으로 이체하였다. 또한 조직은 부차적인 "복구 사기(recovery fraud)" 오버레이를 운영하였다: 초기 사기 피해자에게 재접촉하여 추정 분실 자산 회수를 위한 법률 지원 명목으로 추가 금액 지불을 요구 — 이는 투자 사기 콜센터에서 전형적인 재가해(re-victimisation) 패턴이다.</p>
+<p><strong>피해자 프로파일 및 영향.</strong> 초기 수사는 라트비아 및 리투아니아에서 9명 이상의 피해자를 식별하였으며, 합산 피해액은 16만 유로를 초과한다. Eurojust는 콜센터가 보다 광범위하게 유럽 시민들을 사기 대상으로 설립되었다고 추가로 명시하며, 이는 9명이라는 수치가 JIT를 촉발한 신고를 한 초기 식별 부분집합만을 나타내는 하한임을 시사한다. 발트해 지역 피해자 집중은 드니프로 거주 운영자들의 러시아어/라트비아어/리투아니아어 언어적 도달 범위를 반영하며, 이들은 모국어 또는 그에 준하는 유창성으로 러시아어 및 발트어 콜드 콜 스크립트를 운영할 수 있었을 것이다. 피해자 프로파일은 기업 피해자가 아닌 온라인 거래 플랫폼 광고를 통해 표적이 된 소매 투자자와 일치한다.</p>
+<h3 id="_4">자금 흐름</h3>
+<p>피해자 자금은 두 채널로 유출되었다: (1) 피해자 관리 계좌에서 그룹 관리 계좌로의 은행 송금(작전일에 압수된 40만 유로 현금은 이 흐름의 하류 현금화 일부를 나타냄); 그리고 (2) 그룹 관리 지갑으로의 암호화폐 이체(이러한 지갑 2개가 압수됨). 우크라이나에서 압수된 8대의 고급 차량은 고가의 물리적 자산으로의 하류 현금화를 시사하며, 이는 동유럽 콜센터 사기 조직의 일반적인 자금세탁 패턴이다. 암호화폐 압수 금액(2개 지갑의 USD/EUR 환산액)은 인용된 Eurojust 보도자료에 공개되지 않았다 — 모순 항목 참조.</p>
+<h3 id="_5">범죄 조직 구조</h3>
+<p>작전일에 범죄 그룹 구성원 11명이 체포되었으며, 10명은 미결구금, 1명은 가택연금 처분을 받았다. 3개 드니프로 사무실에 걸친 발자취는 계층화된 운영을 시사한다: 모집/관리 계층, 콜링 플로어 운영자 계층(11명 체포의 대부분), 그리고 자금을 은행, 암호화폐, 고가 물리적 자산으로 이전하는 책임의 자금 처리 계층. 조직은 SIM 카드(작전일에 압수)를 사용하여 전화번호를 회전시키고 발신자 ID 표시를 회피 — 이는 표준적인 콜센터 사기 운영 보안 패턴이다. 1차 출처 보도자료는 두목/주요 인물, 외부 조정자 또는 알려진 광역 OCG 연계는 명명하지 않는다.</p>
+<h2 id="cooperation-model">Cooperation Model</h2>
+<table>
+<thead>
+<tr>
+<th>역할</th>
+<th>당사자</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>사법적 조정</td>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust(유럽사법협력기구)</a></td>
+</tr>
+<tr>
+<td>라트비아 당국</td>
+<td>리가 사법지구 검찰청; <a href="../../wiki/organizations/latvia-state-police.html" class="wikilink">라트비아 국가경찰 사이버범죄 부서</a></td>
+</tr>
+<tr>
+<td>리투아니아 당국</td>
+<td>클라이페다 지역 검찰청; <a href="../../wiki/organizations/lithuania-police.html" class="wikilink">리투아니아 경찰 당국</a></td>
+</tr>
+<tr>
+<td>우크라이나 당국</td>
+<td>드니프로페트로프스크 지역 검찰청; <a href="../../wiki/organizations/ukraine-police.html" class="wikilink">우크라이나 국가경찰</a>; <a href="../../wiki/organizations/ukraine-sbu.html" class="wikilink">우크라이나 보안국</a></td>
+</tr>
+<tr>
+<td>출처에 의해 뒷받침된 참여국</td>
+<td><a href="../../wiki/countries/latvia.html" class="wikilink">라트비아</a>, <a href="../../wiki/countries/lithuania.html" class="wikilink">리투아니아</a>, <a href="../../wiki/countries/ukraine.html" class="wikilink">우크라이나</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="_6">결과 및 영향</h2>
 <ul>
-<li>Action day took place in Ukraine on 2026-02-17.</li>
-<li>32 locations searched.</li>
-<li>EUR 400,000 in cash seized.</li>
-<li>Two cryptocurrency wallets and eight luxury cars seized.</li>
-<li>Electronic equipment, documents, computers, and SIM cards seized.</li>
-<li>Initial investigations identified at least nine victims in Latvia and Lithuania with losses over EUR 160,000.</li>
+<li>2026년 2월 17일 범죄 그룹 구성원 11명이 체포되었다.</li>
+<li>당국은 우크라이나 내 32개소를 수색하였다.</li>
+<li>피의자 10명이 미결구금 처분을, 1명이 가택연금 처분을 받았다.</li>
+<li>당국은 전자 장비, 문서, 컴퓨터, SIM 카드, 현금 40만 유로, 암호화폐 지갑 2개 및 고급 차량 8대를 압수하였다.</li>
+<li>초기 수사는 라트비아 및 리투아니아에서 9명 이상의 피해자(피해액 16만 유로 초과)를 식별하였으며, 콜센터는 유럽 시민 전반을 사기 대상으로 설립되어 있었다.</li>
 </ul>
-<h3 id="_5">단속 규모 요약</h3>
+<h2 id="fraud-pattern">Fraud Pattern</h2>
+<p>콜센터는 큰 수익을 약속하는 허위 암호화폐 투자 사기를 홍보하였다. 피해자들은 또한 추정 분실 자산 회수를 위한 법률 지원에 대한 비용 지불을 요구받았다. 운영자들은 원격 접속 소프트웨어를 사용하여 피해자의 자금에 접근하고 그룹이 관리하는 은행 계좌 및 암호화폐 지갑으로 자금을 이체하였다.</p>
+<h2 id="boundary-and-non-duplication-notes">Boundary and Non-Duplication Notes</h2>
+<p>본 페이지는 <a href="../../wiki/operations/ukraine-fraudulent-call-centres-takedown-2025.html" class="wikilink">ukraine-fraudulent-call-centres-takedown-2025</a>와 구분되며, 그 이유는 출처에 의해 뒷받침된 작전일, 도시 발자취, 참여국, 체포, 수색, 압수 결과가 상이하기 때문이다. 본 기록은 11건의 체포와 32건의 수색이 이루어진 2026년 2월 17일 드니프로 작전을 다룬다. 2025년 12월 기록은 12건의 체포와 72건의 수색이 이루어진 우크라이나 3개 도시에서의 체코·라트비아·리투아니아·우크라이나 작전을 다룬다.</p>
+<h2 id="evidence-notes">Evidence Notes</h2>
+<p>Eurojust는 JIT, 국가 참여, 작전일, 기관 목록, 피해자 손실 추정, 원격 접속 패턴, 체포, 수색, 압수 수치에 대한 앵커 출처이다. Border Security Report는 동일한 공개 사실을 재게시하며 작전에 대한 독립적 뉴스 URL을 제공한다. Eurojust의 우크라이나 주제 페이지는 보도자료가 우크라이나 연계 Eurojust 사건 작업과 계속 연관되어 있음을 확인한다.</p>
+<h2 id="_7">모순점 및 미해결 문제</h2>
 <ul>
-<li>체포: <strong>11명</strong> (피의자 규모)</li>
-<li>암호화폐 압수: <strong>Two cryptocurrency wallets seized</strong> (자금 흐름 규모)</li>
+<li><strong>L26 gap — cryptocurrency seizure value:</strong> 보도자료는 암호화폐 지갑 2개가 압수되었음을 확인하나 EUR/USD 가치 또는 그룹의 운영 수명 동안 암호화폐 처리량의 총 부피는 공개하지 않는다.</li>
+<li><strong>L26 gap — victim total:</strong> 피해자 9명(16만 유로 이상 손실) 수치는 "초기" 결과로 명시적으로 기술되며, 유럽 전역의 총 피해자 수는 1차 보도자료에 열거되지 않는다.</li>
+<li><strong>L26 gap — RAT family:</strong> Eurojust는 "원격 접속 소프트웨어"를 일반적으로 기술하며, 특정 원격 접속 도구 키트 계열(AnyDesk, TeamViewer, 맞춤형 RAT 등)은 인용된 보도자료에서 식별되지 않는다.</li>
+<li><strong>L26 gap — OCG affiliation:</strong> 보도자료는 체포된 11명이 보다 광범위한 기존 OCG(예: 알려진 동유럽 투자 사기 신디케이트)에 속하는지, 아니면 드니프로 기반의 독립 조직을 구성하였는지 명시하지 않는다.</li>
+<li>참여국 명단은 L24에 따라 JIT 3개 관할권(라트비아, 리투아니아, 우크라이나)으로 제한되며 — 유럽 전역의 추가 피해국은 서술에는 반영되나 프런트매터 <code>participating_countries</code> 목록에는 반영되지 않는다.</li>
 </ul>
-<h2 id="_6">참여 기관</h2>
-<p><strong>주도기관:</strong> Eurojust</p>
-<p><strong>참여기관:</strong> Eurojust, Latvia State Police, Lithuania Police, Ukraine Police, Ukraine Sbu, Riga Judicial Region Prosecution Office, Klaipeda Regional Prosecutor's Office, Dnipropetrovsk region Prosecutor's Office</p>
-<p><strong>참여국:</strong> Latvia, Lithuania, Ukraine</p>
-<h2 id="_7">법적 근거</h2>
-<ul>
-<li>Joint investigation team set up at Eurojust</li>
-<li>Domestic fraud, cyber-fraud, and asset-seizure authorities in Latvia, Lithuania, and Ukraine</li>
-</ul>
-<h2 id="_8">작전 일정</h2>
-<ul>
-<li><strong>발표:</strong> 2026-02-23</li>
-<li><strong>개시:</strong> 2026-02-17</li>
-<li><strong>종료:</strong> 2026-02-17</li>
-</ul>
-<h2 id="_9">결과 및 영향</h2>
-<ul>
-<li><strong>11명</strong> 체포</li>
-<li><strong>Two cryptocurrency wallets seized</strong> 암호화폐 압수</li>
-<li>Action day took place in Ukraine on 2026-02-17.</li>
-<li>32 locations searched.</li>
-<li>EUR 400,000 in cash seized.</li>
-<li>Two cryptocurrency wallets and eight luxury cars seized.</li>
-<li>Electronic equipment, documents, computers, and SIM cards seized.</li>
-<li>Initial investigations identified at least nine victims in Latvia and Lithuania with losses over EUR 160,000.</li>
-</ul>
-<h2 id="_10">협력 메커니즘</h2>
-<ul>
-<li><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">공동수사팀(JIT)</a></li>
-<li><a href="../../wiki/mechanisms/eurojust-coordination-meeting.html" class="wikilink">Eurojust Coordination Meeting</a></li>
-<li><a href="../../wiki/mechanisms/search-seizure.html" class="wikilink">Search Seizure</a></li>
-<li><a href="../../wiki/mechanisms/electronic-evidence.html" class="wikilink">Electronic Evidence</a></li>
-<li><a href="../../wiki/mechanisms/cryptocurrency-seizure.html" class="wikilink">Cryptocurrency Seizure</a></li>
-</ul>
-<blockquote>
-<p>신뢰도 지수(CI): <strong>4.15</strong> | 출처: 3건</p>
-</blockquote></div>
+<h2 id="_8">참고문헌</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>제목</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>11 arrests during actions against fraudulent call centre</td>
+<td>Eurojust</td>
+<td>2026-02-23</td>
+<td><a href="https://www.eurojust.europa.eu/news/11-arrests-during-actions-against-fraudulent-call-centre" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/11-arrests-during-actions-against-fraudulent-call-centre" data-full-url="https://www.eurojust.europa.eu/news/11-arrests-during-actions-against-fraudulent-call-centre" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>11 arrests during actions against fraudulent call centre</td>
+<td>Border Security Report</td>
+<td>2026-02-23</td>
+<td><a href="https://www.border-security-report.com/11-arrests-during-actions-against-fraudulent-call-centre/" target="_blank" rel="noopener noreferrer" title="https://www.border-security-report.com/11-arrests-during-actions-against-fraudulent-call-centre/" data-full-url="https://www.border-security-report.com/11-arrests-during-actions-against-fraudulent-call-centre/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>Eurojust Ukraine topic page - 11 arrests during actions against fraudulent call centre</td>
+<td>Eurojust</td>
+<td>2026-02-23</td>
+<td><a href="https://www.eurojust.europa.eu/term/ukraine?page=0" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/term/ukraine?page=0" data-full-url="https://www.eurojust.europa.eu/term/ukraine?page=0" class="external-link">Link</a></td>
+</tr>
+</tbody>
+</table></div>
         <div class="en-block"><h1 id="dnipro-fraudulent-call-centre-takedown-2026">Dnipro Fraudulent Call Centre Takedown (2026)</h1>
 <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Latvian, Lithuanian, and Ukrainian authorities, coordinated by <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>, dismantled a fraudulent call centre operating across three offices in Dnipro. The group used a fake cryptocurrency investment scheme, remote-access software, and bank and cryptocurrency transfer channels to take money from victims.</p>
